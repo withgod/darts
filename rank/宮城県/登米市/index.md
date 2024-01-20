@@ -17,13 +17,13 @@ ___
 |1|588|ろきそにんs|<a href="https://search.dartslive.com/jp/shop/4cac60f7aa2bf6670d9b047a20a7ba1e">small kitchen freedom</a>|<a href="/darts/rank/宮城県/登米市">宮城県登米市</a>|
 |2|498|Tom=3|<a href="https://search.dartslive.com/jp/shop/4cac60f7aa2bf6670d9b047a20a7ba1e">small kitchen freedom</a>|<a href="/darts/rank/宮城県/登米市">宮城県登米市</a>|
 |3|455|煌倖|<a href="https://search.dartslive.com/jp/shop/4cac60f7aa2bf6670d9b047a20a7ba1e">small kitchen freedom</a>|<a href="/darts/rank/宮城県/登米市">宮城県登米市</a>|
-|4|398|はがっち|<a href="https://search.dartslive.com/jp/shop/4cac60f7aa2bf6670d9b047a20a7ba1e">small kitchen freedom</a>|<a href="/darts/rank/宮城県/登米市">宮城県登米市</a>|
+|4|411|はがっち|<a href="https://search.dartslive.com/jp/shop/4cac60f7aa2bf6670d9b047a20a7ba1e">small kitchen freedom</a>|<a href="/darts/rank/宮城県/登米市">宮城県登米市</a>|
 
 
 
 ___
 
-_last update : 2024/01/20 21:54:13_
+_last update : 2024/01/21 03:05:49_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

@@ -30,14 +30,15 @@ ___
 |14|552|Sassa|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
 |15|524|コドゥー|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
 |16|519|おすず No.2|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|17|481|ちゃみデグ|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
-|18|204|てつとごま|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|17|501|-Hide-|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|18|481|ちゃみデグ|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
+|19|204|てつとごま|<a href="https://search.dartslive.com/jp/shop/73042967aaf0fb5c0d9b047a20a7ba1e">Dining Bar M'z</a>|<a href="/darts/rank/宮城県/多賀城市">宮城県多賀城市</a>|
 
 
 
 ___
 
-_last update : 2024/01/20 21:54:13_
+_last update : 2024/01/21 03:05:49_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

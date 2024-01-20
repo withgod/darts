@@ -46,14 +46,15 @@ ___
 |30|552|サヨノネイチヤ|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
 |31|523|HIDE【A.】|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
 |32|515|まっちゃ|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|33|467|微人|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
-|34|328|♡CHAN♡|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|33|483|らくねこ|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|34|467|微人|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
+|35|328|♡CHAN♡|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="/darts/rank/宮城県/気仙沼市">宮城県気仙沼市</a>|
 
 
 
 ___
 
-_last update : 2024/01/20 21:54:13_
+_last update : 2024/01/21 03:05:49_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
