@@ -14,19 +14,19 @@ ___
 {:.table-ranking}
 |ランク|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|903|ドS Asano|<a href="https://search.dartslive.com/jp/shop/b992898f19bbd9240d9b047a20a7ba1e">Bell</a>|<a href="宮城県/岩沼市">宮城県岩沼市</a>|
-|2|859|ペロ|<a href="https://search.dartslive.com/jp/shop/b992898f19bbd9240d9b047a20a7ba1e">Bell</a>|<a href="宮城県/岩沼市">宮城県岩沼市</a>|
-|3|487|はづき|<a href="https://search.dartslive.com/jp/shop/b992898f19bbd9240d9b047a20a7ba1e">Bell</a>|<a href="宮城県/岩沼市">宮城県岩沼市</a>|
-|4|481|チョロ(*´-`)|<a href="https://search.dartslive.com/jp/shop/b992898f19bbd9240d9b047a20a7ba1e">Bell</a>|<a href="宮城県/岩沼市">宮城県岩沼市</a>|
-|5|423|min|<a href="https://search.dartslive.com/jp/shop/b992898f19bbd9240d9b047a20a7ba1e">Bell</a>|<a href="宮城県/岩沼市">宮城県岩沼市</a>|
-|6|372|あり|<a href="https://search.dartslive.com/jp/shop/b992898f19bbd9240d9b047a20a7ba1e">Bell</a>|<a href="宮城県/岩沼市">宮城県岩沼市</a>|
-|7|287|えあち|<a href="https://search.dartslive.com/jp/shop/b992898f19bbd9240d9b047a20a7ba1e">Bell</a>|<a href="宮城県/岩沼市">宮城県岩沼市</a>|
+|1|903|ドS Asano|<a href="https://search.dartslive.com/jp/shop/b992898f19bbd9240d9b047a20a7ba1e">Bell</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|2|859|ペロ|<a href="https://search.dartslive.com/jp/shop/b992898f19bbd9240d9b047a20a7ba1e">Bell</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|3|487|はづき|<a href="https://search.dartslive.com/jp/shop/b992898f19bbd9240d9b047a20a7ba1e">Bell</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|4|481|チョロ(*´-`)|<a href="https://search.dartslive.com/jp/shop/b992898f19bbd9240d9b047a20a7ba1e">Bell</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|5|423|min|<a href="https://search.dartslive.com/jp/shop/b992898f19bbd9240d9b047a20a7ba1e">Bell</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|6|372|あり|<a href="https://search.dartslive.com/jp/shop/b992898f19bbd9240d9b047a20a7ba1e">Bell</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|7|287|えあち|<a href="https://search.dartslive.com/jp/shop/b992898f19bbd9240d9b047a20a7ba1e">Bell</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
 
 
 
 ___
 
-_last update : 2024/01/20 21:31:03_
+_last update : 2024/01/20 21:54:13_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

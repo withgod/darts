@@ -14,17 +14,17 @@ ___
 {:.table-ranking}
 |ランク|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|674|ビリヤード ma-ji|<a href="https://search.dartslive.com/jp/shop/e8747794807910435f9f3321c1147265">ma-ji</a>|<a href="沖縄県/浦添市">沖縄県浦添市</a>|
-|2|635|田郎丸|<a href="https://search.dartslive.com/jp/shop/e8747794807910435f9f3321c1147265">ma-ji</a>|<a href="沖縄県/浦添市">沖縄県浦添市</a>|
-|3|608|KOW|<a href="https://search.dartslive.com/jp/shop/e8747794807910435f9f3321c1147265">ma-ji</a>|<a href="沖縄県/浦添市">沖縄県浦添市</a>|
-|4|474|おもち@RDC|<a href="https://search.dartslive.com/jp/shop/e8747794807910435f9f3321c1147265">ma-ji</a>|<a href="沖縄県/浦添市">沖縄県浦添市</a>|
-|5|402|NO NAME 2327|<a href="https://search.dartslive.com/jp/shop/e8747794807910435f9f3321c1147265">ma-ji</a>|<a href="沖縄県/浦添市">沖縄県浦添市</a>|
+|1|674|ビリヤード ma-ji|<a href="https://search.dartslive.com/jp/shop/e8747794807910435f9f3321c1147265">ma-ji</a>|<a href="/darts/rank/沖縄県/浦添市">沖縄県浦添市</a>|
+|2|635|田郎丸|<a href="https://search.dartslive.com/jp/shop/e8747794807910435f9f3321c1147265">ma-ji</a>|<a href="/darts/rank/沖縄県/浦添市">沖縄県浦添市</a>|
+|3|608|KOW|<a href="https://search.dartslive.com/jp/shop/e8747794807910435f9f3321c1147265">ma-ji</a>|<a href="/darts/rank/沖縄県/浦添市">沖縄県浦添市</a>|
+|4|474|おもち@RDC|<a href="https://search.dartslive.com/jp/shop/e8747794807910435f9f3321c1147265">ma-ji</a>|<a href="/darts/rank/沖縄県/浦添市">沖縄県浦添市</a>|
+|5|402|NO NAME 2327|<a href="https://search.dartslive.com/jp/shop/e8747794807910435f9f3321c1147265">ma-ji</a>|<a href="/darts/rank/沖縄県/浦添市">沖縄県浦添市</a>|
 
 
 
 ___
 
-_last update : 2024/01/20 21:31:03_
+_last update : 2024/01/20 21:54:14_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

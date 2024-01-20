@@ -20,14 +20,16 @@ ___
 
 ### 注意書き
 
-* ランキング生成時に取得した当月＆前月の値を使ってます
-  * 定期更新してません
-* 同じ名前でも他人の可能性がありますが、同一店舗＆同じ名前はスコアが高い方だけ表示されます。
-* 別店舗の同名はそれぞれの店舗ごとに扱っています
+* ランキング生成時に取得した当月＆前月の値を使ってます。
+  * 高いほうだけ記録してます
+  * 定期更新してません。
+* 同じ名前でも他人の可能性がありますが、一つだけ表示します。
+  * 名前と店でUniqにしています
+  * 別店舗の同名はそれぞれの店舗ごとに扱います。
 
 ___
 
-_last update : 2024/01/20 21:31:03_
+_last update : 2024/01/20 21:54:13_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

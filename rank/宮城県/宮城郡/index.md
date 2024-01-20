@@ -14,24 +14,24 @@ ___
 {:.table-ranking}
 |ランク|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|899|ジョンさん|<a href="https://search.dartslive.com/jp/shop/43e74b47f08177150d9b047a20a7ba1e">七ヶ浜国際村</a>|<a href="宮城県/宮城郡">宮城県宮城郡</a>|
-|2|887|Mr.みやん|<a href="https://search.dartslive.com/jp/shop/43e74b47f08177150d9b047a20a7ba1e">七ヶ浜国際村</a>|<a href="宮城県/宮城郡">宮城県宮城郡</a>|
-|3|838|名前　たも(♂)|<a href="https://search.dartslive.com/jp/shop/43e74b47f08177150d9b047a20a7ba1e">七ヶ浜国際村</a>|<a href="宮城県/宮城郡">宮城県宮城郡</a>|
-|4|711|PONTAチャン|<a href="https://search.dartslive.com/jp/shop/43e74b47f08177150d9b047a20a7ba1e">七ヶ浜国際村</a>|<a href="宮城県/宮城郡">宮城県宮城郡</a>|
-|5|617|なまえ　(♂)たも|<a href="https://search.dartslive.com/jp/shop/43e74b47f08177150d9b047a20a7ba1e">七ヶ浜国際村</a>|<a href="宮城県/宮城郡">宮城県宮城郡</a>|
-|6|580|ホモちゃん|<a href="https://search.dartslive.com/jp/shop/43e74b47f08177150d9b047a20a7ba1e">七ヶ浜国際村</a>|<a href="宮城県/宮城郡">宮城県宮城郡</a>|
-|7|541|name tamo(♂)|<a href="https://search.dartslive.com/jp/shop/43e74b47f08177150d9b047a20a7ba1e">七ヶ浜国際村</a>|<a href="宮城県/宮城郡">宮城県宮城郡</a>|
-|8|538|(´･ω･`)|<a href="https://search.dartslive.com/jp/shop/43e74b47f08177150d9b047a20a7ba1e">七ヶ浜国際村</a>|<a href="宮城県/宮城郡">宮城県宮城郡</a>|
-|9|406|から|<a href="https://search.dartslive.com/jp/shop/43e74b47f08177150d9b047a20a7ba1e">七ヶ浜国際村</a>|<a href="宮城県/宮城郡">宮城県宮城郡</a>|
-|10|397|さゆみん|<a href="https://search.dartslive.com/jp/shop/43e74b47f08177150d9b047a20a7ba1e">七ヶ浜国際村</a>|<a href="宮城県/宮城郡">宮城県宮城郡</a>|
-|11|386|むしやき|<a href="https://search.dartslive.com/jp/shop/43e74b47f08177150d9b047a20a7ba1e">七ヶ浜国際村</a>|<a href="宮城県/宮城郡">宮城県宮城郡</a>|
-|12|336|さっしー|<a href="https://search.dartslive.com/jp/shop/43e74b47f08177150d9b047a20a7ba1e">七ヶ浜国際村</a>|<a href="宮城県/宮城郡">宮城県宮城郡</a>|
+|1|899|ジョンさん|<a href="https://search.dartslive.com/jp/shop/43e74b47f08177150d9b047a20a7ba1e">七ヶ浜国際村</a>|<a href="/darts/rank/宮城県/宮城郡">宮城県宮城郡</a>|
+|2|887|Mr.みやん|<a href="https://search.dartslive.com/jp/shop/43e74b47f08177150d9b047a20a7ba1e">七ヶ浜国際村</a>|<a href="/darts/rank/宮城県/宮城郡">宮城県宮城郡</a>|
+|3|838|名前　たも(♂)|<a href="https://search.dartslive.com/jp/shop/43e74b47f08177150d9b047a20a7ba1e">七ヶ浜国際村</a>|<a href="/darts/rank/宮城県/宮城郡">宮城県宮城郡</a>|
+|4|711|PONTAチャン|<a href="https://search.dartslive.com/jp/shop/43e74b47f08177150d9b047a20a7ba1e">七ヶ浜国際村</a>|<a href="/darts/rank/宮城県/宮城郡">宮城県宮城郡</a>|
+|5|617|なまえ　(♂)たも|<a href="https://search.dartslive.com/jp/shop/43e74b47f08177150d9b047a20a7ba1e">七ヶ浜国際村</a>|<a href="/darts/rank/宮城県/宮城郡">宮城県宮城郡</a>|
+|6|580|ホモちゃん|<a href="https://search.dartslive.com/jp/shop/43e74b47f08177150d9b047a20a7ba1e">七ヶ浜国際村</a>|<a href="/darts/rank/宮城県/宮城郡">宮城県宮城郡</a>|
+|7|541|name tamo(♂)|<a href="https://search.dartslive.com/jp/shop/43e74b47f08177150d9b047a20a7ba1e">七ヶ浜国際村</a>|<a href="/darts/rank/宮城県/宮城郡">宮城県宮城郡</a>|
+|8|538|(´･ω･`)|<a href="https://search.dartslive.com/jp/shop/43e74b47f08177150d9b047a20a7ba1e">七ヶ浜国際村</a>|<a href="/darts/rank/宮城県/宮城郡">宮城県宮城郡</a>|
+|9|406|から|<a href="https://search.dartslive.com/jp/shop/43e74b47f08177150d9b047a20a7ba1e">七ヶ浜国際村</a>|<a href="/darts/rank/宮城県/宮城郡">宮城県宮城郡</a>|
+|10|397|さゆみん|<a href="https://search.dartslive.com/jp/shop/43e74b47f08177150d9b047a20a7ba1e">七ヶ浜国際村</a>|<a href="/darts/rank/宮城県/宮城郡">宮城県宮城郡</a>|
+|11|386|むしやき|<a href="https://search.dartslive.com/jp/shop/43e74b47f08177150d9b047a20a7ba1e">七ヶ浜国際村</a>|<a href="/darts/rank/宮城県/宮城郡">宮城県宮城郡</a>|
+|12|336|さっしー|<a href="https://search.dartslive.com/jp/shop/43e74b47f08177150d9b047a20a7ba1e">七ヶ浜国際村</a>|<a href="/darts/rank/宮城県/宮城郡">宮城県宮城郡</a>|
 
 
 
 ___
 
-_last update : 2024/01/20 21:31:03_
+_last update : 2024/01/20 21:54:13_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

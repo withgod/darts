@@ -14,33 +14,33 @@ ___
 {:.table-ranking}
 |ランク|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1100|川上智史@C.C|<a href="https://search.dartslive.com/jp/shop/6cee1d555235cf390d9b047a20a7ba1e">Cafe Cozy</a>|<a href="和歌山県/西牟婁郡">和歌山県西牟婁郡</a>|
-|2|1051|川上 智史|<a href="https://search.dartslive.com/jp/shop/6cee1d555235cf390d9b047a20a7ba1e">Cafe Cozy</a>|<a href="和歌山県/西牟婁郡">和歌山県西牟婁郡</a>|
-|3|955|ﾃﾞｨｰﾌｼﾞｵｶ@MAG&#x27;s|<a href="https://search.dartslive.com/jp/shop/6cee1d555235cf390d9b047a20a7ba1e">Cafe Cozy</a>|<a href="和歌山県/西牟婁郡">和歌山県西牟婁郡</a>|
-|4|922|五百瀬明日香@C.C|<a href="https://search.dartslive.com/jp/shop/6cee1d555235cf390d9b047a20a7ba1e">Cafe Cozy</a>|<a href="和歌山県/西牟婁郡">和歌山県西牟婁郡</a>|
-|5|921|ﾃﾞｨｰﾌｼﾞｵｶ|<a href="https://search.dartslive.com/jp/shop/6cee1d555235cf390d9b047a20a7ba1e">Cafe Cozy</a>|<a href="和歌山県/西牟婁郡">和歌山県西牟婁郡</a>|
-|6|919|さばかん|<a href="https://search.dartslive.com/jp/shop/6cee1d555235cf390d9b047a20a7ba1e">Cafe Cozy</a>|<a href="和歌山県/西牟婁郡">和歌山県西牟婁郡</a>|
-|7|900|shandy@五百瀬組|<a href="https://search.dartslive.com/jp/shop/6cee1d555235cf390d9b047a20a7ba1e">Cafe Cozy</a>|<a href="和歌山県/西牟婁郡">和歌山県西牟婁郡</a>|
-|8|852|☆ケンタソ☆|<a href="https://search.dartslive.com/jp/shop/6cee1d555235cf390d9b047a20a7ba1e">Cafe Cozy</a>|<a href="和歌山県/西牟婁郡">和歌山県西牟婁郡</a>|
-|9|849|五百瀬 明日香|<a href="https://search.dartslive.com/jp/shop/6cee1d555235cf390d9b047a20a7ba1e">Cafe Cozy</a>|<a href="和歌山県/西牟婁郡">和歌山県西牟婁郡</a>|
-|10|766|★☆M.YAMADA☆★|<a href="https://search.dartslive.com/jp/shop/6cee1d555235cf390d9b047a20a7ba1e">Cafe Cozy</a>|<a href="和歌山県/西牟婁郡">和歌山県西牟婁郡</a>|
-|11|763|たいしょう|<a href="https://search.dartslive.com/jp/shop/6cee1d555235cf390d9b047a20a7ba1e">Cafe Cozy</a>|<a href="和歌山県/西牟婁郡">和歌山県西牟婁郡</a>|
-|12|761|おしゃん|<a href="https://search.dartslive.com/jp/shop/6cee1d555235cf390d9b047a20a7ba1e">Cafe Cozy</a>|<a href="和歌山県/西牟婁郡">和歌山県西牟婁郡</a>|
-|13|717|Яιску|<a href="https://search.dartslive.com/jp/shop/6cee1d555235cf390d9b047a20a7ba1e">Cafe Cozy</a>|<a href="和歌山県/西牟婁郡">和歌山県西牟婁郡</a>|
-|14|653|茄子|<a href="https://search.dartslive.com/jp/shop/6cee1d555235cf390d9b047a20a7ba1e">Cafe Cozy</a>|<a href="和歌山県/西牟婁郡">和歌山県西牟婁郡</a>|
-|15|611|おさゆ☪︎|<a href="https://search.dartslive.com/jp/shop/6cee1d555235cf390d9b047a20a7ba1e">Cafe Cozy</a>|<a href="和歌山県/西牟婁郡">和歌山県西牟婁郡</a>|
-|16|600|ゆめ|<a href="https://search.dartslive.com/jp/shop/6cee1d555235cf390d9b047a20a7ba1e">Cafe Cozy</a>|<a href="和歌山県/西牟婁郡">和歌山県西牟婁郡</a>|
-|17|581|syota|<a href="https://search.dartslive.com/jp/shop/6cee1d555235cf390d9b047a20a7ba1e">Cafe Cozy</a>|<a href="和歌山県/西牟婁郡">和歌山県西牟婁郡</a>|
-|18|577|ＤＯＳＳ†忘我|<a href="https://search.dartslive.com/jp/shop/6cee1d555235cf390d9b047a20a7ba1e">Cafe Cozy</a>|<a href="和歌山県/西牟婁郡">和歌山県西牟婁郡</a>|
-|19|533|RIKA|<a href="https://search.dartslive.com/jp/shop/6cee1d555235cf390d9b047a20a7ba1e">Cafe Cozy</a>|<a href="和歌山県/西牟婁郡">和歌山県西牟婁郡</a>|
-|20|516|あずやん|<a href="https://search.dartslive.com/jp/shop/6cee1d555235cf390d9b047a20a7ba1e">Cafe Cozy</a>|<a href="和歌山県/西牟婁郡">和歌山県西牟婁郡</a>|
-|21|461|あいか|<a href="https://search.dartslive.com/jp/shop/6cee1d555235cf390d9b047a20a7ba1e">Cafe Cozy</a>|<a href="和歌山県/西牟婁郡">和歌山県西牟婁郡</a>|
+|1|1100|川上智史@C.C|<a href="https://search.dartslive.com/jp/shop/6cee1d555235cf390d9b047a20a7ba1e">Cafe Cozy</a>|<a href="/darts/rank/和歌山県/西牟婁郡">和歌山県西牟婁郡</a>|
+|2|1051|川上 智史|<a href="https://search.dartslive.com/jp/shop/6cee1d555235cf390d9b047a20a7ba1e">Cafe Cozy</a>|<a href="/darts/rank/和歌山県/西牟婁郡">和歌山県西牟婁郡</a>|
+|3|955|ﾃﾞｨｰﾌｼﾞｵｶ@MAG&#x27;s|<a href="https://search.dartslive.com/jp/shop/6cee1d555235cf390d9b047a20a7ba1e">Cafe Cozy</a>|<a href="/darts/rank/和歌山県/西牟婁郡">和歌山県西牟婁郡</a>|
+|4|922|五百瀬明日香@C.C|<a href="https://search.dartslive.com/jp/shop/6cee1d555235cf390d9b047a20a7ba1e">Cafe Cozy</a>|<a href="/darts/rank/和歌山県/西牟婁郡">和歌山県西牟婁郡</a>|
+|5|921|ﾃﾞｨｰﾌｼﾞｵｶ|<a href="https://search.dartslive.com/jp/shop/6cee1d555235cf390d9b047a20a7ba1e">Cafe Cozy</a>|<a href="/darts/rank/和歌山県/西牟婁郡">和歌山県西牟婁郡</a>|
+|6|919|さばかん|<a href="https://search.dartslive.com/jp/shop/6cee1d555235cf390d9b047a20a7ba1e">Cafe Cozy</a>|<a href="/darts/rank/和歌山県/西牟婁郡">和歌山県西牟婁郡</a>|
+|7|900|shandy@五百瀬組|<a href="https://search.dartslive.com/jp/shop/6cee1d555235cf390d9b047a20a7ba1e">Cafe Cozy</a>|<a href="/darts/rank/和歌山県/西牟婁郡">和歌山県西牟婁郡</a>|
+|8|852|☆ケンタソ☆|<a href="https://search.dartslive.com/jp/shop/6cee1d555235cf390d9b047a20a7ba1e">Cafe Cozy</a>|<a href="/darts/rank/和歌山県/西牟婁郡">和歌山県西牟婁郡</a>|
+|9|849|五百瀬 明日香|<a href="https://search.dartslive.com/jp/shop/6cee1d555235cf390d9b047a20a7ba1e">Cafe Cozy</a>|<a href="/darts/rank/和歌山県/西牟婁郡">和歌山県西牟婁郡</a>|
+|10|766|★☆M.YAMADA☆★|<a href="https://search.dartslive.com/jp/shop/6cee1d555235cf390d9b047a20a7ba1e">Cafe Cozy</a>|<a href="/darts/rank/和歌山県/西牟婁郡">和歌山県西牟婁郡</a>|
+|11|763|たいしょう|<a href="https://search.dartslive.com/jp/shop/6cee1d555235cf390d9b047a20a7ba1e">Cafe Cozy</a>|<a href="/darts/rank/和歌山県/西牟婁郡">和歌山県西牟婁郡</a>|
+|12|761|おしゃん|<a href="https://search.dartslive.com/jp/shop/6cee1d555235cf390d9b047a20a7ba1e">Cafe Cozy</a>|<a href="/darts/rank/和歌山県/西牟婁郡">和歌山県西牟婁郡</a>|
+|13|717|Яιску|<a href="https://search.dartslive.com/jp/shop/6cee1d555235cf390d9b047a20a7ba1e">Cafe Cozy</a>|<a href="/darts/rank/和歌山県/西牟婁郡">和歌山県西牟婁郡</a>|
+|14|653|茄子|<a href="https://search.dartslive.com/jp/shop/6cee1d555235cf390d9b047a20a7ba1e">Cafe Cozy</a>|<a href="/darts/rank/和歌山県/西牟婁郡">和歌山県西牟婁郡</a>|
+|15|611|おさゆ☪︎|<a href="https://search.dartslive.com/jp/shop/6cee1d555235cf390d9b047a20a7ba1e">Cafe Cozy</a>|<a href="/darts/rank/和歌山県/西牟婁郡">和歌山県西牟婁郡</a>|
+|16|600|ゆめ|<a href="https://search.dartslive.com/jp/shop/6cee1d555235cf390d9b047a20a7ba1e">Cafe Cozy</a>|<a href="/darts/rank/和歌山県/西牟婁郡">和歌山県西牟婁郡</a>|
+|17|581|syota|<a href="https://search.dartslive.com/jp/shop/6cee1d555235cf390d9b047a20a7ba1e">Cafe Cozy</a>|<a href="/darts/rank/和歌山県/西牟婁郡">和歌山県西牟婁郡</a>|
+|18|577|ＤＯＳＳ†忘我|<a href="https://search.dartslive.com/jp/shop/6cee1d555235cf390d9b047a20a7ba1e">Cafe Cozy</a>|<a href="/darts/rank/和歌山県/西牟婁郡">和歌山県西牟婁郡</a>|
+|19|533|RIKA|<a href="https://search.dartslive.com/jp/shop/6cee1d555235cf390d9b047a20a7ba1e">Cafe Cozy</a>|<a href="/darts/rank/和歌山県/西牟婁郡">和歌山県西牟婁郡</a>|
+|20|516|あずやん|<a href="https://search.dartslive.com/jp/shop/6cee1d555235cf390d9b047a20a7ba1e">Cafe Cozy</a>|<a href="/darts/rank/和歌山県/西牟婁郡">和歌山県西牟婁郡</a>|
+|21|461|あいか|<a href="https://search.dartslive.com/jp/shop/6cee1d555235cf390d9b047a20a7ba1e">Cafe Cozy</a>|<a href="/darts/rank/和歌山県/西牟婁郡">和歌山県西牟婁郡</a>|
 
 
 
 ___
 
-_last update : 2024/01/20 21:31:03_
+_last update : 2024/01/20 21:54:14_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

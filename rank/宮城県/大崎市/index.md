@@ -14,17 +14,17 @@ ___
 {:.table-ranking}
 |ランク|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|536|Yuhei|<a href="https://search.dartslive.com/jp/shop/e9b324552d01015a0d9b047a20a7ba1e">インサイド</a>|<a href="宮城県/大崎市">宮城県大崎市</a>|
-|2|367|うさ丸|<a href="https://search.dartslive.com/jp/shop/e9b324552d01015a0d9b047a20a7ba1e">インサイド</a>|<a href="宮城県/大崎市">宮城県大崎市</a>|
-|3|358|五本丸|<a href="https://search.dartslive.com/jp/shop/e9b324552d01015a0d9b047a20a7ba1e">インサイド</a>|<a href="宮城県/大崎市">宮城県大崎市</a>|
-|4|354|こーた|<a href="https://search.dartslive.com/jp/shop/e9b324552d01015a0d9b047a20a7ba1e">インサイド</a>|<a href="宮城県/大崎市">宮城県大崎市</a>|
-|5|317|NAOKI|<a href="https://search.dartslive.com/jp/shop/e9b324552d01015a0d9b047a20a7ba1e">インサイド</a>|<a href="宮城県/大崎市">宮城県大崎市</a>|
+|1|536|Yuhei|<a href="https://search.dartslive.com/jp/shop/e9b324552d01015a0d9b047a20a7ba1e">インサイド</a>|<a href="/darts/rank/宮城県/大崎市">宮城県大崎市</a>|
+|2|367|うさ丸|<a href="https://search.dartslive.com/jp/shop/e9b324552d01015a0d9b047a20a7ba1e">インサイド</a>|<a href="/darts/rank/宮城県/大崎市">宮城県大崎市</a>|
+|3|358|五本丸|<a href="https://search.dartslive.com/jp/shop/e9b324552d01015a0d9b047a20a7ba1e">インサイド</a>|<a href="/darts/rank/宮城県/大崎市">宮城県大崎市</a>|
+|4|354|こーた|<a href="https://search.dartslive.com/jp/shop/e9b324552d01015a0d9b047a20a7ba1e">インサイド</a>|<a href="/darts/rank/宮城県/大崎市">宮城県大崎市</a>|
+|5|317|NAOKI|<a href="https://search.dartslive.com/jp/shop/e9b324552d01015a0d9b047a20a7ba1e">インサイド</a>|<a href="/darts/rank/宮城県/大崎市">宮城県大崎市</a>|
 
 
 
 ___
 
-_last update : 2024/01/20 21:31:03_
+_last update : 2024/01/20 21:54:13_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

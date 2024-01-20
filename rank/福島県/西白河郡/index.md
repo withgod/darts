@@ -14,23 +14,23 @@ ___
 {:.table-ranking}
 |ランク|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|743|トミーBAR Dream|<a href="https://search.dartslive.com/jp/shop/0468c81751098beb0d9b047a20a7ba1e">なんちゃってBAR Dream</a>|<a href="福島県/西白河郡">福島県西白河郡</a>|
-|2|737|Tominaga☆Dream|<a href="https://search.dartslive.com/jp/shop/0468c81751098beb0d9b047a20a7ba1e">なんちゃってBAR Dream</a>|<a href="福島県/西白河郡">福島県西白河郡</a>|
-|3|729|裕太・【α】|<a href="https://search.dartslive.com/jp/shop/0468c81751098beb0d9b047a20a7ba1e">なんちゃってBAR Dream</a>|<a href="福島県/西白河郡">福島県西白河郡</a>|
-|4|684|RooK|<a href="https://search.dartslive.com/jp/shop/0468c81751098beb0d9b047a20a7ba1e">なんちゃってBAR Dream</a>|<a href="福島県/西白河郡">福島県西白河郡</a>|
-|5|662|初代　HAKU|<a href="https://search.dartslive.com/jp/shop/0468c81751098beb0d9b047a20a7ba1e">なんちゃってBAR Dream</a>|<a href="福島県/西白河郡">福島県西白河郡</a>|
-|6|645|加寿|<a href="https://search.dartslive.com/jp/shop/0468c81751098beb0d9b047a20a7ba1e">なんちゃってBAR Dream</a>|<a href="福島県/西白河郡">福島県西白河郡</a>|
-|7|635|Tukasa@NEO|<a href="https://search.dartslive.com/jp/shop/0468c81751098beb0d9b047a20a7ba1e">なんちゃってBAR Dream</a>|<a href="福島県/西白河郡">福島県西白河郡</a>|
-|8|583|Nami❤︎.*|<a href="https://search.dartslive.com/jp/shop/0468c81751098beb0d9b047a20a7ba1e">なんちゃってBAR Dream</a>|<a href="福島県/西白河郡">福島県西白河郡</a>|
-|9|513|『 』|<a href="https://search.dartslive.com/jp/shop/0468c81751098beb0d9b047a20a7ba1e">なんちゃってBAR Dream</a>|<a href="福島県/西白河郡">福島県西白河郡</a>|
-|10|470|Hiro|<a href="https://search.dartslive.com/jp/shop/0468c81751098beb0d9b047a20a7ba1e">なんちゃってBAR Dream</a>|<a href="福島県/西白河郡">福島県西白河郡</a>|
-|11|415|純Ai|<a href="https://search.dartslive.com/jp/shop/0468c81751098beb0d9b047a20a7ba1e">なんちゃってBAR Dream</a>|<a href="福島県/西白河郡">福島県西白河郡</a>|
+|1|743|トミーBAR Dream|<a href="https://search.dartslive.com/jp/shop/0468c81751098beb0d9b047a20a7ba1e">なんちゃってBAR Dream</a>|<a href="/darts/rank/福島県/西白河郡">福島県西白河郡</a>|
+|2|737|Tominaga☆Dream|<a href="https://search.dartslive.com/jp/shop/0468c81751098beb0d9b047a20a7ba1e">なんちゃってBAR Dream</a>|<a href="/darts/rank/福島県/西白河郡">福島県西白河郡</a>|
+|3|729|裕太・【α】|<a href="https://search.dartslive.com/jp/shop/0468c81751098beb0d9b047a20a7ba1e">なんちゃってBAR Dream</a>|<a href="/darts/rank/福島県/西白河郡">福島県西白河郡</a>|
+|4|684|RooK|<a href="https://search.dartslive.com/jp/shop/0468c81751098beb0d9b047a20a7ba1e">なんちゃってBAR Dream</a>|<a href="/darts/rank/福島県/西白河郡">福島県西白河郡</a>|
+|5|662|初代　HAKU|<a href="https://search.dartslive.com/jp/shop/0468c81751098beb0d9b047a20a7ba1e">なんちゃってBAR Dream</a>|<a href="/darts/rank/福島県/西白河郡">福島県西白河郡</a>|
+|6|645|加寿|<a href="https://search.dartslive.com/jp/shop/0468c81751098beb0d9b047a20a7ba1e">なんちゃってBAR Dream</a>|<a href="/darts/rank/福島県/西白河郡">福島県西白河郡</a>|
+|7|635|Tukasa@NEO|<a href="https://search.dartslive.com/jp/shop/0468c81751098beb0d9b047a20a7ba1e">なんちゃってBAR Dream</a>|<a href="/darts/rank/福島県/西白河郡">福島県西白河郡</a>|
+|8|583|Nami❤︎.*|<a href="https://search.dartslive.com/jp/shop/0468c81751098beb0d9b047a20a7ba1e">なんちゃってBAR Dream</a>|<a href="/darts/rank/福島県/西白河郡">福島県西白河郡</a>|
+|9|513|『 』|<a href="https://search.dartslive.com/jp/shop/0468c81751098beb0d9b047a20a7ba1e">なんちゃってBAR Dream</a>|<a href="/darts/rank/福島県/西白河郡">福島県西白河郡</a>|
+|10|470|Hiro|<a href="https://search.dartslive.com/jp/shop/0468c81751098beb0d9b047a20a7ba1e">なんちゃってBAR Dream</a>|<a href="/darts/rank/福島県/西白河郡">福島県西白河郡</a>|
+|11|415|純Ai|<a href="https://search.dartslive.com/jp/shop/0468c81751098beb0d9b047a20a7ba1e">なんちゃってBAR Dream</a>|<a href="/darts/rank/福島県/西白河郡">福島県西白河郡</a>|
 
 
 
 ___
 
-_last update : 2024/01/20 21:31:03_
+_last update : 2024/01/20 21:54:14_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

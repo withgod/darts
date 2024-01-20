@@ -14,32 +14,32 @@ ___
 {:.table-ranking}
 |ランク|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|970|まいまい|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="福島県/会津若松市">福島県会津若松市</a>|
-|2|948|FU-TAUNI|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="福島県/会津若松市">福島県会津若松市</a>|
-|3|944|やまいち|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="福島県/会津若松市">福島県会津若松市</a>|
-|4|925|中小企業|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="福島県/会津若松市">福島県会津若松市</a>|
-|5|919|榊|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="福島県/会津若松市">福島県会津若松市</a>|
-|6|881|酔いどれなるるん|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="福島県/会津若松市">福島県会津若松市</a>|
-|7|880|ゆーた|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="福島県/会津若松市">福島県会津若松市</a>|
-|7|880|渡部 和知|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="福島県/会津若松市">福島県会津若松市</a>|
-|9|868|ロックス|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="福島県/会津若松市">福島県会津若松市</a>|
-|10|854|ひこ|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="福島県/会津若松市">福島県会津若松市</a>|
-|11|851|370|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="福島県/会津若松市">福島県会津若松市</a>|
-|12|843|じょー|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="福島県/会津若松市">福島県会津若松市</a>|
-|13|815|ねも(ノﾟOﾟ)ノ|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="福島県/会津若松市">福島県会津若松市</a>|
-|14|640|*･kana･*|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="福島県/会津若松市">福島県会津若松市</a>|
-|15|614|にゃんた姫|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="福島県/会津若松市">福島県会津若松市</a>|
-|16|609|(♡) むち子。|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="福島県/会津若松市">福島県会津若松市</a>|
-|17|555|千里の道も|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="福島県/会津若松市">福島県会津若松市</a>|
-|18|474|mitcho|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="福島県/会津若松市">福島県会津若松市</a>|
-|19|455|ふーか|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="福島県/会津若松市">福島県会津若松市</a>|
-|20|316|ぎゃる|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="福島県/会津若松市">福島県会津若松市</a>|
+|1|970|まいまい|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|2|948|FU-TAUNI|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|3|944|やまいち|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|4|925|中小企業|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|5|919|榊|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|6|881|酔いどれなるるん|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|7|880|ゆーた|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|7|880|渡部 和知|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|9|868|ロックス|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|10|854|ひこ|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|11|851|370|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|12|843|じょー|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|13|815|ねも(ノﾟOﾟ)ノ|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|14|640|*･kana･*|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|15|614|にゃんた姫|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|16|609|(♡) むち子。|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|17|555|千里の道も|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|18|474|mitcho|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|19|455|ふーか|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|20|316|ぎゃる|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
 
 
 
 ___
 
-_last update : 2024/01/20 21:31:03_
+_last update : 2024/01/20 21:54:14_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

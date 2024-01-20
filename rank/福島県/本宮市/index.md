@@ -14,17 +14,17 @@ ___
 {:.table-ranking}
 |ランク|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|934|のりっきぃ＊雪民|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="福島県/本宮市">福島県本宮市</a>|
-|2|887|⇋OMA⇌|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="福島県/本宮市">福島県本宮市</a>|
-|3|759|H.NOUCHI＠TBS|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="福島県/本宮市">福島県本宮市</a>|
-|4|423|NO NAME 8208|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="福島県/本宮市">福島県本宮市</a>|
-|5|392|yuta|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="福島県/本宮市">福島県本宮市</a>|
+|1|934|のりっきぃ＊雪民|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
+|2|887|⇋OMA⇌|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
+|3|759|H.NOUCHI＠TBS|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
+|4|423|NO NAME 8208|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
+|5|392|yuta|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
 
 
 
 ___
 
-_last update : 2024/01/20 21:31:03_
+_last update : 2024/01/20 21:54:14_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

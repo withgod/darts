@@ -14,18 +14,18 @@ ___
 {:.table-ranking}
 |ランク|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|665|ぼっく|<a href="https://search.dartslive.com/jp/shop/418f06cb96f1fd380d9b047a20a7ba1e">BE BRAVE</a>|<a href="宮城県/塩竈市">宮城県塩竈市</a>|
-|2|622|還暦ジジィ|<a href="https://search.dartslive.com/jp/shop/418f06cb96f1fd380d9b047a20a7ba1e">BE BRAVE</a>|<a href="宮城県/塩竈市">宮城県塩竈市</a>|
-|3|611|∽FUKU∽|<a href="https://search.dartslive.com/jp/shop/418f06cb96f1fd380d9b047a20a7ba1e">BE BRAVE</a>|<a href="宮城県/塩竈市">宮城県塩竈市</a>|
-|4|534|∞ⓂⒶⓃⒶ∞|<a href="https://search.dartslive.com/jp/shop/418f06cb96f1fd380d9b047a20a7ba1e">BE BRAVE</a>|<a href="宮城県/塩竈市">宮城県塩竈市</a>|
-|5|520|moto|<a href="https://search.dartslive.com/jp/shop/418f06cb96f1fd380d9b047a20a7ba1e">BE BRAVE</a>|<a href="宮城県/塩竈市">宮城県塩竈市</a>|
-|6|433|おとうさん|<a href="https://search.dartslive.com/jp/shop/418f06cb96f1fd380d9b047a20a7ba1e">BE BRAVE</a>|<a href="宮城県/塩竈市">宮城県塩竈市</a>|
+|1|665|ぼっく|<a href="https://search.dartslive.com/jp/shop/418f06cb96f1fd380d9b047a20a7ba1e">BE BRAVE</a>|<a href="/darts/rank/宮城県/塩竈市">宮城県塩竈市</a>|
+|2|622|還暦ジジィ|<a href="https://search.dartslive.com/jp/shop/418f06cb96f1fd380d9b047a20a7ba1e">BE BRAVE</a>|<a href="/darts/rank/宮城県/塩竈市">宮城県塩竈市</a>|
+|3|611|∽FUKU∽|<a href="https://search.dartslive.com/jp/shop/418f06cb96f1fd380d9b047a20a7ba1e">BE BRAVE</a>|<a href="/darts/rank/宮城県/塩竈市">宮城県塩竈市</a>|
+|4|534|∞ⓂⒶⓃⒶ∞|<a href="https://search.dartslive.com/jp/shop/418f06cb96f1fd380d9b047a20a7ba1e">BE BRAVE</a>|<a href="/darts/rank/宮城県/塩竈市">宮城県塩竈市</a>|
+|5|520|moto|<a href="https://search.dartslive.com/jp/shop/418f06cb96f1fd380d9b047a20a7ba1e">BE BRAVE</a>|<a href="/darts/rank/宮城県/塩竈市">宮城県塩竈市</a>|
+|6|433|おとうさん|<a href="https://search.dartslive.com/jp/shop/418f06cb96f1fd380d9b047a20a7ba1e">BE BRAVE</a>|<a href="/darts/rank/宮城県/塩竈市">宮城県塩竈市</a>|
 
 
 
 ___
 
-_last update : 2024/01/20 21:31:03_
+_last update : 2024/01/20 21:54:13_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
