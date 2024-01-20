@@ -3,7 +3,7 @@ title: DARTSLIVE AREA RANKING | 和歌山県
 ---
 ## DARTSLIVE AREA RANKING | 和歌山県
 
-[TOP](/rank/) > 和歌山県
+[TOP](/darts/rank/) > 和歌山県
 
 ___
 
@@ -12,11 +12,11 @@ ___
 ### 市区町村
 
 <ul>
-<li style="display: inline;"><a href="/rank/和歌山県/和歌山市">和歌山市</a> |</li>
-<li style="display: inline;"><a href="/rank/和歌山県/岩出市">岩出市</a> |</li>
-<li style="display: inline;"><a href="/rank/和歌山県/新宮市">新宮市</a> |</li>
-<li style="display: inline;"><a href="/rank/和歌山県/東牟婁郡">東牟婁郡</a> |</li>
-<li style="display: inline;"><a href="/rank/和歌山県/西牟婁郡">西牟婁郡</a> |</li>
+<li style="display: inline;"><a href="/darts/rank/和歌山県/和歌山市">和歌山市</a> |</li>
+<li style="display: inline;"><a href="/darts/rank/和歌山県/岩出市">岩出市</a> |</li>
+<li style="display: inline;"><a href="/darts/rank/和歌山県/新宮市">新宮市</a> |</li>
+<li style="display: inline;"><a href="/darts/rank/和歌山県/東牟婁郡">東牟婁郡</a> |</li>
+<li style="display: inline;"><a href="/darts/rank/和歌山県/西牟婁郡">西牟婁郡</a> |</li>
 
 </ul>
 
@@ -128,6 +128,9 @@ ___
 
 
 
+
+
+___
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

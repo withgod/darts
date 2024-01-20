@@ -3,7 +3,7 @@ title: DARTSLIVE AREA RANKING | 和歌山県 | 西牟婁郡
 ---
 ## DARTSLIVE AREA RANKING | 和歌山県 | 西牟婁郡
 
-[TOP](/rank/) > [和歌山県](/rank/和歌山県/) > 西牟婁郡
+[TOP](/darts/rank/) > [和歌山県](/darts/rank/和歌山県/) > 西牟婁郡
 
 ___
 
@@ -36,6 +36,9 @@ ___
 |20|516|あずやん|<a href="https://search.dartslive.com/jp/shop/6cee1d555235cf390d9b047a20a7ba1e">Cafe Cozy</a>|<a href="和歌山県/西牟婁郡">和歌山県西牟婁郡</a>|
 |21|461|あいか|<a href="https://search.dartslive.com/jp/shop/6cee1d555235cf390d9b047a20a7ba1e">Cafe Cozy</a>|<a href="和歌山県/西牟婁郡">和歌山県西牟婁郡</a>|
 
+
+
+___
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

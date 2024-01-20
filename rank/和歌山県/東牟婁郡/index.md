@@ -3,7 +3,7 @@ title: DARTSLIVE AREA RANKING | 和歌山県 | 東牟婁郡
 ---
 ## DARTSLIVE AREA RANKING | 和歌山県 | 東牟婁郡
 
-[TOP](/rank/) > [和歌山県](/rank/和歌山県/) > 東牟婁郡
+[TOP](/darts/rank/) > [和歌山県](/darts/rank/和歌山県/) > 東牟婁郡
 
 ___
 
@@ -15,6 +15,9 @@ ___
 |ランク|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 
+
+
+___
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

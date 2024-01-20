@@ -3,7 +3,7 @@ title: DARTSLIVE AREA RANKING | 和歌山県 | 和歌山市
 ---
 ## DARTSLIVE AREA RANKING | 和歌山県 | 和歌山市
 
-[TOP](/rank/) > [和歌山県](/rank/和歌山県/) > 和歌山市
+[TOP](/darts/rank/) > [和歌山県](/darts/rank/和歌山県/) > 和歌山市
 
 ___
 
@@ -84,37 +84,40 @@ ___
 |68|656|Tomo__03|<a href="https://search.dartslive.com/jp/shop/27a8358ad1b646b4774c926eb736cb5a">快活CLUB 紀ノ川大橋店</a>|<a href="和歌山県/和歌山市">和歌山県和歌山市</a>|
 |69|649|なっさん。&#x27;23|<a href="https://search.dartslive.com/jp/shop/ffc01a6091aa08db0d9b047a20a7ba1e">DARTS & BILLIARD NINE</a>|<a href="和歌山県/和歌山市">和歌山県和歌山市</a>|
 |70|648|Kusu|<a href="https://search.dartslive.com/jp/shop/27a8358ad1b646b4774c926eb736cb5a">快活CLUB 紀ノ川大橋店</a>|<a href="和歌山県/和歌山市">和歌山県和歌山市</a>|
-|71|619|kaho|<a href="https://search.dartslive.com/jp/shop/27a8358ad1b646b4774c926eb736cb5a">快活CLUB 紀ノ川大橋店</a>|<a href="和歌山県/和歌山市">和歌山県和歌山市</a>|
-|72|615|MAKI8935|<a href="https://search.dartslive.com/jp/shop/fb5d65de23c5d0960d9b047a20a7ba1e">ラウンドワン和歌山店</a>|<a href="和歌山県/和歌山市">和歌山県和歌山市</a>|
-|73|614|かかりそ|<a href="https://search.dartslive.com/jp/shop/fb5d65de23c5d0960d9b047a20a7ba1e">ラウンドワン和歌山店</a>|<a href="和歌山県/和歌山市">和歌山県和歌山市</a>|
-|74|597|2|<a href="https://search.dartslive.com/jp/shop/27a8358ad1b646b4774c926eb736cb5a">快活CLUB 紀ノ川大橋店</a>|<a href="和歌山県/和歌山市">和歌山県和歌山市</a>|
-|75|595|りえさん2929|<a href="https://search.dartslive.com/jp/shop/27a8358ad1b646b4774c926eb736cb5a">快活CLUB 紀ノ川大橋店</a>|<a href="和歌山県/和歌山市">和歌山県和歌山市</a>|
-|76|590|べーしょー|<a href="https://search.dartslive.com/jp/shop/2d5f7da086f463790d9b047a20a7ba1e">JOKER</a>|<a href="和歌山県/和歌山市">和歌山県和歌山市</a>|
-|77|588|ゆめ|<a href="https://search.dartslive.com/jp/shop/fb5d65de23c5d0960d9b047a20a7ba1e">ラウンドワン和歌山店</a>|<a href="和歌山県/和歌山市">和歌山県和歌山市</a>|
-|78|587|おさゆ☪︎|<a href="https://search.dartslive.com/jp/shop/2d5f7da086f463790d9b047a20a7ba1e">JOKER</a>|<a href="和歌山県/和歌山市">和歌山県和歌山市</a>|
-|79|580|ゆめ|<a href="https://search.dartslive.com/jp/shop/ffc01a6091aa08db0d9b047a20a7ba1e">DARTS & BILLIARD NINE</a>|<a href="和歌山県/和歌山市">和歌山県和歌山市</a>|
-|80|572|5時まで営業中|<a href="https://search.dartslive.com/jp/shop/ffc01a6091aa08db0d9b047a20a7ba1e">DARTS & BILLIARD NINE</a>|<a href="和歌山県/和歌山市">和歌山県和歌山市</a>|
-|81|556|めけめけﾌｪﾚｯﾄ|<a href="https://search.dartslive.com/jp/shop/27a8358ad1b646b4774c926eb736cb5a">快活CLUB 紀ノ川大橋店</a>|<a href="和歌山県/和歌山市">和歌山県和歌山市</a>|
-|82|547|なっさん。&#x27;23|<a href="https://search.dartslive.com/jp/shop/fb5d65de23c5d0960d9b047a20a7ba1e">ラウンドワン和歌山店</a>|<a href="和歌山県/和歌山市">和歌山県和歌山市</a>|
-|82|547|ゆっきぃ【本物】|<a href="https://search.dartslive.com/jp/shop/2d5f7da086f463790d9b047a20a7ba1e">JOKER</a>|<a href="和歌山県/和歌山市">和歌山県和歌山市</a>|
-|84|530|H!ROAK!＠B.P|<a href="https://search.dartslive.com/jp/shop/2d5f7da086f463790d9b047a20a7ba1e">JOKER</a>|<a href="和歌山県/和歌山市">和歌山県和歌山市</a>|
-|85|521|IZU|<a href="https://search.dartslive.com/jp/shop/ffc01a6091aa08db0d9b047a20a7ba1e">DARTS & BILLIARD NINE</a>|<a href="和歌山県/和歌山市">和歌山県和歌山市</a>|
-|85|521|aryaya.23/10/1〜|<a href="https://search.dartslive.com/jp/shop/fb5d65de23c5d0960d9b047a20a7ba1e">ラウンドワン和歌山店</a>|<a href="和歌山県/和歌山市">和歌山県和歌山市</a>|
-|87|520|2|<a href="https://search.dartslive.com/jp/shop/fb5d65de23c5d0960d9b047a20a7ba1e">ラウンドワン和歌山店</a>|<a href="和歌山県/和歌山市">和歌山県和歌山市</a>|
-|88|519|おやさい114|<a href="https://search.dartslive.com/jp/shop/fb5d65de23c5d0960d9b047a20a7ba1e">ラウンドワン和歌山店</a>|<a href="和歌山県/和歌山市">和歌山県和歌山市</a>|
-|89|515|なまけもの|<a href="https://search.dartslive.com/jp/shop/ffc01a6091aa08db0d9b047a20a7ba1e">DARTS & BILLIARD NINE</a>|<a href="和歌山県/和歌山市">和歌山県和歌山市</a>|
-|90|513|aryaya.23/10/1〜|<a href="https://search.dartslive.com/jp/shop/27a8358ad1b646b4774c926eb736cb5a">快活CLUB 紀ノ川大橋店</a>|<a href="和歌山県/和歌山市">和歌山県和歌山市</a>|
-|91|507|え(˶&#x27;ᵕ&#x27;˶ )︎|<a href="https://search.dartslive.com/jp/shop/fb5d65de23c5d0960d9b047a20a7ba1e">ラウンドワン和歌山店</a>|<a href="和歌山県/和歌山市">和歌山県和歌山市</a>|
-|92|505|なまけもの|<a href="https://search.dartslive.com/jp/shop/27a8358ad1b646b4774c926eb736cb5a">快活CLUB 紀ノ川大橋店</a>|<a href="和歌山県/和歌山市">和歌山県和歌山市</a>|
-|93|500|おやさい114|<a href="https://search.dartslive.com/jp/shop/27a8358ad1b646b4774c926eb736cb5a">快活CLUB 紀ノ川大橋店</a>|<a href="和歌山県/和歌山市">和歌山県和歌山市</a>|
-|94|498|**miniMAI-PARO**|<a href="https://search.dartslive.com/jp/shop/27a8358ad1b646b4774c926eb736cb5a">快活CLUB 紀ノ川大橋店</a>|<a href="和歌山県/和歌山市">和歌山県和歌山市</a>|
-|95|497|★Ｍadoka★|<a href="https://search.dartslive.com/jp/shop/ffc01a6091aa08db0d9b047a20a7ba1e">DARTS & BILLIARD NINE</a>|<a href="和歌山県/和歌山市">和歌山県和歌山市</a>|
-|96|496|JOKERヒロ|<a href="https://search.dartslive.com/jp/shop/2d5f7da086f463790d9b047a20a7ba1e">JOKER</a>|<a href="和歌山県/和歌山市">和歌山県和歌山市</a>|
-|97|478|りえさん2929|<a href="https://search.dartslive.com/jp/shop/fb5d65de23c5d0960d9b047a20a7ba1e">ラウンドワン和歌山店</a>|<a href="和歌山県/和歌山市">和歌山県和歌山市</a>|
-|98|473|TeamABCはるさめ|<a href="https://search.dartslive.com/jp/shop/fb5d65de23c5d0960d9b047a20a7ba1e">ラウンドワン和歌山店</a>|<a href="和歌山県/和歌山市">和歌山県和歌山市</a>|
-|99|469|しお|<a href="https://search.dartslive.com/jp/shop/fb5d65de23c5d0960d9b047a20a7ba1e">ラウンドワン和歌山店</a>|<a href="和歌山県/和歌山市">和歌山県和歌山市</a>|
-|100|431|ナナコロビ矢吹|<a href="https://search.dartslive.com/jp/shop/2d5f7da086f463790d9b047a20a7ba1e">JOKER</a>|<a href="和歌山県/和歌山市">和歌山県和歌山市</a>|
+|71|637|サイモン|<a href="https://search.dartslive.com/jp/shop/27a8358ad1b646b4774c926eb736cb5a">快活CLUB 紀ノ川大橋店</a>|<a href="和歌山県/和歌山市">和歌山県和歌山市</a>|
+|72|619|kaho|<a href="https://search.dartslive.com/jp/shop/27a8358ad1b646b4774c926eb736cb5a">快活CLUB 紀ノ川大橋店</a>|<a href="和歌山県/和歌山市">和歌山県和歌山市</a>|
+|73|615|MAKI8935|<a href="https://search.dartslive.com/jp/shop/fb5d65de23c5d0960d9b047a20a7ba1e">ラウンドワン和歌山店</a>|<a href="和歌山県/和歌山市">和歌山県和歌山市</a>|
+|74|614|かかりそ|<a href="https://search.dartslive.com/jp/shop/fb5d65de23c5d0960d9b047a20a7ba1e">ラウンドワン和歌山店</a>|<a href="和歌山県/和歌山市">和歌山県和歌山市</a>|
+|75|597|2|<a href="https://search.dartslive.com/jp/shop/27a8358ad1b646b4774c926eb736cb5a">快活CLUB 紀ノ川大橋店</a>|<a href="和歌山県/和歌山市">和歌山県和歌山市</a>|
+|76|595|りえさん2929|<a href="https://search.dartslive.com/jp/shop/27a8358ad1b646b4774c926eb736cb5a">快活CLUB 紀ノ川大橋店</a>|<a href="和歌山県/和歌山市">和歌山県和歌山市</a>|
+|77|590|べーしょー|<a href="https://search.dartslive.com/jp/shop/2d5f7da086f463790d9b047a20a7ba1e">JOKER</a>|<a href="和歌山県/和歌山市">和歌山県和歌山市</a>|
+|78|588|ゆめ|<a href="https://search.dartslive.com/jp/shop/fb5d65de23c5d0960d9b047a20a7ba1e">ラウンドワン和歌山店</a>|<a href="和歌山県/和歌山市">和歌山県和歌山市</a>|
+|79|587|おさゆ☪︎|<a href="https://search.dartslive.com/jp/shop/2d5f7da086f463790d9b047a20a7ba1e">JOKER</a>|<a href="和歌山県/和歌山市">和歌山県和歌山市</a>|
+|80|580|ゆめ|<a href="https://search.dartslive.com/jp/shop/ffc01a6091aa08db0d9b047a20a7ba1e">DARTS & BILLIARD NINE</a>|<a href="和歌山県/和歌山市">和歌山県和歌山市</a>|
+|81|572|5時まで営業中|<a href="https://search.dartslive.com/jp/shop/ffc01a6091aa08db0d9b047a20a7ba1e">DARTS & BILLIARD NINE</a>|<a href="和歌山県/和歌山市">和歌山県和歌山市</a>|
+|82|556|めけめけﾌｪﾚｯﾄ|<a href="https://search.dartslive.com/jp/shop/27a8358ad1b646b4774c926eb736cb5a">快活CLUB 紀ノ川大橋店</a>|<a href="和歌山県/和歌山市">和歌山県和歌山市</a>|
+|83|547|なっさん。&#x27;23|<a href="https://search.dartslive.com/jp/shop/fb5d65de23c5d0960d9b047a20a7ba1e">ラウンドワン和歌山店</a>|<a href="和歌山県/和歌山市">和歌山県和歌山市</a>|
+|83|547|ゆっきぃ【本物】|<a href="https://search.dartslive.com/jp/shop/2d5f7da086f463790d9b047a20a7ba1e">JOKER</a>|<a href="和歌山県/和歌山市">和歌山県和歌山市</a>|
+|85|543|真・ウラジ|<a href="https://search.dartslive.com/jp/shop/ffc01a6091aa08db0d9b047a20a7ba1e">DARTS & BILLIARD NINE</a>|<a href="和歌山県/和歌山市">和歌山県和歌山市</a>|
+|86|530|H!ROAK!＠B.P|<a href="https://search.dartslive.com/jp/shop/2d5f7da086f463790d9b047a20a7ba1e">JOKER</a>|<a href="和歌山県/和歌山市">和歌山県和歌山市</a>|
+|87|521|IZU|<a href="https://search.dartslive.com/jp/shop/ffc01a6091aa08db0d9b047a20a7ba1e">DARTS & BILLIARD NINE</a>|<a href="和歌山県/和歌山市">和歌山県和歌山市</a>|
+|87|521|aryaya.23/10/1〜|<a href="https://search.dartslive.com/jp/shop/fb5d65de23c5d0960d9b047a20a7ba1e">ラウンドワン和歌山店</a>|<a href="和歌山県/和歌山市">和歌山県和歌山市</a>|
+|89|520|2|<a href="https://search.dartslive.com/jp/shop/fb5d65de23c5d0960d9b047a20a7ba1e">ラウンドワン和歌山店</a>|<a href="和歌山県/和歌山市">和歌山県和歌山市</a>|
+|90|519|おやさい114|<a href="https://search.dartslive.com/jp/shop/fb5d65de23c5d0960d9b047a20a7ba1e">ラウンドワン和歌山店</a>|<a href="和歌山県/和歌山市">和歌山県和歌山市</a>|
+|91|515|なまけもの|<a href="https://search.dartslive.com/jp/shop/ffc01a6091aa08db0d9b047a20a7ba1e">DARTS & BILLIARD NINE</a>|<a href="和歌山県/和歌山市">和歌山県和歌山市</a>|
+|92|513|aryaya.23/10/1〜|<a href="https://search.dartslive.com/jp/shop/27a8358ad1b646b4774c926eb736cb5a">快活CLUB 紀ノ川大橋店</a>|<a href="和歌山県/和歌山市">和歌山県和歌山市</a>|
+|93|507|え(˶&#x27;ᵕ&#x27;˶ )︎|<a href="https://search.dartslive.com/jp/shop/fb5d65de23c5d0960d9b047a20a7ba1e">ラウンドワン和歌山店</a>|<a href="和歌山県/和歌山市">和歌山県和歌山市</a>|
+|94|505|なまけもの|<a href="https://search.dartslive.com/jp/shop/27a8358ad1b646b4774c926eb736cb5a">快活CLUB 紀ノ川大橋店</a>|<a href="和歌山県/和歌山市">和歌山県和歌山市</a>|
+|95|500|おやさい114|<a href="https://search.dartslive.com/jp/shop/27a8358ad1b646b4774c926eb736cb5a">快活CLUB 紀ノ川大橋店</a>|<a href="和歌山県/和歌山市">和歌山県和歌山市</a>|
+|96|498|**miniMAI-PARO**|<a href="https://search.dartslive.com/jp/shop/27a8358ad1b646b4774c926eb736cb5a">快活CLUB 紀ノ川大橋店</a>|<a href="和歌山県/和歌山市">和歌山県和歌山市</a>|
+|97|497|★Ｍadoka★|<a href="https://search.dartslive.com/jp/shop/ffc01a6091aa08db0d9b047a20a7ba1e">DARTS & BILLIARD NINE</a>|<a href="和歌山県/和歌山市">和歌山県和歌山市</a>|
+|98|496|JOKERヒロ|<a href="https://search.dartslive.com/jp/shop/2d5f7da086f463790d9b047a20a7ba1e">JOKER</a>|<a href="和歌山県/和歌山市">和歌山県和歌山市</a>|
+|99|478|りえさん2929|<a href="https://search.dartslive.com/jp/shop/fb5d65de23c5d0960d9b047a20a7ba1e">ラウンドワン和歌山店</a>|<a href="和歌山県/和歌山市">和歌山県和歌山市</a>|
+|100|473|TeamABCはるさめ|<a href="https://search.dartslive.com/jp/shop/fb5d65de23c5d0960d9b047a20a7ba1e">ラウンドワン和歌山店</a>|<a href="和歌山県/和歌山市">和歌山県和歌山市</a>|
 
+
+
+___
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

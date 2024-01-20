@@ -3,7 +3,7 @@ title: DARTSLIVE AREA RANKING | 福島県 | 須賀川市
 ---
 ## DARTSLIVE AREA RANKING | 福島県 | 須賀川市
 
-[TOP](/rank/) > [福島県](/rank/福島県/) > 須賀川市
+[TOP](/darts/rank/) > [福島県](/darts/rank/福島県/) > 須賀川市
 
 ___
 
@@ -46,6 +46,9 @@ ___
 |30|395|ちょーつうぃ|<a href="https://search.dartslive.com/jp/shop/68d7fcc9e3cd7b4d0d9b047a20a7ba1e">～よってけBar～　YOLO</a>|<a href="福島県/須賀川市">福島県須賀川市</a>|
 |31|373|AK|<a href="https://search.dartslive.com/jp/shop/22704f772447927a0d9b047a20a7ba1e">Colors with Aivy</a>|<a href="福島県/須賀川市">福島県須賀川市</a>|
 
+
+
+___
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

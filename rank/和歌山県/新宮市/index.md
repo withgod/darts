@@ -3,7 +3,7 @@ title: DARTSLIVE AREA RANKING | 和歌山県 | 新宮市
 ---
 ## DARTSLIVE AREA RANKING | 和歌山県 | 新宮市
 
-[TOP](/rank/) > [和歌山県](/rank/和歌山県/) > 新宮市
+[TOP](/darts/rank/) > [和歌山県](/darts/rank/和歌山県/) > 新宮市
 
 ___
 
@@ -30,6 +30,9 @@ ___
 |14|579|けいぷり|<a href="https://search.dartslive.com/jp/shop/7fbec8c8ac5ab04a0d9b047a20a7ba1e">AMUSEMENT BAR WKKS</a>|<a href="和歌山県/新宮市">和歌山県新宮市</a>|
 |15|454|Gentq@FLIGHT|<a href="https://search.dartslive.com/jp/shop/31817f0d2319720a0d9b047a20a7ba1e">Bar Paz</a>|<a href="和歌山県/新宮市">和歌山県新宮市</a>|
 
+
+
+___
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

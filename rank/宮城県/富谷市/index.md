@@ -3,7 +3,7 @@ title: DARTSLIVE AREA RANKING | 宮城県 | 富谷市
 ---
 ## DARTSLIVE AREA RANKING | 宮城県 | 富谷市
 
-[TOP](/rank/) > [宮城県](/rank/宮城県/) > 富谷市
+[TOP](/darts/rank/) > [宮城県](/darts/rank/宮城県/) > 富谷市
 
 ___
 
@@ -19,7 +19,7 @@ ___
 |3|646|雇われ|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="宮城県/富谷市">宮城県富谷市</a>|
 |4|629|TOKIO|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="宮城県/富谷市">宮城県富谷市</a>|
 |5|620|snufkin|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="宮城県/富谷市">宮城県富谷市</a>|
-|6|559|いちご|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="宮城県/富谷市">宮城県富谷市</a>|
+|6|579|いちご|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="宮城県/富谷市">宮城県富谷市</a>|
 |7|535|TAROTARO|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="宮城県/富谷市">宮城県富谷市</a>|
 |8|519|ツキ|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="宮城県/富谷市">宮城県富谷市</a>|
 |9|515|numa|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="宮城県/富谷市">宮城県富谷市</a>|
@@ -32,6 +32,9 @@ ___
 |16|290|かねま|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="宮城県/富谷市">宮城県富谷市</a>|
 |17|288|SugaR|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="宮城県/富谷市">宮城県富谷市</a>|
 
+
+
+___
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

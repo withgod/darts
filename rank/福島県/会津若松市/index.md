@@ -3,7 +3,7 @@ title: DARTSLIVE AREA RANKING | 福島県 | 会津若松市
 ---
 ## DARTSLIVE AREA RANKING | 福島県 | 会津若松市
 
-[TOP](/rank/) > [福島県](/rank/福島県/) > 会津若松市
+[TOP](/darts/rank/) > [福島県](/darts/rank/福島県/) > 会津若松市
 
 ___
 
@@ -35,6 +35,9 @@ ___
 |19|455|ふーか|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="福島県/会津若松市">福島県会津若松市</a>|
 |20|316|ぎゃる|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="福島県/会津若松市">福島県会津若松市</a>|
 
+
+
+___
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

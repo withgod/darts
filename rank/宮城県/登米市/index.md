@@ -3,7 +3,7 @@ title: DARTSLIVE AREA RANKING | 宮城県 | 登米市
 ---
 ## DARTSLIVE AREA RANKING | 宮城県 | 登米市
 
-[TOP](/rank/) > [宮城県](/rank/宮城県/) > 登米市
+[TOP](/darts/rank/) > [宮城県](/darts/rank/宮城県/) > 登米市
 
 ___
 
@@ -17,8 +17,11 @@ ___
 |1|588|ろきそにんs|<a href="https://search.dartslive.com/jp/shop/4cac60f7aa2bf6670d9b047a20a7ba1e">small kitchen freedom</a>|<a href="宮城県/登米市">宮城県登米市</a>|
 |2|498|Tom=3|<a href="https://search.dartslive.com/jp/shop/4cac60f7aa2bf6670d9b047a20a7ba1e">small kitchen freedom</a>|<a href="宮城県/登米市">宮城県登米市</a>|
 |3|455|煌倖|<a href="https://search.dartslive.com/jp/shop/4cac60f7aa2bf6670d9b047a20a7ba1e">small kitchen freedom</a>|<a href="宮城県/登米市">宮城県登米市</a>|
-|4|369|はがっち|<a href="https://search.dartslive.com/jp/shop/4cac60f7aa2bf6670d9b047a20a7ba1e">small kitchen freedom</a>|<a href="宮城県/登米市">宮城県登米市</a>|
+|4|398|はがっち|<a href="https://search.dartslive.com/jp/shop/4cac60f7aa2bf6670d9b047a20a7ba1e">small kitchen freedom</a>|<a href="宮城県/登米市">宮城県登米市</a>|
 
+
+
+___
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

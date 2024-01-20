@@ -3,7 +3,7 @@ title: DARTSLIVE AREA RANKING | 宮城県 | 塩竈市
 ---
 ## DARTSLIVE AREA RANKING | 宮城県 | 塩竈市
 
-[TOP](/rank/) > [宮城県](/rank/宮城県/) > 塩竈市
+[TOP](/darts/rank/) > [宮城県](/darts/rank/宮城県/) > 塩竈市
 
 ___
 
@@ -21,6 +21,9 @@ ___
 |5|520|moto|<a href="https://search.dartslive.com/jp/shop/418f06cb96f1fd380d9b047a20a7ba1e">BE BRAVE</a>|<a href="宮城県/塩竈市">宮城県塩竈市</a>|
 |6|433|おとうさん|<a href="https://search.dartslive.com/jp/shop/418f06cb96f1fd380d9b047a20a7ba1e">BE BRAVE</a>|<a href="宮城県/塩竈市">宮城県塩竈市</a>|
 
+
+
+___
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

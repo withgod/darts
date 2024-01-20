@@ -3,7 +3,7 @@ title: DARTSLIVE AREA RANKING | 宮城県 | 石巻市
 ---
 ## DARTSLIVE AREA RANKING | 宮城県 | 石巻市
 
-[TOP](/rank/) > [宮城県](/rank/宮城県/) > 石巻市
+[TOP](/darts/rank/) > [宮城県](/darts/rank/宮城県/) > 石巻市
 
 ___
 
@@ -80,27 +80,31 @@ ___
 |64|525|HIDE【A.】|<a href="https://search.dartslive.com/jp/shop/3dc46ed8580088650d9b047a20a7ba1e">カラオケ合衆国　石巻店</a>|<a href="宮城県/石巻市">宮城県石巻市</a>|
 |65|521|NO NAME 6145|<a href="https://search.dartslive.com/jp/shop/3dc46ed8580088650d9b047a20a7ba1e">カラオケ合衆国　石巻店</a>|<a href="宮城県/石巻市">宮城県石巻市</a>|
 |66|520|wawa|<a href="https://search.dartslive.com/jp/shop/247d2d8a8fb94f8f0d9b047a20a7ba1e">grass garden</a>|<a href="宮城県/石巻市">宮城県石巻市</a>|
-|67|504|Kaworu|<a href="https://search.dartslive.com/jp/shop/3dc46ed8580088650d9b047a20a7ba1e">カラオケ合衆国　石巻店</a>|<a href="宮城県/石巻市">宮城県石巻市</a>|
-|68|503|Dai80|<a href="https://search.dartslive.com/jp/shop/3dc46ed8580088650d9b047a20a7ba1e">カラオケ合衆国　石巻店</a>|<a href="宮城県/石巻市">宮城県石巻市</a>|
-|69|488|みつお♀|<a href="https://search.dartslive.com/jp/shop/247d2d8a8fb94f8f0d9b047a20a7ba1e">grass garden</a>|<a href="宮城県/石巻市">宮城県石巻市</a>|
-|70|485|SugaR|<a href="https://search.dartslive.com/jp/shop/a579cb6332195a660d9b047a20a7ba1e">GiGO石巻</a>|<a href="宮城県/石巻市">宮城県石巻市</a>|
-|71|482|くろもり|<a href="https://search.dartslive.com/jp/shop/a579cb6332195a660d9b047a20a7ba1e">GiGO石巻</a>|<a href="宮城県/石巻市">宮城県石巻市</a>|
-|72|475|DAI80|<a href="https://search.dartslive.com/jp/shop/3dc46ed8580088650d9b047a20a7ba1e">カラオケ合衆国　石巻店</a>|<a href="宮城県/石巻市">宮城県石巻市</a>|
-|73|435|moon223|<a href="https://search.dartslive.com/jp/shop/a579cb6332195a660d9b047a20a7ba1e">GiGO石巻</a>|<a href="宮城県/石巻市">宮城県石巻市</a>|
-|74|431|今の。|<a href="https://search.dartslive.com/jp/shop/247d2d8a8fb94f8f0d9b047a20a7ba1e">grass garden</a>|<a href="宮城県/石巻市">宮城県石巻市</a>|
-|75|400|MA|<a href="https://search.dartslive.com/jp/shop/2f0555eac607d90a774c926eb736cb5a">快活CLUB 石巻中里店</a>|<a href="宮城県/石巻市">宮城県石巻市</a>|
-|75|400|ピエロ|<a href="https://search.dartslive.com/jp/shop/a579cb6332195a660d9b047a20a7ba1e">GiGO石巻</a>|<a href="宮城県/石巻市">宮城県石巻市</a>|
-|77|397|りな|<a href="https://search.dartslive.com/jp/shop/a579cb6332195a660d9b047a20a7ba1e">GiGO石巻</a>|<a href="宮城県/石巻市">宮城県石巻市</a>|
-|78|391|かねま|<a href="https://search.dartslive.com/jp/shop/adc8526e7170e2735f9f3321c1147265">Play Garden石巻元倉店</a>|<a href="宮城県/石巻市">宮城県石巻市</a>|
-|79|373|tyanyuu69|<a href="https://search.dartslive.com/jp/shop/a579cb6332195a660d9b047a20a7ba1e">GiGO石巻</a>|<a href="宮城県/石巻市">宮城県石巻市</a>|
-|80|358|Maliko|<a href="https://search.dartslive.com/jp/shop/2f0555eac607d90a774c926eb736cb5a">快活CLUB 石巻中里店</a>|<a href="宮城県/石巻市">宮城県石巻市</a>|
-|80|358|アントン|<a href="https://search.dartslive.com/jp/shop/a579cb6332195a660d9b047a20a7ba1e">GiGO石巻</a>|<a href="宮城県/石巻市">宮城県石巻市</a>|
-|82|352|$まみやん$|<a href="https://search.dartslive.com/jp/shop/3dc46ed8580088650d9b047a20a7ba1e">カラオケ合衆国　石巻店</a>|<a href="宮城県/石巻市">宮城県石巻市</a>|
-|83|338|Rや(’ ’)まR|<a href="https://search.dartslive.com/jp/shop/247d2d8a8fb94f8f0d9b047a20a7ba1e">grass garden</a>|<a href="宮城県/石巻市">宮城県石巻市</a>|
-|84|280|Sana|<a href="https://search.dartslive.com/jp/shop/2f0555eac607d90a774c926eb736cb5a">快活CLUB 石巻中里店</a>|<a href="宮城県/石巻市">宮城県石巻市</a>|
-|85|273|Tarumeiro|<a href="https://search.dartslive.com/jp/shop/2f0555eac607d90a774c926eb736cb5a">快活CLUB 石巻中里店</a>|<a href="宮城県/石巻市">宮城県石巻市</a>|
-|86|268|たくみん|<a href="https://search.dartslive.com/jp/shop/a579cb6332195a660d9b047a20a7ba1e">GiGO石巻</a>|<a href="宮城県/石巻市">宮城県石巻市</a>|
+|67|508|パンサー志那竹|<a href="https://search.dartslive.com/jp/shop/2f0555eac607d90a774c926eb736cb5a">快活CLUB 石巻中里店</a>|<a href="宮城県/石巻市">宮城県石巻市</a>|
+|68|504|Kaworu|<a href="https://search.dartslive.com/jp/shop/3dc46ed8580088650d9b047a20a7ba1e">カラオケ合衆国　石巻店</a>|<a href="宮城県/石巻市">宮城県石巻市</a>|
+|69|503|Dai80|<a href="https://search.dartslive.com/jp/shop/3dc46ed8580088650d9b047a20a7ba1e">カラオケ合衆国　石巻店</a>|<a href="宮城県/石巻市">宮城県石巻市</a>|
+|70|488|みつお♀|<a href="https://search.dartslive.com/jp/shop/247d2d8a8fb94f8f0d9b047a20a7ba1e">grass garden</a>|<a href="宮城県/石巻市">宮城県石巻市</a>|
+|71|485|SugaR|<a href="https://search.dartslive.com/jp/shop/a579cb6332195a660d9b047a20a7ba1e">GiGO石巻</a>|<a href="宮城県/石巻市">宮城県石巻市</a>|
+|72|482|くろもり|<a href="https://search.dartslive.com/jp/shop/a579cb6332195a660d9b047a20a7ba1e">GiGO石巻</a>|<a href="宮城県/石巻市">宮城県石巻市</a>|
+|73|475|DAI80|<a href="https://search.dartslive.com/jp/shop/3dc46ed8580088650d9b047a20a7ba1e">カラオケ合衆国　石巻店</a>|<a href="宮城県/石巻市">宮城県石巻市</a>|
+|74|435|moon223|<a href="https://search.dartslive.com/jp/shop/a579cb6332195a660d9b047a20a7ba1e">GiGO石巻</a>|<a href="宮城県/石巻市">宮城県石巻市</a>|
+|75|431|今の。|<a href="https://search.dartslive.com/jp/shop/247d2d8a8fb94f8f0d9b047a20a7ba1e">grass garden</a>|<a href="宮城県/石巻市">宮城県石巻市</a>|
+|76|400|MA|<a href="https://search.dartslive.com/jp/shop/2f0555eac607d90a774c926eb736cb5a">快活CLUB 石巻中里店</a>|<a href="宮城県/石巻市">宮城県石巻市</a>|
+|76|400|ピエロ|<a href="https://search.dartslive.com/jp/shop/a579cb6332195a660d9b047a20a7ba1e">GiGO石巻</a>|<a href="宮城県/石巻市">宮城県石巻市</a>|
+|78|397|りな|<a href="https://search.dartslive.com/jp/shop/a579cb6332195a660d9b047a20a7ba1e">GiGO石巻</a>|<a href="宮城県/石巻市">宮城県石巻市</a>|
+|79|391|かねま|<a href="https://search.dartslive.com/jp/shop/adc8526e7170e2735f9f3321c1147265">Play Garden石巻元倉店</a>|<a href="宮城県/石巻市">宮城県石巻市</a>|
+|80|373|tyanyuu69|<a href="https://search.dartslive.com/jp/shop/a579cb6332195a660d9b047a20a7ba1e">GiGO石巻</a>|<a href="宮城県/石巻市">宮城県石巻市</a>|
+|81|358|Maliko|<a href="https://search.dartslive.com/jp/shop/2f0555eac607d90a774c926eb736cb5a">快活CLUB 石巻中里店</a>|<a href="宮城県/石巻市">宮城県石巻市</a>|
+|81|358|アントン|<a href="https://search.dartslive.com/jp/shop/a579cb6332195a660d9b047a20a7ba1e">GiGO石巻</a>|<a href="宮城県/石巻市">宮城県石巻市</a>|
+|83|352|$まみやん$|<a href="https://search.dartslive.com/jp/shop/3dc46ed8580088650d9b047a20a7ba1e">カラオケ合衆国　石巻店</a>|<a href="宮城県/石巻市">宮城県石巻市</a>|
+|84|338|Rや(’ ’)まR|<a href="https://search.dartslive.com/jp/shop/247d2d8a8fb94f8f0d9b047a20a7ba1e">grass garden</a>|<a href="宮城県/石巻市">宮城県石巻市</a>|
+|85|280|Sana|<a href="https://search.dartslive.com/jp/shop/2f0555eac607d90a774c926eb736cb5a">快活CLUB 石巻中里店</a>|<a href="宮城県/石巻市">宮城県石巻市</a>|
+|86|273|Tarumeiro|<a href="https://search.dartslive.com/jp/shop/2f0555eac607d90a774c926eb736cb5a">快活CLUB 石巻中里店</a>|<a href="宮城県/石巻市">宮城県石巻市</a>|
+|87|268|たくみん|<a href="https://search.dartslive.com/jp/shop/a579cb6332195a660d9b047a20a7ba1e">GiGO石巻</a>|<a href="宮城県/石巻市">宮城県石巻市</a>|
 
+
+
+___
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

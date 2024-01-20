@@ -3,7 +3,7 @@ title: DARTSLIVE AREA RANKING | 宮城県 | 気仙沼市
 ---
 ## DARTSLIVE AREA RANKING | 宮城県 | 気仙沼市
 
-[TOP](/rank/) > [宮城県](/rank/宮城県/) > 気仙沼市
+[TOP](/darts/rank/) > [宮城県](/darts/rank/宮城県/) > 気仙沼市
 
 ___
 
@@ -49,6 +49,9 @@ ___
 |33|467|微人|<a href="https://search.dartslive.com/jp/shop/187be3092f3f5a0ef454cb89828a1cfe">American Darts Bar A.</a>|<a href="宮城県/気仙沼市">宮城県気仙沼市</a>|
 |34|328|♡CHAN♡|<a href="https://search.dartslive.com/jp/shop/d2ea1318faf67dda0d9b047a20a7ba1e">気仙沼さくらボウル</a>|<a href="宮城県/気仙沼市">宮城県気仙沼市</a>|
 
+
+
+___
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

@@ -3,7 +3,7 @@ title: DARTSLIVE AREA RANKING | 和歌山県 | 岩出市
 ---
 ## DARTSLIVE AREA RANKING | 和歌山県 | 岩出市
 
-[TOP](/rank/) > [和歌山県](/rank/和歌山県/) > 岩出市
+[TOP](/darts/rank/) > [和歌山県](/darts/rank/和歌山県/) > 岩出市
 
 ___
 
@@ -33,15 +33,19 @@ ___
 |17|544|りえさん2929|<a href="https://search.dartslive.com/jp/shop/eab960a901b6493aa3f63593b5358cc4">快活CLUB 和歌山岩出店</a>|<a href="和歌山県/岩出市">和歌山県岩出市</a>|
 |18|519|ＳＮＹ|<a href="https://search.dartslive.com/jp/shop/eab960a901b6493aa3f63593b5358cc4">快活CLUB 和歌山岩出店</a>|<a href="和歌山県/岩出市">和歌山県岩出市</a>|
 |19|518|Mayu|<a href="https://search.dartslive.com/jp/shop/eab960a901b6493aa3f63593b5358cc4">快活CLUB 和歌山岩出店</a>|<a href="和歌山県/岩出市">和歌山県岩出市</a>|
-|20|460|彩葉|<a href="https://search.dartslive.com/jp/shop/eab960a901b6493aa3f63593b5358cc4">快活CLUB 和歌山岩出店</a>|<a href="和歌山県/岩出市">和歌山県岩出市</a>|
-|21|449|aya|<a href="https://search.dartslive.com/jp/shop/eab960a901b6493aa3f63593b5358cc4">快活CLUB 和歌山岩出店</a>|<a href="和歌山県/岩出市">和歌山県岩出市</a>|
-|22|444|やす☆【爆笑】|<a href="https://search.dartslive.com/jp/shop/eab960a901b6493aa3f63593b5358cc4">快活CLUB 和歌山岩出店</a>|<a href="和歌山県/岩出市">和歌山県岩出市</a>|
-|23|422|さゃん|<a href="https://search.dartslive.com/jp/shop/eab960a901b6493aa3f63593b5358cc4">快活CLUB 和歌山岩出店</a>|<a href="和歌山県/岩出市">和歌山県岩出市</a>|
-|24|407|めけめけﾌｪﾚｯﾄ|<a href="https://search.dartslive.com/jp/shop/eab960a901b6493aa3f63593b5358cc4">快活CLUB 和歌山岩出店</a>|<a href="和歌山県/岩出市">和歌山県岩出市</a>|
-|25|401|クック船長|<a href="https://search.dartslive.com/jp/shop/eab960a901b6493aa3f63593b5358cc4">快活CLUB 和歌山岩出店</a>|<a href="和歌山県/岩出市">和歌山県岩出市</a>|
-|26|398|ayn.|<a href="https://search.dartslive.com/jp/shop/eab960a901b6493aa3f63593b5358cc4">快活CLUB 和歌山岩出店</a>|<a href="和歌山県/岩出市">和歌山県岩出市</a>|
-|27|361|たまあざらし|<a href="https://search.dartslive.com/jp/shop/eab960a901b6493aa3f63593b5358cc4">快活CLUB 和歌山岩出店</a>|<a href="和歌山県/岩出市">和歌山県岩出市</a>|
+|20|513|taka---3|<a href="https://search.dartslive.com/jp/shop/eab960a901b6493aa3f63593b5358cc4">快活CLUB 和歌山岩出店</a>|<a href="和歌山県/岩出市">和歌山県岩出市</a>|
+|21|460|彩葉|<a href="https://search.dartslive.com/jp/shop/eab960a901b6493aa3f63593b5358cc4">快活CLUB 和歌山岩出店</a>|<a href="和歌山県/岩出市">和歌山県岩出市</a>|
+|22|449|aya|<a href="https://search.dartslive.com/jp/shop/eab960a901b6493aa3f63593b5358cc4">快活CLUB 和歌山岩出店</a>|<a href="和歌山県/岩出市">和歌山県岩出市</a>|
+|23|444|やす☆【爆笑】|<a href="https://search.dartslive.com/jp/shop/eab960a901b6493aa3f63593b5358cc4">快活CLUB 和歌山岩出店</a>|<a href="和歌山県/岩出市">和歌山県岩出市</a>|
+|24|422|さゃん|<a href="https://search.dartslive.com/jp/shop/eab960a901b6493aa3f63593b5358cc4">快活CLUB 和歌山岩出店</a>|<a href="和歌山県/岩出市">和歌山県岩出市</a>|
+|25|407|めけめけﾌｪﾚｯﾄ|<a href="https://search.dartslive.com/jp/shop/eab960a901b6493aa3f63593b5358cc4">快活CLUB 和歌山岩出店</a>|<a href="和歌山県/岩出市">和歌山県岩出市</a>|
+|26|401|クック船長|<a href="https://search.dartslive.com/jp/shop/eab960a901b6493aa3f63593b5358cc4">快活CLUB 和歌山岩出店</a>|<a href="和歌山県/岩出市">和歌山県岩出市</a>|
+|27|398|ayn.|<a href="https://search.dartslive.com/jp/shop/eab960a901b6493aa3f63593b5358cc4">快活CLUB 和歌山岩出店</a>|<a href="和歌山県/岩出市">和歌山県岩出市</a>|
+|28|361|たまあざらし|<a href="https://search.dartslive.com/jp/shop/eab960a901b6493aa3f63593b5358cc4">快活CLUB 和歌山岩出店</a>|<a href="和歌山県/岩出市">和歌山県岩出市</a>|
 
+
+
+___
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

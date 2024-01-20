@@ -3,7 +3,7 @@ title: DARTSLIVE AREA RANKING | 宮城県 | 大崎市
 ---
 ## DARTSLIVE AREA RANKING | 宮城県 | 大崎市
 
-[TOP](/rank/) > [宮城県](/rank/宮城県/) > 大崎市
+[TOP](/darts/rank/) > [宮城県](/darts/rank/宮城県/) > 大崎市
 
 ___
 
@@ -20,6 +20,9 @@ ___
 |4|354|こーた|<a href="https://search.dartslive.com/jp/shop/e9b324552d01015a0d9b047a20a7ba1e">インサイド</a>|<a href="宮城県/大崎市">宮城県大崎市</a>|
 |5|317|NAOKI|<a href="https://search.dartslive.com/jp/shop/e9b324552d01015a0d9b047a20a7ba1e">インサイド</a>|<a href="宮城県/大崎市">宮城県大崎市</a>|
 
+
+
+___
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

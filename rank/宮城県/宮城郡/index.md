@@ -3,7 +3,7 @@ title: DARTSLIVE AREA RANKING | 宮城県 | 宮城郡
 ---
 ## DARTSLIVE AREA RANKING | 宮城県 | 宮城郡
 
-[TOP](/rank/) > [宮城県](/rank/宮城県/) > 宮城郡
+[TOP](/darts/rank/) > [宮城県](/darts/rank/宮城県/) > 宮城郡
 
 ___
 
@@ -27,6 +27,9 @@ ___
 |11|386|むしやき|<a href="https://search.dartslive.com/jp/shop/43e74b47f08177150d9b047a20a7ba1e">七ヶ浜国際村</a>|<a href="宮城県/宮城郡">宮城県宮城郡</a>|
 |12|336|さっしー|<a href="https://search.dartslive.com/jp/shop/43e74b47f08177150d9b047a20a7ba1e">七ヶ浜国際村</a>|<a href="宮城県/宮城郡">宮城県宮城郡</a>|
 
+
+
+___
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

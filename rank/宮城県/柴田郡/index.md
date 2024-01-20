@@ -3,7 +3,7 @@ title: DARTSLIVE AREA RANKING | 宮城県 | 柴田郡
 ---
 ## DARTSLIVE AREA RANKING | 宮城県 | 柴田郡
 
-[TOP](/rank/) > [宮城県](/rank/宮城県/) > 柴田郡
+[TOP](/darts/rank/) > [宮城県](/darts/rank/宮城県/) > 柴田郡
 
 ___
 
@@ -41,7 +41,11 @@ ___
 |25|471|Second|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="宮城県/柴田郡">宮城県柴田郡</a>|
 |26|451|そうちゃん|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="宮城県/柴田郡">宮城県柴田郡</a>|
 |27|432|ネギコ|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="宮城県/柴田郡">宮城県柴田郡</a>|
+|28|343|SHINYA1125|<a href="https://search.dartslive.com/jp/shop/24f02e3acd4ce6ac0d9b047a20a7ba1e">自遊時間 大河原店</a>|<a href="宮城県/柴田郡">宮城県柴田郡</a>|
 
+
+
+___
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
