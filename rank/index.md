@@ -7,12 +7,14 @@ ___
 
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="DARTSLIVE AREA RANKING | Top" class="twitter-share-button" data-via="DARTSLIVE" data-hashtags="DARTSLIVE" data-related="DARTSLIVE" data-show-count="false">Tweet</a>
 
+### エリア選択
+
 <ul>
-<li><a href="/darts/rank/宮城県/">宮城県</a></li>
-<li><a href="/darts/rank/福島県/">福島県</a></li>
-<li><a href="/darts/rank/和歌山県/">和歌山県</a></li>
-<li><a href="/darts/rank/高知県/">高知県</a></li>
-<li><a href="/darts/rank/沖縄県/">沖縄県</a></li>
+<li style="display: inline;"><a href="/darts/rank/宮城県/">宮城県</a></li>
+<li style="display: inline;"><a href="/darts/rank/福島県/">福島県</a></li>
+<li style="display: inline;"><a href="/darts/rank/和歌山県/">和歌山県</a></li>
+<li style="display: inline;"><a href="/darts/rank/高知県/">高知県</a></li>
+<li style="display: inline;"><a href="/darts/rank/沖縄県/">沖縄県</a></li>
 
 </ul>
 
@@ -25,7 +27,7 @@ ___
 
 ___
 
-_last update : 2024/01/20 21:13:52_
+_last update : 2024/01/20 21:31:03_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
