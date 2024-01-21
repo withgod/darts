@@ -14,12 +14,25 @@ ___
 {:.table-ranking}
 |ランク|スコア|名前|店名|所在地|
 |---|---|---|---|---|
+|1|1033|さふぃん//a-s//|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
+|2|1015|UNITY☆西本陽一|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
+|3|874|ジャギつかさ|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
+|4|864|YMY104|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
+|5|803|[YMY]PLAYER 1376|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
+|6|755|ｃｈａｎｔｅｒ|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
+|7|650|YUMEYA☆ひろこ|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
+|8|631|KOKI|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
+|9|576|masasi|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
+|10|571|エグゾディア|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
+|11|458|Keiya|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
+|12|448|早撃ちわったん|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
+|13|381|YUMEYAかな|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:55_
+_last update : 2024/01/21 13:39:05_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

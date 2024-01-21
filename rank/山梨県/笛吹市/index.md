@@ -30,23 +30,16 @@ ___
 |14|755|NO NAME 9232|<a href="https://search.dartslive.com/jp/shop/2d102495c64268bf0d9b047a20a7ba1e">ラウンドワン山梨石和店</a>|<a href="/darts/rank/山梨県/笛吹市">山梨県笛吹市</a>|
 |15|745|Shigaraki MK‐Ⅲ|<a href="https://search.dartslive.com/jp/shop/2d102495c64268bf0d9b047a20a7ba1e">ラウンドワン山梨石和店</a>|<a href="/darts/rank/山梨県/笛吹市">山梨県笛吹市</a>|
 |16|734|NO NAME 9862|<a href="https://search.dartslive.com/jp/shop/2d102495c64268bf0d9b047a20a7ba1e">ラウンドワン山梨石和店</a>|<a href="/darts/rank/山梨県/笛吹市">山梨県笛吹市</a>|
-|17|705|長宗我部三家老|<a href="https://search.dartslive.com/jp/shop/2d102495c64268bf0d9b047a20a7ba1e">ラウンドワン山梨石和店</a>|<a href="/darts/rank/山梨県/笛吹市">山梨県笛吹市</a>|
-|18|693|♡土岐綾乃♡|<a href="https://search.dartslive.com/jp/shop/2d102495c64268bf0d9b047a20a7ba1e">ラウンドワン山梨石和店</a>|<a href="/darts/rank/山梨県/笛吹市">山梨県笛吹市</a>|
-|19|681|各務原なでしこ|<a href="https://search.dartslive.com/jp/shop/2d102495c64268bf0d9b047a20a7ba1e">ラウンドワン山梨石和店</a>|<a href="/darts/rank/山梨県/笛吹市">山梨県笛吹市</a>|
-|20|622|chousogabe|<a href="https://search.dartslive.com/jp/shop/2d102495c64268bf0d9b047a20a7ba1e">ラウンドワン山梨石和店</a>|<a href="/darts/rank/山梨県/笛吹市">山梨県笛吹市</a>|
-|21|610|♡まるしこ♡|<a href="https://search.dartslive.com/jp/shop/2d102495c64268bf0d9b047a20a7ba1e">ラウンドワン山梨石和店</a>|<a href="/darts/rank/山梨県/笛吹市">山梨県笛吹市</a>|
-|22|582|ORe:O|<a href="https://search.dartslive.com/jp/shop/2d102495c64268bf0d9b047a20a7ba1e">ラウンドワン山梨石和店</a>|<a href="/darts/rank/山梨県/笛吹市">山梨県笛吹市</a>|
-|23|534|常磐　兼成|<a href="https://search.dartslive.com/jp/shop/2d102495c64268bf0d9b047a20a7ba1e">ラウンドワン山梨石和店</a>|<a href="/darts/rank/山梨県/笛吹市">山梨県笛吹市</a>|
-|24|532|nanami|<a href="https://search.dartslive.com/jp/shop/2d102495c64268bf0d9b047a20a7ba1e">ラウンドワン山梨石和店</a>|<a href="/darts/rank/山梨県/笛吹市">山梨県笛吹市</a>|
-|25|524|のすけ|<a href="https://search.dartslive.com/jp/shop/2d102495c64268bf0d9b047a20a7ba1e">ラウンドワン山梨石和店</a>|<a href="/darts/rank/山梨県/笛吹市">山梨県笛吹市</a>|
-|26|415|yuna|<a href="https://search.dartslive.com/jp/shop/2d102495c64268bf0d9b047a20a7ba1e">ラウンドワン山梨石和店</a>|<a href="/darts/rank/山梨県/笛吹市">山梨県笛吹市</a>|
-|27|412|まなちゃん|<a href="https://search.dartslive.com/jp/shop/2d102495c64268bf0d9b047a20a7ba1e">ラウンドワン山梨石和店</a>|<a href="/darts/rank/山梨県/笛吹市">山梨県笛吹市</a>|
+|17|681|各務原なでしこ|<a href="https://search.dartslive.com/jp/shop/2d102495c64268bf0d9b047a20a7ba1e">ラウンドワン山梨石和店</a>|<a href="/darts/rank/山梨県/笛吹市">山梨県笛吹市</a>|
+|18|532|nanami|<a href="https://search.dartslive.com/jp/shop/2d102495c64268bf0d9b047a20a7ba1e">ラウンドワン山梨石和店</a>|<a href="/darts/rank/山梨県/笛吹市">山梨県笛吹市</a>|
+|19|415|yuna|<a href="https://search.dartslive.com/jp/shop/2d102495c64268bf0d9b047a20a7ba1e">ラウンドワン山梨石和店</a>|<a href="/darts/rank/山梨県/笛吹市">山梨県笛吹市</a>|
+|20|412|まなちゃん|<a href="https://search.dartslive.com/jp/shop/2d102495c64268bf0d9b047a20a7ba1e">ラウンドワン山梨石和店</a>|<a href="/darts/rank/山梨県/笛吹市">山梨県笛吹市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:53_
+_last update : 2024/01/21 13:39:00_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

@@ -46,26 +46,17 @@ ___
 |30|818|JIN|<a href="https://search.dartslive.com/jp/shop/112bad61fb0a2f3625d56fb0e5c39bac">A.s Arrows</a>|<a href="/darts/rank/新潟県/新発田市">新潟県新発田市</a>|
 |31|740|ERROWS！こ〇ま|<a href="https://search.dartslive.com/jp/shop/112bad61fb0a2f3625d56fb0e5c39bac">A.s Arrows</a>|<a href="/darts/rank/新潟県/新発田市">新潟県新発田市</a>|
 |32|699|米俵あやめ|<a href="https://search.dartslive.com/jp/shop/112bad61fb0a2f3625d56fb0e5c39bac">A.s Arrows</a>|<a href="/darts/rank/新潟県/新発田市">新潟県新発田市</a>|
-|33|671|もずく|<a href="https://search.dartslive.com/jp/shop/bb0971ce1f59c467774c926eb736cb5a">快活CLUB 新発田店</a>|<a href="/darts/rank/新潟県/新発田市">新潟県新発田市</a>|
-|34|659|チッパー|<a href="https://search.dartslive.com/jp/shop/bb0971ce1f59c467774c926eb736cb5a">快活CLUB 新発田店</a>|<a href="/darts/rank/新潟県/新発田市">新潟県新発田市</a>|
-|35|644|はるか|<a href="https://search.dartslive.com/jp/shop/bb0971ce1f59c467774c926eb736cb5a">快活CLUB 新発田店</a>|<a href="/darts/rank/新潟県/新発田市">新潟県新発田市</a>|
-|36|600|Halcha⁂|<a href="https://search.dartslive.com/jp/shop/bb0971ce1f59c467774c926eb736cb5a">快活CLUB 新発田店</a>|<a href="/darts/rank/新潟県/新発田市">新潟県新発田市</a>|
-|37|595|NO NAME 6336|<a href="https://search.dartslive.com/jp/shop/bb0971ce1f59c467774c926eb736cb5a">快活CLUB 新発田店</a>|<a href="/darts/rank/新潟県/新発田市">新潟県新発田市</a>|
-|38|573|RIN|<a href="https://search.dartslive.com/jp/shop/bb0971ce1f59c467774c926eb736cb5a">快活CLUB 新発田店</a>|<a href="/darts/rank/新潟県/新発田市">新潟県新発田市</a>|
-|39|558|～JIN～|<a href="https://search.dartslive.com/jp/shop/bb0971ce1f59c467774c926eb736cb5a">快活CLUB 新発田店</a>|<a href="/darts/rank/新潟県/新発田市">新潟県新発田市</a>|
-|40|548|A.S ARROWS レオ|<a href="https://search.dartslive.com/jp/shop/112bad61fb0a2f3625d56fb0e5c39bac">A.s Arrows</a>|<a href="/darts/rank/新潟県/新発田市">新潟県新発田市</a>|
-|41|476|ARS ウーロンハイ|<a href="https://search.dartslive.com/jp/shop/112bad61fb0a2f3625d56fb0e5c39bac">A.s Arrows</a>|<a href="/darts/rank/新潟県/新発田市">新潟県新発田市</a>|
-|42|451|でめきん|<a href="https://search.dartslive.com/jp/shop/bb0971ce1f59c467774c926eb736cb5a">快活CLUB 新発田店</a>|<a href="/darts/rank/新潟県/新発田市">新潟県新発田市</a>|
-|43|440|くら|<a href="https://search.dartslive.com/jp/shop/bb0971ce1f59c467774c926eb736cb5a">快活CLUB 新発田店</a>|<a href="/darts/rank/新潟県/新発田市">新潟県新発田市</a>|
-|44|434|エルモンワタ|<a href="https://search.dartslive.com/jp/shop/bb0971ce1f59c467774c926eb736cb5a">快活CLUB 新発田店</a>|<a href="/darts/rank/新潟県/新発田市">新潟県新発田市</a>|
-|45|416|Chan|<a href="https://search.dartslive.com/jp/shop/bb0971ce1f59c467774c926eb736cb5a">快活CLUB 新発田店</a>|<a href="/darts/rank/新潟県/新発田市">新潟県新発田市</a>|
-|46|411|り|<a href="https://search.dartslive.com/jp/shop/112bad61fb0a2f3625d56fb0e5c39bac">A.s Arrows</a>|<a href="/darts/rank/新潟県/新発田市">新潟県新発田市</a>|
+|33|644|はるか|<a href="https://search.dartslive.com/jp/shop/bb0971ce1f59c467774c926eb736cb5a">快活CLUB 新発田店</a>|<a href="/darts/rank/新潟県/新発田市">新潟県新発田市</a>|
+|34|600|Halcha⁂|<a href="https://search.dartslive.com/jp/shop/bb0971ce1f59c467774c926eb736cb5a">快活CLUB 新発田店</a>|<a href="/darts/rank/新潟県/新発田市">新潟県新発田市</a>|
+|35|440|くら|<a href="https://search.dartslive.com/jp/shop/bb0971ce1f59c467774c926eb736cb5a">快活CLUB 新発田店</a>|<a href="/darts/rank/新潟県/新発田市">新潟県新発田市</a>|
+|36|416|Chan|<a href="https://search.dartslive.com/jp/shop/bb0971ce1f59c467774c926eb736cb5a">快活CLUB 新発田店</a>|<a href="/darts/rank/新潟県/新発田市">新潟県新発田市</a>|
+|37|411|り|<a href="https://search.dartslive.com/jp/shop/112bad61fb0a2f3625d56fb0e5c39bac">A.s Arrows</a>|<a href="/darts/rank/新潟県/新発田市">新潟県新発田市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:52_
+_last update : 2024/01/21 13:38:59_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

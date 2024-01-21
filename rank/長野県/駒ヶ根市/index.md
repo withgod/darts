@@ -29,13 +29,12 @@ ___
 |13|513|もみじ饅頭|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
 |14|487|さうす|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
 |15|449|NO NAME 2657|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
-|16|413|Kion3|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:53_
+_last update : 2024/01/21 13:39:00_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

@@ -41,28 +41,31 @@ ___
 |25|659|いしつぶて|<a href="https://search.dartslive.com/jp/shop/d99433cc5ae84c680d9b047a20a7ba1e">Darts Bar alegria</a>|<a href="/darts/rank/北海道/稚内市">北海道稚内市</a>|
 |26|648|kimi|<a href="https://search.dartslive.com/jp/shop/d6b6ec1eba889c990d9b047a20a7ba1e">Amusement space 遊ランド 稚内店</a>|<a href="/darts/rank/北海道/稚内市">北海道稚内市</a>|
 |27|641|アルカ|<a href="https://search.dartslive.com/jp/shop/d99433cc5ae84c680d9b047a20a7ba1e">Darts Bar alegria</a>|<a href="/darts/rank/北海道/稚内市">北海道稚内市</a>|
+|28|626|MARUｰ2|<a href="https://search.dartslive.com/jp/shop/d99433cc5ae84c680d9b047a20a7ba1e">Darts Bar alegria</a>|<a href="/darts/rank/北海道/稚内市">北海道稚内市</a>|
 |28|626|魅惑のFほのりん|<a href="https://search.dartslive.com/jp/shop/d99433cc5ae84c680d9b047a20a7ba1e">Darts Bar alegria</a>|<a href="/darts/rank/北海道/稚内市">北海道稚内市</a>|
-|29|611|Tザンギ|<a href="https://search.dartslive.com/jp/shop/d6b6ec1eba889c990d9b047a20a7ba1e">Amusement space 遊ランド 稚内店</a>|<a href="/darts/rank/北海道/稚内市">北海道稚内市</a>|
-|30|610|ｶﾞﾎﾞﾘﾝｸﾞﾍﾞｲﾔｰ|<a href="https://search.dartslive.com/jp/shop/d99433cc5ae84c680d9b047a20a7ba1e">Darts Bar alegria</a>|<a href="/darts/rank/北海道/稚内市">北海道稚内市</a>|
-|31|590|おとちゃん|<a href="https://search.dartslive.com/jp/shop/d99433cc5ae84c680d9b047a20a7ba1e">Darts Bar alegria</a>|<a href="/darts/rank/北海道/稚内市">北海道稚内市</a>|
-|32|535|sen*☆*:.sato|<a href="https://search.dartslive.com/jp/shop/d99433cc5ae84c680d9b047a20a7ba1e">Darts Bar alegria</a>|<a href="/darts/rank/北海道/稚内市">北海道稚内市</a>|
-|33|534|KORORIN|<a href="https://search.dartslive.com/jp/shop/d99433cc5ae84c680d9b047a20a7ba1e">Darts Bar alegria</a>|<a href="/darts/rank/北海道/稚内市">北海道稚内市</a>|
-|34|528|えりか|<a href="https://search.dartslive.com/jp/shop/d99433cc5ae84c680d9b047a20a7ba1e">Darts Bar alegria</a>|<a href="/darts/rank/北海道/稚内市">北海道稚内市</a>|
-|35|524|ミルミル♪|<a href="https://search.dartslive.com/jp/shop/d99433cc5ae84c680d9b047a20a7ba1e">Darts Bar alegria</a>|<a href="/darts/rank/北海道/稚内市">北海道稚内市</a>|
-|36|523|すね毛の妖精|<a href="https://search.dartslive.com/jp/shop/d6b6ec1eba889c990d9b047a20a7ba1e">Amusement space 遊ランド 稚内店</a>|<a href="/darts/rank/北海道/稚内市">北海道稚内市</a>|
-|37|507|サヤカ|<a href="https://search.dartslive.com/jp/shop/d99433cc5ae84c680d9b047a20a7ba1e">Darts Bar alegria</a>|<a href="/darts/rank/北海道/稚内市">北海道稚内市</a>|
-|38|506|かえたん|<a href="https://search.dartslive.com/jp/shop/d6b6ec1eba889c990d9b047a20a7ba1e">Amusement space 遊ランド 稚内店</a>|<a href="/darts/rank/北海道/稚内市">北海道稚内市</a>|
-|39|487|makoto_0840|<a href="https://search.dartslive.com/jp/shop/d6b6ec1eba889c990d9b047a20a7ba1e">Amusement space 遊ランド 稚内店</a>|<a href="/darts/rank/北海道/稚内市">北海道稚内市</a>|
-|40|423|2位でええ|<a href="https://search.dartslive.com/jp/shop/d6b6ec1eba889c990d9b047a20a7ba1e">Amusement space 遊ランド 稚内店</a>|<a href="/darts/rank/北海道/稚内市">北海道稚内市</a>|
-|41|421|nbktaxi|<a href="https://search.dartslive.com/jp/shop/d6b6ec1eba889c990d9b047a20a7ba1e">Amusement space 遊ランド 稚内店</a>|<a href="/darts/rank/北海道/稚内市">北海道稚内市</a>|
-|42|402|かえたん|<a href="https://search.dartslive.com/jp/shop/d99433cc5ae84c680d9b047a20a7ba1e">Darts Bar alegria</a>|<a href="/darts/rank/北海道/稚内市">北海道稚内市</a>|
-|43|288|yukapanman.HiVe|<a href="https://search.dartslive.com/jp/shop/d99433cc5ae84c680d9b047a20a7ba1e">Darts Bar alegria</a>|<a href="/darts/rank/北海道/稚内市">北海道稚内市</a>|
+|30|614|すね毛の妖精|<a href="https://search.dartslive.com/jp/shop/d99433cc5ae84c680d9b047a20a7ba1e">Darts Bar alegria</a>|<a href="/darts/rank/北海道/稚内市">北海道稚内市</a>|
+|31|611|Tザンギ|<a href="https://search.dartslive.com/jp/shop/d6b6ec1eba889c990d9b047a20a7ba1e">Amusement space 遊ランド 稚内店</a>|<a href="/darts/rank/北海道/稚内市">北海道稚内市</a>|
+|32|610|ｶﾞﾎﾞﾘﾝｸﾞﾍﾞｲﾔｰ|<a href="https://search.dartslive.com/jp/shop/d99433cc5ae84c680d9b047a20a7ba1e">Darts Bar alegria</a>|<a href="/darts/rank/北海道/稚内市">北海道稚内市</a>|
+|33|590|おとちゃん|<a href="https://search.dartslive.com/jp/shop/d99433cc5ae84c680d9b047a20a7ba1e">Darts Bar alegria</a>|<a href="/darts/rank/北海道/稚内市">北海道稚内市</a>|
+|34|535|sen*☆*:.sato|<a href="https://search.dartslive.com/jp/shop/d99433cc5ae84c680d9b047a20a7ba1e">Darts Bar alegria</a>|<a href="/darts/rank/北海道/稚内市">北海道稚内市</a>|
+|35|534|KORORIN|<a href="https://search.dartslive.com/jp/shop/d99433cc5ae84c680d9b047a20a7ba1e">Darts Bar alegria</a>|<a href="/darts/rank/北海道/稚内市">北海道稚内市</a>|
+|36|528|えりか|<a href="https://search.dartslive.com/jp/shop/d99433cc5ae84c680d9b047a20a7ba1e">Darts Bar alegria</a>|<a href="/darts/rank/北海道/稚内市">北海道稚内市</a>|
+|37|524|ミルミル♪|<a href="https://search.dartslive.com/jp/shop/d99433cc5ae84c680d9b047a20a7ba1e">Darts Bar alegria</a>|<a href="/darts/rank/北海道/稚内市">北海道稚内市</a>|
+|38|523|すね毛の妖精|<a href="https://search.dartslive.com/jp/shop/d6b6ec1eba889c990d9b047a20a7ba1e">Amusement space 遊ランド 稚内店</a>|<a href="/darts/rank/北海道/稚内市">北海道稚内市</a>|
+|39|507|サヤカ|<a href="https://search.dartslive.com/jp/shop/d99433cc5ae84c680d9b047a20a7ba1e">Darts Bar alegria</a>|<a href="/darts/rank/北海道/稚内市">北海道稚内市</a>|
+|40|506|かえたん|<a href="https://search.dartslive.com/jp/shop/d6b6ec1eba889c990d9b047a20a7ba1e">Amusement space 遊ランド 稚内店</a>|<a href="/darts/rank/北海道/稚内市">北海道稚内市</a>|
+|41|487|makoto_0840|<a href="https://search.dartslive.com/jp/shop/d6b6ec1eba889c990d9b047a20a7ba1e">Amusement space 遊ランド 稚内店</a>|<a href="/darts/rank/北海道/稚内市">北海道稚内市</a>|
+|42|454|そた|<a href="https://search.dartslive.com/jp/shop/d99433cc5ae84c680d9b047a20a7ba1e">Darts Bar alegria</a>|<a href="/darts/rank/北海道/稚内市">北海道稚内市</a>|
+|43|423|2位でええ|<a href="https://search.dartslive.com/jp/shop/d6b6ec1eba889c990d9b047a20a7ba1e">Amusement space 遊ランド 稚内店</a>|<a href="/darts/rank/北海道/稚内市">北海道稚内市</a>|
+|44|421|nbktaxi|<a href="https://search.dartslive.com/jp/shop/d6b6ec1eba889c990d9b047a20a7ba1e">Amusement space 遊ランド 稚内店</a>|<a href="/darts/rank/北海道/稚内市">北海道稚内市</a>|
+|45|402|かえたん|<a href="https://search.dartslive.com/jp/shop/d99433cc5ae84c680d9b047a20a7ba1e">Darts Bar alegria</a>|<a href="/darts/rank/北海道/稚内市">北海道稚内市</a>|
+|46|288|yukapanman.HiVe|<a href="https://search.dartslive.com/jp/shop/d99433cc5ae84c680d9b047a20a7ba1e">Darts Bar alegria</a>|<a href="/darts/rank/北海道/稚内市">北海道稚内市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:48_
+_last update : 2024/01/21 13:38:53_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

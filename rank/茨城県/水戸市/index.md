@@ -66,33 +66,37 @@ ___
 |50|695|@Shun|<a href="https://search.dartslive.com/jp/shop/e064ea29339df2b80d9b047a20a7ba1e">オアジ コムボックス水戸店</a>|<a href="/darts/rank/茨城県/水戸市">茨城県水戸市</a>|
 |51|687|バレンズエラ|<a href="https://search.dartslive.com/jp/shop/e064ea29339df2b80d9b047a20a7ba1e">オアジ コムボックス水戸店</a>|<a href="/darts/rank/茨城県/水戸市">茨城県水戸市</a>|
 |52|686|my|<a href="https://search.dartslive.com/jp/shop/e064ea29339df2b80d9b047a20a7ba1e">オアジ コムボックス水戸店</a>|<a href="/darts/rank/茨城県/水戸市">茨城県水戸市</a>|
-|53|667|RinRinCrew|<a href="https://search.dartslive.com/jp/shop/e064ea29339df2b80d9b047a20a7ba1e">オアジ コムボックス水戸店</a>|<a href="/darts/rank/茨城県/水戸市">茨城県水戸市</a>|
-|54|613|Kodai Mimura|<a href="https://search.dartslive.com/jp/shop/01cee968ab5aadd628032249b44395af">Cybex 水戸千波店</a>|<a href="/darts/rank/茨城県/水戸市">茨城県水戸市</a>|
-|55|597|Stargazer|<a href="https://search.dartslive.com/jp/shop/b74cc75bb15d67535f9f3321c1147265">快活CLUB 水戸渡里店</a>|<a href="/darts/rank/茨城県/水戸市">茨城県水戸市</a>|
-|56|565|みしぇ|<a href="https://search.dartslive.com/jp/shop/b74cc75bb15d67535f9f3321c1147265">快活CLUB 水戸渡里店</a>|<a href="/darts/rank/茨城県/水戸市">茨城県水戸市</a>|
-|57|559|★HATA★|<a href="https://search.dartslive.com/jp/shop/01cee968ab5aadd628032249b44395af">Cybex 水戸千波店</a>|<a href="/darts/rank/茨城県/水戸市">茨城県水戸市</a>|
-|58|530|とす|<a href="https://search.dartslive.com/jp/shop/e064ea29339df2b80d9b047a20a7ba1e">オアジ コムボックス水戸店</a>|<a href="/darts/rank/茨城県/水戸市">茨城県水戸市</a>|
-|59|529|お嬢|<a href="https://search.dartslive.com/jp/shop/e064ea29339df2b80d9b047a20a7ba1e">オアジ コムボックス水戸店</a>|<a href="/darts/rank/茨城県/水戸市">茨城県水戸市</a>|
-|60|496|ゆーた|<a href="https://search.dartslive.com/jp/shop/b74cc75bb15d67535f9f3321c1147265">快活CLUB 水戸渡里店</a>|<a href="/darts/rank/茨城県/水戸市">茨城県水戸市</a>|
-|61|489|Kaho|<a href="https://search.dartslive.com/jp/shop/01cee968ab5aadd628032249b44395af">Cybex 水戸千波店</a>|<a href="/darts/rank/茨城県/水戸市">茨城県水戸市</a>|
-|62|484|みでりん|<a href="https://search.dartslive.com/jp/shop/e064ea29339df2b80d9b047a20a7ba1e">オアジ コムボックス水戸店</a>|<a href="/darts/rank/茨城県/水戸市">茨城県水戸市</a>|
-|63|478|シノハユ|<a href="https://search.dartslive.com/jp/shop/01cee968ab5aadd628032249b44395af">Cybex 水戸千波店</a>|<a href="/darts/rank/茨城県/水戸市">茨城県水戸市</a>|
-|64|465|Riku【桜】|<a href="https://search.dartslive.com/jp/shop/b74cc75bb15d67535f9f3321c1147265">快活CLUB 水戸渡里店</a>|<a href="/darts/rank/茨城県/水戸市">茨城県水戸市</a>|
-|65|444|BiKeR|<a href="https://search.dartslive.com/jp/shop/01cee968ab5aadd628032249b44395af">Cybex 水戸千波店</a>|<a href="/darts/rank/茨城県/水戸市">茨城県水戸市</a>|
-|66|440|モンロー|<a href="https://search.dartslive.com/jp/shop/01cee968ab5aadd628032249b44395af">Cybex 水戸千波店</a>|<a href="/darts/rank/茨城県/水戸市">茨城県水戸市</a>|
-|67|437|江畠 広明|<a href="https://search.dartslive.com/jp/shop/b74cc75bb15d67535f9f3321c1147265">快活CLUB 水戸渡里店</a>|<a href="/darts/rank/茨城県/水戸市">茨城県水戸市</a>|
-|68|434|わんわん|<a href="https://search.dartslive.com/jp/shop/01cee968ab5aadd628032249b44395af">Cybex 水戸千波店</a>|<a href="/darts/rank/茨城県/水戸市">茨城県水戸市</a>|
-|69|432|むっちゃ|<a href="https://search.dartslive.com/jp/shop/01cee968ab5aadd628032249b44395af">Cybex 水戸千波店</a>|<a href="/darts/rank/茨城県/水戸市">茨城県水戸市</a>|
-|70|425|とろとろトトロ|<a href="https://search.dartslive.com/jp/shop/b74cc75bb15d67535f9f3321c1147265">快活CLUB 水戸渡里店</a>|<a href="/darts/rank/茨城県/水戸市">茨城県水戸市</a>|
-|71|418|村田|<a href="https://search.dartslive.com/jp/shop/b74cc75bb15d67535f9f3321c1147265">快活CLUB 水戸渡里店</a>|<a href="/darts/rank/茨城県/水戸市">茨城県水戸市</a>|
-|72|414|GOGO・CHANCE|<a href="https://search.dartslive.com/jp/shop/01cee968ab5aadd628032249b44395af">Cybex 水戸千波店</a>|<a href="/darts/rank/茨城県/水戸市">茨城県水戸市</a>|
-|73|318|knemunemu22|<a href="https://search.dartslive.com/jp/shop/b74cc75bb15d67535f9f3321c1147265">快活CLUB 水戸渡里店</a>|<a href="/darts/rank/茨城県/水戸市">茨城県水戸市</a>|
+|53|673|タク|<a href="https://search.dartslive.com/jp/shop/b74cc75bb15d67535f9f3321c1147265">快活CLUB 水戸渡里店</a>|<a href="/darts/rank/茨城県/水戸市">茨城県水戸市</a>|
+|54|667|RinRinCrew|<a href="https://search.dartslive.com/jp/shop/e064ea29339df2b80d9b047a20a7ba1e">オアジ コムボックス水戸店</a>|<a href="/darts/rank/茨城県/水戸市">茨城県水戸市</a>|
+|55|613|Kodai Mimura|<a href="https://search.dartslive.com/jp/shop/01cee968ab5aadd628032249b44395af">Cybex 水戸千波店</a>|<a href="/darts/rank/茨城県/水戸市">茨城県水戸市</a>|
+|56|597|Stargazer|<a href="https://search.dartslive.com/jp/shop/b74cc75bb15d67535f9f3321c1147265">快活CLUB 水戸渡里店</a>|<a href="/darts/rank/茨城県/水戸市">茨城県水戸市</a>|
+|57|565|みしぇ|<a href="https://search.dartslive.com/jp/shop/b74cc75bb15d67535f9f3321c1147265">快活CLUB 水戸渡里店</a>|<a href="/darts/rank/茨城県/水戸市">茨城県水戸市</a>|
+|58|559|★HATA★|<a href="https://search.dartslive.com/jp/shop/01cee968ab5aadd628032249b44395af">Cybex 水戸千波店</a>|<a href="/darts/rank/茨城県/水戸市">茨城県水戸市</a>|
+|59|530|とす|<a href="https://search.dartslive.com/jp/shop/e064ea29339df2b80d9b047a20a7ba1e">オアジ コムボックス水戸店</a>|<a href="/darts/rank/茨城県/水戸市">茨城県水戸市</a>|
+|60|529|お嬢|<a href="https://search.dartslive.com/jp/shop/e064ea29339df2b80d9b047a20a7ba1e">オアジ コムボックス水戸店</a>|<a href="/darts/rank/茨城県/水戸市">茨城県水戸市</a>|
+|61|496|ゆーた|<a href="https://search.dartslive.com/jp/shop/b74cc75bb15d67535f9f3321c1147265">快活CLUB 水戸渡里店</a>|<a href="/darts/rank/茨城県/水戸市">茨城県水戸市</a>|
+|62|489|Kaho|<a href="https://search.dartslive.com/jp/shop/01cee968ab5aadd628032249b44395af">Cybex 水戸千波店</a>|<a href="/darts/rank/茨城県/水戸市">茨城県水戸市</a>|
+|63|486|とも|<a href="https://search.dartslive.com/jp/shop/01cee968ab5aadd628032249b44395af">Cybex 水戸千波店</a>|<a href="/darts/rank/茨城県/水戸市">茨城県水戸市</a>|
+|64|484|みでりん|<a href="https://search.dartslive.com/jp/shop/e064ea29339df2b80d9b047a20a7ba1e">オアジ コムボックス水戸店</a>|<a href="/darts/rank/茨城県/水戸市">茨城県水戸市</a>|
+|65|478|シノハユ|<a href="https://search.dartslive.com/jp/shop/01cee968ab5aadd628032249b44395af">Cybex 水戸千波店</a>|<a href="/darts/rank/茨城県/水戸市">茨城県水戸市</a>|
+|66|465|Riku【桜】|<a href="https://search.dartslive.com/jp/shop/b74cc75bb15d67535f9f3321c1147265">快活CLUB 水戸渡里店</a>|<a href="/darts/rank/茨城県/水戸市">茨城県水戸市</a>|
+|67|444|BiKeR|<a href="https://search.dartslive.com/jp/shop/01cee968ab5aadd628032249b44395af">Cybex 水戸千波店</a>|<a href="/darts/rank/茨城県/水戸市">茨城県水戸市</a>|
+|68|440|モンロー|<a href="https://search.dartslive.com/jp/shop/01cee968ab5aadd628032249b44395af">Cybex 水戸千波店</a>|<a href="/darts/rank/茨城県/水戸市">茨城県水戸市</a>|
+|69|437|江畠 広明|<a href="https://search.dartslive.com/jp/shop/b74cc75bb15d67535f9f3321c1147265">快活CLUB 水戸渡里店</a>|<a href="/darts/rank/茨城県/水戸市">茨城県水戸市</a>|
+|70|434|わんわん|<a href="https://search.dartslive.com/jp/shop/01cee968ab5aadd628032249b44395af">Cybex 水戸千波店</a>|<a href="/darts/rank/茨城県/水戸市">茨城県水戸市</a>|
+|71|432|むっちゃ|<a href="https://search.dartslive.com/jp/shop/01cee968ab5aadd628032249b44395af">Cybex 水戸千波店</a>|<a href="/darts/rank/茨城県/水戸市">茨城県水戸市</a>|
+|72|425|とろとろトトロ|<a href="https://search.dartslive.com/jp/shop/b74cc75bb15d67535f9f3321c1147265">快活CLUB 水戸渡里店</a>|<a href="/darts/rank/茨城県/水戸市">茨城県水戸市</a>|
+|73|418|村田|<a href="https://search.dartslive.com/jp/shop/b74cc75bb15d67535f9f3321c1147265">快活CLUB 水戸渡里店</a>|<a href="/darts/rank/茨城県/水戸市">茨城県水戸市</a>|
+|74|414|GOGO・CHANCE|<a href="https://search.dartslive.com/jp/shop/01cee968ab5aadd628032249b44395af">Cybex 水戸千波店</a>|<a href="/darts/rank/茨城県/水戸市">茨城県水戸市</a>|
+|75|372|みじんこ|<a href="https://search.dartslive.com/jp/shop/b74cc75bb15d67535f9f3321c1147265">快活CLUB 水戸渡里店</a>|<a href="/darts/rank/茨城県/水戸市">茨城県水戸市</a>|
+|76|329|BJ|<a href="https://search.dartslive.com/jp/shop/b74cc75bb15d67535f9f3321c1147265">快活CLUB 水戸渡里店</a>|<a href="/darts/rank/茨城県/水戸市">茨城県水戸市</a>|
+|77|318|knemunemu22|<a href="https://search.dartslive.com/jp/shop/b74cc75bb15d67535f9f3321c1147265">快活CLUB 水戸渡里店</a>|<a href="/darts/rank/茨城県/水戸市">茨城県水戸市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:50_
+_last update : 2024/01/21 13:38:55_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

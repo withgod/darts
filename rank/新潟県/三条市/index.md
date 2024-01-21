@@ -47,33 +47,27 @@ ___
 |31|709|Reorei|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
 |32|688|カピー|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
 |33|683|みる|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|34|661|エイじ|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|35|633|SUG|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|36|628|KAZU|<a href="https://search.dartslive.com/jp/shop/1182d9dc5c38391b774c926eb736cb5a">Rodeo Darts</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|37|617|fumi!?|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|38|603|カピー|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|39|597|一輝☆|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|40|594|ゆうくん|<a href="https://search.dartslive.com/jp/shop/1182d9dc5c38391b774c926eb736cb5a">Rodeo Darts</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|41|565|杏仁豆腐☆彡|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|42|557|RinaMyon...|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|43|543|kiri|<a href="https://search.dartslive.com/jp/shop/1182d9dc5c38391b774c926eb736cb5a">Rodeo Darts</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|44|501|さほ|<a href="https://search.dartslive.com/jp/shop/669fafb0ffe8905928032249b44395af">Rapport</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|45|496|せいせい|<a href="https://search.dartslive.com/jp/shop/1182d9dc5c38391b774c926eb736cb5a">Rodeo Darts</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|46|492|kashiore_|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|47|488|ななもり丸|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|48|472|いっしー|<a href="https://search.dartslive.com/jp/shop/669fafb0ffe8905928032249b44395af">Rapport</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|49|470|RinaMyon...|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|50|442|E.YAZAWA|<a href="https://search.dartslive.com/jp/shop/669fafb0ffe8905928032249b44395af">Rapport</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|51|386|ウェル博士|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|52|382|ゆー|<a href="https://search.dartslive.com/jp/shop/1182d9dc5c38391b774c926eb736cb5a">Rodeo Darts</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|53|336|Y|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|54|308|もち*たろぅ|<a href="https://search.dartslive.com/jp/shop/1182d9dc5c38391b774c926eb736cb5a">Rodeo Darts</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|34|628|KAZU|<a href="https://search.dartslive.com/jp/shop/1182d9dc5c38391b774c926eb736cb5a">Rodeo Darts</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|35|603|カピー|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|36|594|ゆうくん|<a href="https://search.dartslive.com/jp/shop/1182d9dc5c38391b774c926eb736cb5a">Rodeo Darts</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|37|565|杏仁豆腐☆彡|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|38|557|RinaMyon...|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|39|543|kiri|<a href="https://search.dartslive.com/jp/shop/1182d9dc5c38391b774c926eb736cb5a">Rodeo Darts</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|40|501|さほ|<a href="https://search.dartslive.com/jp/shop/669fafb0ffe8905928032249b44395af">Rapport</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|41|496|せいせい|<a href="https://search.dartslive.com/jp/shop/1182d9dc5c38391b774c926eb736cb5a">Rodeo Darts</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|42|475|御影屋|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|43|472|いっしー|<a href="https://search.dartslive.com/jp/shop/669fafb0ffe8905928032249b44395af">Rapport</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|44|470|RinaMyon...|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|45|442|E.YAZAWA|<a href="https://search.dartslive.com/jp/shop/669fafb0ffe8905928032249b44395af">Rapport</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|46|382|ゆー|<a href="https://search.dartslive.com/jp/shop/1182d9dc5c38391b774c926eb736cb5a">Rodeo Darts</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|47|336|Y|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|48|308|もち*たろぅ|<a href="https://search.dartslive.com/jp/shop/1182d9dc5c38391b774c926eb736cb5a">Rodeo Darts</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:52_
+_last update : 2024/01/21 13:38:59_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

@@ -14,12 +14,32 @@ ___
 {:.table-ranking}
 |ランク|スコア|名前|店名|所在地|
 |---|---|---|---|---|
+|1|1045|Fuku@west☆end|<a href="https://search.dartslive.com/jp/shop/f1b85b87f406dd530d9b047a20a7ba1e">ラウンドワン沖縄南風原店</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
+|2|966|NO NAME FUKU|<a href="https://search.dartslive.com/jp/shop/f1b85b87f406dd530d9b047a20a7ba1e">ラウンドワン沖縄南風原店</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
+|3|944|T.R.D ✯發仔|<a href="https://search.dartslive.com/jp/shop/f1b85b87f406dd530d9b047a20a7ba1e">ラウンドワン沖縄南風原店</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
+|4|896|キー坊|<a href="https://search.dartslive.com/jp/shop/f1b85b87f406dd530d9b047a20a7ba1e">ラウンドワン沖縄南風原店</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
+|5|886|ヒガ|<a href="https://search.dartslive.com/jp/shop/f1b85b87f406dd530d9b047a20a7ba1e">ラウンドワン沖縄南風原店</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
+|6|831|かい太郎|<a href="https://search.dartslive.com/jp/shop/f1b85b87f406dd530d9b047a20a7ba1e">ラウンドワン沖縄南風原店</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
+|7|805|ま|<a href="https://search.dartslive.com/jp/shop/f1b85b87f406dd530d9b047a20a7ba1e">ラウンドワン沖縄南風原店</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
+|8|795|布袋様/富貴繁栄|<a href="https://search.dartslive.com/jp/shop/f1b85b87f406dd530d9b047a20a7ba1e">ラウンドワン沖縄南風原店</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
+|9|770|Wiin.YUTAKA|<a href="https://search.dartslive.com/jp/shop/f1b85b87f406dd530d9b047a20a7ba1e">ラウンドワン沖縄南風原店</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
+|10|755|気になる柳|<a href="https://search.dartslive.com/jp/shop/f1b85b87f406dd530d9b047a20a7ba1e">ラウンドワン沖縄南風原店</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
+|11|750|y,|<a href="https://search.dartslive.com/jp/shop/f1b85b87f406dd530d9b047a20a7ba1e">ラウンドワン沖縄南風原店</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
+|12|748|☆ＴＲＣ☆|<a href="https://search.dartslive.com/jp/shop/f1b85b87f406dd530d9b047a20a7ba1e">ラウンドワン沖縄南風原店</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
+|13|717|布袋様/超cosmo|<a href="https://search.dartslive.com/jp/shop/f1b85b87f406dd530d9b047a20a7ba1e">ラウンドワン沖縄南風原店</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
+|14|711|そら|<a href="https://search.dartslive.com/jp/shop/f1b85b87f406dd530d9b047a20a7ba1e">ラウンドワン沖縄南風原店</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
+|15|709|ぺ|<a href="https://search.dartslive.com/jp/shop/f1b85b87f406dd530d9b047a20a7ba1e">ラウンドワン沖縄南風原店</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
+|16|705|HITAGASI|<a href="https://search.dartslive.com/jp/shop/f1b85b87f406dd530d9b047a20a7ba1e">ラウンドワン沖縄南風原店</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
+|17|430|あゆchan☆(^^♪|<a href="https://search.dartslive.com/jp/shop/f1b85b87f406dd530d9b047a20a7ba1e">ラウンドワン沖縄南風原店</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
+|18|425|taka0416|<a href="https://search.dartslive.com/jp/shop/f1b85b87f406dd530d9b047a20a7ba1e">ラウンドワン沖縄南風原店</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
+|19|379|zenji0729|<a href="https://search.dartslive.com/jp/shop/f1b85b87f406dd530d9b047a20a7ba1e">ラウンドワン沖縄南風原店</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
+|20|347|ゆゆゆ|<a href="https://search.dartslive.com/jp/shop/f1b85b87f406dd530d9b047a20a7ba1e">ラウンドワン沖縄南風原店</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:57_
+_last update : 2024/01/21 13:39:08_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

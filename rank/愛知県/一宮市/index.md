@@ -32,94 +32,94 @@ ___
 |16|1095|鈴木大地SoleSoul|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
 |17|1094|◆ぺったん◆|<a href="https://search.dartslive.com/jp/shop/bdf8ebae9b879b5a0d9b047a20a7ba1e">Rookie's</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
 |18|1086|おしげ@しげお|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|19|1082|Yuki Hayashi|<a href="https://search.dartslive.com/jp/shop/a8ade3665feb96b258d385ea46352d8f">インターネットカフェ NEO</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|19|1082|よしとろっくす|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|21|1079|かーんーたー|<a href="https://search.dartslive.com/jp/shop/bdf8ebae9b879b5a0d9b047a20a7ba1e">Rookie's</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|22|1074|Y u - K i|<a href="https://search.dartslive.com/jp/shop/8e1b1ea6345ec5d1f454cb89828a1cfe">FUN PLACES</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|23|1070|カズナリ|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|24|1068|のりを|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|25|1067|じゃむ。|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|26|1065|Shun.Ito|<a href="https://search.dartslive.com/jp/shop/6c88dbdac200bec828032249b44395af">カラオケ＆ビリヤード ジョイジョイ 一宮店</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|27|1062|村田　俊憲|<a href="https://search.dartslive.com/jp/shop/bdf8ebae9b879b5a0d9b047a20a7ba1e">Rookie's</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|28|1060|村田　俊憲|<a href="https://search.dartslive.com/jp/shop/8e1b1ea6345ec5d1f454cb89828a1cfe">FUN PLACES</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|29|1059|taka|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|30|1058|伊藤 駿|<a href="https://search.dartslive.com/jp/shop/bdf8ebae9b879b5a0d9b047a20a7ba1e">Rookie's</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|31|1056|ぐい|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|32|1052|おしげ@Dx3一宮|<a href="https://search.dartslive.com/jp/shop/1bbfb1aa6775ed00a3f63593b5358cc4">JOYJOY尾西郷東店</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|33|1051|SHUYA|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|34|1042|taka|<a href="https://search.dartslive.com/jp/shop/a8ade3665feb96b258d385ea46352d8f">インターネットカフェ NEO</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|35|1036|井野　翔喜|<a href="https://search.dartslive.com/jp/shop/8e1b1ea6345ec5d1f454cb89828a1cfe">FUN PLACES</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|36|1032|内藤 光弘|<a href="https://search.dartslive.com/jp/shop/8e1b1ea6345ec5d1f454cb89828a1cfe">FUN PLACES</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|37|1021|しょう@あきひと|<a href="https://search.dartslive.com/jp/shop/a8ade3665feb96b258d385ea46352d8f">インターネットカフェ NEO</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|38|1017|かわうっち|<a href="https://search.dartslive.com/jp/shop/6c88dbdac200bec828032249b44395af">カラオケ＆ビリヤード ジョイジョイ 一宮店</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|39|1016|☆DMC☆山本 貴斗|<a href="https://search.dartslive.com/jp/shop/a8ade3665feb96b258d385ea46352d8f">インターネットカフェ NEO</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|40|1011|おしげ@しげお|<a href="https://search.dartslive.com/jp/shop/a8ade3665feb96b258d385ea46352d8f">インターネットカフェ NEO</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|41|1005|後藤|<a href="https://search.dartslive.com/jp/shop/a8ade3665feb96b258d385ea46352d8f">インターネットカフェ NEO</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|42|1004|松浦 広貴|<a href="https://search.dartslive.com/jp/shop/8e1b1ea6345ec5d1f454cb89828a1cfe">FUN PLACES</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|43|1003|しょう。|<a href="https://search.dartslive.com/jp/shop/a8ade3665feb96b258d385ea46352d8f">インターネットカフェ NEO</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|44|1000|むらしょー@DT|<a href="https://search.dartslive.com/jp/shop/6c88dbdac200bec828032249b44395af">カラオケ＆ビリヤード ジョイジョイ 一宮店</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|45|997|Yusuke Kuwahara|<a href="https://search.dartslive.com/jp/shop/a8ade3665feb96b258d385ea46352d8f">インターネットカフェ NEO</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|46|980|雅|<a href="https://search.dartslive.com/jp/shop/8e1b1ea6345ec5d1f454cb89828a1cfe">FUN PLACES</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|47|975|ぱすも|<a href="https://search.dartslive.com/jp/shop/a8ade3665feb96b258d385ea46352d8f">インターネットカフェ NEO</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|48|969|T.T|<a href="https://search.dartslive.com/jp/shop/6c88dbdac200bec828032249b44395af">カラオケ＆ビリヤード ジョイジョイ 一宮店</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|49|966|後藤 健太|<a href="https://search.dartslive.com/jp/shop/8e1b1ea6345ec5d1f454cb89828a1cfe">FUN PLACES</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|50|957|kozy|<a href="https://search.dartslive.com/jp/shop/bdf8ebae9b879b5a0d9b047a20a7ba1e">Rookie's</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|51|954|ぱすも|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|52|949|34Hot-Shot|<a href="https://search.dartslive.com/jp/shop/6c88dbdac200bec828032249b44395af">カラオケ＆ビリヤード ジョイジョイ 一宮店</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|53|939|しょう@あきひと|<a href="https://search.dartslive.com/jp/shop/bdf8ebae9b879b5a0d9b047a20a7ba1e">Rookie's</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|54|933|masa*|<a href="https://search.dartslive.com/jp/shop/a8ade3665feb96b258d385ea46352d8f">インターネットカフェ NEO</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|54|933|小原龍次D×3一宮|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|56|925|✩KOHEI✩|<a href="https://search.dartslive.com/jp/shop/6c88dbdac200bec828032249b44395af">カラオケ＆ビリヤード ジョイジョイ 一宮店</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|57|924|ワルーキー|<a href="https://search.dartslive.com/jp/shop/bdf8ebae9b879b5a0d9b047a20a7ba1e">Rookie's</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|58|919|都筑　稚菜|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|59|917|わおん|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|60|916|ひろにゃ～|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|61|909|上|<a href="https://search.dartslive.com/jp/shop/6c88dbdac200bec828032249b44395af">カラオケ＆ビリヤード ジョイジョイ 一宮店</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|62|901|むらしょー@DT|<a href="https://search.dartslive.com/jp/shop/8e1b1ea6345ec5d1f454cb89828a1cfe">FUN PLACES</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|63|899|Tomoy@|<a href="https://search.dartslive.com/jp/shop/bdf8ebae9b879b5a0d9b047a20a7ba1e">Rookie's</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|64|884|Kengo Mizutani|<a href="https://search.dartslive.com/jp/shop/6c88dbdac200bec828032249b44395af">カラオケ＆ビリヤード ジョイジョイ 一宮店</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|65|878|ラ王|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|66|877|「Bear。」|<a href="https://search.dartslive.com/jp/shop/8e1b1ea6345ec5d1f454cb89828a1cfe">FUN PLACES</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|67|876|Kuma|<a href="https://search.dartslive.com/jp/shop/8e1b1ea6345ec5d1f454cb89828a1cfe">FUN PLACES</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|68|870|Kengo Mizutani|<a href="https://search.dartslive.com/jp/shop/8e1b1ea6345ec5d1f454cb89828a1cfe">FUN PLACES</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|69|861|中村 勇紀|<a href="https://search.dartslive.com/jp/shop/8e1b1ea6345ec5d1f454cb89828a1cfe">FUN PLACES</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|70|860|脇 佑真|<a href="https://search.dartslive.com/jp/shop/a8ade3665feb96b258d385ea46352d8f">インターネットカフェ NEO</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|71|859|ゆきゆき|<a href="https://search.dartslive.com/jp/shop/1bbfb1aa6775ed00a3f63593b5358cc4">JOYJOY尾西郷東店</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|72|858|わおん|<a href="https://search.dartslive.com/jp/shop/a8ade3665feb96b258d385ea46352d8f">インターネットカフェ NEO</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|73|852|まちゅい|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|74|849|ゴリラ|<a href="https://search.dartslive.com/jp/shop/6c88dbdac200bec828032249b44395af">カラオケ＆ビリヤード ジョイジョイ 一宮店</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|75|848|chii|<a href="https://search.dartslive.com/jp/shop/a8ade3665feb96b258d385ea46352d8f">インターネットカフェ NEO</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|76|844|おちえ@No.iE|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|77|843|テリー☆ゴディー|<a href="https://search.dartslive.com/jp/shop/bdf8ebae9b879b5a0d9b047a20a7ba1e">Rookie's</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|78|842|むらしょー|<a href="https://search.dartslive.com/jp/shop/8e1b1ea6345ec5d1f454cb89828a1cfe">FUN PLACES</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|78|842|ヤス|<a href="https://search.dartslive.com/jp/shop/6c88dbdac200bec828032249b44395af">カラオケ＆ビリヤード ジョイジョイ 一宮店</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|80|841|よすち|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|81|839|hana_SH|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|82|834|たけぼー|<a href="https://search.dartslive.com/jp/shop/1bbfb1aa6775ed00a3f63593b5358cc4">JOYJOY尾西郷東店</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|83|833|ZERO|<a href="https://search.dartslive.com/jp/shop/6c88dbdac200bec828032249b44395af">カラオケ＆ビリヤード ジョイジョイ 一宮店</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|84|831|MEGANEROCK|<a href="https://search.dartslive.com/jp/shop/6c88dbdac200bec828032249b44395af">カラオケ＆ビリヤード ジョイジョイ 一宮店</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|85|826|橋本引退|<a href="https://search.dartslive.com/jp/shop/bdf8ebae9b879b5a0d9b047a20a7ba1e">Rookie's</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|86|825|IKE|<a href="https://search.dartslive.com/jp/shop/bdf8ebae9b879b5a0d9b047a20a7ba1e">Rookie's</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|87|824|はるか|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|88|821|chii|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|89|819|ちゅぴ|<a href="https://search.dartslive.com/jp/shop/8e1b1ea6345ec5d1f454cb89828a1cfe">FUN PLACES</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|90|818|王将の人B|<a href="https://search.dartslive.com/jp/shop/6c88dbdac200bec828032249b44395af">カラオケ＆ビリヤード ジョイジョイ 一宮店</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|91|809|くっぴー|<a href="https://search.dartslive.com/jp/shop/6c88dbdac200bec828032249b44395af">カラオケ＆ビリヤード ジョイジョイ 一宮店</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|92|807|おかだです。|<a href="https://search.dartslive.com/jp/shop/8e1b1ea6345ec5d1f454cb89828a1cfe">FUN PLACES</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|93|804|ちさ|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|94|801|えんちゃん。|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|95|794|おかだです。|<a href="https://search.dartslive.com/jp/shop/bdf8ebae9b879b5a0d9b047a20a7ba1e">Rookie's</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|96|792|ぱすも|<a href="https://search.dartslive.com/jp/shop/8e1b1ea6345ec5d1f454cb89828a1cfe">FUN PLACES</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|97|790|ゆうじD⭐︎♪|<a href="https://search.dartslive.com/jp/shop/a8ade3665feb96b258d385ea46352d8f">インターネットカフェ NEO</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|98|789|わおんこんにゃく|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|99|780|水野　裕樹|<a href="https://search.dartslive.com/jp/shop/1bbfb1aa6775ed00a3f63593b5358cc4">JOYJOY尾西郷東店</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|100|779|くっぴー|<a href="https://search.dartslive.com/jp/shop/bdf8ebae9b879b5a0d9b047a20a7ba1e">Rookie's</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|19|1084|脇 佑真|<a href="https://search.dartslive.com/jp/shop/a8ade3665feb96b258d385ea46352d8f">インターネットカフェ NEO</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|20|1082|Yuki Hayashi|<a href="https://search.dartslive.com/jp/shop/a8ade3665feb96b258d385ea46352d8f">インターネットカフェ NEO</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|20|1082|よしとろっくす|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|22|1081|ひろにゃ～|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|23|1079|かーんーたー|<a href="https://search.dartslive.com/jp/shop/bdf8ebae9b879b5a0d9b047a20a7ba1e">Rookie's</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|24|1074|Y u - K i|<a href="https://search.dartslive.com/jp/shop/8e1b1ea6345ec5d1f454cb89828a1cfe">FUN PLACES</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|25|1070|カズナリ|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|26|1068|のりを|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|27|1067|じゃむ。|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|28|1065|Shun.Ito|<a href="https://search.dartslive.com/jp/shop/6c88dbdac200bec828032249b44395af">カラオケ＆ビリヤード ジョイジョイ 一宮店</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|29|1062|村田　俊憲|<a href="https://search.dartslive.com/jp/shop/bdf8ebae9b879b5a0d9b047a20a7ba1e">Rookie's</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|30|1060|村田　俊憲|<a href="https://search.dartslive.com/jp/shop/8e1b1ea6345ec5d1f454cb89828a1cfe">FUN PLACES</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|31|1059|taka|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|32|1058|伊藤 駿|<a href="https://search.dartslive.com/jp/shop/bdf8ebae9b879b5a0d9b047a20a7ba1e">Rookie's</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|33|1056|ぐい|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|34|1052|おしげ@Dx3一宮|<a href="https://search.dartslive.com/jp/shop/1bbfb1aa6775ed00a3f63593b5358cc4">JOYJOY尾西郷東店</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|35|1051|SHUYA|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|36|1042|taka|<a href="https://search.dartslive.com/jp/shop/a8ade3665feb96b258d385ea46352d8f">インターネットカフェ NEO</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|37|1036|井野　翔喜|<a href="https://search.dartslive.com/jp/shop/8e1b1ea6345ec5d1f454cb89828a1cfe">FUN PLACES</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|38|1032|内藤 光弘|<a href="https://search.dartslive.com/jp/shop/8e1b1ea6345ec5d1f454cb89828a1cfe">FUN PLACES</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|39|1021|しょう@あきひと|<a href="https://search.dartslive.com/jp/shop/a8ade3665feb96b258d385ea46352d8f">インターネットカフェ NEO</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|40|1017|かわうっち|<a href="https://search.dartslive.com/jp/shop/6c88dbdac200bec828032249b44395af">カラオケ＆ビリヤード ジョイジョイ 一宮店</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|41|1016|☆DMC☆山本 貴斗|<a href="https://search.dartslive.com/jp/shop/a8ade3665feb96b258d385ea46352d8f">インターネットカフェ NEO</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|42|1011|おしげ@しげお|<a href="https://search.dartslive.com/jp/shop/a8ade3665feb96b258d385ea46352d8f">インターネットカフェ NEO</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|43|1005|後藤|<a href="https://search.dartslive.com/jp/shop/a8ade3665feb96b258d385ea46352d8f">インターネットカフェ NEO</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|44|1004|松浦 広貴|<a href="https://search.dartslive.com/jp/shop/8e1b1ea6345ec5d1f454cb89828a1cfe">FUN PLACES</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|45|1003|しょう。|<a href="https://search.dartslive.com/jp/shop/a8ade3665feb96b258d385ea46352d8f">インターネットカフェ NEO</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|46|1000|むらしょー@DT|<a href="https://search.dartslive.com/jp/shop/6c88dbdac200bec828032249b44395af">カラオケ＆ビリヤード ジョイジョイ 一宮店</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|47|997|Yusuke Kuwahara|<a href="https://search.dartslive.com/jp/shop/a8ade3665feb96b258d385ea46352d8f">インターネットカフェ NEO</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|48|980|雅|<a href="https://search.dartslive.com/jp/shop/8e1b1ea6345ec5d1f454cb89828a1cfe">FUN PLACES</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|49|975|ぱすも|<a href="https://search.dartslive.com/jp/shop/a8ade3665feb96b258d385ea46352d8f">インターネットカフェ NEO</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|50|969|T.T|<a href="https://search.dartslive.com/jp/shop/6c88dbdac200bec828032249b44395af">カラオケ＆ビリヤード ジョイジョイ 一宮店</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|51|966|後藤 健太|<a href="https://search.dartslive.com/jp/shop/8e1b1ea6345ec5d1f454cb89828a1cfe">FUN PLACES</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|52|954|ぱすも|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|53|949|34Hot-Shot|<a href="https://search.dartslive.com/jp/shop/6c88dbdac200bec828032249b44395af">カラオケ＆ビリヤード ジョイジョイ 一宮店</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|54|939|しょう@あきひと|<a href="https://search.dartslive.com/jp/shop/bdf8ebae9b879b5a0d9b047a20a7ba1e">Rookie's</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|55|925|✩KOHEI✩|<a href="https://search.dartslive.com/jp/shop/6c88dbdac200bec828032249b44395af">カラオケ＆ビリヤード ジョイジョイ 一宮店</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|56|924|ワルーキー|<a href="https://search.dartslive.com/jp/shop/bdf8ebae9b879b5a0d9b047a20a7ba1e">Rookie's</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|57|919|都筑　稚菜|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|58|917|わおん|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|59|909|上|<a href="https://search.dartslive.com/jp/shop/6c88dbdac200bec828032249b44395af">カラオケ＆ビリヤード ジョイジョイ 一宮店</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|60|901|むらしょー@DT|<a href="https://search.dartslive.com/jp/shop/8e1b1ea6345ec5d1f454cb89828a1cfe">FUN PLACES</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|61|899|Tomoy@|<a href="https://search.dartslive.com/jp/shop/bdf8ebae9b879b5a0d9b047a20a7ba1e">Rookie's</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|62|884|Kengo Mizutani|<a href="https://search.dartslive.com/jp/shop/6c88dbdac200bec828032249b44395af">カラオケ＆ビリヤード ジョイジョイ 一宮店</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|63|877|「Bear。」|<a href="https://search.dartslive.com/jp/shop/8e1b1ea6345ec5d1f454cb89828a1cfe">FUN PLACES</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|64|876|Kuma|<a href="https://search.dartslive.com/jp/shop/8e1b1ea6345ec5d1f454cb89828a1cfe">FUN PLACES</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|65|870|Kengo Mizutani|<a href="https://search.dartslive.com/jp/shop/8e1b1ea6345ec5d1f454cb89828a1cfe">FUN PLACES</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|66|861|中村 勇紀|<a href="https://search.dartslive.com/jp/shop/8e1b1ea6345ec5d1f454cb89828a1cfe">FUN PLACES</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|67|859|ゆきゆき|<a href="https://search.dartslive.com/jp/shop/1bbfb1aa6775ed00a3f63593b5358cc4">JOYJOY尾西郷東店</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|68|858|わおん|<a href="https://search.dartslive.com/jp/shop/a8ade3665feb96b258d385ea46352d8f">インターネットカフェ NEO</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|69|852|まちゅい|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|70|849|ゴリラ|<a href="https://search.dartslive.com/jp/shop/6c88dbdac200bec828032249b44395af">カラオケ＆ビリヤード ジョイジョイ 一宮店</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|71|848|chii|<a href="https://search.dartslive.com/jp/shop/a8ade3665feb96b258d385ea46352d8f">インターネットカフェ NEO</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|72|844|おちえ@No.iE|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|73|843|テリー☆ゴディー|<a href="https://search.dartslive.com/jp/shop/bdf8ebae9b879b5a0d9b047a20a7ba1e">Rookie's</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|74|842|むらしょー|<a href="https://search.dartslive.com/jp/shop/8e1b1ea6345ec5d1f454cb89828a1cfe">FUN PLACES</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|74|842|ヤス|<a href="https://search.dartslive.com/jp/shop/6c88dbdac200bec828032249b44395af">カラオケ＆ビリヤード ジョイジョイ 一宮店</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|76|839|hana_SH|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|77|834|たけぼー|<a href="https://search.dartslive.com/jp/shop/1bbfb1aa6775ed00a3f63593b5358cc4">JOYJOY尾西郷東店</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|78|833|ZERO|<a href="https://search.dartslive.com/jp/shop/6c88dbdac200bec828032249b44395af">カラオケ＆ビリヤード ジョイジョイ 一宮店</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|79|831|MEGANEROCK|<a href="https://search.dartslive.com/jp/shop/6c88dbdac200bec828032249b44395af">カラオケ＆ビリヤード ジョイジョイ 一宮店</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|80|826|橋本引退|<a href="https://search.dartslive.com/jp/shop/bdf8ebae9b879b5a0d9b047a20a7ba1e">Rookie's</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|81|825|IKE|<a href="https://search.dartslive.com/jp/shop/bdf8ebae9b879b5a0d9b047a20a7ba1e">Rookie's</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|82|824|はるか|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|83|821|chii|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|84|819|ちゅぴ|<a href="https://search.dartslive.com/jp/shop/8e1b1ea6345ec5d1f454cb89828a1cfe">FUN PLACES</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|85|818|王将の人B|<a href="https://search.dartslive.com/jp/shop/6c88dbdac200bec828032249b44395af">カラオケ＆ビリヤード ジョイジョイ 一宮店</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|86|809|くっぴー|<a href="https://search.dartslive.com/jp/shop/6c88dbdac200bec828032249b44395af">カラオケ＆ビリヤード ジョイジョイ 一宮店</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|87|807|おかだです。|<a href="https://search.dartslive.com/jp/shop/8e1b1ea6345ec5d1f454cb89828a1cfe">FUN PLACES</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|88|804|ちさ|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|89|794|おかだです。|<a href="https://search.dartslive.com/jp/shop/bdf8ebae9b879b5a0d9b047a20a7ba1e">Rookie's</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|90|792|ぱすも|<a href="https://search.dartslive.com/jp/shop/8e1b1ea6345ec5d1f454cb89828a1cfe">FUN PLACES</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|91|789|わおんこんにゃく|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|92|780|水野　裕樹|<a href="https://search.dartslive.com/jp/shop/1bbfb1aa6775ed00a3f63593b5358cc4">JOYJOY尾西郷東店</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|93|779|くっぴー|<a href="https://search.dartslive.com/jp/shop/bdf8ebae9b879b5a0d9b047a20a7ba1e">Rookie's</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|94|777|みえ@rOOkie&#x27;s|<a href="https://search.dartslive.com/jp/shop/bdf8ebae9b879b5a0d9b047a20a7ba1e">Rookie's</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|95|769|YOSSHI4041|<a href="https://search.dartslive.com/jp/shop/1bbfb1aa6775ed00a3f63593b5358cc4">JOYJOY尾西郷東店</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|96|768|hana_華(｡･_･｡)|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|97|763|都筑　稚菜|<a href="https://search.dartslive.com/jp/shop/bdf8ebae9b879b5a0d9b047a20a7ba1e">Rookie's</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|98|762|ozasyo110|<a href="https://search.dartslive.com/jp/shop/6c88dbdac200bec828032249b44395af">カラオケ＆ビリヤード ジョイジョイ 一宮店</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|99|754|x 暁 x|<a href="https://search.dartslive.com/jp/shop/1bbfb1aa6775ed00a3f63593b5358cc4">JOYJOY尾西郷東店</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|100|753|K’on|<a href="https://search.dartslive.com/jp/shop/6c88dbdac200bec828032249b44395af">カラオケ＆ビリヤード ジョイジョイ 一宮店</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:54_
+_last update : 2024/01/21 13:39:01_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

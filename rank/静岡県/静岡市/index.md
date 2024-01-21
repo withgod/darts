@@ -18,35 +18,35 @@ ___
 |2|1156|銀牙[ねこ]|<a href="https://search.dartslive.com/jp/shop/2219a72ccefd5b36f454cb89828a1cfe">アプレシオ東静岡駅前店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
 |3|1125|たかはしりょう|<a href="https://search.dartslive.com/jp/shop/3387652dd89035ccfec1ae84bb28bd87">zero R</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
 |4|1105|McKee|<a href="https://search.dartslive.com/jp/shop/2219a72ccefd5b36f454cb89828a1cfe">アプレシオ東静岡駅前店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|5|1104|D×3 鈴木大地|<a href="https://search.dartslive.com/jp/shop/f6fb287c4342ea9fb21333aee1bd51e4">Dragoon</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|6|1098|McKee|<a href="https://search.dartslive.com/jp/shop/edc63a803b25dc6b28032249b44395af">OLIVAS</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|7|1077|Tomoyuki Kyoya|<a href="https://search.dartslive.com/jp/shop/f57eca41eb52a267a3f63593b5358cc4">Play Garden静岡本店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|8|1076|TAKUMA|<a href="https://search.dartslive.com/jp/shop/2219a72ccefd5b36f454cb89828a1cfe">アプレシオ東静岡駅前店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|9|1060|魔神|<a href="https://search.dartslive.com/jp/shop/56f4fba4159e896dfec1ae84bb28bd87">Avanti</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|10|1051|NO NAME 1014|<a href="https://search.dartslive.com/jp/shop/f6fb287c4342ea9fb21333aee1bd51e4">Dragoon</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|11|1049|Hopperとぅるたま|<a href="https://search.dartslive.com/jp/shop/56f4fba4159e896dfec1ae84bb28bd87">Avanti</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|12|1045|TAKUMA|<a href="https://search.dartslive.com/jp/shop/dda6b2ef88f37b1f58d385ea46352d8f">快活CLUB 静岡寿町店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|13|1044|ﾉﾝﾀﾝ|<a href="https://search.dartslive.com/jp/shop/dda6b2ef88f37b1f58d385ea46352d8f">快活CLUB 静岡寿町店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|14|1040|masa|<a href="https://search.dartslive.com/jp/shop/dda6b2ef88f37b1f58d385ea46352d8f">快活CLUB 静岡寿町店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|15|1025|N|<a href="https://search.dartslive.com/jp/shop/2219a72ccefd5b36f454cb89828a1cfe">アプレシオ東静岡駅前店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|16|1012|ゆうだい|<a href="https://search.dartslive.com/jp/shop/2219a72ccefd5b36f454cb89828a1cfe">アプレシオ東静岡駅前店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|17|1006|んじろう|<a href="https://search.dartslive.com/jp/shop/dda6b2ef88f37b1f58d385ea46352d8f">快活CLUB 静岡寿町店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|18|1005|TAKENORI KIRARA|<a href="https://search.dartslive.com/jp/shop/2219a72ccefd5b36f454cb89828a1cfe">アプレシオ東静岡駅前店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|19|1004|柴木 智貴|<a href="https://search.dartslive.com/jp/shop/4a5406da498886a2a3f63593b5358cc4">快活CLUB 清水春日店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|20|1000|ミズノ|<a href="https://search.dartslive.com/jp/shop/dda6b2ef88f37b1f58d385ea46352d8f">快活CLUB 静岡寿町店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|21|987|ROSSO|<a href="https://search.dartslive.com/jp/shop/2219a72ccefd5b36f454cb89828a1cfe">アプレシオ東静岡駅前店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|22|986|X@Bull&#x27;sEYE|<a href="https://search.dartslive.com/jp/shop/d79ef1075ff884d80d9b047a20a7ba1e">ラウンドワン静岡駿河店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|23|984|Blanc|<a href="https://search.dartslive.com/jp/shop/a243d5fac7a019170d9b047a20a7ba1e">プラザアピア静岡店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|23|984|†-s[h]in-†|<a href="https://search.dartslive.com/jp/shop/2219a72ccefd5b36f454cb89828a1cfe">アプレシオ東静岡駅前店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|25|977|まよネーズ|<a href="https://search.dartslive.com/jp/shop/3387652dd89035ccfec1ae84bb28bd87">zero R</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|26|975|Takayuki|<a href="https://search.dartslive.com/jp/shop/2219a72ccefd5b36f454cb89828a1cfe">アプレシオ東静岡駅前店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|27|973|taka|<a href="https://search.dartslive.com/jp/shop/d79ef1075ff884d80d9b047a20a7ba1e">ラウンドワン静岡駿河店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|28|970|taka|<a href="https://search.dartslive.com/jp/shop/dda6b2ef88f37b1f58d385ea46352d8f">快活CLUB 静岡寿町店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|29|968|TAKUMA|<a href="https://search.dartslive.com/jp/shop/4274bf205cd9ff20b21333aee1bd51e4">カラオケマック静岡両替町店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|29|968|永野 公彦|<a href="https://search.dartslive.com/jp/shop/f6fb287c4342ea9fb21333aee1bd51e4">Dragoon</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|31|967|TAKUMA|<a href="https://search.dartslive.com/jp/shop/edc63a803b25dc6b28032249b44395af">OLIVAS</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|32|966|TAKENORI KIRARA|<a href="https://search.dartslive.com/jp/shop/91c83ec7744edabba3f63593b5358cc4">EAGLE EYE</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|32|966|TAKENORI KIRARA|<a href="https://search.dartslive.com/jp/shop/f6fb287c4342ea9fb21333aee1bd51e4">Dragoon</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|4|1105|TAKENORI KIRARA|<a href="https://search.dartslive.com/jp/shop/f6fb287c4342ea9fb21333aee1bd51e4">Dragoon</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|6|1104|D×3 鈴木大地|<a href="https://search.dartslive.com/jp/shop/f6fb287c4342ea9fb21333aee1bd51e4">Dragoon</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|7|1098|McKee|<a href="https://search.dartslive.com/jp/shop/edc63a803b25dc6b28032249b44395af">OLIVAS</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|8|1077|Tomoyuki Kyoya|<a href="https://search.dartslive.com/jp/shop/f57eca41eb52a267a3f63593b5358cc4">Play Garden静岡本店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|9|1076|TAKUMA|<a href="https://search.dartslive.com/jp/shop/2219a72ccefd5b36f454cb89828a1cfe">アプレシオ東静岡駅前店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|10|1060|魔神|<a href="https://search.dartslive.com/jp/shop/56f4fba4159e896dfec1ae84bb28bd87">Avanti</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|11|1051|NO NAME 1014|<a href="https://search.dartslive.com/jp/shop/f6fb287c4342ea9fb21333aee1bd51e4">Dragoon</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|12|1049|Hopperとぅるたま|<a href="https://search.dartslive.com/jp/shop/56f4fba4159e896dfec1ae84bb28bd87">Avanti</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|13|1045|TAKUMA|<a href="https://search.dartslive.com/jp/shop/dda6b2ef88f37b1f58d385ea46352d8f">快活CLUB 静岡寿町店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|14|1044|ﾉﾝﾀﾝ|<a href="https://search.dartslive.com/jp/shop/dda6b2ef88f37b1f58d385ea46352d8f">快活CLUB 静岡寿町店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|15|1040|masa|<a href="https://search.dartslive.com/jp/shop/dda6b2ef88f37b1f58d385ea46352d8f">快活CLUB 静岡寿町店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|16|1025|N|<a href="https://search.dartslive.com/jp/shop/2219a72ccefd5b36f454cb89828a1cfe">アプレシオ東静岡駅前店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|17|1012|ゆうだい|<a href="https://search.dartslive.com/jp/shop/2219a72ccefd5b36f454cb89828a1cfe">アプレシオ東静岡駅前店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|18|1006|んじろう|<a href="https://search.dartslive.com/jp/shop/dda6b2ef88f37b1f58d385ea46352d8f">快活CLUB 静岡寿町店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|19|1005|TAKENORI KIRARA|<a href="https://search.dartslive.com/jp/shop/2219a72ccefd5b36f454cb89828a1cfe">アプレシオ東静岡駅前店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|20|1004|柴木 智貴|<a href="https://search.dartslive.com/jp/shop/4a5406da498886a2a3f63593b5358cc4">快活CLUB 清水春日店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|21|1000|ミズノ|<a href="https://search.dartslive.com/jp/shop/dda6b2ef88f37b1f58d385ea46352d8f">快活CLUB 静岡寿町店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|22|987|ROSSO|<a href="https://search.dartslive.com/jp/shop/2219a72ccefd5b36f454cb89828a1cfe">アプレシオ東静岡駅前店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|23|986|X@Bull&#x27;sEYE|<a href="https://search.dartslive.com/jp/shop/d79ef1075ff884d80d9b047a20a7ba1e">ラウンドワン静岡駿河店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|24|984|Blanc|<a href="https://search.dartslive.com/jp/shop/a243d5fac7a019170d9b047a20a7ba1e">プラザアピア静岡店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|24|984|†-s[h]in-†|<a href="https://search.dartslive.com/jp/shop/2219a72ccefd5b36f454cb89828a1cfe">アプレシオ東静岡駅前店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|26|977|まよネーズ|<a href="https://search.dartslive.com/jp/shop/3387652dd89035ccfec1ae84bb28bd87">zero R</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|27|975|Takayuki|<a href="https://search.dartslive.com/jp/shop/2219a72ccefd5b36f454cb89828a1cfe">アプレシオ東静岡駅前店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|28|973|taka|<a href="https://search.dartslive.com/jp/shop/d79ef1075ff884d80d9b047a20a7ba1e">ラウンドワン静岡駿河店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|29|970|taka|<a href="https://search.dartslive.com/jp/shop/dda6b2ef88f37b1f58d385ea46352d8f">快活CLUB 静岡寿町店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|30|968|TAKUMA|<a href="https://search.dartslive.com/jp/shop/4274bf205cd9ff20b21333aee1bd51e4">カラオケマック静岡両替町店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|30|968|永野 公彦|<a href="https://search.dartslive.com/jp/shop/f6fb287c4342ea9fb21333aee1bd51e4">Dragoon</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|32|967|TAKUMA|<a href="https://search.dartslive.com/jp/shop/edc63a803b25dc6b28032249b44395af">OLIVAS</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|33|966|TAKENORI KIRARA|<a href="https://search.dartslive.com/jp/shop/91c83ec7744edabba3f63593b5358cc4">EAGLE EYE</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
 |34|965|hojo|<a href="https://search.dartslive.com/jp/shop/2219a72ccefd5b36f454cb89828a1cfe">アプレシオ東静岡駅前店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
 |35|962|N|<a href="https://search.dartslive.com/jp/shop/dda6b2ef88f37b1f58d385ea46352d8f">快活CLUB 静岡寿町店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
 |36|961|きりゅ|<a href="https://search.dartslive.com/jp/shop/4a5406da498886a2a3f63593b5358cc4">快活CLUB 清水春日店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
@@ -57,31 +57,31 @@ ___
 |41|953|Tomoyuki Kyoya|<a href="https://search.dartslive.com/jp/shop/3387652dd89035ccfec1ae84bb28bd87">zero R</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
 |42|946|はむ|<a href="https://search.dartslive.com/jp/shop/edc63a803b25dc6b28032249b44395af">OLIVAS</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
 |43|936|萩原 光一郎|<a href="https://search.dartslive.com/jp/shop/dda6b2ef88f37b1f58d385ea46352d8f">快活CLUB 静岡寿町店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|44|925|masa|<a href="https://search.dartslive.com/jp/shop/f6fb287c4342ea9fb21333aee1bd51e4">Dragoon</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
 |44|925|佐々木 淳也|<a href="https://search.dartslive.com/jp/shop/c5da93f62c2173a5b21333aee1bd51e4">DARTS&BAR STRAIGHT</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|46|923|T|<a href="https://search.dartslive.com/jp/shop/c5da93f62c2173a5b21333aee1bd51e4">DARTS&BAR STRAIGHT</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|47|922|Quuuut|<a href="https://search.dartslive.com/jp/shop/c5da93f62c2173a5b21333aee1bd51e4">DARTS&BAR STRAIGHT</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|48|921|諦めないニスイ|<a href="https://search.dartslive.com/jp/shop/f6fb287c4342ea9fb21333aee1bd51e4">Dragoon</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|49|920|NO NAME 1014|<a href="https://search.dartslive.com/jp/shop/dda6b2ef88f37b1f58d385ea46352d8f">快活CLUB 静岡寿町店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|49|920|τοττιε|<a href="https://search.dartslive.com/jp/shop/4a5406da498886a2a3f63593b5358cc4">快活CLUB 清水春日店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|49|920|トシボー|<a href="https://search.dartslive.com/jp/shop/4a5406da498886a2a3f63593b5358cc4">快活CLUB 清水春日店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|52|919|NO NAME 0432|<a href="https://search.dartslive.com/jp/shop/91c83ec7744edabba3f63593b5358cc4">EAGLE EYE</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|53|915|山口 傑|<a href="https://search.dartslive.com/jp/shop/f6fb287c4342ea9fb21333aee1bd51e4">Dragoon</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|54|913|きんちゃら|<a href="https://search.dartslive.com/jp/shop/f57eca41eb52a267a3f63593b5358cc4">Play Garden静岡本店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|55|911|お米シャワー|<a href="https://search.dartslive.com/jp/shop/dda6b2ef88f37b1f58d385ea46352d8f">快活CLUB 静岡寿町店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|56|910|masa|<a href="https://search.dartslive.com/jp/shop/2219a72ccefd5b36f454cb89828a1cfe">アプレシオ東静岡駅前店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|57|906|N|<a href="https://search.dartslive.com/jp/shop/041ffbef693f46b2b21333aee1bd51e4">Novel</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|57|906|hiro|<a href="https://search.dartslive.com/jp/shop/f6fb287c4342ea9fb21333aee1bd51e4">Dragoon</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|59|904|†-s[h]in-†|<a href="https://search.dartslive.com/jp/shop/4a5406da498886a2a3f63593b5358cc4">快活CLUB 清水春日店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|59|904|はむ|<a href="https://search.dartslive.com/jp/shop/041ffbef693f46b2b21333aee1bd51e4">Novel</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|61|900|NO NAME 2241|<a href="https://search.dartslive.com/jp/shop/f6fb287c4342ea9fb21333aee1bd51e4">Dragoon</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|61|900|みやぽこら|<a href="https://search.dartslive.com/jp/shop/4a5406da498886a2a3f63593b5358cc4">快活CLUB 清水春日店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|63|894|taka|<a href="https://search.dartslive.com/jp/shop/f6fb287c4342ea9fb21333aee1bd51e4">Dragoon</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|63|894|早川 航平|<a href="https://search.dartslive.com/jp/shop/4a5406da498886a2a3f63593b5358cc4">快活CLUB 清水春日店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|65|893|NO NAME 6086|<a href="https://search.dartslive.com/jp/shop/e5f3c44a3a6cd79d28032249b44395af">CHILL</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|65|893|きよかね|<a href="https://search.dartslive.com/jp/shop/4a5406da498886a2a3f63593b5358cc4">快活CLUB 清水春日店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|65|893|オリごか|<a href="https://search.dartslive.com/jp/shop/edc63a803b25dc6b28032249b44395af">OLIVAS</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|68|890|ゆき|<a href="https://search.dartslive.com/jp/shop/2219a72ccefd5b36f454cb89828a1cfe">アプレシオ東静岡駅前店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|45|923|T|<a href="https://search.dartslive.com/jp/shop/c5da93f62c2173a5b21333aee1bd51e4">DARTS&BAR STRAIGHT</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|46|922|Quuuut|<a href="https://search.dartslive.com/jp/shop/c5da93f62c2173a5b21333aee1bd51e4">DARTS&BAR STRAIGHT</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|47|921|諦めないニスイ|<a href="https://search.dartslive.com/jp/shop/f6fb287c4342ea9fb21333aee1bd51e4">Dragoon</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|48|920|NO NAME 1014|<a href="https://search.dartslive.com/jp/shop/dda6b2ef88f37b1f58d385ea46352d8f">快活CLUB 静岡寿町店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|48|920|τοττιε|<a href="https://search.dartslive.com/jp/shop/4a5406da498886a2a3f63593b5358cc4">快活CLUB 清水春日店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|48|920|トシボー|<a href="https://search.dartslive.com/jp/shop/4a5406da498886a2a3f63593b5358cc4">快活CLUB 清水春日店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|51|919|NO NAME 0432|<a href="https://search.dartslive.com/jp/shop/91c83ec7744edabba3f63593b5358cc4">EAGLE EYE</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|52|915|山口 傑|<a href="https://search.dartslive.com/jp/shop/f6fb287c4342ea9fb21333aee1bd51e4">Dragoon</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|53|913|きんちゃら|<a href="https://search.dartslive.com/jp/shop/f57eca41eb52a267a3f63593b5358cc4">Play Garden静岡本店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|54|911|お米シャワー|<a href="https://search.dartslive.com/jp/shop/dda6b2ef88f37b1f58d385ea46352d8f">快活CLUB 静岡寿町店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|55|910|masa|<a href="https://search.dartslive.com/jp/shop/2219a72ccefd5b36f454cb89828a1cfe">アプレシオ東静岡駅前店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|56|906|N|<a href="https://search.dartslive.com/jp/shop/041ffbef693f46b2b21333aee1bd51e4">Novel</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|56|906|hiro|<a href="https://search.dartslive.com/jp/shop/f6fb287c4342ea9fb21333aee1bd51e4">Dragoon</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|58|904|†-s[h]in-†|<a href="https://search.dartslive.com/jp/shop/4a5406da498886a2a3f63593b5358cc4">快活CLUB 清水春日店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|58|904|はむ|<a href="https://search.dartslive.com/jp/shop/041ffbef693f46b2b21333aee1bd51e4">Novel</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|60|900|NO NAME 2241|<a href="https://search.dartslive.com/jp/shop/f6fb287c4342ea9fb21333aee1bd51e4">Dragoon</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|60|900|みやぽこら|<a href="https://search.dartslive.com/jp/shop/4a5406da498886a2a3f63593b5358cc4">快活CLUB 清水春日店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|62|894|taka|<a href="https://search.dartslive.com/jp/shop/f6fb287c4342ea9fb21333aee1bd51e4">Dragoon</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|62|894|早川 航平|<a href="https://search.dartslive.com/jp/shop/4a5406da498886a2a3f63593b5358cc4">快活CLUB 清水春日店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|64|893|NO NAME 6086|<a href="https://search.dartslive.com/jp/shop/e5f3c44a3a6cd79d28032249b44395af">CHILL</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|64|893|きよかね|<a href="https://search.dartslive.com/jp/shop/4a5406da498886a2a3f63593b5358cc4">快活CLUB 清水春日店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|64|893|オリごか|<a href="https://search.dartslive.com/jp/shop/edc63a803b25dc6b28032249b44395af">OLIVAS</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|67|890|ゆき|<a href="https://search.dartslive.com/jp/shop/2219a72ccefd5b36f454cb89828a1cfe">アプレシオ東静岡駅前店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|68|888|masa|<a href="https://search.dartslive.com/jp/shop/f6fb287c4342ea9fb21333aee1bd51e4">Dragoon</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
 |69|887|SHOPRITE|<a href="https://search.dartslive.com/jp/shop/f57eca41eb52a267a3f63593b5358cc4">Play Garden静岡本店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
 |70|881|ﾉﾝﾀﾝ|<a href="https://search.dartslive.com/jp/shop/4a5406da498886a2a3f63593b5358cc4">快活CLUB 清水春日店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
 |71|876|なーりん|<a href="https://search.dartslive.com/jp/shop/dda6b2ef88f37b1f58d385ea46352d8f">快活CLUB 静岡寿町店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
@@ -119,7 +119,7 @@ ___
 
 ___
 
-_last update : 2024/01/21 03:05:53_
+_last update : 2024/01/21 13:39:01_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

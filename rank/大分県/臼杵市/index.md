@@ -14,12 +14,28 @@ ___
 {:.table-ranking}
 |ランク|スコア|名前|店名|所在地|
 |---|---|---|---|---|
+|1|873|☆Ｄαｉ☆|<a href="https://search.dartslive.com/jp/shop/b0951a203fd2b2190d9b047a20a7ba1e">カラオケBANBAN臼杵店</a>|<a href="/darts/rank/大分県/臼杵市">大分県臼杵市</a>|
+|2|689|SHOOT|<a href="https://search.dartslive.com/jp/shop/b0951a203fd2b2190d9b047a20a7ba1e">カラオケBANBAN臼杵店</a>|<a href="/darts/rank/大分県/臼杵市">大分県臼杵市</a>|
+|3|648|Scc代表取締役ｺﾕｷ|<a href="https://search.dartslive.com/jp/shop/b0951a203fd2b2190d9b047a20a7ba1e">カラオケBANBAN臼杵店</a>|<a href="/darts/rank/大分県/臼杵市">大分県臼杵市</a>|
+|4|605|NO NAME 9015|<a href="https://search.dartslive.com/jp/shop/b0951a203fd2b2190d9b047a20a7ba1e">カラオケBANBAN臼杵店</a>|<a href="/darts/rank/大分県/臼杵市">大分県臼杵市</a>|
+|5|589|ソウ|<a href="https://search.dartslive.com/jp/shop/b0951a203fd2b2190d9b047a20a7ba1e">カラオケBANBAN臼杵店</a>|<a href="/darts/rank/大分県/臼杵市">大分県臼杵市</a>|
+|6|588|粱～ryo|<a href="https://search.dartslive.com/jp/shop/b0951a203fd2b2190d9b047a20a7ba1e">カラオケBANBAN臼杵店</a>|<a href="/darts/rank/大分県/臼杵市">大分県臼杵市</a>|
+|7|574|pari|<a href="https://search.dartslive.com/jp/shop/b0951a203fd2b2190d9b047a20a7ba1e">カラオケBANBAN臼杵店</a>|<a href="/darts/rank/大分県/臼杵市">大分県臼杵市</a>|
+|8|538|chii|<a href="https://search.dartslive.com/jp/shop/b0951a203fd2b2190d9b047a20a7ba1e">カラオケBANBAN臼杵店</a>|<a href="/darts/rank/大分県/臼杵市">大分県臼杵市</a>|
+|9|531|まさと|<a href="https://search.dartslive.com/jp/shop/b0951a203fd2b2190d9b047a20a7ba1e">カラオケBANBAN臼杵店</a>|<a href="/darts/rank/大分県/臼杵市">大分県臼杵市</a>|
+|10|530|まっ|<a href="https://search.dartslive.com/jp/shop/b0951a203fd2b2190d9b047a20a7ba1e">カラオケBANBAN臼杵店</a>|<a href="/darts/rank/大分県/臼杵市">大分県臼杵市</a>|
+|11|494|デュラ半蔵|<a href="https://search.dartslive.com/jp/shop/b0951a203fd2b2190d9b047a20a7ba1e">カラオケBANBAN臼杵店</a>|<a href="/darts/rank/大分県/臼杵市">大分県臼杵市</a>|
+|12|485|流鏑馬⇒Lucy.Ks|<a href="https://search.dartslive.com/jp/shop/b0951a203fd2b2190d9b047a20a7ba1e">カラオケBANBAN臼杵店</a>|<a href="/darts/rank/大分県/臼杵市">大分県臼杵市</a>|
+|13|465|ちー|<a href="https://search.dartslive.com/jp/shop/b0951a203fd2b2190d9b047a20a7ba1e">カラオケBANBAN臼杵店</a>|<a href="/darts/rank/大分県/臼杵市">大分県臼杵市</a>|
+|14|464|blitz|<a href="https://search.dartslive.com/jp/shop/b0951a203fd2b2190d9b047a20a7ba1e">カラオケBANBAN臼杵店</a>|<a href="/darts/rank/大分県/臼杵市">大分県臼杵市</a>|
+|15|417|Jyacomaru|<a href="https://search.dartslive.com/jp/shop/b0951a203fd2b2190d9b047a20a7ba1e">カラオケBANBAN臼杵店</a>|<a href="/darts/rank/大分県/臼杵市">大分県臼杵市</a>|
+|16|405|NO NAME 1249|<a href="https://search.dartslive.com/jp/shop/b0951a203fd2b2190d9b047a20a7ba1e">カラオケBANBAN臼杵店</a>|<a href="/darts/rank/大分県/臼杵市">大分県臼杵市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:57_
+_last update : 2024/01/21 13:39:08_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

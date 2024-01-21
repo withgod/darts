@@ -26,27 +26,27 @@ ___
 |10|965|さんたろ-ﾒｹﾒｹ-|<a href="https://search.dartslive.com/jp/shop/c69247602b036347774c926eb736cb5a">快活CLUB 戸田店</a>|<a href="/darts/rank/埼玉県/戸田市">埼玉県戸田市</a>|
 |11|964|あっくん|<a href="https://search.dartslive.com/jp/shop/c69247602b036347774c926eb736cb5a">快活CLUB 戸田店</a>|<a href="/darts/rank/埼玉県/戸田市">埼玉県戸田市</a>|
 |12|944|NISHINO|<a href="https://search.dartslive.com/jp/shop/c69247602b036347774c926eb736cb5a">快活CLUB 戸田店</a>|<a href="/darts/rank/埼玉県/戸田市">埼玉県戸田市</a>|
-|13|904|Ka-Na|<a href="https://search.dartslive.com/jp/shop/c69247602b036347774c926eb736cb5a">快活CLUB 戸田店</a>|<a href="/darts/rank/埼玉県/戸田市">埼玉県戸田市</a>|
-|14|886|大鳥居 かりな|<a href="https://search.dartslive.com/jp/shop/c69247602b036347774c926eb736cb5a">快活CLUB 戸田店</a>|<a href="/darts/rank/埼玉県/戸田市">埼玉県戸田市</a>|
-|15|879|たつや.jww|<a href="https://search.dartslive.com/jp/shop/c69247602b036347774c926eb736cb5a">快活CLUB 戸田店</a>|<a href="/darts/rank/埼玉県/戸田市">埼玉県戸田市</a>|
-|16|854|Yu|<a href="https://search.dartslive.com/jp/shop/c69247602b036347774c926eb736cb5a">快活CLUB 戸田店</a>|<a href="/darts/rank/埼玉県/戸田市">埼玉県戸田市</a>|
-|17|840|べーさん|<a href="https://search.dartslive.com/jp/shop/c69247602b036347774c926eb736cb5a">快活CLUB 戸田店</a>|<a href="/darts/rank/埼玉県/戸田市">埼玉県戸田市</a>|
-|17|840|ジョントラボル太|<a href="https://search.dartslive.com/jp/shop/c69247602b036347774c926eb736cb5a">快活CLUB 戸田店</a>|<a href="/darts/rank/埼玉県/戸田市">埼玉県戸田市</a>|
-|19|829|リドレイ|<a href="https://search.dartslive.com/jp/shop/c69247602b036347774c926eb736cb5a">快活CLUB 戸田店</a>|<a href="/darts/rank/埼玉県/戸田市">埼玉県戸田市</a>|
+|13|924|リドレイ|<a href="https://search.dartslive.com/jp/shop/c69247602b036347774c926eb736cb5a">快活CLUB 戸田店</a>|<a href="/darts/rank/埼玉県/戸田市">埼玉県戸田市</a>|
+|14|904|Ka-Na|<a href="https://search.dartslive.com/jp/shop/c69247602b036347774c926eb736cb5a">快活CLUB 戸田店</a>|<a href="/darts/rank/埼玉県/戸田市">埼玉県戸田市</a>|
+|15|886|大鳥居 かりな|<a href="https://search.dartslive.com/jp/shop/c69247602b036347774c926eb736cb5a">快活CLUB 戸田店</a>|<a href="/darts/rank/埼玉県/戸田市">埼玉県戸田市</a>|
+|16|879|たつや.jww|<a href="https://search.dartslive.com/jp/shop/c69247602b036347774c926eb736cb5a">快活CLUB 戸田店</a>|<a href="/darts/rank/埼玉県/戸田市">埼玉県戸田市</a>|
+|17|854|Yu|<a href="https://search.dartslive.com/jp/shop/c69247602b036347774c926eb736cb5a">快活CLUB 戸田店</a>|<a href="/darts/rank/埼玉県/戸田市">埼玉県戸田市</a>|
+|18|840|べーさん|<a href="https://search.dartslive.com/jp/shop/c69247602b036347774c926eb736cb5a">快活CLUB 戸田店</a>|<a href="/darts/rank/埼玉県/戸田市">埼玉県戸田市</a>|
+|18|840|ジョントラボル太|<a href="https://search.dartslive.com/jp/shop/c69247602b036347774c926eb736cb5a">快活CLUB 戸田店</a>|<a href="/darts/rank/埼玉県/戸田市">埼玉県戸田市</a>|
 |20|817|minami|<a href="https://search.dartslive.com/jp/shop/c69247602b036347774c926eb736cb5a">快活CLUB 戸田店</a>|<a href="/darts/rank/埼玉県/戸田市">埼玉県戸田市</a>|
-|21|803|☆　M-STYLE　☆|<a href="https://search.dartslive.com/jp/shop/c69247602b036347774c926eb736cb5a">快活CLUB 戸田店</a>|<a href="/darts/rank/埼玉県/戸田市">埼玉県戸田市</a>|
-|22|789|Nuu真＠縁┛◎Ψ|<a href="https://search.dartslive.com/jp/shop/c69247602b036347774c926eb736cb5a">快活CLUB 戸田店</a>|<a href="/darts/rank/埼玉県/戸田市">埼玉県戸田市</a>|
-|23|782|さおてゃんしか|<a href="https://search.dartslive.com/jp/shop/c69247602b036347774c926eb736cb5a">快活CLUB 戸田店</a>|<a href="/darts/rank/埼玉県/戸田市">埼玉県戸田市</a>|
-|24|777|J|<a href="https://search.dartslive.com/jp/shop/c69247602b036347774c926eb736cb5a">快活CLUB 戸田店</a>|<a href="/darts/rank/埼玉県/戸田市">埼玉県戸田市</a>|
-|25|762|Mii.|<a href="https://search.dartslive.com/jp/shop/c69247602b036347774c926eb736cb5a">快活CLUB 戸田店</a>|<a href="/darts/rank/埼玉県/戸田市">埼玉県戸田市</a>|
-|26|757|mar|<a href="https://search.dartslive.com/jp/shop/c69247602b036347774c926eb736cb5a">快活CLUB 戸田店</a>|<a href="/darts/rank/埼玉県/戸田市">埼玉県戸田市</a>|
-|27|733|BOCCOM@縁Ｊ◎Ｙ|<a href="https://search.dartslive.com/jp/shop/c69247602b036347774c926eb736cb5a">快活CLUB 戸田店</a>|<a href="/darts/rank/埼玉県/戸田市">埼玉県戸田市</a>|
-|28|719|NO NAME3989|<a href="https://search.dartslive.com/jp/shop/c69247602b036347774c926eb736cb5a">快活CLUB 戸田店</a>|<a href="/darts/rank/埼玉県/戸田市">埼玉県戸田市</a>|
-|29|714|ひなた❀縁Ｊ◎Ｙ|<a href="https://search.dartslive.com/jp/shop/c69247602b036347774c926eb736cb5a">快活CLUB 戸田店</a>|<a href="/darts/rank/埼玉県/戸田市">埼玉県戸田市</a>|
-|30|710|chi-suke！|<a href="https://search.dartslive.com/jp/shop/c69247602b036347774c926eb736cb5a">快活CLUB 戸田店</a>|<a href="/darts/rank/埼玉県/戸田市">埼玉県戸田市</a>|
-|31|696|Ka_na|<a href="https://search.dartslive.com/jp/shop/c69247602b036347774c926eb736cb5a">快活CLUB 戸田店</a>|<a href="/darts/rank/埼玉県/戸田市">埼玉県戸田市</a>|
-|32|663|ふかやん|<a href="https://search.dartslive.com/jp/shop/c69247602b036347774c926eb736cb5a">快活CLUB 戸田店</a>|<a href="/darts/rank/埼玉県/戸田市">埼玉県戸田市</a>|
-|33|631|おせきはん|<a href="https://search.dartslive.com/jp/shop/c69247602b036347774c926eb736cb5a">快活CLUB 戸田店</a>|<a href="/darts/rank/埼玉県/戸田市">埼玉県戸田市</a>|
+|21|807|HI(≧∀≦)RO|<a href="https://search.dartslive.com/jp/shop/c69247602b036347774c926eb736cb5a">快活CLUB 戸田店</a>|<a href="/darts/rank/埼玉県/戸田市">埼玉県戸田市</a>|
+|22|803|☆　M-STYLE　☆|<a href="https://search.dartslive.com/jp/shop/c69247602b036347774c926eb736cb5a">快活CLUB 戸田店</a>|<a href="/darts/rank/埼玉県/戸田市">埼玉県戸田市</a>|
+|23|789|Nuu真＠縁┛◎Ψ|<a href="https://search.dartslive.com/jp/shop/c69247602b036347774c926eb736cb5a">快活CLUB 戸田店</a>|<a href="/darts/rank/埼玉県/戸田市">埼玉県戸田市</a>|
+|24|782|さおてゃんしか|<a href="https://search.dartslive.com/jp/shop/c69247602b036347774c926eb736cb5a">快活CLUB 戸田店</a>|<a href="/darts/rank/埼玉県/戸田市">埼玉県戸田市</a>|
+|25|777|J|<a href="https://search.dartslive.com/jp/shop/c69247602b036347774c926eb736cb5a">快活CLUB 戸田店</a>|<a href="/darts/rank/埼玉県/戸田市">埼玉県戸田市</a>|
+|26|762|Mii.|<a href="https://search.dartslive.com/jp/shop/c69247602b036347774c926eb736cb5a">快活CLUB 戸田店</a>|<a href="/darts/rank/埼玉県/戸田市">埼玉県戸田市</a>|
+|27|757|mar|<a href="https://search.dartslive.com/jp/shop/c69247602b036347774c926eb736cb5a">快活CLUB 戸田店</a>|<a href="/darts/rank/埼玉県/戸田市">埼玉県戸田市</a>|
+|28|733|BOCCOM@縁Ｊ◎Ｙ|<a href="https://search.dartslive.com/jp/shop/c69247602b036347774c926eb736cb5a">快活CLUB 戸田店</a>|<a href="/darts/rank/埼玉県/戸田市">埼玉県戸田市</a>|
+|29|719|NO NAME3989|<a href="https://search.dartslive.com/jp/shop/c69247602b036347774c926eb736cb5a">快活CLUB 戸田店</a>|<a href="/darts/rank/埼玉県/戸田市">埼玉県戸田市</a>|
+|30|714|ひなた❀縁Ｊ◎Ｙ|<a href="https://search.dartslive.com/jp/shop/c69247602b036347774c926eb736cb5a">快活CLUB 戸田店</a>|<a href="/darts/rank/埼玉県/戸田市">埼玉県戸田市</a>|
+|31|710|chi-suke！|<a href="https://search.dartslive.com/jp/shop/c69247602b036347774c926eb736cb5a">快活CLUB 戸田店</a>|<a href="/darts/rank/埼玉県/戸田市">埼玉県戸田市</a>|
+|32|696|Ka_na|<a href="https://search.dartslive.com/jp/shop/c69247602b036347774c926eb736cb5a">快活CLUB 戸田店</a>|<a href="/darts/rank/埼玉県/戸田市">埼玉県戸田市</a>|
+|33|663|ふかやん|<a href="https://search.dartslive.com/jp/shop/c69247602b036347774c926eb736cb5a">快活CLUB 戸田店</a>|<a href="/darts/rank/埼玉県/戸田市">埼玉県戸田市</a>|
 |34|614|TdVWfedUUTSeVTH|<a href="https://search.dartslive.com/jp/shop/c69247602b036347774c926eb736cb5a">快活CLUB 戸田店</a>|<a href="/darts/rank/埼玉県/戸田市">埼玉県戸田市</a>|
 |35|592|aoskⓒ|<a href="https://search.dartslive.com/jp/shop/c69247602b036347774c926eb736cb5a">快活CLUB 戸田店</a>|<a href="/darts/rank/埼玉県/戸田市">埼玉県戸田市</a>|
 
@@ -54,7 +54,7 @@ ___
 
 ___
 
-_last update : 2024/01/21 03:05:50_
+_last update : 2024/01/21 13:38:56_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

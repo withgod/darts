@@ -14,12 +14,30 @@ ___
 {:.table-ranking}
 |ランク|スコア|名前|店名|所在地|
 |---|---|---|---|---|
+|1|1161|DMC 菅村 毅|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|2|946|kuuga|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|3|925|てらだあああああ|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|4|924|テクニシャン鷹|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|5|820|じーちゃん|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|6|798|りつき|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|7|794|たいし+α@MAD.H|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|8|762|大ちゃん＠梅星|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|9|755|ヤン毛ニキ|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|10|719|愚地独歩|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|11|684|22年間地元の床屋|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|12|674|ダｳﾝタｳﾝのかずき|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|13|660|いぶき|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|14|650|藤田幸三†ﾛｺﾛｺ|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|15|555|おじまる|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|16|546|NO NAME 9827|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|17|507|ダｳﾝタｳﾝのゆい|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|18|476|MIO|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:55_
+_last update : 2024/01/21 13:39:04_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

@@ -14,12 +14,28 @@ ___
 {:.table-ranking}
 |ランク|スコア|名前|店名|所在地|
 |---|---|---|---|---|
+|1|827|西本　侑史|<a href="https://search.dartslive.com/jp/shop/71bbcc684cadb9e00d9b047a20a7ba1e">IL DESTINO</a>|<a href="/darts/rank/大阪府/大阪狭山市">大阪府大阪狭山市</a>|
+|2|783|UNITY☆西本陽一|<a href="https://search.dartslive.com/jp/shop/71bbcc684cadb9e00d9b047a20a7ba1e">IL DESTINO</a>|<a href="/darts/rank/大阪府/大阪狭山市">大阪府大阪狭山市</a>|
+|3|764|クワトロバジーナ|<a href="https://search.dartslive.com/jp/shop/71bbcc684cadb9e00d9b047a20a7ba1e">IL DESTINO</a>|<a href="/darts/rank/大阪府/大阪狭山市">大阪府大阪狭山市</a>|
+|4|719|シュンサク|<a href="https://search.dartslive.com/jp/shop/71bbcc684cadb9e00d9b047a20a7ba1e">IL DESTINO</a>|<a href="/darts/rank/大阪府/大阪狭山市">大阪府大阪狭山市</a>|
+|5|676|ケンタロ|<a href="https://search.dartslive.com/jp/shop/71bbcc684cadb9e00d9b047a20a7ba1e">IL DESTINO</a>|<a href="/darts/rank/大阪府/大阪狭山市">大阪府大阪狭山市</a>|
+|6|652|Syo @IL|<a href="https://search.dartslive.com/jp/shop/71bbcc684cadb9e00d9b047a20a7ba1e">IL DESTINO</a>|<a href="/darts/rank/大阪府/大阪狭山市">大阪府大阪狭山市</a>|
+|7|650|Teller Syo|<a href="https://search.dartslive.com/jp/shop/71bbcc684cadb9e00d9b047a20a7ba1e">IL DESTINO</a>|<a href="/darts/rank/大阪府/大阪狭山市">大阪府大阪狭山市</a>|
+|8|643|YWYW＊ユウ＊|<a href="https://search.dartslive.com/jp/shop/71bbcc684cadb9e00d9b047a20a7ba1e">IL DESTINO</a>|<a href="/darts/rank/大阪府/大阪狭山市">大阪府大阪狭山市</a>|
+|9|640|DAN|<a href="https://search.dartslive.com/jp/shop/71bbcc684cadb9e00d9b047a20a7ba1e">IL DESTINO</a>|<a href="/darts/rank/大阪府/大阪狭山市">大阪府大阪狭山市</a>|
+|10|616|沢田 和也|<a href="https://search.dartslive.com/jp/shop/71bbcc684cadb9e00d9b047a20a7ba1e">IL DESTINO</a>|<a href="/darts/rank/大阪府/大阪狭山市">大阪府大阪狭山市</a>|
+|11|604|宗平　尚樹|<a href="https://search.dartslive.com/jp/shop/71bbcc684cadb9e00d9b047a20a7ba1e">IL DESTINO</a>|<a href="/darts/rank/大阪府/大阪狭山市">大阪府大阪狭山市</a>|
+|12|601|*ﾄﾘﾄﾘﾋﾄﾘﾜﾀﾘﾄﾞﾘ*|<a href="https://search.dartslive.com/jp/shop/71bbcc684cadb9e00d9b047a20a7ba1e">IL DESTINO</a>|<a href="/darts/rank/大阪府/大阪狭山市">大阪府大阪狭山市</a>|
+|13|590|ポコチーノ李在俊|<a href="https://search.dartslive.com/jp/shop/71bbcc684cadb9e00d9b047a20a7ba1e">IL DESTINO</a>|<a href="/darts/rank/大阪府/大阪狭山市">大阪府大阪狭山市</a>|
+|14|588|イルまゆみん|<a href="https://search.dartslive.com/jp/shop/71bbcc684cadb9e00d9b047a20a7ba1e">IL DESTINO</a>|<a href="/darts/rank/大阪府/大阪狭山市">大阪府大阪狭山市</a>|
+|15|547|アレンパ！！！|<a href="https://search.dartslive.com/jp/shop/71bbcc684cadb9e00d9b047a20a7ba1e">IL DESTINO</a>|<a href="/darts/rank/大阪府/大阪狭山市">大阪府大阪狭山市</a>|
+|16|360|ちゃびゑ|<a href="https://search.dartslive.com/jp/shop/71bbcc684cadb9e00d9b047a20a7ba1e">IL DESTINO</a>|<a href="/darts/rank/大阪府/大阪狭山市">大阪府大阪狭山市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:55_
+_last update : 2024/01/21 13:39:05_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

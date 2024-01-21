@@ -64,37 +64,40 @@ ___
 |48|705|悠|<a href="https://search.dartslive.com/jp/shop/5e0483affa5d78e4790ab824ce8730e5">yaya～矢屋～iriso terrace</a>|<a href="/darts/rank/埼玉県/狭山市">埼玉県狭山市</a>|
 |49|703|えってぃ|<a href="https://search.dartslive.com/jp/shop/ce7d5ec1301b5fe758d385ea46352d8f">快活CLUB 狭山入間川店</a>|<a href="/darts/rank/埼玉県/狭山市">埼玉県狭山市</a>|
 |50|640|ヨーコ♪LAC|<a href="https://search.dartslive.com/jp/shop/700daa61ba8f9dd70d9b047a20a7ba1e">LIKE A CHILD</a>|<a href="/darts/rank/埼玉県/狭山市">埼玉県狭山市</a>|
-|51|601|∮MINEッ娘∮|<a href="https://search.dartslive.com/jp/shop/ce7d5ec1301b5fe758d385ea46352d8f">快活CLUB 狭山入間川店</a>|<a href="/darts/rank/埼玉県/狭山市">埼玉県狭山市</a>|
-|52|585|yukitsumi|<a href="https://search.dartslive.com/jp/shop/ce7d5ec1301b5fe758d385ea46352d8f">快活CLUB 狭山入間川店</a>|<a href="/darts/rank/埼玉県/狭山市">埼玉県狭山市</a>|
-|53|564|たつみっち|<a href="https://search.dartslive.com/jp/shop/ce7d5ec1301b5fe758d385ea46352d8f">快活CLUB 狭山入間川店</a>|<a href="/darts/rank/埼玉県/狭山市">埼玉県狭山市</a>|
-|54|562|ロビン|<a href="https://search.dartslive.com/jp/shop/ce7d5ec1301b5fe758d385ea46352d8f">快活CLUB 狭山入間川店</a>|<a href="/darts/rank/埼玉県/狭山市">埼玉県狭山市</a>|
-|55|541|ゆたか！@GALLANT|<a href="https://search.dartslive.com/jp/shop/a976ae718a5c165028032249b44395af">B-GARAGE 狭山上広瀬店</a>|<a href="/darts/rank/埼玉県/狭山市">埼玉県狭山市</a>|
-|56|532|みずたろう|<a href="https://search.dartslive.com/jp/shop/ce7d5ec1301b5fe758d385ea46352d8f">快活CLUB 狭山入間川店</a>|<a href="/darts/rank/埼玉県/狭山市">埼玉県狭山市</a>|
-|57|527|ダンナッ！|<a href="https://search.dartslive.com/jp/shop/ce7d5ec1301b5fe758d385ea46352d8f">快活CLUB 狭山入間川店</a>|<a href="/darts/rank/埼玉県/狭山市">埼玉県狭山市</a>|
-|58|518|ドンドンドーナツ|<a href="https://search.dartslive.com/jp/shop/a976ae718a5c165028032249b44395af">B-GARAGE 狭山上広瀬店</a>|<a href="/darts/rank/埼玉県/狭山市">埼玉県狭山市</a>|
-|59|502|よっぴぃ★|<a href="https://search.dartslive.com/jp/shop/ce7d5ec1301b5fe758d385ea46352d8f">快活CLUB 狭山入間川店</a>|<a href="/darts/rank/埼玉県/狭山市">埼玉県狭山市</a>|
-|60|501|♡ressy♡|<a href="https://search.dartslive.com/jp/shop/ce7d5ec1301b5fe758d385ea46352d8f">快活CLUB 狭山入間川店</a>|<a href="/darts/rank/埼玉県/狭山市">埼玉県狭山市</a>|
-|61|488|ひろやん57|<a href="https://search.dartslive.com/jp/shop/ce7d5ec1301b5fe758d385ea46352d8f">快活CLUB 狭山入間川店</a>|<a href="/darts/rank/埼玉県/狭山市">埼玉県狭山市</a>|
-|62|484|LLENN|<a href="https://search.dartslive.com/jp/shop/ce7d5ec1301b5fe758d385ea46352d8f">快活CLUB 狭山入間川店</a>|<a href="/darts/rank/埼玉県/狭山市">埼玉県狭山市</a>|
-|63|479|MARU@UP|<a href="https://search.dartslive.com/jp/shop/ce7d5ec1301b5fe758d385ea46352d8f">快活CLUB 狭山入間川店</a>|<a href="/darts/rank/埼玉県/狭山市">埼玉県狭山市</a>|
-|64|478|K|<a href="https://search.dartslive.com/jp/shop/5e0483affa5d78e4790ab824ce8730e5">yaya～矢屋～iriso terrace</a>|<a href="/darts/rank/埼玉県/狭山市">埼玉県狭山市</a>|
-|65|470|まなみ|<a href="https://search.dartslive.com/jp/shop/ce7d5ec1301b5fe758d385ea46352d8f">快活CLUB 狭山入間川店</a>|<a href="/darts/rank/埼玉県/狭山市">埼玉県狭山市</a>|
-|66|465|たろちんﾋﾞｯｸﾏﾝ|<a href="https://search.dartslive.com/jp/shop/a976ae718a5c165028032249b44395af">B-GARAGE 狭山上広瀬店</a>|<a href="/darts/rank/埼玉県/狭山市">埼玉県狭山市</a>|
-|67|461|あっぷる|<a href="https://search.dartslive.com/jp/shop/ce7d5ec1301b5fe758d385ea46352d8f">快活CLUB 狭山入間川店</a>|<a href="/darts/rank/埼玉県/狭山市">埼玉県狭山市</a>|
-|68|443|NO NAME 1000|<a href="https://search.dartslive.com/jp/shop/a976ae718a5c165028032249b44395af">B-GARAGE 狭山上広瀬店</a>|<a href="/darts/rank/埼玉県/狭山市">埼玉県狭山市</a>|
-|69|403|!La+th_Ne|<a href="https://search.dartslive.com/jp/shop/a976ae718a5c165028032249b44395af">B-GARAGE 狭山上広瀬店</a>|<a href="/darts/rank/埼玉県/狭山市">埼玉県狭山市</a>|
-|70|402|りゅーき|<a href="https://search.dartslive.com/jp/shop/a976ae718a5c165028032249b44395af">B-GARAGE 狭山上広瀬店</a>|<a href="/darts/rank/埼玉県/狭山市">埼玉県狭山市</a>|
-|71|401|てつ|<a href="https://search.dartslive.com/jp/shop/a976ae718a5c165028032249b44395af">B-GARAGE 狭山上広瀬店</a>|<a href="/darts/rank/埼玉県/狭山市">埼玉県狭山市</a>|
-|72|379|れーな|<a href="https://search.dartslive.com/jp/shop/ce7d5ec1301b5fe758d385ea46352d8f">快活CLUB 狭山入間川店</a>|<a href="/darts/rank/埼玉県/狭山市">埼玉県狭山市</a>|
-|73|312|A|<a href="https://search.dartslive.com/jp/shop/5e0483affa5d78e4790ab824ce8730e5">yaya～矢屋～iriso terrace</a>|<a href="/darts/rank/埼玉県/狭山市">埼玉県狭山市</a>|
-|74|306|A-nya.|<a href="https://search.dartslive.com/jp/shop/ce7d5ec1301b5fe758d385ea46352d8f">快活CLUB 狭山入間川店</a>|<a href="/darts/rank/埼玉県/狭山市">埼玉県狭山市</a>|
-|75|277|かえで_メタモン|<a href="https://search.dartslive.com/jp/shop/5e0483affa5d78e4790ab824ce8730e5">yaya～矢屋～iriso terrace</a>|<a href="/darts/rank/埼玉県/狭山市">埼玉県狭山市</a>|
+|51|616|ゆうき|<a href="https://search.dartslive.com/jp/shop/ce7d5ec1301b5fe758d385ea46352d8f">快活CLUB 狭山入間川店</a>|<a href="/darts/rank/埼玉県/狭山市">埼玉県狭山市</a>|
+|52|614|ひろやん57|<a href="https://search.dartslive.com/jp/shop/ce7d5ec1301b5fe758d385ea46352d8f">快活CLUB 狭山入間川店</a>|<a href="/darts/rank/埼玉県/狭山市">埼玉県狭山市</a>|
+|53|601|∮MINEッ娘∮|<a href="https://search.dartslive.com/jp/shop/ce7d5ec1301b5fe758d385ea46352d8f">快活CLUB 狭山入間川店</a>|<a href="/darts/rank/埼玉県/狭山市">埼玉県狭山市</a>|
+|54|585|yukitsumi|<a href="https://search.dartslive.com/jp/shop/ce7d5ec1301b5fe758d385ea46352d8f">快活CLUB 狭山入間川店</a>|<a href="/darts/rank/埼玉県/狭山市">埼玉県狭山市</a>|
+|55|564|たつみっち|<a href="https://search.dartslive.com/jp/shop/ce7d5ec1301b5fe758d385ea46352d8f">快活CLUB 狭山入間川店</a>|<a href="/darts/rank/埼玉県/狭山市">埼玉県狭山市</a>|
+|56|562|ロビン|<a href="https://search.dartslive.com/jp/shop/ce7d5ec1301b5fe758d385ea46352d8f">快活CLUB 狭山入間川店</a>|<a href="/darts/rank/埼玉県/狭山市">埼玉県狭山市</a>|
+|57|558|ゆたお❤️CH|<a href="https://search.dartslive.com/jp/shop/ce7d5ec1301b5fe758d385ea46352d8f">快活CLUB 狭山入間川店</a>|<a href="/darts/rank/埼玉県/狭山市">埼玉県狭山市</a>|
+|58|541|ゆたか！@GALLANT|<a href="https://search.dartslive.com/jp/shop/a976ae718a5c165028032249b44395af">B-GARAGE 狭山上広瀬店</a>|<a href="/darts/rank/埼玉県/狭山市">埼玉県狭山市</a>|
+|59|532|みずたろう|<a href="https://search.dartslive.com/jp/shop/ce7d5ec1301b5fe758d385ea46352d8f">快活CLUB 狭山入間川店</a>|<a href="/darts/rank/埼玉県/狭山市">埼玉県狭山市</a>|
+|60|527|ダンナッ！|<a href="https://search.dartslive.com/jp/shop/ce7d5ec1301b5fe758d385ea46352d8f">快活CLUB 狭山入間川店</a>|<a href="/darts/rank/埼玉県/狭山市">埼玉県狭山市</a>|
+|61|518|ドンドンドーナツ|<a href="https://search.dartslive.com/jp/shop/a976ae718a5c165028032249b44395af">B-GARAGE 狭山上広瀬店</a>|<a href="/darts/rank/埼玉県/狭山市">埼玉県狭山市</a>|
+|62|502|よっぴぃ★|<a href="https://search.dartslive.com/jp/shop/ce7d5ec1301b5fe758d385ea46352d8f">快活CLUB 狭山入間川店</a>|<a href="/darts/rank/埼玉県/狭山市">埼玉県狭山市</a>|
+|63|501|♡ressy♡|<a href="https://search.dartslive.com/jp/shop/ce7d5ec1301b5fe758d385ea46352d8f">快活CLUB 狭山入間川店</a>|<a href="/darts/rank/埼玉県/狭山市">埼玉県狭山市</a>|
+|64|484|LLENN|<a href="https://search.dartslive.com/jp/shop/ce7d5ec1301b5fe758d385ea46352d8f">快活CLUB 狭山入間川店</a>|<a href="/darts/rank/埼玉県/狭山市">埼玉県狭山市</a>|
+|65|479|MARU@UP|<a href="https://search.dartslive.com/jp/shop/ce7d5ec1301b5fe758d385ea46352d8f">快活CLUB 狭山入間川店</a>|<a href="/darts/rank/埼玉県/狭山市">埼玉県狭山市</a>|
+|66|478|K|<a href="https://search.dartslive.com/jp/shop/5e0483affa5d78e4790ab824ce8730e5">yaya～矢屋～iriso terrace</a>|<a href="/darts/rank/埼玉県/狭山市">埼玉県狭山市</a>|
+|67|470|まなみ|<a href="https://search.dartslive.com/jp/shop/ce7d5ec1301b5fe758d385ea46352d8f">快活CLUB 狭山入間川店</a>|<a href="/darts/rank/埼玉県/狭山市">埼玉県狭山市</a>|
+|68|465|たろちんﾋﾞｯｸﾏﾝ|<a href="https://search.dartslive.com/jp/shop/a976ae718a5c165028032249b44395af">B-GARAGE 狭山上広瀬店</a>|<a href="/darts/rank/埼玉県/狭山市">埼玉県狭山市</a>|
+|69|461|あっぷる|<a href="https://search.dartslive.com/jp/shop/ce7d5ec1301b5fe758d385ea46352d8f">快活CLUB 狭山入間川店</a>|<a href="/darts/rank/埼玉県/狭山市">埼玉県狭山市</a>|
+|70|445|sena|<a href="https://search.dartslive.com/jp/shop/a976ae718a5c165028032249b44395af">B-GARAGE 狭山上広瀬店</a>|<a href="/darts/rank/埼玉県/狭山市">埼玉県狭山市</a>|
+|71|443|NO NAME 1000|<a href="https://search.dartslive.com/jp/shop/a976ae718a5c165028032249b44395af">B-GARAGE 狭山上広瀬店</a>|<a href="/darts/rank/埼玉県/狭山市">埼玉県狭山市</a>|
+|72|403|!La+th_Ne|<a href="https://search.dartslive.com/jp/shop/a976ae718a5c165028032249b44395af">B-GARAGE 狭山上広瀬店</a>|<a href="/darts/rank/埼玉県/狭山市">埼玉県狭山市</a>|
+|73|402|りゅーき|<a href="https://search.dartslive.com/jp/shop/a976ae718a5c165028032249b44395af">B-GARAGE 狭山上広瀬店</a>|<a href="/darts/rank/埼玉県/狭山市">埼玉県狭山市</a>|
+|74|401|てつ|<a href="https://search.dartslive.com/jp/shop/a976ae718a5c165028032249b44395af">B-GARAGE 狭山上広瀬店</a>|<a href="/darts/rank/埼玉県/狭山市">埼玉県狭山市</a>|
+|75|379|れーな|<a href="https://search.dartslive.com/jp/shop/ce7d5ec1301b5fe758d385ea46352d8f">快活CLUB 狭山入間川店</a>|<a href="/darts/rank/埼玉県/狭山市">埼玉県狭山市</a>|
+|76|312|A|<a href="https://search.dartslive.com/jp/shop/5e0483affa5d78e4790ab824ce8730e5">yaya～矢屋～iriso terrace</a>|<a href="/darts/rank/埼玉県/狭山市">埼玉県狭山市</a>|
+|77|306|A-nya.|<a href="https://search.dartslive.com/jp/shop/ce7d5ec1301b5fe758d385ea46352d8f">快活CLUB 狭山入間川店</a>|<a href="/darts/rank/埼玉県/狭山市">埼玉県狭山市</a>|
+|78|277|かえで_メタモン|<a href="https://search.dartslive.com/jp/shop/5e0483affa5d78e4790ab824ce8730e5">yaya～矢屋～iriso terrace</a>|<a href="/darts/rank/埼玉県/狭山市">埼玉県狭山市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:50_
+_last update : 2024/01/21 13:38:56_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

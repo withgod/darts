@@ -78,7 +78,7 @@ ___
 |62|805|朝田龍太郎|<a href="https://search.dartslive.com/jp/shop/8e7a5afab02f9e720d9b047a20a7ba1e">カラオケBANBAN勝田台店</a>|<a href="/darts/rank/千葉県/佐倉市">千葉県佐倉市</a>|
 |63|803|/ZERØ焼おにぎり|<a href="https://search.dartslive.com/jp/shop/87c062e3595cfa480d9b047a20a7ba1e">/ZERO</a>|<a href="/darts/rank/千葉県/佐倉市">千葉県佐倉市</a>|
 |64|802|ｴﾐﾌｪｰｳﾞﾙ♞OldAge|<a href="https://search.dartslive.com/jp/shop/87c062e3595cfa480d9b047a20a7ba1e">/ZERO</a>|<a href="/darts/rank/千葉県/佐倉市">千葉県佐倉市</a>|
-|65|799|隆一|<a href="https://search.dartslive.com/jp/shop/efc4cf86b70867e90d9b047a20a7ba1e">Peek-A-Boo</a>|<a href="/darts/rank/千葉県/佐倉市">千葉県佐倉市</a>|
+|65|799|隆一@P_A_B|<a href="https://search.dartslive.com/jp/shop/efc4cf86b70867e90d9b047a20a7ba1e">Peek-A-Boo</a>|<a href="/darts/rank/千葉県/佐倉市">千葉県佐倉市</a>|
 |66|795|あっきぃ|<a href="https://search.dartslive.com/jp/shop/87c062e3595cfa480d9b047a20a7ba1e">/ZERO</a>|<a href="/darts/rank/千葉県/佐倉市">千葉県佐倉市</a>|
 |67|785|hikari♡P_A_B|<a href="https://search.dartslive.com/jp/shop/efc4cf86b70867e90d9b047a20a7ba1e">Peek-A-Boo</a>|<a href="/darts/rank/千葉県/佐倉市">千葉県佐倉市</a>|
 |68|772|/ZERØ→コージー|<a href="https://search.dartslive.com/jp/shop/87c062e3595cfa480d9b047a20a7ba1e">/ZERO</a>|<a href="/darts/rank/千葉県/佐倉市">千葉県佐倉市</a>|
@@ -119,7 +119,7 @@ ___
 
 ___
 
-_last update : 2024/01/21 03:05:51_
+_last update : 2024/01/21 13:38:57_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

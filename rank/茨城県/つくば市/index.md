@@ -72,41 +72,43 @@ ___
 |56|748|Zukarion|<a href="https://search.dartslive.com/jp/shop/453977731c27ac210d9b047a20a7ba1e">Cybex STEPつくば店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
 |57|737|NO NAME 0806|<a href="https://search.dartslive.com/jp/shop/71710c6e936d4c37774c926eb736cb5a">快活CLUB つくば稲荷前店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
 |58|721|なべこ|<a href="https://search.dartslive.com/jp/shop/71710c6e936d4c37774c926eb736cb5a">快活CLUB つくば稲荷前店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
-|59|714|Yujiro@Triton|<a href="https://search.dartslive.com/jp/shop/2cfbfd676325a3d2774c926eb736cb5a">PlayGarden つくば店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
-|60|709|Str@ySh33p|<a href="https://search.dartslive.com/jp/shop/2cfbfd676325a3d2774c926eb736cb5a">PlayGarden つくば店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
-|61|678|HAYATO|<a href="https://search.dartslive.com/jp/shop/68bc5f0eaf39e047774c926eb736cb5a">Link 研究学園店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
-|62|665|孫子|<a href="https://search.dartslive.com/jp/shop/68bc5f0eaf39e047774c926eb736cb5a">Link 研究学園店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
-|63|658|わいえむっ！|<a href="https://search.dartslive.com/jp/shop/68bc5f0eaf39e047774c926eb736cb5a">Link 研究学園店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
-|64|617|shin|<a href="https://search.dartslive.com/jp/shop/68bc5f0eaf39e047774c926eb736cb5a">Link 研究学園店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
-|64|617|オートジャベリン|<a href="https://search.dartslive.com/jp/shop/68bc5f0eaf39e047774c926eb736cb5a">Link 研究学園店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
-|66|615|Glock17|<a href="https://search.dartslive.com/jp/shop/68bc5f0eaf39e047774c926eb736cb5a">Link 研究学園店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
-|67|606|L&#x27;amour@kubo|<a href="https://search.dartslive.com/jp/shop/68bc5f0eaf39e047774c926eb736cb5a">Link 研究学園店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
-|68|604|ばーさす|<a href="https://search.dartslive.com/jp/shop/453977731c27ac210d9b047a20a7ba1e">Cybex STEPつくば店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
-|69|581|たくちゃん|<a href="https://search.dartslive.com/jp/shop/68bc5f0eaf39e047774c926eb736cb5a">Link 研究学園店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
-|70|580|エデルさん|<a href="https://search.dartslive.com/jp/shop/71710c6e936d4c37774c926eb736cb5a">快活CLUB つくば稲荷前店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
-|71|565|ふりかけ妹|<a href="https://search.dartslive.com/jp/shop/71710c6e936d4c37774c926eb736cb5a">快活CLUB つくば稲荷前店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
-|72|564|おひな|<a href="https://search.dartslive.com/jp/shop/453977731c27ac210d9b047a20a7ba1e">Cybex STEPつくば店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
-|73|561|キッシー|<a href="https://search.dartslive.com/jp/shop/68bc5f0eaf39e047774c926eb736cb5a">Link 研究学園店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
-|74|542|ぴ|<a href="https://search.dartslive.com/jp/shop/453977731c27ac210d9b047a20a7ba1e">Cybex STEPつくば店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
-|75|534|ayaka|<a href="https://search.dartslive.com/jp/shop/68bc5f0eaf39e047774c926eb736cb5a">Link 研究学園店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
-|76|521|るｰｰｰ★|<a href="https://search.dartslive.com/jp/shop/453977731c27ac210d9b047a20a7ba1e">Cybex STEPつくば店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
-|77|507|やす|<a href="https://search.dartslive.com/jp/shop/71710c6e936d4c37774c926eb736cb5a">快活CLUB つくば稲荷前店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
-|78|499|あやまる|<a href="https://search.dartslive.com/jp/shop/71710c6e936d4c37774c926eb736cb5a">快活CLUB つくば稲荷前店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
-|79|495|ayaka|<a href="https://search.dartslive.com/jp/shop/71710c6e936d4c37774c926eb736cb5a">快活CLUB つくば稲荷前店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
-|80|487|MakichanMomo|<a href="https://search.dartslive.com/jp/shop/453977731c27ac210d9b047a20a7ba1e">Cybex STEPつくば店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
-|81|475|NO NAME 0806|<a href="https://search.dartslive.com/jp/shop/2cfbfd676325a3d2774c926eb736cb5a">PlayGarden つくば店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
-|82|469|HANAKO|<a href="https://search.dartslive.com/jp/shop/71710c6e936d4c37774c926eb736cb5a">快活CLUB つくば稲荷前店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
-|83|455|綾鷹|<a href="https://search.dartslive.com/jp/shop/71710c6e936d4c37774c926eb736cb5a">快活CLUB つくば稲荷前店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
-|84|394|ねここ|<a href="https://search.dartslive.com/jp/shop/71710c6e936d4c37774c926eb736cb5a">快活CLUB つくば稲荷前店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
-|85|336|ヨリ|<a href="https://search.dartslive.com/jp/shop/71710c6e936d4c37774c926eb736cb5a">快活CLUB つくば稲荷前店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
-|86|334|はるか|<a href="https://search.dartslive.com/jp/shop/2cfbfd676325a3d2774c926eb736cb5a">PlayGarden つくば店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
-|87|285|ちあき|<a href="https://search.dartslive.com/jp/shop/453977731c27ac210d9b047a20a7ba1e">Cybex STEPつくば店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
+|59|715|山本 瑛嗣|<a href="https://search.dartslive.com/jp/shop/453977731c27ac210d9b047a20a7ba1e">Cybex STEPつくば店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
+|60|714|Yujiro@Triton|<a href="https://search.dartslive.com/jp/shop/2cfbfd676325a3d2774c926eb736cb5a">PlayGarden つくば店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
+|61|709|Str@ySh33p|<a href="https://search.dartslive.com/jp/shop/2cfbfd676325a3d2774c926eb736cb5a">PlayGarden つくば店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
+|62|678|HAYATO|<a href="https://search.dartslive.com/jp/shop/68bc5f0eaf39e047774c926eb736cb5a">Link 研究学園店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
+|63|665|孫子|<a href="https://search.dartslive.com/jp/shop/68bc5f0eaf39e047774c926eb736cb5a">Link 研究学園店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
+|64|658|わいえむっ！|<a href="https://search.dartslive.com/jp/shop/68bc5f0eaf39e047774c926eb736cb5a">Link 研究学園店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
+|65|617|shin|<a href="https://search.dartslive.com/jp/shop/68bc5f0eaf39e047774c926eb736cb5a">Link 研究学園店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
+|65|617|オートジャベリン|<a href="https://search.dartslive.com/jp/shop/68bc5f0eaf39e047774c926eb736cb5a">Link 研究学園店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
+|67|615|Glock17|<a href="https://search.dartslive.com/jp/shop/68bc5f0eaf39e047774c926eb736cb5a">Link 研究学園店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
+|68|606|L&#x27;amour@kubo|<a href="https://search.dartslive.com/jp/shop/68bc5f0eaf39e047774c926eb736cb5a">Link 研究学園店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
+|69|604|ばーさす|<a href="https://search.dartslive.com/jp/shop/453977731c27ac210d9b047a20a7ba1e">Cybex STEPつくば店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
+|70|581|たくちゃん|<a href="https://search.dartslive.com/jp/shop/68bc5f0eaf39e047774c926eb736cb5a">Link 研究学園店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
+|71|580|エデルさん|<a href="https://search.dartslive.com/jp/shop/71710c6e936d4c37774c926eb736cb5a">快活CLUB つくば稲荷前店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
+|72|565|ふりかけ妹|<a href="https://search.dartslive.com/jp/shop/71710c6e936d4c37774c926eb736cb5a">快活CLUB つくば稲荷前店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
+|73|564|おひな|<a href="https://search.dartslive.com/jp/shop/453977731c27ac210d9b047a20a7ba1e">Cybex STEPつくば店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
+|74|561|キッシー|<a href="https://search.dartslive.com/jp/shop/68bc5f0eaf39e047774c926eb736cb5a">Link 研究学園店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
+|75|542|ぴ|<a href="https://search.dartslive.com/jp/shop/453977731c27ac210d9b047a20a7ba1e">Cybex STEPつくば店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
+|76|534|ayaka|<a href="https://search.dartslive.com/jp/shop/68bc5f0eaf39e047774c926eb736cb5a">Link 研究学園店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
+|77|521|るｰｰｰ★|<a href="https://search.dartslive.com/jp/shop/453977731c27ac210d9b047a20a7ba1e">Cybex STEPつくば店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
+|78|507|やす|<a href="https://search.dartslive.com/jp/shop/71710c6e936d4c37774c926eb736cb5a">快活CLUB つくば稲荷前店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
+|79|499|あやまる|<a href="https://search.dartslive.com/jp/shop/71710c6e936d4c37774c926eb736cb5a">快活CLUB つくば稲荷前店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
+|80|495|Ouch!?|<a href="https://search.dartslive.com/jp/shop/453977731c27ac210d9b047a20a7ba1e">Cybex STEPつくば店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
+|80|495|ayaka|<a href="https://search.dartslive.com/jp/shop/71710c6e936d4c37774c926eb736cb5a">快活CLUB つくば稲荷前店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
+|82|487|MakichanMomo|<a href="https://search.dartslive.com/jp/shop/453977731c27ac210d9b047a20a7ba1e">Cybex STEPつくば店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
+|83|475|NO NAME 0806|<a href="https://search.dartslive.com/jp/shop/2cfbfd676325a3d2774c926eb736cb5a">PlayGarden つくば店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
+|84|469|HANAKO|<a href="https://search.dartslive.com/jp/shop/71710c6e936d4c37774c926eb736cb5a">快活CLUB つくば稲荷前店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
+|85|455|綾鷹|<a href="https://search.dartslive.com/jp/shop/71710c6e936d4c37774c926eb736cb5a">快活CLUB つくば稲荷前店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
+|86|394|ねここ|<a href="https://search.dartslive.com/jp/shop/71710c6e936d4c37774c926eb736cb5a">快活CLUB つくば稲荷前店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
+|87|336|ヨリ|<a href="https://search.dartslive.com/jp/shop/71710c6e936d4c37774c926eb736cb5a">快活CLUB つくば稲荷前店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
+|88|334|はるか|<a href="https://search.dartslive.com/jp/shop/2cfbfd676325a3d2774c926eb736cb5a">PlayGarden つくば店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
+|89|285|ちあき|<a href="https://search.dartslive.com/jp/shop/453977731c27ac210d9b047a20a7ba1e">Cybex STEPつくば店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:50_
+_last update : 2024/01/21 13:38:55_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

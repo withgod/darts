@@ -81,41 +81,43 @@ ___
 |65|628|砂嵐|<a href="https://search.dartslive.com/jp/shop/0423528e4117e1e30d9b047a20a7ba1e">Sion</a>|<a href="/darts/rank/埼玉県/ふじみ野市">埼玉県ふじみ野市</a>|
 |66|616|REON|<a href="https://search.dartslive.com/jp/shop/534963d0e2aa20fe0d9b047a20a7ba1e">〇ひろ</a>|<a href="/darts/rank/埼玉県/ふじみ野市">埼玉県ふじみ野市</a>|
 |67|611|しょーた@JACKPOT|<a href="https://search.dartslive.com/jp/shop/c744ea56538678de58d385ea46352d8f">しゃがみGUARD</a>|<a href="/darts/rank/埼玉県/ふじみ野市">埼玉県ふじみ野市</a>|
-|68|607|もも_ゑ|<a href="https://search.dartslive.com/jp/shop/c744ea56538678de58d385ea46352d8f">しゃがみGUARD</a>|<a href="/darts/rank/埼玉県/ふじみ野市">埼玉県ふじみ野市</a>|
-|69|601|ロビン|<a href="https://search.dartslive.com/jp/shop/0a2abae88b42238e25d56fb0e5c39bac">快活CLUB 254号上福岡店</a>|<a href="/darts/rank/埼玉県/ふじみ野市">埼玉県ふじみ野市</a>|
-|70|580|NO NAME 0487|<a href="https://search.dartslive.com/jp/shop/c744ea56538678de58d385ea46352d8f">しゃがみGUARD</a>|<a href="/darts/rank/埼玉県/ふじみ野市">埼玉県ふじみ野市</a>|
-|70|580|Ponz|<a href="https://search.dartslive.com/jp/shop/0a2abae88b42238e25d56fb0e5c39bac">快活CLUB 254号上福岡店</a>|<a href="/darts/rank/埼玉県/ふじみ野市">埼玉県ふじみ野市</a>|
-|72|577|のの|<a href="https://search.dartslive.com/jp/shop/0a2abae88b42238e25d56fb0e5c39bac">快活CLUB 254号上福岡店</a>|<a href="/darts/rank/埼玉県/ふじみ野市">埼玉県ふじみ野市</a>|
-|73|555|もも_ゑ|<a href="https://search.dartslive.com/jp/shop/0423528e4117e1e30d9b047a20a7ba1e">Sion</a>|<a href="/darts/rank/埼玉県/ふじみ野市">埼玉県ふじみ野市</a>|
-|74|554|Aki Rose|<a href="https://search.dartslive.com/jp/shop/0423528e4117e1e30d9b047a20a7ba1e">Sion</a>|<a href="/darts/rank/埼玉県/ふじみ野市">埼玉県ふじみ野市</a>|
-|75|551|だじ丸|<a href="https://search.dartslive.com/jp/shop/0a2abae88b42238e25d56fb0e5c39bac">快活CLUB 254号上福岡店</a>|<a href="/darts/rank/埼玉県/ふじみ野市">埼玉県ふじみ野市</a>|
-|76|535|Foosee|<a href="https://search.dartslive.com/jp/shop/0a2abae88b42238e25d56fb0e5c39bac">快活CLUB 254号上福岡店</a>|<a href="/darts/rank/埼玉県/ふじみ野市">埼玉県ふじみ野市</a>|
-|77|531|ともみ|<a href="https://search.dartslive.com/jp/shop/0a2abae88b42238e25d56fb0e5c39bac">快活CLUB 254号上福岡店</a>|<a href="/darts/rank/埼玉県/ふじみ野市">埼玉県ふじみ野市</a>|
-|78|521|しゅんたん|<a href="https://search.dartslive.com/jp/shop/534963d0e2aa20fe0d9b047a20a7ba1e">〇ひろ</a>|<a href="/darts/rank/埼玉県/ふじみ野市">埼玉県ふじみ野市</a>|
-|79|517|いたちゃん|<a href="https://search.dartslive.com/jp/shop/0a2abae88b42238e25d56fb0e5c39bac">快活CLUB 254号上福岡店</a>|<a href="/darts/rank/埼玉県/ふじみ野市">埼玉県ふじみ野市</a>|
-|79|517|トリスキー|<a href="https://search.dartslive.com/jp/shop/0a2abae88b42238e25d56fb0e5c39bac">快活CLUB 254号上福岡店</a>|<a href="/darts/rank/埼玉県/ふじみ野市">埼玉県ふじみ野市</a>|
-|81|511|Aki Rose|<a href="https://search.dartslive.com/jp/shop/0a2abae88b42238e25d56fb0e5c39bac">快活CLUB 254号上福岡店</a>|<a href="/darts/rank/埼玉県/ふじみ野市">埼玉県ふじみ野市</a>|
-|82|506|ゆうすけ|<a href="https://search.dartslive.com/jp/shop/0a2abae88b42238e25d56fb0e5c39bac">快活CLUB 254号上福岡店</a>|<a href="/darts/rank/埼玉県/ふじみ野市">埼玉県ふじみ野市</a>|
-|83|496|けーーーた|<a href="https://search.dartslive.com/jp/shop/0a2abae88b42238e25d56fb0e5c39bac">快活CLUB 254号上福岡店</a>|<a href="/darts/rank/埼玉県/ふじみ野市">埼玉県ふじみ野市</a>|
-|84|492|らん|<a href="https://search.dartslive.com/jp/shop/0a2abae88b42238e25d56fb0e5c39bac">快活CLUB 254号上福岡店</a>|<a href="/darts/rank/埼玉県/ふじみ野市">埼玉県ふじみ野市</a>|
-|84|492|羽衣を着た海の月|<a href="https://search.dartslive.com/jp/shop/0a2abae88b42238e25d56fb0e5c39bac">快活CLUB 254号上福岡店</a>|<a href="/darts/rank/埼玉県/ふじみ野市">埼玉県ふじみ野市</a>|
-|86|474|LLENN|<a href="https://search.dartslive.com/jp/shop/0a2abae88b42238e25d56fb0e5c39bac">快活CLUB 254号上福岡店</a>|<a href="/darts/rank/埼玉県/ふじみ野市">埼玉県ふじみ野市</a>|
-|87|464|sarina|<a href="https://search.dartslive.com/jp/shop/0a2abae88b42238e25d56fb0e5c39bac">快活CLUB 254号上福岡店</a>|<a href="/darts/rank/埼玉県/ふじみ野市">埼玉県ふじみ野市</a>|
-|88|429|しーなんちゃん|<a href="https://search.dartslive.com/jp/shop/534963d0e2aa20fe0d9b047a20a7ba1e">〇ひろ</a>|<a href="/darts/rank/埼玉県/ふじみ野市">埼玉県ふじみ野市</a>|
-|89|418|M♡|<a href="https://search.dartslive.com/jp/shop/0a2abae88b42238e25d56fb0e5c39bac">快活CLUB 254号上福岡店</a>|<a href="/darts/rank/埼玉県/ふじみ野市">埼玉県ふじみ野市</a>|
-|90|412|summer fruit|<a href="https://search.dartslive.com/jp/shop/0a2abae88b42238e25d56fb0e5c39bac">快活CLUB 254号上福岡店</a>|<a href="/darts/rank/埼玉県/ふじみ野市">埼玉県ふじみ野市</a>|
-|91|378|かよんぬ|<a href="https://search.dartslive.com/jp/shop/534963d0e2aa20fe0d9b047a20a7ba1e">〇ひろ</a>|<a href="/darts/rank/埼玉県/ふじみ野市">埼玉県ふじみ野市</a>|
-|92|368|れいな|<a href="https://search.dartslive.com/jp/shop/c744ea56538678de58d385ea46352d8f">しゃがみGUARD</a>|<a href="/darts/rank/埼玉県/ふじみ野市">埼玉県ふじみ野市</a>|
-|93|363|LeO3881|<a href="https://search.dartslive.com/jp/shop/0a2abae88b42238e25d56fb0e5c39bac">快活CLUB 254号上福岡店</a>|<a href="/darts/rank/埼玉県/ふじみ野市">埼玉県ふじみ野市</a>|
-|94|358|☆まゆ☆❤|<a href="https://search.dartslive.com/jp/shop/0423528e4117e1e30d9b047a20a7ba1e">Sion</a>|<a href="/darts/rank/埼玉県/ふじみ野市">埼玉県ふじみ野市</a>|
-|95|352|太宰ぷりん|<a href="https://search.dartslive.com/jp/shop/0a2abae88b42238e25d56fb0e5c39bac">快活CLUB 254号上福岡店</a>|<a href="/darts/rank/埼玉県/ふじみ野市">埼玉県ふじみ野市</a>|
-|96|336|まいか|<a href="https://search.dartslive.com/jp/shop/0a2abae88b42238e25d56fb0e5c39bac">快活CLUB 254号上福岡店</a>|<a href="/darts/rank/埼玉県/ふじみ野市">埼玉県ふじみ野市</a>|
+|68|610|ゆうすけ|<a href="https://search.dartslive.com/jp/shop/0a2abae88b42238e25d56fb0e5c39bac">快活CLUB 254号上福岡店</a>|<a href="/darts/rank/埼玉県/ふじみ野市">埼玉県ふじみ野市</a>|
+|69|607|もも_ゑ|<a href="https://search.dartslive.com/jp/shop/c744ea56538678de58d385ea46352d8f">しゃがみGUARD</a>|<a href="/darts/rank/埼玉県/ふじみ野市">埼玉県ふじみ野市</a>|
+|70|603|NO NAME 0487|<a href="https://search.dartslive.com/jp/shop/c744ea56538678de58d385ea46352d8f">しゃがみGUARD</a>|<a href="/darts/rank/埼玉県/ふじみ野市">埼玉県ふじみ野市</a>|
+|71|601|ロビン|<a href="https://search.dartslive.com/jp/shop/0a2abae88b42238e25d56fb0e5c39bac">快活CLUB 254号上福岡店</a>|<a href="/darts/rank/埼玉県/ふじみ野市">埼玉県ふじみ野市</a>|
+|72|580|Ponz|<a href="https://search.dartslive.com/jp/shop/0a2abae88b42238e25d56fb0e5c39bac">快活CLUB 254号上福岡店</a>|<a href="/darts/rank/埼玉県/ふじみ野市">埼玉県ふじみ野市</a>|
+|73|577|のの|<a href="https://search.dartslive.com/jp/shop/0a2abae88b42238e25d56fb0e5c39bac">快活CLUB 254号上福岡店</a>|<a href="/darts/rank/埼玉県/ふじみ野市">埼玉県ふじみ野市</a>|
+|74|555|もも_ゑ|<a href="https://search.dartslive.com/jp/shop/0423528e4117e1e30d9b047a20a7ba1e">Sion</a>|<a href="/darts/rank/埼玉県/ふじみ野市">埼玉県ふじみ野市</a>|
+|75|554|Aki Rose|<a href="https://search.dartslive.com/jp/shop/0423528e4117e1e30d9b047a20a7ba1e">Sion</a>|<a href="/darts/rank/埼玉県/ふじみ野市">埼玉県ふじみ野市</a>|
+|76|551|だじ丸|<a href="https://search.dartslive.com/jp/shop/0a2abae88b42238e25d56fb0e5c39bac">快活CLUB 254号上福岡店</a>|<a href="/darts/rank/埼玉県/ふじみ野市">埼玉県ふじみ野市</a>|
+|77|535|Foosee|<a href="https://search.dartslive.com/jp/shop/0a2abae88b42238e25d56fb0e5c39bac">快活CLUB 254号上福岡店</a>|<a href="/darts/rank/埼玉県/ふじみ野市">埼玉県ふじみ野市</a>|
+|78|531|ともみ|<a href="https://search.dartslive.com/jp/shop/0a2abae88b42238e25d56fb0e5c39bac">快活CLUB 254号上福岡店</a>|<a href="/darts/rank/埼玉県/ふじみ野市">埼玉県ふじみ野市</a>|
+|79|529|くりまさ|<a href="https://search.dartslive.com/jp/shop/534963d0e2aa20fe0d9b047a20a7ba1e">〇ひろ</a>|<a href="/darts/rank/埼玉県/ふじみ野市">埼玉県ふじみ野市</a>|
+|80|521|しゅんたん|<a href="https://search.dartslive.com/jp/shop/534963d0e2aa20fe0d9b047a20a7ba1e">〇ひろ</a>|<a href="/darts/rank/埼玉県/ふじみ野市">埼玉県ふじみ野市</a>|
+|81|518|Ettyo|<a href="https://search.dartslive.com/jp/shop/0a2abae88b42238e25d56fb0e5c39bac">快活CLUB 254号上福岡店</a>|<a href="/darts/rank/埼玉県/ふじみ野市">埼玉県ふじみ野市</a>|
+|82|517|いたちゃん|<a href="https://search.dartslive.com/jp/shop/0a2abae88b42238e25d56fb0e5c39bac">快活CLUB 254号上福岡店</a>|<a href="/darts/rank/埼玉県/ふじみ野市">埼玉県ふじみ野市</a>|
+|82|517|トリスキー|<a href="https://search.dartslive.com/jp/shop/0a2abae88b42238e25d56fb0e5c39bac">快活CLUB 254号上福岡店</a>|<a href="/darts/rank/埼玉県/ふじみ野市">埼玉県ふじみ野市</a>|
+|84|511|Aki Rose|<a href="https://search.dartslive.com/jp/shop/0a2abae88b42238e25d56fb0e5c39bac">快活CLUB 254号上福岡店</a>|<a href="/darts/rank/埼玉県/ふじみ野市">埼玉県ふじみ野市</a>|
+|85|492|らん|<a href="https://search.dartslive.com/jp/shop/0a2abae88b42238e25d56fb0e5c39bac">快活CLUB 254号上福岡店</a>|<a href="/darts/rank/埼玉県/ふじみ野市">埼玉県ふじみ野市</a>|
+|85|492|羽衣を着た海の月|<a href="https://search.dartslive.com/jp/shop/0a2abae88b42238e25d56fb0e5c39bac">快活CLUB 254号上福岡店</a>|<a href="/darts/rank/埼玉県/ふじみ野市">埼玉県ふじみ野市</a>|
+|87|474|LLENN|<a href="https://search.dartslive.com/jp/shop/0a2abae88b42238e25d56fb0e5c39bac">快活CLUB 254号上福岡店</a>|<a href="/darts/rank/埼玉県/ふじみ野市">埼玉県ふじみ野市</a>|
+|88|464|sarina|<a href="https://search.dartslive.com/jp/shop/0a2abae88b42238e25d56fb0e5c39bac">快活CLUB 254号上福岡店</a>|<a href="/darts/rank/埼玉県/ふじみ野市">埼玉県ふじみ野市</a>|
+|89|429|しーなんちゃん|<a href="https://search.dartslive.com/jp/shop/534963d0e2aa20fe0d9b047a20a7ba1e">〇ひろ</a>|<a href="/darts/rank/埼玉県/ふじみ野市">埼玉県ふじみ野市</a>|
+|90|418|M♡|<a href="https://search.dartslive.com/jp/shop/0a2abae88b42238e25d56fb0e5c39bac">快活CLUB 254号上福岡店</a>|<a href="/darts/rank/埼玉県/ふじみ野市">埼玉県ふじみ野市</a>|
+|91|412|summer fruit|<a href="https://search.dartslive.com/jp/shop/0a2abae88b42238e25d56fb0e5c39bac">快活CLUB 254号上福岡店</a>|<a href="/darts/rank/埼玉県/ふじみ野市">埼玉県ふじみ野市</a>|
+|92|378|かよんぬ|<a href="https://search.dartslive.com/jp/shop/534963d0e2aa20fe0d9b047a20a7ba1e">〇ひろ</a>|<a href="/darts/rank/埼玉県/ふじみ野市">埼玉県ふじみ野市</a>|
+|93|377|NO NAME 7100|<a href="https://search.dartslive.com/jp/shop/0423528e4117e1e30d9b047a20a7ba1e">Sion</a>|<a href="/darts/rank/埼玉県/ふじみ野市">埼玉県ふじみ野市</a>|
+|94|368|れいな|<a href="https://search.dartslive.com/jp/shop/c744ea56538678de58d385ea46352d8f">しゃがみGUARD</a>|<a href="/darts/rank/埼玉県/ふじみ野市">埼玉県ふじみ野市</a>|
+|95|363|LeO3881|<a href="https://search.dartslive.com/jp/shop/0a2abae88b42238e25d56fb0e5c39bac">快活CLUB 254号上福岡店</a>|<a href="/darts/rank/埼玉県/ふじみ野市">埼玉県ふじみ野市</a>|
+|96|358|☆まゆ☆❤|<a href="https://search.dartslive.com/jp/shop/0423528e4117e1e30d9b047a20a7ba1e">Sion</a>|<a href="/darts/rank/埼玉県/ふじみ野市">埼玉県ふじみ野市</a>|
+|97|352|太宰ぷりん|<a href="https://search.dartslive.com/jp/shop/0a2abae88b42238e25d56fb0e5c39bac">快活CLUB 254号上福岡店</a>|<a href="/darts/rank/埼玉県/ふじみ野市">埼玉県ふじみ野市</a>|
+|98|336|まいか|<a href="https://search.dartslive.com/jp/shop/0a2abae88b42238e25d56fb0e5c39bac">快活CLUB 254号上福岡店</a>|<a href="/darts/rank/埼玉県/ふじみ野市">埼玉県ふじみ野市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:50_
+_last update : 2024/01/21 13:38:56_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

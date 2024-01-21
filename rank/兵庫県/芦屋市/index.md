@@ -14,12 +14,28 @@ ___
 {:.table-ranking}
 |ランク|スコア|名前|店名|所在地|
 |---|---|---|---|---|
+|1|731|k.a.t.s.u|<a href="https://search.dartslive.com/jp/shop/152529aa9ce888430d9b047a20a7ba1e">Knot</a>|<a href="/darts/rank/兵庫県/芦屋市">兵庫県芦屋市</a>|
+|2|652|YAN|<a href="https://search.dartslive.com/jp/shop/152529aa9ce888430d9b047a20a7ba1e">Knot</a>|<a href="/darts/rank/兵庫県/芦屋市">兵庫県芦屋市</a>|
+|3|651|DAN 2nd|<a href="https://search.dartslive.com/jp/shop/152529aa9ce888430d9b047a20a7ba1e">Knot</a>|<a href="/darts/rank/兵庫県/芦屋市">兵庫県芦屋市</a>|
+|4|612|聖 [ ● ] 士|<a href="https://search.dartslive.com/jp/shop/152529aa9ce888430d9b047a20a7ba1e">Knot</a>|<a href="/darts/rank/兵庫県/芦屋市">兵庫県芦屋市</a>|
+|5|610|バヤシ|<a href="https://search.dartslive.com/jp/shop/152529aa9ce888430d9b047a20a7ba1e">Knot</a>|<a href="/darts/rank/兵庫県/芦屋市">兵庫県芦屋市</a>|
+|6|581|しゅうじろう|<a href="https://search.dartslive.com/jp/shop/152529aa9ce888430d9b047a20a7ba1e">Knot</a>|<a href="/darts/rank/兵庫県/芦屋市">兵庫県芦屋市</a>|
+|7|566|きとたとみ|<a href="https://search.dartslive.com/jp/shop/152529aa9ce888430d9b047a20a7ba1e">Knot</a>|<a href="/darts/rank/兵庫県/芦屋市">兵庫県芦屋市</a>|
+|8|529|mayu|<a href="https://search.dartslive.com/jp/shop/152529aa9ce888430d9b047a20a7ba1e">Knot</a>|<a href="/darts/rank/兵庫県/芦屋市">兵庫県芦屋市</a>|
+|9|524|DANさん|<a href="https://search.dartslive.com/jp/shop/152529aa9ce888430d9b047a20a7ba1e">Knot</a>|<a href="/darts/rank/兵庫県/芦屋市">兵庫県芦屋市</a>|
+|10|508|Soutaro|<a href="https://search.dartslive.com/jp/shop/152529aa9ce888430d9b047a20a7ba1e">Knot</a>|<a href="/darts/rank/兵庫県/芦屋市">兵庫県芦屋市</a>|
+|11|498|みずもと|<a href="https://search.dartslive.com/jp/shop/152529aa9ce888430d9b047a20a7ba1e">Knot</a>|<a href="/darts/rank/兵庫県/芦屋市">兵庫県芦屋市</a>|
+|12|468|花 [ ● ] 菱|<a href="https://search.dartslive.com/jp/shop/152529aa9ce888430d9b047a20a7ba1e">Knot</a>|<a href="/darts/rank/兵庫県/芦屋市">兵庫県芦屋市</a>|
+|13|463|ムラムラ|<a href="https://search.dartslive.com/jp/shop/152529aa9ce888430d9b047a20a7ba1e">Knot</a>|<a href="/darts/rank/兵庫県/芦屋市">兵庫県芦屋市</a>|
+|14|403|KEI|<a href="https://search.dartslive.com/jp/shop/152529aa9ce888430d9b047a20a7ba1e">Knot</a>|<a href="/darts/rank/兵庫県/芦屋市">兵庫県芦屋市</a>|
+|15|396|しらたま|<a href="https://search.dartslive.com/jp/shop/152529aa9ce888430d9b047a20a7ba1e">Knot</a>|<a href="/darts/rank/兵庫県/芦屋市">兵庫県芦屋市</a>|
+|16|384|YUKI43589|<a href="https://search.dartslive.com/jp/shop/152529aa9ce888430d9b047a20a7ba1e">Knot</a>|<a href="/darts/rank/兵庫県/芦屋市">兵庫県芦屋市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:55_
+_last update : 2024/01/21 13:39:06_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

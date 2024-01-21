@@ -58,27 +58,27 @@ ___
 |42|646|舞夜|<a href="https://search.dartslive.com/jp/shop/ab4e1ad93df7b0dc0d9b047a20a7ba1e">カフェレストラン　たまーる</a>|<a href="/darts/rank/千葉県/木更津市">千葉県木更津市</a>|
 |43|645|ありさん｡|<a href="https://search.dartslive.com/jp/shop/ab4e1ad93df7b0dc0d9b047a20a7ba1e">カフェレストラン　たまーる</a>|<a href="/darts/rank/千葉県/木更津市">千葉県木更津市</a>|
 |44|632|トビ|<a href="https://search.dartslive.com/jp/shop/54be3082379b8944fec1ae84bb28bd87">快活CLUB 木更津店</a>|<a href="/darts/rank/千葉県/木更津市">千葉県木更津市</a>|
-|45|601|minami|<a href="https://search.dartslive.com/jp/shop/54be3082379b8944fec1ae84bb28bd87">快活CLUB 木更津店</a>|<a href="/darts/rank/千葉県/木更津市">千葉県木更津市</a>|
-|46|596|颯之介|<a href="https://search.dartslive.com/jp/shop/54be3082379b8944fec1ae84bb28bd87">快活CLUB 木更津店</a>|<a href="/darts/rank/千葉県/木更津市">千葉県木更津市</a>|
+|45|628|颯之介|<a href="https://search.dartslive.com/jp/shop/54be3082379b8944fec1ae84bb28bd87">快活CLUB 木更津店</a>|<a href="/darts/rank/千葉県/木更津市">千葉県木更津市</a>|
+|46|601|minami|<a href="https://search.dartslive.com/jp/shop/54be3082379b8944fec1ae84bb28bd87">快活CLUB 木更津店</a>|<a href="/darts/rank/千葉県/木更津市">千葉県木更津市</a>|
 |47|591|ﾓﾋｶﾝ家☆ЁMI☆|<a href="https://search.dartslive.com/jp/shop/54be3082379b8944fec1ae84bb28bd87">快活CLUB 木更津店</a>|<a href="/darts/rank/千葉県/木更津市">千葉県木更津市</a>|
 |48|563|H!r@N◎|<a href="https://search.dartslive.com/jp/shop/54be3082379b8944fec1ae84bb28bd87">快活CLUB 木更津店</a>|<a href="/darts/rank/千葉県/木更津市">千葉県木更津市</a>|
 |49|559|晴嵐|<a href="https://search.dartslive.com/jp/shop/54be3082379b8944fec1ae84bb28bd87">快活CLUB 木更津店</a>|<a href="/darts/rank/千葉県/木更津市">千葉県木更津市</a>|
 |50|551|乳脂犬@たまーる|<a href="https://search.dartslive.com/jp/shop/ab4e1ad93df7b0dc0d9b047a20a7ba1e">カフェレストラン　たまーる</a>|<a href="/darts/rank/千葉県/木更津市">千葉県木更津市</a>|
 |51|524|YUMI @モヒカン家|<a href="https://search.dartslive.com/jp/shop/54be3082379b8944fec1ae84bb28bd87">快活CLUB 木更津店</a>|<a href="/darts/rank/千葉県/木更津市">千葉県木更津市</a>|
 |52|522|Honoka|<a href="https://search.dartslive.com/jp/shop/54be3082379b8944fec1ae84bb28bd87">快活CLUB 木更津店</a>|<a href="/darts/rank/千葉県/木更津市">千葉県木更津市</a>|
-|53|502|a|<a href="https://search.dartslive.com/jp/shop/54be3082379b8944fec1ae84bb28bd87">快活CLUB 木更津店</a>|<a href="/darts/rank/千葉県/木更津市">千葉県木更津市</a>|
-|54|500|夜影|<a href="https://search.dartslive.com/jp/shop/54be3082379b8944fec1ae84bb28bd87">快活CLUB 木更津店</a>|<a href="/darts/rank/千葉県/木更津市">千葉県木更津市</a>|
-|55|498|Mizuho|<a href="https://search.dartslive.com/jp/shop/ab4e1ad93df7b0dc0d9b047a20a7ba1e">カフェレストラン　たまーる</a>|<a href="/darts/rank/千葉県/木更津市">千葉県木更津市</a>|
-|56|478|カエデ825|<a href="https://search.dartslive.com/jp/shop/ab4e1ad93df7b0dc0d9b047a20a7ba1e">カフェレストラン　たまーる</a>|<a href="/darts/rank/千葉県/木更津市">千葉県木更津市</a>|
-|57|472|酒|<a href="https://search.dartslive.com/jp/shop/0be389100062a7600d9b047a20a7ba1e">KingAsia</a>|<a href="/darts/rank/千葉県/木更津市">千葉県木更津市</a>|
-|58|469|ゆず|<a href="https://search.dartslive.com/jp/shop/54be3082379b8944fec1ae84bb28bd87">快活CLUB 木更津店</a>|<a href="/darts/rank/千葉県/木更津市">千葉県木更津市</a>|
-|59|467|もちまる|<a href="https://search.dartslive.com/jp/shop/ab4e1ad93df7b0dc0d9b047a20a7ba1e">カフェレストラン　たまーる</a>|<a href="/darts/rank/千葉県/木更津市">千葉県木更津市</a>|
-|60|466|foglia|<a href="https://search.dartslive.com/jp/shop/54be3082379b8944fec1ae84bb28bd87">快活CLUB 木更津店</a>|<a href="/darts/rank/千葉県/木更津市">千葉県木更津市</a>|
-|61|464|ちゃ~|<a href="https://search.dartslive.com/jp/shop/ab4e1ad93df7b0dc0d9b047a20a7ba1e">カフェレストラン　たまーる</a>|<a href="/darts/rank/千葉県/木更津市">千葉県木更津市</a>|
-|62|447|砂糖のご飯|<a href="https://search.dartslive.com/jp/shop/0be389100062a7600d9b047a20a7ba1e">KingAsia</a>|<a href="/darts/rank/千葉県/木更津市">千葉県木更津市</a>|
-|63|435|新山|<a href="https://search.dartslive.com/jp/shop/ab4e1ad93df7b0dc0d9b047a20a7ba1e">カフェレストラン　たまーる</a>|<a href="/darts/rank/千葉県/木更津市">千葉県木更津市</a>|
-|64|424|なのあ|<a href="https://search.dartslive.com/jp/shop/ab4e1ad93df7b0dc0d9b047a20a7ba1e">カフェレストラン　たまーる</a>|<a href="/darts/rank/千葉県/木更津市">千葉県木更津市</a>|
-|65|413|成城|<a href="https://search.dartslive.com/jp/shop/54be3082379b8944fec1ae84bb28bd87">快活CLUB 木更津店</a>|<a href="/darts/rank/千葉県/木更津市">千葉県木更津市</a>|
+|53|504|みね|<a href="https://search.dartslive.com/jp/shop/ab4e1ad93df7b0dc0d9b047a20a7ba1e">カフェレストラン　たまーる</a>|<a href="/darts/rank/千葉県/木更津市">千葉県木更津市</a>|
+|54|502|a|<a href="https://search.dartslive.com/jp/shop/54be3082379b8944fec1ae84bb28bd87">快活CLUB 木更津店</a>|<a href="/darts/rank/千葉県/木更津市">千葉県木更津市</a>|
+|55|500|夜影|<a href="https://search.dartslive.com/jp/shop/54be3082379b8944fec1ae84bb28bd87">快活CLUB 木更津店</a>|<a href="/darts/rank/千葉県/木更津市">千葉県木更津市</a>|
+|56|498|Mizuho|<a href="https://search.dartslive.com/jp/shop/ab4e1ad93df7b0dc0d9b047a20a7ba1e">カフェレストラン　たまーる</a>|<a href="/darts/rank/千葉県/木更津市">千葉県木更津市</a>|
+|57|497|たま〜る座超|<a href="https://search.dartslive.com/jp/shop/ab4e1ad93df7b0dc0d9b047a20a7ba1e">カフェレストラン　たまーる</a>|<a href="/darts/rank/千葉県/木更津市">千葉県木更津市</a>|
+|58|478|カエデ825|<a href="https://search.dartslive.com/jp/shop/ab4e1ad93df7b0dc0d9b047a20a7ba1e">カフェレストラン　たまーる</a>|<a href="/darts/rank/千葉県/木更津市">千葉県木更津市</a>|
+|59|472|酒|<a href="https://search.dartslive.com/jp/shop/0be389100062a7600d9b047a20a7ba1e">KingAsia</a>|<a href="/darts/rank/千葉県/木更津市">千葉県木更津市</a>|
+|60|467|もちまる|<a href="https://search.dartslive.com/jp/shop/ab4e1ad93df7b0dc0d9b047a20a7ba1e">カフェレストラン　たまーる</a>|<a href="/darts/rank/千葉県/木更津市">千葉県木更津市</a>|
+|61|466|foglia|<a href="https://search.dartslive.com/jp/shop/54be3082379b8944fec1ae84bb28bd87">快活CLUB 木更津店</a>|<a href="/darts/rank/千葉県/木更津市">千葉県木更津市</a>|
+|62|464|ちゃ~|<a href="https://search.dartslive.com/jp/shop/ab4e1ad93df7b0dc0d9b047a20a7ba1e">カフェレストラン　たまーる</a>|<a href="/darts/rank/千葉県/木更津市">千葉県木更津市</a>|
+|63|447|砂糖のご飯|<a href="https://search.dartslive.com/jp/shop/0be389100062a7600d9b047a20a7ba1e">KingAsia</a>|<a href="/darts/rank/千葉県/木更津市">千葉県木更津市</a>|
+|64|435|新山|<a href="https://search.dartslive.com/jp/shop/ab4e1ad93df7b0dc0d9b047a20a7ba1e">カフェレストラン　たまーる</a>|<a href="/darts/rank/千葉県/木更津市">千葉県木更津市</a>|
+|65|424|なのあ|<a href="https://search.dartslive.com/jp/shop/ab4e1ad93df7b0dc0d9b047a20a7ba1e">カフェレストラン　たまーる</a>|<a href="/darts/rank/千葉県/木更津市">千葉県木更津市</a>|
 |66|412|はなはな|<a href="https://search.dartslive.com/jp/shop/54be3082379b8944fec1ae84bb28bd87">快活CLUB 木更津店</a>|<a href="/darts/rank/千葉県/木更津市">千葉県木更津市</a>|
 |67|369|メタルさん|<a href="https://search.dartslive.com/jp/shop/0be389100062a7600d9b047a20a7ba1e">KingAsia</a>|<a href="/darts/rank/千葉県/木更津市">千葉県木更津市</a>|
 |68|306|ちゅん。|<a href="https://search.dartslive.com/jp/shop/ab4e1ad93df7b0dc0d9b047a20a7ba1e">カフェレストラン　たまーる</a>|<a href="/darts/rank/千葉県/木更津市">千葉県木更津市</a>|
@@ -87,7 +87,7 @@ ___
 
 ___
 
-_last update : 2024/01/21 03:05:51_
+_last update : 2024/01/21 13:38:57_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

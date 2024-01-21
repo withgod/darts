@@ -38,20 +38,20 @@ ___
 |13|875|Yama|<a href="https://search.dartslive.com/jp/shop/372fc5e3c83c35490d9b047a20a7ba1e">安-Bartic駅前店</a>|<a href="/darts/rank/石川県/金沢市">石川県金沢市</a>|
 |14|871|彦野 陸哉|<a href="https://search.dartslive.com/jp/shop/fcf748203154d8a5b21333aee1bd51e4">Shallo-Bar</a>|<a href="/darts/rank/石川県/小松市">石川県小松市</a>|
 |15|867|NAO|<a href="https://search.dartslive.com/jp/shop/c0de1f74cc26e2660d9b047a20a7ba1e">安-Bartic 片町本店</a>|<a href="/darts/rank/石川県/金沢市">石川県金沢市</a>|
-|16|862|仏滅तृष्णा|<a href="https://search.dartslive.com/jp/shop/4211c435d402788ca3f63593b5358cc4">快活CLUB 8号松任店</a>|<a href="/darts/rank/石川県/白山市">石川県白山市</a>|
-|17|860|TM|<a href="https://search.dartslive.com/jp/shop/b4035b85b05b533858d385ea46352d8f">Play Garden金沢諸江店</a>|<a href="/darts/rank/石川県/金沢市">石川県金沢市</a>|
-|17|860|くけこ|<a href="https://search.dartslive.com/jp/shop/db6f7975acda3e40774c926eb736cb5a">快活CLUB 金沢福久店</a>|<a href="/darts/rank/石川県/金沢市">石川県金沢市</a>|
-|19|852|まっすー|<a href="https://search.dartslive.com/jp/shop/c0de1f74cc26e2660d9b047a20a7ba1e">安-Bartic 片町本店</a>|<a href="/darts/rank/石川県/金沢市">石川県金沢市</a>|
-|20|850|小川仁志|<a href="https://search.dartslive.com/jp/shop/4211c435d402788ca3f63593b5358cc4">快活CLUB 8号松任店</a>|<a href="/darts/rank/石川県/白山市">石川県白山市</a>|
-|20|850|気紛れ☆ﾊｼﾞﾒﾏｼﾀ｡|<a href="https://search.dartslive.com/jp/shop/c0de1f74cc26e2660d9b047a20a7ba1e">安-Bartic 片町本店</a>|<a href="/darts/rank/石川県/金沢市">石川県金沢市</a>|
-|22|845|気紛れ☆ﾊｼﾞﾒﾏｼﾀ｡|<a href="https://search.dartslive.com/jp/shop/372fc5e3c83c35490d9b047a20a7ba1e">安-Bartic駅前店</a>|<a href="/darts/rank/石川県/金沢市">石川県金沢市</a>|
-|23|837|Sakirei|<a href="https://search.dartslive.com/jp/shop/22fd9166f9152c6a0d9b047a20a7ba1e">Lim</a>|<a href="/darts/rank/石川県/金沢市">石川県金沢市</a>|
-|24|836|だいーーー|<a href="https://search.dartslive.com/jp/shop/372fc5e3c83c35490d9b047a20a7ba1e">安-Bartic駅前店</a>|<a href="/darts/rank/石川県/金沢市">石川県金沢市</a>|
-|24|836|キョロちゃん|<a href="https://search.dartslive.com/jp/shop/372fc5e3c83c35490d9b047a20a7ba1e">安-Bartic駅前店</a>|<a href="/darts/rank/石川県/金沢市">石川県金沢市</a>|
-|26|833|アンチマイダーツ|<a href="https://search.dartslive.com/jp/shop/08ccbf40ced039fa5f9f3321c1147265">アプレシオ松任店</a>|<a href="/darts/rank/石川県/白山市">石川県白山市</a>|
-|27|829|ははろ|<a href="https://search.dartslive.com/jp/shop/08ccbf40ced039fa5f9f3321c1147265">アプレシオ松任店</a>|<a href="/darts/rank/石川県/白山市">石川県白山市</a>|
-|27|829|もっくん♪|<a href="https://search.dartslive.com/jp/shop/372fc5e3c83c35490d9b047a20a7ba1e">安-Bartic駅前店</a>|<a href="/darts/rank/石川県/金沢市">石川県金沢市</a>|
-|29|822|#sho#|<a href="https://search.dartslive.com/jp/shop/4211c435d402788ca3f63593b5358cc4">快活CLUB 8号松任店</a>|<a href="/darts/rank/石川県/白山市">石川県白山市</a>|
+|16|860|TM|<a href="https://search.dartslive.com/jp/shop/b4035b85b05b533858d385ea46352d8f">Play Garden金沢諸江店</a>|<a href="/darts/rank/石川県/金沢市">石川県金沢市</a>|
+|16|860|くけこ|<a href="https://search.dartslive.com/jp/shop/db6f7975acda3e40774c926eb736cb5a">快活CLUB 金沢福久店</a>|<a href="/darts/rank/石川県/金沢市">石川県金沢市</a>|
+|18|852|まっすー|<a href="https://search.dartslive.com/jp/shop/c0de1f74cc26e2660d9b047a20a7ba1e">安-Bartic 片町本店</a>|<a href="/darts/rank/石川県/金沢市">石川県金沢市</a>|
+|19|850|小川仁志|<a href="https://search.dartslive.com/jp/shop/4211c435d402788ca3f63593b5358cc4">快活CLUB 8号松任店</a>|<a href="/darts/rank/石川県/白山市">石川県白山市</a>|
+|19|850|気紛れ☆ﾊｼﾞﾒﾏｼﾀ｡|<a href="https://search.dartslive.com/jp/shop/c0de1f74cc26e2660d9b047a20a7ba1e">安-Bartic 片町本店</a>|<a href="/darts/rank/石川県/金沢市">石川県金沢市</a>|
+|21|845|気紛れ☆ﾊｼﾞﾒﾏｼﾀ｡|<a href="https://search.dartslive.com/jp/shop/372fc5e3c83c35490d9b047a20a7ba1e">安-Bartic駅前店</a>|<a href="/darts/rank/石川県/金沢市">石川県金沢市</a>|
+|22|837|Sakirei|<a href="https://search.dartslive.com/jp/shop/22fd9166f9152c6a0d9b047a20a7ba1e">Lim</a>|<a href="/darts/rank/石川県/金沢市">石川県金沢市</a>|
+|23|836|だいーーー|<a href="https://search.dartslive.com/jp/shop/372fc5e3c83c35490d9b047a20a7ba1e">安-Bartic駅前店</a>|<a href="/darts/rank/石川県/金沢市">石川県金沢市</a>|
+|23|836|キョロちゃん|<a href="https://search.dartslive.com/jp/shop/372fc5e3c83c35490d9b047a20a7ba1e">安-Bartic駅前店</a>|<a href="/darts/rank/石川県/金沢市">石川県金沢市</a>|
+|25|833|アンチマイダーツ|<a href="https://search.dartslive.com/jp/shop/08ccbf40ced039fa5f9f3321c1147265">アプレシオ松任店</a>|<a href="/darts/rank/石川県/白山市">石川県白山市</a>|
+|26|829|ははろ|<a href="https://search.dartslive.com/jp/shop/08ccbf40ced039fa5f9f3321c1147265">アプレシオ松任店</a>|<a href="/darts/rank/石川県/白山市">石川県白山市</a>|
+|26|829|もっくん♪|<a href="https://search.dartslive.com/jp/shop/372fc5e3c83c35490d9b047a20a7ba1e">安-Bartic駅前店</a>|<a href="/darts/rank/石川県/金沢市">石川県金沢市</a>|
+|28|822|#sho#|<a href="https://search.dartslive.com/jp/shop/4211c435d402788ca3f63593b5358cc4">快活CLUB 8号松任店</a>|<a href="/darts/rank/石川県/白山市">石川県白山市</a>|
+|29|817|仏滅तृष्णा|<a href="https://search.dartslive.com/jp/shop/4211c435d402788ca3f63593b5358cc4">快活CLUB 8号松任店</a>|<a href="/darts/rank/石川県/白山市">石川県白山市</a>|
 |30|812|さとえもん|<a href="https://search.dartslive.com/jp/shop/4211c435d402788ca3f63593b5358cc4">快活CLUB 8号松任店</a>|<a href="/darts/rank/石川県/白山市">石川県白山市</a>|
 |31|808|Miracle|<a href="https://search.dartslive.com/jp/shop/08ccbf40ced039fa5f9f3321c1147265">アプレシオ松任店</a>|<a href="/darts/rank/石川県/白山市">石川県白山市</a>|
 |32|802|ＪＵЙ＠Ｃrazy|<a href="https://search.dartslive.com/jp/shop/fcf748203154d8a5b21333aee1bd51e4">Shallo-Bar</a>|<a href="/darts/rank/石川県/小松市">石川県小松市</a>|
@@ -130,7 +130,7 @@ ___
 
 ___
 
-_last update : 2024/01/21 03:05:53_
+_last update : 2024/01/21 13:39:00_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

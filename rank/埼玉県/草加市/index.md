@@ -113,13 +113,13 @@ ___
 |97|914|半玉|<a href="https://search.dartslive.com/jp/shop/a1f86ff418261eb828032249b44395af">自遊空間 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
 |98|912|たけ|<a href="https://search.dartslive.com/jp/shop/99ef3337859468fc58d385ea46352d8f">快活CLUB 草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
 |99|911|ビチ糞太郎|<a href="https://search.dartslive.com/jp/shop/6d88bf6b5933c3f00d9b047a20a7ba1e">CHACOK</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|100|909|ちｯさく★つかだ|<a href="https://search.dartslive.com/jp/shop/db27e3d71dda1b060d9b047a20a7ba1e">草加ダーツバーEVER</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|100|909|gxox...|<a href="https://search.dartslive.com/jp/shop/191149abe42784ef0d9b047a20a7ba1e">ラウンドワン草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:50_
+_last update : 2024/01/21 13:38:56_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

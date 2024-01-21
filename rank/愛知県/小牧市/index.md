@@ -33,37 +33,34 @@ ___
 |17|745|MK|<a href="https://search.dartslive.com/jp/shop/f5a33859618b8ac90d9b047a20a7ba1e">小牧ハスラー</a>|<a href="/darts/rank/愛知県/小牧市">愛知県小牧市</a>|
 |18|742|Red べこ|<a href="https://search.dartslive.com/jp/shop/f5a33859618b8ac90d9b047a20a7ba1e">小牧ハスラー</a>|<a href="/darts/rank/愛知県/小牧市">愛知県小牧市</a>|
 |19|741|Music Journey|<a href="https://search.dartslive.com/jp/shop/f5a33859618b8ac90d9b047a20a7ba1e">小牧ハスラー</a>|<a href="/darts/rank/愛知県/小牧市">愛知県小牧市</a>|
-|20|721|ゆう|<a href="https://search.dartslive.com/jp/shop/99f156a307a7986e5f9f3321c1147265">darts cafe MATE</a>|<a href="/darts/rank/愛知県/小牧市">愛知県小牧市</a>|
-|21|718|☆Maco☆|<a href="https://search.dartslive.com/jp/shop/99f156a307a7986e5f9f3321c1147265">darts cafe MATE</a>|<a href="/darts/rank/愛知県/小牧市">愛知県小牧市</a>|
-|22|707|☆しほっぺ☆|<a href="https://search.dartslive.com/jp/shop/99f156a307a7986e5f9f3321c1147265">darts cafe MATE</a>|<a href="/darts/rank/愛知県/小牧市">愛知県小牧市</a>|
-|23|674|ASA|<a href="https://search.dartslive.com/jp/shop/f5a33859618b8ac90d9b047a20a7ba1e">小牧ハスラー</a>|<a href="/darts/rank/愛知県/小牧市">愛知県小牧市</a>|
-|24|641|ゆう|<a href="https://search.dartslive.com/jp/shop/f5a33859618b8ac90d9b047a20a7ba1e">小牧ハスラー</a>|<a href="/darts/rank/愛知県/小牧市">愛知県小牧市</a>|
-|25|615|pompom|<a href="https://search.dartslive.com/jp/shop/99f156a307a7986e5f9f3321c1147265">darts cafe MATE</a>|<a href="/darts/rank/愛知県/小牧市">愛知県小牧市</a>|
-|26|577|nya|<a href="https://search.dartslive.com/jp/shop/f5a33859618b8ac90d9b047a20a7ba1e">小牧ハスラー</a>|<a href="/darts/rank/愛知県/小牧市">愛知県小牧市</a>|
-|27|560|たくみ|<a href="https://search.dartslive.com/jp/shop/99f156a307a7986e5f9f3321c1147265">darts cafe MATE</a>|<a href="/darts/rank/愛知県/小牧市">愛知県小牧市</a>|
-|28|552|メイトのメタボ|<a href="https://search.dartslive.com/jp/shop/99f156a307a7986e5f9f3321c1147265">darts cafe MATE</a>|<a href="/darts/rank/愛知県/小牧市">愛知県小牧市</a>|
-|29|547|諦めないもも|<a href="https://search.dartslive.com/jp/shop/99f156a307a7986e5f9f3321c1147265">darts cafe MATE</a>|<a href="/darts/rank/愛知県/小牧市">愛知県小牧市</a>|
-|30|521|ウラドラ|<a href="https://search.dartslive.com/jp/shop/f5a33859618b8ac90d9b047a20a7ba1e">小牧ハスラー</a>|<a href="/darts/rank/愛知県/小牧市">愛知県小牧市</a>|
-|31|508|HANA.|<a href="https://search.dartslive.com/jp/shop/99f156a307a7986e5f9f3321c1147265">darts cafe MATE</a>|<a href="/darts/rank/愛知県/小牧市">愛知県小牧市</a>|
-|32|492|ジュンジ|<a href="https://search.dartslive.com/jp/shop/f5a33859618b8ac90d9b047a20a7ba1e">小牧ハスラー</a>|<a href="/darts/rank/愛知県/小牧市">愛知県小牧市</a>|
-|33|481|yoshi|<a href="https://search.dartslive.com/jp/shop/f5a33859618b8ac90d9b047a20a7ba1e">小牧ハスラー</a>|<a href="/darts/rank/愛知県/小牧市">愛知県小牧市</a>|
-|34|479|ちーちゃん|<a href="https://search.dartslive.com/jp/shop/99f156a307a7986e5f9f3321c1147265">darts cafe MATE</a>|<a href="/darts/rank/愛知県/小牧市">愛知県小牧市</a>|
-|35|472|まあまあきのこ|<a href="https://search.dartslive.com/jp/shop/f5a33859618b8ac90d9b047a20a7ba1e">小牧ハスラー</a>|<a href="/darts/rank/愛知県/小牧市">愛知県小牧市</a>|
-|36|463|ドラドラ2|<a href="https://search.dartslive.com/jp/shop/f5a33859618b8ac90d9b047a20a7ba1e">小牧ハスラー</a>|<a href="/darts/rank/愛知県/小牧市">愛知県小牧市</a>|
-|37|448|うみ(b｀-ω-´)b|<a href="https://search.dartslive.com/jp/shop/99f156a307a7986e5f9f3321c1147265">darts cafe MATE</a>|<a href="/darts/rank/愛知県/小牧市">愛知県小牧市</a>|
-|38|442|FUNKY|<a href="https://search.dartslive.com/jp/shop/f5a33859618b8ac90d9b047a20a7ba1e">小牧ハスラー</a>|<a href="/darts/rank/愛知県/小牧市">愛知県小牧市</a>|
-|39|432|ちゃんキティ|<a href="https://search.dartslive.com/jp/shop/f5a33859618b8ac90d9b047a20a7ba1e">小牧ハスラー</a>|<a href="/darts/rank/愛知県/小牧市">愛知県小牧市</a>|
-|40|417|あんこ(*´︶`*)ﾉ|<a href="https://search.dartslive.com/jp/shop/99f156a307a7986e5f9f3321c1147265">darts cafe MATE</a>|<a href="/darts/rank/愛知県/小牧市">愛知県小牧市</a>|
-|41|402|はやた|<a href="https://search.dartslive.com/jp/shop/f5a33859618b8ac90d9b047a20a7ba1e">小牧ハスラー</a>|<a href="/darts/rank/愛知県/小牧市">愛知県小牧市</a>|
-|42|374|ゆう|<a href="https://search.dartslive.com/jp/shop/b4e3aa059b38e6e658d385ea46352d8f">亜熱帯小牧IC店</a>|<a href="/darts/rank/愛知県/小牧市">愛知県小牧市</a>|
-|43|266|Takashi|<a href="https://search.dartslive.com/jp/shop/f5a33859618b8ac90d9b047a20a7ba1e">小牧ハスラー</a>|<a href="/darts/rank/愛知県/小牧市">愛知県小牧市</a>|
-|44|249|NO NAME 5766|<a href="https://search.dartslive.com/jp/shop/b4e3aa059b38e6e658d385ea46352d8f">亜熱帯小牧IC店</a>|<a href="/darts/rank/愛知県/小牧市">愛知県小牧市</a>|
+|20|718|☆Maco☆|<a href="https://search.dartslive.com/jp/shop/99f156a307a7986e5f9f3321c1147265">darts cafe MATE</a>|<a href="/darts/rank/愛知県/小牧市">愛知県小牧市</a>|
+|21|707|☆しほっぺ☆|<a href="https://search.dartslive.com/jp/shop/99f156a307a7986e5f9f3321c1147265">darts cafe MATE</a>|<a href="/darts/rank/愛知県/小牧市">愛知県小牧市</a>|
+|22|674|ASA|<a href="https://search.dartslive.com/jp/shop/f5a33859618b8ac90d9b047a20a7ba1e">小牧ハスラー</a>|<a href="/darts/rank/愛知県/小牧市">愛知県小牧市</a>|
+|23|641|ゆう|<a href="https://search.dartslive.com/jp/shop/f5a33859618b8ac90d9b047a20a7ba1e">小牧ハスラー</a>|<a href="/darts/rank/愛知県/小牧市">愛知県小牧市</a>|
+|24|615|pompom|<a href="https://search.dartslive.com/jp/shop/99f156a307a7986e5f9f3321c1147265">darts cafe MATE</a>|<a href="/darts/rank/愛知県/小牧市">愛知県小牧市</a>|
+|25|577|nya|<a href="https://search.dartslive.com/jp/shop/f5a33859618b8ac90d9b047a20a7ba1e">小牧ハスラー</a>|<a href="/darts/rank/愛知県/小牧市">愛知県小牧市</a>|
+|26|547|諦めないもも|<a href="https://search.dartslive.com/jp/shop/99f156a307a7986e5f9f3321c1147265">darts cafe MATE</a>|<a href="/darts/rank/愛知県/小牧市">愛知県小牧市</a>|
+|27|521|ウラドラ|<a href="https://search.dartslive.com/jp/shop/f5a33859618b8ac90d9b047a20a7ba1e">小牧ハスラー</a>|<a href="/darts/rank/愛知県/小牧市">愛知県小牧市</a>|
+|28|508|HANA.|<a href="https://search.dartslive.com/jp/shop/99f156a307a7986e5f9f3321c1147265">darts cafe MATE</a>|<a href="/darts/rank/愛知県/小牧市">愛知県小牧市</a>|
+|29|492|ジュンジ|<a href="https://search.dartslive.com/jp/shop/f5a33859618b8ac90d9b047a20a7ba1e">小牧ハスラー</a>|<a href="/darts/rank/愛知県/小牧市">愛知県小牧市</a>|
+|30|481|yoshi|<a href="https://search.dartslive.com/jp/shop/f5a33859618b8ac90d9b047a20a7ba1e">小牧ハスラー</a>|<a href="/darts/rank/愛知県/小牧市">愛知県小牧市</a>|
+|31|479|ちーちゃん|<a href="https://search.dartslive.com/jp/shop/99f156a307a7986e5f9f3321c1147265">darts cafe MATE</a>|<a href="/darts/rank/愛知県/小牧市">愛知県小牧市</a>|
+|32|472|まあまあきのこ|<a href="https://search.dartslive.com/jp/shop/f5a33859618b8ac90d9b047a20a7ba1e">小牧ハスラー</a>|<a href="/darts/rank/愛知県/小牧市">愛知県小牧市</a>|
+|33|463|ドラドラ2|<a href="https://search.dartslive.com/jp/shop/f5a33859618b8ac90d9b047a20a7ba1e">小牧ハスラー</a>|<a href="/darts/rank/愛知県/小牧市">愛知県小牧市</a>|
+|34|448|うみ(b｀-ω-´)b|<a href="https://search.dartslive.com/jp/shop/99f156a307a7986e5f9f3321c1147265">darts cafe MATE</a>|<a href="/darts/rank/愛知県/小牧市">愛知県小牧市</a>|
+|35|442|FUNKY|<a href="https://search.dartslive.com/jp/shop/f5a33859618b8ac90d9b047a20a7ba1e">小牧ハスラー</a>|<a href="/darts/rank/愛知県/小牧市">愛知県小牧市</a>|
+|36|432|ちゃんキティ|<a href="https://search.dartslive.com/jp/shop/f5a33859618b8ac90d9b047a20a7ba1e">小牧ハスラー</a>|<a href="/darts/rank/愛知県/小牧市">愛知県小牧市</a>|
+|37|417|あんこ(*´︶`*)ﾉ|<a href="https://search.dartslive.com/jp/shop/99f156a307a7986e5f9f3321c1147265">darts cafe MATE</a>|<a href="/darts/rank/愛知県/小牧市">愛知県小牧市</a>|
+|38|402|はやた|<a href="https://search.dartslive.com/jp/shop/f5a33859618b8ac90d9b047a20a7ba1e">小牧ハスラー</a>|<a href="/darts/rank/愛知県/小牧市">愛知県小牧市</a>|
+|39|374|ゆう|<a href="https://search.dartslive.com/jp/shop/b4e3aa059b38e6e658d385ea46352d8f">亜熱帯小牧IC店</a>|<a href="/darts/rank/愛知県/小牧市">愛知県小牧市</a>|
+|40|266|Takashi|<a href="https://search.dartslive.com/jp/shop/f5a33859618b8ac90d9b047a20a7ba1e">小牧ハスラー</a>|<a href="/darts/rank/愛知県/小牧市">愛知県小牧市</a>|
+|41|249|NO NAME 5766|<a href="https://search.dartslive.com/jp/shop/b4e3aa059b38e6e658d385ea46352d8f">亜熱帯小牧IC店</a>|<a href="/darts/rank/愛知県/小牧市">愛知県小牧市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:54_
+_last update : 2024/01/21 13:39:02_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

@@ -22,8 +22,8 @@ ___
 |6|972|無限ビール|<a href="https://search.dartslive.com/jp/shop/c9bd002c8cc2c05325d56fb0e5c39bac">自遊空間 松本インター店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
 |7|967|YASSUN|<a href="https://search.dartslive.com/jp/shop/c9bd002c8cc2c05325d56fb0e5c39bac">自遊空間 松本インター店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
 |8|959|Haya|<a href="https://search.dartslive.com/jp/shop/c9bd002c8cc2c05325d56fb0e5c39bac">自遊空間 松本インター店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
-|9|955|HiRo|<a href="https://search.dartslive.com/jp/shop/270011790293516a0d9b047a20a7ba1e">コミックバスター 南松本店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
-|10|946|HiRo|<a href="https://search.dartslive.com/jp/shop/c9bd002c8cc2c05325d56fb0e5c39bac">自遊空間 松本インター店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
+|9|956|HiRo|<a href="https://search.dartslive.com/jp/shop/c9bd002c8cc2c05325d56fb0e5c39bac">自遊空間 松本インター店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
+|10|955|HiRo|<a href="https://search.dartslive.com/jp/shop/270011790293516a0d9b047a20a7ba1e">コミックバスター 南松本店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
 |11|943|もつ|<a href="https://search.dartslive.com/jp/shop/c9bd002c8cc2c05325d56fb0e5c39bac">自遊空間 松本インター店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
 |12|939|ﾌｸﾛｳ|<a href="https://search.dartslive.com/jp/shop/c9bd002c8cc2c05325d56fb0e5c39bac">自遊空間 松本インター店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
 |13|936|晶平@GSM|<a href="https://search.dartslive.com/jp/shop/c9bd002c8cc2c05325d56fb0e5c39bac">自遊空間 松本インター店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
@@ -57,69 +57,69 @@ ___
 |41|763|ねらずろ|<a href="https://search.dartslive.com/jp/shop/a5e5af7fada386220d9b047a20a7ba1e">Amusement Sports Bar Bull-X</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
 |42|761|sho|<a href="https://search.dartslive.com/jp/shop/270011790293516a0d9b047a20a7ba1e">コミックバスター 南松本店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
 |43|743|犬坊|<a href="https://search.dartslive.com/jp/shop/ad3474e804683402774c926eb736cb5a">快活CLUB 松本南店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
-|44|738|NO NAME 9849|<a href="https://search.dartslive.com/jp/shop/c9bd002c8cc2c05325d56fb0e5c39bac">自遊空間 松本インター店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
-|45|727|ねこうさ|<a href="https://search.dartslive.com/jp/shop/c9bd002c8cc2c05325d56fb0e5c39bac">自遊空間 松本インター店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
-|46|719|真心みっちー|<a href="https://search.dartslive.com/jp/shop/a5e5af7fada386220d9b047a20a7ba1e">Amusement Sports Bar Bull-X</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
-|47|714|あーたんママ|<a href="https://search.dartslive.com/jp/shop/270011790293516a0d9b047a20a7ba1e">コミックバスター 南松本店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
-|48|710|❾|<a href="https://search.dartslive.com/jp/shop/270011790293516a0d9b047a20a7ba1e">コミックバスター 南松本店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
-|49|709|柴田洋行|<a href="https://search.dartslive.com/jp/shop/a5e5af7fada386220d9b047a20a7ba1e">Amusement Sports Bar Bull-X</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
-|50|706|ひつじばね|<a href="https://search.dartslive.com/jp/shop/270011790293516a0d9b047a20a7ba1e">コミックバスター 南松本店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
-|51|695|ty|<a href="https://search.dartslive.com/jp/shop/c9bd002c8cc2c05325d56fb0e5c39bac">自遊空間 松本インター店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
-|52|693|あーたんママ|<a href="https://search.dartslive.com/jp/shop/c9bd002c8cc2c05325d56fb0e5c39bac">自遊空間 松本インター店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
-|53|690|ちゃま|<a href="https://search.dartslive.com/jp/shop/a5e5af7fada386220d9b047a20a7ba1e">Amusement Sports Bar Bull-X</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
-|54|689|NO NAME 8833|<a href="https://search.dartslive.com/jp/shop/270011790293516a0d9b047a20a7ba1e">コミックバスター 南松本店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
-|54|689|ゆう|<a href="https://search.dartslive.com/jp/shop/a5e5af7fada386220d9b047a20a7ba1e">Amusement Sports Bar Bull-X</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
-|56|686|あーちゃん☻♨️|<a href="https://search.dartslive.com/jp/shop/a5e5af7fada386220d9b047a20a7ba1e">Amusement Sports Bar Bull-X</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
-|57|676|ねらずろ|<a href="https://search.dartslive.com/jp/shop/677d9e0b4c8d98870d9b047a20a7ba1e">ダイニングリゾート オレンジ</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
-|58|662|ドラえもん|<a href="https://search.dartslive.com/jp/shop/1b5a938116117a8e774c926eb736cb5a">アピナ松本店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
-|59|660|何もしたくない|<a href="https://search.dartslive.com/jp/shop/c9bd002c8cc2c05325d56fb0e5c39bac">自遊空間 松本インター店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
-|60|657|890|<a href="https://search.dartslive.com/jp/shop/1b5a938116117a8e774c926eb736cb5a">アピナ松本店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
-|61|655|つっち|<a href="https://search.dartslive.com/jp/shop/1b5a938116117a8e774c926eb736cb5a">アピナ松本店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
-|62|651|ざわ|<a href="https://search.dartslive.com/jp/shop/c9bd002c8cc2c05325d56fb0e5c39bac">自遊空間 松本インター店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
-|63|622|star craft|<a href="https://search.dartslive.com/jp/shop/270011790293516a0d9b047a20a7ba1e">コミックバスター 南松本店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
-|64|605|シモタク|<a href="https://search.dartslive.com/jp/shop/ae411d4662ae9c8df454cb89828a1cfe">innovation</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
-|65|601|らんぺーじ|<a href="https://search.dartslive.com/jp/shop/1b5a938116117a8e774c926eb736cb5a">アピナ松本店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
-|66|589|たＱみ＠Ｊａｍ|<a href="https://search.dartslive.com/jp/shop/c9bd002c8cc2c05325d56fb0e5c39bac">自遊空間 松本インター店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
-|67|578|ます|<a href="https://search.dartslive.com/jp/shop/a5e5af7fada386220d9b047a20a7ba1e">Amusement Sports Bar Bull-X</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
-|68|573|ぴょん|<a href="https://search.dartslive.com/jp/shop/c9bd002c8cc2c05325d56fb0e5c39bac">自遊空間 松本インター店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
-|69|565|カルーアミルク|<a href="https://search.dartslive.com/jp/shop/1b5a938116117a8e774c926eb736cb5a">アピナ松本店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
-|70|562|バセ|<a href="https://search.dartslive.com/jp/shop/ae411d4662ae9c8df454cb89828a1cfe">innovation</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
-|71|559|Kani_crab@PINO|<a href="https://search.dartslive.com/jp/shop/270011790293516a0d9b047a20a7ba1e">コミックバスター 南松本店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
-|72|555|うっちー|<a href="https://search.dartslive.com/jp/shop/a5e5af7fada386220d9b047a20a7ba1e">Amusement Sports Bar Bull-X</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
-|73|552|だいつー|<a href="https://search.dartslive.com/jp/shop/1b5a938116117a8e774c926eb736cb5a">アピナ松本店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
-|74|551|ぽっくん|<a href="https://search.dartslive.com/jp/shop/677d9e0b4c8d98870d9b047a20a7ba1e">ダイニングリゾート オレンジ</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
-|75|549|カルーアミルク|<a href="https://search.dartslive.com/jp/shop/270011790293516a0d9b047a20a7ba1e">コミックバスター 南松本店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
-|76|544|痛風予備軍|<a href="https://search.dartslive.com/jp/shop/270011790293516a0d9b047a20a7ba1e">コミックバスター 南松本店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
-|77|542|しょーた|<a href="https://search.dartslive.com/jp/shop/270011790293516a0d9b047a20a7ba1e">コミックバスター 南松本店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
-|78|539|ダイキ|<a href="https://search.dartslive.com/jp/shop/270011790293516a0d9b047a20a7ba1e">コミックバスター 南松本店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
-|79|535|りょうすけ|<a href="https://search.dartslive.com/jp/shop/c9bd002c8cc2c05325d56fb0e5c39bac">自遊空間 松本インター店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
-|80|527|猫うさ|<a href="https://search.dartslive.com/jp/shop/677d9e0b4c8d98870d9b047a20a7ba1e">ダイニングリゾート オレンジ</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
-|81|519|とり|<a href="https://search.dartslive.com/jp/shop/c9bd002c8cc2c05325d56fb0e5c39bac">自遊空間 松本インター店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
-|82|518|Taisyo|<a href="https://search.dartslive.com/jp/shop/270011790293516a0d9b047a20a7ba1e">コミックバスター 南松本店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
-|83|517|あいちゃん☆|<a href="https://search.dartslive.com/jp/shop/ad3474e804683402774c926eb736cb5a">快活CLUB 松本南店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
-|84|514|-H！R０-【dcs】|<a href="https://search.dartslive.com/jp/shop/a5e5af7fada386220d9b047a20a7ba1e">Amusement Sports Bar Bull-X</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
-|85|510|なっつん|<a href="https://search.dartslive.com/jp/shop/a5e5af7fada386220d9b047a20a7ba1e">Amusement Sports Bar Bull-X</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
-|86|509|ながれお|<a href="https://search.dartslive.com/jp/shop/a5e5af7fada386220d9b047a20a7ba1e">Amusement Sports Bar Bull-X</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
-|87|500|Cham10|<a href="https://search.dartslive.com/jp/shop/270011790293516a0d9b047a20a7ba1e">コミックバスター 南松本店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
-|88|495|PLAYER1|<a href="https://search.dartslive.com/jp/shop/a5e5af7fada386220d9b047a20a7ba1e">Amusement Sports Bar Bull-X</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
-|89|485|わごんR|<a href="https://search.dartslive.com/jp/shop/1b5a938116117a8e774c926eb736cb5a">アピナ松本店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
-|89|485|何でもしますから|<a href="https://search.dartslive.com/jp/shop/ad3474e804683402774c926eb736cb5a">快活CLUB 松本南店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
-|91|480|★に～な★|<a href="https://search.dartslive.com/jp/shop/1b5a938116117a8e774c926eb736cb5a">アピナ松本店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
-|92|471|あいちゃん☆|<a href="https://search.dartslive.com/jp/shop/270011790293516a0d9b047a20a7ba1e">コミックバスター 南松本店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
-|93|469|Asche|<a href="https://search.dartslive.com/jp/shop/ad3474e804683402774c926eb736cb5a">快活CLUB 松本南店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
-|94|454|蒼☆シャララ|<a href="https://search.dartslive.com/jp/shop/1b5a938116117a8e774c926eb736cb5a">アピナ松本店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
-|95|451|藤原 えもちる|<a href="https://search.dartslive.com/jp/shop/a5e5af7fada386220d9b047a20a7ba1e">Amusement Sports Bar Bull-X</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
-|96|450|SHUNICHIRO|<a href="https://search.dartslive.com/jp/shop/a5e5af7fada386220d9b047a20a7ba1e">Amusement Sports Bar Bull-X</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
-|97|449|Nishiやん|<a href="https://search.dartslive.com/jp/shop/270011790293516a0d9b047a20a7ba1e">コミックバスター 南松本店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
-|98|448|あっし〜|<a href="https://search.dartslive.com/jp/shop/1b5a938116117a8e774c926eb736cb5a">アピナ松本店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
-|99|441|KSK3110|<a href="https://search.dartslive.com/jp/shop/a5e5af7fada386220d9b047a20a7ba1e">Amusement Sports Bar Bull-X</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
-|100|437|Logic|<a href="https://search.dartslive.com/jp/shop/1b5a938116117a8e774c926eb736cb5a">アピナ松本店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
+|44|719|真心みっちー|<a href="https://search.dartslive.com/jp/shop/a5e5af7fada386220d9b047a20a7ba1e">Amusement Sports Bar Bull-X</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
+|45|714|あーたんママ|<a href="https://search.dartslive.com/jp/shop/270011790293516a0d9b047a20a7ba1e">コミックバスター 南松本店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
+|46|710|❾|<a href="https://search.dartslive.com/jp/shop/270011790293516a0d9b047a20a7ba1e">コミックバスター 南松本店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
+|47|709|柴田洋行|<a href="https://search.dartslive.com/jp/shop/a5e5af7fada386220d9b047a20a7ba1e">Amusement Sports Bar Bull-X</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
+|48|706|ひつじばね|<a href="https://search.dartslive.com/jp/shop/270011790293516a0d9b047a20a7ba1e">コミックバスター 南松本店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
+|49|693|あーたんママ|<a href="https://search.dartslive.com/jp/shop/c9bd002c8cc2c05325d56fb0e5c39bac">自遊空間 松本インター店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
+|50|690|ちゃま|<a href="https://search.dartslive.com/jp/shop/a5e5af7fada386220d9b047a20a7ba1e">Amusement Sports Bar Bull-X</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
+|51|689|NO NAME 8833|<a href="https://search.dartslive.com/jp/shop/270011790293516a0d9b047a20a7ba1e">コミックバスター 南松本店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
+|51|689|ゆう|<a href="https://search.dartslive.com/jp/shop/a5e5af7fada386220d9b047a20a7ba1e">Amusement Sports Bar Bull-X</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
+|53|686|あーちゃん☻♨️|<a href="https://search.dartslive.com/jp/shop/a5e5af7fada386220d9b047a20a7ba1e">Amusement Sports Bar Bull-X</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
+|54|676|ねらずろ|<a href="https://search.dartslive.com/jp/shop/677d9e0b4c8d98870d9b047a20a7ba1e">ダイニングリゾート オレンジ</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
+|55|662|ドラえもん|<a href="https://search.dartslive.com/jp/shop/1b5a938116117a8e774c926eb736cb5a">アピナ松本店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
+|56|657|890|<a href="https://search.dartslive.com/jp/shop/1b5a938116117a8e774c926eb736cb5a">アピナ松本店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
+|57|655|つっち|<a href="https://search.dartslive.com/jp/shop/1b5a938116117a8e774c926eb736cb5a">アピナ松本店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
+|58|622|star craft|<a href="https://search.dartslive.com/jp/shop/270011790293516a0d9b047a20a7ba1e">コミックバスター 南松本店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
+|59|605|シモタク|<a href="https://search.dartslive.com/jp/shop/ae411d4662ae9c8df454cb89828a1cfe">innovation</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
+|60|601|らんぺーじ|<a href="https://search.dartslive.com/jp/shop/1b5a938116117a8e774c926eb736cb5a">アピナ松本店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
+|61|578|ます|<a href="https://search.dartslive.com/jp/shop/a5e5af7fada386220d9b047a20a7ba1e">Amusement Sports Bar Bull-X</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
+|62|562|バセ|<a href="https://search.dartslive.com/jp/shop/ae411d4662ae9c8df454cb89828a1cfe">innovation</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
+|63|559|Kani_crab@PINO|<a href="https://search.dartslive.com/jp/shop/270011790293516a0d9b047a20a7ba1e">コミックバスター 南松本店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
+|64|555|うっちー|<a href="https://search.dartslive.com/jp/shop/a5e5af7fada386220d9b047a20a7ba1e">Amusement Sports Bar Bull-X</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
+|65|552|だいつー|<a href="https://search.dartslive.com/jp/shop/1b5a938116117a8e774c926eb736cb5a">アピナ松本店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
+|66|551|ぽっくん|<a href="https://search.dartslive.com/jp/shop/677d9e0b4c8d98870d9b047a20a7ba1e">ダイニングリゾート オレンジ</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
+|67|549|カルーアミルク|<a href="https://search.dartslive.com/jp/shop/270011790293516a0d9b047a20a7ba1e">コミックバスター 南松本店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
+|68|544|痛風予備軍|<a href="https://search.dartslive.com/jp/shop/270011790293516a0d9b047a20a7ba1e">コミックバスター 南松本店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
+|69|542|しょーた|<a href="https://search.dartslive.com/jp/shop/270011790293516a0d9b047a20a7ba1e">コミックバスター 南松本店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
+|70|539|ダイキ|<a href="https://search.dartslive.com/jp/shop/270011790293516a0d9b047a20a7ba1e">コミックバスター 南松本店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
+|71|527|猫うさ|<a href="https://search.dartslive.com/jp/shop/677d9e0b4c8d98870d9b047a20a7ba1e">ダイニングリゾート オレンジ</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
+|72|518|Taisyo|<a href="https://search.dartslive.com/jp/shop/270011790293516a0d9b047a20a7ba1e">コミックバスター 南松本店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
+|73|517|あいちゃん☆|<a href="https://search.dartslive.com/jp/shop/ad3474e804683402774c926eb736cb5a">快活CLUB 松本南店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
+|74|514|-H！R０-【dcs】|<a href="https://search.dartslive.com/jp/shop/a5e5af7fada386220d9b047a20a7ba1e">Amusement Sports Bar Bull-X</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
+|75|510|なっつん|<a href="https://search.dartslive.com/jp/shop/a5e5af7fada386220d9b047a20a7ba1e">Amusement Sports Bar Bull-X</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
+|76|509|ながれお|<a href="https://search.dartslive.com/jp/shop/a5e5af7fada386220d9b047a20a7ba1e">Amusement Sports Bar Bull-X</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
+|77|500|Cham10|<a href="https://search.dartslive.com/jp/shop/270011790293516a0d9b047a20a7ba1e">コミックバスター 南松本店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
+|78|495|PLAYER1|<a href="https://search.dartslive.com/jp/shop/a5e5af7fada386220d9b047a20a7ba1e">Amusement Sports Bar Bull-X</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
+|79|485|わごんR|<a href="https://search.dartslive.com/jp/shop/1b5a938116117a8e774c926eb736cb5a">アピナ松本店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
+|79|485|何でもしますから|<a href="https://search.dartslive.com/jp/shop/ad3474e804683402774c926eb736cb5a">快活CLUB 松本南店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
+|81|480|★に～な★|<a href="https://search.dartslive.com/jp/shop/1b5a938116117a8e774c926eb736cb5a">アピナ松本店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
+|82|471|あいちゃん☆|<a href="https://search.dartslive.com/jp/shop/270011790293516a0d9b047a20a7ba1e">コミックバスター 南松本店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
+|83|469|Asche|<a href="https://search.dartslive.com/jp/shop/ad3474e804683402774c926eb736cb5a">快活CLUB 松本南店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
+|84|454|蒼☆シャララ|<a href="https://search.dartslive.com/jp/shop/1b5a938116117a8e774c926eb736cb5a">アピナ松本店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
+|85|451|藤原 えもちる|<a href="https://search.dartslive.com/jp/shop/a5e5af7fada386220d9b047a20a7ba1e">Amusement Sports Bar Bull-X</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
+|86|450|SHUNICHIRO|<a href="https://search.dartslive.com/jp/shop/a5e5af7fada386220d9b047a20a7ba1e">Amusement Sports Bar Bull-X</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
+|87|449|Nishiやん|<a href="https://search.dartslive.com/jp/shop/270011790293516a0d9b047a20a7ba1e">コミックバスター 南松本店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
+|88|448|あっし〜|<a href="https://search.dartslive.com/jp/shop/1b5a938116117a8e774c926eb736cb5a">アピナ松本店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
+|89|441|KSK3110|<a href="https://search.dartslive.com/jp/shop/a5e5af7fada386220d9b047a20a7ba1e">Amusement Sports Bar Bull-X</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
+|90|437|Logic|<a href="https://search.dartslive.com/jp/shop/1b5a938116117a8e774c926eb736cb5a">アピナ松本店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
+|91|436|いろはす|<a href="https://search.dartslive.com/jp/shop/a5e5af7fada386220d9b047a20a7ba1e">Amusement Sports Bar Bull-X</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
+|92|422|あみ|<a href="https://search.dartslive.com/jp/shop/270011790293516a0d9b047a20a7ba1e">コミックバスター 南松本店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
+|93|417|神速三段突き|<a href="https://search.dartslive.com/jp/shop/1b5a938116117a8e774c926eb736cb5a">アピナ松本店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
+|94|415|NO NAME 1304|<a href="https://search.dartslive.com/jp/shop/270011790293516a0d9b047a20a7ba1e">コミックバスター 南松本店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
+|95|412|328|<a href="https://search.dartslive.com/jp/shop/1b5a938116117a8e774c926eb736cb5a">アピナ松本店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
+|96|409|ぽるぽる|<a href="https://search.dartslive.com/jp/shop/a5e5af7fada386220d9b047a20a7ba1e">Amusement Sports Bar Bull-X</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
+|97|392|1003|<a href="https://search.dartslive.com/jp/shop/1b5a938116117a8e774c926eb736cb5a">アピナ松本店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
+|97|392|翔だお、|<a href="https://search.dartslive.com/jp/shop/1b5a938116117a8e774c926eb736cb5a">アピナ松本店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
+|99|389|具志堅用高|<a href="https://search.dartslive.com/jp/shop/1b5a938116117a8e774c926eb736cb5a">アピナ松本店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
+|100|388|シーマ|<a href="https://search.dartslive.com/jp/shop/1b5a938116117a8e774c926eb736cb5a">アピナ松本店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:53_
+_last update : 2024/01/21 13:39:00_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

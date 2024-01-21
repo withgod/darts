@@ -14,20 +14,20 @@ ___
 {:.table-ranking}
 |ランク|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1032|Hiroki Matsuda|<a href="https://search.dartslive.com/jp/shop/4e1c9435c38129f525d56fb0e5c39bac">ACE CAFE</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
-|2|1026|干 上 亮 太|<a href="https://search.dartslive.com/jp/shop/63d319dc2404821c58d385ea46352d8f">自遊空間 苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
-|3|1018|Kz|<a href="https://search.dartslive.com/jp/shop/63d319dc2404821c58d385ea46352d8f">自遊空間 苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
-|4|1012|がんばるぞ！|<a href="https://search.dartslive.com/jp/shop/63d319dc2404821c58d385ea46352d8f">自遊空間 苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
-|5|969|K A Z U|<a href="https://search.dartslive.com/jp/shop/63d319dc2404821c58d385ea46352d8f">自遊空間 苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
-|6|965|足猿|<a href="https://search.dartslive.com/jp/shop/63d319dc2404821c58d385ea46352d8f">自遊空間 苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
-|7|957|栗ご飯|<a href="https://search.dartslive.com/jp/shop/63d319dc2404821c58d385ea46352d8f">自遊空間 苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
-|8|951|枝|<a href="https://search.dartslive.com/jp/shop/63d319dc2404821c58d385ea46352d8f">自遊空間 苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
-|9|950|hiro|<a href="https://search.dartslive.com/jp/shop/63d319dc2404821c58d385ea46352d8f">自遊空間 苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
-|10|949|ココチャ|<a href="https://search.dartslive.com/jp/shop/63d319dc2404821c58d385ea46352d8f">自遊空間 苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
-|11|946|まさひろ|<a href="https://search.dartslive.com/jp/shop/63d319dc2404821c58d385ea46352d8f">自遊空間 苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
-|12|940|ＴＡＫＥ－４|<a href="https://search.dartslive.com/jp/shop/63d319dc2404821c58d385ea46352d8f">自遊空間 苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
-|13|931|Masashige|<a href="https://search.dartslive.com/jp/shop/63d319dc2404821c58d385ea46352d8f">自遊空間 苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
-|14|926|川村 正和|<a href="https://search.dartslive.com/jp/shop/63d319dc2404821c58d385ea46352d8f">自遊空間 苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
+|1|1049|川村 正和|<a href="https://search.dartslive.com/jp/shop/63d319dc2404821c58d385ea46352d8f">自遊空間 苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
+|2|1032|Hiroki Matsuda|<a href="https://search.dartslive.com/jp/shop/4e1c9435c38129f525d56fb0e5c39bac">ACE CAFE</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
+|3|1026|干 上 亮 太|<a href="https://search.dartslive.com/jp/shop/63d319dc2404821c58d385ea46352d8f">自遊空間 苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
+|4|1018|Kz|<a href="https://search.dartslive.com/jp/shop/63d319dc2404821c58d385ea46352d8f">自遊空間 苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
+|5|1012|がんばるぞ！|<a href="https://search.dartslive.com/jp/shop/63d319dc2404821c58d385ea46352d8f">自遊空間 苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
+|6|969|K A Z U|<a href="https://search.dartslive.com/jp/shop/63d319dc2404821c58d385ea46352d8f">自遊空間 苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
+|7|965|足猿|<a href="https://search.dartslive.com/jp/shop/63d319dc2404821c58d385ea46352d8f">自遊空間 苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
+|8|957|栗ご飯|<a href="https://search.dartslive.com/jp/shop/63d319dc2404821c58d385ea46352d8f">自遊空間 苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
+|9|951|枝|<a href="https://search.dartslive.com/jp/shop/63d319dc2404821c58d385ea46352d8f">自遊空間 苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
+|10|950|hiro|<a href="https://search.dartslive.com/jp/shop/63d319dc2404821c58d385ea46352d8f">自遊空間 苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
+|11|949|ココチャ|<a href="https://search.dartslive.com/jp/shop/63d319dc2404821c58d385ea46352d8f">自遊空間 苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
+|12|946|まさひろ|<a href="https://search.dartslive.com/jp/shop/63d319dc2404821c58d385ea46352d8f">自遊空間 苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
+|13|940|ＴＡＫＥ－４|<a href="https://search.dartslive.com/jp/shop/63d319dc2404821c58d385ea46352d8f">自遊空間 苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
+|14|931|Masashige|<a href="https://search.dartslive.com/jp/shop/63d319dc2404821c58d385ea46352d8f">自遊空間 苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
 |15|915|まぁ〜ちゃん|<a href="https://search.dartslive.com/jp/shop/63d319dc2404821c58d385ea46352d8f">自遊空間 苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
 |16|889|no name|<a href="https://search.dartslive.com/jp/shop/63d319dc2404821c58d385ea46352d8f">自遊空間 苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
 |17|873|hiro|<a href="https://search.dartslive.com/jp/shop/81cb18bfa29adc3158d385ea46352d8f">Cheers!</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
@@ -67,42 +67,43 @@ ___
 |51|542|テキーラは友達♪|<a href="https://search.dartslive.com/jp/shop/81cb18bfa29adc3158d385ea46352d8f">Cheers!</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
 |52|531|城|<a href="https://search.dartslive.com/jp/shop/baf34ec1af0dc3eda3f63593b5358cc4">dining&bar AMALFI</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
 |53|530|がんぜ弟@ﾋﾞｰﾊｲﾌﾞ|<a href="https://search.dartslive.com/jp/shop/63d319dc2404821c58d385ea46352d8f">自遊空間 苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
-|54|520|とんぬら|<a href="https://search.dartslive.com/jp/shop/1ded00ae97cf1450790ab824ce8730e5">Amusement pub Groovy</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
-|55|518|樽なんとか|<a href="https://search.dartslive.com/jp/shop/baf34ec1af0dc3eda3f63593b5358cc4">dining&bar AMALFI</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
-|56|503|ひなの|<a href="https://search.dartslive.com/jp/shop/63d319dc2404821c58d385ea46352d8f">自遊空間 苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
-|57|498|aync@Groovy|<a href="https://search.dartslive.com/jp/shop/1ded00ae97cf1450790ab824ce8730e5">Amusement pub Groovy</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
-|58|497|砂肝くん|<a href="https://search.dartslive.com/jp/shop/81cb18bfa29adc3158d385ea46352d8f">Cheers!</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
-|59|496|Denchan|<a href="https://search.dartslive.com/jp/shop/c59c79c750fd41b85f9f3321c1147265">フリージャンル</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
-|59|496|くろみちゃん|<a href="https://search.dartslive.com/jp/shop/baf34ec1af0dc3eda3f63593b5358cc4">dining&bar AMALFI</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
-|61|493|NO NAME 9398|<a href="https://search.dartslive.com/jp/shop/fb8699e289f0c59058d385ea46352d8f">Stylish Bar mou</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
-|62|483|kouta shoji|<a href="https://search.dartslive.com/jp/shop/81cb18bfa29adc3158d385ea46352d8f">Cheers!</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
-|62|483|たくニャン|<a href="https://search.dartslive.com/jp/shop/c59c79c750fd41b85f9f3321c1147265">フリージャンル</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
-|64|479|Denchan|<a href="https://search.dartslive.com/jp/shop/1ded00ae97cf1450790ab824ce8730e5">Amusement pub Groovy</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
-|65|475|がんぜ弟@ﾋﾞｰﾊｲﾌﾞ|<a href="https://search.dartslive.com/jp/shop/81cb18bfa29adc3158d385ea46352d8f">Cheers!</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
-|66|456|NO NAME 1424|<a href="https://search.dartslive.com/jp/shop/c59c79c750fd41b85f9f3321c1147265">フリージャンル</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
-|67|446|ムーちゃん|<a href="https://search.dartslive.com/jp/shop/fb8699e289f0c59058d385ea46352d8f">Stylish Bar mou</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
-|68|441|resoson_222|<a href="https://search.dartslive.com/jp/shop/63d319dc2404821c58d385ea46352d8f">自遊空間 苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
-|68|441|まれマン|<a href="https://search.dartslive.com/jp/shop/655e858916ecac66fec1ae84bb28bd87">738BAR Hope88</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
-|70|440|エリー|<a href="https://search.dartslive.com/jp/shop/63d319dc2404821c58d385ea46352d8f">自遊空間 苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
-|71|437|＊AyANa＊|<a href="https://search.dartslive.com/jp/shop/ddfc2ea6410b21fdf454cb89828a1cfe">BarKIND</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
-|72|431|☆K|<a href="https://search.dartslive.com/jp/shop/63d319dc2404821c58d385ea46352d8f">自遊空間 苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
-|73|410|NO NAME 8418|<a href="https://search.dartslive.com/jp/shop/fb8699e289f0c59058d385ea46352d8f">Stylish Bar mou</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
-|74|407|はぁちゃん|<a href="https://search.dartslive.com/jp/shop/63d319dc2404821c58d385ea46352d8f">自遊空間 苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
-|75|404|Yuuyu666|<a href="https://search.dartslive.com/jp/shop/81cb18bfa29adc3158d385ea46352d8f">Cheers!</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
-|76|376|☆ 순백 ☆|<a href="https://search.dartslive.com/jp/shop/63d319dc2404821c58d385ea46352d8f">自遊空間 苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
-|77|369|JB.Saint@ｹﾑｯﾁｮ|<a href="https://search.dartslive.com/jp/shop/63d319dc2404821c58d385ea46352d8f">自遊空間 苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
-|77|369|SAWA|<a href="https://search.dartslive.com/jp/shop/ddfc2ea6410b21fdf454cb89828a1cfe">BarKIND</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
-|79|355|Seint@Premium|<a href="https://search.dartslive.com/jp/shop/63d319dc2404821c58d385ea46352d8f">自遊空間 苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
-|80|348|GUCCHI@ｶｲﾛﾁｭ|<a href="https://search.dartslive.com/jp/shop/63d319dc2404821c58d385ea46352d8f">自遊空間 苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
-|81|336|Denchan|<a href="https://search.dartslive.com/jp/shop/baf34ec1af0dc3eda3f63593b5358cc4">dining&bar AMALFI</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
-|82|303|よし|<a href="https://search.dartslive.com/jp/shop/63d319dc2404821c58d385ea46352d8f">自遊空間 苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
-|83|270|KAKKE@嶋野の狂犬|<a href="https://search.dartslive.com/jp/shop/63d319dc2404821c58d385ea46352d8f">自遊空間 苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
+|54|524|たくみ|<a href="https://search.dartslive.com/jp/shop/63d319dc2404821c58d385ea46352d8f">自遊空間 苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
+|55|520|とんぬら|<a href="https://search.dartslive.com/jp/shop/1ded00ae97cf1450790ab824ce8730e5">Amusement pub Groovy</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
+|56|518|樽なんとか|<a href="https://search.dartslive.com/jp/shop/baf34ec1af0dc3eda3f63593b5358cc4">dining&bar AMALFI</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
+|57|503|ひなの|<a href="https://search.dartslive.com/jp/shop/63d319dc2404821c58d385ea46352d8f">自遊空間 苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
+|58|498|aync@Groovy|<a href="https://search.dartslive.com/jp/shop/1ded00ae97cf1450790ab824ce8730e5">Amusement pub Groovy</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
+|59|497|砂肝くん|<a href="https://search.dartslive.com/jp/shop/81cb18bfa29adc3158d385ea46352d8f">Cheers!</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
+|60|496|Denchan|<a href="https://search.dartslive.com/jp/shop/c59c79c750fd41b85f9f3321c1147265">フリージャンル</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
+|60|496|くろみちゃん|<a href="https://search.dartslive.com/jp/shop/baf34ec1af0dc3eda3f63593b5358cc4">dining&bar AMALFI</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
+|62|493|NO NAME 9398|<a href="https://search.dartslive.com/jp/shop/fb8699e289f0c59058d385ea46352d8f">Stylish Bar mou</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
+|63|488|ぱーしー|<a href="https://search.dartslive.com/jp/shop/63d319dc2404821c58d385ea46352d8f">自遊空間 苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
+|64|483|kouta shoji|<a href="https://search.dartslive.com/jp/shop/81cb18bfa29adc3158d385ea46352d8f">Cheers!</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
+|64|483|たくニャン|<a href="https://search.dartslive.com/jp/shop/c59c79c750fd41b85f9f3321c1147265">フリージャンル</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
+|66|479|Denchan|<a href="https://search.dartslive.com/jp/shop/1ded00ae97cf1450790ab824ce8730e5">Amusement pub Groovy</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
+|67|475|がんぜ弟@ﾋﾞｰﾊｲﾌﾞ|<a href="https://search.dartslive.com/jp/shop/81cb18bfa29adc3158d385ea46352d8f">Cheers!</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
+|68|456|NO NAME 1424|<a href="https://search.dartslive.com/jp/shop/c59c79c750fd41b85f9f3321c1147265">フリージャンル</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
+|69|446|ムーちゃん|<a href="https://search.dartslive.com/jp/shop/fb8699e289f0c59058d385ea46352d8f">Stylish Bar mou</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
+|70|441|resoson_222|<a href="https://search.dartslive.com/jp/shop/63d319dc2404821c58d385ea46352d8f">自遊空間 苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
+|70|441|まれマン|<a href="https://search.dartslive.com/jp/shop/655e858916ecac66fec1ae84bb28bd87">738BAR Hope88</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
+|72|440|エリー|<a href="https://search.dartslive.com/jp/shop/63d319dc2404821c58d385ea46352d8f">自遊空間 苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
+|73|437|＊AyANa＊|<a href="https://search.dartslive.com/jp/shop/ddfc2ea6410b21fdf454cb89828a1cfe">BarKIND</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
+|74|431|☆K|<a href="https://search.dartslive.com/jp/shop/63d319dc2404821c58d385ea46352d8f">自遊空間 苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
+|75|410|NO NAME 8418|<a href="https://search.dartslive.com/jp/shop/fb8699e289f0c59058d385ea46352d8f">Stylish Bar mou</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
+|76|407|はぁちゃん|<a href="https://search.dartslive.com/jp/shop/63d319dc2404821c58d385ea46352d8f">自遊空間 苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
+|77|404|Yun|<a href="https://search.dartslive.com/jp/shop/63d319dc2404821c58d385ea46352d8f">自遊空間 苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
+|77|404|Yuuyu666|<a href="https://search.dartslive.com/jp/shop/81cb18bfa29adc3158d385ea46352d8f">Cheers!</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
+|79|376|☆ 순백 ☆|<a href="https://search.dartslive.com/jp/shop/63d319dc2404821c58d385ea46352d8f">自遊空間 苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
+|80|369|JB.Saint@ｹﾑｯﾁｮ|<a href="https://search.dartslive.com/jp/shop/63d319dc2404821c58d385ea46352d8f">自遊空間 苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
+|80|369|SAWA|<a href="https://search.dartslive.com/jp/shop/ddfc2ea6410b21fdf454cb89828a1cfe">BarKIND</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
+|82|355|Seint@Premium|<a href="https://search.dartslive.com/jp/shop/63d319dc2404821c58d385ea46352d8f">自遊空間 苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
+|83|336|Denchan|<a href="https://search.dartslive.com/jp/shop/baf34ec1af0dc3eda3f63593b5358cc4">dining&bar AMALFI</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
+|84|303|よし|<a href="https://search.dartslive.com/jp/shop/63d319dc2404821c58d385ea46352d8f">自遊空間 苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:48_
+_last update : 2024/01/21 13:38:53_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

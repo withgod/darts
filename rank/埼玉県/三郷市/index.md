@@ -61,56 +61,60 @@ ___
 |45|715|佐藤　守弘|<a href="https://search.dartslive.com/jp/shop/2b10098f5d473a7a0d9b047a20a7ba1e">BAR Tail Slide</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
 |46|700|山本 高弘|<a href="https://search.dartslive.com/jp/shop/2b10098f5d473a7a0d9b047a20a7ba1e">BAR Tail Slide</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
 |47|692|ゆ う か|<a href="https://search.dartslive.com/jp/shop/d35c681acb47010da3f63593b5358cc4">快活CLUB 三郷店</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
-|48|660|EIJI1212|<a href="https://search.dartslive.com/jp/shop/2b10098f5d473a7a0d9b047a20a7ba1e">BAR Tail Slide</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
-|48|660|くちろく|<a href="https://search.dartslive.com/jp/shop/d35c681acb47010da3f63593b5358cc4">快活CLUB 三郷店</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
-|50|658|N|<a href="https://search.dartslive.com/jp/shop/d35c681acb47010da3f63593b5358cc4">快活CLUB 三郷店</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
-|51|653|カズミチ嫁|<a href="https://search.dartslive.com/jp/shop/d35c681acb47010da3f63593b5358cc4">快活CLUB 三郷店</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
-|52|647|藤ちゃん∑(ﾟДﾟ)|<a href="https://search.dartslive.com/jp/shop/b25eb3ad4e636df75f9f3321c1147265">DARTS&BAR LOWT</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
-|53|642|NONORI|<a href="https://search.dartslive.com/jp/shop/d35c681acb47010da3f63593b5358cc4">快活CLUB 三郷店</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
-|54|623|ｕｔｔｉ|<a href="https://search.dartslive.com/jp/shop/d35c681acb47010da3f63593b5358cc4">快活CLUB 三郷店</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
-|55|622|Ken@burst|<a href="https://search.dartslive.com/jp/shop/2b10098f5d473a7a0d9b047a20a7ba1e">BAR Tail Slide</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
-|56|615|おてつ|<a href="https://search.dartslive.com/jp/shop/2b10098f5d473a7a0d9b047a20a7ba1e">BAR Tail Slide</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
-|57|613|めろん|<a href="https://search.dartslive.com/jp/shop/d35c681acb47010da3f63593b5358cc4">快活CLUB 三郷店</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
-|58|605|◇KI◆YO◇KO◆|<a href="https://search.dartslive.com/jp/shop/d35c681acb47010da3f63593b5358cc4">快活CLUB 三郷店</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
+|47|692|ヒヨコマメ|<a href="https://search.dartslive.com/jp/shop/d35c681acb47010da3f63593b5358cc4">快活CLUB 三郷店</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
+|49|660|EIJI1212|<a href="https://search.dartslive.com/jp/shop/2b10098f5d473a7a0d9b047a20a7ba1e">BAR Tail Slide</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
+|49|660|くちろく|<a href="https://search.dartslive.com/jp/shop/d35c681acb47010da3f63593b5358cc4">快活CLUB 三郷店</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
+|51|658|N|<a href="https://search.dartslive.com/jp/shop/d35c681acb47010da3f63593b5358cc4">快活CLUB 三郷店</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
+|52|653|カズミチ嫁|<a href="https://search.dartslive.com/jp/shop/d35c681acb47010da3f63593b5358cc4">快活CLUB 三郷店</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
+|53|647|藤ちゃん∑(ﾟДﾟ)|<a href="https://search.dartslive.com/jp/shop/b25eb3ad4e636df75f9f3321c1147265">DARTS&BAR LOWT</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
+|54|642|NONORI|<a href="https://search.dartslive.com/jp/shop/d35c681acb47010da3f63593b5358cc4">快活CLUB 三郷店</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
+|55|635|ひろ|<a href="https://search.dartslive.com/jp/shop/d35c681acb47010da3f63593b5358cc4">快活CLUB 三郷店</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
+|56|622|Ken@burst|<a href="https://search.dartslive.com/jp/shop/2b10098f5d473a7a0d9b047a20a7ba1e">BAR Tail Slide</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
+|57|615|おてつ|<a href="https://search.dartslive.com/jp/shop/2b10098f5d473a7a0d9b047a20a7ba1e">BAR Tail Slide</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
+|58|613|めろん|<a href="https://search.dartslive.com/jp/shop/d35c681acb47010da3f63593b5358cc4">快活CLUB 三郷店</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
 |59|601|もぐら|<a href="https://search.dartslive.com/jp/shop/d8b969947a69eec30d9b047a20a7ba1e">MELLOW</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
 |60|598|とりむねにく|<a href="https://search.dartslive.com/jp/shop/d8b969947a69eec30d9b047a20a7ba1e">MELLOW</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
 |61|594|??めぃ(´`)??|<a href="https://search.dartslive.com/jp/shop/d35c681acb47010da3f63593b5358cc4">快活CLUB 三郷店</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
 |62|588|☆shiho☆|<a href="https://search.dartslive.com/jp/shop/d35c681acb47010da3f63593b5358cc4">快活CLUB 三郷店</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
-|62|588|ヒヨコマメ|<a href="https://search.dartslive.com/jp/shop/d35c681acb47010da3f63593b5358cc4">快活CLUB 三郷店</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
-|64|583|のん|<a href="https://search.dartslive.com/jp/shop/b25eb3ad4e636df75f9f3321c1147265">DARTS&BAR LOWT</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
-|65|582|♪chi!i!e♪Rucci|<a href="https://search.dartslive.com/jp/shop/d35c681acb47010da3f63593b5358cc4">快活CLUB 三郷店</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
-|66|572|$キヨ$|<a href="https://search.dartslive.com/jp/shop/92c10ecc96d8c60c28032249b44395af">GATE</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
-|67|561|たま♪|<a href="https://search.dartslive.com/jp/shop/2b10098f5d473a7a0d9b047a20a7ba1e">BAR Tail Slide</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
-|68|559|$キヨ$|<a href="https://search.dartslive.com/jp/shop/d35c681acb47010da3f63593b5358cc4">快活CLUB 三郷店</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
-|68|559|jun|<a href="https://search.dartslive.com/jp/shop/2b10098f5d473a7a0d9b047a20a7ba1e">BAR Tail Slide</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
-|70|555|まお@修行中|<a href="https://search.dartslive.com/jp/shop/2b10098f5d473a7a0d9b047a20a7ba1e">BAR Tail Slide</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
-|71|551|わぎ|<a href="https://search.dartslive.com/jp/shop/2b10098f5d473a7a0d9b047a20a7ba1e">BAR Tail Slide</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
-|72|539|mii+mii|<a href="https://search.dartslive.com/jp/shop/d35c681acb47010da3f63593b5358cc4">快活CLUB 三郷店</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
-|73|537|毬藻☣BTS BOSS|<a href="https://search.dartslive.com/jp/shop/2b10098f5d473a7a0d9b047a20a7ba1e">BAR Tail Slide</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
-|74|531|煽ってくんな！|<a href="https://search.dartslive.com/jp/shop/d8b969947a69eec30d9b047a20a7ba1e">MELLOW</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
+|63|583|のん|<a href="https://search.dartslive.com/jp/shop/b25eb3ad4e636df75f9f3321c1147265">DARTS&BAR LOWT</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
+|64|582|♪chi!i!e♪Rucci|<a href="https://search.dartslive.com/jp/shop/d35c681acb47010da3f63593b5358cc4">快活CLUB 三郷店</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
+|65|572|$キヨ$|<a href="https://search.dartslive.com/jp/shop/92c10ecc96d8c60c28032249b44395af">GATE</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
+|66|561|たま♪|<a href="https://search.dartslive.com/jp/shop/2b10098f5d473a7a0d9b047a20a7ba1e">BAR Tail Slide</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
+|67|559|$キヨ$|<a href="https://search.dartslive.com/jp/shop/d35c681acb47010da3f63593b5358cc4">快活CLUB 三郷店</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
+|67|559|jun|<a href="https://search.dartslive.com/jp/shop/2b10098f5d473a7a0d9b047a20a7ba1e">BAR Tail Slide</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
+|69|555|まお@修行中|<a href="https://search.dartslive.com/jp/shop/2b10098f5d473a7a0d9b047a20a7ba1e">BAR Tail Slide</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
+|70|551|わぎ|<a href="https://search.dartslive.com/jp/shop/2b10098f5d473a7a0d9b047a20a7ba1e">BAR Tail Slide</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
+|71|539|mii+mii|<a href="https://search.dartslive.com/jp/shop/d35c681acb47010da3f63593b5358cc4">快活CLUB 三郷店</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
+|72|537|毬藻☣BTS BOSS|<a href="https://search.dartslive.com/jp/shop/2b10098f5d473a7a0d9b047a20a7ba1e">BAR Tail Slide</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
+|73|531|煽ってくんな！|<a href="https://search.dartslive.com/jp/shop/d8b969947a69eec30d9b047a20a7ba1e">MELLOW</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
+|74|514|ぽむ|<a href="https://search.dartslive.com/jp/shop/b25eb3ad4e636df75f9f3321c1147265">DARTS&BAR LOWT</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
 |75|512|めめ|<a href="https://search.dartslive.com/jp/shop/d35c681acb47010da3f63593b5358cc4">快活CLUB 三郷店</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
 |76|496|秀香初老んｼﾞｬｰｽﾞ|<a href="https://search.dartslive.com/jp/shop/d35c681acb47010da3f63593b5358cc4">快活CLUB 三郷店</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
 |77|493|つよ@GATE|<a href="https://search.dartslive.com/jp/shop/d8b969947a69eec30d9b047a20a7ba1e">MELLOW</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
 |78|487|まー|<a href="https://search.dartslive.com/jp/shop/d8b969947a69eec30d9b047a20a7ba1e">MELLOW</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
 |79|476|Ryousuke1106|<a href="https://search.dartslive.com/jp/shop/d8b969947a69eec30d9b047a20a7ba1e">MELLOW</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
-|80|466|$mika$|<a href="https://search.dartslive.com/jp/shop/d8b969947a69eec30d9b047a20a7ba1e">MELLOW</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
-|81|461|MIPOCHI|<a href="https://search.dartslive.com/jp/shop/d8b969947a69eec30d9b047a20a7ba1e">MELLOW</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
-|82|456|◇KI◆YO◇KO◆|<a href="https://search.dartslive.com/jp/shop/92c10ecc96d8c60c28032249b44395af">GATE</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
-|83|453|Runa_SK_YN|<a href="https://search.dartslive.com/jp/shop/b25eb3ad4e636df75f9f3321c1147265">DARTS&BAR LOWT</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
-|84|450|ま|<a href="https://search.dartslive.com/jp/shop/2b10098f5d473a7a0d9b047a20a7ba1e">BAR Tail Slide</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
-|85|439|KOTONE|<a href="https://search.dartslive.com/jp/shop/b25eb3ad4e636df75f9f3321c1147265">DARTS&BAR LOWT</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
-|85|439|あー|<a href="https://search.dartslive.com/jp/shop/d8b969947a69eec30d9b047a20a7ba1e">MELLOW</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
-|87|432|ひろ|<a href="https://search.dartslive.com/jp/shop/92c10ecc96d8c60c28032249b44395af">GATE</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
-|88|425|ひろ|<a href="https://search.dartslive.com/jp/shop/d8b969947a69eec30d9b047a20a7ba1e">MELLOW</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
-|89|403|みーこ|<a href="https://search.dartslive.com/jp/shop/2b10098f5d473a7a0d9b047a20a7ba1e">BAR Tail Slide</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
-|90|388|れんれん@LOWT|<a href="https://search.dartslive.com/jp/shop/b25eb3ad4e636df75f9f3321c1147265">DARTS&BAR LOWT</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
-|91|270|ちびあや|<a href="https://search.dartslive.com/jp/shop/d8b969947a69eec30d9b047a20a7ba1e">MELLOW</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
+|80|469|こーた|<a href="https://search.dartslive.com/jp/shop/b25eb3ad4e636df75f9f3321c1147265">DARTS&BAR LOWT</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
+|81|466|$mika$|<a href="https://search.dartslive.com/jp/shop/d8b969947a69eec30d9b047a20a7ba1e">MELLOW</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
+|82|461|MIPOCHI|<a href="https://search.dartslive.com/jp/shop/d8b969947a69eec30d9b047a20a7ba1e">MELLOW</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
+|83|456|◇KI◆YO◇KO◆|<a href="https://search.dartslive.com/jp/shop/92c10ecc96d8c60c28032249b44395af">GATE</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
+|84|453|Runa_SK_YN|<a href="https://search.dartslive.com/jp/shop/b25eb3ad4e636df75f9f3321c1147265">DARTS&BAR LOWT</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
+|85|450|ま|<a href="https://search.dartslive.com/jp/shop/2b10098f5d473a7a0d9b047a20a7ba1e">BAR Tail Slide</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
+|86|439|KOTONE|<a href="https://search.dartslive.com/jp/shop/b25eb3ad4e636df75f9f3321c1147265">DARTS&BAR LOWT</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
+|86|439|あー|<a href="https://search.dartslive.com/jp/shop/d8b969947a69eec30d9b047a20a7ba1e">MELLOW</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
+|88|434|NO NAME 4354|<a href="https://search.dartslive.com/jp/shop/92c10ecc96d8c60c28032249b44395af">GATE</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
+|89|432|ひろ|<a href="https://search.dartslive.com/jp/shop/92c10ecc96d8c60c28032249b44395af">GATE</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
+|90|425|ひろ|<a href="https://search.dartslive.com/jp/shop/d8b969947a69eec30d9b047a20a7ba1e">MELLOW</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
+|91|409|NaNaMi|<a href="https://search.dartslive.com/jp/shop/b25eb3ad4e636df75f9f3321c1147265">DARTS&BAR LOWT</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
+|92|403|みーこ|<a href="https://search.dartslive.com/jp/shop/2b10098f5d473a7a0d9b047a20a7ba1e">BAR Tail Slide</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
+|93|388|れんれん@LOWT|<a href="https://search.dartslive.com/jp/shop/b25eb3ad4e636df75f9f3321c1147265">DARTS&BAR LOWT</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
+|94|357|リーダー|<a href="https://search.dartslive.com/jp/shop/b25eb3ad4e636df75f9f3321c1147265">DARTS&BAR LOWT</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
+|95|270|ちびあや|<a href="https://search.dartslive.com/jp/shop/d8b969947a69eec30d9b047a20a7ba1e">MELLOW</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:50_
+_last update : 2024/01/21 13:38:56_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

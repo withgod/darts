@@ -85,41 +85,41 @@ ___
 |69|692|Noa_|<a href="https://search.dartslive.com/jp/shop/3f22adb4bc6c0b490d9b047a20a7ba1e">Bar Ace</a>|<a href="/darts/rank/福島県/いわき市">福島県いわき市</a>|
 |70|690|サイベリアン|<a href="https://search.dartslive.com/jp/shop/0219aaef5d3ff2ecb21333aee1bd51e4">Play Garden 小名浜店</a>|<a href="/darts/rank/福島県/いわき市">福島県いわき市</a>|
 |71|689|かおり|<a href="https://search.dartslive.com/jp/shop/a7ca486f560a85870d9b047a20a7ba1e">ダーツスペース アライズ</a>|<a href="/darts/rank/福島県/いわき市">福島県いわき市</a>|
-|72|679|Shinx2|<a href="https://search.dartslive.com/jp/shop/0219aaef5d3ff2ecb21333aee1bd51e4">Play Garden 小名浜店</a>|<a href="/darts/rank/福島県/いわき市">福島県いわき市</a>|
-|73|676|三千人将|<a href="https://search.dartslive.com/jp/shop/53e0bfd0aeb068390d9b047a20a7ba1e">Shot Bar Room</a>|<a href="/darts/rank/福島県/いわき市">福島県いわき市</a>|
-|74|670|すけちゃん|<a href="https://search.dartslive.com/jp/shop/0219aaef5d3ff2ecb21333aee1bd51e4">Play Garden 小名浜店</a>|<a href="/darts/rank/福島県/いわき市">福島県いわき市</a>|
-|75|668|#いなぎょドン|<a href="https://search.dartslive.com/jp/shop/0219aaef5d3ff2ecb21333aee1bd51e4">Play Garden 小名浜店</a>|<a href="/darts/rank/福島県/いわき市">福島県いわき市</a>|
-|75|668|KEN.S|<a href="https://search.dartslive.com/jp/shop/0219aaef5d3ff2ecb21333aee1bd51e4">Play Garden 小名浜店</a>|<a href="/darts/rank/福島県/いわき市">福島県いわき市</a>|
-|77|667|BBKパラダイス|<a href="https://search.dartslive.com/jp/shop/79e884dc945689520d9b047a20a7ba1e">アミューズメントバー VEGAS</a>|<a href="/darts/rank/福島県/いわき市">福島県いわき市</a>|
-|78|666|Bar @VEGAS|<a href="https://search.dartslive.com/jp/shop/79e884dc945689520d9b047a20a7ba1e">アミューズメントバー VEGAS</a>|<a href="/darts/rank/福島県/いわき市">福島県いわき市</a>|
-|79|660|旅人|<a href="https://search.dartslive.com/jp/shop/ce6178fe205b5b6b0d9b047a20a7ba1e">カラオケBANBANいわき自由ヶ丘店</a>|<a href="/darts/rank/福島県/いわき市">福島県いわき市</a>|
-|80|653|だいちぃぃiiiii!|<a href="https://search.dartslive.com/jp/shop/0219aaef5d3ff2ecb21333aee1bd51e4">Play Garden 小名浜店</a>|<a href="/darts/rank/福島県/いわき市">福島県いわき市</a>|
-|81|646|影山 翔汰郎|<a href="https://search.dartslive.com/jp/shop/3ef79c3c86f40537f454cb89828a1cfe">快活CLUB いわき鹿島店</a>|<a href="/darts/rank/福島県/いわき市">福島県いわき市</a>|
-|82|642|マウントゴリラ|<a href="https://search.dartslive.com/jp/shop/3f22adb4bc6c0b490d9b047a20a7ba1e">Bar Ace</a>|<a href="/darts/rank/福島県/いわき市">福島県いわき市</a>|
-|83|639|せいちゃ|<a href="https://search.dartslive.com/jp/shop/0219aaef5d3ff2ecb21333aee1bd51e4">Play Garden 小名浜店</a>|<a href="/darts/rank/福島県/いわき市">福島県いわき市</a>|
-|83|639|ウリドンチッチ|<a href="https://search.dartslive.com/jp/shop/0219aaef5d3ff2ecb21333aee1bd51e4">Play Garden 小名浜店</a>|<a href="/darts/rank/福島県/いわき市">福島県いわき市</a>|
-|85|634|aynuhS|<a href="https://search.dartslive.com/jp/shop/3ef79c3c86f40537f454cb89828a1cfe">快活CLUB いわき鹿島店</a>|<a href="/darts/rank/福島県/いわき市">福島県いわき市</a>|
-|86|633|ﾅｶｼﾞﾏｺｺﾛ☆ﾓｰﾁｱｽ|<a href="https://search.dartslive.com/jp/shop/3ef79c3c86f40537f454cb89828a1cfe">快活CLUB いわき鹿島店</a>|<a href="/darts/rank/福島県/いわき市">福島県いわき市</a>|
-|87|624|☆MYM☆|<a href="https://search.dartslive.com/jp/shop/3ef79c3c86f40537f454cb89828a1cfe">快活CLUB いわき鹿島店</a>|<a href="/darts/rank/福島県/いわき市">福島県いわき市</a>|
-|87|624|てるてる@Aivy|<a href="https://search.dartslive.com/jp/shop/a7ca486f560a85870d9b047a20a7ba1e">ダーツスペース アライズ</a>|<a href="/darts/rank/福島県/いわき市">福島県いわき市</a>|
-|89|622|中島さんと呼べ|<a href="https://search.dartslive.com/jp/shop/ce6178fe205b5b6b0d9b047a20a7ba1e">カラオケBANBANいわき自由ヶ丘店</a>|<a href="/darts/rank/福島県/いわき市">福島県いわき市</a>|
-|90|619|七瀬天|<a href="https://search.dartslive.com/jp/shop/3f22adb4bc6c0b490d9b047a20a7ba1e">Bar Ace</a>|<a href="/darts/rank/福島県/いわき市">福島県いわき市</a>|
-|90|619|千人将|<a href="https://search.dartslive.com/jp/shop/53e0bfd0aeb068390d9b047a20a7ba1e">Shot Bar Room</a>|<a href="/darts/rank/福島県/いわき市">福島県いわき市</a>|
-|92|617|みずぷろ|<a href="https://search.dartslive.com/jp/shop/ce6178fe205b5b6b0d9b047a20a7ba1e">カラオケBANBANいわき自由ヶ丘店</a>|<a href="/darts/rank/福島県/いわき市">福島県いわき市</a>|
-|93|613|chan|<a href="https://search.dartslive.com/jp/shop/ce6178fe205b5b6b0d9b047a20a7ba1e">カラオケBANBANいわき自由ヶ丘店</a>|<a href="/darts/rank/福島県/いわき市">福島県いわき市</a>|
-|93|613|たくみ|<a href="https://search.dartslive.com/jp/shop/ce6178fe205b5b6b0d9b047a20a7ba1e">カラオケBANBANいわき自由ヶ丘店</a>|<a href="/darts/rank/福島県/いわき市">福島県いわき市</a>|
-|95|608|うららら|<a href="https://search.dartslive.com/jp/shop/a7ca486f560a85870d9b047a20a7ba1e">ダーツスペース アライズ</a>|<a href="/darts/rank/福島県/いわき市">福島県いわき市</a>|
-|96|599|chiba|<a href="https://search.dartslive.com/jp/shop/3f22adb4bc6c0b490d9b047a20a7ba1e">Bar Ace</a>|<a href="/darts/rank/福島県/いわき市">福島県いわき市</a>|
-|97|592|ヒデくん@rise|<a href="https://search.dartslive.com/jp/shop/a7ca486f560a85870d9b047a20a7ba1e">ダーツスペース アライズ</a>|<a href="/darts/rank/福島県/いわき市">福島県いわき市</a>|
-|98|589|えたひにん|<a href="https://search.dartslive.com/jp/shop/53e0bfd0aeb068390d9b047a20a7ba1e">Shot Bar Room</a>|<a href="/darts/rank/福島県/いわき市">福島県いわき市</a>|
-|99|588|カミナリ@Rise|<a href="https://search.dartslive.com/jp/shop/a7ca486f560a85870d9b047a20a7ba1e">ダーツスペース アライズ</a>|<a href="/darts/rank/福島県/いわき市">福島県いわき市</a>|
-|100|577|死ぬ気で投げて?|<a href="https://search.dartslive.com/jp/shop/79e884dc945689520d9b047a20a7ba1e">アミューズメントバー VEGAS</a>|<a href="/darts/rank/福島県/いわき市">福島県いわき市</a>|
+|72|687|Stronger Men|<a href="https://search.dartslive.com/jp/shop/ce6178fe205b5b6b0d9b047a20a7ba1e">カラオケBANBANいわき自由ヶ丘店</a>|<a href="/darts/rank/福島県/いわき市">福島県いわき市</a>|
+|73|679|Shinx2|<a href="https://search.dartslive.com/jp/shop/0219aaef5d3ff2ecb21333aee1bd51e4">Play Garden 小名浜店</a>|<a href="/darts/rank/福島県/いわき市">福島県いわき市</a>|
+|74|676|三千人将|<a href="https://search.dartslive.com/jp/shop/53e0bfd0aeb068390d9b047a20a7ba1e">Shot Bar Room</a>|<a href="/darts/rank/福島県/いわき市">福島県いわき市</a>|
+|75|670|すけちゃん|<a href="https://search.dartslive.com/jp/shop/0219aaef5d3ff2ecb21333aee1bd51e4">Play Garden 小名浜店</a>|<a href="/darts/rank/福島県/いわき市">福島県いわき市</a>|
+|76|668|#いなぎょドン|<a href="https://search.dartslive.com/jp/shop/0219aaef5d3ff2ecb21333aee1bd51e4">Play Garden 小名浜店</a>|<a href="/darts/rank/福島県/いわき市">福島県いわき市</a>|
+|76|668|KEN.S|<a href="https://search.dartslive.com/jp/shop/0219aaef5d3ff2ecb21333aee1bd51e4">Play Garden 小名浜店</a>|<a href="/darts/rank/福島県/いわき市">福島県いわき市</a>|
+|78|667|BBKパラダイス|<a href="https://search.dartslive.com/jp/shop/79e884dc945689520d9b047a20a7ba1e">アミューズメントバー VEGAS</a>|<a href="/darts/rank/福島県/いわき市">福島県いわき市</a>|
+|79|666|Bar @VEGAS|<a href="https://search.dartslive.com/jp/shop/79e884dc945689520d9b047a20a7ba1e">アミューズメントバー VEGAS</a>|<a href="/darts/rank/福島県/いわき市">福島県いわき市</a>|
+|80|660|旅人|<a href="https://search.dartslive.com/jp/shop/ce6178fe205b5b6b0d9b047a20a7ba1e">カラオケBANBANいわき自由ヶ丘店</a>|<a href="/darts/rank/福島県/いわき市">福島県いわき市</a>|
+|81|653|だいちぃぃiiiii!|<a href="https://search.dartslive.com/jp/shop/0219aaef5d3ff2ecb21333aee1bd51e4">Play Garden 小名浜店</a>|<a href="/darts/rank/福島県/いわき市">福島県いわき市</a>|
+|82|646|影山 翔汰郎|<a href="https://search.dartslive.com/jp/shop/3ef79c3c86f40537f454cb89828a1cfe">快活CLUB いわき鹿島店</a>|<a href="/darts/rank/福島県/いわき市">福島県いわき市</a>|
+|83|642|マウントゴリラ|<a href="https://search.dartslive.com/jp/shop/3f22adb4bc6c0b490d9b047a20a7ba1e">Bar Ace</a>|<a href="/darts/rank/福島県/いわき市">福島県いわき市</a>|
+|84|639|せいちゃ|<a href="https://search.dartslive.com/jp/shop/0219aaef5d3ff2ecb21333aee1bd51e4">Play Garden 小名浜店</a>|<a href="/darts/rank/福島県/いわき市">福島県いわき市</a>|
+|84|639|ウリドンチッチ|<a href="https://search.dartslive.com/jp/shop/0219aaef5d3ff2ecb21333aee1bd51e4">Play Garden 小名浜店</a>|<a href="/darts/rank/福島県/いわき市">福島県いわき市</a>|
+|86|634|aynuhS|<a href="https://search.dartslive.com/jp/shop/3ef79c3c86f40537f454cb89828a1cfe">快活CLUB いわき鹿島店</a>|<a href="/darts/rank/福島県/いわき市">福島県いわき市</a>|
+|87|633|ﾅｶｼﾞﾏｺｺﾛ☆ﾓｰﾁｱｽ|<a href="https://search.dartslive.com/jp/shop/3ef79c3c86f40537f454cb89828a1cfe">快活CLUB いわき鹿島店</a>|<a href="/darts/rank/福島県/いわき市">福島県いわき市</a>|
+|88|624|☆MYM☆|<a href="https://search.dartslive.com/jp/shop/3ef79c3c86f40537f454cb89828a1cfe">快活CLUB いわき鹿島店</a>|<a href="/darts/rank/福島県/いわき市">福島県いわき市</a>|
+|88|624|てるてる@Aivy|<a href="https://search.dartslive.com/jp/shop/a7ca486f560a85870d9b047a20a7ba1e">ダーツスペース アライズ</a>|<a href="/darts/rank/福島県/いわき市">福島県いわき市</a>|
+|90|622|中島さんと呼べ|<a href="https://search.dartslive.com/jp/shop/ce6178fe205b5b6b0d9b047a20a7ba1e">カラオケBANBANいわき自由ヶ丘店</a>|<a href="/darts/rank/福島県/いわき市">福島県いわき市</a>|
+|91|619|七瀬天|<a href="https://search.dartslive.com/jp/shop/3f22adb4bc6c0b490d9b047a20a7ba1e">Bar Ace</a>|<a href="/darts/rank/福島県/いわき市">福島県いわき市</a>|
+|91|619|千人将|<a href="https://search.dartslive.com/jp/shop/53e0bfd0aeb068390d9b047a20a7ba1e">Shot Bar Room</a>|<a href="/darts/rank/福島県/いわき市">福島県いわき市</a>|
+|93|617|みずぷろ|<a href="https://search.dartslive.com/jp/shop/ce6178fe205b5b6b0d9b047a20a7ba1e">カラオケBANBANいわき自由ヶ丘店</a>|<a href="/darts/rank/福島県/いわき市">福島県いわき市</a>|
+|94|613|chan|<a href="https://search.dartslive.com/jp/shop/ce6178fe205b5b6b0d9b047a20a7ba1e">カラオケBANBANいわき自由ヶ丘店</a>|<a href="/darts/rank/福島県/いわき市">福島県いわき市</a>|
+|94|613|たくみ|<a href="https://search.dartslive.com/jp/shop/ce6178fe205b5b6b0d9b047a20a7ba1e">カラオケBANBANいわき自由ヶ丘店</a>|<a href="/darts/rank/福島県/いわき市">福島県いわき市</a>|
+|96|608|うららら|<a href="https://search.dartslive.com/jp/shop/a7ca486f560a85870d9b047a20a7ba1e">ダーツスペース アライズ</a>|<a href="/darts/rank/福島県/いわき市">福島県いわき市</a>|
+|97|599|chiba|<a href="https://search.dartslive.com/jp/shop/3f22adb4bc6c0b490d9b047a20a7ba1e">Bar Ace</a>|<a href="/darts/rank/福島県/いわき市">福島県いわき市</a>|
+|98|597|Sacai|<a href="https://search.dartslive.com/jp/shop/3ef79c3c86f40537f454cb89828a1cfe">快活CLUB いわき鹿島店</a>|<a href="/darts/rank/福島県/いわき市">福島県いわき市</a>|
+|99|592|ヒデくん@rise|<a href="https://search.dartslive.com/jp/shop/a7ca486f560a85870d9b047a20a7ba1e">ダーツスペース アライズ</a>|<a href="/darts/rank/福島県/いわき市">福島県いわき市</a>|
+|100|589|えたひにん|<a href="https://search.dartslive.com/jp/shop/53e0bfd0aeb068390d9b047a20a7ba1e">Shot Bar Room</a>|<a href="/darts/rank/福島県/いわき市">福島県いわき市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:49_
+_last update : 2024/01/21 13:38:54_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

@@ -33,25 +33,21 @@ ___
 |17|892|いさき|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
 |18|889|No NAME 1130|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
 |19|824|No NAME 1974|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|20|775|あしかま|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|21|671|Mirorin|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|22|619|代々木|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|23|587|みさと|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|24|569|☆Яｙｏｋｏ☆|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|25|541|M&#x27;sDarts|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|26|540|ポニョ▽・x・▽|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|27|527|まなたそ|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|28|517|うらすけ|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|29|481|SOR|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|30|475|ko-ki|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|31|414|Nabe3|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
-|32|349|Chihiro|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|20|671|Mirorin|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|21|587|みさと|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|22|569|☆Яｙｏｋｏ☆|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|23|541|M&#x27;sDarts|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|24|540|ポニョ▽・x・▽|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|25|527|まなたそ|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|26|517|うらすけ|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|27|481|SOR|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
+|28|349|Chihiro|<a href="https://search.dartslive.com/jp/shop/c4f8e9453fc31119790ab824ce8730e5">快活CLUB 東大和店</a>|<a href="/darts/rank/東京都/東大和市">東京都東大和市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:52_
+_last update : 2024/01/21 13:38:58_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

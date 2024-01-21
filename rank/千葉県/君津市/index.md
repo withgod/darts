@@ -30,19 +30,20 @@ ___
 |14|902|だいぶつ|<a href="https://search.dartslive.com/jp/shop/f5f81df7364574faa3f63593b5358cc4">自遊空間 君津店</a>|<a href="/darts/rank/千葉県/君津市">千葉県君津市</a>|
 |15|847|zacccky|<a href="https://search.dartslive.com/jp/shop/f5f81df7364574faa3f63593b5358cc4">自遊空間 君津店</a>|<a href="/darts/rank/千葉県/君津市">千葉県君津市</a>|
 |16|804|しそごちゃそTC|<a href="https://search.dartslive.com/jp/shop/f5f81df7364574faa3f63593b5358cc4">自遊空間 君津店</a>|<a href="/darts/rank/千葉県/君津市">千葉県君津市</a>|
-|17|624|神の手|<a href="https://search.dartslive.com/jp/shop/f5f81df7364574faa3f63593b5358cc4">自遊空間 君津店</a>|<a href="/darts/rank/千葉県/君津市">千葉県君津市</a>|
-|18|596|せな～る 77|<a href="https://search.dartslive.com/jp/shop/f5f81df7364574faa3f63593b5358cc4">自遊空間 君津店</a>|<a href="/darts/rank/千葉県/君津市">千葉県君津市</a>|
-|19|553|zacky|<a href="https://search.dartslive.com/jp/shop/f5f81df7364574faa3f63593b5358cc4">自遊空間 君津店</a>|<a href="/darts/rank/千葉県/君津市">千葉県君津市</a>|
-|20|503|やまぐっち|<a href="https://search.dartslive.com/jp/shop/f5f81df7364574faa3f63593b5358cc4">自遊空間 君津店</a>|<a href="/darts/rank/千葉県/君津市">千葉県君津市</a>|
-|21|458|YUKA|<a href="https://search.dartslive.com/jp/shop/f5f81df7364574faa3f63593b5358cc4">自遊空間 君津店</a>|<a href="/darts/rank/千葉県/君津市">千葉県君津市</a>|
-|22|446|Honoka|<a href="https://search.dartslive.com/jp/shop/f5f81df7364574faa3f63593b5358cc4">自遊空間 君津店</a>|<a href="/darts/rank/千葉県/君津市">千葉県君津市</a>|
-|23|431|緋連雀|<a href="https://search.dartslive.com/jp/shop/f5f81df7364574faa3f63593b5358cc4">自遊空間 君津店</a>|<a href="/darts/rank/千葉県/君津市">千葉県君津市</a>|
+|17|769|M0R1-N∀@UT3|<a href="https://search.dartslive.com/jp/shop/f5f81df7364574faa3f63593b5358cc4">自遊空間 君津店</a>|<a href="/darts/rank/千葉県/君津市">千葉県君津市</a>|
+|18|624|神の手|<a href="https://search.dartslive.com/jp/shop/f5f81df7364574faa3f63593b5358cc4">自遊空間 君津店</a>|<a href="/darts/rank/千葉県/君津市">千葉県君津市</a>|
+|19|596|せな～る 77|<a href="https://search.dartslive.com/jp/shop/f5f81df7364574faa3f63593b5358cc4">自遊空間 君津店</a>|<a href="/darts/rank/千葉県/君津市">千葉県君津市</a>|
+|20|553|zacky|<a href="https://search.dartslive.com/jp/shop/f5f81df7364574faa3f63593b5358cc4">自遊空間 君津店</a>|<a href="/darts/rank/千葉県/君津市">千葉県君津市</a>|
+|21|503|やまぐっち|<a href="https://search.dartslive.com/jp/shop/f5f81df7364574faa3f63593b5358cc4">自遊空間 君津店</a>|<a href="/darts/rank/千葉県/君津市">千葉県君津市</a>|
+|22|458|YUKA|<a href="https://search.dartslive.com/jp/shop/f5f81df7364574faa3f63593b5358cc4">自遊空間 君津店</a>|<a href="/darts/rank/千葉県/君津市">千葉県君津市</a>|
+|23|446|Honoka|<a href="https://search.dartslive.com/jp/shop/f5f81df7364574faa3f63593b5358cc4">自遊空間 君津店</a>|<a href="/darts/rank/千葉県/君津市">千葉県君津市</a>|
+|24|431|緋連雀|<a href="https://search.dartslive.com/jp/shop/f5f81df7364574faa3f63593b5358cc4">自遊空間 君津店</a>|<a href="/darts/rank/千葉県/君津市">千葉県君津市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:51_
+_last update : 2024/01/21 13:38:57_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

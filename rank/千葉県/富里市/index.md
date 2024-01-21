@@ -39,27 +39,25 @@ ___
 |23|764|n,s Nori|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
 |24|762|りょうま|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
 |25|741|☆MAKI☆|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|26|671|Kou|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|27|663|富デレラ|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|28|656|ザキモン|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|26|678|腰痛持ち の M|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|27|671|Kou|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|28|663|富デレラ|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
 |29|652|真樹|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
 |30|620|ゆき。|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
 |31|614|妃楼@Vintage|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
 |32|612|わにゃーびぃ|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
 |32|612|美波|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
 |34|587|3dさくら|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|35|581|壱太郎|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|36|579|yuya kurihara|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|37|499|みう@参道D|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|38|497|Kana|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|39|477|ぱんちゃん|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|40|456|Tsug☆矢.14|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|35|499|みう@参道D|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|36|497|Kana|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|37|477|ぱんちゃん|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|38|456|Tsug☆矢.14|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:51_
+_last update : 2024/01/21 13:38:57_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

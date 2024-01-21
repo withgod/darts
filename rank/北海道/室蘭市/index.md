@@ -27,12 +27,15 @@ ___
 |11|686|こにょたん|<a href="https://search.dartslive.com/jp/shop/395212ba2b0f772fa3f63593b5358cc4">BeeHIVE</a>|<a href="/darts/rank/北海道/室蘭市">北海道室蘭市</a>|
 |12|673|かっぱ|<a href="https://search.dartslive.com/jp/shop/395212ba2b0f772fa3f63593b5358cc4">BeeHIVE</a>|<a href="/darts/rank/北海道/室蘭市">北海道室蘭市</a>|
 |13|669|ひろと|<a href="https://search.dartslive.com/jp/shop/395212ba2b0f772fa3f63593b5358cc4">BeeHIVE</a>|<a href="/darts/rank/北海道/室蘭市">北海道室蘭市</a>|
+|14|499|RION|<a href="https://search.dartslive.com/jp/shop/395212ba2b0f772fa3f63593b5358cc4">BeeHIVE</a>|<a href="/darts/rank/北海道/室蘭市">北海道室蘭市</a>|
+|15|466|美波スズ|<a href="https://search.dartslive.com/jp/shop/395212ba2b0f772fa3f63593b5358cc4">BeeHIVE</a>|<a href="/darts/rank/北海道/室蘭市">北海道室蘭市</a>|
+|16|272|kaname|<a href="https://search.dartslive.com/jp/shop/395212ba2b0f772fa3f63593b5358cc4">BeeHIVE</a>|<a href="/darts/rank/北海道/室蘭市">北海道室蘭市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:48_
+_last update : 2024/01/21 13:38:52_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

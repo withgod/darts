@@ -34,13 +34,13 @@ ___
 |18|848|シンクン|<a href="https://search.dartslive.com/jp/shop/cea11d66ca59807df454cb89828a1cfe">快活CLUB 富士吉原店</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
 |19|845|NORI@pub D habit|<a href="https://search.dartslive.com/jp/shop/3985f7cb2cf7ef5ab21333aee1bd51e4">Dining＆Darts Wonder</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
 |20|842|PP星川|<a href="https://search.dartslive.com/jp/shop/9c7ad8320c0d52e50d9b047a20a7ba1e">ラウンドワン富士店</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
-|21|836|そら|<a href="https://search.dartslive.com/jp/shop/3817a89dedbf4d8afec1ae84bb28bd87">Jigsaw</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
-|22|834|清貴 【B.D.C】|<a href="https://search.dartslive.com/jp/shop/3817a89dedbf4d8afec1ae84bb28bd87">Jigsaw</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
-|23|830|蒼星あさひ|<a href="https://search.dartslive.com/jp/shop/9c7ad8320c0d52e50d9b047a20a7ba1e">ラウンドワン富士店</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
-|24|827|もち|<a href="https://search.dartslive.com/jp/shop/cea11d66ca59807df454cb89828a1cfe">快活CLUB 富士吉原店</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
-|24|827|りょうた。|<a href="https://search.dartslive.com/jp/shop/cea11d66ca59807df454cb89828a1cfe">快活CLUB 富士吉原店</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
-|26|820|Po|<a href="https://search.dartslive.com/jp/shop/cea11d66ca59807df454cb89828a1cfe">快活CLUB 富士吉原店</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
-|27|814|グンタマ.M|<a href="https://search.dartslive.com/jp/shop/cea11d66ca59807df454cb89828a1cfe">快活CLUB 富士吉原店</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
+|21|834|清貴 【B.D.C】|<a href="https://search.dartslive.com/jp/shop/3817a89dedbf4d8afec1ae84bb28bd87">Jigsaw</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
+|22|830|蒼星あさひ|<a href="https://search.dartslive.com/jp/shop/9c7ad8320c0d52e50d9b047a20a7ba1e">ラウンドワン富士店</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
+|23|827|もち|<a href="https://search.dartslive.com/jp/shop/cea11d66ca59807df454cb89828a1cfe">快活CLUB 富士吉原店</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
+|23|827|りょうた。|<a href="https://search.dartslive.com/jp/shop/cea11d66ca59807df454cb89828a1cfe">快活CLUB 富士吉原店</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
+|25|820|Po|<a href="https://search.dartslive.com/jp/shop/cea11d66ca59807df454cb89828a1cfe">快活CLUB 富士吉原店</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
+|26|814|そら|<a href="https://search.dartslive.com/jp/shop/3817a89dedbf4d8afec1ae84bb28bd87">Jigsaw</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
+|26|814|グンタマ.M|<a href="https://search.dartslive.com/jp/shop/cea11d66ca59807df454cb89828a1cfe">快活CLUB 富士吉原店</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
 |28|795|わかな|<a href="https://search.dartslive.com/jp/shop/cea11d66ca59807df454cb89828a1cfe">快活CLUB 富士吉原店</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
 |29|794|マサキ|<a href="https://search.dartslive.com/jp/shop/cea11d66ca59807df454cb89828a1cfe">快活CLUB 富士吉原店</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
 |30|793|たかあきちゃん|<a href="https://search.dartslive.com/jp/shop/cea11d66ca59807df454cb89828a1cfe">快活CLUB 富士吉原店</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
@@ -82,33 +82,27 @@ ___
 |66|621|Coru|<a href="https://search.dartslive.com/jp/shop/3985f7cb2cf7ef5ab21333aee1bd51e4">Dining＆Darts Wonder</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
 |67|615|ｶｽﾞﾆｬ(´・ω・`)|<a href="https://search.dartslive.com/jp/shop/9c7ad8320c0d52e50d9b047a20a7ba1e">ラウンドワン富士店</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
 |68|609|めろんそーだー|<a href="https://search.dartslive.com/jp/shop/9c7ad8320c0d52e50d9b047a20a7ba1e">ラウンドワン富士店</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
-|69|596|ゆ|<a href="https://search.dartslive.com/jp/shop/cea11d66ca59807df454cb89828a1cfe">快活CLUB 富士吉原店</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
-|70|590|KYOHEI|<a href="https://search.dartslive.com/jp/shop/cea11d66ca59807df454cb89828a1cfe">快活CLUB 富士吉原店</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
-|71|586|VikI666|<a href="https://search.dartslive.com/jp/shop/3985f7cb2cf7ef5ab21333aee1bd51e4">Dining＆Darts Wonder</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
-|72|585|めぐちょろ|<a href="https://search.dartslive.com/jp/shop/cea11d66ca59807df454cb89828a1cfe">快活CLUB 富士吉原店</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
-|73|580|みみみ@|<a href="https://search.dartslive.com/jp/shop/3985f7cb2cf7ef5ab21333aee1bd51e4">Dining＆Darts Wonder</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
-|74|567|Y|<a href="https://search.dartslive.com/jp/shop/cea11d66ca59807df454cb89828a1cfe">快活CLUB 富士吉原店</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
-|75|561|モグリキャップ☆|<a href="https://search.dartslive.com/jp/shop/cea11d66ca59807df454cb89828a1cfe">快活CLUB 富士吉原店</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
-|76|560|*みーこ(･ε･)♡*|<a href="https://search.dartslive.com/jp/shop/9c7ad8320c0d52e50d9b047a20a7ba1e">ラウンドワン富士店</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
-|77|552|みさきち|<a href="https://search.dartslive.com/jp/shop/cea11d66ca59807df454cb89828a1cfe">快活CLUB 富士吉原店</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
-|78|548|さとし|<a href="https://search.dartslive.com/jp/shop/3985f7cb2cf7ef5ab21333aee1bd51e4">Dining＆Darts Wonder</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
-|79|542|てぃふぉし|<a href="https://search.dartslive.com/jp/shop/cea11d66ca59807df454cb89828a1cfe">快活CLUB 富士吉原店</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
-|80|524|クラピカ|<a href="https://search.dartslive.com/jp/shop/9c7ad8320c0d52e50d9b047a20a7ba1e">ラウンドワン富士店</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
-|81|521|サトケン|<a href="https://search.dartslive.com/jp/shop/3985f7cb2cf7ef5ab21333aee1bd51e4">Dining＆Darts Wonder</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
-|82|512|しぃちゃん|<a href="https://search.dartslive.com/jp/shop/cea11d66ca59807df454cb89828a1cfe">快活CLUB 富士吉原店</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
-|83|498|sanshi|<a href="https://search.dartslive.com/jp/shop/cea11d66ca59807df454cb89828a1cfe">快活CLUB 富士吉原店</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
-|84|453|ayapin◎|<a href="https://search.dartslive.com/jp/shop/3985f7cb2cf7ef5ab21333aee1bd51e4">Dining＆Darts Wonder</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
-|85|447|きほちゃん|<a href="https://search.dartslive.com/jp/shop/cea11d66ca59807df454cb89828a1cfe">快活CLUB 富士吉原店</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
-|86|443|haruka|<a href="https://search.dartslive.com/jp/shop/cea11d66ca59807df454cb89828a1cfe">快活CLUB 富士吉原店</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
-|86|443|せーら|<a href="https://search.dartslive.com/jp/shop/3817a89dedbf4d8afec1ae84bb28bd87">Jigsaw</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
-|88|291|りーな|<a href="https://search.dartslive.com/jp/shop/cea11d66ca59807df454cb89828a1cfe">快活CLUB 富士吉原店</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
-|89|287|たまき|<a href="https://search.dartslive.com/jp/shop/9c7ad8320c0d52e50d9b047a20a7ba1e">ラウンドワン富士店</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
+|69|586|VikI666|<a href="https://search.dartslive.com/jp/shop/3985f7cb2cf7ef5ab21333aee1bd51e4">Dining＆Darts Wonder</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
+|70|585|めぐちょろ|<a href="https://search.dartslive.com/jp/shop/cea11d66ca59807df454cb89828a1cfe">快活CLUB 富士吉原店</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
+|71|580|みみみ@|<a href="https://search.dartslive.com/jp/shop/3985f7cb2cf7ef5ab21333aee1bd51e4">Dining＆Darts Wonder</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
+|72|567|Y|<a href="https://search.dartslive.com/jp/shop/cea11d66ca59807df454cb89828a1cfe">快活CLUB 富士吉原店</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
+|73|561|モグリキャップ☆|<a href="https://search.dartslive.com/jp/shop/cea11d66ca59807df454cb89828a1cfe">快活CLUB 富士吉原店</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
+|74|560|*みーこ(･ε･)♡*|<a href="https://search.dartslive.com/jp/shop/9c7ad8320c0d52e50d9b047a20a7ba1e">ラウンドワン富士店</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
+|75|552|みさきち|<a href="https://search.dartslive.com/jp/shop/cea11d66ca59807df454cb89828a1cfe">快活CLUB 富士吉原店</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
+|76|548|さとし|<a href="https://search.dartslive.com/jp/shop/3985f7cb2cf7ef5ab21333aee1bd51e4">Dining＆Darts Wonder</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
+|77|524|クラピカ|<a href="https://search.dartslive.com/jp/shop/9c7ad8320c0d52e50d9b047a20a7ba1e">ラウンドワン富士店</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
+|78|521|サトケン|<a href="https://search.dartslive.com/jp/shop/3985f7cb2cf7ef5ab21333aee1bd51e4">Dining＆Darts Wonder</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
+|79|512|しぃちゃん|<a href="https://search.dartslive.com/jp/shop/cea11d66ca59807df454cb89828a1cfe">快活CLUB 富士吉原店</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
+|80|453|ayapin◎|<a href="https://search.dartslive.com/jp/shop/3985f7cb2cf7ef5ab21333aee1bd51e4">Dining＆Darts Wonder</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
+|81|447|きほちゃん|<a href="https://search.dartslive.com/jp/shop/cea11d66ca59807df454cb89828a1cfe">快活CLUB 富士吉原店</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
+|82|443|haruka|<a href="https://search.dartslive.com/jp/shop/cea11d66ca59807df454cb89828a1cfe">快活CLUB 富士吉原店</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
+|83|291|りーな|<a href="https://search.dartslive.com/jp/shop/cea11d66ca59807df454cb89828a1cfe">快活CLUB 富士吉原店</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:53_
+_last update : 2024/01/21 13:39:01_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

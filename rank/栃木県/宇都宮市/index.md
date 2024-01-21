@@ -18,11 +18,11 @@ ___
 |2|1084|nico|<a href="https://search.dartslive.com/jp/shop/9218bada9938506928032249b44395af">自遊空間 宇都宮簗瀬店</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
 |3|1082|サトゥ３|<a href="https://search.dartslive.com/jp/shop/292e583dda763d960d9b047a20a7ba1e">NEVERLAND</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
 |4|1075|首 藤 大 樹|<a href="https://search.dartslive.com/jp/shop/e39fb25de241f5080d9b047a20a7ba1e">Cafe&Bar　Day's</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
-|5|1072|サトゥ３|<a href="https://search.dartslive.com/jp/shop/9fe659df08905f1b0d9b047a20a7ba1e">DARTS & ROCK BAR HIDE OUT</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
-|6|1064|浴本 昇吾|<a href="https://search.dartslive.com/jp/shop/e39fb25de241f5080d9b047a20a7ba1e">Cafe&Bar　Day's</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
-|7|1054|サトゥ３|<a href="https://search.dartslive.com/jp/shop/da12e3e5296b7243790ab824ce8730e5">自遊空間宇都宮オリオン通り店</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
-|8|1051|おばじゅん|<a href="https://search.dartslive.com/jp/shop/9218bada9938506928032249b44395af">自遊空間 宇都宮簗瀬店</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
-|8|1051|新庄雅浩*超AB&#x27;s|<a href="https://search.dartslive.com/jp/shop/1c820f116fa80a1e0d9b047a20a7ba1e">炭火串焼　みなもと</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
+|5|1074|おばじゅん|<a href="https://search.dartslive.com/jp/shop/9218bada9938506928032249b44395af">自遊空間 宇都宮簗瀬店</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
+|6|1072|サトゥ３|<a href="https://search.dartslive.com/jp/shop/9fe659df08905f1b0d9b047a20a7ba1e">DARTS & ROCK BAR HIDE OUT</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
+|7|1064|浴本 昇吾|<a href="https://search.dartslive.com/jp/shop/e39fb25de241f5080d9b047a20a7ba1e">Cafe&Bar　Day's</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
+|8|1054|サトゥ３|<a href="https://search.dartslive.com/jp/shop/da12e3e5296b7243790ab824ce8730e5">自遊空間宇都宮オリオン通り店</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
+|9|1051|新庄雅浩*超AB&#x27;s|<a href="https://search.dartslive.com/jp/shop/1c820f116fa80a1e0d9b047a20a7ba1e">炭火串焼　みなもと</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
 |10|1043|佐藤　佑太郎|<a href="https://search.dartslive.com/jp/shop/e39fb25de241f5080d9b047a20a7ba1e">Cafe&Bar　Day's</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
 |11|1040|ケンモク　ダイシ|<a href="https://search.dartslive.com/jp/shop/98008ac1787e0740fec1ae84bb28bd87">快活CLUB 宇都宮御幸ヶ原店</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
 |12|1037|サトゥ３|<a href="https://search.dartslive.com/jp/shop/9218bada9938506928032249b44395af">自遊空間 宇都宮簗瀬店</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
@@ -79,47 +79,47 @@ ___
 |63|843|おJOKER Days|<a href="https://search.dartslive.com/jp/shop/e39fb25de241f5080d9b047a20a7ba1e">Cafe&Bar　Day's</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
 |63|843|するぐ|<a href="https://search.dartslive.com/jp/shop/da12e3e5296b7243790ab824ce8730e5">自遊空間宇都宮オリオン通り店</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
 |63|843|ふじぽん|<a href="https://search.dartslive.com/jp/shop/9fe659df08905f1b0d9b047a20a7ba1e">DARTS & ROCK BAR HIDE OUT</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
-|66|832|かずまっち|<a href="https://search.dartslive.com/jp/shop/1c820f116fa80a1e0d9b047a20a7ba1e">炭火串焼　みなもと</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
-|67|821|だむ|<a href="https://search.dartslive.com/jp/shop/9218bada9938506928032249b44395af">自遊空間 宇都宮簗瀬店</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
-|68|814|福田 真周|<a href="https://search.dartslive.com/jp/shop/e39fb25de241f5080d9b047a20a7ba1e">Cafe&Bar　Day's</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
-|69|811|よっち･ジ･エンド|<a href="https://search.dartslive.com/jp/shop/d896b08a1591b3a40d9b047a20a7ba1e">KAIBUTSULAND</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
-|70|810|chinman|<a href="https://search.dartslive.com/jp/shop/1c820f116fa80a1e0d9b047a20a7ba1e">炭火串焼　みなもと</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
-|71|808|かとたく|<a href="https://search.dartslive.com/jp/shop/da12e3e5296b7243790ab824ce8730e5">自遊空間宇都宮オリオン通り店</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
-|72|807|tkm|<a href="https://search.dartslive.com/jp/shop/292e583dda763d960d9b047a20a7ba1e">NEVERLAND</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
-|73|804|SEA 2|<a href="https://search.dartslive.com/jp/shop/da12e3e5296b7243790ab824ce8730e5">自遊空間宇都宮オリオン通り店</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
-|74|802|ひー坊@MKD38|<a href="https://search.dartslive.com/jp/shop/292e583dda763d960d9b047a20a7ba1e">NEVERLAND</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
-|74|802|まっしゅ|<a href="https://search.dartslive.com/jp/shop/9fe659df08905f1b0d9b047a20a7ba1e">DARTS & ROCK BAR HIDE OUT</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
-|76|800|夜桜たろ|<a href="https://search.dartslive.com/jp/shop/d896b08a1591b3a40d9b047a20a7ba1e">KAIBUTSULAND</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
-|77|788|OZMA!|<a href="https://search.dartslive.com/jp/shop/da12e3e5296b7243790ab824ce8730e5">自遊空間宇都宮オリオン通り店</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
-|77|788|だむ|<a href="https://search.dartslive.com/jp/shop/da12e3e5296b7243790ab824ce8730e5">自遊空間宇都宮オリオン通り店</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
-|79|783|アライ＠DAYS|<a href="https://search.dartslive.com/jp/shop/e39fb25de241f5080d9b047a20a7ba1e">Cafe&Bar　Day's</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
-|80|780|れたーす|<a href="https://search.dartslive.com/jp/shop/da12e3e5296b7243790ab824ce8730e5">自遊空間宇都宮オリオン通り店</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
-|81|779|[頷]山岡 健介|<a href="https://search.dartslive.com/jp/shop/292e583dda763d960d9b047a20a7ba1e">NEVERLAND</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
-|82|775|白龍☆HIDE OUT|<a href="https://search.dartslive.com/jp/shop/9fe659df08905f1b0d9b047a20a7ba1e">DARTS & ROCK BAR HIDE OUT</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
-|83|770|みつば|<a href="https://search.dartslive.com/jp/shop/9fe659df08905f1b0d9b047a20a7ba1e">DARTS & ROCK BAR HIDE OUT</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
-|84|768|SYUN★LiSAッ子|<a href="https://search.dartslive.com/jp/shop/1c820f116fa80a1e0d9b047a20a7ba1e">炭火串焼　みなもと</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
-|85|764|杉目 優美子 T|<a href="https://search.dartslive.com/jp/shop/9fe659df08905f1b0d9b047a20a7ba1e">DARTS & ROCK BAR HIDE OUT</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
-|86|762|ﾎﾞｯｸﾙ|<a href="https://search.dartslive.com/jp/shop/d896b08a1591b3a40d9b047a20a7ba1e">KAIBUTSULAND</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
-|87|748|Corry@ｾｼｳﾑｷﾉｺ|<a href="https://search.dartslive.com/jp/shop/da12e3e5296b7243790ab824ce8730e5">自遊空間宇都宮オリオン通り店</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
-|88|743|とっぴー|<a href="https://search.dartslive.com/jp/shop/98008ac1787e0740fec1ae84bb28bd87">快活CLUB 宇都宮御幸ヶ原店</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
-|89|740|ノラ猫|<a href="https://search.dartslive.com/jp/shop/e39fb25de241f5080d9b047a20a7ba1e">Cafe&Bar　Day's</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
-|90|737|ともや∞WAKE|<a href="https://search.dartslive.com/jp/shop/9fe659df08905f1b0d9b047a20a7ba1e">DARTS & ROCK BAR HIDE OUT</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
-|91|728|江連　拓児|<a href="https://search.dartslive.com/jp/shop/292e583dda763d960d9b047a20a7ba1e">NEVERLAND</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
-|92|726|Fumi|<a href="https://search.dartslive.com/jp/shop/98008ac1787e0740fec1ae84bb28bd87">快活CLUB 宇都宮御幸ヶ原店</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
+|66|839|かとたく|<a href="https://search.dartslive.com/jp/shop/da12e3e5296b7243790ab824ce8730e5">自遊空間宇都宮オリオン通り店</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
+|67|832|かずまっち|<a href="https://search.dartslive.com/jp/shop/1c820f116fa80a1e0d9b047a20a7ba1e">炭火串焼　みなもと</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
+|68|821|だむ|<a href="https://search.dartslive.com/jp/shop/9218bada9938506928032249b44395af">自遊空間 宇都宮簗瀬店</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
+|69|814|とっぴー|<a href="https://search.dartslive.com/jp/shop/98008ac1787e0740fec1ae84bb28bd87">快活CLUB 宇都宮御幸ヶ原店</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
+|69|814|福田 真周|<a href="https://search.dartslive.com/jp/shop/e39fb25de241f5080d9b047a20a7ba1e">Cafe&Bar　Day's</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
+|71|811|よっち･ジ･エンド|<a href="https://search.dartslive.com/jp/shop/d896b08a1591b3a40d9b047a20a7ba1e">KAIBUTSULAND</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
+|72|810|chinman|<a href="https://search.dartslive.com/jp/shop/1c820f116fa80a1e0d9b047a20a7ba1e">炭火串焼　みなもと</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
+|73|807|tkm|<a href="https://search.dartslive.com/jp/shop/292e583dda763d960d9b047a20a7ba1e">NEVERLAND</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
+|74|804|SEA 2|<a href="https://search.dartslive.com/jp/shop/da12e3e5296b7243790ab824ce8730e5">自遊空間宇都宮オリオン通り店</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
+|75|802|ひー坊@MKD38|<a href="https://search.dartslive.com/jp/shop/292e583dda763d960d9b047a20a7ba1e">NEVERLAND</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
+|75|802|まっしゅ|<a href="https://search.dartslive.com/jp/shop/9fe659df08905f1b0d9b047a20a7ba1e">DARTS & ROCK BAR HIDE OUT</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
+|77|800|夜桜たろ|<a href="https://search.dartslive.com/jp/shop/d896b08a1591b3a40d9b047a20a7ba1e">KAIBUTSULAND</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
+|78|788|OZMA!|<a href="https://search.dartslive.com/jp/shop/da12e3e5296b7243790ab824ce8730e5">自遊空間宇都宮オリオン通り店</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
+|78|788|だむ|<a href="https://search.dartslive.com/jp/shop/da12e3e5296b7243790ab824ce8730e5">自遊空間宇都宮オリオン通り店</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
+|80|783|アライ＠DAYS|<a href="https://search.dartslive.com/jp/shop/e39fb25de241f5080d9b047a20a7ba1e">Cafe&Bar　Day's</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
+|81|780|れたーす|<a href="https://search.dartslive.com/jp/shop/da12e3e5296b7243790ab824ce8730e5">自遊空間宇都宮オリオン通り店</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
+|82|779|Fumi|<a href="https://search.dartslive.com/jp/shop/98008ac1787e0740fec1ae84bb28bd87">快活CLUB 宇都宮御幸ヶ原店</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
+|82|779|[頷]山岡 健介|<a href="https://search.dartslive.com/jp/shop/292e583dda763d960d9b047a20a7ba1e">NEVERLAND</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
+|84|775|白龍☆HIDE OUT|<a href="https://search.dartslive.com/jp/shop/9fe659df08905f1b0d9b047a20a7ba1e">DARTS & ROCK BAR HIDE OUT</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
+|85|770|みつば|<a href="https://search.dartslive.com/jp/shop/9fe659df08905f1b0d9b047a20a7ba1e">DARTS & ROCK BAR HIDE OUT</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
+|86|768|SYUN★LiSAッ子|<a href="https://search.dartslive.com/jp/shop/1c820f116fa80a1e0d9b047a20a7ba1e">炭火串焼　みなもと</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
+|87|764|杉目 優美子 T|<a href="https://search.dartslive.com/jp/shop/9fe659df08905f1b0d9b047a20a7ba1e">DARTS & ROCK BAR HIDE OUT</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
+|88|762|ﾎﾞｯｸﾙ|<a href="https://search.dartslive.com/jp/shop/d896b08a1591b3a40d9b047a20a7ba1e">KAIBUTSULAND</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
+|89|748|Corry@ｾｼｳﾑｷﾉｺ|<a href="https://search.dartslive.com/jp/shop/da12e3e5296b7243790ab824ce8730e5">自遊空間宇都宮オリオン通り店</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
+|90|740|ノラ猫|<a href="https://search.dartslive.com/jp/shop/e39fb25de241f5080d9b047a20a7ba1e">Cafe&Bar　Day's</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
+|91|737|ともや∞WAKE|<a href="https://search.dartslive.com/jp/shop/9fe659df08905f1b0d9b047a20a7ba1e">DARTS & ROCK BAR HIDE OUT</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
+|92|728|江連　拓児|<a href="https://search.dartslive.com/jp/shop/292e583dda763d960d9b047a20a7ba1e">NEVERLAND</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
 |93|709|TAKUJU.K|<a href="https://search.dartslive.com/jp/shop/98008ac1787e0740fec1ae84bb28bd87">快活CLUB 宇都宮御幸ヶ原店</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
 |93|709|満足さん|<a href="https://search.dartslive.com/jp/shop/9218bada9938506928032249b44395af">自遊空間 宇都宮簗瀬店</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
 |95|704|タケちゃん|<a href="https://search.dartslive.com/jp/shop/1c820f116fa80a1e0d9b047a20a7ba1e">炭火串焼　みなもと</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
-|96|701|yuzu☆|<a href="https://search.dartslive.com/jp/shop/9fe659df08905f1b0d9b047a20a7ba1e">DARTS & ROCK BAR HIDE OUT</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
-|97|699|こへ|<a href="https://search.dartslive.com/jp/shop/9fe659df08905f1b0d9b047a20a7ba1e">DARTS & ROCK BAR HIDE OUT</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
-|98|693|コッシ〜|<a href="https://search.dartslive.com/jp/shop/e39fb25de241f5080d9b047a20a7ba1e">Cafe&Bar　Day's</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
-|99|682|らいとぅー|<a href="https://search.dartslive.com/jp/shop/d896b08a1591b3a40d9b047a20a7ba1e">KAIBUTSULAND</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
-|100|679|コッシ〜|<a href="https://search.dartslive.com/jp/shop/9fe659df08905f1b0d9b047a20a7ba1e">DARTS & ROCK BAR HIDE OUT</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
+|96|703|馬である。ﾋﾞﾊﾞｯ|<a href="https://search.dartslive.com/jp/shop/da12e3e5296b7243790ab824ce8730e5">自遊空間宇都宮オリオン通り店</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
+|97|701|yuzu☆|<a href="https://search.dartslive.com/jp/shop/9fe659df08905f1b0d9b047a20a7ba1e">DARTS & ROCK BAR HIDE OUT</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
+|98|699|こへ|<a href="https://search.dartslive.com/jp/shop/9fe659df08905f1b0d9b047a20a7ba1e">DARTS & ROCK BAR HIDE OUT</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
+|99|693|コッシ〜|<a href="https://search.dartslive.com/jp/shop/e39fb25de241f5080d9b047a20a7ba1e">Cafe&Bar　Day's</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
+|100|682|らいとぅー|<a href="https://search.dartslive.com/jp/shop/d896b08a1591b3a40d9b047a20a7ba1e">KAIBUTSULAND</a>|<a href="/darts/rank/栃木県/宇都宮市">栃木県宇都宮市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:50_
+_last update : 2024/01/21 13:38:55_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

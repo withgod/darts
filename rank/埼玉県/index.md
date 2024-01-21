@@ -135,28 +135,28 @@ ___
 |74|1091|ﾊﾞﾙｶﾝ300 ｼﾞｴﾝﾄﾞ|<a href="https://search.dartslive.com/jp/shop/d35c681acb47010da3f63593b5358cc4">快活CLUB 三郷店</a>|<a href="/darts/rank/埼玉県/三郷市">埼玉県三郷市</a>|
 |77|1090|さこん|<a href="https://search.dartslive.com/jp/shop/700daa61ba8f9dd70d9b047a20a7ba1e">LIKE A CHILD</a>|<a href="/darts/rank/埼玉県/狭山市">埼玉県狭山市</a>|
 |78|1089|YASーＯ|<a href="https://search.dartslive.com/jp/shop/9fda067334306f5d0d9b047a20a7ba1e">CROWBAR 下藤沢</a>|<a href="/darts/rank/埼玉県/入間市">埼玉県入間市</a>|
-|79|1088|JYUNYA..|<a href="https://search.dartslive.com/jp/shop/439f782e38b721390d9b047a20a7ba1e">プレイ ファスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
 |79|1088|KAZU|<a href="https://search.dartslive.com/jp/shop/7c37de022408cfa40d9b047a20a7ba1e">ウェアハウス草加店</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
 |79|1088|みなみ ひでなみ|<a href="https://search.dartslive.com/jp/shop/a7427117351e97c20d9b047a20a7ba1e">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|82|1087|たける|<a href="https://search.dartslive.com/jp/shop/439f782e38b721390d9b047a20a7ba1e">プレイ ファスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|82|1087|菊池 将也|<a href="https://search.dartslive.com/jp/shop/78c7f164c81c66290d9b047a20a7ba1e">カラオケCLUBDAM新座店</a>|<a href="/darts/rank/埼玉県/新座市">埼玉県新座市</a>|
-|84|1086|山形　明人|<a href="https://search.dartslive.com/jp/shop/cca87195ac0452ec0d9b047a20a7ba1e">ダーツ酒場 やぶさめ</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|84|1086|金子 颯太|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|86|1085|べっち|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
-|86|1085|雄淋鶏@勝田矢|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|88|1084|nobuじろー|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|88|1084|小﨑　幹生|<a href="https://search.dartslive.com/jp/shop/8ef6891cdf3d7c820d9b047a20a7ba1e">Bar Lammin</a>|<a href="/darts/rank/埼玉県/熊谷市">埼玉県熊谷市</a>|
-|88|1084|ﾅﾍﾞ初老んｼﾞｬｰｽﾞ|<a href="https://search.dartslive.com/jp/shop/9b2426787763c7180d9b047a20a7ba1e">Amusement Cafe ZICCA</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|91|1083|♛T-STYLE♛|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|91|1083|わんぱくオヤジ|<a href="https://search.dartslive.com/jp/shop/8ef6891cdf3d7c820d9b047a20a7ba1e">Bar Lammin</a>|<a href="/darts/rank/埼玉県/熊谷市">埼玉県熊谷市</a>|
-|91|1083|広瀬貴久＊A-FLOW|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
-|94|1082|太陽☆One80|<a href="https://search.dartslive.com/jp/shop/e8726cdc5a16e8f7b21333aee1bd51e4">DiCE大宮店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
-|95|1081|YOSSHIY♪|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
-|95|1081|ふみぷぅ♪|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|97|1080|かつや|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|97|1080|丹羽 俊貴|<a href="https://search.dartslive.com/jp/shop/d2e28fae0c8c64a85f9f3321c1147265">自遊空間 熊谷籠原店</a>|<a href="/darts/rank/埼玉県/熊谷市">埼玉県熊谷市</a>|
-|97|1080|横田　涼|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
-|100|1079|まー坊ZAZA|<a href="https://search.dartslive.com/jp/shop/3ceb13462d3962845f9f3321c1147265">快活CLUB 蓮田店</a>|<a href="/darts/rank/埼玉県/蓮田市">埼玉県蓮田市</a>|
+|81|1087|たける|<a href="https://search.dartslive.com/jp/shop/439f782e38b721390d9b047a20a7ba1e">プレイ ファスト</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|81|1087|菊池 将也|<a href="https://search.dartslive.com/jp/shop/78c7f164c81c66290d9b047a20a7ba1e">カラオケCLUBDAM新座店</a>|<a href="/darts/rank/埼玉県/新座市">埼玉県新座市</a>|
+|83|1086|山形　明人|<a href="https://search.dartslive.com/jp/shop/cca87195ac0452ec0d9b047a20a7ba1e">ダーツ酒場 やぶさめ</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|83|1086|金子 颯太|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|85|1085|べっち|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
+|85|1085|雄淋鶏@勝田矢|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|87|1084|nobuじろー|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|87|1084|小﨑　幹生|<a href="https://search.dartslive.com/jp/shop/8ef6891cdf3d7c820d9b047a20a7ba1e">Bar Lammin</a>|<a href="/darts/rank/埼玉県/熊谷市">埼玉県熊谷市</a>|
+|87|1084|ﾅﾍﾞ初老んｼﾞｬｰｽﾞ|<a href="https://search.dartslive.com/jp/shop/9b2426787763c7180d9b047a20a7ba1e">Amusement Cafe ZICCA</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|90|1083|♛T-STYLE♛|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|90|1083|わんぱくオヤジ|<a href="https://search.dartslive.com/jp/shop/8ef6891cdf3d7c820d9b047a20a7ba1e">Bar Lammin</a>|<a href="/darts/rank/埼玉県/熊谷市">埼玉県熊谷市</a>|
+|90|1083|広瀬貴久＊A-FLOW|<a href="https://search.dartslive.com/jp/shop/ff7f5a5a0cc741e80d9b047a20a7ba1e">HANG OVER</a>|<a href="/darts/rank/埼玉県/越谷市">埼玉県越谷市</a>|
+|93|1082|太陽☆One80|<a href="https://search.dartslive.com/jp/shop/e8726cdc5a16e8f7b21333aee1bd51e4">DiCE大宮店</a>|<a href="/darts/rank/埼玉県/さいたま市">埼玉県さいたま市</a>|
+|94|1081|YOSSHIY♪|<a href="https://search.dartslive.com/jp/shop/b37677521387fae60d9b047a20a7ba1e">ヘッドロック＆スペ遊</a>|<a href="/darts/rank/埼玉県/蕨市">埼玉県蕨市</a>|
+|94|1081|ふみぷぅ♪|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|96|1080|かつや|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|96|1080|丹羽 俊貴|<a href="https://search.dartslive.com/jp/shop/d2e28fae0c8c64a85f9f3321c1147265">自遊空間 熊谷籠原店</a>|<a href="/darts/rank/埼玉県/熊谷市">埼玉県熊谷市</a>|
+|96|1080|横田　涼|<a href="https://search.dartslive.com/jp/shop/988ea781999e8c3c0d9b047a20a7ba1e">Raku　Darts</a>|<a href="/darts/rank/埼玉県/草加市">埼玉県草加市</a>|
+|99|1079|まー坊ZAZA|<a href="https://search.dartslive.com/jp/shop/3ceb13462d3962845f9f3321c1147265">快活CLUB 蓮田店</a>|<a href="/darts/rank/埼玉県/蓮田市">埼玉県蓮田市</a>|
+|99|1079|松原 笙太|<a href="https://search.dartslive.com/jp/shop/0dad7f54028bfe35f454cb89828a1cfe">快活CLUB 上尾日の出店</a>|<a href="/darts/rank/埼玉県/上尾市">埼玉県上尾市</a>|
 
 
 
@@ -164,7 +164,7 @@ ___
 
 ___
 
-_last update : 2024/01/21 03:05:50_
+_last update : 2024/01/21 13:38:55_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

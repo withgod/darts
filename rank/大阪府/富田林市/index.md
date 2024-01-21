@@ -14,12 +14,15 @@ ___
 {:.table-ranking}
 |ランク|スコア|名前|店名|所在地|
 |---|---|---|---|---|
+|1|514|PADLOCK　カズ!?|<a href="https://search.dartslive.com/jp/shop/404fb66bd97e5d750d9b047a20a7ba1e">BAR PADLOCK</a>|<a href="/darts/rank/大阪府/富田林市">大阪府富田林市</a>|
+|2|437|るーです|<a href="https://search.dartslive.com/jp/shop/404fb66bd97e5d750d9b047a20a7ba1e">BAR PADLOCK</a>|<a href="/darts/rank/大阪府/富田林市">大阪府富田林市</a>|
+|3|415|ko^ki|<a href="https://search.dartslive.com/jp/shop/404fb66bd97e5d750d9b047a20a7ba1e">BAR PADLOCK</a>|<a href="/darts/rank/大阪府/富田林市">大阪府富田林市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:55_
+_last update : 2024/01/21 13:39:05_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

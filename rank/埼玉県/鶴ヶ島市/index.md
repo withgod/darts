@@ -33,34 +33,35 @@ ___
 |16|896|練習中|<a href="https://search.dartslive.com/jp/shop/800ac31d3c06802efec1ae84bb28bd87">快活CLUB 鶴ヶ島インター店</a>|<a href="/darts/rank/埼玉県/鶴ヶ島市">埼玉県鶴ヶ島市</a>|
 |18|854|紫咲|<a href="https://search.dartslive.com/jp/shop/800ac31d3c06802efec1ae84bb28bd87">快活CLUB 鶴ヶ島インター店</a>|<a href="/darts/rank/埼玉県/鶴ヶ島市">埼玉県鶴ヶ島市</a>|
 |19|806|ぐるぐる|<a href="https://search.dartslive.com/jp/shop/800ac31d3c06802efec1ae84bb28bd87">快活CLUB 鶴ヶ島インター店</a>|<a href="/darts/rank/埼玉県/鶴ヶ島市">埼玉県鶴ヶ島市</a>|
-|20|690|むぅ(＊`ω´)|<a href="https://search.dartslive.com/jp/shop/800ac31d3c06802efec1ae84bb28bd87">快活CLUB 鶴ヶ島インター店</a>|<a href="/darts/rank/埼玉県/鶴ヶ島市">埼玉県鶴ヶ島市</a>|
-|21|646|モアテン|<a href="https://search.dartslive.com/jp/shop/800ac31d3c06802efec1ae84bb28bd87">快活CLUB 鶴ヶ島インター店</a>|<a href="/darts/rank/埼玉県/鶴ヶ島市">埼玉県鶴ヶ島市</a>|
-|22|637|マイメロディー|<a href="https://search.dartslive.com/jp/shop/800ac31d3c06802efec1ae84bb28bd87">快活CLUB 鶴ヶ島インター店</a>|<a href="/darts/rank/埼玉県/鶴ヶ島市">埼玉県鶴ヶ島市</a>|
-|23|632|わ|<a href="https://search.dartslive.com/jp/shop/800ac31d3c06802efec1ae84bb28bd87">快活CLUB 鶴ヶ島インター店</a>|<a href="/darts/rank/埼玉県/鶴ヶ島市">埼玉県鶴ヶ島市</a>|
-|24|621|あきらーＪＹMＴ|<a href="https://search.dartslive.com/jp/shop/800ac31d3c06802efec1ae84bb28bd87">快活CLUB 鶴ヶ島インター店</a>|<a href="/darts/rank/埼玉県/鶴ヶ島市">埼玉県鶴ヶ島市</a>|
-|25|597|masumi|<a href="https://search.dartslive.com/jp/shop/800ac31d3c06802efec1ae84bb28bd87">快活CLUB 鶴ヶ島インター店</a>|<a href="/darts/rank/埼玉県/鶴ヶ島市">埼玉県鶴ヶ島市</a>|
-|26|590|しおり|<a href="https://search.dartslive.com/jp/shop/800ac31d3c06802efec1ae84bb28bd87">快活CLUB 鶴ヶ島インター店</a>|<a href="/darts/rank/埼玉県/鶴ヶ島市">埼玉県鶴ヶ島市</a>|
-|27|578|®️ GUNJI|<a href="https://search.dartslive.com/jp/shop/800ac31d3c06802efec1ae84bb28bd87">快活CLUB 鶴ヶ島インター店</a>|<a href="/darts/rank/埼玉県/鶴ヶ島市">埼玉県鶴ヶ島市</a>|
-|28|565|ﾅﾅﾐﾝ|<a href="https://search.dartslive.com/jp/shop/800ac31d3c06802efec1ae84bb28bd87">快活CLUB 鶴ヶ島インター店</a>|<a href="/darts/rank/埼玉県/鶴ヶ島市">埼玉県鶴ヶ島市</a>|
-|29|537|Foosee|<a href="https://search.dartslive.com/jp/shop/800ac31d3c06802efec1ae84bb28bd87">快活CLUB 鶴ヶ島インター店</a>|<a href="/darts/rank/埼玉県/鶴ヶ島市">埼玉県鶴ヶ島市</a>|
-|30|521|YUGODAZEI|<a href="https://search.dartslive.com/jp/shop/800ac31d3c06802efec1ae84bb28bd87">快活CLUB 鶴ヶ島インター店</a>|<a href="/darts/rank/埼玉県/鶴ヶ島市">埼玉県鶴ヶ島市</a>|
-|31|516|社不|<a href="https://search.dartslive.com/jp/shop/800ac31d3c06802efec1ae84bb28bd87">快活CLUB 鶴ヶ島インター店</a>|<a href="/darts/rank/埼玉県/鶴ヶ島市">埼玉県鶴ヶ島市</a>|
-|32|515|だいふく|<a href="https://search.dartslive.com/jp/shop/800ac31d3c06802efec1ae84bb28bd87">快活CLUB 鶴ヶ島インター店</a>|<a href="/darts/rank/埼玉県/鶴ヶ島市">埼玉県鶴ヶ島市</a>|
-|33|507|すけ|<a href="https://search.dartslive.com/jp/shop/800ac31d3c06802efec1ae84bb28bd87">快活CLUB 鶴ヶ島インター店</a>|<a href="/darts/rank/埼玉県/鶴ヶ島市">埼玉県鶴ヶ島市</a>|
-|34|476|けん|<a href="https://search.dartslive.com/jp/shop/800ac31d3c06802efec1ae84bb28bd87">快活CLUB 鶴ヶ島インター店</a>|<a href="/darts/rank/埼玉県/鶴ヶ島市">埼玉県鶴ヶ島市</a>|
-|35|470|LLENN|<a href="https://search.dartslive.com/jp/shop/800ac31d3c06802efec1ae84bb28bd87">快活CLUB 鶴ヶ島インター店</a>|<a href="/darts/rank/埼玉県/鶴ヶ島市">埼玉県鶴ヶ島市</a>|
-|36|464|Ayame.W|<a href="https://search.dartslive.com/jp/shop/800ac31d3c06802efec1ae84bb28bd87">快活CLUB 鶴ヶ島インター店</a>|<a href="/darts/rank/埼玉県/鶴ヶ島市">埼玉県鶴ヶ島市</a>|
-|37|461|ぁかね～さん|<a href="https://search.dartslive.com/jp/shop/800ac31d3c06802efec1ae84bb28bd87">快活CLUB 鶴ヶ島インター店</a>|<a href="/darts/rank/埼玉県/鶴ヶ島市">埼玉県鶴ヶ島市</a>|
-|38|402|BEBE|<a href="https://search.dartslive.com/jp/shop/800ac31d3c06802efec1ae84bb28bd87">快活CLUB 鶴ヶ島インター店</a>|<a href="/darts/rank/埼玉県/鶴ヶ島市">埼玉県鶴ヶ島市</a>|
-|39|378|YASUKO|<a href="https://search.dartslive.com/jp/shop/800ac31d3c06802efec1ae84bb28bd87">快活CLUB 鶴ヶ島インター店</a>|<a href="/darts/rank/埼玉県/鶴ヶ島市">埼玉県鶴ヶ島市</a>|
-|40|377|NOOPY|<a href="https://search.dartslive.com/jp/shop/800ac31d3c06802efec1ae84bb28bd87">快活CLUB 鶴ヶ島インター店</a>|<a href="/darts/rank/埼玉県/鶴ヶ島市">埼玉県鶴ヶ島市</a>|
-|41|295|summer fruit|<a href="https://search.dartslive.com/jp/shop/800ac31d3c06802efec1ae84bb28bd87">快活CLUB 鶴ヶ島インター店</a>|<a href="/darts/rank/埼玉県/鶴ヶ島市">埼玉県鶴ヶ島市</a>|
+|20|706|あきらーＪＹMＴ|<a href="https://search.dartslive.com/jp/shop/800ac31d3c06802efec1ae84bb28bd87">快活CLUB 鶴ヶ島インター店</a>|<a href="/darts/rank/埼玉県/鶴ヶ島市">埼玉県鶴ヶ島市</a>|
+|21|690|むぅ(＊`ω´)|<a href="https://search.dartslive.com/jp/shop/800ac31d3c06802efec1ae84bb28bd87">快活CLUB 鶴ヶ島インター店</a>|<a href="/darts/rank/埼玉県/鶴ヶ島市">埼玉県鶴ヶ島市</a>|
+|22|677|みず|<a href="https://search.dartslive.com/jp/shop/800ac31d3c06802efec1ae84bb28bd87">快活CLUB 鶴ヶ島インター店</a>|<a href="/darts/rank/埼玉県/鶴ヶ島市">埼玉県鶴ヶ島市</a>|
+|23|646|モアテン|<a href="https://search.dartslive.com/jp/shop/800ac31d3c06802efec1ae84bb28bd87">快活CLUB 鶴ヶ島インター店</a>|<a href="/darts/rank/埼玉県/鶴ヶ島市">埼玉県鶴ヶ島市</a>|
+|24|637|マイメロディー|<a href="https://search.dartslive.com/jp/shop/800ac31d3c06802efec1ae84bb28bd87">快活CLUB 鶴ヶ島インター店</a>|<a href="/darts/rank/埼玉県/鶴ヶ島市">埼玉県鶴ヶ島市</a>|
+|25|632|わ|<a href="https://search.dartslive.com/jp/shop/800ac31d3c06802efec1ae84bb28bd87">快活CLUB 鶴ヶ島インター店</a>|<a href="/darts/rank/埼玉県/鶴ヶ島市">埼玉県鶴ヶ島市</a>|
+|25|632|メリー♂|<a href="https://search.dartslive.com/jp/shop/800ac31d3c06802efec1ae84bb28bd87">快活CLUB 鶴ヶ島インター店</a>|<a href="/darts/rank/埼玉県/鶴ヶ島市">埼玉県鶴ヶ島市</a>|
+|27|597|masumi|<a href="https://search.dartslive.com/jp/shop/800ac31d3c06802efec1ae84bb28bd87">快活CLUB 鶴ヶ島インター店</a>|<a href="/darts/rank/埼玉県/鶴ヶ島市">埼玉県鶴ヶ島市</a>|
+|28|590|しおり|<a href="https://search.dartslive.com/jp/shop/800ac31d3c06802efec1ae84bb28bd87">快活CLUB 鶴ヶ島インター店</a>|<a href="/darts/rank/埼玉県/鶴ヶ島市">埼玉県鶴ヶ島市</a>|
+|29|578|®️ GUNJI|<a href="https://search.dartslive.com/jp/shop/800ac31d3c06802efec1ae84bb28bd87">快活CLUB 鶴ヶ島インター店</a>|<a href="/darts/rank/埼玉県/鶴ヶ島市">埼玉県鶴ヶ島市</a>|
+|30|565|ﾅﾅﾐﾝ|<a href="https://search.dartslive.com/jp/shop/800ac31d3c06802efec1ae84bb28bd87">快活CLUB 鶴ヶ島インター店</a>|<a href="/darts/rank/埼玉県/鶴ヶ島市">埼玉県鶴ヶ島市</a>|
+|31|537|Foosee|<a href="https://search.dartslive.com/jp/shop/800ac31d3c06802efec1ae84bb28bd87">快活CLUB 鶴ヶ島インター店</a>|<a href="/darts/rank/埼玉県/鶴ヶ島市">埼玉県鶴ヶ島市</a>|
+|32|521|YUGODAZEI|<a href="https://search.dartslive.com/jp/shop/800ac31d3c06802efec1ae84bb28bd87">快活CLUB 鶴ヶ島インター店</a>|<a href="/darts/rank/埼玉県/鶴ヶ島市">埼玉県鶴ヶ島市</a>|
+|33|516|社不|<a href="https://search.dartslive.com/jp/shop/800ac31d3c06802efec1ae84bb28bd87">快活CLUB 鶴ヶ島インター店</a>|<a href="/darts/rank/埼玉県/鶴ヶ島市">埼玉県鶴ヶ島市</a>|
+|34|515|だいふく|<a href="https://search.dartslive.com/jp/shop/800ac31d3c06802efec1ae84bb28bd87">快活CLUB 鶴ヶ島インター店</a>|<a href="/darts/rank/埼玉県/鶴ヶ島市">埼玉県鶴ヶ島市</a>|
+|35|507|すけ|<a href="https://search.dartslive.com/jp/shop/800ac31d3c06802efec1ae84bb28bd87">快活CLUB 鶴ヶ島インター店</a>|<a href="/darts/rank/埼玉県/鶴ヶ島市">埼玉県鶴ヶ島市</a>|
+|36|476|けん|<a href="https://search.dartslive.com/jp/shop/800ac31d3c06802efec1ae84bb28bd87">快活CLUB 鶴ヶ島インター店</a>|<a href="/darts/rank/埼玉県/鶴ヶ島市">埼玉県鶴ヶ島市</a>|
+|37|470|LLENN|<a href="https://search.dartslive.com/jp/shop/800ac31d3c06802efec1ae84bb28bd87">快活CLUB 鶴ヶ島インター店</a>|<a href="/darts/rank/埼玉県/鶴ヶ島市">埼玉県鶴ヶ島市</a>|
+|38|464|Ayame.W|<a href="https://search.dartslive.com/jp/shop/800ac31d3c06802efec1ae84bb28bd87">快活CLUB 鶴ヶ島インター店</a>|<a href="/darts/rank/埼玉県/鶴ヶ島市">埼玉県鶴ヶ島市</a>|
+|39|461|ぁかね～さん|<a href="https://search.dartslive.com/jp/shop/800ac31d3c06802efec1ae84bb28bd87">快活CLUB 鶴ヶ島インター店</a>|<a href="/darts/rank/埼玉県/鶴ヶ島市">埼玉県鶴ヶ島市</a>|
+|40|402|BEBE|<a href="https://search.dartslive.com/jp/shop/800ac31d3c06802efec1ae84bb28bd87">快活CLUB 鶴ヶ島インター店</a>|<a href="/darts/rank/埼玉県/鶴ヶ島市">埼玉県鶴ヶ島市</a>|
+|41|377|NOOPY|<a href="https://search.dartslive.com/jp/shop/800ac31d3c06802efec1ae84bb28bd87">快活CLUB 鶴ヶ島インター店</a>|<a href="/darts/rank/埼玉県/鶴ヶ島市">埼玉県鶴ヶ島市</a>|
+|42|295|summer fruit|<a href="https://search.dartslive.com/jp/shop/800ac31d3c06802efec1ae84bb28bd87">快活CLUB 鶴ヶ島インター店</a>|<a href="/darts/rank/埼玉県/鶴ヶ島市">埼玉県鶴ヶ島市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:51_
+_last update : 2024/01/21 13:38:56_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

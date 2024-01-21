@@ -14,12 +14,50 @@ ___
 {:.table-ranking}
 |ランク|スコア|名前|店名|所在地|
 |---|---|---|---|---|
+|1|1049|りょー|<a href="https://search.dartslive.com/jp/shop/dd659e59df8e9dbaa3f63593b5358cc4">自遊空間 大分光吉店</a>|<a href="/darts/rank/大分県/大分市">大分県大分市</a>|
+|2|1031|NaKaJun@BATBAR|<a href="https://search.dartslive.com/jp/shop/03a434c57ba616930d9b047a20a7ba1e">ラウンドワン大分店</a>|<a href="/darts/rank/大分県/大分市">大分県大分市</a>|
+|3|1009|ダーウィン|<a href="https://search.dartslive.com/jp/shop/dd659e59df8e9dbaa3f63593b5358cc4">自遊空間 大分光吉店</a>|<a href="/darts/rank/大分県/大分市">大分県大分市</a>|
+|4|974|桃子組T|<a href="https://search.dartslive.com/jp/shop/dd659e59df8e9dbaa3f63593b5358cc4">自遊空間 大分光吉店</a>|<a href="/darts/rank/大分県/大分市">大分県大分市</a>|
+|5|971|あらまぁちゃん|<a href="https://search.dartslive.com/jp/shop/dd659e59df8e9dbaa3f63593b5358cc4">自遊空間 大分光吉店</a>|<a href="/darts/rank/大分県/大分市">大分県大分市</a>|
+|6|963|しんのすけ|<a href="https://search.dartslive.com/jp/shop/dd659e59df8e9dbaa3f63593b5358cc4">自遊空間 大分光吉店</a>|<a href="/darts/rank/大分県/大分市">大分県大分市</a>|
+|7|953|りょうのすけ|<a href="https://search.dartslive.com/jp/shop/dd659e59df8e9dbaa3f63593b5358cc4">自遊空間 大分光吉店</a>|<a href="/darts/rank/大分県/大分市">大分県大分市</a>|
+|8|926|DTDS29_|<a href="https://search.dartslive.com/jp/shop/dd659e59df8e9dbaa3f63593b5358cc4">自遊空間 大分光吉店</a>|<a href="/darts/rank/大分県/大分市">大分県大分市</a>|
+|9|920|K|<a href="https://search.dartslive.com/jp/shop/dd659e59df8e9dbaa3f63593b5358cc4">自遊空間 大分光吉店</a>|<a href="/darts/rank/大分県/大分市">大分県大分市</a>|
+|10|910|きょうへい|<a href="https://search.dartslive.com/jp/shop/dd659e59df8e9dbaa3f63593b5358cc4">自遊空間 大分光吉店</a>|<a href="/darts/rank/大分県/大分市">大分県大分市</a>|
+|11|892|おにぎりですが|<a href="https://search.dartslive.com/jp/shop/dd659e59df8e9dbaa3f63593b5358cc4">自遊空間 大分光吉店</a>|<a href="/darts/rank/大分県/大分市">大分県大分市</a>|
+|12|872|MORI|<a href="https://search.dartslive.com/jp/shop/dd659e59df8e9dbaa3f63593b5358cc4">自遊空間 大分光吉店</a>|<a href="/darts/rank/大分県/大分市">大分県大分市</a>|
+|13|871|☆古森寛唯☆|<a href="https://search.dartslive.com/jp/shop/dd659e59df8e9dbaa3f63593b5358cc4">自遊空間 大分光吉店</a>|<a href="/darts/rank/大分県/大分市">大分県大分市</a>|
+|14|855|かずきち|<a href="https://search.dartslive.com/jp/shop/dd659e59df8e9dbaa3f63593b5358cc4">自遊空間 大分光吉店</a>|<a href="/darts/rank/大分県/大分市">大分県大分市</a>|
+|15|814|じえ|<a href="https://search.dartslive.com/jp/shop/dd659e59df8e9dbaa3f63593b5358cc4">自遊空間 大分光吉店</a>|<a href="/darts/rank/大分県/大分市">大分県大分市</a>|
+|16|787|スエｂｉｓｈ|<a href="https://search.dartslive.com/jp/shop/03a434c57ba616930d9b047a20a7ba1e">ラウンドワン大分店</a>|<a href="/darts/rank/大分県/大分市">大分県大分市</a>|
+|17|772|かわしょー|<a href="https://search.dartslive.com/jp/shop/dd659e59df8e9dbaa3f63593b5358cc4">自遊空間 大分光吉店</a>|<a href="/darts/rank/大分県/大分市">大分県大分市</a>|
+|18|741|masaki|<a href="https://search.dartslive.com/jp/shop/03a434c57ba616930d9b047a20a7ba1e">ラウンドワン大分店</a>|<a href="/darts/rank/大分県/大分市">大分県大分市</a>|
+|19|728|かっかみ|<a href="https://search.dartslive.com/jp/shop/03a434c57ba616930d9b047a20a7ba1e">ラウンドワン大分店</a>|<a href="/darts/rank/大分県/大分市">大分県大分市</a>|
+|20|725|隊長|<a href="https://search.dartslive.com/jp/shop/03a434c57ba616930d9b047a20a7ba1e">ラウンドワン大分店</a>|<a href="/darts/rank/大分県/大分市">大分県大分市</a>|
+|21|723|くぎ|<a href="https://search.dartslive.com/jp/shop/03a434c57ba616930d9b047a20a7ba1e">ラウンドワン大分店</a>|<a href="/darts/rank/大分県/大分市">大分県大分市</a>|
+|22|722|Akiyo45|<a href="https://search.dartslive.com/jp/shop/03a434c57ba616930d9b047a20a7ba1e">ラウンドワン大分店</a>|<a href="/darts/rank/大分県/大分市">大分県大分市</a>|
+|23|713|(*ﾟ▽ﾟ)ﾉKURO|<a href="https://search.dartslive.com/jp/shop/03a434c57ba616930d9b047a20a7ba1e">ラウンドワン大分店</a>|<a href="/darts/rank/大分県/大分市">大分県大分市</a>|
+|24|701|こじこじ神戸@MIU|<a href="https://search.dartslive.com/jp/shop/03a434c57ba616930d9b047a20a7ba1e">ラウンドワン大分店</a>|<a href="/darts/rank/大分県/大分市">大分県大分市</a>|
+|25|687|Pyons|<a href="https://search.dartslive.com/jp/shop/03a434c57ba616930d9b047a20a7ba1e">ラウンドワン大分店</a>|<a href="/darts/rank/大分県/大分市">大分県大分市</a>|
+|26|683|まえだ|<a href="https://search.dartslive.com/jp/shop/03a434c57ba616930d9b047a20a7ba1e">ラウンドワン大分店</a>|<a href="/darts/rank/大分県/大分市">大分県大分市</a>|
+|27|661|fukkun|<a href="https://search.dartslive.com/jp/shop/03a434c57ba616930d9b047a20a7ba1e">ラウンドワン大分店</a>|<a href="/darts/rank/大分県/大分市">大分県大分市</a>|
+|28|617|ゆがモン|<a href="https://search.dartslive.com/jp/shop/03a434c57ba616930d9b047a20a7ba1e">ラウンドワン大分店</a>|<a href="/darts/rank/大分県/大分市">大分県大分市</a>|
+|29|605|NO NAME 3489|<a href="https://search.dartslive.com/jp/shop/03a434c57ba616930d9b047a20a7ba1e">ラウンドワン大分店</a>|<a href="/darts/rank/大分県/大分市">大分県大分市</a>|
+|30|599|ソウ|<a href="https://search.dartslive.com/jp/shop/03a434c57ba616930d9b047a20a7ba1e">ラウンドワン大分店</a>|<a href="/darts/rank/大分県/大分市">大分県大分市</a>|
+|31|566|R.Yoshi|<a href="https://search.dartslive.com/jp/shop/03a434c57ba616930d9b047a20a7ba1e">ラウンドワン大分店</a>|<a href="/darts/rank/大分県/大分市">大分県大分市</a>|
+|32|544|NO NAME 7836|<a href="https://search.dartslive.com/jp/shop/03a434c57ba616930d9b047a20a7ba1e">ラウンドワン大分店</a>|<a href="/darts/rank/大分県/大分市">大分県大分市</a>|
+|33|482|Rennn|<a href="https://search.dartslive.com/jp/shop/03a434c57ba616930d9b047a20a7ba1e">ラウンドワン大分店</a>|<a href="/darts/rank/大分県/大分市">大分県大分市</a>|
+|33|482|Ｊ・Ｈｏｎｅｙ|<a href="https://search.dartslive.com/jp/shop/03a434c57ba616930d9b047a20a7ba1e">ラウンドワン大分店</a>|<a href="/darts/rank/大分県/大分市">大分県大分市</a>|
+|35|481|tarou-77|<a href="https://search.dartslive.com/jp/shop/dd659e59df8e9dbaa3f63593b5358cc4">自遊空間 大分光吉店</a>|<a href="/darts/rank/大分県/大分市">大分県大分市</a>|
+|36|456|なごみん|<a href="https://search.dartslive.com/jp/shop/dd659e59df8e9dbaa3f63593b5358cc4">自遊空間 大分光吉店</a>|<a href="/darts/rank/大分県/大分市">大分県大分市</a>|
+|37|438|もちもちゆで卵|<a href="https://search.dartslive.com/jp/shop/dd659e59df8e9dbaa3f63593b5358cc4">自遊空間 大分光吉店</a>|<a href="/darts/rank/大分県/大分市">大分県大分市</a>|
+|38|431|ゆでたまご|<a href="https://search.dartslive.com/jp/shop/03a434c57ba616930d9b047a20a7ba1e">ラウンドワン大分店</a>|<a href="/darts/rank/大分県/大分市">大分県大分市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:57_
+_last update : 2024/01/21 13:39:08_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

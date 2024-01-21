@@ -14,12 +14,23 @@ ___
 {:.table-ranking}
 |ランク|スコア|名前|店名|所在地|
 |---|---|---|---|---|
+|1|771|KAZU|<a href="https://search.dartslive.com/jp/shop/da86f66bef458f7d0d9b047a20a7ba1e">YOI</a>|<a href="/darts/rank/三重県/桑名市">三重県桑名市</a>|
+|2|754|きのこ|<a href="https://search.dartslive.com/jp/shop/da86f66bef458f7d0d9b047a20a7ba1e">YOI</a>|<a href="/darts/rank/三重県/桑名市">三重県桑名市</a>|
+|3|717|フー(^^;)|<a href="https://search.dartslive.com/jp/shop/da86f66bef458f7d0d9b047a20a7ba1e">YOI</a>|<a href="/darts/rank/三重県/桑名市">三重県桑名市</a>|
+|4|669|yuki|<a href="https://search.dartslive.com/jp/shop/da86f66bef458f7d0d9b047a20a7ba1e">YOI</a>|<a href="/darts/rank/三重県/桑名市">三重県桑名市</a>|
+|5|574|けらんちむ|<a href="https://search.dartslive.com/jp/shop/da86f66bef458f7d0d9b047a20a7ba1e">YOI</a>|<a href="/darts/rank/三重県/桑名市">三重県桑名市</a>|
+|6|538|いっせい|<a href="https://search.dartslive.com/jp/shop/da86f66bef458f7d0d9b047a20a7ba1e">YOI</a>|<a href="/darts/rank/三重県/桑名市">三重県桑名市</a>|
+|7|529|みのるだよい|<a href="https://search.dartslive.com/jp/shop/da86f66bef458f7d0d9b047a20a7ba1e">YOI</a>|<a href="/darts/rank/三重県/桑名市">三重県桑名市</a>|
+|8|520|ゆ|<a href="https://search.dartslive.com/jp/shop/da86f66bef458f7d0d9b047a20a7ba1e">YOI</a>|<a href="/darts/rank/三重県/桑名市">三重県桑名市</a>|
+|9|505|もやし|<a href="https://search.dartslive.com/jp/shop/da86f66bef458f7d0d9b047a20a7ba1e">YOI</a>|<a href="/darts/rank/三重県/桑名市">三重県桑名市</a>|
+|10|370|ちーかま|<a href="https://search.dartslive.com/jp/shop/da86f66bef458f7d0d9b047a20a7ba1e">YOI</a>|<a href="/darts/rank/三重県/桑名市">三重県桑名市</a>|
+|11|275|( ◠‿◠ )|<a href="https://search.dartslive.com/jp/shop/da86f66bef458f7d0d9b047a20a7ba1e">YOI</a>|<a href="/darts/rank/三重県/桑名市">三重県桑名市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:54_
+_last update : 2024/01/21 13:39:03_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

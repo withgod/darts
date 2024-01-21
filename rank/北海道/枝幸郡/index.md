@@ -26,16 +26,16 @@ ___
 |10|587|YUZURU|<a href="https://search.dartslive.com/jp/shop/4635f9e35f90bbc60d9b047a20a7ba1e">bar alegria</a>|<a href="/darts/rank/北海道/枝幸郡">北海道枝幸郡</a>|
 |11|549|だーやま。|<a href="https://search.dartslive.com/jp/shop/4635f9e35f90bbc60d9b047a20a7ba1e">bar alegria</a>|<a href="/darts/rank/北海道/枝幸郡">北海道枝幸郡</a>|
 |12|502|風雅|<a href="https://search.dartslive.com/jp/shop/4635f9e35f90bbc60d9b047a20a7ba1e">bar alegria</a>|<a href="/darts/rank/北海道/枝幸郡">北海道枝幸郡</a>|
-|13|449|R|<a href="https://search.dartslive.com/jp/shop/4635f9e35f90bbc60d9b047a20a7ba1e">bar alegria</a>|<a href="/darts/rank/北海道/枝幸郡">北海道枝幸郡</a>|
-|14|433|nk|<a href="https://search.dartslive.com/jp/shop/4635f9e35f90bbc60d9b047a20a7ba1e">bar alegria</a>|<a href="/darts/rank/北海道/枝幸郡">北海道枝幸郡</a>|
-|15|407|おぱんちゅうさぎ|<a href="https://search.dartslive.com/jp/shop/4635f9e35f90bbc60d9b047a20a7ba1e">bar alegria</a>|<a href="/darts/rank/北海道/枝幸郡">北海道枝幸郡</a>|
-|16|358|めそ(=ﾟωﾟ=)|<a href="https://search.dartslive.com/jp/shop/4635f9e35f90bbc60d9b047a20a7ba1e">bar alegria</a>|<a href="/darts/rank/北海道/枝幸郡">北海道枝幸郡</a>|
+|13|470|めそ(=ﾟωﾟ=)|<a href="https://search.dartslive.com/jp/shop/4635f9e35f90bbc60d9b047a20a7ba1e">bar alegria</a>|<a href="/darts/rank/北海道/枝幸郡">北海道枝幸郡</a>|
+|14|449|R|<a href="https://search.dartslive.com/jp/shop/4635f9e35f90bbc60d9b047a20a7ba1e">bar alegria</a>|<a href="/darts/rank/北海道/枝幸郡">北海道枝幸郡</a>|
+|15|433|nk|<a href="https://search.dartslive.com/jp/shop/4635f9e35f90bbc60d9b047a20a7ba1e">bar alegria</a>|<a href="/darts/rank/北海道/枝幸郡">北海道枝幸郡</a>|
+|16|407|おぱんちゅうさぎ|<a href="https://search.dartslive.com/jp/shop/4635f9e35f90bbc60d9b047a20a7ba1e">bar alegria</a>|<a href="/darts/rank/北海道/枝幸郡">北海道枝幸郡</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:48_
+_last update : 2024/01/21 13:38:53_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

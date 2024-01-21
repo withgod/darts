@@ -43,12 +43,12 @@ ___
 |27|811|ｴﾐｻﾝﾌﾞﾗｯｸOldAge|<a href="https://search.dartslive.com/jp/shop/a860ce8577e703200d9b047a20a7ba1e">Bull's Black</a>|<a href="/darts/rank/千葉県/四街道市">千葉県四街道市</a>|
 |27|811|ｴﾐﾌｪｰｳﾞﾙ♞OldAge|<a href="https://search.dartslive.com/jp/shop/a860ce8577e703200d9b047a20a7ba1e">Bull's Black</a>|<a href="/darts/rank/千葉県/四街道市">千葉県四街道市</a>|
 |29|810|柴田 健寿|<a href="https://search.dartslive.com/jp/shop/a860ce8577e703200d9b047a20a7ba1e">Bull's Black</a>|<a href="/darts/rank/千葉県/四街道市">千葉県四街道市</a>|
-|30|789|あみゆか|<a href="https://search.dartslive.com/jp/shop/a860ce8577e703200d9b047a20a7ba1e">Bull's Black</a>|<a href="/darts/rank/千葉県/四街道市">千葉県四街道市</a>|
-|31|769|YKDᗦ↞◃りな|<a href="https://search.dartslive.com/jp/shop/a860ce8577e703200d9b047a20a7ba1e">Bull's Black</a>|<a href="/darts/rank/千葉県/四街道市">千葉県四街道市</a>|
-|32|763|井能 実奈子|<a href="https://search.dartslive.com/jp/shop/a860ce8577e703200d9b047a20a7ba1e">Bull's Black</a>|<a href="/darts/rank/千葉県/四街道市">千葉県四街道市</a>|
-|33|747|YKD♪もりちゃん|<a href="https://search.dartslive.com/jp/shop/a860ce8577e703200d9b047a20a7ba1e">Bull's Black</a>|<a href="/darts/rank/千葉県/四街道市">千葉県四街道市</a>|
-|34|737|調子者はるちゃん|<a href="https://search.dartslive.com/jp/shop/a860ce8577e703200d9b047a20a7ba1e">Bull's Black</a>|<a href="/darts/rank/千葉県/四街道市">千葉県四街道市</a>|
-|35|722|YKD48♛ひろぽん|<a href="https://search.dartslive.com/jp/shop/a860ce8577e703200d9b047a20a7ba1e">Bull's Black</a>|<a href="/darts/rank/千葉県/四街道市">千葉県四街道市</a>|
+|30|794|YKD48♛ひろぽん|<a href="https://search.dartslive.com/jp/shop/a860ce8577e703200d9b047a20a7ba1e">Bull's Black</a>|<a href="/darts/rank/千葉県/四街道市">千葉県四街道市</a>|
+|31|789|あみゆか|<a href="https://search.dartslive.com/jp/shop/a860ce8577e703200d9b047a20a7ba1e">Bull's Black</a>|<a href="/darts/rank/千葉県/四街道市">千葉県四街道市</a>|
+|32|769|YKDᗦ↞◃りな|<a href="https://search.dartslive.com/jp/shop/a860ce8577e703200d9b047a20a7ba1e">Bull's Black</a>|<a href="/darts/rank/千葉県/四街道市">千葉県四街道市</a>|
+|33|763|井能 実奈子|<a href="https://search.dartslive.com/jp/shop/a860ce8577e703200d9b047a20a7ba1e">Bull's Black</a>|<a href="/darts/rank/千葉県/四街道市">千葉県四街道市</a>|
+|34|747|YKD♪もりちゃん|<a href="https://search.dartslive.com/jp/shop/a860ce8577e703200d9b047a20a7ba1e">Bull's Black</a>|<a href="/darts/rank/千葉県/四街道市">千葉県四街道市</a>|
+|35|737|調子者はるちゃん|<a href="https://search.dartslive.com/jp/shop/a860ce8577e703200d9b047a20a7ba1e">Bull's Black</a>|<a href="/darts/rank/千葉県/四街道市">千葉県四街道市</a>|
 |36|713|YKD mai|<a href="https://search.dartslive.com/jp/shop/a860ce8577e703200d9b047a20a7ba1e">Bull's Black</a>|<a href="/darts/rank/千葉県/四街道市">千葉県四街道市</a>|
 |37|701|BanGaRanG SEIYA|<a href="https://search.dartslive.com/jp/shop/a860ce8577e703200d9b047a20a7ba1e">Bull's Black</a>|<a href="/darts/rank/千葉県/四街道市">千葉県四街道市</a>|
 |38|646|リトルj-cobu|<a href="https://search.dartslive.com/jp/shop/a860ce8577e703200d9b047a20a7ba1e">Bull's Black</a>|<a href="/darts/rank/千葉県/四街道市">千葉県四街道市</a>|
@@ -59,7 +59,7 @@ ___
 
 ___
 
-_last update : 2024/01/21 03:05:51_
+_last update : 2024/01/21 13:38:57_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

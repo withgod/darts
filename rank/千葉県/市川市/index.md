@@ -15,11 +15,11 @@ ___
 |ランク|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|1200|畦元 隆成|<a href="https://search.dartslive.com/jp/shop/2f81f7da044713950d9b047a20a7ba1e">3peace 行徳</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|2|1163|ちんすこう山口|<a href="https://search.dartslive.com/jp/shop/447d3cfae301d9a5a3f63593b5358cc4">快活CLUB 市川駅前店</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|3|1159|む〜|<a href="https://search.dartslive.com/jp/shop/2f81f7da044713950d9b047a20a7ba1e">3peace 行徳</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|4|1152|粕谷　晋|<a href="https://search.dartslive.com/jp/shop/905be60ca04635390d9b047a20a7ba1e">トイボックス＋</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|5|1148|土井 大輝|<a href="https://search.dartslive.com/jp/shop/2f81f7da044713950d9b047a20a7ba1e">3peace 行徳</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|6|1114|大塚【ＤＯ】大輔|<a href="https://search.dartslive.com/jp/shop/aadbb4357501b4ae0d9b047a20a7ba1e">DaRGON.GB</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|2|1167|畠山和己|<a href="https://search.dartslive.com/jp/shop/2f81f7da044713950d9b047a20a7ba1e">3peace 行徳</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|3|1163|ちんすこう山口|<a href="https://search.dartslive.com/jp/shop/447d3cfae301d9a5a3f63593b5358cc4">快活CLUB 市川駅前店</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|4|1159|む〜|<a href="https://search.dartslive.com/jp/shop/2f81f7da044713950d9b047a20a7ba1e">3peace 行徳</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|5|1152|粕谷　晋|<a href="https://search.dartslive.com/jp/shop/905be60ca04635390d9b047a20a7ba1e">トイボックス＋</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|6|1148|土井 大輝|<a href="https://search.dartslive.com/jp/shop/2f81f7da044713950d9b047a20a7ba1e">3peace 行徳</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
 |7|1112|ジョー☆龍神|<a href="https://search.dartslive.com/jp/shop/aadbb4357501b4ae0d9b047a20a7ba1e">DaRGON.GB</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
 |8|1111|REVO☆N9A|<a href="https://search.dartslive.com/jp/shop/905be60ca04635390d9b047a20a7ba1e">トイボックス＋</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
 |8|1111|福井 和希|<a href="https://search.dartslive.com/jp/shop/447d3cfae301d9a5a3f63593b5358cc4">快活CLUB 市川駅前店</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
@@ -55,71 +55,71 @@ ___
 |39|1002|N|<a href="https://search.dartslive.com/jp/shop/447d3cfae301d9a5a3f63593b5358cc4">快活CLUB 市川駅前店</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
 |40|999|ω･)Ｔ∀Ｋ∀(･ω|<a href="https://search.dartslive.com/jp/shop/905be60ca04635390d9b047a20a7ba1e">トイボックス＋</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
 |40|999|大塚 広樹|<a href="https://search.dartslive.com/jp/shop/2f81f7da044713950d9b047a20a7ba1e">3peace 行徳</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|42|998|畠山和己|<a href="https://search.dartslive.com/jp/shop/2f81f7da044713950d9b047a20a7ba1e">3peace 行徳</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|43|997|つかひろ|<a href="https://search.dartslive.com/jp/shop/2f81f7da044713950d9b047a20a7ba1e">3peace 行徳</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|44|996|荒木 大春|<a href="https://search.dartslive.com/jp/shop/905be60ca04635390d9b047a20a7ba1e">トイボックス＋</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|44|996|ﾊﾞﾙｶﾝ300 ｼﾞｴﾝﾄﾞ|<a href="https://search.dartslive.com/jp/shop/19a5b0ef4b47581a0d9b047a20a7ba1e">ラウンドワン市川鬼高店</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|46|990|ﾅﾍﾞ初老んｼﾞｬｰｽﾞ|<a href="https://search.dartslive.com/jp/shop/19a5b0ef4b47581a0d9b047a20a7ba1e">ラウンドワン市川鬼高店</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|47|985|けんじ|<a href="https://search.dartslive.com/jp/shop/c4147f7fa308279c0d9b047a20a7ba1e">X-VANGUARD</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|48|984|♠ Notty ♠|<a href="https://search.dartslive.com/jp/shop/19a5b0ef4b47581a0d9b047a20a7ba1e">ラウンドワン市川鬼高店</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|49|982|①tooN★しーくん|<a href="https://search.dartslive.com/jp/shop/447d3cfae301d9a5a3f63593b5358cc4">快活CLUB 市川駅前店</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|50|981|那覇|<a href="https://search.dartslive.com/jp/shop/19a5b0ef4b47581a0d9b047a20a7ba1e">ラウンドワン市川鬼高店</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|51|979|古間 進二朗|<a href="https://search.dartslive.com/jp/shop/1a964311b027e7e70d9b047a20a7ba1e">Monstera Cafe</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|52|976|石井　勇希　35歳|<a href="https://search.dartslive.com/jp/shop/c4147f7fa308279c0d9b047a20a7ba1e">X-VANGUARD</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|53|971|[246&#x27;ers]OHTSUKA|<a href="https://search.dartslive.com/jp/shop/447d3cfae301d9a5a3f63593b5358cc4">快活CLUB 市川駅前店</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|53|971|リょーーー帽子屋|<a href="https://search.dartslive.com/jp/shop/905be60ca04635390d9b047a20a7ba1e">トイボックス＋</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|53|971|リオ(Shuu)|<a href="https://search.dartslive.com/jp/shop/0c8fa02d74da73a40d9b047a20a7ba1e">カフェ&ダーツバーshuu</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|56|970|アキヒデ∑(ﾟДﾟ)|<a href="https://search.dartslive.com/jp/shop/19a5b0ef4b47581a0d9b047a20a7ba1e">ラウンドワン市川鬼高店</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|57|968|塩原 綾乃|<a href="https://search.dartslive.com/jp/shop/1a964311b027e7e70d9b047a20a7ba1e">Monstera Cafe</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|58|967|のり@TOYBOX|<a href="https://search.dartslive.com/jp/shop/905be60ca04635390d9b047a20a7ba1e">トイボックス＋</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|59|966|なまはげ@中川家|<a href="https://search.dartslive.com/jp/shop/c4147f7fa308279c0d9b047a20a7ba1e">X-VANGUARD</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|59|966|クッパjr.|<a href="https://search.dartslive.com/jp/shop/19a5b0ef4b47581a0d9b047a20a7ba1e">ラウンドワン市川鬼高店</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|61|965|つっつん|<a href="https://search.dartslive.com/jp/shop/2f81f7da044713950d9b047a20a7ba1e">3peace 行徳</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|62|964|yuya【perfect】|<a href="https://search.dartslive.com/jp/shop/1a964311b027e7e70d9b047a20a7ba1e">Monstera Cafe</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|62|964|ゆいちん♥下野組|<a href="https://search.dartslive.com/jp/shop/1a964311b027e7e70d9b047a20a7ba1e">Monstera Cafe</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|64|963|シモピー|<a href="https://search.dartslive.com/jp/shop/447d3cfae301d9a5a3f63593b5358cc4">快活CLUB 市川駅前店</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|65|962|tsuki|<a href="https://search.dartslive.com/jp/shop/905be60ca04635390d9b047a20a7ba1e">トイボックス＋</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|65|962|浜崎祥悟|<a href="https://search.dartslive.com/jp/shop/905be60ca04635390d9b047a20a7ba1e">トイボックス＋</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|65|962|ｍ-shay:1‡10|<a href="https://search.dartslive.com/jp/shop/447d3cfae301d9a5a3f63593b5358cc4">快活CLUB 市川駅前店</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|68|961|みちを|<a href="https://search.dartslive.com/jp/shop/aadbb4357501b4ae0d9b047a20a7ba1e">DaRGON.GB</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|69|960|MASASHI X5|<a href="https://search.dartslive.com/jp/shop/447d3cfae301d9a5a3f63593b5358cc4">快活CLUB 市川駅前店</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|69|960|τ.κ|<a href="https://search.dartslive.com/jp/shop/aadbb4357501b4ae0d9b047a20a7ba1e">DaRGON.GB</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|69|960|こーたまん|<a href="https://search.dartslive.com/jp/shop/2f81f7da044713950d9b047a20a7ba1e">3peace 行徳</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|69|960|さと～|<a href="https://search.dartslive.com/jp/shop/1a964311b027e7e70d9b047a20a7ba1e">Monstera Cafe</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|69|960|ジェイ★くん|<a href="https://search.dartslive.com/jp/shop/19a5b0ef4b47581a0d9b047a20a7ba1e">ラウンドワン市川鬼高店</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|74|959|STYLE×いぶお|<a href="https://search.dartslive.com/jp/shop/aadbb4357501b4ae0d9b047a20a7ba1e">DaRGON.GB</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|75|957|246&#x27;ers 町田商店|<a href="https://search.dartslive.com/jp/shop/447d3cfae301d9a5a3f63593b5358cc4">快活CLUB 市川駅前店</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|75|957|広瀬貴久＊A-FLOW|<a href="https://search.dartslive.com/jp/shop/aadbb4357501b4ae0d9b047a20a7ba1e">DaRGON.GB</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|77|955|daichi|<a href="https://search.dartslive.com/jp/shop/447d3cfae301d9a5a3f63593b5358cc4">快活CLUB 市川駅前店</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|78|953|ゆう|<a href="https://search.dartslive.com/jp/shop/905be60ca04635390d9b047a20a7ba1e">トイボックス＋</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|79|952|たつ|<a href="https://search.dartslive.com/jp/shop/905be60ca04635390d9b047a20a7ba1e">トイボックス＋</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|80|946|鈴木 優美|<a href="https://search.dartslive.com/jp/shop/905be60ca04635390d9b047a20a7ba1e">トイボックス＋</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|81|945|pikatatu|<a href="https://search.dartslive.com/jp/shop/19a5b0ef4b47581a0d9b047a20a7ba1e">ラウンドワン市川鬼高店</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|81|945|さかひ卍Harrows|<a href="https://search.dartslive.com/jp/shop/1a964311b027e7e70d9b047a20a7ba1e">Monstera Cafe</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|81|945|まさちゅん|<a href="https://search.dartslive.com/jp/shop/aadbb4357501b4ae0d9b047a20a7ba1e">DaRGON.GB</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|84|944|Tagi|<a href="https://search.dartslive.com/jp/shop/c4147f7fa308279c0d9b047a20a7ba1e">X-VANGUARD</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|85|941|くまくま|<a href="https://search.dartslive.com/jp/shop/2f81f7da044713950d9b047a20a7ba1e">3peace 行徳</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|86|940|ﾊﾞﾝｶﾞﾗﾝｸﾞ ｽｰﾊﾟｰJ|<a href="https://search.dartslive.com/jp/shop/0c8fa02d74da73a40d9b047a20a7ba1e">カフェ&ダーツバーshuu</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|87|937|きむむむむむぅ|<a href="https://search.dartslive.com/jp/shop/905be60ca04635390d9b047a20a7ba1e">トイボックス＋</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|88|936|Yuya Akahori|<a href="https://search.dartslive.com/jp/shop/19a5b0ef4b47581a0d9b047a20a7ba1e">ラウンドワン市川鬼高店</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|88|936|hiro@other side|<a href="https://search.dartslive.com/jp/shop/cae4a34940eb10ce0d9b047a20a7ba1e">other side</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|90|935|のり|<a href="https://search.dartslive.com/jp/shop/c4147f7fa308279c0d9b047a20a7ba1e">X-VANGUARD</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|91|934|ToyBox×ﾘｯﾁｬﾝ|<a href="https://search.dartslive.com/jp/shop/905be60ca04635390d9b047a20a7ba1e">トイボックス＋</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|91|934|加藤 一輝|<a href="https://search.dartslive.com/jp/shop/905be60ca04635390d9b047a20a7ba1e">トイボックス＋</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|93|933|イヴ・ビスマ|<a href="https://search.dartslive.com/jp/shop/447d3cfae301d9a5a3f63593b5358cc4">快活CLUB 市川駅前店</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|94|931|古間 進二朗|<a href="https://search.dartslive.com/jp/shop/2f81f7da044713950d9b047a20a7ba1e">3peace 行徳</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|95|929|イックン|<a href="https://search.dartslive.com/jp/shop/2f81f7da044713950d9b047a20a7ba1e">3peace 行徳</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|96|928|中川 聖士|<a href="https://search.dartslive.com/jp/shop/2f81f7da044713950d9b047a20a7ba1e">3peace 行徳</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|97|925|おぱんちゅﾀﾞｲｽｹ|<a href="https://search.dartslive.com/jp/shop/ba0e1e08d16507120d9b047a20a7ba1e">長太郎 行徳ﾊﾞｲﾊﾟｽ店</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|98|924|STYLE×いぶお|<a href="https://search.dartslive.com/jp/shop/19a5b0ef4b47581a0d9b047a20a7ba1e">ラウンドワン市川鬼高店</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|98|924|ギスコ・ンイケ|<a href="https://search.dartslive.com/jp/shop/ba0e1e08d16507120d9b047a20a7ba1e">長太郎 行徳ﾊﾞｲﾊﾟｽ店</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
-|100|921|ひでまろ|<a href="https://search.dartslive.com/jp/shop/c4147f7fa308279c0d9b047a20a7ba1e">X-VANGUARD</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|42|997|つかひろ|<a href="https://search.dartslive.com/jp/shop/2f81f7da044713950d9b047a20a7ba1e">3peace 行徳</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|43|996|荒木 大春|<a href="https://search.dartslive.com/jp/shop/905be60ca04635390d9b047a20a7ba1e">トイボックス＋</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|43|996|ﾊﾞﾙｶﾝ300 ｼﾞｴﾝﾄﾞ|<a href="https://search.dartslive.com/jp/shop/19a5b0ef4b47581a0d9b047a20a7ba1e">ラウンドワン市川鬼高店</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|45|990|ﾅﾍﾞ初老んｼﾞｬｰｽﾞ|<a href="https://search.dartslive.com/jp/shop/19a5b0ef4b47581a0d9b047a20a7ba1e">ラウンドワン市川鬼高店</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|46|985|けんじ|<a href="https://search.dartslive.com/jp/shop/c4147f7fa308279c0d9b047a20a7ba1e">X-VANGUARD</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|47|984|♠ Notty ♠|<a href="https://search.dartslive.com/jp/shop/19a5b0ef4b47581a0d9b047a20a7ba1e">ラウンドワン市川鬼高店</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|48|982|①tooN★しーくん|<a href="https://search.dartslive.com/jp/shop/447d3cfae301d9a5a3f63593b5358cc4">快活CLUB 市川駅前店</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|49|981|那覇|<a href="https://search.dartslive.com/jp/shop/19a5b0ef4b47581a0d9b047a20a7ba1e">ラウンドワン市川鬼高店</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|50|979|古間 進二朗|<a href="https://search.dartslive.com/jp/shop/1a964311b027e7e70d9b047a20a7ba1e">Monstera Cafe</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|51|976|石井　勇希　35歳|<a href="https://search.dartslive.com/jp/shop/c4147f7fa308279c0d9b047a20a7ba1e">X-VANGUARD</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|52|971|[246&#x27;ers]OHTSUKA|<a href="https://search.dartslive.com/jp/shop/447d3cfae301d9a5a3f63593b5358cc4">快活CLUB 市川駅前店</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|52|971|リょーーー帽子屋|<a href="https://search.dartslive.com/jp/shop/905be60ca04635390d9b047a20a7ba1e">トイボックス＋</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|52|971|リオ(Shuu)|<a href="https://search.dartslive.com/jp/shop/0c8fa02d74da73a40d9b047a20a7ba1e">カフェ&ダーツバーshuu</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|55|970|アキヒデ∑(ﾟДﾟ)|<a href="https://search.dartslive.com/jp/shop/19a5b0ef4b47581a0d9b047a20a7ba1e">ラウンドワン市川鬼高店</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|56|968|塩原 綾乃|<a href="https://search.dartslive.com/jp/shop/1a964311b027e7e70d9b047a20a7ba1e">Monstera Cafe</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|57|967|のり@TOYBOX|<a href="https://search.dartslive.com/jp/shop/905be60ca04635390d9b047a20a7ba1e">トイボックス＋</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|58|966|なまはげ@中川家|<a href="https://search.dartslive.com/jp/shop/c4147f7fa308279c0d9b047a20a7ba1e">X-VANGUARD</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|58|966|クッパjr.|<a href="https://search.dartslive.com/jp/shop/19a5b0ef4b47581a0d9b047a20a7ba1e">ラウンドワン市川鬼高店</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|60|965|つっつん|<a href="https://search.dartslive.com/jp/shop/2f81f7da044713950d9b047a20a7ba1e">3peace 行徳</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|61|964|yuya【perfect】|<a href="https://search.dartslive.com/jp/shop/1a964311b027e7e70d9b047a20a7ba1e">Monstera Cafe</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|61|964|ゆいちん♥下野組|<a href="https://search.dartslive.com/jp/shop/1a964311b027e7e70d9b047a20a7ba1e">Monstera Cafe</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|63|963|シモピー|<a href="https://search.dartslive.com/jp/shop/447d3cfae301d9a5a3f63593b5358cc4">快活CLUB 市川駅前店</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|64|962|tsuki|<a href="https://search.dartslive.com/jp/shop/905be60ca04635390d9b047a20a7ba1e">トイボックス＋</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|64|962|浜崎祥悟|<a href="https://search.dartslive.com/jp/shop/905be60ca04635390d9b047a20a7ba1e">トイボックス＋</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|64|962|ｍ-shay:1‡10|<a href="https://search.dartslive.com/jp/shop/447d3cfae301d9a5a3f63593b5358cc4">快活CLUB 市川駅前店</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|67|961|みちを|<a href="https://search.dartslive.com/jp/shop/aadbb4357501b4ae0d9b047a20a7ba1e">DaRGON.GB</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|68|960|MASASHI X5|<a href="https://search.dartslive.com/jp/shop/447d3cfae301d9a5a3f63593b5358cc4">快活CLUB 市川駅前店</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|68|960|τ.κ|<a href="https://search.dartslive.com/jp/shop/aadbb4357501b4ae0d9b047a20a7ba1e">DaRGON.GB</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|68|960|こーたまん|<a href="https://search.dartslive.com/jp/shop/2f81f7da044713950d9b047a20a7ba1e">3peace 行徳</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|68|960|さと～|<a href="https://search.dartslive.com/jp/shop/1a964311b027e7e70d9b047a20a7ba1e">Monstera Cafe</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|68|960|ジェイ★くん|<a href="https://search.dartslive.com/jp/shop/19a5b0ef4b47581a0d9b047a20a7ba1e">ラウンドワン市川鬼高店</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|73|959|STYLE×いぶお|<a href="https://search.dartslive.com/jp/shop/aadbb4357501b4ae0d9b047a20a7ba1e">DaRGON.GB</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|74|957|246&#x27;ers 町田商店|<a href="https://search.dartslive.com/jp/shop/447d3cfae301d9a5a3f63593b5358cc4">快活CLUB 市川駅前店</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|74|957|広瀬貴久＊A-FLOW|<a href="https://search.dartslive.com/jp/shop/aadbb4357501b4ae0d9b047a20a7ba1e">DaRGON.GB</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|76|955|daichi|<a href="https://search.dartslive.com/jp/shop/447d3cfae301d9a5a3f63593b5358cc4">快活CLUB 市川駅前店</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|77|953|ゆう|<a href="https://search.dartslive.com/jp/shop/905be60ca04635390d9b047a20a7ba1e">トイボックス＋</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|78|952|たつ|<a href="https://search.dartslive.com/jp/shop/905be60ca04635390d9b047a20a7ba1e">トイボックス＋</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|79|946|鈴木 優美|<a href="https://search.dartslive.com/jp/shop/905be60ca04635390d9b047a20a7ba1e">トイボックス＋</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|80|945|pikatatu|<a href="https://search.dartslive.com/jp/shop/19a5b0ef4b47581a0d9b047a20a7ba1e">ラウンドワン市川鬼高店</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|80|945|さかひ卍Harrows|<a href="https://search.dartslive.com/jp/shop/1a964311b027e7e70d9b047a20a7ba1e">Monstera Cafe</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|80|945|まさちゅん|<a href="https://search.dartslive.com/jp/shop/aadbb4357501b4ae0d9b047a20a7ba1e">DaRGON.GB</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|83|944|Tagi|<a href="https://search.dartslive.com/jp/shop/c4147f7fa308279c0d9b047a20a7ba1e">X-VANGUARD</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|84|941|くまくま|<a href="https://search.dartslive.com/jp/shop/2f81f7da044713950d9b047a20a7ba1e">3peace 行徳</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|85|940|ﾊﾞﾝｶﾞﾗﾝｸﾞ ｽｰﾊﾟｰJ|<a href="https://search.dartslive.com/jp/shop/0c8fa02d74da73a40d9b047a20a7ba1e">カフェ&ダーツバーshuu</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|86|937|きむむむむむぅ|<a href="https://search.dartslive.com/jp/shop/905be60ca04635390d9b047a20a7ba1e">トイボックス＋</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|87|936|Yuya Akahori|<a href="https://search.dartslive.com/jp/shop/19a5b0ef4b47581a0d9b047a20a7ba1e">ラウンドワン市川鬼高店</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|87|936|hiro@other side|<a href="https://search.dartslive.com/jp/shop/cae4a34940eb10ce0d9b047a20a7ba1e">other side</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|89|935|のり|<a href="https://search.dartslive.com/jp/shop/c4147f7fa308279c0d9b047a20a7ba1e">X-VANGUARD</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|90|934|ToyBox×ﾘｯﾁｬﾝ|<a href="https://search.dartslive.com/jp/shop/905be60ca04635390d9b047a20a7ba1e">トイボックス＋</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|90|934|加藤 一輝|<a href="https://search.dartslive.com/jp/shop/905be60ca04635390d9b047a20a7ba1e">トイボックス＋</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|92|933|イヴ・ビスマ|<a href="https://search.dartslive.com/jp/shop/447d3cfae301d9a5a3f63593b5358cc4">快活CLUB 市川駅前店</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|93|931|古間 進二朗|<a href="https://search.dartslive.com/jp/shop/2f81f7da044713950d9b047a20a7ba1e">3peace 行徳</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|94|929|イックン|<a href="https://search.dartslive.com/jp/shop/2f81f7da044713950d9b047a20a7ba1e">3peace 行徳</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|95|928|中川 聖士|<a href="https://search.dartslive.com/jp/shop/2f81f7da044713950d9b047a20a7ba1e">3peace 行徳</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|96|925|おぱんちゅﾀﾞｲｽｹ|<a href="https://search.dartslive.com/jp/shop/ba0e1e08d16507120d9b047a20a7ba1e">長太郎 行徳ﾊﾞｲﾊﾟｽ店</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|97|924|STYLE×いぶお|<a href="https://search.dartslive.com/jp/shop/19a5b0ef4b47581a0d9b047a20a7ba1e">ラウンドワン市川鬼高店</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|97|924|ギスコ・ンイケ|<a href="https://search.dartslive.com/jp/shop/ba0e1e08d16507120d9b047a20a7ba1e">長太郎 行徳ﾊﾞｲﾊﾟｽ店</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|99|921|ひでまろ|<a href="https://search.dartslive.com/jp/shop/c4147f7fa308279c0d9b047a20a7ba1e">X-VANGUARD</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
+|100|919|たく|<a href="https://search.dartslive.com/jp/shop/19a5b0ef4b47581a0d9b047a20a7ba1e">ラウンドワン市川鬼高店</a>|<a href="/darts/rank/千葉県/市川市">千葉県市川市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:51_
+_last update : 2024/01/21 13:38:57_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

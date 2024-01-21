@@ -74,29 +74,26 @@ ___
 |58|557|カワキヨ|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
 |59|551|gatu#|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
 |60|536|ありさ＠ｽｲｯﾁON|<a href="https://search.dartslive.com/jp/shop/3d628138ddc25d9225d56fb0e5c39bac">三代目ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|61|506|小吉@スイッチON|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|62|504|nomaru|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|63|497|銀のしっぽ|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|64|490|にゃんころりん|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|65|487|こったん☆|<a href="https://search.dartslive.com/jp/shop/3d628138ddc25d9225d56fb0e5c39bac">三代目ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|66|482|♪&amp;ずー&amp;♪|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|67|475|くろ|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|68|471|☆hiro☆|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|69|469|ダミィ|<a href="https://search.dartslive.com/jp/shop/3d628138ddc25d9225d56fb0e5c39bac">三代目ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|70|462|え|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|71|449|くろ|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|72|409|くみ姐|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|73|406|きゃんたま|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|74|404|くみ姐|<a href="https://search.dartslive.com/jp/shop/3d628138ddc25d9225d56fb0e5c39bac">三代目ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|75|347|NO NAME 0609|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|76|312|Waaaai26|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|77|308|TAIYO|<a href="https://search.dartslive.com/jp/shop/3d628138ddc25d9225d56fb0e5c39bac">三代目ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|61|504|nomaru|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|62|497|銀のしっぽ|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|63|490|にゃんころりん|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|64|487|こったん☆|<a href="https://search.dartslive.com/jp/shop/3d628138ddc25d9225d56fb0e5c39bac">三代目ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|65|482|♪&amp;ずー&amp;♪|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|66|475|くろ|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|67|471|☆hiro☆|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|68|469|ダミィ|<a href="https://search.dartslive.com/jp/shop/3d628138ddc25d9225d56fb0e5c39bac">三代目ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|69|462|え|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|70|449|くろ|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|71|409|くみ姐|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|72|406|きゃんたま|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|73|404|くみ姐|<a href="https://search.dartslive.com/jp/shop/3d628138ddc25d9225d56fb0e5c39bac">三代目ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|74|308|TAIYO|<a href="https://search.dartslive.com/jp/shop/3d628138ddc25d9225d56fb0e5c39bac">三代目ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:54_
+_last update : 2024/01/21 13:39:02_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

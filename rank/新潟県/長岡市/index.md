@@ -84,28 +84,23 @@ ___
 |68|534|こーじですが！?|<a href="https://search.dartslive.com/jp/shop/8195218bfd5107705f9f3321c1147265">BAD BEAT</a>|<a href="/darts/rank/新潟県/長岡市">新潟県長岡市</a>|
 |69|526|SHIBU|<a href="https://search.dartslive.com/jp/shop/8195218bfd5107705f9f3321c1147265">BAD BEAT</a>|<a href="/darts/rank/新潟県/長岡市">新潟県長岡市</a>|
 |70|525|ロビン|<a href="https://search.dartslive.com/jp/shop/091b410a1be5ff2da3f63593b5358cc4">アピナ長岡店</a>|<a href="/darts/rank/新潟県/長岡市">新潟県長岡市</a>|
-|71|520|さちこ|<a href="https://search.dartslive.com/jp/shop/8f0805438069c86b0d9b047a20a7ba1e">UP'S</a>|<a href="/darts/rank/新潟県/長岡市">新潟県長岡市</a>|
-|72|519|RinaMyon...|<a href="https://search.dartslive.com/jp/shop/8f0805438069c86b0d9b047a20a7ba1e">UP'S</a>|<a href="/darts/rank/新潟県/長岡市">新潟県長岡市</a>|
-|73|499|ฅKYONฅ|<a href="https://search.dartslive.com/jp/shop/8195218bfd5107705f9f3321c1147265">BAD BEAT</a>|<a href="/darts/rank/新潟県/長岡市">新潟県長岡市</a>|
-|74|460|KANATO#RED|<a href="https://search.dartslive.com/jp/shop/e91ecbc110d68b220d9b047a20a7ba1e">カフェバー　ラウンジ</a>|<a href="/darts/rank/新潟県/長岡市">新潟県長岡市</a>|
-|75|425|み|<a href="https://search.dartslive.com/jp/shop/db5814e798b8d32b5f9f3321c1147265">Lounge Link</a>|<a href="/darts/rank/新潟県/長岡市">新潟県長岡市</a>|
-|76|422|kai|<a href="https://search.dartslive.com/jp/shop/091b410a1be5ff2da3f63593b5358cc4">アピナ長岡店</a>|<a href="/darts/rank/新潟県/長岡市">新潟県長岡市</a>|
-|77|420|すず|<a href="https://search.dartslive.com/jp/shop/8f0805438069c86b0d9b047a20a7ba1e">UP'S</a>|<a href="/darts/rank/新潟県/長岡市">新潟県長岡市</a>|
-|78|392|詩生音|<a href="https://search.dartslive.com/jp/shop/091b410a1be5ff2da3f63593b5358cc4">アピナ長岡店</a>|<a href="/darts/rank/新潟県/長岡市">新潟県長岡市</a>|
-|79|374|nao(o・ω・)v-~|<a href="https://search.dartslive.com/jp/shop/e91ecbc110d68b220d9b047a20a7ba1e">カフェバー　ラウンジ</a>|<a href="/darts/rank/新潟県/長岡市">新潟県長岡市</a>|
-|80|369|mase|<a href="https://search.dartslive.com/jp/shop/e91ecbc110d68b220d9b047a20a7ba1e">カフェバー　ラウンジ</a>|<a href="/darts/rank/新潟県/長岡市">新潟県長岡市</a>|
-|81|368|Kuwaman|<a href="https://search.dartslive.com/jp/shop/e91ecbc110d68b220d9b047a20a7ba1e">カフェバー　ラウンジ</a>|<a href="/darts/rank/新潟県/長岡市">新潟県長岡市</a>|
-|82|355|りりあ|<a href="https://search.dartslive.com/jp/shop/db5814e798b8d32b5f9f3321c1147265">Lounge Link</a>|<a href="/darts/rank/新潟県/長岡市">新潟県長岡市</a>|
-|83|345|杏仁豆腐☆彡|<a href="https://search.dartslive.com/jp/shop/e91ecbc110d68b220d9b047a20a7ba1e">カフェバー　ラウンジ</a>|<a href="/darts/rank/新潟県/長岡市">新潟県長岡市</a>|
-|84|342|ゆっぴ健蔵の飼主|<a href="https://search.dartslive.com/jp/shop/8f0805438069c86b0d9b047a20a7ba1e">UP'S</a>|<a href="/darts/rank/新潟県/長岡市">新潟県長岡市</a>|
-|85|337|NO NAME 7239|<a href="https://search.dartslive.com/jp/shop/db5814e798b8d32b5f9f3321c1147265">Lounge Link</a>|<a href="/darts/rank/新潟県/長岡市">新潟県長岡市</a>|
-|86|220|かな|<a href="https://search.dartslive.com/jp/shop/091b410a1be5ff2da3f63593b5358cc4">アピナ長岡店</a>|<a href="/darts/rank/新潟県/長岡市">新潟県長岡市</a>|
+|71|519|RinaMyon...|<a href="https://search.dartslive.com/jp/shop/8f0805438069c86b0d9b047a20a7ba1e">UP'S</a>|<a href="/darts/rank/新潟県/長岡市">新潟県長岡市</a>|
+|72|499|ฅKYONฅ|<a href="https://search.dartslive.com/jp/shop/8195218bfd5107705f9f3321c1147265">BAD BEAT</a>|<a href="/darts/rank/新潟県/長岡市">新潟県長岡市</a>|
+|73|425|み|<a href="https://search.dartslive.com/jp/shop/db5814e798b8d32b5f9f3321c1147265">Lounge Link</a>|<a href="/darts/rank/新潟県/長岡市">新潟県長岡市</a>|
+|74|420|すず|<a href="https://search.dartslive.com/jp/shop/8f0805438069c86b0d9b047a20a7ba1e">UP'S</a>|<a href="/darts/rank/新潟県/長岡市">新潟県長岡市</a>|
+|75|392|詩生音|<a href="https://search.dartslive.com/jp/shop/091b410a1be5ff2da3f63593b5358cc4">アピナ長岡店</a>|<a href="/darts/rank/新潟県/長岡市">新潟県長岡市</a>|
+|76|374|nao(o・ω・)v-~|<a href="https://search.dartslive.com/jp/shop/e91ecbc110d68b220d9b047a20a7ba1e">カフェバー　ラウンジ</a>|<a href="/darts/rank/新潟県/長岡市">新潟県長岡市</a>|
+|77|355|りりあ|<a href="https://search.dartslive.com/jp/shop/db5814e798b8d32b5f9f3321c1147265">Lounge Link</a>|<a href="/darts/rank/新潟県/長岡市">新潟県長岡市</a>|
+|78|345|杏仁豆腐☆彡|<a href="https://search.dartslive.com/jp/shop/e91ecbc110d68b220d9b047a20a7ba1e">カフェバー　ラウンジ</a>|<a href="/darts/rank/新潟県/長岡市">新潟県長岡市</a>|
+|79|342|ゆっぴ健蔵の飼主|<a href="https://search.dartslive.com/jp/shop/8f0805438069c86b0d9b047a20a7ba1e">UP'S</a>|<a href="/darts/rank/新潟県/長岡市">新潟県長岡市</a>|
+|80|337|NO NAME 7239|<a href="https://search.dartslive.com/jp/shop/db5814e798b8d32b5f9f3321c1147265">Lounge Link</a>|<a href="/darts/rank/新潟県/長岡市">新潟県長岡市</a>|
+|81|220|かな|<a href="https://search.dartslive.com/jp/shop/091b410a1be5ff2da3f63593b5358cc4">アピナ長岡店</a>|<a href="/darts/rank/新潟県/長岡市">新潟県長岡市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:53_
+_last update : 2024/01/21 13:38:59_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

@@ -31,26 +31,23 @@ ___
 |15|827|THJT|<a href="https://search.dartslive.com/jp/shop/6441d65a6cb8f7c5774c926eb736cb5a">快活CLUB 津島駅前店</a>|<a href="/darts/rank/愛知県/津島市">愛知県津島市</a>|
 |16|815|tanishi zf1|<a href="https://search.dartslive.com/jp/shop/6441d65a6cb8f7c5774c926eb736cb5a">快活CLUB 津島駅前店</a>|<a href="/darts/rank/愛知県/津島市">愛知県津島市</a>|
 |16|815|〜ひ〜ろ〜|<a href="https://search.dartslive.com/jp/shop/6441d65a6cb8f7c5774c926eb736cb5a">快活CLUB 津島駅前店</a>|<a href="/darts/rank/愛知県/津島市">愛知県津島市</a>|
-|18|727|Arison_ch|<a href="https://search.dartslive.com/jp/shop/6441d65a6cb8f7c5774c926eb736cb5a">快活CLUB 津島駅前店</a>|<a href="/darts/rank/愛知県/津島市">愛知県津島市</a>|
-|19|591|モアイ様|<a href="https://search.dartslive.com/jp/shop/6441d65a6cb8f7c5774c926eb736cb5a">快活CLUB 津島駅前店</a>|<a href="/darts/rank/愛知県/津島市">愛知県津島市</a>|
-|20|534|RIZE|<a href="https://search.dartslive.com/jp/shop/6441d65a6cb8f7c5774c926eb736cb5a">快活CLUB 津島駅前店</a>|<a href="/darts/rank/愛知県/津島市">愛知県津島市</a>|
-|21|526|ごりchan|<a href="https://search.dartslive.com/jp/shop/6441d65a6cb8f7c5774c926eb736cb5a">快活CLUB 津島駅前店</a>|<a href="/darts/rank/愛知県/津島市">愛知県津島市</a>|
-|22|516|Souu@奥さん|<a href="https://search.dartslive.com/jp/shop/6441d65a6cb8f7c5774c926eb736cb5a">快活CLUB 津島駅前店</a>|<a href="/darts/rank/愛知県/津島市">愛知県津島市</a>|
-|23|512|たなかさん|<a href="https://search.dartslive.com/jp/shop/6441d65a6cb8f7c5774c926eb736cb5a">快活CLUB 津島駅前店</a>|<a href="/darts/rank/愛知県/津島市">愛知県津島市</a>|
-|24|506|✿ゆき✿|<a href="https://search.dartslive.com/jp/shop/6441d65a6cb8f7c5774c926eb736cb5a">快活CLUB 津島駅前店</a>|<a href="/darts/rank/愛知県/津島市">愛知県津島市</a>|
-|25|493|はるクレア|<a href="https://search.dartslive.com/jp/shop/6441d65a6cb8f7c5774c926eb736cb5a">快活CLUB 津島駅前店</a>|<a href="/darts/rank/愛知県/津島市">愛知県津島市</a>|
-|26|459|みどりむし|<a href="https://search.dartslive.com/jp/shop/6441d65a6cb8f7c5774c926eb736cb5a">快活CLUB 津島駅前店</a>|<a href="/darts/rank/愛知県/津島市">愛知県津島市</a>|
-|27|433|まり|<a href="https://search.dartslive.com/jp/shop/6441d65a6cb8f7c5774c926eb736cb5a">快活CLUB 津島駅前店</a>|<a href="/darts/rank/愛知県/津島市">愛知県津島市</a>|
-|28|424|LiSA|<a href="https://search.dartslive.com/jp/shop/6441d65a6cb8f7c5774c926eb736cb5a">快活CLUB 津島駅前店</a>|<a href="/darts/rank/愛知県/津島市">愛知県津島市</a>|
-|29|402|10円まんじゅう。|<a href="https://search.dartslive.com/jp/shop/6441d65a6cb8f7c5774c926eb736cb5a">快活CLUB 津島駅前店</a>|<a href="/darts/rank/愛知県/津島市">愛知県津島市</a>|
-|30|385|ワトソンくん|<a href="https://search.dartslive.com/jp/shop/6441d65a6cb8f7c5774c926eb736cb5a">快活CLUB 津島駅前店</a>|<a href="/darts/rank/愛知県/津島市">愛知県津島市</a>|
-|31|195|わか|<a href="https://search.dartslive.com/jp/shop/6441d65a6cb8f7c5774c926eb736cb5a">快活CLUB 津島駅前店</a>|<a href="/darts/rank/愛知県/津島市">愛知県津島市</a>|
+|18|591|モアイ様|<a href="https://search.dartslive.com/jp/shop/6441d65a6cb8f7c5774c926eb736cb5a">快活CLUB 津島駅前店</a>|<a href="/darts/rank/愛知県/津島市">愛知県津島市</a>|
+|19|526|ごりchan|<a href="https://search.dartslive.com/jp/shop/6441d65a6cb8f7c5774c926eb736cb5a">快活CLUB 津島駅前店</a>|<a href="/darts/rank/愛知県/津島市">愛知県津島市</a>|
+|20|516|Souu@奥さん|<a href="https://search.dartslive.com/jp/shop/6441d65a6cb8f7c5774c926eb736cb5a">快活CLUB 津島駅前店</a>|<a href="/darts/rank/愛知県/津島市">愛知県津島市</a>|
+|21|506|✿ゆき✿|<a href="https://search.dartslive.com/jp/shop/6441d65a6cb8f7c5774c926eb736cb5a">快活CLUB 津島駅前店</a>|<a href="/darts/rank/愛知県/津島市">愛知県津島市</a>|
+|22|493|はるクレア|<a href="https://search.dartslive.com/jp/shop/6441d65a6cb8f7c5774c926eb736cb5a">快活CLUB 津島駅前店</a>|<a href="/darts/rank/愛知県/津島市">愛知県津島市</a>|
+|23|459|みどりむし|<a href="https://search.dartslive.com/jp/shop/6441d65a6cb8f7c5774c926eb736cb5a">快活CLUB 津島駅前店</a>|<a href="/darts/rank/愛知県/津島市">愛知県津島市</a>|
+|24|433|まり|<a href="https://search.dartslive.com/jp/shop/6441d65a6cb8f7c5774c926eb736cb5a">快活CLUB 津島駅前店</a>|<a href="/darts/rank/愛知県/津島市">愛知県津島市</a>|
+|25|424|LiSA|<a href="https://search.dartslive.com/jp/shop/6441d65a6cb8f7c5774c926eb736cb5a">快活CLUB 津島駅前店</a>|<a href="/darts/rank/愛知県/津島市">愛知県津島市</a>|
+|26|402|10円まんじゅう。|<a href="https://search.dartslive.com/jp/shop/6441d65a6cb8f7c5774c926eb736cb5a">快活CLUB 津島駅前店</a>|<a href="/darts/rank/愛知県/津島市">愛知県津島市</a>|
+|27|385|ワトソンくん|<a href="https://search.dartslive.com/jp/shop/6441d65a6cb8f7c5774c926eb736cb5a">快活CLUB 津島駅前店</a>|<a href="/darts/rank/愛知県/津島市">愛知県津島市</a>|
+|28|195|わか|<a href="https://search.dartslive.com/jp/shop/6441d65a6cb8f7c5774c926eb736cb5a">快活CLUB 津島駅前店</a>|<a href="/darts/rank/愛知県/津島市">愛知県津島市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:54_
+_last update : 2024/01/21 13:39:02_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

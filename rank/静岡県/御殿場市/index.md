@@ -32,17 +32,16 @@ ___
 |16|740|Roberta|<a href="https://search.dartslive.com/jp/shop/1bc6a631840417f6fec1ae84bb28bd87">アプレシオ 御殿場インター店</a>|<a href="/darts/rank/静岡県/御殿場市">静岡県御殿場市</a>|
 |17|714|(｀めνめ)Jo|<a href="https://search.dartslive.com/jp/shop/1bc6a631840417f6fec1ae84bb28bd87">アプレシオ 御殿場インター店</a>|<a href="/darts/rank/静岡県/御殿場市">静岡県御殿場市</a>|
 |18|703|リッキー|<a href="https://search.dartslive.com/jp/shop/1bc6a631840417f6fec1ae84bb28bd87">アプレシオ 御殿場インター店</a>|<a href="/darts/rank/静岡県/御殿場市">静岡県御殿場市</a>|
-|19|559|SHIRO|<a href="https://search.dartslive.com/jp/shop/1bc6a631840417f6fec1ae84bb28bd87">アプレシオ 御殿場インター店</a>|<a href="/darts/rank/静岡県/御殿場市">静岡県御殿場市</a>|
-|20|557|ji17@mamiiii17|<a href="https://search.dartslive.com/jp/shop/1bc6a631840417f6fec1ae84bb28bd87">アプレシオ 御殿場インター店</a>|<a href="/darts/rank/静岡県/御殿場市">静岡県御殿場市</a>|
-|21|421|Eri_A|<a href="https://search.dartslive.com/jp/shop/1bc6a631840417f6fec1ae84bb28bd87">アプレシオ 御殿場インター店</a>|<a href="/darts/rank/静岡県/御殿場市">静岡県御殿場市</a>|
-|22|318|ayaka111|<a href="https://search.dartslive.com/jp/shop/1bc6a631840417f6fec1ae84bb28bd87">アプレシオ 御殿場インター店</a>|<a href="/darts/rank/静岡県/御殿場市">静岡県御殿場市</a>|
-|23|313|ののてぃん@ｶｴﾙ団|<a href="https://search.dartslive.com/jp/shop/1bc6a631840417f6fec1ae84bb28bd87">アプレシオ 御殿場インター店</a>|<a href="/darts/rank/静岡県/御殿場市">静岡県御殿場市</a>|
+|19|557|ji17@mamiiii17|<a href="https://search.dartslive.com/jp/shop/1bc6a631840417f6fec1ae84bb28bd87">アプレシオ 御殿場インター店</a>|<a href="/darts/rank/静岡県/御殿場市">静岡県御殿場市</a>|
+|20|421|Eri_A|<a href="https://search.dartslive.com/jp/shop/1bc6a631840417f6fec1ae84bb28bd87">アプレシオ 御殿場インター店</a>|<a href="/darts/rank/静岡県/御殿場市">静岡県御殿場市</a>|
+|21|318|ayaka111|<a href="https://search.dartslive.com/jp/shop/1bc6a631840417f6fec1ae84bb28bd87">アプレシオ 御殿場インター店</a>|<a href="/darts/rank/静岡県/御殿場市">静岡県御殿場市</a>|
+|22|313|ののてぃん@ｶｴﾙ団|<a href="https://search.dartslive.com/jp/shop/1bc6a631840417f6fec1ae84bb28bd87">アプレシオ 御殿場インター店</a>|<a href="/darts/rank/静岡県/御殿場市">静岡県御殿場市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:53_
+_last update : 2024/01/21 13:39:01_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

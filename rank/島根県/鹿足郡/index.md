@@ -14,12 +14,28 @@ ___
 {:.table-ranking}
 |ランク|スコア|名前|店名|所在地|
 |---|---|---|---|---|
+|1|940|池田 隆史|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|2|839|(だ・ん・ぼ)|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|3|767|へいへい|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|4|766|光太|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|5|695|ムッキー|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|6|691|きゅうぴい|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|7|671|づーさん|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|8|665|名無しくん|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|9|633|x|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|10|610|ヨッシー|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|11|556|ふくやまぬくもる|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|11|556|少年バット|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|13|541|bbB|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|14|487|m|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|15|485|翔＝恭兵|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|16|463|まーちゃん∵|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:56_
+_last update : 2024/01/21 13:39:07_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

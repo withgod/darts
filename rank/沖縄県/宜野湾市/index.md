@@ -14,12 +14,53 @@ ___
 {:.table-ranking}
 |ランク|スコア|名前|店名|所在地|
 |---|---|---|---|---|
+|1|1200|みっきーCUE SOUL|<a href="https://search.dartslive.com/jp/shop/e536fef99bd82260a3f63593b5358cc4">快活CLUB 宜野湾店</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
+|2|1015|ファンタ|<a href="https://search.dartslive.com/jp/shop/634e4b79ada3b3df0d9b047a20a7ba1e">ラウンドワン沖縄宜野湾店</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
+|3|984|I13KI|<a href="https://search.dartslive.com/jp/shop/e536fef99bd82260a3f63593b5358cc4">快活CLUB 宜野湾店</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
+|4|957|流石|<a href="https://search.dartslive.com/jp/shop/e536fef99bd82260a3f63593b5358cc4">快活CLUB 宜野湾店</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
+|5|954|fumi56|<a href="https://search.dartslive.com/jp/shop/e536fef99bd82260a3f63593b5358cc4">快活CLUB 宜野湾店</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
+|6|909|キタっくす|<a href="https://search.dartslive.com/jp/shop/e536fef99bd82260a3f63593b5358cc4">快活CLUB 宜野湾店</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
+|7|880|こん|<a href="https://search.dartslive.com/jp/shop/e536fef99bd82260a3f63593b5358cc4">快活CLUB 宜野湾店</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
+|8|877|shimu|<a href="https://search.dartslive.com/jp/shop/e536fef99bd82260a3f63593b5358cc4">快活CLUB 宜野湾店</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
+|9|853|ぐでたま〜|<a href="https://search.dartslive.com/jp/shop/e536fef99bd82260a3f63593b5358cc4">快活CLUB 宜野湾店</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
+|10|849|fumi56|<a href="https://search.dartslive.com/jp/shop/634e4b79ada3b3df0d9b047a20a7ba1e">ラウンドワン沖縄宜野湾店</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
+|11|847|ﾊﾞﾅｯﾊ・ﾀﾙｽｷｰ|<a href="https://search.dartslive.com/jp/shop/e536fef99bd82260a3f63593b5358cc4">快活CLUB 宜野湾店</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
+|12|843|さっしー|<a href="https://search.dartslive.com/jp/shop/634e4b79ada3b3df0d9b047a20a7ba1e">ラウンドワン沖縄宜野湾店</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
+|13|836|與儀泰一郎＠Neo|<a href="https://search.dartslive.com/jp/shop/e536fef99bd82260a3f63593b5358cc4">快活CLUB 宜野湾店</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
+|14|825|S.Fu.MA|<a href="https://search.dartslive.com/jp/shop/634e4b79ada3b3df0d9b047a20a7ba1e">ラウンドワン沖縄宜野湾店</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
+|15|821|NO NAME 2801|<a href="https://search.dartslive.com/jp/shop/e536fef99bd82260a3f63593b5358cc4">快活CLUB 宜野湾店</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
+|16|816|y,|<a href="https://search.dartslive.com/jp/shop/e536fef99bd82260a3f63593b5358cc4">快活CLUB 宜野湾店</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
+|17|809|you|<a href="https://search.dartslive.com/jp/shop/e536fef99bd82260a3f63593b5358cc4">快活CLUB 宜野湾店</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
+|18|782|グリーナー＠松銀|<a href="https://search.dartslive.com/jp/shop/634e4b79ada3b3df0d9b047a20a7ba1e">ラウンドワン沖縄宜野湾店</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
+|19|778|futuremen|<a href="https://search.dartslive.com/jp/shop/634e4b79ada3b3df0d9b047a20a7ba1e">ラウンドワン沖縄宜野湾店</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
+|20|776|y,|<a href="https://search.dartslive.com/jp/shop/634e4b79ada3b3df0d9b047a20a7ba1e">ラウンドワン沖縄宜野湾店</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
+|21|754|katsuya.t8|<a href="https://search.dartslive.com/jp/shop/e536fef99bd82260a3f63593b5358cc4">快活CLUB 宜野湾店</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
+|22|745|ka-shi|<a href="https://search.dartslive.com/jp/shop/634e4b79ada3b3df0d9b047a20a7ba1e">ラウンドワン沖縄宜野湾店</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
+|23|741|すぃ＠Laughter|<a href="https://search.dartslive.com/jp/shop/634e4b79ada3b3df0d9b047a20a7ba1e">ラウンドワン沖縄宜野湾店</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
+|24|731|Amleth|<a href="https://search.dartslive.com/jp/shop/e536fef99bd82260a3f63593b5358cc4">快活CLUB 宜野湾店</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
+|25|724|Natsuki|<a href="https://search.dartslive.com/jp/shop/634e4b79ada3b3df0d9b047a20a7ba1e">ラウンドワン沖縄宜野湾店</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
+|26|722|hivivi_o|<a href="https://search.dartslive.com/jp/shop/634e4b79ada3b3df0d9b047a20a7ba1e">ラウンドワン沖縄宜野湾店</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
+|27|720|トマトケチャップ|<a href="https://search.dartslive.com/jp/shop/634e4b79ada3b3df0d9b047a20a7ba1e">ラウンドワン沖縄宜野湾店</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
+|28|705|CROW|<a href="https://search.dartslive.com/jp/shop/634e4b79ada3b3df0d9b047a20a7ba1e">ラウンドワン沖縄宜野湾店</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
+|29|678|たける|<a href="https://search.dartslive.com/jp/shop/e536fef99bd82260a3f63593b5358cc4">快活CLUB 宜野湾店</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
+|30|675|hivivi_o|<a href="https://search.dartslive.com/jp/shop/e536fef99bd82260a3f63593b5358cc4">快活CLUB 宜野湾店</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
+|31|665|SLYVE|<a href="https://search.dartslive.com/jp/shop/634e4b79ada3b3df0d9b047a20a7ba1e">ラウンドワン沖縄宜野湾店</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
+|32|657|どら猫|<a href="https://search.dartslive.com/jp/shop/634e4b79ada3b3df0d9b047a20a7ba1e">ラウンドワン沖縄宜野湾店</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
+|33|617|NO NAME 9344|<a href="https://search.dartslive.com/jp/shop/634e4b79ada3b3df0d9b047a20a7ba1e">ラウンドワン沖縄宜野湾店</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
+|34|615|お口の恋人|<a href="https://search.dartslive.com/jp/shop/634e4b79ada3b3df0d9b047a20a7ba1e">ラウンドワン沖縄宜野湾店</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
+|35|604|DORITONEX|<a href="https://search.dartslive.com/jp/shop/634e4b79ada3b3df0d9b047a20a7ba1e">ラウンドワン沖縄宜野湾店</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
+|35|604|てらてら|<a href="https://search.dartslive.com/jp/shop/634e4b79ada3b3df0d9b047a20a7ba1e">ラウンドワン沖縄宜野湾店</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
+|37|535|★★★|<a href="https://search.dartslive.com/jp/shop/634e4b79ada3b3df0d9b047a20a7ba1e">ラウンドワン沖縄宜野湾店</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
+|38|496|NANAcolor|<a href="https://search.dartslive.com/jp/shop/e536fef99bd82260a3f63593b5358cc4">快活CLUB 宜野湾店</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
+|39|420|39|<a href="https://search.dartslive.com/jp/shop/e536fef99bd82260a3f63593b5358cc4">快活CLUB 宜野湾店</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
+|40|386|♡ERI♡|<a href="https://search.dartslive.com/jp/shop/634e4b79ada3b3df0d9b047a20a7ba1e">ラウンドワン沖縄宜野湾店</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
+|41|332|あゆchan☆(^^♪|<a href="https://search.dartslive.com/jp/shop/e536fef99bd82260a3f63593b5358cc4">快活CLUB 宜野湾店</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:57_
+_last update : 2024/01/21 13:39:08_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

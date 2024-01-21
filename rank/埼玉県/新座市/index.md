@@ -61,7 +61,7 @@ ___
 |45|584|Bubu|<a href="https://search.dartslive.com/jp/shop/c3e0ce309f156ff30d9b047a20a7ba1e">祭場　夜さ来い</a>|<a href="/darts/rank/埼玉県/新座市">埼玉県新座市</a>|
 |46|583|まど2おじさん|<a href="https://search.dartslive.com/jp/shop/ae95b84197575b3c0d9b047a20a7ba1e">Dining Bar Target</a>|<a href="/darts/rank/埼玉県/新座市">埼玉県新座市</a>|
 |47|581|【ｱﾛｰﾃｲﾙ】|<a href="https://search.dartslive.com/jp/shop/78c7f164c81c66290d9b047a20a7ba1e">カラオケCLUBDAM新座店</a>|<a href="/darts/rank/埼玉県/新座市">埼玉県新座市</a>|
-|48|573|ぬ|<a href="https://search.dartslive.com/jp/shop/8b44b5bb09ce9005790ab824ce8730e5">快活CLUB 志木南口駅前店</a>|<a href="/darts/rank/埼玉県/新座市">埼玉県新座市</a>|
+|48|579|ぬ|<a href="https://search.dartslive.com/jp/shop/8b44b5bb09ce9005790ab824ce8730e5">快活CLUB 志木南口駅前店</a>|<a href="/darts/rank/埼玉県/新座市">埼玉県新座市</a>|
 |49|570|ALIS|<a href="https://search.dartslive.com/jp/shop/78c7f164c81c66290d9b047a20a7ba1e">カラオケCLUBDAM新座店</a>|<a href="/darts/rank/埼玉県/新座市">埼玉県新座市</a>|
 |50|562|まなみ|<a href="https://search.dartslive.com/jp/shop/8b44b5bb09ce9005790ab824ce8730e5">快活CLUB 志木南口駅前店</a>|<a href="/darts/rank/埼玉県/新座市">埼玉県新座市</a>|
 |51|554|モーロー☆|<a href="https://search.dartslive.com/jp/shop/c3e0ce309f156ff30d9b047a20a7ba1e">祭場　夜さ来い</a>|<a href="/darts/rank/埼玉県/新座市">埼玉県新座市</a>|
@@ -93,7 +93,7 @@ ___
 
 ___
 
-_last update : 2024/01/21 03:05:50_
+_last update : 2024/01/21 13:38:56_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

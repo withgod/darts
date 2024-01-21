@@ -23,39 +23,40 @@ ___
 |7|1003|ぺぃ×2。|<a href="https://search.dartslive.com/jp/shop/3ceb13462d3962845f9f3321c1147265">快活CLUB 蓮田店</a>|<a href="/darts/rank/埼玉県/蓮田市">埼玉県蓮田市</a>|
 |8|969|かつを※☆◎|<a href="https://search.dartslive.com/jp/shop/3ceb13462d3962845f9f3321c1147265">快活CLUB 蓮田店</a>|<a href="/darts/rank/埼玉県/蓮田市">埼玉県蓮田市</a>|
 |8|969|ぺぃ×2|<a href="https://search.dartslive.com/jp/shop/3ceb13462d3962845f9f3321c1147265">快活CLUB 蓮田店</a>|<a href="/darts/rank/埼玉県/蓮田市">埼玉県蓮田市</a>|
-|10|966|しらたき|<a href="https://search.dartslive.com/jp/shop/3ceb13462d3962845f9f3321c1147265">快活CLUB 蓮田店</a>|<a href="/darts/rank/埼玉県/蓮田市">埼玉県蓮田市</a>|
-|11|924|ke-yo-|<a href="https://search.dartslive.com/jp/shop/3ceb13462d3962845f9f3321c1147265">快活CLUB 蓮田店</a>|<a href="/darts/rank/埼玉県/蓮田市">埼玉県蓮田市</a>|
-|12|923|マッスー　P|<a href="https://search.dartslive.com/jp/shop/3ceb13462d3962845f9f3321c1147265">快活CLUB 蓮田店</a>|<a href="/darts/rank/埼玉県/蓮田市">埼玉県蓮田市</a>|
-|13|903|S@kura-B|<a href="https://search.dartslive.com/jp/shop/3ceb13462d3962845f9f3321c1147265">快活CLUB 蓮田店</a>|<a href="/darts/rank/埼玉県/蓮田市">埼玉県蓮田市</a>|
-|14|900|けんぱっぱ！|<a href="https://search.dartslive.com/jp/shop/3ceb13462d3962845f9f3321c1147265">快活CLUB 蓮田店</a>|<a href="/darts/rank/埼玉県/蓮田市">埼玉県蓮田市</a>|
-|15|863|SUKE-SAN|<a href="https://search.dartslive.com/jp/shop/3ceb13462d3962845f9f3321c1147265">快活CLUB 蓮田店</a>|<a href="/darts/rank/埼玉県/蓮田市">埼玉県蓮田市</a>|
-|16|800|いちかわさき|<a href="https://search.dartslive.com/jp/shop/3ceb13462d3962845f9f3321c1147265">快活CLUB 蓮田店</a>|<a href="/darts/rank/埼玉県/蓮田市">埼玉県蓮田市</a>|
-|17|786|ゆみねぇ|<a href="https://search.dartslive.com/jp/shop/3ceb13462d3962845f9f3321c1147265">快活CLUB 蓮田店</a>|<a href="/darts/rank/埼玉県/蓮田市">埼玉県蓮田市</a>|
-|18|764|りょうだよ。|<a href="https://search.dartslive.com/jp/shop/3ceb13462d3962845f9f3321c1147265">快活CLUB 蓮田店</a>|<a href="/darts/rank/埼玉県/蓮田市">埼玉県蓮田市</a>|
-|19|729|ゆみばぁ|<a href="https://search.dartslive.com/jp/shop/3ceb13462d3962845f9f3321c1147265">快活CLUB 蓮田店</a>|<a href="/darts/rank/埼玉県/蓮田市">埼玉県蓮田市</a>|
-|20|678|ＭＩＫＵ|<a href="https://search.dartslive.com/jp/shop/3ceb13462d3962845f9f3321c1147265">快活CLUB 蓮田店</a>|<a href="/darts/rank/埼玉県/蓮田市">埼玉県蓮田市</a>|
-|21|625|zuu|<a href="https://search.dartslive.com/jp/shop/3ceb13462d3962845f9f3321c1147265">快活CLUB 蓮田店</a>|<a href="/darts/rank/埼玉県/蓮田市">埼玉県蓮田市</a>|
-|22|621|しょうさん|<a href="https://search.dartslive.com/jp/shop/3ceb13462d3962845f9f3321c1147265">快活CLUB 蓮田店</a>|<a href="/darts/rank/埼玉県/蓮田市">埼玉県蓮田市</a>|
-|23|616|もち|<a href="https://search.dartslive.com/jp/shop/3ceb13462d3962845f9f3321c1147265">快活CLUB 蓮田店</a>|<a href="/darts/rank/埼玉県/蓮田市">埼玉県蓮田市</a>|
-|24|615|&quot;R&quot;|<a href="https://search.dartslive.com/jp/shop/3ceb13462d3962845f9f3321c1147265">快活CLUB 蓮田店</a>|<a href="/darts/rank/埼玉県/蓮田市">埼玉県蓮田市</a>|
-|25|565|ゆう蔵|<a href="https://search.dartslive.com/jp/shop/3ceb13462d3962845f9f3321c1147265">快活CLUB 蓮田店</a>|<a href="/darts/rank/埼玉県/蓮田市">埼玉県蓮田市</a>|
-|26|556|みーちゃん|<a href="https://search.dartslive.com/jp/shop/3ceb13462d3962845f9f3321c1147265">快活CLUB 蓮田店</a>|<a href="/darts/rank/埼玉県/蓮田市">埼玉県蓮田市</a>|
-|27|521|HANAKO|<a href="https://search.dartslive.com/jp/shop/3ceb13462d3962845f9f3321c1147265">快活CLUB 蓮田店</a>|<a href="/darts/rank/埼玉県/蓮田市">埼玉県蓮田市</a>|
-|28|509|zaki_1188|<a href="https://search.dartslive.com/jp/shop/3ceb13462d3962845f9f3321c1147265">快活CLUB 蓮田店</a>|<a href="/darts/rank/埼玉県/蓮田市">埼玉県蓮田市</a>|
-|29|508|まどか|<a href="https://search.dartslive.com/jp/shop/3ceb13462d3962845f9f3321c1147265">快活CLUB 蓮田店</a>|<a href="/darts/rank/埼玉県/蓮田市">埼玉県蓮田市</a>|
-|30|489|pizza510|<a href="https://search.dartslive.com/jp/shop/3ceb13462d3962845f9f3321c1147265">快活CLUB 蓮田店</a>|<a href="/darts/rank/埼玉県/蓮田市">埼玉県蓮田市</a>|
-|31|470|ともみ|<a href="https://search.dartslive.com/jp/shop/3ceb13462d3962845f9f3321c1147265">快活CLUB 蓮田店</a>|<a href="/darts/rank/埼玉県/蓮田市">埼玉県蓮田市</a>|
-|32|445|スズ|<a href="https://search.dartslive.com/jp/shop/3ceb13462d3962845f9f3321c1147265">快活CLUB 蓮田店</a>|<a href="/darts/rank/埼玉県/蓮田市">埼玉県蓮田市</a>|
-|33|439|Yumi|<a href="https://search.dartslive.com/jp/shop/3ceb13462d3962845f9f3321c1147265">快活CLUB 蓮田店</a>|<a href="/darts/rank/埼玉県/蓮田市">埼玉県蓮田市</a>|
-|34|409|ペペ|<a href="https://search.dartslive.com/jp/shop/3ceb13462d3962845f9f3321c1147265">快活CLUB 蓮田店</a>|<a href="/darts/rank/埼玉県/蓮田市">埼玉県蓮田市</a>|
-|35|395|おんなのこ|<a href="https://search.dartslive.com/jp/shop/3ceb13462d3962845f9f3321c1147265">快活CLUB 蓮田店</a>|<a href="/darts/rank/埼玉県/蓮田市">埼玉県蓮田市</a>|
-|36|271|meeee|<a href="https://search.dartslive.com/jp/shop/3ceb13462d3962845f9f3321c1147265">快活CLUB 蓮田店</a>|<a href="/darts/rank/埼玉県/蓮田市">埼玉県蓮田市</a>|
+|10|968|Fu-JIN|<a href="https://search.dartslive.com/jp/shop/3ceb13462d3962845f9f3321c1147265">快活CLUB 蓮田店</a>|<a href="/darts/rank/埼玉県/蓮田市">埼玉県蓮田市</a>|
+|11|966|しらたき|<a href="https://search.dartslive.com/jp/shop/3ceb13462d3962845f9f3321c1147265">快活CLUB 蓮田店</a>|<a href="/darts/rank/埼玉県/蓮田市">埼玉県蓮田市</a>|
+|12|924|ke-yo-|<a href="https://search.dartslive.com/jp/shop/3ceb13462d3962845f9f3321c1147265">快活CLUB 蓮田店</a>|<a href="/darts/rank/埼玉県/蓮田市">埼玉県蓮田市</a>|
+|13|923|マッスー　P|<a href="https://search.dartslive.com/jp/shop/3ceb13462d3962845f9f3321c1147265">快活CLUB 蓮田店</a>|<a href="/darts/rank/埼玉県/蓮田市">埼玉県蓮田市</a>|
+|14|903|S@kura-B|<a href="https://search.dartslive.com/jp/shop/3ceb13462d3962845f9f3321c1147265">快活CLUB 蓮田店</a>|<a href="/darts/rank/埼玉県/蓮田市">埼玉県蓮田市</a>|
+|15|900|けんぱっぱ！|<a href="https://search.dartslive.com/jp/shop/3ceb13462d3962845f9f3321c1147265">快活CLUB 蓮田店</a>|<a href="/darts/rank/埼玉県/蓮田市">埼玉県蓮田市</a>|
+|16|863|SUKE-SAN|<a href="https://search.dartslive.com/jp/shop/3ceb13462d3962845f9f3321c1147265">快活CLUB 蓮田店</a>|<a href="/darts/rank/埼玉県/蓮田市">埼玉県蓮田市</a>|
+|17|800|いちかわさき|<a href="https://search.dartslive.com/jp/shop/3ceb13462d3962845f9f3321c1147265">快活CLUB 蓮田店</a>|<a href="/darts/rank/埼玉県/蓮田市">埼玉県蓮田市</a>|
+|18|786|ゆみねぇ|<a href="https://search.dartslive.com/jp/shop/3ceb13462d3962845f9f3321c1147265">快活CLUB 蓮田店</a>|<a href="/darts/rank/埼玉県/蓮田市">埼玉県蓮田市</a>|
+|19|764|りょうだよ。|<a href="https://search.dartslive.com/jp/shop/3ceb13462d3962845f9f3321c1147265">快活CLUB 蓮田店</a>|<a href="/darts/rank/埼玉県/蓮田市">埼玉県蓮田市</a>|
+|20|729|ゆみばぁ|<a href="https://search.dartslive.com/jp/shop/3ceb13462d3962845f9f3321c1147265">快活CLUB 蓮田店</a>|<a href="/darts/rank/埼玉県/蓮田市">埼玉県蓮田市</a>|
+|21|696|Beginner|<a href="https://search.dartslive.com/jp/shop/3ceb13462d3962845f9f3321c1147265">快活CLUB 蓮田店</a>|<a href="/darts/rank/埼玉県/蓮田市">埼玉県蓮田市</a>|
+|22|678|ＭＩＫＵ|<a href="https://search.dartslive.com/jp/shop/3ceb13462d3962845f9f3321c1147265">快活CLUB 蓮田店</a>|<a href="/darts/rank/埼玉県/蓮田市">埼玉県蓮田市</a>|
+|23|631|しょうさん|<a href="https://search.dartslive.com/jp/shop/3ceb13462d3962845f9f3321c1147265">快活CLUB 蓮田店</a>|<a href="/darts/rank/埼玉県/蓮田市">埼玉県蓮田市</a>|
+|24|625|zuu|<a href="https://search.dartslive.com/jp/shop/3ceb13462d3962845f9f3321c1147265">快活CLUB 蓮田店</a>|<a href="/darts/rank/埼玉県/蓮田市">埼玉県蓮田市</a>|
+|25|616|もち|<a href="https://search.dartslive.com/jp/shop/3ceb13462d3962845f9f3321c1147265">快活CLUB 蓮田店</a>|<a href="/darts/rank/埼玉県/蓮田市">埼玉県蓮田市</a>|
+|26|615|&quot;R&quot;|<a href="https://search.dartslive.com/jp/shop/3ceb13462d3962845f9f3321c1147265">快活CLUB 蓮田店</a>|<a href="/darts/rank/埼玉県/蓮田市">埼玉県蓮田市</a>|
+|27|565|ゆう蔵|<a href="https://search.dartslive.com/jp/shop/3ceb13462d3962845f9f3321c1147265">快活CLUB 蓮田店</a>|<a href="/darts/rank/埼玉県/蓮田市">埼玉県蓮田市</a>|
+|28|556|みーちゃん|<a href="https://search.dartslive.com/jp/shop/3ceb13462d3962845f9f3321c1147265">快活CLUB 蓮田店</a>|<a href="/darts/rank/埼玉県/蓮田市">埼玉県蓮田市</a>|
+|29|521|HANAKO|<a href="https://search.dartslive.com/jp/shop/3ceb13462d3962845f9f3321c1147265">快活CLUB 蓮田店</a>|<a href="/darts/rank/埼玉県/蓮田市">埼玉県蓮田市</a>|
+|30|509|zaki_1188|<a href="https://search.dartslive.com/jp/shop/3ceb13462d3962845f9f3321c1147265">快活CLUB 蓮田店</a>|<a href="/darts/rank/埼玉県/蓮田市">埼玉県蓮田市</a>|
+|31|508|まどか|<a href="https://search.dartslive.com/jp/shop/3ceb13462d3962845f9f3321c1147265">快活CLUB 蓮田店</a>|<a href="/darts/rank/埼玉県/蓮田市">埼玉県蓮田市</a>|
+|32|489|pizza510|<a href="https://search.dartslive.com/jp/shop/3ceb13462d3962845f9f3321c1147265">快活CLUB 蓮田店</a>|<a href="/darts/rank/埼玉県/蓮田市">埼玉県蓮田市</a>|
+|33|470|ともみ|<a href="https://search.dartslive.com/jp/shop/3ceb13462d3962845f9f3321c1147265">快活CLUB 蓮田店</a>|<a href="/darts/rank/埼玉県/蓮田市">埼玉県蓮田市</a>|
+|34|445|スズ|<a href="https://search.dartslive.com/jp/shop/3ceb13462d3962845f9f3321c1147265">快活CLUB 蓮田店</a>|<a href="/darts/rank/埼玉県/蓮田市">埼玉県蓮田市</a>|
+|35|439|Yumi|<a href="https://search.dartslive.com/jp/shop/3ceb13462d3962845f9f3321c1147265">快活CLUB 蓮田店</a>|<a href="/darts/rank/埼玉県/蓮田市">埼玉県蓮田市</a>|
+|36|409|ペペ|<a href="https://search.dartslive.com/jp/shop/3ceb13462d3962845f9f3321c1147265">快活CLUB 蓮田店</a>|<a href="/darts/rank/埼玉県/蓮田市">埼玉県蓮田市</a>|
+|37|395|おんなのこ|<a href="https://search.dartslive.com/jp/shop/3ceb13462d3962845f9f3321c1147265">快活CLUB 蓮田店</a>|<a href="/darts/rank/埼玉県/蓮田市">埼玉県蓮田市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:50_
+_last update : 2024/01/21 13:38:56_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

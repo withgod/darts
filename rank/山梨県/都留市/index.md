@@ -28,15 +28,13 @@ ___
 |12|771|yushin|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
 |13|691|なこなこ|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
 |14|484|nana|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|15|372|真澄會☆佳主馬|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|16|338|aoi58|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|17|311|渡辺|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|15|338|aoi58|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:53_
+_last update : 2024/01/21 13:39:00_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

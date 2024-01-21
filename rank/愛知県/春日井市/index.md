@@ -50,18 +50,14 @@ ___
 |34|631|ぐっさん|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
 |35|621|ひょす|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
 |36|560|なつみかん|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|37|557|そんいよ|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|38|484|ジュンジ|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|39|429|AKI|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|40|387|Takashi|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|41|372|YUI|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
-|42|302|みおぱん|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|37|429|AKI|<a href="https://search.dartslive.com/jp/shop/34dd1076719e41620d9b047a20a7ba1e">オークランド　春日井店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
+|38|302|みおぱん|<a href="https://search.dartslive.com/jp/shop/99506c1353adee19774c926eb736cb5a">快活CLUB 春日井インター店</a>|<a href="/darts/rank/愛知県/春日井市">愛知県春日井市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:54_
+_last update : 2024/01/21 13:39:02_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

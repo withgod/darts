@@ -32,14 +32,13 @@ ___
 |16|487|ことよろYDK|<a href="https://search.dartslive.com/jp/shop/49a2b57cd4a1b7ca0d9b047a20a7ba1e">Cafe Bar Meets</a>|<a href="/darts/rank/神奈川県/逗子市">神奈川県逗子市</a>|
 |17|482|Yuu|<a href="https://search.dartslive.com/jp/shop/49a2b57cd4a1b7ca0d9b047a20a7ba1e">Cafe Bar Meets</a>|<a href="/darts/rank/神奈川県/逗子市">神奈川県逗子市</a>|
 |18|467|AZUSA OKADA|<a href="https://search.dartslive.com/jp/shop/49a2b57cd4a1b7ca0d9b047a20a7ba1e">Cafe Bar Meets</a>|<a href="/darts/rank/神奈川県/逗子市">神奈川県逗子市</a>|
-|19|364|SAEKA|<a href="https://search.dartslive.com/jp/shop/49a2b57cd4a1b7ca0d9b047a20a7ba1e">Cafe Bar Meets</a>|<a href="/darts/rank/神奈川県/逗子市">神奈川県逗子市</a>|
-|20|320|tnk_c|<a href="https://search.dartslive.com/jp/shop/49a2b57cd4a1b7ca0d9b047a20a7ba1e">Cafe Bar Meets</a>|<a href="/darts/rank/神奈川県/逗子市">神奈川県逗子市</a>|
+|19|320|tnk_c|<a href="https://search.dartslive.com/jp/shop/49a2b57cd4a1b7ca0d9b047a20a7ba1e">Cafe Bar Meets</a>|<a href="/darts/rank/神奈川県/逗子市">神奈川県逗子市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:52_
+_last update : 2024/01/21 13:38:59_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

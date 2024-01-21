@@ -38,29 +38,29 @@ ___
 |22|889|よいしょ|<a href="https://search.dartslive.com/jp/shop/29a0f1045275d5070d9b047a20a7ba1e">JACK 西日暮里店</a>|<a href="/darts/rank/東京都/荒川区">東京都荒川区</a>|
 |23|888|BBQカニ|<a href="https://search.dartslive.com/jp/shop/eedf7517fa26f7a05f9f3321c1147265">町屋 Zooooo</a>|<a href="/darts/rank/東京都/荒川区">東京都荒川区</a>|
 |24|886|ガン|<a href="https://search.dartslive.com/jp/shop/29a0f1045275d5070d9b047a20a7ba1e">JACK 西日暮里店</a>|<a href="/darts/rank/東京都/荒川区">東京都荒川区</a>|
-|25|880|あん|<a href="https://search.dartslive.com/jp/shop/29a0f1045275d5070d9b047a20a7ba1e">JACK 西日暮里店</a>|<a href="/darts/rank/東京都/荒川区">東京都荒川区</a>|
-|26|872|なか爺☆流山|<a href="https://search.dartslive.com/jp/shop/29a0f1045275d5070d9b047a20a7ba1e">JACK 西日暮里店</a>|<a href="/darts/rank/東京都/荒川区">東京都荒川区</a>|
-|27|863|やす|<a href="https://search.dartslive.com/jp/shop/15a31fcad53ee7e70d9b047a20a7ba1e">カラオケBANBAN町屋店</a>|<a href="/darts/rank/東京都/荒川区">東京都荒川区</a>|
-|28|862|keishiro✾碧|<a href="https://search.dartslive.com/jp/shop/15a31fcad53ee7e70d9b047a20a7ba1e">カラオケBANBAN町屋店</a>|<a href="/darts/rank/東京都/荒川区">東京都荒川区</a>|
-|29|861|keishiro❥碧|<a href="https://search.dartslive.com/jp/shop/15a31fcad53ee7e70d9b047a20a7ba1e">カラオケBANBAN町屋店</a>|<a href="/darts/rank/東京都/荒川区">東京都荒川区</a>|
-|30|859|中山みゆき|<a href="https://search.dartslive.com/jp/shop/ec2225be0773d48a0d9b047a20a7ba1e">BARREL町屋店</a>|<a href="/darts/rank/東京都/荒川区">東京都荒川区</a>|
-|31|858|サッキー|<a href="https://search.dartslive.com/jp/shop/eedf7517fa26f7a05f9f3321c1147265">町屋 Zooooo</a>|<a href="/darts/rank/東京都/荒川区">東京都荒川区</a>|
-|32|855|†しげ@DEARS†|<a href="https://search.dartslive.com/jp/shop/ec2225be0773d48a0d9b047a20a7ba1e">BARREL町屋店</a>|<a href="/darts/rank/東京都/荒川区">東京都荒川区</a>|
-|33|852|GERITA|<a href="https://search.dartslive.com/jp/shop/eedf7517fa26f7a05f9f3321c1147265">町屋 Zooooo</a>|<a href="/darts/rank/東京都/荒川区">東京都荒川区</a>|
-|34|851|This is ZAZY|<a href="https://search.dartslive.com/jp/shop/29a0f1045275d5070d9b047a20a7ba1e">JACK 西日暮里店</a>|<a href="/darts/rank/東京都/荒川区">東京都荒川区</a>|
-|35|842|どん＠Re:ACT|<a href="https://search.dartslive.com/jp/shop/29a0f1045275d5070d9b047a20a7ba1e">JACK 西日暮里店</a>|<a href="/darts/rank/東京都/荒川区">東京都荒川区</a>|
-|36|836|みちを|<a href="https://search.dartslive.com/jp/shop/29a0f1045275d5070d9b047a20a7ba1e">JACK 西日暮里店</a>|<a href="/darts/rank/東京都/荒川区">東京都荒川区</a>|
-|37|833|This is Bungy!|<a href="https://search.dartslive.com/jp/shop/29a0f1045275d5070d9b047a20a7ba1e">JACK 西日暮里店</a>|<a href="/darts/rank/東京都/荒川区">東京都荒川区</a>|
-|38|831|RYO1&amp;惡烏賊|<a href="https://search.dartslive.com/jp/shop/29a0f1045275d5070d9b047a20a7ba1e">JACK 西日暮里店</a>|<a href="/darts/rank/東京都/荒川区">東京都荒川区</a>|
-|39|825|けーぼー|<a href="https://search.dartslive.com/jp/shop/15a31fcad53ee7e70d9b047a20a7ba1e">カラオケBANBAN町屋店</a>|<a href="/darts/rank/東京都/荒川区">東京都荒川区</a>|
-|39|825|カニ|<a href="https://search.dartslive.com/jp/shop/ec2225be0773d48a0d9b047a20a7ba1e">BARREL町屋店</a>|<a href="/darts/rank/東京都/荒川区">東京都荒川区</a>|
-|41|823|たつ|<a href="https://search.dartslive.com/jp/shop/ec2225be0773d48a0d9b047a20a7ba1e">BARREL町屋店</a>|<a href="/darts/rank/東京都/荒川区">東京都荒川区</a>|
-|41|823|虎猫まっしぐら|<a href="https://search.dartslive.com/jp/shop/eedf7517fa26f7a05f9f3321c1147265">町屋 Zooooo</a>|<a href="/darts/rank/東京都/荒川区">東京都荒川区</a>|
-|43|819|OhiZroK|<a href="https://search.dartslive.com/jp/shop/eedf7517fa26f7a05f9f3321c1147265">町屋 Zooooo</a>|<a href="/darts/rank/東京都/荒川区">東京都荒川区</a>|
-|44|818|akimitsu|<a href="https://search.dartslive.com/jp/shop/29a0f1045275d5070d9b047a20a7ba1e">JACK 西日暮里店</a>|<a href="/darts/rank/東京都/荒川区">東京都荒川区</a>|
-|45|815|ＤＡＩ＠駆動ＥＸ|<a href="https://search.dartslive.com/jp/shop/eedf7517fa26f7a05f9f3321c1147265">町屋 Zooooo</a>|<a href="/darts/rank/東京都/荒川区">東京都荒川区</a>|
-|45|815|ｕｔｔｉ|<a href="https://search.dartslive.com/jp/shop/15a31fcad53ee7e70d9b047a20a7ba1e">カラオケBANBAN町屋店</a>|<a href="/darts/rank/東京都/荒川区">東京都荒川区</a>|
-|47|806|もんたから|<a href="https://search.dartslive.com/jp/shop/ec2225be0773d48a0d9b047a20a7ba1e">BARREL町屋店</a>|<a href="/darts/rank/東京都/荒川区">東京都荒川区</a>|
+|25|885|もんたから|<a href="https://search.dartslive.com/jp/shop/ec2225be0773d48a0d9b047a20a7ba1e">BARREL町屋店</a>|<a href="/darts/rank/東京都/荒川区">東京都荒川区</a>|
+|26|880|あん|<a href="https://search.dartslive.com/jp/shop/29a0f1045275d5070d9b047a20a7ba1e">JACK 西日暮里店</a>|<a href="/darts/rank/東京都/荒川区">東京都荒川区</a>|
+|27|872|なか爺☆流山|<a href="https://search.dartslive.com/jp/shop/29a0f1045275d5070d9b047a20a7ba1e">JACK 西日暮里店</a>|<a href="/darts/rank/東京都/荒川区">東京都荒川区</a>|
+|28|863|やす|<a href="https://search.dartslive.com/jp/shop/15a31fcad53ee7e70d9b047a20a7ba1e">カラオケBANBAN町屋店</a>|<a href="/darts/rank/東京都/荒川区">東京都荒川区</a>|
+|29|862|keishiro✾碧|<a href="https://search.dartslive.com/jp/shop/15a31fcad53ee7e70d9b047a20a7ba1e">カラオケBANBAN町屋店</a>|<a href="/darts/rank/東京都/荒川区">東京都荒川区</a>|
+|30|861|keishiro❥碧|<a href="https://search.dartslive.com/jp/shop/15a31fcad53ee7e70d9b047a20a7ba1e">カラオケBANBAN町屋店</a>|<a href="/darts/rank/東京都/荒川区">東京都荒川区</a>|
+|31|859|中山みゆき|<a href="https://search.dartslive.com/jp/shop/ec2225be0773d48a0d9b047a20a7ba1e">BARREL町屋店</a>|<a href="/darts/rank/東京都/荒川区">東京都荒川区</a>|
+|32|858|サッキー|<a href="https://search.dartslive.com/jp/shop/eedf7517fa26f7a05f9f3321c1147265">町屋 Zooooo</a>|<a href="/darts/rank/東京都/荒川区">東京都荒川区</a>|
+|33|855|†しげ@DEARS†|<a href="https://search.dartslive.com/jp/shop/ec2225be0773d48a0d9b047a20a7ba1e">BARREL町屋店</a>|<a href="/darts/rank/東京都/荒川区">東京都荒川区</a>|
+|34|852|GERITA|<a href="https://search.dartslive.com/jp/shop/eedf7517fa26f7a05f9f3321c1147265">町屋 Zooooo</a>|<a href="/darts/rank/東京都/荒川区">東京都荒川区</a>|
+|35|851|This is ZAZY|<a href="https://search.dartslive.com/jp/shop/29a0f1045275d5070d9b047a20a7ba1e">JACK 西日暮里店</a>|<a href="/darts/rank/東京都/荒川区">東京都荒川区</a>|
+|36|842|どん＠Re:ACT|<a href="https://search.dartslive.com/jp/shop/29a0f1045275d5070d9b047a20a7ba1e">JACK 西日暮里店</a>|<a href="/darts/rank/東京都/荒川区">東京都荒川区</a>|
+|37|836|みちを|<a href="https://search.dartslive.com/jp/shop/29a0f1045275d5070d9b047a20a7ba1e">JACK 西日暮里店</a>|<a href="/darts/rank/東京都/荒川区">東京都荒川区</a>|
+|38|833|This is Bungy!|<a href="https://search.dartslive.com/jp/shop/29a0f1045275d5070d9b047a20a7ba1e">JACK 西日暮里店</a>|<a href="/darts/rank/東京都/荒川区">東京都荒川区</a>|
+|39|831|RYO1&amp;惡烏賊|<a href="https://search.dartslive.com/jp/shop/29a0f1045275d5070d9b047a20a7ba1e">JACK 西日暮里店</a>|<a href="/darts/rank/東京都/荒川区">東京都荒川区</a>|
+|40|825|けーぼー|<a href="https://search.dartslive.com/jp/shop/15a31fcad53ee7e70d9b047a20a7ba1e">カラオケBANBAN町屋店</a>|<a href="/darts/rank/東京都/荒川区">東京都荒川区</a>|
+|40|825|カニ|<a href="https://search.dartslive.com/jp/shop/ec2225be0773d48a0d9b047a20a7ba1e">BARREL町屋店</a>|<a href="/darts/rank/東京都/荒川区">東京都荒川区</a>|
+|42|823|たつ|<a href="https://search.dartslive.com/jp/shop/ec2225be0773d48a0d9b047a20a7ba1e">BARREL町屋店</a>|<a href="/darts/rank/東京都/荒川区">東京都荒川区</a>|
+|42|823|虎猫まっしぐら|<a href="https://search.dartslive.com/jp/shop/eedf7517fa26f7a05f9f3321c1147265">町屋 Zooooo</a>|<a href="/darts/rank/東京都/荒川区">東京都荒川区</a>|
+|44|819|OhiZroK|<a href="https://search.dartslive.com/jp/shop/eedf7517fa26f7a05f9f3321c1147265">町屋 Zooooo</a>|<a href="/darts/rank/東京都/荒川区">東京都荒川区</a>|
+|45|818|akimitsu|<a href="https://search.dartslive.com/jp/shop/29a0f1045275d5070d9b047a20a7ba1e">JACK 西日暮里店</a>|<a href="/darts/rank/東京都/荒川区">東京都荒川区</a>|
+|46|815|ＤＡＩ＠駆動ＥＸ|<a href="https://search.dartslive.com/jp/shop/eedf7517fa26f7a05f9f3321c1147265">町屋 Zooooo</a>|<a href="/darts/rank/東京都/荒川区">東京都荒川区</a>|
+|46|815|ｕｔｔｉ|<a href="https://search.dartslive.com/jp/shop/15a31fcad53ee7e70d9b047a20a7ba1e">カラオケBANBAN町屋店</a>|<a href="/darts/rank/東京都/荒川区">東京都荒川区</a>|
 |48|804|抜男|<a href="https://search.dartslive.com/jp/shop/eedf7517fa26f7a05f9f3321c1147265">町屋 Zooooo</a>|<a href="/darts/rank/東京都/荒川区">東京都荒川区</a>|
 |49|798|OhiZroK|<a href="https://search.dartslive.com/jp/shop/29a0f1045275d5070d9b047a20a7ba1e">JACK 西日暮里店</a>|<a href="/darts/rank/東京都/荒川区">東京都荒川区</a>|
 |50|786|Y,S★夜族|<a href="https://search.dartslive.com/jp/shop/76ba84baa052ad780d9b047a20a7ba1e">BAR BlueKiA</a>|<a href="/darts/rank/東京都/荒川区">東京都荒川区</a>|
@@ -119,7 +119,7 @@ ___
 
 ___
 
-_last update : 2024/01/21 03:05:52_
+_last update : 2024/01/21 13:38:58_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

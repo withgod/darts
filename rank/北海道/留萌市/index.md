@@ -19,25 +19,26 @@ ___
 |3|805|zio nine|<a href="https://search.dartslive.com/jp/shop/e6007222f2e58c11fec1ae84bb28bd87">DARTS BAR Genesis</a>|<a href="/darts/rank/北海道/留萌市">北海道留萌市</a>|
 |4|723|じぇい|<a href="https://search.dartslive.com/jp/shop/e6007222f2e58c11fec1ae84bb28bd87">DARTS BAR Genesis</a>|<a href="/darts/rank/北海道/留萌市">北海道留萌市</a>|
 |5|713|ヒイロ|<a href="https://search.dartslive.com/jp/shop/e6007222f2e58c11fec1ae84bb28bd87">DARTS BAR Genesis</a>|<a href="/darts/rank/北海道/留萌市">北海道留萌市</a>|
-|6|621|Halu|<a href="https://search.dartslive.com/jp/shop/e6007222f2e58c11fec1ae84bb28bd87">DARTS BAR Genesis</a>|<a href="/darts/rank/北海道/留萌市">北海道留萌市</a>|
-|7|583|asahhy7|<a href="https://search.dartslive.com/jp/shop/e6007222f2e58c11fec1ae84bb28bd87">DARTS BAR Genesis</a>|<a href="/darts/rank/北海道/留萌市">北海道留萌市</a>|
-|8|581|くるみ|<a href="https://search.dartslive.com/jp/shop/e6007222f2e58c11fec1ae84bb28bd87">DARTS BAR Genesis</a>|<a href="/darts/rank/北海道/留萌市">北海道留萌市</a>|
-|9|566|まっき|<a href="https://search.dartslive.com/jp/shop/e6007222f2e58c11fec1ae84bb28bd87">DARTS BAR Genesis</a>|<a href="/darts/rank/北海道/留萌市">北海道留萌市</a>|
-|10|551|亜斗武|<a href="https://search.dartslive.com/jp/shop/e6007222f2e58c11fec1ae84bb28bd87">DARTS BAR Genesis</a>|<a href="/darts/rank/北海道/留萌市">北海道留萌市</a>|
-|11|513|KENZO|<a href="https://search.dartslive.com/jp/shop/e6007222f2e58c11fec1ae84bb28bd87">DARTS BAR Genesis</a>|<a href="/darts/rank/北海道/留萌市">北海道留萌市</a>|
-|12|510|GunZo|<a href="https://search.dartslive.com/jp/shop/e6007222f2e58c11fec1ae84bb28bd87">DARTS BAR Genesis</a>|<a href="/darts/rank/北海道/留萌市">北海道留萌市</a>|
-|13|507|Sawaday|<a href="https://search.dartslive.com/jp/shop/e6007222f2e58c11fec1ae84bb28bd87">DARTS BAR Genesis</a>|<a href="/darts/rank/北海道/留萌市">北海道留萌市</a>|
-|14|485|٩( &#x27;ω&#x27; )و|<a href="https://search.dartslive.com/jp/shop/e6007222f2e58c11fec1ae84bb28bd87">DARTS BAR Genesis</a>|<a href="/darts/rank/北海道/留萌市">北海道留萌市</a>|
-|15|455|たかたか|<a href="https://search.dartslive.com/jp/shop/e6007222f2e58c11fec1ae84bb28bd87">DARTS BAR Genesis</a>|<a href="/darts/rank/北海道/留萌市">北海道留萌市</a>|
-|16|427|しぶや|<a href="https://search.dartslive.com/jp/shop/e6007222f2e58c11fec1ae84bb28bd87">DARTS BAR Genesis</a>|<a href="/darts/rank/北海道/留萌市">北海道留萌市</a>|
-|17|420|SUGA|<a href="https://search.dartslive.com/jp/shop/e6007222f2e58c11fec1ae84bb28bd87">DARTS BAR Genesis</a>|<a href="/darts/rank/北海道/留萌市">北海道留萌市</a>|
-|18|404|たに|<a href="https://search.dartslive.com/jp/shop/e6007222f2e58c11fec1ae84bb28bd87">DARTS BAR Genesis</a>|<a href="/darts/rank/北海道/留萌市">北海道留萌市</a>|
+|6|645|ユウディ|<a href="https://search.dartslive.com/jp/shop/e6007222f2e58c11fec1ae84bb28bd87">DARTS BAR Genesis</a>|<a href="/darts/rank/北海道/留萌市">北海道留萌市</a>|
+|7|621|Halu|<a href="https://search.dartslive.com/jp/shop/e6007222f2e58c11fec1ae84bb28bd87">DARTS BAR Genesis</a>|<a href="/darts/rank/北海道/留萌市">北海道留萌市</a>|
+|8|583|asahhy7|<a href="https://search.dartslive.com/jp/shop/e6007222f2e58c11fec1ae84bb28bd87">DARTS BAR Genesis</a>|<a href="/darts/rank/北海道/留萌市">北海道留萌市</a>|
+|9|581|くるみ|<a href="https://search.dartslive.com/jp/shop/e6007222f2e58c11fec1ae84bb28bd87">DARTS BAR Genesis</a>|<a href="/darts/rank/北海道/留萌市">北海道留萌市</a>|
+|10|566|まっき|<a href="https://search.dartslive.com/jp/shop/e6007222f2e58c11fec1ae84bb28bd87">DARTS BAR Genesis</a>|<a href="/darts/rank/北海道/留萌市">北海道留萌市</a>|
+|11|551|亜斗武|<a href="https://search.dartslive.com/jp/shop/e6007222f2e58c11fec1ae84bb28bd87">DARTS BAR Genesis</a>|<a href="/darts/rank/北海道/留萌市">北海道留萌市</a>|
+|12|513|KENZO|<a href="https://search.dartslive.com/jp/shop/e6007222f2e58c11fec1ae84bb28bd87">DARTS BAR Genesis</a>|<a href="/darts/rank/北海道/留萌市">北海道留萌市</a>|
+|13|510|GunZo|<a href="https://search.dartslive.com/jp/shop/e6007222f2e58c11fec1ae84bb28bd87">DARTS BAR Genesis</a>|<a href="/darts/rank/北海道/留萌市">北海道留萌市</a>|
+|14|507|Sawaday|<a href="https://search.dartslive.com/jp/shop/e6007222f2e58c11fec1ae84bb28bd87">DARTS BAR Genesis</a>|<a href="/darts/rank/北海道/留萌市">北海道留萌市</a>|
+|15|485|٩( &#x27;ω&#x27; )و|<a href="https://search.dartslive.com/jp/shop/e6007222f2e58c11fec1ae84bb28bd87">DARTS BAR Genesis</a>|<a href="/darts/rank/北海道/留萌市">北海道留萌市</a>|
+|16|455|たかたか|<a href="https://search.dartslive.com/jp/shop/e6007222f2e58c11fec1ae84bb28bd87">DARTS BAR Genesis</a>|<a href="/darts/rank/北海道/留萌市">北海道留萌市</a>|
+|17|427|しぶや|<a href="https://search.dartslive.com/jp/shop/e6007222f2e58c11fec1ae84bb28bd87">DARTS BAR Genesis</a>|<a href="/darts/rank/北海道/留萌市">北海道留萌市</a>|
+|18|420|SUGA|<a href="https://search.dartslive.com/jp/shop/e6007222f2e58c11fec1ae84bb28bd87">DARTS BAR Genesis</a>|<a href="/darts/rank/北海道/留萌市">北海道留萌市</a>|
+|19|404|たに|<a href="https://search.dartslive.com/jp/shop/e6007222f2e58c11fec1ae84bb28bd87">DARTS BAR Genesis</a>|<a href="/darts/rank/北海道/留萌市">北海道留萌市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:48_
+_last update : 2024/01/21 13:38:53_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

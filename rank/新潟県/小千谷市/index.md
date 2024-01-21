@@ -30,16 +30,13 @@ ___
 |14|695|だいち|<a href="https://search.dartslive.com/jp/shop/2c6f1df2baa1297e0d9b047a20a7ba1e">UP's 小千谷店</a>|<a href="/darts/rank/新潟県/小千谷市">新潟県小千谷市</a>|
 |15|691|ヤマD|<a href="https://search.dartslive.com/jp/shop/2c6f1df2baa1297e0d9b047a20a7ba1e">UP's 小千谷店</a>|<a href="/darts/rank/新潟県/小千谷市">新潟県小千谷市</a>|
 |16|656|カピー|<a href="https://search.dartslive.com/jp/shop/2c6f1df2baa1297e0d9b047a20a7ba1e">UP's 小千谷店</a>|<a href="/darts/rank/新潟県/小千谷市">新潟県小千谷市</a>|
-|17|636|ズーマー|<a href="https://search.dartslive.com/jp/shop/2c6f1df2baa1297e0d9b047a20a7ba1e">UP's 小千谷店</a>|<a href="/darts/rank/新潟県/小千谷市">新潟県小千谷市</a>|
-|18|617|ルンルンみのるん|<a href="https://search.dartslive.com/jp/shop/2c6f1df2baa1297e0d9b047a20a7ba1e">UP's 小千谷店</a>|<a href="/darts/rank/新潟県/小千谷市">新潟県小千谷市</a>|
-|19|545|しょーちゃん|<a href="https://search.dartslive.com/jp/shop/2c6f1df2baa1297e0d9b047a20a7ba1e">UP's 小千谷店</a>|<a href="/darts/rank/新潟県/小千谷市">新潟県小千谷市</a>|
-|20|495|おしりしり|<a href="https://search.dartslive.com/jp/shop/2c6f1df2baa1297e0d9b047a20a7ba1e">UP's 小千谷店</a>|<a href="/darts/rank/新潟県/小千谷市">新潟県小千谷市</a>|
+|17|495|おしりしり|<a href="https://search.dartslive.com/jp/shop/2c6f1df2baa1297e0d9b047a20a7ba1e">UP's 小千谷店</a>|<a href="/darts/rank/新潟県/小千谷市">新潟県小千谷市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:52_
+_last update : 2024/01/21 13:38:59_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

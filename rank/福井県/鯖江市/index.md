@@ -31,14 +31,12 @@ ___
 |15|724|おいたん|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
 |15|724|村松和|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
 |17|713|しょぼにゃん|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|18|684|((｢･ω･)｢≡|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
-|19|640|(*•v•*)&lt;Yo!|<a href="https://search.dartslive.com/jp/shop/c2b300ceea77b6a6f454cb89828a1cfe">快活CLUB 鯖江店</a>|<a href="/darts/rank/福井県/鯖江市">福井県鯖江市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:53_
+_last update : 2024/01/21 13:39:00_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

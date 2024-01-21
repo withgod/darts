@@ -26,23 +26,24 @@ ___
 |10|564|C卍M|<a href="https://search.dartslive.com/jp/shop/d012009d412e35d9774c926eb736cb5a">千葉レジャーランド成東店</a>|<a href="/darts/rank/千葉県/山武市">千葉県山武市</a>|
 |10|564|チョコニキ|<a href="https://search.dartslive.com/jp/shop/d012009d412e35d9774c926eb736cb5a">千葉レジャーランド成東店</a>|<a href="/darts/rank/千葉県/山武市">千葉県山武市</a>|
 |12|550|くをれ|<a href="https://search.dartslive.com/jp/shop/d012009d412e35d9774c926eb736cb5a">千葉レジャーランド成東店</a>|<a href="/darts/rank/千葉県/山武市">千葉県山武市</a>|
+|13|519|たつ|<a href="https://search.dartslive.com/jp/shop/d012009d412e35d9774c926eb736cb5a">千葉レジャーランド成東店</a>|<a href="/darts/rank/千葉県/山武市">千葉県山武市</a>|
 |13|519|房州一派《ぺこ》|<a href="https://search.dartslive.com/jp/shop/d012009d412e35d9774c926eb736cb5a">千葉レジャーランド成東店</a>|<a href="/darts/rank/千葉県/山武市">千葉県山武市</a>|
-|14|508|なちゃ|<a href="https://search.dartslive.com/jp/shop/d012009d412e35d9774c926eb736cb5a">千葉レジャーランド成東店</a>|<a href="/darts/rank/千葉県/山武市">千葉県山武市</a>|
-|15|499|774YAM!|<a href="https://search.dartslive.com/jp/shop/d012009d412e35d9774c926eb736cb5a">千葉レジャーランド成東店</a>|<a href="/darts/rank/千葉県/山武市">千葉県山武市</a>|
-|15|499|NO NAME 3943|<a href="https://search.dartslive.com/jp/shop/d012009d412e35d9774c926eb736cb5a">千葉レジャーランド成東店</a>|<a href="/darts/rank/千葉県/山武市">千葉県山武市</a>|
-|17|492|☆VELL☆|<a href="https://search.dartslive.com/jp/shop/d012009d412e35d9774c926eb736cb5a">千葉レジャーランド成東店</a>|<a href="/darts/rank/千葉県/山武市">千葉県山武市</a>|
-|18|481|Randomizer|<a href="https://search.dartslive.com/jp/shop/d012009d412e35d9774c926eb736cb5a">千葉レジャーランド成東店</a>|<a href="/darts/rank/千葉県/山武市">千葉県山武市</a>|
+|15|508|なちゃ|<a href="https://search.dartslive.com/jp/shop/d012009d412e35d9774c926eb736cb5a">千葉レジャーランド成東店</a>|<a href="/darts/rank/千葉県/山武市">千葉県山武市</a>|
+|16|499|774YAM!|<a href="https://search.dartslive.com/jp/shop/d012009d412e35d9774c926eb736cb5a">千葉レジャーランド成東店</a>|<a href="/darts/rank/千葉県/山武市">千葉県山武市</a>|
+|16|499|NO NAME 3943|<a href="https://search.dartslive.com/jp/shop/d012009d412e35d9774c926eb736cb5a">千葉レジャーランド成東店</a>|<a href="/darts/rank/千葉県/山武市">千葉県山武市</a>|
+|18|492|☆VELL☆|<a href="https://search.dartslive.com/jp/shop/d012009d412e35d9774c926eb736cb5a">千葉レジャーランド成東店</a>|<a href="/darts/rank/千葉県/山武市">千葉県山武市</a>|
 |19|449|∬*Ageha*∬|<a href="https://search.dartslive.com/jp/shop/d012009d412e35d9774c926eb736cb5a">千葉レジャーランド成東店</a>|<a href="/darts/rank/千葉県/山武市">千葉県山武市</a>|
 |20|430|CHII|<a href="https://search.dartslive.com/jp/shop/d012009d412e35d9774c926eb736cb5a">千葉レジャーランド成東店</a>|<a href="/darts/rank/千葉県/山武市">千葉県山武市</a>|
 |21|423|moumou|<a href="https://search.dartslive.com/jp/shop/d012009d412e35d9774c926eb736cb5a">千葉レジャーランド成東店</a>|<a href="/darts/rank/千葉県/山武市">千葉県山武市</a>|
 |22|404|みぃちゃん|<a href="https://search.dartslive.com/jp/shop/d012009d412e35d9774c926eb736cb5a">千葉レジャーランド成東店</a>|<a href="/darts/rank/千葉県/山武市">千葉県山武市</a>|
-|23|313|モモンガ|<a href="https://search.dartslive.com/jp/shop/d012009d412e35d9774c926eb736cb5a">千葉レジャーランド成東店</a>|<a href="/darts/rank/千葉県/山武市">千葉県山武市</a>|
+|23|391|ゆん|<a href="https://search.dartslive.com/jp/shop/d012009d412e35d9774c926eb736cb5a">千葉レジャーランド成東店</a>|<a href="/darts/rank/千葉県/山武市">千葉県山武市</a>|
+|24|313|モモンガ|<a href="https://search.dartslive.com/jp/shop/d012009d412e35d9774c926eb736cb5a">千葉レジャーランド成東店</a>|<a href="/darts/rank/千葉県/山武市">千葉県山武市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:51_
+_last update : 2024/01/21 13:38:57_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

@@ -31,13 +31,14 @@ ___
 |15|517|トーレス|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
 |16|510|K|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
 |17|462|A|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
-|18|280|み|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
+|18|294|mako|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
+|19|280|み|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:51_
+_last update : 2024/01/21 13:38:56_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

@@ -14,12 +14,16 @@ ___
 {:.table-ranking}
 |ランク|スコア|名前|店名|所在地|
 |---|---|---|---|---|
+|1|677|Dragon坊主|<a href="https://search.dartslive.com/jp/shop/d7dbb13cdb8ed1560d9b047a20a7ba1e">DragonBowZ</a>|<a href="/darts/rank/愛媛県/伊予市">愛媛県伊予市</a>|
+|2|616|Kawata Maria|<a href="https://search.dartslive.com/jp/shop/d7dbb13cdb8ed1560d9b047a20a7ba1e">DragonBowZ</a>|<a href="/darts/rank/愛媛県/伊予市">愛媛県伊予市</a>|
+|3|604|k5uk@龍坊主|<a href="https://search.dartslive.com/jp/shop/d7dbb13cdb8ed1560d9b047a20a7ba1e">DragonBowZ</a>|<a href="/darts/rank/愛媛県/伊予市">愛媛県伊予市</a>|
+|4|410|✹✹✹き✹✹✹|<a href="https://search.dartslive.com/jp/shop/d7dbb13cdb8ed1560d9b047a20a7ba1e">DragonBowZ</a>|<a href="/darts/rank/愛媛県/伊予市">愛媛県伊予市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:56_
+_last update : 2024/01/21 13:39:07_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

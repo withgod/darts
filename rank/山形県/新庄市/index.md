@@ -27,18 +27,20 @@ ___
 |11|724|やくわ|<a href="https://search.dartslive.com/jp/shop/d947dff43137d50d0d9b047a20a7ba1e">カラオケBANBAN新庄駅前店</a>|<a href="/darts/rank/山形県/新庄市">山形県新庄市</a>|
 |12|708|Matthew|<a href="https://search.dartslive.com/jp/shop/d947dff43137d50d0d9b047a20a7ba1e">カラオケBANBAN新庄駅前店</a>|<a href="/darts/rank/山形県/新庄市">山形県新庄市</a>|
 |13|700|Journey|<a href="https://search.dartslive.com/jp/shop/d947dff43137d50d0d9b047a20a7ba1e">カラオケBANBAN新庄駅前店</a>|<a href="/darts/rank/山形県/新庄市">山形県新庄市</a>|
-|14|678|azu|<a href="https://search.dartslive.com/jp/shop/d947dff43137d50d0d9b047a20a7ba1e">カラオケBANBAN新庄駅前店</a>|<a href="/darts/rank/山形県/新庄市">山形県新庄市</a>|
-|15|674|簗瀬 英人|<a href="https://search.dartslive.com/jp/shop/d947dff43137d50d0d9b047a20a7ba1e">カラオケBANBAN新庄駅前店</a>|<a href="/darts/rank/山形県/新庄市">山形県新庄市</a>|
-|16|670|mai.t|<a href="https://search.dartslive.com/jp/shop/d947dff43137d50d0d9b047a20a7ba1e">カラオケBANBAN新庄駅前店</a>|<a href="/darts/rank/山形県/新庄市">山形県新庄市</a>|
-|17|667|kuro.XT|<a href="https://search.dartslive.com/jp/shop/d947dff43137d50d0d9b047a20a7ba1e">カラオケBANBAN新庄駅前店</a>|<a href="/darts/rank/山形県/新庄市">山形県新庄市</a>|
-|18|651|いろはす。|<a href="https://search.dartslive.com/jp/shop/d947dff43137d50d0d9b047a20a7ba1e">カラオケBANBAN新庄駅前店</a>|<a href="/darts/rank/山形県/新庄市">山形県新庄市</a>|
-|19|546|▷Erida Wong.|<a href="https://search.dartslive.com/jp/shop/d947dff43137d50d0d9b047a20a7ba1e">カラオケBANBAN新庄駅前店</a>|<a href="/darts/rank/山形県/新庄市">山形県新庄市</a>|
+|14|690|ずんや|<a href="https://search.dartslive.com/jp/shop/d947dff43137d50d0d9b047a20a7ba1e">カラオケBANBAN新庄駅前店</a>|<a href="/darts/rank/山形県/新庄市">山形県新庄市</a>|
+|15|678|azu|<a href="https://search.dartslive.com/jp/shop/d947dff43137d50d0d9b047a20a7ba1e">カラオケBANBAN新庄駅前店</a>|<a href="/darts/rank/山形県/新庄市">山形県新庄市</a>|
+|16|674|簗瀬 英人|<a href="https://search.dartslive.com/jp/shop/d947dff43137d50d0d9b047a20a7ba1e">カラオケBANBAN新庄駅前店</a>|<a href="/darts/rank/山形県/新庄市">山形県新庄市</a>|
+|17|670|mai.t|<a href="https://search.dartslive.com/jp/shop/d947dff43137d50d0d9b047a20a7ba1e">カラオケBANBAN新庄駅前店</a>|<a href="/darts/rank/山形県/新庄市">山形県新庄市</a>|
+|18|667|kuro.XT|<a href="https://search.dartslive.com/jp/shop/d947dff43137d50d0d9b047a20a7ba1e">カラオケBANBAN新庄駅前店</a>|<a href="/darts/rank/山形県/新庄市">山形県新庄市</a>|
+|19|651|いろはす。|<a href="https://search.dartslive.com/jp/shop/d947dff43137d50d0d9b047a20a7ba1e">カラオケBANBAN新庄駅前店</a>|<a href="/darts/rank/山形県/新庄市">山形県新庄市</a>|
+|20|546|▷Erida Wong.|<a href="https://search.dartslive.com/jp/shop/d947dff43137d50d0d9b047a20a7ba1e">カラオケBANBAN新庄駅前店</a>|<a href="/darts/rank/山形県/新庄市">山形県新庄市</a>|
+|21|463|NO NAME 8678|<a href="https://search.dartslive.com/jp/shop/d947dff43137d50d0d9b047a20a7ba1e">カラオケBANBAN新庄駅前店</a>|<a href="/darts/rank/山形県/新庄市">山形県新庄市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:49_
+_last update : 2024/01/21 13:38:54_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

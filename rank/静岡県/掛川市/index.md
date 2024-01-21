@@ -29,15 +29,14 @@ ___
 |13|698|まひ|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
 |14|621|BBB|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
 |15|618|ヒロロ|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|16|537|Asufaru|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|17|507|yuka|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|18|304|443.|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|16|507|yuka|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|17|304|443.|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:53_
+_last update : 2024/01/21 13:39:01_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

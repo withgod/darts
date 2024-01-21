@@ -14,12 +14,19 @@ ___
 {:.table-ranking}
 |ランク|スコア|名前|店名|所在地|
 |---|---|---|---|---|
+|1|957|49★発光！深夜族|<a href="https://search.dartslive.com/jp/shop/d63bc017efb3d01b790ab824ce8730e5">After Dark</a>|<a href="/darts/rank/宮崎県/日向市">宮崎県日向市</a>|
+|2|855|雅|<a href="https://search.dartslive.com/jp/shop/d63bc017efb3d01b790ab824ce8730e5">After Dark</a>|<a href="/darts/rank/宮崎県/日向市">宮崎県日向市</a>|
+|3|701|NAOKI|<a href="https://search.dartslive.com/jp/shop/d63bc017efb3d01b790ab824ce8730e5">After Dark</a>|<a href="/darts/rank/宮崎県/日向市">宮崎県日向市</a>|
+|4|612|YAMASU|<a href="https://search.dartslive.com/jp/shop/d63bc017efb3d01b790ab824ce8730e5">After Dark</a>|<a href="/darts/rank/宮崎県/日向市">宮崎県日向市</a>|
+|5|580|まさブルビッチ〜|<a href="https://search.dartslive.com/jp/shop/d63bc017efb3d01b790ab824ce8730e5">After Dark</a>|<a href="/darts/rank/宮崎県/日向市">宮崎県日向市</a>|
+|6|527|kai|<a href="https://search.dartslive.com/jp/shop/d63bc017efb3d01b790ab824ce8730e5">After Dark</a>|<a href="/darts/rank/宮崎県/日向市">宮崎県日向市</a>|
+|7|418|しょーん@Ageha|<a href="https://search.dartslive.com/jp/shop/d63bc017efb3d01b790ab824ce8730e5">After Dark</a>|<a href="/darts/rank/宮崎県/日向市">宮崎県日向市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:57_
+_last update : 2024/01/21 13:39:08_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

@@ -38,20 +38,22 @@ ___
 |22|580|アガシ|<a href="https://search.dartslive.com/jp/shop/878d3c8f2bf0858a790ab824ce8730e5">快活CLUB 16号野田店</a>|<a href="/darts/rank/千葉県/野田市">千葉県野田市</a>|
 |23|551|裏kumako|<a href="https://search.dartslive.com/jp/shop/878d3c8f2bf0858a790ab824ce8730e5">快活CLUB 16号野田店</a>|<a href="/darts/rank/千葉県/野田市">千葉県野田市</a>|
 |24|544|MAO|<a href="https://search.dartslive.com/jp/shop/878d3c8f2bf0858a790ab824ce8730e5">快活CLUB 16号野田店</a>|<a href="/darts/rank/千葉県/野田市">千葉県野田市</a>|
-|25|478|奈落|<a href="https://search.dartslive.com/jp/shop/878d3c8f2bf0858a790ab824ce8730e5">快活CLUB 16号野田店</a>|<a href="/darts/rank/千葉県/野田市">千葉県野田市</a>|
-|26|471|NO NAME 1878|<a href="https://search.dartslive.com/jp/shop/878d3c8f2bf0858a790ab824ce8730e5">快活CLUB 16号野田店</a>|<a href="/darts/rank/千葉県/野田市">千葉県野田市</a>|
-|27|438|ito|<a href="https://search.dartslive.com/jp/shop/878d3c8f2bf0858a790ab824ce8730e5">快活CLUB 16号野田店</a>|<a href="/darts/rank/千葉県/野田市">千葉県野田市</a>|
-|28|426|despair|<a href="https://search.dartslive.com/jp/shop/878d3c8f2bf0858a790ab824ce8730e5">快活CLUB 16号野田店</a>|<a href="/darts/rank/千葉県/野田市">千葉県野田市</a>|
-|29|415|u-ka|<a href="https://search.dartslive.com/jp/shop/878d3c8f2bf0858a790ab824ce8730e5">快活CLUB 16号野田店</a>|<a href="/darts/rank/千葉県/野田市">千葉県野田市</a>|
-|30|376|りか|<a href="https://search.dartslive.com/jp/shop/878d3c8f2bf0858a790ab824ce8730e5">快活CLUB 16号野田店</a>|<a href="/darts/rank/千葉県/野田市">千葉県野田市</a>|
-|31|364|HK|<a href="https://search.dartslive.com/jp/shop/878d3c8f2bf0858a790ab824ce8730e5">快活CLUB 16号野田店</a>|<a href="/darts/rank/千葉県/野田市">千葉県野田市</a>|
-|32|321|かおりん|<a href="https://search.dartslive.com/jp/shop/878d3c8f2bf0858a790ab824ce8730e5">快活CLUB 16号野田店</a>|<a href="/darts/rank/千葉県/野田市">千葉県野田市</a>|
+|25|494|えだまめ　極み|<a href="https://search.dartslive.com/jp/shop/878d3c8f2bf0858a790ab824ce8730e5">快活CLUB 16号野田店</a>|<a href="/darts/rank/千葉県/野田市">千葉県野田市</a>|
+|26|478|奈落|<a href="https://search.dartslive.com/jp/shop/878d3c8f2bf0858a790ab824ce8730e5">快活CLUB 16号野田店</a>|<a href="/darts/rank/千葉県/野田市">千葉県野田市</a>|
+|27|471|NO NAME 1878|<a href="https://search.dartslive.com/jp/shop/878d3c8f2bf0858a790ab824ce8730e5">快活CLUB 16号野田店</a>|<a href="/darts/rank/千葉県/野田市">千葉県野田市</a>|
+|28|438|ito|<a href="https://search.dartslive.com/jp/shop/878d3c8f2bf0858a790ab824ce8730e5">快活CLUB 16号野田店</a>|<a href="/darts/rank/千葉県/野田市">千葉県野田市</a>|
+|29|426|despair|<a href="https://search.dartslive.com/jp/shop/878d3c8f2bf0858a790ab824ce8730e5">快活CLUB 16号野田店</a>|<a href="/darts/rank/千葉県/野田市">千葉県野田市</a>|
+|30|415|u-ka|<a href="https://search.dartslive.com/jp/shop/878d3c8f2bf0858a790ab824ce8730e5">快活CLUB 16号野田店</a>|<a href="/darts/rank/千葉県/野田市">千葉県野田市</a>|
+|31|381|ゆゆうた|<a href="https://search.dartslive.com/jp/shop/878d3c8f2bf0858a790ab824ce8730e5">快活CLUB 16号野田店</a>|<a href="/darts/rank/千葉県/野田市">千葉県野田市</a>|
+|32|376|りか|<a href="https://search.dartslive.com/jp/shop/878d3c8f2bf0858a790ab824ce8730e5">快活CLUB 16号野田店</a>|<a href="/darts/rank/千葉県/野田市">千葉県野田市</a>|
+|33|364|HK|<a href="https://search.dartslive.com/jp/shop/878d3c8f2bf0858a790ab824ce8730e5">快活CLUB 16号野田店</a>|<a href="/darts/rank/千葉県/野田市">千葉県野田市</a>|
+|34|321|かおりん|<a href="https://search.dartslive.com/jp/shop/878d3c8f2bf0858a790ab824ce8730e5">快活CLUB 16号野田店</a>|<a href="/darts/rank/千葉県/野田市">千葉県野田市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:51_
+_last update : 2024/01/21 13:38:57_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

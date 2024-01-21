@@ -14,9 +14,9 @@ ___
 {:.table-ranking}
 |ランク|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|969|いいじまけいき|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
-|2|968|DAI-1@メガネ部|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
-|3|965|だい☆軌道戦士|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|1|1050|だい☆軌道戦士|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|2|969|いいじまけいき|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|3|968|DAI-1@メガネ部|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
 |4|961|こばのりーさん|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
 |5|820|和製 ルーニー|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
 |6|774|あっくん|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
@@ -36,7 +36,7 @@ ___
 
 ___
 
-_last update : 2024/01/21 03:05:50_
+_last update : 2024/01/21 13:38:56_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

@@ -15,40 +15,38 @@ ___
 |ランク|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|1006|…|<a href="https://search.dartslive.com/jp/shop/d51bd0e520b7a6dd0d9b047a20a7ba1e">ビッグベンカフェ勝田店</a>|<a href="/darts/rank/茨城県/ひたちなか市">茨城県ひたちなか市</a>|
-|2|977|NAO|<a href="https://search.dartslive.com/jp/shop/d51bd0e520b7a6dd0d9b047a20a7ba1e">ビッグベンカフェ勝田店</a>|<a href="/darts/rank/茨城県/ひたちなか市">茨城県ひたちなか市</a>|
-|3|929|ひがし丸|<a href="https://search.dartslive.com/jp/shop/d51bd0e520b7a6dd0d9b047a20a7ba1e">ビッグベンカフェ勝田店</a>|<a href="/darts/rank/茨城県/ひたちなか市">茨城県ひたちなか市</a>|
-|4|923|ＴＡＫＡ|<a href="https://search.dartslive.com/jp/shop/d51bd0e520b7a6dd0d9b047a20a7ba1e">ビッグベンカフェ勝田店</a>|<a href="/darts/rank/茨城県/ひたちなか市">茨城県ひたちなか市</a>|
-|5|899|用具屋R!|<a href="https://search.dartslive.com/jp/shop/d51bd0e520b7a6dd0d9b047a20a7ba1e">ビッグベンカフェ勝田店</a>|<a href="/darts/rank/茨城県/ひたちなか市">茨城県ひたちなか市</a>|
-|6|882|ギミゲ77@SDS|<a href="https://search.dartslive.com/jp/shop/d51bd0e520b7a6dd0d9b047a20a7ba1e">ビッグベンカフェ勝田店</a>|<a href="/darts/rank/茨城県/ひたちなか市">茨城県ひたちなか市</a>|
-|7|869|いとうこういち☆|<a href="https://search.dartslive.com/jp/shop/d51bd0e520b7a6dd0d9b047a20a7ba1e">ビッグベンカフェ勝田店</a>|<a href="/darts/rank/茨城県/ひたちなか市">茨城県ひたちなか市</a>|
-|8|844|もんぬぅ|<a href="https://search.dartslive.com/jp/shop/d51bd0e520b7a6dd0d9b047a20a7ba1e">ビッグベンカフェ勝田店</a>|<a href="/darts/rank/茨城県/ひたちなか市">茨城県ひたちなか市</a>|
-|9|835|pico|<a href="https://search.dartslive.com/jp/shop/d51bd0e520b7a6dd0d9b047a20a7ba1e">ビッグベンカフェ勝田店</a>|<a href="/darts/rank/茨城県/ひたちなか市">茨城県ひたちなか市</a>|
-|10|834|=Honey Bee=洋|<a href="https://search.dartslive.com/jp/shop/d51bd0e520b7a6dd0d9b047a20a7ba1e">ビッグベンカフェ勝田店</a>|<a href="/darts/rank/茨城県/ひたちなか市">茨城県ひたちなか市</a>|
-|11|830|issei|<a href="https://search.dartslive.com/jp/shop/d51bd0e520b7a6dd0d9b047a20a7ba1e">ビッグベンカフェ勝田店</a>|<a href="/darts/rank/茨城県/ひたちなか市">茨城県ひたちなか市</a>|
-|12|823|松本 隆皐|<a href="https://search.dartslive.com/jp/shop/d51bd0e520b7a6dd0d9b047a20a7ba1e">ビッグベンカフェ勝田店</a>|<a href="/darts/rank/茨城県/ひたちなか市">茨城県ひたちなか市</a>|
-|13|795|hiro|<a href="https://search.dartslive.com/jp/shop/d51bd0e520b7a6dd0d9b047a20a7ba1e">ビッグベンカフェ勝田店</a>|<a href="/darts/rank/茨城県/ひたちなか市">茨城県ひたちなか市</a>|
-|14|789|Agito|<a href="https://search.dartslive.com/jp/shop/d51bd0e520b7a6dd0d9b047a20a7ba1e">ビッグベンカフェ勝田店</a>|<a href="/darts/rank/茨城県/ひたちなか市">茨城県ひたちなか市</a>|
-|15|765|ななし|<a href="https://search.dartslive.com/jp/shop/d51bd0e520b7a6dd0d9b047a20a7ba1e">ビッグベンカフェ勝田店</a>|<a href="/darts/rank/茨城県/ひたちなか市">茨城県ひたちなか市</a>|
-|16|755|フルーツポンチ侍|<a href="https://search.dartslive.com/jp/shop/d51bd0e520b7a6dd0d9b047a20a7ba1e">ビッグベンカフェ勝田店</a>|<a href="/darts/rank/茨城県/ひたちなか市">茨城県ひたちなか市</a>|
-|17|754|KoaKuTsu*|<a href="https://search.dartslive.com/jp/shop/d51bd0e520b7a6dd0d9b047a20a7ba1e">ビッグベンカフェ勝田店</a>|<a href="/darts/rank/茨城県/ひたちなか市">茨城県ひたちなか市</a>|
-|18|753|べべ|<a href="https://search.dartslive.com/jp/shop/d51bd0e520b7a6dd0d9b047a20a7ba1e">ビッグベンカフェ勝田店</a>|<a href="/darts/rank/茨城県/ひたちなか市">茨城県ひたちなか市</a>|
-|19|727|りょうさん|<a href="https://search.dartslive.com/jp/shop/d51bd0e520b7a6dd0d9b047a20a7ba1e">ビッグベンカフェ勝田店</a>|<a href="/darts/rank/茨城県/ひたちなか市">茨城県ひたちなか市</a>|
-|20|716|5g|<a href="https://search.dartslive.com/jp/shop/d51bd0e520b7a6dd0d9b047a20a7ba1e">ビッグベンカフェ勝田店</a>|<a href="/darts/rank/茨城県/ひたちなか市">茨城県ひたちなか市</a>|
-|21|599|三毛猫解散|<a href="https://search.dartslive.com/jp/shop/d51bd0e520b7a6dd0d9b047a20a7ba1e">ビッグベンカフェ勝田店</a>|<a href="/darts/rank/茨城県/ひたちなか市">茨城県ひたちなか市</a>|
-|22|475|5gセパ|<a href="https://search.dartslive.com/jp/shop/d51bd0e520b7a6dd0d9b047a20a7ba1e">ビッグベンカフェ勝田店</a>|<a href="/darts/rank/茨城県/ひたちなか市">茨城県ひたちなか市</a>|
-|23|444|nao|<a href="https://search.dartslive.com/jp/shop/d51bd0e520b7a6dd0d9b047a20a7ba1e">ビッグベンカフェ勝田店</a>|<a href="/darts/rank/茨城県/ひたちなか市">茨城県ひたちなか市</a>|
-|24|440|シャムネコ|<a href="https://search.dartslive.com/jp/shop/d51bd0e520b7a6dd0d9b047a20a7ba1e">ビッグベンカフェ勝田店</a>|<a href="/darts/rank/茨城県/ひたちなか市">茨城県ひたちなか市</a>|
-|25|418|MITSUNARI|<a href="https://search.dartslive.com/jp/shop/d51bd0e520b7a6dd0d9b047a20a7ba1e">ビッグベンカフェ勝田店</a>|<a href="/darts/rank/茨城県/ひたちなか市">茨城県ひたちなか市</a>|
-|26|417|村田|<a href="https://search.dartslive.com/jp/shop/d51bd0e520b7a6dd0d9b047a20a7ba1e">ビッグベンカフェ勝田店</a>|<a href="/darts/rank/茨城県/ひたちなか市">茨城県ひたちなか市</a>|
-|27|407|RIO|<a href="https://search.dartslive.com/jp/shop/d51bd0e520b7a6dd0d9b047a20a7ba1e">ビッグベンカフェ勝田店</a>|<a href="/darts/rank/茨城県/ひたちなか市">茨城県ひたちなか市</a>|
-|28|344|Y u n a|<a href="https://search.dartslive.com/jp/shop/d51bd0e520b7a6dd0d9b047a20a7ba1e">ビッグベンカフェ勝田店</a>|<a href="/darts/rank/茨城県/ひたちなか市">茨城県ひたちなか市</a>|
-|29|240|桜花|<a href="https://search.dartslive.com/jp/shop/d51bd0e520b7a6dd0d9b047a20a7ba1e">ビッグベンカフェ勝田店</a>|<a href="/darts/rank/茨城県/ひたちなか市">茨城県ひたちなか市</a>|
+|2|996|りょうさん|<a href="https://search.dartslive.com/jp/shop/d51bd0e520b7a6dd0d9b047a20a7ba1e">ビッグベンカフェ勝田店</a>|<a href="/darts/rank/茨城県/ひたちなか市">茨城県ひたちなか市</a>|
+|3|977|NAO|<a href="https://search.dartslive.com/jp/shop/d51bd0e520b7a6dd0d9b047a20a7ba1e">ビッグベンカフェ勝田店</a>|<a href="/darts/rank/茨城県/ひたちなか市">茨城県ひたちなか市</a>|
+|4|929|ひがし丸|<a href="https://search.dartslive.com/jp/shop/d51bd0e520b7a6dd0d9b047a20a7ba1e">ビッグベンカフェ勝田店</a>|<a href="/darts/rank/茨城県/ひたちなか市">茨城県ひたちなか市</a>|
+|5|923|ＴＡＫＡ|<a href="https://search.dartslive.com/jp/shop/d51bd0e520b7a6dd0d9b047a20a7ba1e">ビッグベンカフェ勝田店</a>|<a href="/darts/rank/茨城県/ひたちなか市">茨城県ひたちなか市</a>|
+|6|899|用具屋R!|<a href="https://search.dartslive.com/jp/shop/d51bd0e520b7a6dd0d9b047a20a7ba1e">ビッグベンカフェ勝田店</a>|<a href="/darts/rank/茨城県/ひたちなか市">茨城県ひたちなか市</a>|
+|7|882|ギミゲ77@SDS|<a href="https://search.dartslive.com/jp/shop/d51bd0e520b7a6dd0d9b047a20a7ba1e">ビッグベンカフェ勝田店</a>|<a href="/darts/rank/茨城県/ひたちなか市">茨城県ひたちなか市</a>|
+|8|869|いとうこういち☆|<a href="https://search.dartslive.com/jp/shop/d51bd0e520b7a6dd0d9b047a20a7ba1e">ビッグベンカフェ勝田店</a>|<a href="/darts/rank/茨城県/ひたちなか市">茨城県ひたちなか市</a>|
+|9|844|もんぬぅ|<a href="https://search.dartslive.com/jp/shop/d51bd0e520b7a6dd0d9b047a20a7ba1e">ビッグベンカフェ勝田店</a>|<a href="/darts/rank/茨城県/ひたちなか市">茨城県ひたちなか市</a>|
+|10|835|pico|<a href="https://search.dartslive.com/jp/shop/d51bd0e520b7a6dd0d9b047a20a7ba1e">ビッグベンカフェ勝田店</a>|<a href="/darts/rank/茨城県/ひたちなか市">茨城県ひたちなか市</a>|
+|11|834|=Honey Bee=洋|<a href="https://search.dartslive.com/jp/shop/d51bd0e520b7a6dd0d9b047a20a7ba1e">ビッグベンカフェ勝田店</a>|<a href="/darts/rank/茨城県/ひたちなか市">茨城県ひたちなか市</a>|
+|12|830|issei|<a href="https://search.dartslive.com/jp/shop/d51bd0e520b7a6dd0d9b047a20a7ba1e">ビッグベンカフェ勝田店</a>|<a href="/darts/rank/茨城県/ひたちなか市">茨城県ひたちなか市</a>|
+|13|823|松本 隆皐|<a href="https://search.dartslive.com/jp/shop/d51bd0e520b7a6dd0d9b047a20a7ba1e">ビッグベンカフェ勝田店</a>|<a href="/darts/rank/茨城県/ひたちなか市">茨城県ひたちなか市</a>|
+|14|795|hiro|<a href="https://search.dartslive.com/jp/shop/d51bd0e520b7a6dd0d9b047a20a7ba1e">ビッグベンカフェ勝田店</a>|<a href="/darts/rank/茨城県/ひたちなか市">茨城県ひたちなか市</a>|
+|15|789|Agito|<a href="https://search.dartslive.com/jp/shop/d51bd0e520b7a6dd0d9b047a20a7ba1e">ビッグベンカフェ勝田店</a>|<a href="/darts/rank/茨城県/ひたちなか市">茨城県ひたちなか市</a>|
+|16|765|ななし|<a href="https://search.dartslive.com/jp/shop/d51bd0e520b7a6dd0d9b047a20a7ba1e">ビッグベンカフェ勝田店</a>|<a href="/darts/rank/茨城県/ひたちなか市">茨城県ひたちなか市</a>|
+|17|755|フルーツポンチ侍|<a href="https://search.dartslive.com/jp/shop/d51bd0e520b7a6dd0d9b047a20a7ba1e">ビッグベンカフェ勝田店</a>|<a href="/darts/rank/茨城県/ひたちなか市">茨城県ひたちなか市</a>|
+|18|754|KoaKuTsu*|<a href="https://search.dartslive.com/jp/shop/d51bd0e520b7a6dd0d9b047a20a7ba1e">ビッグベンカフェ勝田店</a>|<a href="/darts/rank/茨城県/ひたちなか市">茨城県ひたちなか市</a>|
+|19|716|5g|<a href="https://search.dartslive.com/jp/shop/d51bd0e520b7a6dd0d9b047a20a7ba1e">ビッグベンカフェ勝田店</a>|<a href="/darts/rank/茨城県/ひたちなか市">茨城県ひたちなか市</a>|
+|20|599|三毛猫解散|<a href="https://search.dartslive.com/jp/shop/d51bd0e520b7a6dd0d9b047a20a7ba1e">ビッグベンカフェ勝田店</a>|<a href="/darts/rank/茨城県/ひたちなか市">茨城県ひたちなか市</a>|
+|21|475|5gセパ|<a href="https://search.dartslive.com/jp/shop/d51bd0e520b7a6dd0d9b047a20a7ba1e">ビッグベンカフェ勝田店</a>|<a href="/darts/rank/茨城県/ひたちなか市">茨城県ひたちなか市</a>|
+|22|444|nao|<a href="https://search.dartslive.com/jp/shop/d51bd0e520b7a6dd0d9b047a20a7ba1e">ビッグベンカフェ勝田店</a>|<a href="/darts/rank/茨城県/ひたちなか市">茨城県ひたちなか市</a>|
+|23|440|シャムネコ|<a href="https://search.dartslive.com/jp/shop/d51bd0e520b7a6dd0d9b047a20a7ba1e">ビッグベンカフェ勝田店</a>|<a href="/darts/rank/茨城県/ひたちなか市">茨城県ひたちなか市</a>|
+|24|418|MITSUNARI|<a href="https://search.dartslive.com/jp/shop/d51bd0e520b7a6dd0d9b047a20a7ba1e">ビッグベンカフェ勝田店</a>|<a href="/darts/rank/茨城県/ひたちなか市">茨城県ひたちなか市</a>|
+|25|417|村田|<a href="https://search.dartslive.com/jp/shop/d51bd0e520b7a6dd0d9b047a20a7ba1e">ビッグベンカフェ勝田店</a>|<a href="/darts/rank/茨城県/ひたちなか市">茨城県ひたちなか市</a>|
+|26|344|Y u n a|<a href="https://search.dartslive.com/jp/shop/d51bd0e520b7a6dd0d9b047a20a7ba1e">ビッグベンカフェ勝田店</a>|<a href="/darts/rank/茨城県/ひたちなか市">茨城県ひたちなか市</a>|
+|27|240|桜花|<a href="https://search.dartslive.com/jp/shop/d51bd0e520b7a6dd0d9b047a20a7ba1e">ビッグベンカフェ勝田店</a>|<a href="/darts/rank/茨城県/ひたちなか市">茨城県ひたちなか市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:50_
+_last update : 2024/01/21 13:38:55_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

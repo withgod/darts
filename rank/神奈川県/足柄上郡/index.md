@@ -58,23 +58,21 @@ ___
 |42|614|SEIRA|<a href="https://search.dartslive.com/jp/shop/fa3a5be0047f5ef30d9b047a20a7ba1e">Lagoon</a>|<a href="/darts/rank/神奈川県/足柄上郡">神奈川県足柄上郡</a>|
 |43|572|濵田 碧|<a href="https://search.dartslive.com/jp/shop/fa3a5be0047f5ef30d9b047a20a7ba1e">Lagoon</a>|<a href="/darts/rank/神奈川県/足柄上郡">神奈川県足柄上郡</a>|
 |44|544|ゆきな様☆爆音|<a href="https://search.dartslive.com/jp/shop/fa3a5be0047f5ef30d9b047a20a7ba1e">Lagoon</a>|<a href="/darts/rank/神奈川県/足柄上郡">神奈川県足柄上郡</a>|
-|45|512|夏 輝（∵）ﾍ?|<a href="https://search.dartslive.com/jp/shop/fa3a5be0047f5ef30d9b047a20a7ba1e">Lagoon</a>|<a href="/darts/rank/神奈川県/足柄上郡">神奈川県足柄上郡</a>|
-|46|500|悪玉　雪之助|<a href="https://search.dartslive.com/jp/shop/fa3a5be0047f5ef30d9b047a20a7ba1e">Lagoon</a>|<a href="/darts/rank/神奈川県/足柄上郡">神奈川県足柄上郡</a>|
-|47|497|Haruka|<a href="https://search.dartslive.com/jp/shop/c0118d559b3374c90d9b047a20a7ba1e">BEBOP</a>|<a href="/darts/rank/神奈川県/足柄上郡">神奈川県足柄上郡</a>|
-|48|478|しのぶ♪SAD|<a href="https://search.dartslive.com/jp/shop/fa3a5be0047f5ef30d9b047a20a7ba1e">Lagoon</a>|<a href="/darts/rank/神奈川県/足柄上郡">神奈川県足柄上郡</a>|
-|49|435|♡あや@FSC19th♡|<a href="https://search.dartslive.com/jp/shop/fa3a5be0047f5ef30d9b047a20a7ba1e">Lagoon</a>|<a href="/darts/rank/神奈川県/足柄上郡">神奈川県足柄上郡</a>|
-|50|421|つんﾁｬ|<a href="https://search.dartslive.com/jp/shop/c0118d559b3374c90d9b047a20a7ba1e">BEBOP</a>|<a href="/darts/rank/神奈川県/足柄上郡">神奈川県足柄上郡</a>|
-|51|417|くりゅう|<a href="https://search.dartslive.com/jp/shop/fa3a5be0047f5ef30d9b047a20a7ba1e">Lagoon</a>|<a href="/darts/rank/神奈川県/足柄上郡">神奈川県足柄上郡</a>|
-|52|416|Akino|<a href="https://search.dartslive.com/jp/shop/fa3a5be0047f5ef30d9b047a20a7ba1e">Lagoon</a>|<a href="/darts/rank/神奈川県/足柄上郡">神奈川県足柄上郡</a>|
-|53|410|すん|<a href="https://search.dartslive.com/jp/shop/fa3a5be0047f5ef30d9b047a20a7ba1e">Lagoon</a>|<a href="/darts/rank/神奈川県/足柄上郡">神奈川県足柄上郡</a>|
-|54|391|ただのれなさん|<a href="https://search.dartslive.com/jp/shop/fa3a5be0047f5ef30d9b047a20a7ba1e">Lagoon</a>|<a href="/darts/rank/神奈川県/足柄上郡">神奈川県足柄上郡</a>|
-|55|371|かすみ|<a href="https://search.dartslive.com/jp/shop/c0118d559b3374c90d9b047a20a7ba1e">BEBOP</a>|<a href="/darts/rank/神奈川県/足柄上郡">神奈川県足柄上郡</a>|
+|45|500|悪玉　雪之助|<a href="https://search.dartslive.com/jp/shop/fa3a5be0047f5ef30d9b047a20a7ba1e">Lagoon</a>|<a href="/darts/rank/神奈川県/足柄上郡">神奈川県足柄上郡</a>|
+|46|497|Haruka|<a href="https://search.dartslive.com/jp/shop/c0118d559b3374c90d9b047a20a7ba1e">BEBOP</a>|<a href="/darts/rank/神奈川県/足柄上郡">神奈川県足柄上郡</a>|
+|47|478|しのぶ♪SAD|<a href="https://search.dartslive.com/jp/shop/fa3a5be0047f5ef30d9b047a20a7ba1e">Lagoon</a>|<a href="/darts/rank/神奈川県/足柄上郡">神奈川県足柄上郡</a>|
+|48|435|♡あや@FSC19th♡|<a href="https://search.dartslive.com/jp/shop/fa3a5be0047f5ef30d9b047a20a7ba1e">Lagoon</a>|<a href="/darts/rank/神奈川県/足柄上郡">神奈川県足柄上郡</a>|
+|49|421|つんﾁｬ|<a href="https://search.dartslive.com/jp/shop/c0118d559b3374c90d9b047a20a7ba1e">BEBOP</a>|<a href="/darts/rank/神奈川県/足柄上郡">神奈川県足柄上郡</a>|
+|50|416|Akino|<a href="https://search.dartslive.com/jp/shop/fa3a5be0047f5ef30d9b047a20a7ba1e">Lagoon</a>|<a href="/darts/rank/神奈川県/足柄上郡">神奈川県足柄上郡</a>|
+|51|410|すん|<a href="https://search.dartslive.com/jp/shop/fa3a5be0047f5ef30d9b047a20a7ba1e">Lagoon</a>|<a href="/darts/rank/神奈川県/足柄上郡">神奈川県足柄上郡</a>|
+|52|391|ただのれなさん|<a href="https://search.dartslive.com/jp/shop/fa3a5be0047f5ef30d9b047a20a7ba1e">Lagoon</a>|<a href="/darts/rank/神奈川県/足柄上郡">神奈川県足柄上郡</a>|
+|53|371|かすみ|<a href="https://search.dartslive.com/jp/shop/c0118d559b3374c90d9b047a20a7ba1e">BEBOP</a>|<a href="/darts/rank/神奈川県/足柄上郡">神奈川県足柄上郡</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:52_
+_last update : 2024/01/21 13:38:59_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

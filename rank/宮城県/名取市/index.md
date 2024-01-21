@@ -40,19 +40,19 @@ ___
 |24|627|MYON|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
 |25|619|$まみやん$|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
 |26|615|ルイ|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|27|592|MIKA|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|28|581|agatako|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|29|579|riho|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|30|560|しげMi|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|31|559|まいまい|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|32|552|YUMI|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|33|519|PHOENIX派|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|34|513|ふーか|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|35|465|元ノーインナー|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|36|457|きの|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|37|441|torocco402|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|38|440|Dai|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
-|39|416|ひず|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|27|613|しん|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|28|592|MIKA|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|29|581|agatako|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|30|579|riho|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|31|560|しげMi|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|32|559|まいまい|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|33|552|YUMI|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|34|519|PHOENIX派|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|35|513|ふーか|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|36|465|元ノーインナー|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|37|457|きの|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|38|441|torocco402|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
+|39|440|Dai|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
 |40|400|琉姫＊ruki|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
 |41|369|JiRuKoΔ|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
 |42|368|もちこ|<a href="https://search.dartslive.com/jp/shop/8fdf7aee513600e628032249b44395af">コート・ダジュール 仙台名取店</a>|<a href="/darts/rank/宮城県/名取市">宮城県名取市</a>|
@@ -61,7 +61,7 @@ ___
 
 ___
 
-_last update : 2024/01/21 03:05:49_
+_last update : 2024/01/21 13:38:54_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

@@ -98,28 +98,28 @@ ___
 |82|965|くわちゃん|<a href="https://search.dartslive.com/jp/shop/7b7c4f6a88a58c7e0d9b047a20a7ba1e">FiGARO原宿H-14</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
 |82|965|たかはしりょう|<a href="https://search.dartslive.com/jp/shop/82ec8446f9a48ebd0d9b047a20a7ba1e">Darts collection 渋谷</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
 |84|964|ごまふあざらし|<a href="https://search.dartslive.com/jp/shop/1e60ee4fda2c55a20d9b047a20a7ba1e">JACK 恵比寿店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|85|963|James Anderson|<a href="https://search.dartslive.com/jp/shop/e7b3433050befb5c0d9b047a20a7ba1e">渋谷卓球倶楽部</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
 |85|963|佐藤 かす美|<a href="https://search.dartslive.com/jp/shop/bcb6c8d9e0f6dcbf0d9b047a20a7ba1e">G-BLUE</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|86|962|ニライカナイ|<a href="https://search.dartslive.com/jp/shop/1e60ee4fda2c55a20d9b047a20a7ba1e">JACK 恵比寿店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|87|961|Supremeｼﾞｼﾞｨ(96)|<a href="https://search.dartslive.com/jp/shop/93f4aa033a6b24240d9b047a20a7ba1e">BAGUS-バグース-渋谷</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|88|959|HIROTO_72|<a href="https://search.dartslive.com/jp/shop/bcb6c8d9e0f6dcbf0d9b047a20a7ba1e">G-BLUE</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|88|959|gon(お雑煮)|<a href="https://search.dartslive.com/jp/shop/1e60ee4fda2c55a20d9b047a20a7ba1e">JACK 恵比寿店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|90|958|じぃじ|<a href="https://search.dartslive.com/jp/shop/bcb6c8d9e0f6dcbf0d9b047a20a7ba1e">G-BLUE</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|90|958|ｲｿ|<a href="https://search.dartslive.com/jp/shop/4d653de862c248440d9b047a20a7ba1e">ダーツバー＆カフェ　Anpiece</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|92|956|Tsukino96|<a href="https://search.dartslive.com/jp/shop/93f4aa033a6b24240d9b047a20a7ba1e">BAGUS-バグース-渋谷</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|93|955|佐藤　佑太郎|<a href="https://search.dartslive.com/jp/shop/be100f6ad0f395600d9b047a20a7ba1e">G-BLUE-HANARE-</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|93|955|浴本 昇吾|<a href="https://search.dartslive.com/jp/shop/bcb6c8d9e0f6dcbf0d9b047a20a7ba1e">G-BLUE</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|95|953|Kotaro|<a href="https://search.dartslive.com/jp/shop/bcb6c8d9e0f6dcbf0d9b047a20a7ba1e">G-BLUE</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|95|953|佐藤　佑太郎|<a href="https://search.dartslive.com/jp/shop/069dd4f69a0114dc0d9b047a20a7ba1e">BREMEN恵比寿</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|97|952|はや|<a href="https://search.dartslive.com/jp/shop/2a3e3c17edc2bd910d9b047a20a7ba1e">BAGUS-バグース-道玄坂</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|98|951|Kimura Kazuto|<a href="https://search.dartslive.com/jp/shop/069dd4f69a0114dc0d9b047a20a7ba1e">BREMEN恵比寿</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|98|951|マサベット&#x27;92|<a href="https://search.dartslive.com/jp/shop/bcb6c8d9e0f6dcbf0d9b047a20a7ba1e">G-BLUE</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
-|100|950|かなぶん|<a href="https://search.dartslive.com/jp/shop/de37784050a5e757f454cb89828a1cfe">Hailey'5Cafe 渋谷BEAM店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|87|962|ニライカナイ|<a href="https://search.dartslive.com/jp/shop/1e60ee4fda2c55a20d9b047a20a7ba1e">JACK 恵比寿店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|88|961|Supremeｼﾞｼﾞｨ(96)|<a href="https://search.dartslive.com/jp/shop/93f4aa033a6b24240d9b047a20a7ba1e">BAGUS-バグース-渋谷</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|89|959|HIROTO_72|<a href="https://search.dartslive.com/jp/shop/bcb6c8d9e0f6dcbf0d9b047a20a7ba1e">G-BLUE</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|89|959|gon(お雑煮)|<a href="https://search.dartslive.com/jp/shop/1e60ee4fda2c55a20d9b047a20a7ba1e">JACK 恵比寿店</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|91|958|じぃじ|<a href="https://search.dartslive.com/jp/shop/bcb6c8d9e0f6dcbf0d9b047a20a7ba1e">G-BLUE</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|91|958|ｲｿ|<a href="https://search.dartslive.com/jp/shop/4d653de862c248440d9b047a20a7ba1e">ダーツバー＆カフェ　Anpiece</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|93|956|Tsukino96|<a href="https://search.dartslive.com/jp/shop/93f4aa033a6b24240d9b047a20a7ba1e">BAGUS-バグース-渋谷</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|94|955|佐藤　佑太郎|<a href="https://search.dartslive.com/jp/shop/be100f6ad0f395600d9b047a20a7ba1e">G-BLUE-HANARE-</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|94|955|浴本 昇吾|<a href="https://search.dartslive.com/jp/shop/bcb6c8d9e0f6dcbf0d9b047a20a7ba1e">G-BLUE</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|96|953|Kotaro|<a href="https://search.dartslive.com/jp/shop/bcb6c8d9e0f6dcbf0d9b047a20a7ba1e">G-BLUE</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|96|953|佐藤　佑太郎|<a href="https://search.dartslive.com/jp/shop/069dd4f69a0114dc0d9b047a20a7ba1e">BREMEN恵比寿</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|98|952|はや|<a href="https://search.dartslive.com/jp/shop/2a3e3c17edc2bd910d9b047a20a7ba1e">BAGUS-バグース-道玄坂</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|99|951|Kimura Kazuto|<a href="https://search.dartslive.com/jp/shop/069dd4f69a0114dc0d9b047a20a7ba1e">BREMEN恵比寿</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
+|99|951|マサベット&#x27;92|<a href="https://search.dartslive.com/jp/shop/bcb6c8d9e0f6dcbf0d9b047a20a7ba1e">G-BLUE</a>|<a href="/darts/rank/東京都/渋谷区">東京都渋谷区</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:51_
+_last update : 2024/01/21 13:38:58_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

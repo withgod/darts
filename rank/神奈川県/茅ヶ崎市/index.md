@@ -40,63 +40,54 @@ ___
 |24|891|タケ|<a href="https://search.dartslive.com/jp/shop/0724b5072630544d0d9b047a20a7ba1e">自遊空間 茅ヶ崎エメロード店</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
 |25|884|〆鯖ババーン|<a href="https://search.dartslive.com/jp/shop/0724b5072630544d0d9b047a20a7ba1e">自遊空間 茅ヶ崎エメロード店</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
 |26|875|さと|<a href="https://search.dartslive.com/jp/shop/0724b5072630544d0d9b047a20a7ba1e">自遊空間 茅ヶ崎エメロード店</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
-|27|869|シノ|<a href="https://search.dartslive.com/jp/shop/0724b5072630544d0d9b047a20a7ba1e">自遊空間 茅ヶ崎エメロード店</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
-|28|865|TOKｰ715|<a href="https://search.dartslive.com/jp/shop/0724b5072630544d0d9b047a20a7ba1e">自遊空間 茅ヶ崎エメロード店</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
-|29|862|なおちゃん@ROAR|<a href="https://search.dartslive.com/jp/shop/0724b5072630544d0d9b047a20a7ba1e">自遊空間 茅ヶ崎エメロード店</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
-|30|861|しばっち|<a href="https://search.dartslive.com/jp/shop/0724b5072630544d0d9b047a20a7ba1e">自遊空間 茅ヶ崎エメロード店</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
-|30|861|まさひー|<a href="https://search.dartslive.com/jp/shop/0724b5072630544d0d9b047a20a7ba1e">自遊空間 茅ヶ崎エメロード店</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
-|32|852|佐藤　唯|<a href="https://search.dartslive.com/jp/shop/6b69bd8f18cc523d0d9b047a20a7ba1e">211 Club</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
-|33|804|♂のギア=4.33|<a href="https://search.dartslive.com/jp/shop/912217ea5ddf1f7f0d9b047a20a7ba1e">ゆう遊空間茅ヶ崎店</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
+|27|870|♂のギア=4.33|<a href="https://search.dartslive.com/jp/shop/912217ea5ddf1f7f0d9b047a20a7ba1e">ゆう遊空間茅ヶ崎店</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
+|28|869|シノ|<a href="https://search.dartslive.com/jp/shop/0724b5072630544d0d9b047a20a7ba1e">自遊空間 茅ヶ崎エメロード店</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
+|29|865|TOKｰ715|<a href="https://search.dartslive.com/jp/shop/0724b5072630544d0d9b047a20a7ba1e">自遊空間 茅ヶ崎エメロード店</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
+|30|862|なおちゃん@ROAR|<a href="https://search.dartslive.com/jp/shop/0724b5072630544d0d9b047a20a7ba1e">自遊空間 茅ヶ崎エメロード店</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
+|31|861|しばっち|<a href="https://search.dartslive.com/jp/shop/0724b5072630544d0d9b047a20a7ba1e">自遊空間 茅ヶ崎エメロード店</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
+|31|861|まさひー|<a href="https://search.dartslive.com/jp/shop/0724b5072630544d0d9b047a20a7ba1e">自遊空間 茅ヶ崎エメロード店</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
+|33|852|佐藤　唯|<a href="https://search.dartslive.com/jp/shop/6b69bd8f18cc523d0d9b047a20a7ba1e">211 Club</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
 |34|786|髭darts sub|<a href="https://search.dartslive.com/jp/shop/0724b5072630544d0d9b047a20a7ba1e">自遊空間 茅ヶ崎エメロード店</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
 |35|785|すい|<a href="https://search.dartslive.com/jp/shop/0724b5072630544d0d9b047a20a7ba1e">自遊空間 茅ヶ崎エメロード店</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
 |36|780|平間　葵|<a href="https://search.dartslive.com/jp/shop/6b69bd8f18cc523d0d9b047a20a7ba1e">211 Club</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
 |37|776|くろたか|<a href="https://search.dartslive.com/jp/shop/0724b5072630544d0d9b047a20a7ba1e">自遊空間 茅ヶ崎エメロード店</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
 |37|776|しお|<a href="https://search.dartslive.com/jp/shop/0724b5072630544d0d9b047a20a7ba1e">自遊空間 茅ヶ崎エメロード店</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
-|39|761|青雲それは…@211|<a href="https://search.dartslive.com/jp/shop/6b69bd8f18cc523d0d9b047a20a7ba1e">211 Club</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
-|40|749|むち子|<a href="https://search.dartslive.com/jp/shop/6b69bd8f18cc523d0d9b047a20a7ba1e">211 Club</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
-|41|743|ぺぺまん|<a href="https://search.dartslive.com/jp/shop/912217ea5ddf1f7f0d9b047a20a7ba1e">ゆう遊空間茅ヶ崎店</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
-|42|732|りょ〜(&gt;&lt;)|<a href="https://search.dartslive.com/jp/shop/6b69bd8f18cc523d0d9b047a20a7ba1e">211 Club</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
-|43|729|カナール|<a href="https://search.dartslive.com/jp/shop/6b69bd8f18cc523d0d9b047a20a7ba1e">211 Club</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
-|44|716|しのぶ♪SAD|<a href="https://search.dartslive.com/jp/shop/6b69bd8f18cc523d0d9b047a20a7ba1e">211 Club</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
-|45|696|てるぼー|<a href="https://search.dartslive.com/jp/shop/912217ea5ddf1f7f0d9b047a20a7ba1e">ゆう遊空間茅ヶ崎店</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
-|46|665|無糖@暴君兄弟|<a href="https://search.dartslive.com/jp/shop/6b69bd8f18cc523d0d9b047a20a7ba1e">211 Club</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
-|47|664|Haruka|<a href="https://search.dartslive.com/jp/shop/6b69bd8f18cc523d0d9b047a20a7ba1e">211 Club</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
-|48|643|Jumi@LPS|<a href="https://search.dartslive.com/jp/shop/6b69bd8f18cc523d0d9b047a20a7ba1e">211 Club</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
-|49|638|TAKA.31|<a href="https://search.dartslive.com/jp/shop/6b69bd8f18cc523d0d9b047a20a7ba1e">211 Club</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
-|50|616|りおまる|<a href="https://search.dartslive.com/jp/shop/0724b5072630544d0d9b047a20a7ba1e">自遊空間 茅ヶ崎エメロード店</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
-|51|609|GOGO!|<a href="https://search.dartslive.com/jp/shop/912217ea5ddf1f7f0d9b047a20a7ba1e">ゆう遊空間茅ヶ崎店</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
-|52|606|55yyyy69|<a href="https://search.dartslive.com/jp/shop/912217ea5ddf1f7f0d9b047a20a7ba1e">ゆう遊空間茅ヶ崎店</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
-|53|594|bull burst|<a href="https://search.dartslive.com/jp/shop/912217ea5ddf1f7f0d9b047a20a7ba1e">ゆう遊空間茅ヶ崎店</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
-|54|591|おこめ|<a href="https://search.dartslive.com/jp/shop/6b69bd8f18cc523d0d9b047a20a7ba1e">211 Club</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
-|55|570|りょー@211club|<a href="https://search.dartslive.com/jp/shop/6b69bd8f18cc523d0d9b047a20a7ba1e">211 Club</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
-|56|569|♧TOMOKA♡|<a href="https://search.dartslive.com/jp/shop/6b69bd8f18cc523d0d9b047a20a7ba1e">211 Club</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
-|57|568|紅蓮聖天八極式|<a href="https://search.dartslive.com/jp/shop/912217ea5ddf1f7f0d9b047a20a7ba1e">ゆう遊空間茅ヶ崎店</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
-|58|560|悪玉　雪之助|<a href="https://search.dartslive.com/jp/shop/6b69bd8f18cc523d0d9b047a20a7ba1e">211 Club</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
-|59|541|T-暴_東亜魂☆|<a href="https://search.dartslive.com/jp/shop/912217ea5ddf1f7f0d9b047a20a7ba1e">ゆう遊空間茅ヶ崎店</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
-|60|533|しの|<a href="https://search.dartslive.com/jp/shop/0724b5072630544d0d9b047a20a7ba1e">自遊空間 茅ヶ崎エメロード店</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
-|61|525|みさきんぐ|<a href="https://search.dartslive.com/jp/shop/6b69bd8f18cc523d0d9b047a20a7ba1e">211 Club</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
-|62|511|ta256|<a href="https://search.dartslive.com/jp/shop/912217ea5ddf1f7f0d9b047a20a7ba1e">ゆう遊空間茅ヶ崎店</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
-|63|505|ぐわばば|<a href="https://search.dartslive.com/jp/shop/6b69bd8f18cc523d0d9b047a20a7ba1e">211 Club</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
-|64|504|くたゃ|<a href="https://search.dartslive.com/jp/shop/912217ea5ddf1f7f0d9b047a20a7ba1e">ゆう遊空間茅ヶ崎店</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
-|65|501|りおまる|<a href="https://search.dartslive.com/jp/shop/6b69bd8f18cc523d0d9b047a20a7ba1e">211 Club</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
-|66|485|A I|<a href="https://search.dartslive.com/jp/shop/0724b5072630544d0d9b047a20a7ba1e">自遊空間 茅ヶ崎エメロード店</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
-|67|484|リリー〈noteu〉|<a href="https://search.dartslive.com/jp/shop/912217ea5ddf1f7f0d9b047a20a7ba1e">ゆう遊空間茅ヶ崎店</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
-|68|483|MJ.2.2-SHINO|<a href="https://search.dartslive.com/jp/shop/912217ea5ddf1f7f0d9b047a20a7ba1e">ゆう遊空間茅ヶ崎店</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
-|69|479|El Condor Pasa|<a href="https://search.dartslive.com/jp/shop/912217ea5ddf1f7f0d9b047a20a7ba1e">ゆう遊空間茅ヶ崎店</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
-|70|474|影武者(-_☆)ｷﾗﾘ|<a href="https://search.dartslive.com/jp/shop/912217ea5ddf1f7f0d9b047a20a7ba1e">ゆう遊空間茅ヶ崎店</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
-|71|465|松本乱菊@AZ 平塚|<a href="https://search.dartslive.com/jp/shop/6b69bd8f18cc523d0d9b047a20a7ba1e">211 Club</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
-|72|446|にの|<a href="https://search.dartslive.com/jp/shop/912217ea5ddf1f7f0d9b047a20a7ba1e">ゆう遊空間茅ヶ崎店</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
-|73|425|慢心王|<a href="https://search.dartslive.com/jp/shop/0724b5072630544d0d9b047a20a7ba1e">自遊空間 茅ヶ崎エメロード店</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
-|74|413|レオレオ|<a href="https://search.dartslive.com/jp/shop/912217ea5ddf1f7f0d9b047a20a7ba1e">ゆう遊空間茅ヶ崎店</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
-|75|409|HANA|<a href="https://search.dartslive.com/jp/shop/912217ea5ddf1f7f0d9b047a20a7ba1e">ゆう遊空間茅ヶ崎店</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
-|76|370|55yyyy69|<a href="https://search.dartslive.com/jp/shop/0724b5072630544d0d9b047a20a7ba1e">自遊空間 茅ヶ崎エメロード店</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
-|77|368|yuzu|<a href="https://search.dartslive.com/jp/shop/912217ea5ddf1f7f0d9b047a20a7ba1e">ゆう遊空間茅ヶ崎店</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
+|39|749|むち子|<a href="https://search.dartslive.com/jp/shop/6b69bd8f18cc523d0d9b047a20a7ba1e">211 Club</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
+|40|743|ぺぺまん|<a href="https://search.dartslive.com/jp/shop/912217ea5ddf1f7f0d9b047a20a7ba1e">ゆう遊空間茅ヶ崎店</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
+|41|716|しのぶ♪SAD|<a href="https://search.dartslive.com/jp/shop/6b69bd8f18cc523d0d9b047a20a7ba1e">211 Club</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
+|42|696|てるぼー|<a href="https://search.dartslive.com/jp/shop/912217ea5ddf1f7f0d9b047a20a7ba1e">ゆう遊空間茅ヶ崎店</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
+|43|664|Haruka|<a href="https://search.dartslive.com/jp/shop/6b69bd8f18cc523d0d9b047a20a7ba1e">211 Club</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
+|44|643|Jumi@LPS|<a href="https://search.dartslive.com/jp/shop/6b69bd8f18cc523d0d9b047a20a7ba1e">211 Club</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
+|45|616|りおまる|<a href="https://search.dartslive.com/jp/shop/0724b5072630544d0d9b047a20a7ba1e">自遊空間 茅ヶ崎エメロード店</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
+|46|609|GOGO!|<a href="https://search.dartslive.com/jp/shop/912217ea5ddf1f7f0d9b047a20a7ba1e">ゆう遊空間茅ヶ崎店</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
+|47|606|55yyyy69|<a href="https://search.dartslive.com/jp/shop/912217ea5ddf1f7f0d9b047a20a7ba1e">ゆう遊空間茅ヶ崎店</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
+|48|594|bull burst|<a href="https://search.dartslive.com/jp/shop/912217ea5ddf1f7f0d9b047a20a7ba1e">ゆう遊空間茅ヶ崎店</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
+|49|591|おこめ|<a href="https://search.dartslive.com/jp/shop/6b69bd8f18cc523d0d9b047a20a7ba1e">211 Club</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
+|50|569|♧TOMOKA♡|<a href="https://search.dartslive.com/jp/shop/6b69bd8f18cc523d0d9b047a20a7ba1e">211 Club</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
+|51|568|紅蓮聖天八極式|<a href="https://search.dartslive.com/jp/shop/912217ea5ddf1f7f0d9b047a20a7ba1e">ゆう遊空間茅ヶ崎店</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
+|52|560|悪玉　雪之助|<a href="https://search.dartslive.com/jp/shop/6b69bd8f18cc523d0d9b047a20a7ba1e">211 Club</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
+|53|541|T-暴_東亜魂☆|<a href="https://search.dartslive.com/jp/shop/912217ea5ddf1f7f0d9b047a20a7ba1e">ゆう遊空間茅ヶ崎店</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
+|54|533|しの|<a href="https://search.dartslive.com/jp/shop/0724b5072630544d0d9b047a20a7ba1e">自遊空間 茅ヶ崎エメロード店</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
+|55|525|みさきんぐ|<a href="https://search.dartslive.com/jp/shop/6b69bd8f18cc523d0d9b047a20a7ba1e">211 Club</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
+|56|511|ta256|<a href="https://search.dartslive.com/jp/shop/912217ea5ddf1f7f0d9b047a20a7ba1e">ゆう遊空間茅ヶ崎店</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
+|57|505|ぐわばば|<a href="https://search.dartslive.com/jp/shop/6b69bd8f18cc523d0d9b047a20a7ba1e">211 Club</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
+|58|504|くたゃ|<a href="https://search.dartslive.com/jp/shop/912217ea5ddf1f7f0d9b047a20a7ba1e">ゆう遊空間茅ヶ崎店</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
+|59|501|りおまる|<a href="https://search.dartslive.com/jp/shop/6b69bd8f18cc523d0d9b047a20a7ba1e">211 Club</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
+|60|485|A I|<a href="https://search.dartslive.com/jp/shop/0724b5072630544d0d9b047a20a7ba1e">自遊空間 茅ヶ崎エメロード店</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
+|61|484|リリー〈noteu〉|<a href="https://search.dartslive.com/jp/shop/912217ea5ddf1f7f0d9b047a20a7ba1e">ゆう遊空間茅ヶ崎店</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
+|62|483|MJ.2.2-SHINO|<a href="https://search.dartslive.com/jp/shop/912217ea5ddf1f7f0d9b047a20a7ba1e">ゆう遊空間茅ヶ崎店</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
+|63|479|El Condor Pasa|<a href="https://search.dartslive.com/jp/shop/912217ea5ddf1f7f0d9b047a20a7ba1e">ゆう遊空間茅ヶ崎店</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
+|64|474|影武者(-_☆)ｷﾗﾘ|<a href="https://search.dartslive.com/jp/shop/912217ea5ddf1f7f0d9b047a20a7ba1e">ゆう遊空間茅ヶ崎店</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
+|65|465|松本乱菊@AZ 平塚|<a href="https://search.dartslive.com/jp/shop/6b69bd8f18cc523d0d9b047a20a7ba1e">211 Club</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
+|66|446|にの|<a href="https://search.dartslive.com/jp/shop/912217ea5ddf1f7f0d9b047a20a7ba1e">ゆう遊空間茅ヶ崎店</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
+|67|413|レオレオ|<a href="https://search.dartslive.com/jp/shop/912217ea5ddf1f7f0d9b047a20a7ba1e">ゆう遊空間茅ヶ崎店</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
+|68|370|55yyyy69|<a href="https://search.dartslive.com/jp/shop/0724b5072630544d0d9b047a20a7ba1e">自遊空間 茅ヶ崎エメロード店</a>|<a href="/darts/rank/神奈川県/茅ヶ崎市">神奈川県茅ヶ崎市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:52_
+_last update : 2024/01/21 13:38:59_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

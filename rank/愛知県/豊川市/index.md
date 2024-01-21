@@ -68,22 +68,16 @@ ___
 |52|498|NO NAME 7816|<a href="https://search.dartslive.com/jp/shop/2423e51b543b9e7e58d385ea46352d8f">JOYJOY豊川駅東口店</a>|<a href="/darts/rank/愛知県/豊川市">愛知県豊川市</a>|
 |53|481|LEO|<a href="https://search.dartslive.com/jp/shop/73871d7b66b7dc7f25d56fb0e5c39bac">アプレシオ豊川店</a>|<a href="/darts/rank/愛知県/豊川市">愛知県豊川市</a>|
 |53|481|♡Miko★moriya♡|<a href="https://search.dartslive.com/jp/shop/cda87fc7fda739930d9b047a20a7ba1e">STAGE 8</a>|<a href="/darts/rank/愛知県/豊川市">愛知県豊川市</a>|
-|55|468|ロキソニン初号機|<a href="https://search.dartslive.com/jp/shop/cda87fc7fda739930d9b047a20a7ba1e">STAGE 8</a>|<a href="/darts/rank/愛知県/豊川市">愛知県豊川市</a>|
-|56|463|92|<a href="https://search.dartslive.com/jp/shop/73871d7b66b7dc7f25d56fb0e5c39bac">アプレシオ豊川店</a>|<a href="/darts/rank/愛知県/豊川市">愛知県豊川市</a>|
-|57|451|Tadaaki|<a href="https://search.dartslive.com/jp/shop/73871d7b66b7dc7f25d56fb0e5c39bac">アプレシオ豊川店</a>|<a href="/darts/rank/愛知県/豊川市">愛知県豊川市</a>|
-|58|448|HASS|<a href="https://search.dartslive.com/jp/shop/cda87fc7fda739930d9b047a20a7ba1e">STAGE 8</a>|<a href="/darts/rank/愛知県/豊川市">愛知県豊川市</a>|
-|59|444|いいお|<a href="https://search.dartslive.com/jp/shop/cda87fc7fda739930d9b047a20a7ba1e">STAGE 8</a>|<a href="/darts/rank/愛知県/豊川市">愛知県豊川市</a>|
-|60|423|Manami|<a href="https://search.dartslive.com/jp/shop/73871d7b66b7dc7f25d56fb0e5c39bac">アプレシオ豊川店</a>|<a href="/darts/rank/愛知県/豊川市">愛知県豊川市</a>|
-|61|422|KAREN MIYAJIMA|<a href="https://search.dartslive.com/jp/shop/cda87fc7fda739930d9b047a20a7ba1e">STAGE 8</a>|<a href="/darts/rank/愛知県/豊川市">愛知県豊川市</a>|
-|62|418|baN|<a href="https://search.dartslive.com/jp/shop/cda87fc7fda739930d9b047a20a7ba1e">STAGE 8</a>|<a href="/darts/rank/愛知県/豊川市">愛知県豊川市</a>|
-|63|399|Shabani|<a href="https://search.dartslive.com/jp/shop/cda87fc7fda739930d9b047a20a7ba1e">STAGE 8</a>|<a href="/darts/rank/愛知県/豊川市">愛知県豊川市</a>|
-|64|325|Sleeping☆Beauty|<a href="https://search.dartslive.com/jp/shop/cda87fc7fda739930d9b047a20a7ba1e">STAGE 8</a>|<a href="/darts/rank/愛知県/豊川市">愛知県豊川市</a>|
+|55|463|92|<a href="https://search.dartslive.com/jp/shop/73871d7b66b7dc7f25d56fb0e5c39bac">アプレシオ豊川店</a>|<a href="/darts/rank/愛知県/豊川市">愛知県豊川市</a>|
+|56|423|Manami|<a href="https://search.dartslive.com/jp/shop/73871d7b66b7dc7f25d56fb0e5c39bac">アプレシオ豊川店</a>|<a href="/darts/rank/愛知県/豊川市">愛知県豊川市</a>|
+|57|422|KAREN MIYAJIMA|<a href="https://search.dartslive.com/jp/shop/cda87fc7fda739930d9b047a20a7ba1e">STAGE 8</a>|<a href="/darts/rank/愛知県/豊川市">愛知県豊川市</a>|
+|58|325|Sleeping☆Beauty|<a href="https://search.dartslive.com/jp/shop/cda87fc7fda739930d9b047a20a7ba1e">STAGE 8</a>|<a href="/darts/rank/愛知県/豊川市">愛知県豊川市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:54_
+_last update : 2024/01/21 13:39:02_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

@@ -63,12 +63,12 @@ ___
 |26|962|鬼|<a href="https://search.dartslive.com/jp/shop/1400e9bdc5d14a45790ab824ce8730e5">自遊空間 湖浜店</a>|<a href="/darts/rank/長野県/諏訪郡">長野県諏訪郡</a>|
 |28|961|あず兄dymニキ|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
 |29|959|Haya|<a href="https://search.dartslive.com/jp/shop/c9bd002c8cc2c05325d56fb0e5c39bac">自遊空間 松本インター店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
-|30|955|HiRo|<a href="https://search.dartslive.com/jp/shop/270011790293516a0d9b047a20a7ba1e">コミックバスター 南松本店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
-|31|951|YOHEI|<a href="https://search.dartslive.com/jp/shop/cd028a23855bbbc00d9b047a20a7ba1e">Casual Bar Dym</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|31|951|八代 スーザン 寛|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
-|33|950|くろ|<a href="https://search.dartslive.com/jp/shop/a70d84c34ee9e32ef454cb89828a1cfe">快活CLUB 長野昭和通り店</a>|<a href="/darts/rank/長野県/長野市">長野県長野市</a>|
-|34|947|こころみ＃シンヤ|<a href="https://search.dartslive.com/jp/shop/2795daab617ec6640d9b047a20a7ba1e">カラオケBANBAN長野高田店</a>|<a href="/darts/rank/長野県/長野市">長野県長野市</a>|
-|35|946|HiRo|<a href="https://search.dartslive.com/jp/shop/c9bd002c8cc2c05325d56fb0e5c39bac">自遊空間 松本インター店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
+|30|956|HiRo|<a href="https://search.dartslive.com/jp/shop/c9bd002c8cc2c05325d56fb0e5c39bac">自遊空間 松本インター店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
+|31|955|HiRo|<a href="https://search.dartslive.com/jp/shop/270011790293516a0d9b047a20a7ba1e">コミックバスター 南松本店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
+|32|951|YOHEI|<a href="https://search.dartslive.com/jp/shop/cd028a23855bbbc00d9b047a20a7ba1e">Casual Bar Dym</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|32|951|八代 スーザン 寛|<a href="https://search.dartslive.com/jp/shop/84329807bba1b5510d9b047a20a7ba1e">自遊空間　佐久店</a>|<a href="/darts/rank/長野県/佐久市">長野県佐久市</a>|
+|34|950|くろ|<a href="https://search.dartslive.com/jp/shop/a70d84c34ee9e32ef454cb89828a1cfe">快活CLUB 長野昭和通り店</a>|<a href="/darts/rank/長野県/長野市">長野県長野市</a>|
+|35|947|こころみ＃シンヤ|<a href="https://search.dartslive.com/jp/shop/2795daab617ec6640d9b047a20a7ba1e">カラオケBANBAN長野高田店</a>|<a href="/darts/rank/長野県/長野市">長野県長野市</a>|
 |36|943|もつ|<a href="https://search.dartslive.com/jp/shop/c9bd002c8cc2c05325d56fb0e5c39bac">自遊空間 松本インター店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
 |37|941|Bomb-Bee マン|<a href="https://search.dartslive.com/jp/shop/db89c52d459922190d9b047a20a7ba1e">SHOOTING BAR G-CODE 長野店</a>|<a href="/darts/rank/長野県/長野市">長野県長野市</a>|
 |38|939|ﾌｸﾛｳ|<a href="https://search.dartslive.com/jp/shop/c9bd002c8cc2c05325d56fb0e5c39bac">自遊空間 松本インター店</a>|<a href="/darts/rank/長野県/松本市">長野県松本市</a>|
@@ -141,7 +141,7 @@ ___
 
 ___
 
-_last update : 2024/01/21 03:05:53_
+_last update : 2024/01/21 13:39:00_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

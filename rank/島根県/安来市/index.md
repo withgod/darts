@@ -14,12 +14,15 @@ ___
 {:.table-ranking}
 |ランク|スコア|名前|店名|所在地|
 |---|---|---|---|---|
+|1|670|Junnosuke|<a href="https://search.dartslive.com/jp/shop/658e40c87b3f3c215f9f3321c1147265">Zoo & Zoo</a>|<a href="/darts/rank/島根県/安来市">島根県安来市</a>|
+|2|582|V|<a href="https://search.dartslive.com/jp/shop/658e40c87b3f3c215f9f3321c1147265">Zoo & Zoo</a>|<a href="/darts/rank/島根県/安来市">島根県安来市</a>|
+|3|342|akito|<a href="https://search.dartslive.com/jp/shop/658e40c87b3f3c215f9f3321c1147265">Zoo & Zoo</a>|<a href="/darts/rank/島根県/安来市">島根県安来市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:56_
+_last update : 2024/01/21 13:39:07_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

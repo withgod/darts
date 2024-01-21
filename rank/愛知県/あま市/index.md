@@ -31,41 +31,38 @@ ___
 |15|767|Soiyaaaan⚠️|<a href="https://search.dartslive.com/jp/shop/80a51053c2745c4bfec1ae84bb28bd87">カラオケ ジョイジョイ 甚目寺店</a>|<a href="/darts/rank/愛知県/あま市">愛知県あま市</a>|
 |16|752|くにやんs@酔八仙|<a href="https://search.dartslive.com/jp/shop/9fdea14ab759a6eb58d385ea46352d8f">インターネットカフェ亜熱帯甚目寺店</a>|<a href="/darts/rank/愛知県/あま市">愛知県あま市</a>|
 |17|744|コロスケ|<a href="https://search.dartslive.com/jp/shop/9fdea14ab759a6eb58d385ea46352d8f">インターネットカフェ亜熱帯甚目寺店</a>|<a href="/darts/rank/愛知県/あま市">愛知県あま市</a>|
-|18|721|«YATiO@Little»|<a href="https://search.dartslive.com/jp/shop/80a51053c2745c4bfec1ae84bb28bd87">カラオケ ジョイジョイ 甚目寺店</a>|<a href="/darts/rank/愛知県/あま市">愛知県あま市</a>|
-|19|694|K’on|<a href="https://search.dartslive.com/jp/shop/80a51053c2745c4bfec1ae84bb28bd87">カラオケ ジョイジョイ 甚目寺店</a>|<a href="/darts/rank/愛知県/あま市">愛知県あま市</a>|
-|20|692|はと|<a href="https://search.dartslive.com/jp/shop/9fdea14ab759a6eb58d385ea46352d8f">インターネットカフェ亜熱帯甚目寺店</a>|<a href="/darts/rank/愛知県/あま市">愛知県あま市</a>|
-|21|687|ChanRyo|<a href="https://search.dartslive.com/jp/shop/80a51053c2745c4bfec1ae84bb28bd87">カラオケ ジョイジョイ 甚目寺店</a>|<a href="/darts/rank/愛知県/あま市">愛知県あま市</a>|
-|22|657|くにやんs@酔八仙|<a href="https://search.dartslive.com/jp/shop/80a51053c2745c4bfec1ae84bb28bd87">カラオケ ジョイジョイ 甚目寺店</a>|<a href="/darts/rank/愛知県/あま市">愛知県あま市</a>|
-|23|645|雪印|<a href="https://search.dartslive.com/jp/shop/9fdea14ab759a6eb58d385ea46352d8f">インターネットカフェ亜熱帯甚目寺店</a>|<a href="/darts/rank/愛知県/あま市">愛知県あま市</a>|
-|24|633|RRR|<a href="https://search.dartslive.com/jp/shop/80a51053c2745c4bfec1ae84bb28bd87">カラオケ ジョイジョイ 甚目寺店</a>|<a href="/darts/rank/愛知県/あま市">愛知県あま市</a>|
-|25|626|HIRO☆|<a href="https://search.dartslive.com/jp/shop/80a51053c2745c4bfec1ae84bb28bd87">カラオケ ジョイジョイ 甚目寺店</a>|<a href="/darts/rank/愛知県/あま市">愛知県あま市</a>|
-|26|617|直管VTEC|<a href="https://search.dartslive.com/jp/shop/80a51053c2745c4bfec1ae84bb28bd87">カラオケ ジョイジョイ 甚目寺店</a>|<a href="/darts/rank/愛知県/あま市">愛知県あま市</a>|
-|27|614|Jun|<a href="https://search.dartslive.com/jp/shop/80a51053c2745c4bfec1ae84bb28bd87">カラオケ ジョイジョイ 甚目寺店</a>|<a href="/darts/rank/愛知県/あま市">愛知県あま市</a>|
-|28|613|S・Y|<a href="https://search.dartslive.com/jp/shop/80a51053c2745c4bfec1ae84bb28bd87">カラオケ ジョイジョイ 甚目寺店</a>|<a href="/darts/rank/愛知県/あま市">愛知県あま市</a>|
-|29|605|ku|<a href="https://search.dartslive.com/jp/shop/9fdea14ab759a6eb58d385ea46352d8f">インターネットカフェ亜熱帯甚目寺店</a>|<a href="/darts/rank/愛知県/あま市">愛知県あま市</a>|
-|30|586|WIL¥|<a href="https://search.dartslive.com/jp/shop/80a51053c2745c4bfec1ae84bb28bd87">カラオケ ジョイジョイ 甚目寺店</a>|<a href="/darts/rank/愛知県/あま市">愛知県あま市</a>|
-|31|577|＊S@OR1＊|<a href="https://search.dartslive.com/jp/shop/9fdea14ab759a6eb58d385ea46352d8f">インターネットカフェ亜熱帯甚目寺店</a>|<a href="/darts/rank/愛知県/あま市">愛知県あま市</a>|
-|32|563|IKAI|<a href="https://search.dartslive.com/jp/shop/80a51053c2745c4bfec1ae84bb28bd87">カラオケ ジョイジョイ 甚目寺店</a>|<a href="/darts/rank/愛知県/あま市">愛知県あま市</a>|
-|33|561|SHOTXTU|<a href="https://search.dartslive.com/jp/shop/80a51053c2745c4bfec1ae84bb28bd87">カラオケ ジョイジョイ 甚目寺店</a>|<a href="/darts/rank/愛知県/あま市">愛知県あま市</a>|
-|34|542|NO NAME 0304|<a href="https://search.dartslive.com/jp/shop/80a51053c2745c4bfec1ae84bb28bd87">カラオケ ジョイジョイ 甚目寺店</a>|<a href="/darts/rank/愛知県/あま市">愛知県あま市</a>|
-|34|542|im.takeee|<a href="https://search.dartslive.com/jp/shop/9fdea14ab759a6eb58d385ea46352d8f">インターネットカフェ亜熱帯甚目寺店</a>|<a href="/darts/rank/愛知県/あま市">愛知県あま市</a>|
+|18|722|im.takeee|<a href="https://search.dartslive.com/jp/shop/9fdea14ab759a6eb58d385ea46352d8f">インターネットカフェ亜熱帯甚目寺店</a>|<a href="/darts/rank/愛知県/あま市">愛知県あま市</a>|
+|19|721|«YATiO@Little»|<a href="https://search.dartslive.com/jp/shop/80a51053c2745c4bfec1ae84bb28bd87">カラオケ ジョイジョイ 甚目寺店</a>|<a href="/darts/rank/愛知県/あま市">愛知県あま市</a>|
+|20|694|K’on|<a href="https://search.dartslive.com/jp/shop/80a51053c2745c4bfec1ae84bb28bd87">カラオケ ジョイジョイ 甚目寺店</a>|<a href="/darts/rank/愛知県/あま市">愛知県あま市</a>|
+|21|692|はと|<a href="https://search.dartslive.com/jp/shop/9fdea14ab759a6eb58d385ea46352d8f">インターネットカフェ亜熱帯甚目寺店</a>|<a href="/darts/rank/愛知県/あま市">愛知県あま市</a>|
+|22|687|ChanRyo|<a href="https://search.dartslive.com/jp/shop/80a51053c2745c4bfec1ae84bb28bd87">カラオケ ジョイジョイ 甚目寺店</a>|<a href="/darts/rank/愛知県/あま市">愛知県あま市</a>|
+|23|657|くにやんs@酔八仙|<a href="https://search.dartslive.com/jp/shop/80a51053c2745c4bfec1ae84bb28bd87">カラオケ ジョイジョイ 甚目寺店</a>|<a href="/darts/rank/愛知県/あま市">愛知県あま市</a>|
+|24|645|雪印|<a href="https://search.dartslive.com/jp/shop/9fdea14ab759a6eb58d385ea46352d8f">インターネットカフェ亜熱帯甚目寺店</a>|<a href="/darts/rank/愛知県/あま市">愛知県あま市</a>|
+|25|633|RRR|<a href="https://search.dartslive.com/jp/shop/80a51053c2745c4bfec1ae84bb28bd87">カラオケ ジョイジョイ 甚目寺店</a>|<a href="/darts/rank/愛知県/あま市">愛知県あま市</a>|
+|26|626|HIRO☆|<a href="https://search.dartslive.com/jp/shop/80a51053c2745c4bfec1ae84bb28bd87">カラオケ ジョイジョイ 甚目寺店</a>|<a href="/darts/rank/愛知県/あま市">愛知県あま市</a>|
+|27|617|直管VTEC|<a href="https://search.dartslive.com/jp/shop/80a51053c2745c4bfec1ae84bb28bd87">カラオケ ジョイジョイ 甚目寺店</a>|<a href="/darts/rank/愛知県/あま市">愛知県あま市</a>|
+|28|614|Jun|<a href="https://search.dartslive.com/jp/shop/80a51053c2745c4bfec1ae84bb28bd87">カラオケ ジョイジョイ 甚目寺店</a>|<a href="/darts/rank/愛知県/あま市">愛知県あま市</a>|
+|29|613|S・Y|<a href="https://search.dartslive.com/jp/shop/80a51053c2745c4bfec1ae84bb28bd87">カラオケ ジョイジョイ 甚目寺店</a>|<a href="/darts/rank/愛知県/あま市">愛知県あま市</a>|
+|30|605|ku|<a href="https://search.dartslive.com/jp/shop/9fdea14ab759a6eb58d385ea46352d8f">インターネットカフェ亜熱帯甚目寺店</a>|<a href="/darts/rank/愛知県/あま市">愛知県あま市</a>|
+|31|586|WIL¥|<a href="https://search.dartslive.com/jp/shop/80a51053c2745c4bfec1ae84bb28bd87">カラオケ ジョイジョイ 甚目寺店</a>|<a href="/darts/rank/愛知県/あま市">愛知県あま市</a>|
+|32|577|＊S@OR1＊|<a href="https://search.dartslive.com/jp/shop/9fdea14ab759a6eb58d385ea46352d8f">インターネットカフェ亜熱帯甚目寺店</a>|<a href="/darts/rank/愛知県/あま市">愛知県あま市</a>|
+|33|563|IKAI|<a href="https://search.dartslive.com/jp/shop/80a51053c2745c4bfec1ae84bb28bd87">カラオケ ジョイジョイ 甚目寺店</a>|<a href="/darts/rank/愛知県/あま市">愛知県あま市</a>|
+|34|561|SHOTXTU|<a href="https://search.dartslive.com/jp/shop/80a51053c2745c4bfec1ae84bb28bd87">カラオケ ジョイジョイ 甚目寺店</a>|<a href="/darts/rank/愛知県/あま市">愛知県あま市</a>|
+|35|542|NO NAME 0304|<a href="https://search.dartslive.com/jp/shop/80a51053c2745c4bfec1ae84bb28bd87">カラオケ ジョイジョイ 甚目寺店</a>|<a href="/darts/rank/愛知県/あま市">愛知県あま市</a>|
 |36|541|ku|<a href="https://search.dartslive.com/jp/shop/80a51053c2745c4bfec1ae84bb28bd87">カラオケ ジョイジョイ 甚目寺店</a>|<a href="/darts/rank/愛知県/あま市">愛知県あま市</a>|
 |37|528|ななこ|<a href="https://search.dartslive.com/jp/shop/9fdea14ab759a6eb58d385ea46352d8f">インターネットカフェ亜熱帯甚目寺店</a>|<a href="/darts/rank/愛知県/あま市">愛知県あま市</a>|
 |38|495|えりつぃんBN*IX*|<a href="https://search.dartslive.com/jp/shop/80a51053c2745c4bfec1ae84bb28bd87">カラオケ ジョイジョイ 甚目寺店</a>|<a href="/darts/rank/愛知県/あま市">愛知県あま市</a>|
-|39|477|johnny|<a href="https://search.dartslive.com/jp/shop/9fdea14ab759a6eb58d385ea46352d8f">インターネットカフェ亜熱帯甚目寺店</a>|<a href="/darts/rank/愛知県/あま市">愛知県あま市</a>|
-|40|460|はるクレア|<a href="https://search.dartslive.com/jp/shop/80a51053c2745c4bfec1ae84bb28bd87">カラオケ ジョイジョイ 甚目寺店</a>|<a href="/darts/rank/愛知県/あま市">愛知県あま市</a>|
-|41|432|りっち|<a href="https://search.dartslive.com/jp/shop/80a51053c2745c4bfec1ae84bb28bd87">カラオケ ジョイジョイ 甚目寺店</a>|<a href="/darts/rank/愛知県/あま市">愛知県あま市</a>|
-|42|409|kurudrive|<a href="https://search.dartslive.com/jp/shop/9fdea14ab759a6eb58d385ea46352d8f">インターネットカフェ亜熱帯甚目寺店</a>|<a href="/darts/rank/愛知県/あま市">愛知県あま市</a>|
-|43|397|mAna|<a href="https://search.dartslive.com/jp/shop/80a51053c2745c4bfec1ae84bb28bd87">カラオケ ジョイジョイ 甚目寺店</a>|<a href="/darts/rank/愛知県/あま市">愛知県あま市</a>|
-|44|391|モアイ様|<a href="https://search.dartslive.com/jp/shop/80a51053c2745c4bfec1ae84bb28bd87">カラオケ ジョイジョイ 甚目寺店</a>|<a href="/darts/rank/愛知県/あま市">愛知県あま市</a>|
-|45|359|KEBOZニキ|<a href="https://search.dartslive.com/jp/shop/9fdea14ab759a6eb58d385ea46352d8f">インターネットカフェ亜熱帯甚目寺店</a>|<a href="/darts/rank/愛知県/あま市">愛知県あま市</a>|
-|46|341|あおい|<a href="https://search.dartslive.com/jp/shop/80a51053c2745c4bfec1ae84bb28bd87">カラオケ ジョイジョイ 甚目寺店</a>|<a href="/darts/rank/愛知県/あま市">愛知県あま市</a>|
+|39|460|はるクレア|<a href="https://search.dartslive.com/jp/shop/80a51053c2745c4bfec1ae84bb28bd87">カラオケ ジョイジョイ 甚目寺店</a>|<a href="/darts/rank/愛知県/あま市">愛知県あま市</a>|
+|40|432|りっち|<a href="https://search.dartslive.com/jp/shop/80a51053c2745c4bfec1ae84bb28bd87">カラオケ ジョイジョイ 甚目寺店</a>|<a href="/darts/rank/愛知県/あま市">愛知県あま市</a>|
+|41|397|mAna|<a href="https://search.dartslive.com/jp/shop/80a51053c2745c4bfec1ae84bb28bd87">カラオケ ジョイジョイ 甚目寺店</a>|<a href="/darts/rank/愛知県/あま市">愛知県あま市</a>|
+|42|391|モアイ様|<a href="https://search.dartslive.com/jp/shop/80a51053c2745c4bfec1ae84bb28bd87">カラオケ ジョイジョイ 甚目寺店</a>|<a href="/darts/rank/愛知県/あま市">愛知県あま市</a>|
+|43|286|KEBOZニキ|<a href="https://search.dartslive.com/jp/shop/9fdea14ab759a6eb58d385ea46352d8f">インターネットカフェ亜熱帯甚目寺店</a>|<a href="/darts/rank/愛知県/あま市">愛知県あま市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:54_
+_last update : 2024/01/21 13:39:01_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

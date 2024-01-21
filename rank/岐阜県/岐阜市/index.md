@@ -67,59 +67,59 @@ ___
 |51|860|kaz|<a href="https://search.dartslive.com/jp/shop/19bf92dfd592dc99774c926eb736cb5a">JOYJOY岐阜茜部店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
 |52|858|Lewy|<a href="https://search.dartslive.com/jp/shop/b8a60782705326665f9f3321c1147265">亜熱帯 岐阜県庁前店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
 |53|851|ラ王|<a href="https://search.dartslive.com/jp/shop/e37a94a12d96e2f50d9b047a20a7ba1e">Geek</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|54|849|くどみん|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|55|847|紅蓮 ꙳★*ﾟ|<a href="https://search.dartslive.com/jp/shop/0924bfb0a344bd41a3f63593b5358cc4">カラオケ ジョイジョイ 岐阜県庁前店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|56|844|鳥の素|<a href="https://search.dartslive.com/jp/shop/b8a60782705326665f9f3321c1147265">亜熱帯 岐阜県庁前店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|57|831|KEITA|<a href="https://search.dartslive.com/jp/shop/e37a94a12d96e2f50d9b047a20a7ba1e">Geek</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|58|830|アンミカ|<a href="https://search.dartslive.com/jp/shop/7d380715c162a33a0d9b047a20a7ba1e">Karaoke&Darts Bar TIA</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|59|827|YOUᕦ(ò_óˇ)ᕤ|<a href="https://search.dartslive.com/jp/shop/b8a60782705326665f9f3321c1147265">亜熱帯 岐阜県庁前店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|60|823|いは。@MMD|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|61|822|わおん|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|62|819|minagi|<a href="https://search.dartslive.com/jp/shop/f2d6e527c8d62fa9774c926eb736cb5a">快活CLUB 岐阜穂積店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|63|814|王将の人B|<a href="https://search.dartslive.com/jp/shop/0924bfb0a344bd41a3f63593b5358cc4">カラオケ ジョイジョイ 岐阜県庁前店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|64|808|あっくん|<a href="https://search.dartslive.com/jp/shop/e37a94a12d96e2f50d9b047a20a7ba1e">Geek</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|65|806|DJ-ROCK|<a href="https://search.dartslive.com/jp/shop/f2d6e527c8d62fa9774c926eb736cb5a">快活CLUB 岐阜穂積店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|66|805|☆N☆|<a href="https://search.dartslive.com/jp/shop/f2d6e527c8d62fa9774c926eb736cb5a">快活CLUB 岐阜穂積店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|67|803|Lewy|<a href="https://search.dartslive.com/jp/shop/f2d6e527c8d62fa9774c926eb736cb5a">快活CLUB 岐阜穂積店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|68|802|石川明睦@UMPIRE|<a href="https://search.dartslive.com/jp/shop/e37a94a12d96e2f50d9b047a20a7ba1e">Geek</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|69|801|hana_SH|<a href="https://search.dartslive.com/jp/shop/19bf92dfd592dc99774c926eb736cb5a">JOYJOY岐阜茜部店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|69|801|王将の人B|<a href="https://search.dartslive.com/jp/shop/e37a94a12d96e2f50d9b047a20a7ba1e">Geek</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|71|800|トクsaaaan|<a href="https://search.dartslive.com/jp/shop/f2d6e527c8d62fa9774c926eb736cb5a">快活CLUB 岐阜穂積店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|72|791|T.KANEKO|<a href="https://search.dartslive.com/jp/shop/5dc2d26ad080ddaaa3f63593b5358cc4">JOYJOY名鉄岐阜駅店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|73|789|USA|<a href="https://search.dartslive.com/jp/shop/19bf92dfd592dc99774c926eb736cb5a">JOYJOY岐阜茜部店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|74|786|T.KANEKO|<a href="https://search.dartslive.com/jp/shop/f2d6e527c8d62fa9774c926eb736cb5a">快活CLUB 岐阜穂積店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|75|784|ちゅぴ|<a href="https://search.dartslive.com/jp/shop/f2d6e527c8d62fa9774c926eb736cb5a">快活CLUB 岐阜穂積店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|76|782|わっぴ〜！|<a href="https://search.dartslive.com/jp/shop/f2d6e527c8d62fa9774c926eb736cb5a">快活CLUB 岐阜穂積店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|77|777|紅蓮 ꙳★*ﾟ|<a href="https://search.dartslive.com/jp/shop/f2d6e527c8d62fa9774c926eb736cb5a">快活CLUB 岐阜穂積店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|78|776|Cresselia|<a href="https://search.dartslive.com/jp/shop/19bf92dfd592dc99774c926eb736cb5a">JOYJOY岐阜茜部店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|78|776|SHOTA|<a href="https://search.dartslive.com/jp/shop/b8a60782705326665f9f3321c1147265">亜熱帯 岐阜県庁前店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|80|773|ゆきゆき|<a href="https://search.dartslive.com/jp/shop/19bf92dfd592dc99774c926eb736cb5a">JOYJOY岐阜茜部店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|81|769|J u n|<a href="https://search.dartslive.com/jp/shop/b8a60782705326665f9f3321c1147265">亜熱帯 岐阜県庁前店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|82|767|ren|<a href="https://search.dartslive.com/jp/shop/19bf92dfd592dc99774c926eb736cb5a">JOYJOY岐阜茜部店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|82|767|あるぱか|<a href="https://search.dartslive.com/jp/shop/19bf92dfd592dc99774c926eb736cb5a">JOYJOY岐阜茜部店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|84|762|やっすー|<a href="https://search.dartslive.com/jp/shop/6b34456b593af4440d9b047a20a7ba1e">Bar Be Lazy</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|85|758|たけぼー|<a href="https://search.dartslive.com/jp/shop/19bf92dfd592dc99774c926eb736cb5a">JOYJOY岐阜茜部店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|86|757|NO NAME 6865|<a href="https://search.dartslive.com/jp/shop/7d380715c162a33a0d9b047a20a7ba1e">Karaoke&Darts Bar TIA</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|87|751|はる|<a href="https://search.dartslive.com/jp/shop/5dc2d26ad080ddaaa3f63593b5358cc4">JOYJOY名鉄岐阜駅店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|88|750|なおと@Hide out|<a href="https://search.dartslive.com/jp/shop/19bf92dfd592dc99774c926eb736cb5a">JOYJOY岐阜茜部店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|89|739|DAI|<a href="https://search.dartslive.com/jp/shop/f2d6e527c8d62fa9774c926eb736cb5a">快活CLUB 岐阜穂積店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|89|739|わわわわわ|<a href="https://search.dartslive.com/jp/shop/e37a94a12d96e2f50d9b047a20a7ba1e">Geek</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|91|736|to/to|<a href="https://search.dartslive.com/jp/shop/b8a60782705326665f9f3321c1147265">亜熱帯 岐阜県庁前店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|92|735|YaMa|<a href="https://search.dartslive.com/jp/shop/e37a94a12d96e2f50d9b047a20a7ba1e">Geek</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|93|732|Steveさん|<a href="https://search.dartslive.com/jp/shop/b8a60782705326665f9f3321c1147265">亜熱帯 岐阜県庁前店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|94|731|くらま∈k10g.ism|<a href="https://search.dartslive.com/jp/shop/989b8218621cf7ef0d9b047a20a7ba1e">恋川純弥HOUSE</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|95|730|SHOTA|<a href="https://search.dartslive.com/jp/shop/f2d6e527c8d62fa9774c926eb736cb5a">快活CLUB 岐阜穂積店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|96|727|ｲﾝﾃﾞｨ 71|<a href="https://search.dartslive.com/jp/shop/6b34456b593af4440d9b047a20a7ba1e">Bar Be Lazy</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|97|722|ひょす|<a href="https://search.dartslive.com/jp/shop/19bf92dfd592dc99774c926eb736cb5a">JOYJOY岐阜茜部店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|98|717|サッポロ一番|<a href="https://search.dartslive.com/jp/shop/19bf92dfd592dc99774c926eb736cb5a">JOYJOY岐阜茜部店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|99|714|hana_SH|<a href="https://search.dartslive.com/jp/shop/b8a60782705326665f9f3321c1147265">亜熱帯 岐阜県庁前店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
-|99|714|わっぴ〜！|<a href="https://search.dartslive.com/jp/shop/5dc2d26ad080ddaaa3f63593b5358cc4">JOYJOY名鉄岐阜駅店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|54|847|紅蓮 ꙳★*ﾟ|<a href="https://search.dartslive.com/jp/shop/0924bfb0a344bd41a3f63593b5358cc4">カラオケ ジョイジョイ 岐阜県庁前店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|55|844|鳥の素|<a href="https://search.dartslive.com/jp/shop/b8a60782705326665f9f3321c1147265">亜熱帯 岐阜県庁前店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|56|831|KEITA|<a href="https://search.dartslive.com/jp/shop/e37a94a12d96e2f50d9b047a20a7ba1e">Geek</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|57|830|アンミカ|<a href="https://search.dartslive.com/jp/shop/7d380715c162a33a0d9b047a20a7ba1e">Karaoke&Darts Bar TIA</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|58|827|YOUᕦ(ò_óˇ)ᕤ|<a href="https://search.dartslive.com/jp/shop/b8a60782705326665f9f3321c1147265">亜熱帯 岐阜県庁前店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|59|822|わおん|<a href="https://search.dartslive.com/jp/shop/ba6b0aafd6b0c9670d9b047a20a7ba1e">Galleria</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|60|819|minagi|<a href="https://search.dartslive.com/jp/shop/f2d6e527c8d62fa9774c926eb736cb5a">快活CLUB 岐阜穂積店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|61|814|王将の人B|<a href="https://search.dartslive.com/jp/shop/0924bfb0a344bd41a3f63593b5358cc4">カラオケ ジョイジョイ 岐阜県庁前店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|62|808|あっくん|<a href="https://search.dartslive.com/jp/shop/e37a94a12d96e2f50d9b047a20a7ba1e">Geek</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|63|806|DJ-ROCK|<a href="https://search.dartslive.com/jp/shop/f2d6e527c8d62fa9774c926eb736cb5a">快活CLUB 岐阜穂積店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|64|805|☆N☆|<a href="https://search.dartslive.com/jp/shop/f2d6e527c8d62fa9774c926eb736cb5a">快活CLUB 岐阜穂積店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|65|803|Lewy|<a href="https://search.dartslive.com/jp/shop/f2d6e527c8d62fa9774c926eb736cb5a">快活CLUB 岐阜穂積店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|66|802|石川明睦@UMPIRE|<a href="https://search.dartslive.com/jp/shop/e37a94a12d96e2f50d9b047a20a7ba1e">Geek</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|67|801|hana_SH|<a href="https://search.dartslive.com/jp/shop/19bf92dfd592dc99774c926eb736cb5a">JOYJOY岐阜茜部店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|67|801|王将の人B|<a href="https://search.dartslive.com/jp/shop/e37a94a12d96e2f50d9b047a20a7ba1e">Geek</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|69|800|トクsaaaan|<a href="https://search.dartslive.com/jp/shop/f2d6e527c8d62fa9774c926eb736cb5a">快活CLUB 岐阜穂積店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|70|791|T.KANEKO|<a href="https://search.dartslive.com/jp/shop/5dc2d26ad080ddaaa3f63593b5358cc4">JOYJOY名鉄岐阜駅店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|71|789|USA|<a href="https://search.dartslive.com/jp/shop/19bf92dfd592dc99774c926eb736cb5a">JOYJOY岐阜茜部店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|72|786|T.KANEKO|<a href="https://search.dartslive.com/jp/shop/f2d6e527c8d62fa9774c926eb736cb5a">快活CLUB 岐阜穂積店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|73|784|ちゅぴ|<a href="https://search.dartslive.com/jp/shop/f2d6e527c8d62fa9774c926eb736cb5a">快活CLUB 岐阜穂積店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|74|782|わっぴ〜！|<a href="https://search.dartslive.com/jp/shop/f2d6e527c8d62fa9774c926eb736cb5a">快活CLUB 岐阜穂積店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|75|777|紅蓮 ꙳★*ﾟ|<a href="https://search.dartslive.com/jp/shop/f2d6e527c8d62fa9774c926eb736cb5a">快活CLUB 岐阜穂積店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|76|776|Cresselia|<a href="https://search.dartslive.com/jp/shop/19bf92dfd592dc99774c926eb736cb5a">JOYJOY岐阜茜部店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|76|776|SHOTA|<a href="https://search.dartslive.com/jp/shop/b8a60782705326665f9f3321c1147265">亜熱帯 岐阜県庁前店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|78|773|ゆきゆき|<a href="https://search.dartslive.com/jp/shop/19bf92dfd592dc99774c926eb736cb5a">JOYJOY岐阜茜部店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|79|769|J u n|<a href="https://search.dartslive.com/jp/shop/b8a60782705326665f9f3321c1147265">亜熱帯 岐阜県庁前店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|80|767|ren|<a href="https://search.dartslive.com/jp/shop/19bf92dfd592dc99774c926eb736cb5a">JOYJOY岐阜茜部店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|80|767|あるぱか|<a href="https://search.dartslive.com/jp/shop/19bf92dfd592dc99774c926eb736cb5a">JOYJOY岐阜茜部店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|82|762|やっすー|<a href="https://search.dartslive.com/jp/shop/6b34456b593af4440d9b047a20a7ba1e">Bar Be Lazy</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|83|758|たけぼー|<a href="https://search.dartslive.com/jp/shop/19bf92dfd592dc99774c926eb736cb5a">JOYJOY岐阜茜部店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|84|757|NO NAME 6865|<a href="https://search.dartslive.com/jp/shop/7d380715c162a33a0d9b047a20a7ba1e">Karaoke&Darts Bar TIA</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|85|751|はる|<a href="https://search.dartslive.com/jp/shop/5dc2d26ad080ddaaa3f63593b5358cc4">JOYJOY名鉄岐阜駅店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|86|750|なおと@Hide out|<a href="https://search.dartslive.com/jp/shop/19bf92dfd592dc99774c926eb736cb5a">JOYJOY岐阜茜部店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|87|739|DAI|<a href="https://search.dartslive.com/jp/shop/f2d6e527c8d62fa9774c926eb736cb5a">快活CLUB 岐阜穂積店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|87|739|わわわわわ|<a href="https://search.dartslive.com/jp/shop/e37a94a12d96e2f50d9b047a20a7ba1e">Geek</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|89|736|to/to|<a href="https://search.dartslive.com/jp/shop/b8a60782705326665f9f3321c1147265">亜熱帯 岐阜県庁前店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|90|735|YaMa|<a href="https://search.dartslive.com/jp/shop/e37a94a12d96e2f50d9b047a20a7ba1e">Geek</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|91|732|Steveさん|<a href="https://search.dartslive.com/jp/shop/b8a60782705326665f9f3321c1147265">亜熱帯 岐阜県庁前店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|92|731|くらま∈k10g.ism|<a href="https://search.dartslive.com/jp/shop/989b8218621cf7ef0d9b047a20a7ba1e">恋川純弥HOUSE</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|93|730|SHOTA|<a href="https://search.dartslive.com/jp/shop/f2d6e527c8d62fa9774c926eb736cb5a">快活CLUB 岐阜穂積店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|94|727|ｲﾝﾃﾞｨ 71|<a href="https://search.dartslive.com/jp/shop/6b34456b593af4440d9b047a20a7ba1e">Bar Be Lazy</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|95|722|ひょす|<a href="https://search.dartslive.com/jp/shop/19bf92dfd592dc99774c926eb736cb5a">JOYJOY岐阜茜部店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|96|717|サッポロ一番|<a href="https://search.dartslive.com/jp/shop/19bf92dfd592dc99774c926eb736cb5a">JOYJOY岐阜茜部店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|97|714|hana_SH|<a href="https://search.dartslive.com/jp/shop/b8a60782705326665f9f3321c1147265">亜熱帯 岐阜県庁前店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|97|714|わっぴ〜！|<a href="https://search.dartslive.com/jp/shop/5dc2d26ad080ddaaa3f63593b5358cc4">JOYJOY名鉄岐阜駅店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|99|713|はーくん|<a href="https://search.dartslive.com/jp/shop/19bf92dfd592dc99774c926eb736cb5a">JOYJOY岐阜茜部店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
+|99|713|非力彩芽|<a href="https://search.dartslive.com/jp/shop/19bf92dfd592dc99774c926eb736cb5a">JOYJOY岐阜茜部店</a>|<a href="/darts/rank/岐阜県/岐阜市">岐阜県岐阜市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:53_
+_last update : 2024/01/21 13:39:01_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

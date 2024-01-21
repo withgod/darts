@@ -32,15 +32,18 @@ ___
 |16|713|Katsumi|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国 むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
 |17|696|［鳳］ぱいん怪獣|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国 むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
 |18|626|numago_ハセ|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国 むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
-|19|540|ｶｶｶ|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国 むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
+|19|555|ｶｶｶ|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国 むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
 |20|453|SHERRY|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国 むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
-|21|416|かすみぃん|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国 むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
+|21|444|伸び代JAPAN|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国 むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
+|22|427|のーすのーす|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国 むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
+|23|416|かすみぃん|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国 むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
+|24|344|ないと|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国 むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:48_
+_last update : 2024/01/21 13:38:53_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

@@ -49,60 +49,50 @@ ___
 |33|808|小澄太祐@perfect|<a href="https://search.dartslive.com/jp/shop/3b2fd56b7e91641a0d9b047a20a7ba1e">4T's bar</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
 |34|804|つかﾙﾝﾙﾝ♪|<a href="https://search.dartslive.com/jp/shop/3b2fd56b7e91641a0d9b047a20a7ba1e">4T's bar</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
 |35|799|尋夢❣Bond|<a href="https://search.dartslive.com/jp/shop/a31d5de6a522de450d9b047a20a7ba1e">Disco&Sport Dispo</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
-|36|792|田 仁智|<a href="https://search.dartslive.com/jp/shop/6df17e94068f8df528032249b44395af">快活CLUB 多摩ニュータウン店</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
-|37|783|末っ子|<a href="https://search.dartslive.com/jp/shop/6df17e94068f8df528032249b44395af">快活CLUB 多摩ニュータウン店</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
-|38|780|メグチン@ﾋﾟﾖﾋﾟﾖ|<a href="https://search.dartslive.com/jp/shop/6df17e94068f8df528032249b44395af">快活CLUB 多摩ニュータウン店</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
-|39|756|yumi (*´▽)ノ♪|<a href="https://search.dartslive.com/jp/shop/6df17e94068f8df528032249b44395af">快活CLUB 多摩ニュータウン店</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
-|39|756|勝屋 -katsuya-|<a href="https://search.dartslive.com/jp/shop/6df17e94068f8df528032249b44395af">快活CLUB 多摩ニュータウン店</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
-|41|755|メンマ。|<a href="https://search.dartslive.com/jp/shop/a3b2858d31418a2f0d9b047a20a7ba1e">SALA多摩センター</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
-|41|755|百万石まんじゅう|<a href="https://search.dartslive.com/jp/shop/a3b2858d31418a2f0d9b047a20a7ba1e">SALA多摩センター</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
-|43|741|まこと|<a href="https://search.dartslive.com/jp/shop/a3b2858d31418a2f0d9b047a20a7ba1e">SALA多摩センター</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
-|44|726|アキ|<a href="https://search.dartslive.com/jp/shop/6df17e94068f8df528032249b44395af">快活CLUB 多摩ニュータウン店</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
-|45|711|たけすぃーーー|<a href="https://search.dartslive.com/jp/shop/3b2fd56b7e91641a0d9b047a20a7ba1e">4T's bar</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
-|46|707|SAI|<a href="https://search.dartslive.com/jp/shop/6df17e94068f8df528032249b44395af">快活CLUB 多摩ニュータウン店</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
-|47|701|歌菜|<a href="https://search.dartslive.com/jp/shop/6df17e94068f8df528032249b44395af">快活CLUB 多摩ニュータウン店</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
-|48|679|ﾁｷﾝｷｸﾁｭﾏ〜|<a href="https://search.dartslive.com/jp/shop/3b2fd56b7e91641a0d9b047a20a7ba1e">4T's bar</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
-|49|654|だいきち2021|<a href="https://search.dartslive.com/jp/shop/6df17e94068f8df528032249b44395af">快活CLUB 多摩ニュータウン店</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
-|50|646|samantha|<a href="https://search.dartslive.com/jp/shop/6df17e94068f8df528032249b44395af">快活CLUB 多摩ニュータウン店</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
-|51|626|すぎ|<a href="https://search.dartslive.com/jp/shop/3b2fd56b7e91641a0d9b047a20a7ba1e">4T's bar</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
-|52|617|ラピス|<a href="https://search.dartslive.com/jp/shop/a3b2858d31418a2f0d9b047a20a7ba1e">SALA多摩センター</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
-|53|616|DISPOの幸運児|<a href="https://search.dartslive.com/jp/shop/a31d5de6a522de450d9b047a20a7ba1e">Disco&Sport Dispo</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
-|54|568|まなんぼ♪|<a href="https://search.dartslive.com/jp/shop/6df17e94068f8df528032249b44395af">快活CLUB 多摩ニュータウン店</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
-|55|553|まーーーーの|<a href="https://search.dartslive.com/jp/shop/3b2fd56b7e91641a0d9b047a20a7ba1e">4T's bar</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
-|56|544|みがわりちゃん|<a href="https://search.dartslive.com/jp/shop/6df17e94068f8df528032249b44395af">快活CLUB 多摩ニュータウン店</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
-|57|541|Kくん～³家～|<a href="https://search.dartslive.com/jp/shop/3b2fd56b7e91641a0d9b047a20a7ba1e">4T's bar</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
-|58|540|ゆんちゃん|<a href="https://search.dartslive.com/jp/shop/a3b2858d31418a2f0d9b047a20a7ba1e">SALA多摩センター</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
-|59|538|さや|<a href="https://search.dartslive.com/jp/shop/6df17e94068f8df528032249b44395af">快活CLUB 多摩ニュータウン店</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
-|60|529|Afroなピアノ弾き|<a href="https://search.dartslive.com/jp/shop/6df17e94068f8df528032249b44395af">快活CLUB 多摩ニュータウン店</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
-|61|517|花寺アスナ|<a href="https://search.dartslive.com/jp/shop/a3b2858d31418a2f0d9b047a20a7ba1e">SALA多摩センター</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
-|62|513|ﾏｵﾏｵ|<a href="https://search.dartslive.com/jp/shop/6df17e94068f8df528032249b44395af">快活CLUB 多摩ニュータウン店</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
-|63|512|彩|<a href="https://search.dartslive.com/jp/shop/6df17e94068f8df528032249b44395af">快活CLUB 多摩ニュータウン店</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
-|64|501|NYO(*^ω^*)参式|<a href="https://search.dartslive.com/jp/shop/6df17e94068f8df528032249b44395af">快活CLUB 多摩ニュータウン店</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
-|65|496|ryfa|<a href="https://search.dartslive.com/jp/shop/a31d5de6a522de450d9b047a20a7ba1e">Disco&Sport Dispo</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
-|66|492|ｽﾌｨﾝｸｽ@はる|<a href="https://search.dartslive.com/jp/shop/a3b2858d31418a2f0d9b047a20a7ba1e">SALA多摩センター</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
-|67|490|ひろ|<a href="https://search.dartslive.com/jp/shop/3b2fd56b7e91641a0d9b047a20a7ba1e">4T's bar</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
-|68|486|スワンニ@GARAGE|<a href="https://search.dartslive.com/jp/shop/3b2fd56b7e91641a0d9b047a20a7ba1e">4T's bar</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
-|69|475|taroshinspa|<a href="https://search.dartslive.com/jp/shop/6df17e94068f8df528032249b44395af">快活CLUB 多摩ニュータウン店</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
-|70|471|あーいーみ|<a href="https://search.dartslive.com/jp/shop/3b2fd56b7e91641a0d9b047a20a7ba1e">4T's bar</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
-|71|467|黝兎|<a href="https://search.dartslive.com/jp/shop/a31d5de6a522de450d9b047a20a7ba1e">Disco&Sport Dispo</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
-|72|465|Layla|<a href="https://search.dartslive.com/jp/shop/a3b2858d31418a2f0d9b047a20a7ba1e">SALA多摩センター</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
-|73|455|miki|<a href="https://search.dartslive.com/jp/shop/a3b2858d31418a2f0d9b047a20a7ba1e">SALA多摩センター</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
-|74|452|MIRRY|<a href="https://search.dartslive.com/jp/shop/a3b2858d31418a2f0d9b047a20a7ba1e">SALA多摩センター</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
-|75|449|Rina (*´﹃｀*)|<a href="https://search.dartslive.com/jp/shop/a3b2858d31418a2f0d9b047a20a7ba1e">SALA多摩センター</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
-|76|446|璃音〜³家〜|<a href="https://search.dartslive.com/jp/shop/3b2fd56b7e91641a0d9b047a20a7ba1e">4T's bar</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
-|77|443|yu~ki*|<a href="https://search.dartslive.com/jp/shop/a3b2858d31418a2f0d9b047a20a7ba1e">SALA多摩センター</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
-|77|443|ﾏｵﾏｵ|<a href="https://search.dartslive.com/jp/shop/a3b2858d31418a2f0d9b047a20a7ba1e">SALA多摩センター</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
-|79|439|UoxoU|<a href="https://search.dartslive.com/jp/shop/a3b2858d31418a2f0d9b047a20a7ba1e">SALA多摩センター</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
-|80|402|R(*´﹃｀*)|<a href="https://search.dartslive.com/jp/shop/a3b2858d31418a2f0d9b047a20a7ba1e">SALA多摩センター</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
-|81|395|よっしー☆|<a href="https://search.dartslive.com/jp/shop/a3b2858d31418a2f0d9b047a20a7ba1e">SALA多摩センター</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
-|82|336|☆AYA☆|<a href="https://search.dartslive.com/jp/shop/6df17e94068f8df528032249b44395af">快活CLUB 多摩ニュータウン店</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
-|83|209|MARINA|<a href="https://search.dartslive.com/jp/shop/a3b2858d31418a2f0d9b047a20a7ba1e">SALA多摩センター</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
+|36|780|メグチン@ﾋﾟﾖﾋﾟﾖ|<a href="https://search.dartslive.com/jp/shop/6df17e94068f8df528032249b44395af">快活CLUB 多摩ニュータウン店</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
+|37|756|yumi (*´▽)ノ♪|<a href="https://search.dartslive.com/jp/shop/6df17e94068f8df528032249b44395af">快活CLUB 多摩ニュータウン店</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
+|38|755|メンマ。|<a href="https://search.dartslive.com/jp/shop/a3b2858d31418a2f0d9b047a20a7ba1e">SALA多摩センター</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
+|39|741|まこと|<a href="https://search.dartslive.com/jp/shop/a3b2858d31418a2f0d9b047a20a7ba1e">SALA多摩センター</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
+|40|726|アキ|<a href="https://search.dartslive.com/jp/shop/6df17e94068f8df528032249b44395af">快活CLUB 多摩ニュータウン店</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
+|41|711|たけすぃーーー|<a href="https://search.dartslive.com/jp/shop/3b2fd56b7e91641a0d9b047a20a7ba1e">4T's bar</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
+|42|701|歌菜|<a href="https://search.dartslive.com/jp/shop/6df17e94068f8df528032249b44395af">快活CLUB 多摩ニュータウン店</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
+|43|679|ﾁｷﾝｷｸﾁｭﾏ〜|<a href="https://search.dartslive.com/jp/shop/3b2fd56b7e91641a0d9b047a20a7ba1e">4T's bar</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
+|44|646|samantha|<a href="https://search.dartslive.com/jp/shop/6df17e94068f8df528032249b44395af">快活CLUB 多摩ニュータウン店</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
+|45|626|すぎ|<a href="https://search.dartslive.com/jp/shop/3b2fd56b7e91641a0d9b047a20a7ba1e">4T's bar</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
+|46|616|DISPOの幸運児|<a href="https://search.dartslive.com/jp/shop/a31d5de6a522de450d9b047a20a7ba1e">Disco&Sport Dispo</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
+|47|568|まなんぼ♪|<a href="https://search.dartslive.com/jp/shop/6df17e94068f8df528032249b44395af">快活CLUB 多摩ニュータウン店</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
+|48|553|まーーーーの|<a href="https://search.dartslive.com/jp/shop/3b2fd56b7e91641a0d9b047a20a7ba1e">4T's bar</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
+|49|541|Kくん～³家～|<a href="https://search.dartslive.com/jp/shop/3b2fd56b7e91641a0d9b047a20a7ba1e">4T's bar</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
+|50|540|ゆんちゃん|<a href="https://search.dartslive.com/jp/shop/a3b2858d31418a2f0d9b047a20a7ba1e">SALA多摩センター</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
+|51|538|さや|<a href="https://search.dartslive.com/jp/shop/6df17e94068f8df528032249b44395af">快活CLUB 多摩ニュータウン店</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
+|52|517|花寺アスナ|<a href="https://search.dartslive.com/jp/shop/a3b2858d31418a2f0d9b047a20a7ba1e">SALA多摩センター</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
+|53|513|ﾏｵﾏｵ|<a href="https://search.dartslive.com/jp/shop/6df17e94068f8df528032249b44395af">快活CLUB 多摩ニュータウン店</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
+|54|512|彩|<a href="https://search.dartslive.com/jp/shop/6df17e94068f8df528032249b44395af">快活CLUB 多摩ニュータウン店</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
+|55|501|NYO(*^ω^*)参式|<a href="https://search.dartslive.com/jp/shop/6df17e94068f8df528032249b44395af">快活CLUB 多摩ニュータウン店</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
+|56|496|ryfa|<a href="https://search.dartslive.com/jp/shop/a31d5de6a522de450d9b047a20a7ba1e">Disco&Sport Dispo</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
+|57|492|ｽﾌｨﾝｸｽ@はる|<a href="https://search.dartslive.com/jp/shop/a3b2858d31418a2f0d9b047a20a7ba1e">SALA多摩センター</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
+|58|490|ひろ|<a href="https://search.dartslive.com/jp/shop/3b2fd56b7e91641a0d9b047a20a7ba1e">4T's bar</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
+|59|486|スワンニ@GARAGE|<a href="https://search.dartslive.com/jp/shop/3b2fd56b7e91641a0d9b047a20a7ba1e">4T's bar</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
+|60|471|あーいーみ|<a href="https://search.dartslive.com/jp/shop/3b2fd56b7e91641a0d9b047a20a7ba1e">4T's bar</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
+|61|467|黝兎|<a href="https://search.dartslive.com/jp/shop/a31d5de6a522de450d9b047a20a7ba1e">Disco&Sport Dispo</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
+|62|465|Layla|<a href="https://search.dartslive.com/jp/shop/a3b2858d31418a2f0d9b047a20a7ba1e">SALA多摩センター</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
+|63|455|miki|<a href="https://search.dartslive.com/jp/shop/a3b2858d31418a2f0d9b047a20a7ba1e">SALA多摩センター</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
+|64|452|MIRRY|<a href="https://search.dartslive.com/jp/shop/a3b2858d31418a2f0d9b047a20a7ba1e">SALA多摩センター</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
+|65|449|Rina (*´﹃｀*)|<a href="https://search.dartslive.com/jp/shop/a3b2858d31418a2f0d9b047a20a7ba1e">SALA多摩センター</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
+|66|446|璃音〜³家〜|<a href="https://search.dartslive.com/jp/shop/3b2fd56b7e91641a0d9b047a20a7ba1e">4T's bar</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
+|67|443|yu~ki*|<a href="https://search.dartslive.com/jp/shop/a3b2858d31418a2f0d9b047a20a7ba1e">SALA多摩センター</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
+|67|443|ﾏｵﾏｵ|<a href="https://search.dartslive.com/jp/shop/a3b2858d31418a2f0d9b047a20a7ba1e">SALA多摩センター</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
+|69|439|UoxoU|<a href="https://search.dartslive.com/jp/shop/a3b2858d31418a2f0d9b047a20a7ba1e">SALA多摩センター</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
+|70|402|R(*´﹃｀*)|<a href="https://search.dartslive.com/jp/shop/a3b2858d31418a2f0d9b047a20a7ba1e">SALA多摩センター</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
+|71|395|よっしー☆|<a href="https://search.dartslive.com/jp/shop/a3b2858d31418a2f0d9b047a20a7ba1e">SALA多摩センター</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
+|72|336|☆AYA☆|<a href="https://search.dartslive.com/jp/shop/6df17e94068f8df528032249b44395af">快活CLUB 多摩ニュータウン店</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
+|73|209|MARINA|<a href="https://search.dartslive.com/jp/shop/a3b2858d31418a2f0d9b047a20a7ba1e">SALA多摩センター</a>|<a href="/darts/rank/東京都/多摩市">東京都多摩市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:52_
+_last update : 2024/01/21 13:38:58_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

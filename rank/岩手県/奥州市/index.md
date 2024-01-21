@@ -30,31 +30,31 @@ ___
 |14|900|具裏粉@酒雑魚|<a href="https://search.dartslive.com/jp/shop/cb2148ab75443d335f9f3321c1147265">快活CLUB 水沢店</a>|<a href="/darts/rank/岩手県/奥州市">岩手県奥州市</a>|
 |15|884|和@risumi也|<a href="https://search.dartslive.com/jp/shop/cb2148ab75443d335f9f3321c1147265">快活CLUB 水沢店</a>|<a href="/darts/rank/岩手県/奥州市">岩手県奥州市</a>|
 |16|877|Ryon25|<a href="https://search.dartslive.com/jp/shop/cb2148ab75443d335f9f3321c1147265">快活CLUB 水沢店</a>|<a href="/darts/rank/岩手県/奥州市">岩手県奥州市</a>|
-|16|877|すずゆう@♂LBT☆|<a href="https://search.dartslive.com/jp/shop/cb2148ab75443d335f9f3321c1147265">快活CLUB 水沢店</a>|<a href="/darts/rank/岩手県/奥州市">岩手県奥州市</a>|
-|18|839|エイトマン!|<a href="https://search.dartslive.com/jp/shop/cb2148ab75443d335f9f3321c1147265">快活CLUB 水沢店</a>|<a href="/darts/rank/岩手県/奥州市">岩手県奥州市</a>|
-|19|804|杏香|<a href="https://search.dartslive.com/jp/shop/cb2148ab75443d335f9f3321c1147265">快活CLUB 水沢店</a>|<a href="/darts/rank/岩手県/奥州市">岩手県奥州市</a>|
-|20|775|tamu@|<a href="https://search.dartslive.com/jp/shop/f752cf3c2dcf1a770d9b047a20a7ba1e">Amusement Zone Zeus</a>|<a href="/darts/rank/岩手県/奥州市">岩手県奥州市</a>|
-|21|713|SUZU0511|<a href="https://search.dartslive.com/jp/shop/cb2148ab75443d335f9f3321c1147265">快活CLUB 水沢店</a>|<a href="/darts/rank/岩手県/奥州市">岩手県奥州市</a>|
-|22|681|ノーネーム　タム|<a href="https://search.dartslive.com/jp/shop/f752cf3c2dcf1a770d9b047a20a7ba1e">Amusement Zone Zeus</a>|<a href="/darts/rank/岩手県/奥州市">岩手県奥州市</a>|
-|23|670|NO NAME 0017|<a href="https://search.dartslive.com/jp/shop/f752cf3c2dcf1a770d9b047a20a7ba1e">Amusement Zone Zeus</a>|<a href="/darts/rank/岩手県/奥州市">岩手県奥州市</a>|
-|24|646|卍おでこちゃん卍|<a href="https://search.dartslive.com/jp/shop/cb2148ab75443d335f9f3321c1147265">快活CLUB 水沢店</a>|<a href="/darts/rank/岩手県/奥州市">岩手県奥州市</a>|
-|25|632|すずゆう 【A.】|<a href="https://search.dartslive.com/jp/shop/cb2148ab75443d335f9f3321c1147265">快活CLUB 水沢店</a>|<a href="/darts/rank/岩手県/奥州市">岩手県奥州市</a>|
-|26|611|megu|<a href="https://search.dartslive.com/jp/shop/cb2148ab75443d335f9f3321c1147265">快活CLUB 水沢店</a>|<a href="/darts/rank/岩手県/奥州市">岩手県奥州市</a>|
-|27|610|ｼｬﾁ|<a href="https://search.dartslive.com/jp/shop/cb2148ab75443d335f9f3321c1147265">快活CLUB 水沢店</a>|<a href="/darts/rank/岩手県/奥州市">岩手県奥州市</a>|
-|28|583|ＭＡＫＫＹ|<a href="https://search.dartslive.com/jp/shop/cb2148ab75443d335f9f3321c1147265">快活CLUB 水沢店</a>|<a href="/darts/rank/岩手県/奥州市">岩手県奥州市</a>|
-|29|580|キャップ@zeus|<a href="https://search.dartslive.com/jp/shop/f752cf3c2dcf1a770d9b047a20a7ba1e">Amusement Zone Zeus</a>|<a href="/darts/rank/岩手県/奥州市">岩手県奥州市</a>|
-|30|573|0000|<a href="https://search.dartslive.com/jp/shop/cb2148ab75443d335f9f3321c1147265">快活CLUB 水沢店</a>|<a href="/darts/rank/岩手県/奥州市">岩手県奥州市</a>|
-|31|558|貞操帯＠三つ穴|<a href="https://search.dartslive.com/jp/shop/f752cf3c2dcf1a770d9b047a20a7ba1e">Amusement Zone Zeus</a>|<a href="/darts/rank/岩手県/奥州市">岩手県奥州市</a>|
-|32|549|Hqru_3|<a href="https://search.dartslive.com/jp/shop/cb2148ab75443d335f9f3321c1147265">快活CLUB 水沢店</a>|<a href="/darts/rank/岩手県/奥州市">岩手県奥州市</a>|
-|33|546|サトンヌ|<a href="https://search.dartslive.com/jp/shop/cb2148ab75443d335f9f3321c1147265">快活CLUB 水沢店</a>|<a href="/darts/rank/岩手県/奥州市">岩手県奥州市</a>|
-|34|539|りつくまこ|<a href="https://search.dartslive.com/jp/shop/f752cf3c2dcf1a770d9b047a20a7ba1e">Amusement Zone Zeus</a>|<a href="/darts/rank/岩手県/奥州市">岩手県奥州市</a>|
-|35|538|すなぎも|<a href="https://search.dartslive.com/jp/shop/cb2148ab75443d335f9f3321c1147265">快活CLUB 水沢店</a>|<a href="/darts/rank/岩手県/奥州市">岩手県奥州市</a>|
-|36|524|kaizin|<a href="https://search.dartslive.com/jp/shop/f752cf3c2dcf1a770d9b047a20a7ba1e">Amusement Zone Zeus</a>|<a href="/darts/rank/岩手県/奥州市">岩手県奥州市</a>|
-|37|507|ゆめち|<a href="https://search.dartslive.com/jp/shop/cb2148ab75443d335f9f3321c1147265">快活CLUB 水沢店</a>|<a href="/darts/rank/岩手県/奥州市">岩手県奥州市</a>|
-|38|496|KAZUMA|<a href="https://search.dartslive.com/jp/shop/f752cf3c2dcf1a770d9b047a20a7ba1e">Amusement Zone Zeus</a>|<a href="/darts/rank/岩手県/奥州市">岩手県奥州市</a>|
-|38|496|とさか|<a href="https://search.dartslive.com/jp/shop/cb2148ab75443d335f9f3321c1147265">快活CLUB 水沢店</a>|<a href="/darts/rank/岩手県/奥州市">岩手県奥州市</a>|
-|40|490|千優|<a href="https://search.dartslive.com/jp/shop/cb2148ab75443d335f9f3321c1147265">快活CLUB 水沢店</a>|<a href="/darts/rank/岩手県/奥州市">岩手県奥州市</a>|
-|41|486|TOMO|<a href="https://search.dartslive.com/jp/shop/cb2148ab75443d335f9f3321c1147265">快活CLUB 水沢店</a>|<a href="/darts/rank/岩手県/奥州市">岩手県奥州市</a>|
+|17|839|エイトマン!|<a href="https://search.dartslive.com/jp/shop/cb2148ab75443d335f9f3321c1147265">快活CLUB 水沢店</a>|<a href="/darts/rank/岩手県/奥州市">岩手県奥州市</a>|
+|18|804|杏香|<a href="https://search.dartslive.com/jp/shop/cb2148ab75443d335f9f3321c1147265">快活CLUB 水沢店</a>|<a href="/darts/rank/岩手県/奥州市">岩手県奥州市</a>|
+|19|775|tamu@|<a href="https://search.dartslive.com/jp/shop/f752cf3c2dcf1a770d9b047a20a7ba1e">Amusement Zone Zeus</a>|<a href="/darts/rank/岩手県/奥州市">岩手県奥州市</a>|
+|20|713|SUZU0511|<a href="https://search.dartslive.com/jp/shop/cb2148ab75443d335f9f3321c1147265">快活CLUB 水沢店</a>|<a href="/darts/rank/岩手県/奥州市">岩手県奥州市</a>|
+|21|681|ノーネーム　タム|<a href="https://search.dartslive.com/jp/shop/f752cf3c2dcf1a770d9b047a20a7ba1e">Amusement Zone Zeus</a>|<a href="/darts/rank/岩手県/奥州市">岩手県奥州市</a>|
+|22|670|NO NAME 0017|<a href="https://search.dartslive.com/jp/shop/f752cf3c2dcf1a770d9b047a20a7ba1e">Amusement Zone Zeus</a>|<a href="/darts/rank/岩手県/奥州市">岩手県奥州市</a>|
+|23|653|すずゆう@♂LBT☆|<a href="https://search.dartslive.com/jp/shop/cb2148ab75443d335f9f3321c1147265">快活CLUB 水沢店</a>|<a href="/darts/rank/岩手県/奥州市">岩手県奥州市</a>|
+|23|653|炭酸(ﾟДﾟ)酒雑魚|<a href="https://search.dartslive.com/jp/shop/cb2148ab75443d335f9f3321c1147265">快活CLUB 水沢店</a>|<a href="/darts/rank/岩手県/奥州市">岩手県奥州市</a>|
+|25|646|卍おでこちゃん卍|<a href="https://search.dartslive.com/jp/shop/cb2148ab75443d335f9f3321c1147265">快活CLUB 水沢店</a>|<a href="/darts/rank/岩手県/奥州市">岩手県奥州市</a>|
+|26|632|すずゆう 【A.】|<a href="https://search.dartslive.com/jp/shop/cb2148ab75443d335f9f3321c1147265">快活CLUB 水沢店</a>|<a href="/darts/rank/岩手県/奥州市">岩手県奥州市</a>|
+|27|611|megu|<a href="https://search.dartslive.com/jp/shop/cb2148ab75443d335f9f3321c1147265">快活CLUB 水沢店</a>|<a href="/darts/rank/岩手県/奥州市">岩手県奥州市</a>|
+|28|610|ｼｬﾁ|<a href="https://search.dartslive.com/jp/shop/cb2148ab75443d335f9f3321c1147265">快活CLUB 水沢店</a>|<a href="/darts/rank/岩手県/奥州市">岩手県奥州市</a>|
+|29|583|ＭＡＫＫＹ|<a href="https://search.dartslive.com/jp/shop/cb2148ab75443d335f9f3321c1147265">快活CLUB 水沢店</a>|<a href="/darts/rank/岩手県/奥州市">岩手県奥州市</a>|
+|30|580|キャップ@zeus|<a href="https://search.dartslive.com/jp/shop/f752cf3c2dcf1a770d9b047a20a7ba1e">Amusement Zone Zeus</a>|<a href="/darts/rank/岩手県/奥州市">岩手県奥州市</a>|
+|31|573|0000|<a href="https://search.dartslive.com/jp/shop/cb2148ab75443d335f9f3321c1147265">快活CLUB 水沢店</a>|<a href="/darts/rank/岩手県/奥州市">岩手県奥州市</a>|
+|32|558|貞操帯＠三つ穴|<a href="https://search.dartslive.com/jp/shop/f752cf3c2dcf1a770d9b047a20a7ba1e">Amusement Zone Zeus</a>|<a href="/darts/rank/岩手県/奥州市">岩手県奥州市</a>|
+|33|549|Hqru_3|<a href="https://search.dartslive.com/jp/shop/cb2148ab75443d335f9f3321c1147265">快活CLUB 水沢店</a>|<a href="/darts/rank/岩手県/奥州市">岩手県奥州市</a>|
+|34|546|サトンヌ|<a href="https://search.dartslive.com/jp/shop/cb2148ab75443d335f9f3321c1147265">快活CLUB 水沢店</a>|<a href="/darts/rank/岩手県/奥州市">岩手県奥州市</a>|
+|35|539|りつくまこ|<a href="https://search.dartslive.com/jp/shop/f752cf3c2dcf1a770d9b047a20a7ba1e">Amusement Zone Zeus</a>|<a href="/darts/rank/岩手県/奥州市">岩手県奥州市</a>|
+|36|538|すなぎも|<a href="https://search.dartslive.com/jp/shop/cb2148ab75443d335f9f3321c1147265">快活CLUB 水沢店</a>|<a href="/darts/rank/岩手県/奥州市">岩手県奥州市</a>|
+|37|524|kaizin|<a href="https://search.dartslive.com/jp/shop/f752cf3c2dcf1a770d9b047a20a7ba1e">Amusement Zone Zeus</a>|<a href="/darts/rank/岩手県/奥州市">岩手県奥州市</a>|
+|38|507|ゆめち|<a href="https://search.dartslive.com/jp/shop/cb2148ab75443d335f9f3321c1147265">快活CLUB 水沢店</a>|<a href="/darts/rank/岩手県/奥州市">岩手県奥州市</a>|
+|39|496|KAZUMA|<a href="https://search.dartslive.com/jp/shop/f752cf3c2dcf1a770d9b047a20a7ba1e">Amusement Zone Zeus</a>|<a href="/darts/rank/岩手県/奥州市">岩手県奥州市</a>|
+|39|496|とさか|<a href="https://search.dartslive.com/jp/shop/cb2148ab75443d335f9f3321c1147265">快活CLUB 水沢店</a>|<a href="/darts/rank/岩手県/奥州市">岩手県奥州市</a>|
+|41|490|千優|<a href="https://search.dartslive.com/jp/shop/cb2148ab75443d335f9f3321c1147265">快活CLUB 水沢店</a>|<a href="/darts/rank/岩手県/奥州市">岩手県奥州市</a>|
 |42|478|シュウ|<a href="https://search.dartslive.com/jp/shop/f752cf3c2dcf1a770d9b047a20a7ba1e">Amusement Zone Zeus</a>|<a href="/darts/rank/岩手県/奥州市">岩手県奥州市</a>|
 |43|470|サトンヌ|<a href="https://search.dartslive.com/jp/shop/f752cf3c2dcf1a770d9b047a20a7ba1e">Amusement Zone Zeus</a>|<a href="/darts/rank/岩手県/奥州市">岩手県奥州市</a>|
 |44|460|UME Darts ガチ|<a href="https://search.dartslive.com/jp/shop/f752cf3c2dcf1a770d9b047a20a7ba1e">Amusement Zone Zeus</a>|<a href="/darts/rank/岩手県/奥州市">岩手県奥州市</a>|
@@ -65,7 +65,7 @@ ___
 
 ___
 
-_last update : 2024/01/21 03:05:49_
+_last update : 2024/01/21 13:38:53_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

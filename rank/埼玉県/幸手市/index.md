@@ -36,12 +36,15 @@ ___
 |20|521|まーぼーなす|<a href="https://search.dartslive.com/jp/shop/4b5bfef0c8028c8b790ab824ce8730e5">快活CLUB 幸手店</a>|<a href="/darts/rank/埼玉県/幸手市">埼玉県幸手市</a>|
 |21|507|R|<a href="https://search.dartslive.com/jp/shop/4b5bfef0c8028c8b790ab824ce8730e5">快活CLUB 幸手店</a>|<a href="/darts/rank/埼玉県/幸手市">埼玉県幸手市</a>|
 |22|498|FY|<a href="https://search.dartslive.com/jp/shop/4b5bfef0c8028c8b790ab824ce8730e5">快活CLUB 幸手店</a>|<a href="/darts/rank/埼玉県/幸手市">埼玉県幸手市</a>|
+|23|452|ゆうと|<a href="https://search.dartslive.com/jp/shop/4b5bfef0c8028c8b790ab824ce8730e5">快活CLUB 幸手店</a>|<a href="/darts/rank/埼玉県/幸手市">埼玉県幸手市</a>|
+|24|335|NO NAME 9576|<a href="https://search.dartslive.com/jp/shop/4b5bfef0c8028c8b790ab824ce8730e5">快活CLUB 幸手店</a>|<a href="/darts/rank/埼玉県/幸手市">埼玉県幸手市</a>|
+|25|304|ゆぴ仔DX|<a href="https://search.dartslive.com/jp/shop/4b5bfef0c8028c8b790ab824ce8730e5">快活CLUB 幸手店</a>|<a href="/darts/rank/埼玉県/幸手市">埼玉県幸手市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:50_
+_last update : 2024/01/21 13:38:56_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

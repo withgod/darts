@@ -14,12 +14,14 @@ ___
 {:.table-ranking}
 |ランク|スコア|名前|店名|所在地|
 |---|---|---|---|---|
+|1|639|BAR AKI(店長)|<a href="https://search.dartslive.com/jp/shop/79e35f27694fc6330d9b047a20a7ba1e">BAR AKI</a>|<a href="/darts/rank/香川県/善通寺市">香川県善通寺市</a>|
+|2|553|ｳｫﾝﾊﾞｯﾄ〆[矢宴]|<a href="https://search.dartslive.com/jp/shop/79e35f27694fc6330d9b047a20a7ba1e">BAR AKI</a>|<a href="/darts/rank/香川県/善通寺市">香川県善通寺市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:56_
+_last update : 2024/01/21 13:39:07_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

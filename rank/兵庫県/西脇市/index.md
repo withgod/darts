@@ -14,12 +14,24 @@ ___
 {:.table-ranking}
 |ランク|スコア|名前|店名|所在地|
 |---|---|---|---|---|
+|1|1043|ｲﾏｲｺﾄ ｷｭｰｿｰﾙ|<a href="https://search.dartslive.com/jp/shop/179355d68bf3e2df58d385ea46352d8f">Sports&Dining 鴉</a>|<a href="/darts/rank/兵庫県/西脇市">兵庫県西脇市</a>|
+|2|1041|#つーじーw|<a href="https://search.dartslive.com/jp/shop/179355d68bf3e2df58d385ea46352d8f">Sports&Dining 鴉</a>|<a href="/darts/rank/兵庫県/西脇市">兵庫県西脇市</a>|
+|3|943|あいぼん|<a href="https://search.dartslive.com/jp/shop/179355d68bf3e2df58d385ea46352d8f">Sports&Dining 鴉</a>|<a href="/darts/rank/兵庫県/西脇市">兵庫県西脇市</a>|
+|4|890|1413|<a href="https://search.dartslive.com/jp/shop/179355d68bf3e2df58d385ea46352d8f">Sports&Dining 鴉</a>|<a href="/darts/rank/兵庫県/西脇市">兵庫県西脇市</a>|
+|5|868|愛 義成|<a href="https://search.dartslive.com/jp/shop/179355d68bf3e2df58d385ea46352d8f">Sports&Dining 鴉</a>|<a href="/darts/rank/兵庫県/西脇市">兵庫県西脇市</a>|
+|6|839|TOMMY@魁！ｵﾗｵﾗ|<a href="https://search.dartslive.com/jp/shop/179355d68bf3e2df58d385ea46352d8f">Sports&Dining 鴉</a>|<a href="/darts/rank/兵庫県/西脇市">兵庫県西脇市</a>|
+|7|831|yuka:鴉-karasu-|<a href="https://search.dartslive.com/jp/shop/179355d68bf3e2df58d385ea46352d8f">Sports&Dining 鴉</a>|<a href="/darts/rank/兵庫県/西脇市">兵庫県西脇市</a>|
+|8|818|NO NAME ２４８０|<a href="https://search.dartslive.com/jp/shop/179355d68bf3e2df58d385ea46352d8f">Sports&Dining 鴉</a>|<a href="/darts/rank/兵庫県/西脇市">兵庫県西脇市</a>|
+|9|793|オレンジ|<a href="https://search.dartslive.com/jp/shop/179355d68bf3e2df58d385ea46352d8f">Sports&Dining 鴉</a>|<a href="/darts/rank/兵庫県/西脇市">兵庫県西脇市</a>|
+|10|749|川崎さん　鴉|<a href="https://search.dartslive.com/jp/shop/179355d68bf3e2df58d385ea46352d8f">Sports&Dining 鴉</a>|<a href="/darts/rank/兵庫県/西脇市">兵庫県西脇市</a>|
+|11|740|（￣+ー￣）|<a href="https://search.dartslive.com/jp/shop/179355d68bf3e2df58d385ea46352d8f">Sports&Dining 鴉</a>|<a href="/darts/rank/兵庫県/西脇市">兵庫県西脇市</a>|
+|12|673|na.|<a href="https://search.dartslive.com/jp/shop/179355d68bf3e2df58d385ea46352d8f">Sports&Dining 鴉</a>|<a href="/darts/rank/兵庫県/西脇市">兵庫県西脇市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:55_
+_last update : 2024/01/21 13:39:06_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

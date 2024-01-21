@@ -80,42 +80,43 @@ ___
 |64|566|ジョンソン|<a href="https://search.dartslive.com/jp/shop/fa545dcbedc1035b0d9b047a20a7ba1e">参道 DINER</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
 |65|558|もも|<a href="https://search.dartslive.com/jp/shop/0fefd78ac34af4940d9b047a20a7ba1e">Player's Cafe Style</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
 |66|556|こ|<a href="https://search.dartslive.com/jp/shop/0fefd78ac34af4940d9b047a20a7ba1e">Player's Cafe Style</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
-|67|549|YUKA_(:3 」∠)_|<a href="https://search.dartslive.com/jp/shop/0fefd78ac34af4940d9b047a20a7ba1e">Player's Cafe Style</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
-|68|548|みう@参道D|<a href="https://search.dartslive.com/jp/shop/fa545dcbedc1035b0d9b047a20a7ba1e">参道 DINER</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
-|69|539|3D☆咲|<a href="https://search.dartslive.com/jp/shop/fa545dcbedc1035b0d9b047a20a7ba1e">参道 DINER</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
-|70|538|なちゃん|<a href="https://search.dartslive.com/jp/shop/fa545dcbedc1035b0d9b047a20a7ba1e">参道 DINER</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
-|71|519|あーこ@KTU|<a href="https://search.dartslive.com/jp/shop/0fefd78ac34af4940d9b047a20a7ba1e">Player's Cafe Style</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
-|72|517|N@n-buna|<a href="https://search.dartslive.com/jp/shop/e1f2efac59a40b9b0d9b047a20a7ba1e">DARTS＆AMUSE ACHO!</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
-|73|515|EXIT☆Spring&#x27;s|<a href="https://search.dartslive.com/jp/shop/adb1cd0e3586ddcc0d9b047a20a7ba1e">Bar PINK PANTHER</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
-|74|504|STYLE×ふみ|<a href="https://search.dartslive.com/jp/shop/e1f2efac59a40b9b0d9b047a20a7ba1e">DARTS＆AMUSE ACHO!</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
-|75|500|DEATH♂|<a href="https://search.dartslive.com/jp/shop/adb1cd0e3586ddcc0d9b047a20a7ba1e">Bar PINK PANTHER</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
-|76|495|3D☆さら|<a href="https://search.dartslive.com/jp/shop/fa545dcbedc1035b0d9b047a20a7ba1e">参道 DINER</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
-|77|488|SHOGO|<a href="https://search.dartslive.com/jp/shop/c53f537f6ebeb2f70d9b047a20a7ba1e">BAR Spring's</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
-|78|487|生イカちゃん|<a href="https://search.dartslive.com/jp/shop/0fefd78ac34af4940d9b047a20a7ba1e">Player's Cafe Style</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
-|79|476|富デレラ|<a href="https://search.dartslive.com/jp/shop/fa545dcbedc1035b0d9b047a20a7ba1e">参道 DINER</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
-|80|472|3D☆みお|<a href="https://search.dartslive.com/jp/shop/fa545dcbedc1035b0d9b047a20a7ba1e">参道 DINER</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
-|81|444|みやび@参道D|<a href="https://search.dartslive.com/jp/shop/fa545dcbedc1035b0d9b047a20a7ba1e">参道 DINER</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
-|82|436|女々しくて玉！|<a href="https://search.dartslive.com/jp/shop/c53f537f6ebeb2f70d9b047a20a7ba1e">BAR Spring's</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
-|83|432|なちゃん|<a href="https://search.dartslive.com/jp/shop/e1f2efac59a40b9b0d9b047a20a7ba1e">DARTS＆AMUSE ACHO!</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
-|84|425|3D❀DE|<a href="https://search.dartslive.com/jp/shop/fa545dcbedc1035b0d9b047a20a7ba1e">参道 DINER</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
-|85|404|ふう|<a href="https://search.dartslive.com/jp/shop/fa545dcbedc1035b0d9b047a20a7ba1e">参道 DINER</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
-|86|403|りょうた|<a href="https://search.dartslive.com/jp/shop/fa545dcbedc1035b0d9b047a20a7ba1e">参道 DINER</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
-|87|402|ありﾁｬﾝ|<a href="https://search.dartslive.com/jp/shop/0fefd78ac34af4940d9b047a20a7ba1e">Player's Cafe Style</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
-|88|395|ぱんちゃん|<a href="https://search.dartslive.com/jp/shop/e1f2efac59a40b9b0d9b047a20a7ba1e">DARTS＆AMUSE ACHO!</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
-|89|380|ふう|<a href="https://search.dartslive.com/jp/shop/e1f2efac59a40b9b0d9b047a20a7ba1e">DARTS＆AMUSE ACHO!</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
-|90|370|なおや|<a href="https://search.dartslive.com/jp/shop/c53f537f6ebeb2f70d9b047a20a7ba1e">BAR Spring's</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
-|91|359|富デレラ|<a href="https://search.dartslive.com/jp/shop/e1f2efac59a40b9b0d9b047a20a7ba1e">DARTS＆AMUSE ACHO!</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
-|92|351|NO NAME 2119|<a href="https://search.dartslive.com/jp/shop/c53f537f6ebeb2f70d9b047a20a7ba1e">BAR Spring's</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
-|93|335|NO NAME 5014|<a href="https://search.dartslive.com/jp/shop/c53f537f6ebeb2f70d9b047a20a7ba1e">BAR Spring's</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
-|94|334|ACHO×あべべ|<a href="https://search.dartslive.com/jp/shop/e1f2efac59a40b9b0d9b047a20a7ba1e">DARTS＆AMUSE ACHO!</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
-|95|300|ざわちゃん|<a href="https://search.dartslive.com/jp/shop/e1f2efac59a40b9b0d9b047a20a7ba1e">DARTS＆AMUSE ACHO!</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
-|96|244|硬め濃いめ多め|<a href="https://search.dartslive.com/jp/shop/fa545dcbedc1035b0d9b047a20a7ba1e">参道 DINER</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
+|67|550|駿介|<a href="https://search.dartslive.com/jp/shop/e1f2efac59a40b9b0d9b047a20a7ba1e">DARTS＆AMUSE ACHO!</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
+|68|549|YUKA_(:3 」∠)_|<a href="https://search.dartslive.com/jp/shop/0fefd78ac34af4940d9b047a20a7ba1e">Player's Cafe Style</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
+|69|548|みう@参道D|<a href="https://search.dartslive.com/jp/shop/fa545dcbedc1035b0d9b047a20a7ba1e">参道 DINER</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
+|70|539|3D☆咲|<a href="https://search.dartslive.com/jp/shop/fa545dcbedc1035b0d9b047a20a7ba1e">参道 DINER</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
+|71|538|なちゃん|<a href="https://search.dartslive.com/jp/shop/fa545dcbedc1035b0d9b047a20a7ba1e">参道 DINER</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
+|72|519|あーこ@KTU|<a href="https://search.dartslive.com/jp/shop/0fefd78ac34af4940d9b047a20a7ba1e">Player's Cafe Style</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
+|73|517|N@n-buna|<a href="https://search.dartslive.com/jp/shop/e1f2efac59a40b9b0d9b047a20a7ba1e">DARTS＆AMUSE ACHO!</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
+|74|515|EXIT☆Spring&#x27;s|<a href="https://search.dartslive.com/jp/shop/adb1cd0e3586ddcc0d9b047a20a7ba1e">Bar PINK PANTHER</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
+|75|504|STYLE×ふみ|<a href="https://search.dartslive.com/jp/shop/e1f2efac59a40b9b0d9b047a20a7ba1e">DARTS＆AMUSE ACHO!</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
+|76|500|DEATH♂|<a href="https://search.dartslive.com/jp/shop/adb1cd0e3586ddcc0d9b047a20a7ba1e">Bar PINK PANTHER</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
+|77|495|3D☆さら|<a href="https://search.dartslive.com/jp/shop/fa545dcbedc1035b0d9b047a20a7ba1e">参道 DINER</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
+|78|488|SHOGO|<a href="https://search.dartslive.com/jp/shop/c53f537f6ebeb2f70d9b047a20a7ba1e">BAR Spring's</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
+|79|487|生イカちゃん|<a href="https://search.dartslive.com/jp/shop/0fefd78ac34af4940d9b047a20a7ba1e">Player's Cafe Style</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
+|80|476|富デレラ|<a href="https://search.dartslive.com/jp/shop/fa545dcbedc1035b0d9b047a20a7ba1e">参道 DINER</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
+|81|472|3D☆みお|<a href="https://search.dartslive.com/jp/shop/fa545dcbedc1035b0d9b047a20a7ba1e">参道 DINER</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
+|82|444|みやび@参道D|<a href="https://search.dartslive.com/jp/shop/fa545dcbedc1035b0d9b047a20a7ba1e">参道 DINER</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
+|83|436|女々しくて玉！|<a href="https://search.dartslive.com/jp/shop/c53f537f6ebeb2f70d9b047a20a7ba1e">BAR Spring's</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
+|84|432|なちゃん|<a href="https://search.dartslive.com/jp/shop/e1f2efac59a40b9b0d9b047a20a7ba1e">DARTS＆AMUSE ACHO!</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
+|85|425|3D❀DE|<a href="https://search.dartslive.com/jp/shop/fa545dcbedc1035b0d9b047a20a7ba1e">参道 DINER</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
+|86|404|ふう|<a href="https://search.dartslive.com/jp/shop/fa545dcbedc1035b0d9b047a20a7ba1e">参道 DINER</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
+|87|403|りょうた|<a href="https://search.dartslive.com/jp/shop/fa545dcbedc1035b0d9b047a20a7ba1e">参道 DINER</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
+|88|402|ありﾁｬﾝ|<a href="https://search.dartslive.com/jp/shop/0fefd78ac34af4940d9b047a20a7ba1e">Player's Cafe Style</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
+|89|395|ぱんちゃん|<a href="https://search.dartslive.com/jp/shop/e1f2efac59a40b9b0d9b047a20a7ba1e">DARTS＆AMUSE ACHO!</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
+|90|380|ふう|<a href="https://search.dartslive.com/jp/shop/e1f2efac59a40b9b0d9b047a20a7ba1e">DARTS＆AMUSE ACHO!</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
+|91|370|なおや|<a href="https://search.dartslive.com/jp/shop/c53f537f6ebeb2f70d9b047a20a7ba1e">BAR Spring's</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
+|92|359|富デレラ|<a href="https://search.dartslive.com/jp/shop/e1f2efac59a40b9b0d9b047a20a7ba1e">DARTS＆AMUSE ACHO!</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
+|93|351|NO NAME 2119|<a href="https://search.dartslive.com/jp/shop/c53f537f6ebeb2f70d9b047a20a7ba1e">BAR Spring's</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
+|94|335|NO NAME 5014|<a href="https://search.dartslive.com/jp/shop/c53f537f6ebeb2f70d9b047a20a7ba1e">BAR Spring's</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
+|95|334|ACHO×あべべ|<a href="https://search.dartslive.com/jp/shop/e1f2efac59a40b9b0d9b047a20a7ba1e">DARTS＆AMUSE ACHO!</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
+|96|300|ざわちゃん|<a href="https://search.dartslive.com/jp/shop/e1f2efac59a40b9b0d9b047a20a7ba1e">DARTS＆AMUSE ACHO!</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
+|97|244|硬め濃いめ多め|<a href="https://search.dartslive.com/jp/shop/fa545dcbedc1035b0d9b047a20a7ba1e">参道 DINER</a>|<a href="/darts/rank/千葉県/成田市">千葉県成田市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:51_
+_last update : 2024/01/21 13:38:57_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

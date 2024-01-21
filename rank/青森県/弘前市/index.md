@@ -54,19 +54,19 @@ ___
 |38|599|fytmzp2|<a href="https://search.dartslive.com/jp/shop/6d9e05ee0917894ea3f63593b5358cc4">カラオケ合衆国 弘前城東店</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
 |38|599|むちた|<a href="https://search.dartslive.com/jp/shop/9cc9816dccb3c0a80d9b047a20a7ba1e">WEMDI</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
 |40|576|lz_fytmzp_lo|<a href="https://search.dartslive.com/jp/shop/6d9e05ee0917894ea3f63593b5358cc4">カラオケ合衆国 弘前城東店</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
-|41|503|ma|<a href="https://search.dartslive.com/jp/shop/9cc9816dccb3c0a80d9b047a20a7ba1e">WEMDI</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
-|42|493|aniani|<a href="https://search.dartslive.com/jp/shop/6d9e05ee0917894ea3f63593b5358cc4">カラオケ合衆国 弘前城東店</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
-|43|488|S|<a href="https://search.dartslive.com/jp/shop/9cc9816dccb3c0a80d9b047a20a7ba1e">WEMDI</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
+|41|536|S|<a href="https://search.dartslive.com/jp/shop/9cc9816dccb3c0a80d9b047a20a7ba1e">WEMDI</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
+|42|503|ma|<a href="https://search.dartslive.com/jp/shop/9cc9816dccb3c0a80d9b047a20a7ba1e">WEMDI</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
+|43|493|aniani|<a href="https://search.dartslive.com/jp/shop/6d9e05ee0917894ea3f63593b5358cc4">カラオケ合衆国 弘前城東店</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
 |44|480|Maii|<a href="https://search.dartslive.com/jp/shop/6d9e05ee0917894ea3f63593b5358cc4">カラオケ合衆国 弘前城東店</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
 |45|478|小太郎ver.2|<a href="https://search.dartslive.com/jp/shop/9cc9816dccb3c0a80d9b047a20a7ba1e">WEMDI</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
 |46|454|おさみです。|<a href="https://search.dartslive.com/jp/shop/6d9e05ee0917894ea3f63593b5358cc4">カラオケ合衆国 弘前城東店</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
-|47|439|ゆっちゃま|<a href="https://search.dartslive.com/jp/shop/9cc9816dccb3c0a80d9b047a20a7ba1e">WEMDI</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
-|48|432|鬼☆坊主さん|<a href="https://search.dartslive.com/jp/shop/9cc9816dccb3c0a80d9b047a20a7ba1e">WEMDI</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
-|49|429|いーちゃん|<a href="https://search.dartslive.com/jp/shop/9cc9816dccb3c0a80d9b047a20a7ba1e">WEMDI</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
-|49|429|ゆっちゃま|<a href="https://search.dartslive.com/jp/shop/6d9e05ee0917894ea3f63593b5358cc4">カラオケ合衆国 弘前城東店</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
-|51|426|ビールと枝豆|<a href="https://search.dartslive.com/jp/shop/9cc9816dccb3c0a80d9b047a20a7ba1e">WEMDI</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
-|52|362|山形明人|<a href="https://search.dartslive.com/jp/shop/9cc9816dccb3c0a80d9b047a20a7ba1e">WEMDI</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
-|53|348|s_r|<a href="https://search.dartslive.com/jp/shop/9cc9816dccb3c0a80d9b047a20a7ba1e">WEMDI</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
+|47|444|s_r|<a href="https://search.dartslive.com/jp/shop/9cc9816dccb3c0a80d9b047a20a7ba1e">WEMDI</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
+|48|439|ゆっちゃま|<a href="https://search.dartslive.com/jp/shop/9cc9816dccb3c0a80d9b047a20a7ba1e">WEMDI</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
+|49|432|鬼☆坊主さん|<a href="https://search.dartslive.com/jp/shop/9cc9816dccb3c0a80d9b047a20a7ba1e">WEMDI</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
+|50|429|いーちゃん|<a href="https://search.dartslive.com/jp/shop/9cc9816dccb3c0a80d9b047a20a7ba1e">WEMDI</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
+|50|429|ゆっちゃま|<a href="https://search.dartslive.com/jp/shop/6d9e05ee0917894ea3f63593b5358cc4">カラオケ合衆国 弘前城東店</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
+|52|426|ビールと枝豆|<a href="https://search.dartslive.com/jp/shop/9cc9816dccb3c0a80d9b047a20a7ba1e">WEMDI</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
+|53|369|山形明人|<a href="https://search.dartslive.com/jp/shop/9cc9816dccb3c0a80d9b047a20a7ba1e">WEMDI</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
 |54|347|mi|<a href="https://search.dartslive.com/jp/shop/9cc9816dccb3c0a80d9b047a20a7ba1e">WEMDI</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
 |55|325|もちゃっこ|<a href="https://search.dartslive.com/jp/shop/6d9e05ee0917894ea3f63593b5358cc4">カラオケ合衆国 弘前城東店</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
 |56|308|氷菓|<a href="https://search.dartslive.com/jp/shop/6d9e05ee0917894ea3f63593b5358cc4">カラオケ合衆国 弘前城東店</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
@@ -76,7 +76,7 @@ ___
 
 ___
 
-_last update : 2024/01/21 03:05:49_
+_last update : 2024/01/21 13:38:53_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

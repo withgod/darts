@@ -30,41 +30,41 @@ ___
 |14|1011|パラ|<a href="https://search.dartslive.com/jp/shop/9569b5ff4dbb796b0d9b047a20a7ba1e">ラウンドワン板橋店</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
 |15|1010|パラ|<a href="https://search.dartslive.com/jp/shop/adff8c73cc111aa30d9b047a20a7ba1e">pool&darts BARON</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
 |16|1000|三井の寿|<a href="https://search.dartslive.com/jp/shop/6768749795d555860d9b047a20a7ba1e">カラオケBANBAN西台駅前店</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
-|17|990|パラ|<a href="https://search.dartslive.com/jp/shop/47f09f8b860cf463790ab824ce8730e5">Tres Flechas</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
-|18|988|㍻の☆ナオペン☆|<a href="https://search.dartslive.com/jp/shop/cb00df1d849659740d9b047a20a7ba1e">SPORTS CAFE Waldy's</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
-|19|986|あくまくん9D☆AR|<a href="https://search.dartslive.com/jp/shop/2dad1606d2defda5774c926eb736cb5a">PlayGarden 西台店</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
-|20|984|れおぴっぴ♪|<a href="https://search.dartslive.com/jp/shop/9569b5ff4dbb796b0d9b047a20a7ba1e">ラウンドワン板橋店</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
-|21|978|お麩|<a href="https://search.dartslive.com/jp/shop/2dad1606d2defda5774c926eb736cb5a">PlayGarden 西台店</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
-|22|974|広瀬貴久＊A-FLOW|<a href="https://search.dartslive.com/jp/shop/ea890863136138930d9b047a20a7ba1e">SPORTS & DARTS ONEMODE CLAUGE</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
-|22|974|海猫|<a href="https://search.dartslive.com/jp/shop/2dad1606d2defda5774c926eb736cb5a">PlayGarden 西台店</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
-|24|971|パラ|<a href="https://search.dartslive.com/jp/shop/f9939aa86ba1ba4b25d56fb0e5c39bac">ニドメ</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
-|25|969|ねぎONE80|<a href="https://search.dartslive.com/jp/shop/47f09f8b860cf463790ab824ce8730e5">Tres Flechas</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
-|26|967|LEON|<a href="https://search.dartslive.com/jp/shop/5fd64e030cf99c880d9b047a20a7ba1e">ロコモコすたんど 中板橋店</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
-|27|966|ばやしすと|<a href="https://search.dartslive.com/jp/shop/5fd64e030cf99c880d9b047a20a7ba1e">ロコモコすたんど 中板橋店</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
-|27|966|やまもとかんとく|<a href="https://search.dartslive.com/jp/shop/d984a1f7dd09055c0d9b047a20a7ba1e">Cafe & Bar Chill Full</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
-|29|964|BBQばーすんinCF|<a href="https://search.dartslive.com/jp/shop/d984a1f7dd09055c0d9b047a20a7ba1e">Cafe & Bar Chill Full</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
-|29|964|とも|<a href="https://search.dartslive.com/jp/shop/ea890863136138930d9b047a20a7ba1e">SPORTS & DARTS ONEMODE CLAUGE</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
-|31|960|あくまくん9D☆AR|<a href="https://search.dartslive.com/jp/shop/17ec1cdb7f3d7f6d0d9b047a20a7ba1e">BIG WAVE 大山</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
-|31|960|しんちゃん|<a href="https://search.dartslive.com/jp/shop/2dad1606d2defda5774c926eb736cb5a">PlayGarden 西台店</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
-|31|960|中山 恭介|<a href="https://search.dartslive.com/jp/shop/9569b5ff4dbb796b0d9b047a20a7ba1e">ラウンドワン板橋店</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
-|34|959|Rsk|<a href="https://search.dartslive.com/jp/shop/ecb2c4bdef0b10390d9b047a20a7ba1e">cafe bar MILIMILI</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
-|35|958|大誤算Σ(ﾟ□ﾟ)|<a href="https://search.dartslive.com/jp/shop/d984a1f7dd09055c0d9b047a20a7ba1e">Cafe & Bar Chill Full</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
-|36|955|サタＫＥＮ 。。|<a href="https://search.dartslive.com/jp/shop/17b404215110f4010d9b047a20a7ba1e">HAPPY HAPPY 板橋区役所前店</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
-|36|955|忍田|<a href="https://search.dartslive.com/jp/shop/ea890863136138930d9b047a20a7ba1e">SPORTS & DARTS ONEMODE CLAUGE</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
-|38|954|yuka|<a href="https://search.dartslive.com/jp/shop/2dad1606d2defda5774c926eb736cb5a">PlayGarden 西台店</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
-|39|952|takumi@360|<a href="https://search.dartslive.com/jp/shop/25444608235366e30d9b047a20a7ba1e">360°</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
-|40|951|pechio|<a href="https://search.dartslive.com/jp/shop/9569b5ff4dbb796b0d9b047a20a7ba1e">ラウンドワン板橋店</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
-|40|951|たくま|<a href="https://search.dartslive.com/jp/shop/d984a1f7dd09055c0d9b047a20a7ba1e">Cafe & Bar Chill Full</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
-|42|949|なお|<a href="https://search.dartslive.com/jp/shop/ecb2c4bdef0b10390d9b047a20a7ba1e">cafe bar MILIMILI</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
-|43|947|$たかち$@N9I|<a href="https://search.dartslive.com/jp/shop/cb00df1d849659740d9b047a20a7ba1e">SPORTS CAFE Waldy's</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
-|44|946|もり|<a href="https://search.dartslive.com/jp/shop/adff8c73cc111aa30d9b047a20a7ba1e">pool&darts BARON</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
-|45|945|だーいしMILIMILI|<a href="https://search.dartslive.com/jp/shop/ecb2c4bdef0b10390d9b047a20a7ba1e">cafe bar MILIMILI</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
-|46|944|こじみな|<a href="https://search.dartslive.com/jp/shop/17b404215110f4010d9b047a20a7ba1e">HAPPY HAPPY 板橋区役所前店</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
-|47|942|ななしー|<a href="https://search.dartslive.com/jp/shop/d984a1f7dd09055c0d9b047a20a7ba1e">Cafe & Bar Chill Full</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
-|47|942|大誤算Σ(ﾟ□ﾟ)|<a href="https://search.dartslive.com/jp/shop/2dad1606d2defda5774c926eb736cb5a">PlayGarden 西台店</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
-|49|941|下浜晃 selfish|<a href="https://search.dartslive.com/jp/shop/17b404215110f4010d9b047a20a7ba1e">HAPPY HAPPY 板橋区役所前店</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
-|49|941|中山 恭介|<a href="https://search.dartslive.com/jp/shop/5fd64e030cf99c880d9b047a20a7ba1e">ロコモコすたんど 中板橋店</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
-|51|938|Re:てぃや|<a href="https://search.dartslive.com/jp/shop/9569b5ff4dbb796b0d9b047a20a7ba1e">ラウンドワン板橋店</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
+|17|994|だーいしMILIMILI|<a href="https://search.dartslive.com/jp/shop/ecb2c4bdef0b10390d9b047a20a7ba1e">cafe bar MILIMILI</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
+|18|990|パラ|<a href="https://search.dartslive.com/jp/shop/47f09f8b860cf463790ab824ce8730e5">Tres Flechas</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
+|19|988|㍻の☆ナオペン☆|<a href="https://search.dartslive.com/jp/shop/cb00df1d849659740d9b047a20a7ba1e">SPORTS CAFE Waldy's</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
+|20|986|あくまくん9D☆AR|<a href="https://search.dartslive.com/jp/shop/2dad1606d2defda5774c926eb736cb5a">PlayGarden 西台店</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
+|21|984|れおぴっぴ♪|<a href="https://search.dartslive.com/jp/shop/9569b5ff4dbb796b0d9b047a20a7ba1e">ラウンドワン板橋店</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
+|22|978|お麩|<a href="https://search.dartslive.com/jp/shop/2dad1606d2defda5774c926eb736cb5a">PlayGarden 西台店</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
+|23|974|広瀬貴久＊A-FLOW|<a href="https://search.dartslive.com/jp/shop/ea890863136138930d9b047a20a7ba1e">SPORTS & DARTS ONEMODE CLAUGE</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
+|23|974|海猫|<a href="https://search.dartslive.com/jp/shop/2dad1606d2defda5774c926eb736cb5a">PlayGarden 西台店</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
+|25|971|パラ|<a href="https://search.dartslive.com/jp/shop/f9939aa86ba1ba4b25d56fb0e5c39bac">ニドメ</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
+|26|969|ねぎONE80|<a href="https://search.dartslive.com/jp/shop/47f09f8b860cf463790ab824ce8730e5">Tres Flechas</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
+|27|967|LEON|<a href="https://search.dartslive.com/jp/shop/5fd64e030cf99c880d9b047a20a7ba1e">ロコモコすたんど 中板橋店</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
+|28|966|ばやしすと|<a href="https://search.dartslive.com/jp/shop/5fd64e030cf99c880d9b047a20a7ba1e">ロコモコすたんど 中板橋店</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
+|28|966|やまもとかんとく|<a href="https://search.dartslive.com/jp/shop/d984a1f7dd09055c0d9b047a20a7ba1e">Cafe & Bar Chill Full</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
+|30|964|BBQばーすんinCF|<a href="https://search.dartslive.com/jp/shop/d984a1f7dd09055c0d9b047a20a7ba1e">Cafe & Bar Chill Full</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
+|30|964|とも|<a href="https://search.dartslive.com/jp/shop/ea890863136138930d9b047a20a7ba1e">SPORTS & DARTS ONEMODE CLAUGE</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
+|32|960|あくまくん9D☆AR|<a href="https://search.dartslive.com/jp/shop/17ec1cdb7f3d7f6d0d9b047a20a7ba1e">BIG WAVE 大山</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
+|32|960|しんちゃん|<a href="https://search.dartslive.com/jp/shop/2dad1606d2defda5774c926eb736cb5a">PlayGarden 西台店</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
+|32|960|中山 恭介|<a href="https://search.dartslive.com/jp/shop/9569b5ff4dbb796b0d9b047a20a7ba1e">ラウンドワン板橋店</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
+|35|959|Rsk|<a href="https://search.dartslive.com/jp/shop/ecb2c4bdef0b10390d9b047a20a7ba1e">cafe bar MILIMILI</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
+|36|958|大誤算Σ(ﾟ□ﾟ)|<a href="https://search.dartslive.com/jp/shop/d984a1f7dd09055c0d9b047a20a7ba1e">Cafe & Bar Chill Full</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
+|37|955|サタＫＥＮ 。。|<a href="https://search.dartslive.com/jp/shop/17b404215110f4010d9b047a20a7ba1e">HAPPY HAPPY 板橋区役所前店</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
+|37|955|忍田|<a href="https://search.dartslive.com/jp/shop/ea890863136138930d9b047a20a7ba1e">SPORTS & DARTS ONEMODE CLAUGE</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
+|39|954|yuka|<a href="https://search.dartslive.com/jp/shop/2dad1606d2defda5774c926eb736cb5a">PlayGarden 西台店</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
+|40|952|takumi@360|<a href="https://search.dartslive.com/jp/shop/25444608235366e30d9b047a20a7ba1e">360°</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
+|41|951|pechio|<a href="https://search.dartslive.com/jp/shop/9569b5ff4dbb796b0d9b047a20a7ba1e">ラウンドワン板橋店</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
+|41|951|たくま|<a href="https://search.dartslive.com/jp/shop/d984a1f7dd09055c0d9b047a20a7ba1e">Cafe & Bar Chill Full</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
+|43|949|なお|<a href="https://search.dartslive.com/jp/shop/ecb2c4bdef0b10390d9b047a20a7ba1e">cafe bar MILIMILI</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
+|44|948|Re:てぃや|<a href="https://search.dartslive.com/jp/shop/9569b5ff4dbb796b0d9b047a20a7ba1e">ラウンドワン板橋店</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
+|45|947|$たかち$@N9I|<a href="https://search.dartslive.com/jp/shop/cb00df1d849659740d9b047a20a7ba1e">SPORTS CAFE Waldy's</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
+|46|946|もり|<a href="https://search.dartslive.com/jp/shop/adff8c73cc111aa30d9b047a20a7ba1e">pool&darts BARON</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
+|47|944|こじみな|<a href="https://search.dartslive.com/jp/shop/17b404215110f4010d9b047a20a7ba1e">HAPPY HAPPY 板橋区役所前店</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
+|48|942|ななしー|<a href="https://search.dartslive.com/jp/shop/d984a1f7dd09055c0d9b047a20a7ba1e">Cafe & Bar Chill Full</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
+|48|942|大誤算Σ(ﾟ□ﾟ)|<a href="https://search.dartslive.com/jp/shop/2dad1606d2defda5774c926eb736cb5a">PlayGarden 西台店</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
+|50|941|下浜晃 selfish|<a href="https://search.dartslive.com/jp/shop/17b404215110f4010d9b047a20a7ba1e">HAPPY HAPPY 板橋区役所前店</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
+|50|941|中山 恭介|<a href="https://search.dartslive.com/jp/shop/5fd64e030cf99c880d9b047a20a7ba1e">ロコモコすたんど 中板橋店</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
 |52|937|ギャル社長★樹里|<a href="https://search.dartslive.com/jp/shop/ea890863136138930d9b047a20a7ba1e">SPORTS & DARTS ONEMODE CLAUGE</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
 |53|934|$ りゅう@gin $|<a href="https://search.dartslive.com/jp/shop/457b14e6d80477130d9b047a20a7ba1e">NANAYA大山店</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
 |53|934|大ﾄﾆｰ ﾖｼﾓﾄﾀﾞｰﾂ部|<a href="https://search.dartslive.com/jp/shop/47f09f8b860cf463790ab824ce8730e5">Tres Flechas</a>|<a href="/darts/rank/東京都/板橋区">東京都板橋区</a>|
@@ -119,7 +119,7 @@ ___
 
 ___
 
-_last update : 2024/01/21 03:05:51_
+_last update : 2024/01/21 13:38:58_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

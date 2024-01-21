@@ -39,12 +39,13 @@ ___
 |23|406|NO NAME 2754|<a href="https://search.dartslive.com/jp/shop/4a6e8de35680eabd0d9b047a20a7ba1e">サイバック 龍ヶ崎店</a>|<a href="/darts/rank/茨城県/龍ヶ崎市">茨城県龍ヶ崎市</a>|
 |24|366|yuuki|<a href="https://search.dartslive.com/jp/shop/4a6e8de35680eabd0d9b047a20a7ba1e">サイバック 龍ヶ崎店</a>|<a href="/darts/rank/茨城県/龍ヶ崎市">茨城県龍ヶ崎市</a>|
 |25|321|Hz|<a href="https://search.dartslive.com/jp/shop/4a6e8de35680eabd0d9b047a20a7ba1e">サイバック 龍ヶ崎店</a>|<a href="/darts/rank/茨城県/龍ヶ崎市">茨城県龍ヶ崎市</a>|
+|26|313|Ryu|<a href="https://search.dartslive.com/jp/shop/4a6e8de35680eabd0d9b047a20a7ba1e">サイバック 龍ヶ崎店</a>|<a href="/darts/rank/茨城県/龍ヶ崎市">茨城県龍ヶ崎市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:50_
+_last update : 2024/01/21 13:38:55_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

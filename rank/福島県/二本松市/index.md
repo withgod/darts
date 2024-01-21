@@ -31,8 +31,8 @@ ___
 |15|453|iso★酒属性ｷﾗｰEL|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
 |16|447|NICOTIN|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
 |17|430|KON☆you|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
-|18|368|うさぎ|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
-|19|366|コスモスバーガー|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
+|18|426|コスモスバーガー|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
+|19|368|うさぎ|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
 |20|296|コニちゃん|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
 |21|229|NO NAME 5350|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
 
@@ -40,7 +40,7 @@ ___
 
 ___
 
-_last update : 2024/01/21 03:05:49_
+_last update : 2024/01/21 13:38:54_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

@@ -14,12 +14,19 @@ ___
 {:.table-ranking}
 |ランク|スコア|名前|店名|所在地|
 |---|---|---|---|---|
+|1|594|shoko|<a href="https://search.dartslive.com/jp/shop/1e8d1c5f9f33c31025d56fb0e5c39bac">FASボウリングセンター</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
+|2|509|そらら|<a href="https://search.dartslive.com/jp/shop/1e8d1c5f9f33c31025d56fb0e5c39bac">FASボウリングセンター</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
+|3|489|Lunas|<a href="https://search.dartslive.com/jp/shop/1e8d1c5f9f33c31025d56fb0e5c39bac">FASボウリングセンター</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
+|4|477|NO NAME 2577|<a href="https://search.dartslive.com/jp/shop/1e8d1c5f9f33c31025d56fb0e5c39bac">FASボウリングセンター</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
+|5|452|まー|<a href="https://search.dartslive.com/jp/shop/1e8d1c5f9f33c31025d56fb0e5c39bac">FASボウリングセンター</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
+|6|384|まきなる|<a href="https://search.dartslive.com/jp/shop/1e8d1c5f9f33c31025d56fb0e5c39bac">FASボウリングセンター</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
+|7|374|ひなた|<a href="https://search.dartslive.com/jp/shop/1e8d1c5f9f33c31025d56fb0e5c39bac">FASボウリングセンター</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:57_
+_last update : 2024/01/21 13:39:08_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

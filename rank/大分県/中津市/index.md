@@ -14,12 +14,30 @@ ___
 {:.table-ranking}
 |ランク|スコア|名前|店名|所在地|
 |---|---|---|---|---|
+|1|961|【TEAM TKD】BOSS|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|2|929|M@S ∀K!卍|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|3|914|Taaku|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|4|889|ナラヤン|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|5|871|＊～L’Ascal～＊|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|6|859|ジョン・カビラ|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|7|791|Kei|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|8|778|凌雅パパ|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|9|761|シン|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|10|738|☆リチャ～ドS★|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|11|720|ふみや|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|12|708|しおりんカード|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|12|708|哲狼9614|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|14|607|JYOU|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|15|587|NO NAME 8609|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|16|579|NO NAME 4038|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|16|579|ひろのり|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|18|551|前っちょ|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:57_
+_last update : 2024/01/21 13:39:08_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

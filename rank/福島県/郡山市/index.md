@@ -108,18 +108,18 @@ ___
 |91|707|むーにーまん@neo|<a href="https://search.dartslive.com/jp/shop/f78687a86a91caa65f9f3321c1147265">ミヌエット</a>|<a href="/darts/rank/福島県/郡山市">福島県郡山市</a>|
 |93|706|SOUMU(ｿｳﾑ)流浪人|<a href="https://search.dartslive.com/jp/shop/12382d046ebae00e0d9b047a20a7ba1e">C'est Super NEO</a>|<a href="/darts/rank/福島県/郡山市">福島県郡山市</a>|
 |93|706|あめちゃ|<a href="https://search.dartslive.com/jp/shop/9e0c0a4b2fd4e4760d9b047a20a7ba1e">カラオケBANBAN郡山うねめ通り店</a>|<a href="/darts/rank/福島県/郡山市">福島県郡山市</a>|
-|95|689|ＤＡＩ@ＬＭＡＯ|<a href="https://search.dartslive.com/jp/shop/f78687a86a91caa65f9f3321c1147265">ミヌエット</a>|<a href="/darts/rank/福島県/郡山市">福島県郡山市</a>|
-|96|686|sana|<a href="https://search.dartslive.com/jp/shop/12382d046ebae00e0d9b047a20a7ba1e">C'est Super NEO</a>|<a href="/darts/rank/福島県/郡山市">福島県郡山市</a>|
-|97|682|アポトキシン4869|<a href="https://search.dartslive.com/jp/shop/f78687a86a91caa65f9f3321c1147265">ミヌエット</a>|<a href="/darts/rank/福島県/郡山市">福島県郡山市</a>|
-|98|677|uchiko@il-luogo|<a href="https://search.dartslive.com/jp/shop/d7604a086615f1940d9b047a20a7ba1e">イルルオーゴ</a>|<a href="/darts/rank/福島県/郡山市">福島県郡山市</a>|
-|99|675|KANA|<a href="https://search.dartslive.com/jp/shop/a04d5d0caa6528dffec1ae84bb28bd87">Cybex　郡山店</a>|<a href="/darts/rank/福島県/郡山市">福島県郡山市</a>|
-|100|671|た|<a href="https://search.dartslive.com/jp/shop/a04d5d0caa6528dffec1ae84bb28bd87">Cybex　郡山店</a>|<a href="/darts/rank/福島県/郡山市">福島県郡山市</a>|
+|95|692|いっくん@NEO|<a href="https://search.dartslive.com/jp/shop/aa5f46c657da450e0d9b047a20a7ba1e">ラウンドワン郡山店</a>|<a href="/darts/rank/福島県/郡山市">福島県郡山市</a>|
+|96|689|ＤＡＩ@ＬＭＡＯ|<a href="https://search.dartslive.com/jp/shop/f78687a86a91caa65f9f3321c1147265">ミヌエット</a>|<a href="/darts/rank/福島県/郡山市">福島県郡山市</a>|
+|97|686|sana|<a href="https://search.dartslive.com/jp/shop/12382d046ebae00e0d9b047a20a7ba1e">C'est Super NEO</a>|<a href="/darts/rank/福島県/郡山市">福島県郡山市</a>|
+|98|682|アポトキシン4869|<a href="https://search.dartslive.com/jp/shop/f78687a86a91caa65f9f3321c1147265">ミヌエット</a>|<a href="/darts/rank/福島県/郡山市">福島県郡山市</a>|
+|99|677|uchiko@il-luogo|<a href="https://search.dartslive.com/jp/shop/d7604a086615f1940d9b047a20a7ba1e">イルルオーゴ</a>|<a href="/darts/rank/福島県/郡山市">福島県郡山市</a>|
+|100|675|KANA|<a href="https://search.dartslive.com/jp/shop/a04d5d0caa6528dffec1ae84bb28bd87">Cybex　郡山店</a>|<a href="/darts/rank/福島県/郡山市">福島県郡山市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:50_
+_last update : 2024/01/21 13:38:54_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

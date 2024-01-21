@@ -71,42 +71,46 @@ ___
 |55|655|もえりん ♥️|<a href="https://search.dartslive.com/jp/shop/e9ee3c854f8324d00d9b047a20a7ba1e">ゲーム　アルファ</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
 |56|647|y@BOOster|<a href="https://search.dartslive.com/jp/shop/f486a7fbe22d40330d9b047a20a7ba1e">Casual Bar BOOster</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
 |57|633|サイレンスクリカ|<a href="https://search.dartslive.com/jp/shop/e2e17b05627ded810d9b047a20a7ba1e">A.Q.A 横手店</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
-|58|614|Toro|<a href="https://search.dartslive.com/jp/shop/25b6ead1f0da3bd80d9b047a20a7ba1e">Cafe BONDS</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
-|59|609|YU|<a href="https://search.dartslive.com/jp/shop/f486a7fbe22d40330d9b047a20a7ba1e">Casual Bar BOOster</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
-|60|583|kaos|<a href="https://search.dartslive.com/jp/shop/e9ee3c854f8324d00d9b047a20a7ba1e">ゲーム　アルファ</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
-|61|580|スギッチ|<a href="https://search.dartslive.com/jp/shop/e2e17b05627ded810d9b047a20a7ba1e">A.Q.A 横手店</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
-|62|579|サイレンスクリカ|<a href="https://search.dartslive.com/jp/shop/25b6ead1f0da3bd80d9b047a20a7ba1e">Cafe BONDS</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
-|63|578|青髭海賊団らい|<a href="https://search.dartslive.com/jp/shop/e2e17b05627ded810d9b047a20a7ba1e">A.Q.A 横手店</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
-|64|554|R Y O|<a href="https://search.dartslive.com/jp/shop/e9ee3c854f8324d00d9b047a20a7ba1e">ゲーム　アルファ</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
-|64|554|ミキティ✩BONDS|<a href="https://search.dartslive.com/jp/shop/25b6ead1f0da3bd80d9b047a20a7ba1e">Cafe BONDS</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
-|66|552|carat13|<a href="https://search.dartslive.com/jp/shop/25b6ead1f0da3bd80d9b047a20a7ba1e">Cafe BONDS</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
-|67|549|チナツ☆彡|<a href="https://search.dartslive.com/jp/shop/e9ee3c854f8324d00d9b047a20a7ba1e">ゲーム　アルファ</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
-|68|548|10|<a href="https://search.dartslive.com/jp/shop/e2e17b05627ded810d9b047a20a7ba1e">A.Q.A 横手店</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
-|69|537|知穂(^∞^)♥️|<a href="https://search.dartslive.com/jp/shop/25b6ead1f0da3bd80d9b047a20a7ba1e">Cafe BONDS</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
-|70|535|reika|<a href="https://search.dartslive.com/jp/shop/e9ee3c854f8324d00d9b047a20a7ba1e">ゲーム　アルファ</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
-|71|532|Fin&#x27;s.kana|<a href="https://search.dartslive.com/jp/shop/f486a7fbe22d40330d9b047a20a7ba1e">Casual Bar BOOster</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
-|72|531|ZERO@BOOster|<a href="https://search.dartslive.com/jp/shop/f486a7fbe22d40330d9b047a20a7ba1e">Casual Bar BOOster</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
-|72|531|はたぼー@BONDS|<a href="https://search.dartslive.com/jp/shop/25b6ead1f0da3bd80d9b047a20a7ba1e">Cafe BONDS</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
-|74|525|もえりん ♥️|<a href="https://search.dartslive.com/jp/shop/e2e17b05627ded810d9b047a20a7ba1e">A.Q.A 横手店</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
-|75|524|+╋мёｇц╋+|<a href="https://search.dartslive.com/jp/shop/e9ee3c854f8324d00d9b047a20a7ba1e">ゲーム　アルファ</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
-|76|509|reika|<a href="https://search.dartslive.com/jp/shop/e2e17b05627ded810d9b047a20a7ba1e">A.Q.A 横手店</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
-|77|500|tequi姐|<a href="https://search.dartslive.com/jp/shop/e2e17b05627ded810d9b047a20a7ba1e">A.Q.A 横手店</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
-|78|496|achi|<a href="https://search.dartslive.com/jp/shop/f486a7fbe22d40330d9b047a20a7ba1e">Casual Bar BOOster</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
-|79|466|MIRACLE|<a href="https://search.dartslive.com/jp/shop/e2e17b05627ded810d9b047a20a7ba1e">A.Q.A 横手店</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
-|80|465|えむ|<a href="https://search.dartslive.com/jp/shop/f486a7fbe22d40330d9b047a20a7ba1e">Casual Bar BOOster</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
-|81|439|S・Y|<a href="https://search.dartslive.com/jp/shop/25b6ead1f0da3bd80d9b047a20a7ba1e">Cafe BONDS</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
-|82|421|tequi姐|<a href="https://search.dartslive.com/jp/shop/e9ee3c854f8324d00d9b047a20a7ba1e">ゲーム　アルファ</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
-|83|417|ちーちゃん|<a href="https://search.dartslive.com/jp/shop/e2e17b05627ded810d9b047a20a7ba1e">A.Q.A 横手店</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
-|84|407|さやヽ(*&#x27;▽&#x27;*)ﾉ|<a href="https://search.dartslive.com/jp/shop/25b6ead1f0da3bd80d9b047a20a7ba1e">Cafe BONDS</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
-|85|368|asami|<a href="https://search.dartslive.com/jp/shop/e9ee3c854f8324d00d9b047a20a7ba1e">ゲーム　アルファ</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
-|86|338|きゃらめる|<a href="https://search.dartslive.com/jp/shop/e2e17b05627ded810d9b047a20a7ba1e">A.Q.A 横手店</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
-|87|323|つっかちゃん|<a href="https://search.dartslive.com/jp/shop/e9ee3c854f8324d00d9b047a20a7ba1e">ゲーム　アルファ</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
+|58|623|ゆーと|<a href="https://search.dartslive.com/jp/shop/e9ee3c854f8324d00d9b047a20a7ba1e">ゲーム　アルファ</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
+|59|614|Toro|<a href="https://search.dartslive.com/jp/shop/25b6ead1f0da3bd80d9b047a20a7ba1e">Cafe BONDS</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
+|60|609|YU|<a href="https://search.dartslive.com/jp/shop/f486a7fbe22d40330d9b047a20a7ba1e">Casual Bar BOOster</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
+|61|583|kaos|<a href="https://search.dartslive.com/jp/shop/e9ee3c854f8324d00d9b047a20a7ba1e">ゲーム　アルファ</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
+|62|580|スギッチ|<a href="https://search.dartslive.com/jp/shop/e2e17b05627ded810d9b047a20a7ba1e">A.Q.A 横手店</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
+|63|579|サイレンスクリカ|<a href="https://search.dartslive.com/jp/shop/25b6ead1f0da3bd80d9b047a20a7ba1e">Cafe BONDS</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
+|64|578|青髭海賊団らい|<a href="https://search.dartslive.com/jp/shop/e2e17b05627ded810d9b047a20a7ba1e">A.Q.A 横手店</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
+|65|564|R Y O|<a href="https://search.dartslive.com/jp/shop/e9ee3c854f8324d00d9b047a20a7ba1e">ゲーム　アルファ</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
+|66|554|ミキティ✩BONDS|<a href="https://search.dartslive.com/jp/shop/25b6ead1f0da3bd80d9b047a20a7ba1e">Cafe BONDS</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
+|67|552|carat13|<a href="https://search.dartslive.com/jp/shop/25b6ead1f0da3bd80d9b047a20a7ba1e">Cafe BONDS</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
+|68|549|チナツ☆彡|<a href="https://search.dartslive.com/jp/shop/e9ee3c854f8324d00d9b047a20a7ba1e">ゲーム　アルファ</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
+|69|548|10|<a href="https://search.dartslive.com/jp/shop/e2e17b05627ded810d9b047a20a7ba1e">A.Q.A 横手店</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
+|70|537|知穂(^∞^)♥️|<a href="https://search.dartslive.com/jp/shop/25b6ead1f0da3bd80d9b047a20a7ba1e">Cafe BONDS</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
+|71|535|reika|<a href="https://search.dartslive.com/jp/shop/e9ee3c854f8324d00d9b047a20a7ba1e">ゲーム　アルファ</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
+|72|532|Fin&#x27;s.kana|<a href="https://search.dartslive.com/jp/shop/f486a7fbe22d40330d9b047a20a7ba1e">Casual Bar BOOster</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
+|73|531|ZERO@BOOster|<a href="https://search.dartslive.com/jp/shop/f486a7fbe22d40330d9b047a20a7ba1e">Casual Bar BOOster</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
+|73|531|はたぼー@BONDS|<a href="https://search.dartslive.com/jp/shop/25b6ead1f0da3bd80d9b047a20a7ba1e">Cafe BONDS</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
+|75|525|もえりん ♥️|<a href="https://search.dartslive.com/jp/shop/e2e17b05627ded810d9b047a20a7ba1e">A.Q.A 横手店</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
+|76|524|+╋мёｇц╋+|<a href="https://search.dartslive.com/jp/shop/e9ee3c854f8324d00d9b047a20a7ba1e">ゲーム　アルファ</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
+|77|509|reika|<a href="https://search.dartslive.com/jp/shop/e2e17b05627ded810d9b047a20a7ba1e">A.Q.A 横手店</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
+|78|500|tequi姐|<a href="https://search.dartslive.com/jp/shop/e2e17b05627ded810d9b047a20a7ba1e">A.Q.A 横手店</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
+|79|496|achi|<a href="https://search.dartslive.com/jp/shop/f486a7fbe22d40330d9b047a20a7ba1e">Casual Bar BOOster</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
+|80|477|けちゃは独眼竜|<a href="https://search.dartslive.com/jp/shop/e9ee3c854f8324d00d9b047a20a7ba1e">ゲーム　アルファ</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
+|81|466|MIRACLE|<a href="https://search.dartslive.com/jp/shop/e2e17b05627ded810d9b047a20a7ba1e">A.Q.A 横手店</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
+|82|465|えむ|<a href="https://search.dartslive.com/jp/shop/f486a7fbe22d40330d9b047a20a7ba1e">Casual Bar BOOster</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
+|83|442|特級債務宇治キン|<a href="https://search.dartslive.com/jp/shop/f486a7fbe22d40330d9b047a20a7ba1e">Casual Bar BOOster</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
+|84|439|S・Y|<a href="https://search.dartslive.com/jp/shop/25b6ead1f0da3bd80d9b047a20a7ba1e">Cafe BONDS</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
+|85|421|tequi姐|<a href="https://search.dartslive.com/jp/shop/e9ee3c854f8324d00d9b047a20a7ba1e">ゲーム　アルファ</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
+|86|417|ちーちゃん|<a href="https://search.dartslive.com/jp/shop/e2e17b05627ded810d9b047a20a7ba1e">A.Q.A 横手店</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
+|87|407|さやヽ(*&#x27;▽&#x27;*)ﾉ|<a href="https://search.dartslive.com/jp/shop/25b6ead1f0da3bd80d9b047a20a7ba1e">Cafe BONDS</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
+|88|368|asami|<a href="https://search.dartslive.com/jp/shop/e9ee3c854f8324d00d9b047a20a7ba1e">ゲーム　アルファ</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
+|89|358|なえさん☃️|<a href="https://search.dartslive.com/jp/shop/e9ee3c854f8324d00d9b047a20a7ba1e">ゲーム　アルファ</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
+|90|338|きゃらめる|<a href="https://search.dartslive.com/jp/shop/e2e17b05627ded810d9b047a20a7ba1e">A.Q.A 横手店</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
+|91|323|つっかちゃん|<a href="https://search.dartslive.com/jp/shop/e9ee3c854f8324d00d9b047a20a7ba1e">ゲーム　アルファ</a>|<a href="/darts/rank/秋田県/横手市">秋田県横手市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:49_
+_last update : 2024/01/21 13:38:54_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

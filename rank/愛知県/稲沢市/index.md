@@ -35,13 +35,12 @@ ___
 |19|449|くまナギ|<a href="https://search.dartslive.com/jp/shop/3da6aa97cb5b44edfec1ae84bb28bd87">JOYJOY稲沢グランドボウル店</a>|<a href="/darts/rank/愛知県/稲沢市">愛知県稲沢市</a>|
 |20|441|NO NAME 9943|<a href="https://search.dartslive.com/jp/shop/3da6aa97cb5b44edfec1ae84bb28bd87">JOYJOY稲沢グランドボウル店</a>|<a href="/darts/rank/愛知県/稲沢市">愛知県稲沢市</a>|
 |20|441|RYOKO|<a href="https://search.dartslive.com/jp/shop/3da6aa97cb5b44edfec1ae84bb28bd87">JOYJOY稲沢グランドボウル店</a>|<a href="/darts/rank/愛知県/稲沢市">愛知県稲沢市</a>|
-|22|372|なす|<a href="https://search.dartslive.com/jp/shop/3da6aa97cb5b44edfec1ae84bb28bd87">JOYJOY稲沢グランドボウル店</a>|<a href="/darts/rank/愛知県/稲沢市">愛知県稲沢市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:54_
+_last update : 2024/01/21 13:39:02_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

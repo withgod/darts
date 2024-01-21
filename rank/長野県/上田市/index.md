@@ -31,18 +31,12 @@ ___
 |15|682|もけ|<a href="https://search.dartslive.com/jp/shop/9a7cecc7d993d1f4f454cb89828a1cfe">カラオケ ジョイジョイ 上田材木町店</a>|<a href="/darts/rank/長野県/上田市">長野県上田市</a>|
 |16|645|aksssskr/赤桜|<a href="https://search.dartslive.com/jp/shop/9a7cecc7d993d1f4f454cb89828a1cfe">カラオケ ジョイジョイ 上田材木町店</a>|<a href="/darts/rank/長野県/上田市">長野県上田市</a>|
 |17|609|♛ﾏｲｷﾝﾏﾝ♛|<a href="https://search.dartslive.com/jp/shop/9a7cecc7d993d1f4f454cb89828a1cfe">カラオケ ジョイジョイ 上田材木町店</a>|<a href="/darts/rank/長野県/上田市">長野県上田市</a>|
-|18|581|ます|<a href="https://search.dartslive.com/jp/shop/9a7cecc7d993d1f4f454cb89828a1cfe">カラオケ ジョイジョイ 上田材木町店</a>|<a href="/darts/rank/長野県/上田市">長野県上田市</a>|
-|19|477|Yae_Sugi|<a href="https://search.dartslive.com/jp/shop/9a7cecc7d993d1f4f454cb89828a1cfe">カラオケ ジョイジョイ 上田材木町店</a>|<a href="/darts/rank/長野県/上田市">長野県上田市</a>|
-|20|456|バキューム滝澤|<a href="https://search.dartslive.com/jp/shop/9a7cecc7d993d1f4f454cb89828a1cfe">カラオケ ジョイジョイ 上田材木町店</a>|<a href="/darts/rank/長野県/上田市">長野県上田市</a>|
-|21|439|ラビチャ|<a href="https://search.dartslive.com/jp/shop/9a7cecc7d993d1f4f454cb89828a1cfe">カラオケ ジョイジョイ 上田材木町店</a>|<a href="/darts/rank/長野県/上田市">長野県上田市</a>|
-|22|392|後ほど|<a href="https://search.dartslive.com/jp/shop/9a7cecc7d993d1f4f454cb89828a1cfe">カラオケ ジョイジョイ 上田材木町店</a>|<a href="/darts/rank/長野県/上田市">長野県上田市</a>|
-|23|256|NO NAME 0807|<a href="https://search.dartslive.com/jp/shop/9a7cecc7d993d1f4f454cb89828a1cfe">カラオケ ジョイジョイ 上田材木町店</a>|<a href="/darts/rank/長野県/上田市">長野県上田市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:53_
+_last update : 2024/01/21 13:39:00_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

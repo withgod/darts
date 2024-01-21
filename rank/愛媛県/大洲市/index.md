@@ -14,12 +14,29 @@ ___
 {:.table-ranking}
 |ランク|スコア|名前|店名|所在地|
 |---|---|---|---|---|
+|1|949|カノン|<a href="https://search.dartslive.com/jp/shop/d6f04850fcaca1380d9b047a20a7ba1e">カラオケBANBAN大洲店</a>|<a href="/darts/rank/愛媛県/大洲市">愛媛県大洲市</a>|
+|2|846|上岡 寛弥|<a href="https://search.dartslive.com/jp/shop/d6f04850fcaca1380d9b047a20a7ba1e">カラオケBANBAN大洲店</a>|<a href="/darts/rank/愛媛県/大洲市">愛媛県大洲市</a>|
+|3|812|tomo|<a href="https://search.dartslive.com/jp/shop/d6f04850fcaca1380d9b047a20a7ba1e">カラオケBANBAN大洲店</a>|<a href="/darts/rank/愛媛県/大洲市">愛媛県大洲市</a>|
+|4|775|PANDEMO|<a href="https://search.dartslive.com/jp/shop/d6f04850fcaca1380d9b047a20a7ba1e">カラオケBANBAN大洲店</a>|<a href="/darts/rank/愛媛県/大洲市">愛媛県大洲市</a>|
+|5|742|しげＧ|<a href="https://search.dartslive.com/jp/shop/d6f04850fcaca1380d9b047a20a7ba1e">カラオケBANBAN大洲店</a>|<a href="/darts/rank/愛媛県/大洲市">愛媛県大洲市</a>|
+|6|716|De-yan|<a href="https://search.dartslive.com/jp/shop/d6f04850fcaca1380d9b047a20a7ba1e">カラオケBANBAN大洲店</a>|<a href="/darts/rank/愛媛県/大洲市">愛媛県大洲市</a>|
+|7|688|としちゃん|<a href="https://search.dartslive.com/jp/shop/d6f04850fcaca1380d9b047a20a7ba1e">カラオケBANBAN大洲店</a>|<a href="/darts/rank/愛媛県/大洲市">愛媛県大洲市</a>|
+|8|683|にょにょ|<a href="https://search.dartslive.com/jp/shop/d6f04850fcaca1380d9b047a20a7ba1e">カラオケBANBAN大洲店</a>|<a href="/darts/rank/愛媛県/大洲市">愛媛県大洲市</a>|
+|9|681|佐々木　富士隆|<a href="https://search.dartslive.com/jp/shop/d6f04850fcaca1380d9b047a20a7ba1e">カラオケBANBAN大洲店</a>|<a href="/darts/rank/愛媛県/大洲市">愛媛県大洲市</a>|
+|10|660|ぐっさん|<a href="https://search.dartslive.com/jp/shop/d6f04850fcaca1380d9b047a20a7ba1e">カラオケBANBAN大洲店</a>|<a href="/darts/rank/愛媛県/大洲市">愛媛県大洲市</a>|
+|11|636|NO NAME 2225|<a href="https://search.dartslive.com/jp/shop/d6f04850fcaca1380d9b047a20a7ba1e">カラオケBANBAN大洲店</a>|<a href="/darts/rank/愛媛県/大洲市">愛媛県大洲市</a>|
+|12|612|NO NAME 2023|<a href="https://search.dartslive.com/jp/shop/d6f04850fcaca1380d9b047a20a7ba1e">カラオケBANBAN大洲店</a>|<a href="/darts/rank/愛媛県/大洲市">愛媛県大洲市</a>|
+|13|598|ぶ|<a href="https://search.dartslive.com/jp/shop/d6f04850fcaca1380d9b047a20a7ba1e">カラオケBANBAN大洲店</a>|<a href="/darts/rank/愛媛県/大洲市">愛媛県大洲市</a>|
+|14|571|ブル知りませんか|<a href="https://search.dartslive.com/jp/shop/d6f04850fcaca1380d9b047a20a7ba1e">カラオケBANBAN大洲店</a>|<a href="/darts/rank/愛媛県/大洲市">愛媛県大洲市</a>|
+|15|559|いな|<a href="https://search.dartslive.com/jp/shop/d6f04850fcaca1380d9b047a20a7ba1e">カラオケBANBAN大洲店</a>|<a href="/darts/rank/愛媛県/大洲市">愛媛県大洲市</a>|
+|16|525|yukko|<a href="https://search.dartslive.com/jp/shop/d6f04850fcaca1380d9b047a20a7ba1e">カラオケBANBAN大洲店</a>|<a href="/darts/rank/愛媛県/大洲市">愛媛県大洲市</a>|
+|17|341|Key|<a href="https://search.dartslive.com/jp/shop/d6f04850fcaca1380d9b047a20a7ba1e">カラオケBANBAN大洲店</a>|<a href="/darts/rank/愛媛県/大洲市">愛媛県大洲市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:56_
+_last update : 2024/01/21 13:39:07_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

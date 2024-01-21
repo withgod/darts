@@ -14,12 +14,19 @@ ___
 {:.table-ranking}
 |ランク|スコア|名前|店名|所在地|
 |---|---|---|---|---|
+|1|1007|市川啓太|<a href="https://search.dartslive.com/jp/shop/a604a0ad99db28e3f454cb89828a1cfe">BAR MOON</a>|<a href="/darts/rank/大阪府/阪南市">大阪府阪南市</a>|
+|2|926|井村　有希|<a href="https://search.dartslive.com/jp/shop/a604a0ad99db28e3f454cb89828a1cfe">BAR MOON</a>|<a href="/darts/rank/大阪府/阪南市">大阪府阪南市</a>|
+|2|926|市川啓太CUESOUL|<a href="https://search.dartslive.com/jp/shop/a604a0ad99db28e3f454cb89828a1cfe">BAR MOON</a>|<a href="/darts/rank/大阪府/阪南市">大阪府阪南市</a>|
+|4|858|y|<a href="https://search.dartslive.com/jp/shop/a604a0ad99db28e3f454cb89828a1cfe">BAR MOON</a>|<a href="/darts/rank/大阪府/阪南市">大阪府阪南市</a>|
+|5|717|鬼若子a.k.a Mr.Y|<a href="https://search.dartslive.com/jp/shop/a604a0ad99db28e3f454cb89828a1cfe">BAR MOON</a>|<a href="/darts/rank/大阪府/阪南市">大阪府阪南市</a>|
+|6|494|ELLY|<a href="https://search.dartslive.com/jp/shop/a604a0ad99db28e3f454cb89828a1cfe">BAR MOON</a>|<a href="/darts/rank/大阪府/阪南市">大阪府阪南市</a>|
+|7|410|ほね様|<a href="https://search.dartslive.com/jp/shop/a604a0ad99db28e3f454cb89828a1cfe">BAR MOON</a>|<a href="/darts/rank/大阪府/阪南市">大阪府阪南市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:55_
+_last update : 2024/01/21 13:39:05_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

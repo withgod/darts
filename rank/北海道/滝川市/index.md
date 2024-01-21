@@ -14,15 +14,15 @@ ___
 {:.table-ranking}
 |ランク|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|778|かずま|<a href="https://search.dartslive.com/jp/shop/c144b442059be5da0d9b047a20a7ba1e">Party bar genie</a>|<a href="/darts/rank/北海道/滝川市">北海道滝川市</a>|
-|2|765|ちびくろ|<a href="https://search.dartslive.com/jp/shop/c144b442059be5da0d9b047a20a7ba1e">Party bar genie</a>|<a href="/darts/rank/北海道/滝川市">北海道滝川市</a>|
-|3|754|だいちゃん0310|<a href="https://search.dartslive.com/jp/shop/c144b442059be5da0d9b047a20a7ba1e">Party bar genie</a>|<a href="/darts/rank/北海道/滝川市">北海道滝川市</a>|
-|4|752|生類ちゃん|<a href="https://search.dartslive.com/jp/shop/fb0a21904bc172100d9b047a20a7ba1e">カラオケBOX e-style滝川店</a>|<a href="/darts/rank/北海道/滝川市">北海道滝川市</a>|
-|5|741|いちのせ|<a href="https://search.dartslive.com/jp/shop/c144b442059be5da0d9b047a20a7ba1e">Party bar genie</a>|<a href="/darts/rank/北海道/滝川市">北海道滝川市</a>|
-|6|718|YOSHIDA.K|<a href="https://search.dartslive.com/jp/shop/fb0a21904bc172100d9b047a20a7ba1e">カラオケBOX e-style滝川店</a>|<a href="/darts/rank/北海道/滝川市">北海道滝川市</a>|
-|7|707|chiyo|<a href="https://search.dartslive.com/jp/shop/fb0a21904bc172100d9b047a20a7ba1e">カラオケBOX e-style滝川店</a>|<a href="/darts/rank/北海道/滝川市">北海道滝川市</a>|
-|8|701|ジーニー|<a href="https://search.dartslive.com/jp/shop/c144b442059be5da0d9b047a20a7ba1e">Party bar genie</a>|<a href="/darts/rank/北海道/滝川市">北海道滝川市</a>|
-|9|699|卍卍卍卍卍|<a href="https://search.dartslive.com/jp/shop/fb0a21904bc172100d9b047a20a7ba1e">カラオケBOX e-style滝川店</a>|<a href="/darts/rank/北海道/滝川市">北海道滝川市</a>|
+|1|802|卍卍卍卍卍|<a href="https://search.dartslive.com/jp/shop/fb0a21904bc172100d9b047a20a7ba1e">カラオケBOX e-style滝川店</a>|<a href="/darts/rank/北海道/滝川市">北海道滝川市</a>|
+|2|778|かずま|<a href="https://search.dartslive.com/jp/shop/c144b442059be5da0d9b047a20a7ba1e">Party bar genie</a>|<a href="/darts/rank/北海道/滝川市">北海道滝川市</a>|
+|3|765|ちびくろ|<a href="https://search.dartslive.com/jp/shop/c144b442059be5da0d9b047a20a7ba1e">Party bar genie</a>|<a href="/darts/rank/北海道/滝川市">北海道滝川市</a>|
+|4|754|だいちゃん0310|<a href="https://search.dartslive.com/jp/shop/c144b442059be5da0d9b047a20a7ba1e">Party bar genie</a>|<a href="/darts/rank/北海道/滝川市">北海道滝川市</a>|
+|5|752|生類ちゃん|<a href="https://search.dartslive.com/jp/shop/fb0a21904bc172100d9b047a20a7ba1e">カラオケBOX e-style滝川店</a>|<a href="/darts/rank/北海道/滝川市">北海道滝川市</a>|
+|6|741|いちのせ|<a href="https://search.dartslive.com/jp/shop/c144b442059be5da0d9b047a20a7ba1e">Party bar genie</a>|<a href="/darts/rank/北海道/滝川市">北海道滝川市</a>|
+|7|718|YOSHIDA.K|<a href="https://search.dartslive.com/jp/shop/fb0a21904bc172100d9b047a20a7ba1e">カラオケBOX e-style滝川店</a>|<a href="/darts/rank/北海道/滝川市">北海道滝川市</a>|
+|8|707|chiyo|<a href="https://search.dartslive.com/jp/shop/fb0a21904bc172100d9b047a20a7ba1e">カラオケBOX e-style滝川店</a>|<a href="/darts/rank/北海道/滝川市">北海道滝川市</a>|
+|9|701|ジーニー|<a href="https://search.dartslive.com/jp/shop/c144b442059be5da0d9b047a20a7ba1e">Party bar genie</a>|<a href="/darts/rank/北海道/滝川市">北海道滝川市</a>|
 |10|693|卍卍卍卍卍|<a href="https://search.dartslive.com/jp/shop/c144b442059be5da0d9b047a20a7ba1e">Party bar genie</a>|<a href="/darts/rank/北海道/滝川市">北海道滝川市</a>|
 |11|655|とわ|<a href="https://search.dartslive.com/jp/shop/fb0a21904bc172100d9b047a20a7ba1e">カラオケBOX e-style滝川店</a>|<a href="/darts/rank/北海道/滝川市">北海道滝川市</a>|
 |12|638|min|<a href="https://search.dartslive.com/jp/shop/fb0a21904bc172100d9b047a20a7ba1e">カラオケBOX e-style滝川店</a>|<a href="/darts/rank/北海道/滝川市">北海道滝川市</a>|
@@ -42,7 +42,7 @@ ___
 
 ___
 
-_last update : 2024/01/21 03:05:48_
+_last update : 2024/01/21 13:38:53_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

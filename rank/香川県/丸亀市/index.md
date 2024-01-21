@@ -14,12 +14,36 @@ ___
 {:.table-ranking}
 |ランク|スコア|名前|店名|所在地|
 |---|---|---|---|---|
+|1|1048|Metalist|<a href="https://search.dartslive.com/jp/shop/6c7a74925a4d6cf4fec1ae84bb28bd87">快活CLUB 丸亀店</a>|<a href="/darts/rank/香川県/丸亀市">香川県丸亀市</a>|
+|2|1043|ＫＯＪＩ★彡Яｓ|<a href="https://search.dartslive.com/jp/shop/6c7a74925a4d6cf4fec1ae84bb28bd87">快活CLUB 丸亀店</a>|<a href="/darts/rank/香川県/丸亀市">香川県丸亀市</a>|
+|3|1017|三井 翔太|<a href="https://search.dartslive.com/jp/shop/6c7a74925a4d6cf4fec1ae84bb28bd87">快活CLUB 丸亀店</a>|<a href="/darts/rank/香川県/丸亀市">香川県丸亀市</a>|
+|4|969|弍壱零四|<a href="https://search.dartslive.com/jp/shop/6c7a74925a4d6cf4fec1ae84bb28bd87">快活CLUB 丸亀店</a>|<a href="/darts/rank/香川県/丸亀市">香川県丸亀市</a>|
+|5|959|MATSU|<a href="https://search.dartslive.com/jp/shop/6c7a74925a4d6cf4fec1ae84bb28bd87">快活CLUB 丸亀店</a>|<a href="/darts/rank/香川県/丸亀市">香川県丸亀市</a>|
+|6|941|崎　魁斗|<a href="https://search.dartslive.com/jp/shop/6c7a74925a4d6cf4fec1ae84bb28bd87">快活CLUB 丸亀店</a>|<a href="/darts/rank/香川県/丸亀市">香川県丸亀市</a>|
+|7|933|中川航次郎|<a href="https://search.dartslive.com/jp/shop/6c7a74925a4d6cf4fec1ae84bb28bd87">快活CLUB 丸亀店</a>|<a href="/darts/rank/香川県/丸亀市">香川県丸亀市</a>|
+|8|929|Takasen|<a href="https://search.dartslive.com/jp/shop/6c7a74925a4d6cf4fec1ae84bb28bd87">快活CLUB 丸亀店</a>|<a href="/darts/rank/香川県/丸亀市">香川県丸亀市</a>|
+|9|913|ミツイ カナ|<a href="https://search.dartslive.com/jp/shop/6c7a74925a4d6cf4fec1ae84bb28bd87">快活CLUB 丸亀店</a>|<a href="/darts/rank/香川県/丸亀市">香川県丸亀市</a>|
+|10|907|ｷﾑﾁｬﾝ|<a href="https://search.dartslive.com/jp/shop/6c7a74925a4d6cf4fec1ae84bb28bd87">快活CLUB 丸亀店</a>|<a href="/darts/rank/香川県/丸亀市">香川県丸亀市</a>|
+|11|892|南木 俊彦|<a href="https://search.dartslive.com/jp/shop/6c7a74925a4d6cf4fec1ae84bb28bd87">快活CLUB 丸亀店</a>|<a href="/darts/rank/香川県/丸亀市">香川県丸亀市</a>|
+|12|864|ken|<a href="https://search.dartslive.com/jp/shop/6c7a74925a4d6cf4fec1ae84bb28bd87">快活CLUB 丸亀店</a>|<a href="/darts/rank/香川県/丸亀市">香川県丸亀市</a>|
+|13|848|Taiki@オカモク|<a href="https://search.dartslive.com/jp/shop/6c7a74925a4d6cf4fec1ae84bb28bd87">快活CLUB 丸亀店</a>|<a href="/darts/rank/香川県/丸亀市">香川県丸亀市</a>|
+|14|847|YAMA|<a href="https://search.dartslive.com/jp/shop/6c7a74925a4d6cf4fec1ae84bb28bd87">快活CLUB 丸亀店</a>|<a href="/darts/rank/香川県/丸亀市">香川県丸亀市</a>|
+|15|818|北條夢佳|<a href="https://search.dartslive.com/jp/shop/6c7a74925a4d6cf4fec1ae84bb28bd87">快活CLUB 丸亀店</a>|<a href="/darts/rank/香川県/丸亀市">香川県丸亀市</a>|
+|16|762|HACHI|<a href="https://search.dartslive.com/jp/shop/6c7a74925a4d6cf4fec1ae84bb28bd87">快活CLUB 丸亀店</a>|<a href="/darts/rank/香川県/丸亀市">香川県丸亀市</a>|
+|17|740|ミウラノ|<a href="https://search.dartslive.com/jp/shop/6c7a74925a4d6cf4fec1ae84bb28bd87">快活CLUB 丸亀店</a>|<a href="/darts/rank/香川県/丸亀市">香川県丸亀市</a>|
+|18|650|☆ハッチ☆|<a href="https://search.dartslive.com/jp/shop/6c7a74925a4d6cf4fec1ae84bb28bd87">快活CLUB 丸亀店</a>|<a href="/darts/rank/香川県/丸亀市">香川県丸亀市</a>|
+|19|626|T_chi_K1222☆|<a href="https://search.dartslive.com/jp/shop/6c7a74925a4d6cf4fec1ae84bb28bd87">快活CLUB 丸亀店</a>|<a href="/darts/rank/香川県/丸亀市">香川県丸亀市</a>|
+|20|505|NO NAME 9623|<a href="https://search.dartslive.com/jp/shop/6c7a74925a4d6cf4fec1ae84bb28bd87">快活CLUB 丸亀店</a>|<a href="/darts/rank/香川県/丸亀市">香川県丸亀市</a>|
+|21|480|なし|<a href="https://search.dartslive.com/jp/shop/6c7a74925a4d6cf4fec1ae84bb28bd87">快活CLUB 丸亀店</a>|<a href="/darts/rank/香川県/丸亀市">香川県丸亀市</a>|
+|22|475|ひろ|<a href="https://search.dartslive.com/jp/shop/6c7a74925a4d6cf4fec1ae84bb28bd87">快活CLUB 丸亀店</a>|<a href="/darts/rank/香川県/丸亀市">香川県丸亀市</a>|
+|23|434|牛|<a href="https://search.dartslive.com/jp/shop/6c7a74925a4d6cf4fec1ae84bb28bd87">快活CLUB 丸亀店</a>|<a href="/darts/rank/香川県/丸亀市">香川県丸亀市</a>|
+|24|378|YUKI|<a href="https://search.dartslive.com/jp/shop/6c7a74925a4d6cf4fec1ae84bb28bd87">快活CLUB 丸亀店</a>|<a href="/darts/rank/香川県/丸亀市">香川県丸亀市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:56_
+_last update : 2024/01/21 13:39:07_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

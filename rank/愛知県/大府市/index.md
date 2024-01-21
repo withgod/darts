@@ -44,18 +44,16 @@ ___
 |28|448|☆きっとササキ★|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
 |29|404|mi|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
 |30|401|仁志|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|31|390|BULL-Hi-LAN|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|32|379|まつもと|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|33|365|hana|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|34|300|snow|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|35|298|なぺ|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|36|290|Kaai|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|31|379|まつもと|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|32|365|hana|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|33|298|なぺ|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|34|290|Kaai|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:54_
+_last update : 2024/01/21 13:39:01_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

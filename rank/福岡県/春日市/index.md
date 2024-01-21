@@ -14,12 +14,29 @@ ___
 {:.table-ranking}
 |ランク|スコア|名前|店名|所在地|
 |---|---|---|---|---|
+|1|821|PHANTOM@bruxa|<a href="https://search.dartslive.com/jp/shop/0bcad723c6dd6af50d9b047a20a7ba1e">NOISE & TRIP</a>|<a href="/darts/rank/福岡県/春日市">福岡県春日市</a>|
+|2|806|J.U.N|<a href="https://search.dartslive.com/jp/shop/0bcad723c6dd6af50d9b047a20a7ba1e">NOISE & TRIP</a>|<a href="/darts/rank/福岡県/春日市">福岡県春日市</a>|
+|3|739|ただちんこすーぷ|<a href="https://search.dartslive.com/jp/shop/0bcad723c6dd6af50d9b047a20a7ba1e">NOISE & TRIP</a>|<a href="/darts/rank/福岡県/春日市">福岡県春日市</a>|
+|4|735|まつけん|<a href="https://search.dartslive.com/jp/shop/0bcad723c6dd6af50d9b047a20a7ba1e">NOISE & TRIP</a>|<a href="/darts/rank/福岡県/春日市">福岡県春日市</a>|
+|5|679|NOISE-VIP-GUEST|<a href="https://search.dartslive.com/jp/shop/0bcad723c6dd6af50d9b047a20a7ba1e">NOISE & TRIP</a>|<a href="/darts/rank/福岡県/春日市">福岡県春日市</a>|
+|6|603|ただチンパパ|<a href="https://search.dartslive.com/jp/shop/0bcad723c6dd6af50d9b047a20a7ba1e">NOISE & TRIP</a>|<a href="/darts/rank/福岡県/春日市">福岡県春日市</a>|
+|7|567|PINO|<a href="https://search.dartslive.com/jp/shop/0bcad723c6dd6af50d9b047a20a7ba1e">NOISE & TRIP</a>|<a href="/darts/rank/福岡県/春日市">福岡県春日市</a>|
+|8|510|かじ|<a href="https://search.dartslive.com/jp/shop/0bcad723c6dd6af50d9b047a20a7ba1e">NOISE & TRIP</a>|<a href="/darts/rank/福岡県/春日市">福岡県春日市</a>|
+|9|504|TOKUCHAN|<a href="https://search.dartslive.com/jp/shop/0bcad723c6dd6af50d9b047a20a7ba1e">NOISE & TRIP</a>|<a href="/darts/rank/福岡県/春日市">福岡県春日市</a>|
+|10|480|KAZZ_1150|<a href="https://search.dartslive.com/jp/shop/0bcad723c6dd6af50d9b047a20a7ba1e">NOISE & TRIP</a>|<a href="/darts/rank/福岡県/春日市">福岡県春日市</a>|
+|11|467|ぽんかえ|<a href="https://search.dartslive.com/jp/shop/0bcad723c6dd6af50d9b047a20a7ba1e">NOISE & TRIP</a>|<a href="/darts/rank/福岡県/春日市">福岡県春日市</a>|
+|12|446|ふなぼうず|<a href="https://search.dartslive.com/jp/shop/0bcad723c6dd6af50d9b047a20a7ba1e">NOISE & TRIP</a>|<a href="/darts/rank/福岡県/春日市">福岡県春日市</a>|
+|13|438|TOMMY818|<a href="https://search.dartslive.com/jp/shop/0bcad723c6dd6af50d9b047a20a7ba1e">NOISE & TRIP</a>|<a href="/darts/rank/福岡県/春日市">福岡県春日市</a>|
+|14|411|ブル(*ﾟ∀ﾟ*)練|<a href="https://search.dartslive.com/jp/shop/0bcad723c6dd6af50d9b047a20a7ba1e">NOISE & TRIP</a>|<a href="/darts/rank/福岡県/春日市">福岡県春日市</a>|
+|15|408|はる坊|<a href="https://search.dartslive.com/jp/shop/0bcad723c6dd6af50d9b047a20a7ba1e">NOISE & TRIP</a>|<a href="/darts/rank/福岡県/春日市">福岡県春日市</a>|
+|16|405|びび|<a href="https://search.dartslive.com/jp/shop/0bcad723c6dd6af50d9b047a20a7ba1e">NOISE & TRIP</a>|<a href="/darts/rank/福岡県/春日市">福岡県春日市</a>|
+|17|361|はっちゃん|<a href="https://search.dartslive.com/jp/shop/0bcad723c6dd6af50d9b047a20a7ba1e">NOISE & TRIP</a>|<a href="/darts/rank/福岡県/春日市">福岡県春日市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:57_
+_last update : 2024/01/21 13:39:08_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

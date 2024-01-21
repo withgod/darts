@@ -49,57 +49,40 @@ ___
 |33|731|ほりぷぅ|<a href="https://search.dartslive.com/jp/shop/0034be99cb4d06f40d9b047a20a7ba1e">ゆう遊空間 三河安城店</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
 |34|720|PEDRO|<a href="https://search.dartslive.com/jp/shop/0034be99cb4d06f40d9b047a20a7ba1e">ゆう遊空間 三河安城店</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
 |35|718|リカ|<a href="https://search.dartslive.com/jp/shop/0034be99cb4d06f40d9b047a20a7ba1e">ゆう遊空間 三河安城店</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
-|36|704|ぴるくる。|<a href="https://search.dartslive.com/jp/shop/0034be99cb4d06f40d9b047a20a7ba1e">ゆう遊空間 三河安城店</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
-|37|702|ﾄｰﾆｬ・ﾊｰﾃﾞｨﾝｸﾞ|<a href="https://search.dartslive.com/jp/shop/d93ba5de3cc225b328032249b44395af">IT-CAT安城店</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
-|38|698|Raichi|<a href="https://search.dartslive.com/jp/shop/d93ba5de3cc225b328032249b44395af">IT-CAT安城店</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
-|39|697|みんみんみーん|<a href="https://search.dartslive.com/jp/shop/d93ba5de3cc225b328032249b44395af">IT-CAT安城店</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
-|40|683|幹太＠竜治の弟子|<a href="https://search.dartslive.com/jp/shop/a4ead9f2ae15f3d20d9b047a20a7ba1e">Ludic</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
-|41|679|中尾 竜治|<a href="https://search.dartslive.com/jp/shop/a4ead9f2ae15f3d20d9b047a20a7ba1e">Ludic</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
-|42|674|☆つん☆|<a href="https://search.dartslive.com/jp/shop/a4ead9f2ae15f3d20d9b047a20a7ba1e">Ludic</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
-|43|662|りなりな|<a href="https://search.dartslive.com/jp/shop/0034be99cb4d06f40d9b047a20a7ba1e">ゆう遊空間 三河安城店</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
-|44|643|山口|<a href="https://search.dartslive.com/jp/shop/0034be99cb4d06f40d9b047a20a7ba1e">ゆう遊空間 三河安城店</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
-|45|636|mai|<a href="https://search.dartslive.com/jp/shop/0034be99cb4d06f40d9b047a20a7ba1e">ゆう遊空間 三河安城店</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
-|46|632|ピーナッツハニー|<a href="https://search.dartslive.com/jp/shop/0034be99cb4d06f40d9b047a20a7ba1e">ゆう遊空間 三河安城店</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
-|47|629|こは|<a href="https://search.dartslive.com/jp/shop/a4ead9f2ae15f3d20d9b047a20a7ba1e">Ludic</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
-|48|625|和也happen☆|<a href="https://search.dartslive.com/jp/shop/0034be99cb4d06f40d9b047a20a7ba1e">ゆう遊空間 三河安城店</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
-|49|621|とも|<a href="https://search.dartslive.com/jp/shop/0034be99cb4d06f40d9b047a20a7ba1e">ゆう遊空間 三河安城店</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
-|50|620|げ～やん|<a href="https://search.dartslive.com/jp/shop/0034be99cb4d06f40d9b047a20a7ba1e">ゆう遊空間 三河安城店</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
-|51|617|きよっちゃん|<a href="https://search.dartslive.com/jp/shop/a4ead9f2ae15f3d20d9b047a20a7ba1e">Ludic</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
-|52|616|なんとも|<a href="https://search.dartslive.com/jp/shop/0034be99cb4d06f40d9b047a20a7ba1e">ゆう遊空間 三河安城店</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
-|53|608|あー|<a href="https://search.dartslive.com/jp/shop/0034be99cb4d06f40d9b047a20a7ba1e">ゆう遊空間 三河安城店</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
-|54|598|げ～やん|<a href="https://search.dartslive.com/jp/shop/d93ba5de3cc225b328032249b44395af">IT-CAT安城店</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
-|55|581|たっきー|<a href="https://search.dartslive.com/jp/shop/0034be99cb4d06f40d9b047a20a7ba1e">ゆう遊空間 三河安城店</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
-|56|575|あさくら|<a href="https://search.dartslive.com/jp/shop/0034be99cb4d06f40d9b047a20a7ba1e">ゆう遊空間 三河安城店</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
-|57|565|Souu@奥さん|<a href="https://search.dartslive.com/jp/shop/0034be99cb4d06f40d9b047a20a7ba1e">ゆう遊空間 三河安城店</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
-|58|540|Natsu-kikike|<a href="https://search.dartslive.com/jp/shop/d93ba5de3cc225b328032249b44395af">IT-CAT安城店</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
-|59|530|マカロニ|<a href="https://search.dartslive.com/jp/shop/0034be99cb4d06f40d9b047a20a7ba1e">ゆう遊空間 三河安城店</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
-|60|513|J|<a href="https://search.dartslive.com/jp/shop/a4ead9f2ae15f3d20d9b047a20a7ba1e">Ludic</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
-|61|510|YURIA|<a href="https://search.dartslive.com/jp/shop/0034be99cb4d06f40d9b047a20a7ba1e">ゆう遊空間 三河安城店</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
-|62|500|しゃろ|<a href="https://search.dartslive.com/jp/shop/d93ba5de3cc225b328032249b44395af">IT-CAT安城店</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
-|63|495|こんにゃく|<a href="https://search.dartslive.com/jp/shop/a4ead9f2ae15f3d20d9b047a20a7ba1e">Ludic</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
-|64|490|クマ(´･(ｪ)･｀)|<a href="https://search.dartslive.com/jp/shop/a4ead9f2ae15f3d20d9b047a20a7ba1e">Ludic</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
-|65|487|じんまるだし|<a href="https://search.dartslive.com/jp/shop/d93ba5de3cc225b328032249b44395af">IT-CAT安城店</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
-|66|479|なすじじい|<a href="https://search.dartslive.com/jp/shop/a4ead9f2ae15f3d20d9b047a20a7ba1e">Ludic</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
-|67|469|ﾘｵﾊﾞｧ☆リオまる|<a href="https://search.dartslive.com/jp/shop/a4ead9f2ae15f3d20d9b047a20a7ba1e">Ludic</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
-|68|466|あまみ|<a href="https://search.dartslive.com/jp/shop/d93ba5de3cc225b328032249b44395af">IT-CAT安城店</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
-|69|462|マサヤ|<a href="https://search.dartslive.com/jp/shop/a4ead9f2ae15f3d20d9b047a20a7ba1e">Ludic</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
-|70|442|松下　竜誠|<a href="https://search.dartslive.com/jp/shop/a4ead9f2ae15f3d20d9b047a20a7ba1e">Ludic</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
-|71|431|マサヤ|<a href="https://search.dartslive.com/jp/shop/d93ba5de3cc225b328032249b44395af">IT-CAT安城店</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
-|72|421|つっきー|<a href="https://search.dartslive.com/jp/shop/0034be99cb4d06f40d9b047a20a7ba1e">ゆう遊空間 三河安城店</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
-|73|403|このもん|<a href="https://search.dartslive.com/jp/shop/0034be99cb4d06f40d9b047a20a7ba1e">ゆう遊空間 三河安城店</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
-|74|384|hana|<a href="https://search.dartslive.com/jp/shop/0034be99cb4d06f40d9b047a20a7ba1e">ゆう遊空間 三河安城店</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
-|75|369|Pinion*|<a href="https://search.dartslive.com/jp/shop/d93ba5de3cc225b328032249b44395af">IT-CAT安城店</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
-|76|346|日槻|<a href="https://search.dartslive.com/jp/shop/0034be99cb4d06f40d9b047a20a7ba1e">ゆう遊空間 三河安城店</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
-|77|308|kamion11|<a href="https://search.dartslive.com/jp/shop/a4ead9f2ae15f3d20d9b047a20a7ba1e">Ludic</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
-|78|290|ねおん♪♪|<a href="https://search.dartslive.com/jp/shop/d93ba5de3cc225b328032249b44395af">IT-CAT安城店</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
-|79|285|hazuki|<a href="https://search.dartslive.com/jp/shop/a4ead9f2ae15f3d20d9b047a20a7ba1e">Ludic</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
-|80|245|alizarin|<a href="https://search.dartslive.com/jp/shop/d93ba5de3cc225b328032249b44395af">IT-CAT安城店</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
+|36|702|ﾄｰﾆｬ・ﾊｰﾃﾞｨﾝｸﾞ|<a href="https://search.dartslive.com/jp/shop/d93ba5de3cc225b328032249b44395af">IT-CAT安城店</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
+|37|698|Raichi|<a href="https://search.dartslive.com/jp/shop/d93ba5de3cc225b328032249b44395af">IT-CAT安城店</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
+|38|683|幹太＠竜治の弟子|<a href="https://search.dartslive.com/jp/shop/a4ead9f2ae15f3d20d9b047a20a7ba1e">Ludic</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
+|39|679|中尾 竜治|<a href="https://search.dartslive.com/jp/shop/a4ead9f2ae15f3d20d9b047a20a7ba1e">Ludic</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
+|40|674|☆つん☆|<a href="https://search.dartslive.com/jp/shop/a4ead9f2ae15f3d20d9b047a20a7ba1e">Ludic</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
+|41|662|りなりな|<a href="https://search.dartslive.com/jp/shop/0034be99cb4d06f40d9b047a20a7ba1e">ゆう遊空間 三河安城店</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
+|42|636|mai|<a href="https://search.dartslive.com/jp/shop/0034be99cb4d06f40d9b047a20a7ba1e">ゆう遊空間 三河安城店</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
+|43|629|こは|<a href="https://search.dartslive.com/jp/shop/a4ead9f2ae15f3d20d9b047a20a7ba1e">Ludic</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
+|44|620|げ～やん|<a href="https://search.dartslive.com/jp/shop/0034be99cb4d06f40d9b047a20a7ba1e">ゆう遊空間 三河安城店</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
+|45|617|きよっちゃん|<a href="https://search.dartslive.com/jp/shop/a4ead9f2ae15f3d20d9b047a20a7ba1e">Ludic</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
+|46|608|あー|<a href="https://search.dartslive.com/jp/shop/0034be99cb4d06f40d9b047a20a7ba1e">ゆう遊空間 三河安城店</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
+|47|598|げ～やん|<a href="https://search.dartslive.com/jp/shop/d93ba5de3cc225b328032249b44395af">IT-CAT安城店</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
+|48|565|Souu@奥さん|<a href="https://search.dartslive.com/jp/shop/0034be99cb4d06f40d9b047a20a7ba1e">ゆう遊空間 三河安城店</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
+|49|530|マカロニ|<a href="https://search.dartslive.com/jp/shop/0034be99cb4d06f40d9b047a20a7ba1e">ゆう遊空間 三河安城店</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
+|50|513|J|<a href="https://search.dartslive.com/jp/shop/a4ead9f2ae15f3d20d9b047a20a7ba1e">Ludic</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
+|51|510|YURIA|<a href="https://search.dartslive.com/jp/shop/0034be99cb4d06f40d9b047a20a7ba1e">ゆう遊空間 三河安城店</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
+|52|500|しゃろ|<a href="https://search.dartslive.com/jp/shop/d93ba5de3cc225b328032249b44395af">IT-CAT安城店</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
+|53|495|こんにゃく|<a href="https://search.dartslive.com/jp/shop/a4ead9f2ae15f3d20d9b047a20a7ba1e">Ludic</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
+|54|490|クマ(´･(ｪ)･｀)|<a href="https://search.dartslive.com/jp/shop/a4ead9f2ae15f3d20d9b047a20a7ba1e">Ludic</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
+|55|469|ﾘｵﾊﾞｧ☆リオまる|<a href="https://search.dartslive.com/jp/shop/a4ead9f2ae15f3d20d9b047a20a7ba1e">Ludic</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
+|56|462|マサヤ|<a href="https://search.dartslive.com/jp/shop/a4ead9f2ae15f3d20d9b047a20a7ba1e">Ludic</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
+|57|442|松下　竜誠|<a href="https://search.dartslive.com/jp/shop/a4ead9f2ae15f3d20d9b047a20a7ba1e">Ludic</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
+|58|421|つっきー|<a href="https://search.dartslive.com/jp/shop/0034be99cb4d06f40d9b047a20a7ba1e">ゆう遊空間 三河安城店</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
+|59|403|このもん|<a href="https://search.dartslive.com/jp/shop/0034be99cb4d06f40d9b047a20a7ba1e">ゆう遊空間 三河安城店</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
+|60|384|hana|<a href="https://search.dartslive.com/jp/shop/0034be99cb4d06f40d9b047a20a7ba1e">ゆう遊空間 三河安城店</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
+|61|346|日槻|<a href="https://search.dartslive.com/jp/shop/0034be99cb4d06f40d9b047a20a7ba1e">ゆう遊空間 三河安城店</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
+|62|308|kamion11|<a href="https://search.dartslive.com/jp/shop/a4ead9f2ae15f3d20d9b047a20a7ba1e">Ludic</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
+|63|285|hazuki|<a href="https://search.dartslive.com/jp/shop/a4ead9f2ae15f3d20d9b047a20a7ba1e">Ludic</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:54_
+_last update : 2024/01/21 13:39:02_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

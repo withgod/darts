@@ -46,23 +46,21 @@ ___
 |30|636|あんざい|<a href="https://search.dartslive.com/jp/shop/4f3ced4dbb44b932fec1ae84bb28bd87">Darts Cafe&bar CIEL</a>|<a href="/darts/rank/山梨県/南都留郡">山梨県南都留郡</a>|
 |31|633|ちび太|<a href="https://search.dartslive.com/jp/shop/1a0d2d555903527a0d9b047a20a7ba1e">wasian chot bar SOFU</a>|<a href="/darts/rank/山梨県/南都留郡">山梨県南都留郡</a>|
 |32|598|MaRiMo|<a href="https://search.dartslive.com/jp/shop/4f3ced4dbb44b932fec1ae84bb28bd87">Darts Cafe&bar CIEL</a>|<a href="/darts/rank/山梨県/南都留郡">山梨県南都留郡</a>|
-|33|595|そ|<a href="https://search.dartslive.com/jp/shop/1a0d2d555903527a0d9b047a20a7ba1e">wasian chot bar SOFU</a>|<a href="/darts/rank/山梨県/南都留郡">山梨県南都留郡</a>|
-|34|583|623|<a href="https://search.dartslive.com/jp/shop/4f3ced4dbb44b932fec1ae84bb28bd87">Darts Cafe&bar CIEL</a>|<a href="/darts/rank/山梨県/南都留郡">山梨県南都留郡</a>|
-|35|555|あしだまなる|<a href="https://search.dartslive.com/jp/shop/1a0d2d555903527a0d9b047a20a7ba1e">wasian chot bar SOFU</a>|<a href="/darts/rank/山梨県/南都留郡">山梨県南都留郡</a>|
-|36|532|なつみDevi悪魔會|<a href="https://search.dartslive.com/jp/shop/1a0d2d555903527a0d9b047a20a7ba1e">wasian chot bar SOFU</a>|<a href="/darts/rank/山梨県/南都留郡">山梨県南都留郡</a>|
-|37|527|渡辺|<a href="https://search.dartslive.com/jp/shop/4f3ced4dbb44b932fec1ae84bb28bd87">Darts Cafe&bar CIEL</a>|<a href="/darts/rank/山梨県/南都留郡">山梨県南都留郡</a>|
-|38|522|Ruipiii|<a href="https://search.dartslive.com/jp/shop/4f3ced4dbb44b932fec1ae84bb28bd87">Darts Cafe&bar CIEL</a>|<a href="/darts/rank/山梨県/南都留郡">山梨県南都留郡</a>|
-|39|506|すがぬまとしゆき|<a href="https://search.dartslive.com/jp/shop/4f3ced4dbb44b932fec1ae84bb28bd87">Darts Cafe&bar CIEL</a>|<a href="/darts/rank/山梨県/南都留郡">山梨県南都留郡</a>|
-|40|478|そふいちろう|<a href="https://search.dartslive.com/jp/shop/1a0d2d555903527a0d9b047a20a7ba1e">wasian chot bar SOFU</a>|<a href="/darts/rank/山梨県/南都留郡">山梨県南都留郡</a>|
-|41|471|ゆめ|<a href="https://search.dartslive.com/jp/shop/4f3ced4dbb44b932fec1ae84bb28bd87">Darts Cafe&bar CIEL</a>|<a href="/darts/rank/山梨県/南都留郡">山梨県南都留郡</a>|
-|42|468|ぎっぽん|<a href="https://search.dartslive.com/jp/shop/4f3ced4dbb44b932fec1ae84bb28bd87">Darts Cafe&bar CIEL</a>|<a href="/darts/rank/山梨県/南都留郡">山梨県南都留郡</a>|
-|43|320|ゆぃぴ|<a href="https://search.dartslive.com/jp/shop/1a0d2d555903527a0d9b047a20a7ba1e">wasian chot bar SOFU</a>|<a href="/darts/rank/山梨県/南都留郡">山梨県南都留郡</a>|
+|33|583|623|<a href="https://search.dartslive.com/jp/shop/4f3ced4dbb44b932fec1ae84bb28bd87">Darts Cafe&bar CIEL</a>|<a href="/darts/rank/山梨県/南都留郡">山梨県南都留郡</a>|
+|34|555|あしだまなる|<a href="https://search.dartslive.com/jp/shop/1a0d2d555903527a0d9b047a20a7ba1e">wasian chot bar SOFU</a>|<a href="/darts/rank/山梨県/南都留郡">山梨県南都留郡</a>|
+|35|532|なつみDevi悪魔會|<a href="https://search.dartslive.com/jp/shop/1a0d2d555903527a0d9b047a20a7ba1e">wasian chot bar SOFU</a>|<a href="/darts/rank/山梨県/南都留郡">山梨県南都留郡</a>|
+|36|527|渡辺|<a href="https://search.dartslive.com/jp/shop/4f3ced4dbb44b932fec1ae84bb28bd87">Darts Cafe&bar CIEL</a>|<a href="/darts/rank/山梨県/南都留郡">山梨県南都留郡</a>|
+|37|522|Ruipiii|<a href="https://search.dartslive.com/jp/shop/4f3ced4dbb44b932fec1ae84bb28bd87">Darts Cafe&bar CIEL</a>|<a href="/darts/rank/山梨県/南都留郡">山梨県南都留郡</a>|
+|38|506|すがぬまとしゆき|<a href="https://search.dartslive.com/jp/shop/4f3ced4dbb44b932fec1ae84bb28bd87">Darts Cafe&bar CIEL</a>|<a href="/darts/rank/山梨県/南都留郡">山梨県南都留郡</a>|
+|39|471|ゆめ|<a href="https://search.dartslive.com/jp/shop/4f3ced4dbb44b932fec1ae84bb28bd87">Darts Cafe&bar CIEL</a>|<a href="/darts/rank/山梨県/南都留郡">山梨県南都留郡</a>|
+|40|468|ぎっぽん|<a href="https://search.dartslive.com/jp/shop/4f3ced4dbb44b932fec1ae84bb28bd87">Darts Cafe&bar CIEL</a>|<a href="/darts/rank/山梨県/南都留郡">山梨県南都留郡</a>|
+|41|320|ゆぃぴ|<a href="https://search.dartslive.com/jp/shop/1a0d2d555903527a0d9b047a20a7ba1e">wasian chot bar SOFU</a>|<a href="/darts/rank/山梨県/南都留郡">山梨県南都留郡</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:53_
+_last update : 2024/01/21 13:39:00_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

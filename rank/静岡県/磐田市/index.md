@@ -45,15 +45,14 @@ ___
 |29|587|ISSEI|<a href="https://search.dartslive.com/jp/shop/cb6082c17771f089b21333aee1bd51e4">JOYJOY磐田上岡田店</a>|<a href="/darts/rank/静岡県/磐田市">静岡県磐田市</a>|
 |30|576|きーひろ|<a href="https://search.dartslive.com/jp/shop/cb6082c17771f089b21333aee1bd51e4">JOYJOY磐田上岡田店</a>|<a href="/darts/rank/静岡県/磐田市">静岡県磐田市</a>|
 |31|562|Marble|<a href="https://search.dartslive.com/jp/shop/cb6082c17771f089b21333aee1bd51e4">JOYJOY磐田上岡田店</a>|<a href="/darts/rank/静岡県/磐田市">静岡県磐田市</a>|
-|32|534|たっくみー|<a href="https://search.dartslive.com/jp/shop/31900d289f3dcb3128032249b44395af">アプレシオ磐田店</a>|<a href="/darts/rank/静岡県/磐田市">静岡県磐田市</a>|
-|33|497|松下琉夏|<a href="https://search.dartslive.com/jp/shop/cb6082c17771f089b21333aee1bd51e4">JOYJOY磐田上岡田店</a>|<a href="/darts/rank/静岡県/磐田市">静岡県磐田市</a>|
-|34|457|だっち|<a href="https://search.dartslive.com/jp/shop/cb6082c17771f089b21333aee1bd51e4">JOYJOY磐田上岡田店</a>|<a href="/darts/rank/静岡県/磐田市">静岡県磐田市</a>|
+|32|497|松下琉夏|<a href="https://search.dartslive.com/jp/shop/cb6082c17771f089b21333aee1bd51e4">JOYJOY磐田上岡田店</a>|<a href="/darts/rank/静岡県/磐田市">静岡県磐田市</a>|
+|33|457|だっち|<a href="https://search.dartslive.com/jp/shop/cb6082c17771f089b21333aee1bd51e4">JOYJOY磐田上岡田店</a>|<a href="/darts/rank/静岡県/磐田市">静岡県磐田市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:53_
+_last update : 2024/01/21 13:39:01_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

@@ -22,15 +22,16 @@ ___
 |6|765|村松和|<a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">BAR&DINING ZERO</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
 |7|555|炬燵猫|<a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">BAR&DINING ZERO</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
 |8|529|ATSUSHI.ZERO|<a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">BAR&DINING ZERO</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
-|9|482|S|<a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">BAR&DINING ZERO</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
-|10|460|Syun|<a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">BAR&DINING ZERO</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
-|11|424|タカ|<a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">BAR&DINING ZERO</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
+|9|485|✿結✿|<a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">BAR&DINING ZERO</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
+|10|482|S|<a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">BAR&DINING ZERO</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
+|11|460|Syun|<a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">BAR&DINING ZERO</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
+|12|424|タカ|<a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">BAR&DINING ZERO</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:53_
+_last update : 2024/01/21 13:39:00_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

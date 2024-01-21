@@ -30,16 +30,18 @@ ___
 |14|698|ダーツ難民|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
 |15|639|おのでら|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
 |16|628|藤ﾕｶ(本体はﾒｶﾞﾈ)|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
-|17|579|megu|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
-|18|522|sosuke__sf|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
-|19|489|がしがし|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
-|20|278|あーちゃん|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
+|17|587|NO NAME 3297|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
+|18|585|sosuke__sf|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
+|19|579|megu|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
+|20|489|がしがし|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
+|21|455|☆kuni@^_^@☆|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
+|22|326|あーちゃん|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:49_
+_last update : 2024/01/21 13:38:53_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

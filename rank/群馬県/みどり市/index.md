@@ -37,13 +37,14 @@ ___
 |21|476|まっぴー|<a href="https://search.dartslive.com/jp/shop/31e32aeed603162ca3f63593b5358cc4">快活CLUB 50号笠懸店</a>|<a href="/darts/rank/群馬県/みどり市">群馬県みどり市</a>|
 |22|454|シャンタン|<a href="https://search.dartslive.com/jp/shop/31e32aeed603162ca3f63593b5358cc4">快活CLUB 50号笠懸店</a>|<a href="/darts/rank/群馬県/みどり市">群馬県みどり市</a>|
 |23|437|j|<a href="https://search.dartslive.com/jp/shop/31e32aeed603162ca3f63593b5358cc4">快活CLUB 50号笠懸店</a>|<a href="/darts/rank/群馬県/みどり市">群馬県みどり市</a>|
-|24|304|あや|<a href="https://search.dartslive.com/jp/shop/31e32aeed603162ca3f63593b5358cc4">快活CLUB 50号笠懸店</a>|<a href="/darts/rank/群馬県/みどり市">群馬県みどり市</a>|
+|24|321|Syouhei|<a href="https://search.dartslive.com/jp/shop/31e32aeed603162ca3f63593b5358cc4">快活CLUB 50号笠懸店</a>|<a href="/darts/rank/群馬県/みどり市">群馬県みどり市</a>|
+|25|304|あや|<a href="https://search.dartslive.com/jp/shop/31e32aeed603162ca3f63593b5358cc4">快活CLUB 50号笠懸店</a>|<a href="/darts/rank/群馬県/みどり市">群馬県みどり市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:50_
+_last update : 2024/01/21 13:38:55_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

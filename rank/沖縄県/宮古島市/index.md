@@ -14,12 +14,22 @@ ___
 {:.table-ranking}
 |ランク|スコア|名前|店名|所在地|
 |---|---|---|---|---|
+|1|980|ぴーす宮古島|<a href="https://search.dartslive.com/jp/shop/3cf44a27fa535faf0d9b047a20a7ba1e">ティンカラ</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|2|808|ねここ|<a href="https://search.dartslive.com/jp/shop/3cf44a27fa535faf0d9b047a20a7ba1e">ティンカラ</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|3|704|ゆうじ|<a href="https://search.dartslive.com/jp/shop/3cf44a27fa535faf0d9b047a20a7ba1e">ティンカラ</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|4|612|フィールドテクノ|<a href="https://search.dartslive.com/jp/shop/3cf44a27fa535faf0d9b047a20a7ba1e">ティンカラ</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|5|597|スカイ|<a href="https://search.dartslive.com/jp/shop/3cf44a27fa535faf0d9b047a20a7ba1e">ティンカラ</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|6|537|Y・YOSHI|<a href="https://search.dartslive.com/jp/shop/3cf44a27fa535faf0d9b047a20a7ba1e">ティンカラ</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|7|493|こじゃうぃー|<a href="https://search.dartslive.com/jp/shop/3cf44a27fa535faf0d9b047a20a7ba1e">ティンカラ</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|8|479|やむやむ|<a href="https://search.dartslive.com/jp/shop/3cf44a27fa535faf0d9b047a20a7ba1e">ティンカラ</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|9|446|MASA|<a href="https://search.dartslive.com/jp/shop/3cf44a27fa535faf0d9b047a20a7ba1e">ティンカラ</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|10|364|Fumi|<a href="https://search.dartslive.com/jp/shop/3cf44a27fa535faf0d9b047a20a7ba1e">ティンカラ</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:57_
+_last update : 2024/01/21 13:39:08_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

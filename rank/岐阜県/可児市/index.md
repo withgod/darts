@@ -16,9 +16,9 @@ ___
 |---|---|---|---|---|
 |1|1133|＜＜＜雅＞＞＞|<a href="https://search.dartslive.com/jp/shop/ca7a90480bc6c737790ab824ce8730e5">快活CLUB 可児店</a>|<a href="/darts/rank/岐阜県/可児市">岐阜県可児市</a>|
 |2|1084|К - ②|<a href="https://search.dartslive.com/jp/shop/ca7a90480bc6c737790ab824ce8730e5">快活CLUB 可児店</a>|<a href="/darts/rank/岐阜県/可児市">岐阜県可児市</a>|
-|3|1055|ㅤ|<a href="https://search.dartslive.com/jp/shop/ca7a90480bc6c737790ab824ce8730e5">快活CLUB 可児店</a>|<a href="/darts/rank/岐阜県/可児市">岐阜県可児市</a>|
-|4|962|Hotsu|<a href="https://search.dartslive.com/jp/shop/ca7a90480bc6c737790ab824ce8730e5">快活CLUB 可児店</a>|<a href="/darts/rank/岐阜県/可児市">岐阜県可児市</a>|
-|5|959|竹本 隆秀|<a href="https://search.dartslive.com/jp/shop/caf8a94a0d7d448a0d9b047a20a7ba1e">Bliss Haven</a>|<a href="/darts/rank/岐阜県/可児市">岐阜県可児市</a>|
+|3|1060|竹本 隆秀|<a href="https://search.dartslive.com/jp/shop/caf8a94a0d7d448a0d9b047a20a7ba1e">Bliss Haven</a>|<a href="/darts/rank/岐阜県/可児市">岐阜県可児市</a>|
+|4|1055|ㅤ|<a href="https://search.dartslive.com/jp/shop/ca7a90480bc6c737790ab824ce8730e5">快活CLUB 可児店</a>|<a href="/darts/rank/岐阜県/可児市">岐阜県可児市</a>|
+|5|962|Hotsu|<a href="https://search.dartslive.com/jp/shop/ca7a90480bc6c737790ab824ce8730e5">快活CLUB 可児店</a>|<a href="/darts/rank/岐阜県/可児市">岐阜県可児市</a>|
 |6|915|☆マーキー☆|<a href="https://search.dartslive.com/jp/shop/ca7a90480bc6c737790ab824ce8730e5">快活CLUB 可児店</a>|<a href="/darts/rank/岐阜県/可児市">岐阜県可児市</a>|
 |7|914|ティージ|<a href="https://search.dartslive.com/jp/shop/ca7a90480bc6c737790ab824ce8730e5">快活CLUB 可児店</a>|<a href="/darts/rank/岐阜県/可児市">岐阜県可児市</a>|
 |8|900|〓ナッツ〓★|<a href="https://search.dartslive.com/jp/shop/ca7a90480bc6c737790ab824ce8730e5">快活CLUB 可児店</a>|<a href="/darts/rank/岐阜県/可児市">岐阜県可児市</a>|
@@ -62,7 +62,7 @@ ___
 
 ___
 
-_last update : 2024/01/21 03:05:53_
+_last update : 2024/01/21 13:39:01_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

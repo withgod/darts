@@ -70,46 +70,48 @@ ___
 |54|552|REI|<a href="https://search.dartslive.com/jp/shop/9a27dcbbc2e798920d9b047a20a7ba1e">Dope</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
 |55|550|あちゃん2号|<a href="https://search.dartslive.com/jp/shop/371bd4b6b2a08e2f58d385ea46352d8f">快活CLUB 50号小山店</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
 |56|548|ssss9176|<a href="https://search.dartslive.com/jp/shop/86afcb75d0c207580d9b047a20a7ba1e">Bar Natural9</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
-|57|546|たける|<a href="https://search.dartslive.com/jp/shop/9a27dcbbc2e798920d9b047a20a7ba1e">Dope</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
-|58|535|ゆっきー【娘】|<a href="https://search.dartslive.com/jp/shop/9a27dcbbc2e798920d9b047a20a7ba1e">Dope</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
-|59|520|わんちゃん|<a href="https://search.dartslive.com/jp/shop/9a27dcbbc2e798920d9b047a20a7ba1e">Dope</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
-|60|518|風鳴沙耶|<a href="https://search.dartslive.com/jp/shop/9a27dcbbc2e798920d9b047a20a7ba1e">Dope</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
-|61|517|あいみ|<a href="https://search.dartslive.com/jp/shop/371bd4b6b2a08e2f58d385ea46352d8f">快活CLUB 50号小山店</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
-|61|517|ま|<a href="https://search.dartslive.com/jp/shop/9a27dcbbc2e798920d9b047a20a7ba1e">Dope</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
-|63|510|Side45|<a href="https://search.dartslive.com/jp/shop/9a27dcbbc2e798920d9b047a20a7ba1e">Dope</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
-|64|508|あちゃん2号|<a href="https://search.dartslive.com/jp/shop/84415a34a212d44f0d9b047a20a7ba1e">カラオケBANBAN小山50号店</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
-|65|500|Shiren|<a href="https://search.dartslive.com/jp/shop/371bd4b6b2a08e2f58d385ea46352d8f">快活CLUB 50号小山店</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
-|65|500|レイ|<a href="https://search.dartslive.com/jp/shop/9a27dcbbc2e798920d9b047a20a7ba1e">Dope</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
-|67|493|れい|<a href="https://search.dartslive.com/jp/shop/9a27dcbbc2e798920d9b047a20a7ba1e">Dope</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
-|68|482|インド系韓国人|<a href="https://search.dartslive.com/jp/shop/9a27dcbbc2e798920d9b047a20a7ba1e">Dope</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
-|69|481|♡3kitan♡|<a href="https://search.dartslive.com/jp/shop/371bd4b6b2a08e2f58d385ea46352d8f">快活CLUB 50号小山店</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
-|70|480|花乃|<a href="https://search.dartslive.com/jp/shop/371bd4b6b2a08e2f58d385ea46352d8f">快活CLUB 50号小山店</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
-|71|479|れぁちむぅ⌒♡|<a href="https://search.dartslive.com/jp/shop/371bd4b6b2a08e2f58d385ea46352d8f">快活CLUB 50号小山店</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
-|72|478|nao|<a href="https://search.dartslive.com/jp/shop/86afcb75d0c207580d9b047a20a7ba1e">Bar Natural9</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
-|73|473|しぃちゃん|<a href="https://search.dartslive.com/jp/shop/84415a34a212d44f0d9b047a20a7ba1e">カラオケBANBAN小山50号店</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
-|74|471|かぐや姫|<a href="https://search.dartslive.com/jp/shop/9a27dcbbc2e798920d9b047a20a7ba1e">Dope</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
-|75|470|性格スリザリン|<a href="https://search.dartslive.com/jp/shop/9a27dcbbc2e798920d9b047a20a7ba1e">Dope</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
-|76|466|Fengminlov|<a href="https://search.dartslive.com/jp/shop/371bd4b6b2a08e2f58d385ea46352d8f">快活CLUB 50号小山店</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
-|77|464|Techi໒꒱|<a href="https://search.dartslive.com/jp/shop/84415a34a212d44f0d9b047a20a7ba1e">カラオケBANBAN小山50号店</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
-|78|445|こぐま|<a href="https://search.dartslive.com/jp/shop/84415a34a212d44f0d9b047a20a7ba1e">カラオケBANBAN小山50号店</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
-|79|409|YUI*YUI*|<a href="https://search.dartslive.com/jp/shop/84415a34a212d44f0d9b047a20a7ba1e">カラオケBANBAN小山50号店</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
-|80|407|にゃんちゃん|<a href="https://search.dartslive.com/jp/shop/9a27dcbbc2e798920d9b047a20a7ba1e">Dope</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
-|81|404|Fengminlov|<a href="https://search.dartslive.com/jp/shop/84415a34a212d44f0d9b047a20a7ba1e">カラオケBANBAN小山50号店</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
-|82|397|renachi&#124; ‹:)~❁|<a href="https://search.dartslive.com/jp/shop/84415a34a212d44f0d9b047a20a7ba1e">カラオケBANBAN小山50号店</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
-|83|383|ガさん@黒猫|<a href="https://search.dartslive.com/jp/shop/371bd4b6b2a08e2f58d385ea46352d8f">快活CLUB 50号小山店</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
-|84|379|☆さと☆|<a href="https://search.dartslive.com/jp/shop/371bd4b6b2a08e2f58d385ea46352d8f">快活CLUB 50号小山店</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
-|85|374|Ｍeg♥|<a href="https://search.dartslive.com/jp/shop/9a27dcbbc2e798920d9b047a20a7ba1e">Dope</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
-|86|369|おなつ|<a href="https://search.dartslive.com/jp/shop/371bd4b6b2a08e2f58d385ea46352d8f">快活CLUB 50号小山店</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
-|87|353|さえちょる|<a href="https://search.dartslive.com/jp/shop/371bd4b6b2a08e2f58d385ea46352d8f">快活CLUB 50号小山店</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
-|88|345|マイケル|<a href="https://search.dartslive.com/jp/shop/84415a34a212d44f0d9b047a20a7ba1e">カラオケBANBAN小山50号店</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
-|89|311|にゃんちゃん|<a href="https://search.dartslive.com/jp/shop/371bd4b6b2a08e2f58d385ea46352d8f">快活CLUB 50号小山店</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
-|90|305|白桃|<a href="https://search.dartslive.com/jp/shop/84415a34a212d44f0d9b047a20a7ba1e">カラオケBANBAN小山50号店</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
+|57|547|ayaka|<a href="https://search.dartslive.com/jp/shop/371bd4b6b2a08e2f58d385ea46352d8f">快活CLUB 50号小山店</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
+|58|546|たける|<a href="https://search.dartslive.com/jp/shop/9a27dcbbc2e798920d9b047a20a7ba1e">Dope</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
+|59|535|ゆっきー【娘】|<a href="https://search.dartslive.com/jp/shop/9a27dcbbc2e798920d9b047a20a7ba1e">Dope</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
+|60|520|わんちゃん|<a href="https://search.dartslive.com/jp/shop/9a27dcbbc2e798920d9b047a20a7ba1e">Dope</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
+|61|518|風鳴沙耶|<a href="https://search.dartslive.com/jp/shop/9a27dcbbc2e798920d9b047a20a7ba1e">Dope</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
+|62|517|あいみ|<a href="https://search.dartslive.com/jp/shop/371bd4b6b2a08e2f58d385ea46352d8f">快活CLUB 50号小山店</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
+|62|517|ま|<a href="https://search.dartslive.com/jp/shop/9a27dcbbc2e798920d9b047a20a7ba1e">Dope</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
+|64|510|Side45|<a href="https://search.dartslive.com/jp/shop/9a27dcbbc2e798920d9b047a20a7ba1e">Dope</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
+|65|508|あちゃん2号|<a href="https://search.dartslive.com/jp/shop/84415a34a212d44f0d9b047a20a7ba1e">カラオケBANBAN小山50号店</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
+|66|500|Shiren|<a href="https://search.dartslive.com/jp/shop/371bd4b6b2a08e2f58d385ea46352d8f">快活CLUB 50号小山店</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
+|66|500|レイ|<a href="https://search.dartslive.com/jp/shop/9a27dcbbc2e798920d9b047a20a7ba1e">Dope</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
+|68|493|れい|<a href="https://search.dartslive.com/jp/shop/9a27dcbbc2e798920d9b047a20a7ba1e">Dope</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
+|69|482|インド系韓国人|<a href="https://search.dartslive.com/jp/shop/9a27dcbbc2e798920d9b047a20a7ba1e">Dope</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
+|70|481|♡3kitan♡|<a href="https://search.dartslive.com/jp/shop/371bd4b6b2a08e2f58d385ea46352d8f">快活CLUB 50号小山店</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
+|71|480|花乃|<a href="https://search.dartslive.com/jp/shop/371bd4b6b2a08e2f58d385ea46352d8f">快活CLUB 50号小山店</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
+|72|479|れぁちむぅ⌒♡|<a href="https://search.dartslive.com/jp/shop/371bd4b6b2a08e2f58d385ea46352d8f">快活CLUB 50号小山店</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
+|73|478|nao|<a href="https://search.dartslive.com/jp/shop/86afcb75d0c207580d9b047a20a7ba1e">Bar Natural9</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
+|74|473|しぃちゃん|<a href="https://search.dartslive.com/jp/shop/84415a34a212d44f0d9b047a20a7ba1e">カラオケBANBAN小山50号店</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
+|75|471|かぐや姫|<a href="https://search.dartslive.com/jp/shop/9a27dcbbc2e798920d9b047a20a7ba1e">Dope</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
+|76|470|性格スリザリン|<a href="https://search.dartslive.com/jp/shop/9a27dcbbc2e798920d9b047a20a7ba1e">Dope</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
+|77|466|Fengminlov|<a href="https://search.dartslive.com/jp/shop/371bd4b6b2a08e2f58d385ea46352d8f">快活CLUB 50号小山店</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
+|78|464|Techi໒꒱|<a href="https://search.dartslive.com/jp/shop/84415a34a212d44f0d9b047a20a7ba1e">カラオケBANBAN小山50号店</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
+|79|445|こぐま|<a href="https://search.dartslive.com/jp/shop/84415a34a212d44f0d9b047a20a7ba1e">カラオケBANBAN小山50号店</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
+|80|409|YUI*YUI*|<a href="https://search.dartslive.com/jp/shop/84415a34a212d44f0d9b047a20a7ba1e">カラオケBANBAN小山50号店</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
+|81|407|にゃんちゃん|<a href="https://search.dartslive.com/jp/shop/9a27dcbbc2e798920d9b047a20a7ba1e">Dope</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
+|82|404|Fengminlov|<a href="https://search.dartslive.com/jp/shop/84415a34a212d44f0d9b047a20a7ba1e">カラオケBANBAN小山50号店</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
+|83|397|renachi&#124; ‹:)~❁|<a href="https://search.dartslive.com/jp/shop/84415a34a212d44f0d9b047a20a7ba1e">カラオケBANBAN小山50号店</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
+|84|383|おじじだよ|<a href="https://search.dartslive.com/jp/shop/84415a34a212d44f0d9b047a20a7ba1e">カラオケBANBAN小山50号店</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
+|84|383|ガさん@黒猫|<a href="https://search.dartslive.com/jp/shop/371bd4b6b2a08e2f58d385ea46352d8f">快活CLUB 50号小山店</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
+|86|379|☆さと☆|<a href="https://search.dartslive.com/jp/shop/371bd4b6b2a08e2f58d385ea46352d8f">快活CLUB 50号小山店</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
+|87|374|Ｍeg♥|<a href="https://search.dartslive.com/jp/shop/9a27dcbbc2e798920d9b047a20a7ba1e">Dope</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
+|88|369|おなつ|<a href="https://search.dartslive.com/jp/shop/371bd4b6b2a08e2f58d385ea46352d8f">快活CLUB 50号小山店</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
+|89|353|さえちょる|<a href="https://search.dartslive.com/jp/shop/371bd4b6b2a08e2f58d385ea46352d8f">快活CLUB 50号小山店</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
+|90|345|マイケル|<a href="https://search.dartslive.com/jp/shop/84415a34a212d44f0d9b047a20a7ba1e">カラオケBANBAN小山50号店</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
+|91|311|にゃんちゃん|<a href="https://search.dartslive.com/jp/shop/371bd4b6b2a08e2f58d385ea46352d8f">快活CLUB 50号小山店</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
+|92|305|白桃|<a href="https://search.dartslive.com/jp/shop/84415a34a212d44f0d9b047a20a7ba1e">カラオケBANBAN小山50号店</a>|<a href="/darts/rank/栃木県/小山市">栃木県小山市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:50_
+_last update : 2024/01/21 13:38:55_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

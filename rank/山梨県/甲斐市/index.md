@@ -31,25 +31,19 @@ ___
 |15|765|コバケンp|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
 |16|735|ササキっち|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
 |16|735|鹿|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
-|18|663|jackal|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
-|19|647|かずお|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
-|20|645|はぴこ(´▽｀)|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
-|21|579|Tyka☆|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
-|22|547|112233|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
-|23|539|hikaru|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
-|24|523|HOGERI|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
-|25|456|ripu|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
-|26|440|Naoki|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
-|27|402|よだせまる|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
-|28|392|MAYU|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
-|29|370|ryusei|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
-|30|349|chinatsu|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
+|18|645|はぴこ(´▽｀)|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
+|19|579|Tyka☆|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
+|20|523|HOGERI|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
+|21|440|Naoki|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
+|22|402|よだせまる|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
+|23|392|MAYU|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
+|24|349|chinatsu|<a href="https://search.dartslive.com/jp/shop/65d17b6fddab89c30d9b047a20a7ba1e">アプレシオ 甲斐竜王店</a>|<a href="/darts/rank/山梨県/甲斐市">山梨県甲斐市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:53_
+_last update : 2024/01/21 13:39:00_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

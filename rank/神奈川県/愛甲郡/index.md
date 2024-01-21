@@ -14,8 +14,8 @@ ___
 {:.table-ranking}
 |ランク|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|918|番長☆TOKYO12|<a href="https://search.dartslive.com/jp/shop/c2b09e192a721fc60d9b047a20a7ba1e">ビリヤード&ダーツ インパクト</a>|<a href="/darts/rank/神奈川県/愛甲郡">神奈川県愛甲郡</a>|
-|2|907|白いの？|<a href="https://search.dartslive.com/jp/shop/c2b09e192a721fc60d9b047a20a7ba1e">ビリヤード&ダーツ インパクト</a>|<a href="/darts/rank/神奈川県/愛甲郡">神奈川県愛甲郡</a>|
+|1|1108|白いの？|<a href="https://search.dartslive.com/jp/shop/c2b09e192a721fc60d9b047a20a7ba1e">ビリヤード&ダーツ インパクト</a>|<a href="/darts/rank/神奈川県/愛甲郡">神奈川県愛甲郡</a>|
+|2|918|番長☆TOKYO12|<a href="https://search.dartslive.com/jp/shop/c2b09e192a721fc60d9b047a20a7ba1e">ビリヤード&ダーツ インパクト</a>|<a href="/darts/rank/神奈川県/愛甲郡">神奈川県愛甲郡</a>|
 |3|861|176|<a href="https://search.dartslive.com/jp/shop/c2b09e192a721fc60d9b047a20a7ba1e">ビリヤード&ダーツ インパクト</a>|<a href="/darts/rank/神奈川県/愛甲郡">神奈川県愛甲郡</a>|
 |4|748|ﾊﾞﾗｶﾝ@ﾊﾞｽｶｰﾋﾞﾙ|<a href="https://search.dartslive.com/jp/shop/c2b09e192a721fc60d9b047a20a7ba1e">ビリヤード&ダーツ インパクト</a>|<a href="/darts/rank/神奈川県/愛甲郡">神奈川県愛甲郡</a>|
 |5|739|頭兵衛(^ .^)y-~|<a href="https://search.dartslive.com/jp/shop/c2b09e192a721fc60d9b047a20a7ba1e">ビリヤード&ダーツ インパクト</a>|<a href="/darts/rank/神奈川県/愛甲郡">神奈川県愛甲郡</a>|
@@ -32,7 +32,7 @@ ___
 
 ___
 
-_last update : 2024/01/21 03:05:52_
+_last update : 2024/01/21 13:38:59_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

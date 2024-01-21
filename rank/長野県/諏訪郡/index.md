@@ -29,28 +29,21 @@ ___
 |13|781|天膳さまー|<a href="https://search.dartslive.com/jp/shop/1400e9bdc5d14a45790ab824ce8730e5">自遊空間 湖浜店</a>|<a href="/darts/rank/長野県/諏訪郡">長野県諏訪郡</a>|
 |14|777|K SOUL|<a href="https://search.dartslive.com/jp/shop/1400e9bdc5d14a45790ab824ce8730e5">自遊空間 湖浜店</a>|<a href="/darts/rank/長野県/諏訪郡">長野県諏訪郡</a>|
 |14|777|風評baby|<a href="https://search.dartslive.com/jp/shop/1400e9bdc5d14a45790ab824ce8730e5">自遊空間 湖浜店</a>|<a href="/darts/rank/長野県/諏訪郡">長野県諏訪郡</a>|
-|16|670|Russ|<a href="https://search.dartslive.com/jp/shop/1400e9bdc5d14a45790ab824ce8730e5">自遊空間 湖浜店</a>|<a href="/darts/rank/長野県/諏訪郡">長野県諏訪郡</a>|
-|17|641|YOU-KEY|<a href="https://search.dartslive.com/jp/shop/1400e9bdc5d14a45790ab824ce8730e5">自遊空間 湖浜店</a>|<a href="/darts/rank/長野県/諏訪郡">長野県諏訪郡</a>|
-|18|636|Revolution.|<a href="https://search.dartslive.com/jp/shop/1400e9bdc5d14a45790ab824ce8730e5">自遊空間 湖浜店</a>|<a href="/darts/rank/長野県/諏訪郡">長野県諏訪郡</a>|
-|19|548|柊|<a href="https://search.dartslive.com/jp/shop/1400e9bdc5d14a45790ab824ce8730e5">自遊空間 湖浜店</a>|<a href="/darts/rank/長野県/諏訪郡">長野県諏訪郡</a>|
-|20|542|ナナホシ|<a href="https://search.dartslive.com/jp/shop/1400e9bdc5d14a45790ab824ce8730e5">自遊空間 湖浜店</a>|<a href="/darts/rank/長野県/諏訪郡">長野県諏訪郡</a>|
-|21|531|♥Ayaka♡|<a href="https://search.dartslive.com/jp/shop/1400e9bdc5d14a45790ab824ce8730e5">自遊空間 湖浜店</a>|<a href="/darts/rank/長野県/諏訪郡">長野県諏訪郡</a>|
-|22|496|HOGERI|<a href="https://search.dartslive.com/jp/shop/1400e9bdc5d14a45790ab824ce8730e5">自遊空間 湖浜店</a>|<a href="/darts/rank/長野県/諏訪郡">長野県諏訪郡</a>|
-|23|492|ヌッコ|<a href="https://search.dartslive.com/jp/shop/1400e9bdc5d14a45790ab824ce8730e5">自遊空間 湖浜店</a>|<a href="/darts/rank/長野県/諏訪郡">長野県諏訪郡</a>|
-|24|478|NON|<a href="https://search.dartslive.com/jp/shop/1400e9bdc5d14a45790ab824ce8730e5">自遊空間 湖浜店</a>|<a href="/darts/rank/長野県/諏訪郡">長野県諏訪郡</a>|
-|25|445|てとら|<a href="https://search.dartslive.com/jp/shop/1400e9bdc5d14a45790ab824ce8730e5">自遊空間 湖浜店</a>|<a href="/darts/rank/長野県/諏訪郡">長野県諏訪郡</a>|
-|26|423|A3@NTS2|<a href="https://search.dartslive.com/jp/shop/1400e9bdc5d14a45790ab824ce8730e5">自遊空間 湖浜店</a>|<a href="/darts/rank/長野県/諏訪郡">長野県諏訪郡</a>|
-|27|415|夜桜|<a href="https://search.dartslive.com/jp/shop/1400e9bdc5d14a45790ab824ce8730e5">自遊空間 湖浜店</a>|<a href="/darts/rank/長野県/諏訪郡">長野県諏訪郡</a>|
-|28|381|♪シナモン♪|<a href="https://search.dartslive.com/jp/shop/1400e9bdc5d14a45790ab824ce8730e5">自遊空間 湖浜店</a>|<a href="/darts/rank/長野県/諏訪郡">長野県諏訪郡</a>|
-|29|352|Peace☆みぃぽ♪|<a href="https://search.dartslive.com/jp/shop/1400e9bdc5d14a45790ab824ce8730e5">自遊空間 湖浜店</a>|<a href="/darts/rank/長野県/諏訪郡">長野県諏訪郡</a>|
-|30|351|まゆゆ♥️|<a href="https://search.dartslive.com/jp/shop/1400e9bdc5d14a45790ab824ce8730e5">自遊空間 湖浜店</a>|<a href="/darts/rank/長野県/諏訪郡">長野県諏訪郡</a>|
-|31|211|ゆい|<a href="https://search.dartslive.com/jp/shop/1400e9bdc5d14a45790ab824ce8730e5">自遊空間 湖浜店</a>|<a href="/darts/rank/長野県/諏訪郡">長野県諏訪郡</a>|
+|16|531|♥Ayaka♡|<a href="https://search.dartslive.com/jp/shop/1400e9bdc5d14a45790ab824ce8730e5">自遊空間 湖浜店</a>|<a href="/darts/rank/長野県/諏訪郡">長野県諏訪郡</a>|
+|17|496|HOGERI|<a href="https://search.dartslive.com/jp/shop/1400e9bdc5d14a45790ab824ce8730e5">自遊空間 湖浜店</a>|<a href="/darts/rank/長野県/諏訪郡">長野県諏訪郡</a>|
+|18|492|ヌッコ|<a href="https://search.dartslive.com/jp/shop/1400e9bdc5d14a45790ab824ce8730e5">自遊空間 湖浜店</a>|<a href="/darts/rank/長野県/諏訪郡">長野県諏訪郡</a>|
+|19|478|NON|<a href="https://search.dartslive.com/jp/shop/1400e9bdc5d14a45790ab824ce8730e5">自遊空間 湖浜店</a>|<a href="/darts/rank/長野県/諏訪郡">長野県諏訪郡</a>|
+|20|445|てとら|<a href="https://search.dartslive.com/jp/shop/1400e9bdc5d14a45790ab824ce8730e5">自遊空間 湖浜店</a>|<a href="/darts/rank/長野県/諏訪郡">長野県諏訪郡</a>|
+|21|423|A3@NTS2|<a href="https://search.dartslive.com/jp/shop/1400e9bdc5d14a45790ab824ce8730e5">自遊空間 湖浜店</a>|<a href="/darts/rank/長野県/諏訪郡">長野県諏訪郡</a>|
+|22|381|♪シナモン♪|<a href="https://search.dartslive.com/jp/shop/1400e9bdc5d14a45790ab824ce8730e5">自遊空間 湖浜店</a>|<a href="/darts/rank/長野県/諏訪郡">長野県諏訪郡</a>|
+|23|352|Peace☆みぃぽ♪|<a href="https://search.dartslive.com/jp/shop/1400e9bdc5d14a45790ab824ce8730e5">自遊空間 湖浜店</a>|<a href="/darts/rank/長野県/諏訪郡">長野県諏訪郡</a>|
+|24|211|ゆい|<a href="https://search.dartslive.com/jp/shop/1400e9bdc5d14a45790ab824ce8730e5">自遊空間 湖浜店</a>|<a href="/darts/rank/長野県/諏訪郡">長野県諏訪郡</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:53_
+_last update : 2024/01/21 13:39:00_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

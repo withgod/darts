@@ -102,21 +102,22 @@ ___
 |86|450|きょっぴー|<a href="https://search.dartslive.com/jp/shop/23b545f1ab5eae95b21333aee1bd51e4">コミックバスター土浦永国店</a>|<a href="/darts/rank/茨城県/土浦市">茨城県土浦市</a>|
 |87|448|SABOTEN25|<a href="https://search.dartslive.com/jp/shop/2c066495b051af08774c926eb736cb5a">快活CLUB 土浦荒川沖店</a>|<a href="/darts/rank/茨城県/土浦市">茨城県土浦市</a>|
 |88|431|MAH|<a href="https://search.dartslive.com/jp/shop/23b545f1ab5eae95b21333aee1bd51e4">コミックバスター土浦永国店</a>|<a href="/darts/rank/茨城県/土浦市">茨城県土浦市</a>|
-|89|412|Yas|<a href="https://search.dartslive.com/jp/shop/e3882be09e0e01fb0d9b047a20a7ba1e">SPiN 土浦店</a>|<a href="/darts/rank/茨城県/土浦市">茨城県土浦市</a>|
+|89|412|83104|<a href="https://search.dartslive.com/jp/shop/e3882be09e0e01fb0d9b047a20a7ba1e">SPiN 土浦店</a>|<a href="/darts/rank/茨城県/土浦市">茨城県土浦市</a>|
 |90|408|ひろぴょん|<a href="https://search.dartslive.com/jp/shop/2c066495b051af08774c926eb736cb5a">快活CLUB 土浦荒川沖店</a>|<a href="/darts/rank/茨城県/土浦市">茨城県土浦市</a>|
 |91|407|オートジャベリン|<a href="https://search.dartslive.com/jp/shop/e3882be09e0e01fb0d9b047a20a7ba1e">SPiN 土浦店</a>|<a href="/darts/rank/茨城県/土浦市">茨城県土浦市</a>|
-|92|397|もがちー|<a href="https://search.dartslive.com/jp/shop/23b545f1ab5eae95b21333aee1bd51e4">コミックバスター土浦永国店</a>|<a href="/darts/rank/茨城県/土浦市">茨城県土浦市</a>|
-|93|393|mai|<a href="https://search.dartslive.com/jp/shop/2c066495b051af08774c926eb736cb5a">快活CLUB 土浦荒川沖店</a>|<a href="/darts/rank/茨城県/土浦市">茨城県土浦市</a>|
-|94|385|なーはむ|<a href="https://search.dartslive.com/jp/shop/23b545f1ab5eae95b21333aee1bd51e4">コミックバスター土浦永国店</a>|<a href="/darts/rank/茨城県/土浦市">茨城県土浦市</a>|
-|95|378|ふりかけ妹|<a href="https://search.dartslive.com/jp/shop/e3882be09e0e01fb0d9b047a20a7ba1e">SPiN 土浦店</a>|<a href="/darts/rank/茨城県/土浦市">茨城県土浦市</a>|
-|96|340|スパロウ豊久|<a href="https://search.dartslive.com/jp/shop/23b545f1ab5eae95b21333aee1bd51e4">コミックバスター土浦永国店</a>|<a href="/darts/rank/茨城県/土浦市">茨城県土浦市</a>|
-|97|273|まりぶー|<a href="https://search.dartslive.com/jp/shop/f067ce74d196dd060d9b047a20a7ba1e">カラオケBANBAN神立店</a>|<a href="/darts/rank/茨城県/土浦市">茨城県土浦市</a>|
+|92|400|キムＡもん|<a href="https://search.dartslive.com/jp/shop/2c066495b051af08774c926eb736cb5a">快活CLUB 土浦荒川沖店</a>|<a href="/darts/rank/茨城県/土浦市">茨城県土浦市</a>|
+|93|397|もがちー|<a href="https://search.dartslive.com/jp/shop/23b545f1ab5eae95b21333aee1bd51e4">コミックバスター土浦永国店</a>|<a href="/darts/rank/茨城県/土浦市">茨城県土浦市</a>|
+|94|393|mai|<a href="https://search.dartslive.com/jp/shop/2c066495b051af08774c926eb736cb5a">快活CLUB 土浦荒川沖店</a>|<a href="/darts/rank/茨城県/土浦市">茨城県土浦市</a>|
+|95|385|なーはむ|<a href="https://search.dartslive.com/jp/shop/23b545f1ab5eae95b21333aee1bd51e4">コミックバスター土浦永国店</a>|<a href="/darts/rank/茨城県/土浦市">茨城県土浦市</a>|
+|96|378|ふりかけ妹|<a href="https://search.dartslive.com/jp/shop/e3882be09e0e01fb0d9b047a20a7ba1e">SPiN 土浦店</a>|<a href="/darts/rank/茨城県/土浦市">茨城県土浦市</a>|
+|97|340|スパロウ豊久|<a href="https://search.dartslive.com/jp/shop/23b545f1ab5eae95b21333aee1bd51e4">コミックバスター土浦永国店</a>|<a href="/darts/rank/茨城県/土浦市">茨城県土浦市</a>|
+|98|273|まりぶー|<a href="https://search.dartslive.com/jp/shop/f067ce74d196dd060d9b047a20a7ba1e">カラオケBANBAN神立店</a>|<a href="/darts/rank/茨城県/土浦市">茨城県土浦市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:50_
+_last update : 2024/01/21 13:38:55_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

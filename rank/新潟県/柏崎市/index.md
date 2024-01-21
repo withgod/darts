@@ -35,29 +35,26 @@ ___
 |19|730|砂狼シロコ|<a href="https://search.dartslive.com/jp/shop/af9ddf458b272ca358d385ea46352d8f">自遊空間 柏崎店</a>|<a href="/darts/rank/新潟県/柏崎市">新潟県柏崎市</a>|
 |20|703|こばせな|<a href="https://search.dartslive.com/jp/shop/51ebc8326155783df454cb89828a1cfe">Ageha</a>|<a href="/darts/rank/新潟県/柏崎市">新潟県柏崎市</a>|
 |21|658|あも|<a href="https://search.dartslive.com/jp/shop/51ebc8326155783df454cb89828a1cfe">Ageha</a>|<a href="/darts/rank/新潟県/柏崎市">新潟県柏崎市</a>|
-|22|657|高橋一生　[破]|<a href="https://search.dartslive.com/jp/shop/af9ddf458b272ca358d385ea46352d8f">自遊空間 柏崎店</a>|<a href="/darts/rank/新潟県/柏崎市">新潟県柏崎市</a>|
-|23|626|けい⭐︎⭐︎|<a href="https://search.dartslive.com/jp/shop/51ebc8326155783df454cb89828a1cfe">Ageha</a>|<a href="/darts/rank/新潟県/柏崎市">新潟県柏崎市</a>|
-|23|626|こやぴー ageHa|<a href="https://search.dartslive.com/jp/shop/51ebc8326155783df454cb89828a1cfe">Ageha</a>|<a href="/darts/rank/新潟県/柏崎市">新潟県柏崎市</a>|
-|25|609|Daisuke ageHa|<a href="https://search.dartslive.com/jp/shop/51ebc8326155783df454cb89828a1cfe">Ageha</a>|<a href="/darts/rank/新潟県/柏崎市">新潟県柏崎市</a>|
-|26|582|ルンルンみのるん|<a href="https://search.dartslive.com/jp/shop/51ebc8326155783df454cb89828a1cfe">Ageha</a>|<a href="/darts/rank/新潟県/柏崎市">新潟県柏崎市</a>|
-|27|574|Chart|<a href="https://search.dartslive.com/jp/shop/51ebc8326155783df454cb89828a1cfe">Ageha</a>|<a href="/darts/rank/新潟県/柏崎市">新潟県柏崎市</a>|
-|28|573|男乕（トラ)|<a href="https://search.dartslive.com/jp/shop/51ebc8326155783df454cb89828a1cfe">Ageha</a>|<a href="/darts/rank/新潟県/柏崎市">新潟県柏崎市</a>|
-|29|571|あんちゅー|<a href="https://search.dartslive.com/jp/shop/51ebc8326155783df454cb89828a1cfe">Ageha</a>|<a href="/darts/rank/新潟県/柏崎市">新潟県柏崎市</a>|
-|30|568|高橋一生　[破]|<a href="https://search.dartslive.com/jp/shop/51ebc8326155783df454cb89828a1cfe">Ageha</a>|<a href="/darts/rank/新潟県/柏崎市">新潟県柏崎市</a>|
-|31|561|stりゅうry [破]|<a href="https://search.dartslive.com/jp/shop/51ebc8326155783df454cb89828a1cfe">Ageha</a>|<a href="/darts/rank/新潟県/柏崎市">新潟県柏崎市</a>|
-|32|551|たむ|<a href="https://search.dartslive.com/jp/shop/af9ddf458b272ca358d385ea46352d8f">自遊空間 柏崎店</a>|<a href="/darts/rank/新潟県/柏崎市">新潟県柏崎市</a>|
+|22|626|けい⭐︎⭐︎|<a href="https://search.dartslive.com/jp/shop/51ebc8326155783df454cb89828a1cfe">Ageha</a>|<a href="/darts/rank/新潟県/柏崎市">新潟県柏崎市</a>|
+|22|626|こやぴー ageHa|<a href="https://search.dartslive.com/jp/shop/51ebc8326155783df454cb89828a1cfe">Ageha</a>|<a href="/darts/rank/新潟県/柏崎市">新潟県柏崎市</a>|
+|24|609|Daisuke ageHa|<a href="https://search.dartslive.com/jp/shop/51ebc8326155783df454cb89828a1cfe">Ageha</a>|<a href="/darts/rank/新潟県/柏崎市">新潟県柏崎市</a>|
+|25|582|ルンルンみのるん|<a href="https://search.dartslive.com/jp/shop/51ebc8326155783df454cb89828a1cfe">Ageha</a>|<a href="/darts/rank/新潟県/柏崎市">新潟県柏崎市</a>|
+|26|574|Chart|<a href="https://search.dartslive.com/jp/shop/51ebc8326155783df454cb89828a1cfe">Ageha</a>|<a href="/darts/rank/新潟県/柏崎市">新潟県柏崎市</a>|
+|27|573|男乕（トラ)|<a href="https://search.dartslive.com/jp/shop/51ebc8326155783df454cb89828a1cfe">Ageha</a>|<a href="/darts/rank/新潟県/柏崎市">新潟県柏崎市</a>|
+|28|571|あんちゅー|<a href="https://search.dartslive.com/jp/shop/51ebc8326155783df454cb89828a1cfe">Ageha</a>|<a href="/darts/rank/新潟県/柏崎市">新潟県柏崎市</a>|
+|29|568|高橋一生　[破]|<a href="https://search.dartslive.com/jp/shop/51ebc8326155783df454cb89828a1cfe">Ageha</a>|<a href="/darts/rank/新潟県/柏崎市">新潟県柏崎市</a>|
+|30|561|stりゅうry [破]|<a href="https://search.dartslive.com/jp/shop/51ebc8326155783df454cb89828a1cfe">Ageha</a>|<a href="/darts/rank/新潟県/柏崎市">新潟県柏崎市</a>|
+|31|551|たむ|<a href="https://search.dartslive.com/jp/shop/af9ddf458b272ca358d385ea46352d8f">自遊空間 柏崎店</a>|<a href="/darts/rank/新潟県/柏崎市">新潟県柏崎市</a>|
+|32|538|桜輝219|<a href="https://search.dartslive.com/jp/shop/af9ddf458b272ca358d385ea46352d8f">自遊空間 柏崎店</a>|<a href="/darts/rank/新潟県/柏崎市">新潟県柏崎市</a>|
 |33|500|ぐろ♡|<a href="https://search.dartslive.com/jp/shop/51ebc8326155783df454cb89828a1cfe">Ageha</a>|<a href="/darts/rank/新潟県/柏崎市">新潟県柏崎市</a>|
-|34|474|こやぴー ageHa|<a href="https://search.dartslive.com/jp/shop/af9ddf458b272ca358d385ea46352d8f">自遊空間 柏崎店</a>|<a href="/darts/rank/新潟県/柏崎市">新潟県柏崎市</a>|
-|35|465|ハラキリドライブ|<a href="https://search.dartslive.com/jp/shop/51ebc8326155783df454cb89828a1cfe">Ageha</a>|<a href="/darts/rank/新潟県/柏崎市">新潟県柏崎市</a>|
-|36|459|りゅうageHa|<a href="https://search.dartslive.com/jp/shop/af9ddf458b272ca358d385ea46352d8f">自遊空間 柏崎店</a>|<a href="/darts/rank/新潟県/柏崎市">新潟県柏崎市</a>|
-|37|400|しょーと|<a href="https://search.dartslive.com/jp/shop/af9ddf458b272ca358d385ea46352d8f">自遊空間 柏崎店</a>|<a href="/darts/rank/新潟県/柏崎市">新潟県柏崎市</a>|
-|38|351|はるかさん|<a href="https://search.dartslive.com/jp/shop/af9ddf458b272ca358d385ea46352d8f">自遊空間 柏崎店</a>|<a href="/darts/rank/新潟県/柏崎市">新潟県柏崎市</a>|
+|34|465|ハラキリドライブ|<a href="https://search.dartslive.com/jp/shop/51ebc8326155783df454cb89828a1cfe">Ageha</a>|<a href="/darts/rank/新潟県/柏崎市">新潟県柏崎市</a>|
+|35|407|カフェシロコ|<a href="https://search.dartslive.com/jp/shop/af9ddf458b272ca358d385ea46352d8f">自遊空間 柏崎店</a>|<a href="/darts/rank/新潟県/柏崎市">新潟県柏崎市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:53_
+_last update : 2024/01/21 13:38:59_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

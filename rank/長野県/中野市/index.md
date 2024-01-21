@@ -43,34 +43,30 @@ ___
 |27|721|たくぼう|<a href="https://search.dartslive.com/jp/shop/2ec18ddd3a377ed225d56fb0e5c39bac">飲み喰い矢　Run</a>|<a href="/darts/rank/長野県/中野市">長野県中野市</a>|
 |28|712|booh|<a href="https://search.dartslive.com/jp/shop/b6e77280d89f45f128032249b44395af">快活CLUB 信州中野店</a>|<a href="/darts/rank/長野県/中野市">長野県中野市</a>|
 |29|687|竹内 涼|<a href="https://search.dartslive.com/jp/shop/2ec18ddd3a377ed225d56fb0e5c39bac">飲み喰い矢　Run</a>|<a href="/darts/rank/長野県/中野市">長野県中野市</a>|
-|30|666|トランジスタ|<a href="https://search.dartslive.com/jp/shop/b6e77280d89f45f128032249b44395af">快活CLUB 信州中野店</a>|<a href="/darts/rank/長野県/中野市">長野県中野市</a>|
-|31|664|まい(´Д⊂ｸRun|<a href="https://search.dartslive.com/jp/shop/2ec18ddd3a377ed225d56fb0e5c39bac">飲み喰い矢　Run</a>|<a href="/darts/rank/長野県/中野市">長野県中野市</a>|
-|32|643|saori|<a href="https://search.dartslive.com/jp/shop/2ec18ddd3a377ed225d56fb0e5c39bac">飲み喰い矢　Run</a>|<a href="/darts/rank/長野県/中野市">長野県中野市</a>|
-|33|628|かずもっこり|<a href="https://search.dartslive.com/jp/shop/b6e77280d89f45f128032249b44395af">快活CLUB 信州中野店</a>|<a href="/darts/rank/長野県/中野市">長野県中野市</a>|
-|34|621|masaT32nismo|<a href="https://search.dartslive.com/jp/shop/2ec18ddd3a377ed225d56fb0e5c39bac">飲み喰い矢　Run</a>|<a href="/darts/rank/長野県/中野市">長野県中野市</a>|
-|35|619|閻魔王|<a href="https://search.dartslive.com/jp/shop/020633f92198ac6358d385ea46352d8f">JOYJOY信州中野店</a>|<a href="/darts/rank/長野県/中野市">長野県中野市</a>|
-|36|612|はるゆき|<a href="https://search.dartslive.com/jp/shop/020633f92198ac6358d385ea46352d8f">JOYJOY信州中野店</a>|<a href="/darts/rank/長野県/中野市">長野県中野市</a>|
-|37|611|ゆーき|<a href="https://search.dartslive.com/jp/shop/b6e77280d89f45f128032249b44395af">快活CLUB 信州中野店</a>|<a href="/darts/rank/長野県/中野市">長野県中野市</a>|
-|38|594|こぺまろ|<a href="https://search.dartslive.com/jp/shop/b6e77280d89f45f128032249b44395af">快活CLUB 信州中野店</a>|<a href="/darts/rank/長野県/中野市">長野県中野市</a>|
-|39|586|Shohei@Run|<a href="https://search.dartslive.com/jp/shop/2ec18ddd3a377ed225d56fb0e5c39bac">飲み喰い矢　Run</a>|<a href="/darts/rank/長野県/中野市">長野県中野市</a>|
-|40|561|リエ♡RUN|<a href="https://search.dartslive.com/jp/shop/2ec18ddd3a377ed225d56fb0e5c39bac">飲み喰い矢　Run</a>|<a href="/darts/rank/長野県/中野市">長野県中野市</a>|
-|41|539|saori|<a href="https://search.dartslive.com/jp/shop/b6e77280d89f45f128032249b44395af">快活CLUB 信州中野店</a>|<a href="/darts/rank/長野県/中野市">長野県中野市</a>|
-|42|525|T.T.|<a href="https://search.dartslive.com/jp/shop/020633f92198ac6358d385ea46352d8f">JOYJOY信州中野店</a>|<a href="/darts/rank/長野県/中野市">長野県中野市</a>|
-|43|517|かねこす|<a href="https://search.dartslive.com/jp/shop/020633f92198ac6358d385ea46352d8f">JOYJOY信州中野店</a>|<a href="/darts/rank/長野県/中野市">長野県中野市</a>|
-|44|508|りなてぃ|<a href="https://search.dartslive.com/jp/shop/b6e77280d89f45f128032249b44395af">快活CLUB 信州中野店</a>|<a href="/darts/rank/長野県/中野市">長野県中野市</a>|
-|45|494|りなてぃ|<a href="https://search.dartslive.com/jp/shop/020633f92198ac6358d385ea46352d8f">JOYJOY信州中野店</a>|<a href="/darts/rank/長野県/中野市">長野県中野市</a>|
-|46|442|タケ|<a href="https://search.dartslive.com/jp/shop/020633f92198ac6358d385ea46352d8f">JOYJOY信州中野店</a>|<a href="/darts/rank/長野県/中野市">長野県中野市</a>|
-|47|380|キャラメル|<a href="https://search.dartslive.com/jp/shop/b6e77280d89f45f128032249b44395af">快活CLUB 信州中野店</a>|<a href="/darts/rank/長野県/中野市">長野県中野市</a>|
-|48|334|りょうか|<a href="https://search.dartslive.com/jp/shop/020633f92198ac6358d385ea46352d8f">JOYJOY信州中野店</a>|<a href="/darts/rank/長野県/中野市">長野県中野市</a>|
-|49|311|PASURAN|<a href="https://search.dartslive.com/jp/shop/020633f92198ac6358d385ea46352d8f">JOYJOY信州中野店</a>|<a href="/darts/rank/長野県/中野市">長野県中野市</a>|
-|50|298|たいよー|<a href="https://search.dartslive.com/jp/shop/020633f92198ac6358d385ea46352d8f">JOYJOY信州中野店</a>|<a href="/darts/rank/長野県/中野市">長野県中野市</a>|
-|51|230|笠原 宇宙|<a href="https://search.dartslive.com/jp/shop/020633f92198ac6358d385ea46352d8f">JOYJOY信州中野店</a>|<a href="/darts/rank/長野県/中野市">長野県中野市</a>|
+|30|664|まい(´Д⊂ｸRun|<a href="https://search.dartslive.com/jp/shop/2ec18ddd3a377ed225d56fb0e5c39bac">飲み喰い矢　Run</a>|<a href="/darts/rank/長野県/中野市">長野県中野市</a>|
+|31|643|saori|<a href="https://search.dartslive.com/jp/shop/2ec18ddd3a377ed225d56fb0e5c39bac">飲み喰い矢　Run</a>|<a href="/darts/rank/長野県/中野市">長野県中野市</a>|
+|32|621|masaT32nismo|<a href="https://search.dartslive.com/jp/shop/2ec18ddd3a377ed225d56fb0e5c39bac">飲み喰い矢　Run</a>|<a href="/darts/rank/長野県/中野市">長野県中野市</a>|
+|33|619|閻魔王|<a href="https://search.dartslive.com/jp/shop/020633f92198ac6358d385ea46352d8f">JOYJOY信州中野店</a>|<a href="/darts/rank/長野県/中野市">長野県中野市</a>|
+|34|612|はるゆき|<a href="https://search.dartslive.com/jp/shop/020633f92198ac6358d385ea46352d8f">JOYJOY信州中野店</a>|<a href="/darts/rank/長野県/中野市">長野県中野市</a>|
+|35|586|Shohei@Run|<a href="https://search.dartslive.com/jp/shop/2ec18ddd3a377ed225d56fb0e5c39bac">飲み喰い矢　Run</a>|<a href="/darts/rank/長野県/中野市">長野県中野市</a>|
+|36|561|リエ♡RUN|<a href="https://search.dartslive.com/jp/shop/2ec18ddd3a377ed225d56fb0e5c39bac">飲み喰い矢　Run</a>|<a href="/darts/rank/長野県/中野市">長野県中野市</a>|
+|37|539|saori|<a href="https://search.dartslive.com/jp/shop/b6e77280d89f45f128032249b44395af">快活CLUB 信州中野店</a>|<a href="/darts/rank/長野県/中野市">長野県中野市</a>|
+|38|525|T.T.|<a href="https://search.dartslive.com/jp/shop/020633f92198ac6358d385ea46352d8f">JOYJOY信州中野店</a>|<a href="/darts/rank/長野県/中野市">長野県中野市</a>|
+|39|517|かねこす|<a href="https://search.dartslive.com/jp/shop/020633f92198ac6358d385ea46352d8f">JOYJOY信州中野店</a>|<a href="/darts/rank/長野県/中野市">長野県中野市</a>|
+|40|508|りなてぃ|<a href="https://search.dartslive.com/jp/shop/b6e77280d89f45f128032249b44395af">快活CLUB 信州中野店</a>|<a href="/darts/rank/長野県/中野市">長野県中野市</a>|
+|41|494|りなてぃ|<a href="https://search.dartslive.com/jp/shop/020633f92198ac6358d385ea46352d8f">JOYJOY信州中野店</a>|<a href="/darts/rank/長野県/中野市">長野県中野市</a>|
+|42|442|タケ|<a href="https://search.dartslive.com/jp/shop/020633f92198ac6358d385ea46352d8f">JOYJOY信州中野店</a>|<a href="/darts/rank/長野県/中野市">長野県中野市</a>|
+|43|380|キャラメル|<a href="https://search.dartslive.com/jp/shop/b6e77280d89f45f128032249b44395af">快活CLUB 信州中野店</a>|<a href="/darts/rank/長野県/中野市">長野県中野市</a>|
+|44|334|りょうか|<a href="https://search.dartslive.com/jp/shop/020633f92198ac6358d385ea46352d8f">JOYJOY信州中野店</a>|<a href="/darts/rank/長野県/中野市">長野県中野市</a>|
+|45|311|PASURAN|<a href="https://search.dartslive.com/jp/shop/020633f92198ac6358d385ea46352d8f">JOYJOY信州中野店</a>|<a href="/darts/rank/長野県/中野市">長野県中野市</a>|
+|46|298|たいよー|<a href="https://search.dartslive.com/jp/shop/020633f92198ac6358d385ea46352d8f">JOYJOY信州中野店</a>|<a href="/darts/rank/長野県/中野市">長野県中野市</a>|
+|47|230|笠原 宇宙|<a href="https://search.dartslive.com/jp/shop/020633f92198ac6358d385ea46352d8f">JOYJOY信州中野店</a>|<a href="/darts/rank/長野県/中野市">長野県中野市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:53_
+_last update : 2024/01/21 13:39:00_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

@@ -31,13 +31,12 @@ ___
 |15|627|柴田洋行|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
 |16|620|Ｄ|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
 |17|612|yy|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|18|583|KURA|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:53_
+_last update : 2024/01/21 13:39:00_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

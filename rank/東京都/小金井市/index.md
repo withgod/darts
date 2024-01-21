@@ -52,16 +52,16 @@ ___
 |36|557|みきゃーす|<a href="https://search.dartslive.com/jp/shop/dcc63ba44f0146830d9b047a20a7ba1e">小金井ダーツ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
 |37|550|えくれあ|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
 |38|511|moca♡|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|39|507|tah-yeah!|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|40|503|守矢盛男|<a href="https://search.dartslive.com/jp/shop/dcc63ba44f0146830d9b047a20a7ba1e">小金井ダーツ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|41|501|Ai|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|42|499|chan_dai|<a href="https://search.dartslive.com/jp/shop/dcc63ba44f0146830d9b047a20a7ba1e">小金井ダーツ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|43|491|NO NAME 9119|<a href="https://search.dartslive.com/jp/shop/dcc63ba44f0146830d9b047a20a7ba1e">小金井ダーツ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|44|467|きょんた|<a href="https://search.dartslive.com/jp/shop/dcc63ba44f0146830d9b047a20a7ba1e">小金井ダーツ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|45|454|ネコ( ¨̮ )|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|46|447|やすゆき|<a href="https://search.dartslive.com/jp/shop/7c0d89ae92fbaafa0d9b047a20a7ba1e">No name 635</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|47|439|よしき|<a href="https://search.dartslive.com/jp/shop/dcc63ba44f0146830d9b047a20a7ba1e">小金井ダーツ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
-|48|438|りゅう635再開|<a href="https://search.dartslive.com/jp/shop/7c0d89ae92fbaafa0d9b047a20a7ba1e">No name 635</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|39|503|守矢盛男|<a href="https://search.dartslive.com/jp/shop/dcc63ba44f0146830d9b047a20a7ba1e">小金井ダーツ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|40|501|Ai|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|41|499|chan_dai|<a href="https://search.dartslive.com/jp/shop/dcc63ba44f0146830d9b047a20a7ba1e">小金井ダーツ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|42|491|NO NAME 9119|<a href="https://search.dartslive.com/jp/shop/dcc63ba44f0146830d9b047a20a7ba1e">小金井ダーツ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|43|467|きょんた|<a href="https://search.dartslive.com/jp/shop/dcc63ba44f0146830d9b047a20a7ba1e">小金井ダーツ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|44|454|ネコ( ¨̮ )|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|45|447|やすゆき|<a href="https://search.dartslive.com/jp/shop/7c0d89ae92fbaafa0d9b047a20a7ba1e">No name 635</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|46|439|よしき|<a href="https://search.dartslive.com/jp/shop/dcc63ba44f0146830d9b047a20a7ba1e">小金井ダーツ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|47|438|りゅう635再開|<a href="https://search.dartslive.com/jp/shop/7c0d89ae92fbaafa0d9b047a20a7ba1e">No name 635</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
+|48|413|NO NAME 2722|<a href="https://search.dartslive.com/jp/shop/dcc63ba44f0146830d9b047a20a7ba1e">小金井ダーツ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
 |49|384|しゃもじ|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
 |50|367|miho|<a href="https://search.dartslive.com/jp/shop/52dc2334fd4e6afd0d9b047a20a7ba1e">カラオケ　うたたネ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
 |51|330|あヤ|<a href="https://search.dartslive.com/jp/shop/dcc63ba44f0146830d9b047a20a7ba1e">小金井ダーツ</a>|<a href="/darts/rank/東京都/小金井市">東京都小金井市</a>|
@@ -71,7 +71,7 @@ ___
 
 ___
 
-_last update : 2024/01/21 03:05:52_
+_last update : 2024/01/21 13:38:58_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

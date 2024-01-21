@@ -14,12 +14,29 @@ ___
 {:.table-ranking}
 |ランク|スコア|名前|店名|所在地|
 |---|---|---|---|---|
+|1|1053|げんき|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|2|998|鷹山 遼大|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|3|989|北島　三郎|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|4|974|田坂　嘉浩|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|5|907|りょ～|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|6|897|高山 和也|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|7|886|NO NAME 3622|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|8|881|ペンペン|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|9|879|茶々丸|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|10|868|NO NAME|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|11|867|TKW ｰ大遊会ｰ|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|12|818|下町のナポレオン|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|13|794|リマ推し　With U|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|14|778|zoo|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|15|751|優梨|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|16|603|CHI-CO|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|17|456|海月|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:57_
+_last update : 2024/01/21 13:39:08_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

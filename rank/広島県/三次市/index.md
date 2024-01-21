@@ -14,12 +14,25 @@ ___
 {:.table-ranking}
 |ランク|スコア|名前|店名|所在地|
 |---|---|---|---|---|
+|1|977|なかのさん|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
+|2|906|のまお|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
+|2|906|よっしぃー|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
+|4|881|KEN(TД)|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
+|5|874|マチャ|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
+|6|841|ＷâＲà|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
+|7|814|龍也|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
+|8|804|★(ギ∀ワ) 3NX★|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
+|9|717|みやもん|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
+|10|697|ひーちゃん|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
+|11|503|くま|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
+|12|473|北山美装(妊婦)|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
+|13|469|むろちゃん|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:56_
+_last update : 2024/01/21 13:39:07_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

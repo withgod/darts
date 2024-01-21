@@ -36,38 +36,29 @@ ___
 |20|705|真心みっちー|<a href="https://search.dartslive.com/jp/shop/b86566f03e295c91fec1ae84bb28bd87">B-GARAGE 甲府春日モール店(旧岡島百貨店前)</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
 |21|703|Kyohei|<a href="https://search.dartslive.com/jp/shop/4c620f5a4126efe8774c926eb736cb5a">快活CLUB 甲府上阿原店</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
 |22|700|ぬー@たまにやる|<a href="https://search.dartslive.com/jp/shop/b86566f03e295c91fec1ae84bb28bd87">B-GARAGE 甲府春日モール店(旧岡島百貨店前)</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
-|23|636|ヒデ|<a href="https://search.dartslive.com/jp/shop/4c620f5a4126efe8774c926eb736cb5a">快活CLUB 甲府上阿原店</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
-|24|599|サボ山|<a href="https://search.dartslive.com/jp/shop/b86566f03e295c91fec1ae84bb28bd87">B-GARAGE 甲府春日モール店(旧岡島百貨店前)</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
-|25|591|MinMin|<a href="https://search.dartslive.com/jp/shop/4c620f5a4126efe8774c926eb736cb5a">快活CLUB 甲府上阿原店</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
-|26|554|Saochi|<a href="https://search.dartslive.com/jp/shop/4c620f5a4126efe8774c926eb736cb5a">快活CLUB 甲府上阿原店</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
-|27|552|☆ ゆずあき ☆|<a href="https://search.dartslive.com/jp/shop/4c620f5a4126efe8774c926eb736cb5a">快活CLUB 甲府上阿原店</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
-|28|550|佐々木|<a href="https://search.dartslive.com/jp/shop/4c620f5a4126efe8774c926eb736cb5a">快活CLUB 甲府上阿原店</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
-|29|538|(-･)|<a href="https://search.dartslive.com/jp/shop/4c620f5a4126efe8774c926eb736cb5a">快活CLUB 甲府上阿原店</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
-|30|531|ぬー@山梨に軟禁|<a href="https://search.dartslive.com/jp/shop/b86566f03e295c91fec1ae84bb28bd87">B-GARAGE 甲府春日モール店(旧岡島百貨店前)</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
-|31|524|NO NAME 3297|<a href="https://search.dartslive.com/jp/shop/b86566f03e295c91fec1ae84bb28bd87">B-GARAGE 甲府春日モール店(旧岡島百貨店前)</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
-|32|519|Ogi|<a href="https://search.dartslive.com/jp/shop/b86566f03e295c91fec1ae84bb28bd87">B-GARAGE 甲府春日モール店(旧岡島百貨店前)</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
-|33|517|リョウ|<a href="https://search.dartslive.com/jp/shop/b86566f03e295c91fec1ae84bb28bd87">B-GARAGE 甲府春日モール店(旧岡島百貨店前)</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
-|34|506|まいちゃん|<a href="https://search.dartslive.com/jp/shop/4c620f5a4126efe8774c926eb736cb5a">快活CLUB 甲府上阿原店</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
-|35|496|R I P|<a href="https://search.dartslive.com/jp/shop/4c620f5a4126efe8774c926eb736cb5a">快活CLUB 甲府上阿原店</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
-|35|496|じゅんぺー|<a href="https://search.dartslive.com/jp/shop/b86566f03e295c91fec1ae84bb28bd87">B-GARAGE 甲府春日モール店(旧岡島百貨店前)</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
-|37|494|噛み様|<a href="https://search.dartslive.com/jp/shop/b86566f03e295c91fec1ae84bb28bd87">B-GARAGE 甲府春日モール店(旧岡島百貨店前)</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
-|38|469|もちおMk2@練習中|<a href="https://search.dartslive.com/jp/shop/b86566f03e295c91fec1ae84bb28bd87">B-GARAGE 甲府春日モール店(旧岡島百貨店前)</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
-|39|463|yasuko|<a href="https://search.dartslive.com/jp/shop/4c620f5a4126efe8774c926eb736cb5a">快活CLUB 甲府上阿原店</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
-|40|455|ベークロ|<a href="https://search.dartslive.com/jp/shop/4c620f5a4126efe8774c926eb736cb5a">快活CLUB 甲府上阿原店</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
-|41|442|Yukiα|<a href="https://search.dartslive.com/jp/shop/b86566f03e295c91fec1ae84bb28bd87">B-GARAGE 甲府春日モール店(旧岡島百貨店前)</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
-|42|438|貝〜kai〜|<a href="https://search.dartslive.com/jp/shop/b86566f03e295c91fec1ae84bb28bd87">B-GARAGE 甲府春日モール店(旧岡島百貨店前)</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
-|43|411|ほーりー|<a href="https://search.dartslive.com/jp/shop/b86566f03e295c91fec1ae84bb28bd87">B-GARAGE 甲府春日モール店(旧岡島百貨店前)</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
-|44|400|◇まぁぽん◇|<a href="https://search.dartslive.com/jp/shop/4c620f5a4126efe8774c926eb736cb5a">快活CLUB 甲府上阿原店</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
-|45|391|LOBA|<a href="https://search.dartslive.com/jp/shop/b86566f03e295c91fec1ae84bb28bd87">B-GARAGE 甲府春日モール店(旧岡島百貨店前)</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
-|46|386|NO NAME 0678|<a href="https://search.dartslive.com/jp/shop/b86566f03e295c91fec1ae84bb28bd87">B-GARAGE 甲府春日モール店(旧岡島百貨店前)</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
-|47|366|よだせまる|<a href="https://search.dartslive.com/jp/shop/4c620f5a4126efe8774c926eb736cb5a">快活CLUB 甲府上阿原店</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
-|48|319|NO NAME 4886|<a href="https://search.dartslive.com/jp/shop/b86566f03e295c91fec1ae84bb28bd87">B-GARAGE 甲府春日モール店(旧岡島百貨店前)</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
+|23|599|サボ山|<a href="https://search.dartslive.com/jp/shop/b86566f03e295c91fec1ae84bb28bd87">B-GARAGE 甲府春日モール店(旧岡島百貨店前)</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
+|24|554|Saochi|<a href="https://search.dartslive.com/jp/shop/4c620f5a4126efe8774c926eb736cb5a">快活CLUB 甲府上阿原店</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
+|25|538|(-･)|<a href="https://search.dartslive.com/jp/shop/4c620f5a4126efe8774c926eb736cb5a">快活CLUB 甲府上阿原店</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
+|26|531|ぬー@山梨に軟禁|<a href="https://search.dartslive.com/jp/shop/b86566f03e295c91fec1ae84bb28bd87">B-GARAGE 甲府春日モール店(旧岡島百貨店前)</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
+|27|524|NO NAME 3297|<a href="https://search.dartslive.com/jp/shop/b86566f03e295c91fec1ae84bb28bd87">B-GARAGE 甲府春日モール店(旧岡島百貨店前)</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
+|28|519|Ogi|<a href="https://search.dartslive.com/jp/shop/b86566f03e295c91fec1ae84bb28bd87">B-GARAGE 甲府春日モール店(旧岡島百貨店前)</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
+|29|517|リョウ|<a href="https://search.dartslive.com/jp/shop/b86566f03e295c91fec1ae84bb28bd87">B-GARAGE 甲府春日モール店(旧岡島百貨店前)</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
+|30|496|じゅんぺー|<a href="https://search.dartslive.com/jp/shop/b86566f03e295c91fec1ae84bb28bd87">B-GARAGE 甲府春日モール店(旧岡島百貨店前)</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
+|31|494|噛み様|<a href="https://search.dartslive.com/jp/shop/b86566f03e295c91fec1ae84bb28bd87">B-GARAGE 甲府春日モール店(旧岡島百貨店前)</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
+|32|469|もちおMk2@練習中|<a href="https://search.dartslive.com/jp/shop/b86566f03e295c91fec1ae84bb28bd87">B-GARAGE 甲府春日モール店(旧岡島百貨店前)</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
+|33|442|Yukiα|<a href="https://search.dartslive.com/jp/shop/b86566f03e295c91fec1ae84bb28bd87">B-GARAGE 甲府春日モール店(旧岡島百貨店前)</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
+|34|438|貝〜kai〜|<a href="https://search.dartslive.com/jp/shop/b86566f03e295c91fec1ae84bb28bd87">B-GARAGE 甲府春日モール店(旧岡島百貨店前)</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
+|35|411|ほーりー|<a href="https://search.dartslive.com/jp/shop/b86566f03e295c91fec1ae84bb28bd87">B-GARAGE 甲府春日モール店(旧岡島百貨店前)</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
+|36|391|LOBA|<a href="https://search.dartslive.com/jp/shop/b86566f03e295c91fec1ae84bb28bd87">B-GARAGE 甲府春日モール店(旧岡島百貨店前)</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
+|37|386|NO NAME 0678|<a href="https://search.dartslive.com/jp/shop/b86566f03e295c91fec1ae84bb28bd87">B-GARAGE 甲府春日モール店(旧岡島百貨店前)</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
+|38|366|よだせまる|<a href="https://search.dartslive.com/jp/shop/4c620f5a4126efe8774c926eb736cb5a">快活CLUB 甲府上阿原店</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
+|39|319|NO NAME 4886|<a href="https://search.dartslive.com/jp/shop/b86566f03e295c91fec1ae84bb28bd87">B-GARAGE 甲府春日モール店(旧岡島百貨店前)</a>|<a href="/darts/rank/山梨県/甲府市">山梨県甲府市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:53_
+_last update : 2024/01/21 13:39:00_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

@@ -29,20 +29,17 @@ ___
 |13|707|けい⭐︎⭐︎|<a href="https://search.dartslive.com/jp/shop/93ea87981b724f9c0d9b047a20a7ba1e">Oneday</a>|<a href="/darts/rank/新潟県/十日町市">新潟県十日町市</a>|
 |14|699|おが|<a href="https://search.dartslive.com/jp/shop/93ea87981b724f9c0d9b047a20a7ba1e">Oneday</a>|<a href="/darts/rank/新潟県/十日町市">新潟県十日町市</a>|
 |15|655|※SNOW※|<a href="https://search.dartslive.com/jp/shop/cade263cebfc44ab0d9b047a20a7ba1e">アミューズメントバー FreeStyle</a>|<a href="/darts/rank/新潟県/十日町市">新潟県十日町市</a>|
-|16|643|こんちゃす|<a href="https://search.dartslive.com/jp/shop/93ea87981b724f9c0d9b047a20a7ba1e">Oneday</a>|<a href="/darts/rank/新潟県/十日町市">新潟県十日町市</a>|
-|17|628|YARIME|<a href="https://search.dartslive.com/jp/shop/93ea87981b724f9c0d9b047a20a7ba1e">Oneday</a>|<a href="/darts/rank/新潟県/十日町市">新潟県十日町市</a>|
-|18|602|おが|<a href="https://search.dartslive.com/jp/shop/cade263cebfc44ab0d9b047a20a7ba1e">アミューズメントバー FreeStyle</a>|<a href="/darts/rank/新潟県/十日町市">新潟県十日町市</a>|
-|19|576|AIM_f|<a href="https://search.dartslive.com/jp/shop/cade263cebfc44ab0d9b047a20a7ba1e">アミューズメントバー FreeStyle</a>|<a href="/darts/rank/新潟県/十日町市">新潟県十日町市</a>|
-|20|512|セキタク|<a href="https://search.dartslive.com/jp/shop/93ea87981b724f9c0d9b047a20a7ba1e">Oneday</a>|<a href="/darts/rank/新潟県/十日町市">新潟県十日町市</a>|
-|21|509|ゆりねー|<a href="https://search.dartslive.com/jp/shop/93ea87981b724f9c0d9b047a20a7ba1e">Oneday</a>|<a href="/darts/rank/新潟県/十日町市">新潟県十日町市</a>|
-|22|457|Akarichin|<a href="https://search.dartslive.com/jp/shop/93ea87981b724f9c0d9b047a20a7ba1e">Oneday</a>|<a href="/darts/rank/新潟県/十日町市">新潟県十日町市</a>|
-|23|443|きょんきょん|<a href="https://search.dartslive.com/jp/shop/cade263cebfc44ab0d9b047a20a7ba1e">アミューズメントバー FreeStyle</a>|<a href="/darts/rank/新潟県/十日町市">新潟県十日町市</a>|
+|16|628|YARIME|<a href="https://search.dartslive.com/jp/shop/93ea87981b724f9c0d9b047a20a7ba1e">Oneday</a>|<a href="/darts/rank/新潟県/十日町市">新潟県十日町市</a>|
+|17|602|おが|<a href="https://search.dartslive.com/jp/shop/cade263cebfc44ab0d9b047a20a7ba1e">アミューズメントバー FreeStyle</a>|<a href="/darts/rank/新潟県/十日町市">新潟県十日町市</a>|
+|18|576|AIM_f|<a href="https://search.dartslive.com/jp/shop/cade263cebfc44ab0d9b047a20a7ba1e">アミューズメントバー FreeStyle</a>|<a href="/darts/rank/新潟県/十日町市">新潟県十日町市</a>|
+|19|509|ゆりねー|<a href="https://search.dartslive.com/jp/shop/93ea87981b724f9c0d9b047a20a7ba1e">Oneday</a>|<a href="/darts/rank/新潟県/十日町市">新潟県十日町市</a>|
+|20|443|きょんきょん|<a href="https://search.dartslive.com/jp/shop/cade263cebfc44ab0d9b047a20a7ba1e">アミューズメントバー FreeStyle</a>|<a href="/darts/rank/新潟県/十日町市">新潟県十日町市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:52_
+_last update : 2024/01/21 13:38:59_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

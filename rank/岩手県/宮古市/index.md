@@ -26,13 +26,13 @@ ___
 |10|836|オ匕舎官譽|<a href="https://search.dartslive.com/jp/shop/819f59e63a570c9b28032249b44395af">SHARAKU</a>|<a href="/darts/rank/岩手県/宮古市">岩手県宮古市</a>|
 |11|817|星☆組 ぎん|<a href="https://search.dartslive.com/jp/shop/819f59e63a570c9b28032249b44395af">SHARAKU</a>|<a href="/darts/rank/岩手県/宮古市">岩手県宮古市</a>|
 |12|761|蕎麦和笑|<a href="https://search.dartslive.com/jp/shop/819f59e63a570c9b28032249b44395af">SHARAKU</a>|<a href="/darts/rank/岩手県/宮古市">岩手県宮古市</a>|
-|13|742|小國組★ユウ|<a href="https://search.dartslive.com/jp/shop/8aa74452f7ac4fa60d9b047a20a7ba1e">TAOKA CLUB</a>|<a href="/darts/rank/岩手県/宮古市">岩手県宮古市</a>|
-|14|724|小國組☆親方|<a href="https://search.dartslive.com/jp/shop/819f59e63a570c9b28032249b44395af">SHARAKU</a>|<a href="/darts/rank/岩手県/宮古市">岩手県宮古市</a>|
-|15|720|高平　廉|<a href="https://search.dartslive.com/jp/shop/8aa74452f7ac4fa60d9b047a20a7ba1e">TAOKA CLUB</a>|<a href="/darts/rank/岩手県/宮古市">岩手県宮古市</a>|
-|16|703|sai|<a href="https://search.dartslive.com/jp/shop/8aa74452f7ac4fa60d9b047a20a7ba1e">TAOKA CLUB</a>|<a href="/darts/rank/岩手県/宮古市">岩手県宮古市</a>|
-|17|699|♪覇武組♪曉|<a href="https://search.dartslive.com/jp/shop/819f59e63a570c9b28032249b44395af">SHARAKU</a>|<a href="/darts/rank/岩手県/宮古市">岩手県宮古市</a>|
-|18|696|おもみじ|<a href="https://search.dartslive.com/jp/shop/819f59e63a570c9b28032249b44395af">SHARAKU</a>|<a href="/darts/rank/岩手県/宮古市">岩手県宮古市</a>|
-|19|673|中村　涼太|<a href="https://search.dartslive.com/jp/shop/819f59e63a570c9b28032249b44395af">SHARAKU</a>|<a href="/darts/rank/岩手県/宮古市">岩手県宮古市</a>|
+|13|757|中村　涼太|<a href="https://search.dartslive.com/jp/shop/819f59e63a570c9b28032249b44395af">SHARAKU</a>|<a href="/darts/rank/岩手県/宮古市">岩手県宮古市</a>|
+|14|742|小國組★ユウ|<a href="https://search.dartslive.com/jp/shop/8aa74452f7ac4fa60d9b047a20a7ba1e">TAOKA CLUB</a>|<a href="/darts/rank/岩手県/宮古市">岩手県宮古市</a>|
+|15|724|小國組☆親方|<a href="https://search.dartslive.com/jp/shop/819f59e63a570c9b28032249b44395af">SHARAKU</a>|<a href="/darts/rank/岩手県/宮古市">岩手県宮古市</a>|
+|16|720|高平　廉|<a href="https://search.dartslive.com/jp/shop/8aa74452f7ac4fa60d9b047a20a7ba1e">TAOKA CLUB</a>|<a href="/darts/rank/岩手県/宮古市">岩手県宮古市</a>|
+|17|703|sai|<a href="https://search.dartslive.com/jp/shop/8aa74452f7ac4fa60d9b047a20a7ba1e">TAOKA CLUB</a>|<a href="/darts/rank/岩手県/宮古市">岩手県宮古市</a>|
+|18|699|♪覇武組♪曉|<a href="https://search.dartslive.com/jp/shop/819f59e63a570c9b28032249b44395af">SHARAKU</a>|<a href="/darts/rank/岩手県/宮古市">岩手県宮古市</a>|
+|19|696|おもみじ|<a href="https://search.dartslive.com/jp/shop/819f59e63a570c9b28032249b44395af">SHARAKU</a>|<a href="/darts/rank/岩手県/宮古市">岩手県宮古市</a>|
 |20|669|ハルコム|<a href="https://search.dartslive.com/jp/shop/8aa74452f7ac4fa60d9b047a20a7ba1e">TAOKA CLUB</a>|<a href="/darts/rank/岩手県/宮古市">岩手県宮古市</a>|
 |21|653|きのこのき|<a href="https://search.dartslive.com/jp/shop/8aa74452f7ac4fa60d9b047a20a7ba1e">TAOKA CLUB</a>|<a href="/darts/rank/岩手県/宮古市">岩手県宮古市</a>|
 |22|652|メガTOSSY[HDC]|<a href="https://search.dartslive.com/jp/shop/8aa74452f7ac4fa60d9b047a20a7ba1e">TAOKA CLUB</a>|<a href="/darts/rank/岩手県/宮古市">岩手県宮古市</a>|
@@ -41,14 +41,16 @@ ___
 |25|609|春風亭おーたけ|<a href="https://search.dartslive.com/jp/shop/819f59e63a570c9b28032249b44395af">SHARAKU</a>|<a href="/darts/rank/岩手県/宮古市">岩手県宮古市</a>|
 |26|600|小國組★ユウ|<a href="https://search.dartslive.com/jp/shop/819f59e63a570c9b28032249b44395af">SHARAKU</a>|<a href="/darts/rank/岩手県/宮古市">岩手県宮古市</a>|
 |27|514|today|<a href="https://search.dartslive.com/jp/shop/8aa74452f7ac4fa60d9b047a20a7ba1e">TAOKA CLUB</a>|<a href="/darts/rank/岩手県/宮古市">岩手県宮古市</a>|
-|28|469|みきてぃー|<a href="https://search.dartslive.com/jp/shop/8aa74452f7ac4fa60d9b047a20a7ba1e">TAOKA CLUB</a>|<a href="/darts/rank/岩手県/宮古市">岩手県宮古市</a>|
-|29|429|中村　涼太|<a href="https://search.dartslive.com/jp/shop/8aa74452f7ac4fa60d9b047a20a7ba1e">TAOKA CLUB</a>|<a href="/darts/rank/岩手県/宮古市">岩手県宮古市</a>|
+|28|507|ハルコム|<a href="https://search.dartslive.com/jp/shop/819f59e63a570c9b28032249b44395af">SHARAKU</a>|<a href="/darts/rank/岩手県/宮古市">岩手県宮古市</a>|
+|29|469|みきてぃー|<a href="https://search.dartslive.com/jp/shop/8aa74452f7ac4fa60d9b047a20a7ba1e">TAOKA CLUB</a>|<a href="/darts/rank/岩手県/宮古市">岩手県宮古市</a>|
+|30|429|中村　涼太|<a href="https://search.dartslive.com/jp/shop/8aa74452f7ac4fa60d9b047a20a7ba1e">TAOKA CLUB</a>|<a href="/darts/rank/岩手県/宮古市">岩手県宮古市</a>|
+|31|416|みきてぃー|<a href="https://search.dartslive.com/jp/shop/819f59e63a570c9b28032249b44395af">SHARAKU</a>|<a href="/darts/rank/岩手県/宮古市">岩手県宮古市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:49_
+_last update : 2024/01/21 13:38:53_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

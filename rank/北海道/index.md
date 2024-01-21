@@ -80,36 +80,36 @@ ___
 |31|1074|TR-panda|<a href="https://search.dartslive.com/jp/shop/5d2a729e026c8fc4f454cb89828a1cfe">自遊空間 NEXT札幌駅前南口店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
 |31|1074|晃基|<a href="https://search.dartslive.com/jp/shop/0bae18c3f5f882ada3f63593b5358cc4">快活CLUB 厚別東店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
 |33|1072|北村日出人|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|33|1072|鶩七番隊/RYO|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|35|1071|上ヶ島　承|<a href="https://search.dartslive.com/jp/shop/45b4d62dc02109865f9f3321c1147265">BAR AQUAVITE</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|36|1070|Duck Raiki|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|36|1070|鈴木 勇斗|<a href="https://search.dartslive.com/jp/shop/b1e4f01fb1d65125774c926eb736cb5a">自遊空間 手稲前田店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|38|1069|SSB|<a href="https://search.dartslive.com/jp/shop/0bae18c3f5f882ada3f63593b5358cc4">快活CLUB 厚別東店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|39|1067|ツルガユウタ|<a href="https://search.dartslive.com/jp/shop/74fc2381c6ea4a680d9b047a20a7ba1e">Y's Bar ID</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|40|1065|NAKAJI|<a href="https://search.dartslive.com/jp/shop/f7663a37acb549d50d9b047a20a7ba1e">インターネットカフェ　ファンタイム旭川豊岡店</a>|<a href="/darts/rank/北海道/旭川市">北海道旭川市</a>|
-|41|1063|キエるﾏｷｭｳ.HiVe|<a href="https://search.dartslive.com/jp/shop/74fc2381c6ea4a680d9b047a20a7ba1e">Y's Bar ID</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|42|1062|マスカワガイ|<a href="https://search.dartslive.com/jp/shop/1ee2e5140966d70da3f63593b5358cc4">ネットカフェ&カラオケ DiCE 札幌狸小路本店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|43|1061|Duck Raiki|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|43|1061|NAKAJI|<a href="https://search.dartslive.com/jp/shop/e15a6b9e3dd793fc28032249b44395af">快活CLUB 旭川永山店</a>|<a href="/darts/rank/北海道/旭川市">北海道旭川市</a>|
-|45|1058|mosokuri|<a href="https://search.dartslive.com/jp/shop/0bae18c3f5f882ada3f63593b5358cc4">快活CLUB 厚別東店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|46|1057|2ストローク魂|<a href="https://search.dartslive.com/jp/shop/4635f9e35f90bbc60d9b047a20a7ba1e">bar alegria</a>|<a href="/darts/rank/北海道/枝幸郡">北海道枝幸郡</a>|
-|47|1055|ガチャさん|<a href="https://search.dartslive.com/jp/shop/fc3948c10dd302f60d9b047a20a7ba1e">LAT.43°N</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|47|1055|大嶋 陽飛|<a href="https://search.dartslive.com/jp/shop/4645a1bbf11dc68a0d9b047a20a7ba1e">ラウンドワン札幌北21条店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|49|1054|鈴木 勇斗|<a href="https://search.dartslive.com/jp/shop/50c8dfc679066340790ab824ce8730e5">カラオケ館 すすきの本店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|50|1053|まぁ〜ちゃん|<a href="https://search.dartslive.com/jp/shop/94e6f4247653b97e0d9b047a20a7ba1e">ラウンドワン札幌すすきの店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|51|1052|ﾀﾝﾝﾊﾟﾝﾝｺﾝﾝｿﾞﾝﾝ|<a href="https://search.dartslive.com/jp/shop/50c8dfc679066340790ab824ce8730e5">カラオケ館 すすきの本店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|52|1049|zio nine|<a href="https://search.dartslive.com/jp/shop/8cd88a64fc679ad9b21333aee1bd51e4">ナイン</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|53|1047|GARAM|<a href="https://search.dartslive.com/jp/shop/0decf3cf7ef13665b21333aee1bd51e4">快活CLUB 北42条店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|53|1047|がんばるぞ！|<a href="https://search.dartslive.com/jp/shop/a14157150079cc52fec1ae84bb28bd87">自遊空間 恵庭住吉店</a>|<a href="/darts/rank/北海道/恵庭市">北海道恵庭市</a>|
-|53|1047|鶩七番隊/BABA|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|56|1046|KENA.|<a href="https://search.dartslive.com/jp/shop/1ee2e5140966d70da3f63593b5358cc4">ネットカフェ&カラオケ DiCE 札幌狸小路本店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|56|1046|マスカワガイ|<a href="https://search.dartslive.com/jp/shop/50c8dfc679066340790ab824ce8730e5">カラオケ館 すすきの本店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|58|1045|シモンヌ|<a href="https://search.dartslive.com/jp/shop/50c8dfc679066340790ab824ce8730e5">カラオケ館 すすきの本店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|58|1045|ダーツを楽しむ者|<a href="https://search.dartslive.com/jp/shop/5d2a729e026c8fc4f454cb89828a1cfe">自遊空間 NEXT札幌駅前南口店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|60|1044|BUN|<a href="https://search.dartslive.com/jp/shop/b1e4f01fb1d65125774c926eb736cb5a">自遊空間 手稲前田店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|60|1044|岩渕圭悟|<a href="https://search.dartslive.com/jp/shop/3f8f3acd612b786728032249b44395af">自遊空間 札幌西町店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|62|1043|HY|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|62|1043|MASAです。|<a href="https://search.dartslive.com/jp/shop/a14157150079cc52fec1ae84bb28bd87">自遊空間 恵庭住吉店</a>|<a href="/darts/rank/北海道/恵庭市">北海道恵庭市</a>|
+|34|1071|上ヶ島　承|<a href="https://search.dartslive.com/jp/shop/45b4d62dc02109865f9f3321c1147265">BAR AQUAVITE</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|35|1070|Duck Raiki|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|35|1070|鈴木 勇斗|<a href="https://search.dartslive.com/jp/shop/b1e4f01fb1d65125774c926eb736cb5a">自遊空間 手稲前田店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|37|1069|SSB|<a href="https://search.dartslive.com/jp/shop/0bae18c3f5f882ada3f63593b5358cc4">快活CLUB 厚別東店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|38|1065|NAKAJI|<a href="https://search.dartslive.com/jp/shop/f7663a37acb549d50d9b047a20a7ba1e">インターネットカフェ　ファンタイム旭川豊岡店</a>|<a href="/darts/rank/北海道/旭川市">北海道旭川市</a>|
+|39|1063|キエるﾏｷｭｳ.HiVe|<a href="https://search.dartslive.com/jp/shop/74fc2381c6ea4a680d9b047a20a7ba1e">Y's Bar ID</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|40|1062|マスカワガイ|<a href="https://search.dartslive.com/jp/shop/1ee2e5140966d70da3f63593b5358cc4">ネットカフェ&カラオケ DiCE 札幌狸小路本店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|41|1061|Duck Raiki|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|41|1061|NAKAJI|<a href="https://search.dartslive.com/jp/shop/e15a6b9e3dd793fc28032249b44395af">快活CLUB 旭川永山店</a>|<a href="/darts/rank/北海道/旭川市">北海道旭川市</a>|
+|43|1058|mosokuri|<a href="https://search.dartslive.com/jp/shop/0bae18c3f5f882ada3f63593b5358cc4">快活CLUB 厚別東店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|44|1057|2ストローク魂|<a href="https://search.dartslive.com/jp/shop/4635f9e35f90bbc60d9b047a20a7ba1e">bar alegria</a>|<a href="/darts/rank/北海道/枝幸郡">北海道枝幸郡</a>|
+|45|1055|ガチャさん|<a href="https://search.dartslive.com/jp/shop/fc3948c10dd302f60d9b047a20a7ba1e">LAT.43°N</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|45|1055|大嶋 陽飛|<a href="https://search.dartslive.com/jp/shop/4645a1bbf11dc68a0d9b047a20a7ba1e">ラウンドワン札幌北21条店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|47|1054|鈴木 勇斗|<a href="https://search.dartslive.com/jp/shop/50c8dfc679066340790ab824ce8730e5">カラオケ館 すすきの本店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|48|1053|まぁ〜ちゃん|<a href="https://search.dartslive.com/jp/shop/94e6f4247653b97e0d9b047a20a7ba1e">ラウンドワン札幌すすきの店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|49|1052|ﾀﾝﾝﾊﾟﾝﾝｺﾝﾝｿﾞﾝﾝ|<a href="https://search.dartslive.com/jp/shop/50c8dfc679066340790ab824ce8730e5">カラオケ館 すすきの本店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|50|1049|zio nine|<a href="https://search.dartslive.com/jp/shop/8cd88a64fc679ad9b21333aee1bd51e4">ナイン</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|50|1049|川村 正和|<a href="https://search.dartslive.com/jp/shop/63d319dc2404821c58d385ea46352d8f">自遊空間 苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
+|52|1047|GARAM|<a href="https://search.dartslive.com/jp/shop/0decf3cf7ef13665b21333aee1bd51e4">快活CLUB 北42条店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|52|1047|がんばるぞ！|<a href="https://search.dartslive.com/jp/shop/a14157150079cc52fec1ae84bb28bd87">自遊空間 恵庭住吉店</a>|<a href="/darts/rank/北海道/恵庭市">北海道恵庭市</a>|
+|52|1047|鶩七番隊/BABA|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|55|1046|KENA.|<a href="https://search.dartslive.com/jp/shop/1ee2e5140966d70da3f63593b5358cc4">ネットカフェ&カラオケ DiCE 札幌狸小路本店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|55|1046|マスカワガイ|<a href="https://search.dartslive.com/jp/shop/50c8dfc679066340790ab824ce8730e5">カラオケ館 すすきの本店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|57|1045|シモンヌ|<a href="https://search.dartslive.com/jp/shop/50c8dfc679066340790ab824ce8730e5">カラオケ館 すすきの本店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|57|1045|ダーツを楽しむ者|<a href="https://search.dartslive.com/jp/shop/5d2a729e026c8fc4f454cb89828a1cfe">自遊空間 NEXT札幌駅前南口店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|59|1044|BUN|<a href="https://search.dartslive.com/jp/shop/b1e4f01fb1d65125774c926eb736cb5a">自遊空間 手稲前田店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|59|1044|岩渕圭悟|<a href="https://search.dartslive.com/jp/shop/3f8f3acd612b786728032249b44395af">自遊空間 札幌西町店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|61|1043|HY|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|61|1043|MASAです。|<a href="https://search.dartslive.com/jp/shop/a14157150079cc52fec1ae84bb28bd87">自遊空間 恵庭住吉店</a>|<a href="/darts/rank/北海道/恵庭市">北海道恵庭市</a>|
+|61|1043|ﾌﾗｯﾍﾟ|<a href="https://search.dartslive.com/jp/shop/9927cdb5e7965ece0d9b047a20a7ba1e">鉄板ダイニング zill</a>|<a href="/darts/rank/北海道/旭川市">北海道旭川市</a>|
 |64|1042|KK|<a href="https://search.dartslive.com/jp/shop/0bae18c3f5f882ada3f63593b5358cc4">快活CLUB 厚別東店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
 |65|1041|KENA..|<a href="https://search.dartslive.com/jp/shop/1ee2e5140966d70da3f63593b5358cc4">ネットカフェ&カラオケ DiCE 札幌狸小路本店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
 |66|1040|KENA.|<a href="https://search.dartslive.com/jp/shop/3f61e69c229baef50d9b047a20a7ba1e">ラウンドワン札幌白石本通店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
@@ -123,30 +123,30 @@ ___
 |72|1031|安食　賢一|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
 |75|1028|まきしむ。|<a href="https://search.dartslive.com/jp/shop/3f8f3acd612b786728032249b44395af">自遊空間 札幌西町店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
 |75|1028|ケイ☆zill|<a href="https://search.dartslive.com/jp/shop/9927cdb5e7965ece0d9b047a20a7ba1e">鉄板ダイニング zill</a>|<a href="/darts/rank/北海道/旭川市">北海道旭川市</a>|
-|77|1026|shinji|<a href="https://search.dartslive.com/jp/shop/31464ca7df3d6864b21333aee1bd51e4">Amusement Bar JET</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|77|1026|干 上 亮 太|<a href="https://search.dartslive.com/jp/shop/63d319dc2404821c58d385ea46352d8f">自遊空間 苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
-|79|1025|もろもろ|<a href="https://search.dartslive.com/jp/shop/4645a1bbf11dc68a0d9b047a20a7ba1e">ラウンドワン札幌北21条店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|80|1024|NO NAME|<a href="https://search.dartslive.com/jp/shop/0decf3cf7ef13665b21333aee1bd51e4">快活CLUB 北42条店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|80|1024|WH Leong|<a href="https://search.dartslive.com/jp/shop/1ee2e5140966d70da3f63593b5358cc4">ネットカフェ&カラオケ DiCE 札幌狸小路本店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|82|1023|かも|<a href="https://search.dartslive.com/jp/shop/b6fe9d88def422195f9f3321c1147265">casual spot JINJIN</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
-|82|1023|もろもろ|<a href="https://search.dartslive.com/jp/shop/93782600ac89fc7e5f9f3321c1147265">カラオケ館 札幌駅前店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|84|1019|mosokuri|<a href="https://search.dartslive.com/jp/shop/8f57be8081041e6cb21333aee1bd51e4">快活CLUB 旭川大町店</a>|<a href="/darts/rank/北海道/旭川市">北海道旭川市</a>|
-|84|1019|オノ コウイチ|<a href="https://search.dartslive.com/jp/shop/54f1dcf4ec7e03820d9b047a20a7ba1e">e-style 永山店</a>|<a href="/darts/rank/北海道/旭川市">北海道旭川市</a>|
-|84|1019|ＳＮＴ|<a href="https://search.dartslive.com/jp/shop/50c8dfc679066340790ab824ce8730e5">カラオケ館 すすきの本店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|87|1018|Kz|<a href="https://search.dartslive.com/jp/shop/63d319dc2404821c58d385ea46352d8f">自遊空間 苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
-|88|1016|miya|<a href="https://search.dartslive.com/jp/shop/50c8dfc679066340790ab824ce8730e5">カラオケ館 すすきの本店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|89|1015|Frederick Man|<a href="https://search.dartslive.com/jp/shop/93782600ac89fc7e5f9f3321c1147265">カラオケ館 札幌駅前店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|89|1015|トマト|<a href="https://search.dartslive.com/jp/shop/4f6c1ddf5996f5df25d56fb0e5c39bac">自遊空間 札幌清田店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|89|1015|中田まさと|<a href="https://search.dartslive.com/jp/shop/0decf3cf7ef13665b21333aee1bd51e4">快活CLUB 北42条店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|89|1015|川村 正和|<a href="https://search.dartslive.com/jp/shop/4f6c1ddf5996f5df25d56fb0e5c39bac">自遊空間 札幌清田店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|89|1015|米 @ Firefly|<a href="https://search.dartslive.com/jp/shop/a14157150079cc52fec1ae84bb28bd87">自遊空間 恵庭住吉店</a>|<a href="/darts/rank/北海道/恵庭市">北海道恵庭市</a>|
-|94|1014|mosokuri|<a href="https://search.dartslive.com/jp/shop/4f6c1ddf5996f5df25d56fb0e5c39bac">自遊空間 札幌清田店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|95|1013|まきしむ。|<a href="https://search.dartslive.com/jp/shop/50c8dfc679066340790ab824ce8730e5">カラオケ館 すすきの本店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|96|1012|k2o|<a href="https://search.dartslive.com/jp/shop/a4a5c55c01d793a428032249b44395af">Fantasista Teine</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|96|1012|がんばるぞ！|<a href="https://search.dartslive.com/jp/shop/63d319dc2404821c58d385ea46352d8f">自遊空間 苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
-|96|1012|もろもろ|<a href="https://search.dartslive.com/jp/shop/1ee2e5140966d70da3f63593b5358cc4">ネットカフェ&カラオケ DiCE 札幌狸小路本店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|99|1011|Nick|<a href="https://search.dartslive.com/jp/shop/f7663a37acb549d50d9b047a20a7ba1e">インターネットカフェ　ファンタイム旭川豊岡店</a>|<a href="/darts/rank/北海道/旭川市">北海道旭川市</a>|
-|99|1011|mosokuri|<a href="https://search.dartslive.com/jp/shop/97eb3cacd33949b70d9b047a20a7ba1e">ラウンドワン旭川店</a>|<a href="/darts/rank/北海道/旭川市">北海道旭川市</a>|
+|77|1027|あゆぼー|<a href="https://search.dartslive.com/jp/shop/b1e4f01fb1d65125774c926eb736cb5a">自遊空間 手稲前田店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|78|1026|shinji|<a href="https://search.dartslive.com/jp/shop/31464ca7df3d6864b21333aee1bd51e4">Amusement Bar JET</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|78|1026|干 上 亮 太|<a href="https://search.dartslive.com/jp/shop/63d319dc2404821c58d385ea46352d8f">自遊空間 苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
+|80|1025|もろもろ|<a href="https://search.dartslive.com/jp/shop/4645a1bbf11dc68a0d9b047a20a7ba1e">ラウンドワン札幌北21条店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|81|1024|NO NAME|<a href="https://search.dartslive.com/jp/shop/0decf3cf7ef13665b21333aee1bd51e4">快活CLUB 北42条店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|81|1024|WH Leong|<a href="https://search.dartslive.com/jp/shop/1ee2e5140966d70da3f63593b5358cc4">ネットカフェ&カラオケ DiCE 札幌狸小路本店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|83|1023|かも|<a href="https://search.dartslive.com/jp/shop/b6fe9d88def422195f9f3321c1147265">casual spot JINJIN</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
+|83|1023|もろもろ|<a href="https://search.dartslive.com/jp/shop/93782600ac89fc7e5f9f3321c1147265">カラオケ館 札幌駅前店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|85|1019|mosokuri|<a href="https://search.dartslive.com/jp/shop/8f57be8081041e6cb21333aee1bd51e4">快活CLUB 旭川大町店</a>|<a href="/darts/rank/北海道/旭川市">北海道旭川市</a>|
+|85|1019|オノ コウイチ|<a href="https://search.dartslive.com/jp/shop/54f1dcf4ec7e03820d9b047a20a7ba1e">e-style 永山店</a>|<a href="/darts/rank/北海道/旭川市">北海道旭川市</a>|
+|85|1019|ＳＮＴ|<a href="https://search.dartslive.com/jp/shop/50c8dfc679066340790ab824ce8730e5">カラオケ館 すすきの本店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|88|1018|Kz|<a href="https://search.dartslive.com/jp/shop/63d319dc2404821c58d385ea46352d8f">自遊空間 苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
+|89|1016|miya|<a href="https://search.dartslive.com/jp/shop/50c8dfc679066340790ab824ce8730e5">カラオケ館 すすきの本店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|90|1015|Frederick Man|<a href="https://search.dartslive.com/jp/shop/93782600ac89fc7e5f9f3321c1147265">カラオケ館 札幌駅前店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|90|1015|トマト|<a href="https://search.dartslive.com/jp/shop/4f6c1ddf5996f5df25d56fb0e5c39bac">自遊空間 札幌清田店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|90|1015|中田まさと|<a href="https://search.dartslive.com/jp/shop/0decf3cf7ef13665b21333aee1bd51e4">快活CLUB 北42条店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|90|1015|川村 正和|<a href="https://search.dartslive.com/jp/shop/4f6c1ddf5996f5df25d56fb0e5c39bac">自遊空間 札幌清田店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|90|1015|米 @ Firefly|<a href="https://search.dartslive.com/jp/shop/a14157150079cc52fec1ae84bb28bd87">自遊空間 恵庭住吉店</a>|<a href="/darts/rank/北海道/恵庭市">北海道恵庭市</a>|
+|95|1014|mosokuri|<a href="https://search.dartslive.com/jp/shop/4f6c1ddf5996f5df25d56fb0e5c39bac">自遊空間 札幌清田店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|96|1013|まきしむ。|<a href="https://search.dartslive.com/jp/shop/50c8dfc679066340790ab824ce8730e5">カラオケ館 すすきの本店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|97|1012|k2o|<a href="https://search.dartslive.com/jp/shop/a4a5c55c01d793a428032249b44395af">Fantasista Teine</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|97|1012|がんばるぞ！|<a href="https://search.dartslive.com/jp/shop/63d319dc2404821c58d385ea46352d8f">自遊空間 苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
+|97|1012|もろもろ|<a href="https://search.dartslive.com/jp/shop/1ee2e5140966d70da3f63593b5358cc4">ネットカフェ&カラオケ DiCE 札幌狸小路本店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|100|1011|Nick|<a href="https://search.dartslive.com/jp/shop/f7663a37acb549d50d9b047a20a7ba1e">インターネットカフェ　ファンタイム旭川豊岡店</a>|<a href="/darts/rank/北海道/旭川市">北海道旭川市</a>|
 
 
 
@@ -154,7 +154,7 @@ ___
 
 ___
 
-_last update : 2024/01/21 03:05:48_
+_last update : 2024/01/21 13:38:52_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

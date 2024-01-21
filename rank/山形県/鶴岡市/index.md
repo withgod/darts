@@ -34,16 +34,21 @@ ___
 |18|633|パンダコパンダ|<a href="https://search.dartslive.com/jp/shop/770633a50a4a1d5fb21333aee1bd51e4">快活CLUB 鶴岡店</a>|<a href="/darts/rank/山形県/鶴岡市">山形県鶴岡市</a>|
 |19|601|めぐちょろ|<a href="https://search.dartslive.com/jp/shop/770633a50a4a1d5fb21333aee1bd51e4">快活CLUB 鶴岡店</a>|<a href="/darts/rank/山形県/鶴岡市">山形県鶴岡市</a>|
 |20|577|miyuki|<a href="https://search.dartslive.com/jp/shop/770633a50a4a1d5fb21333aee1bd51e4">快活CLUB 鶴岡店</a>|<a href="/darts/rank/山形県/鶴岡市">山形県鶴岡市</a>|
-|21|565|じぃじ|<a href="https://search.dartslive.com/jp/shop/770633a50a4a1d5fb21333aee1bd51e4">快活CLUB 鶴岡店</a>|<a href="/darts/rank/山形県/鶴岡市">山形県鶴岡市</a>|
-|22|508|▷Erida Wong.|<a href="https://search.dartslive.com/jp/shop/770633a50a4a1d5fb21333aee1bd51e4">快活CLUB 鶴岡店</a>|<a href="/darts/rank/山形県/鶴岡市">山形県鶴岡市</a>|
-|23|451|adult_baby69|<a href="https://search.dartslive.com/jp/shop/770633a50a4a1d5fb21333aee1bd51e4">快活CLUB 鶴岡店</a>|<a href="/darts/rank/山形県/鶴岡市">山形県鶴岡市</a>|
-|24|426|てっびっちっ|<a href="https://search.dartslive.com/jp/shop/770633a50a4a1d5fb21333aee1bd51e4">快活CLUB 鶴岡店</a>|<a href="/darts/rank/山形県/鶴岡市">山形県鶴岡市</a>|
+|21|568|ジョン万次郎|<a href="https://search.dartslive.com/jp/shop/770633a50a4a1d5fb21333aee1bd51e4">快活CLUB 鶴岡店</a>|<a href="/darts/rank/山形県/鶴岡市">山形県鶴岡市</a>|
+|22|565|じぃじ|<a href="https://search.dartslive.com/jp/shop/770633a50a4a1d5fb21333aee1bd51e4">快活CLUB 鶴岡店</a>|<a href="/darts/rank/山形県/鶴岡市">山形県鶴岡市</a>|
+|23|508|▷Erida Wong.|<a href="https://search.dartslive.com/jp/shop/770633a50a4a1d5fb21333aee1bd51e4">快活CLUB 鶴岡店</a>|<a href="/darts/rank/山形県/鶴岡市">山形県鶴岡市</a>|
+|24|489|kajikimagro|<a href="https://search.dartslive.com/jp/shop/770633a50a4a1d5fb21333aee1bd51e4">快活CLUB 鶴岡店</a>|<a href="/darts/rank/山形県/鶴岡市">山形県鶴岡市</a>|
+|25|451|baby_mapii|<a href="https://search.dartslive.com/jp/shop/770633a50a4a1d5fb21333aee1bd51e4">快活CLUB 鶴岡店</a>|<a href="/darts/rank/山形県/鶴岡市">山形県鶴岡市</a>|
+|26|445|Mちゃん|<a href="https://search.dartslive.com/jp/shop/770633a50a4a1d5fb21333aee1bd51e4">快活CLUB 鶴岡店</a>|<a href="/darts/rank/山形県/鶴岡市">山形県鶴岡市</a>|
+|27|426|てっびっちっ|<a href="https://search.dartslive.com/jp/shop/770633a50a4a1d5fb21333aee1bd51e4">快活CLUB 鶴岡店</a>|<a href="/darts/rank/山形県/鶴岡市">山形県鶴岡市</a>|
+|27|426|とら|<a href="https://search.dartslive.com/jp/shop/770633a50a4a1d5fb21333aee1bd51e4">快活CLUB 鶴岡店</a>|<a href="/darts/rank/山形県/鶴岡市">山形県鶴岡市</a>|
+|29|389|NO NAME 6105|<a href="https://search.dartslive.com/jp/shop/770633a50a4a1d5fb21333aee1bd51e4">快活CLUB 鶴岡店</a>|<a href="/darts/rank/山形県/鶴岡市">山形県鶴岡市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:49_
+_last update : 2024/01/21 13:38:54_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

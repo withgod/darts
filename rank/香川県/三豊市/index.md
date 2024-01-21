@@ -14,12 +14,14 @@ ___
 {:.table-ranking}
 |ランク|スコア|名前|店名|所在地|
 |---|---|---|---|---|
+|1|718|NO NAME 0102|<a href="https://search.dartslive.com/jp/shop/ae3281c196dc7b5f774c926eb736cb5a">カマタマーレ讃岐</a>|<a href="/darts/rank/香川県/三豊市">香川県三豊市</a>|
+|2|585|ミツイ カナ|<a href="https://search.dartslive.com/jp/shop/ae3281c196dc7b5f774c926eb736cb5a">カマタマーレ讃岐</a>|<a href="/darts/rank/香川県/三豊市">香川県三豊市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:56_
+_last update : 2024/01/21 13:39:07_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

@@ -23,11 +23,11 @@ ___
 |7|723|Kazuma,A|<a href="https://search.dartslive.com/jp/shop/ad144bd10ca51d430d9b047a20a7ba1e">Dartbar D/REVEL</a>|<a href="/darts/rank/新潟県/上越市">新潟県上越市</a>|
 |8|690|さすらうオッサン|<a href="https://search.dartslive.com/jp/shop/ad144bd10ca51d430d9b047a20a7ba1e">Dartbar D/REVEL</a>|<a href="/darts/rank/新潟県/上越市">新潟県上越市</a>|
 |9|664|Hibiki7426|<a href="https://search.dartslive.com/jp/shop/b3cb11641cc009a00d9b047a20a7ba1e">NIGHT CLUB RA</a>|<a href="/darts/rank/新潟県/上越市">新潟県上越市</a>|
-|10|648|本マグロ|<a href="https://search.dartslive.com/jp/shop/ad144bd10ca51d430d9b047a20a7ba1e">Dartbar D/REVEL</a>|<a href="/darts/rank/新潟県/上越市">新潟県上越市</a>|
-|11|622|高橋 真一|<a href="https://search.dartslive.com/jp/shop/ad144bd10ca51d430d9b047a20a7ba1e">Dartbar D/REVEL</a>|<a href="/darts/rank/新潟県/上越市">新潟県上越市</a>|
-|12|616|きゅーびっく|<a href="https://search.dartslive.com/jp/shop/ad144bd10ca51d430d9b047a20a7ba1e">Dartbar D/REVEL</a>|<a href="/darts/rank/新潟県/上越市">新潟県上越市</a>|
-|13|612|ジャイアン(ю:】|<a href="https://search.dartslive.com/jp/shop/ad144bd10ca51d430d9b047a20a7ba1e">Dartbar D/REVEL</a>|<a href="/darts/rank/新潟県/上越市">新潟県上越市</a>|
-|14|596|凛|<a href="https://search.dartslive.com/jp/shop/ad144bd10ca51d430d9b047a20a7ba1e">Dartbar D/REVEL</a>|<a href="/darts/rank/新潟県/上越市">新潟県上越市</a>|
+|10|653|凛|<a href="https://search.dartslive.com/jp/shop/ad144bd10ca51d430d9b047a20a7ba1e">Dartbar D/REVEL</a>|<a href="/darts/rank/新潟県/上越市">新潟県上越市</a>|
+|11|648|本マグロ|<a href="https://search.dartslive.com/jp/shop/ad144bd10ca51d430d9b047a20a7ba1e">Dartbar D/REVEL</a>|<a href="/darts/rank/新潟県/上越市">新潟県上越市</a>|
+|12|622|高橋 真一|<a href="https://search.dartslive.com/jp/shop/ad144bd10ca51d430d9b047a20a7ba1e">Dartbar D/REVEL</a>|<a href="/darts/rank/新潟県/上越市">新潟県上越市</a>|
+|13|616|きゅーびっく|<a href="https://search.dartslive.com/jp/shop/ad144bd10ca51d430d9b047a20a7ba1e">Dartbar D/REVEL</a>|<a href="/darts/rank/新潟県/上越市">新潟県上越市</a>|
+|14|612|ジャイアン(ю:】|<a href="https://search.dartslive.com/jp/shop/ad144bd10ca51d430d9b047a20a7ba1e">Dartbar D/REVEL</a>|<a href="/darts/rank/新潟県/上越市">新潟県上越市</a>|
 |15|557|HITOSHI|<a href="https://search.dartslive.com/jp/shop/b3cb11641cc009a00d9b047a20a7ba1e">NIGHT CLUB RA</a>|<a href="/darts/rank/新潟県/上越市">新潟県上越市</a>|
 |16|549|ﾍﾙﾆｱﾆｷ|<a href="https://search.dartslive.com/jp/shop/ad144bd10ca51d430d9b047a20a7ba1e">Dartbar D/REVEL</a>|<a href="/darts/rank/新潟県/上越市">新潟県上越市</a>|
 |17|539|辛子明太子|<a href="https://search.dartslive.com/jp/shop/ad144bd10ca51d430d9b047a20a7ba1e">Dartbar D/REVEL</a>|<a href="/darts/rank/新潟県/上越市">新潟県上越市</a>|
@@ -38,7 +38,7 @@ ___
 
 ___
 
-_last update : 2024/01/21 03:05:52_
+_last update : 2024/01/21 13:38:59_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

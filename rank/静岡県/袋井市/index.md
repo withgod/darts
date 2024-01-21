@@ -45,32 +45,27 @@ ___
 |29|667|Ryochin♂|<a href="https://search.dartslive.com/jp/shop/dffbbd8bdfc021a0f454cb89828a1cfe">Symbol</a>|<a href="/darts/rank/静岡県/袋井市">静岡県袋井市</a>|
 |29|667|石野　翔希|<a href="https://search.dartslive.com/jp/shop/dffbbd8bdfc021a0f454cb89828a1cfe">Symbol</a>|<a href="/darts/rank/静岡県/袋井市">静岡県袋井市</a>|
 |31|665|Jumi@LPS|<a href="https://search.dartslive.com/jp/shop/fadb21fa1c3724e80d9b047a20a7ba1e">CAfE No.iE</a>|<a href="/darts/rank/静岡県/袋井市">静岡県袋井市</a>|
-|32|660|小川　諒人|<a href="https://search.dartslive.com/jp/shop/fadb21fa1c3724e80d9b047a20a7ba1e">CAfE No.iE</a>|<a href="/darts/rank/静岡県/袋井市">静岡県袋井市</a>|
-|33|630|モコ∞SSYMBOL|<a href="https://search.dartslive.com/jp/shop/dffbbd8bdfc021a0f454cb89828a1cfe">Symbol</a>|<a href="/darts/rank/静岡県/袋井市">静岡県袋井市</a>|
-|34|619|おちえ@No.iE|<a href="https://search.dartslive.com/jp/shop/dffbbd8bdfc021a0f454cb89828a1cfe">Symbol</a>|<a href="/darts/rank/静岡県/袋井市">静岡県袋井市</a>|
-|35|615|podešavanje|<a href="https://search.dartslive.com/jp/shop/dffbbd8bdfc021a0f454cb89828a1cfe">Symbol</a>|<a href="/darts/rank/静岡県/袋井市">静岡県袋井市</a>|
-|36|613|onちゃん@盛矢|<a href="https://search.dartslive.com/jp/shop/dffbbd8bdfc021a0f454cb89828a1cfe">Symbol</a>|<a href="/darts/rank/静岡県/袋井市">静岡県袋井市</a>|
-|37|581|むち子|<a href="https://search.dartslive.com/jp/shop/fadb21fa1c3724e80d9b047a20a7ba1e">CAfE No.iE</a>|<a href="/darts/rank/静岡県/袋井市">静岡県袋井市</a>|
-|38|569|Maho@Noie|<a href="https://search.dartslive.com/jp/shop/fadb21fa1c3724e80d9b047a20a7ba1e">CAfE No.iE</a>|<a href="/darts/rank/静岡県/袋井市">静岡県袋井市</a>|
-|39|480|よっちゃん☆|<a href="https://search.dartslive.com/jp/shop/fadb21fa1c3724e80d9b047a20a7ba1e">CAfE No.iE</a>|<a href="/darts/rank/静岡県/袋井市">静岡県袋井市</a>|
-|40|467|はるち|<a href="https://search.dartslive.com/jp/shop/fadb21fa1c3724e80d9b047a20a7ba1e">CAfE No.iE</a>|<a href="/darts/rank/静岡県/袋井市">静岡県袋井市</a>|
-|41|439|すまり(*^ω^*)|<a href="https://search.dartslive.com/jp/shop/fadb21fa1c3724e80d9b047a20a7ba1e">CAfE No.iE</a>|<a href="/darts/rank/静岡県/袋井市">静岡県袋井市</a>|
-|42|434|ばっち|<a href="https://search.dartslive.com/jp/shop/dffbbd8bdfc021a0f454cb89828a1cfe">Symbol</a>|<a href="/darts/rank/静岡県/袋井市">静岡県袋井市</a>|
-|43|428|yuka|<a href="https://search.dartslive.com/jp/shop/dffbbd8bdfc021a0f454cb89828a1cfe">Symbol</a>|<a href="/darts/rank/静岡県/袋井市">静岡県袋井市</a>|
-|44|416|しーちゃん@No,iE|<a href="https://search.dartslive.com/jp/shop/fadb21fa1c3724e80d9b047a20a7ba1e">CAfE No.iE</a>|<a href="/darts/rank/静岡県/袋井市">静岡県袋井市</a>|
-|45|410|†リオ†|<a href="https://search.dartslive.com/jp/shop/fadb21fa1c3724e80d9b047a20a7ba1e">CAfE No.iE</a>|<a href="/darts/rank/静岡県/袋井市">静岡県袋井市</a>|
-|46|384|DKdarts|<a href="https://search.dartslive.com/jp/shop/fadb21fa1c3724e80d9b047a20a7ba1e">CAfE No.iE</a>|<a href="/darts/rank/静岡県/袋井市">静岡県袋井市</a>|
-|47|370|hajime|<a href="https://search.dartslive.com/jp/shop/dffbbd8bdfc021a0f454cb89828a1cfe">Symbol</a>|<a href="/darts/rank/静岡県/袋井市">静岡県袋井市</a>|
-|48|357|るな@LPS|<a href="https://search.dartslive.com/jp/shop/fadb21fa1c3724e80d9b047a20a7ba1e">CAfE No.iE</a>|<a href="/darts/rank/静岡県/袋井市">静岡県袋井市</a>|
-|49|327|あや@No.iE|<a href="https://search.dartslive.com/jp/shop/fadb21fa1c3724e80d9b047a20a7ba1e">CAfE No.iE</a>|<a href="/darts/rank/静岡県/袋井市">静岡県袋井市</a>|
-|50|320|ﾒｶﾞﾐｻｲﾙ@No.iE|<a href="https://search.dartslive.com/jp/shop/dffbbd8bdfc021a0f454cb89828a1cfe">Symbol</a>|<a href="/darts/rank/静岡県/袋井市">静岡県袋井市</a>|
-|51|186|ちゃんみー|<a href="https://search.dartslive.com/jp/shop/dffbbd8bdfc021a0f454cb89828a1cfe">Symbol</a>|<a href="/darts/rank/静岡県/袋井市">静岡県袋井市</a>|
+|32|630|モコ∞SSYMBOL|<a href="https://search.dartslive.com/jp/shop/dffbbd8bdfc021a0f454cb89828a1cfe">Symbol</a>|<a href="/darts/rank/静岡県/袋井市">静岡県袋井市</a>|
+|33|619|おちえ@No.iE|<a href="https://search.dartslive.com/jp/shop/dffbbd8bdfc021a0f454cb89828a1cfe">Symbol</a>|<a href="/darts/rank/静岡県/袋井市">静岡県袋井市</a>|
+|34|615|podešavanje|<a href="https://search.dartslive.com/jp/shop/dffbbd8bdfc021a0f454cb89828a1cfe">Symbol</a>|<a href="/darts/rank/静岡県/袋井市">静岡県袋井市</a>|
+|35|613|onちゃん@盛矢|<a href="https://search.dartslive.com/jp/shop/dffbbd8bdfc021a0f454cb89828a1cfe">Symbol</a>|<a href="/darts/rank/静岡県/袋井市">静岡県袋井市</a>|
+|36|581|むち子|<a href="https://search.dartslive.com/jp/shop/fadb21fa1c3724e80d9b047a20a7ba1e">CAfE No.iE</a>|<a href="/darts/rank/静岡県/袋井市">静岡県袋井市</a>|
+|37|569|Maho@Noie|<a href="https://search.dartslive.com/jp/shop/fadb21fa1c3724e80d9b047a20a7ba1e">CAfE No.iE</a>|<a href="/darts/rank/静岡県/袋井市">静岡県袋井市</a>|
+|38|480|よっちゃん☆|<a href="https://search.dartslive.com/jp/shop/fadb21fa1c3724e80d9b047a20a7ba1e">CAfE No.iE</a>|<a href="/darts/rank/静岡県/袋井市">静岡県袋井市</a>|
+|39|467|はるち|<a href="https://search.dartslive.com/jp/shop/fadb21fa1c3724e80d9b047a20a7ba1e">CAfE No.iE</a>|<a href="/darts/rank/静岡県/袋井市">静岡県袋井市</a>|
+|40|439|すまり(*^ω^*)|<a href="https://search.dartslive.com/jp/shop/fadb21fa1c3724e80d9b047a20a7ba1e">CAfE No.iE</a>|<a href="/darts/rank/静岡県/袋井市">静岡県袋井市</a>|
+|41|428|yuka|<a href="https://search.dartslive.com/jp/shop/dffbbd8bdfc021a0f454cb89828a1cfe">Symbol</a>|<a href="/darts/rank/静岡県/袋井市">静岡県袋井市</a>|
+|42|416|しーちゃん@No,iE|<a href="https://search.dartslive.com/jp/shop/fadb21fa1c3724e80d9b047a20a7ba1e">CAfE No.iE</a>|<a href="/darts/rank/静岡県/袋井市">静岡県袋井市</a>|
+|43|357|るな@LPS|<a href="https://search.dartslive.com/jp/shop/fadb21fa1c3724e80d9b047a20a7ba1e">CAfE No.iE</a>|<a href="/darts/rank/静岡県/袋井市">静岡県袋井市</a>|
+|44|327|あや@No.iE|<a href="https://search.dartslive.com/jp/shop/fadb21fa1c3724e80d9b047a20a7ba1e">CAfE No.iE</a>|<a href="/darts/rank/静岡県/袋井市">静岡県袋井市</a>|
+|45|320|ﾒｶﾞﾐｻｲﾙ@No.iE|<a href="https://search.dartslive.com/jp/shop/dffbbd8bdfc021a0f454cb89828a1cfe">Symbol</a>|<a href="/darts/rank/静岡県/袋井市">静岡県袋井市</a>|
+|46|186|ちゃんみー|<a href="https://search.dartslive.com/jp/shop/dffbbd8bdfc021a0f454cb89828a1cfe">Symbol</a>|<a href="/darts/rank/静岡県/袋井市">静岡県袋井市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:53_
+_last update : 2024/01/21 13:39:01_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

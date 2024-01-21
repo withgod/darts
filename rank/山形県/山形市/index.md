@@ -31,18 +31,18 @@ ___
 |14|903|issi|<a href="https://search.dartslive.com/jp/shop/d167e372a764d4dba3f63593b5358cc4">ダーツ＆ビリヤード スポット キュー</a>|<a href="/darts/rank/山形県/山形市">山形県山形市</a>|
 |14|903|原田　大輔|<a href="https://search.dartslive.com/jp/shop/d167e372a764d4dba3f63593b5358cc4">ダーツ＆ビリヤード スポット キュー</a>|<a href="/darts/rank/山形県/山形市">山形県山形市</a>|
 |17|896|あんぱんまん|<a href="https://search.dartslive.com/jp/shop/d167e372a764d4dba3f63593b5358cc4">ダーツ＆ビリヤード スポット キュー</a>|<a href="/darts/rank/山形県/山形市">山形県山形市</a>|
+|18|879|Ryuto|<a href="https://search.dartslive.com/jp/shop/def175b0bb331382f454cb89828a1cfe">YAMATO -大和-</a>|<a href="/darts/rank/山形県/山形市">山形県山形市</a>|
 |18|879|loveonlyaeon|<a href="https://search.dartslive.com/jp/shop/d167e372a764d4dba3f63593b5358cc4">ダーツ＆ビリヤード スポット キュー</a>|<a href="/darts/rank/山形県/山形市">山形県山形市</a>|
-|19|866|残念な人|<a href="https://search.dartslive.com/jp/shop/def175b0bb331382f454cb89828a1cfe">YAMATO -大和-</a>|<a href="/darts/rank/山形県/山形市">山形県山形市</a>|
-|20|861|NO NAME 3859|<a href="https://search.dartslive.com/jp/shop/def175b0bb331382f454cb89828a1cfe">YAMATO -大和-</a>|<a href="/darts/rank/山形県/山形市">山形県山形市</a>|
-|21|817|浅野 充照|<a href="https://search.dartslive.com/jp/shop/def175b0bb331382f454cb89828a1cfe">YAMATO -大和-</a>|<a href="/darts/rank/山形県/山形市">山形県山形市</a>|
-|22|813|†ラ†D-comrade|<a href="https://search.dartslive.com/jp/shop/def175b0bb331382f454cb89828a1cfe">YAMATO -大和-</a>|<a href="/darts/rank/山形県/山形市">山形県山形市</a>|
-|23|810|たくにゃん|<a href="https://search.dartslive.com/jp/shop/def175b0bb331382f454cb89828a1cfe">YAMATO -大和-</a>|<a href="/darts/rank/山形県/山形市">山形県山形市</a>|
-|24|710|youkey|<a href="https://search.dartslive.com/jp/shop/def175b0bb331382f454cb89828a1cfe">YAMATO -大和-</a>|<a href="/darts/rank/山形県/山形市">山形県山形市</a>|
-|25|702|東海林　善樹|<a href="https://search.dartslive.com/jp/shop/d167e372a764d4dba3f63593b5358cc4">ダーツ＆ビリヤード スポット キュー</a>|<a href="/darts/rank/山形県/山形市">山形県山形市</a>|
-|26|683|まんじゅう|<a href="https://search.dartslive.com/jp/shop/d167e372a764d4dba3f63593b5358cc4">ダーツ＆ビリヤード スポット キュー</a>|<a href="/darts/rank/山形県/山形市">山形県山形市</a>|
-|27|681|鈴木 雄詞|<a href="https://search.dartslive.com/jp/shop/def175b0bb331382f454cb89828a1cfe">YAMATO -大和-</a>|<a href="/darts/rank/山形県/山形市">山形県山形市</a>|
-|28|679|よっし~|<a href="https://search.dartslive.com/jp/shop/def175b0bb331382f454cb89828a1cfe">YAMATO -大和-</a>|<a href="/darts/rank/山形県/山形市">山形県山形市</a>|
-|29|669|Ryuto|<a href="https://search.dartslive.com/jp/shop/def175b0bb331382f454cb89828a1cfe">YAMATO -大和-</a>|<a href="/darts/rank/山形県/山形市">山形県山形市</a>|
+|20|866|残念な人|<a href="https://search.dartslive.com/jp/shop/def175b0bb331382f454cb89828a1cfe">YAMATO -大和-</a>|<a href="/darts/rank/山形県/山形市">山形県山形市</a>|
+|21|861|NO NAME 3859|<a href="https://search.dartslive.com/jp/shop/def175b0bb331382f454cb89828a1cfe">YAMATO -大和-</a>|<a href="/darts/rank/山形県/山形市">山形県山形市</a>|
+|22|817|浅野 充照|<a href="https://search.dartslive.com/jp/shop/def175b0bb331382f454cb89828a1cfe">YAMATO -大和-</a>|<a href="/darts/rank/山形県/山形市">山形県山形市</a>|
+|23|813|†ラ†D-comrade|<a href="https://search.dartslive.com/jp/shop/def175b0bb331382f454cb89828a1cfe">YAMATO -大和-</a>|<a href="/darts/rank/山形県/山形市">山形県山形市</a>|
+|24|810|たくにゃん|<a href="https://search.dartslive.com/jp/shop/def175b0bb331382f454cb89828a1cfe">YAMATO -大和-</a>|<a href="/darts/rank/山形県/山形市">山形県山形市</a>|
+|25|710|youkey|<a href="https://search.dartslive.com/jp/shop/def175b0bb331382f454cb89828a1cfe">YAMATO -大和-</a>|<a href="/darts/rank/山形県/山形市">山形県山形市</a>|
+|26|702|東海林　善樹|<a href="https://search.dartslive.com/jp/shop/d167e372a764d4dba3f63593b5358cc4">ダーツ＆ビリヤード スポット キュー</a>|<a href="/darts/rank/山形県/山形市">山形県山形市</a>|
+|27|683|まんじゅう|<a href="https://search.dartslive.com/jp/shop/d167e372a764d4dba3f63593b5358cc4">ダーツ＆ビリヤード スポット キュー</a>|<a href="/darts/rank/山形県/山形市">山形県山形市</a>|
+|28|681|鈴木 雄詞|<a href="https://search.dartslive.com/jp/shop/def175b0bb331382f454cb89828a1cfe">YAMATO -大和-</a>|<a href="/darts/rank/山形県/山形市">山形県山形市</a>|
+|29|679|よっし~|<a href="https://search.dartslive.com/jp/shop/def175b0bb331382f454cb89828a1cfe">YAMATO -大和-</a>|<a href="/darts/rank/山形県/山形市">山形県山形市</a>|
 |30|649|take|<a href="https://search.dartslive.com/jp/shop/def175b0bb331382f454cb89828a1cfe">YAMATO -大和-</a>|<a href="/darts/rank/山形県/山形市">山形県山形市</a>|
 |31|624|Inaro176|<a href="https://search.dartslive.com/jp/shop/d167e372a764d4dba3f63593b5358cc4">ダーツ＆ビリヤード スポット キュー</a>|<a href="/darts/rank/山形県/山形市">山形県山形市</a>|
 |32|610|iori|<a href="https://search.dartslive.com/jp/shop/d167e372a764d4dba3f63593b5358cc4">ダーツ＆ビリヤード スポット キュー</a>|<a href="/darts/rank/山形県/山形市">山形県山形市</a>|
@@ -50,17 +50,18 @@ ___
 |34|599|じょーた119|<a href="https://search.dartslive.com/jp/shop/def175b0bb331382f454cb89828a1cfe">YAMATO -大和-</a>|<a href="/darts/rank/山形県/山形市">山形県山形市</a>|
 |35|598|高坂貴詞|<a href="https://search.dartslive.com/jp/shop/def175b0bb331382f454cb89828a1cfe">YAMATO -大和-</a>|<a href="/darts/rank/山形県/山形市">山形県山形市</a>|
 |36|593|ちひろ★ケロ|<a href="https://search.dartslive.com/jp/shop/def175b0bb331382f454cb89828a1cfe">YAMATO -大和-</a>|<a href="/darts/rank/山形県/山形市">山形県山形市</a>|
-|37|570|もじ|<a href="https://search.dartslive.com/jp/shop/def175b0bb331382f454cb89828a1cfe">YAMATO -大和-</a>|<a href="/darts/rank/山形県/山形市">山形県山形市</a>|
-|38|483|やっち|<a href="https://search.dartslive.com/jp/shop/d167e372a764d4dba3f63593b5358cc4">ダーツ＆ビリヤード スポット キュー</a>|<a href="/darts/rank/山形県/山形市">山形県山形市</a>|
-|39|419|むげん|<a href="https://search.dartslive.com/jp/shop/def175b0bb331382f454cb89828a1cfe">YAMATO -大和-</a>|<a href="/darts/rank/山形県/山形市">山形県山形市</a>|
-|40|325|はぐれメタル|<a href="https://search.dartslive.com/jp/shop/def175b0bb331382f454cb89828a1cfe">YAMATO -大和-</a>|<a href="/darts/rank/山形県/山形市">山形県山形市</a>|
-|41|295|†ぬん†|<a href="https://search.dartslive.com/jp/shop/def175b0bb331382f454cb89828a1cfe">YAMATO -大和-</a>|<a href="/darts/rank/山形県/山形市">山形県山形市</a>|
+|37|574|Haruu|<a href="https://search.dartslive.com/jp/shop/d167e372a764d4dba3f63593b5358cc4">ダーツ＆ビリヤード スポット キュー</a>|<a href="/darts/rank/山形県/山形市">山形県山形市</a>|
+|38|570|もじ|<a href="https://search.dartslive.com/jp/shop/def175b0bb331382f454cb89828a1cfe">YAMATO -大和-</a>|<a href="/darts/rank/山形県/山形市">山形県山形市</a>|
+|39|483|やっち|<a href="https://search.dartslive.com/jp/shop/d167e372a764d4dba3f63593b5358cc4">ダーツ＆ビリヤード スポット キュー</a>|<a href="/darts/rank/山形県/山形市">山形県山形市</a>|
+|40|419|むげん|<a href="https://search.dartslive.com/jp/shop/def175b0bb331382f454cb89828a1cfe">YAMATO -大和-</a>|<a href="/darts/rank/山形県/山形市">山形県山形市</a>|
+|41|325|はぐれメタル|<a href="https://search.dartslive.com/jp/shop/def175b0bb331382f454cb89828a1cfe">YAMATO -大和-</a>|<a href="/darts/rank/山形県/山形市">山形県山形市</a>|
+|42|295|†ぬん†|<a href="https://search.dartslive.com/jp/shop/def175b0bb331382f454cb89828a1cfe">YAMATO -大和-</a>|<a href="/darts/rank/山形県/山形市">山形県山形市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:49_
+_last update : 2024/01/21 13:38:54_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

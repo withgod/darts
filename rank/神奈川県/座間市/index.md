@@ -32,56 +32,46 @@ ___
 |16|883|激まなび|<a href="https://search.dartslive.com/jp/shop/11e1e671ee53e51d0d9b047a20a7ba1e">Rider's Base Riberty</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
 |17|877|Toshi|<a href="https://search.dartslive.com/jp/shop/bc0ed0ad250a59705f9f3321c1147265">快活CLUB 座間店</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
 |17|877|え～つ～し～！|<a href="https://search.dartslive.com/jp/shop/bc0ed0ad250a59705f9f3321c1147265">快活CLUB 座間店</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
-|19|845|そぶぅ☆S.A.D☆|<a href="https://search.dartslive.com/jp/shop/bc0ed0ad250a59705f9f3321c1147265">快活CLUB 座間店</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
-|20|823|ししゃもヾ(･ω･|<a href="https://search.dartslive.com/jp/shop/bc0ed0ad250a59705f9f3321c1147265">快活CLUB 座間店</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
-|21|754|★Higu★|<a href="https://search.dartslive.com/jp/shop/bc0ed0ad250a59705f9f3321c1147265">快活CLUB 座間店</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
-|22|704|CGEMI|<a href="https://search.dartslive.com/jp/shop/bc0ed0ad250a59705f9f3321c1147265">快活CLUB 座間店</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
-|23|687|ゆずべぇ|<a href="https://search.dartslive.com/jp/shop/bc0ed0ad250a59705f9f3321c1147265">快活CLUB 座間店</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
-|24|660|マンダリン|<a href="https://search.dartslive.com/jp/shop/bc0ed0ad250a59705f9f3321c1147265">快活CLUB 座間店</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
-|25|654|ふぁび|<a href="https://search.dartslive.com/jp/shop/bc0ed0ad250a59705f9f3321c1147265">快活CLUB 座間店</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
-|26|648|&lt;G&gt;@Picasso|<a href="https://search.dartslive.com/jp/shop/bc0ed0ad250a59705f9f3321c1147265">快活CLUB 座間店</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
-|27|645|忍者と孔雀|<a href="https://search.dartslive.com/jp/shop/11e1e671ee53e51d0d9b047a20a7ba1e">Rider's Base Riberty</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
-|28|622|はっしー|<a href="https://search.dartslive.com/jp/shop/bc0ed0ad250a59705f9f3321c1147265">快活CLUB 座間店</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
-|29|601|♡夢見る福笑い♡|<a href="https://search.dartslive.com/jp/shop/bc0ed0ad250a59705f9f3321c1147265">快活CLUB 座間店</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
-|30|594|yoshie|<a href="https://search.dartslive.com/jp/shop/bc0ed0ad250a59705f9f3321c1147265">快活CLUB 座間店</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
-|31|574|とんちゃん|<a href="https://search.dartslive.com/jp/shop/bc0ed0ad250a59705f9f3321c1147265">快活CLUB 座間店</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
-|32|572|介護のかずさん|<a href="https://search.dartslive.com/jp/shop/11e1e671ee53e51d0d9b047a20a7ba1e">Rider's Base Riberty</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
-|33|570|ちくわ|<a href="https://search.dartslive.com/jp/shop/bc0ed0ad250a59705f9f3321c1147265">快活CLUB 座間店</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
-|34|551|MUGI 0937|<a href="https://search.dartslive.com/jp/shop/11e1e671ee53e51d0d9b047a20a7ba1e">Rider's Base Riberty</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
-|35|542|Tadashi@ROOTS|<a href="https://search.dartslive.com/jp/shop/11e1e671ee53e51d0d9b047a20a7ba1e">Rider's Base Riberty</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
-|36|541|kurau|<a href="https://search.dartslive.com/jp/shop/11e1e671ee53e51d0d9b047a20a7ba1e">Rider's Base Riberty</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
-|37|539|kurage|<a href="https://search.dartslive.com/jp/shop/bc0ed0ad250a59705f9f3321c1147265">快活CLUB 座間店</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
-|37|539|久保田 大介|<a href="https://search.dartslive.com/jp/shop/4b1bdd22f6b7c8990d9b047a20a7ba1e">GIRL'S BAR TIA</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
-|39|527|Matsuxb|<a href="https://search.dartslive.com/jp/shop/11e1e671ee53e51d0d9b047a20a7ba1e">Rider's Base Riberty</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
-|40|526|kiyo|<a href="https://search.dartslive.com/jp/shop/11e1e671ee53e51d0d9b047a20a7ba1e">Rider's Base Riberty</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
-|41|525|xドラx|<a href="https://search.dartslive.com/jp/shop/11e1e671ee53e51d0d9b047a20a7ba1e">Rider's Base Riberty</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
-|42|524|あらん( &#x27;ω&#x27;)|<a href="https://search.dartslive.com/jp/shop/11e1e671ee53e51d0d9b047a20a7ba1e">Rider's Base Riberty</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
-|43|514|Abemaru|<a href="https://search.dartslive.com/jp/shop/11e1e671ee53e51d0d9b047a20a7ba1e">Rider's Base Riberty</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
-|43|514|TATSU|<a href="https://search.dartslive.com/jp/shop/11e1e671ee53e51d0d9b047a20a7ba1e">Rider's Base Riberty</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
-|45|511|タント|<a href="https://search.dartslive.com/jp/shop/bc0ed0ad250a59705f9f3321c1147265">快活CLUB 座間店</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
-|46|507|ぱーこさん|<a href="https://search.dartslive.com/jp/shop/bc0ed0ad250a59705f9f3321c1147265">快活CLUB 座間店</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
-|47|506|ちゃ。|<a href="https://search.dartslive.com/jp/shop/bc0ed0ad250a59705f9f3321c1147265">快活CLUB 座間店</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
-|48|503|まりあ..｡o○*ﾟ|<a href="https://search.dartslive.com/jp/shop/bc0ed0ad250a59705f9f3321c1147265">快活CLUB 座間店</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
-|49|486|Minatti|<a href="https://search.dartslive.com/jp/shop/11e1e671ee53e51d0d9b047a20a7ba1e">Rider's Base Riberty</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
-|50|483|☆°百太郎 °★|<a href="https://search.dartslive.com/jp/shop/bc0ed0ad250a59705f9f3321c1147265">快活CLUB 座間店</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
-|51|481|ぱおんぬ･ω･|<a href="https://search.dartslive.com/jp/shop/bc0ed0ad250a59705f9f3321c1147265">快活CLUB 座間店</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
-|51|481|もぉ.|<a href="https://search.dartslive.com/jp/shop/bc0ed0ad250a59705f9f3321c1147265">快活CLUB 座間店</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
-|53|472|棗っぐ|<a href="https://search.dartslive.com/jp/shop/bc0ed0ad250a59705f9f3321c1147265">快活CLUB 座間店</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
-|54|465|あーちゃろー|<a href="https://search.dartslive.com/jp/shop/bc0ed0ad250a59705f9f3321c1147265">快活CLUB 座間店</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
-|55|448|☆°*Robyn *°★|<a href="https://search.dartslive.com/jp/shop/bc0ed0ad250a59705f9f3321c1147265">快活CLUB 座間店</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
-|56|440|KC|<a href="https://search.dartslive.com/jp/shop/4b1bdd22f6b7c8990d9b047a20a7ba1e">GIRL'S BAR TIA</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
-|57|438|いとなお♀|<a href="https://search.dartslive.com/jp/shop/bc0ed0ad250a59705f9f3321c1147265">快活CLUB 座間店</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
-|58|437|vKAOv|<a href="https://search.dartslive.com/jp/shop/11e1e671ee53e51d0d9b047a20a7ba1e">Rider's Base Riberty</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
-|59|436|ひろ|<a href="https://search.dartslive.com/jp/shop/bc0ed0ad250a59705f9f3321c1147265">快活CLUB 座間店</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
-|60|433|Mi-yu|<a href="https://search.dartslive.com/jp/shop/bc0ed0ad250a59705f9f3321c1147265">快活CLUB 座間店</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
-|61|428|リトルミー|<a href="https://search.dartslive.com/jp/shop/bc0ed0ad250a59705f9f3321c1147265">快活CLUB 座間店</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
-|62|371|はっちゃん|<a href="https://search.dartslive.com/jp/shop/11e1e671ee53e51d0d9b047a20a7ba1e">Rider's Base Riberty</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
+|19|645|忍者と孔雀|<a href="https://search.dartslive.com/jp/shop/11e1e671ee53e51d0d9b047a20a7ba1e">Rider's Base Riberty</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
+|20|622|はっしー|<a href="https://search.dartslive.com/jp/shop/bc0ed0ad250a59705f9f3321c1147265">快活CLUB 座間店</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
+|21|601|♡夢見る福笑い♡|<a href="https://search.dartslive.com/jp/shop/bc0ed0ad250a59705f9f3321c1147265">快活CLUB 座間店</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
+|22|594|yoshie|<a href="https://search.dartslive.com/jp/shop/bc0ed0ad250a59705f9f3321c1147265">快活CLUB 座間店</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
+|23|574|とんちゃん|<a href="https://search.dartslive.com/jp/shop/bc0ed0ad250a59705f9f3321c1147265">快活CLUB 座間店</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
+|24|572|介護のかずさん|<a href="https://search.dartslive.com/jp/shop/11e1e671ee53e51d0d9b047a20a7ba1e">Rider's Base Riberty</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
+|25|551|MUGI 0937|<a href="https://search.dartslive.com/jp/shop/11e1e671ee53e51d0d9b047a20a7ba1e">Rider's Base Riberty</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
+|26|542|Tadashi@ROOTS|<a href="https://search.dartslive.com/jp/shop/11e1e671ee53e51d0d9b047a20a7ba1e">Rider's Base Riberty</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
+|27|541|kurau|<a href="https://search.dartslive.com/jp/shop/11e1e671ee53e51d0d9b047a20a7ba1e">Rider's Base Riberty</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
+|28|539|kurage|<a href="https://search.dartslive.com/jp/shop/bc0ed0ad250a59705f9f3321c1147265">快活CLUB 座間店</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
+|28|539|久保田 大介|<a href="https://search.dartslive.com/jp/shop/4b1bdd22f6b7c8990d9b047a20a7ba1e">GIRL'S BAR TIA</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
+|30|527|Matsuxb|<a href="https://search.dartslive.com/jp/shop/11e1e671ee53e51d0d9b047a20a7ba1e">Rider's Base Riberty</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
+|31|526|kiyo|<a href="https://search.dartslive.com/jp/shop/11e1e671ee53e51d0d9b047a20a7ba1e">Rider's Base Riberty</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
+|32|525|xドラx|<a href="https://search.dartslive.com/jp/shop/11e1e671ee53e51d0d9b047a20a7ba1e">Rider's Base Riberty</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
+|33|524|あらん( &#x27;ω&#x27;)|<a href="https://search.dartslive.com/jp/shop/11e1e671ee53e51d0d9b047a20a7ba1e">Rider's Base Riberty</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
+|34|514|Abemaru|<a href="https://search.dartslive.com/jp/shop/11e1e671ee53e51d0d9b047a20a7ba1e">Rider's Base Riberty</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
+|34|514|TATSU|<a href="https://search.dartslive.com/jp/shop/11e1e671ee53e51d0d9b047a20a7ba1e">Rider's Base Riberty</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
+|36|511|タント|<a href="https://search.dartslive.com/jp/shop/bc0ed0ad250a59705f9f3321c1147265">快活CLUB 座間店</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
+|37|507|ぱーこさん|<a href="https://search.dartslive.com/jp/shop/bc0ed0ad250a59705f9f3321c1147265">快活CLUB 座間店</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
+|38|506|ちゃ。|<a href="https://search.dartslive.com/jp/shop/bc0ed0ad250a59705f9f3321c1147265">快活CLUB 座間店</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
+|39|503|まりあ..｡o○*ﾟ|<a href="https://search.dartslive.com/jp/shop/bc0ed0ad250a59705f9f3321c1147265">快活CLUB 座間店</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
+|40|486|Minatti|<a href="https://search.dartslive.com/jp/shop/11e1e671ee53e51d0d9b047a20a7ba1e">Rider's Base Riberty</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
+|41|483|☆°百太郎 °★|<a href="https://search.dartslive.com/jp/shop/bc0ed0ad250a59705f9f3321c1147265">快活CLUB 座間店</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
+|42|481|ぱおんぬ･ω･|<a href="https://search.dartslive.com/jp/shop/bc0ed0ad250a59705f9f3321c1147265">快活CLUB 座間店</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
+|42|481|もぉ.|<a href="https://search.dartslive.com/jp/shop/bc0ed0ad250a59705f9f3321c1147265">快活CLUB 座間店</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
+|44|472|棗っぐ|<a href="https://search.dartslive.com/jp/shop/bc0ed0ad250a59705f9f3321c1147265">快活CLUB 座間店</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
+|45|465|あーちゃろー|<a href="https://search.dartslive.com/jp/shop/bc0ed0ad250a59705f9f3321c1147265">快活CLUB 座間店</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
+|46|448|☆°*Robyn *°★|<a href="https://search.dartslive.com/jp/shop/bc0ed0ad250a59705f9f3321c1147265">快活CLUB 座間店</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
+|47|440|KC|<a href="https://search.dartslive.com/jp/shop/4b1bdd22f6b7c8990d9b047a20a7ba1e">GIRL'S BAR TIA</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
+|48|438|いとなお♀|<a href="https://search.dartslive.com/jp/shop/bc0ed0ad250a59705f9f3321c1147265">快活CLUB 座間店</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
+|49|437|vKAOv|<a href="https://search.dartslive.com/jp/shop/11e1e671ee53e51d0d9b047a20a7ba1e">Rider's Base Riberty</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
+|50|436|ひろ|<a href="https://search.dartslive.com/jp/shop/bc0ed0ad250a59705f9f3321c1147265">快活CLUB 座間店</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
+|51|433|Mi-yu|<a href="https://search.dartslive.com/jp/shop/bc0ed0ad250a59705f9f3321c1147265">快活CLUB 座間店</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
+|52|428|リトルミー|<a href="https://search.dartslive.com/jp/shop/bc0ed0ad250a59705f9f3321c1147265">快活CLUB 座間店</a>|<a href="/darts/rank/神奈川県/座間市">神奈川県座間市</a>|
 
 
 
 ___
 
-_last update : 2024/01/21 03:05:52_
+_last update : 2024/01/21 13:38:59_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

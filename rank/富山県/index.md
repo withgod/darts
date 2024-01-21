@@ -63,24 +63,21 @@ ___
 |39|760|全力なTさん|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
 |40|756|ふき|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
 |41|748|kit|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
-|42|721|KAITO|<a href="https://search.dartslive.com/jp/shop/57437bd3078f291ab21333aee1bd51e4">アプレシオ天正寺店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
-|43|678|バンクオブ貯金|<a href="https://search.dartslive.com/jp/shop/57437bd3078f291ab21333aee1bd51e4">アプレシオ天正寺店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
-|44|662|松ﾁｬﾝ♂SOLDIER|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|45|632|烏賊座のｹﾞｿﾏｽｸ|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
-|46|630|Mina Jovovich|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|47|627|たけし☆爆投|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|48|625|まっちゃん@Zoo|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|49|596|ぽんでりん子|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
-|50|594|やざくパピコ|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
-|51|585|ぴょーーん|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
-|52|573|まっちゃん♂ﾖｼﾑﾗ|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|53|530|松ﾁｬﾝ♥Pochacco|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
-|54|507|白桃缶|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
-|55|496|NO NAME 8705|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
-|56|489|鬼の子でり子|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
-|57|426|ザンザン|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
-|58|402|Rex7567|<a href="https://search.dartslive.com/jp/shop/57437bd3078f291ab21333aee1bd51e4">アプレシオ天正寺店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
-|59|378|ペット＜Fred|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
+|42|662|松ﾁｬﾝ♂SOLDIER|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|43|632|烏賊座のｹﾞｿﾏｽｸ|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
+|44|630|Mina Jovovich|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|45|627|たけし☆爆投|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|46|625|まっちゃん@Zoo|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|47|596|ぽんでりん子|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
+|48|594|やざくパピコ|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
+|49|585|ぴょーーん|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
+|50|573|まっちゃん♂ﾖｼﾑﾗ|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|51|530|松ﾁｬﾝ♥Pochacco|<a href="https://search.dartslive.com/jp/shop/79c3c94ca57c64e8b21333aee1bd51e4">快活CLUB 魚津店</a>|<a href="/darts/rank/富山県/魚津市">富山県魚津市</a>|
+|52|507|白桃缶|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
+|53|496|NO NAME 8705|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
+|54|489|鬼の子でり子|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
+|55|426|ザンザン|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
+|56|378|ペット＜Fred|<a href="https://search.dartslive.com/jp/shop/5d9a19ef7b583749790ab824ce8730e5">快活CLUB 富山荒川店</a>|<a href="/darts/rank/富山県/富山市">富山県富山市</a>|
 
 
 
@@ -88,7 +85,7 @@ ___
 
 ___
 
-_last update : 2024/01/21 03:05:53_
+_last update : 2024/01/21 13:38:59_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

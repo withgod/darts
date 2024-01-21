@@ -53,84 +53,84 @@ ___
 |20|1041|￡ΒееYαИ￡|<a href="https://search.dartslive.com/jp/shop/0fa93e3d69f50a3a25d56fb0e5c39bac">快活CLUB 新潟亀田店</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
 |21|1037|小池 和彦|<a href="https://search.dartslive.com/jp/shop/380c3500b7dac0cba3f63593b5358cc4">darts zone TRIPLE</a>|<a href="/darts/rank/新潟県/胎内市">新潟県胎内市</a>|
 |22|1034|いまいち|<a href="https://search.dartslive.com/jp/shop/3a2b16daa3afd832a3f63593b5358cc4">自遊空間 新潟黒崎店</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
-|23|1017|SATOSHI|<a href="https://search.dartslive.com/jp/shop/8f0805438069c86b0d9b047a20a7ba1e">UP'S</a>|<a href="/darts/rank/新潟県/長岡市">新潟県長岡市</a>|
-|24|1009|若月　誠太郎。|<a href="https://search.dartslive.com/jp/shop/3a2b16daa3afd832a3f63593b5358cc4">自遊空間 新潟黒崎店</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
-|25|1003|ﾊｰﾏｰ･ﾍﾟﾃｨｸﾞﾘｭｰ|<a href="https://search.dartslive.com/jp/shop/8f0805438069c86b0d9b047a20a7ba1e">UP'S</a>|<a href="/darts/rank/新潟県/長岡市">新潟県長岡市</a>|
-|26|1002|股擦れ奇行種|<a href="https://search.dartslive.com/jp/shop/bb0971ce1f59c467774c926eb736cb5a">快活CLUB 新発田店</a>|<a href="/darts/rank/新潟県/新発田市">新潟県新発田市</a>|
-|27|1001|NoriHiroN|<a href="https://search.dartslive.com/jp/shop/b761ef2fb18e7d680d9b047a20a7ba1e">BECOME</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
-|28|1000|健やかじゃない太|<a href="https://search.dartslive.com/jp/shop/0fa93e3d69f50a3a25d56fb0e5c39bac">快活CLUB 新潟亀田店</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
-|28|1000|若月　誠太郎。|<a href="https://search.dartslive.com/jp/shop/b761ef2fb18e7d680d9b047a20a7ba1e">BECOME</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
-|30|996|小豆★☆|<a href="https://search.dartslive.com/jp/shop/19a3dd6e339274b40d9b047a20a7ba1e">BAR STRAD</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
-|31|986|こーいっちゃん|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|32|977|四十肩|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
-|33|976|ひろろん(笑)|<a href="https://search.dartslive.com/jp/shop/2c6f1df2baa1297e0d9b047a20a7ba1e">UP's 小千谷店</a>|<a href="/darts/rank/新潟県/小千谷市">新潟県小千谷市</a>|
-|34|974|おーしま|<a href="https://search.dartslive.com/jp/shop/4c18926da87e20fcb21333aee1bd51e4">KUROHIGE</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
-|35|973|akito|<a href="https://search.dartslive.com/jp/shop/3a2b16daa3afd832a3f63593b5358cc4">自遊空間 新潟黒崎店</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
-|36|972|木村 駿斗|<a href="https://search.dartslive.com/jp/shop/0fa93e3d69f50a3a25d56fb0e5c39bac">快活CLUB 新潟亀田店</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
-|37|970|しの|<a href="https://search.dartslive.com/jp/shop/2c6f1df2baa1297e0d9b047a20a7ba1e">UP's 小千谷店</a>|<a href="/darts/rank/新潟県/小千谷市">新潟県小千谷市</a>|
-|37|970|渡邉　翔|<a href="https://search.dartslive.com/jp/shop/0fa93e3d69f50a3a25d56fb0e5c39bac">快活CLUB 新潟亀田店</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
-|39|968|TKTS|<a href="https://search.dartslive.com/jp/shop/de9e906e37621b55f454cb89828a1cfe">快活CLUB 新津程島店</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
-|40|967|五十嵐 翼|<a href="https://search.dartslive.com/jp/shop/112bad61fb0a2f3625d56fb0e5c39bac">A.s Arrows</a>|<a href="/darts/rank/新潟県/新発田市">新潟県新発田市</a>|
-|41|966|源Gen@Stinger|<a href="https://search.dartslive.com/jp/shop/4c18926da87e20fcb21333aee1bd51e4">KUROHIGE</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
-|42|965|おーしま|<a href="https://search.dartslive.com/jp/shop/1e8e6a728906ae90790ab824ce8730e5">ビリヤード&ダーツADVAN</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
-|43|964|70.|<a href="https://search.dartslive.com/jp/shop/112bad61fb0a2f3625d56fb0e5c39bac">A.s Arrows</a>|<a href="/darts/rank/新潟県/新発田市">新潟県新発田市</a>|
-|44|962|りょーごsun|<a href="https://search.dartslive.com/jp/shop/3a2b16daa3afd832a3f63593b5358cc4">自遊空間 新潟黒崎店</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
-|44|962|股擦れ奇行種|<a href="https://search.dartslive.com/jp/shop/112bad61fb0a2f3625d56fb0e5c39bac">A.s Arrows</a>|<a href="/darts/rank/新潟県/新発田市">新潟県新発田市</a>|
-|46|961|JIGEN|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|46|961|りょーごsun|<a href="https://search.dartslive.com/jp/shop/de9e906e37621b55f454cb89828a1cfe">快活CLUB 新津程島店</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
-|48|958|おが|<a href="https://search.dartslive.com/jp/shop/8195218bfd5107705f9f3321c1147265">BAD BEAT</a>|<a href="/darts/rank/新潟県/長岡市">新潟県長岡市</a>|
-|49|956|CAT Card|<a href="https://search.dartslive.com/jp/shop/fb636fc90ab94eeff454cb89828a1cfe">快活CLUB 新潟寺尾店</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
-|50|955|Ru→|<a href="https://search.dartslive.com/jp/shop/0fa93e3d69f50a3a25d56fb0e5c39bac">快活CLUB 新潟亀田店</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
-|51|954|SAKU|<a href="https://search.dartslive.com/jp/shop/bb0971ce1f59c467774c926eb736cb5a">快活CLUB 新発田店</a>|<a href="/darts/rank/新潟県/新発田市">新潟県新発田市</a>|
-|51|954|Shino3|<a href="https://search.dartslive.com/jp/shop/8f0805438069c86b0d9b047a20a7ba1e">UP'S</a>|<a href="/darts/rank/新潟県/長岡市">新潟県長岡市</a>|
-|51|954|山本 准平|<a href="https://search.dartslive.com/jp/shop/8f0805438069c86b0d9b047a20a7ba1e">UP'S</a>|<a href="/darts/rank/新潟県/長岡市">新潟県長岡市</a>|
-|54|953|70.|<a href="https://search.dartslive.com/jp/shop/6cf77b506a1589e9790ab824ce8730e5">ALA CAFE DINING</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
-|55|950|SAKU|<a href="https://search.dartslive.com/jp/shop/112bad61fb0a2f3625d56fb0e5c39bac">A.s Arrows</a>|<a href="/darts/rank/新潟県/新発田市">新潟県新発田市</a>|
-|56|949|こーいっちゃん|<a href="https://search.dartslive.com/jp/shop/8f0805438069c86b0d9b047a20a7ba1e">UP'S</a>|<a href="/darts/rank/新潟県/長岡市">新潟県長岡市</a>|
-|57|948|k-ootaki|<a href="https://search.dartslive.com/jp/shop/0fa93e3d69f50a3a25d56fb0e5c39bac">快活CLUB 新潟亀田店</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
-|58|947|井上　至|<a href="https://search.dartslive.com/jp/shop/112bad61fb0a2f3625d56fb0e5c39bac">A.s Arrows</a>|<a href="/darts/rank/新潟県/新発田市">新潟県新発田市</a>|
-|59|943|Ryuki|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|60|941|CAT Card|<a href="https://search.dartslive.com/jp/shop/0fa93e3d69f50a3a25d56fb0e5c39bac">快活CLUB 新潟亀田店</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
-|61|939|☆☆☆☆★rsk|<a href="https://search.dartslive.com/jp/shop/ad144bd10ca51d430d9b047a20a7ba1e">Dartbar D/REVEL</a>|<a href="/darts/rank/新潟県/上越市">新潟県上越市</a>|
-|61|939|井上　至|<a href="https://search.dartslive.com/jp/shop/1e8e6a728906ae90790ab824ce8730e5">ビリヤード&ダーツADVAN</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
-|63|938|CAT Card|<a href="https://search.dartslive.com/jp/shop/bb0971ce1f59c467774c926eb736cb5a">快活CLUB 新発田店</a>|<a href="/darts/rank/新潟県/新発田市">新潟県新発田市</a>|
-|64|935|如月 左投げ|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
-|65|934|はまのだよ|<a href="https://search.dartslive.com/jp/shop/8f0805438069c86b0d9b047a20a7ba1e">UP'S</a>|<a href="/darts/rank/新潟県/長岡市">新潟県長岡市</a>|
-|65|934|五十嵐 翼|<a href="https://search.dartslive.com/jp/shop/bb0971ce1f59c467774c926eb736cb5a">快活CLUB 新発田店</a>|<a href="/darts/rank/新潟県/新発田市">新潟県新発田市</a>|
-|67|933|五十嵐 翼|<a href="https://search.dartslive.com/jp/shop/8f0805438069c86b0d9b047a20a7ba1e">UP'S</a>|<a href="/darts/rank/新潟県/長岡市">新潟県長岡市</a>|
-|68|929|つっちー @ageHa|<a href="https://search.dartslive.com/jp/shop/af9ddf458b272ca358d385ea46352d8f">自遊空間 柏崎店</a>|<a href="/darts/rank/新潟県/柏崎市">新潟県柏崎市</a>|
-|69|927|Ryuki|<a href="https://search.dartslive.com/jp/shop/e91ecbc110d68b220d9b047a20a7ba1e">カフェバー　ラウンジ</a>|<a href="/darts/rank/新潟県/長岡市">新潟県長岡市</a>|
-|69|927|おかか|<a href="https://search.dartslive.com/jp/shop/0fa93e3d69f50a3a25d56fb0e5c39bac">快活CLUB 新潟亀田店</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
-|71|926|山本 准平|<a href="https://search.dartslive.com/jp/shop/3baceaade9fb8a8d5f9f3321c1147265">aobar</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
-|72|925|だっくす|<a href="https://search.dartslive.com/jp/shop/0fa93e3d69f50a3a25d56fb0e5c39bac">快活CLUB 新潟亀田店</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
-|73|924|はやと|<a href="https://search.dartslive.com/jp/shop/bb0971ce1f59c467774c926eb736cb5a">快活CLUB 新発田店</a>|<a href="/darts/rank/新潟県/新発田市">新潟県新発田市</a>|
-|74|923|ハイソ先輩|<a href="https://search.dartslive.com/jp/shop/0fa93e3d69f50a3a25d56fb0e5c39bac">快活CLUB 新潟亀田店</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
-|75|921|Ryuki|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|75|921|桜春@BiLLion|<a href="https://search.dartslive.com/jp/shop/af9ddf458b272ca358d385ea46352d8f">自遊空間 柏崎店</a>|<a href="/darts/rank/新潟県/柏崎市">新潟県柏崎市</a>|
-|77|920|平和|<a href="https://search.dartslive.com/jp/shop/3a2b16daa3afd832a3f63593b5358cc4">自遊空間 新潟黒崎店</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
-|78|918|Hino Kazu|<a href="https://search.dartslive.com/jp/shop/3a2b16daa3afd832a3f63593b5358cc4">自遊空間 新潟黒崎店</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
-|78|918|OSHIMAKing|<a href="https://search.dartslive.com/jp/shop/ad144bd10ca51d430d9b047a20a7ba1e">Dartbar D/REVEL</a>|<a href="/darts/rank/新潟県/上越市">新潟県上越市</a>|
-|80|917|嶺|<a href="https://search.dartslive.com/jp/shop/380c3500b7dac0cba3f63593b5358cc4">darts zone TRIPLE</a>|<a href="/darts/rank/新潟県/胎内市">新潟県胎内市</a>|
-|81|916|坂井　コージ|<a href="https://search.dartslive.com/jp/shop/1e8e6a728906ae90790ab824ce8730e5">ビリヤード&ダーツADVAN</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
-|82|915|Arrows あゆみ|<a href="https://search.dartslive.com/jp/shop/112bad61fb0a2f3625d56fb0e5c39bac">A.s Arrows</a>|<a href="/darts/rank/新潟県/新発田市">新潟県新発田市</a>|
-|83|912|しの|<a href="https://search.dartslive.com/jp/shop/8f0805438069c86b0d9b047a20a7ba1e">UP'S</a>|<a href="/darts/rank/新潟県/長岡市">新潟県長岡市</a>|
-|84|911|山田 憲慎|<a href="https://search.dartslive.com/jp/shop/1e8e6a728906ae90790ab824ce8730e5">ビリヤード&ダーツADVAN</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
-|85|910|つっちー|<a href="https://search.dartslive.com/jp/shop/af9ddf458b272ca358d385ea46352d8f">自遊空間 柏崎店</a>|<a href="/darts/rank/新潟県/柏崎市">新潟県柏崎市</a>|
-|85|910|Ｗａ|<a href="https://search.dartslive.com/jp/shop/0fa93e3d69f50a3a25d56fb0e5c39bac">快活CLUB 新潟亀田店</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
-|87|909|きむ|<a href="https://search.dartslive.com/jp/shop/bb0971ce1f59c467774c926eb736cb5a">快活CLUB 新発田店</a>|<a href="/darts/rank/新潟県/新発田市">新潟県新発田市</a>|
-|88|908|高橋 翼|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
-|89|903|°uzak|<a href="https://search.dartslive.com/jp/shop/b761ef2fb18e7d680d9b047a20a7ba1e">BECOME</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
-|90|902|ちゅーや|<a href="https://search.dartslive.com/jp/shop/93ea87981b724f9c0d9b047a20a7ba1e">Oneday</a>|<a href="/darts/rank/新潟県/十日町市">新潟県十日町市</a>|
-|90|902|中山 紀人|<a href="https://search.dartslive.com/jp/shop/1e8e6a728906ae90790ab824ce8730e5">ビリヤード&ダーツADVAN</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
-|90|902|山崎雅生|<a href="https://search.dartslive.com/jp/shop/112bad61fb0a2f3625d56fb0e5c39bac">A.s Arrows</a>|<a href="/darts/rank/新潟県/新発田市">新潟県新発田市</a>|
-|93|901|Akito|<a href="https://search.dartslive.com/jp/shop/3a2b16daa3afd832a3f63593b5358cc4">自遊空間 新潟黒崎店</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
-|94|900|taitchi|<a href="https://search.dartslive.com/jp/shop/bb0971ce1f59c467774c926eb736cb5a">快活CLUB 新発田店</a>|<a href="/darts/rank/新潟県/新発田市">新潟県新発田市</a>|
-|95|899|アキト|<a href="https://search.dartslive.com/jp/shop/3a2b16daa3afd832a3f63593b5358cc4">自遊空間 新潟黒崎店</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
-|96|898|Kaketti☆EzPz|<a href="https://search.dartslive.com/jp/shop/0fa93e3d69f50a3a25d56fb0e5c39bac">快活CLUB 新潟亀田店</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
-|97|896|YOKO陳|<a href="https://search.dartslive.com/jp/shop/3a2b16daa3afd832a3f63593b5358cc4">自遊空間 新潟黒崎店</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
-|97|896|健やかじゃない太|<a href="https://search.dartslive.com/jp/shop/112bad61fb0a2f3625d56fb0e5c39bac">A.s Arrows</a>|<a href="/darts/rank/新潟県/新発田市">新潟県新発田市</a>|
-|99|895|Arrows たくや|<a href="https://search.dartslive.com/jp/shop/112bad61fb0a2f3625d56fb0e5c39bac">A.s Arrows</a>|<a href="/darts/rank/新潟県/新発田市">新潟県新発田市</a>|
-|100|893|平和|<a href="https://search.dartslive.com/jp/shop/bb0971ce1f59c467774c926eb736cb5a">快活CLUB 新発田店</a>|<a href="/darts/rank/新潟県/新発田市">新潟県新発田市</a>|
+|23|1019|ず～みん(*･ω･)ﾉ|<a href="https://search.dartslive.com/jp/shop/3a2b16daa3afd832a3f63593b5358cc4">自遊空間 新潟黒崎店</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
+|24|1017|SATOSHI|<a href="https://search.dartslive.com/jp/shop/8f0805438069c86b0d9b047a20a7ba1e">UP'S</a>|<a href="/darts/rank/新潟県/長岡市">新潟県長岡市</a>|
+|25|1009|若月　誠太郎。|<a href="https://search.dartslive.com/jp/shop/3a2b16daa3afd832a3f63593b5358cc4">自遊空間 新潟黒崎店</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
+|26|1003|ﾊｰﾏｰ･ﾍﾟﾃｨｸﾞﾘｭｰ|<a href="https://search.dartslive.com/jp/shop/8f0805438069c86b0d9b047a20a7ba1e">UP'S</a>|<a href="/darts/rank/新潟県/長岡市">新潟県長岡市</a>|
+|27|1002|股擦れ奇行種|<a href="https://search.dartslive.com/jp/shop/bb0971ce1f59c467774c926eb736cb5a">快活CLUB 新発田店</a>|<a href="/darts/rank/新潟県/新発田市">新潟県新発田市</a>|
+|28|1001|NoriHiroN|<a href="https://search.dartslive.com/jp/shop/b761ef2fb18e7d680d9b047a20a7ba1e">BECOME</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
+|29|1000|健やかじゃない太|<a href="https://search.dartslive.com/jp/shop/0fa93e3d69f50a3a25d56fb0e5c39bac">快活CLUB 新潟亀田店</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
+|29|1000|若月　誠太郎。|<a href="https://search.dartslive.com/jp/shop/b761ef2fb18e7d680d9b047a20a7ba1e">BECOME</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
+|31|996|小豆★☆|<a href="https://search.dartslive.com/jp/shop/19a3dd6e339274b40d9b047a20a7ba1e">BAR STRAD</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
+|32|986|こーいっちゃん|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|33|977|四十肩|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
+|34|976|ひろろん(笑)|<a href="https://search.dartslive.com/jp/shop/2c6f1df2baa1297e0d9b047a20a7ba1e">UP's 小千谷店</a>|<a href="/darts/rank/新潟県/小千谷市">新潟県小千谷市</a>|
+|35|974|おーしま|<a href="https://search.dartslive.com/jp/shop/4c18926da87e20fcb21333aee1bd51e4">KUROHIGE</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
+|36|973|akito|<a href="https://search.dartslive.com/jp/shop/3a2b16daa3afd832a3f63593b5358cc4">自遊空間 新潟黒崎店</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
+|37|972|木村 駿斗|<a href="https://search.dartslive.com/jp/shop/0fa93e3d69f50a3a25d56fb0e5c39bac">快活CLUB 新潟亀田店</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
+|38|970|しの|<a href="https://search.dartslive.com/jp/shop/2c6f1df2baa1297e0d9b047a20a7ba1e">UP's 小千谷店</a>|<a href="/darts/rank/新潟県/小千谷市">新潟県小千谷市</a>|
+|38|970|渡邉　翔|<a href="https://search.dartslive.com/jp/shop/0fa93e3d69f50a3a25d56fb0e5c39bac">快活CLUB 新潟亀田店</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
+|40|968|TKTS|<a href="https://search.dartslive.com/jp/shop/de9e906e37621b55f454cb89828a1cfe">快活CLUB 新津程島店</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
+|41|967|五十嵐 翼|<a href="https://search.dartslive.com/jp/shop/112bad61fb0a2f3625d56fb0e5c39bac">A.s Arrows</a>|<a href="/darts/rank/新潟県/新発田市">新潟県新発田市</a>|
+|42|966|源Gen@Stinger|<a href="https://search.dartslive.com/jp/shop/4c18926da87e20fcb21333aee1bd51e4">KUROHIGE</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
+|43|965|おーしま|<a href="https://search.dartslive.com/jp/shop/1e8e6a728906ae90790ab824ce8730e5">ビリヤード&ダーツADVAN</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
+|44|964|70.|<a href="https://search.dartslive.com/jp/shop/112bad61fb0a2f3625d56fb0e5c39bac">A.s Arrows</a>|<a href="/darts/rank/新潟県/新発田市">新潟県新発田市</a>|
+|45|962|りょーごsun|<a href="https://search.dartslive.com/jp/shop/3a2b16daa3afd832a3f63593b5358cc4">自遊空間 新潟黒崎店</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
+|45|962|股擦れ奇行種|<a href="https://search.dartslive.com/jp/shop/112bad61fb0a2f3625d56fb0e5c39bac">A.s Arrows</a>|<a href="/darts/rank/新潟県/新発田市">新潟県新発田市</a>|
+|47|961|JIGEN|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|47|961|りょーごsun|<a href="https://search.dartslive.com/jp/shop/de9e906e37621b55f454cb89828a1cfe">快活CLUB 新津程島店</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
+|49|958|おが|<a href="https://search.dartslive.com/jp/shop/8195218bfd5107705f9f3321c1147265">BAD BEAT</a>|<a href="/darts/rank/新潟県/長岡市">新潟県長岡市</a>|
+|50|956|CAT Card|<a href="https://search.dartslive.com/jp/shop/fb636fc90ab94eeff454cb89828a1cfe">快活CLUB 新潟寺尾店</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
+|51|955|Ru→|<a href="https://search.dartslive.com/jp/shop/0fa93e3d69f50a3a25d56fb0e5c39bac">快活CLUB 新潟亀田店</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
+|52|954|SAKU|<a href="https://search.dartslive.com/jp/shop/bb0971ce1f59c467774c926eb736cb5a">快活CLUB 新発田店</a>|<a href="/darts/rank/新潟県/新発田市">新潟県新発田市</a>|
+|52|954|Shino3|<a href="https://search.dartslive.com/jp/shop/8f0805438069c86b0d9b047a20a7ba1e">UP'S</a>|<a href="/darts/rank/新潟県/長岡市">新潟県長岡市</a>|
+|52|954|山本 准平|<a href="https://search.dartslive.com/jp/shop/8f0805438069c86b0d9b047a20a7ba1e">UP'S</a>|<a href="/darts/rank/新潟県/長岡市">新潟県長岡市</a>|
+|55|953|70.|<a href="https://search.dartslive.com/jp/shop/6cf77b506a1589e9790ab824ce8730e5">ALA CAFE DINING</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
+|56|950|SAKU|<a href="https://search.dartslive.com/jp/shop/112bad61fb0a2f3625d56fb0e5c39bac">A.s Arrows</a>|<a href="/darts/rank/新潟県/新発田市">新潟県新発田市</a>|
+|57|949|こーいっちゃん|<a href="https://search.dartslive.com/jp/shop/8f0805438069c86b0d9b047a20a7ba1e">UP'S</a>|<a href="/darts/rank/新潟県/長岡市">新潟県長岡市</a>|
+|58|948|k-ootaki|<a href="https://search.dartslive.com/jp/shop/0fa93e3d69f50a3a25d56fb0e5c39bac">快活CLUB 新潟亀田店</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
+|59|947|井上　至|<a href="https://search.dartslive.com/jp/shop/112bad61fb0a2f3625d56fb0e5c39bac">A.s Arrows</a>|<a href="/darts/rank/新潟県/新発田市">新潟県新発田市</a>|
+|60|943|Ryuki|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|61|941|CAT Card|<a href="https://search.dartslive.com/jp/shop/0fa93e3d69f50a3a25d56fb0e5c39bac">快活CLUB 新潟亀田店</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
+|62|939|☆☆☆☆★rsk|<a href="https://search.dartslive.com/jp/shop/ad144bd10ca51d430d9b047a20a7ba1e">Dartbar D/REVEL</a>|<a href="/darts/rank/新潟県/上越市">新潟県上越市</a>|
+|62|939|井上　至|<a href="https://search.dartslive.com/jp/shop/1e8e6a728906ae90790ab824ce8730e5">ビリヤード&ダーツADVAN</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
+|64|938|CAT Card|<a href="https://search.dartslive.com/jp/shop/bb0971ce1f59c467774c926eb736cb5a">快活CLUB 新発田店</a>|<a href="/darts/rank/新潟県/新発田市">新潟県新発田市</a>|
+|65|935|如月 左投げ|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
+|66|934|はまのだよ|<a href="https://search.dartslive.com/jp/shop/8f0805438069c86b0d9b047a20a7ba1e">UP'S</a>|<a href="/darts/rank/新潟県/長岡市">新潟県長岡市</a>|
+|66|934|五十嵐 翼|<a href="https://search.dartslive.com/jp/shop/bb0971ce1f59c467774c926eb736cb5a">快活CLUB 新発田店</a>|<a href="/darts/rank/新潟県/新発田市">新潟県新発田市</a>|
+|68|933|五十嵐 翼|<a href="https://search.dartslive.com/jp/shop/8f0805438069c86b0d9b047a20a7ba1e">UP'S</a>|<a href="/darts/rank/新潟県/長岡市">新潟県長岡市</a>|
+|69|929|つっちー @ageHa|<a href="https://search.dartslive.com/jp/shop/af9ddf458b272ca358d385ea46352d8f">自遊空間 柏崎店</a>|<a href="/darts/rank/新潟県/柏崎市">新潟県柏崎市</a>|
+|70|927|Ryuki|<a href="https://search.dartslive.com/jp/shop/e91ecbc110d68b220d9b047a20a7ba1e">カフェバー　ラウンジ</a>|<a href="/darts/rank/新潟県/長岡市">新潟県長岡市</a>|
+|70|927|おかか|<a href="https://search.dartslive.com/jp/shop/0fa93e3d69f50a3a25d56fb0e5c39bac">快活CLUB 新潟亀田店</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
+|72|926|山本 准平|<a href="https://search.dartslive.com/jp/shop/3baceaade9fb8a8d5f9f3321c1147265">aobar</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
+|73|925|だっくす|<a href="https://search.dartslive.com/jp/shop/0fa93e3d69f50a3a25d56fb0e5c39bac">快活CLUB 新潟亀田店</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
+|74|924|はやと|<a href="https://search.dartslive.com/jp/shop/bb0971ce1f59c467774c926eb736cb5a">快活CLUB 新発田店</a>|<a href="/darts/rank/新潟県/新発田市">新潟県新発田市</a>|
+|75|923|ハイソ先輩|<a href="https://search.dartslive.com/jp/shop/0fa93e3d69f50a3a25d56fb0e5c39bac">快活CLUB 新潟亀田店</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
+|76|921|Ryuki|<a href="https://search.dartslive.com/jp/shop/c24e1bf4e34e1248a3f63593b5358cc4">自遊空間 燕三条店</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|76|921|桜春@BiLLion|<a href="https://search.dartslive.com/jp/shop/af9ddf458b272ca358d385ea46352d8f">自遊空間 柏崎店</a>|<a href="/darts/rank/新潟県/柏崎市">新潟県柏崎市</a>|
+|78|920|平和|<a href="https://search.dartslive.com/jp/shop/3a2b16daa3afd832a3f63593b5358cc4">自遊空間 新潟黒崎店</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
+|79|918|Hino Kazu|<a href="https://search.dartslive.com/jp/shop/3a2b16daa3afd832a3f63593b5358cc4">自遊空間 新潟黒崎店</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
+|79|918|OSHIMAKing|<a href="https://search.dartslive.com/jp/shop/ad144bd10ca51d430d9b047a20a7ba1e">Dartbar D/REVEL</a>|<a href="/darts/rank/新潟県/上越市">新潟県上越市</a>|
+|81|917|嶺|<a href="https://search.dartslive.com/jp/shop/380c3500b7dac0cba3f63593b5358cc4">darts zone TRIPLE</a>|<a href="/darts/rank/新潟県/胎内市">新潟県胎内市</a>|
+|82|916|坂井　コージ|<a href="https://search.dartslive.com/jp/shop/1e8e6a728906ae90790ab824ce8730e5">ビリヤード&ダーツADVAN</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
+|83|915|Arrows あゆみ|<a href="https://search.dartslive.com/jp/shop/112bad61fb0a2f3625d56fb0e5c39bac">A.s Arrows</a>|<a href="/darts/rank/新潟県/新発田市">新潟県新発田市</a>|
+|84|912|しの|<a href="https://search.dartslive.com/jp/shop/8f0805438069c86b0d9b047a20a7ba1e">UP'S</a>|<a href="/darts/rank/新潟県/長岡市">新潟県長岡市</a>|
+|85|911|山田 憲慎|<a href="https://search.dartslive.com/jp/shop/1e8e6a728906ae90790ab824ce8730e5">ビリヤード&ダーツADVAN</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
+|86|910|つっちー|<a href="https://search.dartslive.com/jp/shop/af9ddf458b272ca358d385ea46352d8f">自遊空間 柏崎店</a>|<a href="/darts/rank/新潟県/柏崎市">新潟県柏崎市</a>|
+|86|910|Ｗａ|<a href="https://search.dartslive.com/jp/shop/0fa93e3d69f50a3a25d56fb0e5c39bac">快活CLUB 新潟亀田店</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
+|88|909|きむ|<a href="https://search.dartslive.com/jp/shop/bb0971ce1f59c467774c926eb736cb5a">快活CLUB 新発田店</a>|<a href="/darts/rank/新潟県/新発田市">新潟県新発田市</a>|
+|89|908|高橋 翼|<a href="https://search.dartslive.com/jp/shop/1e6b04df71c4fd3af454cb89828a1cfe">Bar Precious</a>|<a href="/darts/rank/新潟県/三条市">新潟県三条市</a>|
+|90|903|°uzak|<a href="https://search.dartslive.com/jp/shop/b761ef2fb18e7d680d9b047a20a7ba1e">BECOME</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
+|91|902|ちゅーや|<a href="https://search.dartslive.com/jp/shop/93ea87981b724f9c0d9b047a20a7ba1e">Oneday</a>|<a href="/darts/rank/新潟県/十日町市">新潟県十日町市</a>|
+|91|902|中山 紀人|<a href="https://search.dartslive.com/jp/shop/1e8e6a728906ae90790ab824ce8730e5">ビリヤード&ダーツADVAN</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
+|91|902|山崎雅生|<a href="https://search.dartslive.com/jp/shop/112bad61fb0a2f3625d56fb0e5c39bac">A.s Arrows</a>|<a href="/darts/rank/新潟県/新発田市">新潟県新発田市</a>|
+|94|901|Akito|<a href="https://search.dartslive.com/jp/shop/3a2b16daa3afd832a3f63593b5358cc4">自遊空間 新潟黒崎店</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
+|95|900|taitchi|<a href="https://search.dartslive.com/jp/shop/bb0971ce1f59c467774c926eb736cb5a">快活CLUB 新発田店</a>|<a href="/darts/rank/新潟県/新発田市">新潟県新発田市</a>|
+|96|899|アキト|<a href="https://search.dartslive.com/jp/shop/3a2b16daa3afd832a3f63593b5358cc4">自遊空間 新潟黒崎店</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
+|97|898|Kaketti☆EzPz|<a href="https://search.dartslive.com/jp/shop/0fa93e3d69f50a3a25d56fb0e5c39bac">快活CLUB 新潟亀田店</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
+|98|896|YOKO陳|<a href="https://search.dartslive.com/jp/shop/3a2b16daa3afd832a3f63593b5358cc4">自遊空間 新潟黒崎店</a>|<a href="/darts/rank/新潟県/新潟市">新潟県新潟市</a>|
+|98|896|健やかじゃない太|<a href="https://search.dartslive.com/jp/shop/112bad61fb0a2f3625d56fb0e5c39bac">A.s Arrows</a>|<a href="/darts/rank/新潟県/新発田市">新潟県新発田市</a>|
+|100|895|Arrows たくや|<a href="https://search.dartslive.com/jp/shop/112bad61fb0a2f3625d56fb0e5c39bac">A.s Arrows</a>|<a href="/darts/rank/新潟県/新発田市">新潟県新発田市</a>|
 
 
 
@@ -138,7 +138,7 @@ ___
 
 ___
 
-_last update : 2024/01/21 03:05:52_
+_last update : 2024/01/21 13:38:59_
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
