@@ -69,17 +69,18 @@ ___
   * 別店舗の同名はそれぞれの店舗ごとに扱います。
     * いろんな店渡り歩いてる人は沢山出るけど仕様です。
 
-___
+<div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
+    last update : <span style="font-weight: italic" id="foot_last_modified"></span><br />
+    DARTSLIVE は 株式会社ダーツライブ社 の登録商標です<br />
+    PHONEIXDARTS は フェニックスダーツジャパン株式会社 の登録商標です<br />
+</div>
 
-_last update : 2024/01/21 13:38:52_
-
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/js/jquery.tablesorter.min.js" integrity="sha512-qzgd5cYSZcosqpzpn7zF2ZId8f/8CHmFKZ8j7mU4OUXTNRd5g+ZHBPsgKEwoqxCtdQvExE5LprwwPAgoicguNg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/css/theme.default.min.css" integrity="sha512-wghhOJkjQX0Lh3NSWvNKeZ0ZpNn+SPVXX1Qyc9OCaogADktxrBiBdKGDoqVUOyhStvMBmJQ8ZdMHiR3wuEq8+w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <script>
 $(function() {
     $(".table-ranking").tablesorter({sortList:[[0, 0]]});
+    $("#foot_last_modified").text(formatDate(new Date(document.lastModified), 'yyyy-MM-dd HH:mm:ss'));
 });
 </script>
 
