@@ -1,44 +1,85 @@
 ---
-title: DARTSLIVE AREA RANKING | 愛知県 | みよし市
+title: COUNTUP AREA RANKING | 愛知県 | みよし市
 ---
-## DARTSLIVE AREA RANKING | 愛知県 | みよし市
+## COUNTUP AREA RANKING | 愛知県 | みよし市
 
 [TOP](/darts/rank/) > [愛知県](/darts/rank/愛知県/) > みよし市
 
 ___
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="DARTSLIVE AREA RANKING | 愛知県みよし市" class="twitter-share-button" data-via="DARTSLIVE" data-hashtags="DARTSLIVE" data-related="DARTSLIVE" data-show-count="false">Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="COUNTUP AREA RANKING | 愛知県みよし市" class="twitter-share-button" data-hashtags="DARTSLIVE,PHOENIXDARTS,darts,ダーツ" data-show-count="false">Tweet</a>
 
-### 地域別TOP 100
+* [ランキング](#カウントアップランキング)
+    * [TOP 100](#top-100)
+    * [DARTSLIVE TOP 100](#dartslive-top-100)
+    * [PHOENIXDARTS TOP 100](#phoenixdarts-top-100)
+
+### カウントアップランキング
+
+#### TOP 100
+
+
 
 {:.table-ranking}
-|ランク|スコア|名前|店名|所在地|
+|#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|880|スギ○○ダイ○|<a href="https://search.dartslive.com/jp/shop/8ac715476efa69610d9b047a20a7ba1e">MOCKTAIL FACTORY</a>|<a href="/darts/rank/愛知県/みよし市">愛知県みよし市</a>|
-|2|854|じゃっかる|<a href="https://search.dartslive.com/jp/shop/8ac715476efa69610d9b047a20a7ba1e">MOCKTAIL FACTORY</a>|<a href="/darts/rank/愛知県/みよし市">愛知県みよし市</a>|
-|3|821|ぐい|<a href="https://search.dartslive.com/jp/shop/8ac715476efa69610d9b047a20a7ba1e">MOCKTAIL FACTORY</a>|<a href="/darts/rank/愛知県/みよし市">愛知県みよし市</a>|
-|4|808|みっちょ|<a href="https://search.dartslive.com/jp/shop/8ac715476efa69610d9b047a20a7ba1e">MOCKTAIL FACTORY</a>|<a href="/darts/rank/愛知県/みよし市">愛知県みよし市</a>|
-|5|752|がわせ りょー|<a href="https://search.dartslive.com/jp/shop/8ac715476efa69610d9b047a20a7ba1e">MOCKTAIL FACTORY</a>|<a href="/darts/rank/愛知県/みよし市">愛知県みよし市</a>|
-|6|530|NO NAME 0822|<a href="https://search.dartslive.com/jp/shop/8ac715476efa69610d9b047a20a7ba1e">MOCKTAIL FACTORY</a>|<a href="/darts/rank/愛知県/みよし市">愛知県みよし市</a>|
-|7|491|水野智公|<a href="https://search.dartslive.com/jp/shop/8ac715476efa69610d9b047a20a7ba1e">MOCKTAIL FACTORY</a>|<a href="/darts/rank/愛知県/みよし市">愛知県みよし市</a>|
-|8|370|なっちゃん♡|<a href="https://search.dartslive.com/jp/shop/8ac715476efa69610d9b047a20a7ba1e">MOCKTAIL FACTORY</a>|<a href="/darts/rank/愛知県/みよし市">愛知県みよし市</a>|
-|9|354|KAYO✿.•|<a href="https://search.dartslive.com/jp/shop/8ac715476efa69610d9b047a20a7ba1e">MOCKTAIL FACTORY</a>|<a href="/darts/rank/愛知県/みよし市">愛知県みよし市</a>|
-|10|348|まお♡*｡.|<a href="https://search.dartslive.com/jp/shop/8ac715476efa69610d9b047a20a7ba1e">MOCKTAIL FACTORY</a>|<a href="/darts/rank/愛知県/みよし市">愛知県みよし市</a>|
-|11|298|MAYUMI|<a href="https://search.dartslive.com/jp/shop/8ac715476efa69610d9b047a20a7ba1e">MOCKTAIL FACTORY</a>|<a href="/darts/rank/愛知県/みよし市">愛知県みよし市</a>|
+|1|880|<span class="rank-name-dl">スギ○○ダイ○</span>|<a href="https://search.dartslive.com/jp/shop/8ac715476efa69610d9b047a20a7ba1e">MOCKTAIL FACTORY</a>|<a href="/darts/rank/愛知県/みよし市">愛知県みよし市</a>|
+|2|854|<span class="rank-name-dl">じゃっかる</span>|<a href="https://search.dartslive.com/jp/shop/8ac715476efa69610d9b047a20a7ba1e">MOCKTAIL FACTORY</a>|<a href="/darts/rank/愛知県/みよし市">愛知県みよし市</a>|
+|3|821|<span class="rank-name-dl">ぐい</span>|<a href="https://search.dartslive.com/jp/shop/8ac715476efa69610d9b047a20a7ba1e">MOCKTAIL FACTORY</a>|<a href="/darts/rank/愛知県/みよし市">愛知県みよし市</a>|
+|4|808|<span class="rank-name-dl">みっちょ</span>|<a href="https://search.dartslive.com/jp/shop/8ac715476efa69610d9b047a20a7ba1e">MOCKTAIL FACTORY</a>|<a href="/darts/rank/愛知県/みよし市">愛知県みよし市</a>|
+|5|752|<span class="rank-name-dl">がわせ りょー</span>|<a href="https://search.dartslive.com/jp/shop/8ac715476efa69610d9b047a20a7ba1e">MOCKTAIL FACTORY</a>|<a href="/darts/rank/愛知県/みよし市">愛知県みよし市</a>|
+|6|530|<span class="rank-name-dl">NO NAME 0822</span>|<a href="https://search.dartslive.com/jp/shop/8ac715476efa69610d9b047a20a7ba1e">MOCKTAIL FACTORY</a>|<a href="/darts/rank/愛知県/みよし市">愛知県みよし市</a>|
+|7|491|<span class="rank-name-dl">水野智公</span>|<a href="https://search.dartslive.com/jp/shop/8ac715476efa69610d9b047a20a7ba1e">MOCKTAIL FACTORY</a>|<a href="/darts/rank/愛知県/みよし市">愛知県みよし市</a>|
+|8|381|<span class="rank-name-dl">小ノ星海果</span>|<a href="https://search.dartslive.com/jp/shop/8ac715476efa69610d9b047a20a7ba1e">MOCKTAIL FACTORY</a>|<a href="/darts/rank/愛知県/みよし市">愛知県みよし市</a>|
+|9|370|<span class="rank-name-dl">なっちゃん♡</span>|<a href="https://search.dartslive.com/jp/shop/8ac715476efa69610d9b047a20a7ba1e">MOCKTAIL FACTORY</a>|<a href="/darts/rank/愛知県/みよし市">愛知県みよし市</a>|
+|10|354|<span class="rank-name-dl">KAYO✿.•</span>|<a href="https://search.dartslive.com/jp/shop/8ac715476efa69610d9b047a20a7ba1e">MOCKTAIL FACTORY</a>|<a href="/darts/rank/愛知県/みよし市">愛知県みよし市</a>|
+|11|348|<span class="rank-name-dl">まお♡*｡.</span>|<a href="https://search.dartslive.com/jp/shop/8ac715476efa69610d9b047a20a7ba1e">MOCKTAIL FACTORY</a>|<a href="/darts/rank/愛知県/みよし市">愛知県みよし市</a>|
+|12|298|<span class="rank-name-dl">MAYUMI</span>|<a href="https://search.dartslive.com/jp/shop/8ac715476efa69610d9b047a20a7ba1e">MOCKTAIL FACTORY</a>|<a href="/darts/rank/愛知県/みよし市">愛知県みよし市</a>|
+
+
+#### DARTSLIVE TOP 100
 
 
 
-___
+{:.table-ranking}
+|#|スコア|名前|店名|所在地|
+|---|---|---|---|---|
+|1|880|<span class="rank-name-dl">スギ○○ダイ○</span>|<a href="https://search.dartslive.com/jp/shop/8ac715476efa69610d9b047a20a7ba1e">MOCKTAIL FACTORY</a>|<a href="/darts/rank/愛知県/みよし市">愛知県みよし市</a>|
+|2|854|<span class="rank-name-dl">じゃっかる</span>|<a href="https://search.dartslive.com/jp/shop/8ac715476efa69610d9b047a20a7ba1e">MOCKTAIL FACTORY</a>|<a href="/darts/rank/愛知県/みよし市">愛知県みよし市</a>|
+|3|821|<span class="rank-name-dl">ぐい</span>|<a href="https://search.dartslive.com/jp/shop/8ac715476efa69610d9b047a20a7ba1e">MOCKTAIL FACTORY</a>|<a href="/darts/rank/愛知県/みよし市">愛知県みよし市</a>|
+|4|808|<span class="rank-name-dl">みっちょ</span>|<a href="https://search.dartslive.com/jp/shop/8ac715476efa69610d9b047a20a7ba1e">MOCKTAIL FACTORY</a>|<a href="/darts/rank/愛知県/みよし市">愛知県みよし市</a>|
+|5|752|<span class="rank-name-dl">がわせ りょー</span>|<a href="https://search.dartslive.com/jp/shop/8ac715476efa69610d9b047a20a7ba1e">MOCKTAIL FACTORY</a>|<a href="/darts/rank/愛知県/みよし市">愛知県みよし市</a>|
+|6|530|<span class="rank-name-dl">NO NAME 0822</span>|<a href="https://search.dartslive.com/jp/shop/8ac715476efa69610d9b047a20a7ba1e">MOCKTAIL FACTORY</a>|<a href="/darts/rank/愛知県/みよし市">愛知県みよし市</a>|
+|7|491|<span class="rank-name-dl">水野智公</span>|<a href="https://search.dartslive.com/jp/shop/8ac715476efa69610d9b047a20a7ba1e">MOCKTAIL FACTORY</a>|<a href="/darts/rank/愛知県/みよし市">愛知県みよし市</a>|
+|8|381|<span class="rank-name-dl">小ノ星海果</span>|<a href="https://search.dartslive.com/jp/shop/8ac715476efa69610d9b047a20a7ba1e">MOCKTAIL FACTORY</a>|<a href="/darts/rank/愛知県/みよし市">愛知県みよし市</a>|
+|9|370|<span class="rank-name-dl">なっちゃん♡</span>|<a href="https://search.dartslive.com/jp/shop/8ac715476efa69610d9b047a20a7ba1e">MOCKTAIL FACTORY</a>|<a href="/darts/rank/愛知県/みよし市">愛知県みよし市</a>|
+|10|354|<span class="rank-name-dl">KAYO✿.•</span>|<a href="https://search.dartslive.com/jp/shop/8ac715476efa69610d9b047a20a7ba1e">MOCKTAIL FACTORY</a>|<a href="/darts/rank/愛知県/みよし市">愛知県みよし市</a>|
+|11|348|<span class="rank-name-dl">まお♡*｡.</span>|<a href="https://search.dartslive.com/jp/shop/8ac715476efa69610d9b047a20a7ba1e">MOCKTAIL FACTORY</a>|<a href="/darts/rank/愛知県/みよし市">愛知県みよし市</a>|
+|12|298|<span class="rank-name-dl">MAYUMI</span>|<a href="https://search.dartslive.com/jp/shop/8ac715476efa69610d9b047a20a7ba1e">MOCKTAIL FACTORY</a>|<a href="/darts/rank/愛知県/みよし市">愛知県みよし市</a>|
 
-_last update : 2024/01/21 13:39:01_
+
+#### PHOENIXDARTS TOP 100
 
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+{:.table-ranking}
+|#|スコア|名前|店名|所在地|
+|---|---|---|---|---|
+||0|<span class="rank-name-dl"> </span>|<a href=""></a>|<a href="/darts/rank//"></a>|
+
+
+<div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
+    last update : <span style="font-weight: italic" id="foot_last_modified"></span><br />
+    DARTSLIVE は 株式会社ダーツライブ社 の登録商標です<br />
+    PHOENIXDARTS は フェニックスダーツジャパン株式会社 の登録商標です<br />
+</div>
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/js/jquery.tablesorter.min.js" integrity="sha512-qzgd5cYSZcosqpzpn7zF2ZId8f/8CHmFKZ8j7mU4OUXTNRd5g+ZHBPsgKEwoqxCtdQvExE5LprwwPAgoicguNg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/css/theme.default.min.css" integrity="sha512-wghhOJkjQX0Lh3NSWvNKeZ0ZpNn+SPVXX1Qyc9OCaogADktxrBiBdKGDoqVUOyhStvMBmJQ8ZdMHiR3wuEq8+w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <script>
 $(function() {
     $(".table-ranking").tablesorter({sortList:[[0, 0]]});
+    $("#foot_last_modified").text(formatDate(new Date(document.lastModified), 'yyyy-MM-dd HH:mm:ss'));
 });
 </script>
 

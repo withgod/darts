@@ -1,114 +1,233 @@
 ---
-title: DARTSLIVE AREA RANKING | 滋賀県 | 栗東市
+title: COUNTUP AREA RANKING | 滋賀県 | 栗東市
 ---
-## DARTSLIVE AREA RANKING | 滋賀県 | 栗東市
+## COUNTUP AREA RANKING | 滋賀県 | 栗東市
 
 [TOP](/darts/rank/) > [滋賀県](/darts/rank/滋賀県/) > 栗東市
 
 ___
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="DARTSLIVE AREA RANKING | 滋賀県栗東市" class="twitter-share-button" data-via="DARTSLIVE" data-hashtags="DARTSLIVE" data-related="DARTSLIVE" data-show-count="false">Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="COUNTUP AREA RANKING | 滋賀県栗東市" class="twitter-share-button" data-hashtags="DARTSLIVE,PHOENIXDARTS,darts,ダーツ" data-show-count="false">Tweet</a>
 
-### 地域別TOP 100
+* [ランキング](#カウントアップランキング)
+    * [TOP 100](#top-100)
+    * [DARTSLIVE TOP 100](#dartslive-top-100)
+    * [PHOENIXDARTS TOP 100](#phoenixdarts-top-100)
+
+### カウントアップランキング
+
+#### TOP 100
+
+
 
 {:.table-ranking}
-|ランク|スコア|名前|店名|所在地|
+|#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1117|ゆーこ|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|2|1086|上田　勉|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|3|1084|出水 尊章|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|4|1077|BIGMAN＠Local|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|4|1077|ハーモニカ|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|6|1065|®やくみつゆ®|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|6|1065|やくみつゆ|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|8|1053|Nikaaaa➹|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|9|1048|(｡-_-｡)|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|10|1047|Nyaa(｀・ω・´)|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|10|1047|森本 純矢|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|12|1043|イソロク|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|13|1042|-D-|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|14|1040|cashew nuts ｲｿﾛｸ|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|15|1037|ｱﾝﾊﾟﾝﾏﾝ|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|16|1034|飼い主さん|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|17|1029|シンえもん BLACK|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|18|1023|tomRock|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|18|1023|五十六|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|20|1021|NO NAME 1511|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|21|1017|tomRock|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|22|1016|川西康士|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|23|1010|ポンコツ|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|24|1008|勝@ザキ|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|25|983|光@ひかるくん|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|26|980|カズ|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|27|978|tomRock|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|27|978|チャッピー|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|29|976|houyou|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|30|971|ﾅﾆ⊃ゃまゑ|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|31|966|PITMAN|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|32|964|おかゆ|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|33|962|高瀬ハーミー小林|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|34|944|♡かおchan♡|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|35|938|HITMAN|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|36|937|わか@Local|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|37|932|いそろくミッド|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|37|932|ゆ|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|39|892|しんやまもと|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|40|868|中川 梓|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|40|868|古谷　直彦|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|42|838|072月曜だけ|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|43|835|るり|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|44|834|ベーベベ|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|45|813|ずっちーな悠月|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|46|805|♡かおchan♡|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|47|802|☆高野　佳子☆|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|48|800|りゅう|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|49|791|maegawa|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|50|747|らな|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|51|744|ちゃんみ|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|52|740|Yun♔.ﾟ|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|53|733|まなP@Local|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|54|722|maco|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|55|696|ブロッコリー山田|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|56|665|ちゃんみ|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|57|663|Myaa(´･ω･` )|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|57|663|とりあえずアユ|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|59|654|Saori|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|60|630|KIWAKO|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|61|628|さやねぇ|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|62|626|ゆら。|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|63|610|Kanna|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|64|606|DECO*27|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|65|599|Sekky|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|66|575|★ハイビ★|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|67|552|おおきみき|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|68|517|アルエ|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|69|505|RSSING|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|70|488|ちぃ|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|71|487|Myaa(´･ω･` )|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|72|470|aka|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|73|459|Re*|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|74|458|namika|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|75|455|人糞ぐい姉|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|76|450|おちび821|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|77|437|NJPW★はっち★|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|78|432|はーちゃん|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|79|422|海里|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|80|397|ERITAN|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
-|81|361|まりあんぬ|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|1|1117|<span class="rank-name-dl">ゆーこ</span>|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|2|1086|<span class="rank-name-dl">上田　勉</span>|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|3|1084|<span class="rank-name-dl">出水 尊章</span>|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|4|1077|<span class="rank-name-dl">BIGMAN＠Local</span>|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|4|1077|<span class="rank-name-dl">ハーモニカ</span>|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|6|1065|<span class="rank-name-dl">®やくみつゆ®</span>|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|6|1065|<span class="rank-name-dl">やくみつゆ</span>|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|8|1053|<span class="rank-name-dl">Nikaaaa➹</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|9|1052|<span class="rank-name-dl">チャッピー</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|10|1048|<span class="rank-name-dl">(｡-_-｡)</span>|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|11|1047|<span class="rank-name-dl">Nyaa(｀・ω・´)</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|11|1047|<span class="rank-name-dl">森本 純矢</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|13|1043|<span class="rank-name-dl">イソロク</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|14|1042|<span class="rank-name-dl">-D-</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|15|1040|<span class="rank-name-dl">cashew nuts ｲｿﾛｸ</span>|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|16|1037|<span class="rank-name-dl">ｱﾝﾊﾟﾝﾏﾝ</span>|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|17|1034|<span class="rank-name-dl">飼い主さん</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|18|1029|<span class="rank-name-dl">Nyaa‪(ᯅ̈ )</span>|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|18|1029|<span class="rank-name-dl">シンえもん BLACK</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|20|1023|<span class="rank-name-dl">tomRock</span>|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|20|1023|<span class="rank-name-dl">五十六</span>|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|22|1021|<span class="rank-name-dl">NO NAME 1511</span>|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|23|1017|<span class="rank-name-dl">tomRock</span>|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|24|1016|<span class="rank-name-dl">川西康士</span>|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|25|1010|<span class="rank-name-dl">ポンコツ</span>|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|26|1008|<span class="rank-name-dl">勝@ザキ</span>|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|27|983|<span class="rank-name-dl">光@ひかるくん</span>|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|28|980|<span class="rank-name-dl">カズ</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|29|978|<span class="rank-name-dl">tomRock</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|30|976|<span class="rank-name-dl">houyou</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|31|971|<span class="rank-name-dl">ﾅﾆ⊃ゃまゑ</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|32|968|<span class="rank-name-dl">Nyaa(｀・ω・´)</span>|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|33|966|<span class="rank-name-dl">PITMAN</span>|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|34|964|<span class="rank-name-dl">おかゆ</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|35|962|<span class="rank-name-dl">高瀬ハーミー小林</span>|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|36|944|<span class="rank-name-dl">♡かおchan♡</span>|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|37|938|<span class="rank-name-dl">HITMAN</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|38|937|<span class="rank-name-dl">わか@Local</span>|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|39|932|<span class="rank-name-dl">いそろくミッド</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|39|932|<span class="rank-name-dl">ゆ</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|41|892|<span class="rank-name-dl">しんやまもと</span>|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|42|868|<span class="rank-name-dl">中川 梓</span>|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|42|868|<span class="rank-name-dl">古谷　直彦</span>|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|44|838|<span class="rank-name-dl">072月曜だけ</span>|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|45|835|<span class="rank-name-dl">るり</span>|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|46|834|<span class="rank-name-dl">ベーベベ</span>|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|47|813|<span class="rank-name-dl">ずっちーな悠月</span>|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|48|805|<span class="rank-name-dl">♡かおchan♡</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|49|802|<span class="rank-name-dl">☆高野　佳子☆</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|50|800|<span class="rank-name-dl">りゅう</span>|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|51|791|<span class="rank-name-dl">maegawa</span>|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|52|747|<span class="rank-name-dl">らな</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|53|744|<span class="rank-name-dl">ちゃんみ</span>|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|54|740|<span class="rank-name-dl">Yun♔.ﾟ</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|55|733|<span class="rank-name-dl">まなP@Local</span>|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|56|722|<span class="rank-name-dl">maco</span>|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|57|698|<span class="rank-name-dl">とりあえずアユ</span>|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|58|696|<span class="rank-name-dl">ブロッコリー山田</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|59|668|<span class="rank-name-dl">あんぬ</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|60|665|<span class="rank-name-dl">ちゃんみ</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|61|663|<span class="rank-name-dl">Myaa(´･ω･` )</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|62|654|<span class="rank-name-dl">Saori</span>|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|63|630|<span class="rank-name-dl">KIWAKO</span>|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|64|628|<span class="rank-name-dl">さやねぇ</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|65|626|<span class="rank-name-dl">ゆら。</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|66|615|<span class="rank-name-dl">Myaa(´･ω･` )</span>|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|67|610|<span class="rank-name-dl">Kanna</span>|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|68|606|<span class="rank-name-dl">DECO*27</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|69|599|<span class="rank-name-dl">R</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|69|599|<span class="rank-name-dl">Sekky</span>|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|71|577|<span class="rank-name-dl">ぱつこ^^</span>|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|72|575|<span class="rank-name-dl">★ハイビ★</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|73|552|<span class="rank-name-dl">おおきみき</span>|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|74|517|<span class="rank-name-dl">アルエ</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|75|505|<span class="rank-name-dl">RSSING</span>|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|76|488|<span class="rank-name-dl">ちぃ</span>|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|77|470|<span class="rank-name-dl">aka</span>|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|78|459|<span class="rank-name-dl">Re*</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|79|458|<span class="rank-name-dl">namika</span>|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|80|455|<span class="rank-name-dl">人糞ぐい姉</span>|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|81|450|<span class="rank-name-dl">おちび821</span>|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|82|437|<span class="rank-name-dl">NJPW★はっち★</span>|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|83|432|<span class="rank-name-dl">はーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|84|422|<span class="rank-name-dl">海里</span>|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|85|397|<span class="rank-name-dl">ERITAN</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|86|361|<span class="rank-name-dl">まりあんぬ</span>|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+
+
+#### DARTSLIVE TOP 100
 
 
 
-___
+{:.table-ranking}
+|#|スコア|名前|店名|所在地|
+|---|---|---|---|---|
+|1|1117|<span class="rank-name-dl">ゆーこ</span>|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|2|1086|<span class="rank-name-dl">上田　勉</span>|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|3|1084|<span class="rank-name-dl">出水 尊章</span>|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|4|1077|<span class="rank-name-dl">BIGMAN＠Local</span>|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|4|1077|<span class="rank-name-dl">ハーモニカ</span>|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|6|1065|<span class="rank-name-dl">®やくみつゆ®</span>|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|6|1065|<span class="rank-name-dl">やくみつゆ</span>|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|8|1053|<span class="rank-name-dl">Nikaaaa➹</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|9|1052|<span class="rank-name-dl">チャッピー</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|10|1048|<span class="rank-name-dl">(｡-_-｡)</span>|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|11|1047|<span class="rank-name-dl">Nyaa(｀・ω・´)</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|11|1047|<span class="rank-name-dl">森本 純矢</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|13|1043|<span class="rank-name-dl">イソロク</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|14|1042|<span class="rank-name-dl">-D-</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|15|1040|<span class="rank-name-dl">cashew nuts ｲｿﾛｸ</span>|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|16|1037|<span class="rank-name-dl">ｱﾝﾊﾟﾝﾏﾝ</span>|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|17|1034|<span class="rank-name-dl">飼い主さん</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|18|1029|<span class="rank-name-dl">Nyaa‪(ᯅ̈ )</span>|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|18|1029|<span class="rank-name-dl">シンえもん BLACK</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|20|1023|<span class="rank-name-dl">tomRock</span>|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|20|1023|<span class="rank-name-dl">五十六</span>|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|22|1021|<span class="rank-name-dl">NO NAME 1511</span>|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|23|1017|<span class="rank-name-dl">tomRock</span>|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|24|1016|<span class="rank-name-dl">川西康士</span>|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|25|1010|<span class="rank-name-dl">ポンコツ</span>|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|26|1008|<span class="rank-name-dl">勝@ザキ</span>|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|27|983|<span class="rank-name-dl">光@ひかるくん</span>|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|28|980|<span class="rank-name-dl">カズ</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|29|978|<span class="rank-name-dl">tomRock</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|30|976|<span class="rank-name-dl">houyou</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|31|971|<span class="rank-name-dl">ﾅﾆ⊃ゃまゑ</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|32|968|<span class="rank-name-dl">Nyaa(｀・ω・´)</span>|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|33|966|<span class="rank-name-dl">PITMAN</span>|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|34|964|<span class="rank-name-dl">おかゆ</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|35|962|<span class="rank-name-dl">高瀬ハーミー小林</span>|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|36|944|<span class="rank-name-dl">♡かおchan♡</span>|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|37|938|<span class="rank-name-dl">HITMAN</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|38|937|<span class="rank-name-dl">わか@Local</span>|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|39|932|<span class="rank-name-dl">いそろくミッド</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|39|932|<span class="rank-name-dl">ゆ</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|41|892|<span class="rank-name-dl">しんやまもと</span>|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|42|868|<span class="rank-name-dl">中川 梓</span>|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|42|868|<span class="rank-name-dl">古谷　直彦</span>|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|44|838|<span class="rank-name-dl">072月曜だけ</span>|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|45|835|<span class="rank-name-dl">るり</span>|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|46|834|<span class="rank-name-dl">ベーベベ</span>|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|47|813|<span class="rank-name-dl">ずっちーな悠月</span>|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|48|805|<span class="rank-name-dl">♡かおchan♡</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|49|802|<span class="rank-name-dl">☆高野　佳子☆</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|50|800|<span class="rank-name-dl">りゅう</span>|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|51|791|<span class="rank-name-dl">maegawa</span>|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|52|747|<span class="rank-name-dl">らな</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|53|744|<span class="rank-name-dl">ちゃんみ</span>|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|54|740|<span class="rank-name-dl">Yun♔.ﾟ</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|55|733|<span class="rank-name-dl">まなP@Local</span>|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|56|722|<span class="rank-name-dl">maco</span>|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|57|698|<span class="rank-name-dl">とりあえずアユ</span>|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|58|696|<span class="rank-name-dl">ブロッコリー山田</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|59|668|<span class="rank-name-dl">あんぬ</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|60|665|<span class="rank-name-dl">ちゃんみ</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|61|663|<span class="rank-name-dl">Myaa(´･ω･` )</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|62|654|<span class="rank-name-dl">Saori</span>|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|63|630|<span class="rank-name-dl">KIWAKO</span>|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|64|628|<span class="rank-name-dl">さやねぇ</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|65|626|<span class="rank-name-dl">ゆら。</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|66|615|<span class="rank-name-dl">Myaa(´･ω･` )</span>|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|67|610|<span class="rank-name-dl">Kanna</span>|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|68|606|<span class="rank-name-dl">DECO*27</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|69|599|<span class="rank-name-dl">R</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|69|599|<span class="rank-name-dl">Sekky</span>|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|71|577|<span class="rank-name-dl">ぱつこ^^</span>|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|72|575|<span class="rank-name-dl">★ハイビ★</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|73|552|<span class="rank-name-dl">おおきみき</span>|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|74|517|<span class="rank-name-dl">アルエ</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|75|505|<span class="rank-name-dl">RSSING</span>|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|76|488|<span class="rank-name-dl">ちぃ</span>|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|77|470|<span class="rank-name-dl">aka</span>|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|78|459|<span class="rank-name-dl">Re*</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|79|458|<span class="rank-name-dl">namika</span>|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|80|455|<span class="rank-name-dl">人糞ぐい姉</span>|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|81|450|<span class="rank-name-dl">おちび821</span>|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|82|437|<span class="rank-name-dl">NJPW★はっち★</span>|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|83|432|<span class="rank-name-dl">はーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|84|422|<span class="rank-name-dl">海里</span>|<a href="https://search.dartslive.com/jp/shop/894774738d5135a8b21333aee1bd51e4">R's STORE</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|85|397|<span class="rank-name-dl">ERITAN</span>|<a href="https://search.dartslive.com/jp/shop/45e99a446d27f93ab21333aee1bd51e4">快活CLUB 栗東店</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
+|86|361|<span class="rank-name-dl">まりあんぬ</span>|<a href="https://search.dartslive.com/jp/shop/7b8ac04af838b4d625d56fb0e5c39bac">Darts&Bar Local</a>|<a href="/darts/rank/滋賀県/栗東市">滋賀県栗東市</a>|
 
-_last update : 2024/01/21 13:39:03_
+
+#### PHOENIXDARTS TOP 100
 
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+{:.table-ranking}
+|#|スコア|名前|店名|所在地|
+|---|---|---|---|---|
+||0|<span class="rank-name-dl"> </span>|<a href=""></a>|<a href="/darts/rank//"></a>|
+
+
+<div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
+    last update : <span style="font-weight: italic" id="foot_last_modified"></span><br />
+    DARTSLIVE は 株式会社ダーツライブ社 の登録商標です<br />
+    PHOENIXDARTS は フェニックスダーツジャパン株式会社 の登録商標です<br />
+</div>
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/js/jquery.tablesorter.min.js" integrity="sha512-qzgd5cYSZcosqpzpn7zF2ZId8f/8CHmFKZ8j7mU4OUXTNRd5g+ZHBPsgKEwoqxCtdQvExE5LprwwPAgoicguNg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/css/theme.default.min.css" integrity="sha512-wghhOJkjQX0Lh3NSWvNKeZ0ZpNn+SPVXX1Qyc9OCaogADktxrBiBdKGDoqVUOyhStvMBmJQ8ZdMHiR3wuEq8+w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <script>
 $(function() {
     $(".table-ranking").tablesorter({sortList:[[0, 0]]});
+    $("#foot_last_modified").text(formatDate(new Date(document.lastModified), 'yyyy-MM-dd HH:mm:ss'));
 });
 </script>
 

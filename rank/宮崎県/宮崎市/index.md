@@ -1,133 +1,360 @@
 ---
-title: DARTSLIVE AREA RANKING | 宮崎県 | 宮崎市
+title: COUNTUP AREA RANKING | 宮崎県 | 宮崎市
 ---
-## DARTSLIVE AREA RANKING | 宮崎県 | 宮崎市
+## COUNTUP AREA RANKING | 宮崎県 | 宮崎市
 
 [TOP](/darts/rank/) > [宮崎県](/darts/rank/宮崎県/) > 宮崎市
 
 ___
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="DARTSLIVE AREA RANKING | 宮崎県宮崎市" class="twitter-share-button" data-via="DARTSLIVE" data-hashtags="DARTSLIVE" data-related="DARTSLIVE" data-show-count="false">Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="COUNTUP AREA RANKING | 宮崎県宮崎市" class="twitter-share-button" data-hashtags="DARTSLIVE,PHOENIXDARTS,darts,ダーツ" data-show-count="false">Tweet</a>
 
-### 地域別TOP 100
+* [ランキング](#カウントアップランキング)
+    * [TOP 100](#top-100)
+    * [DARTSLIVE TOP 100](#dartslive-top-100)
+    * [PHOENIXDARTS TOP 100](#phoenixdarts-top-100)
+
+### カウントアップランキング
+
+#### TOP 100
+
+
 
 {:.table-ranking}
-|ランク|スコア|名前|店名|所在地|
+|#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1003|打上花火@幸|<a href="https://search.dartslive.com/jp/shop/3d2c18a08426716a0d9b047a20a7ba1e">ラウンドワン宮崎店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|2|971|茄子@W.M.P|<a href="https://search.dartslive.com/jp/shop/ce743ab738115bd5a3f63593b5358cc4">darts house JOHN.Q</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|3|970|志々目 光晃|<a href="https://search.dartslive.com/jp/shop/ce743ab738115bd5a3f63593b5358cc4">darts house JOHN.Q</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|4|965|志々目 光晃|<a href="https://search.dartslive.com/jp/shop/0d37fa66832445af28032249b44395af">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|5|964|#hiro.a|<a href="https://search.dartslive.com/jp/shop/3d2c18a08426716a0d9b047a20a7ba1e">ラウンドワン宮崎店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|6|961|BANCHO|<a href="https://search.dartslive.com/jp/shop/1bcdf0179e1a6eb9f454cb89828a1cfe">快活CLUB 宮崎加納店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|7|954|茄子@W.M.P|<a href="https://search.dartslive.com/jp/shop/0d37fa66832445af28032249b44395af">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|8|949|岩切晴翔|<a href="https://search.dartslive.com/jp/shop/3d2c18a08426716a0d9b047a20a7ba1e">ラウンドワン宮崎店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|9|945|Mt.Fuji@ポンコツ|<a href="https://search.dartslive.com/jp/shop/3d2c18a08426716a0d9b047a20a7ba1e">ラウンドワン宮崎店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|10|942|小部 紘弥|<a href="https://search.dartslive.com/jp/shop/3d2c18a08426716a0d9b047a20a7ba1e">ラウンドワン宮崎店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|11|940|こんなもんかな？|<a href="https://search.dartslive.com/jp/shop/0d37fa66832445af28032249b44395af">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|12|938|幸@打上花火|<a href="https://search.dartslive.com/jp/shop/1bcdf0179e1a6eb9f454cb89828a1cfe">快活CLUB 宮崎加納店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|13|937|コジティー侍大将|<a href="https://search.dartslive.com/jp/shop/9c41875e3d892406a3f63593b5358cc4">B-GARAGE 宮崎一番街店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|14|935|BANCHO|<a href="https://search.dartslive.com/jp/shop/3d2c18a08426716a0d9b047a20a7ba1e">ラウンドワン宮崎店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|15|928|幸@打上花火|<a href="https://search.dartslive.com/jp/shop/3d2c18a08426716a0d9b047a20a7ba1e">ラウンドワン宮崎店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|16|925|Ａｕｇａｓｔａｒ|<a href="https://search.dartslive.com/jp/shop/ce743ab738115bd5a3f63593b5358cc4">darts house JOHN.Q</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|17|921|コジティー侍大将|<a href="https://search.dartslive.com/jp/shop/3d2c18a08426716a0d9b047a20a7ba1e">ラウンドワン宮崎店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|18|920|川本　哲平|<a href="https://search.dartslive.com/jp/shop/9c41875e3d892406a3f63593b5358cc4">B-GARAGE 宮崎一番街店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|19|913|くろす|<a href="https://search.dartslive.com/jp/shop/3d2c18a08426716a0d9b047a20a7ba1e">ラウンドワン宮崎店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|20|893|いちこ|<a href="https://search.dartslive.com/jp/shop/0d37fa66832445af28032249b44395af">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|21|888|tani Ｇ→|<a href="https://search.dartslive.com/jp/shop/ce743ab738115bd5a3f63593b5358cc4">darts house JOHN.Q</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|22|873|IPPON|<a href="https://search.dartslive.com/jp/shop/0d37fa66832445af28032249b44395af">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|23|870|川本　哲平|<a href="https://search.dartslive.com/jp/shop/0d37fa66832445af28032249b44395af">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|24|869|BANCHO|<a href="https://search.dartslive.com/jp/shop/ac604cb8cf3a20720d9b047a20a7ba1e">DRAGON</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|25|868|川本　哲平|<a href="https://search.dartslive.com/jp/shop/ce743ab738115bd5a3f63593b5358cc4">darts house JOHN.Q</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|26|856|ИΘЯI[JOHN.Q]|<a href="https://search.dartslive.com/jp/shop/ce743ab738115bd5a3f63593b5358cc4">darts house JOHN.Q</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|27|844|川本　哲平|<a href="https://search.dartslive.com/jp/shop/1bcdf0179e1a6eb9f454cb89828a1cfe">快活CLUB 宮崎加納店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|28|842|河童さん|<a href="https://search.dartslive.com/jp/shop/ce743ab738115bd5a3f63593b5358cc4">darts house JOHN.Q</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|29|838|あごまさ|<a href="https://search.dartslive.com/jp/shop/ac604cb8cf3a20720d9b047a20a7ba1e">DRAGON</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|30|836|コジティー侍大将|<a href="https://search.dartslive.com/jp/shop/0d37fa66832445af28032249b44395af">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|31|822|ドン|<a href="https://search.dartslive.com/jp/shop/ac604cb8cf3a20720d9b047a20a7ba1e">DRAGON</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|32|821|落武者シンディ|<a href="https://search.dartslive.com/jp/shop/9c41875e3d892406a3f63593b5358cc4">B-GARAGE 宮崎一番街店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|33|820|Darurun@気分屋|<a href="https://search.dartslive.com/jp/shop/1bcdf0179e1a6eb9f454cb89828a1cfe">快活CLUB 宮崎加納店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|34|815|^₋^)✓↣✺|<a href="https://search.dartslive.com/jp/shop/ac604cb8cf3a20720d9b047a20a7ba1e">DRAGON</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|34|815|幸@打上花火|<a href="https://search.dartslive.com/jp/shop/ac604cb8cf3a20720d9b047a20a7ba1e">DRAGON</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|36|811|MasH|<a href="https://search.dartslive.com/jp/shop/3d2c18a08426716a0d9b047a20a7ba1e">ラウンドワン宮崎店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|37|810|テツヘイ|<a href="https://search.dartslive.com/jp/shop/1bcdf0179e1a6eb9f454cb89828a1cfe">快活CLUB 宮崎加納店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|38|805|NO NAME 7737|<a href="https://search.dartslive.com/jp/shop/3d2c18a08426716a0d9b047a20a7ba1e">ラウンドワン宮崎店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|38|805|つるとんたん|<a href="https://search.dartslive.com/jp/shop/3d2c18a08426716a0d9b047a20a7ba1e">ラウンドワン宮崎店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|38|805|ドン|<a href="https://search.dartslive.com/jp/shop/1bcdf0179e1a6eb9f454cb89828a1cfe">快活CLUB 宮崎加納店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|41|801|ドン|<a href="https://search.dartslive.com/jp/shop/3d2c18a08426716a0d9b047a20a7ba1e">ラウンドワン宮崎店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|42|792|ともも曹長＠冬眠|<a href="https://search.dartslive.com/jp/shop/3d2c18a08426716a0d9b047a20a7ba1e">ラウンドワン宮崎店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|43|781|くるみ|<a href="https://search.dartslive.com/jp/shop/ce743ab738115bd5a3f63593b5358cc4">darts house JOHN.Q</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|44|776|志々目 光晃|<a href="https://search.dartslive.com/jp/shop/3d2c18a08426716a0d9b047a20a7ba1e">ラウンドワン宮崎店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|44|776|打上花火@幸|<a href="https://search.dartslive.com/jp/shop/ce743ab738115bd5a3f63593b5358cc4">darts house JOHN.Q</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|46|767|ＲＵＦＦＩＡＮ|<a href="https://search.dartslive.com/jp/shop/ce743ab738115bd5a3f63593b5358cc4">darts house JOHN.Q</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|47|763|岩切晴翔|<a href="https://search.dartslive.com/jp/shop/0d37fa66832445af28032249b44395af">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|48|761|さこやん|<a href="https://search.dartslive.com/jp/shop/3d2c18a08426716a0d9b047a20a7ba1e">ラウンドワン宮崎店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|49|758|打上花火@幸|<a href="https://search.dartslive.com/jp/shop/1bcdf0179e1a6eb9f454cb89828a1cfe">快活CLUB 宮崎加納店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|50|753|☆打上花火☆|<a href="https://search.dartslive.com/jp/shop/1bcdf0179e1a6eb9f454cb89828a1cfe">快活CLUB 宮崎加納店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|51|752|キタノ|<a href="https://search.dartslive.com/jp/shop/ce743ab738115bd5a3f63593b5358cc4">darts house JOHN.Q</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|52|746|酔拳番長|<a href="https://search.dartslive.com/jp/shop/ac604cb8cf3a20720d9b047a20a7ba1e">DRAGON</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|53|741|T.D|<a href="https://search.dartslive.com/jp/shop/1bcdf0179e1a6eb9f454cb89828a1cfe">快活CLUB 宮崎加納店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|54|732|くろす|<a href="https://search.dartslive.com/jp/shop/0d37fa66832445af28032249b44395af">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|55|728|【Ⅵ】ren|<a href="https://search.dartslive.com/jp/shop/ce743ab738115bd5a3f63593b5358cc4">darts house JOHN.Q</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|56|722|岩切晴翔|<a href="https://search.dartslive.com/jp/shop/ce743ab738115bd5a3f63593b5358cc4">darts house JOHN.Q</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|57|718|もりもと|<a href="https://search.dartslive.com/jp/shop/9c41875e3d892406a3f63593b5358cc4">B-GARAGE 宮崎一番街店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|58|715|さといも。|<a href="https://search.dartslive.com/jp/shop/9c41875e3d892406a3f63593b5358cc4">B-GARAGE 宮崎一番街店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|59|713|DANZA KUDURO|<a href="https://search.dartslive.com/jp/shop/9c41875e3d892406a3f63593b5358cc4">B-GARAGE 宮崎一番街店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|59|713|Haruma|<a href="https://search.dartslive.com/jp/shop/9c41875e3d892406a3f63593b5358cc4">B-GARAGE 宮崎一番街店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|59|713|☆ OK！牧場 ☆|<a href="https://search.dartslive.com/jp/shop/0d37fa66832445af28032249b44395af">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|62|708|松下|<a href="https://search.dartslive.com/jp/shop/ac604cb8cf3a20720d9b047a20a7ba1e">DRAGON</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|63|702|KAI|<a href="https://search.dartslive.com/jp/shop/0d37fa66832445af28032249b44395af">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|64|701|たいきｯち☆ﾊﾛﾙﾄﾞ|<a href="https://search.dartslive.com/jp/shop/ce743ab738115bd5a3f63593b5358cc4">darts house JOHN.Q</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|65|700|DartsBarどらごん|<a href="https://search.dartslive.com/jp/shop/ac604cb8cf3a20720d9b047a20a7ba1e">DRAGON</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|66|698|落武者シンディ|<a href="https://search.dartslive.com/jp/shop/675a0edaa9c3d53528032249b44395af">フェニックス・シーガイア・リゾート</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|67|697|はま|<a href="https://search.dartslive.com/jp/shop/ce743ab738115bd5a3f63593b5358cc4">darts house JOHN.Q</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|68|686|かましー|<a href="https://search.dartslive.com/jp/shop/ce743ab738115bd5a3f63593b5358cc4">darts house JOHN.Q</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|69|680|さといも。|<a href="https://search.dartslive.com/jp/shop/0d37fa66832445af28032249b44395af">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|70|676|KIYO|<a href="https://search.dartslive.com/jp/shop/0d37fa66832445af28032249b44395af">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|70|676|NO NAME 3312|<a href="https://search.dartslive.com/jp/shop/0d37fa66832445af28032249b44395af">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|72|671|蒲克 YARI-ALL|<a href="https://search.dartslive.com/jp/shop/ce743ab738115bd5a3f63593b5358cc4">darts house JOHN.Q</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|73|667|☆打上花火☆|<a href="https://search.dartslive.com/jp/shop/ce743ab738115bd5a3f63593b5358cc4">darts house JOHN.Q</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|74|664|NO NAME 8407|<a href="https://search.dartslive.com/jp/shop/1bcdf0179e1a6eb9f454cb89828a1cfe">快活CLUB 宮崎加納店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|75|656|☆打上花火☆|<a href="https://search.dartslive.com/jp/shop/ac604cb8cf3a20720d9b047a20a7ba1e">DRAGON</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|76|651|☆お〜い、お茶☆|<a href="https://search.dartslive.com/jp/shop/0d37fa66832445af28032249b44395af">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|77|650|NO NAME 0743|<a href="https://search.dartslive.com/jp/shop/ac604cb8cf3a20720d9b047a20a7ba1e">DRAGON</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|78|641|まさ|<a href="https://search.dartslive.com/jp/shop/9c41875e3d892406a3f63593b5358cc4">B-GARAGE 宮崎一番街店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|79|640|★夜桜☆|<a href="https://search.dartslive.com/jp/shop/ac604cb8cf3a20720d9b047a20a7ba1e">DRAGON</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|80|637|りょっ！|<a href="https://search.dartslive.com/jp/shop/9c41875e3d892406a3f63593b5358cc4">B-GARAGE 宮崎一番街店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|81|633|杉若忠伸|<a href="https://search.dartslive.com/jp/shop/0d37fa66832445af28032249b44395af">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|82|632|エビさん|<a href="https://search.dartslive.com/jp/shop/ac604cb8cf3a20720d9b047a20a7ba1e">DRAGON</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|83|631|mumu|<a href="https://search.dartslive.com/jp/shop/9c41875e3d892406a3f63593b5358cc4">B-GARAGE 宮崎一番街店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|84|625|おなつ|<a href="https://search.dartslive.com/jp/shop/1bcdf0179e1a6eb9f454cb89828a1cfe">快活CLUB 宮崎加納店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|84|625|のり巻シンディ|<a href="https://search.dartslive.com/jp/shop/9c41875e3d892406a3f63593b5358cc4">B-GARAGE 宮崎一番街店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|86|622|なちゃはよく眠る|<a href="https://search.dartslive.com/jp/shop/0d37fa66832445af28032249b44395af">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|87|615|じゃすてぃ〜す★|<a href="https://search.dartslive.com/jp/shop/ac604cb8cf3a20720d9b047a20a7ba1e">DRAGON</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|88|608|さといも。|<a href="https://search.dartslive.com/jp/shop/675a0edaa9c3d53528032249b44395af">フェニックス・シーガイア・リゾート</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|89|607|頭文字Ｆ|<a href="https://search.dartslive.com/jp/shop/ac604cb8cf3a20720d9b047a20a7ba1e">DRAGON</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|90|603|今週の桑田|<a href="https://search.dartslive.com/jp/shop/9c41875e3d892406a3f63593b5358cc4">B-GARAGE 宮崎一番街店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|91|596|なちゃはよく眠る|<a href="https://search.dartslive.com/jp/shop/ce743ab738115bd5a3f63593b5358cc4">darts house JOHN.Q</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|92|588|RYO|<a href="https://search.dartslive.com/jp/shop/9c41875e3d892406a3f63593b5358cc4">B-GARAGE 宮崎一番街店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|92|588|茄子ん|<a href="https://search.dartslive.com/jp/shop/9c41875e3d892406a3f63593b5358cc4">B-GARAGE 宮崎一番街店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|94|586|なちゃはよく眠る|<a href="https://search.dartslive.com/jp/shop/3d2c18a08426716a0d9b047a20a7ba1e">ラウンドワン宮崎店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|95|584|CHI-CO|<a href="https://search.dartslive.com/jp/shop/ce743ab738115bd5a3f63593b5358cc4">darts house JOHN.Q</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|96|573|クマ吉くん|<a href="https://search.dartslive.com/jp/shop/9c41875e3d892406a3f63593b5358cc4">B-GARAGE 宮崎一番街店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|97|570|がじゃいも|<a href="https://search.dartslive.com/jp/shop/9c41875e3d892406a3f63593b5358cc4">B-GARAGE 宮崎一番街店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|98|556|たっつん|<a href="https://search.dartslive.com/jp/shop/9c41875e3d892406a3f63593b5358cc4">B-GARAGE 宮崎一番街店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|99|549|れん|<a href="https://search.dartslive.com/jp/shop/1bcdf0179e1a6eb9f454cb89828a1cfe">快活CLUB 宮崎加納店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
-|100|545|Dr.K|<a href="https://search.dartslive.com/jp/shop/1bcdf0179e1a6eb9f454cb89828a1cfe">快活CLUB 宮崎加納店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|1|1440|<span class="rank-name-pd">にいなっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41942?s_seq=41942">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|2|1116|<span class="rank-name-pd">有田 嵩</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9310?s_seq=9310">LOB DARTS</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|3|1083|<span class="rank-name-dl">志々目 光晃</span>|<a href="https://search.dartslive.com/jp/shop/3d2c18a08426716a0d9b047a20a7ba1e">ラウンドワン宮崎店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|4|1043|<span class="rank-name-pd">BANCHO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48848?s_seq=48848">快活CLUB 宮崎加納店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|5|1040|<span class="rank-name-pd">⚾︎†野球馬鹿†⚾︎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48848?s_seq=48848">快活CLUB 宮崎加納店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|6|1035|<span class="rank-name-pd">青山 光二</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48848?s_seq=48848">快活CLUB 宮崎加納店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|7|1003|<span class="rank-name-dl">打上花火@幸</span>|<a href="https://search.dartslive.com/jp/shop/3d2c18a08426716a0d9b047a20a7ba1e">ラウンドワン宮崎店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|8|971|<span class="rank-name-dl">茄子@W.M.P</span>|<a href="https://search.dartslive.com/jp/shop/ce743ab738115bd5a3f63593b5358cc4">darts house JOHN.Q</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|9|970|<span class="rank-name-dl">志々目 光晃</span>|<a href="https://search.dartslive.com/jp/shop/ce743ab738115bd5a3f63593b5358cc4">darts house JOHN.Q</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|10|968|<span class="rank-name-pd">03</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6142?s_seq=6142">自遊空間　宮崎北店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|11|967|<span class="rank-name-pd">ダニエル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9310?s_seq=9310">LOB DARTS</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|12|965|<span class="rank-name-dl">志々目 光晃</span>|<a href="https://search.dartslive.com/jp/shop/0d37fa66832445af28032249b44395af">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|13|964|<span class="rank-name-dl">#hiro.a</span>|<a href="https://search.dartslive.com/jp/shop/3d2c18a08426716a0d9b047a20a7ba1e">ラウンドワン宮崎店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|14|957|<span class="rank-name-pd">kent2110</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41942?s_seq=41942">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|15|956|<span class="rank-name-pd">ARATA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_60148?s_seq=60148">Bar BLINK</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|16|954|<span class="rank-name-dl">茄子@W.M.P</span>|<a href="https://search.dartslive.com/jp/shop/0d37fa66832445af28032249b44395af">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|17|953|<span class="rank-name-pd">河合 直樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6042?s_seq=6042">ラウンドワン宮崎店 カラオケ</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|18|949|<span class="rank-name-dl">岩切晴翔</span>|<a href="https://search.dartslive.com/jp/shop/3d2c18a08426716a0d9b047a20a7ba1e">ラウンドワン宮崎店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|19|948|<span class="rank-name-pd">0216_0053</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48848?s_seq=48848">快活CLUB 宮崎加納店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|20|947|<span class="rank-name-pd">テツヘイ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6142?s_seq=6142">自遊空間　宮崎北店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|21|946|<span class="rank-name-pd">那須 陽平</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41942?s_seq=41942">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|22|945|<span class="rank-name-dl">Mt.Fuji@ポンコツ</span>|<a href="https://search.dartslive.com/jp/shop/3d2c18a08426716a0d9b047a20a7ba1e">ラウンドワン宮崎店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|23|943|<span class="rank-name-pd">2-BANCHO-3</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48848?s_seq=48848">快活CLUB 宮崎加納店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|24|942|<span class="rank-name-dl">小部 紘弥</span>|<a href="https://search.dartslive.com/jp/shop/3d2c18a08426716a0d9b047a20a7ba1e">ラウンドワン宮崎店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|24|942|<span class="rank-name-pd">志々目 光晃</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6042?s_seq=6042">ラウンドワン宮崎店 カラオケ</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|26|940|<span class="rank-name-dl">こんなもんかな？</span>|<a href="https://search.dartslive.com/jp/shop/0d37fa66832445af28032249b44395af">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|27|938|<span class="rank-name-dl">幸@打上花火</span>|<a href="https://search.dartslive.com/jp/shop/1bcdf0179e1a6eb9f454cb89828a1cfe">快活CLUB 宮崎加納店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|28|937|<span class="rank-name-dl">コジティー侍大将</span>|<a href="https://search.dartslive.com/jp/shop/9c41875e3d892406a3f63593b5358cc4">B-GARAGE 宮崎一番街店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|29|936|<span class="rank-name-pd">那須 陽平</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48848?s_seq=48848">快活CLUB 宮崎加納店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|30|935|<span class="rank-name-dl">BANCHO</span>|<a href="https://search.dartslive.com/jp/shop/3d2c18a08426716a0d9b047a20a7ba1e">ラウンドワン宮崎店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|31|932|<span class="rank-name-pd">Daisuke【MJ３兄弟...長男】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76605?s_seq=76605">cafe&bar HARUKI</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|32|930|<span class="rank-name-pd">さこやん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6142?s_seq=6142">自遊空間　宮崎北店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|33|928|<span class="rank-name-dl">幸@打上花火</span>|<a href="https://search.dartslive.com/jp/shop/3d2c18a08426716a0d9b047a20a7ba1e">ラウンドワン宮崎店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|34|925|<span class="rank-name-dl">Ａｕｇａｓｔａｒ</span>|<a href="https://search.dartslive.com/jp/shop/ce743ab738115bd5a3f63593b5358cc4">darts house JOHN.Q</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|35|921|<span class="rank-name-dl">コジティー侍大将</span>|<a href="https://search.dartslive.com/jp/shop/3d2c18a08426716a0d9b047a20a7ba1e">ラウンドワン宮崎店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|36|920|<span class="rank-name-dl">川本　哲平</span>|<a href="https://search.dartslive.com/jp/shop/9c41875e3d892406a3f63593b5358cc4">B-GARAGE 宮崎一番街店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|37|916|<span class="rank-name-pd">志々目 光晃</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6142?s_seq=6142">自遊空間　宮崎北店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|38|915|<span class="rank-name-pd">テツヘイ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6042?s_seq=6042">ラウンドワン宮崎店 カラオケ</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|39|913|<span class="rank-name-dl">くろす</span>|<a href="https://search.dartslive.com/jp/shop/3d2c18a08426716a0d9b047a20a7ba1e">ラウンドワン宮崎店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|40|912|<span class="rank-name-pd">ろくでなし子</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41942?s_seq=41942">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|41|908|<span class="rank-name-pd">黒田 祐輔</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6042?s_seq=6042">ラウンドワン宮崎店 カラオケ</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|42|907|<span class="rank-name-pd">★打上花火☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6042?s_seq=6042">ラウンドワン宮崎店 カラオケ</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|43|902|<span class="rank-name-pd">MAESTRO侍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41942?s_seq=41942">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|43|902|<span class="rank-name-pd">志々目 光晃</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9310?s_seq=9310">LOB DARTS</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|45|897|<span class="rank-name-pd">JUN@ BLINK</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_60148?s_seq=60148">Bar BLINK</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|46|895|<span class="rank-name-pd">川越 義仁★発光！深夜族</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76605?s_seq=76605">cafe&bar HARUKI</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|47|893|<span class="rank-name-pd">Take</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9310?s_seq=9310">LOB DARTS</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|47|893|<span class="rank-name-dl">いちこ</span>|<a href="https://search.dartslive.com/jp/shop/0d37fa66832445af28032249b44395af">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|49|888|<span class="rank-name-dl">tani Ｇ→</span>|<a href="https://search.dartslive.com/jp/shop/ce743ab738115bd5a3f63593b5358cc4">darts house JOHN.Q</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|49|888|<span class="rank-name-pd">えーりん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6042?s_seq=6042">ラウンドワン宮崎店 カラオケ</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|51|885|<span class="rank-name-pd">テツヘイ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48848?s_seq=48848">快活CLUB 宮崎加納店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|52|882|<span class="rank-name-pd">さこやん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6042?s_seq=6042">ラウンドワン宮崎店 カラオケ</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|53|879|<span class="rank-name-pd">コジティー侍大将</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41942?s_seq=41942">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|54|875|<span class="rank-name-pd">青山 光二</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9310?s_seq=9310">LOB DARTS</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|55|873|<span class="rank-name-dl">IPPON</span>|<a href="https://search.dartslive.com/jp/shop/0d37fa66832445af28032249b44395af">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|56|870|<span class="rank-name-pd">(￣∇￣)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6142?s_seq=6142">自遊空間　宮崎北店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|56|870|<span class="rank-name-dl">川本　哲平</span>|<a href="https://search.dartslive.com/jp/shop/0d37fa66832445af28032249b44395af">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|58|869|<span class="rank-name-dl">BANCHO</span>|<a href="https://search.dartslive.com/jp/shop/ac604cb8cf3a20720d9b047a20a7ba1e">DRAGON</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|58|869|<span class="rank-name-pd">さこやん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48848?s_seq=48848">快活CLUB 宮崎加納店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|60|868|<span class="rank-name-pd">つね</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6142?s_seq=6142">自遊空間　宮崎北店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|60|868|<span class="rank-name-dl">川本　哲平</span>|<a href="https://search.dartslive.com/jp/shop/ce743ab738115bd5a3f63593b5358cc4">darts house JOHN.Q</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|62|863|<span class="rank-name-pd">BANCHO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6042?s_seq=6042">ラウンドワン宮崎店 カラオケ</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|62|863|<span class="rank-name-dl">masa</span>|<a href="https://search.dartslive.com/jp/shop/3d2c18a08426716a0d9b047a20a7ba1e">ラウンドワン宮崎店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|62|863|<span class="rank-name-pd">ぼっちちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6042?s_seq=6042">ラウンドワン宮崎店 カラオケ</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|65|859|<span class="rank-name-pd">MAESTRO侍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48848?s_seq=48848">快活CLUB 宮崎加納店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|66|856|<span class="rank-name-dl">ИΘЯI[JOHN.Q]</span>|<a href="https://search.dartslive.com/jp/shop/ce743ab738115bd5a3f63593b5358cc4">darts house JOHN.Q</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|67|855|<span class="rank-name-pd">TEN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6142?s_seq=6142">自遊空間　宮崎北店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|68|852|<span class="rank-name-pd">★Daisuke★</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41942?s_seq=41942">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|69|849|<span class="rank-name-pd">70.com</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6142?s_seq=6142">自遊空間　宮崎北店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|70|848|<span class="rank-name-pd">さこやん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41942?s_seq=41942">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|71|844|<span class="rank-name-dl">川本　哲平</span>|<a href="https://search.dartslive.com/jp/shop/1bcdf0179e1a6eb9f454cb89828a1cfe">快活CLUB 宮崎加納店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|72|843|<span class="rank-name-pd">BULLを捨てた男</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41942?s_seq=41942">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|73|842|<span class="rank-name-dl">河童さん</span>|<a href="https://search.dartslive.com/jp/shop/ce743ab738115bd5a3f63593b5358cc4">darts house JOHN.Q</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|74|838|<span class="rank-name-dl">あごまさ</span>|<a href="https://search.dartslive.com/jp/shop/ac604cb8cf3a20720d9b047a20a7ba1e">DRAGON</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|75|837|<span class="rank-name-pd">★Daisuke★</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6142?s_seq=6142">自遊空間　宮崎北店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|76|835|<span class="rank-name-pd">柏田 泰宏</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_60148?s_seq=60148">Bar BLINK</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|77|834|<span class="rank-name-pd">ぼっちちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41942?s_seq=41942">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|78|832|<span class="rank-name-pd">たか</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6142?s_seq=6142">自遊空間　宮崎北店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|79|828|<span class="rank-name-pd">TA-BO-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9310?s_seq=9310">LOB DARTS</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|80|827|<span class="rank-name-pd">まさ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48848?s_seq=48848">快活CLUB 宮崎加納店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|81|823|<span class="rank-name-pd">☆打上花火</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6042?s_seq=6042">ラウンドワン宮崎店 カラオケ</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|82|822|<span class="rank-name-dl">ドン</span>|<a href="https://search.dartslive.com/jp/shop/ac604cb8cf3a20720d9b047a20a7ba1e">DRAGON</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|83|821|<span class="rank-name-pd">[M,K,K] 武者小路実篤</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41942?s_seq=41942">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|83|821|<span class="rank-name-dl">落武者シンディ</span>|<a href="https://search.dartslive.com/jp/shop/9c41875e3d892406a3f63593b5358cc4">B-GARAGE 宮崎一番街店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|85|820|<span class="rank-name-dl">Darurun@気分屋</span>|<a href="https://search.dartslive.com/jp/shop/1bcdf0179e1a6eb9f454cb89828a1cfe">快活CLUB 宮崎加納店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|86|818|<span class="rank-name-dl">まっち@C-Mate</span>|<a href="https://search.dartslive.com/jp/shop/0d37fa66832445af28032249b44395af">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|87|816|<span class="rank-name-pd">☆打上花火</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48848?s_seq=48848">快活CLUB 宮崎加納店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|87|816|<span class="rank-name-pd">じょにー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41942?s_seq=41942">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|89|815|<span class="rank-name-dl">^₋^)✓↣✺</span>|<a href="https://search.dartslive.com/jp/shop/ac604cb8cf3a20720d9b047a20a7ba1e">DRAGON</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|89|815|<span class="rank-name-dl">幸@打上花火</span>|<a href="https://search.dartslive.com/jp/shop/ac604cb8cf3a20720d9b047a20a7ba1e">DRAGON</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|91|811|<span class="rank-name-dl">MasH</span>|<a href="https://search.dartslive.com/jp/shop/3d2c18a08426716a0d9b047a20a7ba1e">ラウンドワン宮崎店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|91|811|<span class="rank-name-pd">kai</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48848?s_seq=48848">快活CLUB 宮崎加納店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|93|810|<span class="rank-name-pd">黒田 祐輔</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9310?s_seq=9310">LOB DARTS</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|94|805|<span class="rank-name-dl">NO NAME 7737</span>|<a href="https://search.dartslive.com/jp/shop/3d2c18a08426716a0d9b047a20a7ba1e">ラウンドワン宮崎店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|94|805|<span class="rank-name-dl">つるとんたん</span>|<a href="https://search.dartslive.com/jp/shop/3d2c18a08426716a0d9b047a20a7ba1e">ラウンドワン宮崎店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|94|805|<span class="rank-name-pd">ぼっちちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48848?s_seq=48848">快活CLUB 宮崎加納店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|94|805|<span class="rank-name-dl">ドン</span>|<a href="https://search.dartslive.com/jp/shop/1bcdf0179e1a6eb9f454cb89828a1cfe">快活CLUB 宮崎加納店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|98|804|<span class="rank-name-pd">[M,K,K] 武者小路実篤</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6042?s_seq=6042">ラウンドワン宮崎店 カラオケ</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|99|801|<span class="rank-name-dl">ドン</span>|<a href="https://search.dartslive.com/jp/shop/3d2c18a08426716a0d9b047a20a7ba1e">ラウンドワン宮崎店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|100|798|<span class="rank-name-pd">☆m☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41942?s_seq=41942">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+
+
+#### DARTSLIVE TOP 100
 
 
 
-___
+{:.table-ranking}
+|#|スコア|名前|店名|所在地|
+|---|---|---|---|---|
+|1|1083|<span class="rank-name-dl">志々目 光晃</span>|<a href="https://search.dartslive.com/jp/shop/3d2c18a08426716a0d9b047a20a7ba1e">ラウンドワン宮崎店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|2|1003|<span class="rank-name-dl">打上花火@幸</span>|<a href="https://search.dartslive.com/jp/shop/3d2c18a08426716a0d9b047a20a7ba1e">ラウンドワン宮崎店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|3|971|<span class="rank-name-dl">茄子@W.M.P</span>|<a href="https://search.dartslive.com/jp/shop/ce743ab738115bd5a3f63593b5358cc4">darts house JOHN.Q</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|4|970|<span class="rank-name-dl">志々目 光晃</span>|<a href="https://search.dartslive.com/jp/shop/ce743ab738115bd5a3f63593b5358cc4">darts house JOHN.Q</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|5|965|<span class="rank-name-dl">志々目 光晃</span>|<a href="https://search.dartslive.com/jp/shop/0d37fa66832445af28032249b44395af">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|6|964|<span class="rank-name-dl">#hiro.a</span>|<a href="https://search.dartslive.com/jp/shop/3d2c18a08426716a0d9b047a20a7ba1e">ラウンドワン宮崎店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|7|961|<span class="rank-name-dl">BANCHO</span>|<a href="https://search.dartslive.com/jp/shop/1bcdf0179e1a6eb9f454cb89828a1cfe">快活CLUB 宮崎加納店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|8|954|<span class="rank-name-dl">茄子@W.M.P</span>|<a href="https://search.dartslive.com/jp/shop/0d37fa66832445af28032249b44395af">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|9|949|<span class="rank-name-dl">岩切晴翔</span>|<a href="https://search.dartslive.com/jp/shop/3d2c18a08426716a0d9b047a20a7ba1e">ラウンドワン宮崎店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|10|945|<span class="rank-name-dl">Mt.Fuji@ポンコツ</span>|<a href="https://search.dartslive.com/jp/shop/3d2c18a08426716a0d9b047a20a7ba1e">ラウンドワン宮崎店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|11|942|<span class="rank-name-dl">小部 紘弥</span>|<a href="https://search.dartslive.com/jp/shop/3d2c18a08426716a0d9b047a20a7ba1e">ラウンドワン宮崎店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|12|940|<span class="rank-name-dl">こんなもんかな？</span>|<a href="https://search.dartslive.com/jp/shop/0d37fa66832445af28032249b44395af">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|13|938|<span class="rank-name-dl">幸@打上花火</span>|<a href="https://search.dartslive.com/jp/shop/1bcdf0179e1a6eb9f454cb89828a1cfe">快活CLUB 宮崎加納店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|14|937|<span class="rank-name-dl">コジティー侍大将</span>|<a href="https://search.dartslive.com/jp/shop/9c41875e3d892406a3f63593b5358cc4">B-GARAGE 宮崎一番街店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|15|935|<span class="rank-name-dl">BANCHO</span>|<a href="https://search.dartslive.com/jp/shop/3d2c18a08426716a0d9b047a20a7ba1e">ラウンドワン宮崎店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|16|928|<span class="rank-name-dl">幸@打上花火</span>|<a href="https://search.dartslive.com/jp/shop/3d2c18a08426716a0d9b047a20a7ba1e">ラウンドワン宮崎店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|17|925|<span class="rank-name-dl">Ａｕｇａｓｔａｒ</span>|<a href="https://search.dartslive.com/jp/shop/ce743ab738115bd5a3f63593b5358cc4">darts house JOHN.Q</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|18|921|<span class="rank-name-dl">コジティー侍大将</span>|<a href="https://search.dartslive.com/jp/shop/3d2c18a08426716a0d9b047a20a7ba1e">ラウンドワン宮崎店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|19|920|<span class="rank-name-dl">川本　哲平</span>|<a href="https://search.dartslive.com/jp/shop/9c41875e3d892406a3f63593b5358cc4">B-GARAGE 宮崎一番街店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|20|913|<span class="rank-name-dl">くろす</span>|<a href="https://search.dartslive.com/jp/shop/3d2c18a08426716a0d9b047a20a7ba1e">ラウンドワン宮崎店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|21|893|<span class="rank-name-dl">いちこ</span>|<a href="https://search.dartslive.com/jp/shop/0d37fa66832445af28032249b44395af">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|22|888|<span class="rank-name-dl">tani Ｇ→</span>|<a href="https://search.dartslive.com/jp/shop/ce743ab738115bd5a3f63593b5358cc4">darts house JOHN.Q</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|23|873|<span class="rank-name-dl">IPPON</span>|<a href="https://search.dartslive.com/jp/shop/0d37fa66832445af28032249b44395af">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|24|870|<span class="rank-name-dl">川本　哲平</span>|<a href="https://search.dartslive.com/jp/shop/0d37fa66832445af28032249b44395af">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|25|869|<span class="rank-name-dl">BANCHO</span>|<a href="https://search.dartslive.com/jp/shop/ac604cb8cf3a20720d9b047a20a7ba1e">DRAGON</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|26|868|<span class="rank-name-dl">川本　哲平</span>|<a href="https://search.dartslive.com/jp/shop/ce743ab738115bd5a3f63593b5358cc4">darts house JOHN.Q</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|27|863|<span class="rank-name-dl">masa</span>|<a href="https://search.dartslive.com/jp/shop/3d2c18a08426716a0d9b047a20a7ba1e">ラウンドワン宮崎店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|28|856|<span class="rank-name-dl">ИΘЯI[JOHN.Q]</span>|<a href="https://search.dartslive.com/jp/shop/ce743ab738115bd5a3f63593b5358cc4">darts house JOHN.Q</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|29|844|<span class="rank-name-dl">川本　哲平</span>|<a href="https://search.dartslive.com/jp/shop/1bcdf0179e1a6eb9f454cb89828a1cfe">快活CLUB 宮崎加納店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|30|842|<span class="rank-name-dl">河童さん</span>|<a href="https://search.dartslive.com/jp/shop/ce743ab738115bd5a3f63593b5358cc4">darts house JOHN.Q</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|31|838|<span class="rank-name-dl">あごまさ</span>|<a href="https://search.dartslive.com/jp/shop/ac604cb8cf3a20720d9b047a20a7ba1e">DRAGON</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|32|836|<span class="rank-name-dl">コジティー侍大将</span>|<a href="https://search.dartslive.com/jp/shop/0d37fa66832445af28032249b44395af">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|33|822|<span class="rank-name-dl">ドン</span>|<a href="https://search.dartslive.com/jp/shop/ac604cb8cf3a20720d9b047a20a7ba1e">DRAGON</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|34|821|<span class="rank-name-dl">落武者シンディ</span>|<a href="https://search.dartslive.com/jp/shop/9c41875e3d892406a3f63593b5358cc4">B-GARAGE 宮崎一番街店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|35|820|<span class="rank-name-dl">Darurun@気分屋</span>|<a href="https://search.dartslive.com/jp/shop/1bcdf0179e1a6eb9f454cb89828a1cfe">快活CLUB 宮崎加納店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|36|818|<span class="rank-name-dl">まっち@C-Mate</span>|<a href="https://search.dartslive.com/jp/shop/0d37fa66832445af28032249b44395af">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|37|815|<span class="rank-name-dl">^₋^)✓↣✺</span>|<a href="https://search.dartslive.com/jp/shop/ac604cb8cf3a20720d9b047a20a7ba1e">DRAGON</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|37|815|<span class="rank-name-dl">幸@打上花火</span>|<a href="https://search.dartslive.com/jp/shop/ac604cb8cf3a20720d9b047a20a7ba1e">DRAGON</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|39|811|<span class="rank-name-dl">MasH</span>|<a href="https://search.dartslive.com/jp/shop/3d2c18a08426716a0d9b047a20a7ba1e">ラウンドワン宮崎店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|40|810|<span class="rank-name-dl">テツヘイ</span>|<a href="https://search.dartslive.com/jp/shop/1bcdf0179e1a6eb9f454cb89828a1cfe">快活CLUB 宮崎加納店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|41|805|<span class="rank-name-dl">NO NAME 7737</span>|<a href="https://search.dartslive.com/jp/shop/3d2c18a08426716a0d9b047a20a7ba1e">ラウンドワン宮崎店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|41|805|<span class="rank-name-dl">つるとんたん</span>|<a href="https://search.dartslive.com/jp/shop/3d2c18a08426716a0d9b047a20a7ba1e">ラウンドワン宮崎店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|41|805|<span class="rank-name-dl">ドン</span>|<a href="https://search.dartslive.com/jp/shop/1bcdf0179e1a6eb9f454cb89828a1cfe">快活CLUB 宮崎加納店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|44|801|<span class="rank-name-dl">ドン</span>|<a href="https://search.dartslive.com/jp/shop/3d2c18a08426716a0d9b047a20a7ba1e">ラウンドワン宮崎店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|45|792|<span class="rank-name-dl">ともも曹長＠冬眠</span>|<a href="https://search.dartslive.com/jp/shop/3d2c18a08426716a0d9b047a20a7ba1e">ラウンドワン宮崎店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|46|781|<span class="rank-name-dl">くるみ</span>|<a href="https://search.dartslive.com/jp/shop/ce743ab738115bd5a3f63593b5358cc4">darts house JOHN.Q</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|47|777|<span class="rank-name-dl">さといも。</span>|<a href="https://search.dartslive.com/jp/shop/0d37fa66832445af28032249b44395af">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|48|776|<span class="rank-name-dl">打上花火@幸</span>|<a href="https://search.dartslive.com/jp/shop/ce743ab738115bd5a3f63593b5358cc4">darts house JOHN.Q</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|49|767|<span class="rank-name-dl">ＲＵＦＦＩＡＮ</span>|<a href="https://search.dartslive.com/jp/shop/ce743ab738115bd5a3f63593b5358cc4">darts house JOHN.Q</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|50|763|<span class="rank-name-dl">岩切晴翔</span>|<a href="https://search.dartslive.com/jp/shop/0d37fa66832445af28032249b44395af">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|51|761|<span class="rank-name-dl">さこやん</span>|<a href="https://search.dartslive.com/jp/shop/3d2c18a08426716a0d9b047a20a7ba1e">ラウンドワン宮崎店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|52|758|<span class="rank-name-dl">打上花火@幸</span>|<a href="https://search.dartslive.com/jp/shop/1bcdf0179e1a6eb9f454cb89828a1cfe">快活CLUB 宮崎加納店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|53|753|<span class="rank-name-dl">☆打上花火☆</span>|<a href="https://search.dartslive.com/jp/shop/1bcdf0179e1a6eb9f454cb89828a1cfe">快活CLUB 宮崎加納店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|54|752|<span class="rank-name-dl">キタノ</span>|<a href="https://search.dartslive.com/jp/shop/ce743ab738115bd5a3f63593b5358cc4">darts house JOHN.Q</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|55|746|<span class="rank-name-dl">酔拳番長</span>|<a href="https://search.dartslive.com/jp/shop/ac604cb8cf3a20720d9b047a20a7ba1e">DRAGON</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|56|741|<span class="rank-name-dl">T.D</span>|<a href="https://search.dartslive.com/jp/shop/1bcdf0179e1a6eb9f454cb89828a1cfe">快活CLUB 宮崎加納店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|57|732|<span class="rank-name-dl">くろす</span>|<a href="https://search.dartslive.com/jp/shop/0d37fa66832445af28032249b44395af">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|58|728|<span class="rank-name-dl">【Ⅵ】ren</span>|<a href="https://search.dartslive.com/jp/shop/ce743ab738115bd5a3f63593b5358cc4">darts house JOHN.Q</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|59|722|<span class="rank-name-dl">岩切晴翔</span>|<a href="https://search.dartslive.com/jp/shop/ce743ab738115bd5a3f63593b5358cc4">darts house JOHN.Q</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|60|718|<span class="rank-name-dl">もりもと</span>|<a href="https://search.dartslive.com/jp/shop/9c41875e3d892406a3f63593b5358cc4">B-GARAGE 宮崎一番街店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|61|715|<span class="rank-name-dl">さといも。</span>|<a href="https://search.dartslive.com/jp/shop/9c41875e3d892406a3f63593b5358cc4">B-GARAGE 宮崎一番街店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|62|713|<span class="rank-name-dl">DANZA KUDURO</span>|<a href="https://search.dartslive.com/jp/shop/9c41875e3d892406a3f63593b5358cc4">B-GARAGE 宮崎一番街店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|62|713|<span class="rank-name-dl">Haruma</span>|<a href="https://search.dartslive.com/jp/shop/9c41875e3d892406a3f63593b5358cc4">B-GARAGE 宮崎一番街店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|62|713|<span class="rank-name-dl">☆ OK！牧場 ☆</span>|<a href="https://search.dartslive.com/jp/shop/0d37fa66832445af28032249b44395af">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|65|710|<span class="rank-name-dl">なちゃはよく眠る</span>|<a href="https://search.dartslive.com/jp/shop/3d2c18a08426716a0d9b047a20a7ba1e">ラウンドワン宮崎店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|66|708|<span class="rank-name-dl">松下</span>|<a href="https://search.dartslive.com/jp/shop/ac604cb8cf3a20720d9b047a20a7ba1e">DRAGON</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|67|702|<span class="rank-name-dl">KAI</span>|<a href="https://search.dartslive.com/jp/shop/0d37fa66832445af28032249b44395af">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|68|701|<span class="rank-name-dl">たいきｯち☆ﾊﾛﾙﾄﾞ</span>|<a href="https://search.dartslive.com/jp/shop/ce743ab738115bd5a3f63593b5358cc4">darts house JOHN.Q</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|69|700|<span class="rank-name-dl">DartsBarどらごん</span>|<a href="https://search.dartslive.com/jp/shop/ac604cb8cf3a20720d9b047a20a7ba1e">DRAGON</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|70|698|<span class="rank-name-dl">落武者シンディ</span>|<a href="https://search.dartslive.com/jp/shop/675a0edaa9c3d53528032249b44395af">フェニックス・シーガイア・リゾート</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|71|697|<span class="rank-name-dl">はま</span>|<a href="https://search.dartslive.com/jp/shop/ce743ab738115bd5a3f63593b5358cc4">darts house JOHN.Q</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|72|692|<span class="rank-name-dl">のり巻シンディ</span>|<a href="https://search.dartslive.com/jp/shop/9c41875e3d892406a3f63593b5358cc4">B-GARAGE 宮崎一番街店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|73|686|<span class="rank-name-dl">かましー</span>|<a href="https://search.dartslive.com/jp/shop/ce743ab738115bd5a3f63593b5358cc4">darts house JOHN.Q</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|74|676|<span class="rank-name-dl">KIYO</span>|<a href="https://search.dartslive.com/jp/shop/0d37fa66832445af28032249b44395af">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|74|676|<span class="rank-name-dl">NO NAME 3312</span>|<a href="https://search.dartslive.com/jp/shop/0d37fa66832445af28032249b44395af">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|76|671|<span class="rank-name-dl">蒲克 YARI-ALL</span>|<a href="https://search.dartslive.com/jp/shop/ce743ab738115bd5a3f63593b5358cc4">darts house JOHN.Q</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|77|667|<span class="rank-name-dl">☆打上花火☆</span>|<a href="https://search.dartslive.com/jp/shop/ce743ab738115bd5a3f63593b5358cc4">darts house JOHN.Q</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|78|664|<span class="rank-name-dl">NO NAME 8407</span>|<a href="https://search.dartslive.com/jp/shop/1bcdf0179e1a6eb9f454cb89828a1cfe">快活CLUB 宮崎加納店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|79|656|<span class="rank-name-dl">☆打上花火☆</span>|<a href="https://search.dartslive.com/jp/shop/ac604cb8cf3a20720d9b047a20a7ba1e">DRAGON</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|80|651|<span class="rank-name-dl">☆お〜い、お茶☆</span>|<a href="https://search.dartslive.com/jp/shop/0d37fa66832445af28032249b44395af">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|81|650|<span class="rank-name-dl">NO NAME 0743</span>|<a href="https://search.dartslive.com/jp/shop/ac604cb8cf3a20720d9b047a20a7ba1e">DRAGON</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|82|641|<span class="rank-name-dl">まさ</span>|<a href="https://search.dartslive.com/jp/shop/9c41875e3d892406a3f63593b5358cc4">B-GARAGE 宮崎一番街店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|83|640|<span class="rank-name-dl">★夜桜☆</span>|<a href="https://search.dartslive.com/jp/shop/ac604cb8cf3a20720d9b047a20a7ba1e">DRAGON</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|84|637|<span class="rank-name-dl">りょっ！</span>|<a href="https://search.dartslive.com/jp/shop/9c41875e3d892406a3f63593b5358cc4">B-GARAGE 宮崎一番街店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|85|633|<span class="rank-name-dl">杉若忠伸</span>|<a href="https://search.dartslive.com/jp/shop/0d37fa66832445af28032249b44395af">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|86|632|<span class="rank-name-dl">エビさん</span>|<a href="https://search.dartslive.com/jp/shop/ac604cb8cf3a20720d9b047a20a7ba1e">DRAGON</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|87|631|<span class="rank-name-dl">mumu</span>|<a href="https://search.dartslive.com/jp/shop/9c41875e3d892406a3f63593b5358cc4">B-GARAGE 宮崎一番街店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|88|625|<span class="rank-name-dl">おなつ</span>|<a href="https://search.dartslive.com/jp/shop/1bcdf0179e1a6eb9f454cb89828a1cfe">快活CLUB 宮崎加納店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|89|622|<span class="rank-name-dl">なちゃはよく眠る</span>|<a href="https://search.dartslive.com/jp/shop/0d37fa66832445af28032249b44395af">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|90|615|<span class="rank-name-dl">じゃすてぃ〜す★</span>|<a href="https://search.dartslive.com/jp/shop/ac604cb8cf3a20720d9b047a20a7ba1e">DRAGON</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|91|608|<span class="rank-name-dl">さといも。</span>|<a href="https://search.dartslive.com/jp/shop/675a0edaa9c3d53528032249b44395af">フェニックス・シーガイア・リゾート</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|92|607|<span class="rank-name-dl">頭文字Ｆ</span>|<a href="https://search.dartslive.com/jp/shop/ac604cb8cf3a20720d9b047a20a7ba1e">DRAGON</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|93|603|<span class="rank-name-dl">今週の桑田</span>|<a href="https://search.dartslive.com/jp/shop/9c41875e3d892406a3f63593b5358cc4">B-GARAGE 宮崎一番街店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|94|598|<span class="rank-name-dl">ひろぽん</span>|<a href="https://search.dartslive.com/jp/shop/1bcdf0179e1a6eb9f454cb89828a1cfe">快活CLUB 宮崎加納店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|95|596|<span class="rank-name-dl">なちゃはよく眠る</span>|<a href="https://search.dartslive.com/jp/shop/ce743ab738115bd5a3f63593b5358cc4">darts house JOHN.Q</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|96|588|<span class="rank-name-dl">RYO</span>|<a href="https://search.dartslive.com/jp/shop/9c41875e3d892406a3f63593b5358cc4">B-GARAGE 宮崎一番街店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|96|588|<span class="rank-name-dl">茄子ん</span>|<a href="https://search.dartslive.com/jp/shop/9c41875e3d892406a3f63593b5358cc4">B-GARAGE 宮崎一番街店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|98|584|<span class="rank-name-dl">CHI-CO</span>|<a href="https://search.dartslive.com/jp/shop/ce743ab738115bd5a3f63593b5358cc4">darts house JOHN.Q</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|99|573|<span class="rank-name-dl">クマ吉くん</span>|<a href="https://search.dartslive.com/jp/shop/9c41875e3d892406a3f63593b5358cc4">B-GARAGE 宮崎一番街店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|100|572|<span class="rank-name-dl">REITO</span>|<a href="https://search.dartslive.com/jp/shop/9c41875e3d892406a3f63593b5358cc4">B-GARAGE 宮崎一番街店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
 
-_last update : 2024/01/21 13:39:08_
+
+#### PHOENIXDARTS TOP 100
 
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+{:.table-ranking}
+|#|スコア|名前|店名|所在地|
+|---|---|---|---|---|
+|1|1440|<span class="rank-name-pd">にいなっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41942?s_seq=41942">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|2|1116|<span class="rank-name-pd">有田 嵩</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9310?s_seq=9310">LOB DARTS</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|3|1043|<span class="rank-name-pd">BANCHO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48848?s_seq=48848">快活CLUB 宮崎加納店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|4|1040|<span class="rank-name-pd">⚾︎†野球馬鹿†⚾︎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48848?s_seq=48848">快活CLUB 宮崎加納店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|5|1035|<span class="rank-name-pd">青山 光二</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48848?s_seq=48848">快活CLUB 宮崎加納店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|6|968|<span class="rank-name-pd">03</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6142?s_seq=6142">自遊空間　宮崎北店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|7|967|<span class="rank-name-pd">ダニエル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9310?s_seq=9310">LOB DARTS</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|8|957|<span class="rank-name-pd">kent2110</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41942?s_seq=41942">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|9|956|<span class="rank-name-pd">ARATA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_60148?s_seq=60148">Bar BLINK</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|10|953|<span class="rank-name-pd">河合 直樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6042?s_seq=6042">ラウンドワン宮崎店 カラオケ</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|11|948|<span class="rank-name-pd">0216_0053</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48848?s_seq=48848">快活CLUB 宮崎加納店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|12|947|<span class="rank-name-pd">テツヘイ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6142?s_seq=6142">自遊空間　宮崎北店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|13|946|<span class="rank-name-pd">那須 陽平</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41942?s_seq=41942">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|14|943|<span class="rank-name-pd">2-BANCHO-3</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48848?s_seq=48848">快活CLUB 宮崎加納店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|15|942|<span class="rank-name-pd">志々目 光晃</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6042?s_seq=6042">ラウンドワン宮崎店 カラオケ</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|16|936|<span class="rank-name-pd">那須 陽平</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48848?s_seq=48848">快活CLUB 宮崎加納店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|17|932|<span class="rank-name-pd">Daisuke【MJ３兄弟...長男】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76605?s_seq=76605">cafe&bar HARUKI</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|18|930|<span class="rank-name-pd">さこやん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6142?s_seq=6142">自遊空間　宮崎北店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|19|916|<span class="rank-name-pd">志々目 光晃</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6142?s_seq=6142">自遊空間　宮崎北店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|20|915|<span class="rank-name-pd">テツヘイ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6042?s_seq=6042">ラウンドワン宮崎店 カラオケ</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|21|912|<span class="rank-name-pd">ろくでなし子</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41942?s_seq=41942">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|22|908|<span class="rank-name-pd">黒田 祐輔</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6042?s_seq=6042">ラウンドワン宮崎店 カラオケ</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|23|907|<span class="rank-name-pd">★打上花火☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6042?s_seq=6042">ラウンドワン宮崎店 カラオケ</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|24|902|<span class="rank-name-pd">MAESTRO侍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41942?s_seq=41942">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|24|902|<span class="rank-name-pd">志々目 光晃</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9310?s_seq=9310">LOB DARTS</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|26|897|<span class="rank-name-pd">JUN@ BLINK</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_60148?s_seq=60148">Bar BLINK</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|27|895|<span class="rank-name-pd">川越 義仁★発光！深夜族</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76605?s_seq=76605">cafe&bar HARUKI</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|28|893|<span class="rank-name-pd">Take</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9310?s_seq=9310">LOB DARTS</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|29|888|<span class="rank-name-pd">えーりん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6042?s_seq=6042">ラウンドワン宮崎店 カラオケ</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|30|885|<span class="rank-name-pd">テツヘイ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48848?s_seq=48848">快活CLUB 宮崎加納店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|31|882|<span class="rank-name-pd">さこやん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6042?s_seq=6042">ラウンドワン宮崎店 カラオケ</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|31|882|<span class="rank-name-pd">志々目 光晃</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41942?s_seq=41942">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|33|879|<span class="rank-name-pd">コジティー侍大将</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41942?s_seq=41942">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|34|875|<span class="rank-name-pd">青山 光二</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9310?s_seq=9310">LOB DARTS</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|35|870|<span class="rank-name-pd">(￣∇￣)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6142?s_seq=6142">自遊空間　宮崎北店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|36|869|<span class="rank-name-pd">さこやん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48848?s_seq=48848">快活CLUB 宮崎加納店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|37|868|<span class="rank-name-pd">つね</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6142?s_seq=6142">自遊空間　宮崎北店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|38|863|<span class="rank-name-pd">BANCHO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6042?s_seq=6042">ラウンドワン宮崎店 カラオケ</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|38|863|<span class="rank-name-pd">ぼっちちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6042?s_seq=6042">ラウンドワン宮崎店 カラオケ</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|40|859|<span class="rank-name-pd">MAESTRO侍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48848?s_seq=48848">快活CLUB 宮崎加納店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|41|855|<span class="rank-name-pd">TEN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6142?s_seq=6142">自遊空間　宮崎北店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|42|852|<span class="rank-name-pd">★Daisuke★</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41942?s_seq=41942">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|43|849|<span class="rank-name-pd">70.com</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6142?s_seq=6142">自遊空間　宮崎北店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|44|848|<span class="rank-name-pd">さこやん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41942?s_seq=41942">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|45|843|<span class="rank-name-pd">BULLを捨てた男</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41942?s_seq=41942">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|46|837|<span class="rank-name-pd">★Daisuke★</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6142?s_seq=6142">自遊空間　宮崎北店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|47|835|<span class="rank-name-pd">柏田 泰宏</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_60148?s_seq=60148">Bar BLINK</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|48|834|<span class="rank-name-pd">ぼっちちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41942?s_seq=41942">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|49|832|<span class="rank-name-pd">たか</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6142?s_seq=6142">自遊空間　宮崎北店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|50|828|<span class="rank-name-pd">TA-BO-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9310?s_seq=9310">LOB DARTS</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|51|827|<span class="rank-name-pd">まさ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48848?s_seq=48848">快活CLUB 宮崎加納店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|52|823|<span class="rank-name-pd">☆打上花火</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6042?s_seq=6042">ラウンドワン宮崎店 カラオケ</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|53|821|<span class="rank-name-pd">[M,K,K] 武者小路実篤</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41942?s_seq=41942">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|54|816|<span class="rank-name-pd">☆打上花火</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48848?s_seq=48848">快活CLUB 宮崎加納店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|54|816|<span class="rank-name-pd">じょにー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41942?s_seq=41942">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|56|811|<span class="rank-name-pd">kai</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48848?s_seq=48848">快活CLUB 宮崎加納店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|57|810|<span class="rank-name-pd">黒田 祐輔</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9310?s_seq=9310">LOB DARTS</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|58|805|<span class="rank-name-pd">ぼっちちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48848?s_seq=48848">快活CLUB 宮崎加納店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|59|804|<span class="rank-name-pd">[M,K,K] 武者小路実篤</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6042?s_seq=6042">ラウンドワン宮崎店 カラオケ</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|60|798|<span class="rank-name-pd">☆m☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41942?s_seq=41942">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|61|795|<span class="rank-name-pd">かどかど★</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41942?s_seq=41942">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|62|793|<span class="rank-name-pd">岩切晴翔</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41942?s_seq=41942">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|63|792|<span class="rank-name-pd">松下　伸幸2</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6042?s_seq=6042">ラウンドワン宮崎店 カラオケ</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|64|790|<span class="rank-name-pd">後藤孝明</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6042?s_seq=6042">ラウンドワン宮崎店 カラオケ</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|65|785|<span class="rank-name-pd">(￣∇￣)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9310?s_seq=9310">LOB DARTS</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|66|783|<span class="rank-name-pd">わっきー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41942?s_seq=41942">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|67|782|<span class="rank-name-pd">sym</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6142?s_seq=6142">自遊空間　宮崎北店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|67|782|<span class="rank-name-pd">ちか</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9310?s_seq=9310">LOB DARTS</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|67|782|<span class="rank-name-pd">藤丸　智己</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9310?s_seq=9310">LOB DARTS</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|70|781|<span class="rank-name-pd">雅</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6142?s_seq=6142">自遊空間　宮崎北店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|71|776|<span class="rank-name-pd">コジティー侍大将</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6142?s_seq=6142">自遊空間　宮崎北店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|72|775|<span class="rank-name-pd">けるんる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6142?s_seq=6142">自遊空間　宮崎北店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|72|775|<span class="rank-name-pd">ダニぼー。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41942?s_seq=41942">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|74|774|<span class="rank-name-pd">☆打上花火</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9310?s_seq=9310">LOB DARTS</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|74|774|<span class="rank-name-pd">黒田 祐輔</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41942?s_seq=41942">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|74|774|<span class="rank-name-pd">黒田 祐輔</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48848?s_seq=48848">快活CLUB 宮崎加納店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|77|772|<span class="rank-name-pd">幸 @打上花火</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48848?s_seq=48848">快活CLUB 宮崎加納店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|78|771|<span class="rank-name-pd">JOHNNY 2ND</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41942?s_seq=41942">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|79|770|<span class="rank-name-pd">あきを</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48848?s_seq=48848">快活CLUB 宮崎加納店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|79|770|<span class="rank-name-pd">二代目海老蔵</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9310?s_seq=9310">LOB DARTS</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|81|768|<span class="rank-name-pd">柏田 泰宏</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6142?s_seq=6142">自遊空間　宮崎北店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|82|763|<span class="rank-name-pd">-NAO-鬼のふぁぼ隊長</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6042?s_seq=6042">ラウンドワン宮崎店 カラオケ</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|82|763|<span class="rank-name-pd">kent2110</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6142?s_seq=6142">自遊空間　宮崎北店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|84|762|<span class="rank-name-pd">炎の皇平</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88507?s_seq=88507">Blue Ocean BAR D</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|85|761|<span class="rank-name-pd">さこやん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9310?s_seq=9310">LOB DARTS</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|86|758|<span class="rank-name-pd">YASU55よかろう侍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41942?s_seq=41942">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|86|758|<span class="rank-name-pd">桑山 隆行</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_60148?s_seq=60148">Bar BLINK</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|88|752|<span class="rank-name-pd">MAESTRO侍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6142?s_seq=6142">自遊空間　宮崎北店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|89|749|<span class="rank-name-pd">(￣∇￣)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41942?s_seq=41942">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|90|744|<span class="rank-name-pd">おさんちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88507?s_seq=88507">Blue Ocean BAR D</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|91|739|<span class="rank-name-pd">SyouN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6142?s_seq=6142">自遊空間　宮崎北店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|92|738|<span class="rank-name-pd">ZUSSY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6142?s_seq=6142">自遊空間　宮崎北店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|93|734|<span class="rank-name-pd">かどかど★</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48848?s_seq=48848">快活CLUB 宮崎加納店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|94|730|<span class="rank-name-pd">(￣∇￣)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48848?s_seq=48848">快活CLUB 宮崎加納店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|95|729|<span class="rank-name-pd">あらたくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_60148?s_seq=60148">Bar BLINK</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|95|729|<span class="rank-name-pd">まつばら</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48848?s_seq=48848">快活CLUB 宮崎加納店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|97|726|<span class="rank-name-pd">DI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41942?s_seq=41942">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|97|726|<span class="rank-name-pd">いちこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41942?s_seq=41942">快活CLUB 宮崎一の宮店</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|99|723|<span class="rank-name-pd">コジティー侍大将</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53781?s_seq=53781">wood bull DD</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+|99|723|<span class="rank-name-pd">マッシュ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6042?s_seq=6042">ラウンドワン宮崎店 カラオケ</a>|<a href="/darts/rank/宮崎県/宮崎市">宮崎県宮崎市</a>|
+
+
+<div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
+    last update : <span style="font-weight: italic" id="foot_last_modified"></span><br />
+    DARTSLIVE は 株式会社ダーツライブ社 の登録商標です<br />
+    PHOENIXDARTS は フェニックスダーツジャパン株式会社 の登録商標です<br />
+</div>
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/js/jquery.tablesorter.min.js" integrity="sha512-qzgd5cYSZcosqpzpn7zF2ZId8f/8CHmFKZ8j7mU4OUXTNRd5g+ZHBPsgKEwoqxCtdQvExE5LprwwPAgoicguNg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/css/theme.default.min.css" integrity="sha512-wghhOJkjQX0Lh3NSWvNKeZ0ZpNn+SPVXX1Qyc9OCaogADktxrBiBdKGDoqVUOyhStvMBmJQ8ZdMHiR3wuEq8+w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <script>
 $(function() {
     $(".table-ranking").tablesorter({sortList:[[0, 0]]});
+    $("#foot_last_modified").text(formatDate(new Date(document.lastModified), 'yyyy-MM-dd HH:mm:ss'));
 });
 </script>
 

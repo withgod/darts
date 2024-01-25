@@ -1,75 +1,147 @@
 ---
-title: DARTSLIVE AREA RANKING | 埼玉県 | 久喜市
+title: COUNTUP AREA RANKING | 埼玉県 | 久喜市
 ---
-## DARTSLIVE AREA RANKING | 埼玉県 | 久喜市
+## COUNTUP AREA RANKING | 埼玉県 | 久喜市
 
 [TOP](/darts/rank/) > [埼玉県](/darts/rank/埼玉県/) > 久喜市
 
 ___
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="DARTSLIVE AREA RANKING | 埼玉県久喜市" class="twitter-share-button" data-via="DARTSLIVE" data-hashtags="DARTSLIVE" data-related="DARTSLIVE" data-show-count="false">Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="COUNTUP AREA RANKING | 埼玉県久喜市" class="twitter-share-button" data-hashtags="DARTSLIVE,PHOENIXDARTS,darts,ダーツ" data-show-count="false">Tweet</a>
 
-### 地域別TOP 100
+* [ランキング](#カウントアップランキング)
+    * [TOP 100](#top-100)
+    * [DARTSLIVE TOP 100](#dartslive-top-100)
+    * [PHOENIXDARTS TOP 100](#phoenixdarts-top-100)
+
+### カウントアップランキング
+
+#### TOP 100
+
+
 
 {:.table-ranking}
-|ランク|スコア|名前|店名|所在地|
+|#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1174|O|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
-|2|1161|NO NAME 7095|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
-|3|978|たけ..|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
-|4|971|ELEGANT-MALIMO|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
-|5|939|ネコミミ☆[SOS]|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
-|6|915|よー|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
-|7|913|take..|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
-|7|913|シューマッハ|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
-|9|903|BØB∞|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
-|10|901|NA|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
-|11|877|ヨッシー|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
-|12|873|そむん|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
-|13|867|Sho|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
-|14|864|熊ZAZA@Cola派|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
-|15|862|サクラの幻影|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
-|16|854|さとこちゃす|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
-|17|813|お客様Ｃ|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
-|17|813|まる|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
-|19|761|ひーくん|<a href="https://search.dartslive.com/jp/shop/6b4bf819b2f48c1c0d9b047a20a7ba1e">久喜 COLORS</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
-|20|753|まみ|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
-|21|704|ごっちゃ|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
-|22|688|ke-yo-|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
-|23|670|6ull|<a href="https://search.dartslive.com/jp/shop/6b4bf819b2f48c1c0d9b047a20a7ba1e">久喜 COLORS</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
-|24|646|ぶんぶん|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
-|25|641|どらえもん|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
-|26|640|栗|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
-|27|638|Numasan@colors|<a href="https://search.dartslive.com/jp/shop/6b4bf819b2f48c1c0d9b047a20a7ba1e">久喜 COLORS</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
-|28|637|KOBA|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
-|29|635|KIKURIN|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
-|30|577|☆なぉ☆abaca.*|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
-|31|574|まさんぬ(公式)|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
-|32|524|➷たゃたにえん➷|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
-|33|506|あゆむ|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
-|34|488|まー@カラーズ|<a href="https://search.dartslive.com/jp/shop/6b4bf819b2f48c1c0d9b047a20a7ba1e">久喜 COLORS</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
-|35|474|◎ﾌﾞﾀﾉｶｯｸｰﾆ|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
-|36|472|あた|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
-|37|467|ぞうさん@COLORS|<a href="https://search.dartslive.com/jp/shop/6b4bf819b2f48c1c0d9b047a20a7ba1e">久喜 COLORS</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
-|38|456|じゃん|<a href="https://search.dartslive.com/jp/shop/6b4bf819b2f48c1c0d9b047a20a7ba1e">久喜 COLORS</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
-|39|439|UY|<a href="https://search.dartslive.com/jp/shop/6b4bf819b2f48c1c0d9b047a20a7ba1e">久喜 COLORS</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
-|40|379|そのぴさん|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
-|41|359|かつや@串カラ|<a href="https://search.dartslive.com/jp/shop/6b4bf819b2f48c1c0d9b047a20a7ba1e">久喜 COLORS</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
-|42|238|yasu0704|<a href="https://search.dartslive.com/jp/shop/6b4bf819b2f48c1c0d9b047a20a7ba1e">久喜 COLORS</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|1|1197|<span class="rank-name-dl">O</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|2|1161|<span class="rank-name-dl">NO NAME 7095</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|3|978|<span class="rank-name-dl">たけ..</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|4|971|<span class="rank-name-dl">ELEGANT-MALIMO</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|5|939|<span class="rank-name-dl">ネコミミ☆[SOS]</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|6|915|<span class="rank-name-dl">よー</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|7|913|<span class="rank-name-dl">take..</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|7|913|<span class="rank-name-dl">シューマッハ</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|9|903|<span class="rank-name-dl">BØB∞</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|10|901|<span class="rank-name-dl">NA</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|11|877|<span class="rank-name-dl">ヨッシー</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|12|873|<span class="rank-name-dl">そむん</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|13|867|<span class="rank-name-dl">Sho</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|14|864|<span class="rank-name-dl">熊ZAZA@Cola派</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|15|862|<span class="rank-name-dl">サクラの幻影</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|16|854|<span class="rank-name-dl">さとこちゃす</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|17|813|<span class="rank-name-dl">お客様Ｃ</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|17|813|<span class="rank-name-dl">まる</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|19|761|<span class="rank-name-dl">ひーくん</span>|<a href="https://search.dartslive.com/jp/shop/6b4bf819b2f48c1c0d9b047a20a7ba1e">久喜 COLORS</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|20|753|<span class="rank-name-dl">まみ</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|21|704|<span class="rank-name-dl">ごっちゃ</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|22|688|<span class="rank-name-dl">ke-yo-</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|23|670|<span class="rank-name-dl">6ull</span>|<a href="https://search.dartslive.com/jp/shop/6b4bf819b2f48c1c0d9b047a20a7ba1e">久喜 COLORS</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|24|646|<span class="rank-name-dl">ぶんぶん</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|25|641|<span class="rank-name-dl">どらえもん</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|26|640|<span class="rank-name-dl">栗</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|27|638|<span class="rank-name-dl">Numasan@colors</span>|<a href="https://search.dartslive.com/jp/shop/6b4bf819b2f48c1c0d9b047a20a7ba1e">久喜 COLORS</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|28|637|<span class="rank-name-dl">KOBA</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|29|635|<span class="rank-name-dl">KIKURIN</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|30|577|<span class="rank-name-dl">☆なぉ☆abaca.*</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|31|574|<span class="rank-name-dl">まさんぬ(公式)</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|32|524|<span class="rank-name-dl">➷たゃたにえん➷</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|33|506|<span class="rank-name-dl">あゆむ</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|34|494|<span class="rank-name-dl">R</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|35|488|<span class="rank-name-dl">まー@カラーズ</span>|<a href="https://search.dartslive.com/jp/shop/6b4bf819b2f48c1c0d9b047a20a7ba1e">久喜 COLORS</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|36|474|<span class="rank-name-dl">◎ﾌﾞﾀﾉｶｯｸｰﾆ</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|37|472|<span class="rank-name-dl">あた</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|38|467|<span class="rank-name-dl">ぞうさん@COLORS</span>|<a href="https://search.dartslive.com/jp/shop/6b4bf819b2f48c1c0d9b047a20a7ba1e">久喜 COLORS</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|39|456|<span class="rank-name-dl">じゃん</span>|<a href="https://search.dartslive.com/jp/shop/6b4bf819b2f48c1c0d9b047a20a7ba1e">久喜 COLORS</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|40|439|<span class="rank-name-dl">UY</span>|<a href="https://search.dartslive.com/jp/shop/6b4bf819b2f48c1c0d9b047a20a7ba1e">久喜 COLORS</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|41|379|<span class="rank-name-dl">そのぴさん</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|42|359|<span class="rank-name-dl">かつや@串カラ</span>|<a href="https://search.dartslive.com/jp/shop/6b4bf819b2f48c1c0d9b047a20a7ba1e">久喜 COLORS</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|43|238|<span class="rank-name-dl">yasu0704</span>|<a href="https://search.dartslive.com/jp/shop/6b4bf819b2f48c1c0d9b047a20a7ba1e">久喜 COLORS</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+
+
+#### DARTSLIVE TOP 100
 
 
 
-___
+{:.table-ranking}
+|#|スコア|名前|店名|所在地|
+|---|---|---|---|---|
+|1|1197|<span class="rank-name-dl">O</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|2|1161|<span class="rank-name-dl">NO NAME 7095</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|3|978|<span class="rank-name-dl">たけ..</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|4|971|<span class="rank-name-dl">ELEGANT-MALIMO</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|5|939|<span class="rank-name-dl">ネコミミ☆[SOS]</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|6|915|<span class="rank-name-dl">よー</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|7|913|<span class="rank-name-dl">take..</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|7|913|<span class="rank-name-dl">シューマッハ</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|9|903|<span class="rank-name-dl">BØB∞</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|10|901|<span class="rank-name-dl">NA</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|11|877|<span class="rank-name-dl">ヨッシー</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|12|873|<span class="rank-name-dl">そむん</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|13|867|<span class="rank-name-dl">Sho</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|14|864|<span class="rank-name-dl">熊ZAZA@Cola派</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|15|862|<span class="rank-name-dl">サクラの幻影</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|16|854|<span class="rank-name-dl">さとこちゃす</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|17|813|<span class="rank-name-dl">お客様Ｃ</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|17|813|<span class="rank-name-dl">まる</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|19|761|<span class="rank-name-dl">ひーくん</span>|<a href="https://search.dartslive.com/jp/shop/6b4bf819b2f48c1c0d9b047a20a7ba1e">久喜 COLORS</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|20|753|<span class="rank-name-dl">まみ</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|21|704|<span class="rank-name-dl">ごっちゃ</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|22|688|<span class="rank-name-dl">ke-yo-</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|23|670|<span class="rank-name-dl">6ull</span>|<a href="https://search.dartslive.com/jp/shop/6b4bf819b2f48c1c0d9b047a20a7ba1e">久喜 COLORS</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|24|646|<span class="rank-name-dl">ぶんぶん</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|25|641|<span class="rank-name-dl">どらえもん</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|26|640|<span class="rank-name-dl">栗</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|27|638|<span class="rank-name-dl">Numasan@colors</span>|<a href="https://search.dartslive.com/jp/shop/6b4bf819b2f48c1c0d9b047a20a7ba1e">久喜 COLORS</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|28|637|<span class="rank-name-dl">KOBA</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|29|635|<span class="rank-name-dl">KIKURIN</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|30|577|<span class="rank-name-dl">☆なぉ☆abaca.*</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|31|574|<span class="rank-name-dl">まさんぬ(公式)</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|32|524|<span class="rank-name-dl">➷たゃたにえん➷</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|33|506|<span class="rank-name-dl">あゆむ</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|34|494|<span class="rank-name-dl">R</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|35|488|<span class="rank-name-dl">まー@カラーズ</span>|<a href="https://search.dartslive.com/jp/shop/6b4bf819b2f48c1c0d9b047a20a7ba1e">久喜 COLORS</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|36|474|<span class="rank-name-dl">◎ﾌﾞﾀﾉｶｯｸｰﾆ</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|37|472|<span class="rank-name-dl">あた</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|38|467|<span class="rank-name-dl">ぞうさん@COLORS</span>|<a href="https://search.dartslive.com/jp/shop/6b4bf819b2f48c1c0d9b047a20a7ba1e">久喜 COLORS</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|39|456|<span class="rank-name-dl">じゃん</span>|<a href="https://search.dartslive.com/jp/shop/6b4bf819b2f48c1c0d9b047a20a7ba1e">久喜 COLORS</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|40|439|<span class="rank-name-dl">UY</span>|<a href="https://search.dartslive.com/jp/shop/6b4bf819b2f48c1c0d9b047a20a7ba1e">久喜 COLORS</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|41|379|<span class="rank-name-dl">そのぴさん</span>|<a href="https://search.dartslive.com/jp/shop/2ca5791469faea530d9b047a20a7ba1e">ラウンドワンさいたま栗橋店</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|42|359|<span class="rank-name-dl">かつや@串カラ</span>|<a href="https://search.dartslive.com/jp/shop/6b4bf819b2f48c1c0d9b047a20a7ba1e">久喜 COLORS</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
+|43|238|<span class="rank-name-dl">yasu0704</span>|<a href="https://search.dartslive.com/jp/shop/6b4bf819b2f48c1c0d9b047a20a7ba1e">久喜 COLORS</a>|<a href="/darts/rank/埼玉県/久喜市">埼玉県久喜市</a>|
 
-_last update : 2024/01/21 13:38:56_
+
+#### PHOENIXDARTS TOP 100
 
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+{:.table-ranking}
+|#|スコア|名前|店名|所在地|
+|---|---|---|---|---|
+||0|<span class="rank-name-dl"> </span>|<a href=""></a>|<a href="/darts/rank//"></a>|
+
+
+<div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
+    last update : <span style="font-weight: italic" id="foot_last_modified"></span><br />
+    DARTSLIVE は 株式会社ダーツライブ社 の登録商標です<br />
+    PHOENIXDARTS は フェニックスダーツジャパン株式会社 の登録商標です<br />
+</div>
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/js/jquery.tablesorter.min.js" integrity="sha512-qzgd5cYSZcosqpzpn7zF2ZId8f/8CHmFKZ8j7mU4OUXTNRd5g+ZHBPsgKEwoqxCtdQvExE5LprwwPAgoicguNg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/css/theme.default.min.css" integrity="sha512-wghhOJkjQX0Lh3NSWvNKeZ0ZpNn+SPVXX1Qyc9OCaogADktxrBiBdKGDoqVUOyhStvMBmJQ8ZdMHiR3wuEq8+w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <script>
 $(function() {
     $(".table-ranking").tablesorter({sortList:[[0, 0]]});
+    $("#foot_last_modified").text(formatDate(new Date(document.lastModified), 'yyyy-MM-dd HH:mm:ss'));
 });
 </script>
 

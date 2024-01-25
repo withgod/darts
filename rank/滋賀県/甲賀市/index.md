@@ -1,57 +1,111 @@
 ---
-title: DARTSLIVE AREA RANKING | 滋賀県 | 甲賀市
+title: COUNTUP AREA RANKING | 滋賀県 | 甲賀市
 ---
-## DARTSLIVE AREA RANKING | 滋賀県 | 甲賀市
+## COUNTUP AREA RANKING | 滋賀県 | 甲賀市
 
 [TOP](/darts/rank/) > [滋賀県](/darts/rank/滋賀県/) > 甲賀市
 
 ___
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="DARTSLIVE AREA RANKING | 滋賀県甲賀市" class="twitter-share-button" data-via="DARTSLIVE" data-hashtags="DARTSLIVE" data-related="DARTSLIVE" data-show-count="false">Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="COUNTUP AREA RANKING | 滋賀県甲賀市" class="twitter-share-button" data-hashtags="DARTSLIVE,PHOENIXDARTS,darts,ダーツ" data-show-count="false">Tweet</a>
 
-### 地域別TOP 100
+* [ランキング](#カウントアップランキング)
+    * [TOP 100](#top-100)
+    * [DARTSLIVE TOP 100](#dartslive-top-100)
+    * [PHOENIXDARTS TOP 100](#phoenixdarts-top-100)
+
+### カウントアップランキング
+
+#### TOP 100
+
+
 
 {:.table-ranking}
-|ランク|スコア|名前|店名|所在地|
+|#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1148|森本 純矢|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
-|2|1008|NO NAME 8800|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
-|3|998|カズ|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
-|4|991|うっしぃ|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
-|5|978|τοττιε|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
-|6|968|飼い主さん|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
-|7|964|りょーすけ|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
-|8|959|Masashi|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
-|8|959|しっもゃん。2|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
-|10|911|山本デップ|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
-|11|889|コロ|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
-|12|881|だいきRAINBOW♡|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
-|13|879|みず。|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
-|14|876|GOLBA|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
-|15|863|ブロッコリー山田|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
-|16|668|NO NAME 7760|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
-|17|520|あんぬ|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
-|18|507|めい|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
-|19|506|ミーちゃん☆|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
-|20|474|☆☆はっち☆☆FY|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
-|21|421|NJPW★はっち★|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
-|22|418|たかえ|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
-|23|403|NJPW★はっち★R|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
-|24|349|はーちゃん|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
+|1|1148|<span class="rank-name-dl">森本 純矢</span>|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
+|2|1008|<span class="rank-name-dl">NO NAME 8800</span>|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
+|3|998|<span class="rank-name-dl">カズ</span>|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
+|4|991|<span class="rank-name-dl">うっしぃ</span>|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
+|5|978|<span class="rank-name-dl">τοττιε</span>|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
+|6|968|<span class="rank-name-dl">飼い主さん</span>|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
+|7|964|<span class="rank-name-dl">りょーすけ</span>|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
+|8|959|<span class="rank-name-dl">Masashi</span>|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
+|8|959|<span class="rank-name-dl">しっもゃん。2</span>|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
+|10|911|<span class="rank-name-dl">山本デップ</span>|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
+|11|889|<span class="rank-name-dl">コロ</span>|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
+|12|881|<span class="rank-name-dl">だいきRAINBOW♡</span>|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
+|13|879|<span class="rank-name-dl">みず。</span>|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
+|14|876|<span class="rank-name-dl">GOLBA</span>|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
+|15|863|<span class="rank-name-dl">ブロッコリー山田</span>|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
+|16|668|<span class="rank-name-dl">NO NAME 7760</span>|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
+|17|520|<span class="rank-name-dl">あんぬ</span>|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
+|18|507|<span class="rank-name-dl">めい</span>|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
+|19|506|<span class="rank-name-dl">ミーちゃん☆</span>|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
+|20|474|<span class="rank-name-dl">☆☆はっち☆☆FY</span>|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
+|21|423|<span class="rank-name-dl">NO NAME</span>|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
+|22|421|<span class="rank-name-dl">NJPW★はっち★</span>|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
+|23|418|<span class="rank-name-dl">たかえ</span>|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
+|24|403|<span class="rank-name-dl">NJPW★はっち★R</span>|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
+|25|349|<span class="rank-name-dl">はーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
+
+
+#### DARTSLIVE TOP 100
 
 
 
-___
+{:.table-ranking}
+|#|スコア|名前|店名|所在地|
+|---|---|---|---|---|
+|1|1148|<span class="rank-name-dl">森本 純矢</span>|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
+|2|1008|<span class="rank-name-dl">NO NAME 8800</span>|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
+|3|998|<span class="rank-name-dl">カズ</span>|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
+|4|991|<span class="rank-name-dl">うっしぃ</span>|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
+|5|978|<span class="rank-name-dl">τοττιε</span>|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
+|6|968|<span class="rank-name-dl">飼い主さん</span>|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
+|7|964|<span class="rank-name-dl">りょーすけ</span>|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
+|8|959|<span class="rank-name-dl">Masashi</span>|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
+|8|959|<span class="rank-name-dl">しっもゃん。2</span>|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
+|10|911|<span class="rank-name-dl">山本デップ</span>|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
+|11|889|<span class="rank-name-dl">コロ</span>|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
+|12|881|<span class="rank-name-dl">だいきRAINBOW♡</span>|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
+|13|879|<span class="rank-name-dl">みず。</span>|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
+|14|876|<span class="rank-name-dl">GOLBA</span>|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
+|15|863|<span class="rank-name-dl">ブロッコリー山田</span>|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
+|16|668|<span class="rank-name-dl">NO NAME 7760</span>|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
+|17|520|<span class="rank-name-dl">あんぬ</span>|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
+|18|507|<span class="rank-name-dl">めい</span>|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
+|19|506|<span class="rank-name-dl">ミーちゃん☆</span>|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
+|20|474|<span class="rank-name-dl">☆☆はっち☆☆FY</span>|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
+|21|423|<span class="rank-name-dl">NO NAME</span>|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
+|22|421|<span class="rank-name-dl">NJPW★はっち★</span>|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
+|23|418|<span class="rank-name-dl">たかえ</span>|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
+|24|403|<span class="rank-name-dl">NJPW★はっち★R</span>|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
+|25|349|<span class="rank-name-dl">はーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/da7310be8f30c87d790ab824ce8730e5">快活CLUB 甲賀水口店</a>|<a href="/darts/rank/滋賀県/甲賀市">滋賀県甲賀市</a>|
 
-_last update : 2024/01/21 13:39:03_
+
+#### PHOENIXDARTS TOP 100
 
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+{:.table-ranking}
+|#|スコア|名前|店名|所在地|
+|---|---|---|---|---|
+||0|<span class="rank-name-dl"> </span>|<a href=""></a>|<a href="/darts/rank//"></a>|
+
+
+<div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
+    last update : <span style="font-weight: italic" id="foot_last_modified"></span><br />
+    DARTSLIVE は 株式会社ダーツライブ社 の登録商標です<br />
+    PHOENIXDARTS は フェニックスダーツジャパン株式会社 の登録商標です<br />
+</div>
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/js/jquery.tablesorter.min.js" integrity="sha512-qzgd5cYSZcosqpzpn7zF2ZId8f/8CHmFKZ8j7mU4OUXTNRd5g+ZHBPsgKEwoqxCtdQvExE5LprwwPAgoicguNg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/css/theme.default.min.css" integrity="sha512-wghhOJkjQX0Lh3NSWvNKeZ0ZpNn+SPVXX1Qyc9OCaogADktxrBiBdKGDoqVUOyhStvMBmJQ8ZdMHiR3wuEq8+w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <script>
 $(function() {
     $(".table-ranking").tablesorter({sortList:[[0, 0]]});
+    $("#foot_last_modified").text(formatDate(new Date(document.lastModified), 'yyyy-MM-dd HH:mm:ss'));
 });
 </script>
 

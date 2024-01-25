@@ -1,133 +1,261 @@
 ---
-title: DARTSLIVE AREA RANKING | 大阪府 | 大阪市平野区
+title: COUNTUP AREA RANKING | 大阪府 | 大阪市平野区
 ---
-## DARTSLIVE AREA RANKING | 大阪府 | 大阪市平野区
+## COUNTUP AREA RANKING | 大阪府 | 大阪市平野区
 
 [TOP](/darts/rank/) > [大阪府](/darts/rank/大阪府/) > 大阪市平野区
 
 ___
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="DARTSLIVE AREA RANKING | 大阪府大阪市平野区" class="twitter-share-button" data-via="DARTSLIVE" data-hashtags="DARTSLIVE" data-related="DARTSLIVE" data-show-count="false">Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="COUNTUP AREA RANKING | 大阪府大阪市平野区" class="twitter-share-button" data-hashtags="DARTSLIVE,PHOENIXDARTS,darts,ダーツ" data-show-count="false">Tweet</a>
 
-### 地域別TOP 100
+* [ランキング](#カウントアップランキング)
+    * [TOP 100](#top-100)
+    * [DARTSLIVE TOP 100](#dartslive-top-100)
+    * [PHOENIXDARTS TOP 100](#phoenixdarts-top-100)
+
+### カウントアップランキング
+
+#### TOP 100
+
+
 
 {:.table-ranking}
-|ランク|スコア|名前|店名|所在地|
+|#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1133|和泉　真平|<a href="https://search.dartslive.com/jp/shop/aebb8f26595f8ffd790ab824ce8730e5">simulation golf LEON</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|2|1041|ひでまろ☆Rihaku|<a href="https://search.dartslive.com/jp/shop/fc285d02570ae8885f9f3321c1147265">利白</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|3|1000|松本　翔|<a href="https://search.dartslive.com/jp/shop/fc285d02570ae8885f9f3321c1147265">利白</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|4|990|✎かいちゆ|<a href="https://search.dartslive.com/jp/shop/d6517c240736e70c28032249b44395af">Waphiyapi</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|5|979|和泉　真平|<a href="https://search.dartslive.com/jp/shop/fc285d02570ae8885f9f3321c1147265">利白</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|6|972|@ちゅ太郎☆|<a href="https://search.dartslive.com/jp/shop/d6517c240736e70c28032249b44395af">Waphiyapi</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|7|971|べーさん@mcz波紋|<a href="https://search.dartslive.com/jp/shop/d6517c240736e70c28032249b44395af">Waphiyapi</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|8|963|りょー#忘我|<a href="https://search.dartslive.com/jp/shop/fc285d02570ae8885f9f3321c1147265">利白</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|8|963|利白☆けんいち|<a href="https://search.dartslive.com/jp/shop/fc285d02570ae8885f9f3321c1147265">利白</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|10|961|D→Crew＄ZORO|<a href="https://search.dartslive.com/jp/shop/d6517c240736e70c28032249b44395af">Waphiyapi</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|10|961|†Natsu†|<a href="https://search.dartslive.com/jp/shop/c7502348bc23d0770d9b047a20a7ba1e">コミックバスターアルカンシェール　喜連瓜破店</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|12|948|砂吉|<a href="https://search.dartslive.com/jp/shop/fc285d02570ae8885f9f3321c1147265">利白</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|13|944|@Jun太郎☆|<a href="https://search.dartslive.com/jp/shop/aebb8f26595f8ffd790ab824ce8730e5">simulation golf LEON</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|13|944|†Natsu†|<a href="https://search.dartslive.com/jp/shop/fc285d02570ae8885f9f3321c1147265">利白</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|15|941|☆DAIchang☆|<a href="https://search.dartslive.com/jp/shop/d6517c240736e70c28032249b44395af">Waphiyapi</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|16|933|ﾃﾞｨｰﾌｼﾞｵｶ|<a href="https://search.dartslive.com/jp/shop/28e42e4f04b9f3790d9b047a20a7ba1e">AZ house</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|17|929|nobu@zeal|<a href="https://search.dartslive.com/jp/shop/500e2e3357062bf4f454cb89828a1cfe">dining bar zeal</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|18|925|keita@waphiyapi|<a href="https://search.dartslive.com/jp/shop/d6517c240736e70c28032249b44395af">Waphiyapi</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|19|922|猫パンチ|<a href="https://search.dartslive.com/jp/shop/500e2e3357062bf4f454cb89828a1cfe">dining bar zeal</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|20|908|ニコニコシッポ|<a href="https://search.dartslive.com/jp/shop/fc285d02570ae8885f9f3321c1147265">利白</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|21|907|zeal翔毅|<a href="https://search.dartslive.com/jp/shop/500e2e3357062bf4f454cb89828a1cfe">dining bar zeal</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|22|900|☆★DAI★☆|<a href="https://search.dartslive.com/jp/shop/aebb8f26595f8ffd790ab824ce8730e5">simulation golf LEON</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|23|899|ま?くんにぃ?Lv|<a href="https://search.dartslive.com/jp/shop/667b7aac3838b4cd0d9b047a20a7ba1e">YANAWARABAR</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|24|898|D→Crew∞massan|<a href="https://search.dartslive.com/jp/shop/d6517c240736e70c28032249b44395af">Waphiyapi</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|24|898|ｼｬｼｬﾘ族のKazuki|<a href="https://search.dartslive.com/jp/shop/aebb8f26595f8ffd790ab824ce8730e5">simulation golf LEON</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|26|897|auua|<a href="https://search.dartslive.com/jp/shop/fc285d02570ae8885f9f3321c1147265">利白</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|27|885|ARE☆DAI☆sole|<a href="https://search.dartslive.com/jp/shop/aebb8f26595f8ffd790ab824ce8730e5">simulation golf LEON</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|28|879|d crew　☆はる♪|<a href="https://search.dartslive.com/jp/shop/d6517c240736e70c28032249b44395af">Waphiyapi</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|29|870|G.family ゆーや|<a href="https://search.dartslive.com/jp/shop/e77555a62bab7e63774c926eb736cb5a">tip39</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|30|868|keita@waphiyapi|<a href="https://search.dartslive.com/jp/shop/aebb8f26595f8ffd790ab824ce8730e5">simulation golf LEON</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|31|866|D→Crew＄ZORO|<a href="https://search.dartslive.com/jp/shop/e77555a62bab7e63774c926eb736cb5a">tip39</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|32|861|JIRO╹๑)ﾉ…→◎|<a href="https://search.dartslive.com/jp/shop/fc285d02570ae8885f9f3321c1147265">利白</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|32|861|なるお2|<a href="https://search.dartslive.com/jp/shop/500e2e3357062bf4f454cb89828a1cfe">dining bar zeal</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|34|857|秀虎⇔ｼｬｼｬﾘ族|<a href="https://search.dartslive.com/jp/shop/aebb8f26595f8ffd790ab824ce8730e5">simulation golf LEON</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|35|854|りょう@利白|<a href="https://search.dartslive.com/jp/shop/fc285d02570ae8885f9f3321c1147265">利白</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|36|853|はやかわたかや|<a href="https://search.dartslive.com/jp/shop/667b7aac3838b4cd0d9b047a20a7ba1e">YANAWARABAR</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|37|847|19610 久原　宝信|<a href="https://search.dartslive.com/jp/shop/fc285d02570ae8885f9f3321c1147265">利白</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|38|844|きたがわ　さとし|<a href="https://search.dartslive.com/jp/shop/5d80e4a9af24feaa774c926eb736cb5a">Dining Bar Boogie</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|39|842|NEXUS☆BOSS|<a href="https://search.dartslive.com/jp/shop/d6517c240736e70c28032249b44395af">Waphiyapi</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|40|835|takuma|<a href="https://search.dartslive.com/jp/shop/28e42e4f04b9f3790d9b047a20a7ba1e">AZ house</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|41|825|TOMOKI@Reve☆彡|<a href="https://search.dartslive.com/jp/shop/c7502348bc23d0770d9b047a20a7ba1e">コミックバスターアルカンシェール　喜連瓜破店</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|41|825|ﾏｷｼﾏﾑ:ｻﾞ:ｷｰﾁｬﾝ|<a href="https://search.dartslive.com/jp/shop/d6517c240736e70c28032249b44395af">Waphiyapi</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|43|815|MINAMI|<a href="https://search.dartslive.com/jp/shop/fc285d02570ae8885f9f3321c1147265">利白</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|43|815|ゆき☃Rihaku|<a href="https://search.dartslive.com/jp/shop/fc285d02570ae8885f9f3321c1147265">利白</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|45|811|☆★DAI★☆|<a href="https://search.dartslive.com/jp/shop/28e42e4f04b9f3790d9b047a20a7ba1e">AZ house</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|46|806|natsuki@五百瀬組|<a href="https://search.dartslive.com/jp/shop/28e42e4f04b9f3790d9b047a20a7ba1e">AZ house</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|47|805|悠生@tip39|<a href="https://search.dartslive.com/jp/shop/e77555a62bab7e63774c926eb736cb5a">tip39</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|48|789|うえちゃん|<a href="https://search.dartslive.com/jp/shop/e77555a62bab7e63774c926eb736cb5a">tip39</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|49|786|こっすんです|<a href="https://search.dartslive.com/jp/shop/aebb8f26595f8ffd790ab824ce8730e5">simulation golf LEON</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|50|785|tougen|<a href="https://search.dartslive.com/jp/shop/28e42e4f04b9f3790d9b047a20a7ba1e">AZ house</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|50|785|松本　翔|<a href="https://search.dartslive.com/jp/shop/aebb8f26595f8ffd790ab824ce8730e5">simulation golf LEON</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|52|780|berserk|<a href="https://search.dartslive.com/jp/shop/500e2e3357062bf4f454cb89828a1cfe">dining bar zeal</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|53|778|はやかわたかや|<a href="https://search.dartslive.com/jp/shop/e77555a62bab7e63774c926eb736cb5a">tip39</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|54|777|ｶﾞｲﾓﾝjr|<a href="https://search.dartslive.com/jp/shop/d6517c240736e70c28032249b44395af">Waphiyapi</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|55|774|パナ男|<a href="https://search.dartslive.com/jp/shop/e77555a62bab7e63774c926eb736cb5a">tip39</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|56|771|すきやん|<a href="https://search.dartslive.com/jp/shop/500e2e3357062bf4f454cb89828a1cfe">dining bar zeal</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|57|770|よしを@tip39|<a href="https://search.dartslive.com/jp/shop/d6517c240736e70c28032249b44395af">Waphiyapi</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|58|768|D→Crew＄ZORO|<a href="https://search.dartslive.com/jp/shop/5d80e4a9af24feaa774c926eb736cb5a">Dining Bar Boogie</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|58|768|はやかわたかや|<a href="https://search.dartslive.com/jp/shop/28e42e4f04b9f3790d9b047a20a7ba1e">AZ house</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|60|764|烈海王|<a href="https://search.dartslive.com/jp/shop/c7502348bc23d0770d9b047a20a7ba1e">コミックバスターアルカンシェール　喜連瓜破店</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|61|759|虎鉄@LEON|<a href="https://search.dartslive.com/jp/shop/aebb8f26595f8ffd790ab824ce8730e5">simulation golf LEON</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|62|758|SU-SAN|<a href="https://search.dartslive.com/jp/shop/e77555a62bab7e63774c926eb736cb5a">tip39</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|63|757|D→Crew 優一|<a href="https://search.dartslive.com/jp/shop/c7502348bc23d0770d9b047a20a7ba1e">コミックバスターアルカンシェール　喜連瓜破店</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|64|751|☆☆HANA☆☆|<a href="https://search.dartslive.com/jp/shop/aebb8f26595f8ffd790ab824ce8730e5">simulation golf LEON</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|64|751|ライタ@Leon|<a href="https://search.dartslive.com/jp/shop/aebb8f26595f8ffd790ab824ce8730e5">simulation golf LEON</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|64|751|村下　英樹|<a href="https://search.dartslive.com/jp/shop/500e2e3357062bf4f454cb89828a1cfe">dining bar zeal</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|67|745|marchill@tip39|<a href="https://search.dartslive.com/jp/shop/e77555a62bab7e63774c926eb736cb5a">tip39</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|67|745|ダｳﾝタｳﾝのゆい|<a href="https://search.dartslive.com/jp/shop/aebb8f26595f8ffd790ab824ce8730e5">simulation golf LEON</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|69|742|ダｳﾝタｳﾝのかずき|<a href="https://search.dartslive.com/jp/shop/aebb8f26595f8ffd790ab824ce8730e5">simulation golf LEON</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|69|742|幸|<a href="https://search.dartslive.com/jp/shop/5d80e4a9af24feaa774c926eb736cb5a">Dining Bar Boogie</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|71|739|boogieの和ちゃん|<a href="https://search.dartslive.com/jp/shop/5d80e4a9af24feaa774c926eb736cb5a">Dining Bar Boogie</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|72|737|ARE☆DAI☆sole|<a href="https://search.dartslive.com/jp/shop/28e42e4f04b9f3790d9b047a20a7ba1e">AZ house</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|72|737|よしを@tip39|<a href="https://search.dartslive.com/jp/shop/e77555a62bab7e63774c926eb736cb5a">tip39</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|74|735|KOH@AZ日曜限定|<a href="https://search.dartslive.com/jp/shop/28e42e4f04b9f3790d9b047a20a7ba1e">AZ house</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|74|735|あゃゃ☆OLP総長|<a href="https://search.dartslive.com/jp/shop/aebb8f26595f8ffd790ab824ce8730e5">simulation golf LEON</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|76|728|よしを@tip39|<a href="https://search.dartslive.com/jp/shop/aebb8f26595f8ffd790ab824ce8730e5">simulation golf LEON</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|77|724|トタ|<a href="https://search.dartslive.com/jp/shop/500e2e3357062bf4f454cb89828a1cfe">dining bar zeal</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|78|717|普通の人|<a href="https://search.dartslive.com/jp/shop/c7502348bc23d0770d9b047a20a7ba1e">コミックバスターアルカンシェール　喜連瓜破店</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|79|712|hiroto@tip39|<a href="https://search.dartslive.com/jp/shop/aebb8f26595f8ffd790ab824ce8730e5">simulation golf LEON</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|80|709|PANDA❤１号wap|<a href="https://search.dartslive.com/jp/shop/c7502348bc23d0770d9b047a20a7ba1e">コミックバスターアルカンシェール　喜連瓜破店</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|81|707|☆★DAI★☆|<a href="https://search.dartslive.com/jp/shop/e77555a62bab7e63774c926eb736cb5a">tip39</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|81|707|ドメ|<a href="https://search.dartslive.com/jp/shop/500e2e3357062bf4f454cb89828a1cfe">dining bar zeal</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|83|706|ぁv(・∀・*)ゃ|<a href="https://search.dartslive.com/jp/shop/d6517c240736e70c28032249b44395af">Waphiyapi</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|83|706|ポルじぃ|<a href="https://search.dartslive.com/jp/shop/500e2e3357062bf4f454cb89828a1cfe">dining bar zeal</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|85|705|To0ruchann|<a href="https://search.dartslive.com/jp/shop/c7502348bc23d0770d9b047a20a7ba1e">コミックバスターアルカンシェール　喜連瓜破店</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|85|705|tougen|<a href="https://search.dartslive.com/jp/shop/667b7aac3838b4cd0d9b047a20a7ba1e">YANAWARABAR</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|87|704|川上智史@C.C|<a href="https://search.dartslive.com/jp/shop/28e42e4f04b9f3790d9b047a20a7ba1e">AZ house</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|88|703|BSM|<a href="https://search.dartslive.com/jp/shop/500e2e3357062bf4f454cb89828a1cfe">dining bar zeal</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|89|697|たこ|<a href="https://search.dartslive.com/jp/shop/5d80e4a9af24feaa774c926eb736cb5a">Dining Bar Boogie</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|90|696|M@eKeN|<a href="https://search.dartslive.com/jp/shop/28e42e4f04b9f3790d9b047a20a7ba1e">AZ house</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|91|688|Ryota|<a href="https://search.dartslive.com/jp/shop/c7502348bc23d0770d9b047a20a7ba1e">コミックバスターアルカンシェール　喜連瓜破店</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|91|688|takatyan|<a href="https://search.dartslive.com/jp/shop/5d80e4a9af24feaa774c926eb736cb5a">Dining Bar Boogie</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|93|686|幸|<a href="https://search.dartslive.com/jp/shop/c7502348bc23d0770d9b047a20a7ba1e">コミックバスターアルカンシェール　喜連瓜破店</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|94|685|Yoshi@波紋|<a href="https://search.dartslive.com/jp/shop/c7502348bc23d0770d9b047a20a7ba1e">コミックバスターアルカンシェール　喜連瓜破店</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|95|681|Waphiyapi@kinori|<a href="https://search.dartslive.com/jp/shop/d6517c240736e70c28032249b44395af">Waphiyapi</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|96|678|ダｳﾝタｳﾝのゆい|<a href="https://search.dartslive.com/jp/shop/d6517c240736e70c28032249b44395af">Waphiyapi</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|97|672|AKI|<a href="https://search.dartslive.com/jp/shop/e77555a62bab7e63774c926eb736cb5a">tip39</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|98|664|ヨッシー★|<a href="https://search.dartslive.com/jp/shop/d6517c240736e70c28032249b44395af">Waphiyapi</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|99|663|curacao|<a href="https://search.dartslive.com/jp/shop/e77555a62bab7e63774c926eb736cb5a">tip39</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
-|100|661|Emi★Acha|<a href="https://search.dartslive.com/jp/shop/500e2e3357062bf4f454cb89828a1cfe">dining bar zeal</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|1|1133|<span class="rank-name-dl">和泉　真平</span>|<a href="https://search.dartslive.com/jp/shop/aebb8f26595f8ffd790ab824ce8730e5">simulation golf LEON</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|2|1041|<span class="rank-name-dl">ひでまろ☆Rihaku</span>|<a href="https://search.dartslive.com/jp/shop/fc285d02570ae8885f9f3321c1147265">利白</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|3|1000|<span class="rank-name-dl">松本　翔</span>|<a href="https://search.dartslive.com/jp/shop/fc285d02570ae8885f9f3321c1147265">利白</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|4|996|<span class="rank-name-dl">keita@waphiyapi</span>|<a href="https://search.dartslive.com/jp/shop/d6517c240736e70c28032249b44395af">Waphiyapi</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|5|990|<span class="rank-name-dl">✎かいちゆ</span>|<a href="https://search.dartslive.com/jp/shop/d6517c240736e70c28032249b44395af">Waphiyapi</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|6|979|<span class="rank-name-dl">和泉　真平</span>|<a href="https://search.dartslive.com/jp/shop/fc285d02570ae8885f9f3321c1147265">利白</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|7|972|<span class="rank-name-dl">@ちゅ太郎☆</span>|<a href="https://search.dartslive.com/jp/shop/d6517c240736e70c28032249b44395af">Waphiyapi</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|8|971|<span class="rank-name-dl">べーさん@mcz波紋</span>|<a href="https://search.dartslive.com/jp/shop/d6517c240736e70c28032249b44395af">Waphiyapi</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|9|963|<span class="rank-name-dl">りょー#忘我</span>|<a href="https://search.dartslive.com/jp/shop/fc285d02570ae8885f9f3321c1147265">利白</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|9|963|<span class="rank-name-dl">利白☆けんいち</span>|<a href="https://search.dartslive.com/jp/shop/fc285d02570ae8885f9f3321c1147265">利白</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|11|961|<span class="rank-name-dl">D→Crew＄ZORO</span>|<a href="https://search.dartslive.com/jp/shop/d6517c240736e70c28032249b44395af">Waphiyapi</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|11|961|<span class="rank-name-dl">†Natsu†</span>|<a href="https://search.dartslive.com/jp/shop/c7502348bc23d0770d9b047a20a7ba1e">コミックバスターアルカンシェール　喜連瓜破店</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|13|948|<span class="rank-name-dl">砂吉</span>|<a href="https://search.dartslive.com/jp/shop/fc285d02570ae8885f9f3321c1147265">利白</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|14|944|<span class="rank-name-dl">@Jun太郎☆</span>|<a href="https://search.dartslive.com/jp/shop/aebb8f26595f8ffd790ab824ce8730e5">simulation golf LEON</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|14|944|<span class="rank-name-dl">†Natsu†</span>|<a href="https://search.dartslive.com/jp/shop/fc285d02570ae8885f9f3321c1147265">利白</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|16|941|<span class="rank-name-dl">☆DAIchang☆</span>|<a href="https://search.dartslive.com/jp/shop/d6517c240736e70c28032249b44395af">Waphiyapi</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|17|933|<span class="rank-name-dl">ﾃﾞｨｰﾌｼﾞｵｶ</span>|<a href="https://search.dartslive.com/jp/shop/28e42e4f04b9f3790d9b047a20a7ba1e">AZ house</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|18|929|<span class="rank-name-dl">nobu@zeal</span>|<a href="https://search.dartslive.com/jp/shop/500e2e3357062bf4f454cb89828a1cfe">dining bar zeal</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|19|922|<span class="rank-name-dl">猫パンチ</span>|<a href="https://search.dartslive.com/jp/shop/500e2e3357062bf4f454cb89828a1cfe">dining bar zeal</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|20|908|<span class="rank-name-dl">ニコニコシッポ</span>|<a href="https://search.dartslive.com/jp/shop/fc285d02570ae8885f9f3321c1147265">利白</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|21|907|<span class="rank-name-dl">zeal翔毅</span>|<a href="https://search.dartslive.com/jp/shop/500e2e3357062bf4f454cb89828a1cfe">dining bar zeal</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|22|900|<span class="rank-name-dl">☆★DAI★☆</span>|<a href="https://search.dartslive.com/jp/shop/aebb8f26595f8ffd790ab824ce8730e5">simulation golf LEON</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|23|899|<span class="rank-name-dl">ま?くんにぃ?Lv</span>|<a href="https://search.dartslive.com/jp/shop/667b7aac3838b4cd0d9b047a20a7ba1e">YANAWARABAR</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|24|898|<span class="rank-name-dl">D→Crew∞massan</span>|<a href="https://search.dartslive.com/jp/shop/d6517c240736e70c28032249b44395af">Waphiyapi</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|24|898|<span class="rank-name-dl">ｼｬｼｬﾘ族のKazuki</span>|<a href="https://search.dartslive.com/jp/shop/aebb8f26595f8ffd790ab824ce8730e5">simulation golf LEON</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|26|897|<span class="rank-name-dl">auua</span>|<a href="https://search.dartslive.com/jp/shop/fc285d02570ae8885f9f3321c1147265">利白</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|27|885|<span class="rank-name-dl">ARE☆DAI☆sole</span>|<a href="https://search.dartslive.com/jp/shop/aebb8f26595f8ffd790ab824ce8730e5">simulation golf LEON</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|28|879|<span class="rank-name-dl">d crew　☆はる♪</span>|<a href="https://search.dartslive.com/jp/shop/d6517c240736e70c28032249b44395af">Waphiyapi</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|29|870|<span class="rank-name-dl">G.family ゆーや</span>|<a href="https://search.dartslive.com/jp/shop/e77555a62bab7e63774c926eb736cb5a">tip39</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|30|868|<span class="rank-name-dl">keita@waphiyapi</span>|<a href="https://search.dartslive.com/jp/shop/aebb8f26595f8ffd790ab824ce8730e5">simulation golf LEON</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|31|866|<span class="rank-name-dl">D→Crew＄ZORO</span>|<a href="https://search.dartslive.com/jp/shop/e77555a62bab7e63774c926eb736cb5a">tip39</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|32|861|<span class="rank-name-dl">JIRO╹๑)ﾉ…→◎</span>|<a href="https://search.dartslive.com/jp/shop/fc285d02570ae8885f9f3321c1147265">利白</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|32|861|<span class="rank-name-dl">なるお2</span>|<a href="https://search.dartslive.com/jp/shop/500e2e3357062bf4f454cb89828a1cfe">dining bar zeal</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|34|857|<span class="rank-name-dl">秀虎⇔ｼｬｼｬﾘ族</span>|<a href="https://search.dartslive.com/jp/shop/aebb8f26595f8ffd790ab824ce8730e5">simulation golf LEON</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|35|854|<span class="rank-name-dl">りょう@利白</span>|<a href="https://search.dartslive.com/jp/shop/fc285d02570ae8885f9f3321c1147265">利白</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|36|853|<span class="rank-name-dl">はやかわたかや</span>|<a href="https://search.dartslive.com/jp/shop/667b7aac3838b4cd0d9b047a20a7ba1e">YANAWARABAR</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|37|847|<span class="rank-name-dl">19610 久原　宝信</span>|<a href="https://search.dartslive.com/jp/shop/fc285d02570ae8885f9f3321c1147265">利白</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|38|844|<span class="rank-name-dl">きたがわ　さとし</span>|<a href="https://search.dartslive.com/jp/shop/5d80e4a9af24feaa774c926eb736cb5a">Dining Bar Boogie</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|39|842|<span class="rank-name-dl">NEXUS☆BOSS</span>|<a href="https://search.dartslive.com/jp/shop/d6517c240736e70c28032249b44395af">Waphiyapi</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|40|835|<span class="rank-name-dl">takuma</span>|<a href="https://search.dartslive.com/jp/shop/28e42e4f04b9f3790d9b047a20a7ba1e">AZ house</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|41|825|<span class="rank-name-dl">TOMOKI@Reve☆彡</span>|<a href="https://search.dartslive.com/jp/shop/c7502348bc23d0770d9b047a20a7ba1e">コミックバスターアルカンシェール　喜連瓜破店</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|41|825|<span class="rank-name-dl">ﾏｷｼﾏﾑ:ｻﾞ:ｷｰﾁｬﾝ</span>|<a href="https://search.dartslive.com/jp/shop/d6517c240736e70c28032249b44395af">Waphiyapi</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|43|815|<span class="rank-name-dl">MINAMI</span>|<a href="https://search.dartslive.com/jp/shop/fc285d02570ae8885f9f3321c1147265">利白</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|43|815|<span class="rank-name-dl">ゆき☃Rihaku</span>|<a href="https://search.dartslive.com/jp/shop/fc285d02570ae8885f9f3321c1147265">利白</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|45|811|<span class="rank-name-dl">☆★DAI★☆</span>|<a href="https://search.dartslive.com/jp/shop/28e42e4f04b9f3790d9b047a20a7ba1e">AZ house</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|46|806|<span class="rank-name-dl">natsuki@五百瀬組</span>|<a href="https://search.dartslive.com/jp/shop/28e42e4f04b9f3790d9b047a20a7ba1e">AZ house</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|47|805|<span class="rank-name-dl">悠生@tip39</span>|<a href="https://search.dartslive.com/jp/shop/e77555a62bab7e63774c926eb736cb5a">tip39</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|48|802|<span class="rank-name-dl">拓人＠グラナダ</span>|<a href="https://search.dartslive.com/jp/shop/d6517c240736e70c28032249b44395af">Waphiyapi</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|49|789|<span class="rank-name-dl">うえちゃん</span>|<a href="https://search.dartslive.com/jp/shop/e77555a62bab7e63774c926eb736cb5a">tip39</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|50|786|<span class="rank-name-dl">こっすんです</span>|<a href="https://search.dartslive.com/jp/shop/aebb8f26595f8ffd790ab824ce8730e5">simulation golf LEON</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|51|785|<span class="rank-name-dl">tougen</span>|<a href="https://search.dartslive.com/jp/shop/28e42e4f04b9f3790d9b047a20a7ba1e">AZ house</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|51|785|<span class="rank-name-dl">松本　翔</span>|<a href="https://search.dartslive.com/jp/shop/aebb8f26595f8ffd790ab824ce8730e5">simulation golf LEON</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|53|780|<span class="rank-name-dl">berserk</span>|<a href="https://search.dartslive.com/jp/shop/500e2e3357062bf4f454cb89828a1cfe">dining bar zeal</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|54|778|<span class="rank-name-dl">はやかわたかや</span>|<a href="https://search.dartslive.com/jp/shop/e77555a62bab7e63774c926eb736cb5a">tip39</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|55|777|<span class="rank-name-dl">ｶﾞｲﾓﾝjr</span>|<a href="https://search.dartslive.com/jp/shop/d6517c240736e70c28032249b44395af">Waphiyapi</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|56|774|<span class="rank-name-dl">パナ男</span>|<a href="https://search.dartslive.com/jp/shop/e77555a62bab7e63774c926eb736cb5a">tip39</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|57|771|<span class="rank-name-dl">すきやん</span>|<a href="https://search.dartslive.com/jp/shop/500e2e3357062bf4f454cb89828a1cfe">dining bar zeal</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|58|770|<span class="rank-name-dl">よしを@tip39</span>|<a href="https://search.dartslive.com/jp/shop/d6517c240736e70c28032249b44395af">Waphiyapi</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|59|768|<span class="rank-name-dl">D→Crew＄ZORO</span>|<a href="https://search.dartslive.com/jp/shop/5d80e4a9af24feaa774c926eb736cb5a">Dining Bar Boogie</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|59|768|<span class="rank-name-dl">はやかわたかや</span>|<a href="https://search.dartslive.com/jp/shop/28e42e4f04b9f3790d9b047a20a7ba1e">AZ house</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|61|764|<span class="rank-name-dl">烈海王</span>|<a href="https://search.dartslive.com/jp/shop/c7502348bc23d0770d9b047a20a7ba1e">コミックバスターアルカンシェール　喜連瓜破店</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|62|759|<span class="rank-name-dl">虎鉄@LEON</span>|<a href="https://search.dartslive.com/jp/shop/aebb8f26595f8ffd790ab824ce8730e5">simulation golf LEON</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|63|758|<span class="rank-name-dl">SU-SAN</span>|<a href="https://search.dartslive.com/jp/shop/e77555a62bab7e63774c926eb736cb5a">tip39</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|64|757|<span class="rank-name-dl">D→Crew 優一</span>|<a href="https://search.dartslive.com/jp/shop/c7502348bc23d0770d9b047a20a7ba1e">コミックバスターアルカンシェール　喜連瓜破店</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|65|751|<span class="rank-name-dl">☆☆HANA☆☆</span>|<a href="https://search.dartslive.com/jp/shop/aebb8f26595f8ffd790ab824ce8730e5">simulation golf LEON</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|65|751|<span class="rank-name-dl">ライタ@Leon</span>|<a href="https://search.dartslive.com/jp/shop/aebb8f26595f8ffd790ab824ce8730e5">simulation golf LEON</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|65|751|<span class="rank-name-dl">村下　英樹</span>|<a href="https://search.dartslive.com/jp/shop/500e2e3357062bf4f454cb89828a1cfe">dining bar zeal</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|68|745|<span class="rank-name-dl">marchill@tip39</span>|<a href="https://search.dartslive.com/jp/shop/e77555a62bab7e63774c926eb736cb5a">tip39</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|68|745|<span class="rank-name-dl">ダｳﾝタｳﾝのゆい</span>|<a href="https://search.dartslive.com/jp/shop/aebb8f26595f8ffd790ab824ce8730e5">simulation golf LEON</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|70|742|<span class="rank-name-dl">ダｳﾝタｳﾝのかずき</span>|<a href="https://search.dartslive.com/jp/shop/aebb8f26595f8ffd790ab824ce8730e5">simulation golf LEON</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|70|742|<span class="rank-name-dl">幸</span>|<a href="https://search.dartslive.com/jp/shop/5d80e4a9af24feaa774c926eb736cb5a">Dining Bar Boogie</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|72|739|<span class="rank-name-dl">boogieの和ちゃん</span>|<a href="https://search.dartslive.com/jp/shop/5d80e4a9af24feaa774c926eb736cb5a">Dining Bar Boogie</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|73|737|<span class="rank-name-dl">ARE☆DAI☆sole</span>|<a href="https://search.dartslive.com/jp/shop/28e42e4f04b9f3790d9b047a20a7ba1e">AZ house</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|73|737|<span class="rank-name-dl">よしを@tip39</span>|<a href="https://search.dartslive.com/jp/shop/e77555a62bab7e63774c926eb736cb5a">tip39</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|75|735|<span class="rank-name-dl">KOH@AZ日曜限定</span>|<a href="https://search.dartslive.com/jp/shop/28e42e4f04b9f3790d9b047a20a7ba1e">AZ house</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|75|735|<span class="rank-name-dl">あゃゃ☆OLP総長</span>|<a href="https://search.dartslive.com/jp/shop/aebb8f26595f8ffd790ab824ce8730e5">simulation golf LEON</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|77|728|<span class="rank-name-dl">よしを@tip39</span>|<a href="https://search.dartslive.com/jp/shop/aebb8f26595f8ffd790ab824ce8730e5">simulation golf LEON</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|78|724|<span class="rank-name-dl">トタ</span>|<a href="https://search.dartslive.com/jp/shop/500e2e3357062bf4f454cb89828a1cfe">dining bar zeal</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|79|717|<span class="rank-name-dl">普通の人</span>|<a href="https://search.dartslive.com/jp/shop/c7502348bc23d0770d9b047a20a7ba1e">コミックバスターアルカンシェール　喜連瓜破店</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|80|712|<span class="rank-name-dl">hiroto@tip39</span>|<a href="https://search.dartslive.com/jp/shop/aebb8f26595f8ffd790ab824ce8730e5">simulation golf LEON</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|81|709|<span class="rank-name-dl">PANDA❤１号wap</span>|<a href="https://search.dartslive.com/jp/shop/c7502348bc23d0770d9b047a20a7ba1e">コミックバスターアルカンシェール　喜連瓜破店</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|82|707|<span class="rank-name-dl">☆★DAI★☆</span>|<a href="https://search.dartslive.com/jp/shop/e77555a62bab7e63774c926eb736cb5a">tip39</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|82|707|<span class="rank-name-dl">ドメ</span>|<a href="https://search.dartslive.com/jp/shop/500e2e3357062bf4f454cb89828a1cfe">dining bar zeal</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|84|706|<span class="rank-name-dl">ぁv(・∀・*)ゃ</span>|<a href="https://search.dartslive.com/jp/shop/d6517c240736e70c28032249b44395af">Waphiyapi</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|84|706|<span class="rank-name-dl">ポルじぃ</span>|<a href="https://search.dartslive.com/jp/shop/500e2e3357062bf4f454cb89828a1cfe">dining bar zeal</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|86|705|<span class="rank-name-dl">To0ruchann</span>|<a href="https://search.dartslive.com/jp/shop/c7502348bc23d0770d9b047a20a7ba1e">コミックバスターアルカンシェール　喜連瓜破店</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|86|705|<span class="rank-name-dl">tougen</span>|<a href="https://search.dartslive.com/jp/shop/667b7aac3838b4cd0d9b047a20a7ba1e">YANAWARABAR</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|88|704|<span class="rank-name-dl">川上智史@C.C</span>|<a href="https://search.dartslive.com/jp/shop/28e42e4f04b9f3790d9b047a20a7ba1e">AZ house</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|89|703|<span class="rank-name-dl">BSM</span>|<a href="https://search.dartslive.com/jp/shop/500e2e3357062bf4f454cb89828a1cfe">dining bar zeal</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|90|697|<span class="rank-name-dl">たこ</span>|<a href="https://search.dartslive.com/jp/shop/5d80e4a9af24feaa774c926eb736cb5a">Dining Bar Boogie</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|91|696|<span class="rank-name-dl">M@eKeN</span>|<a href="https://search.dartslive.com/jp/shop/28e42e4f04b9f3790d9b047a20a7ba1e">AZ house</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|92|688|<span class="rank-name-dl">Ryota</span>|<a href="https://search.dartslive.com/jp/shop/c7502348bc23d0770d9b047a20a7ba1e">コミックバスターアルカンシェール　喜連瓜破店</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|92|688|<span class="rank-name-dl">takatyan</span>|<a href="https://search.dartslive.com/jp/shop/5d80e4a9af24feaa774c926eb736cb5a">Dining Bar Boogie</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|94|686|<span class="rank-name-dl">幸</span>|<a href="https://search.dartslive.com/jp/shop/c7502348bc23d0770d9b047a20a7ba1e">コミックバスターアルカンシェール　喜連瓜破店</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|95|685|<span class="rank-name-dl">Yoshi@波紋</span>|<a href="https://search.dartslive.com/jp/shop/c7502348bc23d0770d9b047a20a7ba1e">コミックバスターアルカンシェール　喜連瓜破店</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|96|681|<span class="rank-name-dl">Waphiyapi@kinori</span>|<a href="https://search.dartslive.com/jp/shop/d6517c240736e70c28032249b44395af">Waphiyapi</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|97|678|<span class="rank-name-dl">ダｳﾝタｳﾝのゆい</span>|<a href="https://search.dartslive.com/jp/shop/d6517c240736e70c28032249b44395af">Waphiyapi</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|98|672|<span class="rank-name-dl">AKI</span>|<a href="https://search.dartslive.com/jp/shop/e77555a62bab7e63774c926eb736cb5a">tip39</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|99|670|<span class="rank-name-dl">KANAE@tip39</span>|<a href="https://search.dartslive.com/jp/shop/e77555a62bab7e63774c926eb736cb5a">tip39</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|100|664|<span class="rank-name-dl">ヨッシー★</span>|<a href="https://search.dartslive.com/jp/shop/d6517c240736e70c28032249b44395af">Waphiyapi</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+
+
+#### DARTSLIVE TOP 100
 
 
 
-___
+{:.table-ranking}
+|#|スコア|名前|店名|所在地|
+|---|---|---|---|---|
+|1|1133|<span class="rank-name-dl">和泉　真平</span>|<a href="https://search.dartslive.com/jp/shop/aebb8f26595f8ffd790ab824ce8730e5">simulation golf LEON</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|2|1041|<span class="rank-name-dl">ひでまろ☆Rihaku</span>|<a href="https://search.dartslive.com/jp/shop/fc285d02570ae8885f9f3321c1147265">利白</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|3|1000|<span class="rank-name-dl">松本　翔</span>|<a href="https://search.dartslive.com/jp/shop/fc285d02570ae8885f9f3321c1147265">利白</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|4|996|<span class="rank-name-dl">keita@waphiyapi</span>|<a href="https://search.dartslive.com/jp/shop/d6517c240736e70c28032249b44395af">Waphiyapi</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|5|990|<span class="rank-name-dl">✎かいちゆ</span>|<a href="https://search.dartslive.com/jp/shop/d6517c240736e70c28032249b44395af">Waphiyapi</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|6|979|<span class="rank-name-dl">和泉　真平</span>|<a href="https://search.dartslive.com/jp/shop/fc285d02570ae8885f9f3321c1147265">利白</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|7|972|<span class="rank-name-dl">@ちゅ太郎☆</span>|<a href="https://search.dartslive.com/jp/shop/d6517c240736e70c28032249b44395af">Waphiyapi</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|8|971|<span class="rank-name-dl">べーさん@mcz波紋</span>|<a href="https://search.dartslive.com/jp/shop/d6517c240736e70c28032249b44395af">Waphiyapi</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|9|963|<span class="rank-name-dl">りょー#忘我</span>|<a href="https://search.dartslive.com/jp/shop/fc285d02570ae8885f9f3321c1147265">利白</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|9|963|<span class="rank-name-dl">利白☆けんいち</span>|<a href="https://search.dartslive.com/jp/shop/fc285d02570ae8885f9f3321c1147265">利白</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|11|961|<span class="rank-name-dl">D→Crew＄ZORO</span>|<a href="https://search.dartslive.com/jp/shop/d6517c240736e70c28032249b44395af">Waphiyapi</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|11|961|<span class="rank-name-dl">†Natsu†</span>|<a href="https://search.dartslive.com/jp/shop/c7502348bc23d0770d9b047a20a7ba1e">コミックバスターアルカンシェール　喜連瓜破店</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|13|948|<span class="rank-name-dl">砂吉</span>|<a href="https://search.dartslive.com/jp/shop/fc285d02570ae8885f9f3321c1147265">利白</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|14|944|<span class="rank-name-dl">@Jun太郎☆</span>|<a href="https://search.dartslive.com/jp/shop/aebb8f26595f8ffd790ab824ce8730e5">simulation golf LEON</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|14|944|<span class="rank-name-dl">†Natsu†</span>|<a href="https://search.dartslive.com/jp/shop/fc285d02570ae8885f9f3321c1147265">利白</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|16|941|<span class="rank-name-dl">☆DAIchang☆</span>|<a href="https://search.dartslive.com/jp/shop/d6517c240736e70c28032249b44395af">Waphiyapi</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|17|933|<span class="rank-name-dl">ﾃﾞｨｰﾌｼﾞｵｶ</span>|<a href="https://search.dartslive.com/jp/shop/28e42e4f04b9f3790d9b047a20a7ba1e">AZ house</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|18|929|<span class="rank-name-dl">nobu@zeal</span>|<a href="https://search.dartslive.com/jp/shop/500e2e3357062bf4f454cb89828a1cfe">dining bar zeal</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|19|922|<span class="rank-name-dl">猫パンチ</span>|<a href="https://search.dartslive.com/jp/shop/500e2e3357062bf4f454cb89828a1cfe">dining bar zeal</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|20|908|<span class="rank-name-dl">ニコニコシッポ</span>|<a href="https://search.dartslive.com/jp/shop/fc285d02570ae8885f9f3321c1147265">利白</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|21|907|<span class="rank-name-dl">zeal翔毅</span>|<a href="https://search.dartslive.com/jp/shop/500e2e3357062bf4f454cb89828a1cfe">dining bar zeal</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|22|900|<span class="rank-name-dl">☆★DAI★☆</span>|<a href="https://search.dartslive.com/jp/shop/aebb8f26595f8ffd790ab824ce8730e5">simulation golf LEON</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|23|899|<span class="rank-name-dl">ま?くんにぃ?Lv</span>|<a href="https://search.dartslive.com/jp/shop/667b7aac3838b4cd0d9b047a20a7ba1e">YANAWARABAR</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|24|898|<span class="rank-name-dl">D→Crew∞massan</span>|<a href="https://search.dartslive.com/jp/shop/d6517c240736e70c28032249b44395af">Waphiyapi</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|24|898|<span class="rank-name-dl">ｼｬｼｬﾘ族のKazuki</span>|<a href="https://search.dartslive.com/jp/shop/aebb8f26595f8ffd790ab824ce8730e5">simulation golf LEON</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|26|897|<span class="rank-name-dl">auua</span>|<a href="https://search.dartslive.com/jp/shop/fc285d02570ae8885f9f3321c1147265">利白</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|27|885|<span class="rank-name-dl">ARE☆DAI☆sole</span>|<a href="https://search.dartslive.com/jp/shop/aebb8f26595f8ffd790ab824ce8730e5">simulation golf LEON</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|28|879|<span class="rank-name-dl">d crew　☆はる♪</span>|<a href="https://search.dartslive.com/jp/shop/d6517c240736e70c28032249b44395af">Waphiyapi</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|29|870|<span class="rank-name-dl">G.family ゆーや</span>|<a href="https://search.dartslive.com/jp/shop/e77555a62bab7e63774c926eb736cb5a">tip39</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|30|868|<span class="rank-name-dl">keita@waphiyapi</span>|<a href="https://search.dartslive.com/jp/shop/aebb8f26595f8ffd790ab824ce8730e5">simulation golf LEON</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|31|866|<span class="rank-name-dl">D→Crew＄ZORO</span>|<a href="https://search.dartslive.com/jp/shop/e77555a62bab7e63774c926eb736cb5a">tip39</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|32|861|<span class="rank-name-dl">JIRO╹๑)ﾉ…→◎</span>|<a href="https://search.dartslive.com/jp/shop/fc285d02570ae8885f9f3321c1147265">利白</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|32|861|<span class="rank-name-dl">なるお2</span>|<a href="https://search.dartslive.com/jp/shop/500e2e3357062bf4f454cb89828a1cfe">dining bar zeal</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|34|857|<span class="rank-name-dl">秀虎⇔ｼｬｼｬﾘ族</span>|<a href="https://search.dartslive.com/jp/shop/aebb8f26595f8ffd790ab824ce8730e5">simulation golf LEON</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|35|854|<span class="rank-name-dl">りょう@利白</span>|<a href="https://search.dartslive.com/jp/shop/fc285d02570ae8885f9f3321c1147265">利白</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|36|853|<span class="rank-name-dl">はやかわたかや</span>|<a href="https://search.dartslive.com/jp/shop/667b7aac3838b4cd0d9b047a20a7ba1e">YANAWARABAR</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|37|847|<span class="rank-name-dl">19610 久原　宝信</span>|<a href="https://search.dartslive.com/jp/shop/fc285d02570ae8885f9f3321c1147265">利白</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|38|844|<span class="rank-name-dl">きたがわ　さとし</span>|<a href="https://search.dartslive.com/jp/shop/5d80e4a9af24feaa774c926eb736cb5a">Dining Bar Boogie</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|39|842|<span class="rank-name-dl">NEXUS☆BOSS</span>|<a href="https://search.dartslive.com/jp/shop/d6517c240736e70c28032249b44395af">Waphiyapi</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|40|835|<span class="rank-name-dl">takuma</span>|<a href="https://search.dartslive.com/jp/shop/28e42e4f04b9f3790d9b047a20a7ba1e">AZ house</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|41|825|<span class="rank-name-dl">TOMOKI@Reve☆彡</span>|<a href="https://search.dartslive.com/jp/shop/c7502348bc23d0770d9b047a20a7ba1e">コミックバスターアルカンシェール　喜連瓜破店</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|41|825|<span class="rank-name-dl">ﾏｷｼﾏﾑ:ｻﾞ:ｷｰﾁｬﾝ</span>|<a href="https://search.dartslive.com/jp/shop/d6517c240736e70c28032249b44395af">Waphiyapi</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|43|815|<span class="rank-name-dl">MINAMI</span>|<a href="https://search.dartslive.com/jp/shop/fc285d02570ae8885f9f3321c1147265">利白</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|43|815|<span class="rank-name-dl">ゆき☃Rihaku</span>|<a href="https://search.dartslive.com/jp/shop/fc285d02570ae8885f9f3321c1147265">利白</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|45|811|<span class="rank-name-dl">☆★DAI★☆</span>|<a href="https://search.dartslive.com/jp/shop/28e42e4f04b9f3790d9b047a20a7ba1e">AZ house</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|46|806|<span class="rank-name-dl">natsuki@五百瀬組</span>|<a href="https://search.dartslive.com/jp/shop/28e42e4f04b9f3790d9b047a20a7ba1e">AZ house</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|47|805|<span class="rank-name-dl">悠生@tip39</span>|<a href="https://search.dartslive.com/jp/shop/e77555a62bab7e63774c926eb736cb5a">tip39</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|48|802|<span class="rank-name-dl">拓人＠グラナダ</span>|<a href="https://search.dartslive.com/jp/shop/d6517c240736e70c28032249b44395af">Waphiyapi</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|49|789|<span class="rank-name-dl">うえちゃん</span>|<a href="https://search.dartslive.com/jp/shop/e77555a62bab7e63774c926eb736cb5a">tip39</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|50|786|<span class="rank-name-dl">こっすんです</span>|<a href="https://search.dartslive.com/jp/shop/aebb8f26595f8ffd790ab824ce8730e5">simulation golf LEON</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|51|785|<span class="rank-name-dl">tougen</span>|<a href="https://search.dartslive.com/jp/shop/28e42e4f04b9f3790d9b047a20a7ba1e">AZ house</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|51|785|<span class="rank-name-dl">松本　翔</span>|<a href="https://search.dartslive.com/jp/shop/aebb8f26595f8ffd790ab824ce8730e5">simulation golf LEON</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|53|780|<span class="rank-name-dl">berserk</span>|<a href="https://search.dartslive.com/jp/shop/500e2e3357062bf4f454cb89828a1cfe">dining bar zeal</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|54|778|<span class="rank-name-dl">はやかわたかや</span>|<a href="https://search.dartslive.com/jp/shop/e77555a62bab7e63774c926eb736cb5a">tip39</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|55|777|<span class="rank-name-dl">ｶﾞｲﾓﾝjr</span>|<a href="https://search.dartslive.com/jp/shop/d6517c240736e70c28032249b44395af">Waphiyapi</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|56|774|<span class="rank-name-dl">パナ男</span>|<a href="https://search.dartslive.com/jp/shop/e77555a62bab7e63774c926eb736cb5a">tip39</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|57|771|<span class="rank-name-dl">すきやん</span>|<a href="https://search.dartslive.com/jp/shop/500e2e3357062bf4f454cb89828a1cfe">dining bar zeal</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|58|770|<span class="rank-name-dl">よしを@tip39</span>|<a href="https://search.dartslive.com/jp/shop/d6517c240736e70c28032249b44395af">Waphiyapi</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|59|768|<span class="rank-name-dl">D→Crew＄ZORO</span>|<a href="https://search.dartslive.com/jp/shop/5d80e4a9af24feaa774c926eb736cb5a">Dining Bar Boogie</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|59|768|<span class="rank-name-dl">はやかわたかや</span>|<a href="https://search.dartslive.com/jp/shop/28e42e4f04b9f3790d9b047a20a7ba1e">AZ house</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|61|764|<span class="rank-name-dl">烈海王</span>|<a href="https://search.dartslive.com/jp/shop/c7502348bc23d0770d9b047a20a7ba1e">コミックバスターアルカンシェール　喜連瓜破店</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|62|759|<span class="rank-name-dl">虎鉄@LEON</span>|<a href="https://search.dartslive.com/jp/shop/aebb8f26595f8ffd790ab824ce8730e5">simulation golf LEON</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|63|758|<span class="rank-name-dl">SU-SAN</span>|<a href="https://search.dartslive.com/jp/shop/e77555a62bab7e63774c926eb736cb5a">tip39</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|64|757|<span class="rank-name-dl">D→Crew 優一</span>|<a href="https://search.dartslive.com/jp/shop/c7502348bc23d0770d9b047a20a7ba1e">コミックバスターアルカンシェール　喜連瓜破店</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|65|751|<span class="rank-name-dl">☆☆HANA☆☆</span>|<a href="https://search.dartslive.com/jp/shop/aebb8f26595f8ffd790ab824ce8730e5">simulation golf LEON</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|65|751|<span class="rank-name-dl">ライタ@Leon</span>|<a href="https://search.dartslive.com/jp/shop/aebb8f26595f8ffd790ab824ce8730e5">simulation golf LEON</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|65|751|<span class="rank-name-dl">村下　英樹</span>|<a href="https://search.dartslive.com/jp/shop/500e2e3357062bf4f454cb89828a1cfe">dining bar zeal</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|68|745|<span class="rank-name-dl">marchill@tip39</span>|<a href="https://search.dartslive.com/jp/shop/e77555a62bab7e63774c926eb736cb5a">tip39</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|68|745|<span class="rank-name-dl">ダｳﾝタｳﾝのゆい</span>|<a href="https://search.dartslive.com/jp/shop/aebb8f26595f8ffd790ab824ce8730e5">simulation golf LEON</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|70|742|<span class="rank-name-dl">ダｳﾝタｳﾝのかずき</span>|<a href="https://search.dartslive.com/jp/shop/aebb8f26595f8ffd790ab824ce8730e5">simulation golf LEON</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|70|742|<span class="rank-name-dl">幸</span>|<a href="https://search.dartslive.com/jp/shop/5d80e4a9af24feaa774c926eb736cb5a">Dining Bar Boogie</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|72|739|<span class="rank-name-dl">boogieの和ちゃん</span>|<a href="https://search.dartslive.com/jp/shop/5d80e4a9af24feaa774c926eb736cb5a">Dining Bar Boogie</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|73|737|<span class="rank-name-dl">ARE☆DAI☆sole</span>|<a href="https://search.dartslive.com/jp/shop/28e42e4f04b9f3790d9b047a20a7ba1e">AZ house</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|73|737|<span class="rank-name-dl">よしを@tip39</span>|<a href="https://search.dartslive.com/jp/shop/e77555a62bab7e63774c926eb736cb5a">tip39</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|75|735|<span class="rank-name-dl">KOH@AZ日曜限定</span>|<a href="https://search.dartslive.com/jp/shop/28e42e4f04b9f3790d9b047a20a7ba1e">AZ house</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|75|735|<span class="rank-name-dl">あゃゃ☆OLP総長</span>|<a href="https://search.dartslive.com/jp/shop/aebb8f26595f8ffd790ab824ce8730e5">simulation golf LEON</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|77|728|<span class="rank-name-dl">よしを@tip39</span>|<a href="https://search.dartslive.com/jp/shop/aebb8f26595f8ffd790ab824ce8730e5">simulation golf LEON</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|78|724|<span class="rank-name-dl">トタ</span>|<a href="https://search.dartslive.com/jp/shop/500e2e3357062bf4f454cb89828a1cfe">dining bar zeal</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|79|717|<span class="rank-name-dl">普通の人</span>|<a href="https://search.dartslive.com/jp/shop/c7502348bc23d0770d9b047a20a7ba1e">コミックバスターアルカンシェール　喜連瓜破店</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|80|712|<span class="rank-name-dl">hiroto@tip39</span>|<a href="https://search.dartslive.com/jp/shop/aebb8f26595f8ffd790ab824ce8730e5">simulation golf LEON</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|81|709|<span class="rank-name-dl">PANDA❤１号wap</span>|<a href="https://search.dartslive.com/jp/shop/c7502348bc23d0770d9b047a20a7ba1e">コミックバスターアルカンシェール　喜連瓜破店</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|82|707|<span class="rank-name-dl">☆★DAI★☆</span>|<a href="https://search.dartslive.com/jp/shop/e77555a62bab7e63774c926eb736cb5a">tip39</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|82|707|<span class="rank-name-dl">ドメ</span>|<a href="https://search.dartslive.com/jp/shop/500e2e3357062bf4f454cb89828a1cfe">dining bar zeal</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|84|706|<span class="rank-name-dl">ぁv(・∀・*)ゃ</span>|<a href="https://search.dartslive.com/jp/shop/d6517c240736e70c28032249b44395af">Waphiyapi</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|84|706|<span class="rank-name-dl">ポルじぃ</span>|<a href="https://search.dartslive.com/jp/shop/500e2e3357062bf4f454cb89828a1cfe">dining bar zeal</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|86|705|<span class="rank-name-dl">To0ruchann</span>|<a href="https://search.dartslive.com/jp/shop/c7502348bc23d0770d9b047a20a7ba1e">コミックバスターアルカンシェール　喜連瓜破店</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|86|705|<span class="rank-name-dl">tougen</span>|<a href="https://search.dartslive.com/jp/shop/667b7aac3838b4cd0d9b047a20a7ba1e">YANAWARABAR</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|88|704|<span class="rank-name-dl">川上智史@C.C</span>|<a href="https://search.dartslive.com/jp/shop/28e42e4f04b9f3790d9b047a20a7ba1e">AZ house</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|89|703|<span class="rank-name-dl">BSM</span>|<a href="https://search.dartslive.com/jp/shop/500e2e3357062bf4f454cb89828a1cfe">dining bar zeal</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|90|697|<span class="rank-name-dl">たこ</span>|<a href="https://search.dartslive.com/jp/shop/5d80e4a9af24feaa774c926eb736cb5a">Dining Bar Boogie</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|91|696|<span class="rank-name-dl">M@eKeN</span>|<a href="https://search.dartslive.com/jp/shop/28e42e4f04b9f3790d9b047a20a7ba1e">AZ house</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|92|688|<span class="rank-name-dl">Ryota</span>|<a href="https://search.dartslive.com/jp/shop/c7502348bc23d0770d9b047a20a7ba1e">コミックバスターアルカンシェール　喜連瓜破店</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|92|688|<span class="rank-name-dl">takatyan</span>|<a href="https://search.dartslive.com/jp/shop/5d80e4a9af24feaa774c926eb736cb5a">Dining Bar Boogie</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|94|686|<span class="rank-name-dl">幸</span>|<a href="https://search.dartslive.com/jp/shop/c7502348bc23d0770d9b047a20a7ba1e">コミックバスターアルカンシェール　喜連瓜破店</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|95|685|<span class="rank-name-dl">Yoshi@波紋</span>|<a href="https://search.dartslive.com/jp/shop/c7502348bc23d0770d9b047a20a7ba1e">コミックバスターアルカンシェール　喜連瓜破店</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|96|681|<span class="rank-name-dl">Waphiyapi@kinori</span>|<a href="https://search.dartslive.com/jp/shop/d6517c240736e70c28032249b44395af">Waphiyapi</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|97|678|<span class="rank-name-dl">ダｳﾝタｳﾝのゆい</span>|<a href="https://search.dartslive.com/jp/shop/d6517c240736e70c28032249b44395af">Waphiyapi</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|98|672|<span class="rank-name-dl">AKI</span>|<a href="https://search.dartslive.com/jp/shop/e77555a62bab7e63774c926eb736cb5a">tip39</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|99|670|<span class="rank-name-dl">KANAE@tip39</span>|<a href="https://search.dartslive.com/jp/shop/e77555a62bab7e63774c926eb736cb5a">tip39</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
+|100|664|<span class="rank-name-dl">ヨッシー★</span>|<a href="https://search.dartslive.com/jp/shop/d6517c240736e70c28032249b44395af">Waphiyapi</a>|<a href="/darts/rank/大阪府/大阪市平野区">大阪府大阪市平野区</a>|
 
-_last update : 2024/01/21 13:39:04_
+
+#### PHOENIXDARTS TOP 100
 
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+{:.table-ranking}
+|#|スコア|名前|店名|所在地|
+|---|---|---|---|---|
+||0|<span class="rank-name-dl"> </span>|<a href=""></a>|<a href="/darts/rank//"></a>|
+
+
+<div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
+    last update : <span style="font-weight: italic" id="foot_last_modified"></span><br />
+    DARTSLIVE は 株式会社ダーツライブ社 の登録商標です<br />
+    PHOENIXDARTS は フェニックスダーツジャパン株式会社 の登録商標です<br />
+</div>
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/js/jquery.tablesorter.min.js" integrity="sha512-qzgd5cYSZcosqpzpn7zF2ZId8f/8CHmFKZ8j7mU4OUXTNRd5g+ZHBPsgKEwoqxCtdQvExE5LprwwPAgoicguNg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/css/theme.default.min.css" integrity="sha512-wghhOJkjQX0Lh3NSWvNKeZ0ZpNn+SPVXX1Qyc9OCaogADktxrBiBdKGDoqVUOyhStvMBmJQ8ZdMHiR3wuEq8+w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <script>
 $(function() {
     $(".table-ranking").tablesorter({sortList:[[0, 0]]});
+    $("#foot_last_modified").text(formatDate(new Date(document.lastModified), 'yyyy-MM-dd HH:mm:ss'));
 });
 </script>
 

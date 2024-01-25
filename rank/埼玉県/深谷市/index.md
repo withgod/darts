@@ -1,49 +1,93 @@
 ---
-title: DARTSLIVE AREA RANKING | 埼玉県 | 深谷市
+title: COUNTUP AREA RANKING | 埼玉県 | 深谷市
 ---
-## DARTSLIVE AREA RANKING | 埼玉県 | 深谷市
+## COUNTUP AREA RANKING | 埼玉県 | 深谷市
 
 [TOP](/darts/rank/) > [埼玉県](/darts/rank/埼玉県/) > 深谷市
 
 ___
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="DARTSLIVE AREA RANKING | 埼玉県深谷市" class="twitter-share-button" data-via="DARTSLIVE" data-hashtags="DARTSLIVE" data-related="DARTSLIVE" data-show-count="false">Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="COUNTUP AREA RANKING | 埼玉県深谷市" class="twitter-share-button" data-hashtags="DARTSLIVE,PHOENIXDARTS,darts,ダーツ" data-show-count="false">Tweet</a>
 
-### 地域別TOP 100
+* [ランキング](#カウントアップランキング)
+    * [TOP 100](#top-100)
+    * [DARTSLIVE TOP 100](#dartslive-top-100)
+    * [PHOENIXDARTS TOP 100](#phoenixdarts-top-100)
+
+### カウントアップランキング
+
+#### TOP 100
+
+
 
 {:.table-ranking}
-|ランク|スコア|名前|店名|所在地|
+|#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|808|もりちゃん|<a href="https://search.dartslive.com/jp/shop/5ff7ae947d2511950d9b047a20a7ba1e">Dining＆Bar Thread</a>|<a href="/darts/rank/埼玉県/深谷市">埼玉県深谷市</a>|
-|2|740|283★AVENGERS|<a href="https://search.dartslive.com/jp/shop/5ff7ae947d2511950d9b047a20a7ba1e">Dining＆Bar Thread</a>|<a href="/darts/rank/埼玉県/深谷市">埼玉県深谷市</a>|
-|3|673|深谷BARSMOKY真護|<a href="https://search.dartslive.com/jp/shop/cf03a0c8e76f9eb30d9b047a20a7ba1e">BAR SMOKY</a>|<a href="/darts/rank/埼玉県/深谷市">埼玉県深谷市</a>|
-|4|661|もりちゃん|<a href="https://search.dartslive.com/jp/shop/cf03a0c8e76f9eb30d9b047a20a7ba1e">BAR SMOKY</a>|<a href="/darts/rank/埼玉県/深谷市">埼玉県深谷市</a>|
-|5|637|銀河系軍団８５期|<a href="https://search.dartslive.com/jp/shop/5ff7ae947d2511950d9b047a20a7ba1e">Dining＆Bar Thread</a>|<a href="/darts/rank/埼玉県/深谷市">埼玉県深谷市</a>|
-|6|627|GSX-1400|<a href="https://search.dartslive.com/jp/shop/5ff7ae947d2511950d9b047a20a7ba1e">Dining＆Bar Thread</a>|<a href="/darts/rank/埼玉県/深谷市">埼玉県深谷市</a>|
-|7|623|いわむー|<a href="https://search.dartslive.com/jp/shop/5ff7ae947d2511950d9b047a20a7ba1e">Dining＆Bar Thread</a>|<a href="/darts/rank/埼玉県/深谷市">埼玉県深谷市</a>|
-|8|508|shibu|<a href="https://search.dartslive.com/jp/shop/cf03a0c8e76f9eb30d9b047a20a7ba1e">BAR SMOKY</a>|<a href="/darts/rank/埼玉県/深谷市">埼玉県深谷市</a>|
-|9|470|チヒロ【ing】|<a href="https://search.dartslive.com/jp/shop/cf03a0c8e76f9eb30d9b047a20a7ba1e">BAR SMOKY</a>|<a href="/darts/rank/埼玉県/深谷市">埼玉県深谷市</a>|
-|10|461|GSX-1400|<a href="https://search.dartslive.com/jp/shop/cf03a0c8e76f9eb30d9b047a20a7ba1e">BAR SMOKY</a>|<a href="/darts/rank/埼玉県/深谷市">埼玉県深谷市</a>|
-|11|432|いわむー|<a href="https://search.dartslive.com/jp/shop/cf03a0c8e76f9eb30d9b047a20a7ba1e">BAR SMOKY</a>|<a href="/darts/rank/埼玉県/深谷市">埼玉県深谷市</a>|
-|12|365|かずまる|<a href="https://search.dartslive.com/jp/shop/cf03a0c8e76f9eb30d9b047a20a7ba1e">BAR SMOKY</a>|<a href="/darts/rank/埼玉県/深谷市">埼玉県深谷市</a>|
-|13|363|コウメ太夫（Ⅵ）|<a href="https://search.dartslive.com/jp/shop/cf03a0c8e76f9eb30d9b047a20a7ba1e">BAR SMOKY</a>|<a href="/darts/rank/埼玉県/深谷市">埼玉県深谷市</a>|
-|14|358|BAR SMOKY GACKT|<a href="https://search.dartslive.com/jp/shop/cf03a0c8e76f9eb30d9b047a20a7ba1e">BAR SMOKY</a>|<a href="/darts/rank/埼玉県/深谷市">埼玉県深谷市</a>|
-|15|329|ちひろ|<a href="https://search.dartslive.com/jp/shop/cf03a0c8e76f9eb30d9b047a20a7ba1e">BAR SMOKY</a>|<a href="/darts/rank/埼玉県/深谷市">埼玉県深谷市</a>|
-|16|325|♪こかれろ♪|<a href="https://search.dartslive.com/jp/shop/cf03a0c8e76f9eb30d9b047a20a7ba1e">BAR SMOKY</a>|<a href="/darts/rank/埼玉県/深谷市">埼玉県深谷市</a>|
+|1|808|<span class="rank-name-dl">もりちゃん</span>|<a href="https://search.dartslive.com/jp/shop/5ff7ae947d2511950d9b047a20a7ba1e">Dining＆Bar Thread</a>|<a href="/darts/rank/埼玉県/深谷市">埼玉県深谷市</a>|
+|2|740|<span class="rank-name-dl">283★AVENGERS</span>|<a href="https://search.dartslive.com/jp/shop/5ff7ae947d2511950d9b047a20a7ba1e">Dining＆Bar Thread</a>|<a href="/darts/rank/埼玉県/深谷市">埼玉県深谷市</a>|
+|3|673|<span class="rank-name-dl">深谷BARSMOKY真護</span>|<a href="https://search.dartslive.com/jp/shop/cf03a0c8e76f9eb30d9b047a20a7ba1e">BAR SMOKY</a>|<a href="/darts/rank/埼玉県/深谷市">埼玉県深谷市</a>|
+|4|661|<span class="rank-name-dl">もりちゃん</span>|<a href="https://search.dartslive.com/jp/shop/cf03a0c8e76f9eb30d9b047a20a7ba1e">BAR SMOKY</a>|<a href="/darts/rank/埼玉県/深谷市">埼玉県深谷市</a>|
+|5|637|<span class="rank-name-dl">銀河系軍団８５期</span>|<a href="https://search.dartslive.com/jp/shop/5ff7ae947d2511950d9b047a20a7ba1e">Dining＆Bar Thread</a>|<a href="/darts/rank/埼玉県/深谷市">埼玉県深谷市</a>|
+|6|627|<span class="rank-name-dl">GSX-1400</span>|<a href="https://search.dartslive.com/jp/shop/5ff7ae947d2511950d9b047a20a7ba1e">Dining＆Bar Thread</a>|<a href="/darts/rank/埼玉県/深谷市">埼玉県深谷市</a>|
+|7|623|<span class="rank-name-dl">いわむー</span>|<a href="https://search.dartslive.com/jp/shop/5ff7ae947d2511950d9b047a20a7ba1e">Dining＆Bar Thread</a>|<a href="/darts/rank/埼玉県/深谷市">埼玉県深谷市</a>|
+|8|508|<span class="rank-name-dl">shibu</span>|<a href="https://search.dartslive.com/jp/shop/cf03a0c8e76f9eb30d9b047a20a7ba1e">BAR SMOKY</a>|<a href="/darts/rank/埼玉県/深谷市">埼玉県深谷市</a>|
+|9|470|<span class="rank-name-dl">チヒロ【ing】</span>|<a href="https://search.dartslive.com/jp/shop/cf03a0c8e76f9eb30d9b047a20a7ba1e">BAR SMOKY</a>|<a href="/darts/rank/埼玉県/深谷市">埼玉県深谷市</a>|
+|10|461|<span class="rank-name-dl">GSX-1400</span>|<a href="https://search.dartslive.com/jp/shop/cf03a0c8e76f9eb30d9b047a20a7ba1e">BAR SMOKY</a>|<a href="/darts/rank/埼玉県/深谷市">埼玉県深谷市</a>|
+|11|432|<span class="rank-name-dl">いわむー</span>|<a href="https://search.dartslive.com/jp/shop/cf03a0c8e76f9eb30d9b047a20a7ba1e">BAR SMOKY</a>|<a href="/darts/rank/埼玉県/深谷市">埼玉県深谷市</a>|
+|12|365|<span class="rank-name-dl">かずまる</span>|<a href="https://search.dartslive.com/jp/shop/cf03a0c8e76f9eb30d9b047a20a7ba1e">BAR SMOKY</a>|<a href="/darts/rank/埼玉県/深谷市">埼玉県深谷市</a>|
+|13|363|<span class="rank-name-dl">コウメ太夫（Ⅵ）</span>|<a href="https://search.dartslive.com/jp/shop/cf03a0c8e76f9eb30d9b047a20a7ba1e">BAR SMOKY</a>|<a href="/darts/rank/埼玉県/深谷市">埼玉県深谷市</a>|
+|14|358|<span class="rank-name-dl">BAR SMOKY GACKT</span>|<a href="https://search.dartslive.com/jp/shop/cf03a0c8e76f9eb30d9b047a20a7ba1e">BAR SMOKY</a>|<a href="/darts/rank/埼玉県/深谷市">埼玉県深谷市</a>|
+|15|329|<span class="rank-name-dl">ちひろ</span>|<a href="https://search.dartslive.com/jp/shop/cf03a0c8e76f9eb30d9b047a20a7ba1e">BAR SMOKY</a>|<a href="/darts/rank/埼玉県/深谷市">埼玉県深谷市</a>|
+|16|325|<span class="rank-name-dl">♪こかれろ♪</span>|<a href="https://search.dartslive.com/jp/shop/cf03a0c8e76f9eb30d9b047a20a7ba1e">BAR SMOKY</a>|<a href="/darts/rank/埼玉県/深谷市">埼玉県深谷市</a>|
+
+
+#### DARTSLIVE TOP 100
 
 
 
-___
+{:.table-ranking}
+|#|スコア|名前|店名|所在地|
+|---|---|---|---|---|
+|1|808|<span class="rank-name-dl">もりちゃん</span>|<a href="https://search.dartslive.com/jp/shop/5ff7ae947d2511950d9b047a20a7ba1e">Dining＆Bar Thread</a>|<a href="/darts/rank/埼玉県/深谷市">埼玉県深谷市</a>|
+|2|740|<span class="rank-name-dl">283★AVENGERS</span>|<a href="https://search.dartslive.com/jp/shop/5ff7ae947d2511950d9b047a20a7ba1e">Dining＆Bar Thread</a>|<a href="/darts/rank/埼玉県/深谷市">埼玉県深谷市</a>|
+|3|673|<span class="rank-name-dl">深谷BARSMOKY真護</span>|<a href="https://search.dartslive.com/jp/shop/cf03a0c8e76f9eb30d9b047a20a7ba1e">BAR SMOKY</a>|<a href="/darts/rank/埼玉県/深谷市">埼玉県深谷市</a>|
+|4|661|<span class="rank-name-dl">もりちゃん</span>|<a href="https://search.dartslive.com/jp/shop/cf03a0c8e76f9eb30d9b047a20a7ba1e">BAR SMOKY</a>|<a href="/darts/rank/埼玉県/深谷市">埼玉県深谷市</a>|
+|5|637|<span class="rank-name-dl">銀河系軍団８５期</span>|<a href="https://search.dartslive.com/jp/shop/5ff7ae947d2511950d9b047a20a7ba1e">Dining＆Bar Thread</a>|<a href="/darts/rank/埼玉県/深谷市">埼玉県深谷市</a>|
+|6|627|<span class="rank-name-dl">GSX-1400</span>|<a href="https://search.dartslive.com/jp/shop/5ff7ae947d2511950d9b047a20a7ba1e">Dining＆Bar Thread</a>|<a href="/darts/rank/埼玉県/深谷市">埼玉県深谷市</a>|
+|7|623|<span class="rank-name-dl">いわむー</span>|<a href="https://search.dartslive.com/jp/shop/5ff7ae947d2511950d9b047a20a7ba1e">Dining＆Bar Thread</a>|<a href="/darts/rank/埼玉県/深谷市">埼玉県深谷市</a>|
+|8|508|<span class="rank-name-dl">shibu</span>|<a href="https://search.dartslive.com/jp/shop/cf03a0c8e76f9eb30d9b047a20a7ba1e">BAR SMOKY</a>|<a href="/darts/rank/埼玉県/深谷市">埼玉県深谷市</a>|
+|9|470|<span class="rank-name-dl">チヒロ【ing】</span>|<a href="https://search.dartslive.com/jp/shop/cf03a0c8e76f9eb30d9b047a20a7ba1e">BAR SMOKY</a>|<a href="/darts/rank/埼玉県/深谷市">埼玉県深谷市</a>|
+|10|461|<span class="rank-name-dl">GSX-1400</span>|<a href="https://search.dartslive.com/jp/shop/cf03a0c8e76f9eb30d9b047a20a7ba1e">BAR SMOKY</a>|<a href="/darts/rank/埼玉県/深谷市">埼玉県深谷市</a>|
+|11|432|<span class="rank-name-dl">いわむー</span>|<a href="https://search.dartslive.com/jp/shop/cf03a0c8e76f9eb30d9b047a20a7ba1e">BAR SMOKY</a>|<a href="/darts/rank/埼玉県/深谷市">埼玉県深谷市</a>|
+|12|365|<span class="rank-name-dl">かずまる</span>|<a href="https://search.dartslive.com/jp/shop/cf03a0c8e76f9eb30d9b047a20a7ba1e">BAR SMOKY</a>|<a href="/darts/rank/埼玉県/深谷市">埼玉県深谷市</a>|
+|13|363|<span class="rank-name-dl">コウメ太夫（Ⅵ）</span>|<a href="https://search.dartslive.com/jp/shop/cf03a0c8e76f9eb30d9b047a20a7ba1e">BAR SMOKY</a>|<a href="/darts/rank/埼玉県/深谷市">埼玉県深谷市</a>|
+|14|358|<span class="rank-name-dl">BAR SMOKY GACKT</span>|<a href="https://search.dartslive.com/jp/shop/cf03a0c8e76f9eb30d9b047a20a7ba1e">BAR SMOKY</a>|<a href="/darts/rank/埼玉県/深谷市">埼玉県深谷市</a>|
+|15|329|<span class="rank-name-dl">ちひろ</span>|<a href="https://search.dartslive.com/jp/shop/cf03a0c8e76f9eb30d9b047a20a7ba1e">BAR SMOKY</a>|<a href="/darts/rank/埼玉県/深谷市">埼玉県深谷市</a>|
+|16|325|<span class="rank-name-dl">♪こかれろ♪</span>|<a href="https://search.dartslive.com/jp/shop/cf03a0c8e76f9eb30d9b047a20a7ba1e">BAR SMOKY</a>|<a href="/darts/rank/埼玉県/深谷市">埼玉県深谷市</a>|
 
-_last update : 2024/01/21 13:38:56_
+
+#### PHOENIXDARTS TOP 100
 
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+{:.table-ranking}
+|#|スコア|名前|店名|所在地|
+|---|---|---|---|---|
+||0|<span class="rank-name-dl"> </span>|<a href=""></a>|<a href="/darts/rank//"></a>|
+
+
+<div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
+    last update : <span style="font-weight: italic" id="foot_last_modified"></span><br />
+    DARTSLIVE は 株式会社ダーツライブ社 の登録商標です<br />
+    PHOENIXDARTS は フェニックスダーツジャパン株式会社 の登録商標です<br />
+</div>
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/js/jquery.tablesorter.min.js" integrity="sha512-qzgd5cYSZcosqpzpn7zF2ZId8f/8CHmFKZ8j7mU4OUXTNRd5g+ZHBPsgKEwoqxCtdQvExE5LprwwPAgoicguNg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/css/theme.default.min.css" integrity="sha512-wghhOJkjQX0Lh3NSWvNKeZ0ZpNn+SPVXX1Qyc9OCaogADktxrBiBdKGDoqVUOyhStvMBmJQ8ZdMHiR3wuEq8+w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <script>
 $(function() {
     $(".table-ranking").tablesorter({sortList:[[0, 0]]});
+    $("#foot_last_modified").text(formatDate(new Date(document.lastModified), 'yyyy-MM-dd HH:mm:ss'));
 });
 </script>
 

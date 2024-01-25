@@ -1,85 +1,187 @@
 ---
-title: DARTSLIVE AREA RANKING | 大阪府 | 大阪市城東区
+title: COUNTUP AREA RANKING | 大阪府 | 大阪市城東区
 ---
-## DARTSLIVE AREA RANKING | 大阪府 | 大阪市城東区
+## COUNTUP AREA RANKING | 大阪府 | 大阪市城東区
 
 [TOP](/darts/rank/) > [大阪府](/darts/rank/大阪府/) > 大阪市城東区
 
 ___
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="DARTSLIVE AREA RANKING | 大阪府大阪市城東区" class="twitter-share-button" data-via="DARTSLIVE" data-hashtags="DARTSLIVE" data-related="DARTSLIVE" data-show-count="false">Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="COUNTUP AREA RANKING | 大阪府大阪市城東区" class="twitter-share-button" data-hashtags="DARTSLIVE,PHOENIXDARTS,darts,ダーツ" data-show-count="false">Tweet</a>
 
-### 地域別TOP 100
+* [ランキング](#カウントアップランキング)
+    * [TOP 100](#top-100)
+    * [DARTSLIVE TOP 100](#dartslive-top-100)
+    * [PHOENIXDARTS TOP 100](#phoenixdarts-top-100)
+
+### カウントアップランキング
+
+#### TOP 100
+
+
 
 {:.table-ranking}
-|ランク|スコア|名前|店名|所在地|
+|#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1131|だいき|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
-|2|1119|るーぷ♡仁ちゃん|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
-|3|1078|中井 涼☆One80|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
-|4|1059|おだてブタ|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
-|5|1007|HiЯoMμ|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
-|6|1004|xむらたx|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
-|7|998|SU-SAN|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
-|8|974|泉　堅太|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
-|9|970|乾杯戦士〆ｱﾁ公〆|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
-|10|964|前崎翔太@大襾組|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
-|11|963|みっき〜☆|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
-|12|962|Dai☆彡|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
-|13|953|たいち@DROTIKI|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
-|14|951|IORY|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
-|15|949|☆★DAI★☆|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
-|16|948|どんぐりたけし|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
-|16|948|逆襲のoka★|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
-|18|935|YUTA|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
-|18|935|田原 駿也|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
-|20|927|ふくてんちょう☆|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
-|21|925|ogiii|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
-|22|922|early3|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
-|23|907|にーにー|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
-|24|874|ゆぴ|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
-|25|872|kenzonium|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
-|26|847|sana|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
-|27|831|もーたん|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
-|28|778|まー(｡･･)|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
-|29|741|キャビア|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
-|30|709|M★チーム松家|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
-|31|700|GOD&lt;荒&gt;マッキー|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
-|32|699|まなみん|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
-|33|668|Ryosuke@ﾄｲﾄｲ|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
-|34|652|uk|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
-|35|643|㋫ZEEDさま@SUN|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
-|36|631|YOKO.|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
-|37|629|いちす゛|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
-|38|619|NATSUo忘我|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
-|39|616|まいっち|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
-|40|562|小悪魔ｸﾛﾐちｬω♡|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
-|41|555|Yusuran◎m◎|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
-|42|552|omochieeeee|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
-|43|551|くりまんじゅう|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
-|44|549|さち|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
-|45|521|ERI|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
-|46|518|いんげん|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
-|47|512|u-sk@封印中|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
-|48|509|YUKI|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
-|49|471|かのん|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
-|50|442|Leopard♡Aya|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
-|51|384|美香|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
-|52|337|sao|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|1|1131|<span class="rank-name-dl">だいき</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|2|1119|<span class="rank-name-dl">るーぷ♡仁ちゃん</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|3|1078|<span class="rank-name-dl">中井 涼☆One80</span>|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|4|1073|<span class="rank-name-dl">夏珠会☆Tom.TOP</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|5|1059|<span class="rank-name-dl">おだてブタ</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|6|1040|<span class="rank-name-dl">どんぐりたけし</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|7|1007|<span class="rank-name-dl">HiЯoMμ</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|8|1004|<span class="rank-name-dl">xむらたx</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|9|998|<span class="rank-name-dl">SU-SAN</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|10|980|<span class="rank-name-dl">やまだ</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|11|974|<span class="rank-name-dl">泉　堅太</span>|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|12|970|<span class="rank-name-dl">乾杯戦士〆ｱﾁ公〆</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|13|964|<span class="rank-name-dl">前崎翔太@大襾組</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|13|964|<span class="rank-name-dl">浅香 佑介</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|15|963|<span class="rank-name-dl">みっき〜☆</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|16|962|<span class="rank-name-dl">Dai☆彡</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|17|953|<span class="rank-name-dl">Hiromu Anan</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|17|953|<span class="rank-name-dl">たいち@DROTIKI</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|19|951|<span class="rank-name-dl">IORY</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|20|949|<span class="rank-name-dl">☆★DAI★☆</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|21|948|<span class="rank-name-dl">逆襲のoka★</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|22|935|<span class="rank-name-dl">YUTA</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|22|935|<span class="rank-name-dl">田原 駿也</span>|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|24|927|<span class="rank-name-dl">ふくてんちょう☆</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|25|925|<span class="rank-name-dl">ogiii</span>|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|26|922|<span class="rank-name-dl">early3</span>|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|27|907|<span class="rank-name-dl">にーにー</span>|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|28|884|<span class="rank-name-dl">ゆぴ</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|29|872|<span class="rank-name-dl">kenzonium</span>|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|30|847|<span class="rank-name-dl">sana</span>|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|31|831|<span class="rank-name-dl">もーたん</span>|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|32|778|<span class="rank-name-dl">まー(｡･･)</span>|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|33|741|<span class="rank-name-dl">キャビア</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|34|709|<span class="rank-name-dl">M★チーム松家</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|35|700|<span class="rank-name-dl">GOD&lt;荒&gt;マッキー</span>|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|36|699|<span class="rank-name-dl">まなみん</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|37|681|<span class="rank-name-dl">ばちお</span>|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|38|668|<span class="rank-name-dl">Ryosuke@ﾄｲﾄｲ</span>|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|39|652|<span class="rank-name-dl">uk</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|40|643|<span class="rank-name-dl">㋫ZEEDさま@SUN</span>|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|41|631|<span class="rank-name-dl">YOKO.</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|42|629|<span class="rank-name-dl">いちす゛</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|43|619|<span class="rank-name-dl">NATSUo忘我</span>|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|44|616|<span class="rank-name-dl">まいっち</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|45|598|<span class="rank-name-dl">AS</span>|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|46|594|<span class="rank-name-dl">ケンケン</span>|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|46|594|<span class="rank-name-dl">プレアデス</span>|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|48|574|<span class="rank-name-dl">Soleil＊ｱﾔﾊﾟﾝ</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|49|567|<span class="rank-name-dl">さとみ</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|50|562|<span class="rank-name-dl">小悪魔ｸﾛﾐちｬω♡</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|51|555|<span class="rank-name-dl">Yusuran◎m◎</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|52|552|<span class="rank-name-dl">omochieeeee</span>|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|53|551|<span class="rank-name-dl">くりまんじゅう</span>|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|54|549|<span class="rank-name-dl">さち</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|55|521|<span class="rank-name-dl">ERI</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|56|518|<span class="rank-name-dl">いんげん</span>|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|57|512|<span class="rank-name-dl">u-sk@封印中</span>|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|58|509|<span class="rank-name-dl">YUKI</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|59|485|<span class="rank-name-dl">とめ</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|60|471|<span class="rank-name-dl">かのん</span>|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|61|442|<span class="rank-name-dl">Leopard♡Aya</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|62|384|<span class="rank-name-dl">美香</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|63|337|<span class="rank-name-dl">sao</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+
+
+#### DARTSLIVE TOP 100
 
 
 
-___
+{:.table-ranking}
+|#|スコア|名前|店名|所在地|
+|---|---|---|---|---|
+|1|1131|<span class="rank-name-dl">だいき</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|2|1119|<span class="rank-name-dl">るーぷ♡仁ちゃん</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|3|1078|<span class="rank-name-dl">中井 涼☆One80</span>|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|4|1073|<span class="rank-name-dl">夏珠会☆Tom.TOP</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|5|1059|<span class="rank-name-dl">おだてブタ</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|6|1040|<span class="rank-name-dl">どんぐりたけし</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|7|1007|<span class="rank-name-dl">HiЯoMμ</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|8|1004|<span class="rank-name-dl">xむらたx</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|9|998|<span class="rank-name-dl">SU-SAN</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|10|980|<span class="rank-name-dl">やまだ</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|11|974|<span class="rank-name-dl">泉　堅太</span>|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|12|970|<span class="rank-name-dl">乾杯戦士〆ｱﾁ公〆</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|13|964|<span class="rank-name-dl">前崎翔太@大襾組</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|13|964|<span class="rank-name-dl">浅香 佑介</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|15|963|<span class="rank-name-dl">みっき〜☆</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|16|962|<span class="rank-name-dl">Dai☆彡</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|17|953|<span class="rank-name-dl">Hiromu Anan</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|17|953|<span class="rank-name-dl">たいち@DROTIKI</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|19|951|<span class="rank-name-dl">IORY</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|20|949|<span class="rank-name-dl">☆★DAI★☆</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|21|948|<span class="rank-name-dl">逆襲のoka★</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|22|935|<span class="rank-name-dl">YUTA</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|22|935|<span class="rank-name-dl">田原 駿也</span>|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|24|927|<span class="rank-name-dl">ふくてんちょう☆</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|25|925|<span class="rank-name-dl">ogiii</span>|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|26|922|<span class="rank-name-dl">early3</span>|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|27|907|<span class="rank-name-dl">にーにー</span>|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|28|884|<span class="rank-name-dl">ゆぴ</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|29|872|<span class="rank-name-dl">kenzonium</span>|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|30|847|<span class="rank-name-dl">sana</span>|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|31|831|<span class="rank-name-dl">もーたん</span>|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|32|778|<span class="rank-name-dl">まー(｡･･)</span>|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|33|741|<span class="rank-name-dl">キャビア</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|34|709|<span class="rank-name-dl">M★チーム松家</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|35|700|<span class="rank-name-dl">GOD&lt;荒&gt;マッキー</span>|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|36|699|<span class="rank-name-dl">まなみん</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|37|681|<span class="rank-name-dl">ばちお</span>|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|38|668|<span class="rank-name-dl">Ryosuke@ﾄｲﾄｲ</span>|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|39|652|<span class="rank-name-dl">uk</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|40|643|<span class="rank-name-dl">㋫ZEEDさま@SUN</span>|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|41|631|<span class="rank-name-dl">YOKO.</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|42|629|<span class="rank-name-dl">いちす゛</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|43|619|<span class="rank-name-dl">NATSUo忘我</span>|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|44|616|<span class="rank-name-dl">まいっち</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|45|598|<span class="rank-name-dl">AS</span>|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|46|594|<span class="rank-name-dl">ケンケン</span>|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|46|594|<span class="rank-name-dl">プレアデス</span>|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|48|574|<span class="rank-name-dl">Soleil＊ｱﾔﾊﾟﾝ</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|49|567|<span class="rank-name-dl">さとみ</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|50|562|<span class="rank-name-dl">小悪魔ｸﾛﾐちｬω♡</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|51|555|<span class="rank-name-dl">Yusuran◎m◎</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|52|552|<span class="rank-name-dl">omochieeeee</span>|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|53|551|<span class="rank-name-dl">くりまんじゅう</span>|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|54|549|<span class="rank-name-dl">さち</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|55|521|<span class="rank-name-dl">ERI</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|56|518|<span class="rank-name-dl">いんげん</span>|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|57|512|<span class="rank-name-dl">u-sk@封印中</span>|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|58|509|<span class="rank-name-dl">YUKI</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|59|485|<span class="rank-name-dl">とめ</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|60|471|<span class="rank-name-dl">かのん</span>|<a href="https://search.dartslive.com/jp/shop/c56246b4c88e05850d9b047a20a7ba1e">Billiard & Darts SUN 本店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|61|442|<span class="rank-name-dl">Leopard♡Aya</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|62|384|<span class="rank-name-dl">美香</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
+|63|337|<span class="rank-name-dl">sao</span>|<a href="https://search.dartslive.com/jp/shop/5bcdd1c44102954d0d9b047a20a7ba1e">ラウンドワン城東放出店</a>|<a href="/darts/rank/大阪府/大阪市城東区">大阪府大阪市城東区</a>|
 
-_last update : 2024/01/21 13:39:04_
+
+#### PHOENIXDARTS TOP 100
 
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+{:.table-ranking}
+|#|スコア|名前|店名|所在地|
+|---|---|---|---|---|
+||0|<span class="rank-name-dl"> </span>|<a href=""></a>|<a href="/darts/rank//"></a>|
+
+
+<div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
+    last update : <span style="font-weight: italic" id="foot_last_modified"></span><br />
+    DARTSLIVE は 株式会社ダーツライブ社 の登録商標です<br />
+    PHOENIXDARTS は フェニックスダーツジャパン株式会社 の登録商標です<br />
+</div>
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/js/jquery.tablesorter.min.js" integrity="sha512-qzgd5cYSZcosqpzpn7zF2ZId8f/8CHmFKZ8j7mU4OUXTNRd5g+ZHBPsgKEwoqxCtdQvExE5LprwwPAgoicguNg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/css/theme.default.min.css" integrity="sha512-wghhOJkjQX0Lh3NSWvNKeZ0ZpNn+SPVXX1Qyc9OCaogADktxrBiBdKGDoqVUOyhStvMBmJQ8ZdMHiR3wuEq8+w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <script>
 $(function() {
     $(".table-ranking").tablesorter({sortList:[[0, 0]]});
+    $("#foot_last_modified").text(formatDate(new Date(document.lastModified), 'yyyy-MM-dd HH:mm:ss'));
 });
 </script>
 

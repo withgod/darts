@@ -1,55 +1,105 @@
 ---
-title: DARTSLIVE AREA RANKING | 岩手県 | 一関市
+title: COUNTUP AREA RANKING | 岩手県 | 一関市
 ---
-## DARTSLIVE AREA RANKING | 岩手県 | 一関市
+## COUNTUP AREA RANKING | 岩手県 | 一関市
 
 [TOP](/darts/rank/) > [岩手県](/darts/rank/岩手県/) > 一関市
 
 ___
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="DARTSLIVE AREA RANKING | 岩手県一関市" class="twitter-share-button" data-via="DARTSLIVE" data-hashtags="DARTSLIVE" data-related="DARTSLIVE" data-show-count="false">Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="COUNTUP AREA RANKING | 岩手県一関市" class="twitter-share-button" data-hashtags="DARTSLIVE,PHOENIXDARTS,darts,ダーツ" data-show-count="false">Tweet</a>
 
-### 地域別TOP 100
+* [ランキング](#カウントアップランキング)
+    * [TOP 100](#top-100)
+    * [DARTSLIVE TOP 100](#dartslive-top-100)
+    * [PHOENIXDARTS TOP 100](#phoenixdarts-top-100)
+
+### カウントアップランキング
+
+#### TOP 100
+
+
 
 {:.table-ranking}
-|ランク|スコア|名前|店名|所在地|
+|#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|985|平塚 義仁|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
-|2|944|ばっさん＠|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
-|3|904|佐々木 淳也|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
-|4|884|くっさん★Kutsan|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
-|5|845|†ラ†D-comrade|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
-|6|844|Оver.０ IshikeN|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
-|7|842|B-LINE SHUN|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
-|7|842|すずゆう@♂LBT☆|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
-|9|815|Ｋ”Ｋ”Ｃ|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
-|10|804|ゆゆゆ|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
-|11|786|か っ け|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
-|12|741|たぁぼぉ|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
-|13|708|B-LINE JOHN|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
-|14|698|ダーツ難民|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
-|15|639|おのでら|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
-|16|628|藤ﾕｶ(本体はﾒｶﾞﾈ)|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
-|17|587|NO NAME 3297|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
-|18|585|sosuke__sf|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
-|19|579|megu|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
-|20|489|がしがし|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
-|21|455|☆kuni@^_^@☆|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
-|22|326|あーちゃん|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
+|1|985|<span class="rank-name-dl">平塚 義仁</span>|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
+|2|944|<span class="rank-name-dl">ばっさん＠</span>|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
+|3|904|<span class="rank-name-dl">佐々木 淳也</span>|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
+|4|884|<span class="rank-name-dl">くっさん★Kutsan</span>|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
+|5|845|<span class="rank-name-dl">†ラ†D-comrade</span>|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
+|6|844|<span class="rank-name-dl">Оver.０ IshikeN</span>|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
+|7|842|<span class="rank-name-dl">B-LINE SHUN</span>|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
+|7|842|<span class="rank-name-dl">すずゆう@♂LBT☆</span>|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
+|9|815|<span class="rank-name-dl">Ｋ”Ｋ”Ｃ</span>|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
+|10|804|<span class="rank-name-dl">ゆゆゆ</span>|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
+|11|786|<span class="rank-name-dl">か っ け</span>|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
+|12|741|<span class="rank-name-dl">たぁぼぉ</span>|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
+|13|708|<span class="rank-name-dl">B-LINE JOHN</span>|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
+|14|698|<span class="rank-name-dl">ダーツ難民</span>|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
+|15|639|<span class="rank-name-dl">おのでら</span>|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
+|16|628|<span class="rank-name-dl">藤ﾕｶ(本体はﾒｶﾞﾈ)</span>|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
+|17|587|<span class="rank-name-dl">NO NAME 3297</span>|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
+|18|585|<span class="rank-name-dl">sosuke__sf</span>|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
+|19|579|<span class="rank-name-dl">megu</span>|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
+|20|489|<span class="rank-name-dl">がしがし</span>|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
+|21|455|<span class="rank-name-dl">☆kuni@^_^@☆</span>|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
+|22|326|<span class="rank-name-dl">あーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
+
+
+#### DARTSLIVE TOP 100
 
 
 
-___
+{:.table-ranking}
+|#|スコア|名前|店名|所在地|
+|---|---|---|---|---|
+|1|985|<span class="rank-name-dl">平塚 義仁</span>|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
+|2|944|<span class="rank-name-dl">ばっさん＠</span>|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
+|3|904|<span class="rank-name-dl">佐々木 淳也</span>|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
+|4|884|<span class="rank-name-dl">くっさん★Kutsan</span>|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
+|5|845|<span class="rank-name-dl">†ラ†D-comrade</span>|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
+|6|844|<span class="rank-name-dl">Оver.０ IshikeN</span>|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
+|7|842|<span class="rank-name-dl">B-LINE SHUN</span>|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
+|7|842|<span class="rank-name-dl">すずゆう@♂LBT☆</span>|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
+|9|815|<span class="rank-name-dl">Ｋ”Ｋ”Ｃ</span>|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
+|10|804|<span class="rank-name-dl">ゆゆゆ</span>|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
+|11|786|<span class="rank-name-dl">か っ け</span>|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
+|12|741|<span class="rank-name-dl">たぁぼぉ</span>|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
+|13|708|<span class="rank-name-dl">B-LINE JOHN</span>|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
+|14|698|<span class="rank-name-dl">ダーツ難民</span>|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
+|15|639|<span class="rank-name-dl">おのでら</span>|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
+|16|628|<span class="rank-name-dl">藤ﾕｶ(本体はﾒｶﾞﾈ)</span>|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
+|17|587|<span class="rank-name-dl">NO NAME 3297</span>|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
+|18|585|<span class="rank-name-dl">sosuke__sf</span>|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
+|19|579|<span class="rank-name-dl">megu</span>|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
+|20|489|<span class="rank-name-dl">がしがし</span>|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
+|21|455|<span class="rank-name-dl">☆kuni@^_^@☆</span>|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
+|22|326|<span class="rank-name-dl">あーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/591631bb40246f310d9b047a20a7ba1e">@news</a>|<a href="/darts/rank/岩手県/一関市">岩手県一関市</a>|
 
-_last update : 2024/01/21 13:38:53_
+
+#### PHOENIXDARTS TOP 100
 
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+{:.table-ranking}
+|#|スコア|名前|店名|所在地|
+|---|---|---|---|---|
+||0|<span class="rank-name-dl"> </span>|<a href=""></a>|<a href="/darts/rank//"></a>|
+
+
+<div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
+    last update : <span style="font-weight: italic" id="foot_last_modified"></span><br />
+    DARTSLIVE は 株式会社ダーツライブ社 の登録商標です<br />
+    PHOENIXDARTS は フェニックスダーツジャパン株式会社 の登録商標です<br />
+</div>
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/js/jquery.tablesorter.min.js" integrity="sha512-qzgd5cYSZcosqpzpn7zF2ZId8f/8CHmFKZ8j7mU4OUXTNRd5g+ZHBPsgKEwoqxCtdQvExE5LprwwPAgoicguNg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/css/theme.default.min.css" integrity="sha512-wghhOJkjQX0Lh3NSWvNKeZ0ZpNn+SPVXX1Qyc9OCaogADktxrBiBdKGDoqVUOyhStvMBmJQ8ZdMHiR3wuEq8+w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <script>
 $(function() {
     $(".table-ranking").tablesorter({sortList:[[0, 0]]});
+    $("#foot_last_modified").text(formatDate(new Date(document.lastModified), 'yyyy-MM-dd HH:mm:ss'));
 });
 </script>
 

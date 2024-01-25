@@ -1,38 +1,71 @@
 ---
-title: DARTSLIVE AREA RANKING | 福島県 | 本宮市
+title: COUNTUP AREA RANKING | 福島県 | 本宮市
 ---
-## DARTSLIVE AREA RANKING | 福島県 | 本宮市
+## COUNTUP AREA RANKING | 福島県 | 本宮市
 
 [TOP](/darts/rank/) > [福島県](/darts/rank/福島県/) > 本宮市
 
 ___
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="DARTSLIVE AREA RANKING | 福島県本宮市" class="twitter-share-button" data-via="DARTSLIVE" data-hashtags="DARTSLIVE" data-related="DARTSLIVE" data-show-count="false">Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="COUNTUP AREA RANKING | 福島県本宮市" class="twitter-share-button" data-hashtags="DARTSLIVE,PHOENIXDARTS,darts,ダーツ" data-show-count="false">Tweet</a>
 
-### 地域別TOP 100
+* [ランキング](#カウントアップランキング)
+    * [TOP 100](#top-100)
+    * [DARTSLIVE TOP 100](#dartslive-top-100)
+    * [PHOENIXDARTS TOP 100](#phoenixdarts-top-100)
+
+### カウントアップランキング
+
+#### TOP 100
+
+
 
 {:.table-ranking}
-|ランク|スコア|名前|店名|所在地|
+|#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|934|のりっきぃ＊雪民|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
-|2|887|⇋OMA⇌|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
-|3|759|H.NOUCHI＠TBS|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
-|4|423|NO NAME 8208|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
-|5|392|yuta|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
+|1|934|<span class="rank-name-dl">のりっきぃ＊雪民</span>|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
+|2|887|<span class="rank-name-dl">⇋OMA⇌</span>|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
+|3|759|<span class="rank-name-dl">H.NOUCHI＠TBS</span>|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
+|4|423|<span class="rank-name-dl">NO NAME 8208</span>|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
+|5|392|<span class="rank-name-dl">yuta</span>|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
+
+
+#### DARTSLIVE TOP 100
 
 
 
-___
+{:.table-ranking}
+|#|スコア|名前|店名|所在地|
+|---|---|---|---|---|
+|1|934|<span class="rank-name-dl">のりっきぃ＊雪民</span>|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
+|2|887|<span class="rank-name-dl">⇋OMA⇌</span>|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
+|3|759|<span class="rank-name-dl">H.NOUCHI＠TBS</span>|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
+|4|423|<span class="rank-name-dl">NO NAME 8208</span>|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
+|5|392|<span class="rank-name-dl">yuta</span>|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
 
-_last update : 2024/01/21 13:38:54_
+
+#### PHOENIXDARTS TOP 100
 
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+{:.table-ranking}
+|#|スコア|名前|店名|所在地|
+|---|---|---|---|---|
+||0|<span class="rank-name-dl"> </span>|<a href=""></a>|<a href="/darts/rank//"></a>|
+
+
+<div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
+    last update : <span style="font-weight: italic" id="foot_last_modified"></span><br />
+    DARTSLIVE は 株式会社ダーツライブ社 の登録商標です<br />
+    PHOENIXDARTS は フェニックスダーツジャパン株式会社 の登録商標です<br />
+</div>
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/js/jquery.tablesorter.min.js" integrity="sha512-qzgd5cYSZcosqpzpn7zF2ZId8f/8CHmFKZ8j7mU4OUXTNRd5g+ZHBPsgKEwoqxCtdQvExE5LprwwPAgoicguNg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/css/theme.default.min.css" integrity="sha512-wghhOJkjQX0Lh3NSWvNKeZ0ZpNn+SPVXX1Qyc9OCaogADktxrBiBdKGDoqVUOyhStvMBmJQ8ZdMHiR3wuEq8+w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <script>
 $(function() {
     $(".table-ranking").tablesorter({sortList:[[0, 0]]});
+    $("#foot_last_modified").text(formatDate(new Date(document.lastModified), 'yyyy-MM-dd HH:mm:ss'));
 });
 </script>
 

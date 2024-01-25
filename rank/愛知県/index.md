@@ -1,13 +1,19 @@
 ---
-title: DARTSLIVE AREA RANKING | 愛知県
+title: COUNTUP AREA RANKING | 愛知県
 ---
-## DARTSLIVE AREA RANKING | 愛知県
+## COUNTUP AREA RANKING | 愛知県
 
 [TOP](/darts/rank/) > 愛知県
 
 ___
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="DARTSLIVE AREA RANKING | 愛知県" class="twitter-share-button" data-via="DARTSLIVE" data-hashtags="DARTSLIVE" data-related="DARTSLIVE" data-show-count="false">Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="COUNTUP AREA RANKING | 愛知県" class="twitter-share-button" data-hashtags="DARTSLIVE,PHOENIXDARTS,darts,ダーツ" data-show-count="false">Tweet</a>
+
+* [市区町村](#市区町村)
+* [ランキング](#カウントアップランキング)
+    * [TOP 100](#top-100)
+    * [DARTSLIVE TOP 100](#dartslive-top-100)
+    * [PHOENIXDARTS TOP 100](#phoenixdarts-top-100)
 
 ### 市区町村
 
@@ -47,130 +53,351 @@ ___
 <li style="display: inline;"><a href="/darts/rank/愛知県/海部郡">海部郡</a> |</li>
 <li style="display: inline;"><a href="/darts/rank/愛知県/知多郡">知多郡</a> |</li>
 <li style="display: inline;"><a href="/darts/rank/愛知県/額田郡">額田郡</a> |</li>
+<li style="display: inline;"><a href="/darts/rank/愛知県/日進市">日進市</a> |</li>
 
 </ul>
 
-### 都道府県別 TOP 100
+### カウントアップランキング
+
+#### TOP 100
+
+
 
 {:.table-ranking}
-|ランク|スコア|名前|店名|所在地|
+|#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1270|大和久明彦セパ|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|2|1210|大和久明彦|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|3|1200|のりを|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|3|1200|ﾌｧｳﾙｸｽ ｴﾄﾞﾜｰﾄﾞ|<a href="https://search.dartslive.com/jp/shop/603164f7e9730bec0d9b047a20a7ba1e">Darts & Sports Tink</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
-|5|1179|柴田純平|<a href="https://search.dartslive.com/jp/shop/594c15cb25b176940d9b047a20a7ba1e">DPL 名古屋</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
-|6|1169|ショうキ|<a href="https://search.dartslive.com/jp/shop/8e1b1ea6345ec5d1f454cb89828a1cfe">FUN PLACES</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|6|1169|後藤 健太|<a href="https://search.dartslive.com/jp/shop/594c15cb25b176940d9b047a20a7ba1e">DPL 名古屋</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
-|8|1168|波平さん|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|9|1167|大和久明彦|<a href="https://search.dartslive.com/jp/shop/0589ea5a9c17bac025d56fb0e5c39bac">Bar MAKAN</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
-|10|1166|釜谷 能弘|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|11|1165|のりを|<a href="https://search.dartslive.com/jp/shop/f4c9894c3a957a43b21333aee1bd51e4">cafe & bar gaNeza</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
-|12|1164|高橋　隼人|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|13|1162|おしげ@Dx3一宮|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|14|1159|め|<a href="https://search.dartslive.com/jp/shop/af1da28b0d8124330d9b047a20a7ba1e">まんがネットRAUM豊田寿町店</a>|<a href="/darts/rank/愛知県/豊田市">愛知県豊田市</a>|
-|15|1158|伊藤 駿|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|16|1156|☆|<a href="https://search.dartslive.com/jp/shop/9e9dfed2ede3309f25d56fb0e5c39bac">快活CLUB 当知店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
-|17|1155|悪【ﾄﾞｴﾛ】とみぃ|<a href="https://search.dartslive.com/jp/shop/9919d92d98fe8d5e0d9b047a20a7ba1e">DARTS&BAR Rodeo</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
-|18|1153|大和久明彦|<a href="https://search.dartslive.com/jp/shop/7bf61ba700514db258d385ea46352d8f">Dining＆Sports Bar 57番街</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
-|19|1149|イペッイロシオオ|<a href="https://search.dartslive.com/jp/shop/0034be99cb4d06f40d9b047a20a7ba1e">ゆう遊空間 三河安城店</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
-|20|1146|Shun.Ito|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|21|1140|☆|<a href="https://search.dartslive.com/jp/shop/6441d65a6cb8f7c5774c926eb736cb5a">快活CLUB 津島駅前店</a>|<a href="/darts/rank/愛知県/津島市">愛知県津島市</a>|
-|21|1140|カラサキウルハNT|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|21|1140|悪【ﾄﾞｴﾛ】とみぃ|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|24|1136|後藤 健太|<a href="https://search.dartslive.com/jp/shop/ca9ce6470d11355b0d9b047a20a7ba1e">Darts Bar clan</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
-|25|1135|Ryuki|<a href="https://search.dartslive.com/jp/shop/603164f7e9730bec0d9b047a20a7ba1e">Darts & Sports Tink</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
-|25|1135|伊藤 駿|<a href="https://search.dartslive.com/jp/shop/a8ade3665feb96b258d385ea46352d8f">インターネットカフェ NEO</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|25|1135|松浦 広貴|<a href="https://search.dartslive.com/jp/shop/3be6d876f98f13460d9b047a20a7ba1e">Cafe Bar & DARTS RESTART</a>|<a href="/darts/rank/愛知県/豊橋市">愛知県豊橋市</a>|
-|28|1134|あしざわかずき|<a href="https://search.dartslive.com/jp/shop/c361e54f854440ea0d9b047a20a7ba1e">Three In The Black</a>|<a href="/darts/rank/愛知県/豊橋市">愛知県豊橋市</a>|
-|29|1131|手島拓也|<a href="https://search.dartslive.com/jp/shop/dd56be539397fab80d9b047a20a7ba1e">One Piece 黒川店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
-|30|1130|Shun.Ito|<a href="https://search.dartslive.com/jp/shop/a8ade3665feb96b258d385ea46352d8f">インターネットカフェ NEO</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|30|1130|Yossy|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|30|1130|☆DMC☆山本 貴斗|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|30|1130|おかど|<a href="https://search.dartslive.com/jp/shop/9919d92d98fe8d5e0d9b047a20a7ba1e">DARTS&BAR Rodeo</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
-|30|1130|大和久明彦|<a href="https://search.dartslive.com/jp/shop/511881cb2f1fcde4a3f63593b5358cc4">Darts Bar CLAN 金山店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
-|35|1129|ほしのかつみ|<a href="https://search.dartslive.com/jp/shop/9e9dfed2ede3309f25d56fb0e5c39bac">快活CLUB 当知店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
-|36|1128|たけちゃんまん|<a href="https://search.dartslive.com/jp/shop/9919d92d98fe8d5e0d9b047a20a7ba1e">DARTS&BAR Rodeo</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
-|36|1128|カラサキウルハ|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|38|1127|ゆーま(UMA)|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|39|1126|しぃ*kaikoi|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|39|1126|むらけん|<a href="https://search.dartslive.com/jp/shop/0034be99cb4d06f40d9b047a20a7ba1e">ゆう遊空間 三河安城店</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
-|41|1124|Y u - K i|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|41|1124|め|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|41|1124|復活のふかけん|<a href="https://search.dartslive.com/jp/shop/3be6d876f98f13460d9b047a20a7ba1e">Cafe Bar & DARTS RESTART</a>|<a href="/darts/rank/愛知県/豊橋市">愛知県豊橋市</a>|
-|44|1121|TOMOHIRO.H|<a href="https://search.dartslive.com/jp/shop/a057b238fd1cdaee0d9b047a20a7ba1e">ラウンドワン鳴海店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
-|45|1120|たけちゃんまん|<a href="https://search.dartslive.com/jp/shop/603164f7e9730bec0d9b047a20a7ba1e">Darts & Sports Tink</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
-|45|1120|ショウ|<a href="https://search.dartslive.com/jp/shop/511881cb2f1fcde4a3f63593b5358cc4">Darts Bar CLAN 金山店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
-|45|1120|良@HoneyBee|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
-|48|1119|おしげ@Dx3一宮|<a href="https://search.dartslive.com/jp/shop/a8ade3665feb96b258d385ea46352d8f">インターネットカフェ NEO</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|49|1117|SHUYA|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|49|1117|☆|<a href="https://search.dartslive.com/jp/shop/dd10fb7147dfdb9a58d385ea46352d8f">Cafe&Bar OZ</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
-|49|1117|おぐりん|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|49|1117|づめさん|<a href="https://search.dartslive.com/jp/shop/ca9ce6470d11355b0d9b047a20a7ba1e">Darts Bar clan</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
-|49|1117|大和久明彦|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|54|1116|Shun|<a href="https://search.dartslive.com/jp/shop/a8ade3665feb96b258d385ea46352d8f">インターネットカフェ NEO</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|54|1116|後藤 健太|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|54|1116|手島拓也|<a href="https://search.dartslive.com/jp/shop/511881cb2f1fcde4a3f63593b5358cc4">Darts Bar CLAN 金山店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
-|54|1116|高橋　隼人|<a href="https://search.dartslive.com/jp/shop/3be6d876f98f13460d9b047a20a7ba1e">Cafe Bar & DARTS RESTART</a>|<a href="/darts/rank/愛知県/豊橋市">愛知県豊橋市</a>|
-|58|1115|UC|<a href="https://search.dartslive.com/jp/shop/f5b941f9448643960d9b047a20a7ba1e">GROWTH MOTOYAMA</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
-|58|1115|ゆうき@FP|<a href="https://search.dartslive.com/jp/shop/8e1b1ea6345ec5d1f454cb89828a1cfe">FUN PLACES</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|58|1115|井上 大也|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
-|58|1115|伊藤 駿|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|62|1113|ﾌｧｳﾙｸｽ ｴﾄﾞﾜｰﾄﾞ|<a href="https://search.dartslive.com/jp/shop/0589ea5a9c17bac025d56fb0e5c39bac">Bar MAKAN</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
-|63|1112|鈴木大地SoleSoul|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|64|1111|吉田 快人|<a href="https://search.dartslive.com/jp/shop/bdf8ebae9b879b5a0d9b047a20a7ba1e">Rookie's</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|64|1111|토순이|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|66|1110|復活のふかけん|<a href="https://search.dartslive.com/jp/shop/1b90fdf6ef79f9f428032249b44395af">快活CLUB 豊橋向山店</a>|<a href="/darts/rank/愛知県/豊橋市">愛知県豊橋市</a>|
-|67|1109|あしざわかずき|<a href="https://search.dartslive.com/jp/shop/3be6d876f98f13460d9b047a20a7ba1e">Cafe Bar & DARTS RESTART</a>|<a href="/darts/rank/愛知県/豊橋市">愛知県豊橋市</a>|
-|68|1108|丸田和樹|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|68|1108|千原 大@RE★T|<a href="https://search.dartslive.com/jp/shop/3be6d876f98f13460d9b047a20a7ba1e">Cafe Bar & DARTS RESTART</a>|<a href="/darts/rank/愛知県/豊橋市">愛知県豊橋市</a>|
-|68|1108|望月 芳和|<a href="https://search.dartslive.com/jp/shop/a20d0bad4fa35e07790ab824ce8730e5">快活CLUB 名古屋競馬場駅前店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
-|71|1107|中村大善|<a href="https://search.dartslive.com/jp/shop/baa0e63106aaa1dbb21333aee1bd51e4">快活CLUB 四軒家店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
-|72|1105|やっち|<a href="https://search.dartslive.com/jp/shop/dc4215cffc8266c30d9b047a20a7ba1e">Garden of Eden</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
-|73|1103|おかど|<a href="https://search.dartslive.com/jp/shop/d21fdbb03227f7850d9b047a20a7ba1e">和やかふぇ こころひとつ</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
-|73|1103|後藤 健太|<a href="https://search.dartslive.com/jp/shop/1667df12bd56d5b628032249b44395af">REGALO 名古屋駅前店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
-|73|1103|悪【ﾄﾞｴﾛ】とみぃ|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|76|1102|馬場 善久|<a href="https://search.dartslive.com/jp/shop/3be6d876f98f13460d9b047a20a7ba1e">Cafe Bar & DARTS RESTART</a>|<a href="/darts/rank/愛知県/豊橋市">愛知県豊橋市</a>|
-|77|1101|TATSU|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
-|77|1101|やっち|<a href="https://search.dartslive.com/jp/shop/a20d0bad4fa35e07790ab824ce8730e5">快活CLUB 名古屋競馬場駅前店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
-|77|1101|토순이|<a href="https://search.dartslive.com/jp/shop/a8ade3665feb96b258d385ea46352d8f">インターネットカフェ NEO</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|80|1100|豊田　有志|<a href="https://search.dartslive.com/jp/shop/f4c9894c3a957a43b21333aee1bd51e4">cafe & bar gaNeza</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
-|81|1095|たけちゃんまん|<a href="https://search.dartslive.com/jp/shop/511881cb2f1fcde4a3f63593b5358cc4">Darts Bar CLAN 金山店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
-|81|1095|ど$ま-くんHOMIE$|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|81|1095|鈴木大地SoleSoul|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|84|1094|◆ぺったん◆|<a href="https://search.dartslive.com/jp/shop/bdf8ebae9b879b5a0d9b047a20a7ba1e">Rookie's</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|85|1092|のりを|<a href="https://search.dartslive.com/jp/shop/511881cb2f1fcde4a3f63593b5358cc4">Darts Bar CLAN 金山店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
-|86|1091|やまじゅう|<a href="https://search.dartslive.com/jp/shop/a20d0bad4fa35e07790ab824ce8730e5">快活CLUB 名古屋競馬場駅前店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
-|86|1091|丸田和樹|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
-|88|1089|後藤 健太|<a href="https://search.dartslive.com/jp/shop/511881cb2f1fcde4a3f63593b5358cc4">Darts Bar CLAN 金山店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
-|88|1089|高橋　隼人|<a href="https://search.dartslive.com/jp/shop/c361e54f854440ea0d9b047a20a7ba1e">Three In The Black</a>|<a href="/darts/rank/愛知県/豊橋市">愛知県豊橋市</a>|
-|90|1086|おしげ@しげお|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|90|1086|カラサキウルハ|<a href="https://search.dartslive.com/jp/shop/2402c01a4714ce6ab21333aee1bd51e4">カラオケ館 錦本店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
-|92|1085|NO NAME 8192|<a href="https://search.dartslive.com/jp/shop/1b90fdf6ef79f9f428032249b44395af">快活CLUB 豊橋向山店</a>|<a href="/darts/rank/愛知県/豊橋市">愛知県豊橋市</a>|
-|92|1085|‎( ꒪⌓꒪)ﾀﾞｲｽP|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|92|1085|どヴぁきん|<a href="https://search.dartslive.com/jp/shop/511881cb2f1fcde4a3f63593b5358cc4">Darts Bar CLAN 金山店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
-|95|1084|Co.hey****|<a href="https://search.dartslive.com/jp/shop/0589ea5a9c17bac025d56fb0e5c39bac">Bar MAKAN</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
-|95|1084|NO NAME 6721|<a href="https://search.dartslive.com/jp/shop/1b90fdf6ef79f9f428032249b44395af">快活CLUB 豊橋向山店</a>|<a href="/darts/rank/愛知県/豊橋市">愛知県豊橋市</a>|
-|95|1084|脇 佑真|<a href="https://search.dartslive.com/jp/shop/a8ade3665feb96b258d385ea46352d8f">インターネットカフェ NEO</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
-|98|1083|Satoru@GALLANT|<a href="https://search.dartslive.com/jp/shop/1b90fdf6ef79f9f428032249b44395af">快活CLUB 豊橋向山店</a>|<a href="/darts/rank/愛知県/豊橋市">愛知県豊橋市</a>|
-|98|1083|長久手さん|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|100|1082|Yuki Hayashi|<a href="https://search.dartslive.com/jp/shop/a8ade3665feb96b258d385ea46352d8f">インターネットカフェ NEO</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|1|1270|<span class="rank-name-dl">大和久明彦セパ</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|2|1243|<span class="rank-name-pd">せ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77685?s_seq=77685">快活CLUB 津島駅前店</a>|<a href="/darts/rank/愛知県/津島市">愛知県津島市</a>|
+|3|1215|<span class="rank-name-pd">Shun Ito</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47076?s_seq=47076">ダーツショップ ディースリー 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|4|1210|<span class="rank-name-dl">大和久明彦</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|5|1205|<span class="rank-name-pd">のりを</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7777?s_seq=7777">cafe&bar gaNeza</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|6|1200|<span class="rank-name-dl">のりを</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|6|1200|<span class="rank-name-dl">ﾌｧｳﾙｸｽ ｴﾄﾞﾜｰﾄﾞ</span>|<a href="https://search.dartslive.com/jp/shop/603164f7e9730bec0d9b047a20a7ba1e">Darts & Sports Tink</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|8|1179|<span class="rank-name-dl">柴田純平</span>|<a href="https://search.dartslive.com/jp/shop/594c15cb25b176940d9b047a20a7ba1e">DPL 名古屋</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|9|1169|<span class="rank-name-dl">ショうキ</span>|<a href="https://search.dartslive.com/jp/shop/8e1b1ea6345ec5d1f454cb89828a1cfe">FUN PLACES</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|9|1169|<span class="rank-name-dl">後藤 健太</span>|<a href="https://search.dartslive.com/jp/shop/594c15cb25b176940d9b047a20a7ba1e">DPL 名古屋</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|11|1168|<span class="rank-name-dl">波平さん</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|12|1167|<span class="rank-name-dl">大和久明彦</span>|<a href="https://search.dartslive.com/jp/shop/0589ea5a9c17bac025d56fb0e5c39bac">Bar MAKAN</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|13|1166|<span class="rank-name-dl">カラサキウルハ</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|13|1166|<span class="rank-name-pd">手島 拓也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9987?s_seq=9987">ゆう遊空間 萩野通店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|13|1166|<span class="rank-name-dl">釜谷 能弘</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|16|1165|<span class="rank-name-dl">のりを</span>|<a href="https://search.dartslive.com/jp/shop/f4c9894c3a957a43b21333aee1bd51e4">cafe & bar gaNeza</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|17|1164|<span class="rank-name-dl">高橋　隼人</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|18|1162|<span class="rank-name-dl">おしげ@Dx3一宮</span>|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|19|1159|<span class="rank-name-dl">め</span>|<a href="https://search.dartslive.com/jp/shop/af1da28b0d8124330d9b047a20a7ba1e">まんがネットRAUM豊田寿町店</a>|<a href="/darts/rank/愛知県/豊田市">愛知県豊田市</a>|
+|20|1158|<span class="rank-name-dl">伊藤 駿</span>|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|21|1157|<span class="rank-name-pd">手島 拓也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8831?s_seq=8831">ONE PIECE 黒川店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|22|1156|<span class="rank-name-dl">☆</span>|<a href="https://search.dartslive.com/jp/shop/9e9dfed2ede3309f25d56fb0e5c39bac">快活CLUB 当知店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|23|1155|<span class="rank-name-dl">悪【ﾄﾞｴﾛ】とみぃ</span>|<a href="https://search.dartslive.com/jp/shop/9919d92d98fe8d5e0d9b047a20a7ba1e">DARTS&BAR Rodeo</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|24|1153|<span class="rank-name-dl">大和久明彦</span>|<a href="https://search.dartslive.com/jp/shop/7bf61ba700514db258d385ea46352d8f">Dining＆Sports Bar 57番街</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|25|1149|<span class="rank-name-dl">イペッイロシオオ</span>|<a href="https://search.dartslive.com/jp/shop/0034be99cb4d06f40d9b047a20a7ba1e">ゆう遊空間 三河安城店</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
+|26|1146|<span class="rank-name-dl">Shun.Ito</span>|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|27|1143|<span class="rank-name-pd">HAGI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74439?s_seq=74439">メキシガン 名駅笹島店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|28|1140|<span class="rank-name-dl">☆</span>|<a href="https://search.dartslive.com/jp/shop/6441d65a6cb8f7c5774c926eb736cb5a">快活CLUB 津島駅前店</a>|<a href="/darts/rank/愛知県/津島市">愛知県津島市</a>|
+|28|1140|<span class="rank-name-dl">カラサキウルハNT</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|28|1140|<span class="rank-name-dl">悪【ﾄﾞｴﾛ】とみぃ</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|31|1138|<span class="rank-name-pd">☆DMC☆山本 貴斗</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47076?s_seq=47076">ダーツショップ ディースリー 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|32|1136|<span class="rank-name-pd">こーた=COSMO=</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7777?s_seq=7777">cafe&bar gaNeza</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|32|1136|<span class="rank-name-dl">後藤 健太</span>|<a href="https://search.dartslive.com/jp/shop/ca9ce6470d11355b0d9b047a20a7ba1e">Darts Bar clan</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|34|1135|<span class="rank-name-dl">Ryuki</span>|<a href="https://search.dartslive.com/jp/shop/603164f7e9730bec0d9b047a20a7ba1e">Darts & Sports Tink</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|34|1135|<span class="rank-name-dl">伊藤 駿</span>|<a href="https://search.dartslive.com/jp/shop/a8ade3665feb96b258d385ea46352d8f">インターネットカフェ NEO</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|34|1135|<span class="rank-name-dl">松浦 広貴</span>|<a href="https://search.dartslive.com/jp/shop/3be6d876f98f13460d9b047a20a7ba1e">Cafe Bar & DARTS RESTART</a>|<a href="/darts/rank/愛知県/豊橋市">愛知県豊橋市</a>|
+|37|1134|<span class="rank-name-dl">あしざわかずき</span>|<a href="https://search.dartslive.com/jp/shop/c361e54f854440ea0d9b047a20a7ba1e">Three In The Black</a>|<a href="/darts/rank/愛知県/豊橋市">愛知県豊橋市</a>|
+|38|1133|<span class="rank-name-dl">nobu@k</span>|<a href="https://search.dartslive.com/jp/shop/834a71f60df831f40d9b047a20a7ba1e">まんがネットRAUM豊田広川店</a>|<a href="/darts/rank/愛知県/豊田市">愛知県豊田市</a>|
+|38|1133|<span class="rank-name-pd">田中銀河</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10482?s_seq=10482">ラウンドワン豊橋店</a>|<a href="/darts/rank/愛知県/豊橋市">愛知県豊橋市</a>|
+|40|1132|<span class="rank-name-pd">マレス</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|41|1131|<span class="rank-name-pd">TATOO VIVACE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8017?s_seq=8017">ひろちゃんの台所～Pleasure</a>|<a href="/darts/rank/愛知県/豊田市">愛知県豊田市</a>|
+|41|1131|<span class="rank-name-dl">手島拓也</span>|<a href="https://search.dartslive.com/jp/shop/dd56be539397fab80d9b047a20a7ba1e">One Piece 黒川店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|43|1130|<span class="rank-name-dl">Shun.Ito</span>|<a href="https://search.dartslive.com/jp/shop/a8ade3665feb96b258d385ea46352d8f">インターネットカフェ NEO</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|43|1130|<span class="rank-name-dl">Yossy</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|43|1130|<span class="rank-name-dl">☆DMC☆山本 貴斗</span>|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|43|1130|<span class="rank-name-dl">おかど</span>|<a href="https://search.dartslive.com/jp/shop/9919d92d98fe8d5e0d9b047a20a7ba1e">DARTS&BAR Rodeo</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|43|1130|<span class="rank-name-dl">大和久明彦</span>|<a href="https://search.dartslive.com/jp/shop/511881cb2f1fcde4a3f63593b5358cc4">Darts Bar CLAN 金山店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|48|1129|<span class="rank-name-dl">ほしのかつみ</span>|<a href="https://search.dartslive.com/jp/shop/9e9dfed2ede3309f25d56fb0e5c39bac">快活CLUB 当知店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|49|1128|<span class="rank-name-dl">たけちゃんまん</span>|<a href="https://search.dartslive.com/jp/shop/9919d92d98fe8d5e0d9b047a20a7ba1e">DARTS&BAR Rodeo</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|50|1127|<span class="rank-name-dl">ゆーま(UMA)</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|51|1126|<span class="rank-name-dl">しぃ*kaikoi</span>|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|51|1126|<span class="rank-name-dl">むらけん</span>|<a href="https://search.dartslive.com/jp/shop/0034be99cb4d06f40d9b047a20a7ba1e">ゆう遊空間 三河安城店</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
+|53|1124|<span class="rank-name-dl">Y u - K i</span>|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|53|1124|<span class="rank-name-dl">め</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|53|1124|<span class="rank-name-dl">復活のふかけん</span>|<a href="https://search.dartslive.com/jp/shop/3be6d876f98f13460d9b047a20a7ba1e">Cafe Bar & DARTS RESTART</a>|<a href="/darts/rank/愛知県/豊橋市">愛知県豊橋市</a>|
+|56|1122|<span class="rank-name-pd">芦沢 一輝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9259?s_seq=9259">Three In The Black</a>|<a href="/darts/rank/愛知県/豊橋市">愛知県豊橋市</a>|
+|57|1121|<span class="rank-name-dl">TOMOHIRO.H</span>|<a href="https://search.dartslive.com/jp/shop/a057b238fd1cdaee0d9b047a20a7ba1e">ラウンドワン鳴海店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|57|1121|<span class="rank-name-pd">よっしー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|59|1120|<span class="rank-name-dl">たけちゃんまん</span>|<a href="https://search.dartslive.com/jp/shop/603164f7e9730bec0d9b047a20a7ba1e">Darts & Sports Tink</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|59|1120|<span class="rank-name-dl">ショウ</span>|<a href="https://search.dartslive.com/jp/shop/511881cb2f1fcde4a3f63593b5358cc4">Darts Bar CLAN 金山店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|59|1120|<span class="rank-name-dl">良@HoneyBee</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|62|1119|<span class="rank-name-dl">おしげ@Dx3一宮</span>|<a href="https://search.dartslive.com/jp/shop/a8ade3665feb96b258d385ea46352d8f">インターネットカフェ NEO</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|63|1117|<span class="rank-name-dl">SHUYA</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|63|1117|<span class="rank-name-dl">☆</span>|<a href="https://search.dartslive.com/jp/shop/dd10fb7147dfdb9a58d385ea46352d8f">Cafe&Bar OZ</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|63|1117|<span class="rank-name-dl">おぐりん</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|63|1117|<span class="rank-name-dl">づめさん</span>|<a href="https://search.dartslive.com/jp/shop/ca9ce6470d11355b0d9b047a20a7ba1e">Darts Bar clan</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|63|1117|<span class="rank-name-dl">大和久明彦</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|68|1116|<span class="rank-name-dl">Shun</span>|<a href="https://search.dartslive.com/jp/shop/a8ade3665feb96b258d385ea46352d8f">インターネットカフェ NEO</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|68|1116|<span class="rank-name-dl">後藤 健太</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|68|1116|<span class="rank-name-dl">手島拓也</span>|<a href="https://search.dartslive.com/jp/shop/511881cb2f1fcde4a3f63593b5358cc4">Darts Bar CLAN 金山店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|68|1116|<span class="rank-name-dl">高橋　隼人</span>|<a href="https://search.dartslive.com/jp/shop/3be6d876f98f13460d9b047a20a7ba1e">Cafe Bar & DARTS RESTART</a>|<a href="/darts/rank/愛知県/豊橋市">愛知県豊橋市</a>|
+|72|1115|<span class="rank-name-pd">Shun Ito</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8419?s_seq=8419">インターネットカフェ NEO</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|72|1115|<span class="rank-name-dl">UC</span>|<a href="https://search.dartslive.com/jp/shop/f5b941f9448643960d9b047a20a7ba1e">GROWTH MOTOYAMA</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|72|1115|<span class="rank-name-dl">ゆうき@FP</span>|<a href="https://search.dartslive.com/jp/shop/8e1b1ea6345ec5d1f454cb89828a1cfe">FUN PLACES</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|72|1115|<span class="rank-name-dl">井上 大也</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|72|1115|<span class="rank-name-dl">伊藤 駿</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|77|1113|<span class="rank-name-dl">ﾌｧｳﾙｸｽ ｴﾄﾞﾜｰﾄﾞ</span>|<a href="https://search.dartslive.com/jp/shop/0589ea5a9c17bac025d56fb0e5c39bac">Bar MAKAN</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|78|1112|<span class="rank-name-dl">鈴木大地SoleSoul</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|79|1111|<span class="rank-name-dl">吉田 快人</span>|<a href="https://search.dartslive.com/jp/shop/bdf8ebae9b879b5a0d9b047a20a7ba1e">Rookie's</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|79|1111|<span class="rank-name-dl">토순이</span>|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|81|1110|<span class="rank-name-pd">DOS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|81|1110|<span class="rank-name-pd">せりちゅん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7000?s_seq=7000">快活CLUB 豊橋新栄店</a>|<a href="/darts/rank/愛知県/豊橋市">愛知県豊橋市</a>|
+|81|1110|<span class="rank-name-dl">復活のふかけん</span>|<a href="https://search.dartslive.com/jp/shop/1b90fdf6ef79f9f428032249b44395af">快活CLUB 豊橋向山店</a>|<a href="/darts/rank/愛知県/豊橋市">愛知県豊橋市</a>|
+|84|1109|<span class="rank-name-dl">あしざわかずき</span>|<a href="https://search.dartslive.com/jp/shop/3be6d876f98f13460d9b047a20a7ba1e">Cafe Bar & DARTS RESTART</a>|<a href="/darts/rank/愛知県/豊橋市">愛知県豊橋市</a>|
+|84|1109|<span class="rank-name-pd">タクマ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7577?s_seq=7577">和やかふぇ　こころひとつ</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|86|1108|<span class="rank-name-dl">丸田和樹</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|86|1108|<span class="rank-name-dl">千原 大@RE★T</span>|<a href="https://search.dartslive.com/jp/shop/3be6d876f98f13460d9b047a20a7ba1e">Cafe Bar & DARTS RESTART</a>|<a href="/darts/rank/愛知県/豊橋市">愛知県豊橋市</a>|
+|86|1108|<span class="rank-name-dl">望月 芳和</span>|<a href="https://search.dartslive.com/jp/shop/a20d0bad4fa35e07790ab824ce8730e5">快活CLUB 名古屋競馬場駅前店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|89|1107|<span class="rank-name-dl">中村大善</span>|<a href="https://search.dartslive.com/jp/shop/baa0e63106aaa1dbb21333aee1bd51e4">快活CLUB 四軒家店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|90|1106|<span class="rank-name-pd">さとしっくす</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8288?s_seq=8288">まんがネットRAUM豊田寿町店</a>|<a href="/darts/rank/愛知県/豊田市">愛知県豊田市</a>|
+|90|1106|<span class="rank-name-pd">やっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74702?s_seq=74702">Garden Of Eden</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|90|1106|<span class="rank-name-dl">松浦 広貴</span>|<a href="https://search.dartslive.com/jp/shop/511881cb2f1fcde4a3f63593b5358cc4">Darts Bar CLAN 金山店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|93|1105|<span class="rank-name-dl">やっち</span>|<a href="https://search.dartslive.com/jp/shop/dc4215cffc8266c30d9b047a20a7ba1e">Garden of Eden</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|94|1103|<span class="rank-name-dl">おかど</span>|<a href="https://search.dartslive.com/jp/shop/d21fdbb03227f7850d9b047a20a7ba1e">和やかふぇ こころひとつ</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|94|1103|<span class="rank-name-dl">後藤 健太</span>|<a href="https://search.dartslive.com/jp/shop/1667df12bd56d5b628032249b44395af">REGALO 名古屋駅前店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|94|1103|<span class="rank-name-dl">悪【ﾄﾞｴﾛ】とみぃ</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|97|1102|<span class="rank-name-dl">馬場 善久</span>|<a href="https://search.dartslive.com/jp/shop/3be6d876f98f13460d9b047a20a7ba1e">Cafe Bar & DARTS RESTART</a>|<a href="/darts/rank/愛知県/豊橋市">愛知県豊橋市</a>|
+|98|1101|<span class="rank-name-dl">TATSU</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|98|1101|<span class="rank-name-dl">やっち</span>|<a href="https://search.dartslive.com/jp/shop/a20d0bad4fa35e07790ab824ce8730e5">快活CLUB 名古屋競馬場駅前店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|98|1101|<span class="rank-name-dl">토순이</span>|<a href="https://search.dartslive.com/jp/shop/a8ade3665feb96b258d385ea46352d8f">インターネットカフェ NEO</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+
+
+#### DARTSLIVE TOP 100
 
 
 
+{:.table-ranking}
+|#|スコア|名前|店名|所在地|
+|---|---|---|---|---|
+|1|1270|<span class="rank-name-dl">大和久明彦セパ</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|2|1210|<span class="rank-name-dl">大和久明彦</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|3|1200|<span class="rank-name-dl">のりを</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|3|1200|<span class="rank-name-dl">ﾌｧｳﾙｸｽ ｴﾄﾞﾜｰﾄﾞ</span>|<a href="https://search.dartslive.com/jp/shop/603164f7e9730bec0d9b047a20a7ba1e">Darts & Sports Tink</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|5|1179|<span class="rank-name-dl">柴田純平</span>|<a href="https://search.dartslive.com/jp/shop/594c15cb25b176940d9b047a20a7ba1e">DPL 名古屋</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|6|1169|<span class="rank-name-dl">ショうキ</span>|<a href="https://search.dartslive.com/jp/shop/8e1b1ea6345ec5d1f454cb89828a1cfe">FUN PLACES</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|6|1169|<span class="rank-name-dl">後藤 健太</span>|<a href="https://search.dartslive.com/jp/shop/594c15cb25b176940d9b047a20a7ba1e">DPL 名古屋</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|8|1168|<span class="rank-name-dl">波平さん</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|9|1167|<span class="rank-name-dl">大和久明彦</span>|<a href="https://search.dartslive.com/jp/shop/0589ea5a9c17bac025d56fb0e5c39bac">Bar MAKAN</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|10|1166|<span class="rank-name-dl">カラサキウルハ</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|10|1166|<span class="rank-name-dl">釜谷 能弘</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|12|1165|<span class="rank-name-dl">のりを</span>|<a href="https://search.dartslive.com/jp/shop/f4c9894c3a957a43b21333aee1bd51e4">cafe & bar gaNeza</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|13|1164|<span class="rank-name-dl">高橋　隼人</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|14|1162|<span class="rank-name-dl">おしげ@Dx3一宮</span>|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|15|1159|<span class="rank-name-dl">め</span>|<a href="https://search.dartslive.com/jp/shop/af1da28b0d8124330d9b047a20a7ba1e">まんがネットRAUM豊田寿町店</a>|<a href="/darts/rank/愛知県/豊田市">愛知県豊田市</a>|
+|16|1158|<span class="rank-name-dl">伊藤 駿</span>|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|17|1156|<span class="rank-name-dl">☆</span>|<a href="https://search.dartslive.com/jp/shop/9e9dfed2ede3309f25d56fb0e5c39bac">快活CLUB 当知店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|18|1155|<span class="rank-name-dl">悪【ﾄﾞｴﾛ】とみぃ</span>|<a href="https://search.dartslive.com/jp/shop/9919d92d98fe8d5e0d9b047a20a7ba1e">DARTS&BAR Rodeo</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|19|1153|<span class="rank-name-dl">大和久明彦</span>|<a href="https://search.dartslive.com/jp/shop/7bf61ba700514db258d385ea46352d8f">Dining＆Sports Bar 57番街</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|20|1149|<span class="rank-name-dl">イペッイロシオオ</span>|<a href="https://search.dartslive.com/jp/shop/0034be99cb4d06f40d9b047a20a7ba1e">ゆう遊空間 三河安城店</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
+|21|1146|<span class="rank-name-dl">Shun.Ito</span>|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|22|1140|<span class="rank-name-dl">☆</span>|<a href="https://search.dartslive.com/jp/shop/6441d65a6cb8f7c5774c926eb736cb5a">快活CLUB 津島駅前店</a>|<a href="/darts/rank/愛知県/津島市">愛知県津島市</a>|
+|22|1140|<span class="rank-name-dl">カラサキウルハNT</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|22|1140|<span class="rank-name-dl">悪【ﾄﾞｴﾛ】とみぃ</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|25|1136|<span class="rank-name-dl">後藤 健太</span>|<a href="https://search.dartslive.com/jp/shop/ca9ce6470d11355b0d9b047a20a7ba1e">Darts Bar clan</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|26|1135|<span class="rank-name-dl">Ryuki</span>|<a href="https://search.dartslive.com/jp/shop/603164f7e9730bec0d9b047a20a7ba1e">Darts & Sports Tink</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|26|1135|<span class="rank-name-dl">伊藤 駿</span>|<a href="https://search.dartslive.com/jp/shop/a8ade3665feb96b258d385ea46352d8f">インターネットカフェ NEO</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|26|1135|<span class="rank-name-dl">松浦 広貴</span>|<a href="https://search.dartslive.com/jp/shop/3be6d876f98f13460d9b047a20a7ba1e">Cafe Bar & DARTS RESTART</a>|<a href="/darts/rank/愛知県/豊橋市">愛知県豊橋市</a>|
+|29|1134|<span class="rank-name-dl">あしざわかずき</span>|<a href="https://search.dartslive.com/jp/shop/c361e54f854440ea0d9b047a20a7ba1e">Three In The Black</a>|<a href="/darts/rank/愛知県/豊橋市">愛知県豊橋市</a>|
+|30|1133|<span class="rank-name-dl">nobu@k</span>|<a href="https://search.dartslive.com/jp/shop/834a71f60df831f40d9b047a20a7ba1e">まんがネットRAUM豊田広川店</a>|<a href="/darts/rank/愛知県/豊田市">愛知県豊田市</a>|
+|31|1131|<span class="rank-name-dl">手島拓也</span>|<a href="https://search.dartslive.com/jp/shop/dd56be539397fab80d9b047a20a7ba1e">One Piece 黒川店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|32|1130|<span class="rank-name-dl">Shun.Ito</span>|<a href="https://search.dartslive.com/jp/shop/a8ade3665feb96b258d385ea46352d8f">インターネットカフェ NEO</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|32|1130|<span class="rank-name-dl">Yossy</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|32|1130|<span class="rank-name-dl">☆DMC☆山本 貴斗</span>|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|32|1130|<span class="rank-name-dl">おかど</span>|<a href="https://search.dartslive.com/jp/shop/9919d92d98fe8d5e0d9b047a20a7ba1e">DARTS&BAR Rodeo</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|32|1130|<span class="rank-name-dl">大和久明彦</span>|<a href="https://search.dartslive.com/jp/shop/511881cb2f1fcde4a3f63593b5358cc4">Darts Bar CLAN 金山店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|37|1129|<span class="rank-name-dl">ほしのかつみ</span>|<a href="https://search.dartslive.com/jp/shop/9e9dfed2ede3309f25d56fb0e5c39bac">快活CLUB 当知店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|38|1128|<span class="rank-name-dl">たけちゃんまん</span>|<a href="https://search.dartslive.com/jp/shop/9919d92d98fe8d5e0d9b047a20a7ba1e">DARTS&BAR Rodeo</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|39|1127|<span class="rank-name-dl">ゆーま(UMA)</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|40|1126|<span class="rank-name-dl">しぃ*kaikoi</span>|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|40|1126|<span class="rank-name-dl">むらけん</span>|<a href="https://search.dartslive.com/jp/shop/0034be99cb4d06f40d9b047a20a7ba1e">ゆう遊空間 三河安城店</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
+|42|1124|<span class="rank-name-dl">Y u - K i</span>|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|42|1124|<span class="rank-name-dl">め</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|42|1124|<span class="rank-name-dl">復活のふかけん</span>|<a href="https://search.dartslive.com/jp/shop/3be6d876f98f13460d9b047a20a7ba1e">Cafe Bar & DARTS RESTART</a>|<a href="/darts/rank/愛知県/豊橋市">愛知県豊橋市</a>|
+|45|1121|<span class="rank-name-dl">TOMOHIRO.H</span>|<a href="https://search.dartslive.com/jp/shop/a057b238fd1cdaee0d9b047a20a7ba1e">ラウンドワン鳴海店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|46|1120|<span class="rank-name-dl">たけちゃんまん</span>|<a href="https://search.dartslive.com/jp/shop/603164f7e9730bec0d9b047a20a7ba1e">Darts & Sports Tink</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|46|1120|<span class="rank-name-dl">ショウ</span>|<a href="https://search.dartslive.com/jp/shop/511881cb2f1fcde4a3f63593b5358cc4">Darts Bar CLAN 金山店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|46|1120|<span class="rank-name-dl">良@HoneyBee</span>|<a href="https://search.dartslive.com/jp/shop/092fed646bf165440d9b047a20a7ba1e">Honey Bee</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|49|1119|<span class="rank-name-dl">おしげ@Dx3一宮</span>|<a href="https://search.dartslive.com/jp/shop/a8ade3665feb96b258d385ea46352d8f">インターネットカフェ NEO</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|50|1117|<span class="rank-name-dl">SHUYA</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|50|1117|<span class="rank-name-dl">☆</span>|<a href="https://search.dartslive.com/jp/shop/dd10fb7147dfdb9a58d385ea46352d8f">Cafe&Bar OZ</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|50|1117|<span class="rank-name-dl">おぐりん</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|50|1117|<span class="rank-name-dl">づめさん</span>|<a href="https://search.dartslive.com/jp/shop/ca9ce6470d11355b0d9b047a20a7ba1e">Darts Bar clan</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|50|1117|<span class="rank-name-dl">大和久明彦</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|55|1116|<span class="rank-name-dl">Shun</span>|<a href="https://search.dartslive.com/jp/shop/a8ade3665feb96b258d385ea46352d8f">インターネットカフェ NEO</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|55|1116|<span class="rank-name-dl">後藤 健太</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|55|1116|<span class="rank-name-dl">手島拓也</span>|<a href="https://search.dartslive.com/jp/shop/511881cb2f1fcde4a3f63593b5358cc4">Darts Bar CLAN 金山店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|55|1116|<span class="rank-name-dl">高橋　隼人</span>|<a href="https://search.dartslive.com/jp/shop/3be6d876f98f13460d9b047a20a7ba1e">Cafe Bar & DARTS RESTART</a>|<a href="/darts/rank/愛知県/豊橋市">愛知県豊橋市</a>|
+|59|1115|<span class="rank-name-dl">UC</span>|<a href="https://search.dartslive.com/jp/shop/f5b941f9448643960d9b047a20a7ba1e">GROWTH MOTOYAMA</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|59|1115|<span class="rank-name-dl">ゆうき@FP</span>|<a href="https://search.dartslive.com/jp/shop/8e1b1ea6345ec5d1f454cb89828a1cfe">FUN PLACES</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|59|1115|<span class="rank-name-dl">井上 大也</span>|<a href="https://search.dartslive.com/jp/shop/8b8ce9d75082151d0d9b047a20a7ba1e">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|59|1115|<span class="rank-name-dl">伊藤 駿</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|63|1113|<span class="rank-name-dl">ﾌｧｳﾙｸｽ ｴﾄﾞﾜｰﾄﾞ</span>|<a href="https://search.dartslive.com/jp/shop/0589ea5a9c17bac025d56fb0e5c39bac">Bar MAKAN</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|64|1112|<span class="rank-name-dl">鈴木大地SoleSoul</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|65|1111|<span class="rank-name-dl">吉田 快人</span>|<a href="https://search.dartslive.com/jp/shop/bdf8ebae9b879b5a0d9b047a20a7ba1e">Rookie's</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|65|1111|<span class="rank-name-dl">토순이</span>|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|67|1110|<span class="rank-name-dl">復活のふかけん</span>|<a href="https://search.dartslive.com/jp/shop/1b90fdf6ef79f9f428032249b44395af">快活CLUB 豊橋向山店</a>|<a href="/darts/rank/愛知県/豊橋市">愛知県豊橋市</a>|
+|68|1109|<span class="rank-name-dl">あしざわかずき</span>|<a href="https://search.dartslive.com/jp/shop/3be6d876f98f13460d9b047a20a7ba1e">Cafe Bar & DARTS RESTART</a>|<a href="/darts/rank/愛知県/豊橋市">愛知県豊橋市</a>|
+|69|1108|<span class="rank-name-dl">丸田和樹</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|69|1108|<span class="rank-name-dl">千原 大@RE★T</span>|<a href="https://search.dartslive.com/jp/shop/3be6d876f98f13460d9b047a20a7ba1e">Cafe Bar & DARTS RESTART</a>|<a href="/darts/rank/愛知県/豊橋市">愛知県豊橋市</a>|
+|69|1108|<span class="rank-name-dl">望月 芳和</span>|<a href="https://search.dartslive.com/jp/shop/a20d0bad4fa35e07790ab824ce8730e5">快活CLUB 名古屋競馬場駅前店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|72|1107|<span class="rank-name-dl">中村大善</span>|<a href="https://search.dartslive.com/jp/shop/baa0e63106aaa1dbb21333aee1bd51e4">快活CLUB 四軒家店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|73|1106|<span class="rank-name-dl">松浦 広貴</span>|<a href="https://search.dartslive.com/jp/shop/511881cb2f1fcde4a3f63593b5358cc4">Darts Bar CLAN 金山店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|74|1105|<span class="rank-name-dl">やっち</span>|<a href="https://search.dartslive.com/jp/shop/dc4215cffc8266c30d9b047a20a7ba1e">Garden of Eden</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|75|1103|<span class="rank-name-dl">おかど</span>|<a href="https://search.dartslive.com/jp/shop/d21fdbb03227f7850d9b047a20a7ba1e">和やかふぇ こころひとつ</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|75|1103|<span class="rank-name-dl">後藤 健太</span>|<a href="https://search.dartslive.com/jp/shop/1667df12bd56d5b628032249b44395af">REGALO 名古屋駅前店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|75|1103|<span class="rank-name-dl">悪【ﾄﾞｴﾛ】とみぃ</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|78|1102|<span class="rank-name-dl">馬場 善久</span>|<a href="https://search.dartslive.com/jp/shop/3be6d876f98f13460d9b047a20a7ba1e">Cafe Bar & DARTS RESTART</a>|<a href="/darts/rank/愛知県/豊橋市">愛知県豊橋市</a>|
+|79|1101|<span class="rank-name-dl">TATSU</span>|<a href="https://search.dartslive.com/jp/shop/5c15a3b86df5a0ad0d9b047a20a7ba1e">ラウンドワン半田店</a>|<a href="/darts/rank/愛知県/半田市">愛知県半田市</a>|
+|79|1101|<span class="rank-name-dl">やっち</span>|<a href="https://search.dartslive.com/jp/shop/a20d0bad4fa35e07790ab824ce8730e5">快活CLUB 名古屋競馬場駅前店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|79|1101|<span class="rank-name-dl">토순이</span>|<a href="https://search.dartslive.com/jp/shop/a8ade3665feb96b258d385ea46352d8f">インターネットカフェ NEO</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|82|1100|<span class="rank-name-dl">豊田　有志</span>|<a href="https://search.dartslive.com/jp/shop/f4c9894c3a957a43b21333aee1bd51e4">cafe & bar gaNeza</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|83|1095|<span class="rank-name-dl">たけちゃんまん</span>|<a href="https://search.dartslive.com/jp/shop/511881cb2f1fcde4a3f63593b5358cc4">Darts Bar CLAN 金山店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|83|1095|<span class="rank-name-dl">ど$ま-くんHOMIE$</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|83|1095|<span class="rank-name-dl">鈴木大地SoleSoul</span>|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|86|1094|<span class="rank-name-dl">◆ぺったん◆</span>|<a href="https://search.dartslive.com/jp/shop/bdf8ebae9b879b5a0d9b047a20a7ba1e">Rookie's</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|87|1092|<span class="rank-name-dl">のりを</span>|<a href="https://search.dartslive.com/jp/shop/511881cb2f1fcde4a3f63593b5358cc4">Darts Bar CLAN 金山店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|88|1091|<span class="rank-name-dl">やまじゅう</span>|<a href="https://search.dartslive.com/jp/shop/a20d0bad4fa35e07790ab824ce8730e5">快活CLUB 名古屋競馬場駅前店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|88|1091|<span class="rank-name-dl">丸田和樹</span>|<a href="https://search.dartslive.com/jp/shop/1b0e1557476a1bdb58d385ea46352d8f">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|90|1089|<span class="rank-name-dl">★ゆう★</span>|<a href="https://search.dartslive.com/jp/shop/baa0e63106aaa1dbb21333aee1bd51e4">快活CLUB 四軒家店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|90|1089|<span class="rank-name-dl">ははははははまー</span>|<a href="https://search.dartslive.com/jp/shop/af1da28b0d8124330d9b047a20a7ba1e">まんがネットRAUM豊田寿町店</a>|<a href="/darts/rank/愛知県/豊田市">愛知県豊田市</a>|
+|90|1089|<span class="rank-name-dl">後藤 健太</span>|<a href="https://search.dartslive.com/jp/shop/511881cb2f1fcde4a3f63593b5358cc4">Darts Bar CLAN 金山店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|90|1089|<span class="rank-name-dl">高橋　隼人</span>|<a href="https://search.dartslive.com/jp/shop/c361e54f854440ea0d9b047a20a7ba1e">Three In The Black</a>|<a href="/darts/rank/愛知県/豊橋市">愛知県豊橋市</a>|
+|94|1086|<span class="rank-name-dl">おしげ@しげお</span>|<a href="https://search.dartslive.com/jp/shop/57fc1f6e36320138f454cb89828a1cfe">ダーツショップDx3 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|94|1086|<span class="rank-name-dl">ほしのかつみ</span>|<a href="https://search.dartslive.com/jp/shop/a20d0bad4fa35e07790ab824ce8730e5">快活CLUB 名古屋競馬場駅前店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|94|1086|<span class="rank-name-dl">カラサキウルハ</span>|<a href="https://search.dartslive.com/jp/shop/2402c01a4714ce6ab21333aee1bd51e4">カラオケ館 錦本店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|97|1085|<span class="rank-name-dl">NO NAME 8192</span>|<a href="https://search.dartslive.com/jp/shop/1b90fdf6ef79f9f428032249b44395af">快活CLUB 豊橋向山店</a>|<a href="/darts/rank/愛知県/豊橋市">愛知県豊橋市</a>|
+|97|1085|<span class="rank-name-dl">‎( ꒪⌓꒪)ﾀﾞｲｽP</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|97|1085|<span class="rank-name-dl">どヴぁきん</span>|<a href="https://search.dartslive.com/jp/shop/511881cb2f1fcde4a3f63593b5358cc4">Darts Bar CLAN 金山店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|100|1084|<span class="rank-name-dl">Co.hey****</span>|<a href="https://search.dartslive.com/jp/shop/0589ea5a9c17bac025d56fb0e5c39bac">Bar MAKAN</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
 
 
-___
-
-_last update : 2024/01/21 13:39:01_
+#### PHOENIXDARTS TOP 100
 
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+{:.table-ranking}
+|#|スコア|名前|店名|所在地|
+|---|---|---|---|---|
+|1|1243|<span class="rank-name-pd">せ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77685?s_seq=77685">快活CLUB 津島駅前店</a>|<a href="/darts/rank/愛知県/津島市">愛知県津島市</a>|
+|2|1215|<span class="rank-name-pd">Shun Ito</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47076?s_seq=47076">ダーツショップ ディースリー 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|3|1205|<span class="rank-name-pd">のりを</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7777?s_seq=7777">cafe&bar gaNeza</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|4|1166|<span class="rank-name-pd">手島 拓也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9987?s_seq=9987">ゆう遊空間 萩野通店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|5|1157|<span class="rank-name-pd">手島 拓也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8831?s_seq=8831">ONE PIECE 黒川店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|6|1143|<span class="rank-name-pd">HAGI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74439?s_seq=74439">メキシガン 名駅笹島店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|7|1138|<span class="rank-name-pd">☆DMC☆山本 貴斗</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47076?s_seq=47076">ダーツショップ ディースリー 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|8|1136|<span class="rank-name-pd">こーた=COSMO=</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7777?s_seq=7777">cafe&bar gaNeza</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|9|1133|<span class="rank-name-pd">田中銀河</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10482?s_seq=10482">ラウンドワン豊橋店</a>|<a href="/darts/rank/愛知県/豊橋市">愛知県豊橋市</a>|
+|10|1132|<span class="rank-name-pd">マレス</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|11|1131|<span class="rank-name-pd">TATOO VIVACE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8017?s_seq=8017">ひろちゃんの台所～Pleasure</a>|<a href="/darts/rank/愛知県/豊田市">愛知県豊田市</a>|
+|12|1122|<span class="rank-name-pd">芦沢 一輝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9259?s_seq=9259">Three In The Black</a>|<a href="/darts/rank/愛知県/豊橋市">愛知県豊橋市</a>|
+|13|1121|<span class="rank-name-pd">よっしー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|14|1115|<span class="rank-name-pd">Shun Ito</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8419?s_seq=8419">インターネットカフェ NEO</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|15|1110|<span class="rank-name-pd">DOS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|15|1110|<span class="rank-name-pd">せりちゅん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7000?s_seq=7000">快活CLUB 豊橋新栄店</a>|<a href="/darts/rank/愛知県/豊橋市">愛知県豊橋市</a>|
+|17|1109|<span class="rank-name-pd">タクマ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7577?s_seq=7577">和やかふぇ　こころひとつ</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|18|1106|<span class="rank-name-pd">さとしっくす</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8288?s_seq=8288">まんがネットRAUM豊田寿町店</a>|<a href="/darts/rank/愛知県/豊田市">愛知県豊田市</a>|
+|18|1106|<span class="rank-name-pd">やっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74702?s_seq=74702">Garden Of Eden</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|20|1101|<span class="rank-name-pd">ショうキ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89851?s_seq=89851">FUN PLACES</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|21|1100|<span class="rank-name-pd">たかお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_57246?s_seq=57246">快活CLUB 名古屋楠インター店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|22|1098|<span class="rank-name-pd">ゆうき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89851?s_seq=89851">FUN PLACES</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|23|1094|<span class="rank-name-pd">もりけん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42713?s_seq=42713">快活CLUB 名古屋競馬場前</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|24|1092|<span class="rank-name-pd">Dx3一宮@しげしげ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47076?s_seq=47076">ダーツショップ ディースリー 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|25|1089|<span class="rank-name-pd">DOS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7777?s_seq=7777">cafe&bar gaNeza</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|26|1082|<span class="rank-name-pd">やまじゅう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|27|1080|<span class="rank-name-pd">かずたん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10644?s_seq=10644">ラウンドワン鳴海店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|28|1079|<span class="rank-name-pd">おかど</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|29|1078|<span class="rank-name-pd">み つ き</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8831?s_seq=8831">ONE PIECE 黒川店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|29|1078|<span class="rank-name-pd">やまじゅう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42713?s_seq=42713">快活CLUB 名古屋競馬場前</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|29|1078|<span class="rank-name-pd">生田 佳嗣</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7964?s_seq=7964">ラウンドワン千種店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|32|1076|<span class="rank-name-pd">千葉 諒介</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47076?s_seq=47076">ダーツショップ ディースリー 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|33|1074|<span class="rank-name-pd">生田 佳嗣</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10204?s_seq=10204">亜熱帯 金山駅店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|34|1073|<span class="rank-name-pd">Shun Ito</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|35|1072|<span class="rank-name-pd">ひろきんにく☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8831?s_seq=8831">ONE PIECE 黒川店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|36|1071|<span class="rank-name-pd">丸田　和樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55556?s_seq=55556">亜熱帯 名東高針店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|37|1067|<span class="rank-name-pd">もりけん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7577?s_seq=7577">和やかふぇ　こころひとつ</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|38|1066|<span class="rank-name-pd">アツアツハメ太郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80302?s_seq=80302">アミューズメントパーク　オクトパス</a>|<a href="/darts/rank/愛知県/知多郡">愛知県知多郡</a>|
+|39|1065|<span class="rank-name-pd">つん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9381?s_seq=9381">D-DARTS名古屋</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|40|1063|<span class="rank-name-pd">キュアしげしげ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47076?s_seq=47076">ダーツショップ ディースリー 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|40|1063|<span class="rank-name-pd">芦沢 一輝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7000?s_seq=7000">快活CLUB 豊橋新栄店</a>|<a href="/darts/rank/愛知県/豊橋市">愛知県豊橋市</a>|
+|42|1062|<span class="rank-name-pd">YUKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7861?s_seq=7861">亜熱帯 小牧IC店</a>|<a href="/darts/rank/愛知県/小牧市">愛知県小牧市</a>|
+|42|1062|<span class="rank-name-pd">よっしー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7777?s_seq=7777">cafe&bar gaNeza</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|44|1061|<span class="rank-name-pd">おかど</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7577?s_seq=7577">和やかふぇ　こころひとつ</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|44|1061|<span class="rank-name-pd">まさ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8313?s_seq=8313">アプレシオ豊川店</a>|<a href="/darts/rank/愛知県/豊川市">愛知県豊川市</a>|
+|46|1060|<span class="rank-name-pd">MASA ~TRiNiDAD~</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|46|1060|<span class="rank-name-pd">おすましビッグマウスＣ-Ｄarts</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9565?s_seq=9565">C-DARTS</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|46|1060|<span class="rank-name-pd">手島 拓也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_57246?s_seq=57246">快活CLUB 名古屋楠インター店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|49|1058|<span class="rank-name-pd">UNKWON</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42713?s_seq=42713">快活CLUB 名古屋競馬場前</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|50|1057|<span class="rank-name-pd">鈴木大地@sole soul</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|51|1056|<span class="rank-name-pd">sAku〆蛍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_57246?s_seq=57246">快活CLUB 名古屋楠インター店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|51|1056|<span class="rank-name-pd">丸田　和樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|53|1055|<span class="rank-name-pd">花谷 悠也(鳥人)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8017?s_seq=8017">ひろちゃんの台所～Pleasure</a>|<a href="/darts/rank/愛知県/豊田市">愛知県豊田市</a>|
+|54|1054|<span class="rank-name-pd">おかやん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8831?s_seq=8831">ONE PIECE 黒川店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|54|1054|<span class="rank-name-pd">斎藤 大樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83584?s_seq=83584">JOYJOY 犬山駅南店</a>|<a href="/darts/rank/愛知県/犬山市">愛知県犬山市</a>|
+|56|1053|<span class="rank-name-pd">みたこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9987?s_seq=9987">ゆう遊空間 萩野通店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|57|1052|<span class="rank-name-pd">のの</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10253?s_seq=10253">IT-CAT 安城店</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
+|58|1050|<span class="rank-name-pd">やまじゅう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7879?s_seq=7879">快活CLUB 153号天白植田店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|59|1048|<span class="rank-name-pd">283</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|59|1048|<span class="rank-name-pd">さとしっくす</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|59|1048|<span class="rank-name-pd">阿修羅 【小笠原浩明】Pleasure</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8017?s_seq=8017">ひろちゃんの台所～Pleasure</a>|<a href="/darts/rank/愛知県/豊田市">愛知県豊田市</a>|
+|62|1047|<span class="rank-name-pd">つん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89851?s_seq=89851">FUN PLACES</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|63|1046|<span class="rank-name-pd">にゃんぽう。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9936?s_seq=9936">快活CLUB 当知店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|63|1046|<span class="rank-name-pd">キュアしげしげ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89017?s_seq=89017">cafe&bar grazie</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|65|1045|<span class="rank-name-pd">0075_0141</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77685?s_seq=77685">快活CLUB 津島駅前店</a>|<a href="/darts/rank/愛知県/津島市">愛知県津島市</a>|
+|66|1044|<span class="rank-name-pd">小林 拓巳</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47076?s_seq=47076">ダーツショップ ディースリー 一宮</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|67|1041|<span class="rank-name-pd">手島 拓也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8066?s_seq=8066">JOYJOY 山王店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|68|1040|<span class="rank-name-pd">ごとんヌ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89017?s_seq=89017">cafe&bar grazie</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|68|1040|<span class="rank-name-pd">むらけん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7826?s_seq=7826">ゆう遊空間 三河安城店</a>|<a href="/darts/rank/愛知県/安城市">愛知県安城市</a>|
+|70|1039|<span class="rank-name-pd">みやっち(´･_･`)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89017?s_seq=89017">cafe&bar grazie</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|71|1038|<span class="rank-name-pd">ただのダーツおじさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76295?s_seq=76295">JOYJOY 刈谷逢妻店</a>|<a href="/darts/rank/愛知県/刈谷市">愛知県刈谷市</a>|
+|72|1037|<span class="rank-name-pd">☆たけちゃんまん☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77310?s_seq=77310">Wiz</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|73|1030|<span class="rank-name-pd">✴︎EIJI✴︎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7879?s_seq=7879">快活CLUB 153号天白植田店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|74|1028|<span class="rank-name-pd">つん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70078?s_seq=70078">JOYJOY 田原神戸店</a>|<a href="/darts/rank/愛知県/田原市">愛知県田原市</a>|
+|75|1024|<span class="rank-name-pd">鈴木 輝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9936?s_seq=9936">快活CLUB 当知店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|76|1023|<span class="rank-name-pd">ま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7881?s_seq=7881">REVEL 藤ヶ丘店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|77|1021|<span class="rank-name-pd">【羅】練習中</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_57246?s_seq=57246">快活CLUB 名古屋楠インター店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|77|1021|<span class="rank-name-pd">ごとんヌ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89851?s_seq=89851">FUN PLACES</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|77|1021|<span class="rank-name-pd">タクマ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7777?s_seq=7777">cafe&bar gaNeza</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|80|1018|<span class="rank-name-pd">DO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81792?s_seq=81792">SAKURAn</a>|<a href="/darts/rank/愛知県/瀬戸市">愛知県瀬戸市</a>|
+|81|1017|<span class="rank-name-pd">山本 比沙吉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8023?s_seq=8023">Cafe Bar Fairy</a>|<a href="/darts/rank/愛知県/豊田市">愛知県豊田市</a>|
+|82|1016|<span class="rank-name-pd">ゆうき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89578?s_seq=89578">SANBON</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|83|1014|<span class="rank-name-pd">都筑 稚菜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|84|1013|<span class="rank-name-pd">しょう。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88648?s_seq=88648">Darts Bar CLAN 金山店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|85|1012|<span class="rank-name-pd">NAGATATSU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10792?s_seq=10792">快活CLUB 知立店</a>|<a href="/darts/rank/愛知県/知立市">愛知県知立市</a>|
+|86|1011|<span class="rank-name-pd">◇花山◇</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79902?s_seq=79902">S.Factory</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|87|1008|<span class="rank-name-pd">KD</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10327?s_seq=10327">快活CLUB 四軒家店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|87|1008|<span class="rank-name-pd">タクマ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8831?s_seq=8831">ONE PIECE 黒川店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|89|1007|<span class="rank-name-pd">SHUN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89578?s_seq=89578">SANBON</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|89|1007|<span class="rank-name-pd">丸田　和樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|91|1005|<span class="rank-name-pd">うささみさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44369?s_seq=44369">JOYJOY 南陽通店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|92|1002|<span class="rank-name-pd">Metalist</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71819?s_seq=71819">JOYJOY 平安通店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|93|1001|<span class="rank-name-pd">ＪＵＮ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9936?s_seq=9936">快活CLUB 当知店</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|94|1000|<span class="rank-name-pd">D@対人弱弱メン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10482?s_seq=10482">ラウンドワン豊橋店</a>|<a href="/darts/rank/愛知県/豊橋市">愛知県豊橋市</a>|
+|94|1000|<span class="rank-name-pd">たかぎ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9825?s_seq=9825">ラ・マーシェ</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|94|1000|<span class="rank-name-pd">井野　翔喜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89851?s_seq=89851">FUN PLACES</a>|<a href="/darts/rank/愛知県/一宮市">愛知県一宮市</a>|
+|97|999|<span class="rank-name-pd">のの</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81593?s_seq=81593">BILLIARD & DARTS OCTOPUS</a>|<a href="/darts/rank/愛知県/西尾市">愛知県西尾市</a>|
+|97|999|<span class="rank-name-pd">和田 拓磨</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7577?s_seq=7577">和やかふぇ　こころひとつ</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|99|997|<span class="rank-name-pd">UC</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7777?s_seq=7777">cafe&bar gaNeza</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|99|997|<span class="rank-name-pd">セパ川良々</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7000?s_seq=7000">快活CLUB 豊橋新栄店</a>|<a href="/darts/rank/愛知県/豊橋市">愛知県豊橋市</a>|
+
+
+<div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
+    last update : <span style="font-weight: italic" id="foot_last_modified"></span><br />
+    DARTSLIVE は 株式会社ダーツライブ社 の登録商標です<br />
+    PHOENIXDARTS は フェニックスダーツジャパン株式会社 の登録商標です<br />
+</div>
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/js/jquery.tablesorter.min.js" integrity="sha512-qzgd5cYSZcosqpzpn7zF2ZId8f/8CHmFKZ8j7mU4OUXTNRd5g+ZHBPsgKEwoqxCtdQvExE5LprwwPAgoicguNg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/css/theme.default.min.css" integrity="sha512-wghhOJkjQX0Lh3NSWvNKeZ0ZpNn+SPVXX1Qyc9OCaogADktxrBiBdKGDoqVUOyhStvMBmJQ8ZdMHiR3wuEq8+w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <script>
 $(function() {
     $(".table-ranking").tablesorter({sortList:[[0, 0]]});
+    $("#foot_last_modified").text(formatDate(new Date(document.lastModified), 'yyyy-MM-dd HH:mm:ss'));
 });
 </script>
 

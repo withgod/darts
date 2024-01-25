@@ -1,71 +1,159 @@
 ---
-title: DARTSLIVE AREA RANKING | 三重県 | 伊勢市
+title: COUNTUP AREA RANKING | 三重県 | 伊勢市
 ---
-## DARTSLIVE AREA RANKING | 三重県 | 伊勢市
+## COUNTUP AREA RANKING | 三重県 | 伊勢市
 
 [TOP](/darts/rank/) > [三重県](/darts/rank/三重県/) > 伊勢市
 
 ___
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="DARTSLIVE AREA RANKING | 三重県伊勢市" class="twitter-share-button" data-via="DARTSLIVE" data-hashtags="DARTSLIVE" data-related="DARTSLIVE" data-show-count="false">Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="COUNTUP AREA RANKING | 三重県伊勢市" class="twitter-share-button" data-hashtags="DARTSLIVE,PHOENIXDARTS,darts,ダーツ" data-show-count="false">Tweet</a>
 
-### 地域別TOP 100
+* [ランキング](#カウントアップランキング)
+    * [TOP 100](#top-100)
+    * [DARTSLIVE TOP 100](#dartslive-top-100)
+    * [PHOENIXDARTS TOP 100](#phoenixdarts-top-100)
+
+### カウントアップランキング
+
+#### TOP 100
+
+
 
 {:.table-ranking}
-|ランク|スコア|名前|店名|所在地|
+|#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1121|ToPpO|<a href="https://search.dartslive.com/jp/shop/c07fbef80e76bdc1a3f63593b5358cc4">自遊空間 伊勢小俣店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
-|2|1019|醍醐老|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
-|3|1010|醍醐老|<a href="https://search.dartslive.com/jp/shop/c07fbef80e76bdc1a3f63593b5358cc4">自遊空間 伊勢小俣店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
-|4|951|天むす|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
-|5|916|大久保　貴行|<a href="https://search.dartslive.com/jp/shop/c07fbef80e76bdc1a3f63593b5358cc4">自遊空間 伊勢小俣店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
-|6|914|NockN_*ω-)/|<a href="https://search.dartslive.com/jp/shop/c07fbef80e76bdc1a3f63593b5358cc4">自遊空間 伊勢小俣店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
-|7|912|hiro|<a href="https://search.dartslive.com/jp/shop/c07fbef80e76bdc1a3f63593b5358cc4">自遊空間 伊勢小俣店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
-|8|872|㌧しんの㌧|<a href="https://search.dartslive.com/jp/shop/c07fbef80e76bdc1a3f63593b5358cc4">自遊空間 伊勢小俣店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
-|9|870|TAKA|<a href="https://search.dartslive.com/jp/shop/c07fbef80e76bdc1a3f63593b5358cc4">自遊空間 伊勢小俣店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
-|10|868|NO NAME 1933|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
-|10|868|帝SEN|<a href="https://search.dartslive.com/jp/shop/c07fbef80e76bdc1a3f63593b5358cc4">自遊空間 伊勢小俣店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
-|12|867|ISHIKAWA|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
-|13|861|お松⭐︎煌矢華|<a href="https://search.dartslive.com/jp/shop/c07fbef80e76bdc1a3f63593b5358cc4">自遊空間 伊勢小俣店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
-|14|849|ﾏﾁｶﾈｼｭﾝﾎｲｻﾞ|<a href="https://search.dartslive.com/jp/shop/c07fbef80e76bdc1a3f63593b5358cc4">自遊空間 伊勢小俣店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
-|15|844|(のヮの)もりぞー|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
-|16|820|ヤムチャ|<a href="https://search.dartslive.com/jp/shop/c07fbef80e76bdc1a3f63593b5358cc4">自遊空間 伊勢小俣店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
-|17|801|KingKong COMPANY|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
-|18|798|(のヮの)もりぞー|<a href="https://search.dartslive.com/jp/shop/c07fbef80e76bdc1a3f63593b5358cc4">自遊空間 伊勢小俣店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
-|19|789|KIRINn|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
-|20|782|柊。|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
-|21|760|いっこ|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
-|22|755|hiro|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
-|23|753|Links|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
-|24|723|_tetsu_|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
-|25|713|TAKA|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
-|26|686|yosuke|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
-|27|679|裏ｶﾞｴﾙ|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
-|28|654|コロ助|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
-|29|638|ゆめ|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
-|30|637|syota|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
-|31|596|shan|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
-|32|559|いっこ|<a href="https://search.dartslive.com/jp/shop/c07fbef80e76bdc1a3f63593b5358cc4">自遊空間 伊勢小俣店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
-|33|551|まるるん|<a href="https://search.dartslive.com/jp/shop/c07fbef80e76bdc1a3f63593b5358cc4">自遊空間 伊勢小俣店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
-|34|524|mayumoo|<a href="https://search.dartslive.com/jp/shop/c07fbef80e76bdc1a3f63593b5358cc4">自遊空間 伊勢小俣店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
-|35|462|mayumoo|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
-|36|428|shan|<a href="https://search.dartslive.com/jp/shop/c07fbef80e76bdc1a3f63593b5358cc4">自遊空間 伊勢小俣店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
-|37|403|おかか|<a href="https://search.dartslive.com/jp/shop/c07fbef80e76bdc1a3f63593b5358cc4">自遊空間 伊勢小俣店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
-|38|379|ちゃそまる|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|1|1440|<span class="rank-name-pd">ＴＯＫＩ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79433?s_seq=79433">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|2|1260|<span class="rank-name-pd">NECO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79433?s_seq=79433">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|3|1121|<span class="rank-name-dl">ToPpO</span>|<a href="https://search.dartslive.com/jp/shop/c07fbef80e76bdc1a3f63593b5358cc4">自遊空間 伊勢小俣店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|4|1019|<span class="rank-name-dl">醍醐老</span>|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|5|1010|<span class="rank-name-dl">醍醐老</span>|<a href="https://search.dartslive.com/jp/shop/c07fbef80e76bdc1a3f63593b5358cc4">自遊空間 伊勢小俣店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|6|951|<span class="rank-name-dl">天むす</span>|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|7|945|<span class="rank-name-dl">hiro</span>|<a href="https://search.dartslive.com/jp/shop/c07fbef80e76bdc1a3f63593b5358cc4">自遊空間 伊勢小俣店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|8|916|<span class="rank-name-dl">大久保　貴行</span>|<a href="https://search.dartslive.com/jp/shop/c07fbef80e76bdc1a3f63593b5358cc4">自遊空間 伊勢小俣店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|9|914|<span class="rank-name-dl">NockN_*ω-)/</span>|<a href="https://search.dartslive.com/jp/shop/c07fbef80e76bdc1a3f63593b5358cc4">自遊空間 伊勢小俣店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|10|872|<span class="rank-name-dl">㌧しんの㌧</span>|<a href="https://search.dartslive.com/jp/shop/c07fbef80e76bdc1a3f63593b5358cc4">自遊空間 伊勢小俣店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|11|870|<span class="rank-name-dl">TAKA</span>|<a href="https://search.dartslive.com/jp/shop/c07fbef80e76bdc1a3f63593b5358cc4">自遊空間 伊勢小俣店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|12|868|<span class="rank-name-dl">NO NAME 1933</span>|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|12|868|<span class="rank-name-dl">帝SEN</span>|<a href="https://search.dartslive.com/jp/shop/c07fbef80e76bdc1a3f63593b5358cc4">自遊空間 伊勢小俣店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|14|867|<span class="rank-name-dl">ISHIKAWA</span>|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|15|861|<span class="rank-name-dl">お松⭐︎煌矢華</span>|<a href="https://search.dartslive.com/jp/shop/c07fbef80e76bdc1a3f63593b5358cc4">自遊空間 伊勢小俣店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|16|849|<span class="rank-name-dl">ﾏﾁｶﾈｼｭﾝﾎｲｻﾞ</span>|<a href="https://search.dartslive.com/jp/shop/c07fbef80e76bdc1a3f63593b5358cc4">自遊空間 伊勢小俣店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|17|844|<span class="rank-name-dl">(のヮの)もりぞー</span>|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|18|820|<span class="rank-name-dl">ヤムチャ</span>|<a href="https://search.dartslive.com/jp/shop/c07fbef80e76bdc1a3f63593b5358cc4">自遊空間 伊勢小俣店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|19|814|<span class="rank-name-dl">KIRINn</span>|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|20|801|<span class="rank-name-dl">KingKong COMPANY</span>|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|21|798|<span class="rank-name-dl">(のヮの)もりぞー</span>|<a href="https://search.dartslive.com/jp/shop/c07fbef80e76bdc1a3f63593b5358cc4">自遊空間 伊勢小俣店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|22|782|<span class="rank-name-dl">柊。</span>|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|23|780|<span class="rank-name-dl">裏ｶﾞｴﾙ</span>|<a href="https://search.dartslive.com/jp/shop/c07fbef80e76bdc1a3f63593b5358cc4">自遊空間 伊勢小俣店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|24|760|<span class="rank-name-dl">いっこ</span>|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|25|755|<span class="rank-name-dl">hiro</span>|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|26|753|<span class="rank-name-pd">A.F.R.O.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79433?s_seq=79433">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|26|753|<span class="rank-name-dl">Links</span>|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|28|723|<span class="rank-name-dl">_tetsu_</span>|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|29|713|<span class="rank-name-dl">TAKA</span>|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|30|701|<span class="rank-name-pd">CIGARS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79433?s_seq=79433">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|31|686|<span class="rank-name-dl">yosuke</span>|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|32|679|<span class="rank-name-dl">裏ｶﾞｴﾙ</span>|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|33|656|<span class="rank-name-dl">タマちゃん@Ideal</span>|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|34|654|<span class="rank-name-dl">コロ助</span>|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|35|638|<span class="rank-name-dl">ゆめ</span>|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|36|637|<span class="rank-name-dl">syota</span>|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|37|596|<span class="rank-name-dl">shan</span>|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|38|564|<span class="rank-name-dl">mayumoo</span>|<a href="https://search.dartslive.com/jp/shop/c07fbef80e76bdc1a3f63593b5358cc4">自遊空間 伊勢小俣店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|39|559|<span class="rank-name-dl">いっこ</span>|<a href="https://search.dartslive.com/jp/shop/c07fbef80e76bdc1a3f63593b5358cc4">自遊空間 伊勢小俣店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|40|554|<span class="rank-name-pd">Alex</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79433?s_seq=79433">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|41|551|<span class="rank-name-dl">まるるん</span>|<a href="https://search.dartslive.com/jp/shop/c07fbef80e76bdc1a3f63593b5358cc4">自遊空間 伊勢小俣店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|42|544|<span class="rank-name-pd">キリンのタマゴ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79433?s_seq=79433">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|43|462|<span class="rank-name-dl">mayumoo</span>|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|44|457|<span class="rank-name-pd">4954-7304</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79433?s_seq=79433">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|45|428|<span class="rank-name-dl">shan</span>|<a href="https://search.dartslive.com/jp/shop/c07fbef80e76bdc1a3f63593b5358cc4">自遊空間 伊勢小俣店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|46|403|<span class="rank-name-dl">おかか</span>|<a href="https://search.dartslive.com/jp/shop/c07fbef80e76bdc1a3f63593b5358cc4">自遊空間 伊勢小俣店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|47|384|<span class="rank-name-pd">KID</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79433?s_seq=79433">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|48|379|<span class="rank-name-dl">ちゃそまる</span>|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|49|355|<span class="rank-name-pd">ytt</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79433?s_seq=79433">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+
+
+#### DARTSLIVE TOP 100
 
 
 
-___
+{:.table-ranking}
+|#|スコア|名前|店名|所在地|
+|---|---|---|---|---|
+|1|1121|<span class="rank-name-dl">ToPpO</span>|<a href="https://search.dartslive.com/jp/shop/c07fbef80e76bdc1a3f63593b5358cc4">自遊空間 伊勢小俣店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|2|1019|<span class="rank-name-dl">醍醐老</span>|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|3|1010|<span class="rank-name-dl">醍醐老</span>|<a href="https://search.dartslive.com/jp/shop/c07fbef80e76bdc1a3f63593b5358cc4">自遊空間 伊勢小俣店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|4|951|<span class="rank-name-dl">天むす</span>|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|5|945|<span class="rank-name-dl">hiro</span>|<a href="https://search.dartslive.com/jp/shop/c07fbef80e76bdc1a3f63593b5358cc4">自遊空間 伊勢小俣店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|6|916|<span class="rank-name-dl">大久保　貴行</span>|<a href="https://search.dartslive.com/jp/shop/c07fbef80e76bdc1a3f63593b5358cc4">自遊空間 伊勢小俣店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|7|914|<span class="rank-name-dl">NockN_*ω-)/</span>|<a href="https://search.dartslive.com/jp/shop/c07fbef80e76bdc1a3f63593b5358cc4">自遊空間 伊勢小俣店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|8|872|<span class="rank-name-dl">㌧しんの㌧</span>|<a href="https://search.dartslive.com/jp/shop/c07fbef80e76bdc1a3f63593b5358cc4">自遊空間 伊勢小俣店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|9|870|<span class="rank-name-dl">TAKA</span>|<a href="https://search.dartslive.com/jp/shop/c07fbef80e76bdc1a3f63593b5358cc4">自遊空間 伊勢小俣店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|10|868|<span class="rank-name-dl">NO NAME 1933</span>|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|10|868|<span class="rank-name-dl">帝SEN</span>|<a href="https://search.dartslive.com/jp/shop/c07fbef80e76bdc1a3f63593b5358cc4">自遊空間 伊勢小俣店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|12|867|<span class="rank-name-dl">ISHIKAWA</span>|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|13|861|<span class="rank-name-dl">お松⭐︎煌矢華</span>|<a href="https://search.dartslive.com/jp/shop/c07fbef80e76bdc1a3f63593b5358cc4">自遊空間 伊勢小俣店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|14|849|<span class="rank-name-dl">ﾏﾁｶﾈｼｭﾝﾎｲｻﾞ</span>|<a href="https://search.dartslive.com/jp/shop/c07fbef80e76bdc1a3f63593b5358cc4">自遊空間 伊勢小俣店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|15|844|<span class="rank-name-dl">(のヮの)もりぞー</span>|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|16|820|<span class="rank-name-dl">ヤムチャ</span>|<a href="https://search.dartslive.com/jp/shop/c07fbef80e76bdc1a3f63593b5358cc4">自遊空間 伊勢小俣店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|17|814|<span class="rank-name-dl">KIRINn</span>|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|18|801|<span class="rank-name-dl">KingKong COMPANY</span>|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|19|798|<span class="rank-name-dl">(のヮの)もりぞー</span>|<a href="https://search.dartslive.com/jp/shop/c07fbef80e76bdc1a3f63593b5358cc4">自遊空間 伊勢小俣店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|20|782|<span class="rank-name-dl">柊。</span>|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|21|780|<span class="rank-name-dl">裏ｶﾞｴﾙ</span>|<a href="https://search.dartslive.com/jp/shop/c07fbef80e76bdc1a3f63593b5358cc4">自遊空間 伊勢小俣店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|22|760|<span class="rank-name-dl">いっこ</span>|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|23|755|<span class="rank-name-dl">hiro</span>|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|24|753|<span class="rank-name-dl">Links</span>|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|25|723|<span class="rank-name-dl">_tetsu_</span>|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|26|713|<span class="rank-name-dl">TAKA</span>|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|27|686|<span class="rank-name-dl">yosuke</span>|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|28|679|<span class="rank-name-dl">裏ｶﾞｴﾙ</span>|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|29|656|<span class="rank-name-dl">タマちゃん@Ideal</span>|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|30|654|<span class="rank-name-dl">コロ助</span>|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|31|638|<span class="rank-name-dl">ゆめ</span>|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|32|637|<span class="rank-name-dl">syota</span>|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|33|596|<span class="rank-name-dl">shan</span>|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|34|564|<span class="rank-name-dl">mayumoo</span>|<a href="https://search.dartslive.com/jp/shop/c07fbef80e76bdc1a3f63593b5358cc4">自遊空間 伊勢小俣店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|35|559|<span class="rank-name-dl">いっこ</span>|<a href="https://search.dartslive.com/jp/shop/c07fbef80e76bdc1a3f63593b5358cc4">自遊空間 伊勢小俣店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|36|551|<span class="rank-name-dl">まるるん</span>|<a href="https://search.dartslive.com/jp/shop/c07fbef80e76bdc1a3f63593b5358cc4">自遊空間 伊勢小俣店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|37|462|<span class="rank-name-dl">mayumoo</span>|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|38|428|<span class="rank-name-dl">shan</span>|<a href="https://search.dartslive.com/jp/shop/c07fbef80e76bdc1a3f63593b5358cc4">自遊空間 伊勢小俣店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|39|403|<span class="rank-name-dl">おかか</span>|<a href="https://search.dartslive.com/jp/shop/c07fbef80e76bdc1a3f63593b5358cc4">自遊空間 伊勢小俣店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|40|379|<span class="rank-name-dl">ちゃそまる</span>|<a href="https://search.dartslive.com/jp/shop/1fb8e55c51d7681f28032249b44395af">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
 
-_last update : 2024/01/21 13:39:02_
+
+#### PHOENIXDARTS TOP 100
 
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+{:.table-ranking}
+|#|スコア|名前|店名|所在地|
+|---|---|---|---|---|
+|1|1440|<span class="rank-name-pd">ＴＯＫＩ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79433?s_seq=79433">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|2|1260|<span class="rank-name-pd">NECO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79433?s_seq=79433">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|3|753|<span class="rank-name-pd">A.F.R.O.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79433?s_seq=79433">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|4|701|<span class="rank-name-pd">CIGARS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79433?s_seq=79433">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|5|631|<span class="rank-name-pd">天むす</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79433?s_seq=79433">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|6|554|<span class="rank-name-pd">Alex</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79433?s_seq=79433">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|7|544|<span class="rank-name-pd">キリンのタマゴ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79433?s_seq=79433">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|8|457|<span class="rank-name-pd">4954-7304</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79433?s_seq=79433">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|9|384|<span class="rank-name-pd">KID</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79433?s_seq=79433">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+|10|355|<span class="rank-name-pd">ytt</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79433?s_seq=79433">快活CLUB 伊勢店</a>|<a href="/darts/rank/三重県/伊勢市">三重県伊勢市</a>|
+
+
+<div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
+    last update : <span style="font-weight: italic" id="foot_last_modified"></span><br />
+    DARTSLIVE は 株式会社ダーツライブ社 の登録商標です<br />
+    PHOENIXDARTS は フェニックスダーツジャパン株式会社 の登録商標です<br />
+</div>
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/js/jquery.tablesorter.min.js" integrity="sha512-qzgd5cYSZcosqpzpn7zF2ZId8f/8CHmFKZ8j7mU4OUXTNRd5g+ZHBPsgKEwoqxCtdQvExE5LprwwPAgoicguNg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/css/theme.default.min.css" integrity="sha512-wghhOJkjQX0Lh3NSWvNKeZ0ZpNn+SPVXX1Qyc9OCaogADktxrBiBdKGDoqVUOyhStvMBmJQ8ZdMHiR3wuEq8+w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <script>
 $(function() {
     $(".table-ranking").tablesorter({sortList:[[0, 0]]});
+    $("#foot_last_modified").text(formatDate(new Date(document.lastModified), 'yyyy-MM-dd HH:mm:ss'));
 });
 </script>
 

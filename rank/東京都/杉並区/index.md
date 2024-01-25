@@ -1,133 +1,308 @@
 ---
-title: DARTSLIVE AREA RANKING | 東京都 | 杉並区
+title: COUNTUP AREA RANKING | 東京都 | 杉並区
 ---
-## DARTSLIVE AREA RANKING | 東京都 | 杉並区
+## COUNTUP AREA RANKING | 東京都 | 杉並区
 
 [TOP](/darts/rank/) > [東京都](/darts/rank/東京都/) > 杉並区
 
 ___
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="DARTSLIVE AREA RANKING | 東京都杉並区" class="twitter-share-button" data-via="DARTSLIVE" data-hashtags="DARTSLIVE" data-related="DARTSLIVE" data-show-count="false">Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="COUNTUP AREA RANKING | 東京都杉並区" class="twitter-share-button" data-hashtags="DARTSLIVE,PHOENIXDARTS,darts,ダーツ" data-show-count="false">Tweet</a>
 
-### 地域別TOP 100
+* [ランキング](#カウントアップランキング)
+    * [TOP 100](#top-100)
+    * [DARTSLIVE TOP 100](#dartslive-top-100)
+    * [PHOENIXDARTS TOP 100](#phoenixdarts-top-100)
+
+### カウントアップランキング
+
+#### TOP 100
+
+
 
 {:.table-ranking}
-|ランク|スコア|名前|店名|所在地|
+|#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1200|粕谷　晋|<a href="https://search.dartslive.com/jp/shop/80e07d7c9ba908540d9b047a20a7ba1e">Cafe and bar trico</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|2|1169|岳|<a href="https://search.dartslive.com/jp/shop/42406eaf97d3b9310d9b047a20a7ba1e">ポイントサンビリ荻窪西口店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|3|1158|橋本 岳典|<a href="https://search.dartslive.com/jp/shop/42406eaf97d3b9310d9b047a20a7ba1e">ポイントサンビリ荻窪西口店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|4|1123|うっちー#そふと|<a href="https://search.dartslive.com/jp/shop/80e07d7c9ba908540d9b047a20a7ba1e">Cafe and bar trico</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|5|1119|Kissy☆Nga-Til|<a href="https://search.dartslive.com/jp/shop/d405087ac4c6b08d0d9b047a20a7ba1e">Nga-Til</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|6|1114|ヤンバルゆうやん|<a href="https://search.dartslive.com/jp/shop/80e07d7c9ba908540d9b047a20a7ba1e">Cafe and bar trico</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|7|1111|A’s もこ|<a href="https://search.dartslive.com/jp/shop/ac8d89ab21b77ffa0d9b047a20a7ba1e">Darts Bar A's 高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|8|1085|はやて|<a href="https://search.dartslive.com/jp/shop/42406eaf97d3b9310d9b047a20a7ba1e">ポイントサンビリ荻窪西口店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|9|1083|けんばぶぅ|<a href="https://search.dartslive.com/jp/shop/80e07d7c9ba908540d9b047a20a7ba1e">Cafe and bar trico</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|10|1075|はやしO・W・S|<a href="https://search.dartslive.com/jp/shop/a51dc35c420a3b500d9b047a20a7ba1e">DartsBAR Arts 新高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|11|1072|Ryu✬23|<a href="https://search.dartslive.com/jp/shop/beca90edd43c6f010d9b047a20a7ba1e">Irise 荻窪</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|12|1065|りんご|<a href="https://search.dartslive.com/jp/shop/e48c3250ee5ebd370d9b047a20a7ba1e">D.P.S高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|13|1056|太陽☆One80|<a href="https://search.dartslive.com/jp/shop/b79024f7d1acfbd50d9b047a20a7ba1e">Kplus</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|14|1055|りょーた[WDNG]|<a href="https://search.dartslive.com/jp/shop/beca90edd43c6f010d9b047a20a7ba1e">Irise 荻窪</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|15|1052|KAKERU@arare|<a href="https://search.dartslive.com/jp/shop/f38cb0b5ff1783860d9b047a20a7ba1e">FUN久我山店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|16|1049|しょーた|<a href="https://search.dartslive.com/jp/shop/80e07d7c9ba908540d9b047a20a7ba1e">Cafe and bar trico</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|17|1046|仲原　昌福|<a href="https://search.dartslive.com/jp/shop/42406eaf97d3b9310d9b047a20a7ba1e">ポイントサンビリ荻窪西口店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|18|1045|ヒロ@S2-Sunset|<a href="https://search.dartslive.com/jp/shop/a51dc35c420a3b500d9b047a20a7ba1e">DartsBAR Arts 新高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|19|1044|Ｊ-YAMA|<a href="https://search.dartslive.com/jp/shop/80e07d7c9ba908540d9b047a20a7ba1e">Cafe and bar trico</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|20|1042|ＷＩＮＧ|<a href="https://search.dartslive.com/jp/shop/80e07d7c9ba908540d9b047a20a7ba1e">Cafe and bar trico</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|21|1038|Ryusei@ToT|<a href="https://search.dartslive.com/jp/shop/a51dc35c420a3b500d9b047a20a7ba1e">DartsBAR Arts 新高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|22|1037|NUMaZ【川﨑 圭】|<a href="https://search.dartslive.com/jp/shop/42406eaf97d3b9310d9b047a20a7ba1e">ポイントサンビリ荻窪西口店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|23|1035|ファンタ|<a href="https://search.dartslive.com/jp/shop/a51dc35c420a3b500d9b047a20a7ba1e">DartsBAR Arts 新高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|24|1034|田中 聖一郎|<a href="https://search.dartslive.com/jp/shop/80e07d7c9ba908540d9b047a20a7ba1e">Cafe and bar trico</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|25|1031|あつし|<a href="https://search.dartslive.com/jp/shop/42406eaf97d3b9310d9b047a20a7ba1e">ポイントサンビリ荻窪西口店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|26|1027|〓chankame@moA|<a href="https://search.dartslive.com/jp/shop/42406eaf97d3b9310d9b047a20a7ba1e">ポイントサンビリ荻窪西口店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|27|1026|T.K.C|<a href="https://search.dartslive.com/jp/shop/f38cb0b5ff1783860d9b047a20a7ba1e">FUN久我山店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|28|1023|ぽんこつ さば|<a href="https://search.dartslive.com/jp/shop/80e07d7c9ba908540d9b047a20a7ba1e">Cafe and bar trico</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|29|1019|MASA+ﾓｯﾄﾓ/BBQ|<a href="https://search.dartslive.com/jp/shop/beca90edd43c6f010d9b047a20a7ba1e">Irise 荻窪</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|30|1013|尿酸値高め|<a href="https://search.dartslive.com/jp/shop/a51dc35c420a3b500d9b047a20a7ba1e">DartsBAR Arts 新高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|31|1012|土井 大輝|<a href="https://search.dartslive.com/jp/shop/e96d6c1ac349fb315f9f3321c1147265">Darts BAR Arts 阿佐ヶ谷店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|32|1010|Atsushi ISHIDA|<a href="https://search.dartslive.com/jp/shop/42406eaf97d3b9310d9b047a20a7ba1e">ポイントサンビリ荻窪西口店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|33|1008|NUMaZ【川﨑 圭】|<a href="https://search.dartslive.com/jp/shop/f794f91abc7fc09b0d9b047a20a7ba1e">あだびー</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|34|1007|ばぶ兄|<a href="https://search.dartslive.com/jp/shop/beca90edd43c6f010d9b047a20a7ba1e">Irise 荻窪</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|35|1006|KeeeeeN|<a href="https://search.dartslive.com/jp/shop/80e07d7c9ba908540d9b047a20a7ba1e">Cafe and bar trico</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|36|1005|のくら★高円寺|<a href="https://search.dartslive.com/jp/shop/d405087ac4c6b08d0d9b047a20a7ba1e">Nga-Til</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|37|1002|堂上　和那|<a href="https://search.dartslive.com/jp/shop/bb5f3b05883f091cf454cb89828a1cfe">Dining&Darts 荻窪 D-stand</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|38|1001|はやしO・W・S|<a href="https://search.dartslive.com/jp/shop/e96d6c1ac349fb315f9f3321c1147265">Darts BAR Arts 阿佐ヶ谷店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|38|1001|航平FUN&amp;FUN&#x27;S.|<a href="https://search.dartslive.com/jp/shop/ac8d89ab21b77ffa0d9b047a20a7ba1e">Darts Bar A's 高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|40|1000|アキヒデ∑(ﾟДﾟ)|<a href="https://search.dartslive.com/jp/shop/80e07d7c9ba908540d9b047a20a7ba1e">Cafe and bar trico</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|41|993|みやたつ|<a href="https://search.dartslive.com/jp/shop/a51dc35c420a3b500d9b047a20a7ba1e">DartsBAR Arts 新高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|42|992|ｱﾕ@負け犬|<a href="https://search.dartslive.com/jp/shop/ac8d89ab21b77ffa0d9b047a20a7ba1e">Darts Bar A's 高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|43|987|たかっピ～|<a href="https://search.dartslive.com/jp/shop/e96d6c1ac349fb315f9f3321c1147265">Darts BAR Arts 阿佐ヶ谷店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|44|986|ぺろりな(本物)|<a href="https://search.dartslive.com/jp/shop/beca90edd43c6f010d9b047a20a7ba1e">Irise 荻窪</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|44|986|佐賀野史記S-Trad|<a href="https://search.dartslive.com/jp/shop/80e07d7c9ba908540d9b047a20a7ba1e">Cafe and bar trico</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|46|978|siraty|<a href="https://search.dartslive.com/jp/shop/42406eaf97d3b9310d9b047a20a7ba1e">ポイントサンビリ荻窪西口店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|47|977|みやたつ|<a href="https://search.dartslive.com/jp/shop/beca90edd43c6f010d9b047a20a7ba1e">Irise 荻窪</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|48|976|Ryusei@ToT|<a href="https://search.dartslive.com/jp/shop/613f9ac1fcbc57560d9b047a20a7ba1e">Billiard&Darts Risk</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|49|974|酒面宿儺|<a href="https://search.dartslive.com/jp/shop/ec36f7970f56e57d0d9b047a20a7ba1e">JACK 高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|50|973|増田 貴志,20|<a href="https://search.dartslive.com/jp/shop/42406eaf97d3b9310d9b047a20a7ba1e">ポイントサンビリ荻窪西口店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|51|972|おおさかじゅんや|<a href="https://search.dartslive.com/jp/shop/d405087ac4c6b08d0d9b047a20a7ba1e">Nga-Til</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|52|970|BaOoooN|<a href="https://search.dartslive.com/jp/shop/d405087ac4c6b08d0d9b047a20a7ba1e">Nga-Til</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|52|970|みちゅお|<a href="https://search.dartslive.com/jp/shop/beca90edd43c6f010d9b047a20a7ba1e">Irise 荻窪</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|52|970|ゆ|<a href="https://search.dartslive.com/jp/shop/42406eaf97d3b9310d9b047a20a7ba1e">ポイントサンビリ荻窪西口店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|55|968|ゆーねくすと|<a href="https://search.dartslive.com/jp/shop/42406eaf97d3b9310d9b047a20a7ba1e">ポイントサンビリ荻窪西口店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|55|968|ｼｼｬﾓ&amp;Co|<a href="https://search.dartslive.com/jp/shop/aac472febca5d5030d9b047a20a7ba1e">eva高井戸店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|57|967|Ryusei@ToT|<a href="https://search.dartslive.com/jp/shop/ac8d89ab21b77ffa0d9b047a20a7ba1e">Darts Bar A's 高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|58|966|堂上　和那|<a href="https://search.dartslive.com/jp/shop/ac8d89ab21b77ffa0d9b047a20a7ba1e">Darts Bar A's 高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|58|966|荒井　勇人|<a href="https://search.dartslive.com/jp/shop/ac8d89ab21b77ffa0d9b047a20a7ba1e">Darts Bar A's 高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|60|965|堂上　和那|<a href="https://search.dartslive.com/jp/shop/a51dc35c420a3b500d9b047a20a7ba1e">DartsBAR Arts 新高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|61|964|あっきー@JACK|<a href="https://search.dartslive.com/jp/shop/ec36f7970f56e57d0d9b047a20a7ba1e">JACK 高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|61|964|元おきく|<a href="https://search.dartslive.com/jp/shop/e96d6c1ac349fb315f9f3321c1147265">Darts BAR Arts 阿佐ヶ谷店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|63|963|うじうじゆうじ|<a href="https://search.dartslive.com/jp/shop/42406eaf97d3b9310d9b047a20a7ba1e">ポイントサンビリ荻窪西口店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|64|961|NO NAME 3312|<a href="https://search.dartslive.com/jp/shop/42406eaf97d3b9310d9b047a20a7ba1e">ポイントサンビリ荻窪西口店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|65|960|もにょ|<a href="https://search.dartslive.com/jp/shop/e96d6c1ac349fb315f9f3321c1147265">Darts BAR Arts 阿佐ヶ谷店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|66|959|あかみそ|<a href="https://search.dartslive.com/jp/shop/80e07d7c9ba908540d9b047a20a7ba1e">Cafe and bar trico</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|67|958|あらキュア|<a href="https://search.dartslive.com/jp/shop/e96d6c1ac349fb315f9f3321c1147265">Darts BAR Arts 阿佐ヶ谷店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|67|958|さと～|<a href="https://search.dartslive.com/jp/shop/80e07d7c9ba908540d9b047a20a7ba1e">Cafe and bar trico</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|67|958|しゃいにー|<a href="https://search.dartslive.com/jp/shop/80e07d7c9ba908540d9b047a20a7ba1e">Cafe and bar trico</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|70|956|F2|<a href="https://search.dartslive.com/jp/shop/80e07d7c9ba908540d9b047a20a7ba1e">Cafe and bar trico</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|70|956|やま☆chan➳|<a href="https://search.dartslive.com/jp/shop/80e07d7c9ba908540d9b047a20a7ba1e">Cafe and bar trico</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|70|956|田中 健嗣|<a href="https://search.dartslive.com/jp/shop/42406eaf97d3b9310d9b047a20a7ba1e">ポイントサンビリ荻窪西口店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|73|953|禎仙(^_^)ゞ|<a href="https://search.dartslive.com/jp/shop/ec36f7970f56e57d0d9b047a20a7ba1e">JACK 高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|74|952|【頷】中沢 圭吾|<a href="https://search.dartslive.com/jp/shop/42406eaf97d3b9310d9b047a20a7ba1e">ポイントサンビリ荻窪西口店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|74|952|中井十夢@S.C.D.S|<a href="https://search.dartslive.com/jp/shop/aac472febca5d5030d9b047a20a7ba1e">eva高井戸店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|76|950|Toyo|<a href="https://search.dartslive.com/jp/shop/ec36f7970f56e57d0d9b047a20a7ba1e">JACK 高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|76|950|たわら|<a href="https://search.dartslive.com/jp/shop/d405087ac4c6b08d0d9b047a20a7ba1e">Nga-Til</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|78|949|Ryusei@ToT|<a href="https://search.dartslive.com/jp/shop/e96d6c1ac349fb315f9f3321c1147265">Darts BAR Arts 阿佐ヶ谷店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|78|949|げんちゃん@Arts|<a href="https://search.dartslive.com/jp/shop/a51dc35c420a3b500d9b047a20a7ba1e">DartsBAR Arts 新高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|80|948|荻窪Cat&#x27;sEye 圭|<a href="https://search.dartslive.com/jp/shop/bb5f3b05883f091cf454cb89828a1cfe">Dining&Darts 荻窪 D-stand</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|81|945|Daiki/soshibat|<a href="https://search.dartslive.com/jp/shop/e96d6c1ac349fb315f9f3321c1147265">Darts BAR Arts 阿佐ヶ谷店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|81|945|巡田圭吾|<a href="https://search.dartslive.com/jp/shop/a51dc35c420a3b500d9b047a20a7ba1e">DartsBAR Arts 新高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|83|942|たなけん|<a href="https://search.dartslive.com/jp/shop/ac8d89ab21b77ffa0d9b047a20a7ba1e">Darts Bar A's 高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|84|939|見浦 彰彦|<a href="https://search.dartslive.com/jp/shop/ac8d89ab21b77ffa0d9b047a20a7ba1e">Darts Bar A's 高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|85|938|半蔵改|<a href="https://search.dartslive.com/jp/shop/f5b2aa2f2a00ec1728032249b44395af">ミラニスタ</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|86|934|Daiki/soshibat|<a href="https://search.dartslive.com/jp/shop/613f9ac1fcbc57560d9b047a20a7ba1e">Billiard&Darts Risk</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|87|933|にしまっきー|<a href="https://search.dartslive.com/jp/shop/42406eaf97d3b9310d9b047a20a7ba1e">ポイントサンビリ荻窪西口店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|88|932|山形　明人|<a href="https://search.dartslive.com/jp/shop/e96d6c1ac349fb315f9f3321c1147265">Darts BAR Arts 阿佐ヶ谷店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|89|931|ｱﾕ@負け犬|<a href="https://search.dartslive.com/jp/shop/e96d6c1ac349fb315f9f3321c1147265">Darts BAR Arts 阿佐ヶ谷店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|90|929|( *｀ω´) 」➳|<a href="https://search.dartslive.com/jp/shop/bb5f3b05883f091cf454cb89828a1cfe">Dining&Darts 荻窪 D-stand</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|90|929|富川 尚美|<a href="https://search.dartslive.com/jp/shop/f38cb0b5ff1783860d9b047a20a7ba1e">FUN久我山店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|92|928|?ゆうにゃん?|<a href="https://search.dartslive.com/jp/shop/a51dc35c420a3b500d9b047a20a7ba1e">DartsBAR Arts 新高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|92|928|Daiki/soshibat|<a href="https://search.dartslive.com/jp/shop/a51dc35c420a3b500d9b047a20a7ba1e">DartsBAR Arts 新高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|94|927|ばいきんまん|<a href="https://search.dartslive.com/jp/shop/ec36f7970f56e57d0d9b047a20a7ba1e">JACK 高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|95|924|1-8-10-304|<a href="https://search.dartslive.com/jp/shop/d405087ac4c6b08d0d9b047a20a7ba1e">Nga-Til</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|95|924|佐藤　穣|<a href="https://search.dartslive.com/jp/shop/ac8d89ab21b77ffa0d9b047a20a7ba1e">Darts Bar A's 高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|95|924|荻窪Cat&#x27;sEye 圭|<a href="https://search.dartslive.com/jp/shop/e96d6c1ac349fb315f9f3321c1147265">Darts BAR Arts 阿佐ヶ谷店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|98|923|IKE A|<a href="https://search.dartslive.com/jp/shop/ec36f7970f56e57d0d9b047a20a7ba1e">JACK 高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|98|923|☆かど★|<a href="https://search.dartslive.com/jp/shop/ef40056896584cac0d9b047a20a7ba1e">Darts Bar UNDERGROUND</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
-|98|923|ばばちゃん！！|<a href="https://search.dartslive.com/jp/shop/ec36f7970f56e57d0d9b047a20a7ba1e">JACK 高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|1|1200|<span class="rank-name-dl">粕谷　晋</span>|<a href="https://search.dartslive.com/jp/shop/80e07d7c9ba908540d9b047a20a7ba1e">Cafe and bar trico</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|2|1169|<span class="rank-name-dl">岳</span>|<a href="https://search.dartslive.com/jp/shop/42406eaf97d3b9310d9b047a20a7ba1e">ポイントサンビリ荻窪西口店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|3|1158|<span class="rank-name-dl">橋本 岳典</span>|<a href="https://search.dartslive.com/jp/shop/42406eaf97d3b9310d9b047a20a7ba1e">ポイントサンビリ荻窪西口店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|4|1123|<span class="rank-name-dl">うっちー#そふと</span>|<a href="https://search.dartslive.com/jp/shop/80e07d7c9ba908540d9b047a20a7ba1e">Cafe and bar trico</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|5|1119|<span class="rank-name-dl">Kissy☆Nga-Til</span>|<a href="https://search.dartslive.com/jp/shop/d405087ac4c6b08d0d9b047a20a7ba1e">Nga-Til</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|6|1114|<span class="rank-name-dl">ヤンバルゆうやん</span>|<a href="https://search.dartslive.com/jp/shop/80e07d7c9ba908540d9b047a20a7ba1e">Cafe and bar trico</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|7|1111|<span class="rank-name-dl">A’s もこ</span>|<a href="https://search.dartslive.com/jp/shop/ac8d89ab21b77ffa0d9b047a20a7ba1e">Darts Bar A's 高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|8|1100|<span class="rank-name-pd">宮城 達也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52522?s_seq=52522">Irise荻窪</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|9|1085|<span class="rank-name-dl">はやて</span>|<a href="https://search.dartslive.com/jp/shop/42406eaf97d3b9310d9b047a20a7ba1e">ポイントサンビリ荻窪西口店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|10|1083|<span class="rank-name-dl">けんばぶぅ</span>|<a href="https://search.dartslive.com/jp/shop/80e07d7c9ba908540d9b047a20a7ba1e">Cafe and bar trico</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|11|1075|<span class="rank-name-dl">はやしO・W・S</span>|<a href="https://search.dartslive.com/jp/shop/a51dc35c420a3b500d9b047a20a7ba1e">DartsBAR Arts 新高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|12|1072|<span class="rank-name-dl">Ryu✬23</span>|<a href="https://search.dartslive.com/jp/shop/beca90edd43c6f010d9b047a20a7ba1e">Irise 荻窪</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|13|1065|<span class="rank-name-dl">りんご</span>|<a href="https://search.dartslive.com/jp/shop/e48c3250ee5ebd370d9b047a20a7ba1e">D.P.S高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|14|1063|<span class="rank-name-dl">中井十夢☆COSMO</span>|<a href="https://search.dartslive.com/jp/shop/aac472febca5d5030d9b047a20a7ba1e">eva高井戸店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|15|1056|<span class="rank-name-dl">太陽☆One80</span>|<a href="https://search.dartslive.com/jp/shop/b79024f7d1acfbd50d9b047a20a7ba1e">Kplus</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|16|1055|<span class="rank-name-dl">りょーた[WDNG]</span>|<a href="https://search.dartslive.com/jp/shop/beca90edd43c6f010d9b047a20a7ba1e">Irise 荻窪</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|17|1052|<span class="rank-name-dl">KAKERU@arare</span>|<a href="https://search.dartslive.com/jp/shop/f38cb0b5ff1783860d9b047a20a7ba1e">FUN久我山店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|18|1049|<span class="rank-name-dl">しょーた</span>|<a href="https://search.dartslive.com/jp/shop/80e07d7c9ba908540d9b047a20a7ba1e">Cafe and bar trico</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|19|1046|<span class="rank-name-dl">仲原　昌福</span>|<a href="https://search.dartslive.com/jp/shop/42406eaf97d3b9310d9b047a20a7ba1e">ポイントサンビリ荻窪西口店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|20|1045|<span class="rank-name-dl">ヒロ@S2-Sunset</span>|<a href="https://search.dartslive.com/jp/shop/a51dc35c420a3b500d9b047a20a7ba1e">DartsBAR Arts 新高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|21|1044|<span class="rank-name-dl">Ｊ-YAMA</span>|<a href="https://search.dartslive.com/jp/shop/80e07d7c9ba908540d9b047a20a7ba1e">Cafe and bar trico</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|22|1042|<span class="rank-name-dl">ＷＩＮＧ</span>|<a href="https://search.dartslive.com/jp/shop/80e07d7c9ba908540d9b047a20a7ba1e">Cafe and bar trico</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|23|1038|<span class="rank-name-dl">Ryusei@ToT</span>|<a href="https://search.dartslive.com/jp/shop/a51dc35c420a3b500d9b047a20a7ba1e">DartsBAR Arts 新高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|24|1037|<span class="rank-name-dl">NUMaZ【川﨑 圭】</span>|<a href="https://search.dartslive.com/jp/shop/42406eaf97d3b9310d9b047a20a7ba1e">ポイントサンビリ荻窪西口店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|25|1035|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/a51dc35c420a3b500d9b047a20a7ba1e">DartsBAR Arts 新高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|26|1034|<span class="rank-name-dl">田中 聖一郎</span>|<a href="https://search.dartslive.com/jp/shop/80e07d7c9ba908540d9b047a20a7ba1e">Cafe and bar trico</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|27|1031|<span class="rank-name-dl">あつし</span>|<a href="https://search.dartslive.com/jp/shop/42406eaf97d3b9310d9b047a20a7ba1e">ポイントサンビリ荻窪西口店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|28|1027|<span class="rank-name-dl">IKE A</span>|<a href="https://search.dartslive.com/jp/shop/ec36f7970f56e57d0d9b047a20a7ba1e">JACK 高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|28|1027|<span class="rank-name-dl">〓chankame@moA</span>|<a href="https://search.dartslive.com/jp/shop/42406eaf97d3b9310d9b047a20a7ba1e">ポイントサンビリ荻窪西口店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|30|1026|<span class="rank-name-dl">T.K.C</span>|<a href="https://search.dartslive.com/jp/shop/f38cb0b5ff1783860d9b047a20a7ba1e">FUN久我山店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|31|1023|<span class="rank-name-dl">ぽんこつ さば</span>|<a href="https://search.dartslive.com/jp/shop/80e07d7c9ba908540d9b047a20a7ba1e">Cafe and bar trico</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|32|1019|<span class="rank-name-dl">MASA+ﾓｯﾄﾓ/BBQ</span>|<a href="https://search.dartslive.com/jp/shop/beca90edd43c6f010d9b047a20a7ba1e">Irise 荻窪</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|33|1018|<span class="rank-name-dl">はやしO・W・S</span>|<a href="https://search.dartslive.com/jp/shop/ac8d89ab21b77ffa0d9b047a20a7ba1e">Darts Bar A's 高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|34|1014|<span class="rank-name-dl">荒川浩樹bamboo</span>|<a href="https://search.dartslive.com/jp/shop/b79024f7d1acfbd50d9b047a20a7ba1e">Kplus</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|35|1013|<span class="rank-name-dl">尿酸値高め</span>|<a href="https://search.dartslive.com/jp/shop/a51dc35c420a3b500d9b047a20a7ba1e">DartsBAR Arts 新高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|36|1012|<span class="rank-name-dl">土井 大輝</span>|<a href="https://search.dartslive.com/jp/shop/e96d6c1ac349fb315f9f3321c1147265">Darts BAR Arts 阿佐ヶ谷店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|37|1010|<span class="rank-name-dl">Atsushi ISHIDA</span>|<a href="https://search.dartslive.com/jp/shop/42406eaf97d3b9310d9b047a20a7ba1e">ポイントサンビリ荻窪西口店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|38|1008|<span class="rank-name-dl">NUMaZ【川﨑 圭】</span>|<a href="https://search.dartslive.com/jp/shop/f794f91abc7fc09b0d9b047a20a7ba1e">あだびー</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|39|1007|<span class="rank-name-dl">ばぶ兄</span>|<a href="https://search.dartslive.com/jp/shop/beca90edd43c6f010d9b047a20a7ba1e">Irise 荻窪</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|40|1006|<span class="rank-name-dl">KeeeeeN</span>|<a href="https://search.dartslive.com/jp/shop/80e07d7c9ba908540d9b047a20a7ba1e">Cafe and bar trico</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|41|1005|<span class="rank-name-dl">のくら★高円寺</span>|<a href="https://search.dartslive.com/jp/shop/d405087ac4c6b08d0d9b047a20a7ba1e">Nga-Til</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|42|1002|<span class="rank-name-dl">堂上　和那</span>|<a href="https://search.dartslive.com/jp/shop/bb5f3b05883f091cf454cb89828a1cfe">Dining&Darts 荻窪 D-stand</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|43|1001|<span class="rank-name-dl">はやしO・W・S</span>|<a href="https://search.dartslive.com/jp/shop/e96d6c1ac349fb315f9f3321c1147265">Darts BAR Arts 阿佐ヶ谷店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|43|1001|<span class="rank-name-dl">航平FUN&amp;FUN&#x27;S.</span>|<a href="https://search.dartslive.com/jp/shop/ac8d89ab21b77ffa0d9b047a20a7ba1e">Darts Bar A's 高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|45|1000|<span class="rank-name-dl">アキヒデ∑(ﾟДﾟ)</span>|<a href="https://search.dartslive.com/jp/shop/80e07d7c9ba908540d9b047a20a7ba1e">Cafe and bar trico</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|46|993|<span class="rank-name-dl">みやたつ</span>|<a href="https://search.dartslive.com/jp/shop/a51dc35c420a3b500d9b047a20a7ba1e">DartsBAR Arts 新高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|47|992|<span class="rank-name-dl">ｱﾕ@負け犬</span>|<a href="https://search.dartslive.com/jp/shop/ac8d89ab21b77ffa0d9b047a20a7ba1e">Darts Bar A's 高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|48|987|<span class="rank-name-dl">たかっピ～</span>|<a href="https://search.dartslive.com/jp/shop/e96d6c1ac349fb315f9f3321c1147265">Darts BAR Arts 阿佐ヶ谷店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|49|986|<span class="rank-name-dl">ぺろりな(本物)</span>|<a href="https://search.dartslive.com/jp/shop/beca90edd43c6f010d9b047a20a7ba1e">Irise 荻窪</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|49|986|<span class="rank-name-dl">佐賀野史記S-Trad</span>|<a href="https://search.dartslive.com/jp/shop/80e07d7c9ba908540d9b047a20a7ba1e">Cafe and bar trico</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|51|979|<span class="rank-name-dl">げんちゃん@Arts</span>|<a href="https://search.dartslive.com/jp/shop/a51dc35c420a3b500d9b047a20a7ba1e">DartsBAR Arts 新高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|52|978|<span class="rank-name-dl">siraty</span>|<a href="https://search.dartslive.com/jp/shop/42406eaf97d3b9310d9b047a20a7ba1e">ポイントサンビリ荻窪西口店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|52|978|<span class="rank-name-dl">あらキュア</span>|<a href="https://search.dartslive.com/jp/shop/e96d6c1ac349fb315f9f3321c1147265">Darts BAR Arts 阿佐ヶ谷店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|54|977|<span class="rank-name-dl">みやたつ</span>|<a href="https://search.dartslive.com/jp/shop/beca90edd43c6f010d9b047a20a7ba1e">Irise 荻窪</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|55|976|<span class="rank-name-dl">Ryusei@ToT</span>|<a href="https://search.dartslive.com/jp/shop/613f9ac1fcbc57560d9b047a20a7ba1e">Billiard&Darts Risk</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|56|975|<span class="rank-name-dl">【頷】中沢 圭吾</span>|<a href="https://search.dartslive.com/jp/shop/42406eaf97d3b9310d9b047a20a7ba1e">ポイントサンビリ荻窪西口店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|57|974|<span class="rank-name-dl">酒面宿儺</span>|<a href="https://search.dartslive.com/jp/shop/ec36f7970f56e57d0d9b047a20a7ba1e">JACK 高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|58|973|<span class="rank-name-dl">増田 貴志,20</span>|<a href="https://search.dartslive.com/jp/shop/42406eaf97d3b9310d9b047a20a7ba1e">ポイントサンビリ荻窪西口店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|59|972|<span class="rank-name-dl">おおさかじゅんや</span>|<a href="https://search.dartslive.com/jp/shop/d405087ac4c6b08d0d9b047a20a7ba1e">Nga-Til</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|60|970|<span class="rank-name-dl">BaOoooN</span>|<a href="https://search.dartslive.com/jp/shop/d405087ac4c6b08d0d9b047a20a7ba1e">Nga-Til</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|60|970|<span class="rank-name-dl">みちゅお</span>|<a href="https://search.dartslive.com/jp/shop/beca90edd43c6f010d9b047a20a7ba1e">Irise 荻窪</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|60|970|<span class="rank-name-dl">ゆ</span>|<a href="https://search.dartslive.com/jp/shop/42406eaf97d3b9310d9b047a20a7ba1e">ポイントサンビリ荻窪西口店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|63|968|<span class="rank-name-dl">ゆーねくすと</span>|<a href="https://search.dartslive.com/jp/shop/42406eaf97d3b9310d9b047a20a7ba1e">ポイントサンビリ荻窪西口店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|63|968|<span class="rank-name-pd">勝  (´･Д･) 」➳</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83578?s_seq=83578">Dining&Darts荻窪D-STAND</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|63|968|<span class="rank-name-dl">ｼｼｬﾓ&amp;Co</span>|<a href="https://search.dartslive.com/jp/shop/aac472febca5d5030d9b047a20a7ba1e">eva高井戸店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|66|967|<span class="rank-name-dl">Ryusei@ToT</span>|<a href="https://search.dartslive.com/jp/shop/ac8d89ab21b77ffa0d9b047a20a7ba1e">Darts Bar A's 高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|67|966|<span class="rank-name-dl">堂上　和那</span>|<a href="https://search.dartslive.com/jp/shop/ac8d89ab21b77ffa0d9b047a20a7ba1e">Darts Bar A's 高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|67|966|<span class="rank-name-dl">荒井　勇人</span>|<a href="https://search.dartslive.com/jp/shop/ac8d89ab21b77ffa0d9b047a20a7ba1e">Darts Bar A's 高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|69|965|<span class="rank-name-dl">堂上　和那</span>|<a href="https://search.dartslive.com/jp/shop/a51dc35c420a3b500d9b047a20a7ba1e">DartsBAR Arts 新高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|70|964|<span class="rank-name-dl">あっきー@JACK</span>|<a href="https://search.dartslive.com/jp/shop/ec36f7970f56e57d0d9b047a20a7ba1e">JACK 高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|70|964|<span class="rank-name-dl">元おきく</span>|<a href="https://search.dartslive.com/jp/shop/e96d6c1ac349fb315f9f3321c1147265">Darts BAR Arts 阿佐ヶ谷店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|72|963|<span class="rank-name-dl">うじうじゆうじ</span>|<a href="https://search.dartslive.com/jp/shop/42406eaf97d3b9310d9b047a20a7ba1e">ポイントサンビリ荻窪西口店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|73|962|<span class="rank-name-dl">Daiki/soshibat</span>|<a href="https://search.dartslive.com/jp/shop/613f9ac1fcbc57560d9b047a20a7ba1e">Billiard&Darts Risk</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|73|962|<span class="rank-name-dl">ばいきんまん</span>|<a href="https://search.dartslive.com/jp/shop/ec36f7970f56e57d0d9b047a20a7ba1e">JACK 高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|73|962|<span class="rank-name-dl">荒井　勇人</span>|<a href="https://search.dartslive.com/jp/shop/42406eaf97d3b9310d9b047a20a7ba1e">ポイントサンビリ荻窪西口店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|76|961|<span class="rank-name-dl">NO NAME 3312</span>|<a href="https://search.dartslive.com/jp/shop/42406eaf97d3b9310d9b047a20a7ba1e">ポイントサンビリ荻窪西口店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|77|960|<span class="rank-name-dl">もにょ</span>|<a href="https://search.dartslive.com/jp/shop/e96d6c1ac349fb315f9f3321c1147265">Darts BAR Arts 阿佐ヶ谷店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|78|959|<span class="rank-name-dl">あかみそ</span>|<a href="https://search.dartslive.com/jp/shop/80e07d7c9ba908540d9b047a20a7ba1e">Cafe and bar trico</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|79|958|<span class="rank-name-dl">さと～</span>|<a href="https://search.dartslive.com/jp/shop/80e07d7c9ba908540d9b047a20a7ba1e">Cafe and bar trico</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|79|958|<span class="rank-name-dl">しゃいにー</span>|<a href="https://search.dartslive.com/jp/shop/80e07d7c9ba908540d9b047a20a7ba1e">Cafe and bar trico</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|79|958|<span class="rank-name-pd">荻窪D-stand 圭</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83578?s_seq=83578">Dining&Darts荻窪D-STAND</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|82|956|<span class="rank-name-dl">F2</span>|<a href="https://search.dartslive.com/jp/shop/80e07d7c9ba908540d9b047a20a7ba1e">Cafe and bar trico</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|82|956|<span class="rank-name-dl">やま☆chan➳</span>|<a href="https://search.dartslive.com/jp/shop/80e07d7c9ba908540d9b047a20a7ba1e">Cafe and bar trico</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|82|956|<span class="rank-name-dl">田中 健嗣</span>|<a href="https://search.dartslive.com/jp/shop/42406eaf97d3b9310d9b047a20a7ba1e">ポイントサンビリ荻窪西口店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|85|953|<span class="rank-name-dl">禎仙(^_^)ゞ</span>|<a href="https://search.dartslive.com/jp/shop/ec36f7970f56e57d0d9b047a20a7ba1e">JACK 高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|86|952|<span class="rank-name-dl">中井十夢@S.C.D.S</span>|<a href="https://search.dartslive.com/jp/shop/aac472febca5d5030d9b047a20a7ba1e">eva高井戸店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|87|950|<span class="rank-name-dl">Toyo</span>|<a href="https://search.dartslive.com/jp/shop/ec36f7970f56e57d0d9b047a20a7ba1e">JACK 高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|87|950|<span class="rank-name-dl">たわら</span>|<a href="https://search.dartslive.com/jp/shop/d405087ac4c6b08d0d9b047a20a7ba1e">Nga-Til</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|89|949|<span class="rank-name-dl">Ryusei@ToT</span>|<a href="https://search.dartslive.com/jp/shop/e96d6c1ac349fb315f9f3321c1147265">Darts BAR Arts 阿佐ヶ谷店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|90|948|<span class="rank-name-dl">荻窪Cat&#x27;sEye 圭</span>|<a href="https://search.dartslive.com/jp/shop/bb5f3b05883f091cf454cb89828a1cfe">Dining&Darts 荻窪 D-stand</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|91|945|<span class="rank-name-dl">Daiki/soshibat</span>|<a href="https://search.dartslive.com/jp/shop/e96d6c1ac349fb315f9f3321c1147265">Darts BAR Arts 阿佐ヶ谷店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|91|945|<span class="rank-name-dl">巡田圭吾</span>|<a href="https://search.dartslive.com/jp/shop/a51dc35c420a3b500d9b047a20a7ba1e">DartsBAR Arts 新高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|93|942|<span class="rank-name-dl">たなけん</span>|<a href="https://search.dartslive.com/jp/shop/ac8d89ab21b77ffa0d9b047a20a7ba1e">Darts Bar A's 高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|94|939|<span class="rank-name-dl">見浦 彰彦</span>|<a href="https://search.dartslive.com/jp/shop/ac8d89ab21b77ffa0d9b047a20a7ba1e">Darts Bar A's 高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|95|938|<span class="rank-name-dl">半蔵改</span>|<a href="https://search.dartslive.com/jp/shop/f5b2aa2f2a00ec1728032249b44395af">ミラニスタ</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|96|933|<span class="rank-name-dl">にしまっきー</span>|<a href="https://search.dartslive.com/jp/shop/42406eaf97d3b9310d9b047a20a7ba1e">ポイントサンビリ荻窪西口店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|97|932|<span class="rank-name-dl">山形　明人</span>|<a href="https://search.dartslive.com/jp/shop/e96d6c1ac349fb315f9f3321c1147265">Darts BAR Arts 阿佐ヶ谷店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|98|931|<span class="rank-name-dl">ｱﾕ@負け犬</span>|<a href="https://search.dartslive.com/jp/shop/e96d6c1ac349fb315f9f3321c1147265">Darts BAR Arts 阿佐ヶ谷店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|99|929|<span class="rank-name-dl">( *｀ω´) 」➳</span>|<a href="https://search.dartslive.com/jp/shop/bb5f3b05883f091cf454cb89828a1cfe">Dining&Darts 荻窪 D-stand</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|99|929|<span class="rank-name-dl">富川 尚美</span>|<a href="https://search.dartslive.com/jp/shop/f38cb0b5ff1783860d9b047a20a7ba1e">FUN久我山店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+
+
+#### DARTSLIVE TOP 100
 
 
 
-___
+{:.table-ranking}
+|#|スコア|名前|店名|所在地|
+|---|---|---|---|---|
+|1|1200|<span class="rank-name-dl">粕谷　晋</span>|<a href="https://search.dartslive.com/jp/shop/80e07d7c9ba908540d9b047a20a7ba1e">Cafe and bar trico</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|2|1169|<span class="rank-name-dl">岳</span>|<a href="https://search.dartslive.com/jp/shop/42406eaf97d3b9310d9b047a20a7ba1e">ポイントサンビリ荻窪西口店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|3|1158|<span class="rank-name-dl">橋本 岳典</span>|<a href="https://search.dartslive.com/jp/shop/42406eaf97d3b9310d9b047a20a7ba1e">ポイントサンビリ荻窪西口店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|4|1123|<span class="rank-name-dl">うっちー#そふと</span>|<a href="https://search.dartslive.com/jp/shop/80e07d7c9ba908540d9b047a20a7ba1e">Cafe and bar trico</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|5|1119|<span class="rank-name-dl">Kissy☆Nga-Til</span>|<a href="https://search.dartslive.com/jp/shop/d405087ac4c6b08d0d9b047a20a7ba1e">Nga-Til</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|6|1114|<span class="rank-name-dl">ヤンバルゆうやん</span>|<a href="https://search.dartslive.com/jp/shop/80e07d7c9ba908540d9b047a20a7ba1e">Cafe and bar trico</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|7|1111|<span class="rank-name-dl">A’s もこ</span>|<a href="https://search.dartslive.com/jp/shop/ac8d89ab21b77ffa0d9b047a20a7ba1e">Darts Bar A's 高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|8|1085|<span class="rank-name-dl">はやて</span>|<a href="https://search.dartslive.com/jp/shop/42406eaf97d3b9310d9b047a20a7ba1e">ポイントサンビリ荻窪西口店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|9|1083|<span class="rank-name-dl">けんばぶぅ</span>|<a href="https://search.dartslive.com/jp/shop/80e07d7c9ba908540d9b047a20a7ba1e">Cafe and bar trico</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|10|1075|<span class="rank-name-dl">はやしO・W・S</span>|<a href="https://search.dartslive.com/jp/shop/a51dc35c420a3b500d9b047a20a7ba1e">DartsBAR Arts 新高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|11|1072|<span class="rank-name-dl">Ryu✬23</span>|<a href="https://search.dartslive.com/jp/shop/beca90edd43c6f010d9b047a20a7ba1e">Irise 荻窪</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|12|1065|<span class="rank-name-dl">りんご</span>|<a href="https://search.dartslive.com/jp/shop/e48c3250ee5ebd370d9b047a20a7ba1e">D.P.S高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|13|1063|<span class="rank-name-dl">中井十夢☆COSMO</span>|<a href="https://search.dartslive.com/jp/shop/aac472febca5d5030d9b047a20a7ba1e">eva高井戸店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|14|1056|<span class="rank-name-dl">太陽☆One80</span>|<a href="https://search.dartslive.com/jp/shop/b79024f7d1acfbd50d9b047a20a7ba1e">Kplus</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|15|1055|<span class="rank-name-dl">りょーた[WDNG]</span>|<a href="https://search.dartslive.com/jp/shop/beca90edd43c6f010d9b047a20a7ba1e">Irise 荻窪</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|16|1052|<span class="rank-name-dl">KAKERU@arare</span>|<a href="https://search.dartslive.com/jp/shop/f38cb0b5ff1783860d9b047a20a7ba1e">FUN久我山店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|17|1049|<span class="rank-name-dl">しょーた</span>|<a href="https://search.dartslive.com/jp/shop/80e07d7c9ba908540d9b047a20a7ba1e">Cafe and bar trico</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|18|1046|<span class="rank-name-dl">仲原　昌福</span>|<a href="https://search.dartslive.com/jp/shop/42406eaf97d3b9310d9b047a20a7ba1e">ポイントサンビリ荻窪西口店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|19|1045|<span class="rank-name-dl">ヒロ@S2-Sunset</span>|<a href="https://search.dartslive.com/jp/shop/a51dc35c420a3b500d9b047a20a7ba1e">DartsBAR Arts 新高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|20|1044|<span class="rank-name-dl">Ｊ-YAMA</span>|<a href="https://search.dartslive.com/jp/shop/80e07d7c9ba908540d9b047a20a7ba1e">Cafe and bar trico</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|21|1042|<span class="rank-name-dl">ＷＩＮＧ</span>|<a href="https://search.dartslive.com/jp/shop/80e07d7c9ba908540d9b047a20a7ba1e">Cafe and bar trico</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|22|1038|<span class="rank-name-dl">Ryusei@ToT</span>|<a href="https://search.dartslive.com/jp/shop/a51dc35c420a3b500d9b047a20a7ba1e">DartsBAR Arts 新高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|23|1037|<span class="rank-name-dl">NUMaZ【川﨑 圭】</span>|<a href="https://search.dartslive.com/jp/shop/42406eaf97d3b9310d9b047a20a7ba1e">ポイントサンビリ荻窪西口店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|24|1035|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/a51dc35c420a3b500d9b047a20a7ba1e">DartsBAR Arts 新高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|25|1034|<span class="rank-name-dl">田中 聖一郎</span>|<a href="https://search.dartslive.com/jp/shop/80e07d7c9ba908540d9b047a20a7ba1e">Cafe and bar trico</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|26|1031|<span class="rank-name-dl">あつし</span>|<a href="https://search.dartslive.com/jp/shop/42406eaf97d3b9310d9b047a20a7ba1e">ポイントサンビリ荻窪西口店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|27|1027|<span class="rank-name-dl">IKE A</span>|<a href="https://search.dartslive.com/jp/shop/ec36f7970f56e57d0d9b047a20a7ba1e">JACK 高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|27|1027|<span class="rank-name-dl">〓chankame@moA</span>|<a href="https://search.dartslive.com/jp/shop/42406eaf97d3b9310d9b047a20a7ba1e">ポイントサンビリ荻窪西口店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|29|1026|<span class="rank-name-dl">T.K.C</span>|<a href="https://search.dartslive.com/jp/shop/f38cb0b5ff1783860d9b047a20a7ba1e">FUN久我山店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|30|1023|<span class="rank-name-dl">ぽんこつ さば</span>|<a href="https://search.dartslive.com/jp/shop/80e07d7c9ba908540d9b047a20a7ba1e">Cafe and bar trico</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|31|1019|<span class="rank-name-dl">MASA+ﾓｯﾄﾓ/BBQ</span>|<a href="https://search.dartslive.com/jp/shop/beca90edd43c6f010d9b047a20a7ba1e">Irise 荻窪</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|32|1018|<span class="rank-name-dl">はやしO・W・S</span>|<a href="https://search.dartslive.com/jp/shop/ac8d89ab21b77ffa0d9b047a20a7ba1e">Darts Bar A's 高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|33|1014|<span class="rank-name-dl">荒川浩樹bamboo</span>|<a href="https://search.dartslive.com/jp/shop/b79024f7d1acfbd50d9b047a20a7ba1e">Kplus</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|34|1013|<span class="rank-name-dl">尿酸値高め</span>|<a href="https://search.dartslive.com/jp/shop/a51dc35c420a3b500d9b047a20a7ba1e">DartsBAR Arts 新高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|35|1012|<span class="rank-name-dl">土井 大輝</span>|<a href="https://search.dartslive.com/jp/shop/e96d6c1ac349fb315f9f3321c1147265">Darts BAR Arts 阿佐ヶ谷店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|36|1010|<span class="rank-name-dl">Atsushi ISHIDA</span>|<a href="https://search.dartslive.com/jp/shop/42406eaf97d3b9310d9b047a20a7ba1e">ポイントサンビリ荻窪西口店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|37|1008|<span class="rank-name-dl">NUMaZ【川﨑 圭】</span>|<a href="https://search.dartslive.com/jp/shop/f794f91abc7fc09b0d9b047a20a7ba1e">あだびー</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|38|1007|<span class="rank-name-dl">ばぶ兄</span>|<a href="https://search.dartslive.com/jp/shop/beca90edd43c6f010d9b047a20a7ba1e">Irise 荻窪</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|39|1006|<span class="rank-name-dl">KeeeeeN</span>|<a href="https://search.dartslive.com/jp/shop/80e07d7c9ba908540d9b047a20a7ba1e">Cafe and bar trico</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|40|1005|<span class="rank-name-dl">のくら★高円寺</span>|<a href="https://search.dartslive.com/jp/shop/d405087ac4c6b08d0d9b047a20a7ba1e">Nga-Til</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|41|1002|<span class="rank-name-dl">堂上　和那</span>|<a href="https://search.dartslive.com/jp/shop/bb5f3b05883f091cf454cb89828a1cfe">Dining&Darts 荻窪 D-stand</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|42|1001|<span class="rank-name-dl">はやしO・W・S</span>|<a href="https://search.dartslive.com/jp/shop/e96d6c1ac349fb315f9f3321c1147265">Darts BAR Arts 阿佐ヶ谷店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|42|1001|<span class="rank-name-dl">航平FUN&amp;FUN&#x27;S.</span>|<a href="https://search.dartslive.com/jp/shop/ac8d89ab21b77ffa0d9b047a20a7ba1e">Darts Bar A's 高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|44|1000|<span class="rank-name-dl">アキヒデ∑(ﾟДﾟ)</span>|<a href="https://search.dartslive.com/jp/shop/80e07d7c9ba908540d9b047a20a7ba1e">Cafe and bar trico</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|45|993|<span class="rank-name-dl">みやたつ</span>|<a href="https://search.dartslive.com/jp/shop/a51dc35c420a3b500d9b047a20a7ba1e">DartsBAR Arts 新高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|46|992|<span class="rank-name-dl">ｱﾕ@負け犬</span>|<a href="https://search.dartslive.com/jp/shop/ac8d89ab21b77ffa0d9b047a20a7ba1e">Darts Bar A's 高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|47|987|<span class="rank-name-dl">たかっピ～</span>|<a href="https://search.dartslive.com/jp/shop/e96d6c1ac349fb315f9f3321c1147265">Darts BAR Arts 阿佐ヶ谷店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|48|986|<span class="rank-name-dl">ぺろりな(本物)</span>|<a href="https://search.dartslive.com/jp/shop/beca90edd43c6f010d9b047a20a7ba1e">Irise 荻窪</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|48|986|<span class="rank-name-dl">佐賀野史記S-Trad</span>|<a href="https://search.dartslive.com/jp/shop/80e07d7c9ba908540d9b047a20a7ba1e">Cafe and bar trico</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|50|979|<span class="rank-name-dl">げんちゃん@Arts</span>|<a href="https://search.dartslive.com/jp/shop/a51dc35c420a3b500d9b047a20a7ba1e">DartsBAR Arts 新高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|51|978|<span class="rank-name-dl">siraty</span>|<a href="https://search.dartslive.com/jp/shop/42406eaf97d3b9310d9b047a20a7ba1e">ポイントサンビリ荻窪西口店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|51|978|<span class="rank-name-dl">あらキュア</span>|<a href="https://search.dartslive.com/jp/shop/e96d6c1ac349fb315f9f3321c1147265">Darts BAR Arts 阿佐ヶ谷店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|53|977|<span class="rank-name-dl">みやたつ</span>|<a href="https://search.dartslive.com/jp/shop/beca90edd43c6f010d9b047a20a7ba1e">Irise 荻窪</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|54|976|<span class="rank-name-dl">Ryusei@ToT</span>|<a href="https://search.dartslive.com/jp/shop/613f9ac1fcbc57560d9b047a20a7ba1e">Billiard&Darts Risk</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|55|975|<span class="rank-name-dl">【頷】中沢 圭吾</span>|<a href="https://search.dartslive.com/jp/shop/42406eaf97d3b9310d9b047a20a7ba1e">ポイントサンビリ荻窪西口店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|56|974|<span class="rank-name-dl">酒面宿儺</span>|<a href="https://search.dartslive.com/jp/shop/ec36f7970f56e57d0d9b047a20a7ba1e">JACK 高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|57|973|<span class="rank-name-dl">増田 貴志,20</span>|<a href="https://search.dartslive.com/jp/shop/42406eaf97d3b9310d9b047a20a7ba1e">ポイントサンビリ荻窪西口店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|58|972|<span class="rank-name-dl">おおさかじゅんや</span>|<a href="https://search.dartslive.com/jp/shop/d405087ac4c6b08d0d9b047a20a7ba1e">Nga-Til</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|59|970|<span class="rank-name-dl">BaOoooN</span>|<a href="https://search.dartslive.com/jp/shop/d405087ac4c6b08d0d9b047a20a7ba1e">Nga-Til</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|59|970|<span class="rank-name-dl">みちゅお</span>|<a href="https://search.dartslive.com/jp/shop/beca90edd43c6f010d9b047a20a7ba1e">Irise 荻窪</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|59|970|<span class="rank-name-dl">ゆ</span>|<a href="https://search.dartslive.com/jp/shop/42406eaf97d3b9310d9b047a20a7ba1e">ポイントサンビリ荻窪西口店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|62|968|<span class="rank-name-dl">ゆーねくすと</span>|<a href="https://search.dartslive.com/jp/shop/42406eaf97d3b9310d9b047a20a7ba1e">ポイントサンビリ荻窪西口店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|62|968|<span class="rank-name-dl">ｼｼｬﾓ&amp;Co</span>|<a href="https://search.dartslive.com/jp/shop/aac472febca5d5030d9b047a20a7ba1e">eva高井戸店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|64|967|<span class="rank-name-dl">Ryusei@ToT</span>|<a href="https://search.dartslive.com/jp/shop/ac8d89ab21b77ffa0d9b047a20a7ba1e">Darts Bar A's 高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|65|966|<span class="rank-name-dl">堂上　和那</span>|<a href="https://search.dartslive.com/jp/shop/ac8d89ab21b77ffa0d9b047a20a7ba1e">Darts Bar A's 高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|65|966|<span class="rank-name-dl">荒井　勇人</span>|<a href="https://search.dartslive.com/jp/shop/ac8d89ab21b77ffa0d9b047a20a7ba1e">Darts Bar A's 高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|67|965|<span class="rank-name-dl">堂上　和那</span>|<a href="https://search.dartslive.com/jp/shop/a51dc35c420a3b500d9b047a20a7ba1e">DartsBAR Arts 新高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|68|964|<span class="rank-name-dl">あっきー@JACK</span>|<a href="https://search.dartslive.com/jp/shop/ec36f7970f56e57d0d9b047a20a7ba1e">JACK 高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|68|964|<span class="rank-name-dl">元おきく</span>|<a href="https://search.dartslive.com/jp/shop/e96d6c1ac349fb315f9f3321c1147265">Darts BAR Arts 阿佐ヶ谷店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|70|963|<span class="rank-name-dl">うじうじゆうじ</span>|<a href="https://search.dartslive.com/jp/shop/42406eaf97d3b9310d9b047a20a7ba1e">ポイントサンビリ荻窪西口店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|71|962|<span class="rank-name-dl">Daiki/soshibat</span>|<a href="https://search.dartslive.com/jp/shop/613f9ac1fcbc57560d9b047a20a7ba1e">Billiard&Darts Risk</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|71|962|<span class="rank-name-dl">ばいきんまん</span>|<a href="https://search.dartslive.com/jp/shop/ec36f7970f56e57d0d9b047a20a7ba1e">JACK 高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|71|962|<span class="rank-name-dl">荒井　勇人</span>|<a href="https://search.dartslive.com/jp/shop/42406eaf97d3b9310d9b047a20a7ba1e">ポイントサンビリ荻窪西口店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|74|961|<span class="rank-name-dl">NO NAME 3312</span>|<a href="https://search.dartslive.com/jp/shop/42406eaf97d3b9310d9b047a20a7ba1e">ポイントサンビリ荻窪西口店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|75|960|<span class="rank-name-dl">もにょ</span>|<a href="https://search.dartslive.com/jp/shop/e96d6c1ac349fb315f9f3321c1147265">Darts BAR Arts 阿佐ヶ谷店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|76|959|<span class="rank-name-dl">あかみそ</span>|<a href="https://search.dartslive.com/jp/shop/80e07d7c9ba908540d9b047a20a7ba1e">Cafe and bar trico</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|77|958|<span class="rank-name-dl">さと～</span>|<a href="https://search.dartslive.com/jp/shop/80e07d7c9ba908540d9b047a20a7ba1e">Cafe and bar trico</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|77|958|<span class="rank-name-dl">しゃいにー</span>|<a href="https://search.dartslive.com/jp/shop/80e07d7c9ba908540d9b047a20a7ba1e">Cafe and bar trico</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|79|956|<span class="rank-name-dl">F2</span>|<a href="https://search.dartslive.com/jp/shop/80e07d7c9ba908540d9b047a20a7ba1e">Cafe and bar trico</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|79|956|<span class="rank-name-dl">やま☆chan➳</span>|<a href="https://search.dartslive.com/jp/shop/80e07d7c9ba908540d9b047a20a7ba1e">Cafe and bar trico</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|79|956|<span class="rank-name-dl">田中 健嗣</span>|<a href="https://search.dartslive.com/jp/shop/42406eaf97d3b9310d9b047a20a7ba1e">ポイントサンビリ荻窪西口店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|82|953|<span class="rank-name-dl">禎仙(^_^)ゞ</span>|<a href="https://search.dartslive.com/jp/shop/ec36f7970f56e57d0d9b047a20a7ba1e">JACK 高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|83|952|<span class="rank-name-dl">中井十夢@S.C.D.S</span>|<a href="https://search.dartslive.com/jp/shop/aac472febca5d5030d9b047a20a7ba1e">eva高井戸店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|84|950|<span class="rank-name-dl">Toyo</span>|<a href="https://search.dartslive.com/jp/shop/ec36f7970f56e57d0d9b047a20a7ba1e">JACK 高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|84|950|<span class="rank-name-dl">たわら</span>|<a href="https://search.dartslive.com/jp/shop/d405087ac4c6b08d0d9b047a20a7ba1e">Nga-Til</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|86|949|<span class="rank-name-dl">Ryusei@ToT</span>|<a href="https://search.dartslive.com/jp/shop/e96d6c1ac349fb315f9f3321c1147265">Darts BAR Arts 阿佐ヶ谷店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|87|948|<span class="rank-name-dl">荻窪Cat&#x27;sEye 圭</span>|<a href="https://search.dartslive.com/jp/shop/bb5f3b05883f091cf454cb89828a1cfe">Dining&Darts 荻窪 D-stand</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|88|945|<span class="rank-name-dl">Daiki/soshibat</span>|<a href="https://search.dartslive.com/jp/shop/e96d6c1ac349fb315f9f3321c1147265">Darts BAR Arts 阿佐ヶ谷店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|88|945|<span class="rank-name-dl">巡田圭吾</span>|<a href="https://search.dartslive.com/jp/shop/a51dc35c420a3b500d9b047a20a7ba1e">DartsBAR Arts 新高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|90|942|<span class="rank-name-dl">たなけん</span>|<a href="https://search.dartslive.com/jp/shop/ac8d89ab21b77ffa0d9b047a20a7ba1e">Darts Bar A's 高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|91|939|<span class="rank-name-dl">見浦 彰彦</span>|<a href="https://search.dartslive.com/jp/shop/ac8d89ab21b77ffa0d9b047a20a7ba1e">Darts Bar A's 高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|92|938|<span class="rank-name-dl">半蔵改</span>|<a href="https://search.dartslive.com/jp/shop/f5b2aa2f2a00ec1728032249b44395af">ミラニスタ</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|93|933|<span class="rank-name-dl">にしまっきー</span>|<a href="https://search.dartslive.com/jp/shop/42406eaf97d3b9310d9b047a20a7ba1e">ポイントサンビリ荻窪西口店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|94|932|<span class="rank-name-dl">山形　明人</span>|<a href="https://search.dartslive.com/jp/shop/e96d6c1ac349fb315f9f3321c1147265">Darts BAR Arts 阿佐ヶ谷店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|95|931|<span class="rank-name-dl">ｱﾕ@負け犬</span>|<a href="https://search.dartslive.com/jp/shop/e96d6c1ac349fb315f9f3321c1147265">Darts BAR Arts 阿佐ヶ谷店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|96|929|<span class="rank-name-dl">( *｀ω´) 」➳</span>|<a href="https://search.dartslive.com/jp/shop/bb5f3b05883f091cf454cb89828a1cfe">Dining&Darts 荻窪 D-stand</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|96|929|<span class="rank-name-dl">富川 尚美</span>|<a href="https://search.dartslive.com/jp/shop/f38cb0b5ff1783860d9b047a20a7ba1e">FUN久我山店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|98|928|<span class="rank-name-dl">?ゆうにゃん?</span>|<a href="https://search.dartslive.com/jp/shop/a51dc35c420a3b500d9b047a20a7ba1e">DartsBAR Arts 新高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|98|928|<span class="rank-name-dl">Daiki/soshibat</span>|<a href="https://search.dartslive.com/jp/shop/a51dc35c420a3b500d9b047a20a7ba1e">DartsBAR Arts 新高円寺店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|100|927|<span class="rank-name-dl">ふたくん(力石)</span>|<a href="https://search.dartslive.com/jp/shop/80e07d7c9ba908540d9b047a20a7ba1e">Cafe and bar trico</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
 
-_last update : 2024/01/21 13:38:58_
+
+#### PHOENIXDARTS TOP 100
 
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+{:.table-ranking}
+|#|スコア|名前|店名|所在地|
+|---|---|---|---|---|
+|1|1100|<span class="rank-name-pd">宮城 達也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52522?s_seq=52522">Irise荻窪</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|2|968|<span class="rank-name-pd">勝  (´･Д･) 」➳</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83578?s_seq=83578">Dining&Darts荻窪D-STAND</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|3|958|<span class="rank-name-pd">荻窪D-stand 圭</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83578?s_seq=83578">Dining&Darts荻窪D-STAND</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|4|862|<span class="rank-name-pd">なかざぁ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52522?s_seq=52522">Irise荻窪</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|5|838|<span class="rank-name-pd">RYU{鍼}ﾉﾑﾗﾀｶﾋﾛ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52522?s_seq=52522">Irise荻窪</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|6|814|<span class="rank-name-pd">まぎー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76994?s_seq=76994">メテオラ</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|7|809|<span class="rank-name-pd">よっぺい。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75387?s_seq=75387">Two Hands 荻窪店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|8|807|<span class="rank-name-pd">しゅぅ～</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52522?s_seq=52522">Irise荻窪</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|9|781|<span class="rank-name-pd">遊太☆彡TwoHands</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75387?s_seq=75387">Two Hands 荻窪店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|10|779|<span class="rank-name-pd">フリーダム卍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70028?s_seq=70028">Kplus</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|11|777|<span class="rank-name-pd">1-8-10-304</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55924?s_seq=55924">Nga-Til</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|12|760|<span class="rank-name-pd">☠TERU☠</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70028?s_seq=70028">Kplus</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|13|742|<span class="rank-name-pd">Mitchy</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52522?s_seq=52522">Irise荻窪</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|14|713|<span class="rank-name-pd">No.9</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76994?s_seq=76994">メテオラ</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|15|711|<span class="rank-name-pd">毛玉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75387?s_seq=75387">Two Hands 荻窪店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|16|707|<span class="rank-name-pd">平間 貴史 -REVOLT-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52522?s_seq=52522">Irise荻窪</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|17|696|<span class="rank-name-pd">Ryu@23</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52522?s_seq=52522">Irise荻窪</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|18|678|<span class="rank-name-pd">TarKer</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52522?s_seq=52522">Irise荻窪</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|19|676|<span class="rank-name-pd">じゅん☆みしま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70028?s_seq=70028">Kplus</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|19|676|<span class="rank-name-pd">アンドュー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52522?s_seq=52522">Irise荻窪</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|21|673|<span class="rank-name-pd">★MastarofMeteora★</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76994?s_seq=76994">メテオラ</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|22|666|<span class="rank-name-pd">★☆makoppe☆☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83578?s_seq=83578">Dining&Darts荻窪D-STAND</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|23|665|<span class="rank-name-pd">城野 裕司</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52522?s_seq=52522">Irise荻窪</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|24|593|<span class="rank-name-pd">NOBORU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83578?s_seq=83578">Dining&Darts荻窪D-STAND</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|25|584|<span class="rank-name-pd">けんすけ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75387?s_seq=75387">Two Hands 荻窪店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|26|582|<span class="rank-name-pd">やまぴー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76994?s_seq=76994">メテオラ</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|27|579|<span class="rank-name-pd">tutty</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76994?s_seq=76994">メテオラ</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|28|574|<span class="rank-name-pd"> Full Charged Kimi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75387?s_seq=75387">Two Hands 荻窪店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|29|553|<span class="rank-name-pd">やっさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83578?s_seq=83578">Dining&Darts荻窪D-STAND</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|29|553|<span class="rank-name-pd">斎藤 慎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52522?s_seq=52522">Irise荻窪</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|31|543|<span class="rank-name-pd">ろばーと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52522?s_seq=52522">Irise荻窪</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|32|535|<span class="rank-name-pd">かずま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75387?s_seq=75387">Two Hands 荻窪店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|33|525|<span class="rank-name-pd">エダヒロ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70028?s_seq=70028">Kplus</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|34|511|<span class="rank-name-pd">バンですトモ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52522?s_seq=52522">Irise荻窪</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|35|494|<span class="rank-name-pd">Yoshiaki Ohno</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75387?s_seq=75387">Two Hands 荻窪店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|36|493|<span class="rank-name-pd">0198_3825</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52522?s_seq=52522">Irise荻窪</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|37|489|<span class="rank-name-pd">さかさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52522?s_seq=52522">Irise荻窪</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|38|467|<span class="rank-name-pd">DEF</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52522?s_seq=52522">Irise荻窪</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|39|465|<span class="rank-name-pd">yuki@ホフ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75387?s_seq=75387">Two Hands 荻窪店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|40|458|<span class="rank-name-pd">あっこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83578?s_seq=83578">Dining&Darts荻窪D-STAND</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|41|449|<span class="rank-name-pd">0038_2853</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55924?s_seq=55924">Nga-Til</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|42|438|<span class="rank-name-pd">りょん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70028?s_seq=70028">Kplus</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|43|437|<span class="rank-name-pd">FA0331</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76994?s_seq=76994">メテオラ</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|44|430|<span class="rank-name-pd">バンですトモ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75387?s_seq=75387">Two Hands 荻窪店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|45|382|<span class="rank-name-pd">こず恵☆Nga-Til</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55924?s_seq=55924">Nga-Til</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|46|359|<span class="rank-name-pd">ballon06</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75387?s_seq=75387">Two Hands 荻窪店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|47|338|<span class="rank-name-pd">taichi@c76</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75387?s_seq=75387">Two Hands 荻窪店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+|48|327|<span class="rank-name-pd">SAKINO!!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75387?s_seq=75387">Two Hands 荻窪店</a>|<a href="/darts/rank/東京都/杉並区">東京都杉並区</a>|
+
+
+<div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
+    last update : <span style="font-weight: italic" id="foot_last_modified"></span><br />
+    DARTSLIVE は 株式会社ダーツライブ社 の登録商標です<br />
+    PHOENIXDARTS は フェニックスダーツジャパン株式会社 の登録商標です<br />
+</div>
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/js/jquery.tablesorter.min.js" integrity="sha512-qzgd5cYSZcosqpzpn7zF2ZId8f/8CHmFKZ8j7mU4OUXTNRd5g+ZHBPsgKEwoqxCtdQvExE5LprwwPAgoicguNg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/css/theme.default.min.css" integrity="sha512-wghhOJkjQX0Lh3NSWvNKeZ0ZpNn+SPVXX1Qyc9OCaogADktxrBiBdKGDoqVUOyhStvMBmJQ8ZdMHiR3wuEq8+w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <script>
 $(function() {
     $(".table-ranking").tablesorter({sortList:[[0, 0]]});
+    $("#foot_last_modified").text(formatDate(new Date(document.lastModified), 'yyyy-MM-dd HH:mm:ss'));
 });
 </script>
 

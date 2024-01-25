@@ -1,87 +1,175 @@
 ---
-title: DARTSLIVE AREA RANKING | 埼玉県 | 吉川市
+title: COUNTUP AREA RANKING | 埼玉県 | 吉川市
 ---
-## DARTSLIVE AREA RANKING | 埼玉県 | 吉川市
+## COUNTUP AREA RANKING | 埼玉県 | 吉川市
 
 [TOP](/darts/rank/) > [埼玉県](/darts/rank/埼玉県/) > 吉川市
 
 ___
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="DARTSLIVE AREA RANKING | 埼玉県吉川市" class="twitter-share-button" data-via="DARTSLIVE" data-hashtags="DARTSLIVE" data-related="DARTSLIVE" data-show-count="false">Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="COUNTUP AREA RANKING | 埼玉県吉川市" class="twitter-share-button" data-hashtags="DARTSLIVE,PHOENIXDARTS,darts,ダーツ" data-show-count="false">Tweet</a>
 
-### 地域別TOP 100
+* [ランキング](#カウントアップランキング)
+    * [TOP 100](#top-100)
+    * [DARTSLIVE TOP 100](#dartslive-top-100)
+    * [PHOENIXDARTS TOP 100](#phoenixdarts-top-100)
+
+### カウントアップランキング
+
+#### TOP 100
+
+
 
 {:.table-ranking}
-|ランク|スコア|名前|店名|所在地|
+|#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1056|HiRo×蜘蛛×団長|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
-|2|1031|t28.|<a href="https://search.dartslive.com/jp/shop/1e3668a9e432ca23fec1ae84bb28bd87">粋</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
-|3|1007|t28.|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
-|4|966|AllGreen☆RUCCI|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
-|5|943|死露苦魔@酒♂乱|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
-|6|934|おｯきく恭平★|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
-|7|925|掌|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
-|8|921|８|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
-|9|918|-H!RO-【GREASE】|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
-|10|878|ミッケル-RUCCI-|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
-|11|869|SEIG|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
-|12|862|ゆーいち×蜘蛛|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
-|13|847|てぃーたくRUCCI|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
-|14|844|しゅん太郎AFLOW|<a href="https://search.dartslive.com/jp/shop/c4090f6d2e216b410d9b047a20a7ba1e">ダイニング 倫</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
-|15|834|チャンプ|<a href="https://search.dartslive.com/jp/shop/c4090f6d2e216b410d9b047a20a7ba1e">ダイニング 倫</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
-|16|767|やま＠Rucci|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
-|17|762|わっき～@ＧＣ|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
-|18|738|SHINZI【RUCCI】|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
-|19|729|海賊王|<a href="https://search.dartslive.com/jp/shop/1e3668a9e432ca23fec1ae84bb28bd87">粋</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
-|20|718|masaking|<a href="https://search.dartslive.com/jp/shop/1e3668a9e432ca23fec1ae84bb28bd87">粋</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
-|21|717|DAISUKE@RUCCI|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
-|22|704|TOUYA|<a href="https://search.dartslive.com/jp/shop/c4090f6d2e216b410d9b047a20a7ba1e">ダイニング 倫</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
-|23|702|倫Barry Allen|<a href="https://search.dartslive.com/jp/shop/c4090f6d2e216b410d9b047a20a7ba1e">ダイニング 倫</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
-|24|684|あ-chan@RUCCI|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
-|25|673|♪chi!i!e♪Rucci|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
-|26|659|はるか@粋|<a href="https://search.dartslive.com/jp/shop/1e3668a9e432ca23fec1ae84bb28bd87">粋</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
-|27|620|tetsu|<a href="https://search.dartslive.com/jp/shop/1e3668a9e432ca23fec1ae84bb28bd87">粋</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
-|28|594|サモアの怪人|<a href="https://search.dartslive.com/jp/shop/1e3668a9e432ca23fec1ae84bb28bd87">粋</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
-|29|591|咲ヶ本　桃華|<a href="https://search.dartslive.com/jp/shop/1e3668a9e432ca23fec1ae84bb28bd87">粋</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
-|30|588|けんちゃん|<a href="https://search.dartslive.com/jp/shop/1e3668a9e432ca23fec1ae84bb28bd87">粋</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
-|31|585|cico㌧:-)ramiPF|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
-|32|582|☆ あじゅ ☆|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
-|32|582|ももふぃ〜ゅ|<a href="https://search.dartslive.com/jp/shop/1e3668a9e432ca23fec1ae84bb28bd87">粋</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
-|34|574|(くわ・ω・っち)|<a href="https://search.dartslive.com/jp/shop/1e3668a9e432ca23fec1ae84bb28bd87">粋</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
-|35|566|じゃす|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
-|36|562|pnz|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
-|37|559|ちょこさん|<a href="https://search.dartslive.com/jp/shop/1e3668a9e432ca23fec1ae84bb28bd87">粋</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
-|38|557|こば|<a href="https://search.dartslive.com/jp/shop/1e3668a9e432ca23fec1ae84bb28bd87">粋</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
-|39|551|ひろ☆RUCCI|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
-|40|550|NO Gucci PF|<a href="https://search.dartslive.com/jp/shop/c4090f6d2e216b410d9b047a20a7ba1e">ダイニング 倫</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
-|41|533|かすみ@RUCCI|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
-|42|529|mii+mii|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
-|43|514|JYUNYA..|<a href="https://search.dartslive.com/jp/shop/c4090f6d2e216b410d9b047a20a7ba1e">ダイニング 倫</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
-|44|512|ひろ|<a href="https://search.dartslive.com/jp/shop/1e3668a9e432ca23fec1ae84bb28bd87">粋</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
-|45|495|カタバヤシ|<a href="https://search.dartslive.com/jp/shop/c4090f6d2e216b410d9b047a20a7ba1e">ダイニング 倫</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
-|46|494|黒猫さん|<a href="https://search.dartslive.com/jp/shop/c4090f6d2e216b410d9b047a20a7ba1e">ダイニング 倫</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
-|47|493|卯月|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
-|48|480|くろぅ|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
-|49|458|もも×蜘蛛×しろ|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
-|50|453|ともよ|<a href="https://search.dartslive.com/jp/shop/1e3668a9e432ca23fec1ae84bb28bd87">粋</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
-|51|442|すんたそ|<a href="https://search.dartslive.com/jp/shop/c4090f6d2e216b410d9b047a20a7ba1e">ダイニング 倫</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
-|52|416|☆speed☆|<a href="https://search.dartslive.com/jp/shop/1e3668a9e432ca23fec1ae84bb28bd87">粋</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
-|53|387|こーたですよ。|<a href="https://search.dartslive.com/jp/shop/c4090f6d2e216b410d9b047a20a7ba1e">ダイニング 倫</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
-|54|225|バニたん|<a href="https://search.dartslive.com/jp/shop/1e3668a9e432ca23fec1ae84bb28bd87">粋</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|1|1056|<span class="rank-name-dl">HiRo×蜘蛛×団長</span>|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|2|1031|<span class="rank-name-dl">t28.</span>|<a href="https://search.dartslive.com/jp/shop/1e3668a9e432ca23fec1ae84bb28bd87">粋</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|3|1007|<span class="rank-name-dl">t28.</span>|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|4|966|<span class="rank-name-dl">AllGreen☆RUCCI</span>|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|5|943|<span class="rank-name-dl">死露苦魔@酒♂乱</span>|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|6|934|<span class="rank-name-dl">おｯきく恭平★</span>|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|7|928|<span class="rank-name-dl">掌</span>|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|8|921|<span class="rank-name-dl">８</span>|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|9|919|<span class="rank-name-dl">魔裟夫</span>|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|10|918|<span class="rank-name-dl">-H!RO-【GREASE】</span>|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|11|878|<span class="rank-name-dl">ミッケル-RUCCI-</span>|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|12|869|<span class="rank-name-dl">SEIG</span>|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|13|862|<span class="rank-name-dl">ゆーいち×蜘蛛</span>|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|14|847|<span class="rank-name-dl">てぃーたくRUCCI</span>|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|15|844|<span class="rank-name-dl">しゅん太郎AFLOW</span>|<a href="https://search.dartslive.com/jp/shop/c4090f6d2e216b410d9b047a20a7ba1e">ダイニング 倫</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|16|834|<span class="rank-name-dl">チャンプ</span>|<a href="https://search.dartslive.com/jp/shop/c4090f6d2e216b410d9b047a20a7ba1e">ダイニング 倫</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|17|767|<span class="rank-name-dl">やま＠Rucci</span>|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|18|762|<span class="rank-name-dl">わっき～@ＧＣ</span>|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|19|738|<span class="rank-name-dl">SHINZI【RUCCI】</span>|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|20|729|<span class="rank-name-dl">海賊王</span>|<a href="https://search.dartslive.com/jp/shop/1e3668a9e432ca23fec1ae84bb28bd87">粋</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|21|718|<span class="rank-name-dl">masaking</span>|<a href="https://search.dartslive.com/jp/shop/1e3668a9e432ca23fec1ae84bb28bd87">粋</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|22|717|<span class="rank-name-dl">DAISUKE@RUCCI</span>|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|23|704|<span class="rank-name-dl">TOUYA</span>|<a href="https://search.dartslive.com/jp/shop/c4090f6d2e216b410d9b047a20a7ba1e">ダイニング 倫</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|24|702|<span class="rank-name-dl">倫Barry Allen</span>|<a href="https://search.dartslive.com/jp/shop/c4090f6d2e216b410d9b047a20a7ba1e">ダイニング 倫</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|25|684|<span class="rank-name-dl">あ-chan@RUCCI</span>|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|26|673|<span class="rank-name-dl">♪chi!i!e♪Rucci</span>|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|27|659|<span class="rank-name-dl">はるか@粋</span>|<a href="https://search.dartslive.com/jp/shop/1e3668a9e432ca23fec1ae84bb28bd87">粋</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|28|620|<span class="rank-name-dl">tetsu</span>|<a href="https://search.dartslive.com/jp/shop/1e3668a9e432ca23fec1ae84bb28bd87">粋</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|29|594|<span class="rank-name-dl">サモアの怪人</span>|<a href="https://search.dartslive.com/jp/shop/1e3668a9e432ca23fec1ae84bb28bd87">粋</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|30|591|<span class="rank-name-dl">咲ヶ本　桃華</span>|<a href="https://search.dartslive.com/jp/shop/1e3668a9e432ca23fec1ae84bb28bd87">粋</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|31|588|<span class="rank-name-dl">けんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/1e3668a9e432ca23fec1ae84bb28bd87">粋</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|32|585|<span class="rank-name-dl">cico㌧:-)ramiPF</span>|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|33|582|<span class="rank-name-dl">☆ あじゅ ☆</span>|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|33|582|<span class="rank-name-dl">ももふぃ〜ゅ</span>|<a href="https://search.dartslive.com/jp/shop/1e3668a9e432ca23fec1ae84bb28bd87">粋</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|35|574|<span class="rank-name-dl">(くわ・ω・っち)</span>|<a href="https://search.dartslive.com/jp/shop/1e3668a9e432ca23fec1ae84bb28bd87">粋</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|36|566|<span class="rank-name-dl">じゃす</span>|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|37|562|<span class="rank-name-dl">pnz</span>|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|38|559|<span class="rank-name-dl">ちょこさん</span>|<a href="https://search.dartslive.com/jp/shop/1e3668a9e432ca23fec1ae84bb28bd87">粋</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|39|557|<span class="rank-name-dl">こば</span>|<a href="https://search.dartslive.com/jp/shop/1e3668a9e432ca23fec1ae84bb28bd87">粋</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|40|551|<span class="rank-name-dl">ひろ☆RUCCI</span>|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|41|550|<span class="rank-name-dl">NO Gucci PF</span>|<a href="https://search.dartslive.com/jp/shop/c4090f6d2e216b410d9b047a20a7ba1e">ダイニング 倫</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|42|533|<span class="rank-name-dl">かすみ@RUCCI</span>|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|43|529|<span class="rank-name-dl">mii+mii</span>|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|44|514|<span class="rank-name-dl">JYUNYA..</span>|<a href="https://search.dartslive.com/jp/shop/c4090f6d2e216b410d9b047a20a7ba1e">ダイニング 倫</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|45|512|<span class="rank-name-dl">ひろ</span>|<a href="https://search.dartslive.com/jp/shop/1e3668a9e432ca23fec1ae84bb28bd87">粋</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|46|510|<span class="rank-name-dl">まさみ茂ぅ～</span>|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|47|495|<span class="rank-name-dl">カタバヤシ</span>|<a href="https://search.dartslive.com/jp/shop/c4090f6d2e216b410d9b047a20a7ba1e">ダイニング 倫</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|48|494|<span class="rank-name-dl">黒猫さん</span>|<a href="https://search.dartslive.com/jp/shop/c4090f6d2e216b410d9b047a20a7ba1e">ダイニング 倫</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|49|493|<span class="rank-name-dl">卯月</span>|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|50|480|<span class="rank-name-dl">くろぅ</span>|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|51|458|<span class="rank-name-dl">もも×蜘蛛×しろ</span>|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|52|453|<span class="rank-name-dl">ともよ</span>|<a href="https://search.dartslive.com/jp/shop/1e3668a9e432ca23fec1ae84bb28bd87">粋</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|53|442|<span class="rank-name-dl">すんたそ</span>|<a href="https://search.dartslive.com/jp/shop/c4090f6d2e216b410d9b047a20a7ba1e">ダイニング 倫</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|54|416|<span class="rank-name-dl">☆speed☆</span>|<a href="https://search.dartslive.com/jp/shop/1e3668a9e432ca23fec1ae84bb28bd87">粋</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|55|387|<span class="rank-name-dl">こーたですよ。</span>|<a href="https://search.dartslive.com/jp/shop/c4090f6d2e216b410d9b047a20a7ba1e">ダイニング 倫</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|56|312|<span class="rank-name-dl">あそこが好き</span>|<a href="https://search.dartslive.com/jp/shop/c4090f6d2e216b410d9b047a20a7ba1e">ダイニング 倫</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|57|225|<span class="rank-name-dl">バニたん</span>|<a href="https://search.dartslive.com/jp/shop/1e3668a9e432ca23fec1ae84bb28bd87">粋</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+
+
+#### DARTSLIVE TOP 100
 
 
 
-___
+{:.table-ranking}
+|#|スコア|名前|店名|所在地|
+|---|---|---|---|---|
+|1|1056|<span class="rank-name-dl">HiRo×蜘蛛×団長</span>|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|2|1031|<span class="rank-name-dl">t28.</span>|<a href="https://search.dartslive.com/jp/shop/1e3668a9e432ca23fec1ae84bb28bd87">粋</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|3|1007|<span class="rank-name-dl">t28.</span>|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|4|966|<span class="rank-name-dl">AllGreen☆RUCCI</span>|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|5|943|<span class="rank-name-dl">死露苦魔@酒♂乱</span>|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|6|934|<span class="rank-name-dl">おｯきく恭平★</span>|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|7|928|<span class="rank-name-dl">掌</span>|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|8|921|<span class="rank-name-dl">８</span>|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|9|919|<span class="rank-name-dl">魔裟夫</span>|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|10|918|<span class="rank-name-dl">-H!RO-【GREASE】</span>|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|11|878|<span class="rank-name-dl">ミッケル-RUCCI-</span>|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|12|869|<span class="rank-name-dl">SEIG</span>|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|13|862|<span class="rank-name-dl">ゆーいち×蜘蛛</span>|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|14|847|<span class="rank-name-dl">てぃーたくRUCCI</span>|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|15|844|<span class="rank-name-dl">しゅん太郎AFLOW</span>|<a href="https://search.dartslive.com/jp/shop/c4090f6d2e216b410d9b047a20a7ba1e">ダイニング 倫</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|16|834|<span class="rank-name-dl">チャンプ</span>|<a href="https://search.dartslive.com/jp/shop/c4090f6d2e216b410d9b047a20a7ba1e">ダイニング 倫</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|17|767|<span class="rank-name-dl">やま＠Rucci</span>|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|18|762|<span class="rank-name-dl">わっき～@ＧＣ</span>|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|19|738|<span class="rank-name-dl">SHINZI【RUCCI】</span>|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|20|729|<span class="rank-name-dl">海賊王</span>|<a href="https://search.dartslive.com/jp/shop/1e3668a9e432ca23fec1ae84bb28bd87">粋</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|21|718|<span class="rank-name-dl">masaking</span>|<a href="https://search.dartslive.com/jp/shop/1e3668a9e432ca23fec1ae84bb28bd87">粋</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|22|717|<span class="rank-name-dl">DAISUKE@RUCCI</span>|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|23|704|<span class="rank-name-dl">TOUYA</span>|<a href="https://search.dartslive.com/jp/shop/c4090f6d2e216b410d9b047a20a7ba1e">ダイニング 倫</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|24|702|<span class="rank-name-dl">倫Barry Allen</span>|<a href="https://search.dartslive.com/jp/shop/c4090f6d2e216b410d9b047a20a7ba1e">ダイニング 倫</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|25|684|<span class="rank-name-dl">あ-chan@RUCCI</span>|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|26|673|<span class="rank-name-dl">♪chi!i!e♪Rucci</span>|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|27|659|<span class="rank-name-dl">はるか@粋</span>|<a href="https://search.dartslive.com/jp/shop/1e3668a9e432ca23fec1ae84bb28bd87">粋</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|28|620|<span class="rank-name-dl">tetsu</span>|<a href="https://search.dartslive.com/jp/shop/1e3668a9e432ca23fec1ae84bb28bd87">粋</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|29|594|<span class="rank-name-dl">サモアの怪人</span>|<a href="https://search.dartslive.com/jp/shop/1e3668a9e432ca23fec1ae84bb28bd87">粋</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|30|591|<span class="rank-name-dl">咲ヶ本　桃華</span>|<a href="https://search.dartslive.com/jp/shop/1e3668a9e432ca23fec1ae84bb28bd87">粋</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|31|588|<span class="rank-name-dl">けんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/1e3668a9e432ca23fec1ae84bb28bd87">粋</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|32|585|<span class="rank-name-dl">cico㌧:-)ramiPF</span>|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|33|582|<span class="rank-name-dl">☆ あじゅ ☆</span>|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|33|582|<span class="rank-name-dl">ももふぃ〜ゅ</span>|<a href="https://search.dartslive.com/jp/shop/1e3668a9e432ca23fec1ae84bb28bd87">粋</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|35|574|<span class="rank-name-dl">(くわ・ω・っち)</span>|<a href="https://search.dartslive.com/jp/shop/1e3668a9e432ca23fec1ae84bb28bd87">粋</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|36|566|<span class="rank-name-dl">じゃす</span>|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|37|562|<span class="rank-name-dl">pnz</span>|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|38|559|<span class="rank-name-dl">ちょこさん</span>|<a href="https://search.dartslive.com/jp/shop/1e3668a9e432ca23fec1ae84bb28bd87">粋</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|39|557|<span class="rank-name-dl">こば</span>|<a href="https://search.dartslive.com/jp/shop/1e3668a9e432ca23fec1ae84bb28bd87">粋</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|40|551|<span class="rank-name-dl">ひろ☆RUCCI</span>|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|41|550|<span class="rank-name-dl">NO Gucci PF</span>|<a href="https://search.dartslive.com/jp/shop/c4090f6d2e216b410d9b047a20a7ba1e">ダイニング 倫</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|42|533|<span class="rank-name-dl">かすみ@RUCCI</span>|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|43|529|<span class="rank-name-dl">mii+mii</span>|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|44|514|<span class="rank-name-dl">JYUNYA..</span>|<a href="https://search.dartslive.com/jp/shop/c4090f6d2e216b410d9b047a20a7ba1e">ダイニング 倫</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|45|512|<span class="rank-name-dl">ひろ</span>|<a href="https://search.dartslive.com/jp/shop/1e3668a9e432ca23fec1ae84bb28bd87">粋</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|46|510|<span class="rank-name-dl">まさみ茂ぅ～</span>|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|47|495|<span class="rank-name-dl">カタバヤシ</span>|<a href="https://search.dartslive.com/jp/shop/c4090f6d2e216b410d9b047a20a7ba1e">ダイニング 倫</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|48|494|<span class="rank-name-dl">黒猫さん</span>|<a href="https://search.dartslive.com/jp/shop/c4090f6d2e216b410d9b047a20a7ba1e">ダイニング 倫</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|49|493|<span class="rank-name-dl">卯月</span>|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|50|480|<span class="rank-name-dl">くろぅ</span>|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|51|458|<span class="rank-name-dl">もも×蜘蛛×しろ</span>|<a href="https://search.dartslive.com/jp/shop/89828dccd60aed6c0d9b047a20a7ba1e">RUCCI</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|52|453|<span class="rank-name-dl">ともよ</span>|<a href="https://search.dartslive.com/jp/shop/1e3668a9e432ca23fec1ae84bb28bd87">粋</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|53|442|<span class="rank-name-dl">すんたそ</span>|<a href="https://search.dartslive.com/jp/shop/c4090f6d2e216b410d9b047a20a7ba1e">ダイニング 倫</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|54|416|<span class="rank-name-dl">☆speed☆</span>|<a href="https://search.dartslive.com/jp/shop/1e3668a9e432ca23fec1ae84bb28bd87">粋</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|55|387|<span class="rank-name-dl">こーたですよ。</span>|<a href="https://search.dartslive.com/jp/shop/c4090f6d2e216b410d9b047a20a7ba1e">ダイニング 倫</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|56|312|<span class="rank-name-dl">あそこが好き</span>|<a href="https://search.dartslive.com/jp/shop/c4090f6d2e216b410d9b047a20a7ba1e">ダイニング 倫</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
+|57|225|<span class="rank-name-dl">バニたん</span>|<a href="https://search.dartslive.com/jp/shop/1e3668a9e432ca23fec1ae84bb28bd87">粋</a>|<a href="/darts/rank/埼玉県/吉川市">埼玉県吉川市</a>|
 
-_last update : 2024/01/21 13:38:56_
+
+#### PHOENIXDARTS TOP 100
 
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+{:.table-ranking}
+|#|スコア|名前|店名|所在地|
+|---|---|---|---|---|
+||0|<span class="rank-name-dl"> </span>|<a href=""></a>|<a href="/darts/rank//"></a>|
+
+
+<div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
+    last update : <span style="font-weight: italic" id="foot_last_modified"></span><br />
+    DARTSLIVE は 株式会社ダーツライブ社 の登録商標です<br />
+    PHOENIXDARTS は フェニックスダーツジャパン株式会社 の登録商標です<br />
+</div>
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/js/jquery.tablesorter.min.js" integrity="sha512-qzgd5cYSZcosqpzpn7zF2ZId8f/8CHmFKZ8j7mU4OUXTNRd5g+ZHBPsgKEwoqxCtdQvExE5LprwwPAgoicguNg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/css/theme.default.min.css" integrity="sha512-wghhOJkjQX0Lh3NSWvNKeZ0ZpNn+SPVXX1Qyc9OCaogADktxrBiBdKGDoqVUOyhStvMBmJQ8ZdMHiR3wuEq8+w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <script>
 $(function() {
     $(".table-ranking").tablesorter({sortList:[[0, 0]]});
+    $("#foot_last_modified").text(formatDate(new Date(document.lastModified), 'yyyy-MM-dd HH:mm:ss'));
 });
 </script>
 

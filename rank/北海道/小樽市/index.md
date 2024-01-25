@@ -1,57 +1,109 @@
 ---
-title: DARTSLIVE AREA RANKING | 北海道 | 小樽市
+title: COUNTUP AREA RANKING | 北海道 | 小樽市
 ---
-## DARTSLIVE AREA RANKING | 北海道 | 小樽市
+## COUNTUP AREA RANKING | 北海道 | 小樽市
 
 [TOP](/darts/rank/) > [北海道](/darts/rank/北海道/) > 小樽市
 
 ___
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="DARTSLIVE AREA RANKING | 北海道小樽市" class="twitter-share-button" data-via="DARTSLIVE" data-hashtags="DARTSLIVE" data-related="DARTSLIVE" data-show-count="false">Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="COUNTUP AREA RANKING | 北海道小樽市" class="twitter-share-button" data-hashtags="DARTSLIVE,PHOENIXDARTS,darts,ダーツ" data-show-count="false">Tweet</a>
 
-### 地域別TOP 100
+* [ランキング](#カウントアップランキング)
+    * [TOP 100](#top-100)
+    * [DARTSLIVE TOP 100](#dartslive-top-100)
+    * [PHOENIXDARTS TOP 100](#phoenixdarts-top-100)
+
+### カウントアップランキング
+
+#### TOP 100
+
+
 
 {:.table-ranking}
-|ランク|スコア|名前|店名|所在地|
+|#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1023|かも|<a href="https://search.dartslive.com/jp/shop/b6fe9d88def422195f9f3321c1147265">casual spot JINJIN</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
-|2|992|栗山 直人|<a href="https://search.dartslive.com/jp/shop/c35c3e4b77df309d25d56fb0e5c39bac">FITS+</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
-|3|956|かも|<a href="https://search.dartslive.com/jp/shop/c35c3e4b77df309d25d56fb0e5c39bac">FITS+</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
-|4|929|高鳴|<a href="https://search.dartslive.com/jp/shop/c35c3e4b77df309d25d56fb0e5c39bac">FITS+</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
-|5|910|Takuya|<a href="https://search.dartslive.com/jp/shop/c35c3e4b77df309d25d56fb0e5c39bac">FITS+</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
-|6|882|たかなり|<a href="https://search.dartslive.com/jp/shop/c35c3e4b77df309d25d56fb0e5c39bac">FITS+</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
-|7|858|しゅんや|<a href="https://search.dartslive.com/jp/shop/c35c3e4b77df309d25d56fb0e5c39bac">FITS+</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
-|8|836|青野太羅|<a href="https://search.dartslive.com/jp/shop/b6fe9d88def422195f9f3321c1147265">casual spot JINJIN</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
-|9|822|TAKUYA|<a href="https://search.dartslive.com/jp/shop/b6fe9d88def422195f9f3321c1147265">casual spot JINJIN</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
-|10|816|ＴＡＫＥ－４|<a href="https://search.dartslive.com/jp/shop/c35c3e4b77df309d25d56fb0e5c39bac">FITS+</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
-|11|750|アンドゥー|<a href="https://search.dartslive.com/jp/shop/c35c3e4b77df309d25d56fb0e5c39bac">FITS+</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
-|12|730|りょうた|<a href="https://search.dartslive.com/jp/shop/c35c3e4b77df309d25d56fb0e5c39bac">FITS+</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
-|13|708|みずてぃん|<a href="https://search.dartslive.com/jp/shop/c35c3e4b77df309d25d56fb0e5c39bac">FITS+</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
-|14|704|CHIBA|<a href="https://search.dartslive.com/jp/shop/c35c3e4b77df309d25d56fb0e5c39bac">FITS+</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
-|15|691|まさぁあしぃぃぃ|<a href="https://search.dartslive.com/jp/shop/b6fe9d88def422195f9f3321c1147265">casual spot JINJIN</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
-|16|681|青野太羅|<a href="https://search.dartslive.com/jp/shop/c35c3e4b77df309d25d56fb0e5c39bac">FITS+</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
-|17|633|空樂|<a href="https://search.dartslive.com/jp/shop/c35c3e4b77df309d25d56fb0e5c39bac">FITS+</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
-|18|546|ゆづき|<a href="https://search.dartslive.com/jp/shop/c35c3e4b77df309d25d56fb0e5c39bac">FITS+</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
-|19|534|JOKER|<a href="https://search.dartslive.com/jp/shop/c35c3e4b77df309d25d56fb0e5c39bac">FITS+</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
-|20|469|いがちゃん|<a href="https://search.dartslive.com/jp/shop/b6fe9d88def422195f9f3321c1147265">casual spot JINJIN</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
-|21|461|せんさん|<a href="https://search.dartslive.com/jp/shop/b6fe9d88def422195f9f3321c1147265">casual spot JINJIN</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
-|22|413|天地無用|<a href="https://search.dartslive.com/jp/shop/b6fe9d88def422195f9f3321c1147265">casual spot JINJIN</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
-|23|408|(･ω･)犬吉(･ω･)|<a href="https://search.dartslive.com/jp/shop/b6fe9d88def422195f9f3321c1147265">casual spot JINJIN</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
-|24|345|yome|<a href="https://search.dartslive.com/jp/shop/b6fe9d88def422195f9f3321c1147265">casual spot JINJIN</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
+|1|1023|<span class="rank-name-dl">かも</span>|<a href="https://search.dartslive.com/jp/shop/b6fe9d88def422195f9f3321c1147265">casual spot JINJIN</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
+|2|992|<span class="rank-name-dl">栗山 直人</span>|<a href="https://search.dartslive.com/jp/shop/c35c3e4b77df309d25d56fb0e5c39bac">FITS+</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
+|3|956|<span class="rank-name-dl">かも</span>|<a href="https://search.dartslive.com/jp/shop/c35c3e4b77df309d25d56fb0e5c39bac">FITS+</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
+|4|929|<span class="rank-name-dl">高鳴</span>|<a href="https://search.dartslive.com/jp/shop/c35c3e4b77df309d25d56fb0e5c39bac">FITS+</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
+|5|910|<span class="rank-name-dl">Takuya</span>|<a href="https://search.dartslive.com/jp/shop/c35c3e4b77df309d25d56fb0e5c39bac">FITS+</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
+|6|882|<span class="rank-name-dl">しゅんや</span>|<a href="https://search.dartslive.com/jp/shop/c35c3e4b77df309d25d56fb0e5c39bac">FITS+</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
+|6|882|<span class="rank-name-dl">たかなり</span>|<a href="https://search.dartslive.com/jp/shop/c35c3e4b77df309d25d56fb0e5c39bac">FITS+</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
+|8|836|<span class="rank-name-dl">青野太羅</span>|<a href="https://search.dartslive.com/jp/shop/b6fe9d88def422195f9f3321c1147265">casual spot JINJIN</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
+|9|822|<span class="rank-name-dl">TAKUYA</span>|<a href="https://search.dartslive.com/jp/shop/b6fe9d88def422195f9f3321c1147265">casual spot JINJIN</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
+|10|816|<span class="rank-name-dl">ＴＡＫＥ－４</span>|<a href="https://search.dartslive.com/jp/shop/c35c3e4b77df309d25d56fb0e5c39bac">FITS+</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
+|11|750|<span class="rank-name-dl">アンドゥー</span>|<a href="https://search.dartslive.com/jp/shop/c35c3e4b77df309d25d56fb0e5c39bac">FITS+</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
+|12|730|<span class="rank-name-dl">りょうた</span>|<a href="https://search.dartslive.com/jp/shop/c35c3e4b77df309d25d56fb0e5c39bac">FITS+</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
+|13|723|<span class="rank-name-dl">空樂</span>|<a href="https://search.dartslive.com/jp/shop/c35c3e4b77df309d25d56fb0e5c39bac">FITS+</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
+|14|708|<span class="rank-name-dl">みずてぃん</span>|<a href="https://search.dartslive.com/jp/shop/c35c3e4b77df309d25d56fb0e5c39bac">FITS+</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
+|15|704|<span class="rank-name-dl">CHIBA</span>|<a href="https://search.dartslive.com/jp/shop/c35c3e4b77df309d25d56fb0e5c39bac">FITS+</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
+|16|691|<span class="rank-name-dl">まさぁあしぃぃぃ</span>|<a href="https://search.dartslive.com/jp/shop/b6fe9d88def422195f9f3321c1147265">casual spot JINJIN</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
+|17|681|<span class="rank-name-dl">青野太羅</span>|<a href="https://search.dartslive.com/jp/shop/c35c3e4b77df309d25d56fb0e5c39bac">FITS+</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
+|18|546|<span class="rank-name-dl">ゆづき</span>|<a href="https://search.dartslive.com/jp/shop/c35c3e4b77df309d25d56fb0e5c39bac">FITS+</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
+|19|534|<span class="rank-name-dl">JOKER</span>|<a href="https://search.dartslive.com/jp/shop/c35c3e4b77df309d25d56fb0e5c39bac">FITS+</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
+|20|469|<span class="rank-name-dl">いがちゃん</span>|<a href="https://search.dartslive.com/jp/shop/b6fe9d88def422195f9f3321c1147265">casual spot JINJIN</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
+|21|461|<span class="rank-name-dl">せんさん</span>|<a href="https://search.dartslive.com/jp/shop/b6fe9d88def422195f9f3321c1147265">casual spot JINJIN</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
+|22|413|<span class="rank-name-dl">天地無用</span>|<a href="https://search.dartslive.com/jp/shop/b6fe9d88def422195f9f3321c1147265">casual spot JINJIN</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
+|23|408|<span class="rank-name-dl">(･ω･)犬吉(･ω･)</span>|<a href="https://search.dartslive.com/jp/shop/b6fe9d88def422195f9f3321c1147265">casual spot JINJIN</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
+|24|345|<span class="rank-name-dl">yome</span>|<a href="https://search.dartslive.com/jp/shop/b6fe9d88def422195f9f3321c1147265">casual spot JINJIN</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
+
+
+#### DARTSLIVE TOP 100
 
 
 
-___
+{:.table-ranking}
+|#|スコア|名前|店名|所在地|
+|---|---|---|---|---|
+|1|1023|<span class="rank-name-dl">かも</span>|<a href="https://search.dartslive.com/jp/shop/b6fe9d88def422195f9f3321c1147265">casual spot JINJIN</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
+|2|992|<span class="rank-name-dl">栗山 直人</span>|<a href="https://search.dartslive.com/jp/shop/c35c3e4b77df309d25d56fb0e5c39bac">FITS+</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
+|3|956|<span class="rank-name-dl">かも</span>|<a href="https://search.dartslive.com/jp/shop/c35c3e4b77df309d25d56fb0e5c39bac">FITS+</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
+|4|929|<span class="rank-name-dl">高鳴</span>|<a href="https://search.dartslive.com/jp/shop/c35c3e4b77df309d25d56fb0e5c39bac">FITS+</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
+|5|910|<span class="rank-name-dl">Takuya</span>|<a href="https://search.dartslive.com/jp/shop/c35c3e4b77df309d25d56fb0e5c39bac">FITS+</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
+|6|882|<span class="rank-name-dl">しゅんや</span>|<a href="https://search.dartslive.com/jp/shop/c35c3e4b77df309d25d56fb0e5c39bac">FITS+</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
+|6|882|<span class="rank-name-dl">たかなり</span>|<a href="https://search.dartslive.com/jp/shop/c35c3e4b77df309d25d56fb0e5c39bac">FITS+</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
+|8|836|<span class="rank-name-dl">青野太羅</span>|<a href="https://search.dartslive.com/jp/shop/b6fe9d88def422195f9f3321c1147265">casual spot JINJIN</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
+|9|822|<span class="rank-name-dl">TAKUYA</span>|<a href="https://search.dartslive.com/jp/shop/b6fe9d88def422195f9f3321c1147265">casual spot JINJIN</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
+|10|816|<span class="rank-name-dl">ＴＡＫＥ－４</span>|<a href="https://search.dartslive.com/jp/shop/c35c3e4b77df309d25d56fb0e5c39bac">FITS+</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
+|11|750|<span class="rank-name-dl">アンドゥー</span>|<a href="https://search.dartslive.com/jp/shop/c35c3e4b77df309d25d56fb0e5c39bac">FITS+</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
+|12|730|<span class="rank-name-dl">りょうた</span>|<a href="https://search.dartslive.com/jp/shop/c35c3e4b77df309d25d56fb0e5c39bac">FITS+</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
+|13|723|<span class="rank-name-dl">空樂</span>|<a href="https://search.dartslive.com/jp/shop/c35c3e4b77df309d25d56fb0e5c39bac">FITS+</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
+|14|708|<span class="rank-name-dl">みずてぃん</span>|<a href="https://search.dartslive.com/jp/shop/c35c3e4b77df309d25d56fb0e5c39bac">FITS+</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
+|15|704|<span class="rank-name-dl">CHIBA</span>|<a href="https://search.dartslive.com/jp/shop/c35c3e4b77df309d25d56fb0e5c39bac">FITS+</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
+|16|691|<span class="rank-name-dl">まさぁあしぃぃぃ</span>|<a href="https://search.dartslive.com/jp/shop/b6fe9d88def422195f9f3321c1147265">casual spot JINJIN</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
+|17|681|<span class="rank-name-dl">青野太羅</span>|<a href="https://search.dartslive.com/jp/shop/c35c3e4b77df309d25d56fb0e5c39bac">FITS+</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
+|18|546|<span class="rank-name-dl">ゆづき</span>|<a href="https://search.dartslive.com/jp/shop/c35c3e4b77df309d25d56fb0e5c39bac">FITS+</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
+|19|534|<span class="rank-name-dl">JOKER</span>|<a href="https://search.dartslive.com/jp/shop/c35c3e4b77df309d25d56fb0e5c39bac">FITS+</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
+|20|469|<span class="rank-name-dl">いがちゃん</span>|<a href="https://search.dartslive.com/jp/shop/b6fe9d88def422195f9f3321c1147265">casual spot JINJIN</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
+|21|461|<span class="rank-name-dl">せんさん</span>|<a href="https://search.dartslive.com/jp/shop/b6fe9d88def422195f9f3321c1147265">casual spot JINJIN</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
+|22|413|<span class="rank-name-dl">天地無用</span>|<a href="https://search.dartslive.com/jp/shop/b6fe9d88def422195f9f3321c1147265">casual spot JINJIN</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
+|23|408|<span class="rank-name-dl">(･ω･)犬吉(･ω･)</span>|<a href="https://search.dartslive.com/jp/shop/b6fe9d88def422195f9f3321c1147265">casual spot JINJIN</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
+|24|345|<span class="rank-name-dl">yome</span>|<a href="https://search.dartslive.com/jp/shop/b6fe9d88def422195f9f3321c1147265">casual spot JINJIN</a>|<a href="/darts/rank/北海道/小樽市">北海道小樽市</a>|
 
-_last update : 2024/01/21 13:38:52_
+
+#### PHOENIXDARTS TOP 100
 
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+{:.table-ranking}
+|#|スコア|名前|店名|所在地|
+|---|---|---|---|---|
+||0|<span class="rank-name-dl"> </span>|<a href=""></a>|<a href="/darts/rank//"></a>|
+
+
+<div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
+    last update : <span style="font-weight: italic" id="foot_last_modified"></span><br />
+    DARTSLIVE は 株式会社ダーツライブ社 の登録商標です<br />
+    PHOENIXDARTS は フェニックスダーツジャパン株式会社 の登録商標です<br />
+</div>
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/js/jquery.tablesorter.min.js" integrity="sha512-qzgd5cYSZcosqpzpn7zF2ZId8f/8CHmFKZ8j7mU4OUXTNRd5g+ZHBPsgKEwoqxCtdQvExE5LprwwPAgoicguNg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/css/theme.default.min.css" integrity="sha512-wghhOJkjQX0Lh3NSWvNKeZ0ZpNn+SPVXX1Qyc9OCaogADktxrBiBdKGDoqVUOyhStvMBmJQ8ZdMHiR3wuEq8+w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <script>
 $(function() {
     $(".table-ranking").tablesorter({sortList:[[0, 0]]});
+    $("#foot_last_modified").text(formatDate(new Date(document.lastModified), 'yyyy-MM-dd HH:mm:ss'));
 });
 </script>
 

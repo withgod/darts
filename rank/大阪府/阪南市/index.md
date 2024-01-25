@@ -1,40 +1,94 @@
 ---
-title: DARTSLIVE AREA RANKING | 大阪府 | 阪南市
+title: COUNTUP AREA RANKING | 大阪府 | 阪南市
 ---
-## DARTSLIVE AREA RANKING | 大阪府 | 阪南市
+## COUNTUP AREA RANKING | 大阪府 | 阪南市
 
 [TOP](/darts/rank/) > [大阪府](/darts/rank/大阪府/) > 阪南市
 
 ___
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="DARTSLIVE AREA RANKING | 大阪府阪南市" class="twitter-share-button" data-via="DARTSLIVE" data-hashtags="DARTSLIVE" data-related="DARTSLIVE" data-show-count="false">Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="COUNTUP AREA RANKING | 大阪府阪南市" class="twitter-share-button" data-hashtags="DARTSLIVE,PHOENIXDARTS,darts,ダーツ" data-show-count="false">Tweet</a>
 
-### 地域別TOP 100
+* [ランキング](#カウントアップランキング)
+    * [TOP 100](#top-100)
+    * [DARTSLIVE TOP 100](#dartslive-top-100)
+    * [PHOENIXDARTS TOP 100](#phoenixdarts-top-100)
+
+### カウントアップランキング
+
+#### TOP 100
+
+
 
 {:.table-ranking}
-|ランク|スコア|名前|店名|所在地|
+|#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1007|市川啓太|<a href="https://search.dartslive.com/jp/shop/a604a0ad99db28e3f454cb89828a1cfe">BAR MOON</a>|<a href="/darts/rank/大阪府/阪南市">大阪府阪南市</a>|
-|2|926|井村　有希|<a href="https://search.dartslive.com/jp/shop/a604a0ad99db28e3f454cb89828a1cfe">BAR MOON</a>|<a href="/darts/rank/大阪府/阪南市">大阪府阪南市</a>|
-|2|926|市川啓太CUESOUL|<a href="https://search.dartslive.com/jp/shop/a604a0ad99db28e3f454cb89828a1cfe">BAR MOON</a>|<a href="/darts/rank/大阪府/阪南市">大阪府阪南市</a>|
-|4|858|y|<a href="https://search.dartslive.com/jp/shop/a604a0ad99db28e3f454cb89828a1cfe">BAR MOON</a>|<a href="/darts/rank/大阪府/阪南市">大阪府阪南市</a>|
-|5|717|鬼若子a.k.a Mr.Y|<a href="https://search.dartslive.com/jp/shop/a604a0ad99db28e3f454cb89828a1cfe">BAR MOON</a>|<a href="/darts/rank/大阪府/阪南市">大阪府阪南市</a>|
-|6|494|ELLY|<a href="https://search.dartslive.com/jp/shop/a604a0ad99db28e3f454cb89828a1cfe">BAR MOON</a>|<a href="/darts/rank/大阪府/阪南市">大阪府阪南市</a>|
-|7|410|ほね様|<a href="https://search.dartslive.com/jp/shop/a604a0ad99db28e3f454cb89828a1cfe">BAR MOON</a>|<a href="/darts/rank/大阪府/阪南市">大阪府阪南市</a>|
+|1|1007|<span class="rank-name-dl">市川啓太</span>|<a href="https://search.dartslive.com/jp/shop/a604a0ad99db28e3f454cb89828a1cfe">BAR MOON</a>|<a href="/darts/rank/大阪府/阪南市">大阪府阪南市</a>|
+|2|926|<span class="rank-name-dl">井村　有希</span>|<a href="https://search.dartslive.com/jp/shop/a604a0ad99db28e3f454cb89828a1cfe">BAR MOON</a>|<a href="/darts/rank/大阪府/阪南市">大阪府阪南市</a>|
+|2|926|<span class="rank-name-dl">市川啓太CUESOUL</span>|<a href="https://search.dartslive.com/jp/shop/a604a0ad99db28e3f454cb89828a1cfe">BAR MOON</a>|<a href="/darts/rank/大阪府/阪南市">大阪府阪南市</a>|
+|4|858|<span class="rank-name-dl">y</span>|<a href="https://search.dartslive.com/jp/shop/a604a0ad99db28e3f454cb89828a1cfe">BAR MOON</a>|<a href="/darts/rank/大阪府/阪南市">大阪府阪南市</a>|
+|5|841|<span class="rank-name-pd">0138_4662</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79629?s_seq=79629">Casual Bar Secret</a>|<a href="/darts/rank/大阪府/阪南市">大阪府阪南市</a>|
+|6|755|<span class="rank-name-pd">千春@secret</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79629?s_seq=79629">Casual Bar Secret</a>|<a href="/darts/rank/大阪府/阪南市">大阪府阪南市</a>|
+|7|717|<span class="rank-name-dl">鬼若子a.k.a Mr.Y</span>|<a href="https://search.dartslive.com/jp/shop/a604a0ad99db28e3f454cb89828a1cfe">BAR MOON</a>|<a href="/darts/rank/大阪府/阪南市">大阪府阪南市</a>|
+|8|663|<span class="rank-name-pd">37@secret</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79629?s_seq=79629">Casual Bar Secret</a>|<a href="/darts/rank/大阪府/阪南市">大阪府阪南市</a>|
+|9|632|<span class="rank-name-pd">あき@secret</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79629?s_seq=79629">Casual Bar Secret</a>|<a href="/darts/rank/大阪府/阪南市">大阪府阪南市</a>|
+|10|609|<span class="rank-name-pd">チャリンコ@Secret</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79629?s_seq=79629">Casual Bar Secret</a>|<a href="/darts/rank/大阪府/阪南市">大阪府阪南市</a>|
+|11|568|<span class="rank-name-pd">ブラックスパイダー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79629?s_seq=79629">Casual Bar Secret</a>|<a href="/darts/rank/大阪府/阪南市">大阪府阪南市</a>|
+|12|549|<span class="rank-name-pd">#37</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79629?s_seq=79629">Casual Bar Secret</a>|<a href="/darts/rank/大阪府/阪南市">大阪府阪南市</a>|
+|13|535|<span class="rank-name-pd">たかこ@secret</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79629?s_seq=79629">Casual Bar Secret</a>|<a href="/darts/rank/大阪府/阪南市">大阪府阪南市</a>|
+|14|494|<span class="rank-name-dl">ELLY</span>|<a href="https://search.dartslive.com/jp/shop/a604a0ad99db28e3f454cb89828a1cfe">BAR MOON</a>|<a href="/darts/rank/大阪府/阪南市">大阪府阪南市</a>|
+|15|410|<span class="rank-name-dl">ほね様</span>|<a href="https://search.dartslive.com/jp/shop/a604a0ad99db28e3f454cb89828a1cfe">BAR MOON</a>|<a href="/darts/rank/大阪府/阪南市">大阪府阪南市</a>|
+|16|404|<span class="rank-name-pd">Ice</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79629?s_seq=79629">Casual Bar Secret</a>|<a href="/darts/rank/大阪府/阪南市">大阪府阪南市</a>|
+|17|320|<span class="rank-name-pd">みもん(*^♀︎^*)Secret</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79629?s_seq=79629">Casual Bar Secret</a>|<a href="/darts/rank/大阪府/阪南市">大阪府阪南市</a>|
+
+
+#### DARTSLIVE TOP 100
 
 
 
-___
+{:.table-ranking}
+|#|スコア|名前|店名|所在地|
+|---|---|---|---|---|
+|1|1007|<span class="rank-name-dl">市川啓太</span>|<a href="https://search.dartslive.com/jp/shop/a604a0ad99db28e3f454cb89828a1cfe">BAR MOON</a>|<a href="/darts/rank/大阪府/阪南市">大阪府阪南市</a>|
+|2|926|<span class="rank-name-dl">井村　有希</span>|<a href="https://search.dartslive.com/jp/shop/a604a0ad99db28e3f454cb89828a1cfe">BAR MOON</a>|<a href="/darts/rank/大阪府/阪南市">大阪府阪南市</a>|
+|2|926|<span class="rank-name-dl">市川啓太CUESOUL</span>|<a href="https://search.dartslive.com/jp/shop/a604a0ad99db28e3f454cb89828a1cfe">BAR MOON</a>|<a href="/darts/rank/大阪府/阪南市">大阪府阪南市</a>|
+|4|858|<span class="rank-name-dl">y</span>|<a href="https://search.dartslive.com/jp/shop/a604a0ad99db28e3f454cb89828a1cfe">BAR MOON</a>|<a href="/darts/rank/大阪府/阪南市">大阪府阪南市</a>|
+|5|717|<span class="rank-name-dl">鬼若子a.k.a Mr.Y</span>|<a href="https://search.dartslive.com/jp/shop/a604a0ad99db28e3f454cb89828a1cfe">BAR MOON</a>|<a href="/darts/rank/大阪府/阪南市">大阪府阪南市</a>|
+|6|494|<span class="rank-name-dl">ELLY</span>|<a href="https://search.dartslive.com/jp/shop/a604a0ad99db28e3f454cb89828a1cfe">BAR MOON</a>|<a href="/darts/rank/大阪府/阪南市">大阪府阪南市</a>|
+|7|410|<span class="rank-name-dl">ほね様</span>|<a href="https://search.dartslive.com/jp/shop/a604a0ad99db28e3f454cb89828a1cfe">BAR MOON</a>|<a href="/darts/rank/大阪府/阪南市">大阪府阪南市</a>|
 
-_last update : 2024/01/21 13:39:05_
+
+#### PHOENIXDARTS TOP 100
 
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+{:.table-ranking}
+|#|スコア|名前|店名|所在地|
+|---|---|---|---|---|
+|1|841|<span class="rank-name-pd">0138_4662</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79629?s_seq=79629">Casual Bar Secret</a>|<a href="/darts/rank/大阪府/阪南市">大阪府阪南市</a>|
+|2|755|<span class="rank-name-pd">千春@secret</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79629?s_seq=79629">Casual Bar Secret</a>|<a href="/darts/rank/大阪府/阪南市">大阪府阪南市</a>|
+|3|663|<span class="rank-name-pd">37@secret</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79629?s_seq=79629">Casual Bar Secret</a>|<a href="/darts/rank/大阪府/阪南市">大阪府阪南市</a>|
+|4|632|<span class="rank-name-pd">あき@secret</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79629?s_seq=79629">Casual Bar Secret</a>|<a href="/darts/rank/大阪府/阪南市">大阪府阪南市</a>|
+|5|609|<span class="rank-name-pd">チャリンコ@Secret</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79629?s_seq=79629">Casual Bar Secret</a>|<a href="/darts/rank/大阪府/阪南市">大阪府阪南市</a>|
+|6|568|<span class="rank-name-pd">ブラックスパイダー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79629?s_seq=79629">Casual Bar Secret</a>|<a href="/darts/rank/大阪府/阪南市">大阪府阪南市</a>|
+|7|549|<span class="rank-name-pd">#37</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79629?s_seq=79629">Casual Bar Secret</a>|<a href="/darts/rank/大阪府/阪南市">大阪府阪南市</a>|
+|8|535|<span class="rank-name-pd">たかこ@secret</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79629?s_seq=79629">Casual Bar Secret</a>|<a href="/darts/rank/大阪府/阪南市">大阪府阪南市</a>|
+|9|404|<span class="rank-name-pd">Ice</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79629?s_seq=79629">Casual Bar Secret</a>|<a href="/darts/rank/大阪府/阪南市">大阪府阪南市</a>|
+|10|320|<span class="rank-name-pd">みもん(*^♀︎^*)Secret</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79629?s_seq=79629">Casual Bar Secret</a>|<a href="/darts/rank/大阪府/阪南市">大阪府阪南市</a>|
+
+
+<div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
+    last update : <span style="font-weight: italic" id="foot_last_modified"></span><br />
+    DARTSLIVE は 株式会社ダーツライブ社 の登録商標です<br />
+    PHOENIXDARTS は フェニックスダーツジャパン株式会社 の登録商標です<br />
+</div>
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/js/jquery.tablesorter.min.js" integrity="sha512-qzgd5cYSZcosqpzpn7zF2ZId8f/8CHmFKZ8j7mU4OUXTNRd5g+ZHBPsgKEwoqxCtdQvExE5LprwwPAgoicguNg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/css/theme.default.min.css" integrity="sha512-wghhOJkjQX0Lh3NSWvNKeZ0ZpNn+SPVXX1Qyc9OCaogADktxrBiBdKGDoqVUOyhStvMBmJQ8ZdMHiR3wuEq8+w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <script>
 $(function() {
     $(".table-ranking").tablesorter({sortList:[[0, 0]]});
+    $("#foot_last_modified").text(formatDate(new Date(document.lastModified), 'yyyy-MM-dd HH:mm:ss'));
 });
 </script>
 

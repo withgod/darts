@@ -1,46 +1,104 @@
 ---
-title: DARTSLIVE AREA RANKING | 茨城県 | 神栖市
+title: COUNTUP AREA RANKING | 茨城県 | 神栖市
 ---
-## DARTSLIVE AREA RANKING | 茨城県 | 神栖市
+## COUNTUP AREA RANKING | 茨城県 | 神栖市
 
 [TOP](/darts/rank/) > [茨城県](/darts/rank/茨城県/) > 神栖市
 
 ___
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="DARTSLIVE AREA RANKING | 茨城県神栖市" class="twitter-share-button" data-via="DARTSLIVE" data-hashtags="DARTSLIVE" data-related="DARTSLIVE" data-show-count="false">Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="COUNTUP AREA RANKING | 茨城県神栖市" class="twitter-share-button" data-hashtags="DARTSLIVE,PHOENIXDARTS,darts,ダーツ" data-show-count="false">Tweet</a>
 
-### 地域別TOP 100
+* [ランキング](#カウントアップランキング)
+    * [TOP 100](#top-100)
+    * [DARTSLIVE TOP 100](#dartslive-top-100)
+    * [PHOENIXDARTS TOP 100](#phoenixdarts-top-100)
+
+### カウントアップランキング
+
+#### TOP 100
+
+
 
 {:.table-ranking}
-|ランク|スコア|名前|店名|所在地|
+|#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1009|jun-50嵐|<a href="https://search.dartslive.com/jp/shop/31da8495d2d2b3da0d9b047a20a7ba1e">カラオケKF</a>|<a href="/darts/rank/茨城県/神栖市">茨城県神栖市</a>|
-|2|790|中曰TAXI|<a href="https://search.dartslive.com/jp/shop/31da8495d2d2b3da0d9b047a20a7ba1e">カラオケKF</a>|<a href="/darts/rank/茨城県/神栖市">茨城県神栖市</a>|
-|3|774|ふりかけ姉|<a href="https://search.dartslive.com/jp/shop/31da8495d2d2b3da0d9b047a20a7ba1e">カラオケKF</a>|<a href="/darts/rank/茨城県/神栖市">茨城県神栖市</a>|
-|4|769|TAKUMI|<a href="https://search.dartslive.com/jp/shop/31da8495d2d2b3da0d9b047a20a7ba1e">カラオケKF</a>|<a href="/darts/rank/茨城県/神栖市">茨城県神栖市</a>|
-|5|768|bbk|<a href="https://search.dartslive.com/jp/shop/31da8495d2d2b3da0d9b047a20a7ba1e">カラオケKF</a>|<a href="/darts/rank/茨城県/神栖市">茨城県神栖市</a>|
-|6|749|NO NAME 3505|<a href="https://search.dartslive.com/jp/shop/31da8495d2d2b3da0d9b047a20a7ba1e">カラオケKF</a>|<a href="/darts/rank/茨城県/神栖市">茨城県神栖市</a>|
-|7|745|S.N|<a href="https://search.dartslive.com/jp/shop/31da8495d2d2b3da0d9b047a20a7ba1e">カラオケKF</a>|<a href="/darts/rank/茨城県/神栖市">茨城県神栖市</a>|
-|8|728|梨恵|<a href="https://search.dartslive.com/jp/shop/31da8495d2d2b3da0d9b047a20a7ba1e">カラオケKF</a>|<a href="/darts/rank/茨城県/神栖市">茨城県神栖市</a>|
-|9|688|ギラン|<a href="https://search.dartslive.com/jp/shop/31da8495d2d2b3da0d9b047a20a7ba1e">カラオケKF</a>|<a href="/darts/rank/茨城県/神栖市">茨城県神栖市</a>|
-|10|677|マサイの庭|<a href="https://search.dartslive.com/jp/shop/31da8495d2d2b3da0d9b047a20a7ba1e">カラオケKF</a>|<a href="/darts/rank/茨城県/神栖市">茨城県神栖市</a>|
-|11|667|まんまるん|<a href="https://search.dartslive.com/jp/shop/31da8495d2d2b3da0d9b047a20a7ba1e">カラオケKF</a>|<a href="/darts/rank/茨城県/神栖市">茨城県神栖市</a>|
-|12|455|ふりかけ妹|<a href="https://search.dartslive.com/jp/shop/31da8495d2d2b3da0d9b047a20a7ba1e">カラオケKF</a>|<a href="/darts/rank/茨城県/神栖市">茨城県神栖市</a>|
-|13|302|Kaede|<a href="https://search.dartslive.com/jp/shop/31da8495d2d2b3da0d9b047a20a7ba1e">カラオケKF</a>|<a href="/darts/rank/茨城県/神栖市">茨城県神栖市</a>|
+|1|1009|<span class="rank-name-dl">jun-50嵐</span>|<a href="https://search.dartslive.com/jp/shop/31da8495d2d2b3da0d9b047a20a7ba1e">カラオケKF</a>|<a href="/darts/rank/茨城県/神栖市">茨城県神栖市</a>|
+|2|839|<span class="rank-name-pd">kB-tk『微糖』</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83124?s_seq=83124">Cafe&Bar 海BO-ZU</a>|<a href="/darts/rank/茨城県/神栖市">茨城県神栖市</a>|
+|3|790|<span class="rank-name-dl">中曰TAXI</span>|<a href="https://search.dartslive.com/jp/shop/31da8495d2d2b3da0d9b047a20a7ba1e">カラオケKF</a>|<a href="/darts/rank/茨城県/神栖市">茨城県神栖市</a>|
+|4|774|<span class="rank-name-dl">ふりかけ姉</span>|<a href="https://search.dartslive.com/jp/shop/31da8495d2d2b3da0d9b047a20a7ba1e">カラオケKF</a>|<a href="/darts/rank/茨城県/神栖市">茨城県神栖市</a>|
+|5|769|<span class="rank-name-dl">TAKUMI</span>|<a href="https://search.dartslive.com/jp/shop/31da8495d2d2b3da0d9b047a20a7ba1e">カラオケKF</a>|<a href="/darts/rank/茨城県/神栖市">茨城県神栖市</a>|
+|6|768|<span class="rank-name-dl">bbk</span>|<a href="https://search.dartslive.com/jp/shop/31da8495d2d2b3da0d9b047a20a7ba1e">カラオケKF</a>|<a href="/darts/rank/茨城県/神栖市">茨城県神栖市</a>|
+|7|749|<span class="rank-name-dl">NO NAME 3505</span>|<a href="https://search.dartslive.com/jp/shop/31da8495d2d2b3da0d9b047a20a7ba1e">カラオケKF</a>|<a href="/darts/rank/茨城県/神栖市">茨城県神栖市</a>|
+|8|745|<span class="rank-name-dl">S.N</span>|<a href="https://search.dartslive.com/jp/shop/31da8495d2d2b3da0d9b047a20a7ba1e">カラオケKF</a>|<a href="/darts/rank/茨城県/神栖市">茨城県神栖市</a>|
+|9|728|<span class="rank-name-dl">梨恵</span>|<a href="https://search.dartslive.com/jp/shop/31da8495d2d2b3da0d9b047a20a7ba1e">カラオケKF</a>|<a href="/darts/rank/茨城県/神栖市">茨城県神栖市</a>|
+|10|688|<span class="rank-name-dl">ギラン</span>|<a href="https://search.dartslive.com/jp/shop/31da8495d2d2b3da0d9b047a20a7ba1e">カラオケKF</a>|<a href="/darts/rank/茨城県/神栖市">茨城県神栖市</a>|
+|11|677|<span class="rank-name-dl">マサイの庭</span>|<a href="https://search.dartslive.com/jp/shop/31da8495d2d2b3da0d9b047a20a7ba1e">カラオケKF</a>|<a href="/darts/rank/茨城県/神栖市">茨城県神栖市</a>|
+|12|667|<span class="rank-name-dl">まんまるん</span>|<a href="https://search.dartslive.com/jp/shop/31da8495d2d2b3da0d9b047a20a7ba1e">カラオケKF</a>|<a href="/darts/rank/茨城県/神栖市">茨城県神栖市</a>|
+|13|653|<span class="rank-name-pd">修行中</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80994?s_seq=80994">Soleil</a>|<a href="/darts/rank/茨城県/神栖市">茨城県神栖市</a>|
+|13|653|<span class="rank-name-pd">南二局@BO海ZU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83124?s_seq=83124">Cafe&Bar 海BO-ZU</a>|<a href="/darts/rank/茨城県/神栖市">茨城県神栖市</a>|
+|15|587|<span class="rank-name-pd">たっきー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83124?s_seq=83124">Cafe&Bar 海BO-ZU</a>|<a href="/darts/rank/茨城県/神栖市">茨城県神栖市</a>|
+|16|553|<span class="rank-name-pd">海斗_soleil</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80994?s_seq=80994">Soleil</a>|<a href="/darts/rank/茨城県/神栖市">茨城県神栖市</a>|
+|17|510|<span class="rank-name-pd">コウジワンダフル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83124?s_seq=83124">Cafe&Bar 海BO-ZU</a>|<a href="/darts/rank/茨城県/神栖市">茨城県神栖市</a>|
+|18|465|<span class="rank-name-pd">shin</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83124?s_seq=83124">Cafe&Bar 海BO-ZU</a>|<a href="/darts/rank/茨城県/神栖市">茨城県神栖市</a>|
+|19|455|<span class="rank-name-dl">ふりかけ妹</span>|<a href="https://search.dartslive.com/jp/shop/31da8495d2d2b3da0d9b047a20a7ba1e">カラオケKF</a>|<a href="/darts/rank/茨城県/神栖市">茨城県神栖市</a>|
+|20|452|<span class="rank-name-pd">もん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80994?s_seq=80994">Soleil</a>|<a href="/darts/rank/茨城県/神栖市">茨城県神栖市</a>|
+|21|406|<span class="rank-name-pd">わたりんご</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80994?s_seq=80994">Soleil</a>|<a href="/darts/rank/茨城県/神栖市">茨城県神栖市</a>|
+|22|302|<span class="rank-name-dl">Kaede</span>|<a href="https://search.dartslive.com/jp/shop/31da8495d2d2b3da0d9b047a20a7ba1e">カラオケKF</a>|<a href="/darts/rank/茨城県/神栖市">茨城県神栖市</a>|
+
+
+#### DARTSLIVE TOP 100
 
 
 
-___
+{:.table-ranking}
+|#|スコア|名前|店名|所在地|
+|---|---|---|---|---|
+|1|1009|<span class="rank-name-dl">jun-50嵐</span>|<a href="https://search.dartslive.com/jp/shop/31da8495d2d2b3da0d9b047a20a7ba1e">カラオケKF</a>|<a href="/darts/rank/茨城県/神栖市">茨城県神栖市</a>|
+|2|790|<span class="rank-name-dl">中曰TAXI</span>|<a href="https://search.dartslive.com/jp/shop/31da8495d2d2b3da0d9b047a20a7ba1e">カラオケKF</a>|<a href="/darts/rank/茨城県/神栖市">茨城県神栖市</a>|
+|3|774|<span class="rank-name-dl">ふりかけ姉</span>|<a href="https://search.dartslive.com/jp/shop/31da8495d2d2b3da0d9b047a20a7ba1e">カラオケKF</a>|<a href="/darts/rank/茨城県/神栖市">茨城県神栖市</a>|
+|4|769|<span class="rank-name-dl">TAKUMI</span>|<a href="https://search.dartslive.com/jp/shop/31da8495d2d2b3da0d9b047a20a7ba1e">カラオケKF</a>|<a href="/darts/rank/茨城県/神栖市">茨城県神栖市</a>|
+|5|768|<span class="rank-name-dl">bbk</span>|<a href="https://search.dartslive.com/jp/shop/31da8495d2d2b3da0d9b047a20a7ba1e">カラオケKF</a>|<a href="/darts/rank/茨城県/神栖市">茨城県神栖市</a>|
+|6|749|<span class="rank-name-dl">NO NAME 3505</span>|<a href="https://search.dartslive.com/jp/shop/31da8495d2d2b3da0d9b047a20a7ba1e">カラオケKF</a>|<a href="/darts/rank/茨城県/神栖市">茨城県神栖市</a>|
+|7|745|<span class="rank-name-dl">S.N</span>|<a href="https://search.dartslive.com/jp/shop/31da8495d2d2b3da0d9b047a20a7ba1e">カラオケKF</a>|<a href="/darts/rank/茨城県/神栖市">茨城県神栖市</a>|
+|8|728|<span class="rank-name-dl">梨恵</span>|<a href="https://search.dartslive.com/jp/shop/31da8495d2d2b3da0d9b047a20a7ba1e">カラオケKF</a>|<a href="/darts/rank/茨城県/神栖市">茨城県神栖市</a>|
+|9|688|<span class="rank-name-dl">ギラン</span>|<a href="https://search.dartslive.com/jp/shop/31da8495d2d2b3da0d9b047a20a7ba1e">カラオケKF</a>|<a href="/darts/rank/茨城県/神栖市">茨城県神栖市</a>|
+|10|677|<span class="rank-name-dl">マサイの庭</span>|<a href="https://search.dartslive.com/jp/shop/31da8495d2d2b3da0d9b047a20a7ba1e">カラオケKF</a>|<a href="/darts/rank/茨城県/神栖市">茨城県神栖市</a>|
+|11|667|<span class="rank-name-dl">まんまるん</span>|<a href="https://search.dartslive.com/jp/shop/31da8495d2d2b3da0d9b047a20a7ba1e">カラオケKF</a>|<a href="/darts/rank/茨城県/神栖市">茨城県神栖市</a>|
+|12|455|<span class="rank-name-dl">ふりかけ妹</span>|<a href="https://search.dartslive.com/jp/shop/31da8495d2d2b3da0d9b047a20a7ba1e">カラオケKF</a>|<a href="/darts/rank/茨城県/神栖市">茨城県神栖市</a>|
+|13|302|<span class="rank-name-dl">Kaede</span>|<a href="https://search.dartslive.com/jp/shop/31da8495d2d2b3da0d9b047a20a7ba1e">カラオケKF</a>|<a href="/darts/rank/茨城県/神栖市">茨城県神栖市</a>|
 
-_last update : 2024/01/21 13:38:55_
+
+#### PHOENIXDARTS TOP 100
 
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+{:.table-ranking}
+|#|スコア|名前|店名|所在地|
+|---|---|---|---|---|
+|1|839|<span class="rank-name-pd">kB-tk『微糖』</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83124?s_seq=83124">Cafe&Bar 海BO-ZU</a>|<a href="/darts/rank/茨城県/神栖市">茨城県神栖市</a>|
+|2|653|<span class="rank-name-pd">修行中</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80994?s_seq=80994">Soleil</a>|<a href="/darts/rank/茨城県/神栖市">茨城県神栖市</a>|
+|2|653|<span class="rank-name-pd">南二局@BO海ZU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83124?s_seq=83124">Cafe&Bar 海BO-ZU</a>|<a href="/darts/rank/茨城県/神栖市">茨城県神栖市</a>|
+|4|587|<span class="rank-name-pd">たっきー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83124?s_seq=83124">Cafe&Bar 海BO-ZU</a>|<a href="/darts/rank/茨城県/神栖市">茨城県神栖市</a>|
+|5|553|<span class="rank-name-pd">海斗_soleil</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80994?s_seq=80994">Soleil</a>|<a href="/darts/rank/茨城県/神栖市">茨城県神栖市</a>|
+|6|510|<span class="rank-name-pd">コウジワンダフル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83124?s_seq=83124">Cafe&Bar 海BO-ZU</a>|<a href="/darts/rank/茨城県/神栖市">茨城県神栖市</a>|
+|7|465|<span class="rank-name-pd">shin</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83124?s_seq=83124">Cafe&Bar 海BO-ZU</a>|<a href="/darts/rank/茨城県/神栖市">茨城県神栖市</a>|
+|8|452|<span class="rank-name-pd">もん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80994?s_seq=80994">Soleil</a>|<a href="/darts/rank/茨城県/神栖市">茨城県神栖市</a>|
+|9|406|<span class="rank-name-pd">わたりんご</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80994?s_seq=80994">Soleil</a>|<a href="/darts/rank/茨城県/神栖市">茨城県神栖市</a>|
+
+
+<div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
+    last update : <span style="font-weight: italic" id="foot_last_modified"></span><br />
+    DARTSLIVE は 株式会社ダーツライブ社 の登録商標です<br />
+    PHOENIXDARTS は フェニックスダーツジャパン株式会社 の登録商標です<br />
+</div>
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/js/jquery.tablesorter.min.js" integrity="sha512-qzgd5cYSZcosqpzpn7zF2ZId8f/8CHmFKZ8j7mU4OUXTNRd5g+ZHBPsgKEwoqxCtdQvExE5LprwwPAgoicguNg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/css/theme.default.min.css" integrity="sha512-wghhOJkjQX0Lh3NSWvNKeZ0ZpNn+SPVXX1Qyc9OCaogADktxrBiBdKGDoqVUOyhStvMBmJQ8ZdMHiR3wuEq8+w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <script>
 $(function() {
     $(".table-ranking").tablesorter({sortList:[[0, 0]]});
+    $("#foot_last_modified").text(formatDate(new Date(document.lastModified), 'yyyy-MM-dd HH:mm:ss'));
 });
 </script>
 
