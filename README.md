@@ -2,7 +2,7 @@
 
 ## ToC
 
-* [DARTSLIVE AREA RANKING](/darts/rank/)
+* [COUNTUP AREA RANKING](/darts/rank/)
 
 ## about me
 
