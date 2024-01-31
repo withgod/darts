@@ -65,7 +65,7 @@ ___
 |14|1094|<span class="rank-name-dl">佐久間祐也</span>|<a href="https://search.dartslive.com/jp/shop/f067ce74d196dd060d9b047a20a7ba1e">カラオケBANBAN神立店</a>|<a href="/darts/rank/茨城県/土浦市">茨城県土浦市</a>|
 |15|1093|<span class="rank-name-pd">青木 拓也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70341?s_seq=70341">サイベックスSTEPつくば店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
 |16|1092|<span class="rank-name-pd"><span class="pro-icon-pd"></span>佐久間 祐也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_43251?s_seq=43251">快活CLUB 水戸渡里店</a>|<a href="/darts/rank/茨城県/水戸市">茨城県水戸市</a>|
-|17|1090|<span class="rank-name-dl">いおかしゅんき。</span>|<a href="https://search.dartslive.com/jp/shop/4a6e8de35680eabd0d9b047a20a7ba1e">サイバック 龍ヶ崎店</a>|<a href="/darts/rank/茨城県/龍ケ崎市">茨城県龍ケ崎市</a>|
+|17|1090|<span class="rank-name-dl">いおかしゅんき。</span>|<a href="https://search.dartslive.com/jp/shop/4a6e8de35680eabd0d9b047a20a7ba1e">サイバック 龍ヶ崎店</a>|<a href="/darts/rank/茨城県/龍ヶ崎市">茨城県龍ヶ崎市</a>|
 |18|1089|<span class="rank-name-pd">syun@N.C.U</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_54149?s_seq=54149">Cafe＆Dining YUMO</a>|<a href="/darts/rank/茨城県/水戸市">茨城県水戸市</a>|
 |19|1087|<span class="rank-name-dl">佐久間祐也</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
 |20|1086|<span class="rank-name-dl">遅澤 厚志</span>|<a href="https://search.dartslive.com/jp/shop/71710c6e936d4c37774c926eb736cb5a">快活CLUB つくば稲荷前店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
@@ -73,7 +73,7 @@ ___
 |22|1079|<span class="rank-name-dl">ずん</span>|<a href="https://search.dartslive.com/jp/shop/71710c6e936d4c37774c926eb736cb5a">快活CLUB つくば稲荷前店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
 |22|1079|<span class="rank-name-pd"><span class="pro-icon-pd"></span>佐久間 祐也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70341?s_seq=70341">サイベックスSTEPつくば店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
 |24|1074|<span class="rank-name-pd">新井 孝典</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59189?s_seq=59189">naked bar</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
-|24|1074|<span class="rank-name-dl">柾</span>|<a href="https://search.dartslive.com/jp/shop/4a6e8de35680eabd0d9b047a20a7ba1e">サイバック 龍ヶ崎店</a>|<a href="/darts/rank/茨城県/龍ケ崎市">茨城県龍ケ崎市</a>|
+|24|1074|<span class="rank-name-dl">柾</span>|<a href="https://search.dartslive.com/jp/shop/4a6e8de35680eabd0d9b047a20a7ba1e">サイバック 龍ヶ崎店</a>|<a href="/darts/rank/茨城県/龍ヶ崎市">茨城県龍ヶ崎市</a>|
 |26|1070|<span class="rank-name-pd"><span class="pro-icon-pd"></span>山口 和将</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58745?s_seq=58745">BAR Ol'e</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
 |27|1068|<span class="rank-name-dl">…</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
 |28|1066|<span class="rank-name-pd">あーりー⊿</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9297?s_seq=9297">ビッグベンカフェ勝田店</a>|<a href="/darts/rank/茨城県/ひたちなか市">茨城県ひたちなか市</a>|
@@ -82,7 +82,7 @@ ___
 |31|1050|<span class="rank-name-pd">Shunki Ioka</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49693?s_seq=49693">CAFE BAR WAKE</a>|<a href="/darts/rank/茨城県/坂東市">茨城県坂東市</a>|
 |32|1047|<span class="rank-name-dl">【頷】服部 祐生</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
 |32|1047|<span class="rank-name-pd">柾</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46643?s_seq=46643">サイバック龍ヶ崎店</a>|<a href="/darts/rank/茨城県/龍ケ崎市">茨城県龍ケ崎市</a>|
-|34|1046|<span class="rank-name-dl">NOIR【ﾉﾜｰﾙ】</span>|<a href="https://search.dartslive.com/jp/shop/4a6e8de35680eabd0d9b047a20a7ba1e">サイバック 龍ヶ崎店</a>|<a href="/darts/rank/茨城県/龍ケ崎市">茨城県龍ケ崎市</a>|
+|34|1046|<span class="rank-name-dl">NOIR【ﾉﾜｰﾙ】</span>|<a href="https://search.dartslive.com/jp/shop/4a6e8de35680eabd0d9b047a20a7ba1e">サイバック 龍ヶ崎店</a>|<a href="/darts/rank/茨城県/龍ヶ崎市">茨城県龍ヶ崎市</a>|
 |34|1046|<span class="rank-name-pd">新井 孝典</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_43251?s_seq=43251">快活CLUB 水戸渡里店</a>|<a href="/darts/rank/茨城県/水戸市">茨城県水戸市</a>|
 |36|1044|<span class="rank-name-pd"><span class="pro-icon-pd"></span>佐久間 祐也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59189?s_seq=59189">naked bar</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
 |37|1035|<span class="rank-name-dl">いがぴょん</span>|<a href="https://search.dartslive.com/jp/shop/1ecf790d0bcd382d790ab824ce8730e5">快活CLUB 124号鹿嶋店</a>|<a href="/darts/rank/茨城県/鹿嶋市">茨城県鹿嶋市</a>|
@@ -136,7 +136,7 @@ ___
 |85|981|<span class="rank-name-dl">ゆうち</span>|<a href="https://search.dartslive.com/jp/shop/71710c6e936d4c37774c926eb736cb5a">快活CLUB つくば稲荷前店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
 |86|980|<span class="rank-name-pd">吉田 悠人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59189?s_seq=59189">naked bar</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
 |86|980|<span class="rank-name-dl">燎</span>|<a href="https://search.dartslive.com/jp/shop/97dc222d5af81cdb25d56fb0e5c39bac">快活CLUB 日立北店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|88|979|<span class="rank-name-dl">あぜみ。</span>|<a href="https://search.dartslive.com/jp/shop/4a6e8de35680eabd0d9b047a20a7ba1e">サイバック 龍ヶ崎店</a>|<a href="/darts/rank/茨城県/龍ケ崎市">茨城県龍ケ崎市</a>|
+|88|979|<span class="rank-name-dl">あぜみ。</span>|<a href="https://search.dartslive.com/jp/shop/4a6e8de35680eabd0d9b047a20a7ba1e">サイバック 龍ヶ崎店</a>|<a href="/darts/rank/茨城県/龍ヶ崎市">茨城県龍ヶ崎市</a>|
 |89|978|<span class="rank-name-pd">志氣 勇人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46144?s_seq=46144">Darts&Bar MaaBo</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
 |89|978|<span class="rank-name-dl">鈴木 ユウト★</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
 |91|977|<span class="rank-name-dl">NAO</span>|<a href="https://search.dartslive.com/jp/shop/d51bd0e520b7a6dd0d9b047a20a7ba1e">ビッグベンカフェ勝田店</a>|<a href="/darts/rank/茨城県/ひたちなか市">茨城県ひたちなか市</a>|
@@ -166,16 +166,16 @@ ___
 |6|1102|<span class="rank-name-dl">新井 孝典</span>|<a href="https://search.dartslive.com/jp/shop/71710c6e936d4c37774c926eb736cb5a">快活CLUB つくば稲荷前店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
 |7|1095|<span class="rank-name-dl">O</span>|<a href="https://search.dartslive.com/jp/shop/71710c6e936d4c37774c926eb736cb5a">快活CLUB つくば稲荷前店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
 |8|1094|<span class="rank-name-dl">佐久間祐也</span>|<a href="https://search.dartslive.com/jp/shop/f067ce74d196dd060d9b047a20a7ba1e">カラオケBANBAN神立店</a>|<a href="/darts/rank/茨城県/土浦市">茨城県土浦市</a>|
-|9|1090|<span class="rank-name-dl">いおかしゅんき。</span>|<a href="https://search.dartslive.com/jp/shop/4a6e8de35680eabd0d9b047a20a7ba1e">サイバック 龍ヶ崎店</a>|<a href="/darts/rank/茨城県/龍ケ崎市">茨城県龍ケ崎市</a>|
+|9|1090|<span class="rank-name-dl">いおかしゅんき。</span>|<a href="https://search.dartslive.com/jp/shop/4a6e8de35680eabd0d9b047a20a7ba1e">サイバック 龍ヶ崎店</a>|<a href="/darts/rank/茨城県/龍ヶ崎市">茨城県龍ヶ崎市</a>|
 |10|1087|<span class="rank-name-dl">佐久間祐也</span>|<a href="https://search.dartslive.com/jp/shop/14117e10ca5c82befec1ae84bb28bd87">Root</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
 |11|1086|<span class="rank-name-dl">遅澤 厚志</span>|<a href="https://search.dartslive.com/jp/shop/71710c6e936d4c37774c926eb736cb5a">快活CLUB つくば稲荷前店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
 |12|1081|<span class="rank-name-dl">遅澤 厚志</span>|<a href="https://search.dartslive.com/jp/shop/2c066495b051af08774c926eb736cb5a">快活CLUB 土浦荒川沖店</a>|<a href="/darts/rank/茨城県/土浦市">茨城県土浦市</a>|
 |13|1079|<span class="rank-name-dl">ずん</span>|<a href="https://search.dartslive.com/jp/shop/71710c6e936d4c37774c926eb736cb5a">快活CLUB つくば稲荷前店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
-|14|1074|<span class="rank-name-dl">柾</span>|<a href="https://search.dartslive.com/jp/shop/4a6e8de35680eabd0d9b047a20a7ba1e">サイバック 龍ヶ崎店</a>|<a href="/darts/rank/茨城県/龍ケ崎市">茨城県龍ケ崎市</a>|
+|14|1074|<span class="rank-name-dl">柾</span>|<a href="https://search.dartslive.com/jp/shop/4a6e8de35680eabd0d9b047a20a7ba1e">サイバック 龍ヶ崎店</a>|<a href="/darts/rank/茨城県/龍ヶ崎市">茨城県龍ヶ崎市</a>|
 |15|1068|<span class="rank-name-dl">…</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
 |16|1060|<span class="rank-name-dl">ﾊﾞﾙｶﾝ300 ｼﾞｴﾝﾄﾞ</span>|<a href="https://search.dartslive.com/jp/shop/71710c6e936d4c37774c926eb736cb5a">快活CLUB つくば稲荷前店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
 |17|1047|<span class="rank-name-dl">【頷】服部 祐生</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
-|18|1046|<span class="rank-name-dl">NOIR【ﾉﾜｰﾙ】</span>|<a href="https://search.dartslive.com/jp/shop/4a6e8de35680eabd0d9b047a20a7ba1e">サイバック 龍ヶ崎店</a>|<a href="/darts/rank/茨城県/龍ケ崎市">茨城県龍ケ崎市</a>|
+|18|1046|<span class="rank-name-dl">NOIR【ﾉﾜｰﾙ】</span>|<a href="https://search.dartslive.com/jp/shop/4a6e8de35680eabd0d9b047a20a7ba1e">サイバック 龍ヶ崎店</a>|<a href="/darts/rank/茨城県/龍ヶ崎市">茨城県龍ヶ崎市</a>|
 |19|1035|<span class="rank-name-dl">いがぴょん</span>|<a href="https://search.dartslive.com/jp/shop/1ecf790d0bcd382d790ab824ce8730e5">快活CLUB 124号鹿嶋店</a>|<a href="/darts/rank/茨城県/鹿嶋市">茨城県鹿嶋市</a>|
 |19|1035|<span class="rank-name-dl">もぐら</span>|<a href="https://search.dartslive.com/jp/shop/2c066495b051af08774c926eb736cb5a">快活CLUB 土浦荒川沖店</a>|<a href="/darts/rank/茨城県/土浦市">茨城県土浦市</a>|
 |21|1025|<span class="rank-name-dl">ゆうじ WAKE</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
@@ -208,7 +208,7 @@ ___
 |47|985|<span class="rank-name-dl">よっしー</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
 |49|981|<span class="rank-name-dl">ゆうち</span>|<a href="https://search.dartslive.com/jp/shop/71710c6e936d4c37774c926eb736cb5a">快活CLUB つくば稲荷前店</a>|<a href="/darts/rank/茨城県/つくば市">茨城県つくば市</a>|
 |50|980|<span class="rank-name-dl">燎</span>|<a href="https://search.dartslive.com/jp/shop/97dc222d5af81cdb25d56fb0e5c39bac">快活CLUB 日立北店</a>|<a href="/darts/rank/茨城県/日立市">茨城県日立市</a>|
-|51|979|<span class="rank-name-dl">あぜみ。</span>|<a href="https://search.dartslive.com/jp/shop/4a6e8de35680eabd0d9b047a20a7ba1e">サイバック 龍ヶ崎店</a>|<a href="/darts/rank/茨城県/龍ケ崎市">茨城県龍ケ崎市</a>|
+|51|979|<span class="rank-name-dl">あぜみ。</span>|<a href="https://search.dartslive.com/jp/shop/4a6e8de35680eabd0d9b047a20a7ba1e">サイバック 龍ヶ崎店</a>|<a href="/darts/rank/茨城県/龍ヶ崎市">茨城県龍ヶ崎市</a>|
 |52|978|<span class="rank-name-dl">鈴木 ユウト★</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
 |53|977|<span class="rank-name-dl">NAO</span>|<a href="https://search.dartslive.com/jp/shop/d51bd0e520b7a6dd0d9b047a20a7ba1e">ビッグベンカフェ勝田店</a>|<a href="/darts/rank/茨城県/ひたちなか市">茨城県ひたちなか市</a>|
 |53|977|<span class="rank-name-dl">…</span>|<a href="https://search.dartslive.com/jp/shop/b74cc75bb15d67535f9f3321c1147265">快活CLUB 水戸渡里店</a>|<a href="/darts/rank/茨城県/水戸市">茨城県水戸市</a>|
