@@ -23,17 +23,19 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|771|<span class="rank-name-dl">KAZU</span>|<a href="https://search.dartslive.com/jp/shop/da86f66bef458f7d0d9b047a20a7ba1e">YOI</a>|<a href="/darts/rank/三重県/桑名市">三重県桑名市</a>|
-|2|754|<span class="rank-name-dl">きのこ</span>|<a href="https://search.dartslive.com/jp/shop/da86f66bef458f7d0d9b047a20a7ba1e">YOI</a>|<a href="/darts/rank/三重県/桑名市">三重県桑名市</a>|
-|3|717|<span class="rank-name-dl">フー(^^;)</span>|<a href="https://search.dartslive.com/jp/shop/da86f66bef458f7d0d9b047a20a7ba1e">YOI</a>|<a href="/darts/rank/三重県/桑名市">三重県桑名市</a>|
-|4|669|<span class="rank-name-dl">yuki</span>|<a href="https://search.dartslive.com/jp/shop/da86f66bef458f7d0d9b047a20a7ba1e">YOI</a>|<a href="/darts/rank/三重県/桑名市">三重県桑名市</a>|
-|5|574|<span class="rank-name-dl">けらんちむ</span>|<a href="https://search.dartslive.com/jp/shop/da86f66bef458f7d0d9b047a20a7ba1e">YOI</a>|<a href="/darts/rank/三重県/桑名市">三重県桑名市</a>|
-|6|538|<span class="rank-name-dl">いっせい</span>|<a href="https://search.dartslive.com/jp/shop/da86f66bef458f7d0d9b047a20a7ba1e">YOI</a>|<a href="/darts/rank/三重県/桑名市">三重県桑名市</a>|
-|7|529|<span class="rank-name-dl">みのるだよい</span>|<a href="https://search.dartslive.com/jp/shop/da86f66bef458f7d0d9b047a20a7ba1e">YOI</a>|<a href="/darts/rank/三重県/桑名市">三重県桑名市</a>|
-|8|520|<span class="rank-name-dl">ゆ</span>|<a href="https://search.dartslive.com/jp/shop/da86f66bef458f7d0d9b047a20a7ba1e">YOI</a>|<a href="/darts/rank/三重県/桑名市">三重県桑名市</a>|
-|9|505|<span class="rank-name-dl">もやし</span>|<a href="https://search.dartslive.com/jp/shop/da86f66bef458f7d0d9b047a20a7ba1e">YOI</a>|<a href="/darts/rank/三重県/桑名市">三重県桑名市</a>|
-|10|370|<span class="rank-name-dl">ちーかま</span>|<a href="https://search.dartslive.com/jp/shop/da86f66bef458f7d0d9b047a20a7ba1e">YOI</a>|<a href="/darts/rank/三重県/桑名市">三重県桑名市</a>|
-|11|275|<span class="rank-name-dl">( ◠‿◠ )</span>|<a href="https://search.dartslive.com/jp/shop/da86f66bef458f7d0d9b047a20a7ba1e">YOI</a>|<a href="/darts/rank/三重県/桑名市">三重県桑名市</a>|
+|1|841|<span class="rank-name-dl">殿の一撃ﾆｬﾝﾑﾝ@</span>|<a href="https://search.dartslive.com/jp/shop/da86f66bef458f7d0d9b047a20a7ba1e">YOI</a>|<a href="/darts/rank/三重県/桑名市">三重県桑名市</a>|
+|2|771|<span class="rank-name-dl">KAZU</span>|<a href="https://search.dartslive.com/jp/shop/da86f66bef458f7d0d9b047a20a7ba1e">YOI</a>|<a href="/darts/rank/三重県/桑名市">三重県桑名市</a>|
+|3|754|<span class="rank-name-dl">きのこ</span>|<a href="https://search.dartslive.com/jp/shop/da86f66bef458f7d0d9b047a20a7ba1e">YOI</a>|<a href="/darts/rank/三重県/桑名市">三重県桑名市</a>|
+|4|738|<span class="rank-name-dl">ざこちゃん</span>|<a href="https://search.dartslive.com/jp/shop/da86f66bef458f7d0d9b047a20a7ba1e">YOI</a>|<a href="/darts/rank/三重県/桑名市">三重県桑名市</a>|
+|5|717|<span class="rank-name-dl">フー(^^;)</span>|<a href="https://search.dartslive.com/jp/shop/da86f66bef458f7d0d9b047a20a7ba1e">YOI</a>|<a href="/darts/rank/三重県/桑名市">三重県桑名市</a>|
+|6|669|<span class="rank-name-dl">yuki</span>|<a href="https://search.dartslive.com/jp/shop/da86f66bef458f7d0d9b047a20a7ba1e">YOI</a>|<a href="/darts/rank/三重県/桑名市">三重県桑名市</a>|
+|7|574|<span class="rank-name-dl">けらんちむ</span>|<a href="https://search.dartslive.com/jp/shop/da86f66bef458f7d0d9b047a20a7ba1e">YOI</a>|<a href="/darts/rank/三重県/桑名市">三重県桑名市</a>|
+|8|563|<span class="rank-name-dl">みのるだよい</span>|<a href="https://search.dartslive.com/jp/shop/da86f66bef458f7d0d9b047a20a7ba1e">YOI</a>|<a href="/darts/rank/三重県/桑名市">三重県桑名市</a>|
+|9|538|<span class="rank-name-dl">いっせい</span>|<a href="https://search.dartslive.com/jp/shop/da86f66bef458f7d0d9b047a20a7ba1e">YOI</a>|<a href="/darts/rank/三重県/桑名市">三重県桑名市</a>|
+|10|520|<span class="rank-name-dl">ゆ</span>|<a href="https://search.dartslive.com/jp/shop/da86f66bef458f7d0d9b047a20a7ba1e">YOI</a>|<a href="/darts/rank/三重県/桑名市">三重県桑名市</a>|
+|11|505|<span class="rank-name-dl">もやし</span>|<a href="https://search.dartslive.com/jp/shop/da86f66bef458f7d0d9b047a20a7ba1e">YOI</a>|<a href="/darts/rank/三重県/桑名市">三重県桑名市</a>|
+|12|370|<span class="rank-name-dl">ちーかま</span>|<a href="https://search.dartslive.com/jp/shop/da86f66bef458f7d0d9b047a20a7ba1e">YOI</a>|<a href="/darts/rank/三重県/桑名市">三重県桑名市</a>|
+|13|275|<span class="rank-name-dl">( ◠‿◠ )</span>|<a href="https://search.dartslive.com/jp/shop/da86f66bef458f7d0d9b047a20a7ba1e">YOI</a>|<a href="/darts/rank/三重県/桑名市">三重県桑名市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -43,17 +45,19 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|771|<span class="rank-name-dl">KAZU</span>|<a href="https://search.dartslive.com/jp/shop/da86f66bef458f7d0d9b047a20a7ba1e">YOI</a>|<a href="/darts/rank/三重県/桑名市">三重県桑名市</a>|
-|2|754|<span class="rank-name-dl">きのこ</span>|<a href="https://search.dartslive.com/jp/shop/da86f66bef458f7d0d9b047a20a7ba1e">YOI</a>|<a href="/darts/rank/三重県/桑名市">三重県桑名市</a>|
-|3|717|<span class="rank-name-dl">フー(^^;)</span>|<a href="https://search.dartslive.com/jp/shop/da86f66bef458f7d0d9b047a20a7ba1e">YOI</a>|<a href="/darts/rank/三重県/桑名市">三重県桑名市</a>|
-|4|669|<span class="rank-name-dl">yuki</span>|<a href="https://search.dartslive.com/jp/shop/da86f66bef458f7d0d9b047a20a7ba1e">YOI</a>|<a href="/darts/rank/三重県/桑名市">三重県桑名市</a>|
-|5|574|<span class="rank-name-dl">けらんちむ</span>|<a href="https://search.dartslive.com/jp/shop/da86f66bef458f7d0d9b047a20a7ba1e">YOI</a>|<a href="/darts/rank/三重県/桑名市">三重県桑名市</a>|
-|6|538|<span class="rank-name-dl">いっせい</span>|<a href="https://search.dartslive.com/jp/shop/da86f66bef458f7d0d9b047a20a7ba1e">YOI</a>|<a href="/darts/rank/三重県/桑名市">三重県桑名市</a>|
-|7|529|<span class="rank-name-dl">みのるだよい</span>|<a href="https://search.dartslive.com/jp/shop/da86f66bef458f7d0d9b047a20a7ba1e">YOI</a>|<a href="/darts/rank/三重県/桑名市">三重県桑名市</a>|
-|8|520|<span class="rank-name-dl">ゆ</span>|<a href="https://search.dartslive.com/jp/shop/da86f66bef458f7d0d9b047a20a7ba1e">YOI</a>|<a href="/darts/rank/三重県/桑名市">三重県桑名市</a>|
-|9|505|<span class="rank-name-dl">もやし</span>|<a href="https://search.dartslive.com/jp/shop/da86f66bef458f7d0d9b047a20a7ba1e">YOI</a>|<a href="/darts/rank/三重県/桑名市">三重県桑名市</a>|
-|10|370|<span class="rank-name-dl">ちーかま</span>|<a href="https://search.dartslive.com/jp/shop/da86f66bef458f7d0d9b047a20a7ba1e">YOI</a>|<a href="/darts/rank/三重県/桑名市">三重県桑名市</a>|
-|11|275|<span class="rank-name-dl">( ◠‿◠ )</span>|<a href="https://search.dartslive.com/jp/shop/da86f66bef458f7d0d9b047a20a7ba1e">YOI</a>|<a href="/darts/rank/三重県/桑名市">三重県桑名市</a>|
+|1|841|<span class="rank-name-dl">殿の一撃ﾆｬﾝﾑﾝ@</span>|<a href="https://search.dartslive.com/jp/shop/da86f66bef458f7d0d9b047a20a7ba1e">YOI</a>|<a href="/darts/rank/三重県/桑名市">三重県桑名市</a>|
+|2|771|<span class="rank-name-dl">KAZU</span>|<a href="https://search.dartslive.com/jp/shop/da86f66bef458f7d0d9b047a20a7ba1e">YOI</a>|<a href="/darts/rank/三重県/桑名市">三重県桑名市</a>|
+|3|754|<span class="rank-name-dl">きのこ</span>|<a href="https://search.dartslive.com/jp/shop/da86f66bef458f7d0d9b047a20a7ba1e">YOI</a>|<a href="/darts/rank/三重県/桑名市">三重県桑名市</a>|
+|4|738|<span class="rank-name-dl">ざこちゃん</span>|<a href="https://search.dartslive.com/jp/shop/da86f66bef458f7d0d9b047a20a7ba1e">YOI</a>|<a href="/darts/rank/三重県/桑名市">三重県桑名市</a>|
+|5|717|<span class="rank-name-dl">フー(^^;)</span>|<a href="https://search.dartslive.com/jp/shop/da86f66bef458f7d0d9b047a20a7ba1e">YOI</a>|<a href="/darts/rank/三重県/桑名市">三重県桑名市</a>|
+|6|669|<span class="rank-name-dl">yuki</span>|<a href="https://search.dartslive.com/jp/shop/da86f66bef458f7d0d9b047a20a7ba1e">YOI</a>|<a href="/darts/rank/三重県/桑名市">三重県桑名市</a>|
+|7|574|<span class="rank-name-dl">けらんちむ</span>|<a href="https://search.dartslive.com/jp/shop/da86f66bef458f7d0d9b047a20a7ba1e">YOI</a>|<a href="/darts/rank/三重県/桑名市">三重県桑名市</a>|
+|8|563|<span class="rank-name-dl">みのるだよい</span>|<a href="https://search.dartslive.com/jp/shop/da86f66bef458f7d0d9b047a20a7ba1e">YOI</a>|<a href="/darts/rank/三重県/桑名市">三重県桑名市</a>|
+|9|538|<span class="rank-name-dl">いっせい</span>|<a href="https://search.dartslive.com/jp/shop/da86f66bef458f7d0d9b047a20a7ba1e">YOI</a>|<a href="/darts/rank/三重県/桑名市">三重県桑名市</a>|
+|10|520|<span class="rank-name-dl">ゆ</span>|<a href="https://search.dartslive.com/jp/shop/da86f66bef458f7d0d9b047a20a7ba1e">YOI</a>|<a href="/darts/rank/三重県/桑名市">三重県桑名市</a>|
+|11|505|<span class="rank-name-dl">もやし</span>|<a href="https://search.dartslive.com/jp/shop/da86f66bef458f7d0d9b047a20a7ba1e">YOI</a>|<a href="/darts/rank/三重県/桑名市">三重県桑名市</a>|
+|12|370|<span class="rank-name-dl">ちーかま</span>|<a href="https://search.dartslive.com/jp/shop/da86f66bef458f7d0d9b047a20a7ba1e">YOI</a>|<a href="/darts/rank/三重県/桑名市">三重県桑名市</a>|
+|13|275|<span class="rank-name-dl">( ◠‿◠ )</span>|<a href="https://search.dartslive.com/jp/shop/da86f66bef458f7d0d9b047a20a7ba1e">YOI</a>|<a href="/darts/rank/三重県/桑名市">三重県桑名市</a>|
 
 
 #### PHOENIXDARTS TOP 100

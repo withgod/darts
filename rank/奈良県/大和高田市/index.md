@@ -47,7 +47,7 @@ ___
 |22|467|<span class="rank-name-dl">YUKA1129</span>|<a href="https://search.dartslive.com/jp/shop/9d4c3da1e21ccade0d9b047a20a7ba1e">あそびば 大和高田店</a>|<a href="/darts/rank/奈良県/大和高田市">奈良県大和高田市</a>|
 |23|442|<span class="rank-name-dl">☆愛犬家kte☆</span>|<a href="https://search.dartslive.com/jp/shop/9d4c3da1e21ccade0d9b047a20a7ba1e">あそびば 大和高田店</a>|<a href="/darts/rank/奈良県/大和高田市">奈良県大和高田市</a>|
 |24|437|<span class="rank-name-dl">r___&#x27;</span>|<a href="https://search.dartslive.com/jp/shop/9d4c3da1e21ccade0d9b047a20a7ba1e">あそびば 大和高田店</a>|<a href="/darts/rank/奈良県/大和高田市">奈良県大和高田市</a>|
-|25|366|<span class="rank-name-dl">★cha-maruXX</span>|<a href="https://search.dartslive.com/jp/shop/9d4c3da1e21ccade0d9b047a20a7ba1e">あそびば 大和高田店</a>|<a href="/darts/rank/奈良県/大和高田市">奈良県大和高田市</a>|
+|25|419|<span class="rank-name-dl">★cha-maruXX</span>|<a href="https://search.dartslive.com/jp/shop/9d4c3da1e21ccade0d9b047a20a7ba1e">あそびば 大和高田店</a>|<a href="/darts/rank/奈良県/大和高田市">奈良県大和高田市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -81,7 +81,7 @@ ___
 |22|467|<span class="rank-name-dl">YUKA1129</span>|<a href="https://search.dartslive.com/jp/shop/9d4c3da1e21ccade0d9b047a20a7ba1e">あそびば 大和高田店</a>|<a href="/darts/rank/奈良県/大和高田市">奈良県大和高田市</a>|
 |23|442|<span class="rank-name-dl">☆愛犬家kte☆</span>|<a href="https://search.dartslive.com/jp/shop/9d4c3da1e21ccade0d9b047a20a7ba1e">あそびば 大和高田店</a>|<a href="/darts/rank/奈良県/大和高田市">奈良県大和高田市</a>|
 |24|437|<span class="rank-name-dl">r___&#x27;</span>|<a href="https://search.dartslive.com/jp/shop/9d4c3da1e21ccade0d9b047a20a7ba1e">あそびば 大和高田店</a>|<a href="/darts/rank/奈良県/大和高田市">奈良県大和高田市</a>|
-|25|366|<span class="rank-name-dl">★cha-maruXX</span>|<a href="https://search.dartslive.com/jp/shop/9d4c3da1e21ccade0d9b047a20a7ba1e">あそびば 大和高田店</a>|<a href="/darts/rank/奈良県/大和高田市">奈良県大和高田市</a>|
+|25|419|<span class="rank-name-dl">★cha-maruXX</span>|<a href="https://search.dartslive.com/jp/shop/9d4c3da1e21ccade0d9b047a20a7ba1e">あそびば 大和高田店</a>|<a href="/darts/rank/奈良県/大和高田市">奈良県大和高田市</a>|
 
 
 #### PHOENIXDARTS TOP 100

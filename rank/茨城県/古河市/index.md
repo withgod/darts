@@ -36,22 +36,21 @@ ___
 |10|608|<span class="rank-name-dl">ぶんぶん</span>|<a href="https://search.dartslive.com/jp/shop/a66721ff2d26cd49790ab824ce8730e5">複合カフェ ACE 古河店</a>|<a href="/darts/rank/茨城県/古河市">茨城県古河市</a>|
 |12|592|<span class="rank-name-dl">活龍境店の人</span>|<a href="https://search.dartslive.com/jp/shop/a66721ff2d26cd49790ab824ce8730e5">複合カフェ ACE 古河店</a>|<a href="/darts/rank/茨城県/古河市">茨城県古河市</a>|
 |13|578|<span class="rank-name-pd">たくみ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10390?s_seq=10390">複合カフェACE 古河店</a>|<a href="/darts/rank/茨城県/古河市">茨城県古河市</a>|
-|14|514|<span class="rank-name-dl">a</span>|<a href="https://search.dartslive.com/jp/shop/a66721ff2d26cd49790ab824ce8730e5">複合カフェ ACE 古河店</a>|<a href="/darts/rank/茨城県/古河市">茨城県古河市</a>|
-|14|514|<span class="rank-name-dl">あゆむ</span>|<a href="https://search.dartslive.com/jp/shop/a66721ff2d26cd49790ab824ce8730e5">複合カフェ ACE 古河店</a>|<a href="/darts/rank/茨城県/古河市">茨城県古河市</a>|
-|16|500|<span class="rank-name-dl">Rei</span>|<a href="https://search.dartslive.com/jp/shop/a66721ff2d26cd49790ab824ce8730e5">複合カフェ ACE 古河店</a>|<a href="/darts/rank/茨城県/古河市">茨城県古河市</a>|
+|14|515|<span class="rank-name-dl">Rei</span>|<a href="https://search.dartslive.com/jp/shop/a66721ff2d26cd49790ab824ce8730e5">複合カフェ ACE 古河店</a>|<a href="/darts/rank/茨城県/古河市">茨城県古河市</a>|
+|15|514|<span class="rank-name-dl">a</span>|<a href="https://search.dartslive.com/jp/shop/a66721ff2d26cd49790ab824ce8730e5">複合カフェ ACE 古河店</a>|<a href="/darts/rank/茨城県/古河市">茨城県古河市</a>|
+|15|514|<span class="rank-name-dl">あゆむ</span>|<a href="https://search.dartslive.com/jp/shop/a66721ff2d26cd49790ab824ce8730e5">複合カフェ ACE 古河店</a>|<a href="/darts/rank/茨城県/古河市">茨城県古河市</a>|
 |17|492|<span class="rank-name-pd">あざらし@基礎構築中</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10390?s_seq=10390">複合カフェACE 古河店</a>|<a href="/darts/rank/茨城県/古河市">茨城県古河市</a>|
 |18|491|<span class="rank-name-pd">ずんだ餅</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10390?s_seq=10390">複合カフェACE 古河店</a>|<a href="/darts/rank/茨城県/古河市">茨城県古河市</a>|
 |19|489|<span class="rank-name-pd">活龍の人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10390?s_seq=10390">複合カフェACE 古河店</a>|<a href="/darts/rank/茨城県/古河市">茨城県古河市</a>|
-|20|476|<span class="rank-name-dl">ごっちゃ</span>|<a href="https://search.dartslive.com/jp/shop/a66721ff2d26cd49790ab824ce8730e5">複合カフェ ACE 古河店</a>|<a href="/darts/rank/茨城県/古河市">茨城県古河市</a>|
-|21|462|<span class="rank-name-dl">NO NAME 0545</span>|<a href="https://search.dartslive.com/jp/shop/a66721ff2d26cd49790ab824ce8730e5">複合カフェ ACE 古河店</a>|<a href="/darts/rank/茨城県/古河市">茨城県古河市</a>|
-|22|457|<span class="rank-name-dl">hiryu</span>|<a href="https://search.dartslive.com/jp/shop/a66721ff2d26cd49790ab824ce8730e5">複合カフェ ACE 古河店</a>|<a href="/darts/rank/茨城県/古河市">茨城県古河市</a>|
-|23|448|<span class="rank-name-dl">☆ゴディバ☆</span>|<a href="https://search.dartslive.com/jp/shop/a66721ff2d26cd49790ab824ce8730e5">複合カフェ ACE 古河店</a>|<a href="/darts/rank/茨城県/古河市">茨城県古河市</a>|
+|20|479|<span class="rank-name-dl">しゃーぞー</span>|<a href="https://search.dartslive.com/jp/shop/a66721ff2d26cd49790ab824ce8730e5">複合カフェ ACE 古河店</a>|<a href="/darts/rank/茨城県/古河市">茨城県古河市</a>|
+|21|476|<span class="rank-name-dl">ごっちゃ</span>|<a href="https://search.dartslive.com/jp/shop/a66721ff2d26cd49790ab824ce8730e5">複合カフェ ACE 古河店</a>|<a href="/darts/rank/茨城県/古河市">茨城県古河市</a>|
+|22|462|<span class="rank-name-dl">NO NAME 0545</span>|<a href="https://search.dartslive.com/jp/shop/a66721ff2d26cd49790ab824ce8730e5">複合カフェ ACE 古河店</a>|<a href="/darts/rank/茨城県/古河市">茨城県古河市</a>|
+|23|457|<span class="rank-name-dl">hiryu</span>|<a href="https://search.dartslive.com/jp/shop/a66721ff2d26cd49790ab824ce8730e5">複合カフェ ACE 古河店</a>|<a href="/darts/rank/茨城県/古河市">茨城県古河市</a>|
 |24|444|<span class="rank-name-dl">Ｊ1110Ｊ</span>|<a href="https://search.dartslive.com/jp/shop/a66721ff2d26cd49790ab824ce8730e5">複合カフェ ACE 古河店</a>|<a href="/darts/rank/茨城県/古河市">茨城県古河市</a>|
 |25|434|<span class="rank-name-pd">MASA4142</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10390?s_seq=10390">複合カフェACE 古河店</a>|<a href="/darts/rank/茨城県/古河市">茨城県古河市</a>|
 |26|404|<span class="rank-name-pd">ぼぶ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10390?s_seq=10390">複合カフェACE 古河店</a>|<a href="/darts/rank/茨城県/古河市">茨城県古河市</a>|
-|27|400|<span class="rank-name-dl">ＴＡＫＡ！！</span>|<a href="https://search.dartslive.com/jp/shop/a66721ff2d26cd49790ab824ce8730e5">複合カフェ ACE 古河店</a>|<a href="/darts/rank/茨城県/古河市">茨城県古河市</a>|
-|28|350|<span class="rank-name-pd">giepi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10390?s_seq=10390">複合カフェACE 古河店</a>|<a href="/darts/rank/茨城県/古河市">茨城県古河市</a>|
-|29|217|<span class="rank-name-pd">vsPHENIX</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10390?s_seq=10390">複合カフェACE 古河店</a>|<a href="/darts/rank/茨城県/古河市">茨城県古河市</a>|
+|27|350|<span class="rank-name-pd">giepi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10390?s_seq=10390">複合カフェACE 古河店</a>|<a href="/darts/rank/茨城県/古河市">茨城県古河市</a>|
+|28|217|<span class="rank-name-pd">vsPHENIX</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10390?s_seq=10390">複合カフェACE 古河店</a>|<a href="/darts/rank/茨城県/古河市">茨城県古河市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -68,15 +67,14 @@ ___
 |5|635|<span class="rank-name-dl">( ꒪⌓꒪)</span>|<a href="https://search.dartslive.com/jp/shop/a66721ff2d26cd49790ab824ce8730e5">複合カフェ ACE 古河店</a>|<a href="/darts/rank/茨城県/古河市">茨城県古河市</a>|
 |6|608|<span class="rank-name-dl">ぶんぶん</span>|<a href="https://search.dartslive.com/jp/shop/a66721ff2d26cd49790ab824ce8730e5">複合カフェ ACE 古河店</a>|<a href="/darts/rank/茨城県/古河市">茨城県古河市</a>|
 |7|592|<span class="rank-name-dl">活龍境店の人</span>|<a href="https://search.dartslive.com/jp/shop/a66721ff2d26cd49790ab824ce8730e5">複合カフェ ACE 古河店</a>|<a href="/darts/rank/茨城県/古河市">茨城県古河市</a>|
-|8|514|<span class="rank-name-dl">a</span>|<a href="https://search.dartslive.com/jp/shop/a66721ff2d26cd49790ab824ce8730e5">複合カフェ ACE 古河店</a>|<a href="/darts/rank/茨城県/古河市">茨城県古河市</a>|
-|8|514|<span class="rank-name-dl">あゆむ</span>|<a href="https://search.dartslive.com/jp/shop/a66721ff2d26cd49790ab824ce8730e5">複合カフェ ACE 古河店</a>|<a href="/darts/rank/茨城県/古河市">茨城県古河市</a>|
-|10|500|<span class="rank-name-dl">Rei</span>|<a href="https://search.dartslive.com/jp/shop/a66721ff2d26cd49790ab824ce8730e5">複合カフェ ACE 古河店</a>|<a href="/darts/rank/茨城県/古河市">茨城県古河市</a>|
-|11|476|<span class="rank-name-dl">ごっちゃ</span>|<a href="https://search.dartslive.com/jp/shop/a66721ff2d26cd49790ab824ce8730e5">複合カフェ ACE 古河店</a>|<a href="/darts/rank/茨城県/古河市">茨城県古河市</a>|
-|12|462|<span class="rank-name-dl">NO NAME 0545</span>|<a href="https://search.dartslive.com/jp/shop/a66721ff2d26cd49790ab824ce8730e5">複合カフェ ACE 古河店</a>|<a href="/darts/rank/茨城県/古河市">茨城県古河市</a>|
-|13|457|<span class="rank-name-dl">hiryu</span>|<a href="https://search.dartslive.com/jp/shop/a66721ff2d26cd49790ab824ce8730e5">複合カフェ ACE 古河店</a>|<a href="/darts/rank/茨城県/古河市">茨城県古河市</a>|
-|14|448|<span class="rank-name-dl">☆ゴディバ☆</span>|<a href="https://search.dartslive.com/jp/shop/a66721ff2d26cd49790ab824ce8730e5">複合カフェ ACE 古河店</a>|<a href="/darts/rank/茨城県/古河市">茨城県古河市</a>|
+|8|515|<span class="rank-name-dl">Rei</span>|<a href="https://search.dartslive.com/jp/shop/a66721ff2d26cd49790ab824ce8730e5">複合カフェ ACE 古河店</a>|<a href="/darts/rank/茨城県/古河市">茨城県古河市</a>|
+|9|514|<span class="rank-name-dl">a</span>|<a href="https://search.dartslive.com/jp/shop/a66721ff2d26cd49790ab824ce8730e5">複合カフェ ACE 古河店</a>|<a href="/darts/rank/茨城県/古河市">茨城県古河市</a>|
+|9|514|<span class="rank-name-dl">あゆむ</span>|<a href="https://search.dartslive.com/jp/shop/a66721ff2d26cd49790ab824ce8730e5">複合カフェ ACE 古河店</a>|<a href="/darts/rank/茨城県/古河市">茨城県古河市</a>|
+|11|479|<span class="rank-name-dl">しゃーぞー</span>|<a href="https://search.dartslive.com/jp/shop/a66721ff2d26cd49790ab824ce8730e5">複合カフェ ACE 古河店</a>|<a href="/darts/rank/茨城県/古河市">茨城県古河市</a>|
+|12|476|<span class="rank-name-dl">ごっちゃ</span>|<a href="https://search.dartslive.com/jp/shop/a66721ff2d26cd49790ab824ce8730e5">複合カフェ ACE 古河店</a>|<a href="/darts/rank/茨城県/古河市">茨城県古河市</a>|
+|13|462|<span class="rank-name-dl">NO NAME 0545</span>|<a href="https://search.dartslive.com/jp/shop/a66721ff2d26cd49790ab824ce8730e5">複合カフェ ACE 古河店</a>|<a href="/darts/rank/茨城県/古河市">茨城県古河市</a>|
+|14|457|<span class="rank-name-dl">hiryu</span>|<a href="https://search.dartslive.com/jp/shop/a66721ff2d26cd49790ab824ce8730e5">複合カフェ ACE 古河店</a>|<a href="/darts/rank/茨城県/古河市">茨城県古河市</a>|
 |15|444|<span class="rank-name-dl">Ｊ1110Ｊ</span>|<a href="https://search.dartslive.com/jp/shop/a66721ff2d26cd49790ab824ce8730e5">複合カフェ ACE 古河店</a>|<a href="/darts/rank/茨城県/古河市">茨城県古河市</a>|
-|16|400|<span class="rank-name-dl">ＴＡＫＡ！！</span>|<a href="https://search.dartslive.com/jp/shop/a66721ff2d26cd49790ab824ce8730e5">複合カフェ ACE 古河店</a>|<a href="/darts/rank/茨城県/古河市">茨城県古河市</a>|
 
 
 #### PHOENIXDARTS TOP 100

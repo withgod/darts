@@ -40,7 +40,6 @@ ___
 |15|527|<span class="rank-name-dl">Jr.</span>|<a href="https://search.dartslive.com/jp/shop/1f8976ec68ce69890d9b047a20a7ba1e">Cafe&Darts Clover</a>|<a href="/darts/rank/長野県/岡谷市">長野県岡谷市</a>|
 |16|458|<span class="rank-name-dl">ゆぅか</span>|<a href="https://search.dartslive.com/jp/shop/1f8976ec68ce69890d9b047a20a7ba1e">Cafe&Darts Clover</a>|<a href="/darts/rank/長野県/岡谷市">長野県岡谷市</a>|
 |17|454|<span class="rank-name-dl">かな 西野</span>|<a href="https://search.dartslive.com/jp/shop/1f8976ec68ce69890d9b047a20a7ba1e">Cafe&Darts Clover</a>|<a href="/darts/rank/長野県/岡谷市">長野県岡谷市</a>|
-|18|377|<span class="rank-name-dl">もえ</span>|<a href="https://search.dartslive.com/jp/shop/1f8976ec68ce69890d9b047a20a7ba1e">Cafe&Darts Clover</a>|<a href="/darts/rank/長野県/岡谷市">長野県岡谷市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -67,7 +66,6 @@ ___
 |15|527|<span class="rank-name-dl">Jr.</span>|<a href="https://search.dartslive.com/jp/shop/1f8976ec68ce69890d9b047a20a7ba1e">Cafe&Darts Clover</a>|<a href="/darts/rank/長野県/岡谷市">長野県岡谷市</a>|
 |16|458|<span class="rank-name-dl">ゆぅか</span>|<a href="https://search.dartslive.com/jp/shop/1f8976ec68ce69890d9b047a20a7ba1e">Cafe&Darts Clover</a>|<a href="/darts/rank/長野県/岡谷市">長野県岡谷市</a>|
 |17|454|<span class="rank-name-dl">かな 西野</span>|<a href="https://search.dartslive.com/jp/shop/1f8976ec68ce69890d9b047a20a7ba1e">Cafe&Darts Clover</a>|<a href="/darts/rank/長野県/岡谷市">長野県岡谷市</a>|
-|18|377|<span class="rank-name-dl">もえ</span>|<a href="https://search.dartslive.com/jp/shop/1f8976ec68ce69890d9b047a20a7ba1e">Cafe&Darts Clover</a>|<a href="/darts/rank/長野県/岡谷市">長野県岡谷市</a>|
 
 
 #### PHOENIXDARTS TOP 100

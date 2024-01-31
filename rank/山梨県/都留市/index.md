@@ -32,71 +32,78 @@ ___
 |7|918|<span class="rank-name-dl">はやと</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
 |8|908|<span class="rank-name-pd">えめすけ@MARRY’S</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
 |9|907|<span class="rank-name-pd">あむゆ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|10|893|<span class="rank-name-pd">杉山 良太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|10|893|<span class="rank-name-pd"><span class="pro-icon-pd"></span>杉山 良太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
 |11|874|<span class="rank-name-pd">Joker</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
 |11|874|<span class="rank-name-dl">TAKA⭐</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
 |13|866|<span class="rank-name-dl">KA2</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
 |14|863|<span class="rank-name-pd">YUSHIN&amp;S.GARAGE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
 |15|862|<span class="rank-name-pd">童矢会タカ坊！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|16|825|<span class="rank-name-pd">Ａ           D     G</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|17|812|<span class="rank-name-pd">A.A.M.T</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|18|805|<span class="rank-name-dl">すぎにゃん♫</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|19|803|<span class="rank-name-pd">小林 博志</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|20|793|<span class="rank-name-pd">量産型ともくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|21|776|<span class="rank-name-dl">かすみ　Joker</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|22|775|<span class="rank-name-pd">RIC</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|23|771|<span class="rank-name-dl">yushin</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|24|763|<span class="rank-name-pd">ちゃぼ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|25|754|<span class="rank-name-pd">toru＠MARRY&#x27;S</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|25|754|<span class="rank-name-pd">童矢会タカ坊！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|27|753|<span class="rank-name-pd">伏見 龍也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|28|750|<span class="rank-name-pd">只野ぽんこつ@F.Works</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|29|748|<span class="rank-name-dl">そ</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|30|723|<span class="rank-name-pd">宮下高明</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|31|701|<span class="rank-name-pd">釼持 源太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|32|691|<span class="rank-name-dl">なこなこ</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|33|688|<span class="rank-name-pd">NOB</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|34|687|<span class="rank-name-pd">宮田 将成</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|35|685|<span class="rank-name-pd">歩武38@Fireworks</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|36|681|<span class="rank-name-pd">K2Y@FW</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|37|669|<span class="rank-name-pd">2-305α7@FW</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|38|663|<span class="rank-name-pd">かんかん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|39|650|<span class="rank-name-pd">宮下高明</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|40|631|<span class="rank-name-pd">宮田 将成</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|41|628|<span class="rank-name-pd">ryooohey</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|42|625|<span class="rank-name-pd">浜元 裕樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|43|621|<span class="rank-name-pd">なぶ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|44|604|<span class="rank-name-pd">marrysまこやん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|45|597|<span class="rank-name-pd">kazzy@MARRY’S</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|46|578|<span class="rank-name-pd">JOKER.N.S</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|47|568|<span class="rank-name-pd">つ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|48|566|<span class="rank-name-pd">りょす</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|49|557|<span class="rank-name-pd">Yoshi@ごーすとばすたーず</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|50|555|<span class="rank-name-pd">木曽丸</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|51|550|<span class="rank-name-pd">BOB[SAPP]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|52|536|<span class="rank-name-pd">みやっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|53|533|<span class="rank-name-pd">over_drive</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|54|526|<span class="rank-name-pd">やん坊@最前戦</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|55|519|<span class="rank-name-pd">ちゅー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|56|496|<span class="rank-name-pd">やおと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|57|494|<span class="rank-name-pd">かどっこぐらし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|58|488|<span class="rank-name-pd">あんり</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|59|484|<span class="rank-name-dl">nana</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|60|481|<span class="rank-name-pd">ありさ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|61|477|<span class="rank-name-pd">Naiki Joker</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|62|468|<span class="rank-name-pd">おみ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|63|450|<span class="rank-name-pd">すぎにゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|64|448|<span class="rank-name-pd">ハゲ丸4号</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|65|430|<span class="rank-name-pd">黒崎一護</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|66|420|<span class="rank-name-pd">渡辺</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|67|413|<span class="rank-name-pd">あいりーん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|68|396|<span class="rank-name-pd">kentaman</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|69|387|<span class="rank-name-pd">AMEMIYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|70|384|<span class="rank-name-pd">ひろし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|71|376|<span class="rank-name-pd">おみ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|72|372|<span class="rank-name-pd">ふじもん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|73|361|<span class="rank-name-pd">ふな</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|74|338|<span class="rank-name-dl">aoi58</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|16|831|<span class="rank-name-pd">只野ぽんこつ@F.Works</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|17|825|<span class="rank-name-pd">Ａ           D     G</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|18|812|<span class="rank-name-pd">A.A.M.T</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|19|805|<span class="rank-name-dl">すぎにゃん♫</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|20|803|<span class="rank-name-pd"><span class="pro-icon-pd"></span>小林 博志</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|21|793|<span class="rank-name-pd">量産型ともくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|22|776|<span class="rank-name-dl">かすみ　Joker</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|23|775|<span class="rank-name-pd">RIC</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|24|774|<span class="rank-name-pd">2-305α7@FW</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|25|771|<span class="rank-name-dl">yushin</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|26|763|<span class="rank-name-pd">ちゃぼ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|27|754|<span class="rank-name-pd">toru＠MARRY&#x27;S</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|27|754|<span class="rank-name-pd">童矢会タカ坊！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|29|753|<span class="rank-name-pd">伏見 龍也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|30|748|<span class="rank-name-dl">そ</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|31|741|<span class="rank-name-pd">kazzy@MARRY’S</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|32|733|<span class="rank-name-pd">かんかん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|33|723|<span class="rank-name-pd">宮下高明</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|34|718|<span class="rank-name-pd">SKY10@S.GARAGE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|35|701|<span class="rank-name-pd"><span class="pro-icon-pd"></span>釼持 源太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|36|691|<span class="rank-name-dl">なこなこ</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|37|688|<span class="rank-name-pd">NOB</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|38|687|<span class="rank-name-pd">宮田 将成</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|39|685|<span class="rank-name-pd">歩武38@Fireworks</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|40|681|<span class="rank-name-pd">K2Y@FW</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|41|650|<span class="rank-name-pd">宮下高明</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|42|644|<span class="rank-name-pd">ハゲ丸4号</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|43|631|<span class="rank-name-pd">宮田 将成</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|44|628|<span class="rank-name-pd">ryooohey</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|45|625|<span class="rank-name-pd"><span class="pro-icon-pd"></span>浜元 裕樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|46|621|<span class="rank-name-pd">なぶ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|47|604|<span class="rank-name-pd">marrysまこやん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|48|596|<span class="rank-name-pd">しまちん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|49|578|<span class="rank-name-pd">JOKER.N.S</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|50|568|<span class="rank-name-pd">つ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|51|566|<span class="rank-name-pd">りょす</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|52|557|<span class="rank-name-pd">Yoshi@ごーすとばすたーず</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|53|555|<span class="rank-name-pd">木曽丸</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|54|550|<span class="rank-name-pd">BOB[SAPP]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|55|536|<span class="rank-name-pd">みやっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|56|533|<span class="rank-name-pd">over_drive</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|57|526|<span class="rank-name-pd">やん坊@最前戦</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|58|519|<span class="rank-name-pd">ちゅー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|59|509|<span class="rank-name-pd">おみ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|60|508|<span class="rank-name-dl">※</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|61|496|<span class="rank-name-pd">やおと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|62|494|<span class="rank-name-pd">かどっこぐらし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|63|488|<span class="rank-name-pd">あんり</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|64|484|<span class="rank-name-dl">nana</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|65|481|<span class="rank-name-pd">ありさ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|66|477|<span class="rank-name-pd">Naiki Joker</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|67|468|<span class="rank-name-pd">おみ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|68|464|<span class="rank-name-pd">Visual系love.S.GARAGE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|69|450|<span class="rank-name-pd">すぎにゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|70|433|<span class="rank-name-pd">あいりーん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|71|430|<span class="rank-name-pd">0179_3686</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|71|430|<span class="rank-name-pd">黒崎一護</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|73|420|<span class="rank-name-pd">渡辺</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|74|411|<span class="rank-name-pd">tackey☆S.GARAGE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|75|405|<span class="rank-name-pd">silver7rain</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|76|396|<span class="rank-name-pd">kentaman</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|77|387|<span class="rank-name-pd">AMEMIYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|78|384|<span class="rank-name-pd">ひろし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|79|372|<span class="rank-name-pd">ふじもん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|80|361|<span class="rank-name-pd">ふな</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|81|338|<span class="rank-name-dl">aoi58</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -120,8 +127,9 @@ ___
 |12|771|<span class="rank-name-dl">yushin</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
 |13|748|<span class="rank-name-dl">そ</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
 |14|691|<span class="rank-name-dl">なこなこ</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|15|484|<span class="rank-name-dl">nana</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|16|338|<span class="rank-name-dl">aoi58</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|15|508|<span class="rank-name-dl">※</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|16|484|<span class="rank-name-dl">nana</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|17|338|<span class="rank-name-dl">aoi58</span>|<a href="https://search.dartslive.com/jp/shop/b6eda0d49f48b6820d9b047a20a7ba1e">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
 
 
 #### PHOENIXDARTS TOP 100
@@ -135,65 +143,71 @@ ___
 |2|974|<span class="rank-name-pd">平塚 拓郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
 |3|908|<span class="rank-name-pd">えめすけ@MARRY’S</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
 |4|907|<span class="rank-name-pd">あむゆ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|5|893|<span class="rank-name-pd">杉山 良太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|5|893|<span class="rank-name-pd"><span class="pro-icon-pd"></span>杉山 良太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
 |6|874|<span class="rank-name-pd">Joker</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
 |7|865|<span class="rank-name-pd">はやと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
 |8|863|<span class="rank-name-pd">YUSHIN&amp;S.GARAGE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
 |9|862|<span class="rank-name-pd">KA2</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
 |9|862|<span class="rank-name-pd">童矢会タカ坊！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|11|825|<span class="rank-name-pd">Ａ           D     G</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|12|812|<span class="rank-name-pd">A.A.M.T</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|13|803|<span class="rank-name-pd">小林 博志</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|14|793|<span class="rank-name-pd">量産型ともくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|15|775|<span class="rank-name-pd">RIC</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|16|763|<span class="rank-name-pd">ちゃぼ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|17|754|<span class="rank-name-pd">toru＠MARRY&#x27;S</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|17|754|<span class="rank-name-pd">童矢会タカ坊！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|19|753|<span class="rank-name-pd">伏見 龍也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|20|750|<span class="rank-name-pd">只野ぽんこつ@F.Works</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|21|730|<span class="rank-name-pd">かすみ　Joker</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|22|723|<span class="rank-name-pd">宮下高明</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|23|701|<span class="rank-name-pd">釼持 源太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|24|688|<span class="rank-name-pd">NOB</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|25|687|<span class="rank-name-pd">宮田 将成</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|26|685|<span class="rank-name-pd">歩武38@Fireworks</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|27|681|<span class="rank-name-pd">K2Y@FW</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|28|669|<span class="rank-name-pd">2-305α7@FW</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|29|663|<span class="rank-name-pd">かんかん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|30|650|<span class="rank-name-pd">宮下高明</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|31|631|<span class="rank-name-pd">宮田 将成</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|32|628|<span class="rank-name-pd">ryooohey</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|33|625|<span class="rank-name-pd">浜元 裕樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|34|621|<span class="rank-name-pd">なぶ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|35|604|<span class="rank-name-pd">marrysまこやん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|36|597|<span class="rank-name-pd">kazzy@MARRY’S</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|37|578|<span class="rank-name-pd">JOKER.N.S</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|38|568|<span class="rank-name-pd">つ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|39|566|<span class="rank-name-pd">りょす</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|40|557|<span class="rank-name-pd">Yoshi@ごーすとばすたーず</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|41|555|<span class="rank-name-pd">木曽丸</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|42|550|<span class="rank-name-pd">BOB[SAPP]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|43|536|<span class="rank-name-pd">みやっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|44|533|<span class="rank-name-pd">over_drive</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|45|526|<span class="rank-name-pd">やん坊@最前戦</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|46|519|<span class="rank-name-pd">ちゅー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|47|496|<span class="rank-name-pd">やおと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|48|494|<span class="rank-name-pd">かどっこぐらし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|49|488|<span class="rank-name-pd">あんり</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|50|481|<span class="rank-name-pd">ありさ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|51|477|<span class="rank-name-pd">Naiki Joker</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|52|468|<span class="rank-name-pd">おみ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|53|450|<span class="rank-name-pd">すぎにゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|54|448|<span class="rank-name-pd">ハゲ丸4号</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|55|430|<span class="rank-name-pd">黒崎一護</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|56|420|<span class="rank-name-pd">渡辺</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|57|413|<span class="rank-name-pd">あいりーん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|58|396|<span class="rank-name-pd">kentaman</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|59|387|<span class="rank-name-pd">AMEMIYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|60|384|<span class="rank-name-pd">ひろし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|61|376|<span class="rank-name-pd">おみ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|62|372|<span class="rank-name-pd">ふじもん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
-|63|361|<span class="rank-name-pd">ふな</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|11|831|<span class="rank-name-pd">只野ぽんこつ@F.Works</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|12|825|<span class="rank-name-pd">Ａ           D     G</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|13|812|<span class="rank-name-pd">A.A.M.T</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|14|803|<span class="rank-name-pd"><span class="pro-icon-pd"></span>小林 博志</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|15|793|<span class="rank-name-pd">量産型ともくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|16|775|<span class="rank-name-pd">RIC</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|17|774|<span class="rank-name-pd">2-305α7@FW</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|18|763|<span class="rank-name-pd">ちゃぼ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|19|754|<span class="rank-name-pd">toru＠MARRY&#x27;S</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|19|754|<span class="rank-name-pd">童矢会タカ坊！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|21|753|<span class="rank-name-pd">伏見 龍也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|22|741|<span class="rank-name-pd">kazzy@MARRY’S</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|23|733|<span class="rank-name-pd">かんかん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|24|730|<span class="rank-name-pd">かすみ　Joker</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|25|723|<span class="rank-name-pd">宮下高明</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|26|718|<span class="rank-name-pd">SKY10@S.GARAGE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|27|701|<span class="rank-name-pd"><span class="pro-icon-pd"></span>釼持 源太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|28|688|<span class="rank-name-pd">NOB</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|29|687|<span class="rank-name-pd">宮田 将成</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|30|685|<span class="rank-name-pd">歩武38@Fireworks</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|31|681|<span class="rank-name-pd">K2Y@FW</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|32|650|<span class="rank-name-pd">宮下高明</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|33|644|<span class="rank-name-pd">ハゲ丸4号</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|34|631|<span class="rank-name-pd">宮田 将成</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|35|628|<span class="rank-name-pd">ryooohey</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|36|625|<span class="rank-name-pd"><span class="pro-icon-pd"></span>浜元 裕樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|37|621|<span class="rank-name-pd">なぶ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|38|604|<span class="rank-name-pd">marrysまこやん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|39|596|<span class="rank-name-pd">しまちん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|40|578|<span class="rank-name-pd">JOKER.N.S</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|41|568|<span class="rank-name-pd">つ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|42|566|<span class="rank-name-pd">りょす</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|43|557|<span class="rank-name-pd">Yoshi@ごーすとばすたーず</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|44|555|<span class="rank-name-pd">木曽丸</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|45|550|<span class="rank-name-pd">BOB[SAPP]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|46|536|<span class="rank-name-pd">みやっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|47|533|<span class="rank-name-pd">over_drive</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|48|526|<span class="rank-name-pd">やん坊@最前戦</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|49|519|<span class="rank-name-pd">ちゅー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|50|509|<span class="rank-name-pd">おみ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|51|496|<span class="rank-name-pd">やおと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|52|494|<span class="rank-name-pd">かどっこぐらし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|53|488|<span class="rank-name-pd">あんり</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|54|481|<span class="rank-name-pd">ありさ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|55|477|<span class="rank-name-pd">Naiki Joker</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|56|468|<span class="rank-name-pd">おみ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|57|464|<span class="rank-name-pd">Visual系love.S.GARAGE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|58|450|<span class="rank-name-pd">すぎにゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|59|433|<span class="rank-name-pd">あいりーん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|60|430|<span class="rank-name-pd">0179_3686</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|60|430|<span class="rank-name-pd">黒崎一護</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|62|420|<span class="rank-name-pd">渡辺</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|63|411|<span class="rank-name-pd">tackey☆S.GARAGE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88189?s_seq=88189">ジョーカー</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|64|405|<span class="rank-name-pd">silver7rain</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|65|396|<span class="rank-name-pd">kentaman</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|66|387|<span class="rank-name-pd">AMEMIYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|67|384|<span class="rank-name-pd">ひろし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|68|372|<span class="rank-name-pd">ふじもん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
+|69|361|<span class="rank-name-pd">ふな</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87773?s_seq=87773">カフェレストラン MARRY’S</a>|<a href="/darts/rank/山梨県/都留市">山梨県都留市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

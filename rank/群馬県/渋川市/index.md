@@ -23,32 +23,35 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|864|<span class="rank-name-pd">山本 直樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42663?s_seq=42663">BAR VANQUISH</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
-|2|845|<span class="rank-name-dl">Ryo@wan</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
-|3|779|<span class="rank-name-pd">ATSUSHI@AERIAL</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42663?s_seq=42663">BAR VANQUISH</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
-|4|761|<span class="rank-name-pd">アメンジャー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42663?s_seq=42663">BAR VANQUISH</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
-|5|701|<span class="rank-name-pd">ERI v(^^)v</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42663?s_seq=42663">BAR VANQUISH</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
-|6|680|<span class="rank-name-pd">♤Fuku-chan♤</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42663?s_seq=42663">BAR VANQUISH</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
-|7|658|<span class="rank-name-pd">ふみや</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42663?s_seq=42663">BAR VANQUISH</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
-|8|641|<span class="rank-name-dl">Maru</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
-|9|636|<span class="rank-name-dl">Ryo</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
-|10|630|<span class="rank-name-pd">中村屋花座衣紋＠Aerial</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42663?s_seq=42663">BAR VANQUISH</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
-|11|622|<span class="rank-name-pd">神楽・紅桜丸</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42663?s_seq=42663">BAR VANQUISH</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
-|12|583|<span class="rank-name-dl">をれんじ</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
-|13|565|<span class="rank-name-pd">かのこちゃ。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42663?s_seq=42663">BAR VANQUISH</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
-|14|559|<span class="rank-name-dl">NORI-KUN</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
-|15|541|<span class="rank-name-dl">SHIN</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
-|16|519|<span class="rank-name-dl">KOM</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
-|17|515|<span class="rank-name-dl">name.B</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
-|17|515|<span class="rank-name-dl">ぽ屋</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
-|19|514|<span class="rank-name-dl">TOSHI0837</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
-|20|500|<span class="rank-name-dl">ドルちん</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
-|21|465|<span class="rank-name-dl">まるちゃん</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
-|22|397|<span class="rank-name-dl">なま子</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
-|23|389|<span class="rank-name-dl">かける</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
-|24|384|<span class="rank-name-dl">yokochan</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
-|24|384|<span class="rank-name-dl">こうな</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
-|26|299|<span class="rank-name-dl">さかなのあゆ</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
+|1|950|<span class="rank-name-dl">わなじょー</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
+|2|864|<span class="rank-name-pd">山本 直樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42663?s_seq=42663">BAR VANQUISH</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
+|3|845|<span class="rank-name-dl">Ryo@wan</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
+|4|779|<span class="rank-name-pd">ATSUSHI@AERIAL</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42663?s_seq=42663">BAR VANQUISH</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
+|5|761|<span class="rank-name-pd">アメンジャー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42663?s_seq=42663">BAR VANQUISH</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
+|6|701|<span class="rank-name-pd">ERI v(^^)v</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42663?s_seq=42663">BAR VANQUISH</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
+|7|680|<span class="rank-name-pd">♤Fuku-chan♤</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42663?s_seq=42663">BAR VANQUISH</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
+|8|658|<span class="rank-name-pd">ふみや</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42663?s_seq=42663">BAR VANQUISH</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
+|9|641|<span class="rank-name-dl">Maru</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
+|10|636|<span class="rank-name-dl">Ryo</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
+|11|630|<span class="rank-name-pd">中村屋花座衣紋＠Aerial</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42663?s_seq=42663">BAR VANQUISH</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
+|12|622|<span class="rank-name-pd">神楽・紅桜丸</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42663?s_seq=42663">BAR VANQUISH</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
+|13|583|<span class="rank-name-dl">をれんじ</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
+|14|565|<span class="rank-name-pd">かのこちゃ。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42663?s_seq=42663">BAR VANQUISH</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
+|15|559|<span class="rank-name-dl">NORI-KUN</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
+|16|541|<span class="rank-name-dl">SHIN</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
+|17|519|<span class="rank-name-dl">KOM</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
+|18|515|<span class="rank-name-dl">name.B</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
+|18|515|<span class="rank-name-dl">ぽ屋</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
+|20|514|<span class="rank-name-dl">TOSHI0837</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
+|21|500|<span class="rank-name-dl">ドルちん</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
+|22|465|<span class="rank-name-dl">まるちゃん</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
+|23|409|<span class="rank-name-dl">かーくん</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
+|24|402|<span class="rank-name-dl">YUSEI</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
+|24|402|<span class="rank-name-dl">yuboy</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
+|26|397|<span class="rank-name-dl">なま子</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
+|27|389|<span class="rank-name-dl">かける</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
+|28|384|<span class="rank-name-dl">yokochan</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
+|29|299|<span class="rank-name-dl">さかなのあゆ</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -58,23 +61,26 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|845|<span class="rank-name-dl">Ryo@wan</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
-|2|641|<span class="rank-name-dl">Maru</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
-|3|636|<span class="rank-name-dl">Ryo</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
-|4|583|<span class="rank-name-dl">をれんじ</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
-|5|559|<span class="rank-name-dl">NORI-KUN</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
-|6|541|<span class="rank-name-dl">SHIN</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
-|7|519|<span class="rank-name-dl">KOM</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
-|8|515|<span class="rank-name-dl">name.B</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
-|8|515|<span class="rank-name-dl">ぽ屋</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
-|10|514|<span class="rank-name-dl">TOSHI0837</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
-|11|500|<span class="rank-name-dl">ドルちん</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
-|12|465|<span class="rank-name-dl">まるちゃん</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
-|13|397|<span class="rank-name-dl">なま子</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
-|14|389|<span class="rank-name-dl">かける</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
-|15|384|<span class="rank-name-dl">yokochan</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
-|15|384|<span class="rank-name-dl">こうな</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
-|17|299|<span class="rank-name-dl">さかなのあゆ</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
+|1|950|<span class="rank-name-dl">わなじょー</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
+|2|845|<span class="rank-name-dl">Ryo@wan</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
+|3|641|<span class="rank-name-dl">Maru</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
+|4|636|<span class="rank-name-dl">Ryo</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
+|5|583|<span class="rank-name-dl">をれんじ</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
+|6|559|<span class="rank-name-dl">NORI-KUN</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
+|7|541|<span class="rank-name-dl">SHIN</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
+|8|519|<span class="rank-name-dl">KOM</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
+|9|515|<span class="rank-name-dl">name.B</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
+|9|515|<span class="rank-name-dl">ぽ屋</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
+|11|514|<span class="rank-name-dl">TOSHI0837</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
+|12|500|<span class="rank-name-dl">ドルちん</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
+|13|465|<span class="rank-name-dl">まるちゃん</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
+|14|409|<span class="rank-name-dl">かーくん</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
+|15|402|<span class="rank-name-dl">YUSEI</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
+|15|402|<span class="rank-name-dl">yuboy</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
+|17|397|<span class="rank-name-dl">なま子</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
+|18|389|<span class="rank-name-dl">かける</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
+|19|384|<span class="rank-name-dl">yokochan</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
+|20|299|<span class="rank-name-dl">さかなのあゆ</span>|<a href="https://search.dartslive.com/jp/shop/e09672d19b503e39a3f63593b5358cc4">群馬レジャーランド渋川店</a>|<a href="/darts/rank/群馬県/渋川市">群馬県渋川市</a>|
 
 
 #### PHOENIXDARTS TOP 100

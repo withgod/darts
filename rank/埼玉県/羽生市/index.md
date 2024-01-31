@@ -26,10 +26,10 @@ ___
 |1|884|<span class="rank-name-dl">まる</span>|<a href="https://search.dartslive.com/jp/shop/749ad2576bab89d00d9b047a20a7ba1e">カラオケBANBAN羽生駅前店</a>|<a href="/darts/rank/埼玉県/羽生市">埼玉県羽生市</a>|
 |2|870|<span class="rank-name-dl">NockN_*ω-)/</span>|<a href="https://search.dartslive.com/jp/shop/749ad2576bab89d00d9b047a20a7ba1e">カラオケBANBAN羽生駅前店</a>|<a href="/darts/rank/埼玉県/羽生市">埼玉県羽生市</a>|
 |3|861|<span class="rank-name-dl">Rinrin</span>|<a href="https://search.dartslive.com/jp/shop/749ad2576bab89d00d9b047a20a7ba1e">カラオケBANBAN羽生駅前店</a>|<a href="/darts/rank/埼玉県/羽生市">埼玉県羽生市</a>|
-|4|836|<span class="rank-name-dl">らっせる</span>|<a href="https://search.dartslive.com/jp/shop/749ad2576bab89d00d9b047a20a7ba1e">カラオケBANBAN羽生駅前店</a>|<a href="/darts/rank/埼玉県/羽生市">埼玉県羽生市</a>|
-|5|833|<span class="rank-name-dl">なべ</span>|<a href="https://search.dartslive.com/jp/shop/749ad2576bab89d00d9b047a20a7ba1e">カラオケBANBAN羽生駅前店</a>|<a href="/darts/rank/埼玉県/羽生市">埼玉県羽生市</a>|
-|6|829|<span class="rank-name-dl">YOU∩^ω^∩</span>|<a href="https://search.dartslive.com/jp/shop/749ad2576bab89d00d9b047a20a7ba1e">カラオケBANBAN羽生駅前店</a>|<a href="/darts/rank/埼玉県/羽生市">埼玉県羽生市</a>|
-|7|819|<span class="rank-name-dl">RiN</span>|<a href="https://search.dartslive.com/jp/shop/749ad2576bab89d00d9b047a20a7ba1e">カラオケBANBAN羽生駅前店</a>|<a href="/darts/rank/埼玉県/羽生市">埼玉県羽生市</a>|
+|4|859|<span class="rank-name-dl">RiN</span>|<a href="https://search.dartslive.com/jp/shop/749ad2576bab89d00d9b047a20a7ba1e">カラオケBANBAN羽生駅前店</a>|<a href="/darts/rank/埼玉県/羽生市">埼玉県羽生市</a>|
+|5|836|<span class="rank-name-dl">らっせる</span>|<a href="https://search.dartslive.com/jp/shop/749ad2576bab89d00d9b047a20a7ba1e">カラオケBANBAN羽生駅前店</a>|<a href="/darts/rank/埼玉県/羽生市">埼玉県羽生市</a>|
+|6|833|<span class="rank-name-dl">なべ</span>|<a href="https://search.dartslive.com/jp/shop/749ad2576bab89d00d9b047a20a7ba1e">カラオケBANBAN羽生駅前店</a>|<a href="/darts/rank/埼玉県/羽生市">埼玉県羽生市</a>|
+|7|829|<span class="rank-name-dl">YOU∩^ω^∩</span>|<a href="https://search.dartslive.com/jp/shop/749ad2576bab89d00d9b047a20a7ba1e">カラオケBANBAN羽生駅前店</a>|<a href="/darts/rank/埼玉県/羽生市">埼玉県羽生市</a>|
 |8|815|<span class="rank-name-dl">てつ</span>|<a href="https://search.dartslive.com/jp/shop/749ad2576bab89d00d9b047a20a7ba1e">カラオケBANBAN羽生駅前店</a>|<a href="/darts/rank/埼玉県/羽生市">埼玉県羽生市</a>|
 |9|808|<span class="rank-name-dl">ラッセル</span>|<a href="https://search.dartslive.com/jp/shop/749ad2576bab89d00d9b047a20a7ba1e">カラオケBANBAN羽生駅前店</a>|<a href="/darts/rank/埼玉県/羽生市">埼玉県羽生市</a>|
 |10|778|<span class="rank-name-dl">ROKI@RISE</span>|<a href="https://search.dartslive.com/jp/shop/749ad2576bab89d00d9b047a20a7ba1e">カラオケBANBAN羽生駅前店</a>|<a href="/darts/rank/埼玉県/羽生市">埼玉県羽生市</a>|
@@ -37,11 +37,10 @@ ___
 |12|725|<span class="rank-name-dl">なべ@2</span>|<a href="https://search.dartslive.com/jp/shop/749ad2576bab89d00d9b047a20a7ba1e">カラオケBANBAN羽生駅前店</a>|<a href="/darts/rank/埼玉県/羽生市">埼玉県羽生市</a>|
 |13|724|<span class="rank-name-dl">不二桐緒</span>|<a href="https://search.dartslive.com/jp/shop/749ad2576bab89d00d9b047a20a7ba1e">カラオケBANBAN羽生駅前店</a>|<a href="/darts/rank/埼玉県/羽生市">埼玉県羽生市</a>|
 |14|694|<span class="rank-name-dl">りょーま</span>|<a href="https://search.dartslive.com/jp/shop/749ad2576bab89d00d9b047a20a7ba1e">カラオケBANBAN羽生駅前店</a>|<a href="/darts/rank/埼玉県/羽生市">埼玉県羽生市</a>|
-|15|693|<span class="rank-name-dl">げんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/749ad2576bab89d00d9b047a20a7ba1e">カラオケBANBAN羽生駅前店</a>|<a href="/darts/rank/埼玉県/羽生市">埼玉県羽生市</a>|
-|16|685|<span class="rank-name-dl">れいいち</span>|<a href="https://search.dartslive.com/jp/shop/749ad2576bab89d00d9b047a20a7ba1e">カラオケBANBAN羽生駅前店</a>|<a href="/darts/rank/埼玉県/羽生市">埼玉県羽生市</a>|
-|17|498|<span class="rank-name-dl">➷たゃたにえん➷</span>|<a href="https://search.dartslive.com/jp/shop/749ad2576bab89d00d9b047a20a7ba1e">カラオケBANBAN羽生駅前店</a>|<a href="/darts/rank/埼玉県/羽生市">埼玉県羽生市</a>|
-|18|330|<span class="rank-name-dl">кёi</span>|<a href="https://search.dartslive.com/jp/shop/749ad2576bab89d00d9b047a20a7ba1e">カラオケBANBAN羽生駅前店</a>|<a href="/darts/rank/埼玉県/羽生市">埼玉県羽生市</a>|
-|19|286|<span class="rank-name-dl">ひなころ</span>|<a href="https://search.dartslive.com/jp/shop/749ad2576bab89d00d9b047a20a7ba1e">カラオケBANBAN羽生駅前店</a>|<a href="/darts/rank/埼玉県/羽生市">埼玉県羽生市</a>|
+|15|685|<span class="rank-name-dl">れいいち</span>|<a href="https://search.dartslive.com/jp/shop/749ad2576bab89d00d9b047a20a7ba1e">カラオケBANBAN羽生駅前店</a>|<a href="/darts/rank/埼玉県/羽生市">埼玉県羽生市</a>|
+|16|498|<span class="rank-name-dl">➷たゃたにえん➷</span>|<a href="https://search.dartslive.com/jp/shop/749ad2576bab89d00d9b047a20a7ba1e">カラオケBANBAN羽生駅前店</a>|<a href="/darts/rank/埼玉県/羽生市">埼玉県羽生市</a>|
+|17|330|<span class="rank-name-dl">кёi</span>|<a href="https://search.dartslive.com/jp/shop/749ad2576bab89d00d9b047a20a7ba1e">カラオケBANBAN羽生駅前店</a>|<a href="/darts/rank/埼玉県/羽生市">埼玉県羽生市</a>|
+|18|286|<span class="rank-name-dl">ひなころ</span>|<a href="https://search.dartslive.com/jp/shop/749ad2576bab89d00d9b047a20a7ba1e">カラオケBANBAN羽生駅前店</a>|<a href="/darts/rank/埼玉県/羽生市">埼玉県羽生市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -54,10 +53,10 @@ ___
 |1|884|<span class="rank-name-dl">まる</span>|<a href="https://search.dartslive.com/jp/shop/749ad2576bab89d00d9b047a20a7ba1e">カラオケBANBAN羽生駅前店</a>|<a href="/darts/rank/埼玉県/羽生市">埼玉県羽生市</a>|
 |2|870|<span class="rank-name-dl">NockN_*ω-)/</span>|<a href="https://search.dartslive.com/jp/shop/749ad2576bab89d00d9b047a20a7ba1e">カラオケBANBAN羽生駅前店</a>|<a href="/darts/rank/埼玉県/羽生市">埼玉県羽生市</a>|
 |3|861|<span class="rank-name-dl">Rinrin</span>|<a href="https://search.dartslive.com/jp/shop/749ad2576bab89d00d9b047a20a7ba1e">カラオケBANBAN羽生駅前店</a>|<a href="/darts/rank/埼玉県/羽生市">埼玉県羽生市</a>|
-|4|836|<span class="rank-name-dl">らっせる</span>|<a href="https://search.dartslive.com/jp/shop/749ad2576bab89d00d9b047a20a7ba1e">カラオケBANBAN羽生駅前店</a>|<a href="/darts/rank/埼玉県/羽生市">埼玉県羽生市</a>|
-|5|833|<span class="rank-name-dl">なべ</span>|<a href="https://search.dartslive.com/jp/shop/749ad2576bab89d00d9b047a20a7ba1e">カラオケBANBAN羽生駅前店</a>|<a href="/darts/rank/埼玉県/羽生市">埼玉県羽生市</a>|
-|6|829|<span class="rank-name-dl">YOU∩^ω^∩</span>|<a href="https://search.dartslive.com/jp/shop/749ad2576bab89d00d9b047a20a7ba1e">カラオケBANBAN羽生駅前店</a>|<a href="/darts/rank/埼玉県/羽生市">埼玉県羽生市</a>|
-|7|819|<span class="rank-name-dl">RiN</span>|<a href="https://search.dartslive.com/jp/shop/749ad2576bab89d00d9b047a20a7ba1e">カラオケBANBAN羽生駅前店</a>|<a href="/darts/rank/埼玉県/羽生市">埼玉県羽生市</a>|
+|4|859|<span class="rank-name-dl">RiN</span>|<a href="https://search.dartslive.com/jp/shop/749ad2576bab89d00d9b047a20a7ba1e">カラオケBANBAN羽生駅前店</a>|<a href="/darts/rank/埼玉県/羽生市">埼玉県羽生市</a>|
+|5|836|<span class="rank-name-dl">らっせる</span>|<a href="https://search.dartslive.com/jp/shop/749ad2576bab89d00d9b047a20a7ba1e">カラオケBANBAN羽生駅前店</a>|<a href="/darts/rank/埼玉県/羽生市">埼玉県羽生市</a>|
+|6|833|<span class="rank-name-dl">なべ</span>|<a href="https://search.dartslive.com/jp/shop/749ad2576bab89d00d9b047a20a7ba1e">カラオケBANBAN羽生駅前店</a>|<a href="/darts/rank/埼玉県/羽生市">埼玉県羽生市</a>|
+|7|829|<span class="rank-name-dl">YOU∩^ω^∩</span>|<a href="https://search.dartslive.com/jp/shop/749ad2576bab89d00d9b047a20a7ba1e">カラオケBANBAN羽生駅前店</a>|<a href="/darts/rank/埼玉県/羽生市">埼玉県羽生市</a>|
 |8|815|<span class="rank-name-dl">てつ</span>|<a href="https://search.dartslive.com/jp/shop/749ad2576bab89d00d9b047a20a7ba1e">カラオケBANBAN羽生駅前店</a>|<a href="/darts/rank/埼玉県/羽生市">埼玉県羽生市</a>|
 |9|808|<span class="rank-name-dl">ラッセル</span>|<a href="https://search.dartslive.com/jp/shop/749ad2576bab89d00d9b047a20a7ba1e">カラオケBANBAN羽生駅前店</a>|<a href="/darts/rank/埼玉県/羽生市">埼玉県羽生市</a>|
 |10|778|<span class="rank-name-dl">ROKI@RISE</span>|<a href="https://search.dartslive.com/jp/shop/749ad2576bab89d00d9b047a20a7ba1e">カラオケBANBAN羽生駅前店</a>|<a href="/darts/rank/埼玉県/羽生市">埼玉県羽生市</a>|
@@ -65,11 +64,10 @@ ___
 |12|725|<span class="rank-name-dl">なべ@2</span>|<a href="https://search.dartslive.com/jp/shop/749ad2576bab89d00d9b047a20a7ba1e">カラオケBANBAN羽生駅前店</a>|<a href="/darts/rank/埼玉県/羽生市">埼玉県羽生市</a>|
 |13|724|<span class="rank-name-dl">不二桐緒</span>|<a href="https://search.dartslive.com/jp/shop/749ad2576bab89d00d9b047a20a7ba1e">カラオケBANBAN羽生駅前店</a>|<a href="/darts/rank/埼玉県/羽生市">埼玉県羽生市</a>|
 |14|694|<span class="rank-name-dl">りょーま</span>|<a href="https://search.dartslive.com/jp/shop/749ad2576bab89d00d9b047a20a7ba1e">カラオケBANBAN羽生駅前店</a>|<a href="/darts/rank/埼玉県/羽生市">埼玉県羽生市</a>|
-|15|693|<span class="rank-name-dl">げんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/749ad2576bab89d00d9b047a20a7ba1e">カラオケBANBAN羽生駅前店</a>|<a href="/darts/rank/埼玉県/羽生市">埼玉県羽生市</a>|
-|16|685|<span class="rank-name-dl">れいいち</span>|<a href="https://search.dartslive.com/jp/shop/749ad2576bab89d00d9b047a20a7ba1e">カラオケBANBAN羽生駅前店</a>|<a href="/darts/rank/埼玉県/羽生市">埼玉県羽生市</a>|
-|17|498|<span class="rank-name-dl">➷たゃたにえん➷</span>|<a href="https://search.dartslive.com/jp/shop/749ad2576bab89d00d9b047a20a7ba1e">カラオケBANBAN羽生駅前店</a>|<a href="/darts/rank/埼玉県/羽生市">埼玉県羽生市</a>|
-|18|330|<span class="rank-name-dl">кёi</span>|<a href="https://search.dartslive.com/jp/shop/749ad2576bab89d00d9b047a20a7ba1e">カラオケBANBAN羽生駅前店</a>|<a href="/darts/rank/埼玉県/羽生市">埼玉県羽生市</a>|
-|19|286|<span class="rank-name-dl">ひなころ</span>|<a href="https://search.dartslive.com/jp/shop/749ad2576bab89d00d9b047a20a7ba1e">カラオケBANBAN羽生駅前店</a>|<a href="/darts/rank/埼玉県/羽生市">埼玉県羽生市</a>|
+|15|685|<span class="rank-name-dl">れいいち</span>|<a href="https://search.dartslive.com/jp/shop/749ad2576bab89d00d9b047a20a7ba1e">カラオケBANBAN羽生駅前店</a>|<a href="/darts/rank/埼玉県/羽生市">埼玉県羽生市</a>|
+|16|498|<span class="rank-name-dl">➷たゃたにえん➷</span>|<a href="https://search.dartslive.com/jp/shop/749ad2576bab89d00d9b047a20a7ba1e">カラオケBANBAN羽生駅前店</a>|<a href="/darts/rank/埼玉県/羽生市">埼玉県羽生市</a>|
+|17|330|<span class="rank-name-dl">кёi</span>|<a href="https://search.dartslive.com/jp/shop/749ad2576bab89d00d9b047a20a7ba1e">カラオケBANBAN羽生駅前店</a>|<a href="/darts/rank/埼玉県/羽生市">埼玉県羽生市</a>|
+|18|286|<span class="rank-name-dl">ひなころ</span>|<a href="https://search.dartslive.com/jp/shop/749ad2576bab89d00d9b047a20a7ba1e">カラオケBANBAN羽生駅前店</a>|<a href="/darts/rank/埼玉県/羽生市">埼玉県羽生市</a>|
 
 
 #### PHOENIXDARTS TOP 100

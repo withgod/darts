@@ -34,27 +34,26 @@ ___
 |9|804|<span class="rank-name-pd">Weljenic</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79757?s_seq=79757">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
 |10|744|<span class="rank-name-dl">レビノ</span>|<a href="https://search.dartslive.com/jp/shop/9c7f5ce35825a10125d56fb0e5c39bac">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
 |11|727|<span class="rank-name-dl">オニャンコポン</span>|<a href="https://search.dartslive.com/jp/shop/9c7f5ce35825a10125d56fb0e5c39bac">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
-|12|713|<span class="rank-name-dl">MO★blind killer</span>|<a href="https://search.dartslive.com/jp/shop/9c7f5ce35825a10125d56fb0e5c39bac">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
-|13|704|<span class="rank-name-dl">Nao pu〜</span>|<a href="https://search.dartslive.com/jp/shop/9c7f5ce35825a10125d56fb0e5c39bac">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
-|14|692|<span class="rank-name-dl">レビノ(enjoy用)</span>|<a href="https://search.dartslive.com/jp/shop/9c7f5ce35825a10125d56fb0e5c39bac">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
-|15|691|<span class="rank-name-dl">yuka</span>|<a href="https://search.dartslive.com/jp/shop/9c7f5ce35825a10125d56fb0e5c39bac">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
-|16|688|<span class="rank-name-dl">クーロ</span>|<a href="https://search.dartslive.com/jp/shop/9c7f5ce35825a10125d56fb0e5c39bac">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
-|17|685|<span class="rank-name-dl">まお</span>|<a href="https://search.dartslive.com/jp/shop/9c7f5ce35825a10125d56fb0e5c39bac">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
-|18|677|<span class="rank-name-pd">KAZUMI☆Ｒばーじょん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79757?s_seq=79757">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
-|19|644|<span class="rank-name-dl">りな</span>|<a href="https://search.dartslive.com/jp/shop/9c7f5ce35825a10125d56fb0e5c39bac">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
-|20|642|<span class="rank-name-dl">you</span>|<a href="https://search.dartslive.com/jp/shop/9c7f5ce35825a10125d56fb0e5c39bac">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
-|21|532|<span class="rank-name-pd">頭文字D</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79757?s_seq=79757">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
+|12|725|<span class="rank-name-dl">SHIN</span>|<a href="https://search.dartslive.com/jp/shop/9c7f5ce35825a10125d56fb0e5c39bac">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
+|13|713|<span class="rank-name-dl">MO★blind killer</span>|<a href="https://search.dartslive.com/jp/shop/9c7f5ce35825a10125d56fb0e5c39bac">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
+|14|704|<span class="rank-name-dl">Nao pu〜</span>|<a href="https://search.dartslive.com/jp/shop/9c7f5ce35825a10125d56fb0e5c39bac">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
+|15|692|<span class="rank-name-dl">レビノ(enjoy用)</span>|<a href="https://search.dartslive.com/jp/shop/9c7f5ce35825a10125d56fb0e5c39bac">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
+|16|691|<span class="rank-name-dl">yuka</span>|<a href="https://search.dartslive.com/jp/shop/9c7f5ce35825a10125d56fb0e5c39bac">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
+|17|688|<span class="rank-name-dl">クーロ</span>|<a href="https://search.dartslive.com/jp/shop/9c7f5ce35825a10125d56fb0e5c39bac">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
+|18|685|<span class="rank-name-dl">まお</span>|<a href="https://search.dartslive.com/jp/shop/9c7f5ce35825a10125d56fb0e5c39bac">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
+|19|677|<span class="rank-name-pd">KAZUMI☆Ｒばーじょん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79757?s_seq=79757">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
+|20|644|<span class="rank-name-dl">りな</span>|<a href="https://search.dartslive.com/jp/shop/9c7f5ce35825a10125d56fb0e5c39bac">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
+|21|583|<span class="rank-name-pd">頭文字D</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79757?s_seq=79757">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
 |22|516|<span class="rank-name-pd">0190_8663</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79757?s_seq=79757">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
-|23|497|<span class="rank-name-pd">青木 里奈</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79757?s_seq=79757">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
-|24|459|<span class="rank-name-pd">unknown</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79757?s_seq=79757">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
+|23|513|<span class="rank-name-pd">unknown</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79757?s_seq=79757">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
+|24|497|<span class="rank-name-pd">青木 里奈</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79757?s_seq=79757">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
 |25|451|<span class="rank-name-dl">ゆぅ</span>|<a href="https://search.dartslive.com/jp/shop/9c7f5ce35825a10125d56fb0e5c39bac">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
 |26|432|<span class="rank-name-dl">ぴ</span>|<a href="https://search.dartslive.com/jp/shop/9c7f5ce35825a10125d56fb0e5c39bac">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
 |27|428|<span class="rank-name-dl">poreipo</span>|<a href="https://search.dartslive.com/jp/shop/9c7f5ce35825a10125d56fb0e5c39bac">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
 |28|424|<span class="rank-name-dl">ちゃちゃ</span>|<a href="https://search.dartslive.com/jp/shop/9c7f5ce35825a10125d56fb0e5c39bac">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
 |29|407|<span class="rank-name-dl">pkn</span>|<a href="https://search.dartslive.com/jp/shop/9c7f5ce35825a10125d56fb0e5c39bac">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
-|30|371|<span class="rank-name-dl">紫炎</span>|<a href="https://search.dartslive.com/jp/shop/9c7f5ce35825a10125d56fb0e5c39bac">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
-|31|370|<span class="rank-name-dl">七草 睦月</span>|<a href="https://search.dartslive.com/jp/shop/9c7f5ce35825a10125d56fb0e5c39bac">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
-|32|317|<span class="rank-name-pd">9077-7208</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79757?s_seq=79757">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
+|30|343|<span class="rank-name-pd">310</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79757?s_seq=79757">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
+|31|317|<span class="rank-name-pd">9077-7208</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79757?s_seq=79757">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -74,21 +73,19 @@ ___
 |8|811|<span class="rank-name-dl">Bullet.gif</span>|<a href="https://search.dartslive.com/jp/shop/9c7f5ce35825a10125d56fb0e5c39bac">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
 |9|744|<span class="rank-name-dl">レビノ</span>|<a href="https://search.dartslive.com/jp/shop/9c7f5ce35825a10125d56fb0e5c39bac">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
 |10|727|<span class="rank-name-dl">オニャンコポン</span>|<a href="https://search.dartslive.com/jp/shop/9c7f5ce35825a10125d56fb0e5c39bac">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
-|11|713|<span class="rank-name-dl">MO★blind killer</span>|<a href="https://search.dartslive.com/jp/shop/9c7f5ce35825a10125d56fb0e5c39bac">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
-|12|704|<span class="rank-name-dl">Nao pu〜</span>|<a href="https://search.dartslive.com/jp/shop/9c7f5ce35825a10125d56fb0e5c39bac">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
-|13|692|<span class="rank-name-dl">レビノ(enjoy用)</span>|<a href="https://search.dartslive.com/jp/shop/9c7f5ce35825a10125d56fb0e5c39bac">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
-|14|691|<span class="rank-name-dl">yuka</span>|<a href="https://search.dartslive.com/jp/shop/9c7f5ce35825a10125d56fb0e5c39bac">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
-|15|688|<span class="rank-name-dl">クーロ</span>|<a href="https://search.dartslive.com/jp/shop/9c7f5ce35825a10125d56fb0e5c39bac">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
-|16|685|<span class="rank-name-dl">まお</span>|<a href="https://search.dartslive.com/jp/shop/9c7f5ce35825a10125d56fb0e5c39bac">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
-|17|644|<span class="rank-name-dl">りな</span>|<a href="https://search.dartslive.com/jp/shop/9c7f5ce35825a10125d56fb0e5c39bac">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
-|18|642|<span class="rank-name-dl">you</span>|<a href="https://search.dartslive.com/jp/shop/9c7f5ce35825a10125d56fb0e5c39bac">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
+|11|725|<span class="rank-name-dl">SHIN</span>|<a href="https://search.dartslive.com/jp/shop/9c7f5ce35825a10125d56fb0e5c39bac">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
+|12|713|<span class="rank-name-dl">MO★blind killer</span>|<a href="https://search.dartslive.com/jp/shop/9c7f5ce35825a10125d56fb0e5c39bac">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
+|13|704|<span class="rank-name-dl">Nao pu〜</span>|<a href="https://search.dartslive.com/jp/shop/9c7f5ce35825a10125d56fb0e5c39bac">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
+|14|692|<span class="rank-name-dl">レビノ(enjoy用)</span>|<a href="https://search.dartslive.com/jp/shop/9c7f5ce35825a10125d56fb0e5c39bac">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
+|15|691|<span class="rank-name-dl">yuka</span>|<a href="https://search.dartslive.com/jp/shop/9c7f5ce35825a10125d56fb0e5c39bac">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
+|16|688|<span class="rank-name-dl">クーロ</span>|<a href="https://search.dartslive.com/jp/shop/9c7f5ce35825a10125d56fb0e5c39bac">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
+|17|685|<span class="rank-name-dl">まお</span>|<a href="https://search.dartslive.com/jp/shop/9c7f5ce35825a10125d56fb0e5c39bac">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
+|18|644|<span class="rank-name-dl">りな</span>|<a href="https://search.dartslive.com/jp/shop/9c7f5ce35825a10125d56fb0e5c39bac">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
 |19|451|<span class="rank-name-dl">ゆぅ</span>|<a href="https://search.dartslive.com/jp/shop/9c7f5ce35825a10125d56fb0e5c39bac">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
 |20|432|<span class="rank-name-dl">ぴ</span>|<a href="https://search.dartslive.com/jp/shop/9c7f5ce35825a10125d56fb0e5c39bac">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
 |21|428|<span class="rank-name-dl">poreipo</span>|<a href="https://search.dartslive.com/jp/shop/9c7f5ce35825a10125d56fb0e5c39bac">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
 |22|424|<span class="rank-name-dl">ちゃちゃ</span>|<a href="https://search.dartslive.com/jp/shop/9c7f5ce35825a10125d56fb0e5c39bac">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
 |23|407|<span class="rank-name-dl">pkn</span>|<a href="https://search.dartslive.com/jp/shop/9c7f5ce35825a10125d56fb0e5c39bac">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
-|24|371|<span class="rank-name-dl">紫炎</span>|<a href="https://search.dartslive.com/jp/shop/9c7f5ce35825a10125d56fb0e5c39bac">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
-|25|370|<span class="rank-name-dl">七草 睦月</span>|<a href="https://search.dartslive.com/jp/shop/9c7f5ce35825a10125d56fb0e5c39bac">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
 
 
 #### PHOENIXDARTS TOP 100
@@ -100,11 +97,12 @@ ___
 |---|---|---|---|---|
 |1|804|<span class="rank-name-pd">Weljenic</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79757?s_seq=79757">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
 |2|677|<span class="rank-name-pd">KAZUMI☆Ｒばーじょん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79757?s_seq=79757">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
-|3|532|<span class="rank-name-pd">頭文字D</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79757?s_seq=79757">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
+|3|583|<span class="rank-name-pd">頭文字D</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79757?s_seq=79757">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
 |4|516|<span class="rank-name-pd">0190_8663</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79757?s_seq=79757">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
-|5|497|<span class="rank-name-pd">青木 里奈</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79757?s_seq=79757">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
-|6|459|<span class="rank-name-pd">unknown</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79757?s_seq=79757">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
-|7|317|<span class="rank-name-pd">9077-7208</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79757?s_seq=79757">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
+|5|513|<span class="rank-name-pd">unknown</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79757?s_seq=79757">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
+|6|497|<span class="rank-name-pd">青木 里奈</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79757?s_seq=79757">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
+|7|343|<span class="rank-name-pd">310</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79757?s_seq=79757">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
+|8|317|<span class="rank-name-pd">9077-7208</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79757?s_seq=79757">快活CLUB 富岡店</a>|<a href="/darts/rank/群馬県/富岡市">群馬県富岡市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

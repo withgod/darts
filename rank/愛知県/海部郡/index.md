@@ -49,20 +49,26 @@ ___
 |24|539|<span class="rank-name-dl">yoshi</span>|<a href="https://search.dartslive.com/jp/shop/42a156408628cd3025d56fb0e5c39bac">カラオケ ジョイジョイ アソビックス蟹江店</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
 |25|536|<span class="rank-name-dl">NieR</span>|<a href="https://search.dartslive.com/jp/shop/744296d8ec82bb000d9b047a20a7ba1e">Triumph</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
 |26|533|<span class="rank-name-pd">0177_7190</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75545?s_seq=75545">JOYJOY アソビックス蟹江店</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
-|27|529|<span class="rank-name-dl">FALCON</span>|<a href="https://search.dartslive.com/jp/shop/744296d8ec82bb000d9b047a20a7ba1e">Triumph</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
-|28|527|<span class="rank-name-dl">はるクレア</span>|<a href="https://search.dartslive.com/jp/shop/42a156408628cd3025d56fb0e5c39bac">カラオケ ジョイジョイ アソビックス蟹江店</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
-|29|526|<span class="rank-name-dl">りょ～～～くん</span>|<a href="https://search.dartslive.com/jp/shop/744296d8ec82bb000d9b047a20a7ba1e">Triumph</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
-|30|511|<span class="rank-name-dl">MASA</span>|<a href="https://search.dartslive.com/jp/shop/42a156408628cd3025d56fb0e5c39bac">カラオケ ジョイジョイ アソビックス蟹江店</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
-|31|507|<span class="rank-name-dl">四季</span>|<a href="https://search.dartslive.com/jp/shop/42a156408628cd3025d56fb0e5c39bac">カラオケ ジョイジョイ アソビックス蟹江店</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
-|32|502|<span class="rank-name-dl">ある</span>|<a href="https://search.dartslive.com/jp/shop/42a156408628cd3025d56fb0e5c39bac">カラオケ ジョイジョイ アソビックス蟹江店</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
-|33|492|<span class="rank-name-pd">TOWA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75545?s_seq=75545">JOYJOY アソビックス蟹江店</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
-|34|457|<span class="rank-name-pd">☆くみちー☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75545?s_seq=75545">JOYJOY アソビックス蟹江店</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
-|35|426|<span class="rank-name-pd">れいまる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75545?s_seq=75545">JOYJOY アソビックス蟹江店</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
-|36|419|<span class="rank-name-dl">Naoki1102</span>|<a href="https://search.dartslive.com/jp/shop/42a156408628cd3025d56fb0e5c39bac">カラオケ ジョイジョイ アソビックス蟹江店</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
-|37|391|<span class="rank-name-pd">アナベル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75545?s_seq=75545">JOYJOY アソビックス蟹江店</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
-|38|360|<span class="rank-name-dl">チサキ</span>|<a href="https://search.dartslive.com/jp/shop/744296d8ec82bb000d9b047a20a7ba1e">Triumph</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
-|39|335|<span class="rank-name-dl">やっすん</span>|<a href="https://search.dartslive.com/jp/shop/744296d8ec82bb000d9b047a20a7ba1e">Triumph</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
-|40|333|<span class="rank-name-pd">TAKUYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75545?s_seq=75545">JOYJOY アソビックス蟹江店</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
+|26|533|<span class="rank-name-pd">Namiki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75545?s_seq=75545">JOYJOY アソビックス蟹江店</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
+|28|529|<span class="rank-name-dl">FALCON</span>|<a href="https://search.dartslive.com/jp/shop/744296d8ec82bb000d9b047a20a7ba1e">Triumph</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
+|29|527|<span class="rank-name-dl">はるクレア</span>|<a href="https://search.dartslive.com/jp/shop/42a156408628cd3025d56fb0e5c39bac">カラオケ ジョイジョイ アソビックス蟹江店</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
+|30|526|<span class="rank-name-dl">りょ～～～くん</span>|<a href="https://search.dartslive.com/jp/shop/744296d8ec82bb000d9b047a20a7ba1e">Triumph</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
+|31|511|<span class="rank-name-dl">MASA</span>|<a href="https://search.dartslive.com/jp/shop/42a156408628cd3025d56fb0e5c39bac">カラオケ ジョイジョイ アソビックス蟹江店</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
+|32|507|<span class="rank-name-dl">四季</span>|<a href="https://search.dartslive.com/jp/shop/42a156408628cd3025d56fb0e5c39bac">カラオケ ジョイジョイ アソビックス蟹江店</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
+|33|502|<span class="rank-name-dl">ある</span>|<a href="https://search.dartslive.com/jp/shop/42a156408628cd3025d56fb0e5c39bac">カラオケ ジョイジョイ アソビックス蟹江店</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
+|34|492|<span class="rank-name-pd">TOWA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75545?s_seq=75545">JOYJOY アソビックス蟹江店</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
+|35|482|<span class="rank-name-pd">慚愧の念</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75545?s_seq=75545">JOYJOY アソビックス蟹江店</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
+|36|475|<span class="rank-name-dl">Naoki1102</span>|<a href="https://search.dartslive.com/jp/shop/42a156408628cd3025d56fb0e5c39bac">カラオケ ジョイジョイ アソビックス蟹江店</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
+|37|460|<span class="rank-name-dl">しみっちょ</span>|<a href="https://search.dartslive.com/jp/shop/42a156408628cd3025d56fb0e5c39bac">カラオケ ジョイジョイ アソビックス蟹江店</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
+|38|457|<span class="rank-name-pd">☆くみちー☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75545?s_seq=75545">JOYJOY アソビックス蟹江店</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
+|39|451|<span class="rank-name-pd">KUREAはる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75545?s_seq=75545">JOYJOY アソビックス蟹江店</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
+|40|426|<span class="rank-name-pd">れいまる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75545?s_seq=75545">JOYJOY アソビックス蟹江店</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
+|41|416|<span class="rank-name-pd">☆nezumi☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75545?s_seq=75545">JOYJOY アソビックス蟹江店</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
+|42|391|<span class="rank-name-pd">アナベル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75545?s_seq=75545">JOYJOY アソビックス蟹江店</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
+|43|360|<span class="rank-name-dl">チサキ</span>|<a href="https://search.dartslive.com/jp/shop/744296d8ec82bb000d9b047a20a7ba1e">Triumph</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
+|44|355|<span class="rank-name-dl">えりつぃんBN*IX*</span>|<a href="https://search.dartslive.com/jp/shop/42a156408628cd3025d56fb0e5c39bac">カラオケ ジョイジョイ アソビックス蟹江店</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
+|45|335|<span class="rank-name-dl">やっすん</span>|<a href="https://search.dartslive.com/jp/shop/744296d8ec82bb000d9b047a20a7ba1e">Triumph</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
+|46|333|<span class="rank-name-pd">TAKUYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75545?s_seq=75545">JOYJOY アソビックス蟹江店</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -95,9 +101,11 @@ ___
 |21|511|<span class="rank-name-dl">MASA</span>|<a href="https://search.dartslive.com/jp/shop/42a156408628cd3025d56fb0e5c39bac">カラオケ ジョイジョイ アソビックス蟹江店</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
 |22|507|<span class="rank-name-dl">四季</span>|<a href="https://search.dartslive.com/jp/shop/42a156408628cd3025d56fb0e5c39bac">カラオケ ジョイジョイ アソビックス蟹江店</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
 |23|502|<span class="rank-name-dl">ある</span>|<a href="https://search.dartslive.com/jp/shop/42a156408628cd3025d56fb0e5c39bac">カラオケ ジョイジョイ アソビックス蟹江店</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
-|24|419|<span class="rank-name-dl">Naoki1102</span>|<a href="https://search.dartslive.com/jp/shop/42a156408628cd3025d56fb0e5c39bac">カラオケ ジョイジョイ アソビックス蟹江店</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
-|25|360|<span class="rank-name-dl">チサキ</span>|<a href="https://search.dartslive.com/jp/shop/744296d8ec82bb000d9b047a20a7ba1e">Triumph</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
-|26|335|<span class="rank-name-dl">やっすん</span>|<a href="https://search.dartslive.com/jp/shop/744296d8ec82bb000d9b047a20a7ba1e">Triumph</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
+|24|475|<span class="rank-name-dl">Naoki1102</span>|<a href="https://search.dartslive.com/jp/shop/42a156408628cd3025d56fb0e5c39bac">カラオケ ジョイジョイ アソビックス蟹江店</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
+|25|460|<span class="rank-name-dl">しみっちょ</span>|<a href="https://search.dartslive.com/jp/shop/42a156408628cd3025d56fb0e5c39bac">カラオケ ジョイジョイ アソビックス蟹江店</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
+|26|360|<span class="rank-name-dl">チサキ</span>|<a href="https://search.dartslive.com/jp/shop/744296d8ec82bb000d9b047a20a7ba1e">Triumph</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
+|27|355|<span class="rank-name-dl">えりつぃんBN*IX*</span>|<a href="https://search.dartslive.com/jp/shop/42a156408628cd3025d56fb0e5c39bac">カラオケ ジョイジョイ アソビックス蟹江店</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
+|28|335|<span class="rank-name-dl">やっすん</span>|<a href="https://search.dartslive.com/jp/shop/744296d8ec82bb000d9b047a20a7ba1e">Triumph</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
 
 
 #### PHOENIXDARTS TOP 100
@@ -116,11 +124,15 @@ ___
 |7|561|<span class="rank-name-pd">だんく</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75545?s_seq=75545">JOYJOY アソビックス蟹江店</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
 |8|551|<span class="rank-name-pd">naoki1102</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75545?s_seq=75545">JOYJOY アソビックス蟹江店</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
 |9|533|<span class="rank-name-pd">0177_7190</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75545?s_seq=75545">JOYJOY アソビックス蟹江店</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
-|10|492|<span class="rank-name-pd">TOWA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75545?s_seq=75545">JOYJOY アソビックス蟹江店</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
-|11|457|<span class="rank-name-pd">☆くみちー☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75545?s_seq=75545">JOYJOY アソビックス蟹江店</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
-|12|426|<span class="rank-name-pd">れいまる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75545?s_seq=75545">JOYJOY アソビックス蟹江店</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
-|13|391|<span class="rank-name-pd">アナベル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75545?s_seq=75545">JOYJOY アソビックス蟹江店</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
-|14|333|<span class="rank-name-pd">TAKUYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75545?s_seq=75545">JOYJOY アソビックス蟹江店</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
+|9|533|<span class="rank-name-pd">Namiki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75545?s_seq=75545">JOYJOY アソビックス蟹江店</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
+|11|492|<span class="rank-name-pd">TOWA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75545?s_seq=75545">JOYJOY アソビックス蟹江店</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
+|12|482|<span class="rank-name-pd">慚愧の念</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75545?s_seq=75545">JOYJOY アソビックス蟹江店</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
+|13|457|<span class="rank-name-pd">☆くみちー☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75545?s_seq=75545">JOYJOY アソビックス蟹江店</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
+|14|451|<span class="rank-name-pd">KUREAはる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75545?s_seq=75545">JOYJOY アソビックス蟹江店</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
+|15|426|<span class="rank-name-pd">れいまる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75545?s_seq=75545">JOYJOY アソビックス蟹江店</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
+|16|416|<span class="rank-name-pd">☆nezumi☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75545?s_seq=75545">JOYJOY アソビックス蟹江店</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
+|17|391|<span class="rank-name-pd">アナベル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75545?s_seq=75545">JOYJOY アソビックス蟹江店</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
+|18|333|<span class="rank-name-pd">TAKUYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75545?s_seq=75545">JOYJOY アソビックス蟹江店</a>|<a href="/darts/rank/愛知県/海部郡">愛知県海部郡</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

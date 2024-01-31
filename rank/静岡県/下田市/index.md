@@ -26,7 +26,7 @@ ___
 |1|911|<span class="rank-name-pd">佐藤 清矢</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10081?s_seq=10081">Darts&Bar JB's</a>|<a href="/darts/rank/静岡県/下田市">静岡県下田市</a>|
 |2|756|<span class="rank-name-pd">佐藤嘉雄 JB’s</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10081?s_seq=10081">Darts&Bar JB's</a>|<a href="/darts/rank/静岡県/下田市">静岡県下田市</a>|
 |3|739|<span class="rank-name-dl">DaDa</span>|<a href="https://search.dartslive.com/jp/shop/e5223ba81cd76cbe0d9b047a20a7ba1e">Genius of players</a>|<a href="/darts/rank/静岡県/下田市">静岡県下田市</a>|
-|4|661|<span class="rank-name-pd">龍平@JB&#x27;s</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10081?s_seq=10081">Darts&Bar JB's</a>|<a href="/darts/rank/静岡県/下田市">静岡県下田市</a>|
+|4|732|<span class="rank-name-pd">龍平@JB&#x27;s</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10081?s_seq=10081">Darts&Bar JB's</a>|<a href="/darts/rank/静岡県/下田市">静岡県下田市</a>|
 |5|622|<span class="rank-name-dl">RED a.k.a 突撃隊</span>|<a href="https://search.dartslive.com/jp/shop/e5223ba81cd76cbe0d9b047a20a7ba1e">Genius of players</a>|<a href="/darts/rank/静岡県/下田市">静岡県下田市</a>|
 |6|570|<span class="rank-name-dl">takaren</span>|<a href="https://search.dartslive.com/jp/shop/e5223ba81cd76cbe0d9b047a20a7ba1e">Genius of players</a>|<a href="/darts/rank/静岡県/下田市">静岡県下田市</a>|
 |7|566|<span class="rank-name-pd">RYUSE@EMU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8626?s_seq=8626">BAR・エミュ</a>|<a href="/darts/rank/静岡県/下田市">静岡県下田市</a>|
@@ -65,7 +65,7 @@ ___
 |---|---|---|---|---|
 |1|911|<span class="rank-name-pd">佐藤 清矢</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10081?s_seq=10081">Darts&Bar JB's</a>|<a href="/darts/rank/静岡県/下田市">静岡県下田市</a>|
 |2|756|<span class="rank-name-pd">佐藤嘉雄 JB’s</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10081?s_seq=10081">Darts&Bar JB's</a>|<a href="/darts/rank/静岡県/下田市">静岡県下田市</a>|
-|3|661|<span class="rank-name-pd">龍平@JB&#x27;s</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10081?s_seq=10081">Darts&Bar JB's</a>|<a href="/darts/rank/静岡県/下田市">静岡県下田市</a>|
+|3|732|<span class="rank-name-pd">龍平@JB&#x27;s</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10081?s_seq=10081">Darts&Bar JB's</a>|<a href="/darts/rank/静岡県/下田市">静岡県下田市</a>|
 |4|566|<span class="rank-name-pd">RYUSE@EMU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8626?s_seq=8626">BAR・エミュ</a>|<a href="/darts/rank/静岡県/下田市">静岡県下田市</a>|
 |5|469|<span class="rank-name-pd">RYOHMA@EMU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8626?s_seq=8626">BAR・エミュ</a>|<a href="/darts/rank/静岡県/下田市">静岡県下田市</a>|
 |6|424|<span class="rank-name-pd">焼豚CUSTOMPresents2025</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10081?s_seq=10081">Darts&Bar JB's</a>|<a href="/darts/rank/静岡県/下田市">静岡県下田市</a>|

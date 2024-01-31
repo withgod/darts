@@ -31,24 +31,22 @@ ___
 |6|894|<span class="rank-name-dl">卍KOJI@SAMURAI卍</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
 |7|823|<span class="rank-name-dl">ｱｯｷ～＠samurai</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
 |8|818|<span class="rank-name-dl">まーくん</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
-|9|752|<span class="rank-name-dl">。。。背板</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
-|10|750|<span class="rank-name-dl">タカ（｡・_・｡）</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
-|11|722|<span class="rank-name-dl">オミス</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
-|12|669|<span class="rank-name-dl">kazuki</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
-|13|666|<span class="rank-name-dl">べー。</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
-|14|634|<span class="rank-name-dl">(@ΦωΦ)σ</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
-|15|619|<span class="rank-name-dl">(ΓΦдФ)Г</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
-|16|603|<span class="rank-name-dl">Myaa(´･ω･` )</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
-|17|596|<span class="rank-name-dl">とっきーぷりん</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
-|18|566|<span class="rank-name-dl">TAKA</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
-|19|555|<span class="rank-name-dl">ともひろ</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
-|20|540|<span class="rank-name-dl">MiMi</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
-|21|530|<span class="rank-name-dl">はーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
-|22|515|<span class="rank-name-dl">絹豆腐</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
-|23|513|<span class="rank-name-dl">*MKR*MaMa★+｡</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
-|24|490|<span class="rank-name-dl">りっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
-|25|455|<span class="rank-name-dl">ฅQooฅ</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
-|26|414|<span class="rank-name-dl">.*★MoA★*.</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
+|9|783|<span class="rank-name-dl">。。。背板</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
+|10|757|<span class="rank-name-dl">オオツキ</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
+|11|750|<span class="rank-name-dl">タカ（｡・_・｡）</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
+|12|722|<span class="rank-name-dl">オミス</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
+|13|669|<span class="rank-name-dl">kazuki</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
+|14|666|<span class="rank-name-dl">べー。</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
+|15|634|<span class="rank-name-dl">(@ΦωΦ)σ</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
+|16|619|<span class="rank-name-dl">(ΓΦдФ)Г</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
+|17|603|<span class="rank-name-dl">Myaa(´･ω･` )</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
+|17|603|<span class="rank-name-dl">はーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
+|19|540|<span class="rank-name-dl">MiMi</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
+|20|515|<span class="rank-name-dl">絹豆腐</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
+|21|513|<span class="rank-name-dl">*MKR*MaMa★+｡</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
+|22|490|<span class="rank-name-dl">りっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
+|23|455|<span class="rank-name-dl">ฅQooฅ</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
+|24|414|<span class="rank-name-dl">.*★MoA★*.</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -66,24 +64,22 @@ ___
 |6|894|<span class="rank-name-dl">卍KOJI@SAMURAI卍</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
 |7|823|<span class="rank-name-dl">ｱｯｷ～＠samurai</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
 |8|818|<span class="rank-name-dl">まーくん</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
-|9|752|<span class="rank-name-dl">。。。背板</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
-|10|750|<span class="rank-name-dl">タカ（｡・_・｡）</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
-|11|722|<span class="rank-name-dl">オミス</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
-|12|669|<span class="rank-name-dl">kazuki</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
-|13|666|<span class="rank-name-dl">べー。</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
-|14|634|<span class="rank-name-dl">(@ΦωΦ)σ</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
-|15|619|<span class="rank-name-dl">(ΓΦдФ)Г</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
-|16|603|<span class="rank-name-dl">Myaa(´･ω･` )</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
-|17|596|<span class="rank-name-dl">とっきーぷりん</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
-|18|566|<span class="rank-name-dl">TAKA</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
-|19|555|<span class="rank-name-dl">ともひろ</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
-|20|540|<span class="rank-name-dl">MiMi</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
-|21|530|<span class="rank-name-dl">はーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
-|22|515|<span class="rank-name-dl">絹豆腐</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
-|23|513|<span class="rank-name-dl">*MKR*MaMa★+｡</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
-|24|490|<span class="rank-name-dl">りっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
-|25|455|<span class="rank-name-dl">ฅQooฅ</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
-|26|414|<span class="rank-name-dl">.*★MoA★*.</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
+|9|783|<span class="rank-name-dl">。。。背板</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
+|10|757|<span class="rank-name-dl">オオツキ</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
+|11|750|<span class="rank-name-dl">タカ（｡・_・｡）</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
+|12|722|<span class="rank-name-dl">オミス</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
+|13|669|<span class="rank-name-dl">kazuki</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
+|14|666|<span class="rank-name-dl">べー。</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
+|15|634|<span class="rank-name-dl">(@ΦωΦ)σ</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
+|16|619|<span class="rank-name-dl">(ΓΦдФ)Г</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
+|17|603|<span class="rank-name-dl">Myaa(´･ω･` )</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
+|17|603|<span class="rank-name-dl">はーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
+|19|540|<span class="rank-name-dl">MiMi</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
+|20|515|<span class="rank-name-dl">絹豆腐</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
+|21|513|<span class="rank-name-dl">*MKR*MaMa★+｡</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
+|22|490|<span class="rank-name-dl">りっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
+|23|455|<span class="rank-name-dl">ฅQooฅ</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
+|24|414|<span class="rank-name-dl">.*★MoA★*.</span>|<a href="https://search.dartslive.com/jp/shop/2f7ab89db9ec97b00d9b047a20a7ba1e">Pool&Darts Samurai</a>|<a href="/darts/rank/兵庫県/加東市">兵庫県加東市</a>|
 
 
 #### PHOENIXDARTS TOP 100

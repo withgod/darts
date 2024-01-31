@@ -23,14 +23,14 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1115|<span class="rank-name-pd">カウパッ＼(^o^)／ (ﾟ-ﾟ)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
+|1|1118|<span class="rank-name-pd">カウパッ＼(^o^)／ (ﾟ-ﾟ)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
 |2|982|<span class="rank-name-pd">遠山 和樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
 |3|955|<span class="rank-name-pd">N.H</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
 |3|955|<span class="rank-name-pd">ＡＳＴ(株)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
 |5|919|<span class="rank-name-pd">MICCLE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89645?s_seq=89645">MICCLE</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
 |6|917|<span class="rank-name-pd">たーくお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
-|7|900|<span class="rank-name-pd">mooTaka -Anpiece-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
-|8|892|<span class="rank-name-pd">ふぇいα-BET@S4㌠</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
+|7|906|<span class="rank-name-pd">ふぇいα-BET@S4㌠</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
+|8|900|<span class="rank-name-pd">mooTaka -Anpiece-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
 |9|874|<span class="rank-name-pd">†yasuke†</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
 |9|874|<span class="rank-name-pd">特殊零部隊☆零八</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
 |11|851|<span class="rank-name-pd">asase</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
@@ -51,21 +51,21 @@ ___
 |26|642|<span class="rank-name-pd">デーチ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89645?s_seq=89645">MICCLE</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
 |27|627|<span class="rank-name-pd">ぽんず</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89645?s_seq=89645">MICCLE</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
 |28|622|<span class="rank-name-pd">たすく</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89645?s_seq=89645">MICCLE</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
-|29|606|<span class="rank-name-pd">ゆう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
-|30|592|<span class="rank-name-pd">FlowerCastle12</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
-|31|588|<span class="rank-name-pd">firelion</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
-|32|584|<span class="rank-name-dl">大工の健</span>|<a href="https://search.dartslive.com/jp/shop/04a267c2d6b799340d9b047a20a7ba1e">Lucia</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
-|33|578|<span class="rank-name-pd">夢雲( ´艸｀)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
-|34|564|<span class="rank-name-dl">あい</span>|<a href="https://search.dartslive.com/jp/shop/04a267c2d6b799340d9b047a20a7ba1e">Lucia</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
-|35|553|<span class="rank-name-pd">L-STYLE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
-|36|552|<span class="rank-name-pd">はるちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
-|37|546|<span class="rank-name-pd">かの</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
-|38|544|<span class="rank-name-pd"> う～やん!!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
-|39|541|<span class="rank-name-pd">NAOTO@ROOK</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
-|40|540|<span class="rank-name-pd">YUKA@ST</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
-|41|496|<span class="rank-name-pd">レジちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89645?s_seq=89645">MICCLE</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
-|42|487|<span class="rank-name-pd">kanato</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
-|43|478|<span class="rank-name-pd">SHIN.MEIJIYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
+|29|621|<span class="rank-name-pd">SHIN.MEIJIYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
+|30|606|<span class="rank-name-pd">ゆう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
+|31|592|<span class="rank-name-pd">FlowerCastle12</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
+|32|588|<span class="rank-name-pd">firelion</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
+|33|584|<span class="rank-name-dl">大工の健</span>|<a href="https://search.dartslive.com/jp/shop/04a267c2d6b799340d9b047a20a7ba1e">Lucia</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
+|34|578|<span class="rank-name-pd">夢雲( ´艸｀)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
+|35|564|<span class="rank-name-dl">あい</span>|<a href="https://search.dartslive.com/jp/shop/04a267c2d6b799340d9b047a20a7ba1e">Lucia</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
+|36|553|<span class="rank-name-pd">L-STYLE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
+|37|552|<span class="rank-name-pd">はるちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
+|38|546|<span class="rank-name-pd">かの</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
+|39|544|<span class="rank-name-pd"> う～やん!!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
+|40|541|<span class="rank-name-pd">NAOTO@ROOK</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
+|41|540|<span class="rank-name-pd">YUKA@ST</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
+|42|496|<span class="rank-name-pd">レジちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89645?s_seq=89645">MICCLE</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
+|43|487|<span class="rank-name-pd">kanato</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
 |44|472|<span class="rank-name-dl">夢太鼓の桶</span>|<a href="https://search.dartslive.com/jp/shop/04a267c2d6b799340d9b047a20a7ba1e">Lucia</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
 |45|471|<span class="rank-name-pd">◆ほわいてぃ～◆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
 |46|464|<span class="rank-name-pd">黒澤さん@a.s.t</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
@@ -101,14 +101,14 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1115|<span class="rank-name-pd">カウパッ＼(^o^)／ (ﾟ-ﾟ)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
+|1|1118|<span class="rank-name-pd">カウパッ＼(^o^)／ (ﾟ-ﾟ)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
 |2|982|<span class="rank-name-pd">遠山 和樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
 |3|955|<span class="rank-name-pd">N.H</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
 |3|955|<span class="rank-name-pd">ＡＳＴ(株)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
 |5|919|<span class="rank-name-pd">MICCLE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89645?s_seq=89645">MICCLE</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
 |6|917|<span class="rank-name-pd">たーくお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
-|7|900|<span class="rank-name-pd">mooTaka -Anpiece-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
-|8|892|<span class="rank-name-pd">ふぇいα-BET@S4㌠</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
+|7|906|<span class="rank-name-pd">ふぇいα-BET@S4㌠</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
+|8|900|<span class="rank-name-pd">mooTaka -Anpiece-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
 |9|874|<span class="rank-name-pd">†yasuke†</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
 |9|874|<span class="rank-name-pd">特殊零部隊☆零八</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
 |11|851|<span class="rank-name-pd">asase</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
@@ -128,19 +128,19 @@ ___
 |25|642|<span class="rank-name-pd">デーチ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89645?s_seq=89645">MICCLE</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
 |26|627|<span class="rank-name-pd">ぽんず</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89645?s_seq=89645">MICCLE</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
 |27|622|<span class="rank-name-pd">たすく</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89645?s_seq=89645">MICCLE</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
-|28|606|<span class="rank-name-pd">ゆう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
-|29|592|<span class="rank-name-pd">FlowerCastle12</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
-|30|588|<span class="rank-name-pd">firelion</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
-|31|578|<span class="rank-name-pd">夢雲( ´艸｀)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
-|32|553|<span class="rank-name-pd">L-STYLE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
-|33|552|<span class="rank-name-pd">はるちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
-|34|546|<span class="rank-name-pd">かの</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
-|35|544|<span class="rank-name-pd"> う～やん!!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
-|36|541|<span class="rank-name-pd">NAOTO@ROOK</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
-|37|540|<span class="rank-name-pd">YUKA@ST</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
-|38|496|<span class="rank-name-pd">レジちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89645?s_seq=89645">MICCLE</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
-|39|487|<span class="rank-name-pd">kanato</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
-|40|478|<span class="rank-name-pd">SHIN.MEIJIYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
+|28|621|<span class="rank-name-pd">SHIN.MEIJIYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
+|29|606|<span class="rank-name-pd">ゆう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
+|30|592|<span class="rank-name-pd">FlowerCastle12</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
+|31|588|<span class="rank-name-pd">firelion</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
+|32|578|<span class="rank-name-pd">夢雲( ´艸｀)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
+|33|553|<span class="rank-name-pd">L-STYLE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
+|34|552|<span class="rank-name-pd">はるちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
+|35|546|<span class="rank-name-pd">かの</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
+|36|544|<span class="rank-name-pd"> う～やん!!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
+|37|541|<span class="rank-name-pd">NAOTO@ROOK</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
+|38|540|<span class="rank-name-pd">YUKA@ST</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
+|39|496|<span class="rank-name-pd">レジちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89645?s_seq=89645">MICCLE</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
+|40|487|<span class="rank-name-pd">kanato</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
 |41|471|<span class="rank-name-pd">◆ほわいてぃ～◆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
 |42|464|<span class="rank-name-pd">黒澤さん@a.s.t</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7228?s_seq=7228">a spider's thread</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|
 |43|448|<span class="rank-name-pd">0130_6607</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89645?s_seq=89645">MICCLE</a>|<a href="/darts/rank/長野県/北佐久郡">長野県北佐久郡</a>|

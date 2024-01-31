@@ -41,7 +41,7 @@ ___
 |16|925|<span class="rank-name-dl">中小企業</span>|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
 |17|919|<span class="rank-name-dl">榊</span>|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
 |18|918|<span class="rank-name-pd">SASAKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|19|908|<span class="rank-name-pd">このカード使ってる人通報します</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|19|908|<span class="rank-name-pd">ブラック企業</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
 |20|881|<span class="rank-name-dl">酔いどれなるるん</span>|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
 |21|880|<span class="rank-name-dl">ゆーた</span>|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
 |21|880|<span class="rank-name-dl">渡部 和知</span>|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
@@ -60,69 +60,69 @@ ___
 |35|834|<span class="rank-name-pd">ko.ko_めろん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
 |36|815|<span class="rank-name-dl">ねも(ノﾟOﾟ)ノ</span>|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
 |37|813|<span class="rank-name-pd">たかはし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49538?s_seq=49538">アウトブレイク</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|38|810|<span class="rank-name-pd">せぱ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
 |38|810|<span class="rank-name-pd">み</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49538?s_seq=49538">アウトブレイク</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|38|810|<span class="rank-name-pd">濁古</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
 |40|803|<span class="rank-name-pd">渡部　和知</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87533?s_seq=87533">Pub Jock</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
 |41|783|<span class="rank-name-pd">さとう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71747?s_seq=71747">ジュべェナイル</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
 |42|774|<span class="rank-name-pd">PONPON</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87533?s_seq=87533">Pub Jock</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|43|742|<span class="rank-name-pd">み</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|44|731|<span class="rank-name-pd">TKD</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71747?s_seq=71747">ジュべェナイル</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|45|727|<span class="rank-name-pd">あべだよ☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71747?s_seq=71747">ジュべェナイル</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|46|724|<span class="rank-name-pd">さとう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|47|723|<span class="rank-name-pd">yoshiki(セパ用)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|48|718|<span class="rank-name-pd">NOM3</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|49|705|<span class="rank-name-pd">なかじゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|50|691|<span class="rank-name-pd">KFC会津若松店(公式)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|51|682|<span class="rank-name-pd">Ryun.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|52|680|<span class="rank-name-pd">のなぼー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|53|675|<span class="rank-name-pd">れら</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71747?s_seq=71747">ジュべェナイル</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|54|667|<span class="rank-name-pd">あさひ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|55|664|<span class="rank-name-pd">SASAKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71747?s_seq=71747">ジュべェナイル</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|55|664|<span class="rank-name-pd">まさや</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87533?s_seq=87533">Pub Jock</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|55|664|<span class="rank-name-pd">シムシム</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|58|655|<span class="rank-name-pd">ゆきだるま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|59|650|<span class="rank-name-pd">POCHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49538?s_seq=49538">アウトブレイク</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|60|644|<span class="rank-name-pd">kiD【§н射оτ】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|60|644|<span class="rank-name-pd">ゆきだるま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71747?s_seq=71747">ジュべェナイル</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|62|640|<span class="rank-name-dl">*･kana･*</span>|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|63|638|<span class="rank-name-pd">いとひろ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49538?s_seq=49538">アウトブレイク</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|64|635|<span class="rank-name-pd">休日のパパ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|65|633|<span class="rank-name-pd">ゆーたた@創心家</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|66|630|<span class="rank-name-pd">メロンソーダ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|67|622|<span class="rank-name-pd">mitcho</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|68|621|<span class="rank-name-pd">にゃんた姫</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|68|621|<span class="rank-name-pd">ロックス</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71747?s_seq=71747">ジュべェナイル</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|70|615|<span class="rank-name-pd">T@kumi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49538?s_seq=49538">アウトブレイク</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|71|609|<span class="rank-name-dl">(♡) むち子。</span>|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|71|609|<span class="rank-name-pd">ゆーたた@創心家</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71747?s_seq=71747">ジュべェナイル</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|73|606|<span class="rank-name-pd">ef_g</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|74|601|<span class="rank-name-pd">T&amp;H</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|74|601|<span class="rank-name-pd">にゃんた姫</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71747?s_seq=71747">ジュべェナイル</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|74|601|<span class="rank-name-pd">矢好人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87533?s_seq=87533">Pub Jock</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|77|600|<span class="rank-name-pd">SIRAGAI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|78|586|<span class="rank-name-pd">☆つかさ☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|79|583|<span class="rank-name-pd">とっし～</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|80|578|<span class="rank-name-pd">わや</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|81|576|<span class="rank-name-pd">TOY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49538?s_seq=49538">アウトブレイク</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|81|576|<span class="rank-name-pd">uni</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|83|572|<span class="rank-name-pd">ef_g</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71747?s_seq=71747">ジュべェナイル</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|84|571|<span class="rank-name-pd">Shogun</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87533?s_seq=87533">Pub Jock</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|85|568|<span class="rank-name-pd">ゆ〜た</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|86|565|<span class="rank-name-pd">ポンコツめがね</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49538?s_seq=49538">アウトブレイク</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|87|563|<span class="rank-name-pd">0179_8804</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|88|559|<span class="rank-name-pd">ないがー様</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|89|555|<span class="rank-name-pd">NGO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71747?s_seq=71747">ジュべェナイル</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|89|555|<span class="rank-name-dl">千里の道も</span>|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|91|554|<span class="rank-name-pd">Shogun</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|92|549|<span class="rank-name-pd">XXryoXX( TT)ノ→◎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49538?s_seq=49538">アウトブレイク</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|92|549|<span class="rank-name-pd">武諒(むりょー)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|94|548|<span class="rank-name-pd">てるてる@Aivy</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49538?s_seq=49538">アウトブレイク</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|95|545|<span class="rank-name-pd">mitcho</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49538?s_seq=49538">アウトブレイク</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|96|544|<span class="rank-name-pd">[~-~]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|97|540|<span class="rank-name-pd">じょっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|98|538|<span class="rank-name-pd">*･ʚしゅくɞ･*</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|99|532|<span class="rank-name-pd">crow.77</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|100|528|<span class="rank-name-pd">zvpb35ca0b72ec</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71747?s_seq=71747">ジュべェナイル</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|43|758|<span class="rank-name-pd">矢好人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49538?s_seq=49538">アウトブレイク</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|44|742|<span class="rank-name-pd">み</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|45|731|<span class="rank-name-pd">TKD</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71747?s_seq=71747">ジュべェナイル</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|46|727|<span class="rank-name-pd">あべだよ☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71747?s_seq=71747">ジュべェナイル</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|47|724|<span class="rank-name-pd">さとう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|48|723|<span class="rank-name-pd">yoshiki(セパ用)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|49|718|<span class="rank-name-pd">NOM3</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|49|718|<span class="rank-name-pd">あさひ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|51|705|<span class="rank-name-pd">なかじゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|52|691|<span class="rank-name-pd">KFC会津若松店(公式)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|53|689|<span class="rank-name-pd">DIO様</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71747?s_seq=71747">ジュべェナイル</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|54|682|<span class="rank-name-pd">Ryun.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|55|680|<span class="rank-name-pd">のなぼー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|56|676|<span class="rank-name-pd">SASAKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49538?s_seq=49538">アウトブレイク</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|57|675|<span class="rank-name-pd">れら</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71747?s_seq=71747">ジュべェナイル</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|58|664|<span class="rank-name-pd">SASAKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71747?s_seq=71747">ジュべェナイル</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|58|664|<span class="rank-name-pd">まさや</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87533?s_seq=87533">Pub Jock</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|58|664|<span class="rank-name-pd">シムシム</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|61|655|<span class="rank-name-pd">とっし～</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|61|655|<span class="rank-name-pd">ゆきだるま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|63|650|<span class="rank-name-pd">POCHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49538?s_seq=49538">アウトブレイク</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|64|644|<span class="rank-name-pd">kiD【§н射оτ】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|64|644|<span class="rank-name-pd">ゆきだるま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71747?s_seq=71747">ジュべェナイル</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|66|640|<span class="rank-name-dl">*･kana･*</span>|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|67|638|<span class="rank-name-pd">いとひろ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49538?s_seq=49538">アウトブレイク</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|68|635|<span class="rank-name-pd">休日のパパ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|69|633|<span class="rank-name-pd">ゆーたた@創心家</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|70|630|<span class="rank-name-pd">メロンソーダ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|71|622|<span class="rank-name-pd">mitcho</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|72|621|<span class="rank-name-pd">にゃんた姫</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|72|621|<span class="rank-name-pd">ロックス</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71747?s_seq=71747">ジュべェナイル</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|74|615|<span class="rank-name-pd">T@kumi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49538?s_seq=49538">アウトブレイク</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|75|613|<span class="rank-name-pd">なべちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|76|609|<span class="rank-name-dl">(♡) むち子。</span>|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|76|609|<span class="rank-name-pd">ゆーたた@創心家</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71747?s_seq=71747">ジュべェナイル</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|78|606|<span class="rank-name-pd">ef_g</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|79|601|<span class="rank-name-pd">T&amp;H</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|79|601|<span class="rank-name-pd">にゃんた姫</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71747?s_seq=71747">ジュべェナイル</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|79|601|<span class="rank-name-pd">矢好人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87533?s_seq=87533">Pub Jock</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|82|600|<span class="rank-name-pd">SIRAGAI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|83|586|<span class="rank-name-pd">☆つかさ☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|84|578|<span class="rank-name-pd">わや</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|85|576|<span class="rank-name-pd">Shogun</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|85|576|<span class="rank-name-pd">TOY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49538?s_seq=49538">アウトブレイク</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|85|576|<span class="rank-name-pd">uni</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|88|572|<span class="rank-name-pd">ef_g</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71747?s_seq=71747">ジュべェナイル</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|89|571|<span class="rank-name-pd">Shogun</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87533?s_seq=87533">Pub Jock</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|90|568|<span class="rank-name-pd">ゆ〜た</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|91|565|<span class="rank-name-pd">ポンコツめがね</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49538?s_seq=49538">アウトブレイク</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|92|563|<span class="rank-name-pd">0179_8804</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|93|559|<span class="rank-name-pd">ないがー様</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|94|555|<span class="rank-name-pd">NGO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71747?s_seq=71747">ジュべェナイル</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|94|555|<span class="rank-name-dl">千里の道も</span>|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|96|549|<span class="rank-name-pd">XXryoXX( TT)ノ→◎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49538?s_seq=49538">アウトブレイク</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|96|549|<span class="rank-name-pd">武諒(むりょー)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|98|548|<span class="rank-name-pd">てるてる@Aivy</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49538?s_seq=49538">アウトブレイク</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|99|545|<span class="rank-name-pd">mitcho</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49538?s_seq=49538">アウトブレイク</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|100|544|<span class="rank-name-pd">[~-~]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -149,11 +149,9 @@ ___
 |15|614|<span class="rank-name-dl">にゃんた姫</span>|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
 |16|609|<span class="rank-name-dl">(♡) むち子。</span>|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
 |17|555|<span class="rank-name-dl">千里の道も</span>|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|18|474|<span class="rank-name-dl">mitcho</span>|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|18|487|<span class="rank-name-dl">あたおじ</span>|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
 |19|455|<span class="rank-name-dl">ふーか</span>|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|20|433|<span class="rank-name-dl">MASA@†迷走中†</span>|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|21|423|<span class="rank-name-dl">Sho1001</span>|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|22|316|<span class="rank-name-dl">ぎゃる</span>|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|20|316|<span class="rank-name-dl">ぎゃる</span>|<a href="https://search.dartslive.com/jp/shop/1c370e2016e905b358d385ea46352d8f">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
 
 
 #### PHOENIXDARTS TOP 100
@@ -176,7 +174,7 @@ ___
 |11|933|<span class="rank-name-pd">nemo.jp</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
 |12|931|<span class="rank-name-pd">Hiroサブロー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
 |13|918|<span class="rank-name-pd">SASAKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|14|908|<span class="rank-name-pd">このカード使ってる人通報します</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|14|908|<span class="rank-name-pd">ブラック企業</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
 |15|877|<span class="rank-name-pd">たかぴ✰⋆｡:ﾟ･*☽:</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
 |16|875|<span class="rank-name-pd">ポンコツめがね</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
 |17|868|<span class="rank-name-pd">T@kumi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
@@ -187,82 +185,82 @@ ___
 |22|841|<span class="rank-name-pd">yoshiki.i</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
 |23|834|<span class="rank-name-pd">ko.ko_めろん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
 |24|813|<span class="rank-name-pd">たかはし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49538?s_seq=49538">アウトブレイク</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|25|810|<span class="rank-name-pd">せぱ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
 |25|810|<span class="rank-name-pd">み</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49538?s_seq=49538">アウトブレイク</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|25|810|<span class="rank-name-pd">濁古</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
 |27|803|<span class="rank-name-pd">渡部　和知</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87533?s_seq=87533">Pub Jock</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
 |28|783|<span class="rank-name-pd">さとう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71747?s_seq=71747">ジュべェナイル</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
 |29|780|<span class="rank-name-pd">やまいち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
 |30|774|<span class="rank-name-pd">PONPON</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87533?s_seq=87533">Pub Jock</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|31|742|<span class="rank-name-pd">み</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|32|731|<span class="rank-name-pd">TKD</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71747?s_seq=71747">ジュべェナイル</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|33|727|<span class="rank-name-pd">あべだよ☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71747?s_seq=71747">ジュべェナイル</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|34|724|<span class="rank-name-pd">さとう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|35|723|<span class="rank-name-pd">yoshiki(セパ用)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|36|718|<span class="rank-name-pd">NOM3</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|37|705|<span class="rank-name-pd">なかじゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|38|691|<span class="rank-name-pd">KFC会津若松店(公式)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|39|682|<span class="rank-name-pd">Ryun.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|40|681|<span class="rank-name-pd">ロックス</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|41|680|<span class="rank-name-pd">のなぼー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|42|675|<span class="rank-name-pd">れら</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71747?s_seq=71747">ジュべェナイル</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|43|667|<span class="rank-name-pd">あさひ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|44|664|<span class="rank-name-pd">SASAKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71747?s_seq=71747">ジュべェナイル</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|44|664|<span class="rank-name-pd">まさや</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87533?s_seq=87533">Pub Jock</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|44|664|<span class="rank-name-pd">シムシム</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|47|655|<span class="rank-name-pd">ゆきだるま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|48|650|<span class="rank-name-pd">POCHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49538?s_seq=49538">アウトブレイク</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|49|644|<span class="rank-name-pd">kiD【§н射оτ】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|49|644|<span class="rank-name-pd">ゆきだるま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71747?s_seq=71747">ジュべェナイル</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|51|638|<span class="rank-name-pd">いとひろ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49538?s_seq=49538">アウトブレイク</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|52|635|<span class="rank-name-pd">休日のパパ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|53|633|<span class="rank-name-pd">ゆーたた@創心家</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|54|630|<span class="rank-name-pd">メロンソーダ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|55|622|<span class="rank-name-pd">mitcho</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|56|621|<span class="rank-name-pd">にゃんた姫</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|56|621|<span class="rank-name-pd">ロックス</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71747?s_seq=71747">ジュべェナイル</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|58|615|<span class="rank-name-pd">T@kumi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49538?s_seq=49538">アウトブレイク</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|59|609|<span class="rank-name-pd">ゆーたた@創心家</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71747?s_seq=71747">ジュべェナイル</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|60|606|<span class="rank-name-pd">ef_g</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|61|601|<span class="rank-name-pd">T&amp;H</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|61|601|<span class="rank-name-pd">にゃんた姫</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71747?s_seq=71747">ジュべェナイル</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|61|601|<span class="rank-name-pd">矢好人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87533?s_seq=87533">Pub Jock</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|64|600|<span class="rank-name-pd">SIRAGAI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|65|586|<span class="rank-name-pd">☆つかさ☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|66|583|<span class="rank-name-pd">とっし～</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|67|578|<span class="rank-name-pd">わや</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|68|576|<span class="rank-name-pd">TOY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49538?s_seq=49538">アウトブレイク</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|68|576|<span class="rank-name-pd">uni</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|70|572|<span class="rank-name-pd">ef_g</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71747?s_seq=71747">ジュべェナイル</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|71|571|<span class="rank-name-pd">Shogun</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87533?s_seq=87533">Pub Jock</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|72|568|<span class="rank-name-pd">ゆ〜た</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|73|565|<span class="rank-name-pd">ポンコツめがね</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49538?s_seq=49538">アウトブレイク</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|74|563|<span class="rank-name-pd">0179_8804</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|75|559|<span class="rank-name-pd">ないがー様</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|76|555|<span class="rank-name-pd">NGO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71747?s_seq=71747">ジュべェナイル</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|77|554|<span class="rank-name-pd">Shogun</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|78|549|<span class="rank-name-pd">XXryoXX( TT)ノ→◎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49538?s_seq=49538">アウトブレイク</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|78|549|<span class="rank-name-pd">武諒(むりょー)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|80|548|<span class="rank-name-pd">てるてる@Aivy</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49538?s_seq=49538">アウトブレイク</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|81|545|<span class="rank-name-pd">mitcho</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49538?s_seq=49538">アウトブレイク</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|82|544|<span class="rank-name-pd">[~-~]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|83|540|<span class="rank-name-pd">じょっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|84|538|<span class="rank-name-pd">*･ʚしゅくɞ･*</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|85|532|<span class="rank-name-pd">crow.77</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|86|528|<span class="rank-name-pd">zvpb35ca0b72ec</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71747?s_seq=71747">ジュべェナイル</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|86|528|<span class="rank-name-pd">†MASAK!@haaちゃん推し†</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|88|524|<span class="rank-name-pd">いとひろ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|89|519|<span class="rank-name-pd">ろーりんぐすとん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|90|515|<span class="rank-name-pd">M.S.N.R.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|91|512|<span class="rank-name-pd">TAKU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|92|511|<span class="rank-name-pd">xx翔xx</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|93|496|<span class="rank-name-pd">paupau</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|94|483|<span class="rank-name-pd">腕もやし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49538?s_seq=49538">アウトブレイク</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|95|479|<span class="rank-name-pd">0272_0905</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|96|477|<span class="rank-name-pd">ぽあだ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|97|473|<span class="rank-name-pd">asm( ･ө･ )</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|98|468|<span class="rank-name-pd">雪印(´Д｀)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|99|460|<span class="rank-name-pd">やかわ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49538?s_seq=49538">アウトブレイク</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
-|100|458|<span class="rank-name-pd">grapefruit_196</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|31|758|<span class="rank-name-pd">矢好人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49538?s_seq=49538">アウトブレイク</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|32|742|<span class="rank-name-pd">み</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|33|731|<span class="rank-name-pd">TKD</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71747?s_seq=71747">ジュべェナイル</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|34|727|<span class="rank-name-pd">あべだよ☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71747?s_seq=71747">ジュべェナイル</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|35|724|<span class="rank-name-pd">さとう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|36|723|<span class="rank-name-pd">yoshiki(セパ用)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|37|718|<span class="rank-name-pd">NOM3</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|37|718|<span class="rank-name-pd">あさひ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|39|705|<span class="rank-name-pd">なかじゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|40|691|<span class="rank-name-pd">KFC会津若松店(公式)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|41|689|<span class="rank-name-pd">DIO様</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71747?s_seq=71747">ジュべェナイル</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|42|682|<span class="rank-name-pd">Ryun.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|43|681|<span class="rank-name-pd">ロックス</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|44|680|<span class="rank-name-pd">のなぼー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|45|676|<span class="rank-name-pd">SASAKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49538?s_seq=49538">アウトブレイク</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|46|675|<span class="rank-name-pd">れら</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71747?s_seq=71747">ジュべェナイル</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|47|664|<span class="rank-name-pd">SASAKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71747?s_seq=71747">ジュべェナイル</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|47|664|<span class="rank-name-pd">まさや</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87533?s_seq=87533">Pub Jock</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|47|664|<span class="rank-name-pd">シムシム</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|50|655|<span class="rank-name-pd">とっし～</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|50|655|<span class="rank-name-pd">ゆきだるま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|52|650|<span class="rank-name-pd">POCHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49538?s_seq=49538">アウトブレイク</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|53|644|<span class="rank-name-pd">kiD【§н射оτ】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|53|644|<span class="rank-name-pd">ゆきだるま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71747?s_seq=71747">ジュべェナイル</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|55|638|<span class="rank-name-pd">いとひろ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49538?s_seq=49538">アウトブレイク</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|56|635|<span class="rank-name-pd">休日のパパ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|57|633|<span class="rank-name-pd">ゆーたた@創心家</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|58|630|<span class="rank-name-pd">メロンソーダ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|59|622|<span class="rank-name-pd">mitcho</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|60|621|<span class="rank-name-pd">にゃんた姫</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|60|621|<span class="rank-name-pd">ロックス</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71747?s_seq=71747">ジュべェナイル</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|62|615|<span class="rank-name-pd">T@kumi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49538?s_seq=49538">アウトブレイク</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|63|613|<span class="rank-name-pd">なべちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|64|609|<span class="rank-name-pd">ゆーたた@創心家</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71747?s_seq=71747">ジュべェナイル</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|65|606|<span class="rank-name-pd">ef_g</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|66|601|<span class="rank-name-pd">T&amp;H</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|66|601|<span class="rank-name-pd">にゃんた姫</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71747?s_seq=71747">ジュべェナイル</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|66|601|<span class="rank-name-pd">矢好人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87533?s_seq=87533">Pub Jock</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|69|600|<span class="rank-name-pd">SIRAGAI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|70|586|<span class="rank-name-pd">☆つかさ☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|71|578|<span class="rank-name-pd">わや</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|72|576|<span class="rank-name-pd">Shogun</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|72|576|<span class="rank-name-pd">TOY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49538?s_seq=49538">アウトブレイク</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|72|576|<span class="rank-name-pd">uni</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|75|572|<span class="rank-name-pd">ef_g</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71747?s_seq=71747">ジュべェナイル</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|76|571|<span class="rank-name-pd">Shogun</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87533?s_seq=87533">Pub Jock</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|77|568|<span class="rank-name-pd">ゆ〜た</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|78|565|<span class="rank-name-pd">ポンコツめがね</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49538?s_seq=49538">アウトブレイク</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|79|563|<span class="rank-name-pd">0179_8804</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|80|559|<span class="rank-name-pd">ないがー様</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|81|555|<span class="rank-name-pd">NGO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71747?s_seq=71747">ジュべェナイル</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|82|549|<span class="rank-name-pd">XXryoXX( TT)ノ→◎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49538?s_seq=49538">アウトブレイク</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|82|549|<span class="rank-name-pd">武諒(むりょー)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|84|548|<span class="rank-name-pd">てるてる@Aivy</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49538?s_seq=49538">アウトブレイク</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|85|545|<span class="rank-name-pd">mitcho</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49538?s_seq=49538">アウトブレイク</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|86|544|<span class="rank-name-pd">[~-~]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|87|540|<span class="rank-name-pd">じょっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|88|538|<span class="rank-name-pd">*･ʚしゅくɞ･*</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|89|532|<span class="rank-name-pd">crow.77</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|90|528|<span class="rank-name-pd">†MASAK!@haaちゃん推し†</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|91|524|<span class="rank-name-pd">いとひろ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|92|519|<span class="rank-name-pd">ろーりんぐすとん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|93|515|<span class="rank-name-pd">M.S.N.R.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|94|512|<span class="rank-name-pd">TAKU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|95|511|<span class="rank-name-pd">xx翔xx</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|96|506|<span class="rank-name-pd">葛飾のとーしー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49538?s_seq=49538">アウトブレイク</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|97|496|<span class="rank-name-pd">paupau</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|98|483|<span class="rank-name-pd">しぜんut</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49538?s_seq=49538">アウトブレイク</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|98|483|<span class="rank-name-pd">腕もやし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49538?s_seq=49538">アウトブレイク</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
+|100|479|<span class="rank-name-pd">0272_0905</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10165?s_seq=10165">快活CLUB 会津若松店</a>|<a href="/darts/rank/福島県/会津若松市">福島県会津若松市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

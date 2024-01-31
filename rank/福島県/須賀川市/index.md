@@ -34,48 +34,47 @@ ___
 |9|826|<span class="rank-name-dl">すずき</span>|<a href="https://search.dartslive.com/jp/shop/c86b755d597614380d9b047a20a7ba1e">Noble-Rich</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
 |10|807|<span class="rank-name-pd">てるてる@Aivy</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73788?s_seq=73788">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
 |11|762|<span class="rank-name-dl">Naaapachi</span>|<a href="https://search.dartslive.com/jp/shop/c86b755d597614380d9b047a20a7ba1e">Noble-Rich</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|12|754|<span class="rank-name-dl">ぱち</span>|<a href="https://search.dartslive.com/jp/shop/c86b755d597614380d9b047a20a7ba1e">Noble-Rich</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|13|715|<span class="rank-name-dl">azuizui</span>|<a href="https://search.dartslive.com/jp/shop/22704f772447927a0d9b047a20a7ba1e">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|14|712|<span class="rank-name-dl">へいへい</span>|<a href="https://search.dartslive.com/jp/shop/68d7fcc9e3cd7b4d0d9b047a20a7ba1e">～よってけBar～　YOLO</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|15|711|<span class="rank-name-pd">azuizui‪‪ꪔ̤̫‬</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73788?s_seq=73788">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|16|697|<span class="rank-name-pd">たぁ～kun</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73788?s_seq=73788">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|17|681|<span class="rank-name-pd">カッパ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73788?s_seq=73788">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|18|680|<span class="rank-name-dl">Tukasa@NEO</span>|<a href="https://search.dartslive.com/jp/shop/22704f772447927a0d9b047a20a7ba1e">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|19|678|<span class="rank-name-dl">鈴木健二</span>|<a href="https://search.dartslive.com/jp/shop/c86b755d597614380d9b047a20a7ba1e">Noble-Rich</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|20|673|<span class="rank-name-dl">KATSU</span>|<a href="https://search.dartslive.com/jp/shop/22704f772447927a0d9b047a20a7ba1e">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|20|673|<span class="rank-name-dl">NO NAME 2183</span>|<a href="https://search.dartslive.com/jp/shop/c86b755d597614380d9b047a20a7ba1e">Noble-Rich</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|22|672|<span class="rank-name-pd">BOB</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73788?s_seq=73788">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|22|672|<span class="rank-name-dl">こなみと</span>|<a href="https://search.dartslive.com/jp/shop/c86b755d597614380d9b047a20a7ba1e">Noble-Rich</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
+|12|761|<span class="rank-name-dl">Naaapachi7</span>|<a href="https://search.dartslive.com/jp/shop/c86b755d597614380d9b047a20a7ba1e">Noble-Rich</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
+|13|754|<span class="rank-name-dl">ぱち</span>|<a href="https://search.dartslive.com/jp/shop/c86b755d597614380d9b047a20a7ba1e">Noble-Rich</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
+|14|715|<span class="rank-name-dl">azuizui</span>|<a href="https://search.dartslive.com/jp/shop/22704f772447927a0d9b047a20a7ba1e">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
+|15|712|<span class="rank-name-dl">へいへい</span>|<a href="https://search.dartslive.com/jp/shop/68d7fcc9e3cd7b4d0d9b047a20a7ba1e">～よってけBar～　YOLO</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
+|16|711|<span class="rank-name-pd">azuizui‪‪ꪔ̤̫‬</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73788?s_seq=73788">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
+|17|697|<span class="rank-name-pd">たぁ～kun</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73788?s_seq=73788">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
+|18|681|<span class="rank-name-pd">カッパ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73788?s_seq=73788">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
+|19|680|<span class="rank-name-dl">Tukasa@NEO</span>|<a href="https://search.dartslive.com/jp/shop/22704f772447927a0d9b047a20a7ba1e">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
+|20|678|<span class="rank-name-pd">BOB</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73788?s_seq=73788">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
+|20|678|<span class="rank-name-dl">鈴木健二</span>|<a href="https://search.dartslive.com/jp/shop/c86b755d597614380d9b047a20a7ba1e">Noble-Rich</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
+|22|673|<span class="rank-name-dl">KATSU</span>|<a href="https://search.dartslive.com/jp/shop/22704f772447927a0d9b047a20a7ba1e">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
+|23|672|<span class="rank-name-dl">こなみと</span>|<a href="https://search.dartslive.com/jp/shop/c86b755d597614380d9b047a20a7ba1e">Noble-Rich</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
 |24|662|<span class="rank-name-pd">遠藤和希</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73788?s_seq=73788">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
 |25|661|<span class="rank-name-pd">打越大基@il-luogo</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73788?s_seq=73788">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
 |26|652|<span class="rank-name-dl">チビタク</span>|<a href="https://search.dartslive.com/jp/shop/c86b755d597614380d9b047a20a7ba1e">Noble-Rich</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
 |27|651|<span class="rank-name-dl">アヴラ</span>|<a href="https://search.dartslive.com/jp/shop/c86b755d597614380d9b047a20a7ba1e">Noble-Rich</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
 |28|650|<span class="rank-name-dl">Shell</span>|<a href="https://search.dartslive.com/jp/shop/c86b755d597614380d9b047a20a7ba1e">Noble-Rich</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|29|617|<span class="rank-name-dl">ARIMA</span>|<a href="https://search.dartslive.com/jp/shop/c86b755d597614380d9b047a20a7ba1e">Noble-Rich</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|30|609|<span class="rank-name-dl">いちごの王様</span>|<a href="https://search.dartslive.com/jp/shop/c86b755d597614380d9b047a20a7ba1e">Noble-Rich</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|31|592|<span class="rank-name-dl">NO NAME 7671</span>|<a href="https://search.dartslive.com/jp/shop/22704f772447927a0d9b047a20a7ba1e">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|32|579|<span class="rank-name-pd">青い人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73788?s_seq=73788">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|33|578|<span class="rank-name-dl">うで毛</span>|<a href="https://search.dartslive.com/jp/shop/22704f772447927a0d9b047a20a7ba1e">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|34|535|<span class="rank-name-dl">RooK</span>|<a href="https://search.dartslive.com/jp/shop/22704f772447927a0d9b047a20a7ba1e">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|35|530|<span class="rank-name-pd">rook</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73788?s_seq=73788">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|35|530|<span class="rank-name-dl">影山 翔汰郎</span>|<a href="https://search.dartslive.com/jp/shop/c86b755d597614380d9b047a20a7ba1e">Noble-Rich</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
+|29|629|<span class="rank-name-dl">akiら</span>|<a href="https://search.dartslive.com/jp/shop/c86b755d597614380d9b047a20a7ba1e">Noble-Rich</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
+|30|617|<span class="rank-name-dl">ARIMA</span>|<a href="https://search.dartslive.com/jp/shop/c86b755d597614380d9b047a20a7ba1e">Noble-Rich</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
+|31|609|<span class="rank-name-dl">いちごの王様</span>|<a href="https://search.dartslive.com/jp/shop/c86b755d597614380d9b047a20a7ba1e">Noble-Rich</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
+|32|592|<span class="rank-name-dl">NO NAME 7671</span>|<a href="https://search.dartslive.com/jp/shop/22704f772447927a0d9b047a20a7ba1e">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
+|33|579|<span class="rank-name-pd">青い人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73788?s_seq=73788">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
+|34|578|<span class="rank-name-dl">うで毛</span>|<a href="https://search.dartslive.com/jp/shop/22704f772447927a0d9b047a20a7ba1e">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
+|35|535|<span class="rank-name-dl">RooK</span>|<a href="https://search.dartslive.com/jp/shop/22704f772447927a0d9b047a20a7ba1e">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
+|36|530|<span class="rank-name-pd">rook</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73788?s_seq=73788">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
 |37|524|<span class="rank-name-pd">☆クロネコ☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73788?s_seq=73788">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|38|515|<span class="rank-name-dl">∋エヴァやん∈</span>|<a href="https://search.dartslive.com/jp/shop/22704f772447927a0d9b047a20a7ba1e">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|39|511|<span class="rank-name-pd">AKARIxxx</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73788?s_seq=73788">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|40|502|<span class="rank-name-pd"> HIMOTO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73788?s_seq=73788">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|41|490|<span class="rank-name-dl">神出鬼没☆Νёο</span>|<a href="https://search.dartslive.com/jp/shop/22704f772447927a0d9b047a20a7ba1e">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|42|476|<span class="rank-name-dl">masaki</span>|<a href="https://search.dartslive.com/jp/shop/22704f772447927a0d9b047a20a7ba1e">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|43|466|<span class="rank-name-dl">やっぴ</span>|<a href="https://search.dartslive.com/jp/shop/22704f772447927a0d9b047a20a7ba1e">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|44|463|<span class="rank-name-dl">すね毛</span>|<a href="https://search.dartslive.com/jp/shop/22704f772447927a0d9b047a20a7ba1e">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|45|451|<span class="rank-name-dl">したん_(:3」∠)_</span>|<a href="https://search.dartslive.com/jp/shop/c86b755d597614380d9b047a20a7ba1e">Noble-Rich</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|46|445|<span class="rank-name-dl">あきたんだを</span>|<a href="https://search.dartslive.com/jp/shop/22704f772447927a0d9b047a20a7ba1e">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|47|403|<span class="rank-name-dl">TØ</span>|<a href="https://search.dartslive.com/jp/shop/c86b755d597614380d9b047a20a7ba1e">Noble-Rich</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|48|395|<span class="rank-name-dl">ちょーつうぃ</span>|<a href="https://search.dartslive.com/jp/shop/68d7fcc9e3cd7b4d0d9b047a20a7ba1e">～よってけBar～　YOLO</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|49|378|<span class="rank-name-pd">りかちゅさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73788?s_seq=73788">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|50|373|<span class="rank-name-dl">AK</span>|<a href="https://search.dartslive.com/jp/shop/22704f772447927a0d9b047a20a7ba1e">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|51|367|<span class="rank-name-dl">JELLY</span>|<a href="https://search.dartslive.com/jp/shop/c86b755d597614380d9b047a20a7ba1e">Noble-Rich</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
+|38|518|<span class="rank-name-dl">ひろゐ</span>|<a href="https://search.dartslive.com/jp/shop/22704f772447927a0d9b047a20a7ba1e">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
+|39|515|<span class="rank-name-dl">∋エヴァやん∈</span>|<a href="https://search.dartslive.com/jp/shop/22704f772447927a0d9b047a20a7ba1e">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
+|40|511|<span class="rank-name-pd">AKARIxxx</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73788?s_seq=73788">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
+|41|504|<span class="rank-name-pd">ま～にゃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73788?s_seq=73788">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
+|42|502|<span class="rank-name-pd"> HIMOTO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73788?s_seq=73788">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
+|43|491|<span class="rank-name-dl">すね毛</span>|<a href="https://search.dartslive.com/jp/shop/22704f772447927a0d9b047a20a7ba1e">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
+|44|490|<span class="rank-name-dl">masaki</span>|<a href="https://search.dartslive.com/jp/shop/22704f772447927a0d9b047a20a7ba1e">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
+|44|490|<span class="rank-name-dl">神出鬼没☆Νёο</span>|<a href="https://search.dartslive.com/jp/shop/22704f772447927a0d9b047a20a7ba1e">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
+|46|466|<span class="rank-name-dl">やっぴ</span>|<a href="https://search.dartslive.com/jp/shop/22704f772447927a0d9b047a20a7ba1e">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
+|47|451|<span class="rank-name-dl">したん_(:3」∠)_</span>|<a href="https://search.dartslive.com/jp/shop/c86b755d597614380d9b047a20a7ba1e">Noble-Rich</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
+|48|445|<span class="rank-name-dl">あきたんだを</span>|<a href="https://search.dartslive.com/jp/shop/22704f772447927a0d9b047a20a7ba1e">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
+|49|395|<span class="rank-name-dl">ちょーつうぃ</span>|<a href="https://search.dartslive.com/jp/shop/68d7fcc9e3cd7b4d0d9b047a20a7ba1e">～よってけBar～　YOLO</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
+|50|378|<span class="rank-name-pd">りかちゅさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73788?s_seq=73788">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
+|51|373|<span class="rank-name-dl">AK</span>|<a href="https://search.dartslive.com/jp/shop/22704f772447927a0d9b047a20a7ba1e">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
 |52|358|<span class="rank-name-pd">aki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73788?s_seq=73788">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|53|341|<span class="rank-name-pd">ま～にゃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73788?s_seq=73788">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -92,36 +91,35 @@ ___
 |5|848|<span class="rank-name-dl">トムジ～</span>|<a href="https://search.dartslive.com/jp/shop/c86b755d597614380d9b047a20a7ba1e">Noble-Rich</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
 |6|826|<span class="rank-name-dl">すずき</span>|<a href="https://search.dartslive.com/jp/shop/c86b755d597614380d9b047a20a7ba1e">Noble-Rich</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
 |7|762|<span class="rank-name-dl">Naaapachi</span>|<a href="https://search.dartslive.com/jp/shop/c86b755d597614380d9b047a20a7ba1e">Noble-Rich</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|8|754|<span class="rank-name-dl">ぱち</span>|<a href="https://search.dartslive.com/jp/shop/c86b755d597614380d9b047a20a7ba1e">Noble-Rich</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|9|715|<span class="rank-name-dl">azuizui</span>|<a href="https://search.dartslive.com/jp/shop/22704f772447927a0d9b047a20a7ba1e">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|10|712|<span class="rank-name-dl">てるてる@Aivy</span>|<a href="https://search.dartslive.com/jp/shop/22704f772447927a0d9b047a20a7ba1e">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|10|712|<span class="rank-name-dl">へいへい</span>|<a href="https://search.dartslive.com/jp/shop/68d7fcc9e3cd7b4d0d9b047a20a7ba1e">～よってけBar～　YOLO</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|12|680|<span class="rank-name-dl">Tukasa@NEO</span>|<a href="https://search.dartslive.com/jp/shop/22704f772447927a0d9b047a20a7ba1e">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|13|678|<span class="rank-name-dl">鈴木健二</span>|<a href="https://search.dartslive.com/jp/shop/c86b755d597614380d9b047a20a7ba1e">Noble-Rich</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|14|673|<span class="rank-name-dl">KATSU</span>|<a href="https://search.dartslive.com/jp/shop/22704f772447927a0d9b047a20a7ba1e">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|14|673|<span class="rank-name-dl">NO NAME 2183</span>|<a href="https://search.dartslive.com/jp/shop/c86b755d597614380d9b047a20a7ba1e">Noble-Rich</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
+|8|761|<span class="rank-name-dl">Naaapachi7</span>|<a href="https://search.dartslive.com/jp/shop/c86b755d597614380d9b047a20a7ba1e">Noble-Rich</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
+|9|754|<span class="rank-name-dl">ぱち</span>|<a href="https://search.dartslive.com/jp/shop/c86b755d597614380d9b047a20a7ba1e">Noble-Rich</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
+|10|715|<span class="rank-name-dl">azuizui</span>|<a href="https://search.dartslive.com/jp/shop/22704f772447927a0d9b047a20a7ba1e">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
+|11|712|<span class="rank-name-dl">てるてる@Aivy</span>|<a href="https://search.dartslive.com/jp/shop/22704f772447927a0d9b047a20a7ba1e">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
+|11|712|<span class="rank-name-dl">へいへい</span>|<a href="https://search.dartslive.com/jp/shop/68d7fcc9e3cd7b4d0d9b047a20a7ba1e">～よってけBar～　YOLO</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
+|13|680|<span class="rank-name-dl">Tukasa@NEO</span>|<a href="https://search.dartslive.com/jp/shop/22704f772447927a0d9b047a20a7ba1e">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
+|14|678|<span class="rank-name-dl">鈴木健二</span>|<a href="https://search.dartslive.com/jp/shop/c86b755d597614380d9b047a20a7ba1e">Noble-Rich</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
+|15|673|<span class="rank-name-dl">KATSU</span>|<a href="https://search.dartslive.com/jp/shop/22704f772447927a0d9b047a20a7ba1e">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
 |16|672|<span class="rank-name-dl">こなみと</span>|<a href="https://search.dartslive.com/jp/shop/c86b755d597614380d9b047a20a7ba1e">Noble-Rich</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
 |17|652|<span class="rank-name-dl">チビタク</span>|<a href="https://search.dartslive.com/jp/shop/c86b755d597614380d9b047a20a7ba1e">Noble-Rich</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
 |18|651|<span class="rank-name-dl">アヴラ</span>|<a href="https://search.dartslive.com/jp/shop/c86b755d597614380d9b047a20a7ba1e">Noble-Rich</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
 |19|650|<span class="rank-name-dl">Shell</span>|<a href="https://search.dartslive.com/jp/shop/c86b755d597614380d9b047a20a7ba1e">Noble-Rich</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|20|617|<span class="rank-name-dl">ARIMA</span>|<a href="https://search.dartslive.com/jp/shop/c86b755d597614380d9b047a20a7ba1e">Noble-Rich</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|20|617|<span class="rank-name-dl">遠藤和希</span>|<a href="https://search.dartslive.com/jp/shop/22704f772447927a0d9b047a20a7ba1e">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|22|609|<span class="rank-name-dl">いちごの王様</span>|<a href="https://search.dartslive.com/jp/shop/c86b755d597614380d9b047a20a7ba1e">Noble-Rich</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|23|592|<span class="rank-name-dl">NO NAME 7671</span>|<a href="https://search.dartslive.com/jp/shop/22704f772447927a0d9b047a20a7ba1e">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|24|578|<span class="rank-name-dl">うで毛</span>|<a href="https://search.dartslive.com/jp/shop/22704f772447927a0d9b047a20a7ba1e">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|25|535|<span class="rank-name-dl">RooK</span>|<a href="https://search.dartslive.com/jp/shop/22704f772447927a0d9b047a20a7ba1e">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|26|530|<span class="rank-name-dl">影山 翔汰郎</span>|<a href="https://search.dartslive.com/jp/shop/c86b755d597614380d9b047a20a7ba1e">Noble-Rich</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|27|515|<span class="rank-name-dl">∋エヴァやん∈</span>|<a href="https://search.dartslive.com/jp/shop/22704f772447927a0d9b047a20a7ba1e">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|28|490|<span class="rank-name-dl">神出鬼没☆Νёο</span>|<a href="https://search.dartslive.com/jp/shop/22704f772447927a0d9b047a20a7ba1e">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|29|476|<span class="rank-name-dl">masaki</span>|<a href="https://search.dartslive.com/jp/shop/22704f772447927a0d9b047a20a7ba1e">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|30|466|<span class="rank-name-dl">やっぴ</span>|<a href="https://search.dartslive.com/jp/shop/22704f772447927a0d9b047a20a7ba1e">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|31|463|<span class="rank-name-dl">すね毛</span>|<a href="https://search.dartslive.com/jp/shop/22704f772447927a0d9b047a20a7ba1e">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|32|451|<span class="rank-name-dl">したん_(:3」∠)_</span>|<a href="https://search.dartslive.com/jp/shop/c86b755d597614380d9b047a20a7ba1e">Noble-Rich</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|33|445|<span class="rank-name-dl">あきたんだを</span>|<a href="https://search.dartslive.com/jp/shop/22704f772447927a0d9b047a20a7ba1e">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|34|403|<span class="rank-name-dl">TØ</span>|<a href="https://search.dartslive.com/jp/shop/c86b755d597614380d9b047a20a7ba1e">Noble-Rich</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
+|20|629|<span class="rank-name-dl">akiら</span>|<a href="https://search.dartslive.com/jp/shop/c86b755d597614380d9b047a20a7ba1e">Noble-Rich</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
+|21|617|<span class="rank-name-dl">ARIMA</span>|<a href="https://search.dartslive.com/jp/shop/c86b755d597614380d9b047a20a7ba1e">Noble-Rich</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
+|21|617|<span class="rank-name-dl">遠藤和希</span>|<a href="https://search.dartslive.com/jp/shop/22704f772447927a0d9b047a20a7ba1e">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
+|23|609|<span class="rank-name-dl">いちごの王様</span>|<a href="https://search.dartslive.com/jp/shop/c86b755d597614380d9b047a20a7ba1e">Noble-Rich</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
+|24|592|<span class="rank-name-dl">NO NAME 7671</span>|<a href="https://search.dartslive.com/jp/shop/22704f772447927a0d9b047a20a7ba1e">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
+|25|578|<span class="rank-name-dl">うで毛</span>|<a href="https://search.dartslive.com/jp/shop/22704f772447927a0d9b047a20a7ba1e">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
+|26|535|<span class="rank-name-dl">RooK</span>|<a href="https://search.dartslive.com/jp/shop/22704f772447927a0d9b047a20a7ba1e">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
+|27|518|<span class="rank-name-dl">ひろゐ</span>|<a href="https://search.dartslive.com/jp/shop/22704f772447927a0d9b047a20a7ba1e">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
+|28|515|<span class="rank-name-dl">∋エヴァやん∈</span>|<a href="https://search.dartslive.com/jp/shop/22704f772447927a0d9b047a20a7ba1e">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
+|29|491|<span class="rank-name-dl">すね毛</span>|<a href="https://search.dartslive.com/jp/shop/22704f772447927a0d9b047a20a7ba1e">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
+|30|490|<span class="rank-name-dl">masaki</span>|<a href="https://search.dartslive.com/jp/shop/22704f772447927a0d9b047a20a7ba1e">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
+|30|490|<span class="rank-name-dl">神出鬼没☆Νёο</span>|<a href="https://search.dartslive.com/jp/shop/22704f772447927a0d9b047a20a7ba1e">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
+|32|466|<span class="rank-name-dl">やっぴ</span>|<a href="https://search.dartslive.com/jp/shop/22704f772447927a0d9b047a20a7ba1e">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
+|33|451|<span class="rank-name-dl">したん_(:3」∠)_</span>|<a href="https://search.dartslive.com/jp/shop/c86b755d597614380d9b047a20a7ba1e">Noble-Rich</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
+|34|445|<span class="rank-name-dl">あきたんだを</span>|<a href="https://search.dartslive.com/jp/shop/22704f772447927a0d9b047a20a7ba1e">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
 |35|395|<span class="rank-name-dl">ちょーつうぃ</span>|<a href="https://search.dartslive.com/jp/shop/68d7fcc9e3cd7b4d0d9b047a20a7ba1e">～よってけBar～　YOLO</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
 |36|373|<span class="rank-name-dl">AK</span>|<a href="https://search.dartslive.com/jp/shop/22704f772447927a0d9b047a20a7ba1e">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|37|367|<span class="rank-name-dl">JELLY</span>|<a href="https://search.dartslive.com/jp/shop/c86b755d597614380d9b047a20a7ba1e">Noble-Rich</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
 
 
 #### PHOENIXDARTS TOP 100
@@ -138,7 +136,7 @@ ___
 |5|711|<span class="rank-name-pd">azuizui‪‪ꪔ̤̫‬</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73788?s_seq=73788">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
 |6|697|<span class="rank-name-pd">たぁ～kun</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73788?s_seq=73788">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
 |7|681|<span class="rank-name-pd">カッパ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73788?s_seq=73788">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|8|672|<span class="rank-name-pd">BOB</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73788?s_seq=73788">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
+|8|678|<span class="rank-name-pd">BOB</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73788?s_seq=73788">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
 |9|662|<span class="rank-name-pd">遠藤和希</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73788?s_seq=73788">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
 |10|661|<span class="rank-name-pd">打越大基@il-luogo</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73788?s_seq=73788">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
 |11|594|<span class="rank-name-pd">Tukasa@NEO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73788?s_seq=73788">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
@@ -146,10 +144,10 @@ ___
 |13|530|<span class="rank-name-pd">rook</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73788?s_seq=73788">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
 |14|524|<span class="rank-name-pd">☆クロネコ☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73788?s_seq=73788">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
 |15|511|<span class="rank-name-pd">AKARIxxx</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73788?s_seq=73788">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|16|502|<span class="rank-name-pd"> HIMOTO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73788?s_seq=73788">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|17|378|<span class="rank-name-pd">りかちゅさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73788?s_seq=73788">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|18|358|<span class="rank-name-pd">aki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73788?s_seq=73788">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
-|19|341|<span class="rank-name-pd">ま～にゃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73788?s_seq=73788">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
+|16|504|<span class="rank-name-pd">ま～にゃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73788?s_seq=73788">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
+|17|502|<span class="rank-name-pd"> HIMOTO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73788?s_seq=73788">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
+|18|378|<span class="rank-name-pd">りかちゅさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73788?s_seq=73788">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
+|19|358|<span class="rank-name-pd">aki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73788?s_seq=73788">Colors with Aivy</a>|<a href="/darts/rank/福島県/須賀川市">福島県須賀川市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

@@ -38,8 +38,8 @@ ___
 |13|531|<span class="rank-name-dl">ゆう</span>|<a href="https://search.dartslive.com/jp/shop/49a2b57cd4a1b7ca0d9b047a20a7ba1e">Cafe Bar Meets</a>|<a href="/darts/rank/神奈川県/逗子市">神奈川県逗子市</a>|
 |14|522|<span class="rank-name-dl">smith</span>|<a href="https://search.dartslive.com/jp/shop/49a2b57cd4a1b7ca0d9b047a20a7ba1e">Cafe Bar Meets</a>|<a href="/darts/rank/神奈川県/逗子市">神奈川県逗子市</a>|
 |15|515|<span class="rank-name-dl">★たに</span>|<a href="https://search.dartslive.com/jp/shop/49a2b57cd4a1b7ca0d9b047a20a7ba1e">Cafe Bar Meets</a>|<a href="/darts/rank/神奈川県/逗子市">神奈川県逗子市</a>|
-|16|487|<span class="rank-name-dl">ことよろYDK</span>|<a href="https://search.dartslive.com/jp/shop/49a2b57cd4a1b7ca0d9b047a20a7ba1e">Cafe Bar Meets</a>|<a href="/darts/rank/神奈川県/逗子市">神奈川県逗子市</a>|
-|17|482|<span class="rank-name-dl">Yuu</span>|<a href="https://search.dartslive.com/jp/shop/49a2b57cd4a1b7ca0d9b047a20a7ba1e">Cafe Bar Meets</a>|<a href="/darts/rank/神奈川県/逗子市">神奈川県逗子市</a>|
+|16|482|<span class="rank-name-dl">Yuu</span>|<a href="https://search.dartslive.com/jp/shop/49a2b57cd4a1b7ca0d9b047a20a7ba1e">Cafe Bar Meets</a>|<a href="/darts/rank/神奈川県/逗子市">神奈川県逗子市</a>|
+|17|480|<span class="rank-name-dl">らあにさ</span>|<a href="https://search.dartslive.com/jp/shop/49a2b57cd4a1b7ca0d9b047a20a7ba1e">Cafe Bar Meets</a>|<a href="/darts/rank/神奈川県/逗子市">神奈川県逗子市</a>|
 |18|467|<span class="rank-name-dl">AZUSA OKADA</span>|<a href="https://search.dartslive.com/jp/shop/49a2b57cd4a1b7ca0d9b047a20a7ba1e">Cafe Bar Meets</a>|<a href="/darts/rank/神奈川県/逗子市">神奈川県逗子市</a>|
 |19|320|<span class="rank-name-dl">tnk_c</span>|<a href="https://search.dartslive.com/jp/shop/49a2b57cd4a1b7ca0d9b047a20a7ba1e">Cafe Bar Meets</a>|<a href="/darts/rank/神奈川県/逗子市">神奈川県逗子市</a>|
 
@@ -66,8 +66,8 @@ ___
 |13|531|<span class="rank-name-dl">ゆう</span>|<a href="https://search.dartslive.com/jp/shop/49a2b57cd4a1b7ca0d9b047a20a7ba1e">Cafe Bar Meets</a>|<a href="/darts/rank/神奈川県/逗子市">神奈川県逗子市</a>|
 |14|522|<span class="rank-name-dl">smith</span>|<a href="https://search.dartslive.com/jp/shop/49a2b57cd4a1b7ca0d9b047a20a7ba1e">Cafe Bar Meets</a>|<a href="/darts/rank/神奈川県/逗子市">神奈川県逗子市</a>|
 |15|515|<span class="rank-name-dl">★たに</span>|<a href="https://search.dartslive.com/jp/shop/49a2b57cd4a1b7ca0d9b047a20a7ba1e">Cafe Bar Meets</a>|<a href="/darts/rank/神奈川県/逗子市">神奈川県逗子市</a>|
-|16|487|<span class="rank-name-dl">ことよろYDK</span>|<a href="https://search.dartslive.com/jp/shop/49a2b57cd4a1b7ca0d9b047a20a7ba1e">Cafe Bar Meets</a>|<a href="/darts/rank/神奈川県/逗子市">神奈川県逗子市</a>|
-|17|482|<span class="rank-name-dl">Yuu</span>|<a href="https://search.dartslive.com/jp/shop/49a2b57cd4a1b7ca0d9b047a20a7ba1e">Cafe Bar Meets</a>|<a href="/darts/rank/神奈川県/逗子市">神奈川県逗子市</a>|
+|16|482|<span class="rank-name-dl">Yuu</span>|<a href="https://search.dartslive.com/jp/shop/49a2b57cd4a1b7ca0d9b047a20a7ba1e">Cafe Bar Meets</a>|<a href="/darts/rank/神奈川県/逗子市">神奈川県逗子市</a>|
+|17|480|<span class="rank-name-dl">らあにさ</span>|<a href="https://search.dartslive.com/jp/shop/49a2b57cd4a1b7ca0d9b047a20a7ba1e">Cafe Bar Meets</a>|<a href="/darts/rank/神奈川県/逗子市">神奈川県逗子市</a>|
 |18|467|<span class="rank-name-dl">AZUSA OKADA</span>|<a href="https://search.dartslive.com/jp/shop/49a2b57cd4a1b7ca0d9b047a20a7ba1e">Cafe Bar Meets</a>|<a href="/darts/rank/神奈川県/逗子市">神奈川県逗子市</a>|
 |19|320|<span class="rank-name-dl">tnk_c</span>|<a href="https://search.dartslive.com/jp/shop/49a2b57cd4a1b7ca0d9b047a20a7ba1e">Cafe Bar Meets</a>|<a href="/darts/rank/神奈川県/逗子市">神奈川県逗子市</a>|
 

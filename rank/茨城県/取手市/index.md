@@ -37,35 +37,23 @@ ___
 |12|905|<span class="rank-name-dl">●(∫∇`)／てる</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
 |13|896|<span class="rank-name-dl">MJ</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
 |14|873|<span class="rank-name-dl">なん</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
-|15|862|<span class="rank-name-dl">れんれん@REALIZE</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
-|16|835|<span class="rank-name-dl">NO NAME 6158</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
-|17|830|<span class="rank-name-dl">10-5</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
-|18|788|<span class="rank-name-dl">くろやり</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
-|19|748|<span class="rank-name-dl">あーこ@KTU</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
-|20|741|<span class="rank-name-dl">トモ(=･ω･)ﾉ～卍</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
-|21|708|<span class="rank-name-dl">alax7</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
-|22|704|<span class="rank-name-dl">ゆみぞう</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
-|23|703|<span class="rank-name-dl">まあくん</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
-|24|654|<span class="rank-name-dl">3。</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
-|24|654|<span class="rank-name-dl">きなこ</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
-|26|633|<span class="rank-name-dl">螢子</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
-|27|629|<span class="rank-name-dl">JOKER</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
-|28|617|<span class="rank-name-dl">饒</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
-|29|614|<span class="rank-name-dl">Torikon</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
-|30|605|<span class="rank-name-dl">まきしまむ</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
-|31|600|<span class="rank-name-dl">DELTA×もか</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
-|31|600|<span class="rank-name-dl">ずみ</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
-|33|598|<span class="rank-name-dl">ふじみん</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
-|34|551|<span class="rank-name-dl">AU3</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
-|35|535|<span class="rank-name-dl">大黒屋黃熊</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
-|36|527|<span class="rank-name-dl">YUYA0818</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
-|37|493|<span class="rank-name-dl">s_chan0816</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
-|38|489|<span class="rank-name-dl">NO NAME 1622</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
-|39|474|<span class="rank-name-dl">ブリムストーン</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
-|40|462|<span class="rank-name-dl">まーさん</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
-|41|457|<span class="rank-name-dl">まち</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
-|42|414|<span class="rank-name-dl">*MONCHI*</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
-|43|411|<span class="rank-name-dl">あずき</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
+|15|872|<span class="rank-name-dl">yu-ta.Kawa</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
+|16|862|<span class="rank-name-dl">れんれん@REALIZE</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
+|17|788|<span class="rank-name-dl">くろやり</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
+|18|748|<span class="rank-name-dl">あーこ@KTU</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
+|19|717|<span class="rank-name-dl">kai</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
+|20|704|<span class="rank-name-dl">ゆみぞう</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
+|21|633|<span class="rank-name-dl">螢子</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
+|22|617|<span class="rank-name-dl">饒</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
+|23|545|<span class="rank-name-dl">MGM</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
+|24|524|<span class="rank-name-dl">小さな林</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
+|25|493|<span class="rank-name-dl">s_chan0816</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
+|26|485|<span class="rank-name-dl">ずみ</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
+|27|457|<span class="rank-name-dl">まち</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
+|28|430|<span class="rank-name-dl">Toamaru</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
+|29|414|<span class="rank-name-dl">*MONCHI*</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
+|30|411|<span class="rank-name-dl">あずき</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
+|31|404|<span class="rank-name-dl">Hathi_8</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -89,35 +77,23 @@ ___
 |12|905|<span class="rank-name-dl">●(∫∇`)／てる</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
 |13|896|<span class="rank-name-dl">MJ</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
 |14|873|<span class="rank-name-dl">なん</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
-|15|862|<span class="rank-name-dl">れんれん@REALIZE</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
-|16|835|<span class="rank-name-dl">NO NAME 6158</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
-|17|830|<span class="rank-name-dl">10-5</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
-|18|788|<span class="rank-name-dl">くろやり</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
-|19|748|<span class="rank-name-dl">あーこ@KTU</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
-|20|741|<span class="rank-name-dl">トモ(=･ω･)ﾉ～卍</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
-|21|708|<span class="rank-name-dl">alax7</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
-|22|704|<span class="rank-name-dl">ゆみぞう</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
-|23|703|<span class="rank-name-dl">まあくん</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
-|24|654|<span class="rank-name-dl">3。</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
-|24|654|<span class="rank-name-dl">きなこ</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
-|26|633|<span class="rank-name-dl">螢子</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
-|27|629|<span class="rank-name-dl">JOKER</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
-|28|617|<span class="rank-name-dl">饒</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
-|29|614|<span class="rank-name-dl">Torikon</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
-|30|605|<span class="rank-name-dl">まきしまむ</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
-|31|600|<span class="rank-name-dl">DELTA×もか</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
-|31|600|<span class="rank-name-dl">ずみ</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
-|33|598|<span class="rank-name-dl">ふじみん</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
-|34|551|<span class="rank-name-dl">AU3</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
-|35|535|<span class="rank-name-dl">大黒屋黃熊</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
-|36|527|<span class="rank-name-dl">YUYA0818</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
-|37|493|<span class="rank-name-dl">s_chan0816</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
-|38|489|<span class="rank-name-dl">NO NAME 1622</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
-|39|474|<span class="rank-name-dl">ブリムストーン</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
-|40|462|<span class="rank-name-dl">まーさん</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
-|41|457|<span class="rank-name-dl">まち</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
-|42|414|<span class="rank-name-dl">*MONCHI*</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
-|43|411|<span class="rank-name-dl">あずき</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
+|15|872|<span class="rank-name-dl">yu-ta.Kawa</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
+|16|862|<span class="rank-name-dl">れんれん@REALIZE</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
+|17|788|<span class="rank-name-dl">くろやり</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
+|18|748|<span class="rank-name-dl">あーこ@KTU</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
+|19|717|<span class="rank-name-dl">kai</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
+|20|704|<span class="rank-name-dl">ゆみぞう</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
+|21|633|<span class="rank-name-dl">螢子</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
+|22|617|<span class="rank-name-dl">饒</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
+|23|545|<span class="rank-name-dl">MGM</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
+|24|524|<span class="rank-name-dl">小さな林</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
+|25|493|<span class="rank-name-dl">s_chan0816</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
+|26|485|<span class="rank-name-dl">ずみ</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
+|27|457|<span class="rank-name-dl">まち</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
+|28|430|<span class="rank-name-dl">Toamaru</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
+|29|414|<span class="rank-name-dl">*MONCHI*</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
+|30|411|<span class="rank-name-dl">あずき</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
+|31|404|<span class="rank-name-dl">Hathi_8</span>|<a href="https://search.dartslive.com/jp/shop/8b3d9c391cbd7512774c926eb736cb5a">快活CLUB 6号取手店</a>|<a href="/darts/rank/茨城県/取手市">茨城県取手市</a>|
 
 
 #### PHOENIXDARTS TOP 100

@@ -24,10 +24,10 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|1005|<span class="rank-name-dl">LANCER野郎</span>|<a href="https://search.dartslive.com/jp/shop/57f2ab80351f2fa0a3f63593b5358cc4">Stylish Bar わんすもあー</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
-|2|931|<span class="rank-name-dl">ベースマン52</span>|<a href="https://search.dartslive.com/jp/shop/57f2ab80351f2fa0a3f63593b5358cc4">Stylish Bar わんすもあー</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
-|3|928|<span class="rank-name-dl">けーご＠わんす</span>|<a href="https://search.dartslive.com/jp/shop/57f2ab80351f2fa0a3f63593b5358cc4">Stylish Bar わんすもあー</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
-|4|922|<span class="rank-name-dl">カワヅトシヒロ</span>|<a href="https://search.dartslive.com/jp/shop/b9cb2a638cf5c4ce774c926eb736cb5a">DARTS BAR PEKE PEKE</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
-|5|921|<span class="rank-name-dl">SHINGO.</span>|<a href="https://search.dartslive.com/jp/shop/57f2ab80351f2fa0a3f63593b5358cc4">Stylish Bar わんすもあー</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
+|2|982|<span class="rank-name-dl">SHINGO.</span>|<a href="https://search.dartslive.com/jp/shop/57f2ab80351f2fa0a3f63593b5358cc4">Stylish Bar わんすもあー</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
+|3|952|<span class="rank-name-dl">けーご＠わんす</span>|<a href="https://search.dartslive.com/jp/shop/57f2ab80351f2fa0a3f63593b5358cc4">Stylish Bar わんすもあー</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
+|4|931|<span class="rank-name-dl">ベースマン52</span>|<a href="https://search.dartslive.com/jp/shop/57f2ab80351f2fa0a3f63593b5358cc4">Stylish Bar わんすもあー</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
+|5|922|<span class="rank-name-dl">カワヅトシヒロ</span>|<a href="https://search.dartslive.com/jp/shop/b9cb2a638cf5c4ce774c926eb736cb5a">DARTS BAR PEKE PEKE</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
 |6|918|<span class="rank-name-dl">ひろぽん</span>|<a href="https://search.dartslive.com/jp/shop/b9cb2a638cf5c4ce774c926eb736cb5a">DARTS BAR PEKE PEKE</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
 |7|914|<span class="rank-name-dl">Ｔｏｒｕ．</span>|<a href="https://search.dartslive.com/jp/shop/12df8c9dce968dad0d9b047a20a7ba1e">shotbar BLOOM</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
 |8|886|<span class="rank-name-dl">たくみ＊</span>|<a href="https://search.dartslive.com/jp/shop/57f2ab80351f2fa0a3f63593b5358cc4">Stylish Bar わんすもあー</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
@@ -44,26 +44,26 @@ ___
 |19|755|<span class="rank-name-dl">SAKAさん@fifty</span>|<a href="https://search.dartslive.com/jp/shop/57f2ab80351f2fa0a3f63593b5358cc4">Stylish Bar わんすもあー</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
 |19|755|<span class="rank-name-dl">Shun</span>|<a href="https://search.dartslive.com/jp/shop/57f2ab80351f2fa0a3f63593b5358cc4">Stylish Bar わんすもあー</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
 |21|752|<span class="rank-name-dl">ぶるもり</span>|<a href="https://search.dartslive.com/jp/shop/57f2ab80351f2fa0a3f63593b5358cc4">Stylish Bar わんすもあー</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
-|22|732|<span class="rank-name-dl">H!R0@わんす</span>|<a href="https://search.dartslive.com/jp/shop/57f2ab80351f2fa0a3f63593b5358cc4">Stylish Bar わんすもあー</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
 |22|732|<span class="rank-name-dl">hary0702</span>|<a href="https://search.dartslive.com/jp/shop/57f2ab80351f2fa0a3f63593b5358cc4">Stylish Bar わんすもあー</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
-|24|729|<span class="rank-name-dl">SHOKI@ﾜﾝｽ土曜日</span>|<a href="https://search.dartslive.com/jp/shop/57f2ab80351f2fa0a3f63593b5358cc4">Stylish Bar わんすもあー</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
-|25|715|<span class="rank-name-dl">きぬきぬ＠わんす</span>|<a href="https://search.dartslive.com/jp/shop/57f2ab80351f2fa0a3f63593b5358cc4">Stylish Bar わんすもあー</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
-|26|672|<span class="rank-name-dl">ｶﾜﾂﾞﾄｼﾋﾛ</span>|<a href="https://search.dartslive.com/jp/shop/b9cb2a638cf5c4ce774c926eb736cb5a">DARTS BAR PEKE PEKE</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
-|27|657|<span class="rank-name-dl">りゅう</span>|<a href="https://search.dartslive.com/jp/shop/b9cb2a638cf5c4ce774c926eb736cb5a">DARTS BAR PEKE PEKE</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
+|23|718|<span class="rank-name-dl">きぬきぬ＠わんす</span>|<a href="https://search.dartslive.com/jp/shop/57f2ab80351f2fa0a3f63593b5358cc4">Stylish Bar わんすもあー</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
+|24|679|<span class="rank-name-dl">鼻垂れ小ぅ僧</span>|<a href="https://search.dartslive.com/jp/shop/7c352445d364c0890d9b047a20a7ba1e">Bacchus 78</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
+|25|672|<span class="rank-name-dl">ｶﾜﾂﾞﾄｼﾋﾛ</span>|<a href="https://search.dartslive.com/jp/shop/b9cb2a638cf5c4ce774c926eb736cb5a">DARTS BAR PEKE PEKE</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
+|26|657|<span class="rank-name-dl">りゅう</span>|<a href="https://search.dartslive.com/jp/shop/b9cb2a638cf5c4ce774c926eb736cb5a">DARTS BAR PEKE PEKE</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
+|27|639|<span class="rank-name-dl">ゆかりん</span>|<a href="https://search.dartslive.com/jp/shop/57f2ab80351f2fa0a3f63593b5358cc4">Stylish Bar わんすもあー</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
 |28|627|<span class="rank-name-dl">よっち E B I E</span>|<a href="https://search.dartslive.com/jp/shop/b9cb2a638cf5c4ce774c926eb736cb5a">DARTS BAR PEKE PEKE</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
 |29|606|<span class="rank-name-dl">HISASHI@PEKEPEKE</span>|<a href="https://search.dartslive.com/jp/shop/b9cb2a638cf5c4ce774c926eb736cb5a">DARTS BAR PEKE PEKE</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
 |30|603|<span class="rank-name-dl">Jin.</span>|<a href="https://search.dartslive.com/jp/shop/b9cb2a638cf5c4ce774c926eb736cb5a">DARTS BAR PEKE PEKE</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
 |31|582|<span class="rank-name-dl">美香@Quarter</span>|<a href="https://search.dartslive.com/jp/shop/b9cb2a638cf5c4ce774c926eb736cb5a">DARTS BAR PEKE PEKE</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
 |32|579|<span class="rank-name-dl">☆SHOKO☆</span>|<a href="https://search.dartslive.com/jp/shop/b9cb2a638cf5c4ce774c926eb736cb5a">DARTS BAR PEKE PEKE</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
 |33|570|<span class="rank-name-dl">朧</span>|<a href="https://search.dartslive.com/jp/shop/57f2ab80351f2fa0a3f63593b5358cc4">Stylish Bar わんすもあー</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
-|34|542|<span class="rank-name-dl">マイケル</span>|<a href="https://search.dartslive.com/jp/shop/57f2ab80351f2fa0a3f63593b5358cc4">Stylish Bar わんすもあー</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
-|35|538|<span class="rank-name-dl">Hary0702</span>|<a href="https://search.dartslive.com/jp/shop/57f2ab80351f2fa0a3f63593b5358cc4">Stylish Bar わんすもあー</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
-|36|533|<span class="rank-name-dl">P@N23</span>|<a href="https://search.dartslive.com/jp/shop/12df8c9dce968dad0d9b047a20a7ba1e">shotbar BLOOM</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
-|37|504|<span class="rank-name-dl">うなぎいぬ</span>|<a href="https://search.dartslive.com/jp/shop/d971e1c267fb66be0d9b047a20a7ba1e">CASAgrande</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
-|38|494|<span class="rank-name-dl">MIYUKI</span>|<a href="https://search.dartslive.com/jp/shop/57f2ab80351f2fa0a3f63593b5358cc4">Stylish Bar わんすもあー</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
-|39|479|<span class="rank-name-dl">山田くま</span>|<a href="https://search.dartslive.com/jp/shop/b9cb2a638cf5c4ce774c926eb736cb5a">DARTS BAR PEKE PEKE</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
-|40|469|<span class="rank-name-dl">わんすもあ―ママ</span>|<a href="https://search.dartslive.com/jp/shop/57f2ab80351f2fa0a3f63593b5358cc4">Stylish Bar わんすもあー</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
-|41|468|<span class="rank-name-dl">ゆかりん</span>|<a href="https://search.dartslive.com/jp/shop/57f2ab80351f2fa0a3f63593b5358cc4">Stylish Bar わんすもあー</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
+|34|555|<span class="rank-name-dl">Hary0702</span>|<a href="https://search.dartslive.com/jp/shop/57f2ab80351f2fa0a3f63593b5358cc4">Stylish Bar わんすもあー</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
+|35|547|<span class="rank-name-dl">P@N23</span>|<a href="https://search.dartslive.com/jp/shop/b9cb2a638cf5c4ce774c926eb736cb5a">DARTS BAR PEKE PEKE</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
+|36|544|<span class="rank-name-dl">ハゲちゃん</span>|<a href="https://search.dartslive.com/jp/shop/12df8c9dce968dad0d9b047a20a7ba1e">shotbar BLOOM</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
+|37|542|<span class="rank-name-dl">マイケル</span>|<a href="https://search.dartslive.com/jp/shop/57f2ab80351f2fa0a3f63593b5358cc4">Stylish Bar わんすもあー</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
+|38|533|<span class="rank-name-dl">P@N23</span>|<a href="https://search.dartslive.com/jp/shop/12df8c9dce968dad0d9b047a20a7ba1e">shotbar BLOOM</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
+|39|520|<span class="rank-name-dl">MIYUKI</span>|<a href="https://search.dartslive.com/jp/shop/57f2ab80351f2fa0a3f63593b5358cc4">Stylish Bar わんすもあー</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
+|40|504|<span class="rank-name-dl">うなぎいぬ</span>|<a href="https://search.dartslive.com/jp/shop/d971e1c267fb66be0d9b047a20a7ba1e">CASAgrande</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
+|41|469|<span class="rank-name-dl">わんすもあ―ママ</span>|<a href="https://search.dartslive.com/jp/shop/57f2ab80351f2fa0a3f63593b5358cc4">Stylish Bar わんすもあー</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
 |42|460|<span class="rank-name-dl">AYA</span>|<a href="https://search.dartslive.com/jp/shop/57f2ab80351f2fa0a3f63593b5358cc4">Stylish Bar わんすもあー</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
 |42|460|<span class="rank-name-dl">智太</span>|<a href="https://search.dartslive.com/jp/shop/12df8c9dce968dad0d9b047a20a7ba1e">shotbar BLOOM</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
 |44|422|<span class="rank-name-dl">つんつん</span>|<a href="https://search.dartslive.com/jp/shop/d971e1c267fb66be0d9b047a20a7ba1e">CASAgrande</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
@@ -74,7 +74,6 @@ ___
 |49|370|<span class="rank-name-dl">イッチー</span>|<a href="https://search.dartslive.com/jp/shop/12df8c9dce968dad0d9b047a20a7ba1e">shotbar BLOOM</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
 |50|358|<span class="rank-name-dl">Wish@ふみ</span>|<a href="https://search.dartslive.com/jp/shop/57f2ab80351f2fa0a3f63593b5358cc4">Stylish Bar わんすもあー</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
 |51|337|<span class="rank-name-dl">よっしゃんー！</span>|<a href="https://search.dartslive.com/jp/shop/12df8c9dce968dad0d9b047a20a7ba1e">shotbar BLOOM</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
-|52|296|<span class="rank-name-dl">ハゲちゃん</span>|<a href="https://search.dartslive.com/jp/shop/12df8c9dce968dad0d9b047a20a7ba1e">shotbar BLOOM</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -85,10 +84,10 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|1005|<span class="rank-name-dl">LANCER野郎</span>|<a href="https://search.dartslive.com/jp/shop/57f2ab80351f2fa0a3f63593b5358cc4">Stylish Bar わんすもあー</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
-|2|931|<span class="rank-name-dl">ベースマン52</span>|<a href="https://search.dartslive.com/jp/shop/57f2ab80351f2fa0a3f63593b5358cc4">Stylish Bar わんすもあー</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
-|3|928|<span class="rank-name-dl">けーご＠わんす</span>|<a href="https://search.dartslive.com/jp/shop/57f2ab80351f2fa0a3f63593b5358cc4">Stylish Bar わんすもあー</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
-|4|922|<span class="rank-name-dl">カワヅトシヒロ</span>|<a href="https://search.dartslive.com/jp/shop/b9cb2a638cf5c4ce774c926eb736cb5a">DARTS BAR PEKE PEKE</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
-|5|921|<span class="rank-name-dl">SHINGO.</span>|<a href="https://search.dartslive.com/jp/shop/57f2ab80351f2fa0a3f63593b5358cc4">Stylish Bar わんすもあー</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
+|2|982|<span class="rank-name-dl">SHINGO.</span>|<a href="https://search.dartslive.com/jp/shop/57f2ab80351f2fa0a3f63593b5358cc4">Stylish Bar わんすもあー</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
+|3|952|<span class="rank-name-dl">けーご＠わんす</span>|<a href="https://search.dartslive.com/jp/shop/57f2ab80351f2fa0a3f63593b5358cc4">Stylish Bar わんすもあー</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
+|4|931|<span class="rank-name-dl">ベースマン52</span>|<a href="https://search.dartslive.com/jp/shop/57f2ab80351f2fa0a3f63593b5358cc4">Stylish Bar わんすもあー</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
+|5|922|<span class="rank-name-dl">カワヅトシヒロ</span>|<a href="https://search.dartslive.com/jp/shop/b9cb2a638cf5c4ce774c926eb736cb5a">DARTS BAR PEKE PEKE</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
 |6|918|<span class="rank-name-dl">ひろぽん</span>|<a href="https://search.dartslive.com/jp/shop/b9cb2a638cf5c4ce774c926eb736cb5a">DARTS BAR PEKE PEKE</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
 |7|914|<span class="rank-name-dl">Ｔｏｒｕ．</span>|<a href="https://search.dartslive.com/jp/shop/12df8c9dce968dad0d9b047a20a7ba1e">shotbar BLOOM</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
 |8|886|<span class="rank-name-dl">たくみ＊</span>|<a href="https://search.dartslive.com/jp/shop/57f2ab80351f2fa0a3f63593b5358cc4">Stylish Bar わんすもあー</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
@@ -105,26 +104,26 @@ ___
 |19|755|<span class="rank-name-dl">SAKAさん@fifty</span>|<a href="https://search.dartslive.com/jp/shop/57f2ab80351f2fa0a3f63593b5358cc4">Stylish Bar わんすもあー</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
 |19|755|<span class="rank-name-dl">Shun</span>|<a href="https://search.dartslive.com/jp/shop/57f2ab80351f2fa0a3f63593b5358cc4">Stylish Bar わんすもあー</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
 |21|752|<span class="rank-name-dl">ぶるもり</span>|<a href="https://search.dartslive.com/jp/shop/57f2ab80351f2fa0a3f63593b5358cc4">Stylish Bar わんすもあー</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
-|22|732|<span class="rank-name-dl">H!R0@わんす</span>|<a href="https://search.dartslive.com/jp/shop/57f2ab80351f2fa0a3f63593b5358cc4">Stylish Bar わんすもあー</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
 |22|732|<span class="rank-name-dl">hary0702</span>|<a href="https://search.dartslive.com/jp/shop/57f2ab80351f2fa0a3f63593b5358cc4">Stylish Bar わんすもあー</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
-|24|729|<span class="rank-name-dl">SHOKI@ﾜﾝｽ土曜日</span>|<a href="https://search.dartslive.com/jp/shop/57f2ab80351f2fa0a3f63593b5358cc4">Stylish Bar わんすもあー</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
-|25|715|<span class="rank-name-dl">きぬきぬ＠わんす</span>|<a href="https://search.dartslive.com/jp/shop/57f2ab80351f2fa0a3f63593b5358cc4">Stylish Bar わんすもあー</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
-|26|672|<span class="rank-name-dl">ｶﾜﾂﾞﾄｼﾋﾛ</span>|<a href="https://search.dartslive.com/jp/shop/b9cb2a638cf5c4ce774c926eb736cb5a">DARTS BAR PEKE PEKE</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
-|27|657|<span class="rank-name-dl">りゅう</span>|<a href="https://search.dartslive.com/jp/shop/b9cb2a638cf5c4ce774c926eb736cb5a">DARTS BAR PEKE PEKE</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
+|23|718|<span class="rank-name-dl">きぬきぬ＠わんす</span>|<a href="https://search.dartslive.com/jp/shop/57f2ab80351f2fa0a3f63593b5358cc4">Stylish Bar わんすもあー</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
+|24|679|<span class="rank-name-dl">鼻垂れ小ぅ僧</span>|<a href="https://search.dartslive.com/jp/shop/7c352445d364c0890d9b047a20a7ba1e">Bacchus 78</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
+|25|672|<span class="rank-name-dl">ｶﾜﾂﾞﾄｼﾋﾛ</span>|<a href="https://search.dartslive.com/jp/shop/b9cb2a638cf5c4ce774c926eb736cb5a">DARTS BAR PEKE PEKE</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
+|26|657|<span class="rank-name-dl">りゅう</span>|<a href="https://search.dartslive.com/jp/shop/b9cb2a638cf5c4ce774c926eb736cb5a">DARTS BAR PEKE PEKE</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
+|27|639|<span class="rank-name-dl">ゆかりん</span>|<a href="https://search.dartslive.com/jp/shop/57f2ab80351f2fa0a3f63593b5358cc4">Stylish Bar わんすもあー</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
 |28|627|<span class="rank-name-dl">よっち E B I E</span>|<a href="https://search.dartslive.com/jp/shop/b9cb2a638cf5c4ce774c926eb736cb5a">DARTS BAR PEKE PEKE</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
 |29|606|<span class="rank-name-dl">HISASHI@PEKEPEKE</span>|<a href="https://search.dartslive.com/jp/shop/b9cb2a638cf5c4ce774c926eb736cb5a">DARTS BAR PEKE PEKE</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
 |30|603|<span class="rank-name-dl">Jin.</span>|<a href="https://search.dartslive.com/jp/shop/b9cb2a638cf5c4ce774c926eb736cb5a">DARTS BAR PEKE PEKE</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
 |31|582|<span class="rank-name-dl">美香@Quarter</span>|<a href="https://search.dartslive.com/jp/shop/b9cb2a638cf5c4ce774c926eb736cb5a">DARTS BAR PEKE PEKE</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
 |32|579|<span class="rank-name-dl">☆SHOKO☆</span>|<a href="https://search.dartslive.com/jp/shop/b9cb2a638cf5c4ce774c926eb736cb5a">DARTS BAR PEKE PEKE</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
 |33|570|<span class="rank-name-dl">朧</span>|<a href="https://search.dartslive.com/jp/shop/57f2ab80351f2fa0a3f63593b5358cc4">Stylish Bar わんすもあー</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
-|34|542|<span class="rank-name-dl">マイケル</span>|<a href="https://search.dartslive.com/jp/shop/57f2ab80351f2fa0a3f63593b5358cc4">Stylish Bar わんすもあー</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
-|35|538|<span class="rank-name-dl">Hary0702</span>|<a href="https://search.dartslive.com/jp/shop/57f2ab80351f2fa0a3f63593b5358cc4">Stylish Bar わんすもあー</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
-|36|533|<span class="rank-name-dl">P@N23</span>|<a href="https://search.dartslive.com/jp/shop/12df8c9dce968dad0d9b047a20a7ba1e">shotbar BLOOM</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
-|37|504|<span class="rank-name-dl">うなぎいぬ</span>|<a href="https://search.dartslive.com/jp/shop/d971e1c267fb66be0d9b047a20a7ba1e">CASAgrande</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
-|38|494|<span class="rank-name-dl">MIYUKI</span>|<a href="https://search.dartslive.com/jp/shop/57f2ab80351f2fa0a3f63593b5358cc4">Stylish Bar わんすもあー</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
-|39|479|<span class="rank-name-dl">山田くま</span>|<a href="https://search.dartslive.com/jp/shop/b9cb2a638cf5c4ce774c926eb736cb5a">DARTS BAR PEKE PEKE</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
-|40|469|<span class="rank-name-dl">わんすもあ―ママ</span>|<a href="https://search.dartslive.com/jp/shop/57f2ab80351f2fa0a3f63593b5358cc4">Stylish Bar わんすもあー</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
-|41|468|<span class="rank-name-dl">ゆかりん</span>|<a href="https://search.dartslive.com/jp/shop/57f2ab80351f2fa0a3f63593b5358cc4">Stylish Bar わんすもあー</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
+|34|555|<span class="rank-name-dl">Hary0702</span>|<a href="https://search.dartslive.com/jp/shop/57f2ab80351f2fa0a3f63593b5358cc4">Stylish Bar わんすもあー</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
+|35|547|<span class="rank-name-dl">P@N23</span>|<a href="https://search.dartslive.com/jp/shop/b9cb2a638cf5c4ce774c926eb736cb5a">DARTS BAR PEKE PEKE</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
+|36|544|<span class="rank-name-dl">ハゲちゃん</span>|<a href="https://search.dartslive.com/jp/shop/12df8c9dce968dad0d9b047a20a7ba1e">shotbar BLOOM</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
+|37|542|<span class="rank-name-dl">マイケル</span>|<a href="https://search.dartslive.com/jp/shop/57f2ab80351f2fa0a3f63593b5358cc4">Stylish Bar わんすもあー</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
+|38|533|<span class="rank-name-dl">P@N23</span>|<a href="https://search.dartslive.com/jp/shop/12df8c9dce968dad0d9b047a20a7ba1e">shotbar BLOOM</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
+|39|520|<span class="rank-name-dl">MIYUKI</span>|<a href="https://search.dartslive.com/jp/shop/57f2ab80351f2fa0a3f63593b5358cc4">Stylish Bar わんすもあー</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
+|40|504|<span class="rank-name-dl">うなぎいぬ</span>|<a href="https://search.dartslive.com/jp/shop/d971e1c267fb66be0d9b047a20a7ba1e">CASAgrande</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
+|41|469|<span class="rank-name-dl">わんすもあ―ママ</span>|<a href="https://search.dartslive.com/jp/shop/57f2ab80351f2fa0a3f63593b5358cc4">Stylish Bar わんすもあー</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
 |42|460|<span class="rank-name-dl">AYA</span>|<a href="https://search.dartslive.com/jp/shop/57f2ab80351f2fa0a3f63593b5358cc4">Stylish Bar わんすもあー</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
 |42|460|<span class="rank-name-dl">智太</span>|<a href="https://search.dartslive.com/jp/shop/12df8c9dce968dad0d9b047a20a7ba1e">shotbar BLOOM</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
 |44|422|<span class="rank-name-dl">つんつん</span>|<a href="https://search.dartslive.com/jp/shop/d971e1c267fb66be0d9b047a20a7ba1e">CASAgrande</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
@@ -135,7 +134,6 @@ ___
 |49|370|<span class="rank-name-dl">イッチー</span>|<a href="https://search.dartslive.com/jp/shop/12df8c9dce968dad0d9b047a20a7ba1e">shotbar BLOOM</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
 |50|358|<span class="rank-name-dl">Wish@ふみ</span>|<a href="https://search.dartslive.com/jp/shop/57f2ab80351f2fa0a3f63593b5358cc4">Stylish Bar わんすもあー</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
 |51|337|<span class="rank-name-dl">よっしゃんー！</span>|<a href="https://search.dartslive.com/jp/shop/12df8c9dce968dad0d9b047a20a7ba1e">shotbar BLOOM</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
-|52|296|<span class="rank-name-dl">ハゲちゃん</span>|<a href="https://search.dartslive.com/jp/shop/12df8c9dce968dad0d9b047a20a7ba1e">shotbar BLOOM</a>|<a href="/darts/rank/大阪府/大阪市福島区">大阪府大阪市福島区</a>|
 
 
 #### PHOENIXDARTS TOP 100

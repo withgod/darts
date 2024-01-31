@@ -27,8 +27,8 @@ ___
 |2|1107|<span class="rank-name-dl">松藤 翔太</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
 |3|1098|<span class="rank-name-dl">前崎翔太@大襾組</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
 |4|1095|<span class="rank-name-dl">だいき</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
-|5|1066|<span class="rank-name-dl">♨️</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
-|6|1061|<span class="rank-name-dl">やげT.V.Dやげ</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
+|5|1092|<span class="rank-name-dl">やげT.V.Dやげ</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
+|6|1090|<span class="rank-name-dl">♨️</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
 |7|1041|<span class="rank-name-dl">山下 竜起@DMC</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
 |8|1023|<span class="rank-name-dl">一・・・・・・平</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
 |9|1018|<span class="rank-name-dl">☆TVD☆やげ氏</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
@@ -39,23 +39,22 @@ ___
 |14|996|<span class="rank-name-dl">ﾔｯ!ヤー！ｷﾑﾆｸﾝ。</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
 |15|975|<span class="rank-name-dl">いずゆう</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
 |16|973|<span class="rank-name-dl">DIARTのほくと</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
-|17|872|<span class="rank-name-dl">ikko@OC(^o^)/~~&gt;</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
-|18|855|<span class="rank-name-dl">キャラメル</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
-|19|853|<span class="rank-name-dl">koike tahao</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
-|20|801|<span class="rank-name-dl">人糞はちろくっ♡</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
-|21|770|<span class="rank-name-dl">おちび</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
-|22|762|<span class="rank-name-dl">はちろくU・x・U</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
+|17|955|<span class="rank-name-dl">はちろくU・x・U</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
+|18|872|<span class="rank-name-dl">ikko@OC(^o^)/~~&gt;</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
+|19|855|<span class="rank-name-dl">キャラメル</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
+|20|853|<span class="rank-name-dl">koike tahao</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
+|21|801|<span class="rank-name-dl">人糞はちろくっ♡</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
+|22|770|<span class="rank-name-dl">おちび</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
 |23|754|<span class="rank-name-dl">まいっち</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
 |24|694|<span class="rank-name-dl">YOKO.</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
 |25|657|<span class="rank-name-dl">☆りゅーじゅ☆</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
-|26|621|<span class="rank-name-dl">TVD半世紀少女⑦</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
-|27|596|<span class="rank-name-dl">みほちゃん</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
-|28|556|<span class="rank-name-dl">いむ＠ROSIE</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
-|29|534|<span class="rank-name-dl">ちひろ@KingsＡ</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
-|30|509|<span class="rank-name-dl">D.S.O@くみ</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
-|31|471|<span class="rank-name-dl">ayaka@glad</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
-|32|467|<span class="rank-name-dl">ちゃんなお</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
-|33|458|<span class="rank-name-dl">☆めぐみ☆TOPGUN</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
+|26|642|<span class="rank-name-dl">ミワ ユウキ</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
+|27|621|<span class="rank-name-dl">TVD半世紀少女⑦</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
+|28|596|<span class="rank-name-dl">みほちゃん</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
+|29|556|<span class="rank-name-dl">いむ＠ROSIE</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
+|30|534|<span class="rank-name-dl">ちひろ@KingsＡ</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
+|31|509|<span class="rank-name-dl">D.S.O@くみ</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
+|32|471|<span class="rank-name-dl">ayaka@glad</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -69,8 +68,8 @@ ___
 |2|1107|<span class="rank-name-dl">松藤 翔太</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
 |3|1098|<span class="rank-name-dl">前崎翔太@大襾組</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
 |4|1095|<span class="rank-name-dl">だいき</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
-|5|1066|<span class="rank-name-dl">♨️</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
-|6|1061|<span class="rank-name-dl">やげT.V.Dやげ</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
+|5|1092|<span class="rank-name-dl">やげT.V.Dやげ</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
+|6|1090|<span class="rank-name-dl">♨️</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
 |7|1041|<span class="rank-name-dl">山下 竜起@DMC</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
 |8|1023|<span class="rank-name-dl">一・・・・・・平</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
 |9|1018|<span class="rank-name-dl">☆TVD☆やげ氏</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
@@ -81,23 +80,22 @@ ___
 |14|996|<span class="rank-name-dl">ﾔｯ!ヤー！ｷﾑﾆｸﾝ。</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
 |15|975|<span class="rank-name-dl">いずゆう</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
 |16|973|<span class="rank-name-dl">DIARTのほくと</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
-|17|872|<span class="rank-name-dl">ikko@OC(^o^)/~~&gt;</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
-|18|855|<span class="rank-name-dl">キャラメル</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
-|19|853|<span class="rank-name-dl">koike tahao</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
-|20|801|<span class="rank-name-dl">人糞はちろくっ♡</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
-|21|770|<span class="rank-name-dl">おちび</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
-|22|762|<span class="rank-name-dl">はちろくU・x・U</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
+|17|955|<span class="rank-name-dl">はちろくU・x・U</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
+|18|872|<span class="rank-name-dl">ikko@OC(^o^)/~~&gt;</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
+|19|855|<span class="rank-name-dl">キャラメル</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
+|20|853|<span class="rank-name-dl">koike tahao</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
+|21|801|<span class="rank-name-dl">人糞はちろくっ♡</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
+|22|770|<span class="rank-name-dl">おちび</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
 |23|754|<span class="rank-name-dl">まいっち</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
 |24|694|<span class="rank-name-dl">YOKO.</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
 |25|657|<span class="rank-name-dl">☆りゅーじゅ☆</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
-|26|621|<span class="rank-name-dl">TVD半世紀少女⑦</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
-|27|596|<span class="rank-name-dl">みほちゃん</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
-|28|556|<span class="rank-name-dl">いむ＠ROSIE</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
-|29|534|<span class="rank-name-dl">ちひろ@KingsＡ</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
-|30|509|<span class="rank-name-dl">D.S.O@くみ</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
-|31|471|<span class="rank-name-dl">ayaka@glad</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
-|32|467|<span class="rank-name-dl">ちゃんなお</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
-|33|458|<span class="rank-name-dl">☆めぐみ☆TOPGUN</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
+|26|642|<span class="rank-name-dl">ミワ ユウキ</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
+|27|621|<span class="rank-name-dl">TVD半世紀少女⑦</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
+|28|596|<span class="rank-name-dl">みほちゃん</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
+|29|556|<span class="rank-name-dl">いむ＠ROSIE</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
+|30|534|<span class="rank-name-dl">ちひろ@KingsＡ</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
+|31|509|<span class="rank-name-dl">D.S.O@くみ</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
+|32|471|<span class="rank-name-dl">ayaka@glad</span>|<a href="https://search.dartslive.com/jp/shop/3bbb8e1939555afb0d9b047a20a7ba1e">THE VINTAGE DINER</a>|<a href="/darts/rank/大阪府/摂津市">大阪府摂津市</a>|
 
 
 #### PHOENIXDARTS TOP 100

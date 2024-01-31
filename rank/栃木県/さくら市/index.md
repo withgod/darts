@@ -39,11 +39,8 @@ ___
 |14|613|<span class="rank-name-dl">いけさん</span>|<a href="https://search.dartslive.com/jp/shop/249f46923e23f4910d9b047a20a7ba1e">カラオケBANBANさくら店</a>|<a href="/darts/rank/栃木県/さくら市">栃木県さくら市</a>|
 |15|586|<span class="rank-name-dl">りゅうせい</span>|<a href="https://search.dartslive.com/jp/shop/249f46923e23f4910d9b047a20a7ba1e">カラオケBANBANさくら店</a>|<a href="/darts/rank/栃木県/さくら市">栃木県さくら市</a>|
 |16|578|<span class="rank-name-dl">iii</span>|<a href="https://search.dartslive.com/jp/shop/249f46923e23f4910d9b047a20a7ba1e">カラオケBANBANさくら店</a>|<a href="/darts/rank/栃木県/さくら市">栃木県さくら市</a>|
-|17|574|<span class="rank-name-dl">4ruto</span>|<a href="https://search.dartslive.com/jp/shop/249f46923e23f4910d9b047a20a7ba1e">カラオケBANBANさくら店</a>|<a href="/darts/rank/栃木県/さくら市">栃木県さくら市</a>|
-|18|508|<span class="rank-name-dl">ちゃん</span>|<a href="https://search.dartslive.com/jp/shop/249f46923e23f4910d9b047a20a7ba1e">カラオケBANBANさくら店</a>|<a href="/darts/rank/栃木県/さくら市">栃木県さくら市</a>|
-|19|479|<span class="rank-name-dl">Fuji-Fuji</span>|<a href="https://search.dartslive.com/jp/shop/249f46923e23f4910d9b047a20a7ba1e">カラオケBANBANさくら店</a>|<a href="/darts/rank/栃木県/さくら市">栃木県さくら市</a>|
-|20|367|<span class="rank-name-dl">NOEL</span>|<a href="https://search.dartslive.com/jp/shop/249f46923e23f4910d9b047a20a7ba1e">カラオケBANBANさくら店</a>|<a href="/darts/rank/栃木県/さくら市">栃木県さくら市</a>|
-|21|356|<span class="rank-name-dl">アンリ4世</span>|<a href="https://search.dartslive.com/jp/shop/249f46923e23f4910d9b047a20a7ba1e">カラオケBANBANさくら店</a>|<a href="/darts/rank/栃木県/さくら市">栃木県さくら市</a>|
+|17|508|<span class="rank-name-dl">ちゃん</span>|<a href="https://search.dartslive.com/jp/shop/249f46923e23f4910d9b047a20a7ba1e">カラオケBANBANさくら店</a>|<a href="/darts/rank/栃木県/さくら市">栃木県さくら市</a>|
+|18|356|<span class="rank-name-dl">アンリ4世</span>|<a href="https://search.dartslive.com/jp/shop/249f46923e23f4910d9b047a20a7ba1e">カラオケBANBANさくら店</a>|<a href="/darts/rank/栃木県/さくら市">栃木県さくら市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -69,11 +66,8 @@ ___
 |14|613|<span class="rank-name-dl">いけさん</span>|<a href="https://search.dartslive.com/jp/shop/249f46923e23f4910d9b047a20a7ba1e">カラオケBANBANさくら店</a>|<a href="/darts/rank/栃木県/さくら市">栃木県さくら市</a>|
 |15|586|<span class="rank-name-dl">りゅうせい</span>|<a href="https://search.dartslive.com/jp/shop/249f46923e23f4910d9b047a20a7ba1e">カラオケBANBANさくら店</a>|<a href="/darts/rank/栃木県/さくら市">栃木県さくら市</a>|
 |16|578|<span class="rank-name-dl">iii</span>|<a href="https://search.dartslive.com/jp/shop/249f46923e23f4910d9b047a20a7ba1e">カラオケBANBANさくら店</a>|<a href="/darts/rank/栃木県/さくら市">栃木県さくら市</a>|
-|17|574|<span class="rank-name-dl">4ruto</span>|<a href="https://search.dartslive.com/jp/shop/249f46923e23f4910d9b047a20a7ba1e">カラオケBANBANさくら店</a>|<a href="/darts/rank/栃木県/さくら市">栃木県さくら市</a>|
-|18|508|<span class="rank-name-dl">ちゃん</span>|<a href="https://search.dartslive.com/jp/shop/249f46923e23f4910d9b047a20a7ba1e">カラオケBANBANさくら店</a>|<a href="/darts/rank/栃木県/さくら市">栃木県さくら市</a>|
-|19|479|<span class="rank-name-dl">Fuji-Fuji</span>|<a href="https://search.dartslive.com/jp/shop/249f46923e23f4910d9b047a20a7ba1e">カラオケBANBANさくら店</a>|<a href="/darts/rank/栃木県/さくら市">栃木県さくら市</a>|
-|20|367|<span class="rank-name-dl">NOEL</span>|<a href="https://search.dartslive.com/jp/shop/249f46923e23f4910d9b047a20a7ba1e">カラオケBANBANさくら店</a>|<a href="/darts/rank/栃木県/さくら市">栃木県さくら市</a>|
-|21|356|<span class="rank-name-dl">アンリ4世</span>|<a href="https://search.dartslive.com/jp/shop/249f46923e23f4910d9b047a20a7ba1e">カラオケBANBANさくら店</a>|<a href="/darts/rank/栃木県/さくら市">栃木県さくら市</a>|
+|17|508|<span class="rank-name-dl">ちゃん</span>|<a href="https://search.dartslive.com/jp/shop/249f46923e23f4910d9b047a20a7ba1e">カラオケBANBANさくら店</a>|<a href="/darts/rank/栃木県/さくら市">栃木県さくら市</a>|
+|18|356|<span class="rank-name-dl">アンリ4世</span>|<a href="https://search.dartslive.com/jp/shop/249f46923e23f4910d9b047a20a7ba1e">カラオケBANBANさくら店</a>|<a href="/darts/rank/栃木県/さくら市">栃木県さくら市</a>|
 
 
 #### PHOENIXDARTS TOP 100

@@ -38,10 +38,9 @@ ___
 |13|684|<span class="rank-name-dl">22年間地元の床屋</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
 |14|674|<span class="rank-name-dl">ダｳﾝタｳﾝのかずき</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
 |15|660|<span class="rank-name-dl">いぶき</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
-|16|650|<span class="rank-name-dl">藤田幸三†ﾛｺﾛｺ</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
-|17|555|<span class="rank-name-dl">おじまる</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
-|18|507|<span class="rank-name-dl">ダｳﾝタｳﾝのゆい</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
-|19|476|<span class="rank-name-dl">MIO</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|16|555|<span class="rank-name-dl">おじまる</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|17|507|<span class="rank-name-dl">ダｳﾝタｳﾝのゆい</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|18|476|<span class="rank-name-dl">MIO</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -66,10 +65,9 @@ ___
 |13|684|<span class="rank-name-dl">22年間地元の床屋</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
 |14|674|<span class="rank-name-dl">ダｳﾝタｳﾝのかずき</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
 |15|660|<span class="rank-name-dl">いぶき</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
-|16|650|<span class="rank-name-dl">藤田幸三†ﾛｺﾛｺ</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
-|17|555|<span class="rank-name-dl">おじまる</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
-|18|507|<span class="rank-name-dl">ダｳﾝタｳﾝのゆい</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
-|19|476|<span class="rank-name-dl">MIO</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|16|555|<span class="rank-name-dl">おじまる</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|17|507|<span class="rank-name-dl">ダｳﾝタｳﾝのゆい</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|18|476|<span class="rank-name-dl">MIO</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
 
 
 #### PHOENIXDARTS TOP 100

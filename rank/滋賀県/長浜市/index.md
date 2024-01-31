@@ -24,22 +24,22 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|1153|<span class="rank-name-dl">ＫＵＮＩ</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
-|2|1063|<span class="rank-name-dl">ろっくん</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
-|3|1059|<span class="rank-name-dl">やまゆ@AMAZE</span>|<a href="https://search.dartslive.com/jp/shop/6ca66964868b40bf25d56fb0e5c39bac">AMAZE</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
-|4|1023|<span class="rank-name-dl">NO NAME 9057</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
-|5|1011|<span class="rank-name-dl">sage</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
-|6|988|<span class="rank-name-dl">Masato</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
-|7|982|<span class="rank-name-dl">なかにょ</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
-|8|979|<span class="rank-name-dl">mk size</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
-|9|976|<span class="rank-name-dl">クニ@AMAZE</span>|<a href="https://search.dartslive.com/jp/shop/6ca66964868b40bf25d56fb0e5c39bac">AMAZE</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
-|10|964|<span class="rank-name-dl">正路2号</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
-|11|950|<span class="rank-name-dl">Dai</span>|<a href="https://search.dartslive.com/jp/shop/6ca66964868b40bf25d56fb0e5c39bac">AMAZE</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
-|12|948|<span class="rank-name-dl">やまやま</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
-|13|941|<span class="rank-name-dl">しーちゃん@AMAZE</span>|<a href="https://search.dartslive.com/jp/shop/6ca66964868b40bf25d56fb0e5c39bac">AMAZE</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
-|14|940|<span class="rank-name-dl">masato</span>|<a href="https://search.dartslive.com/jp/shop/6ca66964868b40bf25d56fb0e5c39bac">AMAZE</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
-|15|932|<span class="rank-name-dl">はるこじか</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
-|16|929|<span class="rank-name-dl">藤山 起目粒</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
-|17|924|<span class="rank-name-dl">U-ch@n♪CHAOS♪</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
+|2|1079|<span class="rank-name-dl">U-ch@n♪CHAOS♪</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
+|3|1063|<span class="rank-name-dl">ろっくん</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
+|4|1059|<span class="rank-name-dl">やまゆ@AMAZE</span>|<a href="https://search.dartslive.com/jp/shop/6ca66964868b40bf25d56fb0e5c39bac">AMAZE</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
+|5|1052|<span class="rank-name-dl">sage</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
+|6|1023|<span class="rank-name-dl">NO NAME 9057</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
+|7|988|<span class="rank-name-dl">Masato</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
+|8|982|<span class="rank-name-dl">なかにょ</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
+|9|979|<span class="rank-name-dl">mk size</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
+|10|976|<span class="rank-name-dl">クニ@AMAZE</span>|<a href="https://search.dartslive.com/jp/shop/6ca66964868b40bf25d56fb0e5c39bac">AMAZE</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
+|11|964|<span class="rank-name-dl">正路2号</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
+|12|950|<span class="rank-name-dl">Dai</span>|<a href="https://search.dartslive.com/jp/shop/6ca66964868b40bf25d56fb0e5c39bac">AMAZE</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
+|13|948|<span class="rank-name-dl">やまやま</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
+|14|941|<span class="rank-name-dl">しーちゃん@AMAZE</span>|<a href="https://search.dartslive.com/jp/shop/6ca66964868b40bf25d56fb0e5c39bac">AMAZE</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
+|15|940|<span class="rank-name-dl">masato</span>|<a href="https://search.dartslive.com/jp/shop/6ca66964868b40bf25d56fb0e5c39bac">AMAZE</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
+|16|932|<span class="rank-name-dl">はるこじか</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
+|17|929|<span class="rank-name-dl">藤山 起目粒</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
 |18|920|<span class="rank-name-dl">晃治-百折不撓-</span>|<a href="https://search.dartslive.com/jp/shop/6ca66964868b40bf25d56fb0e5c39bac">AMAZE</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
 |19|910|<span class="rank-name-dl">りょ</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
 |20|903|<span class="rank-name-dl">古川 靖士</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
@@ -59,11 +59,13 @@ ___
 |34|533|<span class="rank-name-dl">りんご</span>|<a href="https://search.dartslive.com/jp/shop/6ca66964868b40bf25d56fb0e5c39bac">AMAZE</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
 |35|532|<span class="rank-name-dl">さやねぇ</span>|<a href="https://search.dartslive.com/jp/shop/6ca66964868b40bf25d56fb0e5c39bac">AMAZE</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
 |36|531|<span class="rank-name-dl">忘りえぽん我</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
-|37|525|<span class="rank-name-dl">☆DEVIL☆</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
-|38|486|<span class="rank-name-dl">maco</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
-|39|404|<span class="rank-name-dl">あさみさん</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
-|40|338|<span class="rank-name-dl">優美</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
-|41|321|<span class="rank-name-dl">りーちゃそ。(？)</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
+|37|526|<span class="rank-name-dl">ran16</span>|<a href="https://search.dartslive.com/jp/shop/6ca66964868b40bf25d56fb0e5c39bac">AMAZE</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
+|38|525|<span class="rank-name-dl">☆DEVIL☆</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
+|39|502|<span class="rank-name-dl">SHURI</span>|<a href="https://search.dartslive.com/jp/shop/6ca66964868b40bf25d56fb0e5c39bac">AMAZE</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
+|40|486|<span class="rank-name-dl">maco</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
+|41|404|<span class="rank-name-dl">あさみさん</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
+|42|338|<span class="rank-name-dl">優美</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
+|43|321|<span class="rank-name-dl">りーちゃそ。(？)</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -74,22 +76,22 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|1153|<span class="rank-name-dl">ＫＵＮＩ</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
-|2|1063|<span class="rank-name-dl">ろっくん</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
-|3|1059|<span class="rank-name-dl">やまゆ@AMAZE</span>|<a href="https://search.dartslive.com/jp/shop/6ca66964868b40bf25d56fb0e5c39bac">AMAZE</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
-|4|1023|<span class="rank-name-dl">NO NAME 9057</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
-|5|1011|<span class="rank-name-dl">sage</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
-|6|988|<span class="rank-name-dl">Masato</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
-|7|982|<span class="rank-name-dl">なかにょ</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
-|8|979|<span class="rank-name-dl">mk size</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
-|9|976|<span class="rank-name-dl">クニ@AMAZE</span>|<a href="https://search.dartslive.com/jp/shop/6ca66964868b40bf25d56fb0e5c39bac">AMAZE</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
-|10|964|<span class="rank-name-dl">正路2号</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
-|11|950|<span class="rank-name-dl">Dai</span>|<a href="https://search.dartslive.com/jp/shop/6ca66964868b40bf25d56fb0e5c39bac">AMAZE</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
-|12|948|<span class="rank-name-dl">やまやま</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
-|13|941|<span class="rank-name-dl">しーちゃん@AMAZE</span>|<a href="https://search.dartslive.com/jp/shop/6ca66964868b40bf25d56fb0e5c39bac">AMAZE</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
-|14|940|<span class="rank-name-dl">masato</span>|<a href="https://search.dartslive.com/jp/shop/6ca66964868b40bf25d56fb0e5c39bac">AMAZE</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
-|15|932|<span class="rank-name-dl">はるこじか</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
-|16|929|<span class="rank-name-dl">藤山 起目粒</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
-|17|924|<span class="rank-name-dl">U-ch@n♪CHAOS♪</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
+|2|1079|<span class="rank-name-dl">U-ch@n♪CHAOS♪</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
+|3|1063|<span class="rank-name-dl">ろっくん</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
+|4|1059|<span class="rank-name-dl">やまゆ@AMAZE</span>|<a href="https://search.dartslive.com/jp/shop/6ca66964868b40bf25d56fb0e5c39bac">AMAZE</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
+|5|1052|<span class="rank-name-dl">sage</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
+|6|1023|<span class="rank-name-dl">NO NAME 9057</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
+|7|988|<span class="rank-name-dl">Masato</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
+|8|982|<span class="rank-name-dl">なかにょ</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
+|9|979|<span class="rank-name-dl">mk size</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
+|10|976|<span class="rank-name-dl">クニ@AMAZE</span>|<a href="https://search.dartslive.com/jp/shop/6ca66964868b40bf25d56fb0e5c39bac">AMAZE</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
+|11|964|<span class="rank-name-dl">正路2号</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
+|12|950|<span class="rank-name-dl">Dai</span>|<a href="https://search.dartslive.com/jp/shop/6ca66964868b40bf25d56fb0e5c39bac">AMAZE</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
+|13|948|<span class="rank-name-dl">やまやま</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
+|14|941|<span class="rank-name-dl">しーちゃん@AMAZE</span>|<a href="https://search.dartslive.com/jp/shop/6ca66964868b40bf25d56fb0e5c39bac">AMAZE</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
+|15|940|<span class="rank-name-dl">masato</span>|<a href="https://search.dartslive.com/jp/shop/6ca66964868b40bf25d56fb0e5c39bac">AMAZE</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
+|16|932|<span class="rank-name-dl">はるこじか</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
+|17|929|<span class="rank-name-dl">藤山 起目粒</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
 |18|920|<span class="rank-name-dl">晃治-百折不撓-</span>|<a href="https://search.dartslive.com/jp/shop/6ca66964868b40bf25d56fb0e5c39bac">AMAZE</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
 |19|910|<span class="rank-name-dl">りょ</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
 |20|903|<span class="rank-name-dl">古川 靖士</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
@@ -109,11 +111,13 @@ ___
 |34|533|<span class="rank-name-dl">りんご</span>|<a href="https://search.dartslive.com/jp/shop/6ca66964868b40bf25d56fb0e5c39bac">AMAZE</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
 |35|532|<span class="rank-name-dl">さやねぇ</span>|<a href="https://search.dartslive.com/jp/shop/6ca66964868b40bf25d56fb0e5c39bac">AMAZE</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
 |36|531|<span class="rank-name-dl">忘りえぽん我</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
-|37|525|<span class="rank-name-dl">☆DEVIL☆</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
-|38|486|<span class="rank-name-dl">maco</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
-|39|404|<span class="rank-name-dl">あさみさん</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
-|40|338|<span class="rank-name-dl">優美</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
-|41|321|<span class="rank-name-dl">りーちゃそ。(？)</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
+|37|526|<span class="rank-name-dl">ran16</span>|<a href="https://search.dartslive.com/jp/shop/6ca66964868b40bf25d56fb0e5c39bac">AMAZE</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
+|38|525|<span class="rank-name-dl">☆DEVIL☆</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
+|39|502|<span class="rank-name-dl">SHURI</span>|<a href="https://search.dartslive.com/jp/shop/6ca66964868b40bf25d56fb0e5c39bac">AMAZE</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
+|40|486|<span class="rank-name-dl">maco</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
+|41|404|<span class="rank-name-dl">あさみさん</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
+|42|338|<span class="rank-name-dl">優美</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
+|43|321|<span class="rank-name-dl">りーちゃそ。(？)</span>|<a href="https://search.dartslive.com/jp/shop/6e67cbae6aec0e7e0d9b047a20a7ba1e">アットタイム 長浜バイパス店</a>|<a href="/darts/rank/滋賀県/長浜市">滋賀県長浜市</a>|
 
 
 #### PHOENIXDARTS TOP 100

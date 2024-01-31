@@ -42,11 +42,10 @@ ___
 |17|698|<span class="rank-name-pd">かずひこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77927?s_seq=77927">darts zone TRIPLE</a>|<a href="/darts/rank/新潟県/胎内市">新潟県胎内市</a>|
 |18|646|<span class="rank-name-pd">Chika@亀ちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77927?s_seq=77927">darts zone TRIPLE</a>|<a href="/darts/rank/新潟県/胎内市">新潟県胎内市</a>|
 |19|645|<span class="rank-name-dl">松田の隼飛</span>|<a href="https://search.dartslive.com/jp/shop/380c3500b7dac0cba3f63593b5358cc4">darts zone TRIPLE</a>|<a href="/darts/rank/新潟県/胎内市">新潟県胎内市</a>|
-|20|559|<span class="rank-name-dl">カルダモン</span>|<a href="https://search.dartslive.com/jp/shop/380c3500b7dac0cba3f63593b5358cc4">darts zone TRIPLE</a>|<a href="/darts/rank/新潟県/胎内市">新潟県胎内市</a>|
-|21|542|<span class="rank-name-pd">YAMA!!!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77927?s_seq=77927">darts zone TRIPLE</a>|<a href="/darts/rank/新潟県/胎内市">新潟県胎内市</a>|
-|22|531|<span class="rank-name-pd">ほしの</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77927?s_seq=77927">darts zone TRIPLE</a>|<a href="/darts/rank/新潟県/胎内市">新潟県胎内市</a>|
-|23|493|<span class="rank-name-dl">免疫グロブリン</span>|<a href="https://search.dartslive.com/jp/shop/380c3500b7dac0cba3f63593b5358cc4">darts zone TRIPLE</a>|<a href="/darts/rank/新潟県/胎内市">新潟県胎内市</a>|
-|24|483|<span class="rank-name-pd">はるか@TRIPLE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77927?s_seq=77927">darts zone TRIPLE</a>|<a href="/darts/rank/新潟県/胎内市">新潟県胎内市</a>|
+|20|542|<span class="rank-name-pd">YAMA!!!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77927?s_seq=77927">darts zone TRIPLE</a>|<a href="/darts/rank/新潟県/胎内市">新潟県胎内市</a>|
+|21|531|<span class="rank-name-pd">ほしの</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77927?s_seq=77927">darts zone TRIPLE</a>|<a href="/darts/rank/新潟県/胎内市">新潟県胎内市</a>|
+|22|493|<span class="rank-name-dl">免疫グロブリン</span>|<a href="https://search.dartslive.com/jp/shop/380c3500b7dac0cba3f63593b5358cc4">darts zone TRIPLE</a>|<a href="/darts/rank/新潟県/胎内市">新潟県胎内市</a>|
+|23|483|<span class="rank-name-pd">はるか@TRIPLE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77927?s_seq=77927">darts zone TRIPLE</a>|<a href="/darts/rank/新潟県/胎内市">新潟県胎内市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -69,8 +68,7 @@ ___
 |11|731|<span class="rank-name-dl">Arrows たくや</span>|<a href="https://search.dartslive.com/jp/shop/380c3500b7dac0cba3f63593b5358cc4">darts zone TRIPLE</a>|<a href="/darts/rank/新潟県/胎内市">新潟県胎内市</a>|
 |12|702|<span class="rank-name-dl">藤間 魁人</span>|<a href="https://search.dartslive.com/jp/shop/380c3500b7dac0cba3f63593b5358cc4">darts zone TRIPLE</a>|<a href="/darts/rank/新潟県/胎内市">新潟県胎内市</a>|
 |13|645|<span class="rank-name-dl">松田の隼飛</span>|<a href="https://search.dartslive.com/jp/shop/380c3500b7dac0cba3f63593b5358cc4">darts zone TRIPLE</a>|<a href="/darts/rank/新潟県/胎内市">新潟県胎内市</a>|
-|14|559|<span class="rank-name-dl">カルダモン</span>|<a href="https://search.dartslive.com/jp/shop/380c3500b7dac0cba3f63593b5358cc4">darts zone TRIPLE</a>|<a href="/darts/rank/新潟県/胎内市">新潟県胎内市</a>|
-|15|493|<span class="rank-name-dl">免疫グロブリン</span>|<a href="https://search.dartslive.com/jp/shop/380c3500b7dac0cba3f63593b5358cc4">darts zone TRIPLE</a>|<a href="/darts/rank/新潟県/胎内市">新潟県胎内市</a>|
+|14|493|<span class="rank-name-dl">免疫グロブリン</span>|<a href="https://search.dartslive.com/jp/shop/380c3500b7dac0cba3f63593b5358cc4">darts zone TRIPLE</a>|<a href="/darts/rank/新潟県/胎内市">新潟県胎内市</a>|
 
 
 #### PHOENIXDARTS TOP 100

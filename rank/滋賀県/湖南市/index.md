@@ -28,20 +28,20 @@ ___
 |3|1064|<span class="rank-name-dl">しんやまもと</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
 |4|1007|<span class="rank-name-dl">森本 純矢</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
 |5|1006|<span class="rank-name-dl">川西康士</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
-|6|997|<span class="rank-name-dl">もりけん</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
-|6|997|<span class="rank-name-dl">りょーすけ</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
-|8|960|<span class="rank-name-dl">しっもゃん。2</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
-|9|956|<span class="rank-name-dl">外村亮祐</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
-|10|945|<span class="rank-name-dl">ライジングリナ</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
-|11|944|<span class="rank-name-dl">D@I酒乱人</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
-|12|917|<span class="rank-name-dl">ベーベベ</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
-|13|907|<span class="rank-name-dl">Dai</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
-|14|841|<span class="rank-name-dl">☆みな☆</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
-|15|789|<span class="rank-name-dl">ちゃんみ</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
-|16|714|<span class="rank-name-dl">ブロッコリー山田</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
-|17|701|<span class="rank-name-dl">ちえげ Punks</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
-|18|696|<span class="rank-name-dl">れなしゃん</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
-|19|644|<span class="rank-name-dl">ぱつこ^^</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
+|6|1002|<span class="rank-name-dl">D@I 酒乱人</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
+|7|997|<span class="rank-name-dl">もりけん</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
+|7|997|<span class="rank-name-dl">りょーすけ</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
+|9|960|<span class="rank-name-dl">しっもゃん。2</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
+|10|956|<span class="rank-name-dl">外村亮祐</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
+|11|945|<span class="rank-name-dl">ライジングリナ</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
+|12|944|<span class="rank-name-dl">D@I酒乱人</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
+|13|841|<span class="rank-name-dl">☆みな☆</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
+|14|789|<span class="rank-name-dl">ちゃんみ</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
+|15|714|<span class="rank-name-dl">ブロッコリー山田</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
+|16|701|<span class="rank-name-dl">ちえげ Punks</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
+|17|696|<span class="rank-name-dl">れなしゃん</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
+|18|682|<span class="rank-name-dl">☆BMB☆ちえげ☆</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
+|19|668|<span class="rank-name-dl">ぱつこ^^</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
 |20|556|<span class="rank-name-dl">とくしまかな</span>|<a href="https://search.dartslive.com/jp/shop/bbdd2dceaed5b2cff454cb89828a1cfe">FOOD&BAR ONLY</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
 |21|540|<span class="rank-name-dl">Rie</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
 |22|528|<span class="rank-name-dl">みくえいと</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
@@ -62,20 +62,20 @@ ___
 |3|1064|<span class="rank-name-dl">しんやまもと</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
 |4|1007|<span class="rank-name-dl">森本 純矢</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
 |5|1006|<span class="rank-name-dl">川西康士</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
-|6|997|<span class="rank-name-dl">もりけん</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
-|6|997|<span class="rank-name-dl">りょーすけ</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
-|8|960|<span class="rank-name-dl">しっもゃん。2</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
-|9|956|<span class="rank-name-dl">外村亮祐</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
-|10|945|<span class="rank-name-dl">ライジングリナ</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
-|11|944|<span class="rank-name-dl">D@I酒乱人</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
-|12|917|<span class="rank-name-dl">ベーベベ</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
-|13|907|<span class="rank-name-dl">Dai</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
-|14|841|<span class="rank-name-dl">☆みな☆</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
-|15|789|<span class="rank-name-dl">ちゃんみ</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
-|16|714|<span class="rank-name-dl">ブロッコリー山田</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
-|17|701|<span class="rank-name-dl">ちえげ Punks</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
-|18|696|<span class="rank-name-dl">れなしゃん</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
-|19|644|<span class="rank-name-dl">ぱつこ^^</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
+|6|1002|<span class="rank-name-dl">D@I 酒乱人</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
+|7|997|<span class="rank-name-dl">もりけん</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
+|7|997|<span class="rank-name-dl">りょーすけ</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
+|9|960|<span class="rank-name-dl">しっもゃん。2</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
+|10|956|<span class="rank-name-dl">外村亮祐</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
+|11|945|<span class="rank-name-dl">ライジングリナ</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
+|12|944|<span class="rank-name-dl">D@I酒乱人</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
+|13|841|<span class="rank-name-dl">☆みな☆</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
+|14|789|<span class="rank-name-dl">ちゃんみ</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
+|15|714|<span class="rank-name-dl">ブロッコリー山田</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
+|16|701|<span class="rank-name-dl">ちえげ Punks</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
+|17|696|<span class="rank-name-dl">れなしゃん</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
+|18|682|<span class="rank-name-dl">☆BMB☆ちえげ☆</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
+|19|668|<span class="rank-name-dl">ぱつこ^^</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
 |20|556|<span class="rank-name-dl">とくしまかな</span>|<a href="https://search.dartslive.com/jp/shop/bbdd2dceaed5b2cff454cb89828a1cfe">FOOD&BAR ONLY</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
 |21|540|<span class="rank-name-dl">Rie</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|
 |22|528|<span class="rank-name-dl">みくえいと</span>|<a href="https://search.dartslive.com/jp/shop/b87f92176dceafdd58d385ea46352d8f">Sound & Darts Punks Cafe</a>|<a href="/darts/rank/滋賀県/湖南市">滋賀県湖南市</a>|

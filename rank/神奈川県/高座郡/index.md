@@ -38,21 +38,24 @@ ___
 |13|931|<span class="rank-name-dl">鳥居塚 優斗</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
 |14|911|<span class="rank-name-dl">♠️あらけん♠️</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
 |15|905|<span class="rank-name-dl">けいち</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|16|815|<span class="rank-name-dl">Haruka</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|17|774|<span class="rank-name-dl">佐藤　唯</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|18|755|<span class="rank-name-dl">むち子</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|19|726|<span class="rank-name-dl">りほ</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|20|706|<span class="rank-name-dl">Jumi@LPS</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|21|689|<span class="rank-name-dl">るな@LPS</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|22|610|<span class="rank-name-dl">るなLPSクリパ</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|23|587|<span class="rank-name-dl">ぎゃんどら</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|24|563|<span class="rank-name-dl">ゆかさん</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|25|558|<span class="rank-name-dl">せとりな</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|26|554|<span class="rank-name-dl">悪玉　雪之助</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|27|524|<span class="rank-name-dl">♧TOMOKA♡</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|28|504|<span class="rank-name-dl">まゆです</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|29|499|<span class="rank-name-dl">。。Jumi　。。</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|30|482|<span class="rank-name-dl">ミナ</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|16|836|<span class="rank-name-dl">曽我俊輔 &quot;爆音&quot;</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|17|829|<span class="rank-name-dl">Haruka</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|18|774|<span class="rank-name-dl">佐藤　唯</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|19|755|<span class="rank-name-dl">むち子</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|20|726|<span class="rank-name-dl">りほ</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|21|706|<span class="rank-name-dl">Jumi@LPS</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|22|689|<span class="rank-name-dl">るな@LPS</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|23|653|<span class="rank-name-dl">Yopi</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|24|610|<span class="rank-name-dl">るなLPSクリパ</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|25|603|<span class="rank-name-dl">satoMINMI☆L20tH</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|26|587|<span class="rank-name-dl">ぎゃんどら</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|27|572|<span class="rank-name-dl">ミナ</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|28|563|<span class="rank-name-dl">ゆかさん</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|29|558|<span class="rank-name-dl">せとりな</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|30|554|<span class="rank-name-dl">悪玉　雪之助</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|31|524|<span class="rank-name-dl">♧TOMOKA♡</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|32|504|<span class="rank-name-dl">まゆです</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|33|499|<span class="rank-name-dl">。。Jumi　。。</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -77,21 +80,24 @@ ___
 |13|931|<span class="rank-name-dl">鳥居塚 優斗</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
 |14|911|<span class="rank-name-dl">♠️あらけん♠️</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
 |15|905|<span class="rank-name-dl">けいち</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|16|815|<span class="rank-name-dl">Haruka</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|17|774|<span class="rank-name-dl">佐藤　唯</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|18|755|<span class="rank-name-dl">むち子</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|19|726|<span class="rank-name-dl">りほ</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|20|706|<span class="rank-name-dl">Jumi@LPS</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|21|689|<span class="rank-name-dl">るな@LPS</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|22|610|<span class="rank-name-dl">るなLPSクリパ</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|23|587|<span class="rank-name-dl">ぎゃんどら</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|24|563|<span class="rank-name-dl">ゆかさん</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|25|558|<span class="rank-name-dl">せとりな</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|26|554|<span class="rank-name-dl">悪玉　雪之助</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|27|524|<span class="rank-name-dl">♧TOMOKA♡</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|28|504|<span class="rank-name-dl">まゆです</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|29|499|<span class="rank-name-dl">。。Jumi　。。</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
-|30|482|<span class="rank-name-dl">ミナ</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|16|836|<span class="rank-name-dl">曽我俊輔 &quot;爆音&quot;</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|17|829|<span class="rank-name-dl">Haruka</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|18|774|<span class="rank-name-dl">佐藤　唯</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|19|755|<span class="rank-name-dl">むち子</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|20|726|<span class="rank-name-dl">りほ</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|21|706|<span class="rank-name-dl">Jumi@LPS</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|22|689|<span class="rank-name-dl">るな@LPS</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|23|653|<span class="rank-name-dl">Yopi</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|24|610|<span class="rank-name-dl">るなLPSクリパ</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|25|603|<span class="rank-name-dl">satoMINMI☆L20tH</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|26|587|<span class="rank-name-dl">ぎゃんどら</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|27|572|<span class="rank-name-dl">ミナ</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|28|563|<span class="rank-name-dl">ゆかさん</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|29|558|<span class="rank-name-dl">せとりな</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|30|554|<span class="rank-name-dl">悪玉　雪之助</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|31|524|<span class="rank-name-dl">♧TOMOKA♡</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|32|504|<span class="rank-name-dl">まゆです</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
+|33|499|<span class="rank-name-dl">。。Jumi　。。</span>|<a href="https://search.dartslive.com/jp/shop/e8af759f9744aa2a0d9b047a20a7ba1e">リバティポートスペース</a>|<a href="/darts/rank/神奈川県/高座郡">神奈川県高座郡</a>|
 
 
 #### PHOENIXDARTS TOP 100

@@ -24,30 +24,30 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|922|<span class="rank-name-pd">とうゆ うどんこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72770?s_seq=72770">Sports Bar BB</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
-|2|860|<span class="rank-name-pd">小林 知孝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72770?s_seq=72770">Sports Bar BB</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
+|2|860|<span class="rank-name-pd"><span class="pro-icon-pd"></span>小林 知孝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72770?s_seq=72770">Sports Bar BB</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
 |3|831|<span class="rank-name-dl">とうゆ うどんこ</span>|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
 |4|808|<span class="rank-name-dl">さとぅ</span>|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
 |5|784|<span class="rank-name-pd">ケンズ@Lallapalooza</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72770?s_seq=72770">Sports Bar BB</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
 |6|765|<span class="rank-name-dl">KENZ@ﾗﾗﾊﾟﾙｰｻﾞ@BB</span>|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
-|7|752|<span class="rank-name-dl">SPORTS BAR B.B</span>|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
-|8|745|<span class="rank-name-dl">りょうだよ。</span>|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
-|9|724|<span class="rank-name-dl">かつおっぱい</span>|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
-|10|718|<span class="rank-name-pd">0207_5793</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72770?s_seq=72770">Sports Bar BB</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
-|11|683|<span class="rank-name-pd">DUCK KING</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72770?s_seq=72770">Sports Bar BB</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
-|12|676|<span class="rank-name-dl">りんごあめ</span>|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
-|13|672|<span class="rank-name-dl">ｳﾙﾄﾗﾏﾝ国際クラブ</span>|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
-|14|668|<span class="rank-name-dl">jujuマス</span>|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
-|15|657|<span class="rank-name-dl">オガ</span>|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
-|16|623|<span class="rank-name-pd">2000</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72770?s_seq=72770">Sports Bar BB</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
-|16|623|<span class="rank-name-pd">KOU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72770?s_seq=72770">Sports Bar BB</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
-|18|611|<span class="rank-name-dl">KK</span>|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
-|19|590|<span class="rank-name-dl">ひでまる</span>|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
-|20|556|<span class="rank-name-pd">まる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72770?s_seq=72770">Sports Bar BB</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
-|21|538|<span class="rank-name-dl">(・ω・)</span>|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
-|22|533|<span class="rank-name-dl">肉玉ｺﾚｽﾃﾛｰﾙ</span>|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
-|23|523|<span class="rank-name-dl">아유무</span>|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
-|24|519|<span class="rank-name-pd">おりょ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72770?s_seq=72770">Sports Bar BB</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
-|25|517|<span class="rank-name-dl">トーレス</span>|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
+|7|754|<span class="rank-name-dl">ぶためし@Lev.</span>|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
+|8|752|<span class="rank-name-dl">SPORTS BAR B.B</span>|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
+|9|745|<span class="rank-name-dl">りょうだよ。</span>|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
+|10|724|<span class="rank-name-dl">かつおっぱい</span>|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
+|11|721|<span class="rank-name-dl">ｳﾙﾄﾗﾏﾝ国際クラブ</span>|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
+|12|718|<span class="rank-name-pd">0207_5793</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72770?s_seq=72770">Sports Bar BB</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
+|13|685|<span class="rank-name-dl">jujuマス</span>|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
+|14|683|<span class="rank-name-pd">DUCK KING</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72770?s_seq=72770">Sports Bar BB</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
+|15|678|<span class="rank-name-dl">すがでやんす</span>|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
+|16|676|<span class="rank-name-dl">りんごあめ</span>|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
+|17|657|<span class="rank-name-dl">オガ</span>|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
+|18|623|<span class="rank-name-pd">2000</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72770?s_seq=72770">Sports Bar BB</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
+|18|623|<span class="rank-name-pd">KOU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72770?s_seq=72770">Sports Bar BB</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
+|20|611|<span class="rank-name-dl">KK</span>|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
+|21|590|<span class="rank-name-dl">ひでまる</span>|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
+|22|556|<span class="rank-name-pd">まる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72770?s_seq=72770">Sports Bar BB</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
+|23|538|<span class="rank-name-dl">(・ω・)</span>|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
+|24|533|<span class="rank-name-dl">肉玉ｺﾚｽﾃﾛｰﾙ</span>|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
+|25|519|<span class="rank-name-pd">おりょ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72770?s_seq=72770">Sports Bar BB</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
 |26|510|<span class="rank-name-dl">K</span>|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
 |27|496|<span class="rank-name-pd">かつお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72770?s_seq=72770">Sports Bar BB</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
 |28|493|<span class="rank-name-pd">乾燥ウエットティッシュ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72770?s_seq=72770">Sports Bar BB</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
@@ -71,19 +71,19 @@ ___
 |1|831|<span class="rank-name-dl">とうゆ うどんこ</span>|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
 |2|808|<span class="rank-name-dl">さとぅ</span>|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
 |3|765|<span class="rank-name-dl">KENZ@ﾗﾗﾊﾟﾙｰｻﾞ@BB</span>|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
-|4|752|<span class="rank-name-dl">SPORTS BAR B.B</span>|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
-|5|745|<span class="rank-name-dl">りょうだよ。</span>|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
-|6|724|<span class="rank-name-dl">かつおっぱい</span>|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
-|7|676|<span class="rank-name-dl">りんごあめ</span>|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
-|8|672|<span class="rank-name-dl">ｳﾙﾄﾗﾏﾝ国際クラブ</span>|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
-|9|668|<span class="rank-name-dl">jujuマス</span>|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
-|10|657|<span class="rank-name-dl">オガ</span>|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
-|11|611|<span class="rank-name-dl">KK</span>|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
-|12|590|<span class="rank-name-dl">ひでまる</span>|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
-|13|538|<span class="rank-name-dl">(・ω・)</span>|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
-|14|533|<span class="rank-name-dl">肉玉ｺﾚｽﾃﾛｰﾙ</span>|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
-|15|523|<span class="rank-name-dl">아유무</span>|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
-|16|517|<span class="rank-name-dl">トーレス</span>|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
+|4|754|<span class="rank-name-dl">ぶためし@Lev.</span>|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
+|5|752|<span class="rank-name-dl">SPORTS BAR B.B</span>|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
+|6|745|<span class="rank-name-dl">りょうだよ。</span>|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
+|7|724|<span class="rank-name-dl">かつおっぱい</span>|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
+|8|721|<span class="rank-name-dl">ｳﾙﾄﾗﾏﾝ国際クラブ</span>|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
+|9|685|<span class="rank-name-dl">jujuマス</span>|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
+|10|678|<span class="rank-name-dl">すがでやんす</span>|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
+|11|676|<span class="rank-name-dl">りんごあめ</span>|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
+|12|657|<span class="rank-name-dl">オガ</span>|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
+|13|611|<span class="rank-name-dl">KK</span>|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
+|14|590|<span class="rank-name-dl">ひでまる</span>|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
+|15|538|<span class="rank-name-dl">(・ω・)</span>|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
+|16|533|<span class="rank-name-dl">肉玉ｺﾚｽﾃﾛｰﾙ</span>|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
 |17|510|<span class="rank-name-dl">K</span>|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
 |18|462|<span class="rank-name-dl">A</span>|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
 |19|294|<span class="rank-name-dl">mako</span>|<a href="https://search.dartslive.com/jp/shop/b7a14654ad784d030d9b047a20a7ba1e">B・B</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
@@ -98,7 +98,7 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|922|<span class="rank-name-pd">とうゆ うどんこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72770?s_seq=72770">Sports Bar BB</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
-|2|860|<span class="rank-name-pd">小林 知孝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72770?s_seq=72770">Sports Bar BB</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
+|2|860|<span class="rank-name-pd"><span class="pro-icon-pd"></span>小林 知孝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72770?s_seq=72770">Sports Bar BB</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
 |3|784|<span class="rank-name-pd">ケンズ@Lallapalooza</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72770?s_seq=72770">Sports Bar BB</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
 |4|718|<span class="rank-name-pd">0207_5793</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72770?s_seq=72770">Sports Bar BB</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|
 |5|683|<span class="rank-name-pd">DUCK KING</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72770?s_seq=72770">Sports Bar BB</a>|<a href="/darts/rank/埼玉県/飯能市">埼玉県飯能市</a>|

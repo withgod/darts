@@ -47,24 +47,25 @@ ___
 |22|665|<span class="rank-name-pd">みーちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69661?s_seq=69661">T's</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
 |23|658|<span class="rank-name-dl">Miura</span>|<a href="https://search.dartslive.com/jp/shop/d562d39067e94db1a3f63593b5358cc4">Charm BAR</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
 |24|645|<span class="rank-name-dl">ユウキ</span>|<a href="https://search.dartslive.com/jp/shop/d562d39067e94db1a3f63593b5358cc4">Charm BAR</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
-|25|631|<span class="rank-name-dl">KURUMI</span>|<a href="https://search.dartslive.com/jp/shop/d562d39067e94db1a3f63593b5358cc4">Charm BAR</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
-|26|615|<span class="rank-name-dl">ゆうか</span>|<a href="https://search.dartslive.com/jp/shop/d562d39067e94db1a3f63593b5358cc4">Charm BAR</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
-|27|614|<span class="rank-name-pd">たいき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69661?s_seq=69661">T's</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
-|28|576|<span class="rank-name-pd">Y05H1KUN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69661?s_seq=69661">T's</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
-|29|560|<span class="rank-name-pd">KASUMI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69661?s_seq=69661">T's</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
-|30|535|<span class="rank-name-dl">dula@コネホ</span>|<a href="https://search.dartslive.com/jp/shop/d562d39067e94db1a3f63593b5358cc4">Charm BAR</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
-|31|518|<span class="rank-name-pd">kana</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69661?s_seq=69661">T's</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
-|32|502|<span class="rank-name-pd">Yukiho</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69661?s_seq=69661">T's</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
-|33|495|<span class="rank-name-pd">BUNBUN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69661?s_seq=69661">T's</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
-|34|461|<span class="rank-name-dl">ばけもよ</span>|<a href="https://search.dartslive.com/jp/shop/d562d39067e94db1a3f63593b5358cc4">Charm BAR</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
+|25|615|<span class="rank-name-dl">ゆうか</span>|<a href="https://search.dartslive.com/jp/shop/d562d39067e94db1a3f63593b5358cc4">Charm BAR</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
+|26|614|<span class="rank-name-pd">たいき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69661?s_seq=69661">T's</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
+|27|576|<span class="rank-name-pd">Y05H1KUN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69661?s_seq=69661">T's</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
+|28|560|<span class="rank-name-pd">KASUMI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69661?s_seq=69661">T's</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
+|29|535|<span class="rank-name-dl">dula@コネホ</span>|<a href="https://search.dartslive.com/jp/shop/d562d39067e94db1a3f63593b5358cc4">Charm BAR</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
+|30|518|<span class="rank-name-pd">kana</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69661?s_seq=69661">T's</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
+|31|502|<span class="rank-name-pd">Yukiho</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69661?s_seq=69661">T's</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
+|32|495|<span class="rank-name-pd">BUNBUN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69661?s_seq=69661">T's</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
+|33|461|<span class="rank-name-dl">ばけもよ</span>|<a href="https://search.dartslive.com/jp/shop/d562d39067e94db1a3f63593b5358cc4">Charm BAR</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
+|34|452|<span class="rank-name-pd">カード</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69661?s_seq=69661">T's</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
 |35|451|<span class="rank-name-pd">yuuka@charm BAR</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69661?s_seq=69661">T's</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
 |35|451|<span class="rank-name-dl">りこ</span>|<a href="https://search.dartslive.com/jp/shop/d562d39067e94db1a3f63593b5358cc4">Charm BAR</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
 |37|434|<span class="rank-name-pd">MIYABI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69661?s_seq=69661">T's</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
 |38|422|<span class="rank-name-pd">TANAKA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69661?s_seq=69661">T's</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
 |39|406|<span class="rank-name-pd">kaoru</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69661?s_seq=69661">T's</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
 |40|395|<span class="rank-name-pd">ゆき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69661?s_seq=69661">T's</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
-|41|350|<span class="rank-name-pd">サトミ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69661?s_seq=69661">T's</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
-|42|340|<span class="rank-name-dl">♡dula♡</span>|<a href="https://search.dartslive.com/jp/shop/d562d39067e94db1a3f63593b5358cc4">Charm BAR</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
+|41|394|<span class="rank-name-dl">kotomiya.</span>|<a href="https://search.dartslive.com/jp/shop/d562d39067e94db1a3f63593b5358cc4">Charm BAR</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
+|42|350|<span class="rank-name-pd">サトミ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69661?s_seq=69661">T's</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
+|43|340|<span class="rank-name-dl">♡dula♡</span>|<a href="https://search.dartslive.com/jp/shop/d562d39067e94db1a3f63593b5358cc4">Charm BAR</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -89,11 +90,11 @@ ___
 |13|687|<span class="rank-name-dl">月</span>|<a href="https://search.dartslive.com/jp/shop/d562d39067e94db1a3f63593b5358cc4">Charm BAR</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
 |14|658|<span class="rank-name-dl">Miura</span>|<a href="https://search.dartslive.com/jp/shop/d562d39067e94db1a3f63593b5358cc4">Charm BAR</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
 |15|645|<span class="rank-name-dl">ユウキ</span>|<a href="https://search.dartslive.com/jp/shop/d562d39067e94db1a3f63593b5358cc4">Charm BAR</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
-|16|631|<span class="rank-name-dl">KURUMI</span>|<a href="https://search.dartslive.com/jp/shop/d562d39067e94db1a3f63593b5358cc4">Charm BAR</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
-|17|615|<span class="rank-name-dl">ゆうか</span>|<a href="https://search.dartslive.com/jp/shop/d562d39067e94db1a3f63593b5358cc4">Charm BAR</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
-|18|535|<span class="rank-name-dl">dula@コネホ</span>|<a href="https://search.dartslive.com/jp/shop/d562d39067e94db1a3f63593b5358cc4">Charm BAR</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
-|19|461|<span class="rank-name-dl">ばけもよ</span>|<a href="https://search.dartslive.com/jp/shop/d562d39067e94db1a3f63593b5358cc4">Charm BAR</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
-|20|451|<span class="rank-name-dl">りこ</span>|<a href="https://search.dartslive.com/jp/shop/d562d39067e94db1a3f63593b5358cc4">Charm BAR</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
+|16|615|<span class="rank-name-dl">ゆうか</span>|<a href="https://search.dartslive.com/jp/shop/d562d39067e94db1a3f63593b5358cc4">Charm BAR</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
+|17|535|<span class="rank-name-dl">dula@コネホ</span>|<a href="https://search.dartslive.com/jp/shop/d562d39067e94db1a3f63593b5358cc4">Charm BAR</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
+|18|461|<span class="rank-name-dl">ばけもよ</span>|<a href="https://search.dartslive.com/jp/shop/d562d39067e94db1a3f63593b5358cc4">Charm BAR</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
+|19|451|<span class="rank-name-dl">りこ</span>|<a href="https://search.dartslive.com/jp/shop/d562d39067e94db1a3f63593b5358cc4">Charm BAR</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
+|20|394|<span class="rank-name-dl">kotomiya.</span>|<a href="https://search.dartslive.com/jp/shop/d562d39067e94db1a3f63593b5358cc4">Charm BAR</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
 |21|340|<span class="rank-name-dl">♡dula♡</span>|<a href="https://search.dartslive.com/jp/shop/d562d39067e94db1a3f63593b5358cc4">Charm BAR</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
 
 
@@ -119,12 +120,13 @@ ___
 |13|518|<span class="rank-name-pd">kana</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69661?s_seq=69661">T's</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
 |14|502|<span class="rank-name-pd">Yukiho</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69661?s_seq=69661">T's</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
 |15|495|<span class="rank-name-pd">BUNBUN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69661?s_seq=69661">T's</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
-|16|451|<span class="rank-name-pd">yuuka@charm BAR</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69661?s_seq=69661">T's</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
-|17|434|<span class="rank-name-pd">MIYABI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69661?s_seq=69661">T's</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
-|18|422|<span class="rank-name-pd">TANAKA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69661?s_seq=69661">T's</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
-|19|406|<span class="rank-name-pd">kaoru</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69661?s_seq=69661">T's</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
-|20|395|<span class="rank-name-pd">ゆき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69661?s_seq=69661">T's</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
-|21|350|<span class="rank-name-pd">サトミ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69661?s_seq=69661">T's</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
+|16|452|<span class="rank-name-pd">カード</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69661?s_seq=69661">T's</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
+|17|451|<span class="rank-name-pd">yuuka@charm BAR</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69661?s_seq=69661">T's</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
+|18|434|<span class="rank-name-pd">MIYABI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69661?s_seq=69661">T's</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
+|19|422|<span class="rank-name-pd">TANAKA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69661?s_seq=69661">T's</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
+|20|406|<span class="rank-name-pd">kaoru</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69661?s_seq=69661">T's</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
+|21|395|<span class="rank-name-pd">ゆき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69661?s_seq=69661">T's</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
+|22|350|<span class="rank-name-pd">サトミ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69661?s_seq=69661">T's</a>|<a href="/darts/rank/大阪府/三島郡">大阪府三島郡</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

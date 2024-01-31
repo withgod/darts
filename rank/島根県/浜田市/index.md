@@ -23,7 +23,7 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|860|<span class="rank-name-dl">ますくまーん</span>|<a href="https://search.dartslive.com/jp/shop/c84312fd215c1f92fec1ae84bb28bd87">Hat</a>|<a href="/darts/rank/島根県/浜田市">島根県浜田市</a>|
+|1|883|<span class="rank-name-dl">ますくまーん</span>|<a href="https://search.dartslive.com/jp/shop/c84312fd215c1f92fec1ae84bb28bd87">Hat</a>|<a href="/darts/rank/島根県/浜田市">島根県浜田市</a>|
 |2|809|<span class="rank-name-dl">sideハゲ</span>|<a href="https://search.dartslive.com/jp/shop/c84312fd215c1f92fec1ae84bb28bd87">Hat</a>|<a href="/darts/rank/島根県/浜田市">島根県浜田市</a>|
 |3|799|<span class="rank-name-dl">ちゃんちろ</span>|<a href="https://search.dartslive.com/jp/shop/c84312fd215c1f92fec1ae84bb28bd87">Hat</a>|<a href="/darts/rank/島根県/浜田市">島根県浜田市</a>|
 |4|792|<span class="rank-name-dl">†Джокер†</span>|<a href="https://search.dartslive.com/jp/shop/c84312fd215c1f92fec1ae84bb28bd87">Hat</a>|<a href="/darts/rank/島根県/浜田市">島根県浜田市</a>|
@@ -31,15 +31,14 @@ ___
 |5|752|<span class="rank-name-dl">TOMO</span>|<a href="https://search.dartslive.com/jp/shop/c84312fd215c1f92fec1ae84bb28bd87">Hat</a>|<a href="/darts/rank/島根県/浜田市">島根県浜田市</a>|
 |7|729|<span class="rank-name-dl">mitsu</span>|<a href="https://search.dartslive.com/jp/shop/c84312fd215c1f92fec1ae84bb28bd87">Hat</a>|<a href="/darts/rank/島根県/浜田市">島根県浜田市</a>|
 |8|668|<span class="rank-name-dl">NO NAME 2119</span>|<a href="https://search.dartslive.com/jp/shop/c84312fd215c1f92fec1ae84bb28bd87">Hat</a>|<a href="/darts/rank/島根県/浜田市">島根県浜田市</a>|
-|9|618|<span class="rank-name-dl">jun</span>|<a href="https://search.dartslive.com/jp/shop/c84312fd215c1f92fec1ae84bb28bd87">Hat</a>|<a href="/darts/rank/島根県/浜田市">島根県浜田市</a>|
-|10|606|<span class="rank-name-dl">Ｆantastic☆Ｒyo</span>|<a href="https://search.dartslive.com/jp/shop/c84312fd215c1f92fec1ae84bb28bd87">Hat</a>|<a href="/darts/rank/島根県/浜田市">島根県浜田市</a>|
-|11|602|<span class="rank-name-dl">saTONsee</span>|<a href="https://search.dartslive.com/jp/shop/c84312fd215c1f92fec1ae84bb28bd87">Hat</a>|<a href="/darts/rank/島根県/浜田市">島根県浜田市</a>|
-|11|602|<span class="rank-name-dl">たんきたぬき。</span>|<a href="https://search.dartslive.com/jp/shop/c84312fd215c1f92fec1ae84bb28bd87">Hat</a>|<a href="/darts/rank/島根県/浜田市">島根県浜田市</a>|
-|13|549|<span class="rank-name-dl">あいりやねんなぁ</span>|<a href="https://search.dartslive.com/jp/shop/c84312fd215c1f92fec1ae84bb28bd87">Hat</a>|<a href="/darts/rank/島根県/浜田市">島根県浜田市</a>|
-|14|473|<span class="rank-name-dl">かめ</span>|<a href="https://search.dartslive.com/jp/shop/c84312fd215c1f92fec1ae84bb28bd87">Hat</a>|<a href="/darts/rank/島根県/浜田市">島根県浜田市</a>|
-|15|380|<span class="rank-name-dl">みすず</span>|<a href="https://search.dartslive.com/jp/shop/c84312fd215c1f92fec1ae84bb28bd87">Hat</a>|<a href="/darts/rank/島根県/浜田市">島根県浜田市</a>|
-|16|331|<span class="rank-name-dl">ヴァイオレット</span>|<a href="https://search.dartslive.com/jp/shop/c84312fd215c1f92fec1ae84bb28bd87">Hat</a>|<a href="/darts/rank/島根県/浜田市">島根県浜田市</a>|
-|17|314|<span class="rank-name-dl">生豚足大ザムライ</span>|<a href="https://search.dartslive.com/jp/shop/c84312fd215c1f92fec1ae84bb28bd87">Hat</a>|<a href="/darts/rank/島根県/浜田市">島根県浜田市</a>|
+|9|639|<span class="rank-name-dl">かめ</span>|<a href="https://search.dartslive.com/jp/shop/c84312fd215c1f92fec1ae84bb28bd87">Hat</a>|<a href="/darts/rank/島根県/浜田市">島根県浜田市</a>|
+|10|635|<span class="rank-name-dl">Джокер</span>|<a href="https://search.dartslive.com/jp/shop/c84312fd215c1f92fec1ae84bb28bd87">Hat</a>|<a href="/darts/rank/島根県/浜田市">島根県浜田市</a>|
+|11|618|<span class="rank-name-dl">jun</span>|<a href="https://search.dartslive.com/jp/shop/c84312fd215c1f92fec1ae84bb28bd87">Hat</a>|<a href="/darts/rank/島根県/浜田市">島根県浜田市</a>|
+|12|606|<span class="rank-name-dl">Ｆantastic☆Ｒyo</span>|<a href="https://search.dartslive.com/jp/shop/c84312fd215c1f92fec1ae84bb28bd87">Hat</a>|<a href="/darts/rank/島根県/浜田市">島根県浜田市</a>|
+|13|602|<span class="rank-name-dl">saTONsee</span>|<a href="https://search.dartslive.com/jp/shop/c84312fd215c1f92fec1ae84bb28bd87">Hat</a>|<a href="/darts/rank/島根県/浜田市">島根県浜田市</a>|
+|13|602|<span class="rank-name-dl">たんきたぬき。</span>|<a href="https://search.dartslive.com/jp/shop/c84312fd215c1f92fec1ae84bb28bd87">Hat</a>|<a href="/darts/rank/島根県/浜田市">島根県浜田市</a>|
+|15|549|<span class="rank-name-dl">あいりやねんなぁ</span>|<a href="https://search.dartslive.com/jp/shop/c84312fd215c1f92fec1ae84bb28bd87">Hat</a>|<a href="/darts/rank/島根県/浜田市">島根県浜田市</a>|
+|16|380|<span class="rank-name-dl">みすず</span>|<a href="https://search.dartslive.com/jp/shop/c84312fd215c1f92fec1ae84bb28bd87">Hat</a>|<a href="/darts/rank/島根県/浜田市">島根県浜田市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -49,7 +48,7 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|860|<span class="rank-name-dl">ますくまーん</span>|<a href="https://search.dartslive.com/jp/shop/c84312fd215c1f92fec1ae84bb28bd87">Hat</a>|<a href="/darts/rank/島根県/浜田市">島根県浜田市</a>|
+|1|883|<span class="rank-name-dl">ますくまーん</span>|<a href="https://search.dartslive.com/jp/shop/c84312fd215c1f92fec1ae84bb28bd87">Hat</a>|<a href="/darts/rank/島根県/浜田市">島根県浜田市</a>|
 |2|809|<span class="rank-name-dl">sideハゲ</span>|<a href="https://search.dartslive.com/jp/shop/c84312fd215c1f92fec1ae84bb28bd87">Hat</a>|<a href="/darts/rank/島根県/浜田市">島根県浜田市</a>|
 |3|799|<span class="rank-name-dl">ちゃんちろ</span>|<a href="https://search.dartslive.com/jp/shop/c84312fd215c1f92fec1ae84bb28bd87">Hat</a>|<a href="/darts/rank/島根県/浜田市">島根県浜田市</a>|
 |4|792|<span class="rank-name-dl">†Джокер†</span>|<a href="https://search.dartslive.com/jp/shop/c84312fd215c1f92fec1ae84bb28bd87">Hat</a>|<a href="/darts/rank/島根県/浜田市">島根県浜田市</a>|
@@ -57,15 +56,14 @@ ___
 |5|752|<span class="rank-name-dl">TOMO</span>|<a href="https://search.dartslive.com/jp/shop/c84312fd215c1f92fec1ae84bb28bd87">Hat</a>|<a href="/darts/rank/島根県/浜田市">島根県浜田市</a>|
 |7|729|<span class="rank-name-dl">mitsu</span>|<a href="https://search.dartslive.com/jp/shop/c84312fd215c1f92fec1ae84bb28bd87">Hat</a>|<a href="/darts/rank/島根県/浜田市">島根県浜田市</a>|
 |8|668|<span class="rank-name-dl">NO NAME 2119</span>|<a href="https://search.dartslive.com/jp/shop/c84312fd215c1f92fec1ae84bb28bd87">Hat</a>|<a href="/darts/rank/島根県/浜田市">島根県浜田市</a>|
-|9|618|<span class="rank-name-dl">jun</span>|<a href="https://search.dartslive.com/jp/shop/c84312fd215c1f92fec1ae84bb28bd87">Hat</a>|<a href="/darts/rank/島根県/浜田市">島根県浜田市</a>|
-|10|606|<span class="rank-name-dl">Ｆantastic☆Ｒyo</span>|<a href="https://search.dartslive.com/jp/shop/c84312fd215c1f92fec1ae84bb28bd87">Hat</a>|<a href="/darts/rank/島根県/浜田市">島根県浜田市</a>|
-|11|602|<span class="rank-name-dl">saTONsee</span>|<a href="https://search.dartslive.com/jp/shop/c84312fd215c1f92fec1ae84bb28bd87">Hat</a>|<a href="/darts/rank/島根県/浜田市">島根県浜田市</a>|
-|11|602|<span class="rank-name-dl">たんきたぬき。</span>|<a href="https://search.dartslive.com/jp/shop/c84312fd215c1f92fec1ae84bb28bd87">Hat</a>|<a href="/darts/rank/島根県/浜田市">島根県浜田市</a>|
-|13|549|<span class="rank-name-dl">あいりやねんなぁ</span>|<a href="https://search.dartslive.com/jp/shop/c84312fd215c1f92fec1ae84bb28bd87">Hat</a>|<a href="/darts/rank/島根県/浜田市">島根県浜田市</a>|
-|14|473|<span class="rank-name-dl">かめ</span>|<a href="https://search.dartslive.com/jp/shop/c84312fd215c1f92fec1ae84bb28bd87">Hat</a>|<a href="/darts/rank/島根県/浜田市">島根県浜田市</a>|
-|15|380|<span class="rank-name-dl">みすず</span>|<a href="https://search.dartslive.com/jp/shop/c84312fd215c1f92fec1ae84bb28bd87">Hat</a>|<a href="/darts/rank/島根県/浜田市">島根県浜田市</a>|
-|16|331|<span class="rank-name-dl">ヴァイオレット</span>|<a href="https://search.dartslive.com/jp/shop/c84312fd215c1f92fec1ae84bb28bd87">Hat</a>|<a href="/darts/rank/島根県/浜田市">島根県浜田市</a>|
-|17|314|<span class="rank-name-dl">生豚足大ザムライ</span>|<a href="https://search.dartslive.com/jp/shop/c84312fd215c1f92fec1ae84bb28bd87">Hat</a>|<a href="/darts/rank/島根県/浜田市">島根県浜田市</a>|
+|9|639|<span class="rank-name-dl">かめ</span>|<a href="https://search.dartslive.com/jp/shop/c84312fd215c1f92fec1ae84bb28bd87">Hat</a>|<a href="/darts/rank/島根県/浜田市">島根県浜田市</a>|
+|10|635|<span class="rank-name-dl">Джокер</span>|<a href="https://search.dartslive.com/jp/shop/c84312fd215c1f92fec1ae84bb28bd87">Hat</a>|<a href="/darts/rank/島根県/浜田市">島根県浜田市</a>|
+|11|618|<span class="rank-name-dl">jun</span>|<a href="https://search.dartslive.com/jp/shop/c84312fd215c1f92fec1ae84bb28bd87">Hat</a>|<a href="/darts/rank/島根県/浜田市">島根県浜田市</a>|
+|12|606|<span class="rank-name-dl">Ｆantastic☆Ｒyo</span>|<a href="https://search.dartslive.com/jp/shop/c84312fd215c1f92fec1ae84bb28bd87">Hat</a>|<a href="/darts/rank/島根県/浜田市">島根県浜田市</a>|
+|13|602|<span class="rank-name-dl">saTONsee</span>|<a href="https://search.dartslive.com/jp/shop/c84312fd215c1f92fec1ae84bb28bd87">Hat</a>|<a href="/darts/rank/島根県/浜田市">島根県浜田市</a>|
+|13|602|<span class="rank-name-dl">たんきたぬき。</span>|<a href="https://search.dartslive.com/jp/shop/c84312fd215c1f92fec1ae84bb28bd87">Hat</a>|<a href="/darts/rank/島根県/浜田市">島根県浜田市</a>|
+|15|549|<span class="rank-name-dl">あいりやねんなぁ</span>|<a href="https://search.dartslive.com/jp/shop/c84312fd215c1f92fec1ae84bb28bd87">Hat</a>|<a href="/darts/rank/島根県/浜田市">島根県浜田市</a>|
+|16|380|<span class="rank-name-dl">みすず</span>|<a href="https://search.dartslive.com/jp/shop/c84312fd215c1f92fec1ae84bb28bd87">Hat</a>|<a href="/darts/rank/島根県/浜田市">島根県浜田市</a>|
 
 
 #### PHOENIXDARTS TOP 100

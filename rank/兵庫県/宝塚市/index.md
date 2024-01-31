@@ -37,17 +37,16 @@ ___
 |12|858|<span class="rank-name-dl">morikatsu∞</span>|<a href="https://search.dartslive.com/jp/shop/213805e20b7cb1a00d9b047a20a7ba1e">パーティーマン</a>|<a href="/darts/rank/兵庫県/宝塚市">兵庫県宝塚市</a>|
 |13|855|<span class="rank-name-dl">yuto</span>|<a href="https://search.dartslive.com/jp/shop/213805e20b7cb1a00d9b047a20a7ba1e">パーティーマン</a>|<a href="/darts/rank/兵庫県/宝塚市">兵庫県宝塚市</a>|
 |14|843|<span class="rank-name-dl">☆ryosan@RouTe66</span>|<a href="https://search.dartslive.com/jp/shop/213805e20b7cb1a00d9b047a20a7ba1e">パーティーマン</a>|<a href="/darts/rank/兵庫県/宝塚市">兵庫県宝塚市</a>|
-|15|806|<span class="rank-name-dl">たこやき</span>|<a href="https://search.dartslive.com/jp/shop/213805e20b7cb1a00d9b047a20a7ba1e">パーティーマン</a>|<a href="/darts/rank/兵庫県/宝塚市">兵庫県宝塚市</a>|
-|16|793|<span class="rank-name-dl">ひら</span>|<a href="https://search.dartslive.com/jp/shop/213805e20b7cb1a00d9b047a20a7ba1e">パーティーマン</a>|<a href="/darts/rank/兵庫県/宝塚市">兵庫県宝塚市</a>|
-|17|765|<span class="rank-name-dl">ﾊﾟﾗﾀﾞｲｽ☆ｺﾞﾛｰNY</span>|<a href="https://search.dartslive.com/jp/shop/213805e20b7cb1a00d9b047a20a7ba1e">パーティーマン</a>|<a href="/darts/rank/兵庫県/宝塚市">兵庫県宝塚市</a>|
-|18|763|<span class="rank-name-dl">VVV</span>|<a href="https://search.dartslive.com/jp/shop/213805e20b7cb1a00d9b047a20a7ba1e">パーティーマン</a>|<a href="/darts/rank/兵庫県/宝塚市">兵庫県宝塚市</a>|
-|19|666|<span class="rank-name-dl">なあちゃん</span>|<a href="https://search.dartslive.com/jp/shop/213805e20b7cb1a00d9b047a20a7ba1e">パーティーマン</a>|<a href="/darts/rank/兵庫県/宝塚市">兵庫県宝塚市</a>|
-|20|630|<span class="rank-name-dl">♡ SHIORI.Y ♡</span>|<a href="https://search.dartslive.com/jp/shop/213805e20b7cb1a00d9b047a20a7ba1e">パーティーマン</a>|<a href="/darts/rank/兵庫県/宝塚市">兵庫県宝塚市</a>|
-|21|609|<span class="rank-name-dl">saki</span>|<a href="https://search.dartslive.com/jp/shop/213805e20b7cb1a00d9b047a20a7ba1e">パーティーマン</a>|<a href="/darts/rank/兵庫県/宝塚市">兵庫県宝塚市</a>|
-|22|594|<span class="rank-name-dl">ﾎﾟﾝｺﾂDAyu-@p-man</span>|<a href="https://search.dartslive.com/jp/shop/213805e20b7cb1a00d9b047a20a7ba1e">パーティーマン</a>|<a href="/darts/rank/兵庫県/宝塚市">兵庫県宝塚市</a>|
-|23|524|<span class="rank-name-dl">u-cha._.</span>|<a href="https://search.dartslive.com/jp/shop/213805e20b7cb1a00d9b047a20a7ba1e">パーティーマン</a>|<a href="/darts/rank/兵庫県/宝塚市">兵庫県宝塚市</a>|
-|24|424|<span class="rank-name-dl">karen</span>|<a href="https://search.dartslive.com/jp/shop/213805e20b7cb1a00d9b047a20a7ba1e">パーティーマン</a>|<a href="/darts/rank/兵庫県/宝塚市">兵庫県宝塚市</a>|
-|25|360|<span class="rank-name-dl">ERI</span>|<a href="https://search.dartslive.com/jp/shop/213805e20b7cb1a00d9b047a20a7ba1e">パーティーマン</a>|<a href="/darts/rank/兵庫県/宝塚市">兵庫県宝塚市</a>|
+|15|842|<span class="rank-name-dl">ﾊﾟﾗﾀﾞｲｽ☆ｺﾞﾛｰNY</span>|<a href="https://search.dartslive.com/jp/shop/213805e20b7cb1a00d9b047a20a7ba1e">パーティーマン</a>|<a href="/darts/rank/兵庫県/宝塚市">兵庫県宝塚市</a>|
+|16|806|<span class="rank-name-dl">たこやき</span>|<a href="https://search.dartslive.com/jp/shop/213805e20b7cb1a00d9b047a20a7ba1e">パーティーマン</a>|<a href="/darts/rank/兵庫県/宝塚市">兵庫県宝塚市</a>|
+|17|793|<span class="rank-name-dl">ひら</span>|<a href="https://search.dartslive.com/jp/shop/213805e20b7cb1a00d9b047a20a7ba1e">パーティーマン</a>|<a href="/darts/rank/兵庫県/宝塚市">兵庫県宝塚市</a>|
+|18|666|<span class="rank-name-dl">なあちゃん</span>|<a href="https://search.dartslive.com/jp/shop/213805e20b7cb1a00d9b047a20a7ba1e">パーティーマン</a>|<a href="/darts/rank/兵庫県/宝塚市">兵庫県宝塚市</a>|
+|19|630|<span class="rank-name-dl">♡ SHIORI.Y ♡</span>|<a href="https://search.dartslive.com/jp/shop/213805e20b7cb1a00d9b047a20a7ba1e">パーティーマン</a>|<a href="/darts/rank/兵庫県/宝塚市">兵庫県宝塚市</a>|
+|20|609|<span class="rank-name-dl">saki</span>|<a href="https://search.dartslive.com/jp/shop/213805e20b7cb1a00d9b047a20a7ba1e">パーティーマン</a>|<a href="/darts/rank/兵庫県/宝塚市">兵庫県宝塚市</a>|
+|21|594|<span class="rank-name-dl">ﾎﾟﾝｺﾂDAyu-@p-man</span>|<a href="https://search.dartslive.com/jp/shop/213805e20b7cb1a00d9b047a20a7ba1e">パーティーマン</a>|<a href="/darts/rank/兵庫県/宝塚市">兵庫県宝塚市</a>|
+|22|528|<span class="rank-name-dl">u-cha._.</span>|<a href="https://search.dartslive.com/jp/shop/213805e20b7cb1a00d9b047a20a7ba1e">パーティーマン</a>|<a href="/darts/rank/兵庫県/宝塚市">兵庫県宝塚市</a>|
+|23|424|<span class="rank-name-dl">karen</span>|<a href="https://search.dartslive.com/jp/shop/213805e20b7cb1a00d9b047a20a7ba1e">パーティーマン</a>|<a href="/darts/rank/兵庫県/宝塚市">兵庫県宝塚市</a>|
+|24|360|<span class="rank-name-dl">ERI</span>|<a href="https://search.dartslive.com/jp/shop/213805e20b7cb1a00d9b047a20a7ba1e">パーティーマン</a>|<a href="/darts/rank/兵庫県/宝塚市">兵庫県宝塚市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -71,17 +70,16 @@ ___
 |12|858|<span class="rank-name-dl">morikatsu∞</span>|<a href="https://search.dartslive.com/jp/shop/213805e20b7cb1a00d9b047a20a7ba1e">パーティーマン</a>|<a href="/darts/rank/兵庫県/宝塚市">兵庫県宝塚市</a>|
 |13|855|<span class="rank-name-dl">yuto</span>|<a href="https://search.dartslive.com/jp/shop/213805e20b7cb1a00d9b047a20a7ba1e">パーティーマン</a>|<a href="/darts/rank/兵庫県/宝塚市">兵庫県宝塚市</a>|
 |14|843|<span class="rank-name-dl">☆ryosan@RouTe66</span>|<a href="https://search.dartslive.com/jp/shop/213805e20b7cb1a00d9b047a20a7ba1e">パーティーマン</a>|<a href="/darts/rank/兵庫県/宝塚市">兵庫県宝塚市</a>|
-|15|806|<span class="rank-name-dl">たこやき</span>|<a href="https://search.dartslive.com/jp/shop/213805e20b7cb1a00d9b047a20a7ba1e">パーティーマン</a>|<a href="/darts/rank/兵庫県/宝塚市">兵庫県宝塚市</a>|
-|16|793|<span class="rank-name-dl">ひら</span>|<a href="https://search.dartslive.com/jp/shop/213805e20b7cb1a00d9b047a20a7ba1e">パーティーマン</a>|<a href="/darts/rank/兵庫県/宝塚市">兵庫県宝塚市</a>|
-|17|765|<span class="rank-name-dl">ﾊﾟﾗﾀﾞｲｽ☆ｺﾞﾛｰNY</span>|<a href="https://search.dartslive.com/jp/shop/213805e20b7cb1a00d9b047a20a7ba1e">パーティーマン</a>|<a href="/darts/rank/兵庫県/宝塚市">兵庫県宝塚市</a>|
-|18|763|<span class="rank-name-dl">VVV</span>|<a href="https://search.dartslive.com/jp/shop/213805e20b7cb1a00d9b047a20a7ba1e">パーティーマン</a>|<a href="/darts/rank/兵庫県/宝塚市">兵庫県宝塚市</a>|
-|19|666|<span class="rank-name-dl">なあちゃん</span>|<a href="https://search.dartslive.com/jp/shop/213805e20b7cb1a00d9b047a20a7ba1e">パーティーマン</a>|<a href="/darts/rank/兵庫県/宝塚市">兵庫県宝塚市</a>|
-|20|630|<span class="rank-name-dl">♡ SHIORI.Y ♡</span>|<a href="https://search.dartslive.com/jp/shop/213805e20b7cb1a00d9b047a20a7ba1e">パーティーマン</a>|<a href="/darts/rank/兵庫県/宝塚市">兵庫県宝塚市</a>|
-|21|609|<span class="rank-name-dl">saki</span>|<a href="https://search.dartslive.com/jp/shop/213805e20b7cb1a00d9b047a20a7ba1e">パーティーマン</a>|<a href="/darts/rank/兵庫県/宝塚市">兵庫県宝塚市</a>|
-|22|594|<span class="rank-name-dl">ﾎﾟﾝｺﾂDAyu-@p-man</span>|<a href="https://search.dartslive.com/jp/shop/213805e20b7cb1a00d9b047a20a7ba1e">パーティーマン</a>|<a href="/darts/rank/兵庫県/宝塚市">兵庫県宝塚市</a>|
-|23|524|<span class="rank-name-dl">u-cha._.</span>|<a href="https://search.dartslive.com/jp/shop/213805e20b7cb1a00d9b047a20a7ba1e">パーティーマン</a>|<a href="/darts/rank/兵庫県/宝塚市">兵庫県宝塚市</a>|
-|24|424|<span class="rank-name-dl">karen</span>|<a href="https://search.dartslive.com/jp/shop/213805e20b7cb1a00d9b047a20a7ba1e">パーティーマン</a>|<a href="/darts/rank/兵庫県/宝塚市">兵庫県宝塚市</a>|
-|25|360|<span class="rank-name-dl">ERI</span>|<a href="https://search.dartslive.com/jp/shop/213805e20b7cb1a00d9b047a20a7ba1e">パーティーマン</a>|<a href="/darts/rank/兵庫県/宝塚市">兵庫県宝塚市</a>|
+|15|842|<span class="rank-name-dl">ﾊﾟﾗﾀﾞｲｽ☆ｺﾞﾛｰNY</span>|<a href="https://search.dartslive.com/jp/shop/213805e20b7cb1a00d9b047a20a7ba1e">パーティーマン</a>|<a href="/darts/rank/兵庫県/宝塚市">兵庫県宝塚市</a>|
+|16|806|<span class="rank-name-dl">たこやき</span>|<a href="https://search.dartslive.com/jp/shop/213805e20b7cb1a00d9b047a20a7ba1e">パーティーマン</a>|<a href="/darts/rank/兵庫県/宝塚市">兵庫県宝塚市</a>|
+|17|793|<span class="rank-name-dl">ひら</span>|<a href="https://search.dartslive.com/jp/shop/213805e20b7cb1a00d9b047a20a7ba1e">パーティーマン</a>|<a href="/darts/rank/兵庫県/宝塚市">兵庫県宝塚市</a>|
+|18|666|<span class="rank-name-dl">なあちゃん</span>|<a href="https://search.dartslive.com/jp/shop/213805e20b7cb1a00d9b047a20a7ba1e">パーティーマン</a>|<a href="/darts/rank/兵庫県/宝塚市">兵庫県宝塚市</a>|
+|19|630|<span class="rank-name-dl">♡ SHIORI.Y ♡</span>|<a href="https://search.dartslive.com/jp/shop/213805e20b7cb1a00d9b047a20a7ba1e">パーティーマン</a>|<a href="/darts/rank/兵庫県/宝塚市">兵庫県宝塚市</a>|
+|20|609|<span class="rank-name-dl">saki</span>|<a href="https://search.dartslive.com/jp/shop/213805e20b7cb1a00d9b047a20a7ba1e">パーティーマン</a>|<a href="/darts/rank/兵庫県/宝塚市">兵庫県宝塚市</a>|
+|21|594|<span class="rank-name-dl">ﾎﾟﾝｺﾂDAyu-@p-man</span>|<a href="https://search.dartslive.com/jp/shop/213805e20b7cb1a00d9b047a20a7ba1e">パーティーマン</a>|<a href="/darts/rank/兵庫県/宝塚市">兵庫県宝塚市</a>|
+|22|528|<span class="rank-name-dl">u-cha._.</span>|<a href="https://search.dartslive.com/jp/shop/213805e20b7cb1a00d9b047a20a7ba1e">パーティーマン</a>|<a href="/darts/rank/兵庫県/宝塚市">兵庫県宝塚市</a>|
+|23|424|<span class="rank-name-dl">karen</span>|<a href="https://search.dartslive.com/jp/shop/213805e20b7cb1a00d9b047a20a7ba1e">パーティーマン</a>|<a href="/darts/rank/兵庫県/宝塚市">兵庫県宝塚市</a>|
+|24|360|<span class="rank-name-dl">ERI</span>|<a href="https://search.dartslive.com/jp/shop/213805e20b7cb1a00d9b047a20a7ba1e">パーティーマン</a>|<a href="/darts/rank/兵庫県/宝塚市">兵庫県宝塚市</a>|
 
 
 #### PHOENIXDARTS TOP 100

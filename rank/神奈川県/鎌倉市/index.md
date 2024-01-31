@@ -42,37 +42,39 @@ ___
 |17|779|<span class="rank-name-dl">YouKey.O.T.A</span>|<a href="https://search.dartslive.com/jp/shop/e16e7a8f62a1fdbf0d9b047a20a7ba1e">鎌倉 Cafe ANANA</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
 |18|775|<span class="rank-name-dl">hiroki.h</span>|<a href="https://search.dartslive.com/jp/shop/1d968eea04b1b2130d9b047a20a7ba1e">JACK 大船店</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
 |19|766|<span class="rank-name-dl">V V V V V V V V</span>|<a href="https://search.dartslive.com/jp/shop/1d968eea04b1b2130d9b047a20a7ba1e">JACK 大船店</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
-|20|753|<span class="rank-name-dl">こっすー</span>|<a href="https://search.dartslive.com/jp/shop/1075625f65abe94128032249b44395af">アミューズメントスナック ゴリパラ</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
-|21|729|<span class="rank-name-dl">NO NAME 6871</span>|<a href="https://search.dartslive.com/jp/shop/1d968eea04b1b2130d9b047a20a7ba1e">JACK 大船店</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
+|20|758|<span class="rank-name-dl">猛虎魂✞勝則✞</span>|<a href="https://search.dartslive.com/jp/shop/1d968eea04b1b2130d9b047a20a7ba1e">JACK 大船店</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
+|21|753|<span class="rank-name-dl">こっすー</span>|<a href="https://search.dartslive.com/jp/shop/1075625f65abe94128032249b44395af">アミューズメントスナック ゴリパラ</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
 |22|699|<span class="rank-name-dl">ABE　(:;)</span>|<a href="https://search.dartslive.com/jp/shop/1075625f65abe94128032249b44395af">アミューズメントスナック ゴリパラ</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
 |23|689|<span class="rank-name-dl">ﾀﾞｰﾊﾟﾝ(*ΘェΘ*)</span>|<a href="https://search.dartslive.com/jp/shop/1075625f65abe94128032249b44395af">アミューズメントスナック ゴリパラ</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
-|24|687|<span class="rank-name-dl">猛虎魂✞勝則✞</span>|<a href="https://search.dartslive.com/jp/shop/1d968eea04b1b2130d9b047a20a7ba1e">JACK 大船店</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
-|25|600|<span class="rank-name-dl">むら</span>|<a href="https://search.dartslive.com/jp/shop/e16e7a8f62a1fdbf0d9b047a20a7ba1e">鎌倉 Cafe ANANA</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
-|26|593|<span class="rank-name-dl">Nameless</span>|<a href="https://search.dartslive.com/jp/shop/f78ed53f098e84880d9b047a20a7ba1e">大船オトナノパブリック</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
-|27|573|<span class="rank-name-dl">m</span>|<a href="https://search.dartslive.com/jp/shop/1d968eea04b1b2130d9b047a20a7ba1e">JACK 大船店</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
-|28|564|<span class="rank-name-dl">かずぽん</span>|<a href="https://search.dartslive.com/jp/shop/1075625f65abe94128032249b44395af">アミューズメントスナック ゴリパラ</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
-|29|550|<span class="rank-name-dl">テツ</span>|<a href="https://search.dartslive.com/jp/shop/914b2f4db1574b630d9b047a20a7ba1e">BAR Dazzle</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
-|30|521|<span class="rank-name-dl">ちぃ☆桃ちゃそ</span>|<a href="https://search.dartslive.com/jp/shop/1d968eea04b1b2130d9b047a20a7ba1e">JACK 大船店</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
-|31|508|<span class="rank-name-dl">めい</span>|<a href="https://search.dartslive.com/jp/shop/1d968eea04b1b2130d9b047a20a7ba1e">JACK 大船店</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
-|32|495|<span class="rank-name-dl">せちこ</span>|<a href="https://search.dartslive.com/jp/shop/914b2f4db1574b630d9b047a20a7ba1e">BAR Dazzle</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
-|33|480|<span class="rank-name-dl">chanmiku</span>|<a href="https://search.dartslive.com/jp/shop/1d968eea04b1b2130d9b047a20a7ba1e">JACK 大船店</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
-|34|467|<span class="rank-name-dl">ゴンベ</span>|<a href="https://search.dartslive.com/jp/shop/1075625f65abe94128032249b44395af">アミューズメントスナック ゴリパラ</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
-|35|449|<span class="rank-name-dl">おちあい</span>|<a href="https://search.dartslive.com/jp/shop/1075625f65abe94128032249b44395af">アミューズメントスナック ゴリパラ</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
-|36|448|<span class="rank-name-dl">ゆうきち</span>|<a href="https://search.dartslive.com/jp/shop/1d968eea04b1b2130d9b047a20a7ba1e">JACK 大船店</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
-|37|444|<span class="rank-name-dl">miyu</span>|<a href="https://search.dartslive.com/jp/shop/1d968eea04b1b2130d9b047a20a7ba1e">JACK 大船店</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
-|38|432|<span class="rank-name-dl">gi-tan</span>|<a href="https://search.dartslive.com/jp/shop/e16e7a8f62a1fdbf0d9b047a20a7ba1e">鎌倉 Cafe ANANA</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
-|39|426|<span class="rank-name-dl">かるぼなーら</span>|<a href="https://search.dartslive.com/jp/shop/1075625f65abe94128032249b44395af">アミューズメントスナック ゴリパラ</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
-|40|409|<span class="rank-name-dl">山田太郎</span>|<a href="https://search.dartslive.com/jp/shop/1075625f65abe94128032249b44395af">アミューズメントスナック ゴリパラ</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
-|41|408|<span class="rank-name-dl">NO NAME 5761</span>|<a href="https://search.dartslive.com/jp/shop/914b2f4db1574b630d9b047a20a7ba1e">BAR Dazzle</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
-|42|404|<span class="rank-name-dl">た～＠黒丸中毒</span>|<a href="https://search.dartslive.com/jp/shop/1075625f65abe94128032249b44395af">アミューズメントスナック ゴリパラ</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
-|43|403|<span class="rank-name-dl">ゆうきち</span>|<a href="https://search.dartslive.com/jp/shop/914b2f4db1574b630d9b047a20a7ba1e">BAR Dazzle</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
-|44|386|<span class="rank-name-dl">MYUJI</span>|<a href="https://search.dartslive.com/jp/shop/1075625f65abe94128032249b44395af">アミューズメントスナック ゴリパラ</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
-|45|381|<span class="rank-name-dl">NO NAME 8183</span>|<a href="https://search.dartslive.com/jp/shop/1075625f65abe94128032249b44395af">アミューズメントスナック ゴリパラ</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
-|46|371|<span class="rank-name-dl">とべっち</span>|<a href="https://search.dartslive.com/jp/shop/1075625f65abe94128032249b44395af">アミューズメントスナック ゴリパラ</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
-|47|355|<span class="rank-name-dl">yama</span>|<a href="https://search.dartslive.com/jp/shop/1075625f65abe94128032249b44395af">アミューズメントスナック ゴリパラ</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
-|48|351|<span class="rank-name-dl">ましゅ</span>|<a href="https://search.dartslive.com/jp/shop/1d968eea04b1b2130d9b047a20a7ba1e">JACK 大船店</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
-|49|272|<span class="rank-name-dl">ムトゥー</span>|<a href="https://search.dartslive.com/jp/shop/914b2f4db1574b630d9b047a20a7ba1e">BAR Dazzle</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
-|50|266|<span class="rank-name-dl">あいちゃん</span>|<a href="https://search.dartslive.com/jp/shop/1075625f65abe94128032249b44395af">アミューズメントスナック ゴリパラ</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
+|24|687|<span class="rank-name-dl">山本 高弘</span>|<a href="https://search.dartslive.com/jp/shop/f78ed53f098e84880d9b047a20a7ba1e">大船オトナノパブリック</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
+|25|620|<span class="rank-name-dl">たじ〜</span>|<a href="https://search.dartslive.com/jp/shop/1d968eea04b1b2130d9b047a20a7ba1e">JACK 大船店</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
+|26|600|<span class="rank-name-dl">むら</span>|<a href="https://search.dartslive.com/jp/shop/e16e7a8f62a1fdbf0d9b047a20a7ba1e">鎌倉 Cafe ANANA</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
+|27|593|<span class="rank-name-dl">Nameless</span>|<a href="https://search.dartslive.com/jp/shop/f78ed53f098e84880d9b047a20a7ba1e">大船オトナノパブリック</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
+|28|573|<span class="rank-name-dl">m</span>|<a href="https://search.dartslive.com/jp/shop/1d968eea04b1b2130d9b047a20a7ba1e">JACK 大船店</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
+|29|564|<span class="rank-name-dl">かずぽん</span>|<a href="https://search.dartslive.com/jp/shop/1075625f65abe94128032249b44395af">アミューズメントスナック ゴリパラ</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
+|30|550|<span class="rank-name-dl">テツ</span>|<a href="https://search.dartslive.com/jp/shop/914b2f4db1574b630d9b047a20a7ba1e">BAR Dazzle</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
+|31|521|<span class="rank-name-dl">ちぃ☆桃ちゃそ</span>|<a href="https://search.dartslive.com/jp/shop/1d968eea04b1b2130d9b047a20a7ba1e">JACK 大船店</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
+|32|513|<span class="rank-name-dl">聖翔</span>|<a href="https://search.dartslive.com/jp/shop/1075625f65abe94128032249b44395af">アミューズメントスナック ゴリパラ</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
+|33|508|<span class="rank-name-dl">めい</span>|<a href="https://search.dartslive.com/jp/shop/1d968eea04b1b2130d9b047a20a7ba1e">JACK 大船店</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
+|34|495|<span class="rank-name-dl">せちこ</span>|<a href="https://search.dartslive.com/jp/shop/914b2f4db1574b630d9b047a20a7ba1e">BAR Dazzle</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
+|35|480|<span class="rank-name-dl">chanmiku</span>|<a href="https://search.dartslive.com/jp/shop/1d968eea04b1b2130d9b047a20a7ba1e">JACK 大船店</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
+|36|467|<span class="rank-name-dl">ゴンベ</span>|<a href="https://search.dartslive.com/jp/shop/1075625f65abe94128032249b44395af">アミューズメントスナック ゴリパラ</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
+|37|449|<span class="rank-name-dl">おちあい</span>|<a href="https://search.dartslive.com/jp/shop/1075625f65abe94128032249b44395af">アミューズメントスナック ゴリパラ</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
+|38|448|<span class="rank-name-dl">ゆうきち</span>|<a href="https://search.dartslive.com/jp/shop/1d968eea04b1b2130d9b047a20a7ba1e">JACK 大船店</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
+|39|444|<span class="rank-name-dl">miyu</span>|<a href="https://search.dartslive.com/jp/shop/1d968eea04b1b2130d9b047a20a7ba1e">JACK 大船店</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
+|40|432|<span class="rank-name-dl">gi-tan</span>|<a href="https://search.dartslive.com/jp/shop/e16e7a8f62a1fdbf0d9b047a20a7ba1e">鎌倉 Cafe ANANA</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
+|41|426|<span class="rank-name-dl">かるぼなーら</span>|<a href="https://search.dartslive.com/jp/shop/1075625f65abe94128032249b44395af">アミューズメントスナック ゴリパラ</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
+|42|409|<span class="rank-name-dl">山田太郎</span>|<a href="https://search.dartslive.com/jp/shop/1075625f65abe94128032249b44395af">アミューズメントスナック ゴリパラ</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
+|43|408|<span class="rank-name-dl">NO NAME 5761</span>|<a href="https://search.dartslive.com/jp/shop/914b2f4db1574b630d9b047a20a7ba1e">BAR Dazzle</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
+|44|404|<span class="rank-name-dl">た～＠黒丸中毒</span>|<a href="https://search.dartslive.com/jp/shop/1075625f65abe94128032249b44395af">アミューズメントスナック ゴリパラ</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
+|45|403|<span class="rank-name-dl">ゆうきち</span>|<a href="https://search.dartslive.com/jp/shop/914b2f4db1574b630d9b047a20a7ba1e">BAR Dazzle</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
+|46|386|<span class="rank-name-dl">MYUJI</span>|<a href="https://search.dartslive.com/jp/shop/1075625f65abe94128032249b44395af">アミューズメントスナック ゴリパラ</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
+|47|381|<span class="rank-name-dl">NO NAME 8183</span>|<a href="https://search.dartslive.com/jp/shop/1075625f65abe94128032249b44395af">アミューズメントスナック ゴリパラ</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
+|48|371|<span class="rank-name-dl">とべっち</span>|<a href="https://search.dartslive.com/jp/shop/1075625f65abe94128032249b44395af">アミューズメントスナック ゴリパラ</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
+|49|355|<span class="rank-name-dl">yama</span>|<a href="https://search.dartslive.com/jp/shop/1075625f65abe94128032249b44395af">アミューズメントスナック ゴリパラ</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
+|50|351|<span class="rank-name-dl">ましゅ</span>|<a href="https://search.dartslive.com/jp/shop/1d968eea04b1b2130d9b047a20a7ba1e">JACK 大船店</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
+|51|272|<span class="rank-name-dl">ムトゥー</span>|<a href="https://search.dartslive.com/jp/shop/914b2f4db1574b630d9b047a20a7ba1e">BAR Dazzle</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
+|52|266|<span class="rank-name-dl">あいちゃん</span>|<a href="https://search.dartslive.com/jp/shop/1075625f65abe94128032249b44395af">アミューズメントスナック ゴリパラ</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -101,37 +103,39 @@ ___
 |17|779|<span class="rank-name-dl">YouKey.O.T.A</span>|<a href="https://search.dartslive.com/jp/shop/e16e7a8f62a1fdbf0d9b047a20a7ba1e">鎌倉 Cafe ANANA</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
 |18|775|<span class="rank-name-dl">hiroki.h</span>|<a href="https://search.dartslive.com/jp/shop/1d968eea04b1b2130d9b047a20a7ba1e">JACK 大船店</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
 |19|766|<span class="rank-name-dl">V V V V V V V V</span>|<a href="https://search.dartslive.com/jp/shop/1d968eea04b1b2130d9b047a20a7ba1e">JACK 大船店</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
-|20|753|<span class="rank-name-dl">こっすー</span>|<a href="https://search.dartslive.com/jp/shop/1075625f65abe94128032249b44395af">アミューズメントスナック ゴリパラ</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
-|21|729|<span class="rank-name-dl">NO NAME 6871</span>|<a href="https://search.dartslive.com/jp/shop/1d968eea04b1b2130d9b047a20a7ba1e">JACK 大船店</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
+|20|758|<span class="rank-name-dl">猛虎魂✞勝則✞</span>|<a href="https://search.dartslive.com/jp/shop/1d968eea04b1b2130d9b047a20a7ba1e">JACK 大船店</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
+|21|753|<span class="rank-name-dl">こっすー</span>|<a href="https://search.dartslive.com/jp/shop/1075625f65abe94128032249b44395af">アミューズメントスナック ゴリパラ</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
 |22|699|<span class="rank-name-dl">ABE　(:;)</span>|<a href="https://search.dartslive.com/jp/shop/1075625f65abe94128032249b44395af">アミューズメントスナック ゴリパラ</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
 |23|689|<span class="rank-name-dl">ﾀﾞｰﾊﾟﾝ(*ΘェΘ*)</span>|<a href="https://search.dartslive.com/jp/shop/1075625f65abe94128032249b44395af">アミューズメントスナック ゴリパラ</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
-|24|687|<span class="rank-name-dl">猛虎魂✞勝則✞</span>|<a href="https://search.dartslive.com/jp/shop/1d968eea04b1b2130d9b047a20a7ba1e">JACK 大船店</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
-|25|600|<span class="rank-name-dl">むら</span>|<a href="https://search.dartslive.com/jp/shop/e16e7a8f62a1fdbf0d9b047a20a7ba1e">鎌倉 Cafe ANANA</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
-|26|593|<span class="rank-name-dl">Nameless</span>|<a href="https://search.dartslive.com/jp/shop/f78ed53f098e84880d9b047a20a7ba1e">大船オトナノパブリック</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
-|27|573|<span class="rank-name-dl">m</span>|<a href="https://search.dartslive.com/jp/shop/1d968eea04b1b2130d9b047a20a7ba1e">JACK 大船店</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
-|28|564|<span class="rank-name-dl">かずぽん</span>|<a href="https://search.dartslive.com/jp/shop/1075625f65abe94128032249b44395af">アミューズメントスナック ゴリパラ</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
-|29|550|<span class="rank-name-dl">テツ</span>|<a href="https://search.dartslive.com/jp/shop/914b2f4db1574b630d9b047a20a7ba1e">BAR Dazzle</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
-|30|521|<span class="rank-name-dl">ちぃ☆桃ちゃそ</span>|<a href="https://search.dartslive.com/jp/shop/1d968eea04b1b2130d9b047a20a7ba1e">JACK 大船店</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
-|31|508|<span class="rank-name-dl">めい</span>|<a href="https://search.dartslive.com/jp/shop/1d968eea04b1b2130d9b047a20a7ba1e">JACK 大船店</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
-|32|495|<span class="rank-name-dl">せちこ</span>|<a href="https://search.dartslive.com/jp/shop/914b2f4db1574b630d9b047a20a7ba1e">BAR Dazzle</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
-|33|480|<span class="rank-name-dl">chanmiku</span>|<a href="https://search.dartslive.com/jp/shop/1d968eea04b1b2130d9b047a20a7ba1e">JACK 大船店</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
-|34|467|<span class="rank-name-dl">ゴンベ</span>|<a href="https://search.dartslive.com/jp/shop/1075625f65abe94128032249b44395af">アミューズメントスナック ゴリパラ</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
-|35|449|<span class="rank-name-dl">おちあい</span>|<a href="https://search.dartslive.com/jp/shop/1075625f65abe94128032249b44395af">アミューズメントスナック ゴリパラ</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
-|36|448|<span class="rank-name-dl">ゆうきち</span>|<a href="https://search.dartslive.com/jp/shop/1d968eea04b1b2130d9b047a20a7ba1e">JACK 大船店</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
-|37|444|<span class="rank-name-dl">miyu</span>|<a href="https://search.dartslive.com/jp/shop/1d968eea04b1b2130d9b047a20a7ba1e">JACK 大船店</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
-|38|432|<span class="rank-name-dl">gi-tan</span>|<a href="https://search.dartslive.com/jp/shop/e16e7a8f62a1fdbf0d9b047a20a7ba1e">鎌倉 Cafe ANANA</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
-|39|426|<span class="rank-name-dl">かるぼなーら</span>|<a href="https://search.dartslive.com/jp/shop/1075625f65abe94128032249b44395af">アミューズメントスナック ゴリパラ</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
-|40|409|<span class="rank-name-dl">山田太郎</span>|<a href="https://search.dartslive.com/jp/shop/1075625f65abe94128032249b44395af">アミューズメントスナック ゴリパラ</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
-|41|408|<span class="rank-name-dl">NO NAME 5761</span>|<a href="https://search.dartslive.com/jp/shop/914b2f4db1574b630d9b047a20a7ba1e">BAR Dazzle</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
-|42|404|<span class="rank-name-dl">た～＠黒丸中毒</span>|<a href="https://search.dartslive.com/jp/shop/1075625f65abe94128032249b44395af">アミューズメントスナック ゴリパラ</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
-|43|403|<span class="rank-name-dl">ゆうきち</span>|<a href="https://search.dartslive.com/jp/shop/914b2f4db1574b630d9b047a20a7ba1e">BAR Dazzle</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
-|44|386|<span class="rank-name-dl">MYUJI</span>|<a href="https://search.dartslive.com/jp/shop/1075625f65abe94128032249b44395af">アミューズメントスナック ゴリパラ</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
-|45|381|<span class="rank-name-dl">NO NAME 8183</span>|<a href="https://search.dartslive.com/jp/shop/1075625f65abe94128032249b44395af">アミューズメントスナック ゴリパラ</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
-|46|371|<span class="rank-name-dl">とべっち</span>|<a href="https://search.dartslive.com/jp/shop/1075625f65abe94128032249b44395af">アミューズメントスナック ゴリパラ</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
-|47|355|<span class="rank-name-dl">yama</span>|<a href="https://search.dartslive.com/jp/shop/1075625f65abe94128032249b44395af">アミューズメントスナック ゴリパラ</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
-|48|351|<span class="rank-name-dl">ましゅ</span>|<a href="https://search.dartslive.com/jp/shop/1d968eea04b1b2130d9b047a20a7ba1e">JACK 大船店</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
-|49|272|<span class="rank-name-dl">ムトゥー</span>|<a href="https://search.dartslive.com/jp/shop/914b2f4db1574b630d9b047a20a7ba1e">BAR Dazzle</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
-|50|266|<span class="rank-name-dl">あいちゃん</span>|<a href="https://search.dartslive.com/jp/shop/1075625f65abe94128032249b44395af">アミューズメントスナック ゴリパラ</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
+|24|687|<span class="rank-name-dl">山本 高弘</span>|<a href="https://search.dartslive.com/jp/shop/f78ed53f098e84880d9b047a20a7ba1e">大船オトナノパブリック</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
+|25|620|<span class="rank-name-dl">たじ〜</span>|<a href="https://search.dartslive.com/jp/shop/1d968eea04b1b2130d9b047a20a7ba1e">JACK 大船店</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
+|26|600|<span class="rank-name-dl">むら</span>|<a href="https://search.dartslive.com/jp/shop/e16e7a8f62a1fdbf0d9b047a20a7ba1e">鎌倉 Cafe ANANA</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
+|27|593|<span class="rank-name-dl">Nameless</span>|<a href="https://search.dartslive.com/jp/shop/f78ed53f098e84880d9b047a20a7ba1e">大船オトナノパブリック</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
+|28|573|<span class="rank-name-dl">m</span>|<a href="https://search.dartslive.com/jp/shop/1d968eea04b1b2130d9b047a20a7ba1e">JACK 大船店</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
+|29|564|<span class="rank-name-dl">かずぽん</span>|<a href="https://search.dartslive.com/jp/shop/1075625f65abe94128032249b44395af">アミューズメントスナック ゴリパラ</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
+|30|550|<span class="rank-name-dl">テツ</span>|<a href="https://search.dartslive.com/jp/shop/914b2f4db1574b630d9b047a20a7ba1e">BAR Dazzle</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
+|31|521|<span class="rank-name-dl">ちぃ☆桃ちゃそ</span>|<a href="https://search.dartslive.com/jp/shop/1d968eea04b1b2130d9b047a20a7ba1e">JACK 大船店</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
+|32|513|<span class="rank-name-dl">聖翔</span>|<a href="https://search.dartslive.com/jp/shop/1075625f65abe94128032249b44395af">アミューズメントスナック ゴリパラ</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
+|33|508|<span class="rank-name-dl">めい</span>|<a href="https://search.dartslive.com/jp/shop/1d968eea04b1b2130d9b047a20a7ba1e">JACK 大船店</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
+|34|495|<span class="rank-name-dl">せちこ</span>|<a href="https://search.dartslive.com/jp/shop/914b2f4db1574b630d9b047a20a7ba1e">BAR Dazzle</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
+|35|480|<span class="rank-name-dl">chanmiku</span>|<a href="https://search.dartslive.com/jp/shop/1d968eea04b1b2130d9b047a20a7ba1e">JACK 大船店</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
+|36|467|<span class="rank-name-dl">ゴンベ</span>|<a href="https://search.dartslive.com/jp/shop/1075625f65abe94128032249b44395af">アミューズメントスナック ゴリパラ</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
+|37|449|<span class="rank-name-dl">おちあい</span>|<a href="https://search.dartslive.com/jp/shop/1075625f65abe94128032249b44395af">アミューズメントスナック ゴリパラ</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
+|38|448|<span class="rank-name-dl">ゆうきち</span>|<a href="https://search.dartslive.com/jp/shop/1d968eea04b1b2130d9b047a20a7ba1e">JACK 大船店</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
+|39|444|<span class="rank-name-dl">miyu</span>|<a href="https://search.dartslive.com/jp/shop/1d968eea04b1b2130d9b047a20a7ba1e">JACK 大船店</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
+|40|432|<span class="rank-name-dl">gi-tan</span>|<a href="https://search.dartslive.com/jp/shop/e16e7a8f62a1fdbf0d9b047a20a7ba1e">鎌倉 Cafe ANANA</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
+|41|426|<span class="rank-name-dl">かるぼなーら</span>|<a href="https://search.dartslive.com/jp/shop/1075625f65abe94128032249b44395af">アミューズメントスナック ゴリパラ</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
+|42|409|<span class="rank-name-dl">山田太郎</span>|<a href="https://search.dartslive.com/jp/shop/1075625f65abe94128032249b44395af">アミューズメントスナック ゴリパラ</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
+|43|408|<span class="rank-name-dl">NO NAME 5761</span>|<a href="https://search.dartslive.com/jp/shop/914b2f4db1574b630d9b047a20a7ba1e">BAR Dazzle</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
+|44|404|<span class="rank-name-dl">た～＠黒丸中毒</span>|<a href="https://search.dartslive.com/jp/shop/1075625f65abe94128032249b44395af">アミューズメントスナック ゴリパラ</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
+|45|403|<span class="rank-name-dl">ゆうきち</span>|<a href="https://search.dartslive.com/jp/shop/914b2f4db1574b630d9b047a20a7ba1e">BAR Dazzle</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
+|46|386|<span class="rank-name-dl">MYUJI</span>|<a href="https://search.dartslive.com/jp/shop/1075625f65abe94128032249b44395af">アミューズメントスナック ゴリパラ</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
+|47|381|<span class="rank-name-dl">NO NAME 8183</span>|<a href="https://search.dartslive.com/jp/shop/1075625f65abe94128032249b44395af">アミューズメントスナック ゴリパラ</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
+|48|371|<span class="rank-name-dl">とべっち</span>|<a href="https://search.dartslive.com/jp/shop/1075625f65abe94128032249b44395af">アミューズメントスナック ゴリパラ</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
+|49|355|<span class="rank-name-dl">yama</span>|<a href="https://search.dartslive.com/jp/shop/1075625f65abe94128032249b44395af">アミューズメントスナック ゴリパラ</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
+|50|351|<span class="rank-name-dl">ましゅ</span>|<a href="https://search.dartslive.com/jp/shop/1d968eea04b1b2130d9b047a20a7ba1e">JACK 大船店</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
+|51|272|<span class="rank-name-dl">ムトゥー</span>|<a href="https://search.dartslive.com/jp/shop/914b2f4db1574b630d9b047a20a7ba1e">BAR Dazzle</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
+|52|266|<span class="rank-name-dl">あいちゃん</span>|<a href="https://search.dartslive.com/jp/shop/1075625f65abe94128032249b44395af">アミューズメントスナック ゴリパラ</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
 
 
 #### PHOENIXDARTS TOP 100
@@ -141,7 +145,7 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-||0|<span class="rank-name-dl"> </span>|<a href=""></a>|<a href="/darts/rank//"></a>|
+|1|599|<span class="rank-name-pd">山本 高弘</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82537?s_seq=82537">大船オトナノパブリック</a>|<a href="/darts/rank/神奈川県/鎌倉市">神奈川県鎌倉市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

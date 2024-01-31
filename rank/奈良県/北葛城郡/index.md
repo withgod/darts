@@ -44,47 +44,50 @@ ___
 |19|840|<span class="rank-name-dl">帰ってきた清水</span>|<a href="https://search.dartslive.com/jp/shop/8b7382d19aa26f04790ab824ce8730e5">Dardos　奈良王寺駅前店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
 |20|839|<span class="rank-name-dl">Daiki@dardos</span>|<a href="https://search.dartslive.com/jp/shop/8b7382d19aa26f04790ab824ce8730e5">Dardos　奈良王寺駅前店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
 |21|836|<span class="rank-name-dl">cherry&#x27;s☆kami</span>|<a href="https://search.dartslive.com/jp/shop/46dcbd3c70630f6d0d9b047a20a7ba1e">Darts Shop Balance Diner</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|22|823|<span class="rank-name-dl">スプーン</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|23|817|<span class="rank-name-dl">syuya</span>|<a href="https://search.dartslive.com/jp/shop/8b7382d19aa26f04790ab824ce8730e5">Dardos　奈良王寺駅前店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|24|816|<span class="rank-name-dl">はく</span>|<a href="https://search.dartslive.com/jp/shop/46dcbd3c70630f6d0d9b047a20a7ba1e">Darts Shop Balance Diner</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|25|809|<span class="rank-name-dl">フェルゼン</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|26|808|<span class="rank-name-dl">ぴょんだふる</span>|<a href="https://search.dartslive.com/jp/shop/46dcbd3c70630f6d0d9b047a20a7ba1e">Darts Shop Balance Diner</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|27|805|<span class="rank-name-dl">篠田 秀之</span>|<a href="https://search.dartslive.com/jp/shop/8b7382d19aa26f04790ab824ce8730e5">Dardos　奈良王寺駅前店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|28|775|<span class="rank-name-dl">はなまん☆</span>|<a href="https://search.dartslive.com/jp/shop/46dcbd3c70630f6d0d9b047a20a7ba1e">Darts Shop Balance Diner</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|29|773|<span class="rank-name-dl">くぼちん</span>|<a href="https://search.dartslive.com/jp/shop/46dcbd3c70630f6d0d9b047a20a7ba1e">Darts Shop Balance Diner</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|30|757|<span class="rank-name-dl">すいまー</span>|<a href="https://search.dartslive.com/jp/shop/46dcbd3c70630f6d0d9b047a20a7ba1e">Darts Shop Balance Diner</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|31|749|<span class="rank-name-dl">おかず　cherrys</span>|<a href="https://search.dartslive.com/jp/shop/46dcbd3c70630f6d0d9b047a20a7ba1e">Darts Shop Balance Diner</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|32|738|<span class="rank-name-dl">リッカルド</span>|<a href="https://search.dartslive.com/jp/shop/46dcbd3c70630f6d0d9b047a20a7ba1e">Darts Shop Balance Diner</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|33|729|<span class="rank-name-dl">帰ってきた清水</span>|<a href="https://search.dartslive.com/jp/shop/46dcbd3c70630f6d0d9b047a20a7ba1e">Darts Shop Balance Diner</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|22|828|<span class="rank-name-dl">☆ORTEGA☆</span>|<a href="https://search.dartslive.com/jp/shop/46dcbd3c70630f6d0d9b047a20a7ba1e">Darts Shop Balance Diner</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|23|825|<span class="rank-name-dl">おかず　cherrys</span>|<a href="https://search.dartslive.com/jp/shop/46dcbd3c70630f6d0d9b047a20a7ba1e">Darts Shop Balance Diner</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|24|823|<span class="rank-name-dl">スプーン</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|25|817|<span class="rank-name-dl">syuya</span>|<a href="https://search.dartslive.com/jp/shop/8b7382d19aa26f04790ab824ce8730e5">Dardos　奈良王寺駅前店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|26|816|<span class="rank-name-dl">はく</span>|<a href="https://search.dartslive.com/jp/shop/46dcbd3c70630f6d0d9b047a20a7ba1e">Darts Shop Balance Diner</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|27|810|<span class="rank-name-dl">ぴょんだふる</span>|<a href="https://search.dartslive.com/jp/shop/46dcbd3c70630f6d0d9b047a20a7ba1e">Darts Shop Balance Diner</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|28|809|<span class="rank-name-dl">フェルゼン</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|29|805|<span class="rank-name-dl">篠田 秀之</span>|<a href="https://search.dartslive.com/jp/shop/8b7382d19aa26f04790ab824ce8730e5">Dardos　奈良王寺駅前店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|30|786|<span class="rank-name-dl">G【9Arrows】</span>|<a href="https://search.dartslive.com/jp/shop/46dcbd3c70630f6d0d9b047a20a7ba1e">Darts Shop Balance Diner</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|31|775|<span class="rank-name-dl">はなまん☆</span>|<a href="https://search.dartslive.com/jp/shop/46dcbd3c70630f6d0d9b047a20a7ba1e">Darts Shop Balance Diner</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|32|773|<span class="rank-name-dl">くぼちん</span>|<a href="https://search.dartslive.com/jp/shop/46dcbd3c70630f6d0d9b047a20a7ba1e">Darts Shop Balance Diner</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|33|738|<span class="rank-name-dl">リッカルド</span>|<a href="https://search.dartslive.com/jp/shop/46dcbd3c70630f6d0d9b047a20a7ba1e">Darts Shop Balance Diner</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
 |34|700|<span class="rank-name-dl">Kokibamboo</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
 |35|669|<span class="rank-name-dl">sae♡</span>|<a href="https://search.dartslive.com/jp/shop/8b7382d19aa26f04790ab824ce8730e5">Dardos　奈良王寺駅前店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
 |36|627|<span class="rank-name-dl">0123</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|37|603|<span class="rank-name-dl">げってぃ</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|38|572|<span class="rank-name-dl">きよーん8823</span>|<a href="https://search.dartslive.com/jp/shop/46dcbd3c70630f6d0d9b047a20a7ba1e">Darts Shop Balance Diner</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|39|566|<span class="rank-name-dl">fuka</span>|<a href="https://search.dartslive.com/jp/shop/8b7382d19aa26f04790ab824ce8730e5">Dardos　奈良王寺駅前店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|40|565|<span class="rank-name-dl">B0BAN×TOPGUN</span>|<a href="https://search.dartslive.com/jp/shop/8b7382d19aa26f04790ab824ce8730e5">Dardos　奈良王寺駅前店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|41|562|<span class="rank-name-dl">junior 323</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|42|511|<span class="rank-name-dl">REDLEO</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|43|509|<span class="rank-name-dl">☆Saori.K☆</span>|<a href="https://search.dartslive.com/jp/shop/46dcbd3c70630f6d0d9b047a20a7ba1e">Darts Shop Balance Diner</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|44|489|<span class="rank-name-dl">yu-yu</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|45|483|<span class="rank-name-dl">demon</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|46|479|<span class="rank-name-dl">あみ</span>|<a href="https://search.dartslive.com/jp/shop/8b7382d19aa26f04790ab824ce8730e5">Dardos　奈良王寺駅前店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|47|474|<span class="rank-name-dl">Chiharu</span>|<a href="https://search.dartslive.com/jp/shop/8b7382d19aa26f04790ab824ce8730e5">Dardos　奈良王寺駅前店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|48|456|<span class="rank-name-dl">ha-chan❤︎</span>|<a href="https://search.dartslive.com/jp/shop/8b7382d19aa26f04790ab824ce8730e5">Dardos　奈良王寺駅前店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|49|448|<span class="rank-name-dl">SUZUKI MAN</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|50|447|<span class="rank-name-dl">aina</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|50|447|<span class="rank-name-dl">yu_uko</span>|<a href="https://search.dartslive.com/jp/shop/8b7382d19aa26f04790ab824ce8730e5">Dardos　奈良王寺駅前店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|52|441|<span class="rank-name-dl">★ＡＹＡＮＯ★</span>|<a href="https://search.dartslive.com/jp/shop/8b7382d19aa26f04790ab824ce8730e5">Dardos　奈良王寺駅前店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|53|432|<span class="rank-name-dl">鷹山だょ〜</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|54|423|<span class="rank-name-dl">いけぞう</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|55|407|<span class="rank-name-dl">devil</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|56|393|<span class="rank-name-dl">みずき</span>|<a href="https://search.dartslive.com/jp/shop/8b7382d19aa26f04790ab824ce8730e5">Dardos　奈良王寺駅前店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|57|392|<span class="rank-name-dl">RIRI</span>|<a href="https://search.dartslive.com/jp/shop/8b7382d19aa26f04790ab824ce8730e5">Dardos　奈良王寺駅前店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|58|334|<span class="rank-name-dl">＊くみっきぃ＊</span>|<a href="https://search.dartslive.com/jp/shop/8b7382d19aa26f04790ab824ce8730e5">Dardos　奈良王寺駅前店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|59|328|<span class="rank-name-dl">★ＡＹＡＮＯ★</span>|<a href="https://search.dartslive.com/jp/shop/46dcbd3c70630f6d0d9b047a20a7ba1e">Darts Shop Balance Diner</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|60|319|<span class="rank-name-dl">ガダルカナル</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|61|275|<span class="rank-name-dl">のののののん</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|62|254|<span class="rank-name-dl">01</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|36|627|<span class="rank-name-dl">ゆうすけ</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|38|603|<span class="rank-name-dl">げってぃ</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|39|572|<span class="rank-name-dl">きよーん8823</span>|<a href="https://search.dartslive.com/jp/shop/46dcbd3c70630f6d0d9b047a20a7ba1e">Darts Shop Balance Diner</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|40|566|<span class="rank-name-dl">fuka</span>|<a href="https://search.dartslive.com/jp/shop/8b7382d19aa26f04790ab824ce8730e5">Dardos　奈良王寺駅前店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|41|565|<span class="rank-name-dl">B0BAN×TOPGUN</span>|<a href="https://search.dartslive.com/jp/shop/8b7382d19aa26f04790ab824ce8730e5">Dardos　奈良王寺駅前店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|42|562|<span class="rank-name-dl">junior 323</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|43|527|<span class="rank-name-dl">ばしこーんたくみ</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|44|511|<span class="rank-name-dl">REDLEO</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|45|509|<span class="rank-name-dl">☆Saori.K☆</span>|<a href="https://search.dartslive.com/jp/shop/46dcbd3c70630f6d0d9b047a20a7ba1e">Darts Shop Balance Diner</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|46|489|<span class="rank-name-dl">yu-yu</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|47|483|<span class="rank-name-dl">demon</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|48|479|<span class="rank-name-dl">あみ</span>|<a href="https://search.dartslive.com/jp/shop/8b7382d19aa26f04790ab824ce8730e5">Dardos　奈良王寺駅前店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|49|474|<span class="rank-name-dl">Chiharu</span>|<a href="https://search.dartslive.com/jp/shop/8b7382d19aa26f04790ab824ce8730e5">Dardos　奈良王寺駅前店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|49|474|<span class="rank-name-dl">NO NAME 8656</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|49|474|<span class="rank-name-dl">スッカマ</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|52|456|<span class="rank-name-dl">ha-chan❤︎</span>|<a href="https://search.dartslive.com/jp/shop/8b7382d19aa26f04790ab824ce8730e5">Dardos　奈良王寺駅前店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|53|448|<span class="rank-name-dl">SUZUKI MAN</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|54|447|<span class="rank-name-dl">aina</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|54|447|<span class="rank-name-dl">yu_uko</span>|<a href="https://search.dartslive.com/jp/shop/8b7382d19aa26f04790ab824ce8730e5">Dardos　奈良王寺駅前店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|56|441|<span class="rank-name-dl">★ＡＹＡＮＯ★</span>|<a href="https://search.dartslive.com/jp/shop/8b7382d19aa26f04790ab824ce8730e5">Dardos　奈良王寺駅前店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|57|432|<span class="rank-name-dl">鷹山だょ〜</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|58|423|<span class="rank-name-dl">いけぞう</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|59|421|<span class="rank-name-dl">カンノコ</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|60|407|<span class="rank-name-dl">devil</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|61|393|<span class="rank-name-dl">みずき</span>|<a href="https://search.dartslive.com/jp/shop/8b7382d19aa26f04790ab824ce8730e5">Dardos　奈良王寺駅前店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|62|392|<span class="rank-name-dl">RIRI</span>|<a href="https://search.dartslive.com/jp/shop/8b7382d19aa26f04790ab824ce8730e5">Dardos　奈良王寺駅前店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|63|334|<span class="rank-name-dl">＊くみっきぃ＊</span>|<a href="https://search.dartslive.com/jp/shop/8b7382d19aa26f04790ab824ce8730e5">Dardos　奈良王寺駅前店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|64|328|<span class="rank-name-dl">★ＡＹＡＮＯ★</span>|<a href="https://search.dartslive.com/jp/shop/46dcbd3c70630f6d0d9b047a20a7ba1e">Darts Shop Balance Diner</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|65|275|<span class="rank-name-dl">のののののん</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -115,47 +118,50 @@ ___
 |19|840|<span class="rank-name-dl">帰ってきた清水</span>|<a href="https://search.dartslive.com/jp/shop/8b7382d19aa26f04790ab824ce8730e5">Dardos　奈良王寺駅前店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
 |20|839|<span class="rank-name-dl">Daiki@dardos</span>|<a href="https://search.dartslive.com/jp/shop/8b7382d19aa26f04790ab824ce8730e5">Dardos　奈良王寺駅前店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
 |21|836|<span class="rank-name-dl">cherry&#x27;s☆kami</span>|<a href="https://search.dartslive.com/jp/shop/46dcbd3c70630f6d0d9b047a20a7ba1e">Darts Shop Balance Diner</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|22|823|<span class="rank-name-dl">スプーン</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|23|817|<span class="rank-name-dl">syuya</span>|<a href="https://search.dartslive.com/jp/shop/8b7382d19aa26f04790ab824ce8730e5">Dardos　奈良王寺駅前店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|24|816|<span class="rank-name-dl">はく</span>|<a href="https://search.dartslive.com/jp/shop/46dcbd3c70630f6d0d9b047a20a7ba1e">Darts Shop Balance Diner</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|25|809|<span class="rank-name-dl">フェルゼン</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|26|808|<span class="rank-name-dl">ぴょんだふる</span>|<a href="https://search.dartslive.com/jp/shop/46dcbd3c70630f6d0d9b047a20a7ba1e">Darts Shop Balance Diner</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|27|805|<span class="rank-name-dl">篠田 秀之</span>|<a href="https://search.dartslive.com/jp/shop/8b7382d19aa26f04790ab824ce8730e5">Dardos　奈良王寺駅前店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|28|775|<span class="rank-name-dl">はなまん☆</span>|<a href="https://search.dartslive.com/jp/shop/46dcbd3c70630f6d0d9b047a20a7ba1e">Darts Shop Balance Diner</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|29|773|<span class="rank-name-dl">くぼちん</span>|<a href="https://search.dartslive.com/jp/shop/46dcbd3c70630f6d0d9b047a20a7ba1e">Darts Shop Balance Diner</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|30|757|<span class="rank-name-dl">すいまー</span>|<a href="https://search.dartslive.com/jp/shop/46dcbd3c70630f6d0d9b047a20a7ba1e">Darts Shop Balance Diner</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|31|749|<span class="rank-name-dl">おかず　cherrys</span>|<a href="https://search.dartslive.com/jp/shop/46dcbd3c70630f6d0d9b047a20a7ba1e">Darts Shop Balance Diner</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|32|738|<span class="rank-name-dl">リッカルド</span>|<a href="https://search.dartslive.com/jp/shop/46dcbd3c70630f6d0d9b047a20a7ba1e">Darts Shop Balance Diner</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|33|729|<span class="rank-name-dl">帰ってきた清水</span>|<a href="https://search.dartslive.com/jp/shop/46dcbd3c70630f6d0d9b047a20a7ba1e">Darts Shop Balance Diner</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|22|828|<span class="rank-name-dl">☆ORTEGA☆</span>|<a href="https://search.dartslive.com/jp/shop/46dcbd3c70630f6d0d9b047a20a7ba1e">Darts Shop Balance Diner</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|23|825|<span class="rank-name-dl">おかず　cherrys</span>|<a href="https://search.dartslive.com/jp/shop/46dcbd3c70630f6d0d9b047a20a7ba1e">Darts Shop Balance Diner</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|24|823|<span class="rank-name-dl">スプーン</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|25|817|<span class="rank-name-dl">syuya</span>|<a href="https://search.dartslive.com/jp/shop/8b7382d19aa26f04790ab824ce8730e5">Dardos　奈良王寺駅前店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|26|816|<span class="rank-name-dl">はく</span>|<a href="https://search.dartslive.com/jp/shop/46dcbd3c70630f6d0d9b047a20a7ba1e">Darts Shop Balance Diner</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|27|810|<span class="rank-name-dl">ぴょんだふる</span>|<a href="https://search.dartslive.com/jp/shop/46dcbd3c70630f6d0d9b047a20a7ba1e">Darts Shop Balance Diner</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|28|809|<span class="rank-name-dl">フェルゼン</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|29|805|<span class="rank-name-dl">篠田 秀之</span>|<a href="https://search.dartslive.com/jp/shop/8b7382d19aa26f04790ab824ce8730e5">Dardos　奈良王寺駅前店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|30|786|<span class="rank-name-dl">G【9Arrows】</span>|<a href="https://search.dartslive.com/jp/shop/46dcbd3c70630f6d0d9b047a20a7ba1e">Darts Shop Balance Diner</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|31|775|<span class="rank-name-dl">はなまん☆</span>|<a href="https://search.dartslive.com/jp/shop/46dcbd3c70630f6d0d9b047a20a7ba1e">Darts Shop Balance Diner</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|32|773|<span class="rank-name-dl">くぼちん</span>|<a href="https://search.dartslive.com/jp/shop/46dcbd3c70630f6d0d9b047a20a7ba1e">Darts Shop Balance Diner</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|33|738|<span class="rank-name-dl">リッカルド</span>|<a href="https://search.dartslive.com/jp/shop/46dcbd3c70630f6d0d9b047a20a7ba1e">Darts Shop Balance Diner</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
 |34|700|<span class="rank-name-dl">Kokibamboo</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
 |35|669|<span class="rank-name-dl">sae♡</span>|<a href="https://search.dartslive.com/jp/shop/8b7382d19aa26f04790ab824ce8730e5">Dardos　奈良王寺駅前店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
 |36|627|<span class="rank-name-dl">0123</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|37|603|<span class="rank-name-dl">げってぃ</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|38|572|<span class="rank-name-dl">きよーん8823</span>|<a href="https://search.dartslive.com/jp/shop/46dcbd3c70630f6d0d9b047a20a7ba1e">Darts Shop Balance Diner</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|39|566|<span class="rank-name-dl">fuka</span>|<a href="https://search.dartslive.com/jp/shop/8b7382d19aa26f04790ab824ce8730e5">Dardos　奈良王寺駅前店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|40|565|<span class="rank-name-dl">B0BAN×TOPGUN</span>|<a href="https://search.dartslive.com/jp/shop/8b7382d19aa26f04790ab824ce8730e5">Dardos　奈良王寺駅前店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|41|562|<span class="rank-name-dl">junior 323</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|42|511|<span class="rank-name-dl">REDLEO</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|43|509|<span class="rank-name-dl">☆Saori.K☆</span>|<a href="https://search.dartslive.com/jp/shop/46dcbd3c70630f6d0d9b047a20a7ba1e">Darts Shop Balance Diner</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|44|489|<span class="rank-name-dl">yu-yu</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|45|483|<span class="rank-name-dl">demon</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|46|479|<span class="rank-name-dl">あみ</span>|<a href="https://search.dartslive.com/jp/shop/8b7382d19aa26f04790ab824ce8730e5">Dardos　奈良王寺駅前店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|47|474|<span class="rank-name-dl">Chiharu</span>|<a href="https://search.dartslive.com/jp/shop/8b7382d19aa26f04790ab824ce8730e5">Dardos　奈良王寺駅前店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|48|456|<span class="rank-name-dl">ha-chan❤︎</span>|<a href="https://search.dartslive.com/jp/shop/8b7382d19aa26f04790ab824ce8730e5">Dardos　奈良王寺駅前店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|49|448|<span class="rank-name-dl">SUZUKI MAN</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|50|447|<span class="rank-name-dl">aina</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|50|447|<span class="rank-name-dl">yu_uko</span>|<a href="https://search.dartslive.com/jp/shop/8b7382d19aa26f04790ab824ce8730e5">Dardos　奈良王寺駅前店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|52|441|<span class="rank-name-dl">★ＡＹＡＮＯ★</span>|<a href="https://search.dartslive.com/jp/shop/8b7382d19aa26f04790ab824ce8730e5">Dardos　奈良王寺駅前店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|53|432|<span class="rank-name-dl">鷹山だょ〜</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|54|423|<span class="rank-name-dl">いけぞう</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|55|407|<span class="rank-name-dl">devil</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|56|393|<span class="rank-name-dl">みずき</span>|<a href="https://search.dartslive.com/jp/shop/8b7382d19aa26f04790ab824ce8730e5">Dardos　奈良王寺駅前店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|57|392|<span class="rank-name-dl">RIRI</span>|<a href="https://search.dartslive.com/jp/shop/8b7382d19aa26f04790ab824ce8730e5">Dardos　奈良王寺駅前店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|58|334|<span class="rank-name-dl">＊くみっきぃ＊</span>|<a href="https://search.dartslive.com/jp/shop/8b7382d19aa26f04790ab824ce8730e5">Dardos　奈良王寺駅前店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|59|328|<span class="rank-name-dl">★ＡＹＡＮＯ★</span>|<a href="https://search.dartslive.com/jp/shop/46dcbd3c70630f6d0d9b047a20a7ba1e">Darts Shop Balance Diner</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|60|319|<span class="rank-name-dl">ガダルカナル</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|61|275|<span class="rank-name-dl">のののののん</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
-|62|254|<span class="rank-name-dl">01</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|36|627|<span class="rank-name-dl">ゆうすけ</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|38|603|<span class="rank-name-dl">げってぃ</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|39|572|<span class="rank-name-dl">きよーん8823</span>|<a href="https://search.dartslive.com/jp/shop/46dcbd3c70630f6d0d9b047a20a7ba1e">Darts Shop Balance Diner</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|40|566|<span class="rank-name-dl">fuka</span>|<a href="https://search.dartslive.com/jp/shop/8b7382d19aa26f04790ab824ce8730e5">Dardos　奈良王寺駅前店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|41|565|<span class="rank-name-dl">B0BAN×TOPGUN</span>|<a href="https://search.dartslive.com/jp/shop/8b7382d19aa26f04790ab824ce8730e5">Dardos　奈良王寺駅前店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|42|562|<span class="rank-name-dl">junior 323</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|43|527|<span class="rank-name-dl">ばしこーんたくみ</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|44|511|<span class="rank-name-dl">REDLEO</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|45|509|<span class="rank-name-dl">☆Saori.K☆</span>|<a href="https://search.dartslive.com/jp/shop/46dcbd3c70630f6d0d9b047a20a7ba1e">Darts Shop Balance Diner</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|46|489|<span class="rank-name-dl">yu-yu</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|47|483|<span class="rank-name-dl">demon</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|48|479|<span class="rank-name-dl">あみ</span>|<a href="https://search.dartslive.com/jp/shop/8b7382d19aa26f04790ab824ce8730e5">Dardos　奈良王寺駅前店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|49|474|<span class="rank-name-dl">Chiharu</span>|<a href="https://search.dartslive.com/jp/shop/8b7382d19aa26f04790ab824ce8730e5">Dardos　奈良王寺駅前店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|49|474|<span class="rank-name-dl">NO NAME 8656</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|49|474|<span class="rank-name-dl">スッカマ</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|52|456|<span class="rank-name-dl">ha-chan❤︎</span>|<a href="https://search.dartslive.com/jp/shop/8b7382d19aa26f04790ab824ce8730e5">Dardos　奈良王寺駅前店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|53|448|<span class="rank-name-dl">SUZUKI MAN</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|54|447|<span class="rank-name-dl">aina</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|54|447|<span class="rank-name-dl">yu_uko</span>|<a href="https://search.dartslive.com/jp/shop/8b7382d19aa26f04790ab824ce8730e5">Dardos　奈良王寺駅前店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|56|441|<span class="rank-name-dl">★ＡＹＡＮＯ★</span>|<a href="https://search.dartslive.com/jp/shop/8b7382d19aa26f04790ab824ce8730e5">Dardos　奈良王寺駅前店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|57|432|<span class="rank-name-dl">鷹山だょ〜</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|58|423|<span class="rank-name-dl">いけぞう</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|59|421|<span class="rank-name-dl">カンノコ</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|60|407|<span class="rank-name-dl">devil</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|61|393|<span class="rank-name-dl">みずき</span>|<a href="https://search.dartslive.com/jp/shop/8b7382d19aa26f04790ab824ce8730e5">Dardos　奈良王寺駅前店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|62|392|<span class="rank-name-dl">RIRI</span>|<a href="https://search.dartslive.com/jp/shop/8b7382d19aa26f04790ab824ce8730e5">Dardos　奈良王寺駅前店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|63|334|<span class="rank-name-dl">＊くみっきぃ＊</span>|<a href="https://search.dartslive.com/jp/shop/8b7382d19aa26f04790ab824ce8730e5">Dardos　奈良王寺駅前店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|64|328|<span class="rank-name-dl">★ＡＹＡＮＯ★</span>|<a href="https://search.dartslive.com/jp/shop/46dcbd3c70630f6d0d9b047a20a7ba1e">Darts Shop Balance Diner</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
+|65|275|<span class="rank-name-dl">のののののん</span>|<a href="https://search.dartslive.com/jp/shop/02292a126796e7d20d9b047a20a7ba1e">カラオケBANBAN西大和店</a>|<a href="/darts/rank/奈良県/北葛城郡">奈良県北葛城郡</a>|
 
 
 #### PHOENIXDARTS TOP 100

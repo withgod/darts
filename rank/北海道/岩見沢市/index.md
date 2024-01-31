@@ -36,28 +36,30 @@ ___
 |11|744|<span class="rank-name-dl">No 036</span>|<a href="https://search.dartslive.com/jp/shop/2182c6b513c47ba4790ab824ce8730e5">ダーツ酒場 RAINAS</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
 |12|739|<span class="rank-name-dl">しょーさん</span>|<a href="https://search.dartslive.com/jp/shop/a6439f703453939fa3f63593b5358cc4">ルシファー</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
 |13|733|<span class="rank-name-dl">ka-wa</span>|<a href="https://search.dartslive.com/jp/shop/120a9bd7259dd780774c926eb736cb5a">西山酒店</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
-|14|700|<span class="rank-name-dl">よしぽん</span>|<a href="https://search.dartslive.com/jp/shop/120a9bd7259dd780774c926eb736cb5a">西山酒店</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
-|15|697|<span class="rank-name-dl">檻楠</span>|<a href="https://search.dartslive.com/jp/shop/2182c6b513c47ba4790ab824ce8730e5">ダーツ酒場 RAINAS</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
-|16|696|<span class="rank-name-dl">ｱﾔｶ( ¨̮ )</span>|<a href="https://search.dartslive.com/jp/shop/a6439f703453939fa3f63593b5358cc4">ルシファー</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
-|17|682|<span class="rank-name-dl">ﾏｻｼ会長@山本組</span>|<a href="https://search.dartslive.com/jp/shop/a6439f703453939fa3f63593b5358cc4">ルシファー</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
-|18|671|<span class="rank-name-dl">隠岐 太志</span>|<a href="https://search.dartslive.com/jp/shop/a6439f703453939fa3f63593b5358cc4">ルシファー</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
-|19|666|<span class="rank-name-dl">もけもけあ</span>|<a href="https://search.dartslive.com/jp/shop/a6439f703453939fa3f63593b5358cc4">ルシファー</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
-|20|657|<span class="rank-name-dl">Ken35</span>|<a href="https://search.dartslive.com/jp/shop/2182c6b513c47ba4790ab824ce8730e5">ダーツ酒場 RAINAS</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
-|21|653|<span class="rank-name-dl">飛ばし屋(練習用)</span>|<a href="https://search.dartslive.com/jp/shop/a6439f703453939fa3f63593b5358cc4">ルシファー</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
-|22|646|<span class="rank-name-dl">ハンドルロッカー</span>|<a href="https://search.dartslive.com/jp/shop/120a9bd7259dd780774c926eb736cb5a">西山酒店</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
-|23|631|<span class="rank-name-dl">ケンケン@Lucifer</span>|<a href="https://search.dartslive.com/jp/shop/a6439f703453939fa3f63593b5358cc4">ルシファー</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
-|24|630|<span class="rank-name-dl">しょーさん</span>|<a href="https://search.dartslive.com/jp/shop/2182c6b513c47ba4790ab824ce8730e5">ダーツ酒場 RAINAS</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
-|25|623|<span class="rank-name-dl">atoz0113原田旭</span>|<a href="https://search.dartslive.com/jp/shop/a6439f703453939fa3f63593b5358cc4">ルシファー</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
-|26|607|<span class="rank-name-dl">ヨコスキ</span>|<a href="https://search.dartslive.com/jp/shop/a6439f703453939fa3f63593b5358cc4">ルシファー</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
-|27|565|<span class="rank-name-dl">ERI</span>|<a href="https://search.dartslive.com/jp/shop/120a9bd7259dd780774c926eb736cb5a">西山酒店</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
-|28|558|<span class="rank-name-dl">よしぽん</span>|<a href="https://search.dartslive.com/jp/shop/2182c6b513c47ba4790ab824ce8730e5">ダーツ酒場 RAINAS</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
-|29|550|<span class="rank-name-dl">やま</span>|<a href="https://search.dartslive.com/jp/shop/2182c6b513c47ba4790ab824ce8730e5">ダーツ酒場 RAINAS</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
-|30|544|<span class="rank-name-dl">ANIMAKI</span>|<a href="https://search.dartslive.com/jp/shop/120a9bd7259dd780774c926eb736cb5a">西山酒店</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
-|31|478|<span class="rank-name-dl">eri</span>|<a href="https://search.dartslive.com/jp/shop/2182c6b513c47ba4790ab824ce8730e5">ダーツ酒場 RAINAS</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
-|32|409|<span class="rank-name-dl">RAINAS.45</span>|<a href="https://search.dartslive.com/jp/shop/2182c6b513c47ba4790ab824ce8730e5">ダーツ酒場 RAINAS</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
-|33|406|<span class="rank-name-dl">MOJA</span>|<a href="https://search.dartslive.com/jp/shop/2182c6b513c47ba4790ab824ce8730e5">ダーツ酒場 RAINAS</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
-|34|372|<span class="rank-name-dl">Tomo</span>|<a href="https://search.dartslive.com/jp/shop/120a9bd7259dd780774c926eb736cb5a">西山酒店</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
-|35|345|<span class="rank-name-dl">Kosaka</span>|<a href="https://search.dartslive.com/jp/shop/2182c6b513c47ba4790ab824ce8730e5">ダーツ酒場 RAINAS</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
+|14|710|<span class="rank-name-dl">ｱﾔｶ( ¨̮ )</span>|<a href="https://search.dartslive.com/jp/shop/a6439f703453939fa3f63593b5358cc4">ルシファー</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
+|15|701|<span class="rank-name-dl">りょう</span>|<a href="https://search.dartslive.com/jp/shop/a6439f703453939fa3f63593b5358cc4">ルシファー</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
+|16|700|<span class="rank-name-dl">よしぽん</span>|<a href="https://search.dartslive.com/jp/shop/120a9bd7259dd780774c926eb736cb5a">西山酒店</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
+|17|697|<span class="rank-name-dl">檻楠</span>|<a href="https://search.dartslive.com/jp/shop/2182c6b513c47ba4790ab824ce8730e5">ダーツ酒場 RAINAS</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
+|18|682|<span class="rank-name-dl">ﾏｻｼ会長@山本組</span>|<a href="https://search.dartslive.com/jp/shop/a6439f703453939fa3f63593b5358cc4">ルシファー</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
+|19|671|<span class="rank-name-dl">隠岐 太志</span>|<a href="https://search.dartslive.com/jp/shop/a6439f703453939fa3f63593b5358cc4">ルシファー</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
+|20|666|<span class="rank-name-dl">もけもけあ</span>|<a href="https://search.dartslive.com/jp/shop/a6439f703453939fa3f63593b5358cc4">ルシファー</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
+|21|657|<span class="rank-name-dl">Ken35</span>|<a href="https://search.dartslive.com/jp/shop/2182c6b513c47ba4790ab824ce8730e5">ダーツ酒場 RAINAS</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
+|22|653|<span class="rank-name-dl">飛ばし屋(練習用)</span>|<a href="https://search.dartslive.com/jp/shop/a6439f703453939fa3f63593b5358cc4">ルシファー</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
+|23|646|<span class="rank-name-dl">ハンドルロッカー</span>|<a href="https://search.dartslive.com/jp/shop/120a9bd7259dd780774c926eb736cb5a">西山酒店</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
+|24|631|<span class="rank-name-dl">ケンケン@Lucifer</span>|<a href="https://search.dartslive.com/jp/shop/a6439f703453939fa3f63593b5358cc4">ルシファー</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
+|25|630|<span class="rank-name-dl">しょーさん</span>|<a href="https://search.dartslive.com/jp/shop/2182c6b513c47ba4790ab824ce8730e5">ダーツ酒場 RAINAS</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
+|26|623|<span class="rank-name-dl">atoz0113原田旭</span>|<a href="https://search.dartslive.com/jp/shop/a6439f703453939fa3f63593b5358cc4">ルシファー</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
+|27|607|<span class="rank-name-dl">ヨコスキ</span>|<a href="https://search.dartslive.com/jp/shop/a6439f703453939fa3f63593b5358cc4">ルシファー</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
+|28|565|<span class="rank-name-dl">ERI</span>|<a href="https://search.dartslive.com/jp/shop/120a9bd7259dd780774c926eb736cb5a">西山酒店</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
+|29|558|<span class="rank-name-dl">よしぽん</span>|<a href="https://search.dartslive.com/jp/shop/2182c6b513c47ba4790ab824ce8730e5">ダーツ酒場 RAINAS</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
+|30|550|<span class="rank-name-dl">やま</span>|<a href="https://search.dartslive.com/jp/shop/2182c6b513c47ba4790ab824ce8730e5">ダーツ酒場 RAINAS</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
+|31|544|<span class="rank-name-dl">ANIMAKI</span>|<a href="https://search.dartslive.com/jp/shop/120a9bd7259dd780774c926eb736cb5a">西山酒店</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
+|32|510|<span class="rank-name-dl">たくや</span>|<a href="https://search.dartslive.com/jp/shop/2182c6b513c47ba4790ab824ce8730e5">ダーツ酒場 RAINAS</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
+|33|478|<span class="rank-name-dl">eri</span>|<a href="https://search.dartslive.com/jp/shop/2182c6b513c47ba4790ab824ce8730e5">ダーツ酒場 RAINAS</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
+|34|409|<span class="rank-name-dl">RAINAS.45</span>|<a href="https://search.dartslive.com/jp/shop/2182c6b513c47ba4790ab824ce8730e5">ダーツ酒場 RAINAS</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
+|35|406|<span class="rank-name-dl">MOJA</span>|<a href="https://search.dartslive.com/jp/shop/2182c6b513c47ba4790ab824ce8730e5">ダーツ酒場 RAINAS</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
+|36|372|<span class="rank-name-dl">Tomo</span>|<a href="https://search.dartslive.com/jp/shop/120a9bd7259dd780774c926eb736cb5a">西山酒店</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
+|37|345|<span class="rank-name-dl">Kosaka</span>|<a href="https://search.dartslive.com/jp/shop/2182c6b513c47ba4790ab824ce8730e5">ダーツ酒場 RAINAS</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -80,28 +82,30 @@ ___
 |11|744|<span class="rank-name-dl">No 036</span>|<a href="https://search.dartslive.com/jp/shop/2182c6b513c47ba4790ab824ce8730e5">ダーツ酒場 RAINAS</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
 |12|739|<span class="rank-name-dl">しょーさん</span>|<a href="https://search.dartslive.com/jp/shop/a6439f703453939fa3f63593b5358cc4">ルシファー</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
 |13|733|<span class="rank-name-dl">ka-wa</span>|<a href="https://search.dartslive.com/jp/shop/120a9bd7259dd780774c926eb736cb5a">西山酒店</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
-|14|700|<span class="rank-name-dl">よしぽん</span>|<a href="https://search.dartslive.com/jp/shop/120a9bd7259dd780774c926eb736cb5a">西山酒店</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
-|15|697|<span class="rank-name-dl">檻楠</span>|<a href="https://search.dartslive.com/jp/shop/2182c6b513c47ba4790ab824ce8730e5">ダーツ酒場 RAINAS</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
-|16|696|<span class="rank-name-dl">ｱﾔｶ( ¨̮ )</span>|<a href="https://search.dartslive.com/jp/shop/a6439f703453939fa3f63593b5358cc4">ルシファー</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
-|17|682|<span class="rank-name-dl">ﾏｻｼ会長@山本組</span>|<a href="https://search.dartslive.com/jp/shop/a6439f703453939fa3f63593b5358cc4">ルシファー</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
-|18|671|<span class="rank-name-dl">隠岐 太志</span>|<a href="https://search.dartslive.com/jp/shop/a6439f703453939fa3f63593b5358cc4">ルシファー</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
-|19|666|<span class="rank-name-dl">もけもけあ</span>|<a href="https://search.dartslive.com/jp/shop/a6439f703453939fa3f63593b5358cc4">ルシファー</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
-|20|657|<span class="rank-name-dl">Ken35</span>|<a href="https://search.dartslive.com/jp/shop/2182c6b513c47ba4790ab824ce8730e5">ダーツ酒場 RAINAS</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
-|21|653|<span class="rank-name-dl">飛ばし屋(練習用)</span>|<a href="https://search.dartslive.com/jp/shop/a6439f703453939fa3f63593b5358cc4">ルシファー</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
-|22|646|<span class="rank-name-dl">ハンドルロッカー</span>|<a href="https://search.dartslive.com/jp/shop/120a9bd7259dd780774c926eb736cb5a">西山酒店</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
-|23|631|<span class="rank-name-dl">ケンケン@Lucifer</span>|<a href="https://search.dartslive.com/jp/shop/a6439f703453939fa3f63593b5358cc4">ルシファー</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
-|24|630|<span class="rank-name-dl">しょーさん</span>|<a href="https://search.dartslive.com/jp/shop/2182c6b513c47ba4790ab824ce8730e5">ダーツ酒場 RAINAS</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
-|25|623|<span class="rank-name-dl">atoz0113原田旭</span>|<a href="https://search.dartslive.com/jp/shop/a6439f703453939fa3f63593b5358cc4">ルシファー</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
-|26|607|<span class="rank-name-dl">ヨコスキ</span>|<a href="https://search.dartslive.com/jp/shop/a6439f703453939fa3f63593b5358cc4">ルシファー</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
-|27|565|<span class="rank-name-dl">ERI</span>|<a href="https://search.dartslive.com/jp/shop/120a9bd7259dd780774c926eb736cb5a">西山酒店</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
-|28|558|<span class="rank-name-dl">よしぽん</span>|<a href="https://search.dartslive.com/jp/shop/2182c6b513c47ba4790ab824ce8730e5">ダーツ酒場 RAINAS</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
-|29|550|<span class="rank-name-dl">やま</span>|<a href="https://search.dartslive.com/jp/shop/2182c6b513c47ba4790ab824ce8730e5">ダーツ酒場 RAINAS</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
-|30|544|<span class="rank-name-dl">ANIMAKI</span>|<a href="https://search.dartslive.com/jp/shop/120a9bd7259dd780774c926eb736cb5a">西山酒店</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
-|31|478|<span class="rank-name-dl">eri</span>|<a href="https://search.dartslive.com/jp/shop/2182c6b513c47ba4790ab824ce8730e5">ダーツ酒場 RAINAS</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
-|32|409|<span class="rank-name-dl">RAINAS.45</span>|<a href="https://search.dartslive.com/jp/shop/2182c6b513c47ba4790ab824ce8730e5">ダーツ酒場 RAINAS</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
-|33|406|<span class="rank-name-dl">MOJA</span>|<a href="https://search.dartslive.com/jp/shop/2182c6b513c47ba4790ab824ce8730e5">ダーツ酒場 RAINAS</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
-|34|372|<span class="rank-name-dl">Tomo</span>|<a href="https://search.dartslive.com/jp/shop/120a9bd7259dd780774c926eb736cb5a">西山酒店</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
-|35|345|<span class="rank-name-dl">Kosaka</span>|<a href="https://search.dartslive.com/jp/shop/2182c6b513c47ba4790ab824ce8730e5">ダーツ酒場 RAINAS</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
+|14|710|<span class="rank-name-dl">ｱﾔｶ( ¨̮ )</span>|<a href="https://search.dartslive.com/jp/shop/a6439f703453939fa3f63593b5358cc4">ルシファー</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
+|15|701|<span class="rank-name-dl">りょう</span>|<a href="https://search.dartslive.com/jp/shop/a6439f703453939fa3f63593b5358cc4">ルシファー</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
+|16|700|<span class="rank-name-dl">よしぽん</span>|<a href="https://search.dartslive.com/jp/shop/120a9bd7259dd780774c926eb736cb5a">西山酒店</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
+|17|697|<span class="rank-name-dl">檻楠</span>|<a href="https://search.dartslive.com/jp/shop/2182c6b513c47ba4790ab824ce8730e5">ダーツ酒場 RAINAS</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
+|18|682|<span class="rank-name-dl">ﾏｻｼ会長@山本組</span>|<a href="https://search.dartslive.com/jp/shop/a6439f703453939fa3f63593b5358cc4">ルシファー</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
+|19|671|<span class="rank-name-dl">隠岐 太志</span>|<a href="https://search.dartslive.com/jp/shop/a6439f703453939fa3f63593b5358cc4">ルシファー</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
+|20|666|<span class="rank-name-dl">もけもけあ</span>|<a href="https://search.dartslive.com/jp/shop/a6439f703453939fa3f63593b5358cc4">ルシファー</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
+|21|657|<span class="rank-name-dl">Ken35</span>|<a href="https://search.dartslive.com/jp/shop/2182c6b513c47ba4790ab824ce8730e5">ダーツ酒場 RAINAS</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
+|22|653|<span class="rank-name-dl">飛ばし屋(練習用)</span>|<a href="https://search.dartslive.com/jp/shop/a6439f703453939fa3f63593b5358cc4">ルシファー</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
+|23|646|<span class="rank-name-dl">ハンドルロッカー</span>|<a href="https://search.dartslive.com/jp/shop/120a9bd7259dd780774c926eb736cb5a">西山酒店</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
+|24|631|<span class="rank-name-dl">ケンケン@Lucifer</span>|<a href="https://search.dartslive.com/jp/shop/a6439f703453939fa3f63593b5358cc4">ルシファー</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
+|25|630|<span class="rank-name-dl">しょーさん</span>|<a href="https://search.dartslive.com/jp/shop/2182c6b513c47ba4790ab824ce8730e5">ダーツ酒場 RAINAS</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
+|26|623|<span class="rank-name-dl">atoz0113原田旭</span>|<a href="https://search.dartslive.com/jp/shop/a6439f703453939fa3f63593b5358cc4">ルシファー</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
+|27|607|<span class="rank-name-dl">ヨコスキ</span>|<a href="https://search.dartslive.com/jp/shop/a6439f703453939fa3f63593b5358cc4">ルシファー</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
+|28|565|<span class="rank-name-dl">ERI</span>|<a href="https://search.dartslive.com/jp/shop/120a9bd7259dd780774c926eb736cb5a">西山酒店</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
+|29|558|<span class="rank-name-dl">よしぽん</span>|<a href="https://search.dartslive.com/jp/shop/2182c6b513c47ba4790ab824ce8730e5">ダーツ酒場 RAINAS</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
+|30|550|<span class="rank-name-dl">やま</span>|<a href="https://search.dartslive.com/jp/shop/2182c6b513c47ba4790ab824ce8730e5">ダーツ酒場 RAINAS</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
+|31|544|<span class="rank-name-dl">ANIMAKI</span>|<a href="https://search.dartslive.com/jp/shop/120a9bd7259dd780774c926eb736cb5a">西山酒店</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
+|32|510|<span class="rank-name-dl">たくや</span>|<a href="https://search.dartslive.com/jp/shop/2182c6b513c47ba4790ab824ce8730e5">ダーツ酒場 RAINAS</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
+|33|478|<span class="rank-name-dl">eri</span>|<a href="https://search.dartslive.com/jp/shop/2182c6b513c47ba4790ab824ce8730e5">ダーツ酒場 RAINAS</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
+|34|409|<span class="rank-name-dl">RAINAS.45</span>|<a href="https://search.dartslive.com/jp/shop/2182c6b513c47ba4790ab824ce8730e5">ダーツ酒場 RAINAS</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
+|35|406|<span class="rank-name-dl">MOJA</span>|<a href="https://search.dartslive.com/jp/shop/2182c6b513c47ba4790ab824ce8730e5">ダーツ酒場 RAINAS</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
+|36|372|<span class="rank-name-dl">Tomo</span>|<a href="https://search.dartslive.com/jp/shop/120a9bd7259dd780774c926eb736cb5a">西山酒店</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
+|37|345|<span class="rank-name-dl">Kosaka</span>|<a href="https://search.dartslive.com/jp/shop/2182c6b513c47ba4790ab824ce8730e5">ダーツ酒場 RAINAS</a>|<a href="/darts/rank/北海道/岩見沢市">北海道岩見沢市</a>|
 
 
 #### PHOENIXDARTS TOP 100

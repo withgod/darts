@@ -25,10 +25,10 @@ ___
 |---|---|---|---|---|
 |1|940|<span class="rank-name-dl">YAKKY</span>|<a href="https://search.dartslive.com/jp/shop/89675e52c0843d3758d385ea46352d8f">abbey (bar)</a>|<a href="/darts/rank/京都府/亀岡市">京都府亀岡市</a>|
 |2|939|<span class="rank-name-dl">よっし～じゃけん</span>|<a href="https://search.dartslive.com/jp/shop/89675e52c0843d3758d385ea46352d8f">abbey (bar)</a>|<a href="/darts/rank/京都府/亀岡市">京都府亀岡市</a>|
-|3|892|<span class="rank-name-dl">Y-</span>|<a href="https://search.dartslive.com/jp/shop/89675e52c0843d3758d385ea46352d8f">abbey (bar)</a>|<a href="/darts/rank/京都府/亀岡市">京都府亀岡市</a>|
-|4|827|<span class="rank-name-dl">kenken</span>|<a href="https://search.dartslive.com/jp/shop/89675e52c0843d3758d385ea46352d8f">abbey (bar)</a>|<a href="/darts/rank/京都府/亀岡市">京都府亀岡市</a>|
-|5|825|<span class="rank-name-dl">ｼｬｸ$ﾎﾟｺﾊﾟﾝﾁｮｽ</span>|<a href="https://search.dartslive.com/jp/shop/89675e52c0843d3758d385ea46352d8f">abbey (bar)</a>|<a href="/darts/rank/京都府/亀岡市">京都府亀岡市</a>|
-|6|822|<span class="rank-name-dl">Usay</span>|<a href="https://search.dartslive.com/jp/shop/89675e52c0843d3758d385ea46352d8f">abbey (bar)</a>|<a href="/darts/rank/京都府/亀岡市">京都府亀岡市</a>|
+|3|923|<span class="rank-name-dl">Usay</span>|<a href="https://search.dartslive.com/jp/shop/89675e52c0843d3758d385ea46352d8f">abbey (bar)</a>|<a href="/darts/rank/京都府/亀岡市">京都府亀岡市</a>|
+|4|892|<span class="rank-name-dl">Y-</span>|<a href="https://search.dartslive.com/jp/shop/89675e52c0843d3758d385ea46352d8f">abbey (bar)</a>|<a href="/darts/rank/京都府/亀岡市">京都府亀岡市</a>|
+|5|827|<span class="rank-name-dl">kenken</span>|<a href="https://search.dartslive.com/jp/shop/89675e52c0843d3758d385ea46352d8f">abbey (bar)</a>|<a href="/darts/rank/京都府/亀岡市">京都府亀岡市</a>|
+|6|825|<span class="rank-name-dl">ｼｬｸ$ﾎﾟｺﾊﾟﾝﾁｮｽ</span>|<a href="https://search.dartslive.com/jp/shop/89675e52c0843d3758d385ea46352d8f">abbey (bar)</a>|<a href="/darts/rank/京都府/亀岡市">京都府亀岡市</a>|
 |7|820|<span class="rank-name-dl">まっつー。</span>|<a href="https://search.dartslive.com/jp/shop/89675e52c0843d3758d385ea46352d8f">abbey (bar)</a>|<a href="/darts/rank/京都府/亀岡市">京都府亀岡市</a>|
 |8|799|<span class="rank-name-dl">kouheiman</span>|<a href="https://search.dartslive.com/jp/shop/89675e52c0843d3758d385ea46352d8f">abbey (bar)</a>|<a href="/darts/rank/京都府/亀岡市">京都府亀岡市</a>|
 |9|793|<span class="rank-name-dl">176R</span>|<a href="https://search.dartslive.com/jp/shop/89675e52c0843d3758d385ea46352d8f">abbey (bar)</a>|<a href="/darts/rank/京都府/亀岡市">京都府亀岡市</a>|
@@ -38,12 +38,13 @@ ___
 |13|737|<span class="rank-name-dl">たける</span>|<a href="https://search.dartslive.com/jp/shop/89675e52c0843d3758d385ea46352d8f">abbey (bar)</a>|<a href="/darts/rank/京都府/亀岡市">京都府亀岡市</a>|
 |14|715|<span class="rank-name-dl">ともん</span>|<a href="https://search.dartslive.com/jp/shop/89675e52c0843d3758d385ea46352d8f">abbey (bar)</a>|<a href="/darts/rank/京都府/亀岡市">京都府亀岡市</a>|
 |15|711|<span class="rank-name-dl">ポル</span>|<a href="https://search.dartslive.com/jp/shop/89675e52c0843d3758d385ea46352d8f">abbey (bar)</a>|<a href="/darts/rank/京都府/亀岡市">京都府亀岡市</a>|
-|16|584|<span class="rank-name-dl">ナギサ</span>|<a href="https://search.dartslive.com/jp/shop/89675e52c0843d3758d385ea46352d8f">abbey (bar)</a>|<a href="/darts/rank/京都府/亀岡市">京都府亀岡市</a>|
-|17|578|<span class="rank-name-dl">まいまい</span>|<a href="https://search.dartslive.com/jp/shop/89675e52c0843d3758d385ea46352d8f">abbey (bar)</a>|<a href="/darts/rank/京都府/亀岡市">京都府亀岡市</a>|
-|18|469|<span class="rank-name-dl">PONちゃん@abbey</span>|<a href="https://search.dartslive.com/jp/shop/89675e52c0843d3758d385ea46352d8f">abbey (bar)</a>|<a href="/darts/rank/京都府/亀岡市">京都府亀岡市</a>|
-|19|458|<span class="rank-name-dl">aonori</span>|<a href="https://search.dartslive.com/jp/shop/89675e52c0843d3758d385ea46352d8f">abbey (bar)</a>|<a href="/darts/rank/京都府/亀岡市">京都府亀岡市</a>|
-|20|414|<span class="rank-name-dl">真純</span>|<a href="https://search.dartslive.com/jp/shop/89675e52c0843d3758d385ea46352d8f">abbey (bar)</a>|<a href="/darts/rank/京都府/亀岡市">京都府亀岡市</a>|
-|21|403|<span class="rank-name-dl">がーな</span>|<a href="https://search.dartslive.com/jp/shop/89675e52c0843d3758d385ea46352d8f">abbey (bar)</a>|<a href="/darts/rank/京都府/亀岡市">京都府亀岡市</a>|
+|16|708|<span class="rank-name-dl">呑鬼　〜Nonki〜</span>|<a href="https://search.dartslive.com/jp/shop/89675e52c0843d3758d385ea46352d8f">abbey (bar)</a>|<a href="/darts/rank/京都府/亀岡市">京都府亀岡市</a>|
+|17|584|<span class="rank-name-dl">ナギサ</span>|<a href="https://search.dartslive.com/jp/shop/89675e52c0843d3758d385ea46352d8f">abbey (bar)</a>|<a href="/darts/rank/京都府/亀岡市">京都府亀岡市</a>|
+|18|578|<span class="rank-name-dl">まいまい</span>|<a href="https://search.dartslive.com/jp/shop/89675e52c0843d3758d385ea46352d8f">abbey (bar)</a>|<a href="/darts/rank/京都府/亀岡市">京都府亀岡市</a>|
+|19|469|<span class="rank-name-dl">PONちゃん@abbey</span>|<a href="https://search.dartslive.com/jp/shop/89675e52c0843d3758d385ea46352d8f">abbey (bar)</a>|<a href="/darts/rank/京都府/亀岡市">京都府亀岡市</a>|
+|20|458|<span class="rank-name-dl">aonori</span>|<a href="https://search.dartslive.com/jp/shop/89675e52c0843d3758d385ea46352d8f">abbey (bar)</a>|<a href="/darts/rank/京都府/亀岡市">京都府亀岡市</a>|
+|21|414|<span class="rank-name-dl">真純</span>|<a href="https://search.dartslive.com/jp/shop/89675e52c0843d3758d385ea46352d8f">abbey (bar)</a>|<a href="/darts/rank/京都府/亀岡市">京都府亀岡市</a>|
+|22|403|<span class="rank-name-dl">がーな</span>|<a href="https://search.dartslive.com/jp/shop/89675e52c0843d3758d385ea46352d8f">abbey (bar)</a>|<a href="/darts/rank/京都府/亀岡市">京都府亀岡市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -55,10 +56,10 @@ ___
 |---|---|---|---|---|
 |1|940|<span class="rank-name-dl">YAKKY</span>|<a href="https://search.dartslive.com/jp/shop/89675e52c0843d3758d385ea46352d8f">abbey (bar)</a>|<a href="/darts/rank/京都府/亀岡市">京都府亀岡市</a>|
 |2|939|<span class="rank-name-dl">よっし～じゃけん</span>|<a href="https://search.dartslive.com/jp/shop/89675e52c0843d3758d385ea46352d8f">abbey (bar)</a>|<a href="/darts/rank/京都府/亀岡市">京都府亀岡市</a>|
-|3|892|<span class="rank-name-dl">Y-</span>|<a href="https://search.dartslive.com/jp/shop/89675e52c0843d3758d385ea46352d8f">abbey (bar)</a>|<a href="/darts/rank/京都府/亀岡市">京都府亀岡市</a>|
-|4|827|<span class="rank-name-dl">kenken</span>|<a href="https://search.dartslive.com/jp/shop/89675e52c0843d3758d385ea46352d8f">abbey (bar)</a>|<a href="/darts/rank/京都府/亀岡市">京都府亀岡市</a>|
-|5|825|<span class="rank-name-dl">ｼｬｸ$ﾎﾟｺﾊﾟﾝﾁｮｽ</span>|<a href="https://search.dartslive.com/jp/shop/89675e52c0843d3758d385ea46352d8f">abbey (bar)</a>|<a href="/darts/rank/京都府/亀岡市">京都府亀岡市</a>|
-|6|822|<span class="rank-name-dl">Usay</span>|<a href="https://search.dartslive.com/jp/shop/89675e52c0843d3758d385ea46352d8f">abbey (bar)</a>|<a href="/darts/rank/京都府/亀岡市">京都府亀岡市</a>|
+|3|923|<span class="rank-name-dl">Usay</span>|<a href="https://search.dartslive.com/jp/shop/89675e52c0843d3758d385ea46352d8f">abbey (bar)</a>|<a href="/darts/rank/京都府/亀岡市">京都府亀岡市</a>|
+|4|892|<span class="rank-name-dl">Y-</span>|<a href="https://search.dartslive.com/jp/shop/89675e52c0843d3758d385ea46352d8f">abbey (bar)</a>|<a href="/darts/rank/京都府/亀岡市">京都府亀岡市</a>|
+|5|827|<span class="rank-name-dl">kenken</span>|<a href="https://search.dartslive.com/jp/shop/89675e52c0843d3758d385ea46352d8f">abbey (bar)</a>|<a href="/darts/rank/京都府/亀岡市">京都府亀岡市</a>|
+|6|825|<span class="rank-name-dl">ｼｬｸ$ﾎﾟｺﾊﾟﾝﾁｮｽ</span>|<a href="https://search.dartslive.com/jp/shop/89675e52c0843d3758d385ea46352d8f">abbey (bar)</a>|<a href="/darts/rank/京都府/亀岡市">京都府亀岡市</a>|
 |7|820|<span class="rank-name-dl">まっつー。</span>|<a href="https://search.dartslive.com/jp/shop/89675e52c0843d3758d385ea46352d8f">abbey (bar)</a>|<a href="/darts/rank/京都府/亀岡市">京都府亀岡市</a>|
 |8|799|<span class="rank-name-dl">kouheiman</span>|<a href="https://search.dartslive.com/jp/shop/89675e52c0843d3758d385ea46352d8f">abbey (bar)</a>|<a href="/darts/rank/京都府/亀岡市">京都府亀岡市</a>|
 |9|793|<span class="rank-name-dl">176R</span>|<a href="https://search.dartslive.com/jp/shop/89675e52c0843d3758d385ea46352d8f">abbey (bar)</a>|<a href="/darts/rank/京都府/亀岡市">京都府亀岡市</a>|
@@ -68,12 +69,13 @@ ___
 |13|737|<span class="rank-name-dl">たける</span>|<a href="https://search.dartslive.com/jp/shop/89675e52c0843d3758d385ea46352d8f">abbey (bar)</a>|<a href="/darts/rank/京都府/亀岡市">京都府亀岡市</a>|
 |14|715|<span class="rank-name-dl">ともん</span>|<a href="https://search.dartslive.com/jp/shop/89675e52c0843d3758d385ea46352d8f">abbey (bar)</a>|<a href="/darts/rank/京都府/亀岡市">京都府亀岡市</a>|
 |15|711|<span class="rank-name-dl">ポル</span>|<a href="https://search.dartslive.com/jp/shop/89675e52c0843d3758d385ea46352d8f">abbey (bar)</a>|<a href="/darts/rank/京都府/亀岡市">京都府亀岡市</a>|
-|16|584|<span class="rank-name-dl">ナギサ</span>|<a href="https://search.dartslive.com/jp/shop/89675e52c0843d3758d385ea46352d8f">abbey (bar)</a>|<a href="/darts/rank/京都府/亀岡市">京都府亀岡市</a>|
-|17|578|<span class="rank-name-dl">まいまい</span>|<a href="https://search.dartslive.com/jp/shop/89675e52c0843d3758d385ea46352d8f">abbey (bar)</a>|<a href="/darts/rank/京都府/亀岡市">京都府亀岡市</a>|
-|18|469|<span class="rank-name-dl">PONちゃん@abbey</span>|<a href="https://search.dartslive.com/jp/shop/89675e52c0843d3758d385ea46352d8f">abbey (bar)</a>|<a href="/darts/rank/京都府/亀岡市">京都府亀岡市</a>|
-|19|458|<span class="rank-name-dl">aonori</span>|<a href="https://search.dartslive.com/jp/shop/89675e52c0843d3758d385ea46352d8f">abbey (bar)</a>|<a href="/darts/rank/京都府/亀岡市">京都府亀岡市</a>|
-|20|414|<span class="rank-name-dl">真純</span>|<a href="https://search.dartslive.com/jp/shop/89675e52c0843d3758d385ea46352d8f">abbey (bar)</a>|<a href="/darts/rank/京都府/亀岡市">京都府亀岡市</a>|
-|21|403|<span class="rank-name-dl">がーな</span>|<a href="https://search.dartslive.com/jp/shop/89675e52c0843d3758d385ea46352d8f">abbey (bar)</a>|<a href="/darts/rank/京都府/亀岡市">京都府亀岡市</a>|
+|16|708|<span class="rank-name-dl">呑鬼　〜Nonki〜</span>|<a href="https://search.dartslive.com/jp/shop/89675e52c0843d3758d385ea46352d8f">abbey (bar)</a>|<a href="/darts/rank/京都府/亀岡市">京都府亀岡市</a>|
+|17|584|<span class="rank-name-dl">ナギサ</span>|<a href="https://search.dartslive.com/jp/shop/89675e52c0843d3758d385ea46352d8f">abbey (bar)</a>|<a href="/darts/rank/京都府/亀岡市">京都府亀岡市</a>|
+|18|578|<span class="rank-name-dl">まいまい</span>|<a href="https://search.dartslive.com/jp/shop/89675e52c0843d3758d385ea46352d8f">abbey (bar)</a>|<a href="/darts/rank/京都府/亀岡市">京都府亀岡市</a>|
+|19|469|<span class="rank-name-dl">PONちゃん@abbey</span>|<a href="https://search.dartslive.com/jp/shop/89675e52c0843d3758d385ea46352d8f">abbey (bar)</a>|<a href="/darts/rank/京都府/亀岡市">京都府亀岡市</a>|
+|20|458|<span class="rank-name-dl">aonori</span>|<a href="https://search.dartslive.com/jp/shop/89675e52c0843d3758d385ea46352d8f">abbey (bar)</a>|<a href="/darts/rank/京都府/亀岡市">京都府亀岡市</a>|
+|21|414|<span class="rank-name-dl">真純</span>|<a href="https://search.dartslive.com/jp/shop/89675e52c0843d3758d385ea46352d8f">abbey (bar)</a>|<a href="/darts/rank/京都府/亀岡市">京都府亀岡市</a>|
+|22|403|<span class="rank-name-dl">がーな</span>|<a href="https://search.dartslive.com/jp/shop/89675e52c0843d3758d385ea46352d8f">abbey (bar)</a>|<a href="/darts/rank/京都府/亀岡市">京都府亀岡市</a>|
 
 
 #### PHOENIXDARTS TOP 100

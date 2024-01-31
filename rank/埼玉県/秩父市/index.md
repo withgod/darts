@@ -28,16 +28,16 @@ ___
 |3|900|<span class="rank-name-dl">智【絆】</span>|<a href="https://search.dartslive.com/jp/shop/8304fb96474369d6790ab824ce8730e5">自遊空間 秩父中央店</a>|<a href="/darts/rank/埼玉県/秩父市">埼玉県秩父市</a>|
 |4|895|<span class="rank-name-dl">GAN【絆】</span>|<a href="https://search.dartslive.com/jp/shop/8304fb96474369d6790ab824ce8730e5">自遊空間 秩父中央店</a>|<a href="/darts/rank/埼玉県/秩父市">埼玉県秩父市</a>|
 |5|890|<span class="rank-name-dl">たつ</span>|<a href="https://search.dartslive.com/jp/shop/8304fb96474369d6790ab824ce8730e5">自遊空間 秩父中央店</a>|<a href="/darts/rank/埼玉県/秩父市">埼玉県秩父市</a>|
-|6|857|<span class="rank-name-dl">たつきんぐ</span>|<a href="https://search.dartslive.com/jp/shop/8304fb96474369d6790ab824ce8730e5">自遊空間 秩父中央店</a>|<a href="/darts/rank/埼玉県/秩父市">埼玉県秩父市</a>|
-|7|846|<span class="rank-name-dl">※SNOW※</span>|<a href="https://search.dartslive.com/jp/shop/8304fb96474369d6790ab824ce8730e5">自遊空間 秩父中央店</a>|<a href="/darts/rank/埼玉県/秩父市">埼玉県秩父市</a>|
-|8|819|<span class="rank-name-dl">将ω</span>|<a href="https://search.dartslive.com/jp/shop/8304fb96474369d6790ab824ce8730e5">自遊空間 秩父中央店</a>|<a href="/darts/rank/埼玉県/秩父市">埼玉県秩父市</a>|
-|9|787|<span class="rank-name-dl">諦</span>|<a href="https://search.dartslive.com/jp/shop/8304fb96474369d6790ab824ce8730e5">自遊空間 秩父中央店</a>|<a href="/darts/rank/埼玉県/秩父市">埼玉県秩父市</a>|
-|10|753|<span class="rank-name-dl">Seki</span>|<a href="https://search.dartslive.com/jp/shop/8304fb96474369d6790ab824ce8730e5">自遊空間 秩父中央店</a>|<a href="/darts/rank/埼玉県/秩父市">埼玉県秩父市</a>|
-|11|685|<span class="rank-name-dl">SAN</span>|<a href="https://search.dartslive.com/jp/shop/8304fb96474369d6790ab824ce8730e5">自遊空間 秩父中央店</a>|<a href="/darts/rank/埼玉県/秩父市">埼玉県秩父市</a>|
-|12|660|<span class="rank-name-dl">( ﾟдﾟ)ﾊｯ!ショ</span>|<a href="https://search.dartslive.com/jp/shop/8304fb96474369d6790ab824ce8730e5">自遊空間 秩父中央店</a>|<a href="/darts/rank/埼玉県/秩父市">埼玉県秩父市</a>|
-|13|653|<span class="rank-name-dl">☞みずき☜</span>|<a href="https://search.dartslive.com/jp/shop/8304fb96474369d6790ab824ce8730e5">自遊空間 秩父中央店</a>|<a href="/darts/rank/埼玉県/秩父市">埼玉県秩父市</a>|
-|14|630|<span class="rank-name-dl">★☆ｻｲﾄｫーー→◎</span>|<a href="https://search.dartslive.com/jp/shop/8304fb96474369d6790ab824ce8730e5">自遊空間 秩父中央店</a>|<a href="/darts/rank/埼玉県/秩父市">埼玉県秩父市</a>|
-|14|630|<span class="rank-name-dl">輪＠遊牧亭</span>|<a href="https://search.dartslive.com/jp/shop/8304fb96474369d6790ab824ce8730e5">自遊空間 秩父中央店</a>|<a href="/darts/rank/埼玉県/秩父市">埼玉県秩父市</a>|
+|6|861|<span class="rank-name-dl">岩崎　祐二</span>|<a href="https://search.dartslive.com/jp/shop/8304fb96474369d6790ab824ce8730e5">自遊空間 秩父中央店</a>|<a href="/darts/rank/埼玉県/秩父市">埼玉県秩父市</a>|
+|7|857|<span class="rank-name-dl">たつきんぐ</span>|<a href="https://search.dartslive.com/jp/shop/8304fb96474369d6790ab824ce8730e5">自遊空間 秩父中央店</a>|<a href="/darts/rank/埼玉県/秩父市">埼玉県秩父市</a>|
+|8|846|<span class="rank-name-dl">※SNOW※</span>|<a href="https://search.dartslive.com/jp/shop/8304fb96474369d6790ab824ce8730e5">自遊空間 秩父中央店</a>|<a href="/darts/rank/埼玉県/秩父市">埼玉県秩父市</a>|
+|9|819|<span class="rank-name-dl">将ω</span>|<a href="https://search.dartslive.com/jp/shop/8304fb96474369d6790ab824ce8730e5">自遊空間 秩父中央店</a>|<a href="/darts/rank/埼玉県/秩父市">埼玉県秩父市</a>|
+|10|787|<span class="rank-name-dl">諦</span>|<a href="https://search.dartslive.com/jp/shop/8304fb96474369d6790ab824ce8730e5">自遊空間 秩父中央店</a>|<a href="/darts/rank/埼玉県/秩父市">埼玉県秩父市</a>|
+|11|772|<span class="rank-name-dl">岩﨑　祐二</span>|<a href="https://search.dartslive.com/jp/shop/8304fb96474369d6790ab824ce8730e5">自遊空間 秩父中央店</a>|<a href="/darts/rank/埼玉県/秩父市">埼玉県秩父市</a>|
+|12|753|<span class="rank-name-dl">Seki</span>|<a href="https://search.dartslive.com/jp/shop/8304fb96474369d6790ab824ce8730e5">自遊空間 秩父中央店</a>|<a href="/darts/rank/埼玉県/秩父市">埼玉県秩父市</a>|
+|13|685|<span class="rank-name-dl">SAN</span>|<a href="https://search.dartslive.com/jp/shop/8304fb96474369d6790ab824ce8730e5">自遊空間 秩父中央店</a>|<a href="/darts/rank/埼玉県/秩父市">埼玉県秩父市</a>|
+|14|660|<span class="rank-name-dl">( ﾟдﾟ)ﾊｯ!ショ</span>|<a href="https://search.dartslive.com/jp/shop/8304fb96474369d6790ab824ce8730e5">自遊空間 秩父中央店</a>|<a href="/darts/rank/埼玉県/秩父市">埼玉県秩父市</a>|
+|15|653|<span class="rank-name-dl">☞みずき☜</span>|<a href="https://search.dartslive.com/jp/shop/8304fb96474369d6790ab824ce8730e5">自遊空間 秩父中央店</a>|<a href="/darts/rank/埼玉県/秩父市">埼玉県秩父市</a>|
 |16|610|<span class="rank-name-pd">Naoki【絆】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7242?s_seq=7242">自遊空間 秩父中央店</a>|<a href="/darts/rank/埼玉県/秩父市">埼玉県秩父市</a>|
 |17|602|<span class="rank-name-dl">らいむ</span>|<a href="https://search.dartslive.com/jp/shop/8304fb96474369d6790ab824ce8730e5">自遊空間 秩父中央店</a>|<a href="/darts/rank/埼玉県/秩父市">埼玉県秩父市</a>|
 |18|579|<span class="rank-name-dl">バーシー2</span>|<a href="https://search.dartslive.com/jp/shop/8304fb96474369d6790ab824ce8730e5">自遊空間 秩父中央店</a>|<a href="/darts/rank/埼玉県/秩父市">埼玉県秩父市</a>|
@@ -56,16 +56,16 @@ ___
 |3|900|<span class="rank-name-dl">智【絆】</span>|<a href="https://search.dartslive.com/jp/shop/8304fb96474369d6790ab824ce8730e5">自遊空間 秩父中央店</a>|<a href="/darts/rank/埼玉県/秩父市">埼玉県秩父市</a>|
 |4|895|<span class="rank-name-dl">GAN【絆】</span>|<a href="https://search.dartslive.com/jp/shop/8304fb96474369d6790ab824ce8730e5">自遊空間 秩父中央店</a>|<a href="/darts/rank/埼玉県/秩父市">埼玉県秩父市</a>|
 |5|890|<span class="rank-name-dl">たつ</span>|<a href="https://search.dartslive.com/jp/shop/8304fb96474369d6790ab824ce8730e5">自遊空間 秩父中央店</a>|<a href="/darts/rank/埼玉県/秩父市">埼玉県秩父市</a>|
-|6|857|<span class="rank-name-dl">たつきんぐ</span>|<a href="https://search.dartslive.com/jp/shop/8304fb96474369d6790ab824ce8730e5">自遊空間 秩父中央店</a>|<a href="/darts/rank/埼玉県/秩父市">埼玉県秩父市</a>|
-|7|846|<span class="rank-name-dl">※SNOW※</span>|<a href="https://search.dartslive.com/jp/shop/8304fb96474369d6790ab824ce8730e5">自遊空間 秩父中央店</a>|<a href="/darts/rank/埼玉県/秩父市">埼玉県秩父市</a>|
-|8|819|<span class="rank-name-dl">将ω</span>|<a href="https://search.dartslive.com/jp/shop/8304fb96474369d6790ab824ce8730e5">自遊空間 秩父中央店</a>|<a href="/darts/rank/埼玉県/秩父市">埼玉県秩父市</a>|
-|9|787|<span class="rank-name-dl">諦</span>|<a href="https://search.dartslive.com/jp/shop/8304fb96474369d6790ab824ce8730e5">自遊空間 秩父中央店</a>|<a href="/darts/rank/埼玉県/秩父市">埼玉県秩父市</a>|
-|10|753|<span class="rank-name-dl">Seki</span>|<a href="https://search.dartslive.com/jp/shop/8304fb96474369d6790ab824ce8730e5">自遊空間 秩父中央店</a>|<a href="/darts/rank/埼玉県/秩父市">埼玉県秩父市</a>|
-|11|685|<span class="rank-name-dl">SAN</span>|<a href="https://search.dartslive.com/jp/shop/8304fb96474369d6790ab824ce8730e5">自遊空間 秩父中央店</a>|<a href="/darts/rank/埼玉県/秩父市">埼玉県秩父市</a>|
-|12|660|<span class="rank-name-dl">( ﾟдﾟ)ﾊｯ!ショ</span>|<a href="https://search.dartslive.com/jp/shop/8304fb96474369d6790ab824ce8730e5">自遊空間 秩父中央店</a>|<a href="/darts/rank/埼玉県/秩父市">埼玉県秩父市</a>|
-|13|653|<span class="rank-name-dl">☞みずき☜</span>|<a href="https://search.dartslive.com/jp/shop/8304fb96474369d6790ab824ce8730e5">自遊空間 秩父中央店</a>|<a href="/darts/rank/埼玉県/秩父市">埼玉県秩父市</a>|
-|14|630|<span class="rank-name-dl">★☆ｻｲﾄｫーー→◎</span>|<a href="https://search.dartslive.com/jp/shop/8304fb96474369d6790ab824ce8730e5">自遊空間 秩父中央店</a>|<a href="/darts/rank/埼玉県/秩父市">埼玉県秩父市</a>|
-|14|630|<span class="rank-name-dl">輪＠遊牧亭</span>|<a href="https://search.dartslive.com/jp/shop/8304fb96474369d6790ab824ce8730e5">自遊空間 秩父中央店</a>|<a href="/darts/rank/埼玉県/秩父市">埼玉県秩父市</a>|
+|6|861|<span class="rank-name-dl">岩崎　祐二</span>|<a href="https://search.dartslive.com/jp/shop/8304fb96474369d6790ab824ce8730e5">自遊空間 秩父中央店</a>|<a href="/darts/rank/埼玉県/秩父市">埼玉県秩父市</a>|
+|7|857|<span class="rank-name-dl">たつきんぐ</span>|<a href="https://search.dartslive.com/jp/shop/8304fb96474369d6790ab824ce8730e5">自遊空間 秩父中央店</a>|<a href="/darts/rank/埼玉県/秩父市">埼玉県秩父市</a>|
+|8|846|<span class="rank-name-dl">※SNOW※</span>|<a href="https://search.dartslive.com/jp/shop/8304fb96474369d6790ab824ce8730e5">自遊空間 秩父中央店</a>|<a href="/darts/rank/埼玉県/秩父市">埼玉県秩父市</a>|
+|9|819|<span class="rank-name-dl">将ω</span>|<a href="https://search.dartslive.com/jp/shop/8304fb96474369d6790ab824ce8730e5">自遊空間 秩父中央店</a>|<a href="/darts/rank/埼玉県/秩父市">埼玉県秩父市</a>|
+|10|787|<span class="rank-name-dl">諦</span>|<a href="https://search.dartslive.com/jp/shop/8304fb96474369d6790ab824ce8730e5">自遊空間 秩父中央店</a>|<a href="/darts/rank/埼玉県/秩父市">埼玉県秩父市</a>|
+|11|772|<span class="rank-name-dl">岩﨑　祐二</span>|<a href="https://search.dartslive.com/jp/shop/8304fb96474369d6790ab824ce8730e5">自遊空間 秩父中央店</a>|<a href="/darts/rank/埼玉県/秩父市">埼玉県秩父市</a>|
+|12|753|<span class="rank-name-dl">Seki</span>|<a href="https://search.dartslive.com/jp/shop/8304fb96474369d6790ab824ce8730e5">自遊空間 秩父中央店</a>|<a href="/darts/rank/埼玉県/秩父市">埼玉県秩父市</a>|
+|13|685|<span class="rank-name-dl">SAN</span>|<a href="https://search.dartslive.com/jp/shop/8304fb96474369d6790ab824ce8730e5">自遊空間 秩父中央店</a>|<a href="/darts/rank/埼玉県/秩父市">埼玉県秩父市</a>|
+|14|660|<span class="rank-name-dl">( ﾟдﾟ)ﾊｯ!ショ</span>|<a href="https://search.dartslive.com/jp/shop/8304fb96474369d6790ab824ce8730e5">自遊空間 秩父中央店</a>|<a href="/darts/rank/埼玉県/秩父市">埼玉県秩父市</a>|
+|15|653|<span class="rank-name-dl">☞みずき☜</span>|<a href="https://search.dartslive.com/jp/shop/8304fb96474369d6790ab824ce8730e5">自遊空間 秩父中央店</a>|<a href="/darts/rank/埼玉県/秩父市">埼玉県秩父市</a>|
 |16|602|<span class="rank-name-dl">らいむ</span>|<a href="https://search.dartslive.com/jp/shop/8304fb96474369d6790ab824ce8730e5">自遊空間 秩父中央店</a>|<a href="/darts/rank/埼玉県/秩父市">埼玉県秩父市</a>|
 |17|579|<span class="rank-name-dl">バーシー2</span>|<a href="https://search.dartslive.com/jp/shop/8304fb96474369d6790ab824ce8730e5">自遊空間 秩父中央店</a>|<a href="/darts/rank/埼玉県/秩父市">埼玉県秩父市</a>|
 |18|516|<span class="rank-name-dl">涼華@遊牧亭JOKER</span>|<a href="https://search.dartslive.com/jp/shop/8304fb96474369d6790ab824ce8730e5">自遊空間 秩父中央店</a>|<a href="/darts/rank/埼玉県/秩父市">埼玉県秩父市</a>|

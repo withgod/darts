@@ -38,7 +38,6 @@ ___
 |13|548|<span class="rank-name-dl">＊Natsu@OHANA＊</span>|<a href="https://search.dartslive.com/jp/shop/41985d6634aaf8980d9b047a20a7ba1e">ﾀﾞｲﾆﾝｸﾞﾊﾞｰ OHANA</a>|<a href="/darts/rank/東京都/東久留米市">東京都東久留米市</a>|
 |14|540|<span class="rank-name-dl">DIE◇JD魂</span>|<a href="https://search.dartslive.com/jp/shop/41985d6634aaf8980d9b047a20a7ba1e">ﾀﾞｲﾆﾝｸﾞﾊﾞｰ OHANA</a>|<a href="/darts/rank/東京都/東久留米市">東京都東久留米市</a>|
 |15|498|<span class="rank-name-dl">金谷店長</span>|<a href="https://search.dartslive.com/jp/shop/41985d6634aaf8980d9b047a20a7ba1e">ﾀﾞｲﾆﾝｸﾞﾊﾞｰ OHANA</a>|<a href="/darts/rank/東京都/東久留米市">東京都東久留米市</a>|
-|16|396|<span class="rank-name-dl">らんさん</span>|<a href="https://search.dartslive.com/jp/shop/41985d6634aaf8980d9b047a20a7ba1e">ﾀﾞｲﾆﾝｸﾞﾊﾞｰ OHANA</a>|<a href="/darts/rank/東京都/東久留米市">東京都東久留米市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -63,7 +62,6 @@ ___
 |13|548|<span class="rank-name-dl">＊Natsu@OHANA＊</span>|<a href="https://search.dartslive.com/jp/shop/41985d6634aaf8980d9b047a20a7ba1e">ﾀﾞｲﾆﾝｸﾞﾊﾞｰ OHANA</a>|<a href="/darts/rank/東京都/東久留米市">東京都東久留米市</a>|
 |14|540|<span class="rank-name-dl">DIE◇JD魂</span>|<a href="https://search.dartslive.com/jp/shop/41985d6634aaf8980d9b047a20a7ba1e">ﾀﾞｲﾆﾝｸﾞﾊﾞｰ OHANA</a>|<a href="/darts/rank/東京都/東久留米市">東京都東久留米市</a>|
 |15|498|<span class="rank-name-dl">金谷店長</span>|<a href="https://search.dartslive.com/jp/shop/41985d6634aaf8980d9b047a20a7ba1e">ﾀﾞｲﾆﾝｸﾞﾊﾞｰ OHANA</a>|<a href="/darts/rank/東京都/東久留米市">東京都東久留米市</a>|
-|16|396|<span class="rank-name-dl">らんさん</span>|<a href="https://search.dartslive.com/jp/shop/41985d6634aaf8980d9b047a20a7ba1e">ﾀﾞｲﾆﾝｸﾞﾊﾞｰ OHANA</a>|<a href="/darts/rank/東京都/東久留米市">東京都東久留米市</a>|
 
 
 #### PHOENIXDARTS TOP 100

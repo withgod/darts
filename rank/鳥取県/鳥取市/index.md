@@ -27,13 +27,13 @@ ___
 |2|1046|<span class="rank-name-dl">青波*</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
 |2|1046|<span class="rank-name-dl">風味屋</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
 |4|1041|<span class="rank-name-pd">村上 史也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|5|1003|<span class="rank-name-dl">あきひろ</span>|<a href="https://search.dartslive.com/jp/shop/c9c99e11a18a49270d9b047a20a7ba1e">ダーツバー　ランス</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|6|972|<span class="rank-name-dl">かめさん</span>|<a href="https://search.dartslive.com/jp/shop/c9c99e11a18a49270d9b047a20a7ba1e">ダーツバー　ランス</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|5|1006|<span class="rank-name-dl">かめさん</span>|<a href="https://search.dartslive.com/jp/shop/c9c99e11a18a49270d9b047a20a7ba1e">ダーツバー　ランス</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|6|1003|<span class="rank-name-dl">あきひろ</span>|<a href="https://search.dartslive.com/jp/shop/c9c99e11a18a49270d9b047a20a7ba1e">ダーツバー　ランス</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
 |7|960|<span class="rank-name-pd">治徳 大伸</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
 |8|927|<span class="rank-name-dl">ゆうすけ</span>|<a href="https://search.dartslive.com/jp/shop/c9c99e11a18a49270d9b047a20a7ba1e">ダーツバー　ランス</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|9|919|<span class="rank-name-dl">きー@ｳﾗｯﾁｰｽﾞ</span>|<a href="https://search.dartslive.com/jp/shop/c9c99e11a18a49270d9b047a20a7ba1e">ダーツバー　ランス</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|10|912|<span class="rank-name-dl">akkey</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|11|905|<span class="rank-name-pd">ﾍﾟﾃﾙｷﾞｳｽﾛﾏﾈｺﾝﾃｨ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|9|922|<span class="rank-name-pd">ﾍﾟﾃﾙｷﾞｳｽﾛﾏﾈｺﾝﾃｨ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|10|919|<span class="rank-name-dl">きー@ｳﾗｯﾁｰｽﾞ</span>|<a href="https://search.dartslive.com/jp/shop/c9c99e11a18a49270d9b047a20a7ba1e">ダーツバー　ランス</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|11|912|<span class="rank-name-dl">akkey</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
 |12|884|<span class="rank-name-dl">444</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
 |13|866|<span class="rank-name-dl">ゆうすけ</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
 |14|853|<span class="rank-name-dl">き〜くん@もぴ</span>|<a href="https://search.dartslive.com/jp/shop/c9c99e11a18a49270d9b047a20a7ba1e">ダーツバー　ランス</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
@@ -52,50 +52,48 @@ ___
 |27|769|<span class="rank-name-dl">がーすー</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
 |28|763|<span class="rank-name-dl">Masaya</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
 |29|760|<span class="rank-name-pd">がきつか</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|30|756|<span class="rank-name-pd">APPLE MICHIKO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|30|758|<span class="rank-name-pd">APPLE MICHIKO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
 |31|753|<span class="rank-name-pd">あ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
 |32|750|<span class="rank-name-dl">ゆたちゃん</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|33|732|<span class="rank-name-pd">めんたるが冷奴</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|34|729|<span class="rank-name-pd">ﾊﾄ胸ﾏｯﾁｮ君</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|35|724|<span class="rank-name-pd">HP1MP0</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|35|724|<span class="rank-name-pd">まーさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|37|713|<span class="rank-name-dl">えんたく</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|38|708|<span class="rank-name-dl">なおち</span>|<a href="https://search.dartslive.com/jp/shop/c9c99e11a18a49270d9b047a20a7ba1e">ダーツバー　ランス</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|38|708|<span class="rank-name-dl">モルテン</span>|<a href="https://search.dartslive.com/jp/shop/c9c99e11a18a49270d9b047a20a7ba1e">ダーツバー　ランス</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|40|707|<span class="rank-name-dl">seiya</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|41|695|<span class="rank-name-dl">じゅんきっさ</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|42|690|<span class="rank-name-dl">NO NAME 3729</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|43|668|<span class="rank-name-pd">毒島 大広</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|44|658|<span class="rank-name-pd">@masaya@(・Д・)ノ→</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|45|640|<span class="rank-name-pd">ヨォ～(^_^)v</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|46|627|<span class="rank-name-dl">わたる</span>|<a href="https://search.dartslive.com/jp/shop/c9c99e11a18a49270d9b047a20a7ba1e">ダーツバー　ランス</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|47|618|<span class="rank-name-dl">狐梅林</span>|<a href="https://search.dartslive.com/jp/shop/c9c99e11a18a49270d9b047a20a7ba1e">ダーツバー　ランス</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|48|616|<span class="rank-name-pd">428</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|49|615|<span class="rank-name-dl">YA</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|50|613|<span class="rank-name-dl">宮侑</span>|<a href="https://search.dartslive.com/jp/shop/c9c99e11a18a49270d9b047a20a7ba1e">ダーツバー　ランス</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|51|610|<span class="rank-name-dl">いっちー</span>|<a href="https://search.dartslive.com/jp/shop/c9c99e11a18a49270d9b047a20a7ba1e">ダーツバー　ランス</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|52|601|<span class="rank-name-dl">LILY8899</span>|<a href="https://search.dartslive.com/jp/shop/c9c99e11a18a49270d9b047a20a7ba1e">ダーツバー　ランス</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|53|589|<span class="rank-name-pd">植田 貴裕</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|54|570|<span class="rank-name-pd">RYUGA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|55|560|<span class="rank-name-dl">ばっちゃ</span>|<a href="https://search.dartslive.com/jp/shop/c9c99e11a18a49270d9b047a20a7ba1e">ダーツバー　ランス</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|56|527|<span class="rank-name-pd">Mr.KUMA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|57|526|<span class="rank-name-dl">Bell</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|58|524|<span class="rank-name-pd">OBAKA MI-CO!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|59|501|<span class="rank-name-dl">Barcarolle</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|60|498|<span class="rank-name-dl">aya</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|61|484|<span class="rank-name-dl">Wakaba12</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|62|470|<span class="rank-name-pd">植田 貴裕[PERFECT]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|63|461|<span class="rank-name-pd">すかぃはぃ＋たっちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|64|443|<span class="rank-name-pd">たぁ坊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|65|429|<span class="rank-name-dl">rice sprouts</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|66|409|<span class="rank-name-dl">Reko</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|67|402|<span class="rank-name-pd">よりさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|68|370|<span class="rank-name-dl">monet.</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|68|370|<span class="rank-name-dl">yoshi</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|70|352|<span class="rank-name-dl">science</span>|<a href="https://search.dartslive.com/jp/shop/c9c99e11a18a49270d9b047a20a7ba1e">ダーツバー　ランス</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|71|294|<span class="rank-name-pd">RIKU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|72|282|<span class="rank-name-dl">Tarumeiro</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|73|252|<span class="rank-name-dl">SiN</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|33|734|<span class="rank-name-dl">seiya</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|34|732|<span class="rank-name-pd">めんたるが冷奴</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|35|729|<span class="rank-name-pd">ﾊﾄ胸ﾏｯﾁｮ君</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|36|724|<span class="rank-name-pd">HP1MP0</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|36|724|<span class="rank-name-pd">まーさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|38|713|<span class="rank-name-dl">えんたく</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|39|708|<span class="rank-name-dl">なおち</span>|<a href="https://search.dartslive.com/jp/shop/c9c99e11a18a49270d9b047a20a7ba1e">ダーツバー　ランス</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|39|708|<span class="rank-name-dl">モルテン</span>|<a href="https://search.dartslive.com/jp/shop/c9c99e11a18a49270d9b047a20a7ba1e">ダーツバー　ランス</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|41|668|<span class="rank-name-pd">毒島 大広</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|42|658|<span class="rank-name-pd">@masaya@(・Д・)ノ→</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|43|640|<span class="rank-name-pd">ヨォ～(^_^)v</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|44|627|<span class="rank-name-dl">わたる</span>|<a href="https://search.dartslive.com/jp/shop/c9c99e11a18a49270d9b047a20a7ba1e">ダーツバー　ランス</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|45|618|<span class="rank-name-pd">たぁ坊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|45|618|<span class="rank-name-dl">狐梅林</span>|<a href="https://search.dartslive.com/jp/shop/c9c99e11a18a49270d9b047a20a7ba1e">ダーツバー　ランス</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|47|616|<span class="rank-name-pd">428</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|48|615|<span class="rank-name-dl">YA</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|49|613|<span class="rank-name-dl">宮侑</span>|<a href="https://search.dartslive.com/jp/shop/c9c99e11a18a49270d9b047a20a7ba1e">ダーツバー　ランス</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|50|610|<span class="rank-name-dl">いっちー</span>|<a href="https://search.dartslive.com/jp/shop/c9c99e11a18a49270d9b047a20a7ba1e">ダーツバー　ランス</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|51|601|<span class="rank-name-dl">LILY8899</span>|<a href="https://search.dartslive.com/jp/shop/c9c99e11a18a49270d9b047a20a7ba1e">ダーツバー　ランス</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|52|589|<span class="rank-name-pd">植田 貴裕</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|53|570|<span class="rank-name-pd">RYUGA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|54|560|<span class="rank-name-dl">ばっちゃ</span>|<a href="https://search.dartslive.com/jp/shop/c9c99e11a18a49270d9b047a20a7ba1e">ダーツバー　ランス</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|55|527|<span class="rank-name-pd">Mr.KUMA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|56|526|<span class="rank-name-dl">Bell</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|57|524|<span class="rank-name-pd">OBAKA MI-CO!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|58|498|<span class="rank-name-dl">aya</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|59|470|<span class="rank-name-pd">植田 貴裕[PERFECT]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|60|461|<span class="rank-name-pd">すかぃはぃ＋たっちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|61|438|<span class="rank-name-pd">sky-high + TATSUYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|62|429|<span class="rank-name-dl">rice sprouts</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|63|409|<span class="rank-name-dl">Reko</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|64|402|<span class="rank-name-pd">よりさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|65|370|<span class="rank-name-dl">monet.</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|65|370|<span class="rank-name-dl">yoshi</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|67|352|<span class="rank-name-dl">science</span>|<a href="https://search.dartslive.com/jp/shop/c9c99e11a18a49270d9b047a20a7ba1e">ダーツバー　ランス</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|68|345|<span class="rank-name-dl">ろろん</span>|<a href="https://search.dartslive.com/jp/shop/c9c99e11a18a49270d9b047a20a7ba1e">ダーツバー　ランス</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|69|294|<span class="rank-name-pd">RIKU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|70|282|<span class="rank-name-dl">Tarumeiro</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|71|252|<span class="rank-name-dl">SiN</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -108,8 +106,8 @@ ___
 |1|1075|<span class="rank-name-dl">Ｍasaki.Ｋ</span>|<a href="https://search.dartslive.com/jp/shop/c9c99e11a18a49270d9b047a20a7ba1e">ダーツバー　ランス</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
 |2|1046|<span class="rank-name-dl">青波*</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
 |2|1046|<span class="rank-name-dl">風味屋</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|4|1003|<span class="rank-name-dl">あきひろ</span>|<a href="https://search.dartslive.com/jp/shop/c9c99e11a18a49270d9b047a20a7ba1e">ダーツバー　ランス</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|5|972|<span class="rank-name-dl">かめさん</span>|<a href="https://search.dartslive.com/jp/shop/c9c99e11a18a49270d9b047a20a7ba1e">ダーツバー　ランス</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|4|1006|<span class="rank-name-dl">かめさん</span>|<a href="https://search.dartslive.com/jp/shop/c9c99e11a18a49270d9b047a20a7ba1e">ダーツバー　ランス</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|5|1003|<span class="rank-name-dl">あきひろ</span>|<a href="https://search.dartslive.com/jp/shop/c9c99e11a18a49270d9b047a20a7ba1e">ダーツバー　ランス</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
 |6|927|<span class="rank-name-dl">ゆうすけ</span>|<a href="https://search.dartslive.com/jp/shop/c9c99e11a18a49270d9b047a20a7ba1e">ダーツバー　ランス</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
 |7|919|<span class="rank-name-dl">きー@ｳﾗｯﾁｰｽﾞ</span>|<a href="https://search.dartslive.com/jp/shop/c9c99e11a18a49270d9b047a20a7ba1e">ダーツバー　ランス</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
 |8|912|<span class="rank-name-dl">akkey</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
@@ -128,30 +126,27 @@ ___
 |21|769|<span class="rank-name-dl">がーすー</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
 |22|763|<span class="rank-name-dl">Masaya</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
 |23|750|<span class="rank-name-dl">ゆたちゃん</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|24|713|<span class="rank-name-dl">えんたく</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|25|708|<span class="rank-name-dl">なおち</span>|<a href="https://search.dartslive.com/jp/shop/c9c99e11a18a49270d9b047a20a7ba1e">ダーツバー　ランス</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|25|708|<span class="rank-name-dl">モルテン</span>|<a href="https://search.dartslive.com/jp/shop/c9c99e11a18a49270d9b047a20a7ba1e">ダーツバー　ランス</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|27|707|<span class="rank-name-dl">seiya</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|28|695|<span class="rank-name-dl">じゅんきっさ</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|29|690|<span class="rank-name-dl">NO NAME 3729</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|30|627|<span class="rank-name-dl">わたる</span>|<a href="https://search.dartslive.com/jp/shop/c9c99e11a18a49270d9b047a20a7ba1e">ダーツバー　ランス</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|31|618|<span class="rank-name-dl">狐梅林</span>|<a href="https://search.dartslive.com/jp/shop/c9c99e11a18a49270d9b047a20a7ba1e">ダーツバー　ランス</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|32|615|<span class="rank-name-dl">YA</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|33|613|<span class="rank-name-dl">宮侑</span>|<a href="https://search.dartslive.com/jp/shop/c9c99e11a18a49270d9b047a20a7ba1e">ダーツバー　ランス</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|34|610|<span class="rank-name-dl">いっちー</span>|<a href="https://search.dartslive.com/jp/shop/c9c99e11a18a49270d9b047a20a7ba1e">ダーツバー　ランス</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|35|601|<span class="rank-name-dl">LILY8899</span>|<a href="https://search.dartslive.com/jp/shop/c9c99e11a18a49270d9b047a20a7ba1e">ダーツバー　ランス</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|36|560|<span class="rank-name-dl">ばっちゃ</span>|<a href="https://search.dartslive.com/jp/shop/c9c99e11a18a49270d9b047a20a7ba1e">ダーツバー　ランス</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|37|526|<span class="rank-name-dl">Bell</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|38|501|<span class="rank-name-dl">Barcarolle</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|39|498|<span class="rank-name-dl">aya</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|40|484|<span class="rank-name-dl">Wakaba12</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|41|429|<span class="rank-name-dl">rice sprouts</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|42|409|<span class="rank-name-dl">Reko</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|43|370|<span class="rank-name-dl">monet.</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|43|370|<span class="rank-name-dl">yoshi</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|45|352|<span class="rank-name-dl">science</span>|<a href="https://search.dartslive.com/jp/shop/c9c99e11a18a49270d9b047a20a7ba1e">ダーツバー　ランス</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|46|282|<span class="rank-name-dl">Tarumeiro</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|47|252|<span class="rank-name-dl">SiN</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|24|734|<span class="rank-name-dl">seiya</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|25|713|<span class="rank-name-dl">えんたく</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|26|708|<span class="rank-name-dl">なおち</span>|<a href="https://search.dartslive.com/jp/shop/c9c99e11a18a49270d9b047a20a7ba1e">ダーツバー　ランス</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|26|708|<span class="rank-name-dl">モルテン</span>|<a href="https://search.dartslive.com/jp/shop/c9c99e11a18a49270d9b047a20a7ba1e">ダーツバー　ランス</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|28|627|<span class="rank-name-dl">わたる</span>|<a href="https://search.dartslive.com/jp/shop/c9c99e11a18a49270d9b047a20a7ba1e">ダーツバー　ランス</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|29|618|<span class="rank-name-dl">狐梅林</span>|<a href="https://search.dartslive.com/jp/shop/c9c99e11a18a49270d9b047a20a7ba1e">ダーツバー　ランス</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|30|615|<span class="rank-name-dl">YA</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|31|613|<span class="rank-name-dl">宮侑</span>|<a href="https://search.dartslive.com/jp/shop/c9c99e11a18a49270d9b047a20a7ba1e">ダーツバー　ランス</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|32|610|<span class="rank-name-dl">いっちー</span>|<a href="https://search.dartslive.com/jp/shop/c9c99e11a18a49270d9b047a20a7ba1e">ダーツバー　ランス</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|33|601|<span class="rank-name-dl">LILY8899</span>|<a href="https://search.dartslive.com/jp/shop/c9c99e11a18a49270d9b047a20a7ba1e">ダーツバー　ランス</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|34|560|<span class="rank-name-dl">ばっちゃ</span>|<a href="https://search.dartslive.com/jp/shop/c9c99e11a18a49270d9b047a20a7ba1e">ダーツバー　ランス</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|35|526|<span class="rank-name-dl">Bell</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|36|498|<span class="rank-name-dl">aya</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|37|429|<span class="rank-name-dl">rice sprouts</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|38|409|<span class="rank-name-dl">Reko</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|39|370|<span class="rank-name-dl">monet.</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|39|370|<span class="rank-name-dl">yoshi</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|41|352|<span class="rank-name-dl">science</span>|<a href="https://search.dartslive.com/jp/shop/c9c99e11a18a49270d9b047a20a7ba1e">ダーツバー　ランス</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|42|345|<span class="rank-name-dl">ろろん</span>|<a href="https://search.dartslive.com/jp/shop/c9c99e11a18a49270d9b047a20a7ba1e">ダーツバー　ランス</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|43|282|<span class="rank-name-dl">Tarumeiro</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|44|252|<span class="rank-name-dl">SiN</span>|<a href="https://search.dartslive.com/jp/shop/b122a4f2f30998d1b21333aee1bd51e4">快活CLUB 鳥取吉成店</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
 
 
 #### PHOENIXDARTS TOP 100
@@ -163,12 +158,12 @@ ___
 |---|---|---|---|---|
 |1|1041|<span class="rank-name-pd">村上 史也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
 |2|960|<span class="rank-name-pd">治徳 大伸</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|3|905|<span class="rank-name-pd">ﾍﾟﾃﾙｷﾞｳｽﾛﾏﾈｺﾝﾃｨ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|3|922|<span class="rank-name-pd">ﾍﾟﾃﾙｷﾞｳｽﾛﾏﾈｺﾝﾃｨ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
 |4|842|<span class="rank-name-pd">の合法パスタ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
 |5|835|<span class="rank-name-pd">ぴーこーさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
 |6|813|<span class="rank-name-pd">隣の奥さま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
 |7|760|<span class="rank-name-pd">がきつか</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|8|756|<span class="rank-name-pd">APPLE MICHIKO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|8|758|<span class="rank-name-pd">APPLE MICHIKO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
 |9|753|<span class="rank-name-pd">あ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
 |10|732|<span class="rank-name-pd">めんたるが冷奴</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
 |11|729|<span class="rank-name-pd">ﾊﾄ胸ﾏｯﾁｮ君</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
@@ -177,16 +172,17 @@ ___
 |14|668|<span class="rank-name-pd">毒島 大広</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
 |15|658|<span class="rank-name-pd">@masaya@(・Д・)ノ→</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
 |16|640|<span class="rank-name-pd">ヨォ～(^_^)v</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|17|616|<span class="rank-name-pd">428</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|18|589|<span class="rank-name-pd">植田 貴裕</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|19|570|<span class="rank-name-pd">RYUGA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|20|527|<span class="rank-name-pd">Mr.KUMA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|21|524|<span class="rank-name-pd">OBAKA MI-CO!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|22|470|<span class="rank-name-pd">植田 貴裕[PERFECT]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|23|461|<span class="rank-name-pd">すかぃはぃ＋たっちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|24|443|<span class="rank-name-pd">たぁ坊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|25|402|<span class="rank-name-pd">よりさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
-|26|294|<span class="rank-name-pd">RIKU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|17|618|<span class="rank-name-pd">たぁ坊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|18|616|<span class="rank-name-pd">428</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|19|589|<span class="rank-name-pd">植田 貴裕</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|20|570|<span class="rank-name-pd">RYUGA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|21|527|<span class="rank-name-pd">Mr.KUMA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|22|524|<span class="rank-name-pd">OBAKA MI-CO!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|23|470|<span class="rank-name-pd">植田 貴裕[PERFECT]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|24|461|<span class="rank-name-pd">すかぃはぃ＋たっちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|25|438|<span class="rank-name-pd">sky-high + TATSUYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|26|402|<span class="rank-name-pd">よりさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
+|27|294|<span class="rank-name-pd">RIKU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9457?s_seq=9457">Big Apple</a>|<a href="/darts/rank/鳥取県/鳥取市">鳥取県鳥取市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

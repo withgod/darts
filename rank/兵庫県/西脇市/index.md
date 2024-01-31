@@ -25,7 +25,7 @@ ___
 |---|---|---|---|---|
 |1|1043|<span class="rank-name-dl">ｲﾏｲｺﾄ ｷｭｰｿｰﾙ</span>|<a href="https://search.dartslive.com/jp/shop/179355d68bf3e2df58d385ea46352d8f">Sports&Dining 鴉</a>|<a href="/darts/rank/兵庫県/西脇市">兵庫県西脇市</a>|
 |2|1041|<span class="rank-name-dl">#つーじーw</span>|<a href="https://search.dartslive.com/jp/shop/179355d68bf3e2df58d385ea46352d8f">Sports&Dining 鴉</a>|<a href="/darts/rank/兵庫県/西脇市">兵庫県西脇市</a>|
-|3|943|<span class="rank-name-dl">あいぼん</span>|<a href="https://search.dartslive.com/jp/shop/179355d68bf3e2df58d385ea46352d8f">Sports&Dining 鴉</a>|<a href="/darts/rank/兵庫県/西脇市">兵庫県西脇市</a>|
+|3|963|<span class="rank-name-dl">あいぼん</span>|<a href="https://search.dartslive.com/jp/shop/179355d68bf3e2df58d385ea46352d8f">Sports&Dining 鴉</a>|<a href="/darts/rank/兵庫県/西脇市">兵庫県西脇市</a>|
 |4|890|<span class="rank-name-dl">1413</span>|<a href="https://search.dartslive.com/jp/shop/179355d68bf3e2df58d385ea46352d8f">Sports&Dining 鴉</a>|<a href="/darts/rank/兵庫県/西脇市">兵庫県西脇市</a>|
 |5|868|<span class="rank-name-dl">愛 義成</span>|<a href="https://search.dartslive.com/jp/shop/179355d68bf3e2df58d385ea46352d8f">Sports&Dining 鴉</a>|<a href="/darts/rank/兵庫県/西脇市">兵庫県西脇市</a>|
 |6|839|<span class="rank-name-dl">TOMMY@魁！ｵﾗｵﾗ</span>|<a href="https://search.dartslive.com/jp/shop/179355d68bf3e2df58d385ea46352d8f">Sports&Dining 鴉</a>|<a href="/darts/rank/兵庫県/西脇市">兵庫県西脇市</a>|
@@ -35,9 +35,10 @@ ___
 |10|793|<span class="rank-name-dl">オレンジ</span>|<a href="https://search.dartslive.com/jp/shop/179355d68bf3e2df58d385ea46352d8f">Sports&Dining 鴉</a>|<a href="/darts/rank/兵庫県/西脇市">兵庫県西脇市</a>|
 |11|749|<span class="rank-name-dl">川崎さん　鴉</span>|<a href="https://search.dartslive.com/jp/shop/179355d68bf3e2df58d385ea46352d8f">Sports&Dining 鴉</a>|<a href="/darts/rank/兵庫県/西脇市">兵庫県西脇市</a>|
 |12|740|<span class="rank-name-dl">（￣+ー￣）</span>|<a href="https://search.dartslive.com/jp/shop/179355d68bf3e2df58d385ea46352d8f">Sports&Dining 鴉</a>|<a href="/darts/rank/兵庫県/西脇市">兵庫県西脇市</a>|
-|13|678|<span class="rank-name-pd">ぴ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88927?s_seq=88927">MORRY'S</a>|<a href="/darts/rank/兵庫県/西脇市">兵庫県西脇市</a>|
-|14|673|<span class="rank-name-dl">na.</span>|<a href="https://search.dartslive.com/jp/shop/179355d68bf3e2df58d385ea46352d8f">Sports&Dining 鴉</a>|<a href="/darts/rank/兵庫県/西脇市">兵庫県西脇市</a>|
-|15|584|<span class="rank-name-pd">0034_8049</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88927?s_seq=88927">MORRY'S</a>|<a href="/darts/rank/兵庫県/西脇市">兵庫県西脇市</a>|
+|13|722|<span class="rank-name-dl">りこ</span>|<a href="https://search.dartslive.com/jp/shop/179355d68bf3e2df58d385ea46352d8f">Sports&Dining 鴉</a>|<a href="/darts/rank/兵庫県/西脇市">兵庫県西脇市</a>|
+|14|678|<span class="rank-name-pd">ぴ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88927?s_seq=88927">MORRY'S</a>|<a href="/darts/rank/兵庫県/西脇市">兵庫県西脇市</a>|
+|15|673|<span class="rank-name-dl">na.</span>|<a href="https://search.dartslive.com/jp/shop/179355d68bf3e2df58d385ea46352d8f">Sports&Dining 鴉</a>|<a href="/darts/rank/兵庫県/西脇市">兵庫県西脇市</a>|
+|16|584|<span class="rank-name-pd">0034_8049</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88927?s_seq=88927">MORRY'S</a>|<a href="/darts/rank/兵庫県/西脇市">兵庫県西脇市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -49,7 +50,7 @@ ___
 |---|---|---|---|---|
 |1|1043|<span class="rank-name-dl">ｲﾏｲｺﾄ ｷｭｰｿｰﾙ</span>|<a href="https://search.dartslive.com/jp/shop/179355d68bf3e2df58d385ea46352d8f">Sports&Dining 鴉</a>|<a href="/darts/rank/兵庫県/西脇市">兵庫県西脇市</a>|
 |2|1041|<span class="rank-name-dl">#つーじーw</span>|<a href="https://search.dartslive.com/jp/shop/179355d68bf3e2df58d385ea46352d8f">Sports&Dining 鴉</a>|<a href="/darts/rank/兵庫県/西脇市">兵庫県西脇市</a>|
-|3|943|<span class="rank-name-dl">あいぼん</span>|<a href="https://search.dartslive.com/jp/shop/179355d68bf3e2df58d385ea46352d8f">Sports&Dining 鴉</a>|<a href="/darts/rank/兵庫県/西脇市">兵庫県西脇市</a>|
+|3|963|<span class="rank-name-dl">あいぼん</span>|<a href="https://search.dartslive.com/jp/shop/179355d68bf3e2df58d385ea46352d8f">Sports&Dining 鴉</a>|<a href="/darts/rank/兵庫県/西脇市">兵庫県西脇市</a>|
 |4|890|<span class="rank-name-dl">1413</span>|<a href="https://search.dartslive.com/jp/shop/179355d68bf3e2df58d385ea46352d8f">Sports&Dining 鴉</a>|<a href="/darts/rank/兵庫県/西脇市">兵庫県西脇市</a>|
 |5|868|<span class="rank-name-dl">愛 義成</span>|<a href="https://search.dartslive.com/jp/shop/179355d68bf3e2df58d385ea46352d8f">Sports&Dining 鴉</a>|<a href="/darts/rank/兵庫県/西脇市">兵庫県西脇市</a>|
 |6|839|<span class="rank-name-dl">TOMMY@魁！ｵﾗｵﾗ</span>|<a href="https://search.dartslive.com/jp/shop/179355d68bf3e2df58d385ea46352d8f">Sports&Dining 鴉</a>|<a href="/darts/rank/兵庫県/西脇市">兵庫県西脇市</a>|
@@ -58,7 +59,8 @@ ___
 |9|793|<span class="rank-name-dl">オレンジ</span>|<a href="https://search.dartslive.com/jp/shop/179355d68bf3e2df58d385ea46352d8f">Sports&Dining 鴉</a>|<a href="/darts/rank/兵庫県/西脇市">兵庫県西脇市</a>|
 |10|749|<span class="rank-name-dl">川崎さん　鴉</span>|<a href="https://search.dartslive.com/jp/shop/179355d68bf3e2df58d385ea46352d8f">Sports&Dining 鴉</a>|<a href="/darts/rank/兵庫県/西脇市">兵庫県西脇市</a>|
 |11|740|<span class="rank-name-dl">（￣+ー￣）</span>|<a href="https://search.dartslive.com/jp/shop/179355d68bf3e2df58d385ea46352d8f">Sports&Dining 鴉</a>|<a href="/darts/rank/兵庫県/西脇市">兵庫県西脇市</a>|
-|12|673|<span class="rank-name-dl">na.</span>|<a href="https://search.dartslive.com/jp/shop/179355d68bf3e2df58d385ea46352d8f">Sports&Dining 鴉</a>|<a href="/darts/rank/兵庫県/西脇市">兵庫県西脇市</a>|
+|12|722|<span class="rank-name-dl">りこ</span>|<a href="https://search.dartslive.com/jp/shop/179355d68bf3e2df58d385ea46352d8f">Sports&Dining 鴉</a>|<a href="/darts/rank/兵庫県/西脇市">兵庫県西脇市</a>|
+|13|673|<span class="rank-name-dl">na.</span>|<a href="https://search.dartslive.com/jp/shop/179355d68bf3e2df58d385ea46352d8f">Sports&Dining 鴉</a>|<a href="/darts/rank/兵庫県/西脇市">兵庫県西脇市</a>|
 
 
 #### PHOENIXDARTS TOP 100

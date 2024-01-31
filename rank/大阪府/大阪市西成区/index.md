@@ -34,19 +34,19 @@ ___
 |9|846|<span class="rank-name-dl">ま〜さ　BAR STAR</span>|<a href="https://search.dartslive.com/jp/shop/5ffd6e5708f364b125d56fb0e5c39bac">cafe & bar STAR</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|
 |10|819|<span class="rank-name-dl">やまだ</span>|<a href="https://search.dartslive.com/jp/shop/3b60accfd093f87f0d9b047a20a7ba1e">Bar glad</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|
 |11|779|<span class="rank-name-dl">ちゃばくん</span>|<a href="https://search.dartslive.com/jp/shop/befd37484afffe800d9b047a20a7ba1e">DARTS BAR FELES</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|
-|12|771|<span class="rank-name-dl">脳筋マン</span>|<a href="https://search.dartslive.com/jp/shop/3b60accfd093f87f0d9b047a20a7ba1e">Bar glad</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|
-|13|770|<span class="rank-name-dl">ぞんび＠ふぇれす</span>|<a href="https://search.dartslive.com/jp/shop/befd37484afffe800d9b047a20a7ba1e">DARTS BAR FELES</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|
-|14|762|<span class="rank-name-dl">がちん@Bar glad</span>|<a href="https://search.dartslive.com/jp/shop/3b60accfd093f87f0d9b047a20a7ba1e">Bar glad</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|
-|15|749|<span class="rank-name-dl">＄一家・シゲ</span>|<a href="https://search.dartslive.com/jp/shop/3b60accfd093f87f0d9b047a20a7ba1e">Bar glad</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|
-|16|730|<span class="rank-name-dl">ま〜さ　STAR</span>|<a href="https://search.dartslive.com/jp/shop/5ffd6e5708f364b125d56fb0e5c39bac">cafe & bar STAR</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|
-|17|727|<span class="rank-name-dl">下々の民 B</span>|<a href="https://search.dartslive.com/jp/shop/befd37484afffe800d9b047a20a7ba1e">DARTS BAR FELES</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|
-|18|725|<span class="rank-name-dl">SIN1黒申一家</span>|<a href="https://search.dartslive.com/jp/shop/befd37484afffe800d9b047a20a7ba1e">DARTS BAR FELES</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|
-|19|720|<span class="rank-name-dl">Ikecchi/初号機</span>|<a href="https://search.dartslive.com/jp/shop/3b60accfd093f87f0d9b047a20a7ba1e">Bar glad</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|
-|20|717|<span class="rank-name-dl">あゆむ@D-habit</span>|<a href="https://search.dartslive.com/jp/shop/befd37484afffe800d9b047a20a7ba1e">DARTS BAR FELES</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|
-|21|716|<span class="rank-name-dl">もぇもぇ@FELES</span>|<a href="https://search.dartslive.com/jp/shop/befd37484afffe800d9b047a20a7ba1e">DARTS BAR FELES</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|
-|22|715|<span class="rank-name-dl">雷翔</span>|<a href="https://search.dartslive.com/jp/shop/3b60accfd093f87f0d9b047a20a7ba1e">Bar glad</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|
-|23|714|<span class="rank-name-dl">♡李來♡優來♡</span>|<a href="https://search.dartslive.com/jp/shop/3b60accfd093f87f0d9b047a20a7ba1e">Bar glad</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|
-|24|698|<span class="rank-name-dl">miyuakichun⭐︎</span>|<a href="https://search.dartslive.com/jp/shop/3b60accfd093f87f0d9b047a20a7ba1e">Bar glad</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|
+|12|775|<span class="rank-name-dl">こ＠Bar glad</span>|<a href="https://search.dartslive.com/jp/shop/3b60accfd093f87f0d9b047a20a7ba1e">Bar glad</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|
+|13|771|<span class="rank-name-dl">脳筋マン</span>|<a href="https://search.dartslive.com/jp/shop/3b60accfd093f87f0d9b047a20a7ba1e">Bar glad</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|
+|14|770|<span class="rank-name-dl">ぞんび＠ふぇれす</span>|<a href="https://search.dartslive.com/jp/shop/befd37484afffe800d9b047a20a7ba1e">DARTS BAR FELES</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|
+|15|762|<span class="rank-name-dl">がちん@Bar glad</span>|<a href="https://search.dartslive.com/jp/shop/3b60accfd093f87f0d9b047a20a7ba1e">Bar glad</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|
+|16|749|<span class="rank-name-dl">＄一家・シゲ</span>|<a href="https://search.dartslive.com/jp/shop/3b60accfd093f87f0d9b047a20a7ba1e">Bar glad</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|
+|17|730|<span class="rank-name-dl">ま〜さ　STAR</span>|<a href="https://search.dartslive.com/jp/shop/5ffd6e5708f364b125d56fb0e5c39bac">cafe & bar STAR</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|
+|18|727|<span class="rank-name-dl">下々の民 B</span>|<a href="https://search.dartslive.com/jp/shop/befd37484afffe800d9b047a20a7ba1e">DARTS BAR FELES</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|
+|19|725|<span class="rank-name-dl">SIN1黒申一家</span>|<a href="https://search.dartslive.com/jp/shop/befd37484afffe800d9b047a20a7ba1e">DARTS BAR FELES</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|
+|20|720|<span class="rank-name-dl">Ikecchi/初号機</span>|<a href="https://search.dartslive.com/jp/shop/3b60accfd093f87f0d9b047a20a7ba1e">Bar glad</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|
+|21|717|<span class="rank-name-dl">あゆむ@D-habit</span>|<a href="https://search.dartslive.com/jp/shop/befd37484afffe800d9b047a20a7ba1e">DARTS BAR FELES</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|
+|22|716|<span class="rank-name-dl">もぇもぇ@FELES</span>|<a href="https://search.dartslive.com/jp/shop/befd37484afffe800d9b047a20a7ba1e">DARTS BAR FELES</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|
+|23|715|<span class="rank-name-dl">雷翔</span>|<a href="https://search.dartslive.com/jp/shop/3b60accfd093f87f0d9b047a20a7ba1e">Bar glad</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|
+|24|714|<span class="rank-name-dl">♡李來♡優來♡</span>|<a href="https://search.dartslive.com/jp/shop/3b60accfd093f87f0d9b047a20a7ba1e">Bar glad</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|
 |25|662|<span class="rank-name-dl">まりか</span>|<a href="https://search.dartslive.com/jp/shop/befd37484afffe800d9b047a20a7ba1e">DARTS BAR FELES</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|
 |26|650|<span class="rank-name-dl">じょにぃD-habit</span>|<a href="https://search.dartslive.com/jp/shop/befd37484afffe800d9b047a20a7ba1e">DARTS BAR FELES</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|
 |27|644|<span class="rank-name-dl">HIROSHI</span>|<a href="https://search.dartslive.com/jp/shop/befd37484afffe800d9b047a20a7ba1e">DARTS BAR FELES</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|
@@ -87,19 +87,19 @@ ___
 |9|846|<span class="rank-name-dl">ま〜さ　BAR STAR</span>|<a href="https://search.dartslive.com/jp/shop/5ffd6e5708f364b125d56fb0e5c39bac">cafe & bar STAR</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|
 |10|819|<span class="rank-name-dl">やまだ</span>|<a href="https://search.dartslive.com/jp/shop/3b60accfd093f87f0d9b047a20a7ba1e">Bar glad</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|
 |11|779|<span class="rank-name-dl">ちゃばくん</span>|<a href="https://search.dartslive.com/jp/shop/befd37484afffe800d9b047a20a7ba1e">DARTS BAR FELES</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|
-|12|771|<span class="rank-name-dl">脳筋マン</span>|<a href="https://search.dartslive.com/jp/shop/3b60accfd093f87f0d9b047a20a7ba1e">Bar glad</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|
-|13|770|<span class="rank-name-dl">ぞんび＠ふぇれす</span>|<a href="https://search.dartslive.com/jp/shop/befd37484afffe800d9b047a20a7ba1e">DARTS BAR FELES</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|
-|14|762|<span class="rank-name-dl">がちん@Bar glad</span>|<a href="https://search.dartslive.com/jp/shop/3b60accfd093f87f0d9b047a20a7ba1e">Bar glad</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|
-|15|749|<span class="rank-name-dl">＄一家・シゲ</span>|<a href="https://search.dartslive.com/jp/shop/3b60accfd093f87f0d9b047a20a7ba1e">Bar glad</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|
-|16|730|<span class="rank-name-dl">ま〜さ　STAR</span>|<a href="https://search.dartslive.com/jp/shop/5ffd6e5708f364b125d56fb0e5c39bac">cafe & bar STAR</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|
-|17|727|<span class="rank-name-dl">下々の民 B</span>|<a href="https://search.dartslive.com/jp/shop/befd37484afffe800d9b047a20a7ba1e">DARTS BAR FELES</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|
-|18|725|<span class="rank-name-dl">SIN1黒申一家</span>|<a href="https://search.dartslive.com/jp/shop/befd37484afffe800d9b047a20a7ba1e">DARTS BAR FELES</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|
-|19|720|<span class="rank-name-dl">Ikecchi/初号機</span>|<a href="https://search.dartslive.com/jp/shop/3b60accfd093f87f0d9b047a20a7ba1e">Bar glad</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|
-|20|717|<span class="rank-name-dl">あゆむ@D-habit</span>|<a href="https://search.dartslive.com/jp/shop/befd37484afffe800d9b047a20a7ba1e">DARTS BAR FELES</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|
-|21|716|<span class="rank-name-dl">もぇもぇ@FELES</span>|<a href="https://search.dartslive.com/jp/shop/befd37484afffe800d9b047a20a7ba1e">DARTS BAR FELES</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|
-|22|715|<span class="rank-name-dl">雷翔</span>|<a href="https://search.dartslive.com/jp/shop/3b60accfd093f87f0d9b047a20a7ba1e">Bar glad</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|
-|23|714|<span class="rank-name-dl">♡李來♡優來♡</span>|<a href="https://search.dartslive.com/jp/shop/3b60accfd093f87f0d9b047a20a7ba1e">Bar glad</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|
-|24|698|<span class="rank-name-dl">miyuakichun⭐︎</span>|<a href="https://search.dartslive.com/jp/shop/3b60accfd093f87f0d9b047a20a7ba1e">Bar glad</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|
+|12|775|<span class="rank-name-dl">こ＠Bar glad</span>|<a href="https://search.dartslive.com/jp/shop/3b60accfd093f87f0d9b047a20a7ba1e">Bar glad</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|
+|13|771|<span class="rank-name-dl">脳筋マン</span>|<a href="https://search.dartslive.com/jp/shop/3b60accfd093f87f0d9b047a20a7ba1e">Bar glad</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|
+|14|770|<span class="rank-name-dl">ぞんび＠ふぇれす</span>|<a href="https://search.dartslive.com/jp/shop/befd37484afffe800d9b047a20a7ba1e">DARTS BAR FELES</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|
+|15|762|<span class="rank-name-dl">がちん@Bar glad</span>|<a href="https://search.dartslive.com/jp/shop/3b60accfd093f87f0d9b047a20a7ba1e">Bar glad</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|
+|16|749|<span class="rank-name-dl">＄一家・シゲ</span>|<a href="https://search.dartslive.com/jp/shop/3b60accfd093f87f0d9b047a20a7ba1e">Bar glad</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|
+|17|730|<span class="rank-name-dl">ま〜さ　STAR</span>|<a href="https://search.dartslive.com/jp/shop/5ffd6e5708f364b125d56fb0e5c39bac">cafe & bar STAR</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|
+|18|727|<span class="rank-name-dl">下々の民 B</span>|<a href="https://search.dartslive.com/jp/shop/befd37484afffe800d9b047a20a7ba1e">DARTS BAR FELES</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|
+|19|725|<span class="rank-name-dl">SIN1黒申一家</span>|<a href="https://search.dartslive.com/jp/shop/befd37484afffe800d9b047a20a7ba1e">DARTS BAR FELES</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|
+|20|720|<span class="rank-name-dl">Ikecchi/初号機</span>|<a href="https://search.dartslive.com/jp/shop/3b60accfd093f87f0d9b047a20a7ba1e">Bar glad</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|
+|21|717|<span class="rank-name-dl">あゆむ@D-habit</span>|<a href="https://search.dartslive.com/jp/shop/befd37484afffe800d9b047a20a7ba1e">DARTS BAR FELES</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|
+|22|716|<span class="rank-name-dl">もぇもぇ@FELES</span>|<a href="https://search.dartslive.com/jp/shop/befd37484afffe800d9b047a20a7ba1e">DARTS BAR FELES</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|
+|23|715|<span class="rank-name-dl">雷翔</span>|<a href="https://search.dartslive.com/jp/shop/3b60accfd093f87f0d9b047a20a7ba1e">Bar glad</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|
+|24|714|<span class="rank-name-dl">♡李來♡優來♡</span>|<a href="https://search.dartslive.com/jp/shop/3b60accfd093f87f0d9b047a20a7ba1e">Bar glad</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|
 |25|662|<span class="rank-name-dl">まりか</span>|<a href="https://search.dartslive.com/jp/shop/befd37484afffe800d9b047a20a7ba1e">DARTS BAR FELES</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|
 |26|650|<span class="rank-name-dl">じょにぃD-habit</span>|<a href="https://search.dartslive.com/jp/shop/befd37484afffe800d9b047a20a7ba1e">DARTS BAR FELES</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|
 |27|644|<span class="rank-name-dl">HIROSHI</span>|<a href="https://search.dartslive.com/jp/shop/befd37484afffe800d9b047a20a7ba1e">DARTS BAR FELES</a>|<a href="/darts/rank/大阪府/大阪市西成区">大阪府大阪市西成区</a>|

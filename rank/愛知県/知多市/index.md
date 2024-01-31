@@ -27,27 +27,28 @@ ___
 |2|798|<span class="rank-name-pd">ポチョムキン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42271?s_seq=42271">JOYJOY 知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
 |3|791|<span class="rank-name-pd">(ｺﾞ´･ω･`ﾘ)ﾉ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42271?s_seq=42271">JOYJOY 知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
 |4|781|<span class="rank-name-dl">こーいちろう</span>|<a href="https://search.dartslive.com/jp/shop/ee395d328409ebdc58d385ea46352d8f">JOYJOY知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
-|5|768|<span class="rank-name-dl">(ｺﾞ&#x27;·ω ·`ﾘ)丿</span>|<a href="https://search.dartslive.com/jp/shop/ee395d328409ebdc58d385ea46352d8f">JOYJOY知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
-|6|735|<span class="rank-name-pd">あっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42271?s_seq=42271">JOYJOY 知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
-|7|730|<span class="rank-name-dl">Ryosuke</span>|<a href="https://search.dartslive.com/jp/shop/ee395d328409ebdc58d385ea46352d8f">JOYJOY知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
-|8|728|<span class="rank-name-dl">あべし</span>|<a href="https://search.dartslive.com/jp/shop/ee395d328409ebdc58d385ea46352d8f">JOYJOY知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
-|9|721|<span class="rank-name-pd">あべし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42271?s_seq=42271">JOYJOY 知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
-|10|720|<span class="rank-name-dl">Tomari</span>|<a href="https://search.dartslive.com/jp/shop/ee395d328409ebdc58d385ea46352d8f">JOYJOY知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
-|11|710|<span class="rank-name-dl">頑張りマンモス</span>|<a href="https://search.dartslive.com/jp/shop/ee395d328409ebdc58d385ea46352d8f">JOYJOY知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
-|12|705|<span class="rank-name-dl">爺の手は最悪！！</span>|<a href="https://search.dartslive.com/jp/shop/ee395d328409ebdc58d385ea46352d8f">JOYJOY知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
-|13|672|<span class="rank-name-dl">あっち</span>|<a href="https://search.dartslive.com/jp/shop/ee395d328409ebdc58d385ea46352d8f">JOYJOY知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
-|14|668|<span class="rank-name-dl">チャンオカ</span>|<a href="https://search.dartslive.com/jp/shop/ee395d328409ebdc58d385ea46352d8f">JOYJOY知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
-|15|579|<span class="rank-name-dl">たまねぎ</span>|<a href="https://search.dartslive.com/jp/shop/ee395d328409ebdc58d385ea46352d8f">JOYJOY知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
-|16|569|<span class="rank-name-dl">KENTAMAN初号機</span>|<a href="https://search.dartslive.com/jp/shop/ee395d328409ebdc58d385ea46352d8f">JOYJOY知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
-|17|539|<span class="rank-name-dl">Tatsuya Kawai</span>|<a href="https://search.dartslive.com/jp/shop/ee395d328409ebdc58d385ea46352d8f">JOYJOY知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
-|18|532|<span class="rank-name-dl">あきら</span>|<a href="https://search.dartslive.com/jp/shop/ee395d328409ebdc58d385ea46352d8f">JOYJOY知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
-|19|507|<span class="rank-name-dl">もっち</span>|<a href="https://search.dartslive.com/jp/shop/ee395d328409ebdc58d385ea46352d8f">JOYJOY知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
-|20|456|<span class="rank-name-dl">ちいかわ</span>|<a href="https://search.dartslive.com/jp/shop/ee395d328409ebdc58d385ea46352d8f">JOYJOY知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
-|21|445|<span class="rank-name-pd">くろかつ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42271?s_seq=42271">JOYJOY 知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
-|22|443|<span class="rank-name-dl">り̤̮ょ̤̮う̤̮</span>|<a href="https://search.dartslive.com/jp/shop/ee395d328409ebdc58d385ea46352d8f">JOYJOY知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
-|23|438|<span class="rank-name-dl">はる( *˙ ˙* )</span>|<a href="https://search.dartslive.com/jp/shop/ee395d328409ebdc58d385ea46352d8f">JOYJOY知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
-|24|414|<span class="rank-name-dl">なべっち!（本人)</span>|<a href="https://search.dartslive.com/jp/shop/ee395d328409ebdc58d385ea46352d8f">JOYJOY知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
-|25|374|<span class="rank-name-dl">NO NAME 1808</span>|<a href="https://search.dartslive.com/jp/shop/ee395d328409ebdc58d385ea46352d8f">JOYJOY知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
+|5|777|<span class="rank-name-dl">あべし</span>|<a href="https://search.dartslive.com/jp/shop/ee395d328409ebdc58d385ea46352d8f">JOYJOY知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
+|6|768|<span class="rank-name-dl">(ｺﾞ&#x27;·ω ·`ﾘ)丿</span>|<a href="https://search.dartslive.com/jp/shop/ee395d328409ebdc58d385ea46352d8f">JOYJOY知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
+|7|761|<span class="rank-name-pd">0027_3109</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42271?s_seq=42271">JOYJOY 知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
+|8|735|<span class="rank-name-pd">あっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42271?s_seq=42271">JOYJOY 知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
+|9|730|<span class="rank-name-dl">Ryosuke</span>|<a href="https://search.dartslive.com/jp/shop/ee395d328409ebdc58d385ea46352d8f">JOYJOY知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
+|10|721|<span class="rank-name-pd">あべし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42271?s_seq=42271">JOYJOY 知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
+|11|720|<span class="rank-name-dl">Tomari</span>|<a href="https://search.dartslive.com/jp/shop/ee395d328409ebdc58d385ea46352d8f">JOYJOY知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
+|12|710|<span class="rank-name-dl">頑張りマンモス</span>|<a href="https://search.dartslive.com/jp/shop/ee395d328409ebdc58d385ea46352d8f">JOYJOY知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
+|13|705|<span class="rank-name-dl">爺の手は最悪！！</span>|<a href="https://search.dartslive.com/jp/shop/ee395d328409ebdc58d385ea46352d8f">JOYJOY知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
+|14|677|<span class="rank-name-pd">じゃっかる！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42271?s_seq=42271">JOYJOY 知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
+|15|672|<span class="rank-name-dl">あっち</span>|<a href="https://search.dartslive.com/jp/shop/ee395d328409ebdc58d385ea46352d8f">JOYJOY知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
+|16|668|<span class="rank-name-dl">チャンオカ</span>|<a href="https://search.dartslive.com/jp/shop/ee395d328409ebdc58d385ea46352d8f">JOYJOY知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
+|17|579|<span class="rank-name-dl">たまねぎ</span>|<a href="https://search.dartslive.com/jp/shop/ee395d328409ebdc58d385ea46352d8f">JOYJOY知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
+|18|569|<span class="rank-name-dl">KENTAMAN初号機</span>|<a href="https://search.dartslive.com/jp/shop/ee395d328409ebdc58d385ea46352d8f">JOYJOY知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
+|19|539|<span class="rank-name-dl">Tatsuya Kawai</span>|<a href="https://search.dartslive.com/jp/shop/ee395d328409ebdc58d385ea46352d8f">JOYJOY知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
+|20|532|<span class="rank-name-dl">あきら</span>|<a href="https://search.dartslive.com/jp/shop/ee395d328409ebdc58d385ea46352d8f">JOYJOY知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
+|21|519|<span class="rank-name-dl">ベーコン</span>|<a href="https://search.dartslive.com/jp/shop/ee395d328409ebdc58d385ea46352d8f">JOYJOY知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
+|22|516|<span class="rank-name-dl">ちいかわ</span>|<a href="https://search.dartslive.com/jp/shop/ee395d328409ebdc58d385ea46352d8f">JOYJOY知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
+|23|507|<span class="rank-name-dl">もっち</span>|<a href="https://search.dartslive.com/jp/shop/ee395d328409ebdc58d385ea46352d8f">JOYJOY知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
+|24|445|<span class="rank-name-pd">くろかつ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42271?s_seq=42271">JOYJOY 知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
+|25|438|<span class="rank-name-dl">はる( *˙ ˙* )</span>|<a href="https://search.dartslive.com/jp/shop/ee395d328409ebdc58d385ea46352d8f">JOYJOY知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
+|26|369|<span class="rank-name-pd">KONOHOSHIUMIKA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42271?s_seq=42271">JOYJOY 知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -59,9 +60,9 @@ ___
 |---|---|---|---|---|
 |1|906|<span class="rank-name-dl">Ippei</span>|<a href="https://search.dartslive.com/jp/shop/ee395d328409ebdc58d385ea46352d8f">JOYJOY知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
 |2|781|<span class="rank-name-dl">こーいちろう</span>|<a href="https://search.dartslive.com/jp/shop/ee395d328409ebdc58d385ea46352d8f">JOYJOY知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
-|3|768|<span class="rank-name-dl">(ｺﾞ&#x27;·ω ·`ﾘ)丿</span>|<a href="https://search.dartslive.com/jp/shop/ee395d328409ebdc58d385ea46352d8f">JOYJOY知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
-|4|730|<span class="rank-name-dl">Ryosuke</span>|<a href="https://search.dartslive.com/jp/shop/ee395d328409ebdc58d385ea46352d8f">JOYJOY知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
-|5|728|<span class="rank-name-dl">あべし</span>|<a href="https://search.dartslive.com/jp/shop/ee395d328409ebdc58d385ea46352d8f">JOYJOY知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
+|3|777|<span class="rank-name-dl">あべし</span>|<a href="https://search.dartslive.com/jp/shop/ee395d328409ebdc58d385ea46352d8f">JOYJOY知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
+|4|768|<span class="rank-name-dl">(ｺﾞ&#x27;·ω ·`ﾘ)丿</span>|<a href="https://search.dartslive.com/jp/shop/ee395d328409ebdc58d385ea46352d8f">JOYJOY知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
+|5|730|<span class="rank-name-dl">Ryosuke</span>|<a href="https://search.dartslive.com/jp/shop/ee395d328409ebdc58d385ea46352d8f">JOYJOY知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
 |6|720|<span class="rank-name-dl">Tomari</span>|<a href="https://search.dartslive.com/jp/shop/ee395d328409ebdc58d385ea46352d8f">JOYJOY知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
 |7|710|<span class="rank-name-dl">頑張りマンモス</span>|<a href="https://search.dartslive.com/jp/shop/ee395d328409ebdc58d385ea46352d8f">JOYJOY知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
 |8|705|<span class="rank-name-dl">爺の手は最悪！！</span>|<a href="https://search.dartslive.com/jp/shop/ee395d328409ebdc58d385ea46352d8f">JOYJOY知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
@@ -71,12 +72,10 @@ ___
 |12|569|<span class="rank-name-dl">KENTAMAN初号機</span>|<a href="https://search.dartslive.com/jp/shop/ee395d328409ebdc58d385ea46352d8f">JOYJOY知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
 |13|539|<span class="rank-name-dl">Tatsuya Kawai</span>|<a href="https://search.dartslive.com/jp/shop/ee395d328409ebdc58d385ea46352d8f">JOYJOY知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
 |14|532|<span class="rank-name-dl">あきら</span>|<a href="https://search.dartslive.com/jp/shop/ee395d328409ebdc58d385ea46352d8f">JOYJOY知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
-|15|507|<span class="rank-name-dl">もっち</span>|<a href="https://search.dartslive.com/jp/shop/ee395d328409ebdc58d385ea46352d8f">JOYJOY知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
-|16|456|<span class="rank-name-dl">ちいかわ</span>|<a href="https://search.dartslive.com/jp/shop/ee395d328409ebdc58d385ea46352d8f">JOYJOY知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
-|17|443|<span class="rank-name-dl">り̤̮ょ̤̮う̤̮</span>|<a href="https://search.dartslive.com/jp/shop/ee395d328409ebdc58d385ea46352d8f">JOYJOY知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
+|15|519|<span class="rank-name-dl">ベーコン</span>|<a href="https://search.dartslive.com/jp/shop/ee395d328409ebdc58d385ea46352d8f">JOYJOY知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
+|16|516|<span class="rank-name-dl">ちいかわ</span>|<a href="https://search.dartslive.com/jp/shop/ee395d328409ebdc58d385ea46352d8f">JOYJOY知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
+|17|507|<span class="rank-name-dl">もっち</span>|<a href="https://search.dartslive.com/jp/shop/ee395d328409ebdc58d385ea46352d8f">JOYJOY知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
 |18|438|<span class="rank-name-dl">はる( *˙ ˙* )</span>|<a href="https://search.dartslive.com/jp/shop/ee395d328409ebdc58d385ea46352d8f">JOYJOY知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
-|19|414|<span class="rank-name-dl">なべっち!（本人)</span>|<a href="https://search.dartslive.com/jp/shop/ee395d328409ebdc58d385ea46352d8f">JOYJOY知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
-|20|374|<span class="rank-name-dl">NO NAME 1808</span>|<a href="https://search.dartslive.com/jp/shop/ee395d328409ebdc58d385ea46352d8f">JOYJOY知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
 
 
 #### PHOENIXDARTS TOP 100
@@ -88,9 +87,12 @@ ___
 |---|---|---|---|---|
 |1|798|<span class="rank-name-pd">ポチョムキン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42271?s_seq=42271">JOYJOY 知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
 |2|791|<span class="rank-name-pd">(ｺﾞ´･ω･`ﾘ)ﾉ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42271?s_seq=42271">JOYJOY 知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
-|3|735|<span class="rank-name-pd">あっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42271?s_seq=42271">JOYJOY 知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
-|4|721|<span class="rank-name-pd">あべし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42271?s_seq=42271">JOYJOY 知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
-|5|445|<span class="rank-name-pd">くろかつ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42271?s_seq=42271">JOYJOY 知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
+|3|761|<span class="rank-name-pd">0027_3109</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42271?s_seq=42271">JOYJOY 知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
+|4|735|<span class="rank-name-pd">あっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42271?s_seq=42271">JOYJOY 知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
+|5|721|<span class="rank-name-pd">あべし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42271?s_seq=42271">JOYJOY 知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
+|6|677|<span class="rank-name-pd">じゃっかる！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42271?s_seq=42271">JOYJOY 知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
+|7|445|<span class="rank-name-pd">くろかつ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42271?s_seq=42271">JOYJOY 知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
+|8|369|<span class="rank-name-pd">KONOHOSHIUMIKA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42271?s_seq=42271">JOYJOY 知多清水ヶ丘店</a>|<a href="/darts/rank/愛知県/知多市">愛知県知多市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

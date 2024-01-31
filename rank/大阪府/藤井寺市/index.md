@@ -25,18 +25,18 @@ ___
 |---|---|---|---|---|
 |1|1033|<span class="rank-name-dl">さふぃん//a-s//</span>|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
 |2|1015|<span class="rank-name-dl">UNITY☆西本陽一</span>|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
-|3|874|<span class="rank-name-dl">ジャギつかさ</span>|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
-|4|864|<span class="rank-name-dl">YMY104</span>|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
-|5|803|<span class="rank-name-dl">[YMY]PLAYER 1376</span>|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
-|6|755|<span class="rank-name-dl">ｃｈａｎｔｅｒ</span>|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
-|7|650|<span class="rank-name-dl">YUMEYA☆ひろこ</span>|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
-|8|631|<span class="rank-name-dl">KOKI</span>|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
-|9|576|<span class="rank-name-dl">masasi</span>|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
-|10|571|<span class="rank-name-dl">エグゾディア</span>|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
-|11|529|<span class="rank-name-dl">YMY tsukasa</span>|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
-|12|458|<span class="rank-name-dl">Keiya</span>|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
-|13|448|<span class="rank-name-dl">早撃ちわったん</span>|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
-|14|381|<span class="rank-name-dl">YUMEYAかな</span>|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
+|3|915|<span class="rank-name-dl">901ｸﾞﾘｺS-DARTS23</span>|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
+|4|914|<span class="rank-name-dl">多々見　徹</span>|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
+|5|880|<span class="rank-name-dl">西片　直樹</span>|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
+|6|874|<span class="rank-name-dl">ジャギつかさ</span>|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
+|7|864|<span class="rank-name-dl">YMY104</span>|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
+|8|803|<span class="rank-name-dl">[YMY]PLAYER 1376</span>|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
+|9|755|<span class="rank-name-dl">ｃｈａｎｔｅｒ</span>|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
+|10|650|<span class="rank-name-dl">YUMEYA☆ひろこ</span>|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
+|11|631|<span class="rank-name-dl">KOKI</span>|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
+|12|576|<span class="rank-name-dl">masasi</span>|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
+|13|571|<span class="rank-name-dl">エグゾディア</span>|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
+|14|542|<span class="rank-name-dl">しゅんしゅん</span>|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -48,18 +48,18 @@ ___
 |---|---|---|---|---|
 |1|1033|<span class="rank-name-dl">さふぃん//a-s//</span>|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
 |2|1015|<span class="rank-name-dl">UNITY☆西本陽一</span>|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
-|3|874|<span class="rank-name-dl">ジャギつかさ</span>|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
-|4|864|<span class="rank-name-dl">YMY104</span>|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
-|5|803|<span class="rank-name-dl">[YMY]PLAYER 1376</span>|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
-|6|755|<span class="rank-name-dl">ｃｈａｎｔｅｒ</span>|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
-|7|650|<span class="rank-name-dl">YUMEYA☆ひろこ</span>|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
-|8|631|<span class="rank-name-dl">KOKI</span>|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
-|9|576|<span class="rank-name-dl">masasi</span>|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
-|10|571|<span class="rank-name-dl">エグゾディア</span>|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
-|11|529|<span class="rank-name-dl">YMY tsukasa</span>|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
-|12|458|<span class="rank-name-dl">Keiya</span>|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
-|13|448|<span class="rank-name-dl">早撃ちわったん</span>|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
-|14|381|<span class="rank-name-dl">YUMEYAかな</span>|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
+|3|915|<span class="rank-name-dl">901ｸﾞﾘｺS-DARTS23</span>|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
+|4|914|<span class="rank-name-dl">多々見　徹</span>|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
+|5|880|<span class="rank-name-dl">西片　直樹</span>|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
+|6|874|<span class="rank-name-dl">ジャギつかさ</span>|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
+|7|864|<span class="rank-name-dl">YMY104</span>|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
+|8|803|<span class="rank-name-dl">[YMY]PLAYER 1376</span>|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
+|9|755|<span class="rank-name-dl">ｃｈａｎｔｅｒ</span>|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
+|10|650|<span class="rank-name-dl">YUMEYA☆ひろこ</span>|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
+|11|631|<span class="rank-name-dl">KOKI</span>|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
+|12|576|<span class="rank-name-dl">masasi</span>|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
+|13|571|<span class="rank-name-dl">エグゾディア</span>|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
+|14|542|<span class="rank-name-dl">しゅんしゅん</span>|<a href="https://search.dartslive.com/jp/shop/95d40f05d75cfdaf0d9b047a20a7ba1e">FISH DINING＋BAR YUMEYA</a>|<a href="/darts/rank/大阪府/藤井寺市">大阪府藤井寺市</a>|
 
 
 #### PHOENIXDARTS TOP 100

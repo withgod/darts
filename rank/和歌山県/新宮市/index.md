@@ -30,37 +30,36 @@ ___
 |5|827|<span class="rank-name-dl">まひろん</span>|<a href="https://search.dartslive.com/jp/shop/7fbec8c8ac5ab04a0d9b047a20a7ba1e">AMUSEMENT BAR WKKS</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
 |6|805|<span class="rank-name-dl">KEVIN</span>|<a href="https://search.dartslive.com/jp/shop/7fbec8c8ac5ab04a0d9b047a20a7ba1e">AMUSEMENT BAR WKKS</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
 |7|699|<span class="rank-name-dl">まーぼー</span>|<a href="https://search.dartslive.com/jp/shop/7fbec8c8ac5ab04a0d9b047a20a7ba1e">AMUSEMENT BAR WKKS</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
-|8|695|<span class="rank-name-dl">NO NAME 6499</span>|<a href="https://search.dartslive.com/jp/shop/7fbec8c8ac5ab04a0d9b047a20a7ba1e">AMUSEMENT BAR WKKS</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
-|9|685|<span class="rank-name-pd">よこやん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78048?s_seq=78048">Live&Bar TONGA</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
-|10|669|<span class="rank-name-pd">むぅ～</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78048?s_seq=78048">Live&Bar TONGA</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
-|11|662|<span class="rank-name-dl">エルス</span>|<a href="https://search.dartslive.com/jp/shop/7fbec8c8ac5ab04a0d9b047a20a7ba1e">AMUSEMENT BAR WKKS</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
-|12|659|<span class="rank-name-pd">まーぼう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78048?s_seq=78048">Live&Bar TONGA</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
-|13|654|<span class="rank-name-pd">ちゅいげちゅ・くどー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78048?s_seq=78048">Live&Bar TONGA</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
-|14|651|<span class="rank-name-dl">そら</span>|<a href="https://search.dartslive.com/jp/shop/7fbec8c8ac5ab04a0d9b047a20a7ba1e">AMUSEMENT BAR WKKS</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
-|15|648|<span class="rank-name-dl">ゆめ</span>|<a href="https://search.dartslive.com/jp/shop/7fbec8c8ac5ab04a0d9b047a20a7ba1e">AMUSEMENT BAR WKKS</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
+|8|697|<span class="rank-name-dl">ゆめ</span>|<a href="https://search.dartslive.com/jp/shop/7fbec8c8ac5ab04a0d9b047a20a7ba1e">AMUSEMENT BAR WKKS</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
+|9|695|<span class="rank-name-dl">NO NAME 6499</span>|<a href="https://search.dartslive.com/jp/shop/7fbec8c8ac5ab04a0d9b047a20a7ba1e">AMUSEMENT BAR WKKS</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
+|10|685|<span class="rank-name-pd">よこやん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78048?s_seq=78048">Live&Bar TONGA</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
+|11|669|<span class="rank-name-pd">むぅ～</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78048?s_seq=78048">Live&Bar TONGA</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
+|12|662|<span class="rank-name-dl">エルス</span>|<a href="https://search.dartslive.com/jp/shop/7fbec8c8ac5ab04a0d9b047a20a7ba1e">AMUSEMENT BAR WKKS</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
+|13|659|<span class="rank-name-pd">まーぼう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78048?s_seq=78048">Live&Bar TONGA</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
+|14|654|<span class="rank-name-pd">ちゅいげちゅ・くどー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78048?s_seq=78048">Live&Bar TONGA</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
+|15|651|<span class="rank-name-dl">そら</span>|<a href="https://search.dartslive.com/jp/shop/7fbec8c8ac5ab04a0d9b047a20a7ba1e">AMUSEMENT BAR WKKS</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
 |16|645|<span class="rank-name-pd">【酔月】　kudou</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78048?s_seq=78048">Live&Bar TONGA</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
-|17|635|<span class="rank-name-dl">syota</span>|<a href="https://search.dartslive.com/jp/shop/7fbec8c8ac5ab04a0d9b047a20a7ba1e">AMUSEMENT BAR WKKS</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
-|18|621|<span class="rank-name-pd">のり@素人+産毛</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78048?s_seq=78048">Live&Bar TONGA</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
-|19|608|<span class="rank-name-dl">ひで</span>|<a href="https://search.dartslive.com/jp/shop/7fbec8c8ac5ab04a0d9b047a20a7ba1e">AMUSEMENT BAR WKKS</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
-|20|596|<span class="rank-name-dl">だいご</span>|<a href="https://search.dartslive.com/jp/shop/7fbec8c8ac5ab04a0d9b047a20a7ba1e">AMUSEMENT BAR WKKS</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
-|21|592|<span class="rank-name-pd">AKOH</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78048?s_seq=78048">Live&Bar TONGA</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
-|22|588|<span class="rank-name-dl">みつき</span>|<a href="https://search.dartslive.com/jp/shop/7fbec8c8ac5ab04a0d9b047a20a7ba1e">AMUSEMENT BAR WKKS</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
+|17|639|<span class="rank-name-dl">ＫＡＺＵＫＩ</span>|<a href="https://search.dartslive.com/jp/shop/7fbec8c8ac5ab04a0d9b047a20a7ba1e">AMUSEMENT BAR WKKS</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
+|18|635|<span class="rank-name-dl">syota</span>|<a href="https://search.dartslive.com/jp/shop/7fbec8c8ac5ab04a0d9b047a20a7ba1e">AMUSEMENT BAR WKKS</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
+|19|621|<span class="rank-name-pd">のり@素人+産毛</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78048?s_seq=78048">Live&Bar TONGA</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
+|20|608|<span class="rank-name-dl">ひで</span>|<a href="https://search.dartslive.com/jp/shop/7fbec8c8ac5ab04a0d9b047a20a7ba1e">AMUSEMENT BAR WKKS</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
+|21|596|<span class="rank-name-dl">だいご</span>|<a href="https://search.dartslive.com/jp/shop/7fbec8c8ac5ab04a0d9b047a20a7ba1e">AMUSEMENT BAR WKKS</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
+|22|592|<span class="rank-name-pd">AKOH</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78048?s_seq=78048">Live&Bar TONGA</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
 |23|579|<span class="rank-name-pd">shackey</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78048?s_seq=78048">Live&Bar TONGA</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
-|23|579|<span class="rank-name-dl">けいぷり</span>|<a href="https://search.dartslive.com/jp/shop/7fbec8c8ac5ab04a0d9b047a20a7ba1e">AMUSEMENT BAR WKKS</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
-|25|574|<span class="rank-name-pd">Chikka</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78048?s_seq=78048">Live&Bar TONGA</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
-|26|549|<span class="rank-name-pd">Dra hik0</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78048?s_seq=78048">Live&Bar TONGA</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
-|27|533|<span class="rank-name-pd">やんやん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78048?s_seq=78048">Live&Bar TONGA</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
-|28|520|<span class="rank-name-pd">やんくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78048?s_seq=78048">Live&Bar TONGA</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
-|29|458|<span class="rank-name-pd">まほ TONGA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78048?s_seq=78048">Live&Bar TONGA</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
-|30|454|<span class="rank-name-dl">Gentq@FLIGHT</span>|<a href="https://search.dartslive.com/jp/shop/31817f0d2319720a0d9b047a20a7ba1e">Bar Paz</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
-|31|442|<span class="rank-name-pd">しもしも</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78048?s_seq=78048">Live&Bar TONGA</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
-|32|430|<span class="rank-name-pd">S‪α‬n‪α‬</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78048?s_seq=78048">Live&Bar TONGA</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
-|33|373|<span class="rank-name-pd">Kissy</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78048?s_seq=78048">Live&Bar TONGA</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
-|34|332|<span class="rank-name-pd">デンジャラス・アキボンボン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78048?s_seq=78048">Live&Bar TONGA</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
-|35|325|<span class="rank-name-pd">しんちゃんとぶりぶりぼんぼん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78048?s_seq=78048">Live&Bar TONGA</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
-|36|320|<span class="rank-name-pd">はれる屋　よしみ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78048?s_seq=78048">Live&Bar TONGA</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
-|37|304|<span class="rank-name-pd">しょうこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78048?s_seq=78048">Live&Bar TONGA</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
-|38|272|<span class="rank-name-pd">はれる屋　大輔</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78048?s_seq=78048">Live&Bar TONGA</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
+|24|574|<span class="rank-name-pd">Chikka</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78048?s_seq=78048">Live&Bar TONGA</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
+|25|549|<span class="rank-name-pd">Dra hik0</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78048?s_seq=78048">Live&Bar TONGA</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
+|26|533|<span class="rank-name-pd">やんやん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78048?s_seq=78048">Live&Bar TONGA</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
+|27|520|<span class="rank-name-pd">やんくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78048?s_seq=78048">Live&Bar TONGA</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
+|28|458|<span class="rank-name-pd">まほ TONGA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78048?s_seq=78048">Live&Bar TONGA</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
+|29|454|<span class="rank-name-dl">Gentq@FLIGHT</span>|<a href="https://search.dartslive.com/jp/shop/31817f0d2319720a0d9b047a20a7ba1e">Bar Paz</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
+|30|442|<span class="rank-name-pd">しもしも</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78048?s_seq=78048">Live&Bar TONGA</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
+|31|430|<span class="rank-name-pd">S‪α‬n‪α‬</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78048?s_seq=78048">Live&Bar TONGA</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
+|32|373|<span class="rank-name-pd">Kissy</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78048?s_seq=78048">Live&Bar TONGA</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
+|33|332|<span class="rank-name-pd">デンジャラス・アキボンボン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78048?s_seq=78048">Live&Bar TONGA</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
+|34|325|<span class="rank-name-pd">しんちゃんとぶりぶりぼんぼん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78048?s_seq=78048">Live&Bar TONGA</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
+|35|320|<span class="rank-name-pd">はれる屋　よしみ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78048?s_seq=78048">Live&Bar TONGA</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
+|36|304|<span class="rank-name-pd">しょうこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78048?s_seq=78048">Live&Bar TONGA</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
+|37|272|<span class="rank-name-pd">はれる屋　大輔</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78048?s_seq=78048">Live&Bar TONGA</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -75,16 +74,15 @@ ___
 |3|827|<span class="rank-name-dl">まひろん</span>|<a href="https://search.dartslive.com/jp/shop/7fbec8c8ac5ab04a0d9b047a20a7ba1e">AMUSEMENT BAR WKKS</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
 |4|805|<span class="rank-name-dl">KEVIN</span>|<a href="https://search.dartslive.com/jp/shop/7fbec8c8ac5ab04a0d9b047a20a7ba1e">AMUSEMENT BAR WKKS</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
 |5|699|<span class="rank-name-dl">まーぼー</span>|<a href="https://search.dartslive.com/jp/shop/7fbec8c8ac5ab04a0d9b047a20a7ba1e">AMUSEMENT BAR WKKS</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
-|6|695|<span class="rank-name-dl">NO NAME 6499</span>|<a href="https://search.dartslive.com/jp/shop/7fbec8c8ac5ab04a0d9b047a20a7ba1e">AMUSEMENT BAR WKKS</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
-|7|662|<span class="rank-name-dl">エルス</span>|<a href="https://search.dartslive.com/jp/shop/7fbec8c8ac5ab04a0d9b047a20a7ba1e">AMUSEMENT BAR WKKS</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
-|8|651|<span class="rank-name-dl">そら</span>|<a href="https://search.dartslive.com/jp/shop/7fbec8c8ac5ab04a0d9b047a20a7ba1e">AMUSEMENT BAR WKKS</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
-|9|648|<span class="rank-name-dl">ゆめ</span>|<a href="https://search.dartslive.com/jp/shop/7fbec8c8ac5ab04a0d9b047a20a7ba1e">AMUSEMENT BAR WKKS</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
-|10|635|<span class="rank-name-dl">syota</span>|<a href="https://search.dartslive.com/jp/shop/7fbec8c8ac5ab04a0d9b047a20a7ba1e">AMUSEMENT BAR WKKS</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
-|11|608|<span class="rank-name-dl">ひで</span>|<a href="https://search.dartslive.com/jp/shop/7fbec8c8ac5ab04a0d9b047a20a7ba1e">AMUSEMENT BAR WKKS</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
-|12|596|<span class="rank-name-dl">だいご</span>|<a href="https://search.dartslive.com/jp/shop/7fbec8c8ac5ab04a0d9b047a20a7ba1e">AMUSEMENT BAR WKKS</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
-|13|588|<span class="rank-name-dl">みつき</span>|<a href="https://search.dartslive.com/jp/shop/7fbec8c8ac5ab04a0d9b047a20a7ba1e">AMUSEMENT BAR WKKS</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
-|14|579|<span class="rank-name-dl">けいぷり</span>|<a href="https://search.dartslive.com/jp/shop/7fbec8c8ac5ab04a0d9b047a20a7ba1e">AMUSEMENT BAR WKKS</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
-|15|454|<span class="rank-name-dl">Gentq@FLIGHT</span>|<a href="https://search.dartslive.com/jp/shop/31817f0d2319720a0d9b047a20a7ba1e">Bar Paz</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
+|6|697|<span class="rank-name-dl">ゆめ</span>|<a href="https://search.dartslive.com/jp/shop/7fbec8c8ac5ab04a0d9b047a20a7ba1e">AMUSEMENT BAR WKKS</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
+|7|695|<span class="rank-name-dl">NO NAME 6499</span>|<a href="https://search.dartslive.com/jp/shop/7fbec8c8ac5ab04a0d9b047a20a7ba1e">AMUSEMENT BAR WKKS</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
+|8|662|<span class="rank-name-dl">エルス</span>|<a href="https://search.dartslive.com/jp/shop/7fbec8c8ac5ab04a0d9b047a20a7ba1e">AMUSEMENT BAR WKKS</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
+|9|651|<span class="rank-name-dl">そら</span>|<a href="https://search.dartslive.com/jp/shop/7fbec8c8ac5ab04a0d9b047a20a7ba1e">AMUSEMENT BAR WKKS</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
+|10|639|<span class="rank-name-dl">ＫＡＺＵＫＩ</span>|<a href="https://search.dartslive.com/jp/shop/7fbec8c8ac5ab04a0d9b047a20a7ba1e">AMUSEMENT BAR WKKS</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
+|11|635|<span class="rank-name-dl">syota</span>|<a href="https://search.dartslive.com/jp/shop/7fbec8c8ac5ab04a0d9b047a20a7ba1e">AMUSEMENT BAR WKKS</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
+|12|608|<span class="rank-name-dl">ひで</span>|<a href="https://search.dartslive.com/jp/shop/7fbec8c8ac5ab04a0d9b047a20a7ba1e">AMUSEMENT BAR WKKS</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
+|13|596|<span class="rank-name-dl">だいご</span>|<a href="https://search.dartslive.com/jp/shop/7fbec8c8ac5ab04a0d9b047a20a7ba1e">AMUSEMENT BAR WKKS</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
+|14|454|<span class="rank-name-dl">Gentq@FLIGHT</span>|<a href="https://search.dartslive.com/jp/shop/31817f0d2319720a0d9b047a20a7ba1e">Bar Paz</a>|<a href="/darts/rank/和歌山県/新宮市">和歌山県新宮市</a>|
 
 
 #### PHOENIXDARTS TOP 100

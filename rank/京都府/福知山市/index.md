@@ -23,7 +23,7 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1083|<span class="rank-name-dl">ﾊｼﾞﾒちゃん@8121</span>|<a href="https://search.dartslive.com/jp/shop/834560715049eea20d9b047a20a7ba1e">あそVIVA</a>|<a href="/darts/rank/京都府/福知山市">京都府福知山市</a>|
+|1|918|<span class="rank-name-dl">ﾊｼﾞﾒちゃん@8121</span>|<a href="https://search.dartslive.com/jp/shop/834560715049eea20d9b047a20a7ba1e">あそVIVA</a>|<a href="/darts/rank/京都府/福知山市">京都府福知山市</a>|
 |2|914|<span class="rank-name-dl">な〜り〜</span>|<a href="https://search.dartslive.com/jp/shop/1d16d9c00bbc6c660d9b047a20a7ba1e">Los Angels Club</a>|<a href="/darts/rank/京都府/福知山市">京都府福知山市</a>|
 |3|908|<span class="rank-name-dl">TAKA</span>|<a href="https://search.dartslive.com/jp/shop/1d16d9c00bbc6c660d9b047a20a7ba1e">Los Angels Club</a>|<a href="/darts/rank/京都府/福知山市">京都府福知山市</a>|
 |4|907|<span class="rank-name-dl">yohe</span>|<a href="https://search.dartslive.com/jp/shop/1d16d9c00bbc6c660d9b047a20a7ba1e">Los Angels Club</a>|<a href="/darts/rank/京都府/福知山市">京都府福知山市</a>|
@@ -42,22 +42,18 @@ ___
 |17|779|<span class="rank-name-dl">カキ</span>|<a href="https://search.dartslive.com/jp/shop/834560715049eea20d9b047a20a7ba1e">あそVIVA</a>|<a href="/darts/rank/京都府/福知山市">京都府福知山市</a>|
 |18|772|<span class="rank-name-dl">大ちゃん@YTD</span>|<a href="https://search.dartslive.com/jp/shop/1d16d9c00bbc6c660d9b047a20a7ba1e">Los Angels Club</a>|<a href="/darts/rank/京都府/福知山市">京都府福知山市</a>|
 |19|766|<span class="rank-name-dl">野村　勇太@log</span>|<a href="https://search.dartslive.com/jp/shop/834560715049eea20d9b047a20a7ba1e">あそVIVA</a>|<a href="/darts/rank/京都府/福知山市">京都府福知山市</a>|
-|20|759|<span class="rank-name-dl">TezO4MA</span>|<a href="https://search.dartslive.com/jp/shop/834560715049eea20d9b047a20a7ba1e">あそVIVA</a>|<a href="/darts/rank/京都府/福知山市">京都府福知山市</a>|
-|21|757|<span class="rank-name-dl">Ryo.</span>|<a href="https://search.dartslive.com/jp/shop/1d16d9c00bbc6c660d9b047a20a7ba1e">Los Angels Club</a>|<a href="/darts/rank/京都府/福知山市">京都府福知山市</a>|
-|22|748|<span class="rank-name-dl">NO NAME 1623</span>|<a href="https://search.dartslive.com/jp/shop/834560715049eea20d9b047a20a7ba1e">あそVIVA</a>|<a href="/darts/rank/京都府/福知山市">京都府福知山市</a>|
-|23|737|<span class="rank-name-dl">かいちょ@C-Mate</span>|<a href="https://search.dartslive.com/jp/shop/1d16d9c00bbc6c660d9b047a20a7ba1e">Los Angels Club</a>|<a href="/darts/rank/京都府/福知山市">京都府福知山市</a>|
+|20|765|<span class="rank-name-dl">かいちょ@C-Mate</span>|<a href="https://search.dartslive.com/jp/shop/1d16d9c00bbc6c660d9b047a20a7ba1e">Los Angels Club</a>|<a href="/darts/rank/京都府/福知山市">京都府福知山市</a>|
+|21|759|<span class="rank-name-dl">TezO4MA</span>|<a href="https://search.dartslive.com/jp/shop/834560715049eea20d9b047a20a7ba1e">あそVIVA</a>|<a href="/darts/rank/京都府/福知山市">京都府福知山市</a>|
+|22|757|<span class="rank-name-dl">Ryo.</span>|<a href="https://search.dartslive.com/jp/shop/1d16d9c00bbc6c660d9b047a20a7ba1e">Los Angels Club</a>|<a href="/darts/rank/京都府/福知山市">京都府福知山市</a>|
+|23|748|<span class="rank-name-dl">NO NAME 1623</span>|<a href="https://search.dartslive.com/jp/shop/834560715049eea20d9b047a20a7ba1e">あそVIVA</a>|<a href="/darts/rank/京都府/福知山市">京都府福知山市</a>|
 |24|706|<span class="rank-name-dl">風来坊@ChouChou</span>|<a href="https://search.dartslive.com/jp/shop/1d16d9c00bbc6c660d9b047a20a7ba1e">Los Angels Club</a>|<a href="/darts/rank/京都府/福知山市">京都府福知山市</a>|
 |25|667|<span class="rank-name-dl">TAKU</span>|<a href="https://search.dartslive.com/jp/shop/1d16d9c00bbc6c660d9b047a20a7ba1e">Los Angels Club</a>|<a href="/darts/rank/京都府/福知山市">京都府福知山市</a>|
 |26|663|<span class="rank-name-dl">LAC KENT</span>|<a href="https://search.dartslive.com/jp/shop/1d16d9c00bbc6c660d9b047a20a7ba1e">Los Angels Club</a>|<a href="/darts/rank/京都府/福知山市">京都府福知山市</a>|
 |27|647|<span class="rank-name-dl">あちゃぱか</span>|<a href="https://search.dartslive.com/jp/shop/834560715049eea20d9b047a20a7ba1e">あそVIVA</a>|<a href="/darts/rank/京都府/福知山市">京都府福知山市</a>|
 |28|645|<span class="rank-name-dl">~syo~</span>|<a href="https://search.dartslive.com/jp/shop/834560715049eea20d9b047a20a7ba1e">あそVIVA</a>|<a href="/darts/rank/京都府/福知山市">京都府福知山市</a>|
-|29|634|<span class="rank-name-dl">ジャックすぱろう</span>|<a href="https://search.dartslive.com/jp/shop/834560715049eea20d9b047a20a7ba1e">あそVIVA</a>|<a href="/darts/rank/京都府/福知山市">京都府福知山市</a>|
-|30|625|<span class="rank-name-dl">☆ほーりー☆彡</span>|<a href="https://search.dartslive.com/jp/shop/834560715049eea20d9b047a20a7ba1e">あそVIVA</a>|<a href="/darts/rank/京都府/福知山市">京都府福知山市</a>|
-|31|571|<span class="rank-name-dl">~syo~</span>|<a href="https://search.dartslive.com/jp/shop/1d16d9c00bbc6c660d9b047a20a7ba1e">Los Angels Club</a>|<a href="/darts/rank/京都府/福知山市">京都府福知山市</a>|
-|32|508|<span class="rank-name-dl">匠</span>|<a href="https://search.dartslive.com/jp/shop/1d16d9c00bbc6c660d9b047a20a7ba1e">Los Angels Club</a>|<a href="/darts/rank/京都府/福知山市">京都府福知山市</a>|
-|33|465|<span class="rank-name-dl">☆LAC まや☆</span>|<a href="https://search.dartslive.com/jp/shop/1d16d9c00bbc6c660d9b047a20a7ba1e">Los Angels Club</a>|<a href="/darts/rank/京都府/福知山市">京都府福知山市</a>|
-|34|341|<span class="rank-name-dl">ももか</span>|<a href="https://search.dartslive.com/jp/shop/834560715049eea20d9b047a20a7ba1e">あそVIVA</a>|<a href="/darts/rank/京都府/福知山市">京都府福知山市</a>|
-|35|273|<span class="rank-name-dl">おてんばちゃん</span>|<a href="https://search.dartslive.com/jp/shop/834560715049eea20d9b047a20a7ba1e">あそVIVA</a>|<a href="/darts/rank/京都府/福知山市">京都府福知山市</a>|
+|29|465|<span class="rank-name-dl">☆LAC まや☆</span>|<a href="https://search.dartslive.com/jp/shop/1d16d9c00bbc6c660d9b047a20a7ba1e">Los Angels Club</a>|<a href="/darts/rank/京都府/福知山市">京都府福知山市</a>|
+|30|341|<span class="rank-name-dl">ももか</span>|<a href="https://search.dartslive.com/jp/shop/834560715049eea20d9b047a20a7ba1e">あそVIVA</a>|<a href="/darts/rank/京都府/福知山市">京都府福知山市</a>|
+|31|273|<span class="rank-name-dl">おてんばちゃん</span>|<a href="https://search.dartslive.com/jp/shop/834560715049eea20d9b047a20a7ba1e">あそVIVA</a>|<a href="/darts/rank/京都府/福知山市">京都府福知山市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -67,7 +63,7 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1083|<span class="rank-name-dl">ﾊｼﾞﾒちゃん@8121</span>|<a href="https://search.dartslive.com/jp/shop/834560715049eea20d9b047a20a7ba1e">あそVIVA</a>|<a href="/darts/rank/京都府/福知山市">京都府福知山市</a>|
+|1|918|<span class="rank-name-dl">ﾊｼﾞﾒちゃん@8121</span>|<a href="https://search.dartslive.com/jp/shop/834560715049eea20d9b047a20a7ba1e">あそVIVA</a>|<a href="/darts/rank/京都府/福知山市">京都府福知山市</a>|
 |2|914|<span class="rank-name-dl">な〜り〜</span>|<a href="https://search.dartslive.com/jp/shop/1d16d9c00bbc6c660d9b047a20a7ba1e">Los Angels Club</a>|<a href="/darts/rank/京都府/福知山市">京都府福知山市</a>|
 |3|908|<span class="rank-name-dl">TAKA</span>|<a href="https://search.dartslive.com/jp/shop/1d16d9c00bbc6c660d9b047a20a7ba1e">Los Angels Club</a>|<a href="/darts/rank/京都府/福知山市">京都府福知山市</a>|
 |4|907|<span class="rank-name-dl">yohe</span>|<a href="https://search.dartslive.com/jp/shop/1d16d9c00bbc6c660d9b047a20a7ba1e">Los Angels Club</a>|<a href="/darts/rank/京都府/福知山市">京都府福知山市</a>|
@@ -86,22 +82,18 @@ ___
 |17|779|<span class="rank-name-dl">カキ</span>|<a href="https://search.dartslive.com/jp/shop/834560715049eea20d9b047a20a7ba1e">あそVIVA</a>|<a href="/darts/rank/京都府/福知山市">京都府福知山市</a>|
 |18|772|<span class="rank-name-dl">大ちゃん@YTD</span>|<a href="https://search.dartslive.com/jp/shop/1d16d9c00bbc6c660d9b047a20a7ba1e">Los Angels Club</a>|<a href="/darts/rank/京都府/福知山市">京都府福知山市</a>|
 |19|766|<span class="rank-name-dl">野村　勇太@log</span>|<a href="https://search.dartslive.com/jp/shop/834560715049eea20d9b047a20a7ba1e">あそVIVA</a>|<a href="/darts/rank/京都府/福知山市">京都府福知山市</a>|
-|20|759|<span class="rank-name-dl">TezO4MA</span>|<a href="https://search.dartslive.com/jp/shop/834560715049eea20d9b047a20a7ba1e">あそVIVA</a>|<a href="/darts/rank/京都府/福知山市">京都府福知山市</a>|
-|21|757|<span class="rank-name-dl">Ryo.</span>|<a href="https://search.dartslive.com/jp/shop/1d16d9c00bbc6c660d9b047a20a7ba1e">Los Angels Club</a>|<a href="/darts/rank/京都府/福知山市">京都府福知山市</a>|
-|22|748|<span class="rank-name-dl">NO NAME 1623</span>|<a href="https://search.dartslive.com/jp/shop/834560715049eea20d9b047a20a7ba1e">あそVIVA</a>|<a href="/darts/rank/京都府/福知山市">京都府福知山市</a>|
-|23|737|<span class="rank-name-dl">かいちょ@C-Mate</span>|<a href="https://search.dartslive.com/jp/shop/1d16d9c00bbc6c660d9b047a20a7ba1e">Los Angels Club</a>|<a href="/darts/rank/京都府/福知山市">京都府福知山市</a>|
+|20|765|<span class="rank-name-dl">かいちょ@C-Mate</span>|<a href="https://search.dartslive.com/jp/shop/1d16d9c00bbc6c660d9b047a20a7ba1e">Los Angels Club</a>|<a href="/darts/rank/京都府/福知山市">京都府福知山市</a>|
+|21|759|<span class="rank-name-dl">TezO4MA</span>|<a href="https://search.dartslive.com/jp/shop/834560715049eea20d9b047a20a7ba1e">あそVIVA</a>|<a href="/darts/rank/京都府/福知山市">京都府福知山市</a>|
+|22|757|<span class="rank-name-dl">Ryo.</span>|<a href="https://search.dartslive.com/jp/shop/1d16d9c00bbc6c660d9b047a20a7ba1e">Los Angels Club</a>|<a href="/darts/rank/京都府/福知山市">京都府福知山市</a>|
+|23|748|<span class="rank-name-dl">NO NAME 1623</span>|<a href="https://search.dartslive.com/jp/shop/834560715049eea20d9b047a20a7ba1e">あそVIVA</a>|<a href="/darts/rank/京都府/福知山市">京都府福知山市</a>|
 |24|706|<span class="rank-name-dl">風来坊@ChouChou</span>|<a href="https://search.dartslive.com/jp/shop/1d16d9c00bbc6c660d9b047a20a7ba1e">Los Angels Club</a>|<a href="/darts/rank/京都府/福知山市">京都府福知山市</a>|
 |25|667|<span class="rank-name-dl">TAKU</span>|<a href="https://search.dartslive.com/jp/shop/1d16d9c00bbc6c660d9b047a20a7ba1e">Los Angels Club</a>|<a href="/darts/rank/京都府/福知山市">京都府福知山市</a>|
 |26|663|<span class="rank-name-dl">LAC KENT</span>|<a href="https://search.dartslive.com/jp/shop/1d16d9c00bbc6c660d9b047a20a7ba1e">Los Angels Club</a>|<a href="/darts/rank/京都府/福知山市">京都府福知山市</a>|
 |27|647|<span class="rank-name-dl">あちゃぱか</span>|<a href="https://search.dartslive.com/jp/shop/834560715049eea20d9b047a20a7ba1e">あそVIVA</a>|<a href="/darts/rank/京都府/福知山市">京都府福知山市</a>|
 |28|645|<span class="rank-name-dl">~syo~</span>|<a href="https://search.dartslive.com/jp/shop/834560715049eea20d9b047a20a7ba1e">あそVIVA</a>|<a href="/darts/rank/京都府/福知山市">京都府福知山市</a>|
-|29|634|<span class="rank-name-dl">ジャックすぱろう</span>|<a href="https://search.dartslive.com/jp/shop/834560715049eea20d9b047a20a7ba1e">あそVIVA</a>|<a href="/darts/rank/京都府/福知山市">京都府福知山市</a>|
-|30|625|<span class="rank-name-dl">☆ほーりー☆彡</span>|<a href="https://search.dartslive.com/jp/shop/834560715049eea20d9b047a20a7ba1e">あそVIVA</a>|<a href="/darts/rank/京都府/福知山市">京都府福知山市</a>|
-|31|571|<span class="rank-name-dl">~syo~</span>|<a href="https://search.dartslive.com/jp/shop/1d16d9c00bbc6c660d9b047a20a7ba1e">Los Angels Club</a>|<a href="/darts/rank/京都府/福知山市">京都府福知山市</a>|
-|32|508|<span class="rank-name-dl">匠</span>|<a href="https://search.dartslive.com/jp/shop/1d16d9c00bbc6c660d9b047a20a7ba1e">Los Angels Club</a>|<a href="/darts/rank/京都府/福知山市">京都府福知山市</a>|
-|33|465|<span class="rank-name-dl">☆LAC まや☆</span>|<a href="https://search.dartslive.com/jp/shop/1d16d9c00bbc6c660d9b047a20a7ba1e">Los Angels Club</a>|<a href="/darts/rank/京都府/福知山市">京都府福知山市</a>|
-|34|341|<span class="rank-name-dl">ももか</span>|<a href="https://search.dartslive.com/jp/shop/834560715049eea20d9b047a20a7ba1e">あそVIVA</a>|<a href="/darts/rank/京都府/福知山市">京都府福知山市</a>|
-|35|273|<span class="rank-name-dl">おてんばちゃん</span>|<a href="https://search.dartslive.com/jp/shop/834560715049eea20d9b047a20a7ba1e">あそVIVA</a>|<a href="/darts/rank/京都府/福知山市">京都府福知山市</a>|
+|29|465|<span class="rank-name-dl">☆LAC まや☆</span>|<a href="https://search.dartslive.com/jp/shop/1d16d9c00bbc6c660d9b047a20a7ba1e">Los Angels Club</a>|<a href="/darts/rank/京都府/福知山市">京都府福知山市</a>|
+|30|341|<span class="rank-name-dl">ももか</span>|<a href="https://search.dartslive.com/jp/shop/834560715049eea20d9b047a20a7ba1e">あそVIVA</a>|<a href="/darts/rank/京都府/福知山市">京都府福知山市</a>|
+|31|273|<span class="rank-name-dl">おてんばちゃん</span>|<a href="https://search.dartslive.com/jp/shop/834560715049eea20d9b047a20a7ba1e">あそVIVA</a>|<a href="/darts/rank/京都府/福知山市">京都府福知山市</a>|
 
 
 #### PHOENIXDARTS TOP 100

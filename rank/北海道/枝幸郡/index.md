@@ -27,16 +27,16 @@ ___
 |2|855|<span class="rank-name-dl">ぬーんだよ</span>|<a href="https://search.dartslive.com/jp/shop/4635f9e35f90bbc60d9b047a20a7ba1e">bar alegria</a>|<a href="/darts/rank/北海道/枝幸郡">北海道枝幸郡</a>|
 |3|788|<span class="rank-name-dl">りゅーや</span>|<a href="https://search.dartslive.com/jp/shop/4635f9e35f90bbc60d9b047a20a7ba1e">bar alegria</a>|<a href="/darts/rank/北海道/枝幸郡">北海道枝幸郡</a>|
 |4|732|<span class="rank-name-dl">コヤンスカヤ</span>|<a href="https://search.dartslive.com/jp/shop/4635f9e35f90bbc60d9b047a20a7ba1e">bar alegria</a>|<a href="/darts/rank/北海道/枝幸郡">北海道枝幸郡</a>|
-|5|712|<span class="rank-name-dl">あき</span>|<a href="https://search.dartslive.com/jp/shop/4635f9e35f90bbc60d9b047a20a7ba1e">bar alegria</a>|<a href="/darts/rank/北海道/枝幸郡">北海道枝幸郡</a>|
-|6|676|<span class="rank-name-dl">あかね</span>|<a href="https://search.dartslive.com/jp/shop/4635f9e35f90bbc60d9b047a20a7ba1e">bar alegria</a>|<a href="/darts/rank/北海道/枝幸郡">北海道枝幸郡</a>|
+|5|718|<span class="rank-name-dl">あかね</span>|<a href="https://search.dartslive.com/jp/shop/4635f9e35f90bbc60d9b047a20a7ba1e">bar alegria</a>|<a href="/darts/rank/北海道/枝幸郡">北海道枝幸郡</a>|
+|6|712|<span class="rank-name-dl">あき</span>|<a href="https://search.dartslive.com/jp/shop/4635f9e35f90bbc60d9b047a20a7ba1e">bar alegria</a>|<a href="/darts/rank/北海道/枝幸郡">北海道枝幸郡</a>|
 |7|658|<span class="rank-name-dl">あーどーしよー</span>|<a href="https://search.dartslive.com/jp/shop/4635f9e35f90bbc60d9b047a20a7ba1e">bar alegria</a>|<a href="/darts/rank/北海道/枝幸郡">北海道枝幸郡</a>|
-|8|627|<span class="rank-name-dl">MARUｰ2</span>|<a href="https://search.dartslive.com/jp/shop/4635f9e35f90bbc60d9b047a20a7ba1e">bar alegria</a>|<a href="/darts/rank/北海道/枝幸郡">北海道枝幸郡</a>|
+|8|632|<span class="rank-name-dl">MARUｰ2</span>|<a href="https://search.dartslive.com/jp/shop/4635f9e35f90bbc60d9b047a20a7ba1e">bar alegria</a>|<a href="/darts/rank/北海道/枝幸郡">北海道枝幸郡</a>|
 |9|594|<span class="rank-name-dl">まるだし</span>|<a href="https://search.dartslive.com/jp/shop/4635f9e35f90bbc60d9b047a20a7ba1e">bar alegria</a>|<a href="/darts/rank/北海道/枝幸郡">北海道枝幸郡</a>|
 |10|587|<span class="rank-name-dl">YUZURU</span>|<a href="https://search.dartslive.com/jp/shop/4635f9e35f90bbc60d9b047a20a7ba1e">bar alegria</a>|<a href="/darts/rank/北海道/枝幸郡">北海道枝幸郡</a>|
 |11|549|<span class="rank-name-dl">だーやま。</span>|<a href="https://search.dartslive.com/jp/shop/4635f9e35f90bbc60d9b047a20a7ba1e">bar alegria</a>|<a href="/darts/rank/北海道/枝幸郡">北海道枝幸郡</a>|
-|12|502|<span class="rank-name-dl">風雅</span>|<a href="https://search.dartslive.com/jp/shop/4635f9e35f90bbc60d9b047a20a7ba1e">bar alegria</a>|<a href="/darts/rank/北海道/枝幸郡">北海道枝幸郡</a>|
-|13|470|<span class="rank-name-dl">めそ(=ﾟωﾟ=)</span>|<a href="https://search.dartslive.com/jp/shop/4635f9e35f90bbc60d9b047a20a7ba1e">bar alegria</a>|<a href="/darts/rank/北海道/枝幸郡">北海道枝幸郡</a>|
-|14|449|<span class="rank-name-dl">R</span>|<a href="https://search.dartslive.com/jp/shop/4635f9e35f90bbc60d9b047a20a7ba1e">bar alegria</a>|<a href="/darts/rank/北海道/枝幸郡">北海道枝幸郡</a>|
+|12|524|<span class="rank-name-dl">NO NAME 3014</span>|<a href="https://search.dartslive.com/jp/shop/4635f9e35f90bbc60d9b047a20a7ba1e">bar alegria</a>|<a href="/darts/rank/北海道/枝幸郡">北海道枝幸郡</a>|
+|13|505|<span class="rank-name-dl">☆AKI☆</span>|<a href="https://search.dartslive.com/jp/shop/4635f9e35f90bbc60d9b047a20a7ba1e">bar alegria</a>|<a href="/darts/rank/北海道/枝幸郡">北海道枝幸郡</a>|
+|14|480|<span class="rank-name-dl">風雅</span>|<a href="https://search.dartslive.com/jp/shop/4635f9e35f90bbc60d9b047a20a7ba1e">bar alegria</a>|<a href="/darts/rank/北海道/枝幸郡">北海道枝幸郡</a>|
 |15|433|<span class="rank-name-dl">nk</span>|<a href="https://search.dartslive.com/jp/shop/4635f9e35f90bbc60d9b047a20a7ba1e">bar alegria</a>|<a href="/darts/rank/北海道/枝幸郡">北海道枝幸郡</a>|
 |16|407|<span class="rank-name-dl">おぱんちゅうさぎ</span>|<a href="https://search.dartslive.com/jp/shop/4635f9e35f90bbc60d9b047a20a7ba1e">bar alegria</a>|<a href="/darts/rank/北海道/枝幸郡">北海道枝幸郡</a>|
 
@@ -52,16 +52,16 @@ ___
 |2|855|<span class="rank-name-dl">ぬーんだよ</span>|<a href="https://search.dartslive.com/jp/shop/4635f9e35f90bbc60d9b047a20a7ba1e">bar alegria</a>|<a href="/darts/rank/北海道/枝幸郡">北海道枝幸郡</a>|
 |3|788|<span class="rank-name-dl">りゅーや</span>|<a href="https://search.dartslive.com/jp/shop/4635f9e35f90bbc60d9b047a20a7ba1e">bar alegria</a>|<a href="/darts/rank/北海道/枝幸郡">北海道枝幸郡</a>|
 |4|732|<span class="rank-name-dl">コヤンスカヤ</span>|<a href="https://search.dartslive.com/jp/shop/4635f9e35f90bbc60d9b047a20a7ba1e">bar alegria</a>|<a href="/darts/rank/北海道/枝幸郡">北海道枝幸郡</a>|
-|5|712|<span class="rank-name-dl">あき</span>|<a href="https://search.dartslive.com/jp/shop/4635f9e35f90bbc60d9b047a20a7ba1e">bar alegria</a>|<a href="/darts/rank/北海道/枝幸郡">北海道枝幸郡</a>|
-|6|676|<span class="rank-name-dl">あかね</span>|<a href="https://search.dartslive.com/jp/shop/4635f9e35f90bbc60d9b047a20a7ba1e">bar alegria</a>|<a href="/darts/rank/北海道/枝幸郡">北海道枝幸郡</a>|
+|5|718|<span class="rank-name-dl">あかね</span>|<a href="https://search.dartslive.com/jp/shop/4635f9e35f90bbc60d9b047a20a7ba1e">bar alegria</a>|<a href="/darts/rank/北海道/枝幸郡">北海道枝幸郡</a>|
+|6|712|<span class="rank-name-dl">あき</span>|<a href="https://search.dartslive.com/jp/shop/4635f9e35f90bbc60d9b047a20a7ba1e">bar alegria</a>|<a href="/darts/rank/北海道/枝幸郡">北海道枝幸郡</a>|
 |7|658|<span class="rank-name-dl">あーどーしよー</span>|<a href="https://search.dartslive.com/jp/shop/4635f9e35f90bbc60d9b047a20a7ba1e">bar alegria</a>|<a href="/darts/rank/北海道/枝幸郡">北海道枝幸郡</a>|
-|8|627|<span class="rank-name-dl">MARUｰ2</span>|<a href="https://search.dartslive.com/jp/shop/4635f9e35f90bbc60d9b047a20a7ba1e">bar alegria</a>|<a href="/darts/rank/北海道/枝幸郡">北海道枝幸郡</a>|
+|8|632|<span class="rank-name-dl">MARUｰ2</span>|<a href="https://search.dartslive.com/jp/shop/4635f9e35f90bbc60d9b047a20a7ba1e">bar alegria</a>|<a href="/darts/rank/北海道/枝幸郡">北海道枝幸郡</a>|
 |9|594|<span class="rank-name-dl">まるだし</span>|<a href="https://search.dartslive.com/jp/shop/4635f9e35f90bbc60d9b047a20a7ba1e">bar alegria</a>|<a href="/darts/rank/北海道/枝幸郡">北海道枝幸郡</a>|
 |10|587|<span class="rank-name-dl">YUZURU</span>|<a href="https://search.dartslive.com/jp/shop/4635f9e35f90bbc60d9b047a20a7ba1e">bar alegria</a>|<a href="/darts/rank/北海道/枝幸郡">北海道枝幸郡</a>|
 |11|549|<span class="rank-name-dl">だーやま。</span>|<a href="https://search.dartslive.com/jp/shop/4635f9e35f90bbc60d9b047a20a7ba1e">bar alegria</a>|<a href="/darts/rank/北海道/枝幸郡">北海道枝幸郡</a>|
-|12|502|<span class="rank-name-dl">風雅</span>|<a href="https://search.dartslive.com/jp/shop/4635f9e35f90bbc60d9b047a20a7ba1e">bar alegria</a>|<a href="/darts/rank/北海道/枝幸郡">北海道枝幸郡</a>|
-|13|470|<span class="rank-name-dl">めそ(=ﾟωﾟ=)</span>|<a href="https://search.dartslive.com/jp/shop/4635f9e35f90bbc60d9b047a20a7ba1e">bar alegria</a>|<a href="/darts/rank/北海道/枝幸郡">北海道枝幸郡</a>|
-|14|449|<span class="rank-name-dl">R</span>|<a href="https://search.dartslive.com/jp/shop/4635f9e35f90bbc60d9b047a20a7ba1e">bar alegria</a>|<a href="/darts/rank/北海道/枝幸郡">北海道枝幸郡</a>|
+|12|524|<span class="rank-name-dl">NO NAME 3014</span>|<a href="https://search.dartslive.com/jp/shop/4635f9e35f90bbc60d9b047a20a7ba1e">bar alegria</a>|<a href="/darts/rank/北海道/枝幸郡">北海道枝幸郡</a>|
+|13|505|<span class="rank-name-dl">☆AKI☆</span>|<a href="https://search.dartslive.com/jp/shop/4635f9e35f90bbc60d9b047a20a7ba1e">bar alegria</a>|<a href="/darts/rank/北海道/枝幸郡">北海道枝幸郡</a>|
+|14|480|<span class="rank-name-dl">風雅</span>|<a href="https://search.dartslive.com/jp/shop/4635f9e35f90bbc60d9b047a20a7ba1e">bar alegria</a>|<a href="/darts/rank/北海道/枝幸郡">北海道枝幸郡</a>|
 |15|433|<span class="rank-name-dl">nk</span>|<a href="https://search.dartslive.com/jp/shop/4635f9e35f90bbc60d9b047a20a7ba1e">bar alegria</a>|<a href="/darts/rank/北海道/枝幸郡">北海道枝幸郡</a>|
 |16|407|<span class="rank-name-dl">おぱんちゅうさぎ</span>|<a href="https://search.dartslive.com/jp/shop/4635f9e35f90bbc60d9b047a20a7ba1e">bar alegria</a>|<a href="/darts/rank/北海道/枝幸郡">北海道枝幸郡</a>|
 

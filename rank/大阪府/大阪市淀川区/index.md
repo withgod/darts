@@ -53,34 +53,34 @@ ___
 |28|897|<span class="rank-name-dl">高橋[GOD]綾也</span>|<a href="https://search.dartslive.com/jp/shop/b8525a0b8da8f7a5790ab824ce8730e5">BAR GARUDA</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
 |29|892|<span class="rank-name-dl">jolteon</span>|<a href="https://search.dartslive.com/jp/shop/5837511292add4b90d9b047a20a7ba1e">カラオケZERO-4 西中島店</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
 |30|877|<span class="rank-name-dl">濱田 理沙</span>|<a href="https://search.dartslive.com/jp/shop/5837511292add4b90d9b047a20a7ba1e">カラオケZERO-4 西中島店</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|31|871|<span class="rank-name-dl">AI</span>|<a href="https://search.dartslive.com/jp/shop/5837511292add4b90d9b047a20a7ba1e">カラオケZERO-4 西中島店</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|32|870|<span class="rank-name-dl">NO NAME 4502</span>|<a href="https://search.dartslive.com/jp/shop/6be3a99541d612bb0d9b047a20a7ba1e">Dining BAR Glow</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|33|869|<span class="rank-name-dl">G&#x27;ёёёёёёй</span>|<a href="https://search.dartslive.com/jp/shop/210825fcce7ef5300d9b047a20a7ba1e">Seavie Darts Cafe</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|33|869|<span class="rank-name-dl">森孝慈</span>|<a href="https://search.dartslive.com/jp/shop/5837511292add4b90d9b047a20a7ba1e">カラオケZERO-4 西中島店</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|35|867|<span class="rank-name-dl">りく(´･_･`)</span>|<a href="https://search.dartslive.com/jp/shop/5837511292add4b90d9b047a20a7ba1e">カラオケZERO-4 西中島店</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|36|862|<span class="rank-name-dl">森孝慈</span>|<a href="https://search.dartslive.com/jp/shop/ab281991f0e213c50d9b047a20a7ba1e">Kings Cross</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|37|852|<span class="rank-name-dl">ぽる☆ぶるぅびぃ</span>|<a href="https://search.dartslive.com/jp/shop/210825fcce7ef5300d9b047a20a7ba1e">Seavie Darts Cafe</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|38|848|<span class="rank-name-dl">超ポンコツ</span>|<a href="https://search.dartslive.com/jp/shop/6b99b3940c5319fb0d9b047a20a7ba1e">Grand Chariot</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|39|845|<span class="rank-name-dl">りく(´･_･`)</span>|<a href="https://search.dartslive.com/jp/shop/6be3a99541d612bb0d9b047a20a7ba1e">Dining BAR Glow</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|40|844|<span class="rank-name-dl">☆つかぽん☆</span>|<a href="https://search.dartslive.com/jp/shop/b8525a0b8da8f7a5790ab824ce8730e5">BAR GARUDA</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|40|844|<span class="rank-name-dl">きょんさん</span>|<a href="https://search.dartslive.com/jp/shop/210825fcce7ef5300d9b047a20a7ba1e">Seavie Darts Cafe</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|42|842|<span class="rank-name-dl">takuto@kings A</span>|<a href="https://search.dartslive.com/jp/shop/ab281991f0e213c50d9b047a20a7ba1e">Kings Cross</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|43|840|<span class="rank-name-dl">バタロー♪</span>|<a href="https://search.dartslive.com/jp/shop/5837511292add4b90d9b047a20a7ba1e">カラオケZERO-4 西中島店</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|43|840|<span class="rank-name-dl">リーダーホビット</span>|<a href="https://search.dartslive.com/jp/shop/210825fcce7ef5300d9b047a20a7ba1e">Seavie Darts Cafe</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|45|837|<span class="rank-name-dl">大王鬼神 海老</span>|<a href="https://search.dartslive.com/jp/shop/ab281991f0e213c50d9b047a20a7ba1e">Kings Cross</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|45|837|<span class="rank-name-dl">ﾑｼｷﾝｸﾞ♪ﾀｶﾀｶ</span>|<a href="https://search.dartslive.com/jp/shop/b8525a0b8da8f7a5790ab824ce8730e5">BAR GARUDA</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|47|833|<span class="rank-name-dl">ﾒﾁｬｲｷﾀｲﾗﾝﾄﾞ</span>|<a href="https://search.dartslive.com/jp/shop/b8525a0b8da8f7a5790ab824ce8730e5">BAR GARUDA</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|48|830|<span class="rank-name-dl">Yaa_❷_Bee</span>|<a href="https://search.dartslive.com/jp/shop/5837511292add4b90d9b047a20a7ba1e">カラオケZERO-4 西中島店</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|48|830|<span class="rank-name-dl">はやてるま</span>|<a href="https://search.dartslive.com/jp/shop/ab281991f0e213c50d9b047a20a7ba1e">Kings Cross</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|50|829|<span class="rank-name-dl">たくぽん。</span>|<a href="https://search.dartslive.com/jp/shop/210825fcce7ef5300d9b047a20a7ba1e">Seavie Darts Cafe</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|50|829|<span class="rank-name-dl">サモハンキンポ</span>|<a href="https://search.dartslive.com/jp/shop/b8525a0b8da8f7a5790ab824ce8730e5">BAR GARUDA</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|52|828|<span class="rank-name-dl">ONOちゃん</span>|<a href="https://search.dartslive.com/jp/shop/5837511292add4b90d9b047a20a7ba1e">カラオケZERO-4 西中島店</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|53|823|<span class="rank-name-dl">市川 悠</span>|<a href="https://search.dartslive.com/jp/shop/ab281991f0e213c50d9b047a20a7ba1e">Kings Cross</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|54|820|<span class="rank-name-dl">たーくん</span>|<a href="https://search.dartslive.com/jp/shop/ab281991f0e213c50d9b047a20a7ba1e">Kings Cross</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|54|820|<span class="rank-name-dl">ハヤテルマ</span>|<a href="https://search.dartslive.com/jp/shop/ab281991f0e213c50d9b047a20a7ba1e">Kings Cross</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|56|819|<span class="rank-name-dl">我愛羅</span>|<a href="https://search.dartslive.com/jp/shop/6be3a99541d612bb0d9b047a20a7ba1e">Dining BAR Glow</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|57|816|<span class="rank-name-dl">DAINY@GARUDA</span>|<a href="https://search.dartslive.com/jp/shop/b8525a0b8da8f7a5790ab824ce8730e5">BAR GARUDA</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|57|816|<span class="rank-name-dl">ひろやす@DSY</span>|<a href="https://search.dartslive.com/jp/shop/5837511292add4b90d9b047a20a7ba1e">カラオケZERO-4 西中島店</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|31|872|<span class="rank-name-dl">DAINY@GARUDA</span>|<a href="https://search.dartslive.com/jp/shop/b8525a0b8da8f7a5790ab824ce8730e5">BAR GARUDA</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|32|871|<span class="rank-name-dl">AI</span>|<a href="https://search.dartslive.com/jp/shop/5837511292add4b90d9b047a20a7ba1e">カラオケZERO-4 西中島店</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|33|870|<span class="rank-name-dl">NO NAME 4502</span>|<a href="https://search.dartslive.com/jp/shop/6be3a99541d612bb0d9b047a20a7ba1e">Dining BAR Glow</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|34|869|<span class="rank-name-dl">G&#x27;ёёёёёёй</span>|<a href="https://search.dartslive.com/jp/shop/210825fcce7ef5300d9b047a20a7ba1e">Seavie Darts Cafe</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|34|869|<span class="rank-name-dl">森孝慈</span>|<a href="https://search.dartslive.com/jp/shop/5837511292add4b90d9b047a20a7ba1e">カラオケZERO-4 西中島店</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|36|867|<span class="rank-name-dl">りく(´･_･`)</span>|<a href="https://search.dartslive.com/jp/shop/5837511292add4b90d9b047a20a7ba1e">カラオケZERO-4 西中島店</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|37|862|<span class="rank-name-dl">森孝慈</span>|<a href="https://search.dartslive.com/jp/shop/ab281991f0e213c50d9b047a20a7ba1e">Kings Cross</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|38|852|<span class="rank-name-dl">ぽる☆ぶるぅびぃ</span>|<a href="https://search.dartslive.com/jp/shop/210825fcce7ef5300d9b047a20a7ba1e">Seavie Darts Cafe</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|39|848|<span class="rank-name-dl">超ポンコツ</span>|<a href="https://search.dartslive.com/jp/shop/6b99b3940c5319fb0d9b047a20a7ba1e">Grand Chariot</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|40|845|<span class="rank-name-dl">りく(´･_･`)</span>|<a href="https://search.dartslive.com/jp/shop/6be3a99541d612bb0d9b047a20a7ba1e">Dining BAR Glow</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|41|844|<span class="rank-name-dl">☆つかぽん☆</span>|<a href="https://search.dartslive.com/jp/shop/b8525a0b8da8f7a5790ab824ce8730e5">BAR GARUDA</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|41|844|<span class="rank-name-dl">きょんさん</span>|<a href="https://search.dartslive.com/jp/shop/210825fcce7ef5300d9b047a20a7ba1e">Seavie Darts Cafe</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|43|842|<span class="rank-name-dl">takuto@kings A</span>|<a href="https://search.dartslive.com/jp/shop/ab281991f0e213c50d9b047a20a7ba1e">Kings Cross</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|44|840|<span class="rank-name-dl">バタロー♪</span>|<a href="https://search.dartslive.com/jp/shop/5837511292add4b90d9b047a20a7ba1e">カラオケZERO-4 西中島店</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|44|840|<span class="rank-name-dl">リーダーホビット</span>|<a href="https://search.dartslive.com/jp/shop/210825fcce7ef5300d9b047a20a7ba1e">Seavie Darts Cafe</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|46|837|<span class="rank-name-dl">大王鬼神 海老</span>|<a href="https://search.dartslive.com/jp/shop/ab281991f0e213c50d9b047a20a7ba1e">Kings Cross</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|46|837|<span class="rank-name-dl">ﾑｼｷﾝｸﾞ♪ﾀｶﾀｶ</span>|<a href="https://search.dartslive.com/jp/shop/b8525a0b8da8f7a5790ab824ce8730e5">BAR GARUDA</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|48|833|<span class="rank-name-dl">ﾒﾁｬｲｷﾀｲﾗﾝﾄﾞ</span>|<a href="https://search.dartslive.com/jp/shop/b8525a0b8da8f7a5790ab824ce8730e5">BAR GARUDA</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|49|830|<span class="rank-name-dl">Yaa_❷_Bee</span>|<a href="https://search.dartslive.com/jp/shop/5837511292add4b90d9b047a20a7ba1e">カラオケZERO-4 西中島店</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|49|830|<span class="rank-name-dl">はやてるま</span>|<a href="https://search.dartslive.com/jp/shop/ab281991f0e213c50d9b047a20a7ba1e">Kings Cross</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|51|829|<span class="rank-name-dl">たくぽん。</span>|<a href="https://search.dartslive.com/jp/shop/210825fcce7ef5300d9b047a20a7ba1e">Seavie Darts Cafe</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|51|829|<span class="rank-name-dl">サモハンキンポ</span>|<a href="https://search.dartslive.com/jp/shop/b8525a0b8da8f7a5790ab824ce8730e5">BAR GARUDA</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|53|828|<span class="rank-name-dl">ONOちゃん</span>|<a href="https://search.dartslive.com/jp/shop/5837511292add4b90d9b047a20a7ba1e">カラオケZERO-4 西中島店</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|54|823|<span class="rank-name-dl">市川 悠</span>|<a href="https://search.dartslive.com/jp/shop/ab281991f0e213c50d9b047a20a7ba1e">Kings Cross</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|55|820|<span class="rank-name-dl">たーくん</span>|<a href="https://search.dartslive.com/jp/shop/ab281991f0e213c50d9b047a20a7ba1e">Kings Cross</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|55|820|<span class="rank-name-dl">ハヤテルマ</span>|<a href="https://search.dartslive.com/jp/shop/ab281991f0e213c50d9b047a20a7ba1e">Kings Cross</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|57|819|<span class="rank-name-dl">我愛羅</span>|<a href="https://search.dartslive.com/jp/shop/6be3a99541d612bb0d9b047a20a7ba1e">Dining BAR Glow</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|58|816|<span class="rank-name-dl">ひろやす@DSY</span>|<a href="https://search.dartslive.com/jp/shop/5837511292add4b90d9b047a20a7ba1e">カラオケZERO-4 西中島店</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
 |59|815|<span class="rank-name-dl">じょー</span>|<a href="https://search.dartslive.com/jp/shop/5837511292add4b90d9b047a20a7ba1e">カラオケZERO-4 西中島店</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
 |60|814|<span class="rank-name-dl">KENT 13</span>|<a href="https://search.dartslive.com/jp/shop/6be3a99541d612bb0d9b047a20a7ba1e">Dining BAR Glow</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
 |60|814|<span class="rank-name-dl">†DAIGO†(^^)/</span>|<a href="https://search.dartslive.com/jp/shop/ab281991f0e213c50d9b047a20a7ba1e">Kings Cross</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
@@ -102,7 +102,7 @@ ___
 |77|761|<span class="rank-name-dl">えんどぅ</span>|<a href="https://search.dartslive.com/jp/shop/6be3a99541d612bb0d9b047a20a7ba1e">Dining BAR Glow</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
 |77|761|<span class="rank-name-dl">まつい@左門豊作</span>|<a href="https://search.dartslive.com/jp/shop/6be3a99541d612bb0d9b047a20a7ba1e">Dining BAR Glow</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
 |79|757|<span class="rank-name-dl">りさちゃん</span>|<a href="https://search.dartslive.com/jp/shop/210825fcce7ef5300d9b047a20a7ba1e">Seavie Darts Cafe</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|80|755|<span class="rank-name-dl">☆KAZZ:sec☆</span>|<a href="https://search.dartslive.com/jp/shop/5837511292add4b90d9b047a20a7ba1e">カラオケZERO-4 西中島店</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|80|751|<span class="rank-name-dl">UKMヨシダ</span>|<a href="https://search.dartslive.com/jp/shop/38ae7c744f7a8d890d9b047a20a7ba1e">忘我 十三店</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
 |81|739|<span class="rank-name-dl">てっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/6be3a99541d612bb0d9b047a20a7ba1e">Dining BAR Glow</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
 |82|735|<span class="rank-name-dl">BRAVE☆彡tomo</span>|<a href="https://search.dartslive.com/jp/shop/210825fcce7ef5300d9b047a20a7ba1e">Seavie Darts Cafe</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
 |83|734|<span class="rank-name-dl">しゅんた</span>|<a href="https://search.dartslive.com/jp/shop/0c1a9488bce1486258d385ea46352d8f">PRIVATE BAR K&G</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
@@ -112,17 +112,17 @@ ___
 |87|726|<span class="rank-name-dl">しょーた</span>|<a href="https://search.dartslive.com/jp/shop/210825fcce7ef5300d9b047a20a7ba1e">Seavie Darts Cafe</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
 |87|726|<span class="rank-name-dl">よっしぃ．</span>|<a href="https://search.dartslive.com/jp/shop/38ae7c744f7a8d890d9b047a20a7ba1e">忘我 十三店</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
 |89|725|<span class="rank-name-dl">☆ヨッチャン☆</span>|<a href="https://search.dartslive.com/jp/shop/6be3a99541d612bb0d9b047a20a7ba1e">Dining BAR Glow</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|90|722|<span class="rank-name-dl">しましま</span>|<a href="https://search.dartslive.com/jp/shop/210825fcce7ef5300d9b047a20a7ba1e">Seavie Darts Cafe</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|90|722|<span class="rank-name-dl">圧倒的紳士</span>|<a href="https://search.dartslive.com/jp/shop/38ae7c744f7a8d890d9b047a20a7ba1e">忘我 十三店</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|92|720|<span class="rank-name-dl">りく(´･_･`)</span>|<a href="https://search.dartslive.com/jp/shop/210825fcce7ef5300d9b047a20a7ba1e">Seavie Darts Cafe</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|93|711|<span class="rank-name-dl">不二子</span>|<a href="https://search.dartslive.com/jp/shop/5837511292add4b90d9b047a20a7ba1e">カラオケZERO-4 西中島店</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|94|709|<span class="rank-name-dl">りく(´･ω･`)</span>|<a href="https://search.dartslive.com/jp/shop/ab281991f0e213c50d9b047a20a7ba1e">Kings Cross</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|95|707|<span class="rank-name-dl">☆俺きんたろー☆</span>|<a href="https://search.dartslive.com/jp/shop/ab281991f0e213c50d9b047a20a7ba1e">Kings Cross</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|96|706|<span class="rank-name-dl">†ファルド♂†VG</span>|<a href="https://search.dartslive.com/jp/shop/38ae7c744f7a8d890d9b047a20a7ba1e">忘我 十三店</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|97|702|<span class="rank-name-dl">きしもっち</span>|<a href="https://search.dartslive.com/jp/shop/38ae7c744f7a8d890d9b047a20a7ba1e">忘我 十三店</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|98|696|<span class="rank-name-dl">雲のジュウザ</span>|<a href="https://search.dartslive.com/jp/shop/b8525a0b8da8f7a5790ab824ce8730e5">BAR GARUDA</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|99|693|<span class="rank-name-dl">威力王</span>|<a href="https://search.dartslive.com/jp/shop/38ae7c744f7a8d890d9b047a20a7ba1e">忘我 十三店</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|100|686|<span class="rank-name-dl">よっ☆ちゃん</span>|<a href="https://search.dartslive.com/jp/shop/6be3a99541d612bb0d9b047a20a7ba1e">Dining BAR Glow</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|90|724|<span class="rank-name-dl">Say-Z</span>|<a href="https://search.dartslive.com/jp/shop/38ae7c744f7a8d890d9b047a20a7ba1e">忘我 十三店</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|91|722|<span class="rank-name-dl">しましま</span>|<a href="https://search.dartslive.com/jp/shop/210825fcce7ef5300d9b047a20a7ba1e">Seavie Darts Cafe</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|91|722|<span class="rank-name-dl">圧倒的紳士</span>|<a href="https://search.dartslive.com/jp/shop/38ae7c744f7a8d890d9b047a20a7ba1e">忘我 十三店</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|93|720|<span class="rank-name-dl">りく(´･_･`)</span>|<a href="https://search.dartslive.com/jp/shop/210825fcce7ef5300d9b047a20a7ba1e">Seavie Darts Cafe</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|94|711|<span class="rank-name-dl">不二子</span>|<a href="https://search.dartslive.com/jp/shop/5837511292add4b90d9b047a20a7ba1e">カラオケZERO-4 西中島店</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|95|706|<span class="rank-name-dl">†ファルド♂†VG</span>|<a href="https://search.dartslive.com/jp/shop/38ae7c744f7a8d890d9b047a20a7ba1e">忘我 十三店</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|96|702|<span class="rank-name-dl">きしもっち</span>|<a href="https://search.dartslive.com/jp/shop/38ae7c744f7a8d890d9b047a20a7ba1e">忘我 十三店</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|97|696|<span class="rank-name-dl">雲のジュウザ</span>|<a href="https://search.dartslive.com/jp/shop/b8525a0b8da8f7a5790ab824ce8730e5">BAR GARUDA</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|98|693|<span class="rank-name-dl">威力王</span>|<a href="https://search.dartslive.com/jp/shop/38ae7c744f7a8d890d9b047a20a7ba1e">忘我 十三店</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|99|686|<span class="rank-name-dl">よっ☆ちゃん</span>|<a href="https://search.dartslive.com/jp/shop/6be3a99541d612bb0d9b047a20a7ba1e">Dining BAR Glow</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|100|684|<span class="rank-name-dl">MASSA</span>|<a href="https://search.dartslive.com/jp/shop/0c1a9488bce1486258d385ea46352d8f">PRIVATE BAR K&G</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -162,34 +162,34 @@ ___
 |28|897|<span class="rank-name-dl">高橋[GOD]綾也</span>|<a href="https://search.dartslive.com/jp/shop/b8525a0b8da8f7a5790ab824ce8730e5">BAR GARUDA</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
 |29|892|<span class="rank-name-dl">jolteon</span>|<a href="https://search.dartslive.com/jp/shop/5837511292add4b90d9b047a20a7ba1e">カラオケZERO-4 西中島店</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
 |30|877|<span class="rank-name-dl">濱田 理沙</span>|<a href="https://search.dartslive.com/jp/shop/5837511292add4b90d9b047a20a7ba1e">カラオケZERO-4 西中島店</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|31|871|<span class="rank-name-dl">AI</span>|<a href="https://search.dartslive.com/jp/shop/5837511292add4b90d9b047a20a7ba1e">カラオケZERO-4 西中島店</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|32|870|<span class="rank-name-dl">NO NAME 4502</span>|<a href="https://search.dartslive.com/jp/shop/6be3a99541d612bb0d9b047a20a7ba1e">Dining BAR Glow</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|33|869|<span class="rank-name-dl">G&#x27;ёёёёёёй</span>|<a href="https://search.dartslive.com/jp/shop/210825fcce7ef5300d9b047a20a7ba1e">Seavie Darts Cafe</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|33|869|<span class="rank-name-dl">森孝慈</span>|<a href="https://search.dartslive.com/jp/shop/5837511292add4b90d9b047a20a7ba1e">カラオケZERO-4 西中島店</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|35|867|<span class="rank-name-dl">りく(´･_･`)</span>|<a href="https://search.dartslive.com/jp/shop/5837511292add4b90d9b047a20a7ba1e">カラオケZERO-4 西中島店</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|36|862|<span class="rank-name-dl">森孝慈</span>|<a href="https://search.dartslive.com/jp/shop/ab281991f0e213c50d9b047a20a7ba1e">Kings Cross</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|37|852|<span class="rank-name-dl">ぽる☆ぶるぅびぃ</span>|<a href="https://search.dartslive.com/jp/shop/210825fcce7ef5300d9b047a20a7ba1e">Seavie Darts Cafe</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|38|848|<span class="rank-name-dl">超ポンコツ</span>|<a href="https://search.dartslive.com/jp/shop/6b99b3940c5319fb0d9b047a20a7ba1e">Grand Chariot</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|39|845|<span class="rank-name-dl">りく(´･_･`)</span>|<a href="https://search.dartslive.com/jp/shop/6be3a99541d612bb0d9b047a20a7ba1e">Dining BAR Glow</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|40|844|<span class="rank-name-dl">☆つかぽん☆</span>|<a href="https://search.dartslive.com/jp/shop/b8525a0b8da8f7a5790ab824ce8730e5">BAR GARUDA</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|40|844|<span class="rank-name-dl">きょんさん</span>|<a href="https://search.dartslive.com/jp/shop/210825fcce7ef5300d9b047a20a7ba1e">Seavie Darts Cafe</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|42|842|<span class="rank-name-dl">takuto@kings A</span>|<a href="https://search.dartslive.com/jp/shop/ab281991f0e213c50d9b047a20a7ba1e">Kings Cross</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|43|840|<span class="rank-name-dl">バタロー♪</span>|<a href="https://search.dartslive.com/jp/shop/5837511292add4b90d9b047a20a7ba1e">カラオケZERO-4 西中島店</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|43|840|<span class="rank-name-dl">リーダーホビット</span>|<a href="https://search.dartslive.com/jp/shop/210825fcce7ef5300d9b047a20a7ba1e">Seavie Darts Cafe</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|45|837|<span class="rank-name-dl">大王鬼神 海老</span>|<a href="https://search.dartslive.com/jp/shop/ab281991f0e213c50d9b047a20a7ba1e">Kings Cross</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|45|837|<span class="rank-name-dl">ﾑｼｷﾝｸﾞ♪ﾀｶﾀｶ</span>|<a href="https://search.dartslive.com/jp/shop/b8525a0b8da8f7a5790ab824ce8730e5">BAR GARUDA</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|47|833|<span class="rank-name-dl">ﾒﾁｬｲｷﾀｲﾗﾝﾄﾞ</span>|<a href="https://search.dartslive.com/jp/shop/b8525a0b8da8f7a5790ab824ce8730e5">BAR GARUDA</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|48|830|<span class="rank-name-dl">Yaa_❷_Bee</span>|<a href="https://search.dartslive.com/jp/shop/5837511292add4b90d9b047a20a7ba1e">カラオケZERO-4 西中島店</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|48|830|<span class="rank-name-dl">はやてるま</span>|<a href="https://search.dartslive.com/jp/shop/ab281991f0e213c50d9b047a20a7ba1e">Kings Cross</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|50|829|<span class="rank-name-dl">たくぽん。</span>|<a href="https://search.dartslive.com/jp/shop/210825fcce7ef5300d9b047a20a7ba1e">Seavie Darts Cafe</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|50|829|<span class="rank-name-dl">サモハンキンポ</span>|<a href="https://search.dartslive.com/jp/shop/b8525a0b8da8f7a5790ab824ce8730e5">BAR GARUDA</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|52|828|<span class="rank-name-dl">ONOちゃん</span>|<a href="https://search.dartslive.com/jp/shop/5837511292add4b90d9b047a20a7ba1e">カラオケZERO-4 西中島店</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|53|823|<span class="rank-name-dl">市川 悠</span>|<a href="https://search.dartslive.com/jp/shop/ab281991f0e213c50d9b047a20a7ba1e">Kings Cross</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|54|820|<span class="rank-name-dl">たーくん</span>|<a href="https://search.dartslive.com/jp/shop/ab281991f0e213c50d9b047a20a7ba1e">Kings Cross</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|54|820|<span class="rank-name-dl">ハヤテルマ</span>|<a href="https://search.dartslive.com/jp/shop/ab281991f0e213c50d9b047a20a7ba1e">Kings Cross</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|56|819|<span class="rank-name-dl">我愛羅</span>|<a href="https://search.dartslive.com/jp/shop/6be3a99541d612bb0d9b047a20a7ba1e">Dining BAR Glow</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|57|816|<span class="rank-name-dl">DAINY@GARUDA</span>|<a href="https://search.dartslive.com/jp/shop/b8525a0b8da8f7a5790ab824ce8730e5">BAR GARUDA</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|57|816|<span class="rank-name-dl">ひろやす@DSY</span>|<a href="https://search.dartslive.com/jp/shop/5837511292add4b90d9b047a20a7ba1e">カラオケZERO-4 西中島店</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|31|872|<span class="rank-name-dl">DAINY@GARUDA</span>|<a href="https://search.dartslive.com/jp/shop/b8525a0b8da8f7a5790ab824ce8730e5">BAR GARUDA</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|32|871|<span class="rank-name-dl">AI</span>|<a href="https://search.dartslive.com/jp/shop/5837511292add4b90d9b047a20a7ba1e">カラオケZERO-4 西中島店</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|33|870|<span class="rank-name-dl">NO NAME 4502</span>|<a href="https://search.dartslive.com/jp/shop/6be3a99541d612bb0d9b047a20a7ba1e">Dining BAR Glow</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|34|869|<span class="rank-name-dl">G&#x27;ёёёёёёй</span>|<a href="https://search.dartslive.com/jp/shop/210825fcce7ef5300d9b047a20a7ba1e">Seavie Darts Cafe</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|34|869|<span class="rank-name-dl">森孝慈</span>|<a href="https://search.dartslive.com/jp/shop/5837511292add4b90d9b047a20a7ba1e">カラオケZERO-4 西中島店</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|36|867|<span class="rank-name-dl">りく(´･_･`)</span>|<a href="https://search.dartslive.com/jp/shop/5837511292add4b90d9b047a20a7ba1e">カラオケZERO-4 西中島店</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|37|862|<span class="rank-name-dl">森孝慈</span>|<a href="https://search.dartslive.com/jp/shop/ab281991f0e213c50d9b047a20a7ba1e">Kings Cross</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|38|852|<span class="rank-name-dl">ぽる☆ぶるぅびぃ</span>|<a href="https://search.dartslive.com/jp/shop/210825fcce7ef5300d9b047a20a7ba1e">Seavie Darts Cafe</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|39|848|<span class="rank-name-dl">超ポンコツ</span>|<a href="https://search.dartslive.com/jp/shop/6b99b3940c5319fb0d9b047a20a7ba1e">Grand Chariot</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|40|845|<span class="rank-name-dl">りく(´･_･`)</span>|<a href="https://search.dartslive.com/jp/shop/6be3a99541d612bb0d9b047a20a7ba1e">Dining BAR Glow</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|41|844|<span class="rank-name-dl">☆つかぽん☆</span>|<a href="https://search.dartslive.com/jp/shop/b8525a0b8da8f7a5790ab824ce8730e5">BAR GARUDA</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|41|844|<span class="rank-name-dl">きょんさん</span>|<a href="https://search.dartslive.com/jp/shop/210825fcce7ef5300d9b047a20a7ba1e">Seavie Darts Cafe</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|43|842|<span class="rank-name-dl">takuto@kings A</span>|<a href="https://search.dartslive.com/jp/shop/ab281991f0e213c50d9b047a20a7ba1e">Kings Cross</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|44|840|<span class="rank-name-dl">バタロー♪</span>|<a href="https://search.dartslive.com/jp/shop/5837511292add4b90d9b047a20a7ba1e">カラオケZERO-4 西中島店</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|44|840|<span class="rank-name-dl">リーダーホビット</span>|<a href="https://search.dartslive.com/jp/shop/210825fcce7ef5300d9b047a20a7ba1e">Seavie Darts Cafe</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|46|837|<span class="rank-name-dl">大王鬼神 海老</span>|<a href="https://search.dartslive.com/jp/shop/ab281991f0e213c50d9b047a20a7ba1e">Kings Cross</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|46|837|<span class="rank-name-dl">ﾑｼｷﾝｸﾞ♪ﾀｶﾀｶ</span>|<a href="https://search.dartslive.com/jp/shop/b8525a0b8da8f7a5790ab824ce8730e5">BAR GARUDA</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|48|833|<span class="rank-name-dl">ﾒﾁｬｲｷﾀｲﾗﾝﾄﾞ</span>|<a href="https://search.dartslive.com/jp/shop/b8525a0b8da8f7a5790ab824ce8730e5">BAR GARUDA</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|49|830|<span class="rank-name-dl">Yaa_❷_Bee</span>|<a href="https://search.dartslive.com/jp/shop/5837511292add4b90d9b047a20a7ba1e">カラオケZERO-4 西中島店</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|49|830|<span class="rank-name-dl">はやてるま</span>|<a href="https://search.dartslive.com/jp/shop/ab281991f0e213c50d9b047a20a7ba1e">Kings Cross</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|51|829|<span class="rank-name-dl">たくぽん。</span>|<a href="https://search.dartslive.com/jp/shop/210825fcce7ef5300d9b047a20a7ba1e">Seavie Darts Cafe</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|51|829|<span class="rank-name-dl">サモハンキンポ</span>|<a href="https://search.dartslive.com/jp/shop/b8525a0b8da8f7a5790ab824ce8730e5">BAR GARUDA</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|53|828|<span class="rank-name-dl">ONOちゃん</span>|<a href="https://search.dartslive.com/jp/shop/5837511292add4b90d9b047a20a7ba1e">カラオケZERO-4 西中島店</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|54|823|<span class="rank-name-dl">市川 悠</span>|<a href="https://search.dartslive.com/jp/shop/ab281991f0e213c50d9b047a20a7ba1e">Kings Cross</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|55|820|<span class="rank-name-dl">たーくん</span>|<a href="https://search.dartslive.com/jp/shop/ab281991f0e213c50d9b047a20a7ba1e">Kings Cross</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|55|820|<span class="rank-name-dl">ハヤテルマ</span>|<a href="https://search.dartslive.com/jp/shop/ab281991f0e213c50d9b047a20a7ba1e">Kings Cross</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|57|819|<span class="rank-name-dl">我愛羅</span>|<a href="https://search.dartslive.com/jp/shop/6be3a99541d612bb0d9b047a20a7ba1e">Dining BAR Glow</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|58|816|<span class="rank-name-dl">ひろやす@DSY</span>|<a href="https://search.dartslive.com/jp/shop/5837511292add4b90d9b047a20a7ba1e">カラオケZERO-4 西中島店</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
 |59|815|<span class="rank-name-dl">じょー</span>|<a href="https://search.dartslive.com/jp/shop/5837511292add4b90d9b047a20a7ba1e">カラオケZERO-4 西中島店</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
 |60|814|<span class="rank-name-dl">KENT 13</span>|<a href="https://search.dartslive.com/jp/shop/6be3a99541d612bb0d9b047a20a7ba1e">Dining BAR Glow</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
 |60|814|<span class="rank-name-dl">†DAIGO†(^^)/</span>|<a href="https://search.dartslive.com/jp/shop/ab281991f0e213c50d9b047a20a7ba1e">Kings Cross</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
@@ -211,7 +211,7 @@ ___
 |77|761|<span class="rank-name-dl">えんどぅ</span>|<a href="https://search.dartslive.com/jp/shop/6be3a99541d612bb0d9b047a20a7ba1e">Dining BAR Glow</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
 |77|761|<span class="rank-name-dl">まつい@左門豊作</span>|<a href="https://search.dartslive.com/jp/shop/6be3a99541d612bb0d9b047a20a7ba1e">Dining BAR Glow</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
 |79|757|<span class="rank-name-dl">りさちゃん</span>|<a href="https://search.dartslive.com/jp/shop/210825fcce7ef5300d9b047a20a7ba1e">Seavie Darts Cafe</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|80|755|<span class="rank-name-dl">☆KAZZ:sec☆</span>|<a href="https://search.dartslive.com/jp/shop/5837511292add4b90d9b047a20a7ba1e">カラオケZERO-4 西中島店</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|80|751|<span class="rank-name-dl">UKMヨシダ</span>|<a href="https://search.dartslive.com/jp/shop/38ae7c744f7a8d890d9b047a20a7ba1e">忘我 十三店</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
 |81|739|<span class="rank-name-dl">てっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/6be3a99541d612bb0d9b047a20a7ba1e">Dining BAR Glow</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
 |82|735|<span class="rank-name-dl">BRAVE☆彡tomo</span>|<a href="https://search.dartslive.com/jp/shop/210825fcce7ef5300d9b047a20a7ba1e">Seavie Darts Cafe</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
 |83|734|<span class="rank-name-dl">しゅんた</span>|<a href="https://search.dartslive.com/jp/shop/0c1a9488bce1486258d385ea46352d8f">PRIVATE BAR K&G</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
@@ -221,17 +221,17 @@ ___
 |87|726|<span class="rank-name-dl">しょーた</span>|<a href="https://search.dartslive.com/jp/shop/210825fcce7ef5300d9b047a20a7ba1e">Seavie Darts Cafe</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
 |87|726|<span class="rank-name-dl">よっしぃ．</span>|<a href="https://search.dartslive.com/jp/shop/38ae7c744f7a8d890d9b047a20a7ba1e">忘我 十三店</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
 |89|725|<span class="rank-name-dl">☆ヨッチャン☆</span>|<a href="https://search.dartslive.com/jp/shop/6be3a99541d612bb0d9b047a20a7ba1e">Dining BAR Glow</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|90|722|<span class="rank-name-dl">しましま</span>|<a href="https://search.dartslive.com/jp/shop/210825fcce7ef5300d9b047a20a7ba1e">Seavie Darts Cafe</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|90|722|<span class="rank-name-dl">圧倒的紳士</span>|<a href="https://search.dartslive.com/jp/shop/38ae7c744f7a8d890d9b047a20a7ba1e">忘我 十三店</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|92|720|<span class="rank-name-dl">りく(´･_･`)</span>|<a href="https://search.dartslive.com/jp/shop/210825fcce7ef5300d9b047a20a7ba1e">Seavie Darts Cafe</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|93|711|<span class="rank-name-dl">不二子</span>|<a href="https://search.dartslive.com/jp/shop/5837511292add4b90d9b047a20a7ba1e">カラオケZERO-4 西中島店</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|94|709|<span class="rank-name-dl">りく(´･ω･`)</span>|<a href="https://search.dartslive.com/jp/shop/ab281991f0e213c50d9b047a20a7ba1e">Kings Cross</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|95|707|<span class="rank-name-dl">☆俺きんたろー☆</span>|<a href="https://search.dartslive.com/jp/shop/ab281991f0e213c50d9b047a20a7ba1e">Kings Cross</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|96|706|<span class="rank-name-dl">†ファルド♂†VG</span>|<a href="https://search.dartslive.com/jp/shop/38ae7c744f7a8d890d9b047a20a7ba1e">忘我 十三店</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|97|702|<span class="rank-name-dl">きしもっち</span>|<a href="https://search.dartslive.com/jp/shop/38ae7c744f7a8d890d9b047a20a7ba1e">忘我 十三店</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|98|696|<span class="rank-name-dl">雲のジュウザ</span>|<a href="https://search.dartslive.com/jp/shop/b8525a0b8da8f7a5790ab824ce8730e5">BAR GARUDA</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|99|693|<span class="rank-name-dl">威力王</span>|<a href="https://search.dartslive.com/jp/shop/38ae7c744f7a8d890d9b047a20a7ba1e">忘我 十三店</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
-|100|686|<span class="rank-name-dl">よっ☆ちゃん</span>|<a href="https://search.dartslive.com/jp/shop/6be3a99541d612bb0d9b047a20a7ba1e">Dining BAR Glow</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|90|724|<span class="rank-name-dl">Say-Z</span>|<a href="https://search.dartslive.com/jp/shop/38ae7c744f7a8d890d9b047a20a7ba1e">忘我 十三店</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|91|722|<span class="rank-name-dl">しましま</span>|<a href="https://search.dartslive.com/jp/shop/210825fcce7ef5300d9b047a20a7ba1e">Seavie Darts Cafe</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|91|722|<span class="rank-name-dl">圧倒的紳士</span>|<a href="https://search.dartslive.com/jp/shop/38ae7c744f7a8d890d9b047a20a7ba1e">忘我 十三店</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|93|720|<span class="rank-name-dl">りく(´･_･`)</span>|<a href="https://search.dartslive.com/jp/shop/210825fcce7ef5300d9b047a20a7ba1e">Seavie Darts Cafe</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|94|711|<span class="rank-name-dl">不二子</span>|<a href="https://search.dartslive.com/jp/shop/5837511292add4b90d9b047a20a7ba1e">カラオケZERO-4 西中島店</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|95|706|<span class="rank-name-dl">†ファルド♂†VG</span>|<a href="https://search.dartslive.com/jp/shop/38ae7c744f7a8d890d9b047a20a7ba1e">忘我 十三店</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|96|702|<span class="rank-name-dl">きしもっち</span>|<a href="https://search.dartslive.com/jp/shop/38ae7c744f7a8d890d9b047a20a7ba1e">忘我 十三店</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|97|696|<span class="rank-name-dl">雲のジュウザ</span>|<a href="https://search.dartslive.com/jp/shop/b8525a0b8da8f7a5790ab824ce8730e5">BAR GARUDA</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|98|693|<span class="rank-name-dl">威力王</span>|<a href="https://search.dartslive.com/jp/shop/38ae7c744f7a8d890d9b047a20a7ba1e">忘我 十三店</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|99|686|<span class="rank-name-dl">よっ☆ちゃん</span>|<a href="https://search.dartslive.com/jp/shop/6be3a99541d612bb0d9b047a20a7ba1e">Dining BAR Glow</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
+|100|684|<span class="rank-name-dl">MASSA</span>|<a href="https://search.dartslive.com/jp/shop/0c1a9488bce1486258d385ea46352d8f">PRIVATE BAR K&G</a>|<a href="/darts/rank/大阪府/大阪市淀川区">大阪府大阪市淀川区</a>|
 
 
 #### PHOENIXDARTS TOP 100

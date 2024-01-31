@@ -25,66 +25,70 @@ ___
 |---|---|---|---|---|
 |1|1118|<span class="rank-name-pd">田中銀河</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
 |2|1045|<span class="rank-name-dl">おちえ@No.iE</span>|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|3|958|<span class="rank-name-pd">Gさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|4|951|<span class="rank-name-dl">ひよこ一家 hiro</span>|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|5|930|<span class="rank-name-dl">かのん　Y.S</span>|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|6|896|<span class="rank-name-dl">canon</span>|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|3|964|<span class="rank-name-dl">canon</span>|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|4|958|<span class="rank-name-pd">Gさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|5|951|<span class="rank-name-dl">ひよこ一家 hiro</span>|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|6|930|<span class="rank-name-dl">かのん　Y.S</span>|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
 |7|885|<span class="rank-name-pd">onちゃん@盛矢康彦</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
 |8|869|<span class="rank-name-dl">Marble</span>|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
 |9|852|<span class="rank-name-pd">緩鹿　亘哉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
 |10|851|<span class="rank-name-dl">onちゃん@盛矢</span>|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
 |11|847|<span class="rank-name-pd">むーちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
 |12|832|<span class="rank-name-pd">むー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|13|816|<span class="rank-name-dl">NOR-KZ</span>|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|14|813|<span class="rank-name-pd">「黒(ノワール)」</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|15|791|<span class="rank-name-dl">こーりん</span>|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|16|783|<span class="rank-name-dl">Kurasaki Chie</span>|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|17|760|<span class="rank-name-pd">☆*°Atsushi☆*°</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|18|756|<span class="rank-name-pd">おかもと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80445?s_seq=80445">MIXBAR S.A.O</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|19|744|<span class="rank-name-pd">コンタ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|20|741|<span class="rank-name-pd">翔　2号</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|21|734|<span class="rank-name-pd">シュート</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|22|725|<span class="rank-name-dl">harukuuuun復帰</span>|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|23|714|<span class="rank-name-dl">YOH</span>|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|23|714|<span class="rank-name-pd">本田</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|13|828|<span class="rank-name-pd">本田</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|14|816|<span class="rank-name-dl">NOR-KZ</span>|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|15|813|<span class="rank-name-pd">「黒(ノワール)」</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|16|791|<span class="rank-name-dl">こーりん</span>|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|17|783|<span class="rank-name-dl">Kurasaki Chie</span>|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|18|760|<span class="rank-name-pd">☆*°Atsushi☆*°</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|19|756|<span class="rank-name-pd">おかもと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80445?s_seq=80445">MIXBAR S.A.O</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|20|744|<span class="rank-name-pd">コンタ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|21|741|<span class="rank-name-pd">翔　2号</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|22|734|<span class="rank-name-pd">シュート</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|23|725|<span class="rank-name-dl">harukuuuun復帰</span>|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|24|714|<span class="rank-name-dl">YOH</span>|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
 |25|701|<span class="rank-name-dl">ツカサン@ﾎﾟﾑｰ</span>|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
 |26|698|<span class="rank-name-dl">まひ</span>|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
 |27|662|<span class="rank-name-pd">NORI-KZ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
 |28|652|<span class="rank-name-pd">しおじ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|29|643|<span class="rank-name-pd">TETU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72422?s_seq=72422">遊びbar こいこい</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|30|621|<span class="rank-name-dl">BBB</span>|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|31|618|<span class="rank-name-dl">ヒロロ</span>|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|29|648|<span class="rank-name-dl">青島</span>|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|30|643|<span class="rank-name-pd">TETU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72422?s_seq=72422">遊びbar こいこい</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|31|621|<span class="rank-name-dl">BBB</span>|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
 |32|613|<span class="rank-name-pd">よっちゃん☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
 |33|604|<span class="rank-name-pd">Ryu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80445?s_seq=80445">MIXBAR S.A.O</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|34|592|<span class="rank-name-pd">フェニックス</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|35|584|<span class="rank-name-pd">おしげ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|36|562|<span class="rank-name-pd">ほっP</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|36|562|<span class="rank-name-pd">青島</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|38|556|<span class="rank-name-pd">アンキム</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|39|550|<span class="rank-name-pd">TETU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80445?s_seq=80445">MIXBAR S.A.O</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|40|541|<span class="rank-name-pd">おしげ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80445?s_seq=80445">MIXBAR S.A.O</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|41|535|<span class="rank-name-pd">tatsu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|42|522|<span class="rank-name-pd">デイジー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|43|507|<span class="rank-name-dl">yuka</span>|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|43|507|<span class="rank-name-dl">きぃ</span>|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|45|503|<span class="rank-name-pd">Taka</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|46|501|<span class="rank-name-pd">シウス</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|47|494|<span class="rank-name-pd">HONOKA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80445?s_seq=80445">MIXBAR S.A.O</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|48|468|<span class="rank-name-pd">⁂타쓰로⁂</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|49|456|<span class="rank-name-pd">河原崎　太一</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|50|433|<span class="rank-name-pd">ひろ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|51|425|<span class="rank-name-pd">T0N U0</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|52|391|<span class="rank-name-pd">SATOTO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72422?s_seq=72422">遊びbar こいこい</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|53|386|<span class="rank-name-pd">るな</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|54|381|<span class="rank-name-pd">HAKAISOU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72422?s_seq=72422">遊びbar こいこい</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|55|378|<span class="rank-name-pd">KUKKIIIIII!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72422?s_seq=72422">遊びbar こいこい</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|56|362|<span class="rank-name-pd">［HRT］</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|57|358|<span class="rank-name-pd">RYUTA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80445?s_seq=80445">MIXBAR S.A.O</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|58|348|<span class="rank-name-pd">そうはな</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|59|343|<span class="rank-name-pd">ばっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|60|318|<span class="rank-name-pd">TOMI-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72422?s_seq=72422">遊びbar こいこい</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|61|304|<span class="rank-name-dl">443.</span>|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|62|250|<span class="rank-name-pd">ZWO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|34|598|<span class="rank-name-dl">よちゃ</span>|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|35|592|<span class="rank-name-pd">フェニックス</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|36|584|<span class="rank-name-pd">おしげ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|37|562|<span class="rank-name-pd">ほっP</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|37|562|<span class="rank-name-pd">青島</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|39|556|<span class="rank-name-dl">ISSEI</span>|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|39|556|<span class="rank-name-pd">アンキム</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|41|550|<span class="rank-name-pd">TETU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80445?s_seq=80445">MIXBAR S.A.O</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|42|541|<span class="rank-name-pd">おしげ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80445?s_seq=80445">MIXBAR S.A.O</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|43|535|<span class="rank-name-pd">tatsu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|44|522|<span class="rank-name-pd">デイジー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|45|507|<span class="rank-name-dl">yuka</span>|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|45|507|<span class="rank-name-dl">きぃ</span>|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|47|503|<span class="rank-name-pd">Taka</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|48|501|<span class="rank-name-pd">シウス</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|49|494|<span class="rank-name-pd">HONOKA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80445?s_seq=80445">MIXBAR S.A.O</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|50|470|<span class="rank-name-dl">よっちゃん☆</span>|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|51|468|<span class="rank-name-pd">⁂타쓰로⁂</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|52|456|<span class="rank-name-pd">河原崎　太一</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|53|433|<span class="rank-name-pd">ひろ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|54|425|<span class="rank-name-pd">T0N U0</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|55|416|<span class="rank-name-pd">こいこいだいすけ☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72422?s_seq=72422">遊びbar こいこい</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|56|391|<span class="rank-name-pd">SATOTO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72422?s_seq=72422">遊びbar こいこい</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|57|386|<span class="rank-name-pd">るな</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|58|381|<span class="rank-name-pd">HAKAISOU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72422?s_seq=72422">遊びbar こいこい</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|59|378|<span class="rank-name-pd">KUKKIIIIII!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72422?s_seq=72422">遊びbar こいこい</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|60|362|<span class="rank-name-pd">［HRT］</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|61|358|<span class="rank-name-pd">RYUTA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80445?s_seq=80445">MIXBAR S.A.O</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|62|348|<span class="rank-name-pd">そうはな</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|63|343|<span class="rank-name-pd">ばっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|64|318|<span class="rank-name-pd">TOMI-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72422?s_seq=72422">遊びbar こいこい</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|65|304|<span class="rank-name-dl">443.</span>|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|66|250|<span class="rank-name-pd">ZWO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -95,9 +99,9 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|1045|<span class="rank-name-dl">おちえ@No.iE</span>|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|2|951|<span class="rank-name-dl">ひよこ一家 hiro</span>|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|3|930|<span class="rank-name-dl">かのん　Y.S</span>|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|4|896|<span class="rank-name-dl">canon</span>|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|2|964|<span class="rank-name-dl">canon</span>|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|3|951|<span class="rank-name-dl">ひよこ一家 hiro</span>|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|4|930|<span class="rank-name-dl">かのん　Y.S</span>|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
 |5|869|<span class="rank-name-dl">Marble</span>|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
 |6|851|<span class="rank-name-dl">onちゃん@盛矢</span>|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
 |7|816|<span class="rank-name-dl">NOR-KZ</span>|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
@@ -107,11 +111,14 @@ ___
 |11|714|<span class="rank-name-dl">YOH</span>|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
 |12|701|<span class="rank-name-dl">ツカサン@ﾎﾟﾑｰ</span>|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
 |13|698|<span class="rank-name-dl">まひ</span>|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|14|621|<span class="rank-name-dl">BBB</span>|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|15|618|<span class="rank-name-dl">ヒロロ</span>|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|16|507|<span class="rank-name-dl">yuka</span>|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|16|507|<span class="rank-name-dl">きぃ</span>|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|18|304|<span class="rank-name-dl">443.</span>|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|14|648|<span class="rank-name-dl">青島</span>|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|15|621|<span class="rank-name-dl">BBB</span>|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|16|598|<span class="rank-name-dl">よちゃ</span>|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|17|556|<span class="rank-name-dl">ISSEI</span>|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|18|507|<span class="rank-name-dl">yuka</span>|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|18|507|<span class="rank-name-dl">きぃ</span>|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|20|470|<span class="rank-name-dl">よっちゃん☆</span>|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|21|304|<span class="rank-name-dl">443.</span>|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
 
 
 #### PHOENIXDARTS TOP 100
@@ -127,13 +134,13 @@ ___
 |4|852|<span class="rank-name-pd">緩鹿　亘哉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
 |5|847|<span class="rank-name-pd">むーちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
 |6|832|<span class="rank-name-pd">むー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|7|813|<span class="rank-name-pd">「黒(ノワール)」</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|8|760|<span class="rank-name-pd">☆*°Atsushi☆*°</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|9|756|<span class="rank-name-pd">おかもと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80445?s_seq=80445">MIXBAR S.A.O</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|10|744|<span class="rank-name-pd">コンタ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|11|741|<span class="rank-name-pd">翔　2号</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|12|734|<span class="rank-name-pd">シュート</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|13|714|<span class="rank-name-pd">本田</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|7|828|<span class="rank-name-pd">本田</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|8|813|<span class="rank-name-pd">「黒(ノワール)」</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|9|760|<span class="rank-name-pd">☆*°Atsushi☆*°</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|10|756|<span class="rank-name-pd">おかもと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80445?s_seq=80445">MIXBAR S.A.O</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|11|744|<span class="rank-name-pd">コンタ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|12|741|<span class="rank-name-pd">翔　2号</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|13|734|<span class="rank-name-pd">シュート</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
 |14|662|<span class="rank-name-pd">NORI-KZ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
 |15|652|<span class="rank-name-pd">しおじ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
 |16|643|<span class="rank-name-pd">TETU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72422?s_seq=72422">遊びbar こいこい</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
@@ -155,16 +162,17 @@ ___
 |32|456|<span class="rank-name-pd">河原崎　太一</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
 |33|433|<span class="rank-name-pd">ひろ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
 |34|425|<span class="rank-name-pd">T0N U0</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|35|391|<span class="rank-name-pd">SATOTO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72422?s_seq=72422">遊びbar こいこい</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|36|386|<span class="rank-name-pd">るな</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|37|381|<span class="rank-name-pd">HAKAISOU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72422?s_seq=72422">遊びbar こいこい</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|38|378|<span class="rank-name-pd">KUKKIIIIII!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72422?s_seq=72422">遊びbar こいこい</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|39|362|<span class="rank-name-pd">［HRT］</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|40|358|<span class="rank-name-pd">RYUTA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80445?s_seq=80445">MIXBAR S.A.O</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|41|348|<span class="rank-name-pd">そうはな</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|42|343|<span class="rank-name-pd">ばっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|43|318|<span class="rank-name-pd">TOMI-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72422?s_seq=72422">遊びbar こいこい</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|44|250|<span class="rank-name-pd">ZWO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|35|416|<span class="rank-name-pd">こいこいだいすけ☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72422?s_seq=72422">遊びbar こいこい</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|36|391|<span class="rank-name-pd">SATOTO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72422?s_seq=72422">遊びbar こいこい</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|37|386|<span class="rank-name-pd">るな</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|38|381|<span class="rank-name-pd">HAKAISOU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72422?s_seq=72422">遊びbar こいこい</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|39|378|<span class="rank-name-pd">KUKKIIIIII!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72422?s_seq=72422">遊びbar こいこい</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|40|362|<span class="rank-name-pd">［HRT］</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|41|358|<span class="rank-name-pd">RYUTA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80445?s_seq=80445">MIXBAR S.A.O</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|42|348|<span class="rank-name-pd">そうはな</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|43|343|<span class="rank-name-pd">ばっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|44|318|<span class="rank-name-pd">TOMI-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72422?s_seq=72422">遊びbar こいこい</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|45|250|<span class="rank-name-pd">ZWO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

@@ -27,8 +27,8 @@ ___
 |2|1005|<span class="rank-name-dl">N ★ Johnny</span>|<a href="https://search.dartslive.com/jp/shop/e6d2e05e696a06ec0d9b047a20a7ba1e">クアトロ NO.4</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
 |3|1000|<span class="rank-name-dl">リョリョ</span>|<a href="https://search.dartslive.com/jp/shop/e6d2e05e696a06ec0d9b047a20a7ba1e">クアトロ NO.4</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
 |4|999|<span class="rank-name-dl">東 達也</span>|<a href="https://search.dartslive.com/jp/shop/e6d2e05e696a06ec0d9b047a20a7ba1e">クアトロ NO.4</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
-|5|926|<span class="rank-name-dl">Masashi</span>|<a href="https://search.dartslive.com/jp/shop/e6d2e05e696a06ec0d9b047a20a7ba1e">クアトロ NO.4</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
-|6|925|<span class="rank-name-dl">さぶろぅ</span>|<a href="https://search.dartslive.com/jp/shop/e6d2e05e696a06ec0d9b047a20a7ba1e">クアトロ NO.4</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
+|5|950|<span class="rank-name-dl">さぶろぅ</span>|<a href="https://search.dartslive.com/jp/shop/e6d2e05e696a06ec0d9b047a20a7ba1e">クアトロ NO.4</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
+|6|926|<span class="rank-name-dl">Masashi</span>|<a href="https://search.dartslive.com/jp/shop/e6d2e05e696a06ec0d9b047a20a7ba1e">クアトロ NO.4</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
 |7|906|<span class="rank-name-dl">Namekuji@負け犬</span>|<a href="https://search.dartslive.com/jp/shop/e6d2e05e696a06ec0d9b047a20a7ba1e">クアトロ NO.4</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
 |8|901|<span class="rank-name-dl">N★Johnny spﾄﾜ？</span>|<a href="https://search.dartslive.com/jp/shop/e6d2e05e696a06ec0d9b047a20a7ba1e">クアトロ NO.4</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
 |9|881|<span class="rank-name-dl">NO NAME 8800</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
@@ -39,26 +39,27 @@ ___
 |14|861|<span class="rank-name-dl">ほくでん</span>|<a href="https://search.dartslive.com/jp/shop/e6d2e05e696a06ec0d9b047a20a7ba1e">クアトロ NO.4</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
 |15|846|<span class="rank-name-dl">壬</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
 |16|845|<span class="rank-name-dl">壬</span>|<a href="https://search.dartslive.com/jp/shop/e6d2e05e696a06ec0d9b047a20a7ba1e">クアトロ NO.4</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
-|17|827|<span class="rank-name-dl">ばぶ王</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
-|18|806|<span class="rank-name-dl">Ｅｉｋｅｉ</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
-|19|804|<span class="rank-name-dl">麦茶</span>|<a href="https://search.dartslive.com/jp/shop/e6d2e05e696a06ec0d9b047a20a7ba1e">クアトロ NO.4</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
-|20|803|<span class="rank-name-dl">NO NAME 9856</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
-|21|794|<span class="rank-name-dl">きよ</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
-|22|788|<span class="rank-name-dl">えいけい</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
-|23|780|<span class="rank-name-dl">naomi</span>|<a href="https://search.dartslive.com/jp/shop/e6d2e05e696a06ec0d9b047a20a7ba1e">クアトロ NO.4</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
-|24|778|<span class="rank-name-dl">maaaa...</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
-|25|777|<span class="rank-name-dl">がめ爺。</span>|<a href="https://search.dartslive.com/jp/shop/e6d2e05e696a06ec0d9b047a20a7ba1e">クアトロ NO.4</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
-|26|757|<span class="rank-name-dl">hideki</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
-|27|742|<span class="rank-name-dl">Ken⑩</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
-|28|730|<span class="rank-name-dl">NO NAME 7760</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
-|29|699|<span class="rank-name-dl">麦茶</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
-|30|691|<span class="rank-name-dl">ゆぴ</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
-|31|685|<span class="rank-name-dl">TakashiNo.4</span>|<a href="https://search.dartslive.com/jp/shop/e6d2e05e696a06ec0d9b047a20a7ba1e">クアトロ NO.4</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
-|32|609|<span class="rank-name-dl">kattun*</span>|<a href="https://search.dartslive.com/jp/shop/e6d2e05e696a06ec0d9b047a20a7ba1e">クアトロ NO.4</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
-|33|555|<span class="rank-name-dl">kattun*</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
-|34|425|<span class="rank-name-dl">kazuko</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
-|35|411|<span class="rank-name-dl">よりより</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
-|36|385|<span class="rank-name-dl">JUNKO.</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
+|17|840|<span class="rank-name-dl">N★Johnny spﾄﾜ？</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
+|18|829|<span class="rank-name-dl">きよ</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
+|19|827|<span class="rank-name-dl">ばぶ王</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
+|20|806|<span class="rank-name-dl">Ｅｉｋｅｉ</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
+|21|804|<span class="rank-name-dl">麦茶</span>|<a href="https://search.dartslive.com/jp/shop/e6d2e05e696a06ec0d9b047a20a7ba1e">クアトロ NO.4</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
+|22|803|<span class="rank-name-dl">NO NAME 9856</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
+|23|788|<span class="rank-name-dl">えいけい</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
+|24|780|<span class="rank-name-dl">naomi</span>|<a href="https://search.dartslive.com/jp/shop/e6d2e05e696a06ec0d9b047a20a7ba1e">クアトロ NO.4</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
+|25|778|<span class="rank-name-dl">maaaa...</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
+|26|777|<span class="rank-name-dl">がめ爺。</span>|<a href="https://search.dartslive.com/jp/shop/e6d2e05e696a06ec0d9b047a20a7ba1e">クアトロ NO.4</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
+|27|757|<span class="rank-name-dl">hideki</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
+|28|742|<span class="rank-name-dl">Ken⑩</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
+|29|730|<span class="rank-name-dl">NO NAME 7760</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
+|30|699|<span class="rank-name-dl">麦茶</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
+|31|691|<span class="rank-name-dl">ゆぴ</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
+|32|685|<span class="rank-name-dl">TakashiNo.4</span>|<a href="https://search.dartslive.com/jp/shop/e6d2e05e696a06ec0d9b047a20a7ba1e">クアトロ NO.4</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
+|33|609|<span class="rank-name-dl">kattun*</span>|<a href="https://search.dartslive.com/jp/shop/e6d2e05e696a06ec0d9b047a20a7ba1e">クアトロ NO.4</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
+|34|555|<span class="rank-name-dl">kattun*</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
+|35|425|<span class="rank-name-dl">kazuko</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
+|36|411|<span class="rank-name-dl">よりより</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
+|37|385|<span class="rank-name-dl">JUNKO.</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -72,8 +73,8 @@ ___
 |2|1005|<span class="rank-name-dl">N ★ Johnny</span>|<a href="https://search.dartslive.com/jp/shop/e6d2e05e696a06ec0d9b047a20a7ba1e">クアトロ NO.4</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
 |3|1000|<span class="rank-name-dl">リョリョ</span>|<a href="https://search.dartslive.com/jp/shop/e6d2e05e696a06ec0d9b047a20a7ba1e">クアトロ NO.4</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
 |4|999|<span class="rank-name-dl">東 達也</span>|<a href="https://search.dartslive.com/jp/shop/e6d2e05e696a06ec0d9b047a20a7ba1e">クアトロ NO.4</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
-|5|926|<span class="rank-name-dl">Masashi</span>|<a href="https://search.dartslive.com/jp/shop/e6d2e05e696a06ec0d9b047a20a7ba1e">クアトロ NO.4</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
-|6|925|<span class="rank-name-dl">さぶろぅ</span>|<a href="https://search.dartslive.com/jp/shop/e6d2e05e696a06ec0d9b047a20a7ba1e">クアトロ NO.4</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
+|5|950|<span class="rank-name-dl">さぶろぅ</span>|<a href="https://search.dartslive.com/jp/shop/e6d2e05e696a06ec0d9b047a20a7ba1e">クアトロ NO.4</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
+|6|926|<span class="rank-name-dl">Masashi</span>|<a href="https://search.dartslive.com/jp/shop/e6d2e05e696a06ec0d9b047a20a7ba1e">クアトロ NO.4</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
 |7|906|<span class="rank-name-dl">Namekuji@負け犬</span>|<a href="https://search.dartslive.com/jp/shop/e6d2e05e696a06ec0d9b047a20a7ba1e">クアトロ NO.4</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
 |8|901|<span class="rank-name-dl">N★Johnny spﾄﾜ？</span>|<a href="https://search.dartslive.com/jp/shop/e6d2e05e696a06ec0d9b047a20a7ba1e">クアトロ NO.4</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
 |9|881|<span class="rank-name-dl">NO NAME 8800</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
@@ -84,26 +85,27 @@ ___
 |14|861|<span class="rank-name-dl">ほくでん</span>|<a href="https://search.dartslive.com/jp/shop/e6d2e05e696a06ec0d9b047a20a7ba1e">クアトロ NO.4</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
 |15|846|<span class="rank-name-dl">壬</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
 |16|845|<span class="rank-name-dl">壬</span>|<a href="https://search.dartslive.com/jp/shop/e6d2e05e696a06ec0d9b047a20a7ba1e">クアトロ NO.4</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
-|17|827|<span class="rank-name-dl">ばぶ王</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
-|18|806|<span class="rank-name-dl">Ｅｉｋｅｉ</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
-|19|804|<span class="rank-name-dl">麦茶</span>|<a href="https://search.dartslive.com/jp/shop/e6d2e05e696a06ec0d9b047a20a7ba1e">クアトロ NO.4</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
-|20|803|<span class="rank-name-dl">NO NAME 9856</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
-|21|794|<span class="rank-name-dl">きよ</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
-|22|788|<span class="rank-name-dl">えいけい</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
-|23|780|<span class="rank-name-dl">naomi</span>|<a href="https://search.dartslive.com/jp/shop/e6d2e05e696a06ec0d9b047a20a7ba1e">クアトロ NO.4</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
-|24|778|<span class="rank-name-dl">maaaa...</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
-|25|777|<span class="rank-name-dl">がめ爺。</span>|<a href="https://search.dartslive.com/jp/shop/e6d2e05e696a06ec0d9b047a20a7ba1e">クアトロ NO.4</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
-|26|757|<span class="rank-name-dl">hideki</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
-|27|742|<span class="rank-name-dl">Ken⑩</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
-|28|730|<span class="rank-name-dl">NO NAME 7760</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
-|29|699|<span class="rank-name-dl">麦茶</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
-|30|691|<span class="rank-name-dl">ゆぴ</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
-|31|685|<span class="rank-name-dl">TakashiNo.4</span>|<a href="https://search.dartslive.com/jp/shop/e6d2e05e696a06ec0d9b047a20a7ba1e">クアトロ NO.4</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
-|32|609|<span class="rank-name-dl">kattun*</span>|<a href="https://search.dartslive.com/jp/shop/e6d2e05e696a06ec0d9b047a20a7ba1e">クアトロ NO.4</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
-|33|555|<span class="rank-name-dl">kattun*</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
-|34|425|<span class="rank-name-dl">kazuko</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
-|35|411|<span class="rank-name-dl">よりより</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
-|36|385|<span class="rank-name-dl">JUNKO.</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
+|17|840|<span class="rank-name-dl">N★Johnny spﾄﾜ？</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
+|18|829|<span class="rank-name-dl">きよ</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
+|19|827|<span class="rank-name-dl">ばぶ王</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
+|20|806|<span class="rank-name-dl">Ｅｉｋｅｉ</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
+|21|804|<span class="rank-name-dl">麦茶</span>|<a href="https://search.dartslive.com/jp/shop/e6d2e05e696a06ec0d9b047a20a7ba1e">クアトロ NO.4</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
+|22|803|<span class="rank-name-dl">NO NAME 9856</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
+|23|788|<span class="rank-name-dl">えいけい</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
+|24|780|<span class="rank-name-dl">naomi</span>|<a href="https://search.dartslive.com/jp/shop/e6d2e05e696a06ec0d9b047a20a7ba1e">クアトロ NO.4</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
+|25|778|<span class="rank-name-dl">maaaa...</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
+|26|777|<span class="rank-name-dl">がめ爺。</span>|<a href="https://search.dartslive.com/jp/shop/e6d2e05e696a06ec0d9b047a20a7ba1e">クアトロ NO.4</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
+|27|757|<span class="rank-name-dl">hideki</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
+|28|742|<span class="rank-name-dl">Ken⑩</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
+|29|730|<span class="rank-name-dl">NO NAME 7760</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
+|30|699|<span class="rank-name-dl">麦茶</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
+|31|691|<span class="rank-name-dl">ゆぴ</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
+|32|685|<span class="rank-name-dl">TakashiNo.4</span>|<a href="https://search.dartslive.com/jp/shop/e6d2e05e696a06ec0d9b047a20a7ba1e">クアトロ NO.4</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
+|33|609|<span class="rank-name-dl">kattun*</span>|<a href="https://search.dartslive.com/jp/shop/e6d2e05e696a06ec0d9b047a20a7ba1e">クアトロ NO.4</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
+|34|555|<span class="rank-name-dl">kattun*</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
+|35|425|<span class="rank-name-dl">kazuko</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
+|36|411|<span class="rank-name-dl">よりより</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
+|37|385|<span class="rank-name-dl">JUNKO.</span>|<a href="https://search.dartslive.com/jp/shop/34c30dd12e8382640d9b047a20a7ba1e">インターネットカフェ サン・ボウル</a>|<a href="/darts/rank/三重県/伊賀市">三重県伊賀市</a>|
 
 
 #### PHOENIXDARTS TOP 100

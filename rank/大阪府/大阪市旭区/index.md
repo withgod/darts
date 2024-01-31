@@ -31,65 +31,68 @@ ___
 |6|934|<span class="rank-name-dl">浅香 佑介</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
 |7|923|<span class="rank-name-dl">うどんｾﾊﾟﾚｰﾄ</span>|<a href="https://search.dartslive.com/jp/shop/7787751abd19a3b30d9b047a20a7ba1e">カラオケダーツバー2ndFace</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
 |8|907|<span class="rank-name-dl">吉(・ω・ )宗</span>|<a href="https://search.dartslive.com/jp/shop/2cdbee68b62493f50d9b047a20a7ba1e">絆</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|9|901|<span class="rank-name-dl">シモさん</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|10|866|<span class="rank-name-dl">つっちー@panda</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|11|861|<span class="rank-name-dl">たけのこ。</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|12|850|<span class="rank-name-dl">かーず☆彡Reve</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|13|841|<span class="rank-name-dl">メガ</span>|<a href="https://search.dartslive.com/jp/shop/7787751abd19a3b30d9b047a20a7ba1e">カラオケダーツバー2ndFace</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|14|828|<span class="rank-name-dl">さち</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|15|816|<span class="rank-name-dl">りょーま</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|16|813|<span class="rank-name-dl">おむ</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|17|811|<span class="rank-name-dl">浅香 佑介</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|18|803|<span class="rank-name-dl">Yuki</span>|<a href="https://search.dartslive.com/jp/shop/2cdbee68b62493f50d9b047a20a7ba1e">絆</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|18|803|<span class="rank-name-dl">まいっち</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|20|796|<span class="rank-name-dl">Yuki</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|20|796|<span class="rank-name-dl">はっちゃにゃん</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|22|792|<span class="rank-name-dl">山本 章聖</span>|<a href="https://search.dartslive.com/jp/shop/7787751abd19a3b30d9b047a20a7ba1e">カラオケダーツバー2ndFace</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|23|767|<span class="rank-name-dl">怪物くん！！！</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|24|765|<span class="rank-name-dl">世界戦線零壱鬼丸</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|25|762|<span class="rank-name-dl">k.ｒｙｕｓｅｉ</span>|<a href="https://search.dartslive.com/jp/shop/7787751abd19a3b30d9b047a20a7ba1e">カラオケダーツバー2ndFace</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|26|752|<span class="rank-name-dl">しょういっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|27|751|<span class="rank-name-dl">そばちゃ</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|28|734|<span class="rank-name-dl">リュウ</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|29|730|<span class="rank-name-dl">★sasayan☆</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|30|728|<span class="rank-name-dl">【HRC】豪腕 文太</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|30|728|<span class="rank-name-dl">角垣内　彪</span>|<a href="https://search.dartslive.com/jp/shop/7787751abd19a3b30d9b047a20a7ba1e">カラオケダーツバー2ndFace</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|32|725|<span class="rank-name-dl">ポルンガ</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|33|724|<span class="rank-name-dl">アカしゃん</span>|<a href="https://search.dartslive.com/jp/shop/2cdbee68b62493f50d9b047a20a7ba1e">絆</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|34|710|<span class="rank-name-dl">ｼﾝ兄ﾆｬﾝ♪♪♪</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|35|698|<span class="rank-name-dl">じゅんや</span>|<a href="https://search.dartslive.com/jp/shop/2cdbee68b62493f50d9b047a20a7ba1e">絆</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|36|697|<span class="rank-name-dl">ヘタレ王ﾆｬﾝ♪♪</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|37|689|<span class="rank-name-dl">俺ＴＫＣにゃん♪</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|38|683|<span class="rank-name-dl">ﾊﾙﾆｬﾝだお♡♪</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|39|666|<span class="rank-name-dl">鈴木</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|40|665|<span class="rank-name-dl">zui</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|41|661|<span class="rank-name-dl">akira</span>|<a href="https://search.dartslive.com/jp/shop/7787751abd19a3b30d9b047a20a7ba1e">カラオケダーツバー2ndFace</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|42|652|<span class="rank-name-dl">HiRø</span>|<a href="https://search.dartslive.com/jp/shop/7787751abd19a3b30d9b047a20a7ba1e">カラオケダーツバー2ndFace</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|43|644|<span class="rank-name-dl">kasshi</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|43|644|<span class="rank-name-dl">超絶ｶﾜﾁｨﾊﾙﾆｬﾝ♪</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|45|620|<span class="rank-name-dl">フィルの孫</span>|<a href="https://search.dartslive.com/jp/shop/7787751abd19a3b30d9b047a20a7ba1e">カラオケダーツバー2ndFace</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|46|613|<span class="rank-name-dl">加藤　鷹</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|47|611|<span class="rank-name-dl">りょーま</span>|<a href="https://search.dartslive.com/jp/shop/7787751abd19a3b30d9b047a20a7ba1e">カラオケダーツバー2ndFace</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|48|604|<span class="rank-name-dl">しんにゃん♪♪♪</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|49|598|<span class="rank-name-dl">ｲﾌﾟｻﾑ改にゃん♪</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|50|592|<span class="rank-name-dl">ねぎたともみ</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|50|592|<span class="rank-name-dl">世界戦線零壱鬼丸</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|52|585|<span class="rank-name-dl">りょーま</span>|<a href="https://search.dartslive.com/jp/shop/2cdbee68b62493f50d9b047a20a7ba1e">絆</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|53|560|<span class="rank-name-dl">すいそ</span>|<a href="https://search.dartslive.com/jp/shop/7787751abd19a3b30d9b047a20a7ba1e">カラオケダーツバー2ndFace</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|54|556|<span class="rank-name-dl">REI U・ェ・U♀神</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|55|552|<span class="rank-name-dl">絆〆きっこーまん</span>|<a href="https://search.dartslive.com/jp/shop/2cdbee68b62493f50d9b047a20a7ba1e">絆</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|56|551|<span class="rank-name-dl">☺ともっち☺</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|57|538|<span class="rank-name-dl">沙紀</span>|<a href="https://search.dartslive.com/jp/shop/7787751abd19a3b30d9b047a20a7ba1e">カラオケダーツバー2ndFace</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|58|493|<span class="rank-name-dl">ayaka@glad</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|59|486|<span class="rank-name-dl">あやにゃん♪</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|60|483|<span class="rank-name-dl">さわこ</span>|<a href="https://search.dartslive.com/jp/shop/2cdbee68b62493f50d9b047a20a7ba1e">絆</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|61|457|<span class="rank-name-dl">hito-min</span>|<a href="https://search.dartslive.com/jp/shop/7787751abd19a3b30d9b047a20a7ba1e">カラオケダーツバー2ndFace</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|62|456|<span class="rank-name-dl">SHINICHIRO</span>|<a href="https://search.dartslive.com/jp/shop/2cdbee68b62493f50d9b047a20a7ba1e">絆</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|63|439|<span class="rank-name-dl">足立 舞</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|64|425|<span class="rank-name-dl">SHI</span>|<a href="https://search.dartslive.com/jp/shop/2cdbee68b62493f50d9b047a20a7ba1e">絆</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|65|413|<span class="rank-name-dl">やまむむ</span>|<a href="https://search.dartslive.com/jp/shop/2cdbee68b62493f50d9b047a20a7ba1e">絆</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|66|364|<span class="rank-name-dl">スギちゃん</span>|<a href="https://search.dartslive.com/jp/shop/2cdbee68b62493f50d9b047a20a7ba1e">絆</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|67|327|<span class="rank-name-dl">ayaka@glad</span>|<a href="https://search.dartslive.com/jp/shop/7787751abd19a3b30d9b047a20a7ba1e">カラオケダーツバー2ndFace</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|8|907|<span class="rank-name-dl">吉宗( ・ω・)絆</span>|<a href="https://search.dartslive.com/jp/shop/2cdbee68b62493f50d9b047a20a7ba1e">絆</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|10|901|<span class="rank-name-dl">シモさん</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|11|866|<span class="rank-name-dl">つっちー@panda</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|12|861|<span class="rank-name-dl">たけのこ。</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|13|850|<span class="rank-name-dl">かーず☆彡Reve</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|14|841|<span class="rank-name-dl">メガ</span>|<a href="https://search.dartslive.com/jp/shop/7787751abd19a3b30d9b047a20a7ba1e">カラオケダーツバー2ndFace</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|15|838|<span class="rank-name-dl">リュウ</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|16|828|<span class="rank-name-dl">さち</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|17|825|<span class="rank-name-dl">P2 NAME 0047</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|18|816|<span class="rank-name-dl">りょーま</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|19|813|<span class="rank-name-dl">おむ</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|20|811|<span class="rank-name-dl">浅香 佑介</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|21|807|<span class="rank-name-dl">よっぴ〜</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|22|803|<span class="rank-name-dl">Yuki</span>|<a href="https://search.dartslive.com/jp/shop/2cdbee68b62493f50d9b047a20a7ba1e">絆</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|22|803|<span class="rank-name-dl">まいっち</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|24|796|<span class="rank-name-dl">Yuki</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|24|796|<span class="rank-name-dl">はっちゃにゃん</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|26|792|<span class="rank-name-dl">山本 章聖</span>|<a href="https://search.dartslive.com/jp/shop/7787751abd19a3b30d9b047a20a7ba1e">カラオケダーツバー2ndFace</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|27|767|<span class="rank-name-dl">こう</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|27|767|<span class="rank-name-dl">怪物くん！！！</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|29|762|<span class="rank-name-dl">k.ｒｙｕｓｅｉ</span>|<a href="https://search.dartslive.com/jp/shop/7787751abd19a3b30d9b047a20a7ba1e">カラオケダーツバー2ndFace</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|30|752|<span class="rank-name-dl">しょういっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|31|751|<span class="rank-name-dl">そばちゃ</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|32|728|<span class="rank-name-dl">【HRC】豪腕 文太</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|32|728|<span class="rank-name-dl">角垣内　彪</span>|<a href="https://search.dartslive.com/jp/shop/7787751abd19a3b30d9b047a20a7ba1e">カラオケダーツバー2ndFace</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|34|724|<span class="rank-name-dl">アカしゃん</span>|<a href="https://search.dartslive.com/jp/shop/2cdbee68b62493f50d9b047a20a7ba1e">絆</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|35|710|<span class="rank-name-dl">ｼﾝ兄ﾆｬﾝ♪♪♪</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|36|698|<span class="rank-name-dl">じゅんや</span>|<a href="https://search.dartslive.com/jp/shop/2cdbee68b62493f50d9b047a20a7ba1e">絆</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|37|697|<span class="rank-name-dl">ヘタレ王ﾆｬﾝ♪♪</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|38|689|<span class="rank-name-dl">俺ＴＫＣにゃん♪</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|39|683|<span class="rank-name-dl">ﾊﾙﾆｬﾝだお♡♪</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|40|669|<span class="rank-name-dl">フィルの孫.youji</span>|<a href="https://search.dartslive.com/jp/shop/7787751abd19a3b30d9b047a20a7ba1e">カラオケダーツバー2ndFace</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|41|666|<span class="rank-name-dl">鈴木</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|42|665|<span class="rank-name-dl">zui</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|43|661|<span class="rank-name-dl">akira</span>|<a href="https://search.dartslive.com/jp/shop/7787751abd19a3b30d9b047a20a7ba1e">カラオケダーツバー2ndFace</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|44|657|<span class="rank-name-dl">Reeeen098</span>|<a href="https://search.dartslive.com/jp/shop/7787751abd19a3b30d9b047a20a7ba1e">カラオケダーツバー2ndFace</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|45|652|<span class="rank-name-dl">HiRø</span>|<a href="https://search.dartslive.com/jp/shop/7787751abd19a3b30d9b047a20a7ba1e">カラオケダーツバー2ndFace</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|46|644|<span class="rank-name-dl">kasshi</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|46|644|<span class="rank-name-dl">超絶ｶﾜﾁｨﾊﾙﾆｬﾝ♪</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|48|613|<span class="rank-name-dl">加藤　鷹</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|49|611|<span class="rank-name-dl">りょーま</span>|<a href="https://search.dartslive.com/jp/shop/7787751abd19a3b30d9b047a20a7ba1e">カラオケダーツバー2ndFace</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|50|604|<span class="rank-name-dl">しんにゃん♪♪♪</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|51|598|<span class="rank-name-dl">ｲﾌﾟｻﾑ改にゃん♪</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|52|597|<span class="rank-name-dl">☺ともっち☺</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|53|592|<span class="rank-name-dl">ねぎたともみ</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|53|592|<span class="rank-name-dl">世界戦線零壱鬼丸</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|55|585|<span class="rank-name-dl">りょーま</span>|<a href="https://search.dartslive.com/jp/shop/2cdbee68b62493f50d9b047a20a7ba1e">絆</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|56|582|<span class="rank-name-dl">hito-min</span>|<a href="https://search.dartslive.com/jp/shop/7787751abd19a3b30d9b047a20a7ba1e">カラオケダーツバー2ndFace</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|57|556|<span class="rank-name-dl">REI U・ェ・U♀神</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|58|552|<span class="rank-name-dl">絆〆きっこーまん</span>|<a href="https://search.dartslive.com/jp/shop/2cdbee68b62493f50d9b047a20a7ba1e">絆</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|59|538|<span class="rank-name-dl">沙紀</span>|<a href="https://search.dartslive.com/jp/shop/7787751abd19a3b30d9b047a20a7ba1e">カラオケダーツバー2ndFace</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|60|533|<span class="rank-name-dl">hi</span>|<a href="https://search.dartslive.com/jp/shop/7787751abd19a3b30d9b047a20a7ba1e">カラオケダーツバー2ndFace</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|61|516|<span class="rank-name-dl">SEVEN會§鳴</span>|<a href="https://search.dartslive.com/jp/shop/2cdbee68b62493f50d9b047a20a7ba1e">絆</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|62|513|<span class="rank-name-dl">ayaka@glad</span>|<a href="https://search.dartslive.com/jp/shop/7787751abd19a3b30d9b047a20a7ba1e">カラオケダーツバー2ndFace</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|63|493|<span class="rank-name-dl">ayaka@glad</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|64|486|<span class="rank-name-dl">あやにゃん♪</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|65|483|<span class="rank-name-dl">さわこ</span>|<a href="https://search.dartslive.com/jp/shop/2cdbee68b62493f50d9b047a20a7ba1e">絆</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|66|456|<span class="rank-name-dl">SHINICHIRO</span>|<a href="https://search.dartslive.com/jp/shop/2cdbee68b62493f50d9b047a20a7ba1e">絆</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|67|439|<span class="rank-name-dl">足立 舞</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|68|425|<span class="rank-name-dl">SHI</span>|<a href="https://search.dartslive.com/jp/shop/2cdbee68b62493f50d9b047a20a7ba1e">絆</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|69|413|<span class="rank-name-dl">やまむむ</span>|<a href="https://search.dartslive.com/jp/shop/2cdbee68b62493f50d9b047a20a7ba1e">絆</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|70|364|<span class="rank-name-dl">スギちゃん</span>|<a href="https://search.dartslive.com/jp/shop/2cdbee68b62493f50d9b047a20a7ba1e">絆</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -107,65 +110,68 @@ ___
 |6|934|<span class="rank-name-dl">浅香 佑介</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
 |7|923|<span class="rank-name-dl">うどんｾﾊﾟﾚｰﾄ</span>|<a href="https://search.dartslive.com/jp/shop/7787751abd19a3b30d9b047a20a7ba1e">カラオケダーツバー2ndFace</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
 |8|907|<span class="rank-name-dl">吉(・ω・ )宗</span>|<a href="https://search.dartslive.com/jp/shop/2cdbee68b62493f50d9b047a20a7ba1e">絆</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|9|901|<span class="rank-name-dl">シモさん</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|10|866|<span class="rank-name-dl">つっちー@panda</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|11|861|<span class="rank-name-dl">たけのこ。</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|12|850|<span class="rank-name-dl">かーず☆彡Reve</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|13|841|<span class="rank-name-dl">メガ</span>|<a href="https://search.dartslive.com/jp/shop/7787751abd19a3b30d9b047a20a7ba1e">カラオケダーツバー2ndFace</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|14|828|<span class="rank-name-dl">さち</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|15|816|<span class="rank-name-dl">りょーま</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|16|813|<span class="rank-name-dl">おむ</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|17|811|<span class="rank-name-dl">浅香 佑介</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|18|803|<span class="rank-name-dl">Yuki</span>|<a href="https://search.dartslive.com/jp/shop/2cdbee68b62493f50d9b047a20a7ba1e">絆</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|18|803|<span class="rank-name-dl">まいっち</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|20|796|<span class="rank-name-dl">Yuki</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|20|796|<span class="rank-name-dl">はっちゃにゃん</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|22|792|<span class="rank-name-dl">山本 章聖</span>|<a href="https://search.dartslive.com/jp/shop/7787751abd19a3b30d9b047a20a7ba1e">カラオケダーツバー2ndFace</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|23|767|<span class="rank-name-dl">怪物くん！！！</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|24|765|<span class="rank-name-dl">世界戦線零壱鬼丸</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|25|762|<span class="rank-name-dl">k.ｒｙｕｓｅｉ</span>|<a href="https://search.dartslive.com/jp/shop/7787751abd19a3b30d9b047a20a7ba1e">カラオケダーツバー2ndFace</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|26|752|<span class="rank-name-dl">しょういっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|27|751|<span class="rank-name-dl">そばちゃ</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|28|734|<span class="rank-name-dl">リュウ</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|29|730|<span class="rank-name-dl">★sasayan☆</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|30|728|<span class="rank-name-dl">【HRC】豪腕 文太</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|30|728|<span class="rank-name-dl">角垣内　彪</span>|<a href="https://search.dartslive.com/jp/shop/7787751abd19a3b30d9b047a20a7ba1e">カラオケダーツバー2ndFace</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|32|725|<span class="rank-name-dl">ポルンガ</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|33|724|<span class="rank-name-dl">アカしゃん</span>|<a href="https://search.dartslive.com/jp/shop/2cdbee68b62493f50d9b047a20a7ba1e">絆</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|34|710|<span class="rank-name-dl">ｼﾝ兄ﾆｬﾝ♪♪♪</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|35|698|<span class="rank-name-dl">じゅんや</span>|<a href="https://search.dartslive.com/jp/shop/2cdbee68b62493f50d9b047a20a7ba1e">絆</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|36|697|<span class="rank-name-dl">ヘタレ王ﾆｬﾝ♪♪</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|37|689|<span class="rank-name-dl">俺ＴＫＣにゃん♪</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|38|683|<span class="rank-name-dl">ﾊﾙﾆｬﾝだお♡♪</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|39|666|<span class="rank-name-dl">鈴木</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|40|665|<span class="rank-name-dl">zui</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|41|661|<span class="rank-name-dl">akira</span>|<a href="https://search.dartslive.com/jp/shop/7787751abd19a3b30d9b047a20a7ba1e">カラオケダーツバー2ndFace</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|42|652|<span class="rank-name-dl">HiRø</span>|<a href="https://search.dartslive.com/jp/shop/7787751abd19a3b30d9b047a20a7ba1e">カラオケダーツバー2ndFace</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|43|644|<span class="rank-name-dl">kasshi</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|43|644|<span class="rank-name-dl">超絶ｶﾜﾁｨﾊﾙﾆｬﾝ♪</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|45|620|<span class="rank-name-dl">フィルの孫</span>|<a href="https://search.dartslive.com/jp/shop/7787751abd19a3b30d9b047a20a7ba1e">カラオケダーツバー2ndFace</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|46|613|<span class="rank-name-dl">加藤　鷹</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|47|611|<span class="rank-name-dl">りょーま</span>|<a href="https://search.dartslive.com/jp/shop/7787751abd19a3b30d9b047a20a7ba1e">カラオケダーツバー2ndFace</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|48|604|<span class="rank-name-dl">しんにゃん♪♪♪</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|49|598|<span class="rank-name-dl">ｲﾌﾟｻﾑ改にゃん♪</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|50|592|<span class="rank-name-dl">ねぎたともみ</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|50|592|<span class="rank-name-dl">世界戦線零壱鬼丸</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|52|585|<span class="rank-name-dl">りょーま</span>|<a href="https://search.dartslive.com/jp/shop/2cdbee68b62493f50d9b047a20a7ba1e">絆</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|53|560|<span class="rank-name-dl">すいそ</span>|<a href="https://search.dartslive.com/jp/shop/7787751abd19a3b30d9b047a20a7ba1e">カラオケダーツバー2ndFace</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|54|556|<span class="rank-name-dl">REI U・ェ・U♀神</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|55|552|<span class="rank-name-dl">絆〆きっこーまん</span>|<a href="https://search.dartslive.com/jp/shop/2cdbee68b62493f50d9b047a20a7ba1e">絆</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|56|551|<span class="rank-name-dl">☺ともっち☺</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|57|538|<span class="rank-name-dl">沙紀</span>|<a href="https://search.dartslive.com/jp/shop/7787751abd19a3b30d9b047a20a7ba1e">カラオケダーツバー2ndFace</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|58|493|<span class="rank-name-dl">ayaka@glad</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|59|486|<span class="rank-name-dl">あやにゃん♪</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|60|483|<span class="rank-name-dl">さわこ</span>|<a href="https://search.dartslive.com/jp/shop/2cdbee68b62493f50d9b047a20a7ba1e">絆</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|61|457|<span class="rank-name-dl">hito-min</span>|<a href="https://search.dartslive.com/jp/shop/7787751abd19a3b30d9b047a20a7ba1e">カラオケダーツバー2ndFace</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|62|456|<span class="rank-name-dl">SHINICHIRO</span>|<a href="https://search.dartslive.com/jp/shop/2cdbee68b62493f50d9b047a20a7ba1e">絆</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|63|439|<span class="rank-name-dl">足立 舞</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|64|425|<span class="rank-name-dl">SHI</span>|<a href="https://search.dartslive.com/jp/shop/2cdbee68b62493f50d9b047a20a7ba1e">絆</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|65|413|<span class="rank-name-dl">やまむむ</span>|<a href="https://search.dartslive.com/jp/shop/2cdbee68b62493f50d9b047a20a7ba1e">絆</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|66|364|<span class="rank-name-dl">スギちゃん</span>|<a href="https://search.dartslive.com/jp/shop/2cdbee68b62493f50d9b047a20a7ba1e">絆</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
-|67|327|<span class="rank-name-dl">ayaka@glad</span>|<a href="https://search.dartslive.com/jp/shop/7787751abd19a3b30d9b047a20a7ba1e">カラオケダーツバー2ndFace</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|8|907|<span class="rank-name-dl">吉宗( ・ω・)絆</span>|<a href="https://search.dartslive.com/jp/shop/2cdbee68b62493f50d9b047a20a7ba1e">絆</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|10|901|<span class="rank-name-dl">シモさん</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|11|866|<span class="rank-name-dl">つっちー@panda</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|12|861|<span class="rank-name-dl">たけのこ。</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|13|850|<span class="rank-name-dl">かーず☆彡Reve</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|14|841|<span class="rank-name-dl">メガ</span>|<a href="https://search.dartslive.com/jp/shop/7787751abd19a3b30d9b047a20a7ba1e">カラオケダーツバー2ndFace</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|15|838|<span class="rank-name-dl">リュウ</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|16|828|<span class="rank-name-dl">さち</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|17|825|<span class="rank-name-dl">P2 NAME 0047</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|18|816|<span class="rank-name-dl">りょーま</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|19|813|<span class="rank-name-dl">おむ</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|20|811|<span class="rank-name-dl">浅香 佑介</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|21|807|<span class="rank-name-dl">よっぴ〜</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|22|803|<span class="rank-name-dl">Yuki</span>|<a href="https://search.dartslive.com/jp/shop/2cdbee68b62493f50d9b047a20a7ba1e">絆</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|22|803|<span class="rank-name-dl">まいっち</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|24|796|<span class="rank-name-dl">Yuki</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|24|796|<span class="rank-name-dl">はっちゃにゃん</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|26|792|<span class="rank-name-dl">山本 章聖</span>|<a href="https://search.dartslive.com/jp/shop/7787751abd19a3b30d9b047a20a7ba1e">カラオケダーツバー2ndFace</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|27|767|<span class="rank-name-dl">こう</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|27|767|<span class="rank-name-dl">怪物くん！！！</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|29|762|<span class="rank-name-dl">k.ｒｙｕｓｅｉ</span>|<a href="https://search.dartslive.com/jp/shop/7787751abd19a3b30d9b047a20a7ba1e">カラオケダーツバー2ndFace</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|30|752|<span class="rank-name-dl">しょういっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|31|751|<span class="rank-name-dl">そばちゃ</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|32|728|<span class="rank-name-dl">【HRC】豪腕 文太</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|32|728|<span class="rank-name-dl">角垣内　彪</span>|<a href="https://search.dartslive.com/jp/shop/7787751abd19a3b30d9b047a20a7ba1e">カラオケダーツバー2ndFace</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|34|724|<span class="rank-name-dl">アカしゃん</span>|<a href="https://search.dartslive.com/jp/shop/2cdbee68b62493f50d9b047a20a7ba1e">絆</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|35|710|<span class="rank-name-dl">ｼﾝ兄ﾆｬﾝ♪♪♪</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|36|698|<span class="rank-name-dl">じゅんや</span>|<a href="https://search.dartslive.com/jp/shop/2cdbee68b62493f50d9b047a20a7ba1e">絆</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|37|697|<span class="rank-name-dl">ヘタレ王ﾆｬﾝ♪♪</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|38|689|<span class="rank-name-dl">俺ＴＫＣにゃん♪</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|39|683|<span class="rank-name-dl">ﾊﾙﾆｬﾝだお♡♪</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|40|669|<span class="rank-name-dl">フィルの孫.youji</span>|<a href="https://search.dartslive.com/jp/shop/7787751abd19a3b30d9b047a20a7ba1e">カラオケダーツバー2ndFace</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|41|666|<span class="rank-name-dl">鈴木</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|42|665|<span class="rank-name-dl">zui</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|43|661|<span class="rank-name-dl">akira</span>|<a href="https://search.dartslive.com/jp/shop/7787751abd19a3b30d9b047a20a7ba1e">カラオケダーツバー2ndFace</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|44|657|<span class="rank-name-dl">Reeeen098</span>|<a href="https://search.dartslive.com/jp/shop/7787751abd19a3b30d9b047a20a7ba1e">カラオケダーツバー2ndFace</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|45|652|<span class="rank-name-dl">HiRø</span>|<a href="https://search.dartslive.com/jp/shop/7787751abd19a3b30d9b047a20a7ba1e">カラオケダーツバー2ndFace</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|46|644|<span class="rank-name-dl">kasshi</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|46|644|<span class="rank-name-dl">超絶ｶﾜﾁｨﾊﾙﾆｬﾝ♪</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|48|613|<span class="rank-name-dl">加藤　鷹</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|49|611|<span class="rank-name-dl">りょーま</span>|<a href="https://search.dartslive.com/jp/shop/7787751abd19a3b30d9b047a20a7ba1e">カラオケダーツバー2ndFace</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|50|604|<span class="rank-name-dl">しんにゃん♪♪♪</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|51|598|<span class="rank-name-dl">ｲﾌﾟｻﾑ改にゃん♪</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|52|597|<span class="rank-name-dl">☺ともっち☺</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|53|592|<span class="rank-name-dl">ねぎたともみ</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|53|592|<span class="rank-name-dl">世界戦線零壱鬼丸</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|55|585|<span class="rank-name-dl">りょーま</span>|<a href="https://search.dartslive.com/jp/shop/2cdbee68b62493f50d9b047a20a7ba1e">絆</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|56|582|<span class="rank-name-dl">hito-min</span>|<a href="https://search.dartslive.com/jp/shop/7787751abd19a3b30d9b047a20a7ba1e">カラオケダーツバー2ndFace</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|57|556|<span class="rank-name-dl">REI U・ェ・U♀神</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|58|552|<span class="rank-name-dl">絆〆きっこーまん</span>|<a href="https://search.dartslive.com/jp/shop/2cdbee68b62493f50d9b047a20a7ba1e">絆</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|59|538|<span class="rank-name-dl">沙紀</span>|<a href="https://search.dartslive.com/jp/shop/7787751abd19a3b30d9b047a20a7ba1e">カラオケダーツバー2ndFace</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|60|533|<span class="rank-name-dl">hi</span>|<a href="https://search.dartslive.com/jp/shop/7787751abd19a3b30d9b047a20a7ba1e">カラオケダーツバー2ndFace</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|61|516|<span class="rank-name-dl">SEVEN會§鳴</span>|<a href="https://search.dartslive.com/jp/shop/2cdbee68b62493f50d9b047a20a7ba1e">絆</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|62|513|<span class="rank-name-dl">ayaka@glad</span>|<a href="https://search.dartslive.com/jp/shop/7787751abd19a3b30d9b047a20a7ba1e">カラオケダーツバー2ndFace</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|63|493|<span class="rank-name-dl">ayaka@glad</span>|<a href="https://search.dartslive.com/jp/shop/cec6634d08651ea50d9b047a20a7ba1e">Darts&CafeBar 心選組</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|64|486|<span class="rank-name-dl">あやにゃん♪</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|65|483|<span class="rank-name-dl">さわこ</span>|<a href="https://search.dartslive.com/jp/shop/2cdbee68b62493f50d9b047a20a7ba1e">絆</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|66|456|<span class="rank-name-dl">SHINICHIRO</span>|<a href="https://search.dartslive.com/jp/shop/2cdbee68b62493f50d9b047a20a7ba1e">絆</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|67|439|<span class="rank-name-dl">足立 舞</span>|<a href="https://search.dartslive.com/jp/shop/cb4f20eb9646ad130d9b047a20a7ba1e">BAR 一粒万倍</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|68|425|<span class="rank-name-dl">SHI</span>|<a href="https://search.dartslive.com/jp/shop/2cdbee68b62493f50d9b047a20a7ba1e">絆</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|69|413|<span class="rank-name-dl">やまむむ</span>|<a href="https://search.dartslive.com/jp/shop/2cdbee68b62493f50d9b047a20a7ba1e">絆</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
+|70|364|<span class="rank-name-dl">スギちゃん</span>|<a href="https://search.dartslive.com/jp/shop/2cdbee68b62493f50d9b047a20a7ba1e">絆</a>|<a href="/darts/rank/大阪府/大阪市旭区">大阪府大阪市旭区</a>|
 
 
 #### PHOENIXDARTS TOP 100

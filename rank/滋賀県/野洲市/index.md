@@ -23,10 +23,10 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1106|<span class="rank-name-dl">ゆーこ</span>|<a href="https://search.dartslive.com/jp/shop/8283a5106fc9920a0d9b047a20a7ba1e">カラオケStyle 野洲店</a>|<a href="/darts/rank/滋賀県/野洲市">滋賀県野洲市</a>|
-|2|1104|<span class="rank-name-dl">山本 湧輝</span>|<a href="https://search.dartslive.com/jp/shop/8283a5106fc9920a0d9b047a20a7ba1e">カラオケStyle 野洲店</a>|<a href="/darts/rank/滋賀県/野洲市">滋賀県野洲市</a>|
-|3|1080|<span class="rank-name-dl">ハーモニカ</span>|<a href="https://search.dartslive.com/jp/shop/8283a5106fc9920a0d9b047a20a7ba1e">カラオケStyle 野洲店</a>|<a href="/darts/rank/滋賀県/野洲市">滋賀県野洲市</a>|
-|4|1068|<span class="rank-name-dl">たっちゃんる〜ふ</span>|<a href="https://search.dartslive.com/jp/shop/8283a5106fc9920a0d9b047a20a7ba1e">カラオケStyle 野洲店</a>|<a href="/darts/rank/滋賀県/野洲市">滋賀県野洲市</a>|
+|1|1126|<span class="rank-name-dl">たっちゃんる〜ふ</span>|<a href="https://search.dartslive.com/jp/shop/8283a5106fc9920a0d9b047a20a7ba1e">カラオケStyle 野洲店</a>|<a href="/darts/rank/滋賀県/野洲市">滋賀県野洲市</a>|
+|2|1106|<span class="rank-name-dl">ゆーこ</span>|<a href="https://search.dartslive.com/jp/shop/8283a5106fc9920a0d9b047a20a7ba1e">カラオケStyle 野洲店</a>|<a href="/darts/rank/滋賀県/野洲市">滋賀県野洲市</a>|
+|3|1104|<span class="rank-name-dl">山本 湧輝</span>|<a href="https://search.dartslive.com/jp/shop/8283a5106fc9920a0d9b047a20a7ba1e">カラオケStyle 野洲店</a>|<a href="/darts/rank/滋賀県/野洲市">滋賀県野洲市</a>|
+|4|1080|<span class="rank-name-dl">ハーモニカ</span>|<a href="https://search.dartslive.com/jp/shop/8283a5106fc9920a0d9b047a20a7ba1e">カラオケStyle 野洲店</a>|<a href="/darts/rank/滋賀県/野洲市">滋賀県野洲市</a>|
 |5|1060|<span class="rank-name-dl">外村 和平</span>|<a href="https://search.dartslive.com/jp/shop/8283a5106fc9920a0d9b047a20a7ba1e">カラオケStyle 野洲店</a>|<a href="/darts/rank/滋賀県/野洲市">滋賀県野洲市</a>|
 |6|1055|<span class="rank-name-dl">外村和平　GAISON</span>|<a href="https://search.dartslive.com/jp/shop/8283a5106fc9920a0d9b047a20a7ba1e">カラオケStyle 野洲店</a>|<a href="/darts/rank/滋賀県/野洲市">滋賀県野洲市</a>|
 |7|1035|<span class="rank-name-dl">森本 純矢</span>|<a href="https://search.dartslive.com/jp/shop/8283a5106fc9920a0d9b047a20a7ba1e">カラオケStyle 野洲店</a>|<a href="/darts/rank/滋賀県/野洲市">滋賀県野洲市</a>|
@@ -41,13 +41,14 @@ ___
 |16|682|<span class="rank-name-dl">れんれん♡</span>|<a href="https://search.dartslive.com/jp/shop/8283a5106fc9920a0d9b047a20a7ba1e">カラオケStyle 野洲店</a>|<a href="/darts/rank/滋賀県/野洲市">滋賀県野洲市</a>|
 |17|661|<span class="rank-name-dl">KIWAKO</span>|<a href="https://search.dartslive.com/jp/shop/8283a5106fc9920a0d9b047a20a7ba1e">カラオケStyle 野洲店</a>|<a href="/darts/rank/滋賀県/野洲市">滋賀県野洲市</a>|
 |18|636|<span class="rank-name-dl">さやねぇ</span>|<a href="https://search.dartslive.com/jp/shop/8283a5106fc9920a0d9b047a20a7ba1e">カラオケStyle 野洲店</a>|<a href="/darts/rank/滋賀県/野洲市">滋賀県野洲市</a>|
-|19|520|<span class="rank-name-dl">あよん</span>|<a href="https://search.dartslive.com/jp/shop/8283a5106fc9920a0d9b047a20a7ba1e">カラオケStyle 野洲店</a>|<a href="/darts/rank/滋賀県/野洲市">滋賀県野洲市</a>|
+|19|523|<span class="rank-name-dl">あよん</span>|<a href="https://search.dartslive.com/jp/shop/8283a5106fc9920a0d9b047a20a7ba1e">カラオケStyle 野洲店</a>|<a href="/darts/rank/滋賀県/野洲市">滋賀県野洲市</a>|
 |20|508|<span class="rank-name-dl">こじ</span>|<a href="https://search.dartslive.com/jp/shop/8283a5106fc9920a0d9b047a20a7ba1e">カラオケStyle 野洲店</a>|<a href="/darts/rank/滋賀県/野洲市">滋賀県野洲市</a>|
 |21|489|<span class="rank-name-dl">ミーちゃん☆</span>|<a href="https://search.dartslive.com/jp/shop/8283a5106fc9920a0d9b047a20a7ba1e">カラオケStyle 野洲店</a>|<a href="/darts/rank/滋賀県/野洲市">滋賀県野洲市</a>|
 |22|488|<span class="rank-name-dl">NJPW★はっち★</span>|<a href="https://search.dartslive.com/jp/shop/8283a5106fc9920a0d9b047a20a7ba1e">カラオケStyle 野洲店</a>|<a href="/darts/rank/滋賀県/野洲市">滋賀県野洲市</a>|
-|23|462|<span class="rank-name-dl">MYR_9</span>|<a href="https://search.dartslive.com/jp/shop/8283a5106fc9920a0d9b047a20a7ba1e">カラオケStyle 野洲店</a>|<a href="/darts/rank/滋賀県/野洲市">滋賀県野洲市</a>|
-|24|429|<span class="rank-name-dl">まなち♥</span>|<a href="https://search.dartslive.com/jp/shop/8283a5106fc9920a0d9b047a20a7ba1e">カラオケStyle 野洲店</a>|<a href="/darts/rank/滋賀県/野洲市">滋賀県野洲市</a>|
-|25|372|<span class="rank-name-dl">くぅ</span>|<a href="https://search.dartslive.com/jp/shop/8283a5106fc9920a0d9b047a20a7ba1e">カラオケStyle 野洲店</a>|<a href="/darts/rank/滋賀県/野洲市">滋賀県野洲市</a>|
+|23|474|<span class="rank-name-dl">Reicca,723</span>|<a href="https://search.dartslive.com/jp/shop/8283a5106fc9920a0d9b047a20a7ba1e">カラオケStyle 野洲店</a>|<a href="/darts/rank/滋賀県/野洲市">滋賀県野洲市</a>|
+|24|462|<span class="rank-name-dl">MYR_9</span>|<a href="https://search.dartslive.com/jp/shop/8283a5106fc9920a0d9b047a20a7ba1e">カラオケStyle 野洲店</a>|<a href="/darts/rank/滋賀県/野洲市">滋賀県野洲市</a>|
+|25|429|<span class="rank-name-dl">まなち♥</span>|<a href="https://search.dartslive.com/jp/shop/8283a5106fc9920a0d9b047a20a7ba1e">カラオケStyle 野洲店</a>|<a href="/darts/rank/滋賀県/野洲市">滋賀県野洲市</a>|
+|26|372|<span class="rank-name-dl">くぅ</span>|<a href="https://search.dartslive.com/jp/shop/8283a5106fc9920a0d9b047a20a7ba1e">カラオケStyle 野洲店</a>|<a href="/darts/rank/滋賀県/野洲市">滋賀県野洲市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -57,10 +58,10 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1106|<span class="rank-name-dl">ゆーこ</span>|<a href="https://search.dartslive.com/jp/shop/8283a5106fc9920a0d9b047a20a7ba1e">カラオケStyle 野洲店</a>|<a href="/darts/rank/滋賀県/野洲市">滋賀県野洲市</a>|
-|2|1104|<span class="rank-name-dl">山本 湧輝</span>|<a href="https://search.dartslive.com/jp/shop/8283a5106fc9920a0d9b047a20a7ba1e">カラオケStyle 野洲店</a>|<a href="/darts/rank/滋賀県/野洲市">滋賀県野洲市</a>|
-|3|1080|<span class="rank-name-dl">ハーモニカ</span>|<a href="https://search.dartslive.com/jp/shop/8283a5106fc9920a0d9b047a20a7ba1e">カラオケStyle 野洲店</a>|<a href="/darts/rank/滋賀県/野洲市">滋賀県野洲市</a>|
-|4|1068|<span class="rank-name-dl">たっちゃんる〜ふ</span>|<a href="https://search.dartslive.com/jp/shop/8283a5106fc9920a0d9b047a20a7ba1e">カラオケStyle 野洲店</a>|<a href="/darts/rank/滋賀県/野洲市">滋賀県野洲市</a>|
+|1|1126|<span class="rank-name-dl">たっちゃんる〜ふ</span>|<a href="https://search.dartslive.com/jp/shop/8283a5106fc9920a0d9b047a20a7ba1e">カラオケStyle 野洲店</a>|<a href="/darts/rank/滋賀県/野洲市">滋賀県野洲市</a>|
+|2|1106|<span class="rank-name-dl">ゆーこ</span>|<a href="https://search.dartslive.com/jp/shop/8283a5106fc9920a0d9b047a20a7ba1e">カラオケStyle 野洲店</a>|<a href="/darts/rank/滋賀県/野洲市">滋賀県野洲市</a>|
+|3|1104|<span class="rank-name-dl">山本 湧輝</span>|<a href="https://search.dartslive.com/jp/shop/8283a5106fc9920a0d9b047a20a7ba1e">カラオケStyle 野洲店</a>|<a href="/darts/rank/滋賀県/野洲市">滋賀県野洲市</a>|
+|4|1080|<span class="rank-name-dl">ハーモニカ</span>|<a href="https://search.dartslive.com/jp/shop/8283a5106fc9920a0d9b047a20a7ba1e">カラオケStyle 野洲店</a>|<a href="/darts/rank/滋賀県/野洲市">滋賀県野洲市</a>|
 |5|1060|<span class="rank-name-dl">外村 和平</span>|<a href="https://search.dartslive.com/jp/shop/8283a5106fc9920a0d9b047a20a7ba1e">カラオケStyle 野洲店</a>|<a href="/darts/rank/滋賀県/野洲市">滋賀県野洲市</a>|
 |6|1055|<span class="rank-name-dl">外村和平　GAISON</span>|<a href="https://search.dartslive.com/jp/shop/8283a5106fc9920a0d9b047a20a7ba1e">カラオケStyle 野洲店</a>|<a href="/darts/rank/滋賀県/野洲市">滋賀県野洲市</a>|
 |7|1035|<span class="rank-name-dl">森本 純矢</span>|<a href="https://search.dartslive.com/jp/shop/8283a5106fc9920a0d9b047a20a7ba1e">カラオケStyle 野洲店</a>|<a href="/darts/rank/滋賀県/野洲市">滋賀県野洲市</a>|
@@ -75,13 +76,14 @@ ___
 |16|682|<span class="rank-name-dl">れんれん♡</span>|<a href="https://search.dartslive.com/jp/shop/8283a5106fc9920a0d9b047a20a7ba1e">カラオケStyle 野洲店</a>|<a href="/darts/rank/滋賀県/野洲市">滋賀県野洲市</a>|
 |17|661|<span class="rank-name-dl">KIWAKO</span>|<a href="https://search.dartslive.com/jp/shop/8283a5106fc9920a0d9b047a20a7ba1e">カラオケStyle 野洲店</a>|<a href="/darts/rank/滋賀県/野洲市">滋賀県野洲市</a>|
 |18|636|<span class="rank-name-dl">さやねぇ</span>|<a href="https://search.dartslive.com/jp/shop/8283a5106fc9920a0d9b047a20a7ba1e">カラオケStyle 野洲店</a>|<a href="/darts/rank/滋賀県/野洲市">滋賀県野洲市</a>|
-|19|520|<span class="rank-name-dl">あよん</span>|<a href="https://search.dartslive.com/jp/shop/8283a5106fc9920a0d9b047a20a7ba1e">カラオケStyle 野洲店</a>|<a href="/darts/rank/滋賀県/野洲市">滋賀県野洲市</a>|
+|19|523|<span class="rank-name-dl">あよん</span>|<a href="https://search.dartslive.com/jp/shop/8283a5106fc9920a0d9b047a20a7ba1e">カラオケStyle 野洲店</a>|<a href="/darts/rank/滋賀県/野洲市">滋賀県野洲市</a>|
 |20|508|<span class="rank-name-dl">こじ</span>|<a href="https://search.dartslive.com/jp/shop/8283a5106fc9920a0d9b047a20a7ba1e">カラオケStyle 野洲店</a>|<a href="/darts/rank/滋賀県/野洲市">滋賀県野洲市</a>|
 |21|489|<span class="rank-name-dl">ミーちゃん☆</span>|<a href="https://search.dartslive.com/jp/shop/8283a5106fc9920a0d9b047a20a7ba1e">カラオケStyle 野洲店</a>|<a href="/darts/rank/滋賀県/野洲市">滋賀県野洲市</a>|
 |22|488|<span class="rank-name-dl">NJPW★はっち★</span>|<a href="https://search.dartslive.com/jp/shop/8283a5106fc9920a0d9b047a20a7ba1e">カラオケStyle 野洲店</a>|<a href="/darts/rank/滋賀県/野洲市">滋賀県野洲市</a>|
-|23|462|<span class="rank-name-dl">MYR_9</span>|<a href="https://search.dartslive.com/jp/shop/8283a5106fc9920a0d9b047a20a7ba1e">カラオケStyle 野洲店</a>|<a href="/darts/rank/滋賀県/野洲市">滋賀県野洲市</a>|
-|24|429|<span class="rank-name-dl">まなち♥</span>|<a href="https://search.dartslive.com/jp/shop/8283a5106fc9920a0d9b047a20a7ba1e">カラオケStyle 野洲店</a>|<a href="/darts/rank/滋賀県/野洲市">滋賀県野洲市</a>|
-|25|372|<span class="rank-name-dl">くぅ</span>|<a href="https://search.dartslive.com/jp/shop/8283a5106fc9920a0d9b047a20a7ba1e">カラオケStyle 野洲店</a>|<a href="/darts/rank/滋賀県/野洲市">滋賀県野洲市</a>|
+|23|474|<span class="rank-name-dl">Reicca,723</span>|<a href="https://search.dartslive.com/jp/shop/8283a5106fc9920a0d9b047a20a7ba1e">カラオケStyle 野洲店</a>|<a href="/darts/rank/滋賀県/野洲市">滋賀県野洲市</a>|
+|24|462|<span class="rank-name-dl">MYR_9</span>|<a href="https://search.dartslive.com/jp/shop/8283a5106fc9920a0d9b047a20a7ba1e">カラオケStyle 野洲店</a>|<a href="/darts/rank/滋賀県/野洲市">滋賀県野洲市</a>|
+|25|429|<span class="rank-name-dl">まなち♥</span>|<a href="https://search.dartslive.com/jp/shop/8283a5106fc9920a0d9b047a20a7ba1e">カラオケStyle 野洲店</a>|<a href="/darts/rank/滋賀県/野洲市">滋賀県野洲市</a>|
+|26|372|<span class="rank-name-dl">くぅ</span>|<a href="https://search.dartslive.com/jp/shop/8283a5106fc9920a0d9b047a20a7ba1e">カラオケStyle 野洲店</a>|<a href="/darts/rank/滋賀県/野洲市">滋賀県野洲市</a>|
 
 
 #### PHOENIXDARTS TOP 100

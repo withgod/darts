@@ -23,7 +23,7 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1003|<span class="rank-name-dl">SHINGO.</span>|<a href="https://search.dartslive.com/jp/shop/425d0b9bfb1783f70d9b047a20a7ba1e">SPORTS DINING BAR アンカー</a>|<a href="/darts/rank/大阪府/大阪市西区">大阪府大阪市西区</a>|
+|1|937|<span class="rank-name-dl">SHINGO.</span>|<a href="https://search.dartslive.com/jp/shop/425d0b9bfb1783f70d9b047a20a7ba1e">SPORTS DINING BAR アンカー</a>|<a href="/darts/rank/大阪府/大阪市西区">大阪府大阪市西区</a>|
 |2|909|<span class="rank-name-dl">アンカーのバビ</span>|<a href="https://search.dartslive.com/jp/shop/425d0b9bfb1783f70d9b047a20a7ba1e">SPORTS DINING BAR アンカー</a>|<a href="/darts/rank/大阪府/大阪市西区">大阪府大阪市西区</a>|
 |3|902|<span class="rank-name-dl">テレ</span>|<a href="https://search.dartslive.com/jp/shop/425d0b9bfb1783f70d9b047a20a7ba1e">SPORTS DINING BAR アンカー</a>|<a href="/darts/rank/大阪府/大阪市西区">大阪府大阪市西区</a>|
 |4|787|<span class="rank-name-dl">ｹﾝｿﾞｩ(D&#x27;LoVE)</span>|<a href="https://search.dartslive.com/jp/shop/425d0b9bfb1783f70d9b047a20a7ba1e">SPORTS DINING BAR アンカー</a>|<a href="/darts/rank/大阪府/大阪市西区">大阪府大阪市西区</a>|
@@ -41,7 +41,7 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1003|<span class="rank-name-dl">SHINGO.</span>|<a href="https://search.dartslive.com/jp/shop/425d0b9bfb1783f70d9b047a20a7ba1e">SPORTS DINING BAR アンカー</a>|<a href="/darts/rank/大阪府/大阪市西区">大阪府大阪市西区</a>|
+|1|937|<span class="rank-name-dl">SHINGO.</span>|<a href="https://search.dartslive.com/jp/shop/425d0b9bfb1783f70d9b047a20a7ba1e">SPORTS DINING BAR アンカー</a>|<a href="/darts/rank/大阪府/大阪市西区">大阪府大阪市西区</a>|
 |2|909|<span class="rank-name-dl">アンカーのバビ</span>|<a href="https://search.dartslive.com/jp/shop/425d0b9bfb1783f70d9b047a20a7ba1e">SPORTS DINING BAR アンカー</a>|<a href="/darts/rank/大阪府/大阪市西区">大阪府大阪市西区</a>|
 |3|902|<span class="rank-name-dl">テレ</span>|<a href="https://search.dartslive.com/jp/shop/425d0b9bfb1783f70d9b047a20a7ba1e">SPORTS DINING BAR アンカー</a>|<a href="/darts/rank/大阪府/大阪市西区">大阪府大阪市西区</a>|
 |4|787|<span class="rank-name-dl">ｹﾝｿﾞｩ(D&#x27;LoVE)</span>|<a href="https://search.dartslive.com/jp/shop/425d0b9bfb1783f70d9b047a20a7ba1e">SPORTS DINING BAR アンカー</a>|<a href="/darts/rank/大阪府/大阪市西区">大阪府大阪市西区</a>|

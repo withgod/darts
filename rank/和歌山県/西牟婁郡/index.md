@@ -23,7 +23,7 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1100|<span class="rank-name-dl">川上智史@C.C</span>|<a href="https://search.dartslive.com/jp/shop/6cee1d555235cf390d9b047a20a7ba1e">Cafe Cozy</a>|<a href="/darts/rank/和歌山県/西牟婁郡">和歌山県西牟婁郡</a>|
+|1|1121|<span class="rank-name-dl">川上智史@C.C</span>|<a href="https://search.dartslive.com/jp/shop/6cee1d555235cf390d9b047a20a7ba1e">Cafe Cozy</a>|<a href="/darts/rank/和歌山県/西牟婁郡">和歌山県西牟婁郡</a>|
 |2|1051|<span class="rank-name-dl">川上 智史</span>|<a href="https://search.dartslive.com/jp/shop/6cee1d555235cf390d9b047a20a7ba1e">Cafe Cozy</a>|<a href="/darts/rank/和歌山県/西牟婁郡">和歌山県西牟婁郡</a>|
 |3|955|<span class="rank-name-dl">ﾃﾞｨｰﾌｼﾞｵｶ@MAG&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/6cee1d555235cf390d9b047a20a7ba1e">Cafe Cozy</a>|<a href="/darts/rank/和歌山県/西牟婁郡">和歌山県西牟婁郡</a>|
 |4|922|<span class="rank-name-dl">五百瀬明日香@C.C</span>|<a href="https://search.dartslive.com/jp/shop/6cee1d555235cf390d9b047a20a7ba1e">Cafe Cozy</a>|<a href="/darts/rank/和歌山県/西牟婁郡">和歌山県西牟婁郡</a>|
@@ -53,7 +53,7 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1100|<span class="rank-name-dl">川上智史@C.C</span>|<a href="https://search.dartslive.com/jp/shop/6cee1d555235cf390d9b047a20a7ba1e">Cafe Cozy</a>|<a href="/darts/rank/和歌山県/西牟婁郡">和歌山県西牟婁郡</a>|
+|1|1121|<span class="rank-name-dl">川上智史@C.C</span>|<a href="https://search.dartslive.com/jp/shop/6cee1d555235cf390d9b047a20a7ba1e">Cafe Cozy</a>|<a href="/darts/rank/和歌山県/西牟婁郡">和歌山県西牟婁郡</a>|
 |2|1051|<span class="rank-name-dl">川上 智史</span>|<a href="https://search.dartslive.com/jp/shop/6cee1d555235cf390d9b047a20a7ba1e">Cafe Cozy</a>|<a href="/darts/rank/和歌山県/西牟婁郡">和歌山県西牟婁郡</a>|
 |3|955|<span class="rank-name-dl">ﾃﾞｨｰﾌｼﾞｵｶ@MAG&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/6cee1d555235cf390d9b047a20a7ba1e">Cafe Cozy</a>|<a href="/darts/rank/和歌山県/西牟婁郡">和歌山県西牟婁郡</a>|
 |4|922|<span class="rank-name-dl">五百瀬明日香@C.C</span>|<a href="https://search.dartslive.com/jp/shop/6cee1d555235cf390d9b047a20a7ba1e">Cafe Cozy</a>|<a href="/darts/rank/和歌山県/西牟婁郡">和歌山県西牟婁郡</a>|

@@ -32,7 +32,7 @@ ___
 |7|673|<span class="rank-name-pd">YOICHI.SHIOZI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74621?s_seq=74621">カラオケハウス歌楽</a>|<a href="/darts/rank/和歌山県/東牟婁郡">和歌山県東牟婁郡</a>|
 |8|670|<span class="rank-name-pd">藤波辰巳</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74621?s_seq=74621">カラオケハウス歌楽</a>|<a href="/darts/rank/和歌山県/東牟婁郡">和歌山県東牟婁郡</a>|
 |9|667|<span class="rank-name-pd">らんぼー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74621?s_seq=74621">カラオケハウス歌楽</a>|<a href="/darts/rank/和歌山県/東牟婁郡">和歌山県東牟婁郡</a>|
-|10|636|<span class="rank-name-pd">おふろん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74621?s_seq=74621">カラオケハウス歌楽</a>|<a href="/darts/rank/和歌山県/東牟婁郡">和歌山県東牟婁郡</a>|
+|10|653|<span class="rank-name-pd">おふろん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74621?s_seq=74621">カラオケハウス歌楽</a>|<a href="/darts/rank/和歌山県/東牟婁郡">和歌山県東牟婁郡</a>|
 |11|603|<span class="rank-name-pd">けいぷり</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74621?s_seq=74621">カラオケハウス歌楽</a>|<a href="/darts/rank/和歌山県/東牟婁郡">和歌山県東牟婁郡</a>|
 |12|591|<span class="rank-name-pd">k</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74621?s_seq=74621">カラオケハウス歌楽</a>|<a href="/darts/rank/和歌山県/東牟婁郡">和歌山県東牟婁郡</a>|
 |13|576|<span class="rank-name-pd">ZIN.SHIOCHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74621?s_seq=74621">カラオケハウス歌楽</a>|<a href="/darts/rank/和歌山県/東牟婁郡">和歌山県東牟婁郡</a>|
@@ -79,7 +79,7 @@ ___
 |7|673|<span class="rank-name-pd">YOICHI.SHIOZI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74621?s_seq=74621">カラオケハウス歌楽</a>|<a href="/darts/rank/和歌山県/東牟婁郡">和歌山県東牟婁郡</a>|
 |8|670|<span class="rank-name-pd">藤波辰巳</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74621?s_seq=74621">カラオケハウス歌楽</a>|<a href="/darts/rank/和歌山県/東牟婁郡">和歌山県東牟婁郡</a>|
 |9|667|<span class="rank-name-pd">らんぼー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74621?s_seq=74621">カラオケハウス歌楽</a>|<a href="/darts/rank/和歌山県/東牟婁郡">和歌山県東牟婁郡</a>|
-|10|636|<span class="rank-name-pd">おふろん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74621?s_seq=74621">カラオケハウス歌楽</a>|<a href="/darts/rank/和歌山県/東牟婁郡">和歌山県東牟婁郡</a>|
+|10|653|<span class="rank-name-pd">おふろん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74621?s_seq=74621">カラオケハウス歌楽</a>|<a href="/darts/rank/和歌山県/東牟婁郡">和歌山県東牟婁郡</a>|
 |11|603|<span class="rank-name-pd">けいぷり</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74621?s_seq=74621">カラオケハウス歌楽</a>|<a href="/darts/rank/和歌山県/東牟婁郡">和歌山県東牟婁郡</a>|
 |12|591|<span class="rank-name-pd">k</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74621?s_seq=74621">カラオケハウス歌楽</a>|<a href="/darts/rank/和歌山県/東牟婁郡">和歌山県東牟婁郡</a>|
 |13|576|<span class="rank-name-pd">ZIN.SHIOCHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74621?s_seq=74621">カラオケハウス歌楽</a>|<a href="/darts/rank/和歌山県/東牟婁郡">和歌山県東牟婁郡</a>|

@@ -23,32 +23,25 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1045|<span class="rank-name-dl">たかび</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
-|2|1028|<span class="rank-name-dl">S4C</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
-|3|988|<span class="rank-name-dl">BIG_神楽_STAR</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
-|4|980|<span class="rank-name-dl">kouta</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
-|5|958|<span class="rank-name-dl">絶品！築港パスタ</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
-|6|952|<span class="rank-name-dl">Kazuo@joker</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
-|6|952|<span class="rank-name-dl">tttWELLttt@Joker</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
-|8|916|<span class="rank-name-dl">しょーま!!@Joker</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
-|9|896|<span class="rank-name-dl">しんや@p.dog</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
-|10|858|<span class="rank-name-dl">石川 凌</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
-|11|820|<span class="rank-name-dl">銘菓たかみつ豆</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
-|12|745|<span class="rank-name-dl">M4戦士</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
+|1|1074|<span class="rank-name-dl">銘菓たかみつ豆</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
+|2|1072|<span class="rank-name-dl">絶品！築港パスタ</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
+|3|1045|<span class="rank-name-dl">たかび</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
+|4|1028|<span class="rank-name-dl">S4C</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
+|5|1002|<span class="rank-name-dl">しょーま!!@Joker</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
+|6|988|<span class="rank-name-dl">BIG_神楽_STAR</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
+|7|980|<span class="rank-name-dl">kouta</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
+|8|952|<span class="rank-name-dl">Kazuo@joker</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
+|8|952|<span class="rank-name-dl">tttWELLttt@Joker</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
+|10|942|<span class="rank-name-dl">高光建設(株)</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
+|11|896|<span class="rank-name-dl">しんや@p.dog</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
+|12|858|<span class="rank-name-dl">石川 凌</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
 |13|732|<span class="rank-name-dl">頼⭐JOKER</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
-|14|681|<span class="rank-name-dl">∮信長∮@Joker</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
-|15|663|<span class="rank-name-dl">@T.O</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
-|16|644|<span class="rank-name-dl">Devilboy</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
-|17|615|<span class="rank-name-dl">頼★JOKER</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
-|18|546|<span class="rank-name-dl">マリリン☆彡</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
-|19|522|<span class="rank-name-dl">ズッキー</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
-|20|482|<span class="rank-name-dl">ﾁｬｰﾘｰ@JOKER</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
-|21|462|<span class="rank-name-dl">夫婦龍【稀】</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
-|22|461|<span class="rank-name-dl">たまごちゃん</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
-|23|426|<span class="rank-name-dl">みゆ</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
-|24|372|<span class="rank-name-dl">ゆうと</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
-|25|332|<span class="rank-name-dl">∮信長∮</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
-|26|239|<span class="rank-name-dl">AMI</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
+|14|615|<span class="rank-name-dl">頼★JOKER</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
+|15|546|<span class="rank-name-dl">マリリン☆彡</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
+|16|462|<span class="rank-name-dl">夫婦龍【稀】</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
+|17|461|<span class="rank-name-dl">たまごちゃん</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
+|18|426|<span class="rank-name-dl">みゆ</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
+|19|239|<span class="rank-name-dl">AMI</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -58,32 +51,25 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1045|<span class="rank-name-dl">たかび</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
-|2|1028|<span class="rank-name-dl">S4C</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
-|3|988|<span class="rank-name-dl">BIG_神楽_STAR</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
-|4|980|<span class="rank-name-dl">kouta</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
-|5|958|<span class="rank-name-dl">絶品！築港パスタ</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
-|6|952|<span class="rank-name-dl">Kazuo@joker</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
-|6|952|<span class="rank-name-dl">tttWELLttt@Joker</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
-|8|916|<span class="rank-name-dl">しょーま!!@Joker</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
-|9|896|<span class="rank-name-dl">しんや@p.dog</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
-|10|858|<span class="rank-name-dl">石川 凌</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
-|11|820|<span class="rank-name-dl">銘菓たかみつ豆</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
-|12|745|<span class="rank-name-dl">M4戦士</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
+|1|1074|<span class="rank-name-dl">銘菓たかみつ豆</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
+|2|1072|<span class="rank-name-dl">絶品！築港パスタ</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
+|3|1045|<span class="rank-name-dl">たかび</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
+|4|1028|<span class="rank-name-dl">S4C</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
+|5|1002|<span class="rank-name-dl">しょーま!!@Joker</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
+|6|988|<span class="rank-name-dl">BIG_神楽_STAR</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
+|7|980|<span class="rank-name-dl">kouta</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
+|8|952|<span class="rank-name-dl">Kazuo@joker</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
+|8|952|<span class="rank-name-dl">tttWELLttt@Joker</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
+|10|942|<span class="rank-name-dl">高光建設(株)</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
+|11|896|<span class="rank-name-dl">しんや@p.dog</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
+|12|858|<span class="rank-name-dl">石川 凌</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
 |13|732|<span class="rank-name-dl">頼⭐JOKER</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
-|14|681|<span class="rank-name-dl">∮信長∮@Joker</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
-|15|663|<span class="rank-name-dl">@T.O</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
-|16|644|<span class="rank-name-dl">Devilboy</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
-|17|615|<span class="rank-name-dl">頼★JOKER</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
-|18|546|<span class="rank-name-dl">マリリン☆彡</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
-|19|522|<span class="rank-name-dl">ズッキー</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
-|20|482|<span class="rank-name-dl">ﾁｬｰﾘｰ@JOKER</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
-|21|462|<span class="rank-name-dl">夫婦龍【稀】</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
-|22|461|<span class="rank-name-dl">たまごちゃん</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
-|23|426|<span class="rank-name-dl">みゆ</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
-|24|372|<span class="rank-name-dl">ゆうと</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
-|25|332|<span class="rank-name-dl">∮信長∮</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
-|26|239|<span class="rank-name-dl">AMI</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
+|14|615|<span class="rank-name-dl">頼★JOKER</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
+|15|546|<span class="rank-name-dl">マリリン☆彡</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
+|16|462|<span class="rank-name-dl">夫婦龍【稀】</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
+|17|461|<span class="rank-name-dl">たまごちゃん</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
+|18|426|<span class="rank-name-dl">みゆ</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
+|19|239|<span class="rank-name-dl">AMI</span>|<a href="https://search.dartslive.com/jp/shop/3a32fc2dd0c8eac10d9b047a20a7ba1e">ビリヤード Joker館山店</a>|<a href="/darts/rank/千葉県/館山市">千葉県館山市</a>|
 
 
 #### PHOENIXDARTS TOP 100

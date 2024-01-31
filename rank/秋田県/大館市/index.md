@@ -23,36 +23,28 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1020|<span class="rank-name-dl">【矢】やっしー</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
-|2|988|<span class="rank-name-dl">pくまqω・*)</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
-|3|973|<span class="rank-name-dl">三浦 卓</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
-|4|945|<span class="rank-name-dl">さぼてん。</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
-|5|924|<span class="rank-name-dl">kai</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
-|6|912|<span class="rank-name-dl">【鮫】ecd-⑪</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
-|7|901|<span class="rank-name-dl">り。</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
-|8|874|<span class="rank-name-dl">さとうさん</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
-|9|873|<span class="rank-name-dl">ナッキー</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
-|10|871|<span class="rank-name-dl">だいどー。</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
-|11|858|<span class="rank-name-dl">Babytongue</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
-|12|813|<span class="rank-name-dl">NO NAME 9331</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
-|13|802|<span class="rank-name-dl">ノナ</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
-|14|744|<span class="rank-name-dl">おんじ＠矢代会</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
-|15|734|<span class="rank-name-dl">AKHJ_K</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
-|16|715|<span class="rank-name-dl">アロ→【ＰＬＡ】</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
-|17|695|<span class="rank-name-dl">あんず</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
-|18|610|<span class="rank-name-dl">ﾟ｡*ポン*｡ﾟ</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
-|19|568|<span class="rank-name-dl">咲。</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
-|20|551|<span class="rank-name-dl">なるみ</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
-|21|510|<span class="rank-name-dl">リューノ</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
-|22|503|<span class="rank-name-dl">Susumu@AZS</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
-|23|501|<span class="rank-name-dl">えてぃ♡</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
-|24|485|<span class="rank-name-dl">TARUMOTI</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
-|25|479|<span class="rank-name-dl">Yu-ki.@矢代会</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
-|26|457|<span class="rank-name-dl">ﾍﾟｺﾘｰﾇ</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
-|27|378|<span class="rank-name-dl">え</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
-|28|348|<span class="rank-name-dl">aoba</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
-|29|347|<span class="rank-name-dl">シコヤマ</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
-|30|206|<span class="rank-name-dl">ムラッチョDX</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
+|1|988|<span class="rank-name-dl">pくまqω・*)</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
+|2|973|<span class="rank-name-dl">三浦 卓</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
+|3|945|<span class="rank-name-dl">さぼてん。</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
+|4|924|<span class="rank-name-dl">kai</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
+|5|912|<span class="rank-name-dl">【鮫】ecd-⑪</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
+|6|901|<span class="rank-name-dl">り。</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
+|7|874|<span class="rank-name-dl">さとうさん</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
+|8|873|<span class="rank-name-dl">ナッキー</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
+|9|871|<span class="rank-name-dl">だいどー。</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
+|10|858|<span class="rank-name-dl">Babytongue</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
+|11|850|<span class="rank-name-dl">【矢】やっしー</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
+|12|845|<span class="rank-name-dl">フミヤ[華]</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
+|13|813|<span class="rank-name-dl">NO NAME 9331</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
+|14|802|<span class="rank-name-dl">ノナ</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
+|15|715|<span class="rank-name-dl">アロ→【ＰＬＡ】</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
+|16|695|<span class="rank-name-dl">あんず</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
+|17|610|<span class="rank-name-dl">ﾟ｡*ポン*｡ﾟ</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
+|18|563|<span class="rank-name-dl">D@!sukE/8</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
+|19|501|<span class="rank-name-dl">えてぃ♡</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
+|20|483|<span class="rank-name-dl">TARAKO</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
+|21|457|<span class="rank-name-dl">ﾍﾟｺﾘｰﾇ</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
+|22|378|<span class="rank-name-dl">え</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -62,36 +54,28 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1020|<span class="rank-name-dl">【矢】やっしー</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
-|2|988|<span class="rank-name-dl">pくまqω・*)</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
-|3|973|<span class="rank-name-dl">三浦 卓</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
-|4|945|<span class="rank-name-dl">さぼてん。</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
-|5|924|<span class="rank-name-dl">kai</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
-|6|912|<span class="rank-name-dl">【鮫】ecd-⑪</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
-|7|901|<span class="rank-name-dl">り。</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
-|8|874|<span class="rank-name-dl">さとうさん</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
-|9|873|<span class="rank-name-dl">ナッキー</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
-|10|871|<span class="rank-name-dl">だいどー。</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
-|11|858|<span class="rank-name-dl">Babytongue</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
-|12|813|<span class="rank-name-dl">NO NAME 9331</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
-|13|802|<span class="rank-name-dl">ノナ</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
-|14|744|<span class="rank-name-dl">おんじ＠矢代会</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
-|15|734|<span class="rank-name-dl">AKHJ_K</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
-|16|715|<span class="rank-name-dl">アロ→【ＰＬＡ】</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
-|17|695|<span class="rank-name-dl">あんず</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
-|18|610|<span class="rank-name-dl">ﾟ｡*ポン*｡ﾟ</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
-|19|568|<span class="rank-name-dl">咲。</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
-|20|551|<span class="rank-name-dl">なるみ</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
-|21|510|<span class="rank-name-dl">リューノ</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
-|22|503|<span class="rank-name-dl">Susumu@AZS</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
-|23|501|<span class="rank-name-dl">えてぃ♡</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
-|24|485|<span class="rank-name-dl">TARUMOTI</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
-|25|479|<span class="rank-name-dl">Yu-ki.@矢代会</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
-|26|457|<span class="rank-name-dl">ﾍﾟｺﾘｰﾇ</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
-|27|378|<span class="rank-name-dl">え</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
-|28|348|<span class="rank-name-dl">aoba</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
-|29|347|<span class="rank-name-dl">シコヤマ</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
-|30|206|<span class="rank-name-dl">ムラッチョDX</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
+|1|988|<span class="rank-name-dl">pくまqω・*)</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
+|2|973|<span class="rank-name-dl">三浦 卓</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
+|3|945|<span class="rank-name-dl">さぼてん。</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
+|4|924|<span class="rank-name-dl">kai</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
+|5|912|<span class="rank-name-dl">【鮫】ecd-⑪</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
+|6|901|<span class="rank-name-dl">り。</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
+|7|874|<span class="rank-name-dl">さとうさん</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
+|8|873|<span class="rank-name-dl">ナッキー</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
+|9|871|<span class="rank-name-dl">だいどー。</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
+|10|858|<span class="rank-name-dl">Babytongue</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
+|11|850|<span class="rank-name-dl">【矢】やっしー</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
+|12|845|<span class="rank-name-dl">フミヤ[華]</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
+|13|813|<span class="rank-name-dl">NO NAME 9331</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
+|14|802|<span class="rank-name-dl">ノナ</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
+|15|715|<span class="rank-name-dl">アロ→【ＰＬＡ】</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
+|16|695|<span class="rank-name-dl">あんず</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
+|17|610|<span class="rank-name-dl">ﾟ｡*ポン*｡ﾟ</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
+|18|563|<span class="rank-name-dl">D@!sukE/8</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
+|19|501|<span class="rank-name-dl">えてぃ♡</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
+|20|483|<span class="rank-name-dl">TARAKO</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
+|21|457|<span class="rank-name-dl">ﾍﾟｺﾘｰﾇ</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
+|22|378|<span class="rank-name-dl">え</span>|<a href="https://search.dartslive.com/jp/shop/b586c4e40494577ca3f63593b5358cc4">快活CLUB 大館店</a>|<a href="/darts/rank/秋田県/大館市">秋田県大館市</a>|
 
 
 #### PHOENIXDARTS TOP 100

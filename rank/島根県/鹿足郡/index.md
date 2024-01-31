@@ -39,6 +39,7 @@ ___
 |14|487|<span class="rank-name-dl">m</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
 |15|485|<span class="rank-name-dl">翔＝恭兵</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
 |16|463|<span class="rank-name-dl">まーちゃん∵</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|17|294|<span class="rank-name-dl">B☆mother (^-^)/</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -64,6 +65,7 @@ ___
 |14|487|<span class="rank-name-dl">m</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
 |15|485|<span class="rank-name-dl">翔＝恭兵</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
 |16|463|<span class="rank-name-dl">まーちゃん∵</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|17|294|<span class="rank-name-dl">B☆mother (^-^)/</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
 
 
 #### PHOENIXDARTS TOP 100

@@ -30,19 +30,18 @@ ___
 |5|821|<span class="rank-name-dl">隠岐showまこと</span>|<a href="https://search.dartslive.com/jp/shop/af23e2fb48ed30c1790ab824ce8730e5">side show</a>|<a href="/darts/rank/島根県/隠岐郡">島根県隠岐郡</a>|
 |6|810|<span class="rank-name-dl">ＡＫＡ</span>|<a href="https://search.dartslive.com/jp/shop/af23e2fb48ed30c1790ab824ce8730e5">side show</a>|<a href="/darts/rank/島根県/隠岐郡">島根県隠岐郡</a>|
 |7|807|<span class="rank-name-dl">るま</span>|<a href="https://search.dartslive.com/jp/shop/af23e2fb48ed30c1790ab824ce8730e5">side show</a>|<a href="/darts/rank/島根県/隠岐郡">島根県隠岐郡</a>|
-|8|771|<span class="rank-name-dl">NO NAME 3392</span>|<a href="https://search.dartslive.com/jp/shop/af23e2fb48ed30c1790ab824ce8730e5">side show</a>|<a href="/darts/rank/島根県/隠岐郡">島根県隠岐郡</a>|
+|8|790|<span class="rank-name-dl">NO NAME 3392</span>|<a href="https://search.dartslive.com/jp/shop/af23e2fb48ed30c1790ab824ce8730e5">side show</a>|<a href="/darts/rank/島根県/隠岐郡">島根県隠岐郡</a>|
 |9|767|<span class="rank-name-dl">○はたひろ◎</span>|<a href="https://search.dartslive.com/jp/shop/af23e2fb48ed30c1790ab824ce8730e5">side show</a>|<a href="/darts/rank/島根県/隠岐郡">島根県隠岐郡</a>|
-|10|738|<span class="rank-name-dl">☆-Junking-★</span>|<a href="https://search.dartslive.com/jp/shop/af23e2fb48ed30c1790ab824ce8730e5">side show</a>|<a href="/darts/rank/島根県/隠岐郡">島根県隠岐郡</a>|
+|10|743|<span class="rank-name-dl">☆-Junking-★</span>|<a href="https://search.dartslive.com/jp/shop/af23e2fb48ed30c1790ab824ce8730e5">side show</a>|<a href="/darts/rank/島根県/隠岐郡">島根県隠岐郡</a>|
 |11|737|<span class="rank-name-dl">N.Np@km</span>|<a href="https://search.dartslive.com/jp/shop/af23e2fb48ed30c1790ab824ce8730e5">side show</a>|<a href="/darts/rank/島根県/隠岐郡">島根県隠岐郡</a>|
 |12|663|<span class="rank-name-dl">高橋</span>|<a href="https://search.dartslive.com/jp/shop/af23e2fb48ed30c1790ab824ce8730e5">side show</a>|<a href="/darts/rank/島根県/隠岐郡">島根県隠岐郡</a>|
-|13|654|<span class="rank-name-dl">かづ</span>|<a href="https://search.dartslive.com/jp/shop/af23e2fb48ed30c1790ab824ce8730e5">side show</a>|<a href="/darts/rank/島根県/隠岐郡">島根県隠岐郡</a>|
-|14|653|<span class="rank-name-dl">ろってぃー@max</span>|<a href="https://search.dartslive.com/jp/shop/af23e2fb48ed30c1790ab824ce8730e5">side show</a>|<a href="/darts/rank/島根県/隠岐郡">島根県隠岐郡</a>|
-|15|646|<span class="rank-name-dl">NRK</span>|<a href="https://search.dartslive.com/jp/shop/af23e2fb48ed30c1790ab824ce8730e5">side show</a>|<a href="/darts/rank/島根県/隠岐郡">島根県隠岐郡</a>|
+|13|653|<span class="rank-name-dl">ろってぃー@max</span>|<a href="https://search.dartslive.com/jp/shop/af23e2fb48ed30c1790ab824ce8730e5">side show</a>|<a href="/darts/rank/島根県/隠岐郡">島根県隠岐郡</a>|
+|14|646|<span class="rank-name-dl">NRK</span>|<a href="https://search.dartslive.com/jp/shop/af23e2fb48ed30c1790ab824ce8730e5">side show</a>|<a href="/darts/rank/島根県/隠岐郡">島根県隠岐郡</a>|
+|15|510|<span class="rank-name-dl">Aya</span>|<a href="https://search.dartslive.com/jp/shop/af23e2fb48ed30c1790ab824ce8730e5">side show</a>|<a href="/darts/rank/島根県/隠岐郡">島根県隠岐郡</a>|
 |16|498|<span class="rank-name-dl">saQ3</span>|<a href="https://search.dartslive.com/jp/shop/af23e2fb48ed30c1790ab824ce8730e5">side show</a>|<a href="/darts/rank/島根県/隠岐郡">島根県隠岐郡</a>|
 |17|475|<span class="rank-name-dl">ちんちくりん★</span>|<a href="https://search.dartslive.com/jp/shop/af23e2fb48ed30c1790ab824ce8730e5">side show</a>|<a href="/darts/rank/島根県/隠岐郡">島根県隠岐郡</a>|
 |18|460|<span class="rank-name-dl">オサカリ</span>|<a href="https://search.dartslive.com/jp/shop/af23e2fb48ed30c1790ab824ce8730e5">side show</a>|<a href="/darts/rank/島根県/隠岐郡">島根県隠岐郡</a>|
-|19|413|<span class="rank-name-dl">Aya</span>|<a href="https://search.dartslive.com/jp/shop/af23e2fb48ed30c1790ab824ce8730e5">side show</a>|<a href="/darts/rank/島根県/隠岐郡">島根県隠岐郡</a>|
-|20|375|<span class="rank-name-dl">hooonami.</span>|<a href="https://search.dartslive.com/jp/shop/af23e2fb48ed30c1790ab824ce8730e5">side show</a>|<a href="/darts/rank/島根県/隠岐郡">島根県隠岐郡</a>|
+|19|375|<span class="rank-name-dl">hooonami.</span>|<a href="https://search.dartslive.com/jp/shop/af23e2fb48ed30c1790ab824ce8730e5">side show</a>|<a href="/darts/rank/島根県/隠岐郡">島根県隠岐郡</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -59,19 +58,18 @@ ___
 |5|821|<span class="rank-name-dl">隠岐showまこと</span>|<a href="https://search.dartslive.com/jp/shop/af23e2fb48ed30c1790ab824ce8730e5">side show</a>|<a href="/darts/rank/島根県/隠岐郡">島根県隠岐郡</a>|
 |6|810|<span class="rank-name-dl">ＡＫＡ</span>|<a href="https://search.dartslive.com/jp/shop/af23e2fb48ed30c1790ab824ce8730e5">side show</a>|<a href="/darts/rank/島根県/隠岐郡">島根県隠岐郡</a>|
 |7|807|<span class="rank-name-dl">るま</span>|<a href="https://search.dartslive.com/jp/shop/af23e2fb48ed30c1790ab824ce8730e5">side show</a>|<a href="/darts/rank/島根県/隠岐郡">島根県隠岐郡</a>|
-|8|771|<span class="rank-name-dl">NO NAME 3392</span>|<a href="https://search.dartslive.com/jp/shop/af23e2fb48ed30c1790ab824ce8730e5">side show</a>|<a href="/darts/rank/島根県/隠岐郡">島根県隠岐郡</a>|
+|8|790|<span class="rank-name-dl">NO NAME 3392</span>|<a href="https://search.dartslive.com/jp/shop/af23e2fb48ed30c1790ab824ce8730e5">side show</a>|<a href="/darts/rank/島根県/隠岐郡">島根県隠岐郡</a>|
 |9|767|<span class="rank-name-dl">○はたひろ◎</span>|<a href="https://search.dartslive.com/jp/shop/af23e2fb48ed30c1790ab824ce8730e5">side show</a>|<a href="/darts/rank/島根県/隠岐郡">島根県隠岐郡</a>|
-|10|738|<span class="rank-name-dl">☆-Junking-★</span>|<a href="https://search.dartslive.com/jp/shop/af23e2fb48ed30c1790ab824ce8730e5">side show</a>|<a href="/darts/rank/島根県/隠岐郡">島根県隠岐郡</a>|
+|10|743|<span class="rank-name-dl">☆-Junking-★</span>|<a href="https://search.dartslive.com/jp/shop/af23e2fb48ed30c1790ab824ce8730e5">side show</a>|<a href="/darts/rank/島根県/隠岐郡">島根県隠岐郡</a>|
 |11|737|<span class="rank-name-dl">N.Np@km</span>|<a href="https://search.dartslive.com/jp/shop/af23e2fb48ed30c1790ab824ce8730e5">side show</a>|<a href="/darts/rank/島根県/隠岐郡">島根県隠岐郡</a>|
 |12|663|<span class="rank-name-dl">高橋</span>|<a href="https://search.dartslive.com/jp/shop/af23e2fb48ed30c1790ab824ce8730e5">side show</a>|<a href="/darts/rank/島根県/隠岐郡">島根県隠岐郡</a>|
-|13|654|<span class="rank-name-dl">かづ</span>|<a href="https://search.dartslive.com/jp/shop/af23e2fb48ed30c1790ab824ce8730e5">side show</a>|<a href="/darts/rank/島根県/隠岐郡">島根県隠岐郡</a>|
-|14|653|<span class="rank-name-dl">ろってぃー@max</span>|<a href="https://search.dartslive.com/jp/shop/af23e2fb48ed30c1790ab824ce8730e5">side show</a>|<a href="/darts/rank/島根県/隠岐郡">島根県隠岐郡</a>|
-|15|646|<span class="rank-name-dl">NRK</span>|<a href="https://search.dartslive.com/jp/shop/af23e2fb48ed30c1790ab824ce8730e5">side show</a>|<a href="/darts/rank/島根県/隠岐郡">島根県隠岐郡</a>|
+|13|653|<span class="rank-name-dl">ろってぃー@max</span>|<a href="https://search.dartslive.com/jp/shop/af23e2fb48ed30c1790ab824ce8730e5">side show</a>|<a href="/darts/rank/島根県/隠岐郡">島根県隠岐郡</a>|
+|14|646|<span class="rank-name-dl">NRK</span>|<a href="https://search.dartslive.com/jp/shop/af23e2fb48ed30c1790ab824ce8730e5">side show</a>|<a href="/darts/rank/島根県/隠岐郡">島根県隠岐郡</a>|
+|15|510|<span class="rank-name-dl">Aya</span>|<a href="https://search.dartslive.com/jp/shop/af23e2fb48ed30c1790ab824ce8730e5">side show</a>|<a href="/darts/rank/島根県/隠岐郡">島根県隠岐郡</a>|
 |16|498|<span class="rank-name-dl">saQ3</span>|<a href="https://search.dartslive.com/jp/shop/af23e2fb48ed30c1790ab824ce8730e5">side show</a>|<a href="/darts/rank/島根県/隠岐郡">島根県隠岐郡</a>|
 |17|475|<span class="rank-name-dl">ちんちくりん★</span>|<a href="https://search.dartslive.com/jp/shop/af23e2fb48ed30c1790ab824ce8730e5">side show</a>|<a href="/darts/rank/島根県/隠岐郡">島根県隠岐郡</a>|
 |18|460|<span class="rank-name-dl">オサカリ</span>|<a href="https://search.dartslive.com/jp/shop/af23e2fb48ed30c1790ab824ce8730e5">side show</a>|<a href="/darts/rank/島根県/隠岐郡">島根県隠岐郡</a>|
-|19|413|<span class="rank-name-dl">Aya</span>|<a href="https://search.dartslive.com/jp/shop/af23e2fb48ed30c1790ab824ce8730e5">side show</a>|<a href="/darts/rank/島根県/隠岐郡">島根県隠岐郡</a>|
-|20|375|<span class="rank-name-dl">hooonami.</span>|<a href="https://search.dartslive.com/jp/shop/af23e2fb48ed30c1790ab824ce8730e5">side show</a>|<a href="/darts/rank/島根県/隠岐郡">島根県隠岐郡</a>|
+|19|375|<span class="rank-name-dl">hooonami.</span>|<a href="https://search.dartslive.com/jp/shop/af23e2fb48ed30c1790ab824ce8730e5">side show</a>|<a href="/darts/rank/島根県/隠岐郡">島根県隠岐郡</a>|
 
 
 #### PHOENIXDARTS TOP 100

@@ -36,16 +36,16 @@ ___
 |11|909|<span class="rank-name-dl">いっしゃん</span>|<a href="https://search.dartslive.com/jp/shop/2048cae76689783c0d9b047a20a7ba1e">カラオケ&ダーツ KP緑店</a>|<a href="/darts/rank/大阪府/大阪市鶴見区">大阪府大阪市鶴見区</a>|
 |12|898|<span class="rank-name-dl">どんぐりたけし</span>|<a href="https://search.dartslive.com/jp/shop/2048cae76689783c0d9b047a20a7ba1e">カラオケ&ダーツ KP緑店</a>|<a href="/darts/rank/大阪府/大阪市鶴見区">大阪府大阪市鶴見区</a>|
 |13|889|<span class="rank-name-dl">いっしゃん</span>|<a href="https://search.dartslive.com/jp/shop/4e676e230f07bd6d0d9b047a20a7ba1e">波紋 popper</a>|<a href="/darts/rank/大阪府/大阪市鶴見区">大阪府大阪市鶴見区</a>|
-|14|866|<span class="rank-name-dl">HiЯoMμ</span>|<a href="https://search.dartslive.com/jp/shop/4e676e230f07bd6d0d9b047a20a7ba1e">波紋 popper</a>|<a href="/darts/rank/大阪府/大阪市鶴見区">大阪府大阪市鶴見区</a>|
-|15|848|<span class="rank-name-dl">波紋のアヒル</span>|<a href="https://search.dartslive.com/jp/shop/4e676e230f07bd6d0d9b047a20a7ba1e">波紋 popper</a>|<a href="/darts/rank/大阪府/大阪市鶴見区">大阪府大阪市鶴見区</a>|
-|16|844|<span class="rank-name-dl">べ～さん@TDF</span>|<a href="https://search.dartslive.com/jp/shop/4e676e230f07bd6d0d9b047a20a7ba1e">波紋 popper</a>|<a href="/darts/rank/大阪府/大阪市鶴見区">大阪府大阪市鶴見区</a>|
-|17|843|<span class="rank-name-dl">逆襲のoka★</span>|<a href="https://search.dartslive.com/jp/shop/8b719ba9dcaad29a0d9b047a20a7ba1e">波紋</a>|<a href="/darts/rank/大阪府/大阪市鶴見区">大阪府大阪市鶴見区</a>|
-|18|827|<span class="rank-name-dl">タピオカ兄さん</span>|<a href="https://search.dartslive.com/jp/shop/4e676e230f07bd6d0d9b047a20a7ba1e">波紋 popper</a>|<a href="/darts/rank/大阪府/大阪市鶴見区">大阪府大阪市鶴見区</a>|
-|19|826|<span class="rank-name-dl">ﾃﾂﾛｳ＠BLACK-eye3</span>|<a href="https://search.dartslive.com/jp/shop/2048cae76689783c0d9b047a20a7ba1e">カラオケ&ダーツ KP緑店</a>|<a href="/darts/rank/大阪府/大阪市鶴見区">大阪府大阪市鶴見区</a>|
-|20|823|<span class="rank-name-dl">波紋Popper営業中</span>|<a href="https://search.dartslive.com/jp/shop/4e676e230f07bd6d0d9b047a20a7ba1e">波紋 popper</a>|<a href="/darts/rank/大阪府/大阪市鶴見区">大阪府大阪市鶴見区</a>|
-|21|809|<span class="rank-name-dl">takuma</span>|<a href="https://search.dartslive.com/jp/shop/4e676e230f07bd6d0d9b047a20a7ba1e">波紋 popper</a>|<a href="/darts/rank/大阪府/大阪市鶴見区">大阪府大阪市鶴見区</a>|
-|21|809|<span class="rank-name-dl">ふくてんちょう☆</span>|<a href="https://search.dartslive.com/jp/shop/2048cae76689783c0d9b047a20a7ba1e">カラオケ&ダーツ KP緑店</a>|<a href="/darts/rank/大阪府/大阪市鶴見区">大阪府大阪市鶴見区</a>|
-|23|808|<span class="rank-name-dl">いわちゃん@波紋</span>|<a href="https://search.dartslive.com/jp/shop/4e676e230f07bd6d0d9b047a20a7ba1e">波紋 popper</a>|<a href="/darts/rank/大阪府/大阪市鶴見区">大阪府大阪市鶴見区</a>|
+|14|874|<span class="rank-name-dl">ﾊﾟﾌﾟｱﾘｮｳ</span>|<a href="https://search.dartslive.com/jp/shop/4e676e230f07bd6d0d9b047a20a7ba1e">波紋 popper</a>|<a href="/darts/rank/大阪府/大阪市鶴見区">大阪府大阪市鶴見区</a>|
+|15|866|<span class="rank-name-dl">HiЯoMμ</span>|<a href="https://search.dartslive.com/jp/shop/4e676e230f07bd6d0d9b047a20a7ba1e">波紋 popper</a>|<a href="/darts/rank/大阪府/大阪市鶴見区">大阪府大阪市鶴見区</a>|
+|16|848|<span class="rank-name-dl">波紋のアヒル</span>|<a href="https://search.dartslive.com/jp/shop/4e676e230f07bd6d0d9b047a20a7ba1e">波紋 popper</a>|<a href="/darts/rank/大阪府/大阪市鶴見区">大阪府大阪市鶴見区</a>|
+|17|844|<span class="rank-name-dl">べ～さん@TDF</span>|<a href="https://search.dartslive.com/jp/shop/4e676e230f07bd6d0d9b047a20a7ba1e">波紋 popper</a>|<a href="/darts/rank/大阪府/大阪市鶴見区">大阪府大阪市鶴見区</a>|
+|18|843|<span class="rank-name-dl">逆襲のoka★</span>|<a href="https://search.dartslive.com/jp/shop/8b719ba9dcaad29a0d9b047a20a7ba1e">波紋</a>|<a href="/darts/rank/大阪府/大阪市鶴見区">大阪府大阪市鶴見区</a>|
+|19|827|<span class="rank-name-dl">タピオカ兄さん</span>|<a href="https://search.dartslive.com/jp/shop/4e676e230f07bd6d0d9b047a20a7ba1e">波紋 popper</a>|<a href="/darts/rank/大阪府/大阪市鶴見区">大阪府大阪市鶴見区</a>|
+|20|826|<span class="rank-name-dl">ﾃﾂﾛｳ＠BLACK-eye3</span>|<a href="https://search.dartslive.com/jp/shop/2048cae76689783c0d9b047a20a7ba1e">カラオケ&ダーツ KP緑店</a>|<a href="/darts/rank/大阪府/大阪市鶴見区">大阪府大阪市鶴見区</a>|
+|21|823|<span class="rank-name-dl">波紋Popper営業中</span>|<a href="https://search.dartslive.com/jp/shop/4e676e230f07bd6d0d9b047a20a7ba1e">波紋 popper</a>|<a href="/darts/rank/大阪府/大阪市鶴見区">大阪府大阪市鶴見区</a>|
+|22|809|<span class="rank-name-dl">takuma</span>|<a href="https://search.dartslive.com/jp/shop/4e676e230f07bd6d0d9b047a20a7ba1e">波紋 popper</a>|<a href="/darts/rank/大阪府/大阪市鶴見区">大阪府大阪市鶴見区</a>|
+|22|809|<span class="rank-name-dl">ふくてんちょう☆</span>|<a href="https://search.dartslive.com/jp/shop/2048cae76689783c0d9b047a20a7ba1e">カラオケ&ダーツ KP緑店</a>|<a href="/darts/rank/大阪府/大阪市鶴見区">大阪府大阪市鶴見区</a>|
 |24|805|<span class="rank-name-dl">ココリコ田中</span>|<a href="https://search.dartslive.com/jp/shop/2048cae76689783c0d9b047a20a7ba1e">カラオケ&ダーツ KP緑店</a>|<a href="/darts/rank/大阪府/大阪市鶴見区">大阪府大阪市鶴見区</a>|
 |25|789|<span class="rank-name-dl">よっぴ〜</span>|<a href="https://search.dartslive.com/jp/shop/2048cae76689783c0d9b047a20a7ba1e">カラオケ&ダーツ KP緑店</a>|<a href="/darts/rank/大阪府/大阪市鶴見区">大阪府大阪市鶴見区</a>|
 |26|709|<span class="rank-name-dl">NO NAME 4065</span>|<a href="https://search.dartslive.com/jp/shop/2048cae76689783c0d9b047a20a7ba1e">カラオケ&ダーツ KP緑店</a>|<a href="/darts/rank/大阪府/大阪市鶴見区">大阪府大阪市鶴見区</a>|
@@ -97,16 +97,16 @@ ___
 |11|909|<span class="rank-name-dl">いっしゃん</span>|<a href="https://search.dartslive.com/jp/shop/2048cae76689783c0d9b047a20a7ba1e">カラオケ&ダーツ KP緑店</a>|<a href="/darts/rank/大阪府/大阪市鶴見区">大阪府大阪市鶴見区</a>|
 |12|898|<span class="rank-name-dl">どんぐりたけし</span>|<a href="https://search.dartslive.com/jp/shop/2048cae76689783c0d9b047a20a7ba1e">カラオケ&ダーツ KP緑店</a>|<a href="/darts/rank/大阪府/大阪市鶴見区">大阪府大阪市鶴見区</a>|
 |13|889|<span class="rank-name-dl">いっしゃん</span>|<a href="https://search.dartslive.com/jp/shop/4e676e230f07bd6d0d9b047a20a7ba1e">波紋 popper</a>|<a href="/darts/rank/大阪府/大阪市鶴見区">大阪府大阪市鶴見区</a>|
-|14|866|<span class="rank-name-dl">HiЯoMμ</span>|<a href="https://search.dartslive.com/jp/shop/4e676e230f07bd6d0d9b047a20a7ba1e">波紋 popper</a>|<a href="/darts/rank/大阪府/大阪市鶴見区">大阪府大阪市鶴見区</a>|
-|15|848|<span class="rank-name-dl">波紋のアヒル</span>|<a href="https://search.dartslive.com/jp/shop/4e676e230f07bd6d0d9b047a20a7ba1e">波紋 popper</a>|<a href="/darts/rank/大阪府/大阪市鶴見区">大阪府大阪市鶴見区</a>|
-|16|844|<span class="rank-name-dl">べ～さん@TDF</span>|<a href="https://search.dartslive.com/jp/shop/4e676e230f07bd6d0d9b047a20a7ba1e">波紋 popper</a>|<a href="/darts/rank/大阪府/大阪市鶴見区">大阪府大阪市鶴見区</a>|
-|17|843|<span class="rank-name-dl">逆襲のoka★</span>|<a href="https://search.dartslive.com/jp/shop/8b719ba9dcaad29a0d9b047a20a7ba1e">波紋</a>|<a href="/darts/rank/大阪府/大阪市鶴見区">大阪府大阪市鶴見区</a>|
-|18|827|<span class="rank-name-dl">タピオカ兄さん</span>|<a href="https://search.dartslive.com/jp/shop/4e676e230f07bd6d0d9b047a20a7ba1e">波紋 popper</a>|<a href="/darts/rank/大阪府/大阪市鶴見区">大阪府大阪市鶴見区</a>|
-|19|826|<span class="rank-name-dl">ﾃﾂﾛｳ＠BLACK-eye3</span>|<a href="https://search.dartslive.com/jp/shop/2048cae76689783c0d9b047a20a7ba1e">カラオケ&ダーツ KP緑店</a>|<a href="/darts/rank/大阪府/大阪市鶴見区">大阪府大阪市鶴見区</a>|
-|20|823|<span class="rank-name-dl">波紋Popper営業中</span>|<a href="https://search.dartslive.com/jp/shop/4e676e230f07bd6d0d9b047a20a7ba1e">波紋 popper</a>|<a href="/darts/rank/大阪府/大阪市鶴見区">大阪府大阪市鶴見区</a>|
-|21|809|<span class="rank-name-dl">takuma</span>|<a href="https://search.dartslive.com/jp/shop/4e676e230f07bd6d0d9b047a20a7ba1e">波紋 popper</a>|<a href="/darts/rank/大阪府/大阪市鶴見区">大阪府大阪市鶴見区</a>|
-|21|809|<span class="rank-name-dl">ふくてんちょう☆</span>|<a href="https://search.dartslive.com/jp/shop/2048cae76689783c0d9b047a20a7ba1e">カラオケ&ダーツ KP緑店</a>|<a href="/darts/rank/大阪府/大阪市鶴見区">大阪府大阪市鶴見区</a>|
-|23|808|<span class="rank-name-dl">いわちゃん@波紋</span>|<a href="https://search.dartslive.com/jp/shop/4e676e230f07bd6d0d9b047a20a7ba1e">波紋 popper</a>|<a href="/darts/rank/大阪府/大阪市鶴見区">大阪府大阪市鶴見区</a>|
+|14|874|<span class="rank-name-dl">ﾊﾟﾌﾟｱﾘｮｳ</span>|<a href="https://search.dartslive.com/jp/shop/4e676e230f07bd6d0d9b047a20a7ba1e">波紋 popper</a>|<a href="/darts/rank/大阪府/大阪市鶴見区">大阪府大阪市鶴見区</a>|
+|15|866|<span class="rank-name-dl">HiЯoMμ</span>|<a href="https://search.dartslive.com/jp/shop/4e676e230f07bd6d0d9b047a20a7ba1e">波紋 popper</a>|<a href="/darts/rank/大阪府/大阪市鶴見区">大阪府大阪市鶴見区</a>|
+|16|848|<span class="rank-name-dl">波紋のアヒル</span>|<a href="https://search.dartslive.com/jp/shop/4e676e230f07bd6d0d9b047a20a7ba1e">波紋 popper</a>|<a href="/darts/rank/大阪府/大阪市鶴見区">大阪府大阪市鶴見区</a>|
+|17|844|<span class="rank-name-dl">べ～さん@TDF</span>|<a href="https://search.dartslive.com/jp/shop/4e676e230f07bd6d0d9b047a20a7ba1e">波紋 popper</a>|<a href="/darts/rank/大阪府/大阪市鶴見区">大阪府大阪市鶴見区</a>|
+|18|843|<span class="rank-name-dl">逆襲のoka★</span>|<a href="https://search.dartslive.com/jp/shop/8b719ba9dcaad29a0d9b047a20a7ba1e">波紋</a>|<a href="/darts/rank/大阪府/大阪市鶴見区">大阪府大阪市鶴見区</a>|
+|19|827|<span class="rank-name-dl">タピオカ兄さん</span>|<a href="https://search.dartslive.com/jp/shop/4e676e230f07bd6d0d9b047a20a7ba1e">波紋 popper</a>|<a href="/darts/rank/大阪府/大阪市鶴見区">大阪府大阪市鶴見区</a>|
+|20|826|<span class="rank-name-dl">ﾃﾂﾛｳ＠BLACK-eye3</span>|<a href="https://search.dartslive.com/jp/shop/2048cae76689783c0d9b047a20a7ba1e">カラオケ&ダーツ KP緑店</a>|<a href="/darts/rank/大阪府/大阪市鶴見区">大阪府大阪市鶴見区</a>|
+|21|823|<span class="rank-name-dl">波紋Popper営業中</span>|<a href="https://search.dartslive.com/jp/shop/4e676e230f07bd6d0d9b047a20a7ba1e">波紋 popper</a>|<a href="/darts/rank/大阪府/大阪市鶴見区">大阪府大阪市鶴見区</a>|
+|22|809|<span class="rank-name-dl">takuma</span>|<a href="https://search.dartslive.com/jp/shop/4e676e230f07bd6d0d9b047a20a7ba1e">波紋 popper</a>|<a href="/darts/rank/大阪府/大阪市鶴見区">大阪府大阪市鶴見区</a>|
+|22|809|<span class="rank-name-dl">ふくてんちょう☆</span>|<a href="https://search.dartslive.com/jp/shop/2048cae76689783c0d9b047a20a7ba1e">カラオケ&ダーツ KP緑店</a>|<a href="/darts/rank/大阪府/大阪市鶴見区">大阪府大阪市鶴見区</a>|
 |24|805|<span class="rank-name-dl">ココリコ田中</span>|<a href="https://search.dartslive.com/jp/shop/2048cae76689783c0d9b047a20a7ba1e">カラオケ&ダーツ KP緑店</a>|<a href="/darts/rank/大阪府/大阪市鶴見区">大阪府大阪市鶴見区</a>|
 |25|789|<span class="rank-name-dl">よっぴ〜</span>|<a href="https://search.dartslive.com/jp/shop/2048cae76689783c0d9b047a20a7ba1e">カラオケ&ダーツ KP緑店</a>|<a href="/darts/rank/大阪府/大阪市鶴見区">大阪府大阪市鶴見区</a>|
 |26|709|<span class="rank-name-dl">NO NAME 4065</span>|<a href="https://search.dartslive.com/jp/shop/2048cae76689783c0d9b047a20a7ba1e">カラオケ&ダーツ KP緑店</a>|<a href="/darts/rank/大阪府/大阪市鶴見区">大阪府大阪市鶴見区</a>|

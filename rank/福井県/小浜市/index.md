@@ -35,6 +35,8 @@ ___
 |10|482|<span class="rank-name-dl">S</span>|<a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">BAR&DINING ZERO</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
 |11|460|<span class="rank-name-dl">Syun</span>|<a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">BAR&DINING ZERO</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
 |12|424|<span class="rank-name-dl">タカ</span>|<a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">BAR&DINING ZERO</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
+|13|407|<span class="rank-name-dl">MASARU</span>|<a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">BAR&DINING ZERO</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
+|14|364|<span class="rank-name-dl">かまかま</span>|<a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">BAR&DINING ZERO</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -56,6 +58,8 @@ ___
 |10|482|<span class="rank-name-dl">S</span>|<a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">BAR&DINING ZERO</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
 |11|460|<span class="rank-name-dl">Syun</span>|<a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">BAR&DINING ZERO</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
 |12|424|<span class="rank-name-dl">タカ</span>|<a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">BAR&DINING ZERO</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
+|13|407|<span class="rank-name-dl">MASARU</span>|<a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">BAR&DINING ZERO</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
+|14|364|<span class="rank-name-dl">かまかま</span>|<a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">BAR&DINING ZERO</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
 
 
 #### PHOENIXDARTS TOP 100

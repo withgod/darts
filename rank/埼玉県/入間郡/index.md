@@ -24,22 +24,18 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|829|<span class="rank-name-dl">zeusoピ(爺)</span>|<a href="https://search.dartslive.com/jp/shop/38a958534a02c0b80d9b047a20a7ba1e">Bar ZEUS</a>|<a href="/darts/rank/埼玉県/入間郡">埼玉県入間郡</a>|
-|2|742|<span class="rank-name-dl">Riku</span>|<a href="https://search.dartslive.com/jp/shop/38a958534a02c0b80d9b047a20a7ba1e">Bar ZEUS</a>|<a href="/darts/rank/埼玉県/入間郡">埼玉県入間郡</a>|
+|2|790|<span class="rank-name-dl">Riku</span>|<a href="https://search.dartslive.com/jp/shop/38a958534a02c0b80d9b047a20a7ba1e">Bar ZEUS</a>|<a href="/darts/rank/埼玉県/入間郡">埼玉県入間郡</a>|
 |3|697|<span class="rank-name-dl">くま</span>|<a href="https://search.dartslive.com/jp/shop/38a958534a02c0b80d9b047a20a7ba1e">Bar ZEUS</a>|<a href="/darts/rank/埼玉県/入間郡">埼玉県入間郡</a>|
 |4|690|<span class="rank-name-dl">G.G.GUCCHI@ZEUS</span>|<a href="https://search.dartslive.com/jp/shop/38a958534a02c0b80d9b047a20a7ba1e">Bar ZEUS</a>|<a href="/darts/rank/埼玉県/入間郡">埼玉県入間郡</a>|
 |5|681|<span class="rank-name-dl">名前はまだない</span>|<a href="https://search.dartslive.com/jp/shop/38a958534a02c0b80d9b047a20a7ba1e">Bar ZEUS</a>|<a href="/darts/rank/埼玉県/入間郡">埼玉県入間郡</a>|
-|6|667|<span class="rank-name-dl">28❊ZEUS</span>|<a href="https://search.dartslive.com/jp/shop/38a958534a02c0b80d9b047a20a7ba1e">Bar ZEUS</a>|<a href="/darts/rank/埼玉県/入間郡">埼玉県入間郡</a>|
-|7|636|<span class="rank-name-dl">ゆ</span>|<a href="https://search.dartslive.com/jp/shop/38a958534a02c0b80d9b047a20a7ba1e">Bar ZEUS</a>|<a href="/darts/rank/埼玉県/入間郡">埼玉県入間郡</a>|
-|8|634|<span class="rank-name-dl">こんにちは</span>|<a href="https://search.dartslive.com/jp/shop/38a958534a02c0b80d9b047a20a7ba1e">Bar ZEUS</a>|<a href="/darts/rank/埼玉県/入間郡">埼玉県入間郡</a>|
-|9|632|<span class="rank-name-dl">りくと@ZEUS</span>|<a href="https://search.dartslive.com/jp/shop/38a958534a02c0b80d9b047a20a7ba1e">Bar ZEUS</a>|<a href="/darts/rank/埼玉県/入間郡">埼玉県入間郡</a>|
+|6|675|<span class="rank-name-dl">りくと@ZEUS</span>|<a href="https://search.dartslive.com/jp/shop/38a958534a02c0b80d9b047a20a7ba1e">Bar ZEUS</a>|<a href="/darts/rank/埼玉県/入間郡">埼玉県入間郡</a>|
+|7|667|<span class="rank-name-dl">28❊ZEUS</span>|<a href="https://search.dartslive.com/jp/shop/38a958534a02c0b80d9b047a20a7ba1e">Bar ZEUS</a>|<a href="/darts/rank/埼玉県/入間郡">埼玉県入間郡</a>|
+|8|640|<span class="rank-name-dl">ゆ</span>|<a href="https://search.dartslive.com/jp/shop/38a958534a02c0b80d9b047a20a7ba1e">Bar ZEUS</a>|<a href="/darts/rank/埼玉県/入間郡">埼玉県入間郡</a>|
+|9|634|<span class="rank-name-dl">こんにちは</span>|<a href="https://search.dartslive.com/jp/shop/38a958534a02c0b80d9b047a20a7ba1e">Bar ZEUS</a>|<a href="/darts/rank/埼玉県/入間郡">埼玉県入間郡</a>|
 |10|626|<span class="rank-name-dl">Tsubasa36</span>|<a href="https://search.dartslive.com/jp/shop/38a958534a02c0b80d9b047a20a7ba1e">Bar ZEUS</a>|<a href="/darts/rank/埼玉県/入間郡">埼玉県入間郡</a>|
 |11|610|<span class="rank-name-dl">Shuzzz</span>|<a href="https://search.dartslive.com/jp/shop/38a958534a02c0b80d9b047a20a7ba1e">Bar ZEUS</a>|<a href="/darts/rank/埼玉県/入間郡">埼玉県入間郡</a>|
 |12|596|<span class="rank-name-dl">(ﾟﾟ)REINA</span>|<a href="https://search.dartslive.com/jp/shop/38a958534a02c0b80d9b047a20a7ba1e">Bar ZEUS</a>|<a href="/darts/rank/埼玉県/入間郡">埼玉県入間郡</a>|
-|13|548|<span class="rank-name-dl">Winter</span>|<a href="https://search.dartslive.com/jp/shop/38a958534a02c0b80d9b047a20a7ba1e">Bar ZEUS</a>|<a href="/darts/rank/埼玉県/入間郡">埼玉県入間郡</a>|
-|14|528|<span class="rank-name-dl">特製味噌</span>|<a href="https://search.dartslive.com/jp/shop/38a958534a02c0b80d9b047a20a7ba1e">Bar ZEUS</a>|<a href="/darts/rank/埼玉県/入間郡">埼玉県入間郡</a>|
-|15|515|<span class="rank-name-dl">NO.UDON</span>|<a href="https://search.dartslive.com/jp/shop/38a958534a02c0b80d9b047a20a7ba1e">Bar ZEUS</a>|<a href="/darts/rank/埼玉県/入間郡">埼玉県入間郡</a>|
-|16|495|<span class="rank-name-dl">NO NAME 2265</span>|<a href="https://search.dartslive.com/jp/shop/38a958534a02c0b80d9b047a20a7ba1e">Bar ZEUS</a>|<a href="/darts/rank/埼玉県/入間郡">埼玉県入間郡</a>|
-|17|440|<span class="rank-name-dl">羚★もっちぃ★耀</span>|<a href="https://search.dartslive.com/jp/shop/38a958534a02c0b80d9b047a20a7ba1e">Bar ZEUS</a>|<a href="/darts/rank/埼玉県/入間郡">埼玉県入間郡</a>|
+|13|440|<span class="rank-name-dl">羚★もっちぃ★耀</span>|<a href="https://search.dartslive.com/jp/shop/38a958534a02c0b80d9b047a20a7ba1e">Bar ZEUS</a>|<a href="/darts/rank/埼玉県/入間郡">埼玉県入間郡</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -50,22 +46,18 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|829|<span class="rank-name-dl">zeusoピ(爺)</span>|<a href="https://search.dartslive.com/jp/shop/38a958534a02c0b80d9b047a20a7ba1e">Bar ZEUS</a>|<a href="/darts/rank/埼玉県/入間郡">埼玉県入間郡</a>|
-|2|742|<span class="rank-name-dl">Riku</span>|<a href="https://search.dartslive.com/jp/shop/38a958534a02c0b80d9b047a20a7ba1e">Bar ZEUS</a>|<a href="/darts/rank/埼玉県/入間郡">埼玉県入間郡</a>|
+|2|790|<span class="rank-name-dl">Riku</span>|<a href="https://search.dartslive.com/jp/shop/38a958534a02c0b80d9b047a20a7ba1e">Bar ZEUS</a>|<a href="/darts/rank/埼玉県/入間郡">埼玉県入間郡</a>|
 |3|697|<span class="rank-name-dl">くま</span>|<a href="https://search.dartslive.com/jp/shop/38a958534a02c0b80d9b047a20a7ba1e">Bar ZEUS</a>|<a href="/darts/rank/埼玉県/入間郡">埼玉県入間郡</a>|
 |4|690|<span class="rank-name-dl">G.G.GUCCHI@ZEUS</span>|<a href="https://search.dartslive.com/jp/shop/38a958534a02c0b80d9b047a20a7ba1e">Bar ZEUS</a>|<a href="/darts/rank/埼玉県/入間郡">埼玉県入間郡</a>|
 |5|681|<span class="rank-name-dl">名前はまだない</span>|<a href="https://search.dartslive.com/jp/shop/38a958534a02c0b80d9b047a20a7ba1e">Bar ZEUS</a>|<a href="/darts/rank/埼玉県/入間郡">埼玉県入間郡</a>|
-|6|667|<span class="rank-name-dl">28❊ZEUS</span>|<a href="https://search.dartslive.com/jp/shop/38a958534a02c0b80d9b047a20a7ba1e">Bar ZEUS</a>|<a href="/darts/rank/埼玉県/入間郡">埼玉県入間郡</a>|
-|7|636|<span class="rank-name-dl">ゆ</span>|<a href="https://search.dartslive.com/jp/shop/38a958534a02c0b80d9b047a20a7ba1e">Bar ZEUS</a>|<a href="/darts/rank/埼玉県/入間郡">埼玉県入間郡</a>|
-|8|634|<span class="rank-name-dl">こんにちは</span>|<a href="https://search.dartslive.com/jp/shop/38a958534a02c0b80d9b047a20a7ba1e">Bar ZEUS</a>|<a href="/darts/rank/埼玉県/入間郡">埼玉県入間郡</a>|
-|9|632|<span class="rank-name-dl">りくと@ZEUS</span>|<a href="https://search.dartslive.com/jp/shop/38a958534a02c0b80d9b047a20a7ba1e">Bar ZEUS</a>|<a href="/darts/rank/埼玉県/入間郡">埼玉県入間郡</a>|
+|6|675|<span class="rank-name-dl">りくと@ZEUS</span>|<a href="https://search.dartslive.com/jp/shop/38a958534a02c0b80d9b047a20a7ba1e">Bar ZEUS</a>|<a href="/darts/rank/埼玉県/入間郡">埼玉県入間郡</a>|
+|7|667|<span class="rank-name-dl">28❊ZEUS</span>|<a href="https://search.dartslive.com/jp/shop/38a958534a02c0b80d9b047a20a7ba1e">Bar ZEUS</a>|<a href="/darts/rank/埼玉県/入間郡">埼玉県入間郡</a>|
+|8|640|<span class="rank-name-dl">ゆ</span>|<a href="https://search.dartslive.com/jp/shop/38a958534a02c0b80d9b047a20a7ba1e">Bar ZEUS</a>|<a href="/darts/rank/埼玉県/入間郡">埼玉県入間郡</a>|
+|9|634|<span class="rank-name-dl">こんにちは</span>|<a href="https://search.dartslive.com/jp/shop/38a958534a02c0b80d9b047a20a7ba1e">Bar ZEUS</a>|<a href="/darts/rank/埼玉県/入間郡">埼玉県入間郡</a>|
 |10|626|<span class="rank-name-dl">Tsubasa36</span>|<a href="https://search.dartslive.com/jp/shop/38a958534a02c0b80d9b047a20a7ba1e">Bar ZEUS</a>|<a href="/darts/rank/埼玉県/入間郡">埼玉県入間郡</a>|
 |11|610|<span class="rank-name-dl">Shuzzz</span>|<a href="https://search.dartslive.com/jp/shop/38a958534a02c0b80d9b047a20a7ba1e">Bar ZEUS</a>|<a href="/darts/rank/埼玉県/入間郡">埼玉県入間郡</a>|
 |12|596|<span class="rank-name-dl">(ﾟﾟ)REINA</span>|<a href="https://search.dartslive.com/jp/shop/38a958534a02c0b80d9b047a20a7ba1e">Bar ZEUS</a>|<a href="/darts/rank/埼玉県/入間郡">埼玉県入間郡</a>|
-|13|548|<span class="rank-name-dl">Winter</span>|<a href="https://search.dartslive.com/jp/shop/38a958534a02c0b80d9b047a20a7ba1e">Bar ZEUS</a>|<a href="/darts/rank/埼玉県/入間郡">埼玉県入間郡</a>|
-|14|528|<span class="rank-name-dl">特製味噌</span>|<a href="https://search.dartslive.com/jp/shop/38a958534a02c0b80d9b047a20a7ba1e">Bar ZEUS</a>|<a href="/darts/rank/埼玉県/入間郡">埼玉県入間郡</a>|
-|15|515|<span class="rank-name-dl">NO.UDON</span>|<a href="https://search.dartslive.com/jp/shop/38a958534a02c0b80d9b047a20a7ba1e">Bar ZEUS</a>|<a href="/darts/rank/埼玉県/入間郡">埼玉県入間郡</a>|
-|16|495|<span class="rank-name-dl">NO NAME 2265</span>|<a href="https://search.dartslive.com/jp/shop/38a958534a02c0b80d9b047a20a7ba1e">Bar ZEUS</a>|<a href="/darts/rank/埼玉県/入間郡">埼玉県入間郡</a>|
-|17|440|<span class="rank-name-dl">羚★もっちぃ★耀</span>|<a href="https://search.dartslive.com/jp/shop/38a958534a02c0b80d9b047a20a7ba1e">Bar ZEUS</a>|<a href="/darts/rank/埼玉県/入間郡">埼玉県入間郡</a>|
+|13|440|<span class="rank-name-dl">羚★もっちぃ★耀</span>|<a href="https://search.dartslive.com/jp/shop/38a958534a02c0b80d9b047a20a7ba1e">Bar ZEUS</a>|<a href="/darts/rank/埼玉県/入間郡">埼玉県入間郡</a>|
 
 
 #### PHOENIXDARTS TOP 100

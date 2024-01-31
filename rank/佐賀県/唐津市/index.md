@@ -29,7 +29,7 @@ ___
 |4|805|<span class="rank-name-pd">TOMO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7469?s_seq=7469">リトル東京</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
 |5|761|<span class="rank-name-pd">HIDE@WILYWNKA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10459?s_seq=10459">DJ&Darts BAR Jook</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
 |6|733|<span class="rank-name-pd">アラタ　マサヒト</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10459?s_seq=10459">DJ&Darts BAR Jook</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
-|7|719|<span class="rank-name-pd">吉牟田 凜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10459?s_seq=10459">DJ&Darts BAR Jook</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
+|7|719|<span class="rank-name-pd"><span class="pro-icon-pd"></span>吉牟田 凜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10459?s_seq=10459">DJ&Darts BAR Jook</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
 |8|704|<span class="rank-name-pd">BOGGY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7469?s_seq=7469">リトル東京</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
 |9|643|<span class="rank-name-pd">P.HITOMI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10459?s_seq=10459">DJ&Darts BAR Jook</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
 |10|611|<span class="rank-name-pd">Ｊ―６９</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7469?s_seq=7469">リトル東京</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
@@ -38,21 +38,22 @@ ___
 |13|594|<span class="rank-name-dl">shoko</span>|<a href="https://search.dartslive.com/jp/shop/1e8d1c5f9f33c31025d56fb0e5c39bac">FASボウリングセンター</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
 |14|590|<span class="rank-name-pd">JOOK SATOSHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10459?s_seq=10459">DJ&Darts BAR Jook</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
 |15|570|<span class="rank-name-pd">しゅんちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7469?s_seq=7469">リトル東京</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
-|16|509|<span class="rank-name-dl">そらら</span>|<a href="https://search.dartslive.com/jp/shop/1e8d1c5f9f33c31025d56fb0e5c39bac">FASボウリングセンター</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
-|17|504|<span class="rank-name-pd">PEI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7469?s_seq=7469">リトル東京</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
-|18|495|<span class="rank-name-pd">くぅみん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7469?s_seq=7469">リトル東京</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
-|19|493|<span class="rank-name-pd">えん(&#x27;･ｪ･`)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7469?s_seq=7469">リトル東京</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
-|20|492|<span class="rank-name-pd">ドラケン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10459?s_seq=10459">DJ&Darts BAR Jook</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
-|21|489|<span class="rank-name-dl">Lunas</span>|<a href="https://search.dartslive.com/jp/shop/1e8d1c5f9f33c31025d56fb0e5c39bac">FASボウリングセンター</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
-|22|477|<span class="rank-name-dl">NO NAME 2577</span>|<a href="https://search.dartslive.com/jp/shop/1e8d1c5f9f33c31025d56fb0e5c39bac">FASボウリングセンター</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
-|23|452|<span class="rank-name-dl">まー</span>|<a href="https://search.dartslive.com/jp/shop/1e8d1c5f9f33c31025d56fb0e5c39bac">FASボウリングセンター</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
-|24|440|<span class="rank-name-pd">ぷりん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7469?s_seq=7469">リトル東京</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
-|25|392|<span class="rank-name-pd">そそそ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7469?s_seq=7469">リトル東京</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
-|26|387|<span class="rank-name-pd">ぺこちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7469?s_seq=7469">リトル東京</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
-|27|384|<span class="rank-name-dl">まきなる</span>|<a href="https://search.dartslive.com/jp/shop/1e8d1c5f9f33c31025d56fb0e5c39bac">FASボウリングセンター</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
-|28|374|<span class="rank-name-dl">ひなた</span>|<a href="https://search.dartslive.com/jp/shop/1e8d1c5f9f33c31025d56fb0e5c39bac">FASボウリングセンター</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
-|29|334|<span class="rank-name-pd">aya</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7469?s_seq=7469">リトル東京</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
-|30|259|<span class="rank-name-pd">SA-TO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7469?s_seq=7469">リトル東京</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
+|15|570|<span class="rank-name-pd">もっつん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10459?s_seq=10459">DJ&Darts BAR Jook</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
+|17|509|<span class="rank-name-dl">そらら</span>|<a href="https://search.dartslive.com/jp/shop/1e8d1c5f9f33c31025d56fb0e5c39bac">FASボウリングセンター</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
+|18|504|<span class="rank-name-pd">PEI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7469?s_seq=7469">リトル東京</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
+|19|495|<span class="rank-name-pd">くぅみん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7469?s_seq=7469">リトル東京</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
+|20|493|<span class="rank-name-pd">えん(&#x27;･ｪ･`)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7469?s_seq=7469">リトル東京</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
+|21|492|<span class="rank-name-pd">ドラケン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10459?s_seq=10459">DJ&Darts BAR Jook</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
+|22|489|<span class="rank-name-dl">Lunas</span>|<a href="https://search.dartslive.com/jp/shop/1e8d1c5f9f33c31025d56fb0e5c39bac">FASボウリングセンター</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
+|23|477|<span class="rank-name-dl">NO NAME 2577</span>|<a href="https://search.dartslive.com/jp/shop/1e8d1c5f9f33c31025d56fb0e5c39bac">FASボウリングセンター</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
+|24|452|<span class="rank-name-dl">まー</span>|<a href="https://search.dartslive.com/jp/shop/1e8d1c5f9f33c31025d56fb0e5c39bac">FASボウリングセンター</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
+|25|440|<span class="rank-name-pd">ぷりん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7469?s_seq=7469">リトル東京</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
+|26|392|<span class="rank-name-pd">そそそ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7469?s_seq=7469">リトル東京</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
+|27|387|<span class="rank-name-pd">ぺこちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7469?s_seq=7469">リトル東京</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
+|28|384|<span class="rank-name-dl">まきなる</span>|<a href="https://search.dartslive.com/jp/shop/1e8d1c5f9f33c31025d56fb0e5c39bac">FASボウリングセンター</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
+|29|374|<span class="rank-name-dl">ひなた</span>|<a href="https://search.dartslive.com/jp/shop/1e8d1c5f9f33c31025d56fb0e5c39bac">FASボウリングセンター</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
+|30|334|<span class="rank-name-pd">aya</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7469?s_seq=7469">リトル東京</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
+|31|259|<span class="rank-name-pd">SA-TO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7469?s_seq=7469">リトル東京</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -84,7 +85,7 @@ ___
 |4|805|<span class="rank-name-pd">TOMO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7469?s_seq=7469">リトル東京</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
 |5|761|<span class="rank-name-pd">HIDE@WILYWNKA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10459?s_seq=10459">DJ&Darts BAR Jook</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
 |6|733|<span class="rank-name-pd">アラタ　マサヒト</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10459?s_seq=10459">DJ&Darts BAR Jook</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
-|7|719|<span class="rank-name-pd">吉牟田 凜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10459?s_seq=10459">DJ&Darts BAR Jook</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
+|7|719|<span class="rank-name-pd"><span class="pro-icon-pd"></span>吉牟田 凜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10459?s_seq=10459">DJ&Darts BAR Jook</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
 |8|704|<span class="rank-name-pd">BOGGY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7469?s_seq=7469">リトル東京</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
 |9|643|<span class="rank-name-pd">P.HITOMI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10459?s_seq=10459">DJ&Darts BAR Jook</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
 |10|611|<span class="rank-name-pd">Ｊ―６９</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7469?s_seq=7469">リトル東京</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
@@ -92,15 +93,16 @@ ___
 |12|596|<span class="rank-name-pd">The Rock is cookin&#x27;!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7469?s_seq=7469">リトル東京</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
 |13|590|<span class="rank-name-pd">JOOK SATOSHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10459?s_seq=10459">DJ&Darts BAR Jook</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
 |14|570|<span class="rank-name-pd">しゅんちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7469?s_seq=7469">リトル東京</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
-|15|504|<span class="rank-name-pd">PEI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7469?s_seq=7469">リトル東京</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
-|16|495|<span class="rank-name-pd">くぅみん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7469?s_seq=7469">リトル東京</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
-|17|493|<span class="rank-name-pd">えん(&#x27;･ｪ･`)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7469?s_seq=7469">リトル東京</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
-|18|492|<span class="rank-name-pd">ドラケン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10459?s_seq=10459">DJ&Darts BAR Jook</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
-|19|440|<span class="rank-name-pd">ぷりん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7469?s_seq=7469">リトル東京</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
-|20|392|<span class="rank-name-pd">そそそ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7469?s_seq=7469">リトル東京</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
-|21|387|<span class="rank-name-pd">ぺこちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7469?s_seq=7469">リトル東京</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
-|22|334|<span class="rank-name-pd">aya</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7469?s_seq=7469">リトル東京</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
-|23|259|<span class="rank-name-pd">SA-TO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7469?s_seq=7469">リトル東京</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
+|14|570|<span class="rank-name-pd">もっつん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10459?s_seq=10459">DJ&Darts BAR Jook</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
+|16|504|<span class="rank-name-pd">PEI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7469?s_seq=7469">リトル東京</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
+|17|495|<span class="rank-name-pd">くぅみん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7469?s_seq=7469">リトル東京</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
+|18|493|<span class="rank-name-pd">えん(&#x27;･ｪ･`)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7469?s_seq=7469">リトル東京</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
+|19|492|<span class="rank-name-pd">ドラケン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10459?s_seq=10459">DJ&Darts BAR Jook</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
+|20|440|<span class="rank-name-pd">ぷりん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7469?s_seq=7469">リトル東京</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
+|21|392|<span class="rank-name-pd">そそそ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7469?s_seq=7469">リトル東京</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
+|22|387|<span class="rank-name-pd">ぺこちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7469?s_seq=7469">リトル東京</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
+|23|334|<span class="rank-name-pd">aya</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7469?s_seq=7469">リトル東京</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
+|24|259|<span class="rank-name-pd">SA-TO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7469?s_seq=7469">リトル東京</a>|<a href="/darts/rank/佐賀県/唐津市">佐賀県唐津市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

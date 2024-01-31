@@ -24,7 +24,7 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|1126|<span class="rank-name-dl">松藤 翔太</span>|<a href="https://search.dartslive.com/jp/shop/00b5fd1de13577db0d9b047a20a7ba1e">LOUNGE&BOWL B-lax</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|2|1071|<span class="rank-name-dl">Masato Narita</span>|<a href="https://search.dartslive.com/jp/shop/00b5fd1de13577db0d9b047a20a7ba1e">LOUNGE&BOWL B-lax</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|2|1098|<span class="rank-name-dl">Masato Narita</span>|<a href="https://search.dartslive.com/jp/shop/00b5fd1de13577db0d9b047a20a7ba1e">LOUNGE&BOWL B-lax</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
 |3|1060|<span class="rank-name-dl">♘Ｋ∧Ｚ♘</span>|<a href="https://search.dartslive.com/jp/shop/983d0e58802c1d680d9b047a20a7ba1e">Darts Bar アージュ</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
 |3|1060|<span class="rank-name-dl">ﾚｲｴｽ ﾌﾞﾗｲｱﾝ</span>|<a href="https://search.dartslive.com/jp/shop/00b5fd1de13577db0d9b047a20a7ba1e">LOUNGE&BOWL B-lax</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
 |5|1052|<span class="rank-name-dl">りょー#忘我</span>|<a href="https://search.dartslive.com/jp/shop/983d0e58802c1d680d9b047a20a7ba1e">Darts Bar アージュ</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
@@ -35,43 +35,43 @@ ___
 |10|965|<span class="rank-name-dl">SAKAさん@fifty</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
 |11|960|<span class="rank-name-dl">IORY</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
 |11|960|<span class="rank-name-dl">meemee(#ﾟ∀ﾟ)^→</span>|<a href="https://search.dartslive.com/jp/shop/8a49af8c450299650d9b047a20a7ba1e">より道　門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|13|940|<span class="rank-name-dl">たか</span>|<a href="https://search.dartslive.com/jp/shop/00b5fd1de13577db0d9b047a20a7ba1e">LOUNGE&BOWL B-lax</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|14|930|<span class="rank-name-dl">リュウ</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|15|928|<span class="rank-name-dl">meemee(#ﾟ∀ﾟ)^→</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|16|926|<span class="rank-name-dl">松藤翔太@ENDLESS</span>|<a href="https://search.dartslive.com/jp/shop/00b5fd1de13577db0d9b047a20a7ba1e">LOUNGE&BOWL B-lax</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|17|925|<span class="rank-name-dl">のす</span>|<a href="https://search.dartslive.com/jp/shop/00b5fd1de13577db0d9b047a20a7ba1e">LOUNGE&BOWL B-lax</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|18|919|<span class="rank-name-dl">おだてブタ</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|19|917|<span class="rank-name-dl">チューリップ</span>|<a href="https://search.dartslive.com/jp/shop/8a49af8c450299650d9b047a20a7ba1e">より道　門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|20|914|<span class="rank-name-dl">YAMA@fifty</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|21|911|<span class="rank-name-dl">SEVEN會§PAPA§</span>|<a href="https://search.dartslive.com/jp/shop/983d0e58802c1d680d9b047a20a7ba1e">Darts Bar アージュ</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|22|907|<span class="rank-name-dl">いっしゃん</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|23|900|<span class="rank-name-dl">将誌</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|24|892|<span class="rank-name-dl">エネゴリ♂(本物)</span>|<a href="https://search.dartslive.com/jp/shop/983d0e58802c1d680d9b047a20a7ba1e">Darts Bar アージュ</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|25|889|<span class="rank-name-dl">SEVEN會§桂太</span>|<a href="https://search.dartslive.com/jp/shop/983d0e58802c1d680d9b047a20a7ba1e">Darts Bar アージュ</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|26|886|<span class="rank-name-dl">かずきんぐ</span>|<a href="https://search.dartslive.com/jp/shop/00b5fd1de13577db0d9b047a20a7ba1e">LOUNGE&BOWL B-lax</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|26|886|<span class="rank-name-dl">松本 遼</span>|<a href="https://search.dartslive.com/jp/shop/983d0e58802c1d680d9b047a20a7ba1e">Darts Bar アージュ</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|28|885|<span class="rank-name-dl">NoN</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|29|884|<span class="rank-name-dl">のぶぅ〜@age</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|30|881|<span class="rank-name-dl">yasutaka☆TPGN☆</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|31|880|<span class="rank-name-dl">zenki@48ism</span>|<a href="https://search.dartslive.com/jp/shop/983d0e58802c1d680d9b047a20a7ba1e">Darts Bar アージュ</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|32|877|<span class="rank-name-dl">たく@Blabbit★DC</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|33|870|<span class="rank-name-dl">kyo★choco.</span>|<a href="https://search.dartslive.com/jp/shop/4176b829d791c9ba0d9b047a20a7ba1e">CHOCOLATE</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|34|866|<span class="rank-name-dl">いぶさーん</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|35|861|<span class="rank-name-dl">煌 爆鳶 より道</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|36|860|<span class="rank-name-dl">ウルヴァリン代表</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|37|857|<span class="rank-name-dl">DST★HANZY</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|37|857|<span class="rank-name-dl">短足ニキ@ENDLESS</span>|<a href="https://search.dartslive.com/jp/shop/983d0e58802c1d680d9b047a20a7ba1e">Darts Bar アージュ</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|39|855|<span class="rank-name-dl">ﾃﾞｨｰﾌｼﾞｵｶ</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|13|949|<span class="rank-name-dl">りょー#SoleSoul</span>|<a href="https://search.dartslive.com/jp/shop/983d0e58802c1d680d9b047a20a7ba1e">Darts Bar アージュ</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|14|940|<span class="rank-name-dl">たか</span>|<a href="https://search.dartslive.com/jp/shop/00b5fd1de13577db0d9b047a20a7ba1e">LOUNGE&BOWL B-lax</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|15|930|<span class="rank-name-dl">リュウ</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|16|928|<span class="rank-name-dl">meemee(#ﾟ∀ﾟ)^→</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|17|926|<span class="rank-name-dl">松藤翔太@ENDLESS</span>|<a href="https://search.dartslive.com/jp/shop/00b5fd1de13577db0d9b047a20a7ba1e">LOUNGE&BOWL B-lax</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|18|925|<span class="rank-name-dl">のす</span>|<a href="https://search.dartslive.com/jp/shop/00b5fd1de13577db0d9b047a20a7ba1e">LOUNGE&BOWL B-lax</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|19|919|<span class="rank-name-dl">おだてブタ</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|20|917|<span class="rank-name-dl">チューリップ</span>|<a href="https://search.dartslive.com/jp/shop/8a49af8c450299650d9b047a20a7ba1e">より道　門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|21|914|<span class="rank-name-dl">YAMA@fifty</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|22|911|<span class="rank-name-dl">SEVEN會§PAPA§</span>|<a href="https://search.dartslive.com/jp/shop/983d0e58802c1d680d9b047a20a7ba1e">Darts Bar アージュ</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|23|907|<span class="rank-name-dl">いっしゃん</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|24|901|<span class="rank-name-dl">かずきんぐ</span>|<a href="https://search.dartslive.com/jp/shop/00b5fd1de13577db0d9b047a20a7ba1e">LOUNGE&BOWL B-lax</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|25|900|<span class="rank-name-dl">将誌</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|26|892|<span class="rank-name-dl">エネゴリ♂(本物)</span>|<a href="https://search.dartslive.com/jp/shop/983d0e58802c1d680d9b047a20a7ba1e">Darts Bar アージュ</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|27|889|<span class="rank-name-dl">SEVEN會§桂太</span>|<a href="https://search.dartslive.com/jp/shop/983d0e58802c1d680d9b047a20a7ba1e">Darts Bar アージュ</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|28|886|<span class="rank-name-dl">松本 遼</span>|<a href="https://search.dartslive.com/jp/shop/983d0e58802c1d680d9b047a20a7ba1e">Darts Bar アージュ</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|29|885|<span class="rank-name-dl">NoN</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|30|884|<span class="rank-name-dl">のぶぅ〜@age</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|31|881|<span class="rank-name-dl">yasutaka☆TPGN☆</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|32|880|<span class="rank-name-dl">zenki@48ism</span>|<a href="https://search.dartslive.com/jp/shop/983d0e58802c1d680d9b047a20a7ba1e">Darts Bar アージュ</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|33|877|<span class="rank-name-dl">たく@Blabbit★DC</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|34|870|<span class="rank-name-dl">kyo★choco.</span>|<a href="https://search.dartslive.com/jp/shop/4176b829d791c9ba0d9b047a20a7ba1e">CHOCOLATE</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|35|866|<span class="rank-name-dl">いぶさーん</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|36|861|<span class="rank-name-dl">煌 爆鳶 より道</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|37|860|<span class="rank-name-dl">ウルヴァリン代表</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|38|857|<span class="rank-name-dl">DST★HANZY</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|38|857|<span class="rank-name-dl">短足ニキ@ENDLESS</span>|<a href="https://search.dartslive.com/jp/shop/983d0e58802c1d680d9b047a20a7ba1e">Darts Bar アージュ</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
 |40|853|<span class="rank-name-dl">うえちゃん</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
 |41|850|<span class="rank-name-dl">前崎翔太@大襾組</span>|<a href="https://search.dartslive.com/jp/shop/983d0e58802c1d680d9b047a20a7ba1e">Darts Bar アージュ</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
 |42|847|<span class="rank-name-dl">のぶぅ〜@age</span>|<a href="https://search.dartslive.com/jp/shop/983d0e58802c1d680d9b047a20a7ba1e">Darts Bar アージュ</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
 |43|842|<span class="rank-name-dl">SEVEN會 H！R O</span>|<a href="https://search.dartslive.com/jp/shop/8a49af8c450299650d9b047a20a7ba1e">より道　門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|44|838|<span class="rank-name-dl">Reeeen098</span>|<a href="https://search.dartslive.com/jp/shop/00b5fd1de13577db0d9b047a20a7ba1e">LOUNGE&BOWL B-lax</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|45|818|<span class="rank-name-dl">uk</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|46|807|<span class="rank-name-dl">NONAME</span>|<a href="https://search.dartslive.com/jp/shop/00b5fd1de13577db0d9b047a20a7ba1e">LOUNGE&BOWL B-lax</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|46|807|<span class="rank-name-dl">メガ</span>|<a href="https://search.dartslive.com/jp/shop/00b5fd1de13577db0d9b047a20a7ba1e">LOUNGE&BOWL B-lax</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|48|806|<span class="rank-name-dl">松藤組チョピ@age</span>|<a href="https://search.dartslive.com/jp/shop/983d0e58802c1d680d9b047a20a7ba1e">Darts Bar アージュ</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|49|803|<span class="rank-name-dl">華蘇族族長</span>|<a href="https://search.dartslive.com/jp/shop/983d0e58802c1d680d9b047a20a7ba1e">Darts Bar アージュ</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|43|842|<span class="rank-name-dl">せ</span>|<a href="https://search.dartslive.com/jp/shop/983d0e58802c1d680d9b047a20a7ba1e">Darts Bar アージュ</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|45|838|<span class="rank-name-dl">Reeeen098</span>|<a href="https://search.dartslive.com/jp/shop/00b5fd1de13577db0d9b047a20a7ba1e">LOUNGE&BOWL B-lax</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|46|818|<span class="rank-name-dl">uk</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|47|807|<span class="rank-name-dl">NONAME</span>|<a href="https://search.dartslive.com/jp/shop/00b5fd1de13577db0d9b047a20a7ba1e">LOUNGE&BOWL B-lax</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|47|807|<span class="rank-name-dl">メガ</span>|<a href="https://search.dartslive.com/jp/shop/00b5fd1de13577db0d9b047a20a7ba1e">LOUNGE&BOWL B-lax</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|49|806|<span class="rank-name-dl">松藤組チョピ@age</span>|<a href="https://search.dartslive.com/jp/shop/983d0e58802c1d680d9b047a20a7ba1e">Darts Bar アージュ</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
 |50|801|<span class="rank-name-dl">颯⍤⃝★choco.</span>|<a href="https://search.dartslive.com/jp/shop/4176b829d791c9ba0d9b047a20a7ba1e">CHOCOLATE</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
 |51|765|<span class="rank-name-dl">YUKIHIRA</span>|<a href="https://search.dartslive.com/jp/shop/00b5fd1de13577db0d9b047a20a7ba1e">LOUNGE&BOWL B-lax</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
 |52|756|<span class="rank-name-dl">ユウタ★choco</span>|<a href="https://search.dartslive.com/jp/shop/4176b829d791c9ba0d9b047a20a7ba1e">CHOCOLATE</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
@@ -93,36 +93,32 @@ ___
 |68|600|<span class="rank-name-dl">Dionysus</span>|<a href="https://search.dartslive.com/jp/shop/8a49af8c450299650d9b047a20a7ba1e">より道　門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
 |69|589|<span class="rank-name-dl">ハル</span>|<a href="https://search.dartslive.com/jp/shop/8a49af8c450299650d9b047a20a7ba1e">より道　門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
 |70|586|<span class="rank-name-dl">とみー</span>|<a href="https://search.dartslive.com/jp/shop/8a49af8c450299650d9b047a20a7ba1e">より道　門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|71|583|<span class="rank-name-dl">Satoshi</span>|<a href="https://search.dartslive.com/jp/shop/8a49af8c450299650d9b047a20a7ba1e">より道　門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|72|562|<span class="rank-name-dl">over9</span>|<a href="https://search.dartslive.com/jp/shop/8a49af8c450299650d9b047a20a7ba1e">より道　門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|73|557|<span class="rank-name-dl">risa</span>|<a href="https://search.dartslive.com/jp/shop/8a49af8c450299650d9b047a20a7ba1e">より道　門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|74|544|<span class="rank-name-dl">choco★miyumiyu</span>|<a href="https://search.dartslive.com/jp/shop/4176b829d791c9ba0d9b047a20a7ba1e">CHOCOLATE</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|75|534|<span class="rank-name-dl">淑絵age@ｱｰｼﾞｭ86</span>|<a href="https://search.dartslive.com/jp/shop/983d0e58802c1d680d9b047a20a7ba1e">Darts Bar アージュ</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|76|525|<span class="rank-name-dl">こはる</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|77|501|<span class="rank-name-dl">春球（練）</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|78|498|<span class="rank-name-dl">rin</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|79|491|<span class="rank-name-dl">mii</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|80|487|<span class="rank-name-dl">春</span>|<a href="https://search.dartslive.com/jp/shop/8a49af8c450299650d9b047a20a7ba1e">より道　門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|81|476|<span class="rank-name-dl">KOMASA</span>|<a href="https://search.dartslive.com/jp/shop/8a49af8c450299650d9b047a20a7ba1e">より道　門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|81|476|<span class="rank-name-dl">宿六</span>|<a href="https://search.dartslive.com/jp/shop/8a49af8c450299650d9b047a20a7ba1e">より道　門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|83|464|<span class="rank-name-dl">◎</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|84|462|<span class="rank-name-dl">ﾁｱｷﾝﾍﾞｪ100㌫ｺｺｱ</span>|<a href="https://search.dartslive.com/jp/shop/4176b829d791c9ba0d9b047a20a7ba1e">CHOCOLATE</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|85|460|<span class="rank-name-dl">えこちゃんまん</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|86|453|<span class="rank-name-dl">ひかり</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|87|450|<span class="rank-name-dl">miyumiyu★choco</span>|<a href="https://search.dartslive.com/jp/shop/4176b829d791c9ba0d9b047a20a7ba1e">CHOCOLATE</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|88|449|<span class="rank-name-dl">ERI</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|89|446|<span class="rank-name-dl">ＺＵＺＵ★choco</span>|<a href="https://search.dartslive.com/jp/shop/4176b829d791c9ba0d9b047a20a7ba1e">CHOCOLATE</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|90|441|<span class="rank-name-dl">ゆずず。</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|91|437|<span class="rank-name-dl">Mi_</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|92|431|<span class="rank-name-dl">tomo</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|93|429|<span class="rank-name-dl">しほ</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|94|421|<span class="rank-name-dl">アネモネ</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|95|418|<span class="rank-name-dl">まろん</span>|<a href="https://search.dartslive.com/jp/shop/8a49af8c450299650d9b047a20a7ba1e">より道　門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|96|396|<span class="rank-name-dl">MASAYAN</span>|<a href="https://search.dartslive.com/jp/shop/4176b829d791c9ba0d9b047a20a7ba1e">CHOCOLATE</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|97|383|<span class="rank-name-dl">ぴ1962</span>|<a href="https://search.dartslive.com/jp/shop/4176b829d791c9ba0d9b047a20a7ba1e">CHOCOLATE</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|98|376|<span class="rank-name-dl">門真boy@macchan</span>|<a href="https://search.dartslive.com/jp/shop/4176b829d791c9ba0d9b047a20a7ba1e">CHOCOLATE</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|99|345|<span class="rank-name-dl">こはる</span>|<a href="https://search.dartslive.com/jp/shop/8a49af8c450299650d9b047a20a7ba1e">より道　門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|100|324|<span class="rank-name-dl">♪蘭Ｒａｎ♪</span>|<a href="https://search.dartslive.com/jp/shop/4176b829d791c9ba0d9b047a20a7ba1e">CHOCOLATE</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|71|567|<span class="rank-name-dl">Satoshi</span>|<a href="https://search.dartslive.com/jp/shop/8a49af8c450299650d9b047a20a7ba1e">より道　門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|72|557|<span class="rank-name-dl">risa</span>|<a href="https://search.dartslive.com/jp/shop/8a49af8c450299650d9b047a20a7ba1e">より道　門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|73|544|<span class="rank-name-dl">choco★miyumiyu</span>|<a href="https://search.dartslive.com/jp/shop/4176b829d791c9ba0d9b047a20a7ba1e">CHOCOLATE</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|74|534|<span class="rank-name-dl">淑絵age@ｱｰｼﾞｭ86</span>|<a href="https://search.dartslive.com/jp/shop/983d0e58802c1d680d9b047a20a7ba1e">Darts Bar アージュ</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|75|525|<span class="rank-name-dl">こはる</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|76|501|<span class="rank-name-dl">春球（練）</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|77|498|<span class="rank-name-dl">rin</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|78|491|<span class="rank-name-dl">mii</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|79|471|<span class="rank-name-dl">MASAYAN</span>|<a href="https://search.dartslive.com/jp/shop/4176b829d791c9ba0d9b047a20a7ba1e">CHOCOLATE</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|80|464|<span class="rank-name-dl">◎</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|81|462|<span class="rank-name-dl">ﾁｱｷﾝﾍﾞｪ100㌫ｺｺｱ</span>|<a href="https://search.dartslive.com/jp/shop/4176b829d791c9ba0d9b047a20a7ba1e">CHOCOLATE</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|82|460|<span class="rank-name-dl">えこちゃんまん</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|83|453|<span class="rank-name-dl">ひかり</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|84|450|<span class="rank-name-dl">miyumiyu★choco</span>|<a href="https://search.dartslive.com/jp/shop/4176b829d791c9ba0d9b047a20a7ba1e">CHOCOLATE</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|85|449|<span class="rank-name-dl">ERI</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|86|446|<span class="rank-name-dl">ＺＵＺＵ★choco</span>|<a href="https://search.dartslive.com/jp/shop/4176b829d791c9ba0d9b047a20a7ba1e">CHOCOLATE</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|87|441|<span class="rank-name-dl">ゆずず。</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|88|437|<span class="rank-name-dl">Mi_</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|89|431|<span class="rank-name-dl">tomo</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|90|429|<span class="rank-name-dl">しほ</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|91|421|<span class="rank-name-dl">アネモネ</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|92|418|<span class="rank-name-dl">まろん</span>|<a href="https://search.dartslive.com/jp/shop/8a49af8c450299650d9b047a20a7ba1e">より道　門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|93|383|<span class="rank-name-dl">ぴ1962</span>|<a href="https://search.dartslive.com/jp/shop/4176b829d791c9ba0d9b047a20a7ba1e">CHOCOLATE</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|94|376|<span class="rank-name-dl">門真boy@macchan</span>|<a href="https://search.dartslive.com/jp/shop/4176b829d791c9ba0d9b047a20a7ba1e">CHOCOLATE</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|95|345|<span class="rank-name-dl">こはる</span>|<a href="https://search.dartslive.com/jp/shop/8a49af8c450299650d9b047a20a7ba1e">より道　門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|96|324|<span class="rank-name-dl">♪蘭Ｒａｎ♪</span>|<a href="https://search.dartslive.com/jp/shop/4176b829d791c9ba0d9b047a20a7ba1e">CHOCOLATE</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -133,7 +129,7 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|1126|<span class="rank-name-dl">松藤 翔太</span>|<a href="https://search.dartslive.com/jp/shop/00b5fd1de13577db0d9b047a20a7ba1e">LOUNGE&BOWL B-lax</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|2|1071|<span class="rank-name-dl">Masato Narita</span>|<a href="https://search.dartslive.com/jp/shop/00b5fd1de13577db0d9b047a20a7ba1e">LOUNGE&BOWL B-lax</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|2|1098|<span class="rank-name-dl">Masato Narita</span>|<a href="https://search.dartslive.com/jp/shop/00b5fd1de13577db0d9b047a20a7ba1e">LOUNGE&BOWL B-lax</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
 |3|1060|<span class="rank-name-dl">♘Ｋ∧Ｚ♘</span>|<a href="https://search.dartslive.com/jp/shop/983d0e58802c1d680d9b047a20a7ba1e">Darts Bar アージュ</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
 |3|1060|<span class="rank-name-dl">ﾚｲｴｽ ﾌﾞﾗｲｱﾝ</span>|<a href="https://search.dartslive.com/jp/shop/00b5fd1de13577db0d9b047a20a7ba1e">LOUNGE&BOWL B-lax</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
 |5|1052|<span class="rank-name-dl">りょー#忘我</span>|<a href="https://search.dartslive.com/jp/shop/983d0e58802c1d680d9b047a20a7ba1e">Darts Bar アージュ</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
@@ -144,43 +140,43 @@ ___
 |10|965|<span class="rank-name-dl">SAKAさん@fifty</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
 |11|960|<span class="rank-name-dl">IORY</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
 |11|960|<span class="rank-name-dl">meemee(#ﾟ∀ﾟ)^→</span>|<a href="https://search.dartslive.com/jp/shop/8a49af8c450299650d9b047a20a7ba1e">より道　門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|13|940|<span class="rank-name-dl">たか</span>|<a href="https://search.dartslive.com/jp/shop/00b5fd1de13577db0d9b047a20a7ba1e">LOUNGE&BOWL B-lax</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|14|930|<span class="rank-name-dl">リュウ</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|15|928|<span class="rank-name-dl">meemee(#ﾟ∀ﾟ)^→</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|16|926|<span class="rank-name-dl">松藤翔太@ENDLESS</span>|<a href="https://search.dartslive.com/jp/shop/00b5fd1de13577db0d9b047a20a7ba1e">LOUNGE&BOWL B-lax</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|17|925|<span class="rank-name-dl">のす</span>|<a href="https://search.dartslive.com/jp/shop/00b5fd1de13577db0d9b047a20a7ba1e">LOUNGE&BOWL B-lax</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|18|919|<span class="rank-name-dl">おだてブタ</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|19|917|<span class="rank-name-dl">チューリップ</span>|<a href="https://search.dartslive.com/jp/shop/8a49af8c450299650d9b047a20a7ba1e">より道　門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|20|914|<span class="rank-name-dl">YAMA@fifty</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|21|911|<span class="rank-name-dl">SEVEN會§PAPA§</span>|<a href="https://search.dartslive.com/jp/shop/983d0e58802c1d680d9b047a20a7ba1e">Darts Bar アージュ</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|22|907|<span class="rank-name-dl">いっしゃん</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|23|900|<span class="rank-name-dl">将誌</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|24|892|<span class="rank-name-dl">エネゴリ♂(本物)</span>|<a href="https://search.dartslive.com/jp/shop/983d0e58802c1d680d9b047a20a7ba1e">Darts Bar アージュ</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|25|889|<span class="rank-name-dl">SEVEN會§桂太</span>|<a href="https://search.dartslive.com/jp/shop/983d0e58802c1d680d9b047a20a7ba1e">Darts Bar アージュ</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|26|886|<span class="rank-name-dl">かずきんぐ</span>|<a href="https://search.dartslive.com/jp/shop/00b5fd1de13577db0d9b047a20a7ba1e">LOUNGE&BOWL B-lax</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|26|886|<span class="rank-name-dl">松本 遼</span>|<a href="https://search.dartslive.com/jp/shop/983d0e58802c1d680d9b047a20a7ba1e">Darts Bar アージュ</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|28|885|<span class="rank-name-dl">NoN</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|29|884|<span class="rank-name-dl">のぶぅ〜@age</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|30|881|<span class="rank-name-dl">yasutaka☆TPGN☆</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|31|880|<span class="rank-name-dl">zenki@48ism</span>|<a href="https://search.dartslive.com/jp/shop/983d0e58802c1d680d9b047a20a7ba1e">Darts Bar アージュ</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|32|877|<span class="rank-name-dl">たく@Blabbit★DC</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|33|870|<span class="rank-name-dl">kyo★choco.</span>|<a href="https://search.dartslive.com/jp/shop/4176b829d791c9ba0d9b047a20a7ba1e">CHOCOLATE</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|34|866|<span class="rank-name-dl">いぶさーん</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|35|861|<span class="rank-name-dl">煌 爆鳶 より道</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|36|860|<span class="rank-name-dl">ウルヴァリン代表</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|37|857|<span class="rank-name-dl">DST★HANZY</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|37|857|<span class="rank-name-dl">短足ニキ@ENDLESS</span>|<a href="https://search.dartslive.com/jp/shop/983d0e58802c1d680d9b047a20a7ba1e">Darts Bar アージュ</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|39|855|<span class="rank-name-dl">ﾃﾞｨｰﾌｼﾞｵｶ</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|13|949|<span class="rank-name-dl">りょー#SoleSoul</span>|<a href="https://search.dartslive.com/jp/shop/983d0e58802c1d680d9b047a20a7ba1e">Darts Bar アージュ</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|14|940|<span class="rank-name-dl">たか</span>|<a href="https://search.dartslive.com/jp/shop/00b5fd1de13577db0d9b047a20a7ba1e">LOUNGE&BOWL B-lax</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|15|930|<span class="rank-name-dl">リュウ</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|16|928|<span class="rank-name-dl">meemee(#ﾟ∀ﾟ)^→</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|17|926|<span class="rank-name-dl">松藤翔太@ENDLESS</span>|<a href="https://search.dartslive.com/jp/shop/00b5fd1de13577db0d9b047a20a7ba1e">LOUNGE&BOWL B-lax</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|18|925|<span class="rank-name-dl">のす</span>|<a href="https://search.dartslive.com/jp/shop/00b5fd1de13577db0d9b047a20a7ba1e">LOUNGE&BOWL B-lax</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|19|919|<span class="rank-name-dl">おだてブタ</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|20|917|<span class="rank-name-dl">チューリップ</span>|<a href="https://search.dartslive.com/jp/shop/8a49af8c450299650d9b047a20a7ba1e">より道　門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|21|914|<span class="rank-name-dl">YAMA@fifty</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|22|911|<span class="rank-name-dl">SEVEN會§PAPA§</span>|<a href="https://search.dartslive.com/jp/shop/983d0e58802c1d680d9b047a20a7ba1e">Darts Bar アージュ</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|23|907|<span class="rank-name-dl">いっしゃん</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|24|901|<span class="rank-name-dl">かずきんぐ</span>|<a href="https://search.dartslive.com/jp/shop/00b5fd1de13577db0d9b047a20a7ba1e">LOUNGE&BOWL B-lax</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|25|900|<span class="rank-name-dl">将誌</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|26|892|<span class="rank-name-dl">エネゴリ♂(本物)</span>|<a href="https://search.dartslive.com/jp/shop/983d0e58802c1d680d9b047a20a7ba1e">Darts Bar アージュ</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|27|889|<span class="rank-name-dl">SEVEN會§桂太</span>|<a href="https://search.dartslive.com/jp/shop/983d0e58802c1d680d9b047a20a7ba1e">Darts Bar アージュ</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|28|886|<span class="rank-name-dl">松本 遼</span>|<a href="https://search.dartslive.com/jp/shop/983d0e58802c1d680d9b047a20a7ba1e">Darts Bar アージュ</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|29|885|<span class="rank-name-dl">NoN</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|30|884|<span class="rank-name-dl">のぶぅ〜@age</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|31|881|<span class="rank-name-dl">yasutaka☆TPGN☆</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|32|880|<span class="rank-name-dl">zenki@48ism</span>|<a href="https://search.dartslive.com/jp/shop/983d0e58802c1d680d9b047a20a7ba1e">Darts Bar アージュ</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|33|877|<span class="rank-name-dl">たく@Blabbit★DC</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|34|870|<span class="rank-name-dl">kyo★choco.</span>|<a href="https://search.dartslive.com/jp/shop/4176b829d791c9ba0d9b047a20a7ba1e">CHOCOLATE</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|35|866|<span class="rank-name-dl">いぶさーん</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|36|861|<span class="rank-name-dl">煌 爆鳶 より道</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|37|860|<span class="rank-name-dl">ウルヴァリン代表</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|38|857|<span class="rank-name-dl">DST★HANZY</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|38|857|<span class="rank-name-dl">短足ニキ@ENDLESS</span>|<a href="https://search.dartslive.com/jp/shop/983d0e58802c1d680d9b047a20a7ba1e">Darts Bar アージュ</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
 |40|853|<span class="rank-name-dl">うえちゃん</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
 |41|850|<span class="rank-name-dl">前崎翔太@大襾組</span>|<a href="https://search.dartslive.com/jp/shop/983d0e58802c1d680d9b047a20a7ba1e">Darts Bar アージュ</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
 |42|847|<span class="rank-name-dl">のぶぅ〜@age</span>|<a href="https://search.dartslive.com/jp/shop/983d0e58802c1d680d9b047a20a7ba1e">Darts Bar アージュ</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
 |43|842|<span class="rank-name-dl">SEVEN會 H！R O</span>|<a href="https://search.dartslive.com/jp/shop/8a49af8c450299650d9b047a20a7ba1e">より道　門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|44|838|<span class="rank-name-dl">Reeeen098</span>|<a href="https://search.dartslive.com/jp/shop/00b5fd1de13577db0d9b047a20a7ba1e">LOUNGE&BOWL B-lax</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|45|818|<span class="rank-name-dl">uk</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|46|807|<span class="rank-name-dl">NONAME</span>|<a href="https://search.dartslive.com/jp/shop/00b5fd1de13577db0d9b047a20a7ba1e">LOUNGE&BOWL B-lax</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|46|807|<span class="rank-name-dl">メガ</span>|<a href="https://search.dartslive.com/jp/shop/00b5fd1de13577db0d9b047a20a7ba1e">LOUNGE&BOWL B-lax</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|48|806|<span class="rank-name-dl">松藤組チョピ@age</span>|<a href="https://search.dartslive.com/jp/shop/983d0e58802c1d680d9b047a20a7ba1e">Darts Bar アージュ</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|49|803|<span class="rank-name-dl">華蘇族族長</span>|<a href="https://search.dartslive.com/jp/shop/983d0e58802c1d680d9b047a20a7ba1e">Darts Bar アージュ</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|43|842|<span class="rank-name-dl">せ</span>|<a href="https://search.dartslive.com/jp/shop/983d0e58802c1d680d9b047a20a7ba1e">Darts Bar アージュ</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|45|838|<span class="rank-name-dl">Reeeen098</span>|<a href="https://search.dartslive.com/jp/shop/00b5fd1de13577db0d9b047a20a7ba1e">LOUNGE&BOWL B-lax</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|46|818|<span class="rank-name-dl">uk</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|47|807|<span class="rank-name-dl">NONAME</span>|<a href="https://search.dartslive.com/jp/shop/00b5fd1de13577db0d9b047a20a7ba1e">LOUNGE&BOWL B-lax</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|47|807|<span class="rank-name-dl">メガ</span>|<a href="https://search.dartslive.com/jp/shop/00b5fd1de13577db0d9b047a20a7ba1e">LOUNGE&BOWL B-lax</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|49|806|<span class="rank-name-dl">松藤組チョピ@age</span>|<a href="https://search.dartslive.com/jp/shop/983d0e58802c1d680d9b047a20a7ba1e">Darts Bar アージュ</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
 |50|801|<span class="rank-name-dl">颯⍤⃝★choco.</span>|<a href="https://search.dartslive.com/jp/shop/4176b829d791c9ba0d9b047a20a7ba1e">CHOCOLATE</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
 |51|765|<span class="rank-name-dl">YUKIHIRA</span>|<a href="https://search.dartslive.com/jp/shop/00b5fd1de13577db0d9b047a20a7ba1e">LOUNGE&BOWL B-lax</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
 |52|756|<span class="rank-name-dl">ユウタ★choco</span>|<a href="https://search.dartslive.com/jp/shop/4176b829d791c9ba0d9b047a20a7ba1e">CHOCOLATE</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
@@ -202,36 +198,32 @@ ___
 |68|600|<span class="rank-name-dl">Dionysus</span>|<a href="https://search.dartslive.com/jp/shop/8a49af8c450299650d9b047a20a7ba1e">より道　門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
 |69|589|<span class="rank-name-dl">ハル</span>|<a href="https://search.dartslive.com/jp/shop/8a49af8c450299650d9b047a20a7ba1e">より道　門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
 |70|586|<span class="rank-name-dl">とみー</span>|<a href="https://search.dartslive.com/jp/shop/8a49af8c450299650d9b047a20a7ba1e">より道　門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|71|583|<span class="rank-name-dl">Satoshi</span>|<a href="https://search.dartslive.com/jp/shop/8a49af8c450299650d9b047a20a7ba1e">より道　門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|72|562|<span class="rank-name-dl">over9</span>|<a href="https://search.dartslive.com/jp/shop/8a49af8c450299650d9b047a20a7ba1e">より道　門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|73|557|<span class="rank-name-dl">risa</span>|<a href="https://search.dartslive.com/jp/shop/8a49af8c450299650d9b047a20a7ba1e">より道　門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|74|544|<span class="rank-name-dl">choco★miyumiyu</span>|<a href="https://search.dartslive.com/jp/shop/4176b829d791c9ba0d9b047a20a7ba1e">CHOCOLATE</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|75|534|<span class="rank-name-dl">淑絵age@ｱｰｼﾞｭ86</span>|<a href="https://search.dartslive.com/jp/shop/983d0e58802c1d680d9b047a20a7ba1e">Darts Bar アージュ</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|76|525|<span class="rank-name-dl">こはる</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|77|501|<span class="rank-name-dl">春球（練）</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|78|498|<span class="rank-name-dl">rin</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|79|491|<span class="rank-name-dl">mii</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|80|487|<span class="rank-name-dl">春</span>|<a href="https://search.dartslive.com/jp/shop/8a49af8c450299650d9b047a20a7ba1e">より道　門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|81|476|<span class="rank-name-dl">KOMASA</span>|<a href="https://search.dartslive.com/jp/shop/8a49af8c450299650d9b047a20a7ba1e">より道　門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|81|476|<span class="rank-name-dl">宿六</span>|<a href="https://search.dartslive.com/jp/shop/8a49af8c450299650d9b047a20a7ba1e">より道　門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|83|464|<span class="rank-name-dl">◎</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|84|462|<span class="rank-name-dl">ﾁｱｷﾝﾍﾞｪ100㌫ｺｺｱ</span>|<a href="https://search.dartslive.com/jp/shop/4176b829d791c9ba0d9b047a20a7ba1e">CHOCOLATE</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|85|460|<span class="rank-name-dl">えこちゃんまん</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|86|453|<span class="rank-name-dl">ひかり</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|87|450|<span class="rank-name-dl">miyumiyu★choco</span>|<a href="https://search.dartslive.com/jp/shop/4176b829d791c9ba0d9b047a20a7ba1e">CHOCOLATE</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|88|449|<span class="rank-name-dl">ERI</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|89|446|<span class="rank-name-dl">ＺＵＺＵ★choco</span>|<a href="https://search.dartslive.com/jp/shop/4176b829d791c9ba0d9b047a20a7ba1e">CHOCOLATE</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|90|441|<span class="rank-name-dl">ゆずず。</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|91|437|<span class="rank-name-dl">Mi_</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|92|431|<span class="rank-name-dl">tomo</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|93|429|<span class="rank-name-dl">しほ</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|94|421|<span class="rank-name-dl">アネモネ</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|95|418|<span class="rank-name-dl">まろん</span>|<a href="https://search.dartslive.com/jp/shop/8a49af8c450299650d9b047a20a7ba1e">より道　門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|96|396|<span class="rank-name-dl">MASAYAN</span>|<a href="https://search.dartslive.com/jp/shop/4176b829d791c9ba0d9b047a20a7ba1e">CHOCOLATE</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|97|383|<span class="rank-name-dl">ぴ1962</span>|<a href="https://search.dartslive.com/jp/shop/4176b829d791c9ba0d9b047a20a7ba1e">CHOCOLATE</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|98|376|<span class="rank-name-dl">門真boy@macchan</span>|<a href="https://search.dartslive.com/jp/shop/4176b829d791c9ba0d9b047a20a7ba1e">CHOCOLATE</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|99|345|<span class="rank-name-dl">こはる</span>|<a href="https://search.dartslive.com/jp/shop/8a49af8c450299650d9b047a20a7ba1e">より道　門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
-|100|324|<span class="rank-name-dl">♪蘭Ｒａｎ♪</span>|<a href="https://search.dartslive.com/jp/shop/4176b829d791c9ba0d9b047a20a7ba1e">CHOCOLATE</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|71|567|<span class="rank-name-dl">Satoshi</span>|<a href="https://search.dartslive.com/jp/shop/8a49af8c450299650d9b047a20a7ba1e">より道　門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|72|557|<span class="rank-name-dl">risa</span>|<a href="https://search.dartslive.com/jp/shop/8a49af8c450299650d9b047a20a7ba1e">より道　門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|73|544|<span class="rank-name-dl">choco★miyumiyu</span>|<a href="https://search.dartslive.com/jp/shop/4176b829d791c9ba0d9b047a20a7ba1e">CHOCOLATE</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|74|534|<span class="rank-name-dl">淑絵age@ｱｰｼﾞｭ86</span>|<a href="https://search.dartslive.com/jp/shop/983d0e58802c1d680d9b047a20a7ba1e">Darts Bar アージュ</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|75|525|<span class="rank-name-dl">こはる</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|76|501|<span class="rank-name-dl">春球（練）</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|77|498|<span class="rank-name-dl">rin</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|78|491|<span class="rank-name-dl">mii</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|79|471|<span class="rank-name-dl">MASAYAN</span>|<a href="https://search.dartslive.com/jp/shop/4176b829d791c9ba0d9b047a20a7ba1e">CHOCOLATE</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|80|464|<span class="rank-name-dl">◎</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|81|462|<span class="rank-name-dl">ﾁｱｷﾝﾍﾞｪ100㌫ｺｺｱ</span>|<a href="https://search.dartslive.com/jp/shop/4176b829d791c9ba0d9b047a20a7ba1e">CHOCOLATE</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|82|460|<span class="rank-name-dl">えこちゃんまん</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|83|453|<span class="rank-name-dl">ひかり</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|84|450|<span class="rank-name-dl">miyumiyu★choco</span>|<a href="https://search.dartslive.com/jp/shop/4176b829d791c9ba0d9b047a20a7ba1e">CHOCOLATE</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|85|449|<span class="rank-name-dl">ERI</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|86|446|<span class="rank-name-dl">ＺＵＺＵ★choco</span>|<a href="https://search.dartslive.com/jp/shop/4176b829d791c9ba0d9b047a20a7ba1e">CHOCOLATE</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|87|441|<span class="rank-name-dl">ゆずず。</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|88|437|<span class="rank-name-dl">Mi_</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|89|431|<span class="rank-name-dl">tomo</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|90|429|<span class="rank-name-dl">しほ</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|91|421|<span class="rank-name-dl">アネモネ</span>|<a href="https://search.dartslive.com/jp/shop/f39fb284da9bea805f9f3321c1147265">快活CLUB 163号門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|92|418|<span class="rank-name-dl">まろん</span>|<a href="https://search.dartslive.com/jp/shop/8a49af8c450299650d9b047a20a7ba1e">より道　門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|93|383|<span class="rank-name-dl">ぴ1962</span>|<a href="https://search.dartslive.com/jp/shop/4176b829d791c9ba0d9b047a20a7ba1e">CHOCOLATE</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|94|376|<span class="rank-name-dl">門真boy@macchan</span>|<a href="https://search.dartslive.com/jp/shop/4176b829d791c9ba0d9b047a20a7ba1e">CHOCOLATE</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|95|345|<span class="rank-name-dl">こはる</span>|<a href="https://search.dartslive.com/jp/shop/8a49af8c450299650d9b047a20a7ba1e">より道　門真店</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
+|96|324|<span class="rank-name-dl">♪蘭Ｒａｎ♪</span>|<a href="https://search.dartslive.com/jp/shop/4176b829d791c9ba0d9b047a20a7ba1e">CHOCOLATE</a>|<a href="/darts/rank/大阪府/門真市">大阪府門真市</a>|
 
 
 #### PHOENIXDARTS TOP 100

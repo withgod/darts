@@ -23,7 +23,7 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1026|<span class="rank-name-dl">わんぱくオヤジ</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
+|1|959|<span class="rank-name-dl">わんぱくオヤジ</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
 |2|947|<span class="rank-name-dl">まる</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
 |3|932|<span class="rank-name-dl">たんたんタヌキの</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
 |4|930|<span class="rank-name-dl">ｹｰｽｹa.k.aｳｯﾁｰ</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
@@ -38,33 +38,24 @@ ___
 |12|881|<span class="rank-name-dl">PANA</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
 |14|871|<span class="rank-name-dl">Takano＠叉樂</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
 |15|867|<span class="rank-name-dl">ぶり2@Penetrate</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
-|16|857|<span class="rank-name-dl">にぼ丸</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
-|17|856|<span class="rank-name-dl">Forever</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
-|18|758|<span class="rank-name-dl">あゆmiLK@ｽﾍﾟｰｽ遊</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
-|19|738|<span class="rank-name-dl">白薔薇</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
-|20|732|<span class="rank-name-dl">R</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
-|21|712|<span class="rank-name-dl">ＹαＳｕ</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
-|22|692|<span class="rank-name-dl">目玉焼き</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
-|23|691|<span class="rank-name-dl">かつお</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
-|24|630|<span class="rank-name-dl">ren</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
-|25|605|<span class="rank-name-dl">末</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
-|26|588|<span class="rank-name-dl">もち</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
-|27|585|<span class="rank-name-dl">こたた</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
-|28|584|<span class="rank-name-dl">➷たゃたにえん➷</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
-|29|578|<span class="rank-name-dl">katze</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
-|30|525|<span class="rank-name-dl">みーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
-|31|521|<span class="rank-name-dl">Asuka</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
-|32|513|<span class="rank-name-dl">a</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
-|33|508|<span class="rank-name-dl">いぶ</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
-|34|504|<span class="rank-name-dl">MEGU</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
-|35|501|<span class="rank-name-dl">NO NAME 7831</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
-|36|490|<span class="rank-name-dl">K</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
-|37|487|<span class="rank-name-dl">トリプルダブチ</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
-|38|480|<span class="rank-name-dl">じょにぃ</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
-|39|457|<span class="rank-name-dl">まろみ</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
-|40|436|<span class="rank-name-dl">ボーダーにき</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
-|41|429|<span class="rank-name-dl">ぱぱやん</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
-|42|307|<span class="rank-name-dl">AK69LOVE</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
+|16|758|<span class="rank-name-dl">あゆmiLK@ｽﾍﾟｰｽ遊</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
+|17|738|<span class="rank-name-dl">白薔薇</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
+|18|732|<span class="rank-name-dl">R</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
+|19|588|<span class="rank-name-dl">もち</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
+|20|584|<span class="rank-name-dl">katze</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
+|20|584|<span class="rank-name-dl">➷たゃたにえん➷</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
+|22|574|<span class="rank-name-dl">こたた</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
+|23|546|<span class="rank-name-dl">KIKURIN</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
+|24|525|<span class="rank-name-dl">みーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
+|25|521|<span class="rank-name-dl">Asuka</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
+|26|519|<span class="rank-name-dl">mackenyu16</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
+|27|504|<span class="rank-name-dl">MEGU</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
+|28|501|<span class="rank-name-dl">NO NAME 7831</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
+|29|488|<span class="rank-name-dl">ぽこキング</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
+|30|477|<span class="rank-name-dl">タツヤ</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
+|31|380|<span class="rank-name-dl">のえぽー</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
+|32|307|<span class="rank-name-dl">AK69LOVE</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
+|33|306|<span class="rank-name-dl">セリヌん</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -74,7 +65,7 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1026|<span class="rank-name-dl">わんぱくオヤジ</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
+|1|959|<span class="rank-name-dl">わんぱくオヤジ</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
 |2|947|<span class="rank-name-dl">まる</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
 |3|932|<span class="rank-name-dl">たんたんタヌキの</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
 |4|930|<span class="rank-name-dl">ｹｰｽｹa.k.aｳｯﾁｰ</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
@@ -89,33 +80,24 @@ ___
 |12|881|<span class="rank-name-dl">PANA</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
 |14|871|<span class="rank-name-dl">Takano＠叉樂</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
 |15|867|<span class="rank-name-dl">ぶり2@Penetrate</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
-|16|857|<span class="rank-name-dl">にぼ丸</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
-|17|856|<span class="rank-name-dl">Forever</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
-|18|758|<span class="rank-name-dl">あゆmiLK@ｽﾍﾟｰｽ遊</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
-|19|738|<span class="rank-name-dl">白薔薇</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
-|20|732|<span class="rank-name-dl">R</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
-|21|712|<span class="rank-name-dl">ＹαＳｕ</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
-|22|692|<span class="rank-name-dl">目玉焼き</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
-|23|691|<span class="rank-name-dl">かつお</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
-|24|630|<span class="rank-name-dl">ren</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
-|25|605|<span class="rank-name-dl">末</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
-|26|588|<span class="rank-name-dl">もち</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
-|27|585|<span class="rank-name-dl">こたた</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
-|28|584|<span class="rank-name-dl">➷たゃたにえん➷</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
-|29|578|<span class="rank-name-dl">katze</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
-|30|525|<span class="rank-name-dl">みーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
-|31|521|<span class="rank-name-dl">Asuka</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
-|32|513|<span class="rank-name-dl">a</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
-|33|508|<span class="rank-name-dl">いぶ</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
-|34|504|<span class="rank-name-dl">MEGU</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
-|35|501|<span class="rank-name-dl">NO NAME 7831</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
-|36|490|<span class="rank-name-dl">K</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
-|37|487|<span class="rank-name-dl">トリプルダブチ</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
-|38|480|<span class="rank-name-dl">じょにぃ</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
-|39|457|<span class="rank-name-dl">まろみ</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
-|40|436|<span class="rank-name-dl">ボーダーにき</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
-|41|429|<span class="rank-name-dl">ぱぱやん</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
-|42|307|<span class="rank-name-dl">AK69LOVE</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
+|16|758|<span class="rank-name-dl">あゆmiLK@ｽﾍﾟｰｽ遊</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
+|17|738|<span class="rank-name-dl">白薔薇</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
+|18|732|<span class="rank-name-dl">R</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
+|19|588|<span class="rank-name-dl">もち</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
+|20|584|<span class="rank-name-dl">katze</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
+|20|584|<span class="rank-name-dl">➷たゃたにえん➷</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
+|22|574|<span class="rank-name-dl">こたた</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
+|23|546|<span class="rank-name-dl">KIKURIN</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
+|24|525|<span class="rank-name-dl">みーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
+|25|521|<span class="rank-name-dl">Asuka</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
+|26|519|<span class="rank-name-dl">mackenyu16</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
+|27|504|<span class="rank-name-dl">MEGU</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
+|28|501|<span class="rank-name-dl">NO NAME 7831</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
+|29|488|<span class="rank-name-dl">ぽこキング</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
+|30|477|<span class="rank-name-dl">タツヤ</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
+|31|380|<span class="rank-name-dl">のえぽー</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
+|32|307|<span class="rank-name-dl">AK69LOVE</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
+|33|306|<span class="rank-name-dl">セリヌん</span>|<a href="https://search.dartslive.com/jp/shop/b82516bfcf9b891128032249b44395af">快活CLUB ビバモール加須店</a>|<a href="/darts/rank/埼玉県/加須市">埼玉県加須市</a>|
 
 
 #### PHOENIXDARTS TOP 100

@@ -40,26 +40,27 @@ ___
 |15|718|<span class="rank-name-dl">とくし丸</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
 |16|716|<span class="rank-name-pd">東方笛士</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73946?s_seq=73946">pool bar Zoo</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
 |17|712|<span class="rank-name-dl">ＫＣ★ﾃﾞﾉｯﾍﾟｶﾞｻｽ</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
-|18|705|<span class="rank-name-dl">鯨</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
-|19|669|<span class="rank-name-dl">ﾓｯｺﾘｰﾆ</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
-|20|662|<span class="rank-name-dl">Mr.error</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
+|18|707|<span class="rank-name-pd">UTa</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73946?s_seq=73946">pool bar Zoo</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
+|19|705|<span class="rank-name-dl">鯨</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
+|20|669|<span class="rank-name-dl">ﾓｯｺﾘｰﾆ</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
 |21|657|<span class="rank-name-dl">まみ</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
-|22|638|<span class="rank-name-pd">みみみ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73946?s_seq=73946">pool bar Zoo</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
-|23|612|<span class="rank-name-dl">ﾀｽﾛｰ</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
-|24|611|<span class="rank-name-dl">えと</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
-|25|594|<span class="rank-name-dl">ちょこび</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
-|26|583|<span class="rank-name-dl">火の用心</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
-|27|574|<span class="rank-name-dl">s.ma</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
-|28|573|<span class="rank-name-pd">おいバズ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73946?s_seq=73946">pool bar Zoo</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
-|29|565|<span class="rank-name-pd">トモハルです</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73946?s_seq=73946">pool bar Zoo</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
+|22|656|<span class="rank-name-dl">イガレてるー！！</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
+|23|643|<span class="rank-name-dl">Mr.error</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
+|24|638|<span class="rank-name-pd">みみみ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73946?s_seq=73946">pool bar Zoo</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
+|25|611|<span class="rank-name-dl">えと</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
+|26|594|<span class="rank-name-dl">ちょこび</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
+|27|573|<span class="rank-name-pd">おいバズ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73946?s_seq=73946">pool bar Zoo</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
+|28|565|<span class="rank-name-pd">トモハルです</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73946?s_seq=73946">pool bar Zoo</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
+|29|561|<span class="rank-name-dl">れん</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
 |30|538|<span class="rank-name-dl">うったん</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
 |31|505|<span class="rank-name-dl">ディサローノ</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
 |32|504|<span class="rank-name-pd">すなお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73946?s_seq=73946">pool bar Zoo</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
-|33|487|<span class="rank-name-dl">m@-BIG</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
-|34|473|<span class="rank-name-pd">ベチ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73946?s_seq=73946">pool bar Zoo</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
-|35|443|<span class="rank-name-pd">kensei</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73946?s_seq=73946">pool bar Zoo</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
-|36|345|<span class="rank-name-dl">きょーか</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
-|37|334|<span class="rank-name-dl">【横田あずみ】</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
+|33|473|<span class="rank-name-pd">ベチ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73946?s_seq=73946">pool bar Zoo</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
+|34|443|<span class="rank-name-pd">kensei</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73946?s_seq=73946">pool bar Zoo</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
+|35|427|<span class="rank-name-dl">s.ma</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
+|36|418|<span class="rank-name-dl">はるまる</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
+|37|345|<span class="rank-name-dl">きょーか</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
+|38|334|<span class="rank-name-dl">【横田あずみ】</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -85,16 +86,16 @@ ___
 |14|712|<span class="rank-name-dl">ＫＣ★ﾃﾞﾉｯﾍﾟｶﾞｻｽ</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
 |15|705|<span class="rank-name-dl">鯨</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
 |16|669|<span class="rank-name-dl">ﾓｯｺﾘｰﾆ</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
-|17|662|<span class="rank-name-dl">Mr.error</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
-|18|657|<span class="rank-name-dl">まみ</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
-|19|612|<span class="rank-name-dl">ﾀｽﾛｰ</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
+|17|657|<span class="rank-name-dl">まみ</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
+|18|656|<span class="rank-name-dl">イガレてるー！！</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
+|19|643|<span class="rank-name-dl">Mr.error</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
 |20|611|<span class="rank-name-dl">えと</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
 |21|594|<span class="rank-name-dl">ちょこび</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
-|22|583|<span class="rank-name-dl">火の用心</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
-|23|574|<span class="rank-name-dl">s.ma</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
-|24|538|<span class="rank-name-dl">うったん</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
-|25|505|<span class="rank-name-dl">ディサローノ</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
-|26|487|<span class="rank-name-dl">m@-BIG</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
+|22|561|<span class="rank-name-dl">れん</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
+|23|538|<span class="rank-name-dl">うったん</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
+|24|505|<span class="rank-name-dl">ディサローノ</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
+|25|427|<span class="rank-name-dl">s.ma</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
+|26|418|<span class="rank-name-dl">はるまる</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
 |27|345|<span class="rank-name-dl">きょーか</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
 |28|334|<span class="rank-name-dl">【横田あずみ】</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
 
@@ -109,12 +110,13 @@ ___
 |1|784|<span class="rank-name-pd">▼HAMA▼</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73946?s_seq=73946">pool bar Zoo</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
 |2|755|<span class="rank-name-pd">s</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73946?s_seq=73946">pool bar Zoo</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
 |3|716|<span class="rank-name-pd">東方笛士</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73946?s_seq=73946">pool bar Zoo</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
-|4|638|<span class="rank-name-pd">みみみ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73946?s_seq=73946">pool bar Zoo</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
-|5|573|<span class="rank-name-pd">おいバズ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73946?s_seq=73946">pool bar Zoo</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
-|6|565|<span class="rank-name-pd">トモハルです</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73946?s_seq=73946">pool bar Zoo</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
-|7|504|<span class="rank-name-pd">すなお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73946?s_seq=73946">pool bar Zoo</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
-|8|473|<span class="rank-name-pd">ベチ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73946?s_seq=73946">pool bar Zoo</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
-|9|443|<span class="rank-name-pd">kensei</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73946?s_seq=73946">pool bar Zoo</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
+|4|707|<span class="rank-name-pd">UTa</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73946?s_seq=73946">pool bar Zoo</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
+|5|638|<span class="rank-name-pd">みみみ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73946?s_seq=73946">pool bar Zoo</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
+|6|573|<span class="rank-name-pd">おいバズ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73946?s_seq=73946">pool bar Zoo</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
+|7|565|<span class="rank-name-pd">トモハルです</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73946?s_seq=73946">pool bar Zoo</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
+|8|504|<span class="rank-name-pd">すなお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73946?s_seq=73946">pool bar Zoo</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
+|9|473|<span class="rank-name-pd">ベチ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73946?s_seq=73946">pool bar Zoo</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
+|10|443|<span class="rank-name-pd">kensei</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73946?s_seq=73946">pool bar Zoo</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

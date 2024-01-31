@@ -28,56 +28,58 @@ ___
 |3|1073|<span class="rank-name-dl">Lien まじゅ</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
 |4|1041|<span class="rank-name-dl">Lien まじゅ</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
 |5|983|<span class="rank-name-dl">ＫＵＮＩ</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|6|962|<span class="rank-name-dl">✩HIROTO✩ZERO㍽</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|7|959|<span class="rank-name-dl">☆kame☆ZERO㍽☆</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|8|925|<span class="rank-name-dl">T☺︎ｒｕ.</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|8|925|<span class="rank-name-dl">maquila.</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|10|903|<span class="rank-name-dl">きよ様☆Leap</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|11|902|<span class="rank-name-dl">T☺︎ｒｕ.</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|12|900|<span class="rank-name-dl">ぉじん+α</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|12|900|<span class="rank-name-dl">コゥジ</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|14|898|<span class="rank-name-dl">ＡーＭＡＸ</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|15|887|<span class="rank-name-dl">BoB♛Tooru</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|16|862|<span class="rank-name-dl">ぉじん+α</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|17|858|<span class="rank-name-dl">大久保　貴行</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|18|854|<span class="rank-name-dl">MOGERA</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|19|850|<span class="rank-name-dl">むーやん</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|20|841|<span class="rank-name-dl">SU-SAN</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|21|829|<span class="rank-name-dl">ヤマモトサトシ</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|22|823|<span class="rank-name-dl">EDしんや</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|23|802|<span class="rank-name-dl">UKI★ZERO</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|24|770|<span class="rank-name-dl">★✳︎MaMi✳︎★</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|25|763|<span class="rank-name-dl">ぉじん+α</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|26|732|<span class="rank-name-dl">UKI★ZERO</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|27|731|<span class="rank-name-dl">むーやん</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|28|730|<span class="rank-name-dl">Ryo</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|29|719|<span class="rank-name-dl">寺島 一希</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|30|712|<span class="rank-name-dl">コゥジ</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|31|702|<span class="rank-name-dl">コーゾー</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|32|701|<span class="rank-name-dl">十基也@Ohana</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|33|684|<span class="rank-name-dl">やすくん</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|34|676|<span class="rank-name-dl">忠Ｘ</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|35|672|<span class="rank-name-dl">izumi</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|36|669|<span class="rank-name-dl">ソランラップ</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|37|666|<span class="rank-name-dl">ANEGO@Leap</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|38|661|<span class="rank-name-dl">T.Fumiya</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|39|650|<span class="rank-name-dl">Rio</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|40|648|<span class="rank-name-dl">ま</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|41|621|<span class="rank-name-dl">イカ</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|42|607|<span class="rank-name-dl">Rio</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|43|589|<span class="rank-name-dl">寺島 一希</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|44|588|<span class="rank-name-dl">きむ</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|45|583|<span class="rank-name-dl">くりまんじゅう</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|46|572|<span class="rank-name-dl">haru</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|47|567|<span class="rank-name-dl">★おにぃやん★</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|48|562|<span class="rank-name-dl">TAKEDA</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|49|522|<span class="rank-name-dl">haru</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|50|515|<span class="rank-name-dl">テキジイZERO大正</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|6|966|<span class="rank-name-dl">Swan 勝美</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|7|962|<span class="rank-name-dl">✩HIROTO✩ZERO㍽</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|8|959|<span class="rank-name-dl">☆kame☆ZERO㍽☆</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|9|925|<span class="rank-name-dl">T☺︎ｒｕ.</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|9|925|<span class="rank-name-dl">maquila.</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|11|903|<span class="rank-name-dl">きよ様☆Leap</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|12|902|<span class="rank-name-dl">T☺︎ｒｕ.</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|12|902|<span class="rank-name-dl">ＡーＭＡＸ</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|14|900|<span class="rank-name-dl">ぉじん+α</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|14|900|<span class="rank-name-dl">コゥジ</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|16|898|<span class="rank-name-dl">ＡーＭＡＸ</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|17|887|<span class="rank-name-dl">BoB♛Tooru</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|18|872|<span class="rank-name-dl">UKI★ZERO</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|19|862|<span class="rank-name-dl">ぉじん+α</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|20|858|<span class="rank-name-dl">大久保　貴行</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|21|854|<span class="rank-name-dl">MOGERA</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|22|850|<span class="rank-name-dl">むーやん</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|23|841|<span class="rank-name-dl">SU-SAN</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|24|829|<span class="rank-name-dl">ヤマモトサトシ</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|25|770|<span class="rank-name-dl">★✳︎MaMi✳︎★</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|26|763|<span class="rank-name-dl">ぉじん+α</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|27|732|<span class="rank-name-dl">UKI★ZERO</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|28|731|<span class="rank-name-dl">むーやん</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|29|730|<span class="rank-name-dl">Ryo</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|30|719|<span class="rank-name-dl">寺島 一希</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|31|712|<span class="rank-name-dl">コゥジ</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|32|702|<span class="rank-name-dl">コーゾー</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|33|701|<span class="rank-name-dl">十基也@Ohana</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|34|684|<span class="rank-name-dl">やすくん</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|35|676|<span class="rank-name-dl">忠Ｘ</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|36|672|<span class="rank-name-dl">izumi</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|37|669|<span class="rank-name-dl">ソランラップ</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|38|666|<span class="rank-name-dl">ANEGO@Leap</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|39|661|<span class="rank-name-dl">T.Fumiya</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|40|650|<span class="rank-name-dl">Rio</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|41|648|<span class="rank-name-dl">ま</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|42|638|<span class="rank-name-dl">KMR-</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|43|621|<span class="rank-name-dl">イカ</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|44|607|<span class="rank-name-dl">Rio</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|45|589|<span class="rank-name-dl">寺島 一希</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|46|588|<span class="rank-name-dl">きむ</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|47|572|<span class="rank-name-dl">haru</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|48|567|<span class="rank-name-dl">★おにぃやん★</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|49|560|<span class="rank-name-dl">kan</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|50|522|<span class="rank-name-dl">haru</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
 |51|499|<span class="rank-name-dl">ちゃんまき@Leap</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
 |52|469|<span class="rank-name-dl">haru</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
 |53|464|<span class="rank-name-dl">ゆみぞう</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|54|392|<span class="rank-name-dl">yui ZERO㍽</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|55|298|<span class="rank-name-dl">MIYUKI</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|54|460|<span class="rank-name-dl">maquila.</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|55|392|<span class="rank-name-dl">yui ZERO㍽</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|56|336|<span class="rank-name-dl">M&amp;R</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|57|298|<span class="rank-name-dl">MIYUKI</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -92,56 +94,58 @@ ___
 |3|1073|<span class="rank-name-dl">Lien まじゅ</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
 |4|1041|<span class="rank-name-dl">Lien まじゅ</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
 |5|983|<span class="rank-name-dl">ＫＵＮＩ</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|6|962|<span class="rank-name-dl">✩HIROTO✩ZERO㍽</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|7|959|<span class="rank-name-dl">☆kame☆ZERO㍽☆</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|8|925|<span class="rank-name-dl">T☺︎ｒｕ.</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|8|925|<span class="rank-name-dl">maquila.</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|10|903|<span class="rank-name-dl">きよ様☆Leap</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|11|902|<span class="rank-name-dl">T☺︎ｒｕ.</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|12|900|<span class="rank-name-dl">ぉじん+α</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|12|900|<span class="rank-name-dl">コゥジ</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|14|898|<span class="rank-name-dl">ＡーＭＡＸ</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|15|887|<span class="rank-name-dl">BoB♛Tooru</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|16|862|<span class="rank-name-dl">ぉじん+α</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|17|858|<span class="rank-name-dl">大久保　貴行</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|18|854|<span class="rank-name-dl">MOGERA</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|19|850|<span class="rank-name-dl">むーやん</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|20|841|<span class="rank-name-dl">SU-SAN</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|21|829|<span class="rank-name-dl">ヤマモトサトシ</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|22|823|<span class="rank-name-dl">EDしんや</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|23|802|<span class="rank-name-dl">UKI★ZERO</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|24|770|<span class="rank-name-dl">★✳︎MaMi✳︎★</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|25|763|<span class="rank-name-dl">ぉじん+α</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|26|732|<span class="rank-name-dl">UKI★ZERO</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|27|731|<span class="rank-name-dl">むーやん</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|28|730|<span class="rank-name-dl">Ryo</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|29|719|<span class="rank-name-dl">寺島 一希</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|30|712|<span class="rank-name-dl">コゥジ</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|31|702|<span class="rank-name-dl">コーゾー</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|32|701|<span class="rank-name-dl">十基也@Ohana</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|33|684|<span class="rank-name-dl">やすくん</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|34|676|<span class="rank-name-dl">忠Ｘ</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|35|672|<span class="rank-name-dl">izumi</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|36|669|<span class="rank-name-dl">ソランラップ</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|37|666|<span class="rank-name-dl">ANEGO@Leap</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|38|661|<span class="rank-name-dl">T.Fumiya</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|39|650|<span class="rank-name-dl">Rio</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|40|648|<span class="rank-name-dl">ま</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|41|621|<span class="rank-name-dl">イカ</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|42|607|<span class="rank-name-dl">Rio</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|43|589|<span class="rank-name-dl">寺島 一希</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|44|588|<span class="rank-name-dl">きむ</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|45|583|<span class="rank-name-dl">くりまんじゅう</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|46|572|<span class="rank-name-dl">haru</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|47|567|<span class="rank-name-dl">★おにぃやん★</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|48|562|<span class="rank-name-dl">TAKEDA</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|49|522|<span class="rank-name-dl">haru</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|50|515|<span class="rank-name-dl">テキジイZERO大正</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|6|966|<span class="rank-name-dl">Swan 勝美</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|7|962|<span class="rank-name-dl">✩HIROTO✩ZERO㍽</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|8|959|<span class="rank-name-dl">☆kame☆ZERO㍽☆</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|9|925|<span class="rank-name-dl">T☺︎ｒｕ.</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|9|925|<span class="rank-name-dl">maquila.</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|11|903|<span class="rank-name-dl">きよ様☆Leap</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|12|902|<span class="rank-name-dl">T☺︎ｒｕ.</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|12|902|<span class="rank-name-dl">ＡーＭＡＸ</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|14|900|<span class="rank-name-dl">ぉじん+α</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|14|900|<span class="rank-name-dl">コゥジ</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|16|898|<span class="rank-name-dl">ＡーＭＡＸ</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|17|887|<span class="rank-name-dl">BoB♛Tooru</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|18|872|<span class="rank-name-dl">UKI★ZERO</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|19|862|<span class="rank-name-dl">ぉじん+α</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|20|858|<span class="rank-name-dl">大久保　貴行</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|21|854|<span class="rank-name-dl">MOGERA</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|22|850|<span class="rank-name-dl">むーやん</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|23|841|<span class="rank-name-dl">SU-SAN</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|24|829|<span class="rank-name-dl">ヤマモトサトシ</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|25|770|<span class="rank-name-dl">★✳︎MaMi✳︎★</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|26|763|<span class="rank-name-dl">ぉじん+α</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|27|732|<span class="rank-name-dl">UKI★ZERO</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|28|731|<span class="rank-name-dl">むーやん</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|29|730|<span class="rank-name-dl">Ryo</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|30|719|<span class="rank-name-dl">寺島 一希</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|31|712|<span class="rank-name-dl">コゥジ</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|32|702|<span class="rank-name-dl">コーゾー</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|33|701|<span class="rank-name-dl">十基也@Ohana</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|34|684|<span class="rank-name-dl">やすくん</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|35|676|<span class="rank-name-dl">忠Ｘ</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|36|672|<span class="rank-name-dl">izumi</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|37|669|<span class="rank-name-dl">ソランラップ</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|38|666|<span class="rank-name-dl">ANEGO@Leap</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|39|661|<span class="rank-name-dl">T.Fumiya</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|40|650|<span class="rank-name-dl">Rio</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|41|648|<span class="rank-name-dl">ま</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|42|638|<span class="rank-name-dl">KMR-</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|43|621|<span class="rank-name-dl">イカ</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|44|607|<span class="rank-name-dl">Rio</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|45|589|<span class="rank-name-dl">寺島 一希</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|46|588|<span class="rank-name-dl">きむ</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|47|572|<span class="rank-name-dl">haru</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|48|567|<span class="rank-name-dl">★おにぃやん★</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|49|560|<span class="rank-name-dl">kan</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|50|522|<span class="rank-name-dl">haru</span>|<a href="https://search.dartslive.com/jp/shop/35a27cc5f0c68f4c0d9b047a20a7ba1e">OHANA</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
 |51|499|<span class="rank-name-dl">ちゃんまき@Leap</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
 |52|469|<span class="rank-name-dl">haru</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
 |53|464|<span class="rank-name-dl">ゆみぞう</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|54|392|<span class="rank-name-dl">yui ZERO㍽</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
-|55|298|<span class="rank-name-dl">MIYUKI</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|54|460|<span class="rank-name-dl">maquila.</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|55|392|<span class="rank-name-dl">yui ZERO㍽</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|56|336|<span class="rank-name-dl">M&amp;R</span>|<a href="https://search.dartslive.com/jp/shop/c7ba8493d521df830d9b047a20a7ba1e">Darts Bar Leap</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
+|57|298|<span class="rank-name-dl">MIYUKI</span>|<a href="https://search.dartslive.com/jp/shop/5c38c1c30c685fd00d9b047a20a7ba1e">Darts&Bar Lien</a>|<a href="/darts/rank/大阪府/大阪市港区">大阪府大阪市港区</a>|
 
 
 #### PHOENIXDARTS TOP 100

@@ -48,7 +48,7 @@ ___
 |23|653|<span class="rank-name-pd">みぃこっこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52519?s_seq=52519">ビリヤード・ダーツバー ONE</a>|<a href="/darts/rank/静岡県/田方郡">静岡県田方郡</a>|
 |24|635|<span class="rank-name-dl">テツG@&lt;暁&gt;</span>|<a href="https://search.dartslive.com/jp/shop/cfcf28cde4b7e3520d9b047a20a7ba1e">ビリヤード・ダーツバー ONE</a>|<a href="/darts/rank/静岡県/田方郡">静岡県田方郡</a>|
 |25|572|<span class="rank-name-dl">*みーこ(･ε･)♡*</span>|<a href="https://search.dartslive.com/jp/shop/cfcf28cde4b7e3520d9b047a20a7ba1e">ビリヤード・ダーツバー ONE</a>|<a href="/darts/rank/静岡県/田方郡">静岡県田方郡</a>|
-|26|545|<span class="rank-name-dl">白麻衣様</span>|<a href="https://search.dartslive.com/jp/shop/cfcf28cde4b7e3520d9b047a20a7ba1e">ビリヤード・ダーツバー ONE</a>|<a href="/darts/rank/静岡県/田方郡">静岡県田方郡</a>|
+|26|550|<span class="rank-name-dl">ONE★とんたこす</span>|<a href="https://search.dartslive.com/jp/shop/cfcf28cde4b7e3520d9b047a20a7ba1e">ビリヤード・ダーツバー ONE</a>|<a href="/darts/rank/静岡県/田方郡">静岡県田方郡</a>|
 |27|497|<span class="rank-name-pd">ほーみー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52519?s_seq=52519">ビリヤード・ダーツバー ONE</a>|<a href="/darts/rank/静岡県/田方郡">静岡県田方郡</a>|
 |28|495|<span class="rank-name-pd">*.•あやの•.*</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52519?s_seq=52519">ビリヤード・ダーツバー ONE</a>|<a href="/darts/rank/静岡県/田方郡">静岡県田方郡</a>|
 |29|440|<span class="rank-name-pd">ＬＡＮＣＥＲ・Ｋ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52519?s_seq=52519">ビリヤード・ダーツバー ONE</a>|<a href="/darts/rank/静岡県/田方郡">静岡県田方郡</a>|
@@ -80,7 +80,7 @@ ___
 |13|667|<span class="rank-name-dl">ともみ@暁</span>|<a href="https://search.dartslive.com/jp/shop/cfcf28cde4b7e3520d9b047a20a7ba1e">ビリヤード・ダーツバー ONE</a>|<a href="/darts/rank/静岡県/田方郡">静岡県田方郡</a>|
 |14|635|<span class="rank-name-dl">テツG@&lt;暁&gt;</span>|<a href="https://search.dartslive.com/jp/shop/cfcf28cde4b7e3520d9b047a20a7ba1e">ビリヤード・ダーツバー ONE</a>|<a href="/darts/rank/静岡県/田方郡">静岡県田方郡</a>|
 |15|572|<span class="rank-name-dl">*みーこ(･ε･)♡*</span>|<a href="https://search.dartslive.com/jp/shop/cfcf28cde4b7e3520d9b047a20a7ba1e">ビリヤード・ダーツバー ONE</a>|<a href="/darts/rank/静岡県/田方郡">静岡県田方郡</a>|
-|16|545|<span class="rank-name-dl">白麻衣様</span>|<a href="https://search.dartslive.com/jp/shop/cfcf28cde4b7e3520d9b047a20a7ba1e">ビリヤード・ダーツバー ONE</a>|<a href="/darts/rank/静岡県/田方郡">静岡県田方郡</a>|
+|16|550|<span class="rank-name-dl">ONE★とんたこす</span>|<a href="https://search.dartslive.com/jp/shop/cfcf28cde4b7e3520d9b047a20a7ba1e">ビリヤード・ダーツバー ONE</a>|<a href="/darts/rank/静岡県/田方郡">静岡県田方郡</a>|
 |17|401|<span class="rank-name-dl">ののてぃん</span>|<a href="https://search.dartslive.com/jp/shop/cfcf28cde4b7e3520d9b047a20a7ba1e">ビリヤード・ダーツバー ONE</a>|<a href="/darts/rank/静岡県/田方郡">静岡県田方郡</a>|
 |18|383|<span class="rank-name-dl">ほたるーぱー</span>|<a href="https://search.dartslive.com/jp/shop/cfcf28cde4b7e3520d9b047a20a7ba1e">ビリヤード・ダーツバー ONE</a>|<a href="/darts/rank/静岡県/田方郡">静岡県田方郡</a>|
 

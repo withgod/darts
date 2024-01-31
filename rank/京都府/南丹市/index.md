@@ -30,10 +30,11 @@ ___
 |5|746|<span class="rank-name-pd">Noppert</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77236?s_seq=77236">bar metro</a>|<a href="/darts/rank/京都府/南丹市">京都府南丹市</a>|
 |6|735|<span class="rank-name-pd">ゆーみん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77236?s_seq=77236">bar metro</a>|<a href="/darts/rank/京都府/南丹市">京都府南丹市</a>|
 |7|711|<span class="rank-name-pd">ﾌｪﾆたん@DPL大阪</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77236?s_seq=77236">bar metro</a>|<a href="/darts/rank/京都府/南丹市">京都府南丹市</a>|
-|8|595|<span class="rank-name-pd">トッシー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77236?s_seq=77236">bar metro</a>|<a href="/darts/rank/京都府/南丹市">京都府南丹市</a>|
-|9|564|<span class="rank-name-pd">包国　孝治</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77236?s_seq=77236">bar metro</a>|<a href="/darts/rank/京都府/南丹市">京都府南丹市</a>|
-|10|469|<span class="rank-name-pd">キーシ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77236?s_seq=77236">bar metro</a>|<a href="/darts/rank/京都府/南丹市">京都府南丹市</a>|
-|11|466|<span class="rank-name-pd">ヨルミン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77236?s_seq=77236">bar metro</a>|<a href="/darts/rank/京都府/南丹市">京都府南丹市</a>|
+|8|689|<span class="rank-name-pd">山Cー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77236?s_seq=77236">bar metro</a>|<a href="/darts/rank/京都府/南丹市">京都府南丹市</a>|
+|9|595|<span class="rank-name-pd">トッシー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77236?s_seq=77236">bar metro</a>|<a href="/darts/rank/京都府/南丹市">京都府南丹市</a>|
+|10|564|<span class="rank-name-pd">包国　孝治</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77236?s_seq=77236">bar metro</a>|<a href="/darts/rank/京都府/南丹市">京都府南丹市</a>|
+|11|469|<span class="rank-name-pd">キーシ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77236?s_seq=77236">bar metro</a>|<a href="/darts/rank/京都府/南丹市">京都府南丹市</a>|
+|12|466|<span class="rank-name-pd">ヨルミン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77236?s_seq=77236">bar metro</a>|<a href="/darts/rank/京都府/南丹市">京都府南丹市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -60,10 +61,11 @@ ___
 |5|746|<span class="rank-name-pd">Noppert</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77236?s_seq=77236">bar metro</a>|<a href="/darts/rank/京都府/南丹市">京都府南丹市</a>|
 |6|735|<span class="rank-name-pd">ゆーみん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77236?s_seq=77236">bar metro</a>|<a href="/darts/rank/京都府/南丹市">京都府南丹市</a>|
 |7|711|<span class="rank-name-pd">ﾌｪﾆたん@DPL大阪</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77236?s_seq=77236">bar metro</a>|<a href="/darts/rank/京都府/南丹市">京都府南丹市</a>|
-|8|595|<span class="rank-name-pd">トッシー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77236?s_seq=77236">bar metro</a>|<a href="/darts/rank/京都府/南丹市">京都府南丹市</a>|
-|9|564|<span class="rank-name-pd">包国　孝治</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77236?s_seq=77236">bar metro</a>|<a href="/darts/rank/京都府/南丹市">京都府南丹市</a>|
-|10|469|<span class="rank-name-pd">キーシ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77236?s_seq=77236">bar metro</a>|<a href="/darts/rank/京都府/南丹市">京都府南丹市</a>|
-|11|466|<span class="rank-name-pd">ヨルミン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77236?s_seq=77236">bar metro</a>|<a href="/darts/rank/京都府/南丹市">京都府南丹市</a>|
+|8|689|<span class="rank-name-pd">山Cー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77236?s_seq=77236">bar metro</a>|<a href="/darts/rank/京都府/南丹市">京都府南丹市</a>|
+|9|595|<span class="rank-name-pd">トッシー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77236?s_seq=77236">bar metro</a>|<a href="/darts/rank/京都府/南丹市">京都府南丹市</a>|
+|10|564|<span class="rank-name-pd">包国　孝治</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77236?s_seq=77236">bar metro</a>|<a href="/darts/rank/京都府/南丹市">京都府南丹市</a>|
+|11|469|<span class="rank-name-pd">キーシ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77236?s_seq=77236">bar metro</a>|<a href="/darts/rank/京都府/南丹市">京都府南丹市</a>|
+|12|466|<span class="rank-name-pd">ヨルミン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77236?s_seq=77236">bar metro</a>|<a href="/darts/rank/京都府/南丹市">京都府南丹市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

@@ -42,18 +42,24 @@ ___
 |17|873|<span class="rank-name-dl">臼沢　晋</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
 |18|871|<span class="rank-name-dl">がっちゃん3</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
 |19|860|<span class="rank-name-dl">お水を飲む</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
-|20|851|<span class="rank-name-dl">R.F y@nagi</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
-|21|744|<span class="rank-name-dl">Yumi(๑´ڡ`๑)</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
-|22|707|<span class="rank-name-dl">てぃも</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
-|23|667|<span class="rank-name-dl">MARI☆GRAVITY</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
-|24|660|<span class="rank-name-dl">メグチン@ﾋﾟﾖﾋﾟﾖ</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
-|25|620|<span class="rank-name-dl">みずき</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
-|26|617|<span class="rank-name-dl">KikoC</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
-|27|615|<span class="rank-name-dl">なつき</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
-|28|484|<span class="rank-name-dl">ACHO×あやち</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
-|29|413|<span class="rank-name-dl">らんたん。</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
-|30|371|<span class="rank-name-dl">ゆみ☆</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
-|31|358|<span class="rank-name-dl">ソラノブルボン</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
+|20|744|<span class="rank-name-dl">Yumi(๑´ڡ`๑)</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
+|21|707|<span class="rank-name-dl">てぃも</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
+|22|702|<span class="rank-name-dl">さのきP</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
+|23|696|<span class="rank-name-dl">まる</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
+|24|667|<span class="rank-name-dl">MARI☆GRAVITY</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
+|25|660|<span class="rank-name-dl">メグチン@ﾋﾟﾖﾋﾟﾖ</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
+|26|631|<span class="rank-name-dl">KikoC</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
+|27|625|<span class="rank-name-dl">NO NAME 7792</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
+|28|620|<span class="rank-name-dl">みずき</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
+|29|615|<span class="rank-name-dl">なつき</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
+|30|606|<span class="rank-name-dl">奈月</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
+|31|522|<span class="rank-name-dl">藤子</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
+|32|484|<span class="rank-name-dl">ACHO×あやち</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
+|33|472|<span class="rank-name-dl">わち7</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
+|34|443|<span class="rank-name-dl">ふじこ</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
+|35|413|<span class="rank-name-dl">らんたん。</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
+|36|371|<span class="rank-name-dl">ゆみ☆</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
+|37|358|<span class="rank-name-dl">ソラノブルボン</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -82,18 +88,24 @@ ___
 |17|873|<span class="rank-name-dl">臼沢　晋</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
 |18|871|<span class="rank-name-dl">がっちゃん3</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
 |19|860|<span class="rank-name-dl">お水を飲む</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
-|20|851|<span class="rank-name-dl">R.F y@nagi</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
-|21|744|<span class="rank-name-dl">Yumi(๑´ڡ`๑)</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
-|22|707|<span class="rank-name-dl">てぃも</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
-|23|667|<span class="rank-name-dl">MARI☆GRAVITY</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
-|24|660|<span class="rank-name-dl">メグチン@ﾋﾟﾖﾋﾟﾖ</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
-|25|620|<span class="rank-name-dl">みずき</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
-|26|617|<span class="rank-name-dl">KikoC</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
-|27|615|<span class="rank-name-dl">なつき</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
-|28|484|<span class="rank-name-dl">ACHO×あやち</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
-|29|413|<span class="rank-name-dl">らんたん。</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
-|30|371|<span class="rank-name-dl">ゆみ☆</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
-|31|358|<span class="rank-name-dl">ソラノブルボン</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
+|20|744|<span class="rank-name-dl">Yumi(๑´ڡ`๑)</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
+|21|707|<span class="rank-name-dl">てぃも</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
+|22|702|<span class="rank-name-dl">さのきP</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
+|23|696|<span class="rank-name-dl">まる</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
+|24|667|<span class="rank-name-dl">MARI☆GRAVITY</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
+|25|660|<span class="rank-name-dl">メグチン@ﾋﾟﾖﾋﾟﾖ</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
+|26|631|<span class="rank-name-dl">KikoC</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
+|27|625|<span class="rank-name-dl">NO NAME 7792</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
+|28|620|<span class="rank-name-dl">みずき</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
+|29|615|<span class="rank-name-dl">なつき</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
+|30|606|<span class="rank-name-dl">奈月</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
+|31|522|<span class="rank-name-dl">藤子</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
+|32|484|<span class="rank-name-dl">ACHO×あやち</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
+|33|472|<span class="rank-name-dl">わち7</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
+|34|443|<span class="rank-name-dl">ふじこ</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
+|35|413|<span class="rank-name-dl">らんたん。</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
+|36|371|<span class="rank-name-dl">ゆみ☆</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
+|37|358|<span class="rank-name-dl">ソラノブルボン</span>|<a href="https://search.dartslive.com/jp/shop/34de61f9b35aaa1928032249b44395af">Darts Bar Deer</a>|<a href="/darts/rank/東京都/国立市">東京都国立市</a>|
 
 
 #### PHOENIXDARTS TOP 100

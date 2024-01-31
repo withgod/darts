@@ -25,60 +25,57 @@ ___
 |---|---|---|---|---|
 |1|1103|<span class="rank-name-dl">TK-LONG</span>|<a href="https://search.dartslive.com/jp/shop/2d3a7b5b77a1eab40d9b047a20a7ba1e">Ace club</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
 |2|1071|<span class="rank-name-dl">本間優斗</span>|<a href="https://search.dartslive.com/jp/shop/2d3a7b5b77a1eab40d9b047a20a7ba1e">Ace club</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|3|1013|<span class="rank-name-dl">みっき〜☆</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|4|1006|<span class="rank-name-dl">辻本 祐吾</span>|<a href="https://search.dartslive.com/jp/shop/2d3a7b5b77a1eab40d9b047a20a7ba1e">Ace club</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|3|1058|<span class="rank-name-dl">辻本 祐吾</span>|<a href="https://search.dartslive.com/jp/shop/2d3a7b5b77a1eab40d9b047a20a7ba1e">Ace club</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|4|1013|<span class="rank-name-dl">みっき〜☆</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
 |5|993|<span class="rank-name-dl">吉田好宏</span>|<a href="https://search.dartslive.com/jp/shop/2d3a7b5b77a1eab40d9b047a20a7ba1e">Ace club</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
 |6|988|<span class="rank-name-dl">ウメミっち</span>|<a href="https://search.dartslive.com/jp/shop/2d3a7b5b77a1eab40d9b047a20a7ba1e">Ace club</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
 |7|968|<span class="rank-name-dl">こいちゃん</span>|<a href="https://search.dartslive.com/jp/shop/2d3a7b5b77a1eab40d9b047a20a7ba1e">Ace club</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
 |8|962|<span class="rank-name-dl">にぎにぎ</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
 |9|947|<span class="rank-name-dl">本間　優斗</span>|<a href="https://search.dartslive.com/jp/shop/2d3a7b5b77a1eab40d9b047a20a7ba1e">Ace club</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
 |10|919|<span class="rank-name-dl">梅木　陽二郎</span>|<a href="https://search.dartslive.com/jp/shop/2d3a7b5b77a1eab40d9b047a20a7ba1e">Ace club</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|11|916|<span class="rank-name-dl">にぎにぎ</span>|<a href="https://search.dartslive.com/jp/shop/2d3a7b5b77a1eab40d9b047a20a7ba1e">Ace club</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
 |11|916|<span class="rank-name-dl">三宅 勇輝</span>|<a href="https://search.dartslive.com/jp/shop/2d3a7b5b77a1eab40d9b047a20a7ba1e">Ace club</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|12|894|<span class="rank-name-dl">リッカルド</span>|<a href="https://search.dartslive.com/jp/shop/2d3a7b5b77a1eab40d9b047a20a7ba1e">Ace club</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|13|867|<span class="rank-name-dl">たくわん</span>|<a href="https://search.dartslive.com/jp/shop/2d3a7b5b77a1eab40d9b047a20a7ba1e">Ace club</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|14|866|<span class="rank-name-dl">ネーナはさっちー</span>|<a href="https://search.dartslive.com/jp/shop/2d3a7b5b77a1eab40d9b047a20a7ba1e">Ace club</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|15|864|<span class="rank-name-dl">maho(∵)/</span>|<a href="https://search.dartslive.com/jp/shop/2d3a7b5b77a1eab40d9b047a20a7ba1e">Ace club</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|16|851|<span class="rank-name-dl">雲　黒斎</span>|<a href="https://search.dartslive.com/jp/shop/2d3a7b5b77a1eab40d9b047a20a7ba1e">Ace club</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|17|848|<span class="rank-name-dl">Ｅｉｋｅｉ</span>|<a href="https://search.dartslive.com/jp/shop/2d3a7b5b77a1eab40d9b047a20a7ba1e">Ace club</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|18|839|<span class="rank-name-dl">珍　恋次郎</span>|<a href="https://search.dartslive.com/jp/shop/2d3a7b5b77a1eab40d9b047a20a7ba1e">Ace club</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|19|829|<span class="rank-name-dl">梅木　陽二郎</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|20|775|<span class="rank-name-dl">toitoi373</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|21|749|<span class="rank-name-dl">白鵬☆彡.。</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|22|733|<span class="rank-name-dl">rrr島岡和也@2526</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|23|715|<span class="rank-name-dl">こだっく</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|24|708|<span class="rank-name-dl">Daiki@dardos</span>|<a href="https://search.dartslive.com/jp/shop/2e2c36c9616dc97c0d9b047a20a7ba1e">G2</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|25|703|<span class="rank-name-dl">Take</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|25|703|<span class="rank-name-dl">たく@Estrella</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|13|894|<span class="rank-name-dl">リッカルド</span>|<a href="https://search.dartslive.com/jp/shop/2d3a7b5b77a1eab40d9b047a20a7ba1e">Ace club</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|14|867|<span class="rank-name-dl">たくわん</span>|<a href="https://search.dartslive.com/jp/shop/2d3a7b5b77a1eab40d9b047a20a7ba1e">Ace club</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|15|866|<span class="rank-name-dl">ネーナはさっちー</span>|<a href="https://search.dartslive.com/jp/shop/2d3a7b5b77a1eab40d9b047a20a7ba1e">Ace club</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|16|864|<span class="rank-name-dl">maho(∵)/</span>|<a href="https://search.dartslive.com/jp/shop/2d3a7b5b77a1eab40d9b047a20a7ba1e">Ace club</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|17|851|<span class="rank-name-dl">雲　黒斎</span>|<a href="https://search.dartslive.com/jp/shop/2d3a7b5b77a1eab40d9b047a20a7ba1e">Ace club</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|18|850|<span class="rank-name-dl">たく@Estrella</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|19|848|<span class="rank-name-dl">Ｅｉｋｅｉ</span>|<a href="https://search.dartslive.com/jp/shop/2d3a7b5b77a1eab40d9b047a20a7ba1e">Ace club</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|20|829|<span class="rank-name-dl">梅木　陽二郎</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|21|775|<span class="rank-name-dl">toitoi373</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|22|749|<span class="rank-name-dl">白鵬☆彡.。</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|23|733|<span class="rank-name-dl">rrr島岡和也@2526</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|24|715|<span class="rank-name-dl">こだっく</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|25|708|<span class="rank-name-dl">Daiki@dardos</span>|<a href="https://search.dartslive.com/jp/shop/2e2c36c9616dc97c0d9b047a20a7ba1e">G2</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|26|703|<span class="rank-name-dl">Take</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
 |27|698|<span class="rank-name-dl">ちーちゃん。</span>|<a href="https://search.dartslive.com/jp/shop/2d3a7b5b77a1eab40d9b047a20a7ba1e">Ace club</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
 |28|687|<span class="rank-name-dl">3106</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
 |29|668|<span class="rank-name-dl">オスズ</span>|<a href="https://search.dartslive.com/jp/shop/2d3a7b5b77a1eab40d9b047a20a7ba1e">Ace club</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
 |30|657|<span class="rank-name-dl">Ghost</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|31|651|<span class="rank-name-dl">祥san</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|32|641|<span class="rank-name-dl">maki</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|32|641|<span class="rank-name-dl">白鵬</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|34|632|<span class="rank-name-dl">あべまゆ</span>|<a href="https://search.dartslive.com/jp/shop/2d3a7b5b77a1eab40d9b047a20a7ba1e">Ace club</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|35|631|<span class="rank-name-dl">Kokibamboo</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|36|621|<span class="rank-name-dl">ジュウオ</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|37|618|<span class="rank-name-dl">Yoshiki【G2】</span>|<a href="https://search.dartslive.com/jp/shop/2e2c36c9616dc97c0d9b047a20a7ba1e">G2</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|38|610|<span class="rank-name-dl">GARI3106KUN</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|39|600|<span class="rank-name-dl">桃人</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|31|655|<span class="rank-name-dl">やんやん</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|32|651|<span class="rank-name-dl">祥san</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|33|641|<span class="rank-name-dl">maki</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|33|641|<span class="rank-name-dl">白鵬</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|35|632|<span class="rank-name-dl">あべまゆ</span>|<a href="https://search.dartslive.com/jp/shop/2d3a7b5b77a1eab40d9b047a20a7ba1e">Ace club</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|36|631|<span class="rank-name-dl">Kokibamboo</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|37|622|<span class="rank-name-dl">ハチマル＠G2</span>|<a href="https://search.dartslive.com/jp/shop/2e2c36c9616dc97c0d9b047a20a7ba1e">G2</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|38|618|<span class="rank-name-dl">Yoshiki【G2】</span>|<a href="https://search.dartslive.com/jp/shop/2e2c36c9616dc97c0d9b047a20a7ba1e">G2</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|39|610|<span class="rank-name-dl">GARI3106KUN</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
 |40|595|<span class="rank-name-dl">うーじ(^ω^)</span>|<a href="https://search.dartslive.com/jp/shop/2e2c36c9616dc97c0d9b047a20a7ba1e">G2</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
 |41|589|<span class="rank-name-dl">Tomoko☆</span>|<a href="https://search.dartslive.com/jp/shop/2d3a7b5b77a1eab40d9b047a20a7ba1e">Ace club</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|42|575|<span class="rank-name-dl">ハチマル＠G2</span>|<a href="https://search.dartslive.com/jp/shop/2e2c36c9616dc97c0d9b047a20a7ba1e">G2</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|43|574|<span class="rank-name-dl">やんやん</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|44|538|<span class="rank-name-dl">junior 323</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|45|520|<span class="rank-name-dl">junko</span>|<a href="https://search.dartslive.com/jp/shop/2e2c36c9616dc97c0d9b047a20a7ba1e">G2</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|46|516|<span class="rank-name-dl">しまむー</span>|<a href="https://search.dartslive.com/jp/shop/2e2c36c9616dc97c0d9b047a20a7ba1e">G2</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|47|499|<span class="rank-name-dl">はるか</span>|<a href="https://search.dartslive.com/jp/shop/2e2c36c9616dc97c0d9b047a20a7ba1e">G2</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|48|468|<span class="rank-name-pd">katupa</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9438?s_seq=9438">レインボーワールド橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|49|440|<span class="rank-name-pd">ともにろ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9438?s_seq=9438">レインボーワールド橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|50|417|<span class="rank-name-dl">GUSHIRIy</span>|<a href="https://search.dartslive.com/jp/shop/2e2c36c9616dc97c0d9b047a20a7ba1e">G2</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|51|397|<span class="rank-name-dl">だいちゃん</span>|<a href="https://search.dartslive.com/jp/shop/bcfa64b8fef83e360d9b047a20a7ba1e">Bar Liberte</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|52|369|<span class="rank-name-dl">RYOTA</span>|<a href="https://search.dartslive.com/jp/shop/2e2c36c9616dc97c0d9b047a20a7ba1e">G2</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|53|348|<span class="rank-name-dl">★ＡＹＡＮＯ★</span>|<a href="https://search.dartslive.com/jp/shop/2d3a7b5b77a1eab40d9b047a20a7ba1e">Ace club</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|54|310|<span class="rank-name-dl">よ。</span>|<a href="https://search.dartslive.com/jp/shop/2e2c36c9616dc97c0d9b047a20a7ba1e">G2</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|55|284|<span class="rank-name-dl">かおりん</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|56|227|<span class="rank-name-pd">もい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9438?s_seq=9438">レインボーワールド橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|42|520|<span class="rank-name-dl">junko</span>|<a href="https://search.dartslive.com/jp/shop/2e2c36c9616dc97c0d9b047a20a7ba1e">G2</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|43|516|<span class="rank-name-dl">しまむー</span>|<a href="https://search.dartslive.com/jp/shop/2e2c36c9616dc97c0d9b047a20a7ba1e">G2</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|44|499|<span class="rank-name-dl">はるか</span>|<a href="https://search.dartslive.com/jp/shop/2e2c36c9616dc97c0d9b047a20a7ba1e">G2</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|45|468|<span class="rank-name-pd">katupa</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9438?s_seq=9438">レインボーワールド橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|46|440|<span class="rank-name-pd">ともにろ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9438?s_seq=9438">レインボーワールド橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|47|417|<span class="rank-name-dl">GUSHIRIy</span>|<a href="https://search.dartslive.com/jp/shop/2e2c36c9616dc97c0d9b047a20a7ba1e">G2</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|48|397|<span class="rank-name-dl">だいちゃん</span>|<a href="https://search.dartslive.com/jp/shop/bcfa64b8fef83e360d9b047a20a7ba1e">Bar Liberte</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|49|369|<span class="rank-name-dl">RYOTA</span>|<a href="https://search.dartslive.com/jp/shop/2e2c36c9616dc97c0d9b047a20a7ba1e">G2</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|50|348|<span class="rank-name-dl">★ＡＹＡＮＯ★</span>|<a href="https://search.dartslive.com/jp/shop/2d3a7b5b77a1eab40d9b047a20a7ba1e">Ace club</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|51|310|<span class="rank-name-dl">よ。</span>|<a href="https://search.dartslive.com/jp/shop/2e2c36c9616dc97c0d9b047a20a7ba1e">G2</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|52|284|<span class="rank-name-dl">かおりん</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|53|227|<span class="rank-name-pd">もい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9438?s_seq=9438">レインボーワールド橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -90,57 +87,54 @@ ___
 |---|---|---|---|---|
 |1|1103|<span class="rank-name-dl">TK-LONG</span>|<a href="https://search.dartslive.com/jp/shop/2d3a7b5b77a1eab40d9b047a20a7ba1e">Ace club</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
 |2|1071|<span class="rank-name-dl">本間優斗</span>|<a href="https://search.dartslive.com/jp/shop/2d3a7b5b77a1eab40d9b047a20a7ba1e">Ace club</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|3|1013|<span class="rank-name-dl">みっき〜☆</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|4|1006|<span class="rank-name-dl">辻本 祐吾</span>|<a href="https://search.dartslive.com/jp/shop/2d3a7b5b77a1eab40d9b047a20a7ba1e">Ace club</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|3|1058|<span class="rank-name-dl">辻本 祐吾</span>|<a href="https://search.dartslive.com/jp/shop/2d3a7b5b77a1eab40d9b047a20a7ba1e">Ace club</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|4|1013|<span class="rank-name-dl">みっき〜☆</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
 |5|993|<span class="rank-name-dl">吉田好宏</span>|<a href="https://search.dartslive.com/jp/shop/2d3a7b5b77a1eab40d9b047a20a7ba1e">Ace club</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
 |6|988|<span class="rank-name-dl">ウメミっち</span>|<a href="https://search.dartslive.com/jp/shop/2d3a7b5b77a1eab40d9b047a20a7ba1e">Ace club</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
 |7|968|<span class="rank-name-dl">こいちゃん</span>|<a href="https://search.dartslive.com/jp/shop/2d3a7b5b77a1eab40d9b047a20a7ba1e">Ace club</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
 |8|962|<span class="rank-name-dl">にぎにぎ</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
 |9|947|<span class="rank-name-dl">本間　優斗</span>|<a href="https://search.dartslive.com/jp/shop/2d3a7b5b77a1eab40d9b047a20a7ba1e">Ace club</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
 |10|919|<span class="rank-name-dl">梅木　陽二郎</span>|<a href="https://search.dartslive.com/jp/shop/2d3a7b5b77a1eab40d9b047a20a7ba1e">Ace club</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|11|916|<span class="rank-name-dl">にぎにぎ</span>|<a href="https://search.dartslive.com/jp/shop/2d3a7b5b77a1eab40d9b047a20a7ba1e">Ace club</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
 |11|916|<span class="rank-name-dl">三宅 勇輝</span>|<a href="https://search.dartslive.com/jp/shop/2d3a7b5b77a1eab40d9b047a20a7ba1e">Ace club</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|12|894|<span class="rank-name-dl">リッカルド</span>|<a href="https://search.dartslive.com/jp/shop/2d3a7b5b77a1eab40d9b047a20a7ba1e">Ace club</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|13|867|<span class="rank-name-dl">たくわん</span>|<a href="https://search.dartslive.com/jp/shop/2d3a7b5b77a1eab40d9b047a20a7ba1e">Ace club</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|14|866|<span class="rank-name-dl">ネーナはさっちー</span>|<a href="https://search.dartslive.com/jp/shop/2d3a7b5b77a1eab40d9b047a20a7ba1e">Ace club</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|15|864|<span class="rank-name-dl">maho(∵)/</span>|<a href="https://search.dartslive.com/jp/shop/2d3a7b5b77a1eab40d9b047a20a7ba1e">Ace club</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|16|851|<span class="rank-name-dl">雲　黒斎</span>|<a href="https://search.dartslive.com/jp/shop/2d3a7b5b77a1eab40d9b047a20a7ba1e">Ace club</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|17|848|<span class="rank-name-dl">Ｅｉｋｅｉ</span>|<a href="https://search.dartslive.com/jp/shop/2d3a7b5b77a1eab40d9b047a20a7ba1e">Ace club</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|18|839|<span class="rank-name-dl">珍　恋次郎</span>|<a href="https://search.dartslive.com/jp/shop/2d3a7b5b77a1eab40d9b047a20a7ba1e">Ace club</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|19|829|<span class="rank-name-dl">梅木　陽二郎</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|20|775|<span class="rank-name-dl">toitoi373</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|21|749|<span class="rank-name-dl">白鵬☆彡.。</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|22|733|<span class="rank-name-dl">rrr島岡和也@2526</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|23|715|<span class="rank-name-dl">こだっく</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|24|708|<span class="rank-name-dl">Daiki@dardos</span>|<a href="https://search.dartslive.com/jp/shop/2e2c36c9616dc97c0d9b047a20a7ba1e">G2</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|25|703|<span class="rank-name-dl">Take</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|25|703|<span class="rank-name-dl">たく@Estrella</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|13|894|<span class="rank-name-dl">リッカルド</span>|<a href="https://search.dartslive.com/jp/shop/2d3a7b5b77a1eab40d9b047a20a7ba1e">Ace club</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|14|867|<span class="rank-name-dl">たくわん</span>|<a href="https://search.dartslive.com/jp/shop/2d3a7b5b77a1eab40d9b047a20a7ba1e">Ace club</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|15|866|<span class="rank-name-dl">ネーナはさっちー</span>|<a href="https://search.dartslive.com/jp/shop/2d3a7b5b77a1eab40d9b047a20a7ba1e">Ace club</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|16|864|<span class="rank-name-dl">maho(∵)/</span>|<a href="https://search.dartslive.com/jp/shop/2d3a7b5b77a1eab40d9b047a20a7ba1e">Ace club</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|17|851|<span class="rank-name-dl">雲　黒斎</span>|<a href="https://search.dartslive.com/jp/shop/2d3a7b5b77a1eab40d9b047a20a7ba1e">Ace club</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|18|850|<span class="rank-name-dl">たく@Estrella</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|19|848|<span class="rank-name-dl">Ｅｉｋｅｉ</span>|<a href="https://search.dartslive.com/jp/shop/2d3a7b5b77a1eab40d9b047a20a7ba1e">Ace club</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|20|829|<span class="rank-name-dl">梅木　陽二郎</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|21|775|<span class="rank-name-dl">toitoi373</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|22|749|<span class="rank-name-dl">白鵬☆彡.。</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|23|733|<span class="rank-name-dl">rrr島岡和也@2526</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|24|715|<span class="rank-name-dl">こだっく</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|25|708|<span class="rank-name-dl">Daiki@dardos</span>|<a href="https://search.dartslive.com/jp/shop/2e2c36c9616dc97c0d9b047a20a7ba1e">G2</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|26|703|<span class="rank-name-dl">Take</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
 |27|698|<span class="rank-name-dl">ちーちゃん。</span>|<a href="https://search.dartslive.com/jp/shop/2d3a7b5b77a1eab40d9b047a20a7ba1e">Ace club</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
 |28|687|<span class="rank-name-dl">3106</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
 |29|668|<span class="rank-name-dl">オスズ</span>|<a href="https://search.dartslive.com/jp/shop/2d3a7b5b77a1eab40d9b047a20a7ba1e">Ace club</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
 |30|657|<span class="rank-name-dl">Ghost</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|31|651|<span class="rank-name-dl">祥san</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|32|641|<span class="rank-name-dl">maki</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|32|641|<span class="rank-name-dl">白鵬</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|34|632|<span class="rank-name-dl">あべまゆ</span>|<a href="https://search.dartslive.com/jp/shop/2d3a7b5b77a1eab40d9b047a20a7ba1e">Ace club</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|35|631|<span class="rank-name-dl">Kokibamboo</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|36|621|<span class="rank-name-dl">ジュウオ</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|37|618|<span class="rank-name-dl">Yoshiki【G2】</span>|<a href="https://search.dartslive.com/jp/shop/2e2c36c9616dc97c0d9b047a20a7ba1e">G2</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|38|610|<span class="rank-name-dl">GARI3106KUN</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|39|600|<span class="rank-name-dl">桃人</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|31|655|<span class="rank-name-dl">やんやん</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|32|651|<span class="rank-name-dl">祥san</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|33|641|<span class="rank-name-dl">maki</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|33|641|<span class="rank-name-dl">白鵬</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|35|632|<span class="rank-name-dl">あべまゆ</span>|<a href="https://search.dartslive.com/jp/shop/2d3a7b5b77a1eab40d9b047a20a7ba1e">Ace club</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|36|631|<span class="rank-name-dl">Kokibamboo</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|37|622|<span class="rank-name-dl">ハチマル＠G2</span>|<a href="https://search.dartslive.com/jp/shop/2e2c36c9616dc97c0d9b047a20a7ba1e">G2</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|38|618|<span class="rank-name-dl">Yoshiki【G2】</span>|<a href="https://search.dartslive.com/jp/shop/2e2c36c9616dc97c0d9b047a20a7ba1e">G2</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|39|610|<span class="rank-name-dl">GARI3106KUN</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
 |40|595|<span class="rank-name-dl">うーじ(^ω^)</span>|<a href="https://search.dartslive.com/jp/shop/2e2c36c9616dc97c0d9b047a20a7ba1e">G2</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
 |41|589|<span class="rank-name-dl">Tomoko☆</span>|<a href="https://search.dartslive.com/jp/shop/2d3a7b5b77a1eab40d9b047a20a7ba1e">Ace club</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|42|575|<span class="rank-name-dl">ハチマル＠G2</span>|<a href="https://search.dartslive.com/jp/shop/2e2c36c9616dc97c0d9b047a20a7ba1e">G2</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|43|574|<span class="rank-name-dl">やんやん</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|44|538|<span class="rank-name-dl">junior 323</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|45|520|<span class="rank-name-dl">junko</span>|<a href="https://search.dartslive.com/jp/shop/2e2c36c9616dc97c0d9b047a20a7ba1e">G2</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|46|516|<span class="rank-name-dl">しまむー</span>|<a href="https://search.dartslive.com/jp/shop/2e2c36c9616dc97c0d9b047a20a7ba1e">G2</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|47|499|<span class="rank-name-dl">はるか</span>|<a href="https://search.dartslive.com/jp/shop/2e2c36c9616dc97c0d9b047a20a7ba1e">G2</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|48|417|<span class="rank-name-dl">GUSHIRIy</span>|<a href="https://search.dartslive.com/jp/shop/2e2c36c9616dc97c0d9b047a20a7ba1e">G2</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|49|397|<span class="rank-name-dl">だいちゃん</span>|<a href="https://search.dartslive.com/jp/shop/bcfa64b8fef83e360d9b047a20a7ba1e">Bar Liberte</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|50|369|<span class="rank-name-dl">RYOTA</span>|<a href="https://search.dartslive.com/jp/shop/2e2c36c9616dc97c0d9b047a20a7ba1e">G2</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|51|348|<span class="rank-name-dl">★ＡＹＡＮＯ★</span>|<a href="https://search.dartslive.com/jp/shop/2d3a7b5b77a1eab40d9b047a20a7ba1e">Ace club</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|52|310|<span class="rank-name-dl">よ。</span>|<a href="https://search.dartslive.com/jp/shop/2e2c36c9616dc97c0d9b047a20a7ba1e">G2</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
-|53|284|<span class="rank-name-dl">かおりん</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|42|520|<span class="rank-name-dl">junko</span>|<a href="https://search.dartslive.com/jp/shop/2e2c36c9616dc97c0d9b047a20a7ba1e">G2</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|43|516|<span class="rank-name-dl">しまむー</span>|<a href="https://search.dartslive.com/jp/shop/2e2c36c9616dc97c0d9b047a20a7ba1e">G2</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|44|499|<span class="rank-name-dl">はるか</span>|<a href="https://search.dartslive.com/jp/shop/2e2c36c9616dc97c0d9b047a20a7ba1e">G2</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|45|417|<span class="rank-name-dl">GUSHIRIy</span>|<a href="https://search.dartslive.com/jp/shop/2e2c36c9616dc97c0d9b047a20a7ba1e">G2</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|46|397|<span class="rank-name-dl">だいちゃん</span>|<a href="https://search.dartslive.com/jp/shop/bcfa64b8fef83e360d9b047a20a7ba1e">Bar Liberte</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|47|369|<span class="rank-name-dl">RYOTA</span>|<a href="https://search.dartslive.com/jp/shop/2e2c36c9616dc97c0d9b047a20a7ba1e">G2</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|48|348|<span class="rank-name-dl">★ＡＹＡＮＯ★</span>|<a href="https://search.dartslive.com/jp/shop/2d3a7b5b77a1eab40d9b047a20a7ba1e">Ace club</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|49|310|<span class="rank-name-dl">よ。</span>|<a href="https://search.dartslive.com/jp/shop/2e2c36c9616dc97c0d9b047a20a7ba1e">G2</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
+|50|284|<span class="rank-name-dl">かおりん</span>|<a href="https://search.dartslive.com/jp/shop/4d663d123811b0a80d9b047a20a7ba1e">レインボーワールド 橿原店</a>|<a href="/darts/rank/奈良県/橿原市">奈良県橿原市</a>|
 
 
 #### PHOENIXDARTS TOP 100

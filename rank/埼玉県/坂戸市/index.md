@@ -53,37 +53,35 @@ ___
 |28|647|<span class="rank-name-pd">パプリカ（赤）</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84706?s_seq=84706">BAR だるま</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 |29|640|<span class="rank-name-pd">桜井和則</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84706?s_seq=84706">BAR だるま</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 |30|638|<span class="rank-name-pd">YUMA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58060?s_seq=58060">バーテラ</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|31|637|<span class="rank-name-dl">ちょろ</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|32|625|<span class="rank-name-dl">青蓮</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|30|638|<span class="rank-name-dl">青蓮</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|32|637|<span class="rank-name-dl">ちょろ</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 |33|621|<span class="rank-name-pd">メロ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58060?s_seq=58060">バーテラ</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 |34|617|<span class="rank-name-pd">☠TERU☠</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58060?s_seq=58060">バーテラ</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 |35|612|<span class="rank-name-dl">®️ GUNJI</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|36|606|<span class="rank-name-dl">WINTER</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|37|602|<span class="rank-name-pd">kinkin</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58060?s_seq=58060">バーテラ</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|38|600|<span class="rank-name-pd">ぱつきん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75430?s_seq=75430">Lucky CLOVER</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|38|600|<span class="rank-name-pd">サブの一発屋</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84706?s_seq=84706">BAR だるま</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|40|599|<span class="rank-name-pd">EMA[^&amp;^]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75430?s_seq=75430">Lucky CLOVER</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|41|559|<span class="rank-name-pd">四十</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58060?s_seq=58060">バーテラ</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|42|556|<span class="rank-name-pd">めろゆにばーす</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58060?s_seq=58060">バーテラ</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|43|551|<span class="rank-name-pd">K.I.T</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58060?s_seq=58060">バーテラ</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|44|536|<span class="rank-name-pd">めろゆにばーす</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84706?s_seq=84706">BAR だるま</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|45|528|<span class="rank-name-pd">えぬみ(｡ρω-｡)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84706?s_seq=84706">BAR だるま</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|46|527|<span class="rank-name-pd">ばいきんちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75430?s_seq=75430">Lucky CLOVER</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|47|519|<span class="rank-name-pd">Ema daruma</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84706?s_seq=84706">BAR だるま</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|48|486|<span class="rank-name-pd">やまなか(・∀・)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58060?s_seq=58060">バーテラ</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|49|483|<span class="rank-name-pd">M@S@Y@</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84706?s_seq=84706">BAR だるま</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|50|471|<span class="rank-name-pd">TOKIO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84706?s_seq=84706">BAR だるま</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|51|469|<span class="rank-name-dl">YM(堕天使)</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|52|446|<span class="rank-name-pd">NOBUDESUKEDO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84706?s_seq=84706">BAR だるま</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|53|438|<span class="rank-name-pd">メロ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84706?s_seq=84706">BAR だるま</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|54|436|<span class="rank-name-pd">たつ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75430?s_seq=75430">Lucky CLOVER</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|55|416|<span class="rank-name-dl">塩レモンラーメン</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|56|413|<span class="rank-name-dl">みおりん</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|57|406|<span class="rank-name-pd">にっしーZERO-1</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58060?s_seq=58060">バーテラ</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|58|399|<span class="rank-name-pd">AKIYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84706?s_seq=84706">BAR だるま</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|59|397|<span class="rank-name-pd">あい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75430?s_seq=75430">Lucky CLOVER</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|60|368|<span class="rank-name-pd">YM</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58060?s_seq=58060">バーテラ</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|61|359|<span class="rank-name-pd">まっつん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75430?s_seq=75430">Lucky CLOVER</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|36|602|<span class="rank-name-pd">kinkin</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58060?s_seq=58060">バーテラ</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|37|600|<span class="rank-name-pd">ぱつきん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75430?s_seq=75430">Lucky CLOVER</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|37|600|<span class="rank-name-pd">サブの一発屋</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84706?s_seq=84706">BAR だるま</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|39|599|<span class="rank-name-pd">EMA[^&amp;^]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75430?s_seq=75430">Lucky CLOVER</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|40|559|<span class="rank-name-pd">四十</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58060?s_seq=58060">バーテラ</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|41|556|<span class="rank-name-pd">めろゆにばーす</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58060?s_seq=58060">バーテラ</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|42|551|<span class="rank-name-pd">K.I.T</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58060?s_seq=58060">バーテラ</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|43|536|<span class="rank-name-pd">めろゆにばーす</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84706?s_seq=84706">BAR だるま</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|44|528|<span class="rank-name-pd">えぬみ(｡ρω-｡)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84706?s_seq=84706">BAR だるま</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|45|527|<span class="rank-name-pd">ばいきんちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75430?s_seq=75430">Lucky CLOVER</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|46|519|<span class="rank-name-pd">Ema daruma</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84706?s_seq=84706">BAR だるま</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|47|486|<span class="rank-name-pd">やまなか(・∀・)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58060?s_seq=58060">バーテラ</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|48|483|<span class="rank-name-pd">M@S@Y@</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84706?s_seq=84706">BAR だるま</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|49|471|<span class="rank-name-pd">TOKIO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84706?s_seq=84706">BAR だるま</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|50|469|<span class="rank-name-dl">YM(堕天使)</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|51|446|<span class="rank-name-pd">NOBUDESUKEDO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84706?s_seq=84706">BAR だるま</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|52|438|<span class="rank-name-pd">メロ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84706?s_seq=84706">BAR だるま</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|53|436|<span class="rank-name-pd">たつ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75430?s_seq=75430">Lucky CLOVER</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|54|413|<span class="rank-name-dl">みおりん</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|55|406|<span class="rank-name-pd">にっしーZERO-1</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58060?s_seq=58060">バーテラ</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|56|399|<span class="rank-name-pd">AKIYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84706?s_seq=84706">BAR だるま</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|57|397|<span class="rank-name-pd">あい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75430?s_seq=75430">Lucky CLOVER</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|58|368|<span class="rank-name-pd">YM</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58060?s_seq=58060">バーテラ</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|59|359|<span class="rank-name-pd">まっつん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75430?s_seq=75430">Lucky CLOVER</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -109,13 +107,11 @@ ___
 |14|658|<span class="rank-name-dl">めろ</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 |15|650|<span class="rank-name-dl">くろ</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 |15|650|<span class="rank-name-dl">たかあき</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|17|637|<span class="rank-name-dl">ちょろ</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|18|625|<span class="rank-name-dl">青蓮</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|17|638|<span class="rank-name-dl">青蓮</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|18|637|<span class="rank-name-dl">ちょろ</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 |19|612|<span class="rank-name-dl">®️ GUNJI</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|20|606|<span class="rank-name-dl">WINTER</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|21|469|<span class="rank-name-dl">YM(堕天使)</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|22|416|<span class="rank-name-dl">塩レモンラーメン</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
-|23|413|<span class="rank-name-dl">みおりん</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|20|469|<span class="rank-name-dl">YM(堕天使)</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
+|21|413|<span class="rank-name-dl">みおりん</span>|<a href="https://search.dartslive.com/jp/shop/4b3d1df5a51614aa0d9b047a20a7ba1e">ポイント坂戸駅前店</a>|<a href="/darts/rank/埼玉県/坂戸市">埼玉県坂戸市</a>|
 
 
 #### PHOENIXDARTS TOP 100

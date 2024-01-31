@@ -27,29 +27,26 @@ ___
 |2|973|<span class="rank-name-dl">引き戸押す人</span>|<a href="https://search.dartslive.com/jp/shop/bc7e0ec4688817dc0d9b047a20a7ba1e">ホワイトホース</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
 |3|919|<span class="rank-name-dl">そこらの山田さん</span>|<a href="https://search.dartslive.com/jp/shop/320da5fdebc107b00d9b047a20a7ba1e">ナイトインパブ　シルク</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
 |4|908|<span class="rank-name-dl">ひよ</span>|<a href="https://search.dartslive.com/jp/shop/bc7e0ec4688817dc0d9b047a20a7ba1e">ホワイトホース</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
-|5|897|<span class="rank-name-dl">カガシュン</span>|<a href="https://search.dartslive.com/jp/shop/320da5fdebc107b00d9b047a20a7ba1e">ナイトインパブ　シルク</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
-|6|885|<span class="rank-name-dl">ATSUSHI</span>|<a href="https://search.dartslive.com/jp/shop/320da5fdebc107b00d9b047a20a7ba1e">ナイトインパブ　シルク</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
-|6|885|<span class="rank-name-dl">Applejack</span>|<a href="https://search.dartslive.com/jp/shop/bc7e0ec4688817dc0d9b047a20a7ba1e">ホワイトホース</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
-|8|881|<span class="rank-name-dl">かきピー</span>|<a href="https://search.dartslive.com/jp/shop/320da5fdebc107b00d9b047a20a7ba1e">ナイトインパブ　シルク</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
+|5|904|<span class="rank-name-dl">かきピー</span>|<a href="https://search.dartslive.com/jp/shop/320da5fdebc107b00d9b047a20a7ba1e">ナイトインパブ　シルク</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
+|6|897|<span class="rank-name-dl">カガシュン</span>|<a href="https://search.dartslive.com/jp/shop/320da5fdebc107b00d9b047a20a7ba1e">ナイトインパブ　シルク</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
+|7|885|<span class="rank-name-dl">ATSUSHI</span>|<a href="https://search.dartslive.com/jp/shop/320da5fdebc107b00d9b047a20a7ba1e">ナイトインパブ　シルク</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
+|8|868|<span class="rank-name-dl">齊藤 遥也</span>|<a href="https://search.dartslive.com/jp/shop/320da5fdebc107b00d9b047a20a7ba1e">ナイトインパブ　シルク</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
 |9|866|<span class="rank-name-dl">TOYO☆ULTRA</span>|<a href="https://search.dartslive.com/jp/shop/320da5fdebc107b00d9b047a20a7ba1e">ナイトインパブ　シルク</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
-|10|848|<span class="rank-name-dl">齊藤 遥也</span>|<a href="https://search.dartslive.com/jp/shop/320da5fdebc107b00d9b047a20a7ba1e">ナイトインパブ　シルク</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
-|11|843|<span class="rank-name-dl">村上創弥</span>|<a href="https://search.dartslive.com/jp/shop/320da5fdebc107b00d9b047a20a7ba1e">ナイトインパブ　シルク</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
-|12|821|<span class="rank-name-dl">りゅうと(￣▽￣)</span>|<a href="https://search.dartslive.com/jp/shop/320da5fdebc107b00d9b047a20a7ba1e">ナイトインパブ　シルク</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
-|13|819|<span class="rank-name-dl">ノリちゃんネル</span>|<a href="https://search.dartslive.com/jp/shop/bc7e0ec4688817dc0d9b047a20a7ba1e">ホワイトホース</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
-|14|804|<span class="rank-name-dl">ゆいヽ(・∀・)ﾉ</span>|<a href="https://search.dartslive.com/jp/shop/320da5fdebc107b00d9b047a20a7ba1e">ナイトインパブ　シルク</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
-|15|798|<span class="rank-name-dl">マサキ</span>|<a href="https://search.dartslive.com/jp/shop/320da5fdebc107b00d9b047a20a7ba1e">ナイトインパブ　シルク</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
-|16|775|<span class="rank-name-dl">ノリちゃんネル</span>|<a href="https://search.dartslive.com/jp/shop/320da5fdebc107b00d9b047a20a7ba1e">ナイトインパブ　シルク</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
-|17|640|<span class="rank-name-dl">雑魚ぽっぽ</span>|<a href="https://search.dartslive.com/jp/shop/bc7e0ec4688817dc0d9b047a20a7ba1e">ホワイトホース</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
-|18|632|<span class="rank-name-dl">ぬぬ、</span>|<a href="https://search.dartslive.com/jp/shop/320da5fdebc107b00d9b047a20a7ba1e">ナイトインパブ　シルク</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
-|18|632|<span class="rank-name-dl">らいといやー</span>|<a href="https://search.dartslive.com/jp/shop/320da5fdebc107b00d9b047a20a7ba1e">ナイトインパブ　シルク</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
-|20|629|<span class="rank-name-dl">なめ神ニキータ</span>|<a href="https://search.dartslive.com/jp/shop/320da5fdebc107b00d9b047a20a7ba1e">ナイトインパブ　シルク</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
-|21|596|<span class="rank-name-dl">はとぽっぽ</span>|<a href="https://search.dartslive.com/jp/shop/bc7e0ec4688817dc0d9b047a20a7ba1e">ホワイトホース</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
-|22|561|<span class="rank-name-dl">lil linlin</span>|<a href="https://search.dartslive.com/jp/shop/bc7e0ec4688817dc0d9b047a20a7ba1e">ホワイトホース</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
-|23|497|<span class="rank-name-dl">misuzu</span>|<a href="https://search.dartslive.com/jp/shop/320da5fdebc107b00d9b047a20a7ba1e">ナイトインパブ　シルク</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
-|24|482|<span class="rank-name-dl">fleur1226</span>|<a href="https://search.dartslive.com/jp/shop/bc7e0ec4688817dc0d9b047a20a7ba1e">ホワイトホース</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
-|25|447|<span class="rank-name-dl">森琳之介</span>|<a href="https://search.dartslive.com/jp/shop/bc7e0ec4688817dc0d9b047a20a7ba1e">ホワイトホース</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
-|26|439|<span class="rank-name-dl">ボンビー</span>|<a href="https://search.dartslive.com/jp/shop/bc7e0ec4688817dc0d9b047a20a7ba1e">ホワイトホース</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
-|27|437|<span class="rank-name-dl">危ない粉雪</span>|<a href="https://search.dartslive.com/jp/shop/bc7e0ec4688817dc0d9b047a20a7ba1e">ホワイトホース</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
+|10|843|<span class="rank-name-dl">村上創弥</span>|<a href="https://search.dartslive.com/jp/shop/320da5fdebc107b00d9b047a20a7ba1e">ナイトインパブ　シルク</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
+|11|821|<span class="rank-name-dl">りゅうと(￣▽￣)</span>|<a href="https://search.dartslive.com/jp/shop/320da5fdebc107b00d9b047a20a7ba1e">ナイトインパブ　シルク</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
+|12|819|<span class="rank-name-dl">ノリちゃんネル</span>|<a href="https://search.dartslive.com/jp/shop/bc7e0ec4688817dc0d9b047a20a7ba1e">ホワイトホース</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
+|13|804|<span class="rank-name-dl">ゆいヽ(・∀・)ﾉ</span>|<a href="https://search.dartslive.com/jp/shop/320da5fdebc107b00d9b047a20a7ba1e">ナイトインパブ　シルク</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
+|14|798|<span class="rank-name-dl">マサキ</span>|<a href="https://search.dartslive.com/jp/shop/320da5fdebc107b00d9b047a20a7ba1e">ナイトインパブ　シルク</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
+|15|775|<span class="rank-name-dl">ノリちゃんネル</span>|<a href="https://search.dartslive.com/jp/shop/320da5fdebc107b00d9b047a20a7ba1e">ナイトインパブ　シルク</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
+|16|640|<span class="rank-name-dl">雑魚ぽっぽ</span>|<a href="https://search.dartslive.com/jp/shop/bc7e0ec4688817dc0d9b047a20a7ba1e">ホワイトホース</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
+|17|629|<span class="rank-name-dl">なめ神ニキータ</span>|<a href="https://search.dartslive.com/jp/shop/320da5fdebc107b00d9b047a20a7ba1e">ナイトインパブ　シルク</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
+|18|596|<span class="rank-name-dl">はとぽっぽ</span>|<a href="https://search.dartslive.com/jp/shop/bc7e0ec4688817dc0d9b047a20a7ba1e">ホワイトホース</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
+|19|561|<span class="rank-name-dl">lil linlin</span>|<a href="https://search.dartslive.com/jp/shop/bc7e0ec4688817dc0d9b047a20a7ba1e">ホワイトホース</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
+|20|497|<span class="rank-name-dl">misuzu</span>|<a href="https://search.dartslive.com/jp/shop/320da5fdebc107b00d9b047a20a7ba1e">ナイトインパブ　シルク</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
+|21|486|<span class="rank-name-dl">Ti-sen</span>|<a href="https://search.dartslive.com/jp/shop/bc7e0ec4688817dc0d9b047a20a7ba1e">ホワイトホース</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
+|22|482|<span class="rank-name-dl">fleur1226</span>|<a href="https://search.dartslive.com/jp/shop/bc7e0ec4688817dc0d9b047a20a7ba1e">ホワイトホース</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
+|23|447|<span class="rank-name-dl">森琳之介</span>|<a href="https://search.dartslive.com/jp/shop/bc7e0ec4688817dc0d9b047a20a7ba1e">ホワイトホース</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
+|24|439|<span class="rank-name-dl">ボンビー</span>|<a href="https://search.dartslive.com/jp/shop/bc7e0ec4688817dc0d9b047a20a7ba1e">ホワイトホース</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -63,29 +60,26 @@ ___
 |2|973|<span class="rank-name-dl">引き戸押す人</span>|<a href="https://search.dartslive.com/jp/shop/bc7e0ec4688817dc0d9b047a20a7ba1e">ホワイトホース</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
 |3|919|<span class="rank-name-dl">そこらの山田さん</span>|<a href="https://search.dartslive.com/jp/shop/320da5fdebc107b00d9b047a20a7ba1e">ナイトインパブ　シルク</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
 |4|908|<span class="rank-name-dl">ひよ</span>|<a href="https://search.dartslive.com/jp/shop/bc7e0ec4688817dc0d9b047a20a7ba1e">ホワイトホース</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
-|5|897|<span class="rank-name-dl">カガシュン</span>|<a href="https://search.dartslive.com/jp/shop/320da5fdebc107b00d9b047a20a7ba1e">ナイトインパブ　シルク</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
-|6|885|<span class="rank-name-dl">ATSUSHI</span>|<a href="https://search.dartslive.com/jp/shop/320da5fdebc107b00d9b047a20a7ba1e">ナイトインパブ　シルク</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
-|6|885|<span class="rank-name-dl">Applejack</span>|<a href="https://search.dartslive.com/jp/shop/bc7e0ec4688817dc0d9b047a20a7ba1e">ホワイトホース</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
-|8|881|<span class="rank-name-dl">かきピー</span>|<a href="https://search.dartslive.com/jp/shop/320da5fdebc107b00d9b047a20a7ba1e">ナイトインパブ　シルク</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
+|5|904|<span class="rank-name-dl">かきピー</span>|<a href="https://search.dartslive.com/jp/shop/320da5fdebc107b00d9b047a20a7ba1e">ナイトインパブ　シルク</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
+|6|897|<span class="rank-name-dl">カガシュン</span>|<a href="https://search.dartslive.com/jp/shop/320da5fdebc107b00d9b047a20a7ba1e">ナイトインパブ　シルク</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
+|7|885|<span class="rank-name-dl">ATSUSHI</span>|<a href="https://search.dartslive.com/jp/shop/320da5fdebc107b00d9b047a20a7ba1e">ナイトインパブ　シルク</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
+|8|868|<span class="rank-name-dl">齊藤 遥也</span>|<a href="https://search.dartslive.com/jp/shop/320da5fdebc107b00d9b047a20a7ba1e">ナイトインパブ　シルク</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
 |9|866|<span class="rank-name-dl">TOYO☆ULTRA</span>|<a href="https://search.dartslive.com/jp/shop/320da5fdebc107b00d9b047a20a7ba1e">ナイトインパブ　シルク</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
-|10|848|<span class="rank-name-dl">齊藤 遥也</span>|<a href="https://search.dartslive.com/jp/shop/320da5fdebc107b00d9b047a20a7ba1e">ナイトインパブ　シルク</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
-|11|843|<span class="rank-name-dl">村上創弥</span>|<a href="https://search.dartslive.com/jp/shop/320da5fdebc107b00d9b047a20a7ba1e">ナイトインパブ　シルク</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
-|12|821|<span class="rank-name-dl">りゅうと(￣▽￣)</span>|<a href="https://search.dartslive.com/jp/shop/320da5fdebc107b00d9b047a20a7ba1e">ナイトインパブ　シルク</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
-|13|819|<span class="rank-name-dl">ノリちゃんネル</span>|<a href="https://search.dartslive.com/jp/shop/bc7e0ec4688817dc0d9b047a20a7ba1e">ホワイトホース</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
-|14|804|<span class="rank-name-dl">ゆいヽ(・∀・)ﾉ</span>|<a href="https://search.dartslive.com/jp/shop/320da5fdebc107b00d9b047a20a7ba1e">ナイトインパブ　シルク</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
-|15|798|<span class="rank-name-dl">マサキ</span>|<a href="https://search.dartslive.com/jp/shop/320da5fdebc107b00d9b047a20a7ba1e">ナイトインパブ　シルク</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
-|16|775|<span class="rank-name-dl">ノリちゃんネル</span>|<a href="https://search.dartslive.com/jp/shop/320da5fdebc107b00d9b047a20a7ba1e">ナイトインパブ　シルク</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
-|17|640|<span class="rank-name-dl">雑魚ぽっぽ</span>|<a href="https://search.dartslive.com/jp/shop/bc7e0ec4688817dc0d9b047a20a7ba1e">ホワイトホース</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
-|18|632|<span class="rank-name-dl">ぬぬ、</span>|<a href="https://search.dartslive.com/jp/shop/320da5fdebc107b00d9b047a20a7ba1e">ナイトインパブ　シルク</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
-|18|632|<span class="rank-name-dl">らいといやー</span>|<a href="https://search.dartslive.com/jp/shop/320da5fdebc107b00d9b047a20a7ba1e">ナイトインパブ　シルク</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
-|20|629|<span class="rank-name-dl">なめ神ニキータ</span>|<a href="https://search.dartslive.com/jp/shop/320da5fdebc107b00d9b047a20a7ba1e">ナイトインパブ　シルク</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
-|21|596|<span class="rank-name-dl">はとぽっぽ</span>|<a href="https://search.dartslive.com/jp/shop/bc7e0ec4688817dc0d9b047a20a7ba1e">ホワイトホース</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
-|22|561|<span class="rank-name-dl">lil linlin</span>|<a href="https://search.dartslive.com/jp/shop/bc7e0ec4688817dc0d9b047a20a7ba1e">ホワイトホース</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
-|23|497|<span class="rank-name-dl">misuzu</span>|<a href="https://search.dartslive.com/jp/shop/320da5fdebc107b00d9b047a20a7ba1e">ナイトインパブ　シルク</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
-|24|482|<span class="rank-name-dl">fleur1226</span>|<a href="https://search.dartslive.com/jp/shop/bc7e0ec4688817dc0d9b047a20a7ba1e">ホワイトホース</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
-|25|447|<span class="rank-name-dl">森琳之介</span>|<a href="https://search.dartslive.com/jp/shop/bc7e0ec4688817dc0d9b047a20a7ba1e">ホワイトホース</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
-|26|439|<span class="rank-name-dl">ボンビー</span>|<a href="https://search.dartslive.com/jp/shop/bc7e0ec4688817dc0d9b047a20a7ba1e">ホワイトホース</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
-|27|437|<span class="rank-name-dl">危ない粉雪</span>|<a href="https://search.dartslive.com/jp/shop/bc7e0ec4688817dc0d9b047a20a7ba1e">ホワイトホース</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
+|10|843|<span class="rank-name-dl">村上創弥</span>|<a href="https://search.dartslive.com/jp/shop/320da5fdebc107b00d9b047a20a7ba1e">ナイトインパブ　シルク</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
+|11|821|<span class="rank-name-dl">りゅうと(￣▽￣)</span>|<a href="https://search.dartslive.com/jp/shop/320da5fdebc107b00d9b047a20a7ba1e">ナイトインパブ　シルク</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
+|12|819|<span class="rank-name-dl">ノリちゃんネル</span>|<a href="https://search.dartslive.com/jp/shop/bc7e0ec4688817dc0d9b047a20a7ba1e">ホワイトホース</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
+|13|804|<span class="rank-name-dl">ゆいヽ(・∀・)ﾉ</span>|<a href="https://search.dartslive.com/jp/shop/320da5fdebc107b00d9b047a20a7ba1e">ナイトインパブ　シルク</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
+|14|798|<span class="rank-name-dl">マサキ</span>|<a href="https://search.dartslive.com/jp/shop/320da5fdebc107b00d9b047a20a7ba1e">ナイトインパブ　シルク</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
+|15|775|<span class="rank-name-dl">ノリちゃんネル</span>|<a href="https://search.dartslive.com/jp/shop/320da5fdebc107b00d9b047a20a7ba1e">ナイトインパブ　シルク</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
+|16|640|<span class="rank-name-dl">雑魚ぽっぽ</span>|<a href="https://search.dartslive.com/jp/shop/bc7e0ec4688817dc0d9b047a20a7ba1e">ホワイトホース</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
+|17|629|<span class="rank-name-dl">なめ神ニキータ</span>|<a href="https://search.dartslive.com/jp/shop/320da5fdebc107b00d9b047a20a7ba1e">ナイトインパブ　シルク</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
+|18|596|<span class="rank-name-dl">はとぽっぽ</span>|<a href="https://search.dartslive.com/jp/shop/bc7e0ec4688817dc0d9b047a20a7ba1e">ホワイトホース</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
+|19|561|<span class="rank-name-dl">lil linlin</span>|<a href="https://search.dartslive.com/jp/shop/bc7e0ec4688817dc0d9b047a20a7ba1e">ホワイトホース</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
+|20|497|<span class="rank-name-dl">misuzu</span>|<a href="https://search.dartslive.com/jp/shop/320da5fdebc107b00d9b047a20a7ba1e">ナイトインパブ　シルク</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
+|21|486|<span class="rank-name-dl">Ti-sen</span>|<a href="https://search.dartslive.com/jp/shop/bc7e0ec4688817dc0d9b047a20a7ba1e">ホワイトホース</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
+|22|482|<span class="rank-name-dl">fleur1226</span>|<a href="https://search.dartslive.com/jp/shop/bc7e0ec4688817dc0d9b047a20a7ba1e">ホワイトホース</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
+|23|447|<span class="rank-name-dl">森琳之介</span>|<a href="https://search.dartslive.com/jp/shop/bc7e0ec4688817dc0d9b047a20a7ba1e">ホワイトホース</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
+|24|439|<span class="rank-name-dl">ボンビー</span>|<a href="https://search.dartslive.com/jp/shop/bc7e0ec4688817dc0d9b047a20a7ba1e">ホワイトホース</a>|<a href="/darts/rank/秋田県/由利本荘市">秋田県由利本荘市</a>|
 
 
 #### PHOENIXDARTS TOP 100

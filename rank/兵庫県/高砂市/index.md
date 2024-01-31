@@ -23,41 +23,41 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|981|<span class="rank-name-dl">tamu-</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|2|968|<span class="rank-name-dl">Slim Shady</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|3|945|<span class="rank-name-dl">コッテリ(-.-)y-~</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|4|944|<span class="rank-name-dl">Masa.</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|5|940|<span class="rank-name-dl">まーぼ</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|6|923|<span class="rank-name-dl">τοττιε</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|7|872|<span class="rank-name-dl">hiroki</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|8|870|<span class="rank-name-dl">しの</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|9|865|<span class="rank-name-dl">NO NAME 1847</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|10|852|<span class="rank-name-dl">ｴﾃﾞｨｰ•ｶﾞｵｳ•ｱｷ</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|11|848|<span class="rank-name-pd">tamuｰ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7521?s_seq=7521">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|12|844|<span class="rank-name-dl">ばなち。</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|13|836|<span class="rank-name-dl">NO NAME 0039</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|14|828|<span class="rank-name-dl">ユウヤンドロス☠</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|15|820|<span class="rank-name-dl">Tai</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|16|814|<span class="rank-name-dl">かーき</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|17|804|<span class="rank-name-dl">こめは</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|18|795|<span class="rank-name-dl">炎のクマ</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|19|787|<span class="rank-name-dl">Jun(e)</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|20|786|<span class="rank-name-dl">KAI</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|20|786|<span class="rank-name-dl">心碧</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|22|770|<span class="rank-name-dl">MaRINA@Lyme</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|23|738|<span class="rank-name-dl">にょろ(._.)_cue</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|24|665|<span class="rank-name-pd">ばなち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7521?s_seq=7521">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|25|656|<span class="rank-name-pd">マァムベス</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7521?s_seq=7521">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|26|626|<span class="rank-name-dl">ななみ</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|27|561|<span class="rank-name-dl">ᴡᴀᴋᴀ໒꒱⋆ﾟ</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|28|558|<span class="rank-name-dl">あや</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|29|555|<span class="rank-name-dl">☆俺ふみたろー☆</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|30|552|<span class="rank-name-dl">ちゃんさな</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|31|541|<span class="rank-name-pd">そた</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7521?s_seq=7521">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|32|527|<span class="rank-name-dl">桐生 龍姫</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|33|511|<span class="rank-name-dl">めい</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|34|487|<span class="rank-name-dl">ミヅキ</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|35|438|<span class="rank-name-dl">おすず</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|1|1019|<span class="rank-name-dl">ｻﾝｼﾞ梅星★乱蜂☠</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|2|981|<span class="rank-name-dl">tamu-</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|3|968|<span class="rank-name-dl">Slim Shady</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|4|945|<span class="rank-name-dl">コッテリ(-.-)y-~</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|5|944|<span class="rank-name-dl">Masa.</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|6|940|<span class="rank-name-dl">まーぼ</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|7|923|<span class="rank-name-dl">τοττιε</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|8|879|<span class="rank-name-dl">U-POS</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|9|872|<span class="rank-name-dl">hiroki</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|10|870|<span class="rank-name-dl">しの</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|11|865|<span class="rank-name-dl">NO NAME 1847</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|12|852|<span class="rank-name-dl">ｴﾃﾞｨｰ•ｶﾞｵｳ•ｱｷ</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|13|848|<span class="rank-name-pd">tamuｰ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7521?s_seq=7521">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|14|844|<span class="rank-name-dl">ばなち。</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|15|836|<span class="rank-name-dl">NO NAME 0039</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|16|795|<span class="rank-name-dl">炎のクマ</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|17|787|<span class="rank-name-dl">Jun(e)</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|18|770|<span class="rank-name-dl">MaRINA@Lyme</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|19|738|<span class="rank-name-dl">にょろ(._.)_cue</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|20|674|<span class="rank-name-dl">ぴよす</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|21|665|<span class="rank-name-pd">ばなち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7521?s_seq=7521">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|22|657|<span class="rank-name-pd">こめは</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7521?s_seq=7521">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|23|656|<span class="rank-name-pd">マァムベス</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7521?s_seq=7521">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|24|626|<span class="rank-name-dl">ななみ</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|25|561|<span class="rank-name-dl">ᴡᴀᴋᴀ໒꒱⋆ﾟ</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|26|558|<span class="rank-name-dl">あや</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|27|555|<span class="rank-name-dl">☆俺ふみたろー☆</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|28|552|<span class="rank-name-dl">ちゃんさな</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|29|541|<span class="rank-name-pd">そた</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7521?s_seq=7521">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|30|527|<span class="rank-name-dl">桐生 龍姫</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|31|511|<span class="rank-name-dl">めい</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|32|487|<span class="rank-name-dl">ミヅキ</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|33|480|<span class="rank-name-dl">ayumi</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|34|438|<span class="rank-name-dl">おすず</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|35|416|<span class="rank-name-dl">あっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -67,37 +67,36 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|981|<span class="rank-name-dl">tamu-</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|2|968|<span class="rank-name-dl">Slim Shady</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|3|945|<span class="rank-name-dl">コッテリ(-.-)y-~</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|4|944|<span class="rank-name-dl">Masa.</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|5|940|<span class="rank-name-dl">まーぼ</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|6|923|<span class="rank-name-dl">τοττιε</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|7|872|<span class="rank-name-dl">hiroki</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|8|870|<span class="rank-name-dl">しの</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|9|865|<span class="rank-name-dl">NO NAME 1847</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|10|852|<span class="rank-name-dl">ｴﾃﾞｨｰ•ｶﾞｵｳ•ｱｷ</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|11|844|<span class="rank-name-dl">ばなち。</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|12|836|<span class="rank-name-dl">NO NAME 0039</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|13|828|<span class="rank-name-dl">ユウヤンドロス☠</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|14|820|<span class="rank-name-dl">Tai</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|15|814|<span class="rank-name-dl">かーき</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|16|804|<span class="rank-name-dl">こめは</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|17|795|<span class="rank-name-dl">炎のクマ</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|18|787|<span class="rank-name-dl">Jun(e)</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|19|786|<span class="rank-name-dl">KAI</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|19|786|<span class="rank-name-dl">心碧</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|21|770|<span class="rank-name-dl">MaRINA@Lyme</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|22|738|<span class="rank-name-dl">にょろ(._.)_cue</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|23|626|<span class="rank-name-dl">ななみ</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|24|561|<span class="rank-name-dl">ᴡᴀᴋᴀ໒꒱⋆ﾟ</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|25|558|<span class="rank-name-dl">あや</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|26|555|<span class="rank-name-dl">☆俺ふみたろー☆</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|27|552|<span class="rank-name-dl">ちゃんさな</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|28|527|<span class="rank-name-dl">桐生 龍姫</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|29|511|<span class="rank-name-dl">めい</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|30|487|<span class="rank-name-dl">ミヅキ</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
-|31|438|<span class="rank-name-dl">おすず</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|1|1019|<span class="rank-name-dl">ｻﾝｼﾞ梅星★乱蜂☠</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|2|981|<span class="rank-name-dl">tamu-</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|3|968|<span class="rank-name-dl">Slim Shady</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|4|945|<span class="rank-name-dl">コッテリ(-.-)y-~</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|5|944|<span class="rank-name-dl">Masa.</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|6|940|<span class="rank-name-dl">まーぼ</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|7|923|<span class="rank-name-dl">τοττιε</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|8|879|<span class="rank-name-dl">U-POS</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|9|872|<span class="rank-name-dl">hiroki</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|10|870|<span class="rank-name-dl">しの</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|11|865|<span class="rank-name-dl">NO NAME 1847</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|12|852|<span class="rank-name-dl">ｴﾃﾞｨｰ•ｶﾞｵｳ•ｱｷ</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|13|844|<span class="rank-name-dl">ばなち。</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|14|836|<span class="rank-name-dl">NO NAME 0039</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|15|795|<span class="rank-name-dl">炎のクマ</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|16|787|<span class="rank-name-dl">Jun(e)</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|17|770|<span class="rank-name-dl">MaRINA@Lyme</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|18|738|<span class="rank-name-dl">にょろ(._.)_cue</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|19|674|<span class="rank-name-dl">ぴよす</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|20|626|<span class="rank-name-dl">ななみ</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|21|561|<span class="rank-name-dl">ᴡᴀᴋᴀ໒꒱⋆ﾟ</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|22|558|<span class="rank-name-dl">あや</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|23|555|<span class="rank-name-dl">☆俺ふみたろー☆</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|24|552|<span class="rank-name-dl">ちゃんさな</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|25|527|<span class="rank-name-dl">桐生 龍姫</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|26|511|<span class="rank-name-dl">めい</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|27|487|<span class="rank-name-dl">ミヅキ</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|28|480|<span class="rank-name-dl">ayumi</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|29|438|<span class="rank-name-dl">おすず</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
+|30|416|<span class="rank-name-dl">あっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/2f58915eee36f967f454cb89828a1cfe">快活CLUB 高砂店</a>|<a href="/darts/rank/兵庫県/高砂市">兵庫県高砂市</a>|
 
 
 #### PHOENIXDARTS TOP 100

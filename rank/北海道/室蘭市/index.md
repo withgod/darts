@@ -38,8 +38,6 @@ ___
 |13|669|<span class="rank-name-dl">ひろと</span>|<a href="https://search.dartslive.com/jp/shop/395212ba2b0f772fa3f63593b5358cc4">BeeHIVE</a>|<a href="/darts/rank/北海道/室蘭市">北海道室蘭市</a>|
 |14|499|<span class="rank-name-dl">RION</span>|<a href="https://search.dartslive.com/jp/shop/395212ba2b0f772fa3f63593b5358cc4">BeeHIVE</a>|<a href="/darts/rank/北海道/室蘭市">北海道室蘭市</a>|
 |15|470|<span class="rank-name-dl">♡むぎコロ♡</span>|<a href="https://search.dartslive.com/jp/shop/395212ba2b0f772fa3f63593b5358cc4">BeeHIVE</a>|<a href="/darts/rank/北海道/室蘭市">北海道室蘭市</a>|
-|16|466|<span class="rank-name-dl">美波スズ</span>|<a href="https://search.dartslive.com/jp/shop/395212ba2b0f772fa3f63593b5358cc4">BeeHIVE</a>|<a href="/darts/rank/北海道/室蘭市">北海道室蘭市</a>|
-|17|272|<span class="rank-name-dl">kaname</span>|<a href="https://search.dartslive.com/jp/shop/395212ba2b0f772fa3f63593b5358cc4">BeeHIVE</a>|<a href="/darts/rank/北海道/室蘭市">北海道室蘭市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -64,8 +62,6 @@ ___
 |13|669|<span class="rank-name-dl">ひろと</span>|<a href="https://search.dartslive.com/jp/shop/395212ba2b0f772fa3f63593b5358cc4">BeeHIVE</a>|<a href="/darts/rank/北海道/室蘭市">北海道室蘭市</a>|
 |14|499|<span class="rank-name-dl">RION</span>|<a href="https://search.dartslive.com/jp/shop/395212ba2b0f772fa3f63593b5358cc4">BeeHIVE</a>|<a href="/darts/rank/北海道/室蘭市">北海道室蘭市</a>|
 |15|470|<span class="rank-name-dl">♡むぎコロ♡</span>|<a href="https://search.dartslive.com/jp/shop/395212ba2b0f772fa3f63593b5358cc4">BeeHIVE</a>|<a href="/darts/rank/北海道/室蘭市">北海道室蘭市</a>|
-|16|466|<span class="rank-name-dl">美波スズ</span>|<a href="https://search.dartslive.com/jp/shop/395212ba2b0f772fa3f63593b5358cc4">BeeHIVE</a>|<a href="/darts/rank/北海道/室蘭市">北海道室蘭市</a>|
-|17|272|<span class="rank-name-dl">kaname</span>|<a href="https://search.dartslive.com/jp/shop/395212ba2b0f772fa3f63593b5358cc4">BeeHIVE</a>|<a href="/darts/rank/北海道/室蘭市">北海道室蘭市</a>|
 
 
 #### PHOENIXDARTS TOP 100

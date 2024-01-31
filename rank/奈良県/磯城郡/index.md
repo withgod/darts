@@ -36,11 +36,11 @@ ___
 |10|848|<span class="rank-name-dl">がんちゃん2</span>|<a href="https://search.dartslive.com/jp/shop/66fb48778d723e460d9b047a20a7ba1e">DARTS PARK OASIS</a>|<a href="/darts/rank/奈良県/磯城郡">奈良県磯城郡</a>|
 |10|848|<span class="rank-name-dl">ふっか@ふぇれす</span>|<a href="https://search.dartslive.com/jp/shop/66fb48778d723e460d9b047a20a7ba1e">DARTS PARK OASIS</a>|<a href="/darts/rank/奈良県/磯城郡">奈良県磯城郡</a>|
 |13|837|<span class="rank-name-dl">ｶｽﾞﾏのﾊﾟﾊﾟがっし</span>|<a href="https://search.dartslive.com/jp/shop/66fb48778d723e460d9b047a20a7ba1e">DARTS PARK OASIS</a>|<a href="/darts/rank/奈良県/磯城郡">奈良県磯城郡</a>|
-|14|744|<span class="rank-name-dl">まっつん</span>|<a href="https://search.dartslive.com/jp/shop/66fb48778d723e460d9b047a20a7ba1e">DARTS PARK OASIS</a>|<a href="/darts/rank/奈良県/磯城郡">奈良県磯城郡</a>|
-|15|681|<span class="rank-name-dl">裕亮</span>|<a href="https://search.dartslive.com/jp/shop/66fb48778d723e460d9b047a20a7ba1e">DARTS PARK OASIS</a>|<a href="/darts/rank/奈良県/磯城郡">奈良県磯城郡</a>|
-|16|678|<span class="rank-name-dl">ゆき@oasis</span>|<a href="https://search.dartslive.com/jp/shop/66fb48778d723e460d9b047a20a7ba1e">DARTS PARK OASIS</a>|<a href="/darts/rank/奈良県/磯城郡">奈良県磯城郡</a>|
-|17|637|<span class="rank-name-dl">おそまつさん</span>|<a href="https://search.dartslive.com/jp/shop/66fb48778d723e460d9b047a20a7ba1e">DARTS PARK OASIS</a>|<a href="/darts/rank/奈良県/磯城郡">奈良県磯城郡</a>|
-|18|582|<span class="rank-name-dl">y</span>|<a href="https://search.dartslive.com/jp/shop/66fb48778d723e460d9b047a20a7ba1e">DARTS PARK OASIS</a>|<a href="/darts/rank/奈良県/磯城郡">奈良県磯城郡</a>|
+|14|800|<span class="rank-name-dl">チェ・ケバブ</span>|<a href="https://search.dartslive.com/jp/shop/66fb48778d723e460d9b047a20a7ba1e">DARTS PARK OASIS</a>|<a href="/darts/rank/奈良県/磯城郡">奈良県磯城郡</a>|
+|15|790|<span class="rank-name-dl">おそまつさん</span>|<a href="https://search.dartslive.com/jp/shop/66fb48778d723e460d9b047a20a7ba1e">DARTS PARK OASIS</a>|<a href="/darts/rank/奈良県/磯城郡">奈良県磯城郡</a>|
+|16|744|<span class="rank-name-dl">まっつん</span>|<a href="https://search.dartslive.com/jp/shop/66fb48778d723e460d9b047a20a7ba1e">DARTS PARK OASIS</a>|<a href="/darts/rank/奈良県/磯城郡">奈良県磯城郡</a>|
+|17|681|<span class="rank-name-dl">裕亮</span>|<a href="https://search.dartslive.com/jp/shop/66fb48778d723e460d9b047a20a7ba1e">DARTS PARK OASIS</a>|<a href="/darts/rank/奈良県/磯城郡">奈良県磯城郡</a>|
+|18|678|<span class="rank-name-dl">ゆき@oasis</span>|<a href="https://search.dartslive.com/jp/shop/66fb48778d723e460d9b047a20a7ba1e">DARTS PARK OASIS</a>|<a href="/darts/rank/奈良県/磯城郡">奈良県磯城郡</a>|
 |19|380|<span class="rank-name-dl">a_chann@FELES</span>|<a href="https://search.dartslive.com/jp/shop/66fb48778d723e460d9b047a20a7ba1e">DARTS PARK OASIS</a>|<a href="/darts/rank/奈良県/磯城郡">奈良県磯城郡</a>|
 |20|355|<span class="rank-name-dl">みずき</span>|<a href="https://search.dartslive.com/jp/shop/66fb48778d723e460d9b047a20a7ba1e">DARTS PARK OASIS</a>|<a href="/darts/rank/奈良県/磯城郡">奈良県磯城郡</a>|
 
@@ -65,11 +65,11 @@ ___
 |10|848|<span class="rank-name-dl">がんちゃん2</span>|<a href="https://search.dartslive.com/jp/shop/66fb48778d723e460d9b047a20a7ba1e">DARTS PARK OASIS</a>|<a href="/darts/rank/奈良県/磯城郡">奈良県磯城郡</a>|
 |10|848|<span class="rank-name-dl">ふっか@ふぇれす</span>|<a href="https://search.dartslive.com/jp/shop/66fb48778d723e460d9b047a20a7ba1e">DARTS PARK OASIS</a>|<a href="/darts/rank/奈良県/磯城郡">奈良県磯城郡</a>|
 |13|837|<span class="rank-name-dl">ｶｽﾞﾏのﾊﾟﾊﾟがっし</span>|<a href="https://search.dartslive.com/jp/shop/66fb48778d723e460d9b047a20a7ba1e">DARTS PARK OASIS</a>|<a href="/darts/rank/奈良県/磯城郡">奈良県磯城郡</a>|
-|14|744|<span class="rank-name-dl">まっつん</span>|<a href="https://search.dartslive.com/jp/shop/66fb48778d723e460d9b047a20a7ba1e">DARTS PARK OASIS</a>|<a href="/darts/rank/奈良県/磯城郡">奈良県磯城郡</a>|
-|15|681|<span class="rank-name-dl">裕亮</span>|<a href="https://search.dartslive.com/jp/shop/66fb48778d723e460d9b047a20a7ba1e">DARTS PARK OASIS</a>|<a href="/darts/rank/奈良県/磯城郡">奈良県磯城郡</a>|
-|16|678|<span class="rank-name-dl">ゆき@oasis</span>|<a href="https://search.dartslive.com/jp/shop/66fb48778d723e460d9b047a20a7ba1e">DARTS PARK OASIS</a>|<a href="/darts/rank/奈良県/磯城郡">奈良県磯城郡</a>|
-|17|637|<span class="rank-name-dl">おそまつさん</span>|<a href="https://search.dartslive.com/jp/shop/66fb48778d723e460d9b047a20a7ba1e">DARTS PARK OASIS</a>|<a href="/darts/rank/奈良県/磯城郡">奈良県磯城郡</a>|
-|18|582|<span class="rank-name-dl">y</span>|<a href="https://search.dartslive.com/jp/shop/66fb48778d723e460d9b047a20a7ba1e">DARTS PARK OASIS</a>|<a href="/darts/rank/奈良県/磯城郡">奈良県磯城郡</a>|
+|14|800|<span class="rank-name-dl">チェ・ケバブ</span>|<a href="https://search.dartslive.com/jp/shop/66fb48778d723e460d9b047a20a7ba1e">DARTS PARK OASIS</a>|<a href="/darts/rank/奈良県/磯城郡">奈良県磯城郡</a>|
+|15|790|<span class="rank-name-dl">おそまつさん</span>|<a href="https://search.dartslive.com/jp/shop/66fb48778d723e460d9b047a20a7ba1e">DARTS PARK OASIS</a>|<a href="/darts/rank/奈良県/磯城郡">奈良県磯城郡</a>|
+|16|744|<span class="rank-name-dl">まっつん</span>|<a href="https://search.dartslive.com/jp/shop/66fb48778d723e460d9b047a20a7ba1e">DARTS PARK OASIS</a>|<a href="/darts/rank/奈良県/磯城郡">奈良県磯城郡</a>|
+|17|681|<span class="rank-name-dl">裕亮</span>|<a href="https://search.dartslive.com/jp/shop/66fb48778d723e460d9b047a20a7ba1e">DARTS PARK OASIS</a>|<a href="/darts/rank/奈良県/磯城郡">奈良県磯城郡</a>|
+|18|678|<span class="rank-name-dl">ゆき@oasis</span>|<a href="https://search.dartslive.com/jp/shop/66fb48778d723e460d9b047a20a7ba1e">DARTS PARK OASIS</a>|<a href="/darts/rank/奈良県/磯城郡">奈良県磯城郡</a>|
 |19|380|<span class="rank-name-dl">a_chann@FELES</span>|<a href="https://search.dartslive.com/jp/shop/66fb48778d723e460d9b047a20a7ba1e">DARTS PARK OASIS</a>|<a href="/darts/rank/奈良県/磯城郡">奈良県磯城郡</a>|
 |20|355|<span class="rank-name-dl">みずき</span>|<a href="https://search.dartslive.com/jp/shop/66fb48778d723e460d9b047a20a7ba1e">DARTS PARK OASIS</a>|<a href="/darts/rank/奈良県/磯城郡">奈良県磯城郡</a>|
 

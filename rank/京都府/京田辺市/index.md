@@ -28,17 +28,18 @@ ___
 |3|911|<span class="rank-name-dl">中川 修志</span>|<a href="https://search.dartslive.com/jp/shop/22d87ec6c621e9690d9b047a20a7ba1e">Esordio</a>|<a href="/darts/rank/京都府/京田辺市">京都府京田辺市</a>|
 |4|903|<span class="rank-name-dl">酒雑魚に人権なし</span>|<a href="https://search.dartslive.com/jp/shop/22d87ec6c621e9690d9b047a20a7ba1e">Esordio</a>|<a href="/darts/rank/京都府/京田辺市">京都府京田辺市</a>|
 |5|868|<span class="rank-name-dl">リョリョ</span>|<a href="https://search.dartslive.com/jp/shop/22d87ec6c621e9690d9b047a20a7ba1e">Esordio</a>|<a href="/darts/rank/京都府/京田辺市">京都府京田辺市</a>|
-|6|832|<span class="rank-name-dl">コーヤ</span>|<a href="https://search.dartslive.com/jp/shop/22d87ec6c621e9690d9b047a20a7ba1e">Esordio</a>|<a href="/darts/rank/京都府/京田辺市">京都府京田辺市</a>|
-|7|801|<span class="rank-name-dl">けいた@Esordio</span>|<a href="https://search.dartslive.com/jp/shop/22d87ec6c621e9690d9b047a20a7ba1e">Esordio</a>|<a href="/darts/rank/京都府/京田辺市">京都府京田辺市</a>|
-|8|800|<span class="rank-name-dl">まっつる</span>|<a href="https://search.dartslive.com/jp/shop/22d87ec6c621e9690d9b047a20a7ba1e">Esordio</a>|<a href="/darts/rank/京都府/京田辺市">京都府京田辺市</a>|
-|9|796|<span class="rank-name-dl">ひとり</span>|<a href="https://search.dartslive.com/jp/shop/22d87ec6c621e9690d9b047a20a7ba1e">Esordio</a>|<a href="/darts/rank/京都府/京田辺市">京都府京田辺市</a>|
-|10|784|<span class="rank-name-dl">らリン</span>|<a href="https://search.dartslive.com/jp/shop/22d87ec6c621e9690d9b047a20a7ba1e">Esordio</a>|<a href="/darts/rank/京都府/京田辺市">京都府京田辺市</a>|
-|11|765|<span class="rank-name-dl">( ￣ー￣)ノ</span>|<a href="https://search.dartslive.com/jp/shop/22d87ec6c621e9690d9b047a20a7ba1e">Esordio</a>|<a href="/darts/rank/京都府/京田辺市">京都府京田辺市</a>|
-|12|763|<span class="rank-name-dl">JIN</span>|<a href="https://search.dartslive.com/jp/shop/22d87ec6c621e9690d9b047a20a7ba1e">Esordio</a>|<a href="/darts/rank/京都府/京田辺市">京都府京田辺市</a>|
-|13|734|<span class="rank-name-dl">p.000002</span>|<a href="https://search.dartslive.com/jp/shop/22d87ec6c621e9690d9b047a20a7ba1e">Esordio</a>|<a href="/darts/rank/京都府/京田辺市">京都府京田辺市</a>|
-|14|622|<span class="rank-name-dl">たぬき</span>|<a href="https://search.dartslive.com/jp/shop/22d87ec6c621e9690d9b047a20a7ba1e">Esordio</a>|<a href="/darts/rank/京都府/京田辺市">京都府京田辺市</a>|
-|15|595|<span class="rank-name-dl">iNocchi</span>|<a href="https://search.dartslive.com/jp/shop/22d87ec6c621e9690d9b047a20a7ba1e">Esordio</a>|<a href="/darts/rank/京都府/京田辺市">京都府京田辺市</a>|
-|16|327|<span class="rank-name-dl">yu-ko</span>|<a href="https://search.dartslive.com/jp/shop/22d87ec6c621e9690d9b047a20a7ba1e">Esordio</a>|<a href="/darts/rank/京都府/京田辺市">京都府京田辺市</a>|
+|6|835|<span class="rank-name-dl">マサーシー</span>|<a href="https://search.dartslive.com/jp/shop/22d87ec6c621e9690d9b047a20a7ba1e">Esordio</a>|<a href="/darts/rank/京都府/京田辺市">京都府京田辺市</a>|
+|7|832|<span class="rank-name-dl">John</span>|<a href="https://search.dartslive.com/jp/shop/22d87ec6c621e9690d9b047a20a7ba1e">Esordio</a>|<a href="/darts/rank/京都府/京田辺市">京都府京田辺市</a>|
+|7|832|<span class="rank-name-dl">コーヤ</span>|<a href="https://search.dartslive.com/jp/shop/22d87ec6c621e9690d9b047a20a7ba1e">Esordio</a>|<a href="/darts/rank/京都府/京田辺市">京都府京田辺市</a>|
+|9|801|<span class="rank-name-dl">けいた@Esordio</span>|<a href="https://search.dartslive.com/jp/shop/22d87ec6c621e9690d9b047a20a7ba1e">Esordio</a>|<a href="/darts/rank/京都府/京田辺市">京都府京田辺市</a>|
+|10|800|<span class="rank-name-dl">まっつる</span>|<a href="https://search.dartslive.com/jp/shop/22d87ec6c621e9690d9b047a20a7ba1e">Esordio</a>|<a href="/darts/rank/京都府/京田辺市">京都府京田辺市</a>|
+|11|796|<span class="rank-name-dl">ひとり</span>|<a href="https://search.dartslive.com/jp/shop/22d87ec6c621e9690d9b047a20a7ba1e">Esordio</a>|<a href="/darts/rank/京都府/京田辺市">京都府京田辺市</a>|
+|12|784|<span class="rank-name-dl">らリン</span>|<a href="https://search.dartslive.com/jp/shop/22d87ec6c621e9690d9b047a20a7ba1e">Esordio</a>|<a href="/darts/rank/京都府/京田辺市">京都府京田辺市</a>|
+|13|765|<span class="rank-name-dl">( ￣ー￣)ノ</span>|<a href="https://search.dartslive.com/jp/shop/22d87ec6c621e9690d9b047a20a7ba1e">Esordio</a>|<a href="/darts/rank/京都府/京田辺市">京都府京田辺市</a>|
+|14|763|<span class="rank-name-dl">JIN</span>|<a href="https://search.dartslive.com/jp/shop/22d87ec6c621e9690d9b047a20a7ba1e">Esordio</a>|<a href="/darts/rank/京都府/京田辺市">京都府京田辺市</a>|
+|15|734|<span class="rank-name-dl">p.000002</span>|<a href="https://search.dartslive.com/jp/shop/22d87ec6c621e9690d9b047a20a7ba1e">Esordio</a>|<a href="/darts/rank/京都府/京田辺市">京都府京田辺市</a>|
+|16|622|<span class="rank-name-dl">たぬき</span>|<a href="https://search.dartslive.com/jp/shop/22d87ec6c621e9690d9b047a20a7ba1e">Esordio</a>|<a href="/darts/rank/京都府/京田辺市">京都府京田辺市</a>|
+|17|327|<span class="rank-name-dl">yu-ko</span>|<a href="https://search.dartslive.com/jp/shop/22d87ec6c621e9690d9b047a20a7ba1e">Esordio</a>|<a href="/darts/rank/京都府/京田辺市">京都府京田辺市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -53,17 +54,18 @@ ___
 |3|911|<span class="rank-name-dl">中川 修志</span>|<a href="https://search.dartslive.com/jp/shop/22d87ec6c621e9690d9b047a20a7ba1e">Esordio</a>|<a href="/darts/rank/京都府/京田辺市">京都府京田辺市</a>|
 |4|903|<span class="rank-name-dl">酒雑魚に人権なし</span>|<a href="https://search.dartslive.com/jp/shop/22d87ec6c621e9690d9b047a20a7ba1e">Esordio</a>|<a href="/darts/rank/京都府/京田辺市">京都府京田辺市</a>|
 |5|868|<span class="rank-name-dl">リョリョ</span>|<a href="https://search.dartslive.com/jp/shop/22d87ec6c621e9690d9b047a20a7ba1e">Esordio</a>|<a href="/darts/rank/京都府/京田辺市">京都府京田辺市</a>|
-|6|832|<span class="rank-name-dl">コーヤ</span>|<a href="https://search.dartslive.com/jp/shop/22d87ec6c621e9690d9b047a20a7ba1e">Esordio</a>|<a href="/darts/rank/京都府/京田辺市">京都府京田辺市</a>|
-|7|801|<span class="rank-name-dl">けいた@Esordio</span>|<a href="https://search.dartslive.com/jp/shop/22d87ec6c621e9690d9b047a20a7ba1e">Esordio</a>|<a href="/darts/rank/京都府/京田辺市">京都府京田辺市</a>|
-|8|800|<span class="rank-name-dl">まっつる</span>|<a href="https://search.dartslive.com/jp/shop/22d87ec6c621e9690d9b047a20a7ba1e">Esordio</a>|<a href="/darts/rank/京都府/京田辺市">京都府京田辺市</a>|
-|9|796|<span class="rank-name-dl">ひとり</span>|<a href="https://search.dartslive.com/jp/shop/22d87ec6c621e9690d9b047a20a7ba1e">Esordio</a>|<a href="/darts/rank/京都府/京田辺市">京都府京田辺市</a>|
-|10|784|<span class="rank-name-dl">らリン</span>|<a href="https://search.dartslive.com/jp/shop/22d87ec6c621e9690d9b047a20a7ba1e">Esordio</a>|<a href="/darts/rank/京都府/京田辺市">京都府京田辺市</a>|
-|11|765|<span class="rank-name-dl">( ￣ー￣)ノ</span>|<a href="https://search.dartslive.com/jp/shop/22d87ec6c621e9690d9b047a20a7ba1e">Esordio</a>|<a href="/darts/rank/京都府/京田辺市">京都府京田辺市</a>|
-|12|763|<span class="rank-name-dl">JIN</span>|<a href="https://search.dartslive.com/jp/shop/22d87ec6c621e9690d9b047a20a7ba1e">Esordio</a>|<a href="/darts/rank/京都府/京田辺市">京都府京田辺市</a>|
-|13|734|<span class="rank-name-dl">p.000002</span>|<a href="https://search.dartslive.com/jp/shop/22d87ec6c621e9690d9b047a20a7ba1e">Esordio</a>|<a href="/darts/rank/京都府/京田辺市">京都府京田辺市</a>|
-|14|622|<span class="rank-name-dl">たぬき</span>|<a href="https://search.dartslive.com/jp/shop/22d87ec6c621e9690d9b047a20a7ba1e">Esordio</a>|<a href="/darts/rank/京都府/京田辺市">京都府京田辺市</a>|
-|15|595|<span class="rank-name-dl">iNocchi</span>|<a href="https://search.dartslive.com/jp/shop/22d87ec6c621e9690d9b047a20a7ba1e">Esordio</a>|<a href="/darts/rank/京都府/京田辺市">京都府京田辺市</a>|
-|16|327|<span class="rank-name-dl">yu-ko</span>|<a href="https://search.dartslive.com/jp/shop/22d87ec6c621e9690d9b047a20a7ba1e">Esordio</a>|<a href="/darts/rank/京都府/京田辺市">京都府京田辺市</a>|
+|6|835|<span class="rank-name-dl">マサーシー</span>|<a href="https://search.dartslive.com/jp/shop/22d87ec6c621e9690d9b047a20a7ba1e">Esordio</a>|<a href="/darts/rank/京都府/京田辺市">京都府京田辺市</a>|
+|7|832|<span class="rank-name-dl">John</span>|<a href="https://search.dartslive.com/jp/shop/22d87ec6c621e9690d9b047a20a7ba1e">Esordio</a>|<a href="/darts/rank/京都府/京田辺市">京都府京田辺市</a>|
+|7|832|<span class="rank-name-dl">コーヤ</span>|<a href="https://search.dartslive.com/jp/shop/22d87ec6c621e9690d9b047a20a7ba1e">Esordio</a>|<a href="/darts/rank/京都府/京田辺市">京都府京田辺市</a>|
+|9|801|<span class="rank-name-dl">けいた@Esordio</span>|<a href="https://search.dartslive.com/jp/shop/22d87ec6c621e9690d9b047a20a7ba1e">Esordio</a>|<a href="/darts/rank/京都府/京田辺市">京都府京田辺市</a>|
+|10|800|<span class="rank-name-dl">まっつる</span>|<a href="https://search.dartslive.com/jp/shop/22d87ec6c621e9690d9b047a20a7ba1e">Esordio</a>|<a href="/darts/rank/京都府/京田辺市">京都府京田辺市</a>|
+|11|796|<span class="rank-name-dl">ひとり</span>|<a href="https://search.dartslive.com/jp/shop/22d87ec6c621e9690d9b047a20a7ba1e">Esordio</a>|<a href="/darts/rank/京都府/京田辺市">京都府京田辺市</a>|
+|12|784|<span class="rank-name-dl">らリン</span>|<a href="https://search.dartslive.com/jp/shop/22d87ec6c621e9690d9b047a20a7ba1e">Esordio</a>|<a href="/darts/rank/京都府/京田辺市">京都府京田辺市</a>|
+|13|765|<span class="rank-name-dl">( ￣ー￣)ノ</span>|<a href="https://search.dartslive.com/jp/shop/22d87ec6c621e9690d9b047a20a7ba1e">Esordio</a>|<a href="/darts/rank/京都府/京田辺市">京都府京田辺市</a>|
+|14|763|<span class="rank-name-dl">JIN</span>|<a href="https://search.dartslive.com/jp/shop/22d87ec6c621e9690d9b047a20a7ba1e">Esordio</a>|<a href="/darts/rank/京都府/京田辺市">京都府京田辺市</a>|
+|15|734|<span class="rank-name-dl">p.000002</span>|<a href="https://search.dartslive.com/jp/shop/22d87ec6c621e9690d9b047a20a7ba1e">Esordio</a>|<a href="/darts/rank/京都府/京田辺市">京都府京田辺市</a>|
+|16|622|<span class="rank-name-dl">たぬき</span>|<a href="https://search.dartslive.com/jp/shop/22d87ec6c621e9690d9b047a20a7ba1e">Esordio</a>|<a href="/darts/rank/京都府/京田辺市">京都府京田辺市</a>|
+|17|327|<span class="rank-name-dl">yu-ko</span>|<a href="https://search.dartslive.com/jp/shop/22d87ec6c621e9690d9b047a20a7ba1e">Esordio</a>|<a href="/darts/rank/京都府/京田辺市">京都府京田辺市</a>|
 
 
 #### PHOENIXDARTS TOP 100

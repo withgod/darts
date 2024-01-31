@@ -23,8 +23,8 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|819|<span class="rank-name-pd">ムリーダム</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">Darts Bar Freedom</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
-|2|744|<span class="rank-name-pd">タギ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">Darts Bar Freedom</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
+|1|906|<span class="rank-name-pd">タギ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">Darts Bar Freedom</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
+|2|819|<span class="rank-name-pd">ムリーダム</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">Darts Bar Freedom</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
 |3|462|<span class="rank-name-pd">あやか</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">Darts Bar Freedom</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
 |4|393|<span class="rank-name-pd">リィ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">Darts Bar Freedom</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
 
@@ -46,8 +46,8 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|819|<span class="rank-name-pd">ムリーダム</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">Darts Bar Freedom</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
-|2|744|<span class="rank-name-pd">タギ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">Darts Bar Freedom</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
+|1|906|<span class="rank-name-pd">タギ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">Darts Bar Freedom</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
+|2|819|<span class="rank-name-pd">ムリーダム</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">Darts Bar Freedom</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
 |3|462|<span class="rank-name-pd">あやか</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">Darts Bar Freedom</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
 |4|393|<span class="rank-name-pd">リィ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">Darts Bar Freedom</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
 

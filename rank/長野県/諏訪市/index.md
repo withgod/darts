@@ -23,7 +23,7 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|948|<span class="rank-name-pd">福澤 智輝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52906?s_seq=52906">亜熱帯 諏訪IC店</a>|<a href="/darts/rank/長野県/諏訪市">長野県諏訪市</a>|
+|1|948|<span class="rank-name-pd"><span class="pro-icon-pd"></span>福澤 智輝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52906?s_seq=52906">亜熱帯 諏訪IC店</a>|<a href="/darts/rank/長野県/諏訪市">長野県諏訪市</a>|
 |2|835|<span class="rank-name-pd">KUWA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52906?s_seq=52906">亜熱帯 諏訪IC店</a>|<a href="/darts/rank/長野県/諏訪市">長野県諏訪市</a>|
 |3|829|<span class="rank-name-pd">K2</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52906?s_seq=52906">亜熱帯 諏訪IC店</a>|<a href="/darts/rank/長野県/諏訪市">長野県諏訪市</a>|
 |4|784|<span class="rank-name-dl">うえけん</span>|<a href="https://search.dartslive.com/jp/shop/ece61d5206bd2301f454cb89828a1cfe">亜熱帯諏訪IC店</a>|<a href="/darts/rank/長野県/諏訪市">長野県諏訪市</a>|
@@ -47,17 +47,17 @@ ___
 |22|603|<span class="rank-name-pd">ヒロ★ポン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52906?s_seq=52906">亜熱帯 諏訪IC店</a>|<a href="/darts/rank/長野県/諏訪市">長野県諏訪市</a>|
 |22|603|<span class="rank-name-pd">正</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52906?s_seq=52906">亜熱帯 諏訪IC店</a>|<a href="/darts/rank/長野県/諏訪市">長野県諏訪市</a>|
 |24|593|<span class="rank-name-dl">ima-imaZ</span>|<a href="https://search.dartslive.com/jp/shop/ece61d5206bd2301f454cb89828a1cfe">亜熱帯諏訪IC店</a>|<a href="/darts/rank/長野県/諏訪市">長野県諏訪市</a>|
-|25|531|<span class="rank-name-pd">金子です。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52906?s_seq=52906">亜熱帯 諏訪IC店</a>|<a href="/darts/rank/長野県/諏訪市">長野県諏訪市</a>|
-|26|490|<span class="rank-name-pd">Asche</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52906?s_seq=52906">亜熱帯 諏訪IC店</a>|<a href="/darts/rank/長野県/諏訪市">長野県諏訪市</a>|
-|27|488|<span class="rank-name-pd">VirtualCard</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52906?s_seq=52906">亜熱帯 諏訪IC店</a>|<a href="/darts/rank/長野県/諏訪市">長野県諏訪市</a>|
-|28|486|<span class="rank-name-pd">DEKACHINPO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52906?s_seq=52906">亜熱帯 諏訪IC店</a>|<a href="/darts/rank/長野県/諏訪市">長野県諏訪市</a>|
-|29|485|<span class="rank-name-pd">RYO~0910~</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52906?s_seq=52906">亜熱帯 諏訪IC店</a>|<a href="/darts/rank/長野県/諏訪市">長野県諏訪市</a>|
-|30|480|<span class="rank-name-dl">NO NAME 0887</span>|<a href="https://search.dartslive.com/jp/shop/ece61d5206bd2301f454cb89828a1cfe">亜熱帯諏訪IC店</a>|<a href="/darts/rank/長野県/諏訪市">長野県諏訪市</a>|
-|31|450|<span class="rank-name-dl">Asche</span>|<a href="https://search.dartslive.com/jp/shop/ece61d5206bd2301f454cb89828a1cfe">亜熱帯諏訪IC店</a>|<a href="/darts/rank/長野県/諏訪市">長野県諏訪市</a>|
-|32|449|<span class="rank-name-dl">ナオkiti@Kfam</span>|<a href="https://search.dartslive.com/jp/shop/ece61d5206bd2301f454cb89828a1cfe">亜熱帯諏訪IC店</a>|<a href="/darts/rank/長野県/諏訪市">長野県諏訪市</a>|
-|33|441|<span class="rank-name-pd">JOKER53</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52906?s_seq=52906">亜熱帯 諏訪IC店</a>|<a href="/darts/rank/長野県/諏訪市">長野県諏訪市</a>|
-|34|434|<span class="rank-name-pd">KASUMI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52906?s_seq=52906">亜熱帯 諏訪IC店</a>|<a href="/darts/rank/長野県/諏訪市">長野県諏訪市</a>|
-|35|426|<span class="rank-name-dl">サンチェス</span>|<a href="https://search.dartslive.com/jp/shop/ece61d5206bd2301f454cb89828a1cfe">亜熱帯諏訪IC店</a>|<a href="/darts/rank/長野県/諏訪市">長野県諏訪市</a>|
+|25|536|<span class="rank-name-dl">丸</span>|<a href="https://search.dartslive.com/jp/shop/ece61d5206bd2301f454cb89828a1cfe">亜熱帯諏訪IC店</a>|<a href="/darts/rank/長野県/諏訪市">長野県諏訪市</a>|
+|26|531|<span class="rank-name-pd">金子です。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52906?s_seq=52906">亜熱帯 諏訪IC店</a>|<a href="/darts/rank/長野県/諏訪市">長野県諏訪市</a>|
+|27|518|<span class="rank-name-dl">サンチェス</span>|<a href="https://search.dartslive.com/jp/shop/ece61d5206bd2301f454cb89828a1cfe">亜熱帯諏訪IC店</a>|<a href="/darts/rank/長野県/諏訪市">長野県諏訪市</a>|
+|28|504|<span class="rank-name-dl">まさお</span>|<a href="https://search.dartslive.com/jp/shop/ece61d5206bd2301f454cb89828a1cfe">亜熱帯諏訪IC店</a>|<a href="/darts/rank/長野県/諏訪市">長野県諏訪市</a>|
+|29|501|<span class="rank-name-dl">Asche</span>|<a href="https://search.dartslive.com/jp/shop/ece61d5206bd2301f454cb89828a1cfe">亜熱帯諏訪IC店</a>|<a href="/darts/rank/長野県/諏訪市">長野県諏訪市</a>|
+|30|490|<span class="rank-name-pd">Asche</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52906?s_seq=52906">亜熱帯 諏訪IC店</a>|<a href="/darts/rank/長野県/諏訪市">長野県諏訪市</a>|
+|31|488|<span class="rank-name-pd">VirtualCard</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52906?s_seq=52906">亜熱帯 諏訪IC店</a>|<a href="/darts/rank/長野県/諏訪市">長野県諏訪市</a>|
+|32|486|<span class="rank-name-pd">DEKACHINPO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52906?s_seq=52906">亜熱帯 諏訪IC店</a>|<a href="/darts/rank/長野県/諏訪市">長野県諏訪市</a>|
+|33|485|<span class="rank-name-pd">RYO~0910~</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52906?s_seq=52906">亜熱帯 諏訪IC店</a>|<a href="/darts/rank/長野県/諏訪市">長野県諏訪市</a>|
+|34|441|<span class="rank-name-pd">JOKER53</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52906?s_seq=52906">亜熱帯 諏訪IC店</a>|<a href="/darts/rank/長野県/諏訪市">長野県諏訪市</a>|
+|35|434|<span class="rank-name-pd">KASUMI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52906?s_seq=52906">亜熱帯 諏訪IC店</a>|<a href="/darts/rank/長野県/諏訪市">長野県諏訪市</a>|
 |36|423|<span class="rank-name-pd">まさお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52906?s_seq=52906">亜熱帯 諏訪IC店</a>|<a href="/darts/rank/長野県/諏訪市">長野県諏訪市</a>|
 |37|421|<span class="rank-name-pd">し</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52906?s_seq=52906">亜熱帯 諏訪IC店</a>|<a href="/darts/rank/長野県/諏訪市">長野県諏訪市</a>|
 |38|395|<span class="rank-name-pd">【東亜グループ】 亜熱帯</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52906?s_seq=52906">亜熱帯 諏訪IC店</a>|<a href="/darts/rank/長野県/諏訪市">長野県諏訪市</a>|
@@ -82,10 +82,10 @@ ___
 |10|620|<span class="rank-name-dl">いぶき</span>|<a href="https://search.dartslive.com/jp/shop/ece61d5206bd2301f454cb89828a1cfe">亜熱帯諏訪IC店</a>|<a href="/darts/rank/長野県/諏訪市">長野県諏訪市</a>|
 |11|616|<span class="rank-name-dl">ゆーき</span>|<a href="https://search.dartslive.com/jp/shop/ece61d5206bd2301f454cb89828a1cfe">亜熱帯諏訪IC店</a>|<a href="/darts/rank/長野県/諏訪市">長野県諏訪市</a>|
 |12|593|<span class="rank-name-dl">ima-imaZ</span>|<a href="https://search.dartslive.com/jp/shop/ece61d5206bd2301f454cb89828a1cfe">亜熱帯諏訪IC店</a>|<a href="/darts/rank/長野県/諏訪市">長野県諏訪市</a>|
-|13|480|<span class="rank-name-dl">NO NAME 0887</span>|<a href="https://search.dartslive.com/jp/shop/ece61d5206bd2301f454cb89828a1cfe">亜熱帯諏訪IC店</a>|<a href="/darts/rank/長野県/諏訪市">長野県諏訪市</a>|
-|14|450|<span class="rank-name-dl">Asche</span>|<a href="https://search.dartslive.com/jp/shop/ece61d5206bd2301f454cb89828a1cfe">亜熱帯諏訪IC店</a>|<a href="/darts/rank/長野県/諏訪市">長野県諏訪市</a>|
-|15|449|<span class="rank-name-dl">ナオkiti@Kfam</span>|<a href="https://search.dartslive.com/jp/shop/ece61d5206bd2301f454cb89828a1cfe">亜熱帯諏訪IC店</a>|<a href="/darts/rank/長野県/諏訪市">長野県諏訪市</a>|
-|16|426|<span class="rank-name-dl">サンチェス</span>|<a href="https://search.dartslive.com/jp/shop/ece61d5206bd2301f454cb89828a1cfe">亜熱帯諏訪IC店</a>|<a href="/darts/rank/長野県/諏訪市">長野県諏訪市</a>|
+|13|536|<span class="rank-name-dl">丸</span>|<a href="https://search.dartslive.com/jp/shop/ece61d5206bd2301f454cb89828a1cfe">亜熱帯諏訪IC店</a>|<a href="/darts/rank/長野県/諏訪市">長野県諏訪市</a>|
+|14|518|<span class="rank-name-dl">サンチェス</span>|<a href="https://search.dartslive.com/jp/shop/ece61d5206bd2301f454cb89828a1cfe">亜熱帯諏訪IC店</a>|<a href="/darts/rank/長野県/諏訪市">長野県諏訪市</a>|
+|15|504|<span class="rank-name-dl">まさお</span>|<a href="https://search.dartslive.com/jp/shop/ece61d5206bd2301f454cb89828a1cfe">亜熱帯諏訪IC店</a>|<a href="/darts/rank/長野県/諏訪市">長野県諏訪市</a>|
+|16|501|<span class="rank-name-dl">Asche</span>|<a href="https://search.dartslive.com/jp/shop/ece61d5206bd2301f454cb89828a1cfe">亜熱帯諏訪IC店</a>|<a href="/darts/rank/長野県/諏訪市">長野県諏訪市</a>|
 
 
 #### PHOENIXDARTS TOP 100
@@ -95,7 +95,7 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|948|<span class="rank-name-pd">福澤 智輝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52906?s_seq=52906">亜熱帯 諏訪IC店</a>|<a href="/darts/rank/長野県/諏訪市">長野県諏訪市</a>|
+|1|948|<span class="rank-name-pd"><span class="pro-icon-pd"></span>福澤 智輝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52906?s_seq=52906">亜熱帯 諏訪IC店</a>|<a href="/darts/rank/長野県/諏訪市">長野県諏訪市</a>|
 |2|835|<span class="rank-name-pd">KUWA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52906?s_seq=52906">亜熱帯 諏訪IC店</a>|<a href="/darts/rank/長野県/諏訪市">長野県諏訪市</a>|
 |3|829|<span class="rank-name-pd">K2</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52906?s_seq=52906">亜熱帯 諏訪IC店</a>|<a href="/darts/rank/長野県/諏訪市">長野県諏訪市</a>|
 |4|750|<span class="rank-name-pd">ayasam</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52906?s_seq=52906">亜熱帯 諏訪IC店</a>|<a href="/darts/rank/長野県/諏訪市">長野県諏訪市</a>|

@@ -43,26 +43,19 @@ ___
 |18|749|<span class="rank-name-pd">いちご太郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82306?s_seq=82306">BAR黒黒むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
 |19|734|<span class="rank-name-dl">マーサ</span>|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国 むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
 |20|727|<span class="rank-name-dl">YuyU</span>|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国 むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
-|21|714|<span class="rank-name-dl">Tsubasa</span>|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国 むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
-|22|713|<span class="rank-name-dl">Katsumi</span>|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国 むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
-|23|712|<span class="rank-name-pd">KANO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82306?s_seq=82306">BAR黒黒むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
-|24|696|<span class="rank-name-dl">［鳳］ぱいん怪獣</span>|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国 むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
-|25|695|<span class="rank-name-pd">芋助</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82306?s_seq=82306">BAR黒黒むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
-|26|633|<span class="rank-name-pd">2 bit yasu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82306?s_seq=82306">BAR黒黒むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
-|27|626|<span class="rank-name-dl">numago_ハセ</span>|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国 むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
-|28|583|<span class="rank-name-pd">ヘルニア＠夢と希望と脂肪</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82306?s_seq=82306">BAR黒黒むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
-|29|556|<span class="rank-name-pd">✌️UP✌️</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82306?s_seq=82306">BAR黒黒むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
-|30|555|<span class="rank-name-dl">ｶｶｶ</span>|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国 むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
-|31|532|<span class="rank-name-pd">4K4KUR4G3</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82306?s_seq=82306">BAR黒黒むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
-|32|509|<span class="rank-name-pd">へびちん＠泥酔ver</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82306?s_seq=82306">BAR黒黒むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
-|33|503|<span class="rank-name-dl">Hisao.N</span>|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国 むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
-|34|453|<span class="rank-name-dl">SHERRY</span>|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国 むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
-|35|444|<span class="rank-name-dl">伸び代JAPAN</span>|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国 むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
-|36|442|<span class="rank-name-pd">りか</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82306?s_seq=82306">BAR黒黒むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
-|37|427|<span class="rank-name-dl">のーすのーす</span>|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国 むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
-|38|422|<span class="rank-name-pd">はいる(◎-◎;)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82306?s_seq=82306">BAR黒黒むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
-|39|416|<span class="rank-name-dl">かすみぃん</span>|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国 むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
-|40|344|<span class="rank-name-dl">ないと</span>|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国 むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
+|21|712|<span class="rank-name-pd">KANO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82306?s_seq=82306">BAR黒黒むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
+|22|696|<span class="rank-name-dl">［鳳］ぱいん怪獣</span>|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国 むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
+|23|695|<span class="rank-name-pd">芋助</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82306?s_seq=82306">BAR黒黒むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
+|24|633|<span class="rank-name-pd">2 bit yasu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82306?s_seq=82306">BAR黒黒むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
+|25|583|<span class="rank-name-pd">ヘルニア＠夢と希望と脂肪</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82306?s_seq=82306">BAR黒黒むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
+|26|556|<span class="rank-name-pd">✌️UP✌️</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82306?s_seq=82306">BAR黒黒むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
+|27|532|<span class="rank-name-pd">4K4KUR4G3</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82306?s_seq=82306">BAR黒黒むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
+|28|509|<span class="rank-name-pd">へびちん＠泥酔ver</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82306?s_seq=82306">BAR黒黒むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
+|29|453|<span class="rank-name-dl">SHERRY</span>|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国 むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
+|30|442|<span class="rank-name-pd">りか</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82306?s_seq=82306">BAR黒黒むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
+|31|432|<span class="rank-name-dl">ふうか</span>|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国 むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
+|32|422|<span class="rank-name-pd">はいる(◎-◎;)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82306?s_seq=82306">BAR黒黒むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
+|33|416|<span class="rank-name-dl">かすみぃん</span>|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国 むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -89,17 +82,10 @@ ___
 |15|756|<span class="rank-name-dl">KEITA JAPAN</span>|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国 むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
 |16|734|<span class="rank-name-dl">マーサ</span>|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国 むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
 |17|727|<span class="rank-name-dl">YuyU</span>|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国 むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
-|18|714|<span class="rank-name-dl">Tsubasa</span>|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国 むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
-|19|713|<span class="rank-name-dl">Katsumi</span>|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国 むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
-|20|696|<span class="rank-name-dl">［鳳］ぱいん怪獣</span>|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国 むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
-|21|626|<span class="rank-name-dl">numago_ハセ</span>|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国 むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
-|22|555|<span class="rank-name-dl">ｶｶｶ</span>|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国 むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
-|23|503|<span class="rank-name-dl">Hisao.N</span>|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国 むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
-|24|453|<span class="rank-name-dl">SHERRY</span>|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国 むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
-|25|444|<span class="rank-name-dl">伸び代JAPAN</span>|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国 むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
-|26|427|<span class="rank-name-dl">のーすのーす</span>|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国 むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
-|27|416|<span class="rank-name-dl">かすみぃん</span>|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国 むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
-|28|344|<span class="rank-name-dl">ないと</span>|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国 むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
+|18|696|<span class="rank-name-dl">［鳳］ぱいん怪獣</span>|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国 むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
+|19|453|<span class="rank-name-dl">SHERRY</span>|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国 むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
+|20|432|<span class="rank-name-dl">ふうか</span>|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国 むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
+|21|416|<span class="rank-name-dl">かすみぃん</span>|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国 むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
 
 
 #### PHOENIXDARTS TOP 100

@@ -36,16 +36,12 @@ ___
 |11|579|<span class="rank-name-dl">daTen</span>|<a href="https://search.dartslive.com/jp/shop/f96f89fddffde7970d9b047a20a7ba1e">カラオケBANBAN流山江戸川台店</a>|<a href="/darts/rank/千葉県/流山市">千葉県流山市</a>|
 |12|575|<span class="rank-name-dl">鳩</span>|<a href="https://search.dartslive.com/jp/shop/f96f89fddffde7970d9b047a20a7ba1e">カラオケBANBAN流山江戸川台店</a>|<a href="/darts/rank/千葉県/流山市">千葉県流山市</a>|
 |13|572|<span class="rank-name-dl">よし</span>|<a href="https://search.dartslive.com/jp/shop/f96f89fddffde7970d9b047a20a7ba1e">カラオケBANBAN流山江戸川台店</a>|<a href="/darts/rank/千葉県/流山市">千葉県流山市</a>|
-|14|569|<span class="rank-name-dl">Tenten</span>|<a href="https://search.dartslive.com/jp/shop/f96f89fddffde7970d9b047a20a7ba1e">カラオケBANBAN流山江戸川台店</a>|<a href="/darts/rank/千葉県/流山市">千葉県流山市</a>|
-|15|562|<span class="rank-name-dl">蒼乃</span>|<a href="https://search.dartslive.com/jp/shop/f96f89fddffde7970d9b047a20a7ba1e">カラオケBANBAN流山江戸川台店</a>|<a href="/darts/rank/千葉県/流山市">千葉県流山市</a>|
-|16|553|<span class="rank-name-dl">fins</span>|<a href="https://search.dartslive.com/jp/shop/f96f89fddffde7970d9b047a20a7ba1e">カラオケBANBAN流山江戸川台店</a>|<a href="/darts/rank/千葉県/流山市">千葉県流山市</a>|
-|17|483|<span class="rank-name-dl">T( ˙꒳ ˙○)ﾏﾙ</span>|<a href="https://search.dartslive.com/jp/shop/f96f89fddffde7970d9b047a20a7ba1e">カラオケBANBAN流山江戸川台店</a>|<a href="/darts/rank/千葉県/流山市">千葉県流山市</a>|
-|18|465|<span class="rank-name-dl">Takuma 5048</span>|<a href="https://search.dartslive.com/jp/shop/f96f89fddffde7970d9b047a20a7ba1e">カラオケBANBAN流山江戸川台店</a>|<a href="/darts/rank/千葉県/流山市">千葉県流山市</a>|
-|19|440|<span class="rank-name-dl">紙たばこやめる</span>|<a href="https://search.dartslive.com/jp/shop/f96f89fddffde7970d9b047a20a7ba1e">カラオケBANBAN流山江戸川台店</a>|<a href="/darts/rank/千葉県/流山市">千葉県流山市</a>|
-|20|418|<span class="rank-name-dl">hiro.</span>|<a href="https://search.dartslive.com/jp/shop/f96f89fddffde7970d9b047a20a7ba1e">カラオケBANBAN流山江戸川台店</a>|<a href="/darts/rank/千葉県/流山市">千葉県流山市</a>|
-|21|365|<span class="rank-name-dl">やにかすちゃん</span>|<a href="https://search.dartslive.com/jp/shop/f96f89fddffde7970d9b047a20a7ba1e">カラオケBANBAN流山江戸川台店</a>|<a href="/darts/rank/千葉県/流山市">千葉県流山市</a>|
-|22|357|<span class="rank-name-dl">えつまる</span>|<a href="https://search.dartslive.com/jp/shop/f96f89fddffde7970d9b047a20a7ba1e">カラオケBANBAN流山江戸川台店</a>|<a href="/darts/rank/千葉県/流山市">千葉県流山市</a>|
-|23|356|<span class="rank-name-dl">りょう❥❥</span>|<a href="https://search.dartslive.com/jp/shop/f96f89fddffde7970d9b047a20a7ba1e">カラオケBANBAN流山江戸川台店</a>|<a href="/darts/rank/千葉県/流山市">千葉県流山市</a>|
+|14|562|<span class="rank-name-dl">蒼乃</span>|<a href="https://search.dartslive.com/jp/shop/f96f89fddffde7970d9b047a20a7ba1e">カラオケBANBAN流山江戸川台店</a>|<a href="/darts/rank/千葉県/流山市">千葉県流山市</a>|
+|15|553|<span class="rank-name-dl">fins</span>|<a href="https://search.dartslive.com/jp/shop/f96f89fddffde7970d9b047a20a7ba1e">カラオケBANBAN流山江戸川台店</a>|<a href="/darts/rank/千葉県/流山市">千葉県流山市</a>|
+|16|483|<span class="rank-name-dl">T( ˙꒳ ˙○)ﾏﾙ</span>|<a href="https://search.dartslive.com/jp/shop/f96f89fddffde7970d9b047a20a7ba1e">カラオケBANBAN流山江戸川台店</a>|<a href="/darts/rank/千葉県/流山市">千葉県流山市</a>|
+|17|465|<span class="rank-name-dl">Takuma 5048</span>|<a href="https://search.dartslive.com/jp/shop/f96f89fddffde7970d9b047a20a7ba1e">カラオケBANBAN流山江戸川台店</a>|<a href="/darts/rank/千葉県/流山市">千葉県流山市</a>|
+|18|418|<span class="rank-name-dl">hiro.</span>|<a href="https://search.dartslive.com/jp/shop/f96f89fddffde7970d9b047a20a7ba1e">カラオケBANBAN流山江戸川台店</a>|<a href="/darts/rank/千葉県/流山市">千葉県流山市</a>|
+|19|365|<span class="rank-name-dl">やにかすちゃん</span>|<a href="https://search.dartslive.com/jp/shop/f96f89fddffde7970d9b047a20a7ba1e">カラオケBANBAN流山江戸川台店</a>|<a href="/darts/rank/千葉県/流山市">千葉県流山市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -68,16 +64,12 @@ ___
 |11|579|<span class="rank-name-dl">daTen</span>|<a href="https://search.dartslive.com/jp/shop/f96f89fddffde7970d9b047a20a7ba1e">カラオケBANBAN流山江戸川台店</a>|<a href="/darts/rank/千葉県/流山市">千葉県流山市</a>|
 |12|575|<span class="rank-name-dl">鳩</span>|<a href="https://search.dartslive.com/jp/shop/f96f89fddffde7970d9b047a20a7ba1e">カラオケBANBAN流山江戸川台店</a>|<a href="/darts/rank/千葉県/流山市">千葉県流山市</a>|
 |13|572|<span class="rank-name-dl">よし</span>|<a href="https://search.dartslive.com/jp/shop/f96f89fddffde7970d9b047a20a7ba1e">カラオケBANBAN流山江戸川台店</a>|<a href="/darts/rank/千葉県/流山市">千葉県流山市</a>|
-|14|569|<span class="rank-name-dl">Tenten</span>|<a href="https://search.dartslive.com/jp/shop/f96f89fddffde7970d9b047a20a7ba1e">カラオケBANBAN流山江戸川台店</a>|<a href="/darts/rank/千葉県/流山市">千葉県流山市</a>|
-|15|562|<span class="rank-name-dl">蒼乃</span>|<a href="https://search.dartslive.com/jp/shop/f96f89fddffde7970d9b047a20a7ba1e">カラオケBANBAN流山江戸川台店</a>|<a href="/darts/rank/千葉県/流山市">千葉県流山市</a>|
-|16|553|<span class="rank-name-dl">fins</span>|<a href="https://search.dartslive.com/jp/shop/f96f89fddffde7970d9b047a20a7ba1e">カラオケBANBAN流山江戸川台店</a>|<a href="/darts/rank/千葉県/流山市">千葉県流山市</a>|
-|17|483|<span class="rank-name-dl">T( ˙꒳ ˙○)ﾏﾙ</span>|<a href="https://search.dartslive.com/jp/shop/f96f89fddffde7970d9b047a20a7ba1e">カラオケBANBAN流山江戸川台店</a>|<a href="/darts/rank/千葉県/流山市">千葉県流山市</a>|
-|18|465|<span class="rank-name-dl">Takuma 5048</span>|<a href="https://search.dartslive.com/jp/shop/f96f89fddffde7970d9b047a20a7ba1e">カラオケBANBAN流山江戸川台店</a>|<a href="/darts/rank/千葉県/流山市">千葉県流山市</a>|
-|19|440|<span class="rank-name-dl">紙たばこやめる</span>|<a href="https://search.dartslive.com/jp/shop/f96f89fddffde7970d9b047a20a7ba1e">カラオケBANBAN流山江戸川台店</a>|<a href="/darts/rank/千葉県/流山市">千葉県流山市</a>|
-|20|418|<span class="rank-name-dl">hiro.</span>|<a href="https://search.dartslive.com/jp/shop/f96f89fddffde7970d9b047a20a7ba1e">カラオケBANBAN流山江戸川台店</a>|<a href="/darts/rank/千葉県/流山市">千葉県流山市</a>|
-|21|365|<span class="rank-name-dl">やにかすちゃん</span>|<a href="https://search.dartslive.com/jp/shop/f96f89fddffde7970d9b047a20a7ba1e">カラオケBANBAN流山江戸川台店</a>|<a href="/darts/rank/千葉県/流山市">千葉県流山市</a>|
-|22|357|<span class="rank-name-dl">えつまる</span>|<a href="https://search.dartslive.com/jp/shop/f96f89fddffde7970d9b047a20a7ba1e">カラオケBANBAN流山江戸川台店</a>|<a href="/darts/rank/千葉県/流山市">千葉県流山市</a>|
-|23|356|<span class="rank-name-dl">りょう❥❥</span>|<a href="https://search.dartslive.com/jp/shop/f96f89fddffde7970d9b047a20a7ba1e">カラオケBANBAN流山江戸川台店</a>|<a href="/darts/rank/千葉県/流山市">千葉県流山市</a>|
+|14|562|<span class="rank-name-dl">蒼乃</span>|<a href="https://search.dartslive.com/jp/shop/f96f89fddffde7970d9b047a20a7ba1e">カラオケBANBAN流山江戸川台店</a>|<a href="/darts/rank/千葉県/流山市">千葉県流山市</a>|
+|15|553|<span class="rank-name-dl">fins</span>|<a href="https://search.dartslive.com/jp/shop/f96f89fddffde7970d9b047a20a7ba1e">カラオケBANBAN流山江戸川台店</a>|<a href="/darts/rank/千葉県/流山市">千葉県流山市</a>|
+|16|483|<span class="rank-name-dl">T( ˙꒳ ˙○)ﾏﾙ</span>|<a href="https://search.dartslive.com/jp/shop/f96f89fddffde7970d9b047a20a7ba1e">カラオケBANBAN流山江戸川台店</a>|<a href="/darts/rank/千葉県/流山市">千葉県流山市</a>|
+|17|465|<span class="rank-name-dl">Takuma 5048</span>|<a href="https://search.dartslive.com/jp/shop/f96f89fddffde7970d9b047a20a7ba1e">カラオケBANBAN流山江戸川台店</a>|<a href="/darts/rank/千葉県/流山市">千葉県流山市</a>|
+|18|418|<span class="rank-name-dl">hiro.</span>|<a href="https://search.dartslive.com/jp/shop/f96f89fddffde7970d9b047a20a7ba1e">カラオケBANBAN流山江戸川台店</a>|<a href="/darts/rank/千葉県/流山市">千葉県流山市</a>|
+|19|365|<span class="rank-name-dl">やにかすちゃん</span>|<a href="https://search.dartslive.com/jp/shop/f96f89fddffde7970d9b047a20a7ba1e">カラオケBANBAN流山江戸川台店</a>|<a href="/darts/rank/千葉県/流山市">千葉県流山市</a>|
 
 
 #### PHOENIXDARTS TOP 100

@@ -23,9 +23,9 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1173|<span class="rank-name-dl">勝見　翔</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|2|1160|<span class="rank-name-dl">龍波光彦　gram</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|3|1159|<span class="rank-name-dl">よしとろっくす</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|1|1209|<span class="rank-name-dl">勝見　翔</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|2|1167|<span class="rank-name-dl">よしとろっくす</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|3|1160|<span class="rank-name-dl">龍波光彦　gram</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
 |4|1155|<span class="rank-name-dl">村田　俊憲</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
 |5|1117|<span class="rank-name-dl">☆</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
 |6|1081|<span class="rank-name-dl">ゆうちん</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
@@ -44,35 +44,36 @@ ___
 |19|782|<span class="rank-name-dl">HY@ｶﾅﾓﾝ(￣O￣)</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
 |20|776|<span class="rank-name-dl">ちょろ</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
 |21|747|<span class="rank-name-dl">￠такцуа￠</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|22|740|<span class="rank-name-dl">絵梨香☆➳猪口在</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|23|738|<span class="rank-name-dl">みーちゃん♡</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|24|721|<span class="rank-name-dl">あいりちゃん</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|25|708|<span class="rank-name-dl">おさる</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|26|694|<span class="rank-name-dl">HY Dj 32 T</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|27|648|<span class="rank-name-dl">りな</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|28|642|<span class="rank-name-dl">でぇちゃん</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|29|624|<span class="rank-name-dl">春巻きボーイ</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|30|616|<span class="rank-name-dl">NAO</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|31|605|<span class="rank-name-dl">さるぼぼ</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|32|570|<span class="rank-name-dl">わかな</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|33|529|<span class="rank-name-dl">( ˙༥˙ )</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|34|526|<span class="rank-name-dl">(*¯︶¯♥)</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|35|505|<span class="rank-name-dl">!!!!!</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|36|501|<span class="rank-name-dl">酒飲矢投者@HY</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|37|493|<span class="rank-name-dl">夢見りあむ</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|37|493|<span class="rank-name-dl">ＨＹ</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|39|483|<span class="rank-name-dl">HY　潤平</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|40|463|<span class="rank-name-dl">おかだです。</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|41|454|<span class="rank-name-dl">澪</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|42|452|<span class="rank-name-dl">ポコちゃん大魔王</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|43|449|<span class="rank-name-dl">勝見ゆかり</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|44|443|<span class="rank-name-dl">菜緒遥民</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|45|437|<span class="rank-name-dl">naho</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|46|436|<span class="rank-name-dl">NO yussybooooo</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|47|415|<span class="rank-name-dl">年齢不詳ホビット</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|48|407|<span class="rank-name-dl">はるか</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|49|405|<span class="rank-name-dl">あいか(^-^;</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|50|387|<span class="rank-name-dl">(о´∀`о)mika</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|22|742|<span class="rank-name-dl">(ﾟωﾟ)</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|23|740|<span class="rank-name-dl">絵梨香☆➳猪口在</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|24|738|<span class="rank-name-dl">みーちゃん♡</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|25|721|<span class="rank-name-dl">あいりちゃん</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|26|712|<span class="rank-name-dl">SEINOSUKE@福</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|26|712|<span class="rank-name-dl">☆福-Fuku-☆</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|28|708|<span class="rank-name-dl">おさる</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|29|694|<span class="rank-name-dl">HY Dj 32 T</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|30|648|<span class="rank-name-dl">りな</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|31|642|<span class="rank-name-dl">でぇちゃん</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|32|624|<span class="rank-name-dl">春巻きボーイ</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|33|616|<span class="rank-name-dl">NAO</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|34|605|<span class="rank-name-dl">さるぼぼ</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|35|570|<span class="rank-name-dl">わかな</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|36|529|<span class="rank-name-dl">( ˙༥˙ )</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|37|526|<span class="rank-name-dl">(*¯︶¯♥)</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|38|505|<span class="rank-name-dl">!!!!!</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|39|501|<span class="rank-name-dl">酒飲矢投者@HY</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|40|493|<span class="rank-name-dl">夢見りあむ</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|40|493|<span class="rank-name-dl">ＨＹ</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|42|483|<span class="rank-name-dl">HY　潤平</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|43|463|<span class="rank-name-dl">おかだです。</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|44|454|<span class="rank-name-dl">澪</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|45|452|<span class="rank-name-dl">ポコちゃん大魔王</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|46|449|<span class="rank-name-dl">勝見ゆかり</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|47|443|<span class="rank-name-dl">菜緒遥民</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|48|415|<span class="rank-name-dl">年齢不詳ホビット</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|49|407|<span class="rank-name-dl">はるか</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|50|405|<span class="rank-name-dl">あいか(^-^;</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|51|387|<span class="rank-name-dl">(о´∀`о)mika</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -82,9 +83,9 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1173|<span class="rank-name-dl">勝見　翔</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|2|1160|<span class="rank-name-dl">龍波光彦　gram</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|3|1159|<span class="rank-name-dl">よしとろっくす</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|1|1209|<span class="rank-name-dl">勝見　翔</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|2|1167|<span class="rank-name-dl">よしとろっくす</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|3|1160|<span class="rank-name-dl">龍波光彦　gram</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
 |4|1155|<span class="rank-name-dl">村田　俊憲</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
 |5|1117|<span class="rank-name-dl">☆</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
 |6|1081|<span class="rank-name-dl">ゆうちん</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
@@ -103,35 +104,36 @@ ___
 |19|782|<span class="rank-name-dl">HY@ｶﾅﾓﾝ(￣O￣)</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
 |20|776|<span class="rank-name-dl">ちょろ</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
 |21|747|<span class="rank-name-dl">￠такцуа￠</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|22|740|<span class="rank-name-dl">絵梨香☆➳猪口在</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|23|738|<span class="rank-name-dl">みーちゃん♡</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|24|721|<span class="rank-name-dl">あいりちゃん</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|25|708|<span class="rank-name-dl">おさる</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|26|694|<span class="rank-name-dl">HY Dj 32 T</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|27|648|<span class="rank-name-dl">りな</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|28|642|<span class="rank-name-dl">でぇちゃん</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|29|624|<span class="rank-name-dl">春巻きボーイ</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|30|616|<span class="rank-name-dl">NAO</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|31|605|<span class="rank-name-dl">さるぼぼ</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|32|570|<span class="rank-name-dl">わかな</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|33|529|<span class="rank-name-dl">( ˙༥˙ )</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|34|526|<span class="rank-name-dl">(*¯︶¯♥)</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|35|505|<span class="rank-name-dl">!!!!!</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|36|501|<span class="rank-name-dl">酒飲矢投者@HY</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|37|493|<span class="rank-name-dl">夢見りあむ</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|37|493|<span class="rank-name-dl">ＨＹ</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|39|483|<span class="rank-name-dl">HY　潤平</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|40|463|<span class="rank-name-dl">おかだです。</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|41|454|<span class="rank-name-dl">澪</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|42|452|<span class="rank-name-dl">ポコちゃん大魔王</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|43|449|<span class="rank-name-dl">勝見ゆかり</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|44|443|<span class="rank-name-dl">菜緒遥民</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|45|437|<span class="rank-name-dl">naho</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|46|436|<span class="rank-name-dl">NO yussybooooo</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|47|415|<span class="rank-name-dl">年齢不詳ホビット</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|48|407|<span class="rank-name-dl">はるか</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|49|405|<span class="rank-name-dl">あいか(^-^;</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
-|50|387|<span class="rank-name-dl">(о´∀`о)mika</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|22|742|<span class="rank-name-dl">(ﾟωﾟ)</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|23|740|<span class="rank-name-dl">絵梨香☆➳猪口在</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|24|738|<span class="rank-name-dl">みーちゃん♡</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|25|721|<span class="rank-name-dl">あいりちゃん</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|26|712|<span class="rank-name-dl">SEINOSUKE@福</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|26|712|<span class="rank-name-dl">☆福-Fuku-☆</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|28|708|<span class="rank-name-dl">おさる</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|29|694|<span class="rank-name-dl">HY Dj 32 T</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|30|648|<span class="rank-name-dl">りな</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|31|642|<span class="rank-name-dl">でぇちゃん</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|32|624|<span class="rank-name-dl">春巻きボーイ</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|33|616|<span class="rank-name-dl">NAO</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|34|605|<span class="rank-name-dl">さるぼぼ</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|35|570|<span class="rank-name-dl">わかな</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|36|529|<span class="rank-name-dl">( ˙༥˙ )</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|37|526|<span class="rank-name-dl">(*¯︶¯♥)</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|38|505|<span class="rank-name-dl">!!!!!</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|39|501|<span class="rank-name-dl">酒飲矢投者@HY</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|40|493|<span class="rank-name-dl">夢見りあむ</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|40|493|<span class="rank-name-dl">ＨＹ</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|42|483|<span class="rank-name-dl">HY　潤平</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|43|463|<span class="rank-name-dl">おかだです。</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|44|454|<span class="rank-name-dl">澪</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|45|452|<span class="rank-name-dl">ポコちゃん大魔王</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|46|449|<span class="rank-name-dl">勝見ゆかり</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|47|443|<span class="rank-name-dl">菜緒遥民</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|48|415|<span class="rank-name-dl">年齢不詳ホビット</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|49|407|<span class="rank-name-dl">はるか</span>|<a href="https://search.dartslive.com/jp/shop/6067f8a5caa4c48c0d9b047a20a7ba1e">arms cafe</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|50|405|<span class="rank-name-dl">あいか(^-^;</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
+|51|387|<span class="rank-name-dl">(о´∀`о)mika</span>|<a href="https://search.dartslive.com/jp/shop/ef4f694c800579f30d9b047a20a7ba1e">カフェレストHY</a>|<a href="/darts/rank/岐阜県/羽島市">岐阜県羽島市</a>|
 
 
 #### PHOENIXDARTS TOP 100

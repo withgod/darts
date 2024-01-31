@@ -23,8 +23,8 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1068|<span class="rank-name-pd">白井洋平</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|2|1006|<span class="rank-name-pd">佐藤  慎哉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|1|1138|<span class="rank-name-pd">白井洋平</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|2|1006|<span class="rank-name-pd"><span class="pro-icon-pd"></span>佐藤  慎哉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
 |3|928|<span class="rank-name-pd">ちゃんはな</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
 |4|909|<span class="rank-name-pd">KOU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
 |5|899|<span class="rank-name-pd">瀬下   誠    Mush ＆ Room Cafe</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
@@ -48,9 +48,9 @@ ___
 |23|699|<span class="rank-name-dl">（＾ω＾）</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
 |24|696|<span class="rank-name-pd">まさぽん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
 |25|684|<span class="rank-name-pd">Ri～(嫁カード)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|26|680|<span class="rank-name-pd">TKYAN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|27|677|<span class="rank-name-dl">TAKA</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|28|664|<span class="rank-name-dl">まつ</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|26|683|<span class="rank-name-pd">まつ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|27|680|<span class="rank-name-pd">TKYAN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|28|677|<span class="rank-name-dl">TAKA</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
 |29|656|<span class="rank-name-pd">KOUHEI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88419?s_seq=88419">BAR-酒桜-sakura</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
 |30|641|<span class="rank-name-pd">ぶちょう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
 |31|627|<span class="rank-name-dl">柴田洋行</span>|<a href="https://search.dartslive.com/jp/shop/ff0429d16f50e1bf0d9b047a20a7ba1e">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
@@ -104,8 +104,8 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1068|<span class="rank-name-pd">白井洋平</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|2|1006|<span class="rank-name-pd">佐藤  慎哉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|1|1138|<span class="rank-name-pd">白井洋平</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|2|1006|<span class="rank-name-pd"><span class="pro-icon-pd"></span>佐藤  慎哉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
 |3|928|<span class="rank-name-pd">ちゃんはな</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
 |4|909|<span class="rank-name-pd">KOU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
 |5|899|<span class="rank-name-pd">瀬下   誠    Mush ＆ Room Cafe</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
@@ -123,11 +123,11 @@ ___
 |17|720|<span class="rank-name-pd">さる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
 |18|696|<span class="rank-name-pd">まさぽん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
 |19|684|<span class="rank-name-pd">Ri～(嫁カード)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|20|680|<span class="rank-name-pd">TKYAN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|21|656|<span class="rank-name-pd">KOUHEI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88419?s_seq=88419">BAR-酒桜-sakura</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|22|641|<span class="rank-name-pd">ぶちょう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|23|609|<span class="rank-name-pd">YONE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
-|24|599|<span class="rank-name-pd">まつ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|20|683|<span class="rank-name-pd">まつ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|21|680|<span class="rank-name-pd">TKYAN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|22|656|<span class="rank-name-pd">KOUHEI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88419?s_seq=88419">BAR-酒桜-sakura</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|23|641|<span class="rank-name-pd">ぶちょう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
+|24|609|<span class="rank-name-pd">YONE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
 |25|593|<span class="rank-name-pd">※K@ZU※-D&#x27;d-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
 |26|562|<span class="rank-name-pd">タッキーＪｒ@鯖王信者</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|
 |27|558|<span class="rank-name-pd">T A K A</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_40066?s_seq=40066">リボルト・ブラッズ</a>|<a href="/darts/rank/長野県/千曲市">長野県千曲市</a>|

@@ -25,23 +25,21 @@ ___
 |---|---|---|---|---|
 |1|1119|<span class="rank-name-dl">to/to</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
 |2|1057|<span class="rank-name-dl">よしとろっくす</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
-|3|1018|<span class="rank-name-dl">おしげ@しげお</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
-|4|964|<span class="rank-name-dl">鳥の素</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
-|5|918|<span class="rank-name-dl">熊田さん</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
-|6|897|<span class="rank-name-dl">ｺｳｼﾞｮｳﾁｮｳ(^o^)/</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
+|3|1051|<span class="rank-name-dl">鳥の素</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
+|4|1018|<span class="rank-name-dl">おしげ@しげお</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
+|5|921|<span class="rank-name-dl">ｺｳｼﾞｮｳﾁｮｳ(^o^)/</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
+|6|918|<span class="rank-name-dl">熊田さん</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
 |7|892|<span class="rank-name-dl">戦う眼鏡屋(大)</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
 |8|890|<span class="rank-name-dl">柴田純平</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
 |9|878|<span class="rank-name-dl">Ｋαｚμ@白米</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
 |10|852|<span class="rank-name-dl">うささみさん</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
-|11|816|<span class="rank-name-dl">ティージ</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
+|11|846|<span class="rank-name-dl">ティージ</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
 |12|719|<span class="rank-name-dl">わおんこんにゃく</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
 |13|716|<span class="rank-name-dl">MORI</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
 |14|684|<span class="rank-name-dl">マルプリン</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
 |15|666|<span class="rank-name-dl">宇虎ﾁｬﾝ † Geek</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
 |16|631|<span class="rank-name-dl">ゆー。</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
 |17|618|<span class="rank-name-dl">くまださん</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
-|18|611|<span class="rank-name-dl">タカ</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
-|19|604|<span class="rank-name-dl">くるカケ</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -53,23 +51,21 @@ ___
 |---|---|---|---|---|
 |1|1119|<span class="rank-name-dl">to/to</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
 |2|1057|<span class="rank-name-dl">よしとろっくす</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
-|3|1018|<span class="rank-name-dl">おしげ@しげお</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
-|4|964|<span class="rank-name-dl">鳥の素</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
-|5|918|<span class="rank-name-dl">熊田さん</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
-|6|897|<span class="rank-name-dl">ｺｳｼﾞｮｳﾁｮｳ(^o^)/</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
+|3|1051|<span class="rank-name-dl">鳥の素</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
+|4|1018|<span class="rank-name-dl">おしげ@しげお</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
+|5|921|<span class="rank-name-dl">ｺｳｼﾞｮｳﾁｮｳ(^o^)/</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
+|6|918|<span class="rank-name-dl">熊田さん</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
 |7|892|<span class="rank-name-dl">戦う眼鏡屋(大)</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
 |8|890|<span class="rank-name-dl">柴田純平</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
 |9|878|<span class="rank-name-dl">Ｋαｚμ@白米</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
 |10|852|<span class="rank-name-dl">うささみさん</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
-|11|816|<span class="rank-name-dl">ティージ</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
+|11|846|<span class="rank-name-dl">ティージ</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
 |12|719|<span class="rank-name-dl">わおんこんにゃく</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
 |13|716|<span class="rank-name-dl">MORI</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
 |14|684|<span class="rank-name-dl">マルプリン</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
 |15|666|<span class="rank-name-dl">宇虎ﾁｬﾝ † Geek</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
 |16|631|<span class="rank-name-dl">ゆー。</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
 |17|618|<span class="rank-name-dl">くまださん</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
-|18|611|<span class="rank-name-dl">タカ</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
-|19|604|<span class="rank-name-dl">くるカケ</span>|<a href="https://search.dartslive.com/jp/shop/4aece8944411d887b21333aee1bd51e4">SMILE-EYE TACTICAL</a>|<a href="/darts/rank/岐阜県/揖斐郡">岐阜県揖斐郡</a>|
 
 
 #### PHOENIXDARTS TOP 100
