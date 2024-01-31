@@ -23,49 +23,51 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|982|<span class="rank-name-pd">fumi@GO ON</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|2|981|<span class="rank-name-pd">ふみ@GO ON</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|3|962|<span class="rank-name-pd">ただのべっしー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|4|903|<span class="rank-name-pd">エリートTAKEにぇ~☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|4|903|<span class="rank-name-dl">ドS Asano</span>|<a href="https://search.dartslive.com/jp/shop/b992898f19bbd9240d9b047a20a7ba1e">Bell</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|6|879|<span class="rank-name-pd">KAZ☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|7|866|<span class="rank-name-pd">S.ASANO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|8|859|<span class="rank-name-dl">ペロ</span>|<a href="https://search.dartslive.com/jp/shop/b992898f19bbd9240d9b047a20a7ba1e">Bell</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|9|853|<span class="rank-name-pd">よったか</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|10|852|<span class="rank-name-pd">alf</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|11|836|<span class="rank-name-pd">hkty666_yuya</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|12|823|<span class="rank-name-pd">S.ASANO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84225?s_seq=84225">Bros</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|13|810|<span class="rank-name-pd">JOJO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|14|802|<span class="rank-name-pd">0316_0316</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|15|788|<span class="rank-name-pd">ひろぽん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|16|782|<span class="rank-name-pd">Kaz</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|17|764|<span class="rank-name-pd">九条ネギ男</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|18|721|<span class="rank-name-pd">KASHAMAさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|19|688|<span class="rank-name-pd">まさ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|20|665|<span class="rank-name-pd">ma</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|21|623|<span class="rank-name-pd">くさ！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|22|580|<span class="rank-name-pd">チャカお🔫</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|23|565|<span class="rank-name-pd">へデ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|24|562|<span class="rank-name-pd">0148_3214</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|25|560|<span class="rank-name-pd">54のおんな</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|26|549|<span class="rank-name-pd">いまむー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|27|533|<span class="rank-name-pd">もっちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|28|517|<span class="rank-name-pd">YU-SEI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|29|516|<span class="rank-name-pd">ゆかちん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|30|503|<span class="rank-name-pd">クロ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|31|499|<span class="rank-name-pd">りゅうりゅう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|32|487|<span class="rank-name-dl">はづき</span>|<a href="https://search.dartslive.com/jp/shop/b992898f19bbd9240d9b047a20a7ba1e">Bell</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|33|486|<span class="rank-name-pd">Shirokuma</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|34|481|<span class="rank-name-dl">チョロ(*´-`)</span>|<a href="https://search.dartslive.com/jp/shop/b992898f19bbd9240d9b047a20a7ba1e">Bell</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|35|469|<span class="rank-name-pd">毒蛇BRNK</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|36|461|<span class="rank-name-pd">HAYABUSA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|37|448|<span class="rank-name-pd">たくみ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|37|448|<span class="rank-name-pd">魔人Poohさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|39|423|<span class="rank-name-dl">min</span>|<a href="https://search.dartslive.com/jp/shop/b992898f19bbd9240d9b047a20a7ba1e">Bell</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|40|414|<span class="rank-name-pd">suzuk1</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|41|372|<span class="rank-name-dl">あり</span>|<a href="https://search.dartslive.com/jp/shop/b992898f19bbd9240d9b047a20a7ba1e">Bell</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|42|329|<span class="rank-name-pd">TAKISUKE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|43|287|<span class="rank-name-dl">えあち</span>|<a href="https://search.dartslive.com/jp/shop/b992898f19bbd9240d9b047a20a7ba1e">Bell</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|1|1007|<span class="rank-name-pd">チャカお🔫</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|2|982|<span class="rank-name-pd">fumi@GO ON</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|3|981|<span class="rank-name-pd">ふみ@GO ON</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|4|962|<span class="rank-name-pd">ただのべっしー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|5|949|<span class="rank-name-pd">Kaz</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|6|903|<span class="rank-name-pd">エリートTAKEにぇ~☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|6|903|<span class="rank-name-dl">ドS Asano</span>|<a href="https://search.dartslive.com/jp/shop/b992898f19bbd9240d9b047a20a7ba1e">Bell</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|8|879|<span class="rank-name-pd">KAZ☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|9|866|<span class="rank-name-pd">S.ASANO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|9|866|<span class="rank-name-pd">hkty666_yuya</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|11|859|<span class="rank-name-dl">ペロ</span>|<a href="https://search.dartslive.com/jp/shop/b992898f19bbd9240d9b047a20a7ba1e">Bell</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|12|853|<span class="rank-name-pd">よったか</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|13|852|<span class="rank-name-pd">alf</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|14|823|<span class="rank-name-pd">S.ASANO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84225?s_seq=84225">Bros</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|15|810|<span class="rank-name-pd">JOJO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|16|802|<span class="rank-name-pd">0316_0316</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|17|788|<span class="rank-name-pd">ひろぽん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|18|764|<span class="rank-name-pd">九条ネギ男</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|19|762|<span class="rank-name-pd">こずみん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|20|721|<span class="rank-name-pd">KASHAMAさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|21|688|<span class="rank-name-pd">まさ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|22|665|<span class="rank-name-pd">ma</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|23|623|<span class="rank-name-pd">クボ主任</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|24|565|<span class="rank-name-pd">へデ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|25|562|<span class="rank-name-pd">0148_3214</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|26|560|<span class="rank-name-pd">54のおんな</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|27|549|<span class="rank-name-pd">いまむー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|28|533|<span class="rank-name-pd">もっちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|29|517|<span class="rank-name-pd">YU-SEI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|30|516|<span class="rank-name-pd">ゆかちん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|31|503|<span class="rank-name-pd">クロ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|32|499|<span class="rank-name-pd">りゅうりゅう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|33|487|<span class="rank-name-dl">はづき</span>|<a href="https://search.dartslive.com/jp/shop/b992898f19bbd9240d9b047a20a7ba1e">Bell</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|34|486|<span class="rank-name-pd">Shirokuma</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|35|481|<span class="rank-name-dl">チョロ(*´-`)</span>|<a href="https://search.dartslive.com/jp/shop/b992898f19bbd9240d9b047a20a7ba1e">Bell</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|36|469|<span class="rank-name-pd">毒蛇BRNK</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|37|461|<span class="rank-name-pd">HAYABUSA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|38|448|<span class="rank-name-pd">たくみ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|38|448|<span class="rank-name-pd">魔人Poohさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|40|423|<span class="rank-name-dl">min</span>|<a href="https://search.dartslive.com/jp/shop/b992898f19bbd9240d9b047a20a7ba1e">Bell</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|41|414|<span class="rank-name-pd">suzuk1</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|42|372|<span class="rank-name-dl">あり</span>|<a href="https://search.dartslive.com/jp/shop/b992898f19bbd9240d9b047a20a7ba1e">Bell</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|43|345|<span class="rank-name-pd">saya_74ers</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|44|329|<span class="rank-name-pd">TAKISUKE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|45|287|<span class="rank-name-dl">えあち</span>|<a href="https://search.dartslive.com/jp/shop/b992898f19bbd9240d9b047a20a7ba1e">Bell</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -91,42 +93,44 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|982|<span class="rank-name-pd">fumi@GO ON</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|2|981|<span class="rank-name-pd">ふみ@GO ON</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|3|962|<span class="rank-name-pd">ただのべっしー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|4|903|<span class="rank-name-pd">エリートTAKEにぇ~☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|5|879|<span class="rank-name-pd">KAZ☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|6|866|<span class="rank-name-pd">S.ASANO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|7|853|<span class="rank-name-pd">よったか</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|8|852|<span class="rank-name-pd">alf</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|9|836|<span class="rank-name-pd">hkty666_yuya</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|10|823|<span class="rank-name-pd">S.ASANO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84225?s_seq=84225">Bros</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|11|810|<span class="rank-name-pd">JOJO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|12|802|<span class="rank-name-pd">0316_0316</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|13|788|<span class="rank-name-pd">ひろぽん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|14|782|<span class="rank-name-pd">Kaz</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|15|764|<span class="rank-name-pd">九条ネギ男</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|16|721|<span class="rank-name-pd">KASHAMAさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|17|688|<span class="rank-name-pd">まさ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|18|665|<span class="rank-name-pd">ma</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|19|623|<span class="rank-name-pd">くさ！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|20|580|<span class="rank-name-pd">チャカお🔫</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|21|565|<span class="rank-name-pd">へデ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|22|562|<span class="rank-name-pd">0148_3214</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|23|560|<span class="rank-name-pd">54のおんな</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|24|549|<span class="rank-name-pd">いまむー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|25|533|<span class="rank-name-pd">もっちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|26|517|<span class="rank-name-pd">YU-SEI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|27|516|<span class="rank-name-pd">ゆかちん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|28|503|<span class="rank-name-pd">クロ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|29|499|<span class="rank-name-pd">りゅうりゅう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|30|486|<span class="rank-name-pd">Shirokuma</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|31|469|<span class="rank-name-pd">毒蛇BRNK</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|32|461|<span class="rank-name-pd">HAYABUSA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|33|448|<span class="rank-name-pd">たくみ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|33|448|<span class="rank-name-pd">魔人Poohさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|35|414|<span class="rank-name-pd">suzuk1</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
-|36|329|<span class="rank-name-pd">TAKISUKE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|1|1007|<span class="rank-name-pd">チャカお🔫</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|2|982|<span class="rank-name-pd">fumi@GO ON</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|3|981|<span class="rank-name-pd">ふみ@GO ON</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|4|962|<span class="rank-name-pd">ただのべっしー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|5|949|<span class="rank-name-pd">Kaz</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|6|903|<span class="rank-name-pd">エリートTAKEにぇ~☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|7|879|<span class="rank-name-pd">KAZ☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|8|866|<span class="rank-name-pd">S.ASANO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|8|866|<span class="rank-name-pd">hkty666_yuya</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|10|853|<span class="rank-name-pd">よったか</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|11|852|<span class="rank-name-pd">alf</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|12|823|<span class="rank-name-pd">S.ASANO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84225?s_seq=84225">Bros</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|13|810|<span class="rank-name-pd">JOJO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|14|802|<span class="rank-name-pd">0316_0316</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|15|788|<span class="rank-name-pd">ひろぽん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|16|764|<span class="rank-name-pd">九条ネギ男</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|17|762|<span class="rank-name-pd">こずみん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|18|721|<span class="rank-name-pd">KASHAMAさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|19|688|<span class="rank-name-pd">まさ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|20|665|<span class="rank-name-pd">ma</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|21|623|<span class="rank-name-pd">クボ主任</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|22|565|<span class="rank-name-pd">へデ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|23|562|<span class="rank-name-pd">0148_3214</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|24|560|<span class="rank-name-pd">54のおんな</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|25|549|<span class="rank-name-pd">いまむー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|26|533|<span class="rank-name-pd">もっちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|27|517|<span class="rank-name-pd">YU-SEI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|28|516|<span class="rank-name-pd">ゆかちん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|29|503|<span class="rank-name-pd">クロ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|30|499|<span class="rank-name-pd">りゅうりゅう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|31|486|<span class="rank-name-pd">Shirokuma</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|32|469|<span class="rank-name-pd">毒蛇BRNK</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|33|461|<span class="rank-name-pd">HAYABUSA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|34|448|<span class="rank-name-pd">たくみ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|34|448|<span class="rank-name-pd">魔人Poohさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|36|414|<span class="rank-name-pd">suzuk1</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|37|345|<span class="rank-name-pd">saya_74ers</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
+|38|329|<span class="rank-name-pd">TAKISUKE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86728?s_seq=86728">GO ON</a>|<a href="/darts/rank/宮城県/岩沼市">宮城県岩沼市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

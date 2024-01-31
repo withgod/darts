@@ -37,28 +37,30 @@ ___
 |12|764|<span class="rank-name-pd">Happyman</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
 |13|754|<span class="rank-name-pd">HITO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
 |14|743|<span class="rank-name-pd">SEIJI_PNX</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83214?s_seq=83214">M’S Base</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
-|15|717|<span class="rank-name-pd">あやたか</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
-|16|706|<span class="rank-name-pd">竹島リテイク</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
-|17|690|<span class="rank-name-pd">けーぼーぼー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
-|18|667|<span class="rank-name-pd">HIKA1228</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
-|19|661|<span class="rank-name-pd">KOHEI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
-|20|657|<span class="rank-name-pd">MARU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83214?s_seq=83214">M’S Base</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
-|20|657|<span class="rank-name-pd">笑犬</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
-|22|613|<span class="rank-name-pd">怪盗1412</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
-|23|605|<span class="rank-name-pd">kaede</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
-|24|508|<span class="rank-name-pd">○</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83214?s_seq=83214">M’S Base</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
-|25|502|<span class="rank-name-pd">Lupin#サブ垢</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
-|26|476|<span class="rank-name-pd">たかなお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83214?s_seq=83214">M’S Base</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
-|27|461|<span class="rank-name-pd">油そば濃いめ硬め多め</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
-|28|455|<span class="rank-name-pd">ダンクトップ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
-|29|454|<span class="rank-name-pd">tt</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
-|30|420|<span class="rank-name-pd">0124_7819</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
-|31|415|<span class="rank-name-pd">TAKA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
-|32|399|<span class="rank-name-pd">お肉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5482?s_seq=5482">シーポート</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
-|33|382|<span class="rank-name-pd">TAMACHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72096?s_seq=72096">アテナ</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
-|34|375|<span class="rank-name-pd">Ryo</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
-|35|362|<span class="rank-name-pd">HERO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84398?s_seq=84398">Bar LUCCA</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
-|36|331|<span class="rank-name-pd">328</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
+|15|721|<span class="rank-name-pd">lily</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
+|16|720|<span class="rank-name-pd">COTTY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
+|17|717|<span class="rank-name-pd">あやたか</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
+|18|706|<span class="rank-name-pd">竹島リテイク</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
+|19|690|<span class="rank-name-pd">けーぼーぼー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
+|20|667|<span class="rank-name-pd">HIKA1228</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
+|21|661|<span class="rank-name-pd">KOHEI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
+|22|657|<span class="rank-name-pd">MARU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83214?s_seq=83214">M’S Base</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
+|22|657|<span class="rank-name-pd">笑犬</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
+|24|613|<span class="rank-name-pd">怪盗1412</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
+|25|605|<span class="rank-name-pd">kaede</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
+|26|508|<span class="rank-name-pd">○</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83214?s_seq=83214">M’S Base</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
+|27|502|<span class="rank-name-pd">Lupin#サブ垢</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
+|28|476|<span class="rank-name-pd">たかなお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83214?s_seq=83214">M’S Base</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
+|29|461|<span class="rank-name-pd">油そば濃いめ硬め多め</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
+|30|455|<span class="rank-name-pd">ダンクトップ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
+|31|454|<span class="rank-name-pd">tt</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
+|32|420|<span class="rank-name-pd">0124_7819</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
+|33|415|<span class="rank-name-pd">TAKA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
+|34|399|<span class="rank-name-pd">お肉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5482?s_seq=5482">シーポート</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
+|35|382|<span class="rank-name-pd">TAMACHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72096?s_seq=72096">アテナ</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
+|36|375|<span class="rank-name-pd">Ryo</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
+|37|362|<span class="rank-name-pd">HERO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84398?s_seq=84398">Bar LUCCA</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
+|38|331|<span class="rank-name-pd">328</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -92,28 +94,30 @@ ___
 |12|764|<span class="rank-name-pd">Happyman</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
 |13|754|<span class="rank-name-pd">HITO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
 |14|743|<span class="rank-name-pd">SEIJI_PNX</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83214?s_seq=83214">M’S Base</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
-|15|717|<span class="rank-name-pd">あやたか</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
-|16|706|<span class="rank-name-pd">竹島リテイク</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
-|17|690|<span class="rank-name-pd">けーぼーぼー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
-|18|667|<span class="rank-name-pd">HIKA1228</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
-|19|661|<span class="rank-name-pd">KOHEI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
-|20|657|<span class="rank-name-pd">MARU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83214?s_seq=83214">M’S Base</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
-|20|657|<span class="rank-name-pd">笑犬</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
-|22|613|<span class="rank-name-pd">怪盗1412</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
-|23|605|<span class="rank-name-pd">kaede</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
-|24|508|<span class="rank-name-pd">○</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83214?s_seq=83214">M’S Base</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
-|25|502|<span class="rank-name-pd">Lupin#サブ垢</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
-|26|476|<span class="rank-name-pd">たかなお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83214?s_seq=83214">M’S Base</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
-|27|461|<span class="rank-name-pd">油そば濃いめ硬め多め</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
-|28|455|<span class="rank-name-pd">ダンクトップ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
-|29|454|<span class="rank-name-pd">tt</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
-|30|420|<span class="rank-name-pd">0124_7819</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
-|31|415|<span class="rank-name-pd">TAKA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
-|32|399|<span class="rank-name-pd">お肉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5482?s_seq=5482">シーポート</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
-|33|382|<span class="rank-name-pd">TAMACHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72096?s_seq=72096">アテナ</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
-|34|375|<span class="rank-name-pd">Ryo</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
-|35|362|<span class="rank-name-pd">HERO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84398?s_seq=84398">Bar LUCCA</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
-|36|331|<span class="rank-name-pd">328</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
+|15|721|<span class="rank-name-pd">lily</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
+|16|720|<span class="rank-name-pd">COTTY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
+|17|717|<span class="rank-name-pd">あやたか</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
+|18|706|<span class="rank-name-pd">竹島リテイク</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
+|19|690|<span class="rank-name-pd">けーぼーぼー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
+|20|667|<span class="rank-name-pd">HIKA1228</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
+|21|661|<span class="rank-name-pd">KOHEI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
+|22|657|<span class="rank-name-pd">MARU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83214?s_seq=83214">M’S Base</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
+|22|657|<span class="rank-name-pd">笑犬</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
+|24|613|<span class="rank-name-pd">怪盗1412</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
+|25|605|<span class="rank-name-pd">kaede</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
+|26|508|<span class="rank-name-pd">○</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83214?s_seq=83214">M’S Base</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
+|27|502|<span class="rank-name-pd">Lupin#サブ垢</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
+|28|476|<span class="rank-name-pd">たかなお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83214?s_seq=83214">M’S Base</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
+|29|461|<span class="rank-name-pd">油そば濃いめ硬め多め</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
+|30|455|<span class="rank-name-pd">ダンクトップ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
+|31|454|<span class="rank-name-pd">tt</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
+|32|420|<span class="rank-name-pd">0124_7819</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
+|33|415|<span class="rank-name-pd">TAKA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
+|34|399|<span class="rank-name-pd">お肉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5482?s_seq=5482">シーポート</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
+|35|382|<span class="rank-name-pd">TAMACHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72096?s_seq=72096">アテナ</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
+|36|375|<span class="rank-name-pd">Ryo</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
+|37|362|<span class="rank-name-pd">HERO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84398?s_seq=84398">Bar LUCCA</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
+|38|331|<span class="rank-name-pd">328</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

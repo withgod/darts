@@ -24,8 +24,8 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|801|<span class="rank-name-pd">まったー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55423?s_seq=55423">Dart's shop 01</a>|<a href="/darts/rank/沖縄県/豊見城市">沖縄県豊見城市</a>|
-|2|485|<span class="rank-name-pd">チョモランマ2世</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55423?s_seq=55423">Dart's shop 01</a>|<a href="/darts/rank/沖縄県/豊見城市">沖縄県豊見城市</a>|
-|3|468|<span class="rank-name-pd">みいゆ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55423?s_seq=55423">Dart's shop 01</a>|<a href="/darts/rank/沖縄県/豊見城市">沖縄県豊見城市</a>|
+|2|501|<span class="rank-name-pd">みいゆ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55423?s_seq=55423">Dart's shop 01</a>|<a href="/darts/rank/沖縄県/豊見城市">沖縄県豊見城市</a>|
+|3|485|<span class="rank-name-pd">チョモランマ2世</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55423?s_seq=55423">Dart's shop 01</a>|<a href="/darts/rank/沖縄県/豊見城市">沖縄県豊見城市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -46,8 +46,8 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|801|<span class="rank-name-pd">まったー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55423?s_seq=55423">Dart's shop 01</a>|<a href="/darts/rank/沖縄県/豊見城市">沖縄県豊見城市</a>|
-|2|485|<span class="rank-name-pd">チョモランマ2世</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55423?s_seq=55423">Dart's shop 01</a>|<a href="/darts/rank/沖縄県/豊見城市">沖縄県豊見城市</a>|
-|3|468|<span class="rank-name-pd">みいゆ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55423?s_seq=55423">Dart's shop 01</a>|<a href="/darts/rank/沖縄県/豊見城市">沖縄県豊見城市</a>|
+|2|501|<span class="rank-name-pd">みいゆ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55423?s_seq=55423">Dart's shop 01</a>|<a href="/darts/rank/沖縄県/豊見城市">沖縄県豊見城市</a>|
+|3|485|<span class="rank-name-pd">チョモランマ2世</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55423?s_seq=55423">Dart's shop 01</a>|<a href="/darts/rank/沖縄県/豊見城市">沖縄県豊見城市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

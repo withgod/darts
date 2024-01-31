@@ -28,7 +28,7 @@ ___
 |3|961|<span class="rank-name-pd">手加減してください君</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
 |4|948|<span class="rank-name-pd">KOSUKE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
 |5|912|<span class="rank-name-pd">KOSUKE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81316?s_seq=81316">Arrange</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
-|6|904|<span class="rank-name-pd">MASAKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81316?s_seq=81316">Arrange</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|5|912|<span class="rank-name-pd">MASAKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81316?s_seq=81316">Arrange</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
 |7|874|<span class="rank-name-pd">ao</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
 |8|858|<span class="rank-name-pd">M.K</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
 |9|853|<span class="rank-name-pd">トーマス</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
@@ -39,35 +39,37 @@ ___
 |14|803|<span class="rank-name-pd">7</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
 |15|799|<span class="rank-name-pd">HDYK-JOKER-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
 |16|786|<span class="rank-name-pd">仲田 聖哉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81316?s_seq=81316">Arrange</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
-|17|723|<span class="rank-name-pd">陰でマック食べてる326</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
-|18|710|<span class="rank-name-pd">SHOT@</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81316?s_seq=81316">Arrange</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
-|19|704|<span class="rank-name-dl">ゆうじ</span>|<a href="https://search.dartslive.com/jp/shop/3cf44a27fa535faf0d9b047a20a7ba1e">ティンカラ</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
-|20|693|<span class="rank-name-pd">koz</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
-|21|675|<span class="rank-name-pd">アヤノ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
-|22|654|<span class="rank-name-pd">NOBU0606</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
-|23|631|<span class="rank-name-pd">うえけん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
-|24|612|<span class="rank-name-dl">フィールドテクノ</span>|<a href="https://search.dartslive.com/jp/shop/3cf44a27fa535faf0d9b047a20a7ba1e">ティンカラ</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
-|25|598|<span class="rank-name-pd">KEI331</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
-|26|597|<span class="rank-name-dl">スカイ</span>|<a href="https://search.dartslive.com/jp/shop/3cf44a27fa535faf0d9b047a20a7ba1e">ティンカラ</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
-|27|595|<span class="rank-name-pd">下手ですが何か？</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86948?s_seq=86948">BAR IBIZA</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
-|28|594|<span class="rank-name-pd">トーマス</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86948?s_seq=86948">BAR IBIZA</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
-|29|575|<span class="rank-name-pd">ミヤコの帝王</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
-|30|561|<span class="rank-name-pd">shimu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
-|31|540|<span class="rank-name-pd">ヤッサン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
-|32|537|<span class="rank-name-dl">Y・YOSHI</span>|<a href="https://search.dartslive.com/jp/shop/3cf44a27fa535faf0d9b047a20a7ba1e">ティンカラ</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
-|32|537|<span class="rank-name-pd">聖闘士星矢</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86948?s_seq=86948">BAR IBIZA</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
-|34|527|<span class="rank-name-pd">0079_5077</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
-|35|493|<span class="rank-name-dl">こじゃうぃー</span>|<a href="https://search.dartslive.com/jp/shop/3cf44a27fa535faf0d9b047a20a7ba1e">ティンカラ</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
-|36|487|<span class="rank-name-pd">モッチ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
-|37|479|<span class="rank-name-dl">やむやむ</span>|<a href="https://search.dartslive.com/jp/shop/3cf44a27fa535faf0d9b047a20a7ba1e">ティンカラ</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
-|38|477|<span class="rank-name-pd">沖猫</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
-|39|446|<span class="rank-name-dl">MASA</span>|<a href="https://search.dartslive.com/jp/shop/3cf44a27fa535faf0d9b047a20a7ba1e">ティンカラ</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
-|40|442|<span class="rank-name-pd">Koshiro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
-|41|429|<span class="rank-name-pd">ふーみー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
-|42|395|<span class="rank-name-pd">0071_5105</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
-|43|371|<span class="rank-name-pd">0277_2505</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86147?s_seq=86147">センタービーチハウス</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
-|44|365|<span class="rank-name-pd">199816</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
-|45|364|<span class="rank-name-dl">Fumi</span>|<a href="https://search.dartslive.com/jp/shop/3cf44a27fa535faf0d9b047a20a7ba1e">ティンカラ</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|17|783|<span class="rank-name-pd">koz</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|18|729|<span class="rank-name-pd">HDYK-ACE-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|19|723|<span class="rank-name-pd">陰でマック食べてる326</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|20|710|<span class="rank-name-pd">SHOT@</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81316?s_seq=81316">Arrange</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|21|704|<span class="rank-name-dl">ゆうじ</span>|<a href="https://search.dartslive.com/jp/shop/3cf44a27fa535faf0d9b047a20a7ba1e">ティンカラ</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|22|675|<span class="rank-name-pd">アヤノ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|23|654|<span class="rank-name-pd">NOBU0606</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|24|631|<span class="rank-name-pd">うえけん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|25|612|<span class="rank-name-dl">フィールドテクノ</span>|<a href="https://search.dartslive.com/jp/shop/3cf44a27fa535faf0d9b047a20a7ba1e">ティンカラ</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|26|598|<span class="rank-name-pd">KEI331</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|27|597|<span class="rank-name-dl">スカイ</span>|<a href="https://search.dartslive.com/jp/shop/3cf44a27fa535faf0d9b047a20a7ba1e">ティンカラ</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|28|595|<span class="rank-name-pd">下手ですが何か？</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86948?s_seq=86948">BAR IBIZA</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|29|594|<span class="rank-name-pd">トーマス</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86948?s_seq=86948">BAR IBIZA</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|30|575|<span class="rank-name-pd">ミヤコの帝王</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|31|561|<span class="rank-name-pd">shimu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|32|540|<span class="rank-name-pd">ヤッサン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|33|537|<span class="rank-name-dl">Y・YOSHI</span>|<a href="https://search.dartslive.com/jp/shop/3cf44a27fa535faf0d9b047a20a7ba1e">ティンカラ</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|33|537|<span class="rank-name-pd">聖闘士星矢</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86948?s_seq=86948">BAR IBIZA</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|35|527|<span class="rank-name-pd">0079_5077</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|36|493|<span class="rank-name-dl">こじゃうぃー</span>|<a href="https://search.dartslive.com/jp/shop/3cf44a27fa535faf0d9b047a20a7ba1e">ティンカラ</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|37|487|<span class="rank-name-pd">モッチ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|38|479|<span class="rank-name-pd">Koshiro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|38|479|<span class="rank-name-dl">やむやむ</span>|<a href="https://search.dartslive.com/jp/shop/3cf44a27fa535faf0d9b047a20a7ba1e">ティンカラ</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|40|477|<span class="rank-name-pd">沖猫</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|41|446|<span class="rank-name-dl">MASA</span>|<a href="https://search.dartslive.com/jp/shop/3cf44a27fa535faf0d9b047a20a7ba1e">ティンカラ</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|42|444|<span class="rank-name-pd">SHO!!!!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|43|429|<span class="rank-name-pd">ふーみー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|44|395|<span class="rank-name-pd">0071_5105</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|45|371|<span class="rank-name-pd">0277_2505</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86147?s_seq=86147">センタービーチハウス</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|46|365|<span class="rank-name-pd">199816</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|47|364|<span class="rank-name-dl">Fumi</span>|<a href="https://search.dartslive.com/jp/shop/3cf44a27fa535faf0d9b047a20a7ba1e">ティンカラ</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -100,7 +102,7 @@ ___
 |2|961|<span class="rank-name-pd">手加減してください君</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
 |3|948|<span class="rank-name-pd">KOSUKE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
 |4|912|<span class="rank-name-pd">KOSUKE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81316?s_seq=81316">Arrange</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
-|5|904|<span class="rank-name-pd">MASAKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81316?s_seq=81316">Arrange</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|4|912|<span class="rank-name-pd">MASAKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81316?s_seq=81316">Arrange</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
 |6|874|<span class="rank-name-pd">ao</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
 |7|858|<span class="rank-name-pd">M.K</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
 |8|853|<span class="rank-name-pd">トーマス</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
@@ -110,27 +112,29 @@ ___
 |12|803|<span class="rank-name-pd">7</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
 |13|799|<span class="rank-name-pd">HDYK-JOKER-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
 |14|786|<span class="rank-name-pd">仲田 聖哉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81316?s_seq=81316">Arrange</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
-|15|723|<span class="rank-name-pd">陰でマック食べてる326</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
-|16|710|<span class="rank-name-pd">SHOT@</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81316?s_seq=81316">Arrange</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
-|17|693|<span class="rank-name-pd">koz</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
-|18|675|<span class="rank-name-pd">アヤノ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
-|19|654|<span class="rank-name-pd">NOBU0606</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
-|20|631|<span class="rank-name-pd">うえけん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
-|21|598|<span class="rank-name-pd">KEI331</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
-|22|595|<span class="rank-name-pd">下手ですが何か？</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86948?s_seq=86948">BAR IBIZA</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
-|23|594|<span class="rank-name-pd">トーマス</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86948?s_seq=86948">BAR IBIZA</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
-|24|575|<span class="rank-name-pd">ミヤコの帝王</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
-|25|561|<span class="rank-name-pd">shimu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
-|26|540|<span class="rank-name-pd">ヤッサン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
-|27|537|<span class="rank-name-pd">聖闘士星矢</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86948?s_seq=86948">BAR IBIZA</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
-|28|527|<span class="rank-name-pd">0079_5077</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
-|29|487|<span class="rank-name-pd">モッチ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
-|30|477|<span class="rank-name-pd">沖猫</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
-|31|442|<span class="rank-name-pd">Koshiro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
-|32|429|<span class="rank-name-pd">ふーみー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
-|33|395|<span class="rank-name-pd">0071_5105</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
-|34|371|<span class="rank-name-pd">0277_2505</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86147?s_seq=86147">センタービーチハウス</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
-|35|365|<span class="rank-name-pd">199816</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|15|783|<span class="rank-name-pd">koz</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|16|729|<span class="rank-name-pd">HDYK-ACE-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|17|723|<span class="rank-name-pd">陰でマック食べてる326</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|18|710|<span class="rank-name-pd">SHOT@</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81316?s_seq=81316">Arrange</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|19|675|<span class="rank-name-pd">アヤノ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|20|654|<span class="rank-name-pd">NOBU0606</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|21|631|<span class="rank-name-pd">うえけん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|22|598|<span class="rank-name-pd">KEI331</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|23|595|<span class="rank-name-pd">下手ですが何か？</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86948?s_seq=86948">BAR IBIZA</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|24|594|<span class="rank-name-pd">トーマス</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86948?s_seq=86948">BAR IBIZA</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|25|575|<span class="rank-name-pd">ミヤコの帝王</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|26|561|<span class="rank-name-pd">shimu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|27|540|<span class="rank-name-pd">ヤッサン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|28|537|<span class="rank-name-pd">聖闘士星矢</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86948?s_seq=86948">BAR IBIZA</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|29|527|<span class="rank-name-pd">0079_5077</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|30|487|<span class="rank-name-pd">モッチ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|31|479|<span class="rank-name-pd">Koshiro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|32|477|<span class="rank-name-pd">沖猫</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|33|444|<span class="rank-name-pd">SHO!!!!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|34|429|<span class="rank-name-pd">ふーみー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|35|395|<span class="rank-name-pd">0071_5105</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|36|371|<span class="rank-name-pd">0277_2505</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86147?s_seq=86147">センタービーチハウス</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|37|365|<span class="rank-name-pd">199816</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67231?s_seq=67231">BAR PIT</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

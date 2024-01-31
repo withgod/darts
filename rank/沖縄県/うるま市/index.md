@@ -33,34 +33,38 @@ ___
 |8|726|<span class="rank-name-pd">Dky7889</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8672?s_seq=8672">ダーツバー チョッパー</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
 |8|726|<span class="rank-name-pd">takato</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8672?s_seq=8672">ダーツバー チョッパー</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
 |10|724|<span class="rank-name-pd">takato</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
-|11|719|<span class="rank-name-pd">TAPPY628</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
-|12|703|<span class="rank-name-pd">0242-3385</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
-|13|699|<span class="rank-name-pd">ANNIE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
-|13|699|<span class="rank-name-pd">長濱 佑太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
-|15|693|<span class="rank-name-pd">TAPPY628</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89941?s_seq=89941">Public Bar Sunrise</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
-|16|684|<span class="rank-name-pd">GＲACE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
-|17|682|<span class="rank-name-pd">ヒロ＠ＣＲＯＷＤ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89941?s_seq=89941">Public Bar Sunrise</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
-|18|639|<span class="rank-name-pd">山内勇作</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
-|19|630|<span class="rank-name-pd">sky🦊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
-|20|608|<span class="rank-name-pd">Yoshiki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
-|21|596|<span class="rank-name-pd">ATSUKI.0880</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
-|22|580|<span class="rank-name-pd">ダチョウ18</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
-|23|557|<span class="rank-name-pd">パタスモンキー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
-|24|547|<span class="rank-name-pd">Saory</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
-|25|536|<span class="rank-name-pd">M&amp;M</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
-|26|535|<span class="rank-name-pd">あ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8672?s_seq=8672">ダーツバー チョッパー</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
-|27|528|<span class="rank-name-pd">我流〆キリト</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
-|28|515|<span class="rank-name-pd">M&amp;M</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8672?s_seq=8672">ダーツバー チョッパー</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
-|29|510|<span class="rank-name-pd">KENON</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8672?s_seq=8672">ダーツバー チョッパー</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
-|30|509|<span class="rank-name-pd">yamashi san</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8672?s_seq=8672">ダーツバー チョッパー</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
-|31|504|<span class="rank-name-pd">初代ノンブル同好会　会長</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8672?s_seq=8672">ダーツバー チョッパー</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
-|32|491|<span class="rank-name-pd">村優SHARK</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
-|33|467|<span class="rank-name-pd">がっくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8672?s_seq=8672">ダーツバー チョッパー</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
-|34|436|<span class="rank-name-pd">ハク</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
-|35|403|<span class="rank-name-pd">おーちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
-|36|369|<span class="rank-name-pd">Sayaka</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
-|37|319|<span class="rank-name-pd">0168_1250</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
-|38|273|<span class="rank-name-pd">ジュン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|11|723|<span class="rank-name-pd">Issa</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|12|719|<span class="rank-name-pd">TAPPY628</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|13|703|<span class="rank-name-pd">0242-3385</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|14|699|<span class="rank-name-pd">ANNIE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|14|699|<span class="rank-name-pd">長濱 佑太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|16|693|<span class="rank-name-pd">TAPPY628</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89941?s_seq=89941">Public Bar Sunrise</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|17|684|<span class="rank-name-pd">GＲACE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|18|682|<span class="rank-name-pd">ヒロ＠ＣＲＯＷＤ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89941?s_seq=89941">Public Bar Sunrise</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|19|639|<span class="rank-name-pd">山内勇作</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|20|630|<span class="rank-name-pd">sky🦊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|21|608|<span class="rank-name-pd">Yoshiki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|22|596|<span class="rank-name-pd">ATSUKI.0880</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|23|594|<span class="rank-name-pd">M&amp;M</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|24|580|<span class="rank-name-pd">ダチョウ18</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|25|559|<span class="rank-name-pd">siki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|26|557|<span class="rank-name-pd">パタスモンキー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|27|547|<span class="rank-name-pd">Saory</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|28|535|<span class="rank-name-pd">あ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8672?s_seq=8672">ダーツバー チョッパー</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|29|528|<span class="rank-name-pd">我流〆キリト</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|30|515|<span class="rank-name-pd">M&amp;M</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8672?s_seq=8672">ダーツバー チョッパー</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|31|510|<span class="rank-name-pd">KENON</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8672?s_seq=8672">ダーツバー チョッパー</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|32|509|<span class="rank-name-pd">yamashi san</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8672?s_seq=8672">ダーツバー チョッパー</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|33|504|<span class="rank-name-pd">初代ノンブル同好会　会長</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8672?s_seq=8672">ダーツバー チョッパー</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|34|491|<span class="rank-name-pd">村優SHARK</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|35|467|<span class="rank-name-pd">がっくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8672?s_seq=8672">ダーツバー チョッパー</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|36|438|<span class="rank-name-pd">Sayaka</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|37|436|<span class="rank-name-pd">ハク</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|38|403|<span class="rank-name-pd">おーちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|39|374|<span class="rank-name-pd">産毛、中指</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|40|319|<span class="rank-name-pd">0168_1250</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|41|301|<span class="rank-name-pd">林檎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|42|273|<span class="rank-name-pd">ジュン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -90,34 +94,38 @@ ___
 |8|726|<span class="rank-name-pd">Dky7889</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8672?s_seq=8672">ダーツバー チョッパー</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
 |8|726|<span class="rank-name-pd">takato</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8672?s_seq=8672">ダーツバー チョッパー</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
 |10|724|<span class="rank-name-pd">takato</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
-|11|719|<span class="rank-name-pd">TAPPY628</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
-|12|703|<span class="rank-name-pd">0242-3385</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
-|13|699|<span class="rank-name-pd">ANNIE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
-|13|699|<span class="rank-name-pd">長濱 佑太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
-|15|693|<span class="rank-name-pd">TAPPY628</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89941?s_seq=89941">Public Bar Sunrise</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
-|16|684|<span class="rank-name-pd">GＲACE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
-|17|682|<span class="rank-name-pd">ヒロ＠ＣＲＯＷＤ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89941?s_seq=89941">Public Bar Sunrise</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
-|18|639|<span class="rank-name-pd">山内勇作</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
-|19|630|<span class="rank-name-pd">sky🦊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
-|20|608|<span class="rank-name-pd">Yoshiki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
-|21|596|<span class="rank-name-pd">ATSUKI.0880</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
-|22|580|<span class="rank-name-pd">ダチョウ18</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
-|23|557|<span class="rank-name-pd">パタスモンキー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
-|24|547|<span class="rank-name-pd">Saory</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
-|25|536|<span class="rank-name-pd">M&amp;M</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
-|26|535|<span class="rank-name-pd">あ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8672?s_seq=8672">ダーツバー チョッパー</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
-|27|528|<span class="rank-name-pd">我流〆キリト</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
-|28|515|<span class="rank-name-pd">M&amp;M</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8672?s_seq=8672">ダーツバー チョッパー</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
-|29|510|<span class="rank-name-pd">KENON</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8672?s_seq=8672">ダーツバー チョッパー</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
-|30|509|<span class="rank-name-pd">yamashi san</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8672?s_seq=8672">ダーツバー チョッパー</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
-|31|504|<span class="rank-name-pd">初代ノンブル同好会　会長</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8672?s_seq=8672">ダーツバー チョッパー</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
-|32|491|<span class="rank-name-pd">村優SHARK</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
-|33|467|<span class="rank-name-pd">がっくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8672?s_seq=8672">ダーツバー チョッパー</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
-|34|436|<span class="rank-name-pd">ハク</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
-|35|403|<span class="rank-name-pd">おーちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
-|36|369|<span class="rank-name-pd">Sayaka</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
-|37|319|<span class="rank-name-pd">0168_1250</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
-|38|273|<span class="rank-name-pd">ジュン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|11|723|<span class="rank-name-pd">Issa</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|12|719|<span class="rank-name-pd">TAPPY628</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|13|703|<span class="rank-name-pd">0242-3385</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|14|699|<span class="rank-name-pd">ANNIE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|14|699|<span class="rank-name-pd">長濱 佑太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|16|693|<span class="rank-name-pd">TAPPY628</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89941?s_seq=89941">Public Bar Sunrise</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|17|684|<span class="rank-name-pd">GＲACE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|18|682|<span class="rank-name-pd">ヒロ＠ＣＲＯＷＤ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89941?s_seq=89941">Public Bar Sunrise</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|19|639|<span class="rank-name-pd">山内勇作</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|20|630|<span class="rank-name-pd">sky🦊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|21|608|<span class="rank-name-pd">Yoshiki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|22|596|<span class="rank-name-pd">ATSUKI.0880</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|23|594|<span class="rank-name-pd">M&amp;M</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|24|580|<span class="rank-name-pd">ダチョウ18</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|25|559|<span class="rank-name-pd">siki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|26|557|<span class="rank-name-pd">パタスモンキー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|27|547|<span class="rank-name-pd">Saory</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|28|535|<span class="rank-name-pd">あ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8672?s_seq=8672">ダーツバー チョッパー</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|29|528|<span class="rank-name-pd">我流〆キリト</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|30|515|<span class="rank-name-pd">M&amp;M</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8672?s_seq=8672">ダーツバー チョッパー</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|31|510|<span class="rank-name-pd">KENON</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8672?s_seq=8672">ダーツバー チョッパー</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|32|509|<span class="rank-name-pd">yamashi san</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8672?s_seq=8672">ダーツバー チョッパー</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|33|504|<span class="rank-name-pd">初代ノンブル同好会　会長</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8672?s_seq=8672">ダーツバー チョッパー</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|34|491|<span class="rank-name-pd">村優SHARK</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|35|467|<span class="rank-name-pd">がっくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8672?s_seq=8672">ダーツバー チョッパー</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|36|438|<span class="rank-name-pd">Sayaka</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|37|436|<span class="rank-name-pd">ハク</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|38|403|<span class="rank-name-pd">おーちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|39|374|<span class="rank-name-pd">産毛、中指</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|40|319|<span class="rank-name-pd">0168_1250</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|41|301|<span class="rank-name-pd">林檎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
+|42|273|<span class="rank-name-pd">ジュン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62485?s_seq=62485">ビリヤード＆ダーツ GRACE</a>|<a href="/darts/rank/沖縄県/うるま市">沖縄県うるま市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

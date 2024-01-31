@@ -48,6 +48,7 @@ ___
 |23|422|<span class="rank-name-pd">Amuro-Asmin</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_43123?s_seq=43123">喫茶 まっちょ</a>|<a href="/darts/rank/沖縄県/国頭郡">沖縄県国頭郡</a>|
 |24|415|<span class="rank-name-pd">Saory</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_43123?s_seq=43123">喫茶 まっちょ</a>|<a href="/darts/rank/沖縄県/国頭郡">沖縄県国頭郡</a>|
 |25|392|<span class="rank-name-pd">KYON^@^</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_43123?s_seq=43123">喫茶 まっちょ</a>|<a href="/darts/rank/沖縄県/国頭郡">沖縄県国頭郡</a>|
+|26|362|<span class="rank-name-pd">あさひ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_43123?s_seq=43123">喫茶 まっちょ</a>|<a href="/darts/rank/沖縄県/国頭郡">沖縄県国頭郡</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -92,6 +93,7 @@ ___
 |23|422|<span class="rank-name-pd">Amuro-Asmin</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_43123?s_seq=43123">喫茶 まっちょ</a>|<a href="/darts/rank/沖縄県/国頭郡">沖縄県国頭郡</a>|
 |24|415|<span class="rank-name-pd">Saory</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_43123?s_seq=43123">喫茶 まっちょ</a>|<a href="/darts/rank/沖縄県/国頭郡">沖縄県国頭郡</a>|
 |25|392|<span class="rank-name-pd">KYON^@^</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_43123?s_seq=43123">喫茶 まっちょ</a>|<a href="/darts/rank/沖縄県/国頭郡">沖縄県国頭郡</a>|
+|26|362|<span class="rank-name-pd">あさひ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_43123?s_seq=43123">喫茶 まっちょ</a>|<a href="/darts/rank/沖縄県/国頭郡">沖縄県国頭郡</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
