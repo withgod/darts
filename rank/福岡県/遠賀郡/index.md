@@ -1,0 +1,94 @@
+---
+title: COUNTUP AREA RANKING | 福岡県 | 遠賀郡
+---
+## COUNTUP AREA RANKING | 福岡県 | 遠賀郡
+
+[TOP](/darts/rank/) > [福岡県](/darts/rank/福岡県/) > 遠賀郡
+
+___
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="COUNTUP AREA RANKING | 福岡県遠賀郡" class="twitter-share-button" data-hashtags="DARTSLIVE,PHOENIXDARTS,darts,ダーツ" data-show-count="false">Tweet</a>
+
+* [ランキング](#カウントアップランキング)
+    * [TOP 100](#top-100)
+    * [DARTSLIVE TOP 100](#dartslive-top-100)
+    * [PHOENIXDARTS TOP 100](#phoenixdarts-top-100)
+
+### カウントアップランキング
+
+#### TOP 100
+
+
+
+{:.table-ranking}
+|#|スコア|名前|店名|所在地|
+|---|---|---|---|---|
+|1|743|<span class="rank-name-pd">龍弥（いねむりん）</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55390?s_seq=55390">来れBAR</a>|<a href="/darts/rank/福岡県/遠賀郡">福岡県遠賀郡</a>|
+|2|584|<span class="rank-name-pd">イブ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84608?s_seq=84608">BAR H</a>|<a href="/darts/rank/福岡県/遠賀郡">福岡県遠賀郡</a>|
+|3|583|<span class="rank-name-pd">あきら</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84608?s_seq=84608">BAR H</a>|<a href="/darts/rank/福岡県/遠賀郡">福岡県遠賀郡</a>|
+|4|581|<span class="rank-name-pd">へゃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84608?s_seq=84608">BAR H</a>|<a href="/darts/rank/福岡県/遠賀郡">福岡県遠賀郡</a>|
+|5|533|<span class="rank-name-pd">残4</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84608?s_seq=84608">BAR H</a>|<a href="/darts/rank/福岡県/遠賀郡">福岡県遠賀郡</a>|
+|6|515|<span class="rank-name-pd">BAR-H H</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84608?s_seq=84608">BAR H</a>|<a href="/darts/rank/福岡県/遠賀郡">福岡県遠賀郡</a>|
+|7|500|<span class="rank-name-pd">たいたい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84608?s_seq=84608">BAR H</a>|<a href="/darts/rank/福岡県/遠賀郡">福岡県遠賀郡</a>|
+|8|494|<span class="rank-name-pd">たっく</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84608?s_seq=84608">BAR H</a>|<a href="/darts/rank/福岡県/遠賀郡">福岡県遠賀郡</a>|
+|9|488|<span class="rank-name-pd">Comingtaste</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55390?s_seq=55390">来れBAR</a>|<a href="/darts/rank/福岡県/遠賀郡">福岡県遠賀郡</a>|
+|10|474|<span class="rank-name-pd">BAR.H-HIROSHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84608?s_seq=84608">BAR H</a>|<a href="/darts/rank/福岡県/遠賀郡">福岡県遠賀郡</a>|
+|11|465|<span class="rank-name-pd">BAR-H NATUKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84608?s_seq=84608">BAR H</a>|<a href="/darts/rank/福岡県/遠賀郡">福岡県遠賀郡</a>|
+|12|463|<span class="rank-name-pd">BAR.H  HIROSHI666</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84608?s_seq=84608">BAR H</a>|<a href="/darts/rank/福岡県/遠賀郡">福岡県遠賀郡</a>|
+|13|454|<span class="rank-name-pd">GUCA OWL</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84608?s_seq=84608">BAR H</a>|<a href="/darts/rank/福岡県/遠賀郡">福岡県遠賀郡</a>|
+|14|418|<span class="rank-name-pd">nonoteeeeeeen.v76</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55390?s_seq=55390">来れBAR</a>|<a href="/darts/rank/福岡県/遠賀郡">福岡県遠賀郡</a>|
+|14|418|<span class="rank-name-pd">Ｊ―６９</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84608?s_seq=84608">BAR H</a>|<a href="/darts/rank/福岡県/遠賀郡">福岡県遠賀郡</a>|
+|16|410|<span class="rank-name-pd">hitomin♡히토민</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84608?s_seq=84608">BAR H</a>|<a href="/darts/rank/福岡県/遠賀郡">福岡県遠賀郡</a>|
+
+
+#### DARTSLIVE TOP 100
+
+
+
+{:.table-ranking}
+|#|スコア|名前|店名|所在地|
+|---|---|---|---|---|
+||0|<span class="rank-name-dl"> </span>|<a href=""></a>|<a href="/darts/rank//"></a>|
+
+
+#### PHOENIXDARTS TOP 100
+
+
+
+{:.table-ranking}
+|#|スコア|名前|店名|所在地|
+|---|---|---|---|---|
+|1|743|<span class="rank-name-pd">龍弥（いねむりん）</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55390?s_seq=55390">来れBAR</a>|<a href="/darts/rank/福岡県/遠賀郡">福岡県遠賀郡</a>|
+|2|584|<span class="rank-name-pd">イブ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84608?s_seq=84608">BAR H</a>|<a href="/darts/rank/福岡県/遠賀郡">福岡県遠賀郡</a>|
+|3|583|<span class="rank-name-pd">あきら</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84608?s_seq=84608">BAR H</a>|<a href="/darts/rank/福岡県/遠賀郡">福岡県遠賀郡</a>|
+|4|581|<span class="rank-name-pd">へゃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84608?s_seq=84608">BAR H</a>|<a href="/darts/rank/福岡県/遠賀郡">福岡県遠賀郡</a>|
+|5|533|<span class="rank-name-pd">残4</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84608?s_seq=84608">BAR H</a>|<a href="/darts/rank/福岡県/遠賀郡">福岡県遠賀郡</a>|
+|6|515|<span class="rank-name-pd">BAR-H H</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84608?s_seq=84608">BAR H</a>|<a href="/darts/rank/福岡県/遠賀郡">福岡県遠賀郡</a>|
+|7|500|<span class="rank-name-pd">たいたい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84608?s_seq=84608">BAR H</a>|<a href="/darts/rank/福岡県/遠賀郡">福岡県遠賀郡</a>|
+|8|494|<span class="rank-name-pd">たっく</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84608?s_seq=84608">BAR H</a>|<a href="/darts/rank/福岡県/遠賀郡">福岡県遠賀郡</a>|
+|9|488|<span class="rank-name-pd">Comingtaste</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55390?s_seq=55390">来れBAR</a>|<a href="/darts/rank/福岡県/遠賀郡">福岡県遠賀郡</a>|
+|10|474|<span class="rank-name-pd">BAR.H-HIROSHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84608?s_seq=84608">BAR H</a>|<a href="/darts/rank/福岡県/遠賀郡">福岡県遠賀郡</a>|
+|11|465|<span class="rank-name-pd">BAR-H NATUKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84608?s_seq=84608">BAR H</a>|<a href="/darts/rank/福岡県/遠賀郡">福岡県遠賀郡</a>|
+|12|463|<span class="rank-name-pd">BAR.H  HIROSHI666</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84608?s_seq=84608">BAR H</a>|<a href="/darts/rank/福岡県/遠賀郡">福岡県遠賀郡</a>|
+|13|454|<span class="rank-name-pd">GUCA OWL</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84608?s_seq=84608">BAR H</a>|<a href="/darts/rank/福岡県/遠賀郡">福岡県遠賀郡</a>|
+|14|418|<span class="rank-name-pd">nonoteeeeeeen.v76</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55390?s_seq=55390">来れBAR</a>|<a href="/darts/rank/福岡県/遠賀郡">福岡県遠賀郡</a>|
+|14|418|<span class="rank-name-pd">Ｊ―６９</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84608?s_seq=84608">BAR H</a>|<a href="/darts/rank/福岡県/遠賀郡">福岡県遠賀郡</a>|
+|16|410|<span class="rank-name-pd">hitomin♡히토민</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84608?s_seq=84608">BAR H</a>|<a href="/darts/rank/福岡県/遠賀郡">福岡県遠賀郡</a>|
+
+
+<div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
+    last update : <span style="font-weight: italic" id="foot_last_modified"></span><br />
+    DARTSLIVE は 株式会社ダーツライブ社 の登録商標です<br />
+    PHOENIXDARTS は フェニックスダーツジャパン株式会社 の登録商標です<br />
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/js/jquery.tablesorter.min.js" integrity="sha512-qzgd5cYSZcosqpzpn7zF2ZId8f/8CHmFKZ8j7mU4OUXTNRd5g+ZHBPsgKEwoqxCtdQvExE5LprwwPAgoicguNg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/css/theme.default.min.css" integrity="sha512-wghhOJkjQX0Lh3NSWvNKeZ0ZpNn+SPVXX1Qyc9OCaogADktxrBiBdKGDoqVUOyhStvMBmJQ8ZdMHiR3wuEq8+w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<script>
+$(function() {
+    $(".table-ranking").tablesorter({sortList:[[0, 0]]});
+    $("#foot_last_modified").text(formatDate(new Date(document.lastModified), 'yyyy-MM-dd HH:mm:ss'));
+});
+</script>
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
