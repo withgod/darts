@@ -65,106 +65,106 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1400|<span class="rank-name-pd">0245_9334</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79181?s_seq=79181">快活CLUB 札幌環状通東店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|2|1248|<span class="rank-name-pd">めめめ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62790?s_seq=62790">快活CLUB 釧路木場店</a>|<a href="/darts/rank/北海道/釧路市">北海道釧路市</a>|
-|2|1248|<span class="rank-name-pd">ガンバッタータイショー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79181?s_seq=79181">快活CLUB 札幌環状通東店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|4|1234|<span class="rank-name-dl">Raiki</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|5|1205|<span class="rank-name-dl">髙橋　葵</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|6|1200|<span class="rank-name-dl">Raiki</span>|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|6|1200|<span class="rank-name-dl">カナザワユウキ②</span>|<a href="https://search.dartslive.com/jp/shop/74fc2381c6ea4a680d9b047a20a7ba1e">Y's Bar ID</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|6|1200|<span class="rank-name-dl">ガチャさん</span>|<a href="https://search.dartslive.com/jp/shop/a14157150079cc52fec1ae84bb28bd87">自遊空間 恵庭住吉店</a>|<a href="/darts/rank/北海道/恵庭市">北海道恵庭市</a>|
-|9|1169|<span class="rank-name-pd">鈴木勇斗　scarf</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65174?s_seq=65174">Saloon de Scarf</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|10|1164|<span class="rank-name-dl">PUKUN</span>|<a href="https://search.dartslive.com/jp/shop/50c8dfc679066340790ab824ce8730e5">カラオケ館 すすきの本店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|10|1164|<span class="rank-name-pd"><span class="pro-icon-pd"></span>鷺森 雅啓</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82822?s_seq=82822">快活CLUB 旭川大町店</a>|<a href="/darts/rank/北海道/旭川市">北海道旭川市</a>|
-|12|1163|<span class="rank-name-dl">shinji</span>|<a href="https://search.dartslive.com/jp/shop/4f6c1ddf5996f5df25d56fb0e5c39bac">自遊空間 札幌清田店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|13|1151|<span class="rank-name-pd">SHINJI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7253?s_seq=7253">自遊空間札幌清田店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|14|1150|<span class="rank-name-pd">CHIHARU-VOUG</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8513?s_seq=8513">VOUG</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|15|1137|<span class="rank-name-dl">上ヶ島　承</span>|<a href="https://search.dartslive.com/jp/shop/97f0f6ed8c1b481bf454cb89828a1cfe">BAR LIBERTADORES</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|15|1137|<span class="rank-name-dl">ＳＮＴ</span>|<a href="https://search.dartslive.com/jp/shop/4f6c1ddf5996f5df25d56fb0e5c39bac">自遊空間 札幌清田店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|17|1134|<span class="rank-name-dl">上ヶ島　承</span>|<a href="https://search.dartslive.com/jp/shop/4f6c1ddf5996f5df25d56fb0e5c39bac">自遊空間 札幌清田店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|18|1132|<span class="rank-name-dl">タクミシャトル</span>|<a href="https://search.dartslive.com/jp/shop/31464ca7df3d6864b21333aee1bd51e4">Amusement Bar JET</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|19|1131|<span class="rank-name-dl">SNT</span>|<a href="https://search.dartslive.com/jp/shop/50c8dfc679066340790ab824ce8730e5">カラオケ館 すすきの本店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|19|1131|<span class="rank-name-pd">安部 亘</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8513?s_seq=8513">VOUG</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|21|1130|<span class="rank-name-pd">鈴木 勇斗</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65174?s_seq=65174">Saloon de Scarf</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|22|1128|<span class="rank-name-pd">THE『松ダーツ』自遊空間♪</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7253?s_seq=7253">自遊空間札幌清田店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|23|1124|<span class="rank-name-pd">【松田 純】PHOENIXDARTS☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8513?s_seq=8513">VOUG</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|23|1124|<span class="rank-name-dl">マスカワガイ</span>|<a href="https://search.dartslive.com/jp/shop/74fc2381c6ea4a680d9b047a20a7ba1e">Y's Bar ID</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|25|1123|<span class="rank-name-dl">ユート</span>|<a href="https://search.dartslive.com/jp/shop/b1e4f01fb1d65125774c926eb736cb5a">自遊空間 手稲前田店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|26|1119|<span class="rank-name-dl">masashi</span>|<a href="https://search.dartslive.com/jp/shop/a14157150079cc52fec1ae84bb28bd87">自遊空間 恵庭住吉店</a>|<a href="/darts/rank/北海道/恵庭市">北海道恵庭市</a>|
-|27|1118|<span class="rank-name-pd">晃基(instagram)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7253?s_seq=7253">自遊空間札幌清田店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|28|1117|<span class="rank-name-dl">ＳＮＴ</span>|<a href="https://search.dartslive.com/jp/shop/1ee2e5140966d70da3f63593b5358cc4">ネットカフェ&カラオケ DiCE 札幌狸小路本店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|29|1114|<span class="rank-name-dl">川村 正和</span>|<a href="https://search.dartslive.com/jp/shop/a14157150079cc52fec1ae84bb28bd87">自遊空間 恵庭住吉店</a>|<a href="/darts/rank/北海道/恵庭市">北海道恵庭市</a>|
-|30|1113|<span class="rank-name-dl">ツルガユウタ</span>|<a href="https://search.dartslive.com/jp/shop/94e6f4247653b97e0d9b047a20a7ba1e">ラウンドワン札幌すすきの店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|31|1112|<span class="rank-name-dl">上ヶ島　承</span>|<a href="https://search.dartslive.com/jp/shop/93782600ac89fc7e5f9f3321c1147265">カラオケ館 札幌駅前店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|32|1111|<span class="rank-name-dl">ガチャさん</span>|<a href="https://search.dartslive.com/jp/shop/1ee2e5140966d70da3f63593b5358cc4">ネットカフェ&カラオケ DiCE 札幌狸小路本店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|33|1109|<span class="rank-name-dl">SNT</span>|<a href="https://search.dartslive.com/jp/shop/1ee2e5140966d70da3f63593b5358cc4">ネットカフェ&カラオケ DiCE 札幌狸小路本店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|34|1108|<span class="rank-name-pd">やすゆにっと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_68098?s_seq=68098">ES Unit</a>|<a href="/darts/rank/北海道/千歳市">北海道千歳市</a>|
-|34|1108|<span class="rank-name-dl">三崎 桂子</span>|<a href="https://search.dartslive.com/jp/shop/4906764db564cc3df454cb89828a1cfe">Darts Bar Sea'd</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|34|1108|<span class="rank-name-pd">畑野千春 F.D.L</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8513?s_seq=8513">VOUG</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|37|1106|<span class="rank-name-dl">Duck Raiki</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|37|1106|<span class="rank-name-dl">マスカワガイ</span>|<a href="https://search.dartslive.com/jp/shop/0e626e44b3e54b7858d385ea46352d8f">快活CLUB 札幌狸小路店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|39|1105|<span class="rank-name-pd">HIROMU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8670?s_seq=8670">快活CLUB 札幌狸小路店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|40|1103|<span class="rank-name-pd">A.O</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82822?s_seq=82822">快活CLUB 旭川大町店</a>|<a href="/darts/rank/北海道/旭川市">北海道旭川市</a>|
-|40|1103|<span class="rank-name-dl">NO NAME 5600</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|42|1100|<span class="rank-name-dl">ツルガユウタ</span>|<a href="https://search.dartslive.com/jp/shop/1ee2e5140966d70da3f63593b5358cc4">ネットカフェ&カラオケ DiCE 札幌狸小路本店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|42|1100|<span class="rank-name-pd">古川大機</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9207?s_seq=9207">CAFE -AA-</a>|<a href="/darts/rank/北海道/釧路郡">北海道釧路郡</a>|
-|44|1098|<span class="rank-name-dl">NAKAJI</span>|<a href="https://search.dartslive.com/jp/shop/e15a6b9e3dd793fc28032249b44395af">快活CLUB 旭川永山店</a>|<a href="/darts/rank/北海道/旭川市">北海道旭川市</a>|
-|45|1097|<span class="rank-name-dl">Takumi</span>|<a href="https://search.dartslive.com/jp/shop/f7663a37acb549d50d9b047a20a7ba1e">インターネットカフェ　ファンタイム旭川豊岡店</a>|<a href="/darts/rank/北海道/旭川市">北海道旭川市</a>|
-|46|1092|<span class="rank-name-pd">吉原 大貴</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10491?s_seq=10491">ラウンドワンスタジアム札幌白石店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|47|1089|<span class="rank-name-dl">タガトモアキ</span>|<a href="https://search.dartslive.com/jp/shop/a14157150079cc52fec1ae84bb28bd87">自遊空間 恵庭住吉店</a>|<a href="/darts/rank/北海道/恵庭市">北海道恵庭市</a>|
-|47|1089|<span class="rank-name-dl">ツルガユウタ</span>|<a href="https://search.dartslive.com/jp/shop/74fc2381c6ea4a680d9b047a20a7ba1e">Y's Bar ID</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|49|1088|<span class="rank-name-dl">けすけ</span>|<a href="https://search.dartslive.com/jp/shop/97f0f6ed8c1b481bf454cb89828a1cfe">BAR LIBERTADORES</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|49|1088|<span class="rank-name-dl">上ヶ島　承</span>|<a href="https://search.dartslive.com/jp/shop/1ee2e5140966d70da3f63593b5358cc4">ネットカフェ&カラオケ DiCE 札幌狸小路本店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|51|1086|<span class="rank-name-pd">吉原 大貴</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6302?s_seq=6302">自遊空間 札幌西町店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|51|1086|<span class="rank-name-pd">鈴木 勇斗</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_50881?s_seq=50881">ラウンドワン札幌すすきの店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|53|1082|<span class="rank-name-dl">タコライス牧野</span>|<a href="https://search.dartslive.com/jp/shop/18285827796c00fb0d9b047a20a7ba1e">Roman</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|53|1082|<span class="rank-name-dl">中島 伸拓</span>|<a href="https://search.dartslive.com/jp/shop/e15a6b9e3dd793fc28032249b44395af">快活CLUB 旭川永山店</a>|<a href="/darts/rank/北海道/旭川市">北海道旭川市</a>|
-|55|1081|<span class="rank-name-pd">上ヶ島 承COSMO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51355?s_seq=51355">Cafe&Bar&Darts HIDE OUT</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|56|1080|<span class="rank-name-pd">佐藤 康郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44370?s_seq=44370">快活CLUB 北42条店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|57|1078|<span class="rank-name-pd">さっサン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79181?s_seq=79181">快活CLUB 札幌環状通東店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|57|1078|<span class="rank-name-dl">上ヶ島　承</span>|<a href="https://search.dartslive.com/jp/shop/94e6f4247653b97e0d9b047a20a7ba1e">ラウンドワン札幌すすきの店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|59|1076|<span class="rank-name-pd">オルフェ－◎BULL◎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8670?s_seq=8670">快活CLUB 札幌狸小路店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|59|1076|<span class="rank-name-pd">上ヶ島 承COSMO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7253?s_seq=7253">自遊空間札幌清田店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|59|1076|<span class="rank-name-dl">北村日出人</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|62|1075|<span class="rank-name-dl">あべ　すぐる</span>|<a href="https://search.dartslive.com/jp/shop/50c8dfc679066340790ab824ce8730e5">カラオケ館 すすきの本店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|62|1075|<span class="rank-name-pd">石川 大樹[Red re&#x27; Bone]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9207?s_seq=9207">CAFE -AA-</a>|<a href="/darts/rank/北海道/釧路郡">北海道釧路郡</a>|
-|64|1074|<span class="rank-name-dl">TR-panda</span>|<a href="https://search.dartslive.com/jp/shop/5d2a729e026c8fc4f454cb89828a1cfe">自遊空間 NEXT札幌駅前南口店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|64|1074|<span class="rank-name-dl">晃基</span>|<a href="https://search.dartslive.com/jp/shop/0bae18c3f5f882ada3f63593b5358cc4">快活CLUB 厚別東店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|66|1073|<span class="rank-name-pd">くだんあるてぃめっと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10498?s_seq=10498">クダンアルティメット</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|67|1072|<span class="rank-name-pd">MOSO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7253?s_seq=7253">自遊空間札幌清田店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|67|1072|<span class="rank-name-pd">SNT</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9179?s_seq=9179">TiTO PLUS すすきの</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|67|1072|<span class="rank-name-dl">鶩七番隊/RYO</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|70|1070|<span class="rank-name-dl">Duck Raiki</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|70|1070|<span class="rank-name-dl">鈴木 勇斗</span>|<a href="https://search.dartslive.com/jp/shop/b1e4f01fb1d65125774c926eb736cb5a">自遊空間 手稲前田店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|72|1069|<span class="rank-name-dl">米 @ Firefly</span>|<a href="https://search.dartslive.com/jp/shop/a14157150079cc52fec1ae84bb28bd87">自遊空間 恵庭住吉店</a>|<a href="/darts/rank/北海道/恵庭市">北海道恵庭市</a>|
-|73|1068|<span class="rank-name-pd">さらりとした淡麗スープ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10539?s_seq=10539">PROST</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|74|1067|<span class="rank-name-dl">まさひろ</span>|<a href="https://search.dartslive.com/jp/shop/63d319dc2404821c58d385ea46352d8f">自遊空間 苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
-|75|1065|<span class="rank-name-dl">NAKAJI</span>|<a href="https://search.dartslive.com/jp/shop/f7663a37acb549d50d9b047a20a7ba1e">インターネットカフェ　ファンタイム旭川豊岡店</a>|<a href="/darts/rank/北海道/旭川市">北海道旭川市</a>|
-|76|1063|<span class="rank-name-dl">zio nine</span>|<a href="https://search.dartslive.com/jp/shop/8cd88a64fc679ad9b21333aee1bd51e4">ナイン</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|76|1063|<span class="rank-name-pd">おごう　たかゆき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_68098?s_seq=68098">ES Unit</a>|<a href="/darts/rank/北海道/千歳市">北海道千歳市</a>|
-|76|1063|<span class="rank-name-pd">たっくん！！！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8197?s_seq=8197">Queen's Eye</a>|<a href="/darts/rank/北海道/恵庭市">北海道恵庭市</a>|
-|76|1063|<span class="rank-name-dl">キエるﾏｷｭｳ.HiVe</span>|<a href="https://search.dartslive.com/jp/shop/74fc2381c6ea4a680d9b047a20a7ba1e">Y's Bar ID</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|76|1063|<span class="rank-name-pd">紅生姜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6302?s_seq=6302">自遊空間 札幌西町店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|81|1062|<span class="rank-name-pd">わかちこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9110?s_seq=9110">自遊空間 手稲前田店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|81|1062|<span class="rank-name-dl">マスカワガイ</span>|<a href="https://search.dartslive.com/jp/shop/1ee2e5140966d70da3f63593b5358cc4">ネットカフェ&カラオケ DiCE 札幌狸小路本店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|83|1061|<span class="rank-name-dl">Duck Raiki</span>|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|84|1059|<span class="rank-name-pd">大王</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10539?s_seq=10539">PROST</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|85|1058|<span class="rank-name-dl">mosokuri</span>|<a href="https://search.dartslive.com/jp/shop/0bae18c3f5f882ada3f63593b5358cc4">快活CLUB 厚別東店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|86|1057|<span class="rank-name-dl">2ストローク魂</span>|<a href="https://search.dartslive.com/jp/shop/4635f9e35f90bbc60d9b047a20a7ba1e">bar alegria</a>|<a href="/darts/rank/北海道/枝幸郡">北海道枝幸郡</a>|
-|86|1057|<span class="rank-name-pd">畑野千春 [AGE53]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8513?s_seq=8513">VOUG</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|88|1055|<span class="rank-name-dl">shinji</span>|<a href="https://search.dartslive.com/jp/shop/50c8dfc679066340790ab824ce8730e5">カラオケ館 すすきの本店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|88|1055|<span class="rank-name-dl">ガチャさん</span>|<a href="https://search.dartslive.com/jp/shop/fc3948c10dd302f60d9b047a20a7ba1e">LAT.43°N</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|88|1055|<span class="rank-name-pd"><span class="pro-icon-pd"></span>久根木 亮太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9207?s_seq=9207">CAFE -AA-</a>|<a href="/darts/rank/北海道/釧路郡">北海道釧路郡</a>|
-|88|1055|<span class="rank-name-dl">大嶋 陽飛</span>|<a href="https://search.dartslive.com/jp/shop/4645a1bbf11dc68a0d9b047a20a7ba1e">ラウンドワン札幌北21条店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|92|1054|<span class="rank-name-pd">ガチャさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65822?s_seq=65822">クロスジョイス</a>|<a href="/darts/rank/北海道/恵庭市">北海道恵庭市</a>|
-|92|1054|<span class="rank-name-pd">キエるﾏｷｭｳ.HiVe</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9179?s_seq=9179">TiTO PLUS すすきの</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|92|1054|<span class="rank-name-dl">鈴木 勇斗</span>|<a href="https://search.dartslive.com/jp/shop/50c8dfc679066340790ab824ce8730e5">カラオケ館 すすきの本店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|95|1053|<span class="rank-name-pd">HIROMU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74981?s_seq=74981">DICE札幌狸小路本店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|95|1053|<span class="rank-name-dl">まぁ〜ちゃん</span>|<a href="https://search.dartslive.com/jp/shop/94e6f4247653b97e0d9b047a20a7ba1e">ラウンドワン札幌すすきの店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|97|1052|<span class="rank-name-pd">YOU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10498?s_seq=10498">クダンアルティメット</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|97|1052|<span class="rank-name-pd">わかちこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8670?s_seq=8670">快活CLUB 札幌狸小路店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|97|1052|<span class="rank-name-dl">ﾀﾝﾝﾊﾟﾝﾝｺﾝﾝｿﾞﾝﾝ</span>|<a href="https://search.dartslive.com/jp/shop/50c8dfc679066340790ab824ce8730e5">カラオケ館 すすきの本店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|100|1051|<span class="rank-name-dl">NP2</span>|<a href="https://search.dartslive.com/jp/shop/0bae18c3f5f882ada3f63593b5358cc4">快活CLUB 厚別東店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|1|1234|<span class="rank-name-dl">Raiki</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|2|1205|<span class="rank-name-dl">髙橋　葵</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|3|1200|<span class="rank-name-dl">Raiki</span>|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|3|1200|<span class="rank-name-dl">カナザワユウキ②</span>|<a href="https://search.dartslive.com/jp/shop/74fc2381c6ea4a680d9b047a20a7ba1e">Y's Bar ID</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|3|1200|<span class="rank-name-dl">ガチャさん</span>|<a href="https://search.dartslive.com/jp/shop/a14157150079cc52fec1ae84bb28bd87">自遊空間 恵庭住吉店</a>|<a href="/darts/rank/北海道/恵庭市">北海道恵庭市</a>|
+|6|1169|<span class="rank-name-pd">鈴木勇斗　scarf</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65174?s_seq=65174">Saloon de Scarf</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|7|1164|<span class="rank-name-dl">PUKUN</span>|<a href="https://search.dartslive.com/jp/shop/50c8dfc679066340790ab824ce8730e5">カラオケ館 すすきの本店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|7|1164|<span class="rank-name-pd"><span class="pro-icon-pd"></span>鷺森 雅啓</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82822?s_seq=82822">快活CLUB 旭川大町店</a>|<a href="/darts/rank/北海道/旭川市">北海道旭川市</a>|
+|9|1163|<span class="rank-name-dl">shinji</span>|<a href="https://search.dartslive.com/jp/shop/4f6c1ddf5996f5df25d56fb0e5c39bac">自遊空間 札幌清田店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|10|1151|<span class="rank-name-pd">SHINJI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7253?s_seq=7253">自遊空間札幌清田店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|11|1150|<span class="rank-name-pd">CHIHARU-VOUG</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8513?s_seq=8513">VOUG</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|12|1137|<span class="rank-name-dl">上ヶ島　承</span>|<a href="https://search.dartslive.com/jp/shop/97f0f6ed8c1b481bf454cb89828a1cfe">BAR LIBERTADORES</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|12|1137|<span class="rank-name-dl">ＳＮＴ</span>|<a href="https://search.dartslive.com/jp/shop/4f6c1ddf5996f5df25d56fb0e5c39bac">自遊空間 札幌清田店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|14|1134|<span class="rank-name-dl">上ヶ島　承</span>|<a href="https://search.dartslive.com/jp/shop/4f6c1ddf5996f5df25d56fb0e5c39bac">自遊空間 札幌清田店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|15|1132|<span class="rank-name-dl">タクミシャトル</span>|<a href="https://search.dartslive.com/jp/shop/31464ca7df3d6864b21333aee1bd51e4">Amusement Bar JET</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|16|1131|<span class="rank-name-dl">SNT</span>|<a href="https://search.dartslive.com/jp/shop/50c8dfc679066340790ab824ce8730e5">カラオケ館 すすきの本店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|16|1131|<span class="rank-name-pd">安部 亘</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8513?s_seq=8513">VOUG</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|18|1130|<span class="rank-name-pd">鈴木 勇斗</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65174?s_seq=65174">Saloon de Scarf</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|19|1128|<span class="rank-name-pd">THE『松ダーツ』自遊空間♪</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7253?s_seq=7253">自遊空間札幌清田店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|20|1124|<span class="rank-name-pd">【松田 純】PHOENIXDARTS☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8513?s_seq=8513">VOUG</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|20|1124|<span class="rank-name-dl">マスカワガイ</span>|<a href="https://search.dartslive.com/jp/shop/74fc2381c6ea4a680d9b047a20a7ba1e">Y's Bar ID</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|22|1123|<span class="rank-name-dl">ユート</span>|<a href="https://search.dartslive.com/jp/shop/b1e4f01fb1d65125774c926eb736cb5a">自遊空間 手稲前田店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|23|1119|<span class="rank-name-dl">masashi</span>|<a href="https://search.dartslive.com/jp/shop/a14157150079cc52fec1ae84bb28bd87">自遊空間 恵庭住吉店</a>|<a href="/darts/rank/北海道/恵庭市">北海道恵庭市</a>|
+|24|1118|<span class="rank-name-pd">晃基(instagram)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7253?s_seq=7253">自遊空間札幌清田店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|25|1117|<span class="rank-name-dl">ＳＮＴ</span>|<a href="https://search.dartslive.com/jp/shop/1ee2e5140966d70da3f63593b5358cc4">ネットカフェ&カラオケ DiCE 札幌狸小路本店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|26|1114|<span class="rank-name-dl">川村 正和</span>|<a href="https://search.dartslive.com/jp/shop/a14157150079cc52fec1ae84bb28bd87">自遊空間 恵庭住吉店</a>|<a href="/darts/rank/北海道/恵庭市">北海道恵庭市</a>|
+|27|1113|<span class="rank-name-dl">ツルガユウタ</span>|<a href="https://search.dartslive.com/jp/shop/94e6f4247653b97e0d9b047a20a7ba1e">ラウンドワン札幌すすきの店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|28|1112|<span class="rank-name-dl">上ヶ島　承</span>|<a href="https://search.dartslive.com/jp/shop/93782600ac89fc7e5f9f3321c1147265">カラオケ館 札幌駅前店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|29|1111|<span class="rank-name-dl">ガチャさん</span>|<a href="https://search.dartslive.com/jp/shop/1ee2e5140966d70da3f63593b5358cc4">ネットカフェ&カラオケ DiCE 札幌狸小路本店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|30|1109|<span class="rank-name-dl">SNT</span>|<a href="https://search.dartslive.com/jp/shop/1ee2e5140966d70da3f63593b5358cc4">ネットカフェ&カラオケ DiCE 札幌狸小路本店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|31|1108|<span class="rank-name-pd">やすゆにっと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_68098?s_seq=68098">ES Unit</a>|<a href="/darts/rank/北海道/千歳市">北海道千歳市</a>|
+|31|1108|<span class="rank-name-dl">三崎 桂子</span>|<a href="https://search.dartslive.com/jp/shop/4906764db564cc3df454cb89828a1cfe">Darts Bar Sea'd</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|31|1108|<span class="rank-name-pd">畑野千春 F.D.L</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8513?s_seq=8513">VOUG</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|34|1106|<span class="rank-name-dl">Duck Raiki</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|34|1106|<span class="rank-name-dl">マスカワガイ</span>|<a href="https://search.dartslive.com/jp/shop/0e626e44b3e54b7858d385ea46352d8f">快活CLUB 札幌狸小路店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|36|1105|<span class="rank-name-pd">HIROMU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8670?s_seq=8670">快活CLUB 札幌狸小路店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|37|1103|<span class="rank-name-pd">A.O</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82822?s_seq=82822">快活CLUB 旭川大町店</a>|<a href="/darts/rank/北海道/旭川市">北海道旭川市</a>|
+|37|1103|<span class="rank-name-dl">NO NAME 5600</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|39|1100|<span class="rank-name-dl">ツルガユウタ</span>|<a href="https://search.dartslive.com/jp/shop/1ee2e5140966d70da3f63593b5358cc4">ネットカフェ&カラオケ DiCE 札幌狸小路本店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|39|1100|<span class="rank-name-pd">古川大機</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9207?s_seq=9207">CAFE -AA-</a>|<a href="/darts/rank/北海道/釧路郡">北海道釧路郡</a>|
+|41|1098|<span class="rank-name-dl">NAKAJI</span>|<a href="https://search.dartslive.com/jp/shop/e15a6b9e3dd793fc28032249b44395af">快活CLUB 旭川永山店</a>|<a href="/darts/rank/北海道/旭川市">北海道旭川市</a>|
+|42|1097|<span class="rank-name-dl">Takumi</span>|<a href="https://search.dartslive.com/jp/shop/f7663a37acb549d50d9b047a20a7ba1e">インターネットカフェ　ファンタイム旭川豊岡店</a>|<a href="/darts/rank/北海道/旭川市">北海道旭川市</a>|
+|43|1092|<span class="rank-name-pd">吉原 大貴</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10491?s_seq=10491">ラウンドワンスタジアム札幌白石店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|44|1089|<span class="rank-name-dl">タガトモアキ</span>|<a href="https://search.dartslive.com/jp/shop/a14157150079cc52fec1ae84bb28bd87">自遊空間 恵庭住吉店</a>|<a href="/darts/rank/北海道/恵庭市">北海道恵庭市</a>|
+|44|1089|<span class="rank-name-dl">ツルガユウタ</span>|<a href="https://search.dartslive.com/jp/shop/74fc2381c6ea4a680d9b047a20a7ba1e">Y's Bar ID</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|46|1088|<span class="rank-name-dl">けすけ</span>|<a href="https://search.dartslive.com/jp/shop/97f0f6ed8c1b481bf454cb89828a1cfe">BAR LIBERTADORES</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|46|1088|<span class="rank-name-dl">上ヶ島　承</span>|<a href="https://search.dartslive.com/jp/shop/1ee2e5140966d70da3f63593b5358cc4">ネットカフェ&カラオケ DiCE 札幌狸小路本店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|48|1086|<span class="rank-name-pd">吉原 大貴</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6302?s_seq=6302">自遊空間 札幌西町店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|48|1086|<span class="rank-name-pd">鈴木 勇斗</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_50881?s_seq=50881">ラウンドワン札幌すすきの店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|50|1082|<span class="rank-name-dl">タコライス牧野</span>|<a href="https://search.dartslive.com/jp/shop/18285827796c00fb0d9b047a20a7ba1e">Roman</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|50|1082|<span class="rank-name-dl">中島 伸拓</span>|<a href="https://search.dartslive.com/jp/shop/e15a6b9e3dd793fc28032249b44395af">快活CLUB 旭川永山店</a>|<a href="/darts/rank/北海道/旭川市">北海道旭川市</a>|
+|52|1081|<span class="rank-name-pd">上ヶ島 承COSMO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51355?s_seq=51355">Cafe&Bar&Darts HIDE OUT</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|53|1080|<span class="rank-name-pd">佐藤 康郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44370?s_seq=44370">快活CLUB 北42条店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|54|1078|<span class="rank-name-pd">さっサン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79181?s_seq=79181">快活CLUB 札幌環状通東店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|54|1078|<span class="rank-name-dl">上ヶ島　承</span>|<a href="https://search.dartslive.com/jp/shop/94e6f4247653b97e0d9b047a20a7ba1e">ラウンドワン札幌すすきの店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|56|1076|<span class="rank-name-pd">オルフェ－◎BULL◎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8670?s_seq=8670">快活CLUB 札幌狸小路店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|56|1076|<span class="rank-name-pd">上ヶ島 承COSMO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7253?s_seq=7253">自遊空間札幌清田店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|56|1076|<span class="rank-name-dl">北村日出人</span>|<a href="https://search.dartslive.com/jp/shop/a2cb7922e3b359ed0d9b047a20a7ba1e">Darts Shop&Cafe Pump it!</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|59|1075|<span class="rank-name-dl">あべ　すぐる</span>|<a href="https://search.dartslive.com/jp/shop/50c8dfc679066340790ab824ce8730e5">カラオケ館 すすきの本店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|59|1075|<span class="rank-name-pd">石川 大樹[Red re&#x27; Bone]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9207?s_seq=9207">CAFE -AA-</a>|<a href="/darts/rank/北海道/釧路郡">北海道釧路郡</a>|
+|61|1074|<span class="rank-name-dl">TR-panda</span>|<a href="https://search.dartslive.com/jp/shop/5d2a729e026c8fc4f454cb89828a1cfe">自遊空間 NEXT札幌駅前南口店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|61|1074|<span class="rank-name-dl">晃基</span>|<a href="https://search.dartslive.com/jp/shop/0bae18c3f5f882ada3f63593b5358cc4">快活CLUB 厚別東店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|63|1073|<span class="rank-name-pd">くだんあるてぃめっと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10498?s_seq=10498">クダンアルティメット</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|64|1072|<span class="rank-name-pd">MOSO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7253?s_seq=7253">自遊空間札幌清田店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|64|1072|<span class="rank-name-pd">SNT</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9179?s_seq=9179">TiTO PLUS すすきの</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|64|1072|<span class="rank-name-dl">鶩七番隊/RYO</span>|<a href="https://search.dartslive.com/jp/shop/bc1ce23ddeb5f056f454cb89828a1cfe">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|67|1070|<span class="rank-name-dl">Duck Raiki</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|67|1070|<span class="rank-name-dl">鈴木 勇斗</span>|<a href="https://search.dartslive.com/jp/shop/b1e4f01fb1d65125774c926eb736cb5a">自遊空間 手稲前田店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|69|1069|<span class="rank-name-dl">米 @ Firefly</span>|<a href="https://search.dartslive.com/jp/shop/a14157150079cc52fec1ae84bb28bd87">自遊空間 恵庭住吉店</a>|<a href="/darts/rank/北海道/恵庭市">北海道恵庭市</a>|
+|70|1068|<span class="rank-name-pd">さらりとした淡麗スープ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10539?s_seq=10539">PROST</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|71|1067|<span class="rank-name-dl">まさひろ</span>|<a href="https://search.dartslive.com/jp/shop/63d319dc2404821c58d385ea46352d8f">自遊空間 苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
+|72|1065|<span class="rank-name-dl">NAKAJI</span>|<a href="https://search.dartslive.com/jp/shop/f7663a37acb549d50d9b047a20a7ba1e">インターネットカフェ　ファンタイム旭川豊岡店</a>|<a href="/darts/rank/北海道/旭川市">北海道旭川市</a>|
+|73|1063|<span class="rank-name-dl">zio nine</span>|<a href="https://search.dartslive.com/jp/shop/8cd88a64fc679ad9b21333aee1bd51e4">ナイン</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|73|1063|<span class="rank-name-pd">おごう　たかゆき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_68098?s_seq=68098">ES Unit</a>|<a href="/darts/rank/北海道/千歳市">北海道千歳市</a>|
+|73|1063|<span class="rank-name-pd">たっくん！！！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8197?s_seq=8197">Queen's Eye</a>|<a href="/darts/rank/北海道/恵庭市">北海道恵庭市</a>|
+|73|1063|<span class="rank-name-dl">キエるﾏｷｭｳ.HiVe</span>|<a href="https://search.dartslive.com/jp/shop/74fc2381c6ea4a680d9b047a20a7ba1e">Y's Bar ID</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|73|1063|<span class="rank-name-pd">紅生姜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6302?s_seq=6302">自遊空間 札幌西町店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|78|1062|<span class="rank-name-pd">わかちこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9110?s_seq=9110">自遊空間 手稲前田店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|78|1062|<span class="rank-name-dl">マスカワガイ</span>|<a href="https://search.dartslive.com/jp/shop/1ee2e5140966d70da3f63593b5358cc4">ネットカフェ&カラオケ DiCE 札幌狸小路本店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|80|1061|<span class="rank-name-dl">Duck Raiki</span>|<a href="https://search.dartslive.com/jp/shop/665ea30911745eb60d9b047a20a7ba1e">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|81|1059|<span class="rank-name-pd">大王</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10539?s_seq=10539">PROST</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|82|1058|<span class="rank-name-dl">mosokuri</span>|<a href="https://search.dartslive.com/jp/shop/0bae18c3f5f882ada3f63593b5358cc4">快活CLUB 厚別東店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|83|1057|<span class="rank-name-dl">2ストローク魂</span>|<a href="https://search.dartslive.com/jp/shop/4635f9e35f90bbc60d9b047a20a7ba1e">bar alegria</a>|<a href="/darts/rank/北海道/枝幸郡">北海道枝幸郡</a>|
+|83|1057|<span class="rank-name-pd">畑野千春 [AGE53]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8513?s_seq=8513">VOUG</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|85|1055|<span class="rank-name-dl">shinji</span>|<a href="https://search.dartslive.com/jp/shop/50c8dfc679066340790ab824ce8730e5">カラオケ館 すすきの本店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|85|1055|<span class="rank-name-dl">ガチャさん</span>|<a href="https://search.dartslive.com/jp/shop/fc3948c10dd302f60d9b047a20a7ba1e">LAT.43°N</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|85|1055|<span class="rank-name-pd"><span class="pro-icon-pd"></span>久根木 亮太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9207?s_seq=9207">CAFE -AA-</a>|<a href="/darts/rank/北海道/釧路郡">北海道釧路郡</a>|
+|85|1055|<span class="rank-name-dl">大嶋 陽飛</span>|<a href="https://search.dartslive.com/jp/shop/4645a1bbf11dc68a0d9b047a20a7ba1e">ラウンドワン札幌北21条店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|89|1054|<span class="rank-name-pd">ガチャさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65822?s_seq=65822">クロスジョイス</a>|<a href="/darts/rank/北海道/恵庭市">北海道恵庭市</a>|
+|89|1054|<span class="rank-name-pd">キエるﾏｷｭｳ.HiVe</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9179?s_seq=9179">TiTO PLUS すすきの</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|89|1054|<span class="rank-name-dl">鈴木 勇斗</span>|<a href="https://search.dartslive.com/jp/shop/50c8dfc679066340790ab824ce8730e5">カラオケ館 すすきの本店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|92|1053|<span class="rank-name-pd">HIROMU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74981?s_seq=74981">DICE札幌狸小路本店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|92|1053|<span class="rank-name-dl">まぁ〜ちゃん</span>|<a href="https://search.dartslive.com/jp/shop/94e6f4247653b97e0d9b047a20a7ba1e">ラウンドワン札幌すすきの店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|94|1052|<span class="rank-name-pd">YOU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10498?s_seq=10498">クダンアルティメット</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|94|1052|<span class="rank-name-pd">わかちこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8670?s_seq=8670">快活CLUB 札幌狸小路店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|94|1052|<span class="rank-name-dl">ﾀﾝﾝﾊﾟﾝﾝｺﾝﾝｿﾞﾝﾝ</span>|<a href="https://search.dartslive.com/jp/shop/50c8dfc679066340790ab824ce8730e5">カラオケ館 すすきの本店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|97|1051|<span class="rank-name-dl">NP2</span>|<a href="https://search.dartslive.com/jp/shop/0bae18c3f5f882ada3f63593b5358cc4">快活CLUB 厚別東店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|98|1050|<span class="rank-name-pd">【松田 純】PHOENIXDARTS☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78778?s_seq=78778">ROSSO</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|99|1049|<span class="rank-name-dl">Rio</span>|<a href="https://search.dartslive.com/jp/shop/3f8f3acd612b786728032249b44395af">自遊空間 札幌西町店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|99|1049|<span class="rank-name-dl">川村 正和</span>|<a href="https://search.dartslive.com/jp/shop/63d319dc2404821c58d385ea46352d8f">自遊空間 苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -283,106 +283,106 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1400|<span class="rank-name-pd">0245_9334</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79181?s_seq=79181">快活CLUB 札幌環状通東店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|2|1248|<span class="rank-name-pd">めめめ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62790?s_seq=62790">快活CLUB 釧路木場店</a>|<a href="/darts/rank/北海道/釧路市">北海道釧路市</a>|
-|2|1248|<span class="rank-name-pd">ガンバッタータイショー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79181?s_seq=79181">快活CLUB 札幌環状通東店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|4|1169|<span class="rank-name-pd">鈴木勇斗　scarf</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65174?s_seq=65174">Saloon de Scarf</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|5|1164|<span class="rank-name-pd"><span class="pro-icon-pd"></span>鷺森 雅啓</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82822?s_seq=82822">快活CLUB 旭川大町店</a>|<a href="/darts/rank/北海道/旭川市">北海道旭川市</a>|
-|6|1151|<span class="rank-name-pd">SHINJI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7253?s_seq=7253">自遊空間札幌清田店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|7|1150|<span class="rank-name-pd">CHIHARU-VOUG</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8513?s_seq=8513">VOUG</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|8|1131|<span class="rank-name-pd">安部 亘</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8513?s_seq=8513">VOUG</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|9|1130|<span class="rank-name-pd">鈴木 勇斗</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65174?s_seq=65174">Saloon de Scarf</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|10|1128|<span class="rank-name-pd">THE『松ダーツ』自遊空間♪</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7253?s_seq=7253">自遊空間札幌清田店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|11|1124|<span class="rank-name-pd">【松田 純】PHOENIXDARTS☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8513?s_seq=8513">VOUG</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|12|1118|<span class="rank-name-pd">晃基(instagram)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7253?s_seq=7253">自遊空間札幌清田店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|13|1108|<span class="rank-name-pd">やすゆにっと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_68098?s_seq=68098">ES Unit</a>|<a href="/darts/rank/北海道/千歳市">北海道千歳市</a>|
-|13|1108|<span class="rank-name-pd">畑野千春 F.D.L</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8513?s_seq=8513">VOUG</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|15|1105|<span class="rank-name-pd">HIROMU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8670?s_seq=8670">快活CLUB 札幌狸小路店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|16|1103|<span class="rank-name-pd">A.O</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82822?s_seq=82822">快活CLUB 旭川大町店</a>|<a href="/darts/rank/北海道/旭川市">北海道旭川市</a>|
-|17|1100|<span class="rank-name-pd">古川大機</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9207?s_seq=9207">CAFE -AA-</a>|<a href="/darts/rank/北海道/釧路郡">北海道釧路郡</a>|
-|18|1092|<span class="rank-name-pd">吉原 大貴</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10491?s_seq=10491">ラウンドワンスタジアム札幌白石店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|19|1086|<span class="rank-name-pd">吉原 大貴</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6302?s_seq=6302">自遊空間 札幌西町店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|19|1086|<span class="rank-name-pd">鈴木 勇斗</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_50881?s_seq=50881">ラウンドワン札幌すすきの店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|21|1081|<span class="rank-name-pd">上ヶ島 承COSMO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51355?s_seq=51355">Cafe&Bar&Darts HIDE OUT</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|22|1080|<span class="rank-name-pd">佐藤 康郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44370?s_seq=44370">快活CLUB 北42条店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|23|1078|<span class="rank-name-pd">さっサン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79181?s_seq=79181">快活CLUB 札幌環状通東店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|24|1076|<span class="rank-name-pd">オルフェ－◎BULL◎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8670?s_seq=8670">快活CLUB 札幌狸小路店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|24|1076|<span class="rank-name-pd">上ヶ島 承COSMO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7253?s_seq=7253">自遊空間札幌清田店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|26|1075|<span class="rank-name-pd">石川 大樹[Red re&#x27; Bone]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9207?s_seq=9207">CAFE -AA-</a>|<a href="/darts/rank/北海道/釧路郡">北海道釧路郡</a>|
-|27|1073|<span class="rank-name-pd">くだんあるてぃめっと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10498?s_seq=10498">クダンアルティメット</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|28|1072|<span class="rank-name-pd">MOSO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7253?s_seq=7253">自遊空間札幌清田店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|28|1072|<span class="rank-name-pd">SNT</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9179?s_seq=9179">TiTO PLUS すすきの</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|30|1068|<span class="rank-name-pd">さらりとした淡麗スープ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10539?s_seq=10539">PROST</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|31|1063|<span class="rank-name-pd">おごう　たかゆき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_68098?s_seq=68098">ES Unit</a>|<a href="/darts/rank/北海道/千歳市">北海道千歳市</a>|
-|31|1063|<span class="rank-name-pd">たっくん！！！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8197?s_seq=8197">Queen's Eye</a>|<a href="/darts/rank/北海道/恵庭市">北海道恵庭市</a>|
-|31|1063|<span class="rank-name-pd">紅生姜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6302?s_seq=6302">自遊空間 札幌西町店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|34|1062|<span class="rank-name-pd">わかちこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9110?s_seq=9110">自遊空間 手稲前田店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|35|1061|<span class="rank-name-pd">masashi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9397?s_seq=9397">自遊空間 恵庭住吉店</a>|<a href="/darts/rank/北海道/恵庭市">北海道恵庭市</a>|
-|36|1059|<span class="rank-name-pd">大王</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10539?s_seq=10539">PROST</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|37|1057|<span class="rank-name-pd">畑野千春 [AGE53]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8513?s_seq=8513">VOUG</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|38|1055|<span class="rank-name-pd"><span class="pro-icon-pd"></span>久根木 亮太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9207?s_seq=9207">CAFE -AA-</a>|<a href="/darts/rank/北海道/釧路郡">北海道釧路郡</a>|
-|39|1054|<span class="rank-name-pd">ガチャさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65822?s_seq=65822">クロスジョイス</a>|<a href="/darts/rank/北海道/恵庭市">北海道恵庭市</a>|
-|39|1054|<span class="rank-name-pd">キエるﾏｷｭｳ.HiVe</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9179?s_seq=9179">TiTO PLUS すすきの</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|41|1053|<span class="rank-name-pd">HIROMU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74981?s_seq=74981">DICE札幌狸小路本店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|42|1052|<span class="rank-name-pd">YOU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10498?s_seq=10498">クダンアルティメット</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|42|1052|<span class="rank-name-pd">わかちこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8670?s_seq=8670">快活CLUB 札幌狸小路店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|44|1050|<span class="rank-name-pd">【松田 純】PHOENIXDARTS☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78778?s_seq=78778">ROSSO</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|45|1045|<span class="rank-name-pd">SNT</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7253?s_seq=7253">自遊空間札幌清田店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|45|1045|<span class="rank-name-pd">いブみちゃん+ﾟ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51355?s_seq=51355">Cafe&Bar&Darts HIDE OUT</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|47|1044|<span class="rank-name-pd">松下 優喜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8670?s_seq=8670">快活CLUB 札幌狸小路店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|47|1044|<span class="rank-name-pd">石川 大樹[Red re&#x27; Bone]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62790?s_seq=62790">快活CLUB 釧路木場店</a>|<a href="/darts/rank/北海道/釧路市">北海道釧路市</a>|
-|47|1044|<span class="rank-name-pd">米 @ Queen’s Eye</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10638?s_seq=10638">BOX CAFE</a>|<a href="/darts/rank/北海道/旭川市">北海道旭川市</a>|
-|50|1041|<span class="rank-name-pd">PPSP</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62790?s_seq=62790">快活CLUB 釧路木場店</a>|<a href="/darts/rank/北海道/釧路市">北海道釧路市</a>|
-|50|1041|<span class="rank-name-pd">枝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_50881?s_seq=50881">ラウンドワン札幌すすきの店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|52|1037|<span class="rank-name-pd">ガキの腰使いやあらへんで。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44370?s_seq=44370">快活CLUB 北42条店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|52|1037|<span class="rank-name-pd">吉原 大貴</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65174?s_seq=65174">Saloon de Scarf</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|54|1034|<span class="rank-name-pd">ガチャさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_68098?s_seq=68098">ES Unit</a>|<a href="/darts/rank/北海道/千歳市">北海道千歳市</a>|
-|55|1033|<span class="rank-name-pd">yuzuki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85554?s_seq=85554">ファンタイム 帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|55|1033|<span class="rank-name-pd">たんぱく質が摂れるコーンスープ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74981?s_seq=74981">DICE札幌狸小路本店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|55|1033|<span class="rank-name-pd">クールデビル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
-|55|1033|<span class="rank-name-pd">石川 大樹[Red re&#x27; Bone]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90197?s_seq=90197">Bar Nine's maker</a>|<a href="/darts/rank/北海道/釧路市">北海道釧路市</a>|
-|59|1032|<span class="rank-name-pd">Kei.S</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86055?s_seq=86055">CAFE&BAR 空～KUU～</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|60|1030|<span class="rank-name-pd">吉原 大貴</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74981?s_seq=74981">DICE札幌狸小路本店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|61|1029|<span class="rank-name-pd">鈴木 勇斗</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10587?s_seq=10587">ラウンドワン札幌北21条店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|62|1027|<span class="rank-name-pd">かむ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82822?s_seq=82822">快活CLUB 旭川大町店</a>|<a href="/darts/rank/北海道/旭川市">北海道旭川市</a>|
-|63|1025|<span class="rank-name-pd">カナザワユウキ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74981?s_seq=74981">DICE札幌狸小路本店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|64|1024|<span class="rank-name-pd">名前を入力してください</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8513?s_seq=8513">VOUG</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|65|1023|<span class="rank-name-pd">MIKACHAN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10768?s_seq=10768">グラフティー</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|66|1022|<span class="rank-name-pd">※KHO※</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86055?s_seq=86055">CAFE&BAR 空～KUU～</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|66|1022|<span class="rank-name-pd">林 雄太朗</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82822?s_seq=82822">快活CLUB 旭川大町店</a>|<a href="/darts/rank/北海道/旭川市">北海道旭川市</a>|
-|68|1018|<span class="rank-name-pd">わかちこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10587?s_seq=10587">ラウンドワン札幌北21条店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|69|1017|<span class="rank-name-pd">NKMRYSK</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75107?s_seq=75107">Darts shop & bar UNRATED</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|70|1016|<span class="rank-name-pd">ぴ@</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9397?s_seq=9397">自遊空間 恵庭住吉店</a>|<a href="/darts/rank/北海道/恵庭市">北海道恵庭市</a>|
-|70|1016|<span class="rank-name-pd">山口 孝志</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62790?s_seq=62790">快活CLUB 釧路木場店</a>|<a href="/darts/rank/北海道/釧路市">北海道釧路市</a>|
-|72|1015|<span class="rank-name-pd">わかちこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_38543?s_seq=38543">e-style 滝川店</a>|<a href="/darts/rank/北海道/滝川市">北海道滝川市</a>|
-|72|1015|<span class="rank-name-pd"><span class="pro-icon-pd"></span>前田 裕貴</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6302?s_seq=6302">自遊空間 札幌西町店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|74|1014|<span class="rank-name-pd">オノコウイチ@501</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10040?s_seq=10040">ラウンドワン旭川店</a>|<a href="/darts/rank/北海道/旭川市">北海道旭川市</a>|
-|74|1014|<span class="rank-name-pd">安部 亘</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_50881?s_seq=50881">ラウンドワン札幌すすきの店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|74|1014|<span class="rank-name-pd">神野謙介@CrossJois</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65822?s_seq=65822">クロスジョイス</a>|<a href="/darts/rank/北海道/恵庭市">北海道恵庭市</a>|
-|77|1013|<span class="rank-name-pd">鈴木 勇斗</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7253?s_seq=7253">自遊空間札幌清田店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|78|1012|<span class="rank-name-pd"><span class="pro-icon-pd"></span>石川 寛之</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6302?s_seq=6302">自遊空間 札幌西町店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|79|1010|<span class="rank-name-pd">TOMO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10491?s_seq=10491">ラウンドワンスタジアム札幌白石店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|80|1007|<span class="rank-name-pd"><span class="pro-icon-pd"></span>宍戸 雄太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9207?s_seq=9207">CAFE -AA-</a>|<a href="/darts/rank/北海道/釧路郡">北海道釧路郡</a>|
-|81|1006|<span class="rank-name-pd">YUTA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8197?s_seq=8197">Queen's Eye</a>|<a href="/darts/rank/北海道/恵庭市">北海道恵庭市</a>|
-|81|1006|<span class="rank-name-pd"><span class="pro-icon-pd"></span>古川 大機</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48599?s_seq=48599">Rush ton80</a>|<a href="/darts/rank/北海道/釧路市">北海道釧路市</a>|
-|81|1006|<span class="rank-name-pd">吉原 大貴</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65822?s_seq=65822">クロスジョイス</a>|<a href="/darts/rank/北海道/恵庭市">北海道恵庭市</a>|
-|84|1005|<span class="rank-name-pd">ISOISO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10491?s_seq=10491">ラウンドワンスタジアム札幌白石店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|84|1005|<span class="rank-name-pd">masa</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65822?s_seq=65822">クロスジョイス</a>|<a href="/darts/rank/北海道/恵庭市">北海道恵庭市</a>|
-|86|1001|<span class="rank-name-pd">HY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69186?s_seq=69186">ポケットナイン</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|87|1000|<span class="rank-name-pd">Takeru</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10491?s_seq=10491">ラウンドワンスタジアム札幌白石店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|87|1000|<span class="rank-name-pd">吉原 大貴</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8670?s_seq=8670">快活CLUB 札幌狸小路店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|89|999|<span class="rank-name-pd">Chiharu.H[F.D.L]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8513?s_seq=8513">VOUG</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|89|999|<span class="rank-name-pd">山口 孝志</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9207?s_seq=9207">CAFE -AA-</a>|<a href="/darts/rank/北海道/釧路郡">北海道釧路郡</a>|
-|91|998|<span class="rank-name-pd">yuriko</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44370?s_seq=44370">快活CLUB 北42条店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|92|997|<span class="rank-name-pd">※※弱※※</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86055?s_seq=86055">CAFE&BAR 空～KUU～</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|93|994|<span class="rank-name-pd">NaO:)siM</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62790?s_seq=62790">快活CLUB 釧路木場店</a>|<a href="/darts/rank/北海道/釧路市">北海道釧路市</a>|
-|94|991|<span class="rank-name-pd">esah governor</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44370?s_seq=44370">快活CLUB 北42条店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|95|990|<span class="rank-name-pd">晃基(instagram)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9139?s_seq=9139">快活CLUB 厚別東店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|96|988|<span class="rank-name-pd">no-name</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9186?s_seq=9186">自遊空間　苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
-|97|987|<span class="rank-name-pd">ssb</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10665?s_seq=10665">リミックス スクエア</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|98|985|<span class="rank-name-pd">しーかず</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44370?s_seq=44370">快活CLUB 北42条店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
-|98|985|<span class="rank-name-pd">ひろぞう（ ZERO）</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88414?s_seq=88414">ライブorダーツ BAR ZERO</a>|<a href="/darts/rank/北海道/旭川市">北海道旭川市</a>|
-|100|984|<span class="rank-name-pd">ビアホリック</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51355?s_seq=51355">Cafe&Bar&Darts HIDE OUT</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|1|1169|<span class="rank-name-pd">鈴木勇斗　scarf</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65174?s_seq=65174">Saloon de Scarf</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|2|1164|<span class="rank-name-pd"><span class="pro-icon-pd"></span>鷺森 雅啓</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82822?s_seq=82822">快活CLUB 旭川大町店</a>|<a href="/darts/rank/北海道/旭川市">北海道旭川市</a>|
+|3|1151|<span class="rank-name-pd">SHINJI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7253?s_seq=7253">自遊空間札幌清田店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|4|1150|<span class="rank-name-pd">CHIHARU-VOUG</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8513?s_seq=8513">VOUG</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|5|1131|<span class="rank-name-pd">安部 亘</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8513?s_seq=8513">VOUG</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|6|1130|<span class="rank-name-pd">鈴木 勇斗</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65174?s_seq=65174">Saloon de Scarf</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|7|1128|<span class="rank-name-pd">THE『松ダーツ』自遊空間♪</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7253?s_seq=7253">自遊空間札幌清田店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|8|1124|<span class="rank-name-pd">【松田 純】PHOENIXDARTS☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8513?s_seq=8513">VOUG</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|9|1118|<span class="rank-name-pd">晃基(instagram)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7253?s_seq=7253">自遊空間札幌清田店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|10|1108|<span class="rank-name-pd">やすゆにっと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_68098?s_seq=68098">ES Unit</a>|<a href="/darts/rank/北海道/千歳市">北海道千歳市</a>|
+|10|1108|<span class="rank-name-pd">畑野千春 F.D.L</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8513?s_seq=8513">VOUG</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|12|1105|<span class="rank-name-pd">HIROMU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8670?s_seq=8670">快活CLUB 札幌狸小路店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|13|1103|<span class="rank-name-pd">A.O</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82822?s_seq=82822">快活CLUB 旭川大町店</a>|<a href="/darts/rank/北海道/旭川市">北海道旭川市</a>|
+|14|1100|<span class="rank-name-pd">古川大機</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9207?s_seq=9207">CAFE -AA-</a>|<a href="/darts/rank/北海道/釧路郡">北海道釧路郡</a>|
+|15|1092|<span class="rank-name-pd">吉原 大貴</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10491?s_seq=10491">ラウンドワンスタジアム札幌白石店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|16|1086|<span class="rank-name-pd">吉原 大貴</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6302?s_seq=6302">自遊空間 札幌西町店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|16|1086|<span class="rank-name-pd">鈴木 勇斗</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_50881?s_seq=50881">ラウンドワン札幌すすきの店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|18|1081|<span class="rank-name-pd">上ヶ島 承COSMO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51355?s_seq=51355">Cafe&Bar&Darts HIDE OUT</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|19|1080|<span class="rank-name-pd">佐藤 康郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44370?s_seq=44370">快活CLUB 北42条店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|20|1078|<span class="rank-name-pd">さっサン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79181?s_seq=79181">快活CLUB 札幌環状通東店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|21|1076|<span class="rank-name-pd">オルフェ－◎BULL◎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8670?s_seq=8670">快活CLUB 札幌狸小路店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|21|1076|<span class="rank-name-pd">上ヶ島 承COSMO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7253?s_seq=7253">自遊空間札幌清田店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|23|1075|<span class="rank-name-pd">石川 大樹[Red re&#x27; Bone]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9207?s_seq=9207">CAFE -AA-</a>|<a href="/darts/rank/北海道/釧路郡">北海道釧路郡</a>|
+|24|1073|<span class="rank-name-pd">くだんあるてぃめっと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10498?s_seq=10498">クダンアルティメット</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|25|1072|<span class="rank-name-pd">MOSO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7253?s_seq=7253">自遊空間札幌清田店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|25|1072|<span class="rank-name-pd">SNT</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9179?s_seq=9179">TiTO PLUS すすきの</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|27|1068|<span class="rank-name-pd">さらりとした淡麗スープ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10539?s_seq=10539">PROST</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|28|1063|<span class="rank-name-pd">おごう　たかゆき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_68098?s_seq=68098">ES Unit</a>|<a href="/darts/rank/北海道/千歳市">北海道千歳市</a>|
+|28|1063|<span class="rank-name-pd">たっくん！！！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8197?s_seq=8197">Queen's Eye</a>|<a href="/darts/rank/北海道/恵庭市">北海道恵庭市</a>|
+|28|1063|<span class="rank-name-pd">紅生姜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6302?s_seq=6302">自遊空間 札幌西町店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|31|1062|<span class="rank-name-pd">わかちこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9110?s_seq=9110">自遊空間 手稲前田店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|32|1061|<span class="rank-name-pd">masashi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9397?s_seq=9397">自遊空間 恵庭住吉店</a>|<a href="/darts/rank/北海道/恵庭市">北海道恵庭市</a>|
+|33|1059|<span class="rank-name-pd">大王</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10539?s_seq=10539">PROST</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|34|1057|<span class="rank-name-pd">畑野千春 [AGE53]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8513?s_seq=8513">VOUG</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|35|1055|<span class="rank-name-pd"><span class="pro-icon-pd"></span>久根木 亮太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9207?s_seq=9207">CAFE -AA-</a>|<a href="/darts/rank/北海道/釧路郡">北海道釧路郡</a>|
+|36|1054|<span class="rank-name-pd">ガチャさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65822?s_seq=65822">クロスジョイス</a>|<a href="/darts/rank/北海道/恵庭市">北海道恵庭市</a>|
+|36|1054|<span class="rank-name-pd">キエるﾏｷｭｳ.HiVe</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9179?s_seq=9179">TiTO PLUS すすきの</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|38|1053|<span class="rank-name-pd">HIROMU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74981?s_seq=74981">DICE札幌狸小路本店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|39|1052|<span class="rank-name-pd">YOU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10498?s_seq=10498">クダンアルティメット</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|39|1052|<span class="rank-name-pd">わかちこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8670?s_seq=8670">快活CLUB 札幌狸小路店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|41|1050|<span class="rank-name-pd">【松田 純】PHOENIXDARTS☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78778?s_seq=78778">ROSSO</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|42|1045|<span class="rank-name-pd">SNT</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7253?s_seq=7253">自遊空間札幌清田店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|42|1045|<span class="rank-name-pd">いブみちゃん+ﾟ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51355?s_seq=51355">Cafe&Bar&Darts HIDE OUT</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|44|1044|<span class="rank-name-pd">松下 優喜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8670?s_seq=8670">快活CLUB 札幌狸小路店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|44|1044|<span class="rank-name-pd">石川 大樹[Red re&#x27; Bone]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62790?s_seq=62790">快活CLUB 釧路木場店</a>|<a href="/darts/rank/北海道/釧路市">北海道釧路市</a>|
+|44|1044|<span class="rank-name-pd">米 @ Queen’s Eye</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10638?s_seq=10638">BOX CAFE</a>|<a href="/darts/rank/北海道/旭川市">北海道旭川市</a>|
+|47|1041|<span class="rank-name-pd">PPSP</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62790?s_seq=62790">快活CLUB 釧路木場店</a>|<a href="/darts/rank/北海道/釧路市">北海道釧路市</a>|
+|47|1041|<span class="rank-name-pd">枝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_50881?s_seq=50881">ラウンドワン札幌すすきの店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|49|1037|<span class="rank-name-pd">ガキの腰使いやあらへんで。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44370?s_seq=44370">快活CLUB 北42条店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|49|1037|<span class="rank-name-pd">吉原 大貴</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65174?s_seq=65174">Saloon de Scarf</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|51|1034|<span class="rank-name-pd">ガチャさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_68098?s_seq=68098">ES Unit</a>|<a href="/darts/rank/北海道/千歳市">北海道千歳市</a>|
+|52|1033|<span class="rank-name-pd">yuzuki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85554?s_seq=85554">ファンタイム 帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|52|1033|<span class="rank-name-pd">たんぱく質が摂れるコーンスープ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74981?s_seq=74981">DICE札幌狸小路本店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|52|1033|<span class="rank-name-pd">クールデビル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
+|52|1033|<span class="rank-name-pd">石川 大樹[Red re&#x27; Bone]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90197?s_seq=90197">Bar Nine's maker</a>|<a href="/darts/rank/北海道/釧路市">北海道釧路市</a>|
+|56|1032|<span class="rank-name-pd">Kei.S</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86055?s_seq=86055">CAFE&BAR 空～KUU～</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|57|1030|<span class="rank-name-pd">吉原 大貴</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74981?s_seq=74981">DICE札幌狸小路本店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|58|1029|<span class="rank-name-pd">鈴木 勇斗</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10587?s_seq=10587">ラウンドワン札幌北21条店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|59|1027|<span class="rank-name-pd">かむ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82822?s_seq=82822">快活CLUB 旭川大町店</a>|<a href="/darts/rank/北海道/旭川市">北海道旭川市</a>|
+|60|1025|<span class="rank-name-pd">カナザワユウキ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74981?s_seq=74981">DICE札幌狸小路本店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|61|1024|<span class="rank-name-pd">名前を入力してください</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8513?s_seq=8513">VOUG</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|62|1023|<span class="rank-name-pd">MIKACHAN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10768?s_seq=10768">グラフティー</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|63|1022|<span class="rank-name-pd">※KHO※</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86055?s_seq=86055">CAFE&BAR 空～KUU～</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|63|1022|<span class="rank-name-pd">林 雄太朗</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82822?s_seq=82822">快活CLUB 旭川大町店</a>|<a href="/darts/rank/北海道/旭川市">北海道旭川市</a>|
+|65|1018|<span class="rank-name-pd">わかちこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10587?s_seq=10587">ラウンドワン札幌北21条店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|66|1017|<span class="rank-name-pd">NKMRYSK</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75107?s_seq=75107">Darts shop & bar UNRATED</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|67|1016|<span class="rank-name-pd">ぴ@</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9397?s_seq=9397">自遊空間 恵庭住吉店</a>|<a href="/darts/rank/北海道/恵庭市">北海道恵庭市</a>|
+|67|1016|<span class="rank-name-pd">山口 孝志</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62790?s_seq=62790">快活CLUB 釧路木場店</a>|<a href="/darts/rank/北海道/釧路市">北海道釧路市</a>|
+|69|1015|<span class="rank-name-pd">わかちこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_38543?s_seq=38543">e-style 滝川店</a>|<a href="/darts/rank/北海道/滝川市">北海道滝川市</a>|
+|69|1015|<span class="rank-name-pd"><span class="pro-icon-pd"></span>前田 裕貴</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6302?s_seq=6302">自遊空間 札幌西町店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|71|1014|<span class="rank-name-pd">オノコウイチ@501</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10040?s_seq=10040">ラウンドワン旭川店</a>|<a href="/darts/rank/北海道/旭川市">北海道旭川市</a>|
+|71|1014|<span class="rank-name-pd">安部 亘</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_50881?s_seq=50881">ラウンドワン札幌すすきの店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|71|1014|<span class="rank-name-pd">神野謙介@CrossJois</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65822?s_seq=65822">クロスジョイス</a>|<a href="/darts/rank/北海道/恵庭市">北海道恵庭市</a>|
+|74|1013|<span class="rank-name-pd">鈴木 勇斗</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7253?s_seq=7253">自遊空間札幌清田店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|75|1012|<span class="rank-name-pd"><span class="pro-icon-pd"></span>石川 寛之</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6302?s_seq=6302">自遊空間 札幌西町店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|76|1010|<span class="rank-name-pd">TOMO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10491?s_seq=10491">ラウンドワンスタジアム札幌白石店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|77|1007|<span class="rank-name-pd"><span class="pro-icon-pd"></span>宍戸 雄太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9207?s_seq=9207">CAFE -AA-</a>|<a href="/darts/rank/北海道/釧路郡">北海道釧路郡</a>|
+|78|1006|<span class="rank-name-pd">YUTA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8197?s_seq=8197">Queen's Eye</a>|<a href="/darts/rank/北海道/恵庭市">北海道恵庭市</a>|
+|78|1006|<span class="rank-name-pd"><span class="pro-icon-pd"></span>古川 大機</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48599?s_seq=48599">Rush ton80</a>|<a href="/darts/rank/北海道/釧路市">北海道釧路市</a>|
+|78|1006|<span class="rank-name-pd">吉原 大貴</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65822?s_seq=65822">クロスジョイス</a>|<a href="/darts/rank/北海道/恵庭市">北海道恵庭市</a>|
+|81|1005|<span class="rank-name-pd">ISOISO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10491?s_seq=10491">ラウンドワンスタジアム札幌白石店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|81|1005|<span class="rank-name-pd">masa</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65822?s_seq=65822">クロスジョイス</a>|<a href="/darts/rank/北海道/恵庭市">北海道恵庭市</a>|
+|83|1001|<span class="rank-name-pd">HY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69186?s_seq=69186">ポケットナイン</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|84|1000|<span class="rank-name-pd">Takeru</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10491?s_seq=10491">ラウンドワンスタジアム札幌白石店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|84|1000|<span class="rank-name-pd">吉原 大貴</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8670?s_seq=8670">快活CLUB 札幌狸小路店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|86|999|<span class="rank-name-pd">Chiharu.H[F.D.L]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8513?s_seq=8513">VOUG</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|86|999|<span class="rank-name-pd">山口 孝志</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9207?s_seq=9207">CAFE -AA-</a>|<a href="/darts/rank/北海道/釧路郡">北海道釧路郡</a>|
+|88|998|<span class="rank-name-pd">yuriko</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44370?s_seq=44370">快活CLUB 北42条店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|89|997|<span class="rank-name-pd">※※弱※※</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86055?s_seq=86055">CAFE&BAR 空～KUU～</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|90|994|<span class="rank-name-pd">NaO:)siM</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_62790?s_seq=62790">快活CLUB 釧路木場店</a>|<a href="/darts/rank/北海道/釧路市">北海道釧路市</a>|
+|91|991|<span class="rank-name-pd">esah governor</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44370?s_seq=44370">快活CLUB 北42条店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|92|990|<span class="rank-name-pd">晃基(instagram)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9139?s_seq=9139">快活CLUB 厚別東店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|93|988|<span class="rank-name-pd">no-name</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9186?s_seq=9186">自遊空間　苫小牧店</a>|<a href="/darts/rank/北海道/苫小牧市">北海道苫小牧市</a>|
+|94|987|<span class="rank-name-pd">ssb</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10665?s_seq=10665">リミックス スクエア</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|95|985|<span class="rank-name-pd">しーかず</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44370?s_seq=44370">快活CLUB 北42条店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|95|985|<span class="rank-name-pd">ひろぞう（ ZERO）</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88414?s_seq=88414">ライブorダーツ BAR ZERO</a>|<a href="/darts/rank/北海道/旭川市">北海道旭川市</a>|
+|97|984|<span class="rank-name-pd">ビアホリック</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_51355?s_seq=51355">Cafe&Bar&Darts HIDE OUT</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|98|983|<span class="rank-name-pd">隆謙@Cross time 北広島</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_50881?s_seq=50881">ラウンドワン札幌すすきの店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|99|982|<span class="rank-name-pd">Miya</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65174?s_seq=65174">Saloon de Scarf</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
+|100|981|<span class="rank-name-pd">Miya</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_50881?s_seq=50881">ラウンドワン札幌すすきの店</a>|<a href="/darts/rank/北海道/札幌市">北海道札幌市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
