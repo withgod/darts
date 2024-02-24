@@ -5,7 +5,11 @@ var video_player_box = document.querySelector("#video_player_box");
 
 var btn_mute = document.getElementById("btn_mute"),
     btn_play = document.getElementById("btn_play"),
-    btn_loop = document.getElementById('btn_loop');
+    btn_loop = document.getElementById('btn_loop'),
+    btn_copy = document.getElementById('btn_copy'),
+    btn_paste = document.getElementById('btn_paste'),
+    btn_undo = document.getElementById('btn_undo'),
+    btn_redo = document.getElementById('btn_redo');
 
 // http://fabricjs.com/freedrawing
 var canvas = new fabric.Canvas('canvas_player', { isDrawingMode: true }),
@@ -20,13 +24,12 @@ var canvas = new fabric.Canvas('canvas_player', { isDrawingMode: true }),
 
 clearEl.onclick = function () { canvas.clear() };
 
-
 addVLine.onclick = function () {
-    console.log('add vline');
+    // console.log('add vline');
     const videoHeight = video.clientHeight, videoWidth = video.clientWidth;
     const vlineLength = parseInt(videoHeight * 0.85, 10);
     const vlinex = parseInt(videoWidth * 0.1, 10), vliney = parseInt(videoHeight * 0.1, 10);
-    console.dir([videoHeight, videoWidth, vlineLength, vlinex, vliney]);
+    // console.dir([videoHeight, videoWidth, vlineLength, vlinex, vliney]);
 
     canvas.add(new fabric.Line(
         [vlinex, vliney, vlinex, vliney + vlineLength], {
@@ -38,11 +41,11 @@ addVLine.onclick = function () {
 
 }
 addHLine.onclick = function () {
-    console.log('add hline');
+    // console.log('add hline');
     const videoHeight = video.clientHeight, videoWidth = video.clientWidth;
     const vlineLength = parseInt(videoWidth * 0.85, 10);
     const vlinex = parseInt(videoWidth * 0.1, 10), vliney = parseInt(videoHeight * 0.1, 10);
-    console.dir([videoHeight, videoWidth, vlineLength, vlinex, vliney]);
+    // console.dir([videoHeight, videoWidth, vlineLength, vlinex, vliney]);
 
     let hline = new fabric.Line(
         [vlinex, vliney, vlinex, vliney + vlineLength], {
@@ -116,6 +119,114 @@ window.addEventListener('load', () => {
     });
 });
 
+// http://fabricjs.com/copypaste
+
+//console.dir(btn_copy);
+var _clipboard;
+function fn_draw_copy() {
+    canvas.getActiveObject().clone(function (cloned) {
+        _clipboard = cloned;
+    });
+}
+function fn_draw_paste() {
+    // clone again, so you can do multiple copies.
+    _clipboard.clone(function (clonedObj) {
+        canvas.discardActiveObject();
+        clonedObj.set({
+            left: clonedObj.left + 10,
+            top: clonedObj.top + 10,
+            evented: true,
+        });
+        if (clonedObj.type === 'activeSelection') {
+            // active selection needs a reference to the canvas.
+            clonedObj.canvas = canvas;
+            clonedObj.forEachObject(function (obj) {
+                canvas.add(obj);
+            });
+            // this should solve the unselectability
+            clonedObj.setCoords();
+        } else {
+            canvas.add(clonedObj);
+        }
+        _clipboard.top += 10;
+        _clipboard.left += 10;
+        canvas.setActiveObject(clonedObj);
+        canvas.requestRenderAll();
+    });
+}
+
+btn_copy.addEventListener(`click`, fn_draw_copy);
+btn_paste.addEventListener(`click`, fn_draw_paste);
+
+// https://codepen.io/Jadev/pen/mLNzmB
+var isRedoing = false;
+var _history = [];
+
+canvas.on('object:added', function () {
+    if (!isRedoing) {
+        _history = [];
+    }
+    isRedoing = false;
+});
+
+function fn_draw_undo() {
+    if (canvas._objects.length > 0) {
+        _history.push(canvas._objects.pop());
+        canvas.renderAll();
+    }
+}
+function fn_draw_redo() {
+    if (_history.length > 0) {
+        isRedoing = true;
+        canvas.add(_history.pop());
+    }
+}
+btn_undo.addEventListener(`click`, fn_draw_undo);
+btn_redo.addEventListener(`click`, fn_draw_redo);
+
+// https://jsfiddle.net/tg_alfa/1nyuzkhy/
+function onKeyDownHandler(event) {
+    //event.preventDefault();
+    var key;
+    if (window.event) {
+        key = window.event.keyCode;
+    }
+    else {
+        key = event.keyCode;
+    }
+
+    switch (key) {
+        // Shortcuts
+        case 67: // Ctrl+C
+            if (event.ctrlKey || event.metaKey) {
+                event.preventDefault();
+                fn_draw_copy();
+            }
+            break;
+        // Paste (Ctrl+V)
+        case 86: // Ctrl+V
+            if (event.ctrlKey || event.metaKey) {
+                event.preventDefault();
+                fn_draw_paste();
+            }
+            break;
+        case 90: // Ctrl+Z
+            if ((event.ctrlKey || event.metaKey) && event.shiftKey) {
+                event.preventDefault();
+                fn_draw_redo();
+            } else if (event.ctrlKey || event.metaKey) {
+                event.preventDefault();
+                fn_draw_undo();
+            }
+            break;
+
+        default:
+            // TODO
+            break;
+    }
+}
+
+document.onkeydown = onKeyDownHandler;
 
 btn_loop.addEventListener(`click`, function () {
     if (!video.loop) {
@@ -167,6 +278,7 @@ btn_play.addEventListener(`click`, function () {
 });
 
 
+// resize handling
 document.addEventListener('DOMContentLoaded', function () {
     //console.dir([video.clientHeight, video.clientWidth]);
     canvas.setHeight(video.clientHeight);

@@ -10,10 +10,12 @@
     <link href="./form_check.css" rel="stylesheet">
     <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
     <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-PY88H450GX');
+        if (location.hostname !== "localhost" && location.hostname !== "127.0.0.1") {
+            window.dataLayer = window.dataLayer || [];
+            function gtag() { dataLayer.push(arguments); }
+            gtag('js', new Date());
+            gtag('config', 'G-PY88H450GX');
+        }
     </script>
 </head>
 
@@ -28,8 +30,12 @@
         <div style="display: inline-block;">
             <button id="drawing-mode" class="btn btn-info">Enter drawing mode</button>
             <button id="add-vline" class="btn btn-info">Add VLine</button>
-            <button id="add-hline" class="btn btn-info">Add HLine</button>
-            <button id="clear-canvas" class="btn btn-info">Clear</button><br />
+            <button id="add-hline" class="btn btn-info">Add HLine</button><br />
+            <button id="btn_copy" class="btn btn-info">Copy(C-c)</button>
+            <button id="btn_paste" class="btn btn-info">Paste(C-v)</button>
+            <button id="btn_undo" class="btn btn-info">Und(C-z)</button>
+            <button id="btn_redo" class="btn btn-info">Redo(C-Z)</button>
+            <button id="clear-canvas" class="btn btn-info">Clear</button>
 
             <div id="drawing-mode-options">
                 <label for="drawing-line-width">Line width:</label>
@@ -43,7 +49,8 @@
             <button type="button" class="btn btn-outline-primary" id="btn_loop"><i class="bi bi-repeat"></i></button>
             <button type="button" class="btn btn-primary" id="btn_mute"><i class="bi bi-volume-mute"></i></button>
             <div class="btn-group" role="group" aria-label="play speed group">
-                <input type="radio" class="btn-check" name="btnPlayRate" id="btnradio10" value="10" autocomplete="off" checked>
+                <input type="radio" class="btn-check" name="btnPlayRate" id="btnradio10" value="10" autocomplete="off"
+                    checked>
                 <label class="btn btn-outline-primary" for="btnradio10">1.0</label>
                 <input type="radio" class="btn-check" name="btnPlayRate" id="btnradio05" value="05" autocomplete="off">
                 <label class="btn btn-outline-primary" for="btnradio05">0.5</label>
