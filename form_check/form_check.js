@@ -4,7 +4,8 @@ var video_player_box = document.querySelector("#video_player_box");
 
 
 var btn_mute = document.getElementById("btn_mute"),
-    btn_play = document.getElementById("btn_play");
+    btn_play = document.getElementById("btn_play"),
+    btn_loop = document.getElementById('btn_loop');
 
 // http://fabricjs.com/freedrawing
 var canvas = new fabric.Canvas('canvas_player', { isDrawingMode: true }),
@@ -115,55 +116,56 @@ window.addEventListener('load', () => {
     });
 });
 
-function btn_loop() {
-    var btn_loop = document.querySelector('#loop_check');
-    // console.dir([btn_loop, btn_loop.checked]);
-    if (btn_loop.checked) {
+
+btn_loop.addEventListener(`click`, function () {
+    if (!video.loop) {
         video.loop = true;
+        btn_loop.classList.remove('btn-outline-primary');
+        btn_loop.classList.add('btn-primary');
     } else {
         video.loop = false;
+        btn_loop.classList.remove('btn-primary');
+        btn_loop.classList.add('btn-outline-primary');
     }
-}
-
-function fn_btn_mute() {
-    if (video.muted) {
-        video.muted = false;
-        btn_mute.innerHTML = '<i class="bi bi-volume-up"></i>'
-    } else {
+});
+btn_mute.addEventListener(`click`, function () {
+    if (!video.muted) {
         video.muted = true;
-        btn_mute.innerHTML = '<i class="bi bi-volume-mute"></i>'
+        btn_mute.classList.remove('btn-outline-primary');
+        btn_mute.classList.add('btn-primary');
+    } else {
+        video.muted = false;
+        btn_mute.classList.remove('btn-primary');
+        btn_mute.classList.add('btn-outline-primary');
     }
-}
+});
 
 let playrateRadios = document.querySelectorAll(`input[type='radio'][name='btnPlayRate']`);
 for (let target of playrateRadios) {
-	target.addEventListener(`change`, function () {
+    target.addEventListener(`change`, function () {
         let rate = target.value / 10;
         video.playbackRate = rate;
-	});
+    });
 }
 
 video.addEventListener("ended", (event) => {
-    btn_play.innerHTML = '<i class="bi bi-play"></i>'
+    btn_play.classList.remove('btn-outline-primary');
+    btn_play.classList.add('btn-primary');
 });
 
-var play_state = 0;
-function fn_btn_play() {
-    // console.log("btn.play");
-    if (play_state == 0) {
-        play_state = 1;
+btn_play.addEventListener(`click`, function () {
+    if (video.paused) {
         video.play();
-        btn_play.innerHTML = '<i class="bi bi-stop"></i>'
-    } else {
-        play_state = 0;
-        video.pause();
-        btn_play.innerHTML = '<i class="bi bi-play"></i>'
-    }
-}
+        btn_play.classList.remove('btn-outline-primary');
+        btn_play.classList.add('btn-primary');
 
-function fn_btn_speed(speed) {
-    video.playbackRate = speed;
-}
+    } else {
+        video.pause();
+        btn_play.classList.remove('btn-primary');
+        btn_play.classList.add('btn-outline-primary');
+    }
+});
+
 
 document.addEventListener('DOMContentLoaded', function () {
     //console.dir([video.clientHeight, video.clientWidth]);
@@ -190,3 +192,49 @@ const observer = new ResizeObserver((entries) => {
     canvas.setWidth(video.clientWidth);
     canvas.renderAll();
 });
+
+// https://qiita.com/jerrywdlee/items/60934ca7b89cfe7baf13
+// https://www.crunchtimer.jp/blog/18169
+// not implements
+/*
+function fn_btn_download() {
+    video.currentTime = 0;
+    video.loop = false;
+    const recordedBlobs = [];
+    stream = document.querySelector('canvas').captureStream();
+    const options = { mimeType: 'video/webm;codecs=vp9,opus' };
+    mediaRecorder = new MediaRecorder(stream, options);
+    mediaRecorder.ondataavailable = (event) => {
+        if (event.data && event.data.size > 0) {
+            recordedBlobs.push(event.data);
+        }
+    };
+    mediaRecorder.start();
+    mediaRecorder.onstop = () => {
+        recordVideo.srcObject.getTracks().forEach(track => track.stop());
+    };
+    video.start();
+    function move_end_fn(event) {
+
+    }
+    video.addEventListener("ended", (event) => {
+        console.log(
+            "1）動画が終了した、または 2）それ以上データがない" +
+            "ため、動画が停止しました。",
+        );
+    });
+
+    const blob = new Blob(recordedBlobs, { type: 'video/webm' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.style.display = 'none';
+    a.href = url;
+    a.download = '録画ファイル.webm';
+    document.body.appendChild(a);
+    a.click();
+    setTimeout(() => {
+        document.body.removeChild(a);
+        URL.revokeObjectURL(url);
+    }, 100);
+}
+*/

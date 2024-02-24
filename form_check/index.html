@@ -39,7 +39,9 @@
             </div>
         </div>
         <div class="mb-3">
-            <button type="button" class="btn btn-primary" onclick="fn_btn_play()" id="btn_play"><i class="bi bi-play"></i></button>
+            <button type="button" class="btn btn-outline-primary" id="btn_play"><i class="bi bi-play"></i></button>
+            <button type="button" class="btn btn-outline-primary" id="btn_loop"><i class="bi bi-repeat"></i></button>
+            <button type="button" class="btn btn-primary" id="btn_mute"><i class="bi bi-volume-mute"></i></button>
             <div class="btn-group" role="group" aria-label="play speed group">
                 <input type="radio" class="btn-check" name="btnPlayRate" id="btnradio10" value="10" autocomplete="off" checked>
                 <label class="btn btn-outline-primary" for="btnradio10">1.0</label>
@@ -52,11 +54,6 @@
                 <input type="radio" class="btn-check" name="btnPlayRate" id="btnradio01" value="01" autocomplete="off">
                 <label class="btn btn-outline-primary" for="btnradio01">0.1</label>
             </div>
-            <input class="form-check-input" type="checkbox" value="" id="loop_check" onchange="btn_loop()">
-            <label class="form-check-label" for="loop_check">
-                loop
-            </label>
-            <button type="button" class="btn btn-primary" onclick="fn_btn_mute()" id="btn_mute"><i class="bi bi-volume-mute"></i></button>
         </div>
     </div>
     </div>
