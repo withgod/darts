@@ -1,0 +1,28 @@
+.combined_box {
+    position: relative;
+    width: 100%;
+    border: 1px solid;
+}
+
+.controler_box {
+    margin-left: 20px;
+}
+
+.canvas_box,.video_box {
+    position: absolute;
+}
+
+.canvas_box {
+    z-index: 10;
+    border: 1px dotted green;
+}
+
+.video_box {
+    width: 100%;
+    border: 1px dotted blue;
+}
+
+.debug_box {
+    width: 100%;
+    max-height: 300px;
+}
