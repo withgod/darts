@@ -5,6 +5,7 @@ var video_player_box = document.querySelector("#video_player_box");
 
 var btn_mute = document.getElementById("btn_mute"),
     btn_play = document.getElementById("btn_play"),
+    btn_back = document.getElementById("btn_back"),
     btn_loop = document.getElementById('btn_loop'),
     btn_copy = document.getElementById('btn_copy'),
     btn_paste = document.getElementById('btn_paste'),
@@ -276,7 +277,9 @@ btn_play.addEventListener(`click`, function () {
         btn_play.classList.add('btn-outline-primary');
     }
 });
-
+btn_back.addEventListener(`click`, function () {
+    video.currentTime = 0;
+});
 
 // resize handling
 document.addEventListener('DOMContentLoaded', function () {
