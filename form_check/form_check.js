@@ -221,6 +221,9 @@ function onKeyDownHandler(event) {
                 fn_draw_undo();
             }
             break;
+        // case 32: // Space 何故かDL始まる…
+        //     btn_play.click();
+        //     break;
 
         default:
             // TODO
@@ -253,9 +256,9 @@ btn_mute.addEventListener(`click`, function () {
     }
 });
 
-btn_download.addEventListener(`click`, function () {
-    fn_btn_download();
-});
+// btn_download.addEventListener(`click`, function () {
+//     fn_btn_download();
+// });
 
 let playrateRadios = document.querySelectorAll(`input[type='radio'][name='btnPlayRate']`);
 for (let target of playrateRadios) {
@@ -316,6 +319,7 @@ const observer = new ResizeObserver((entries) => {
 // https://qiita.com/jerrywdlee/items/60934ca7b89cfe7baf13
 // https://www.crunchtimer.jp/blog/18169
 // 未実装 video+canvs 録画出来るかも謎
+/*
 function fn_btn_download() {
     video.currentTime = 0;
     video.loop = false;
@@ -336,7 +340,7 @@ function fn_btn_download() {
     };
     video.play();
     function move_end_fn(event) {
-        video.removeEventListener("ended",move_end_fn);
+        video.removeEventListener("ended", move_end_fn);
         mediaRecorder.stop();
         const blob = new Blob(recordedBlobs, { type: mime });
         const url = URL.createObjectURL(blob);
@@ -356,6 +360,6 @@ function fn_btn_download() {
         );
 
     }
-    video.addEventListener("ended",move_end_fn);
+    video.addEventListener("ended", move_end_fn);
 
-}
+} */
