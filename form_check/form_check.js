@@ -10,7 +10,8 @@ var btn_mute = document.getElementById("btn_mute"),
     btn_copy = document.getElementById('btn_copy'),
     btn_paste = document.getElementById('btn_paste'),
     btn_undo = document.getElementById('btn_undo'),
-    btn_redo = document.getElementById('btn_redo');
+    btn_redo = document.getElementById('btn_redo'),
+    btn_download = document.getElementById('btn_download');
 
 // http://fabricjs.com/freedrawing
 var canvas = new fabric.Canvas('canvas_player', { isDrawingMode: true }),
@@ -252,6 +253,10 @@ btn_mute.addEventListener(`click`, function () {
     }
 });
 
+btn_download.addEventListener(`click`, function () {
+    fn_btn_download();
+});
+
 let playrateRadios = document.querySelectorAll(`input[type='radio'][name='btnPlayRate']`);
 for (let target of playrateRadios) {
     target.addEventListener(`change`, function () {
@@ -310,14 +315,14 @@ const observer = new ResizeObserver((entries) => {
 
 // https://qiita.com/jerrywdlee/items/60934ca7b89cfe7baf13
 // https://www.crunchtimer.jp/blog/18169
-// not implements
-/*
+// 未実装 video+canvs 録画出来るかも謎
 function fn_btn_download() {
     video.currentTime = 0;
     video.loop = false;
     const recordedBlobs = [];
     stream = document.querySelector('canvas').captureStream();
-    const options = { mimeType: 'video/webm;codecs=vp9,opus' };
+    const mime = MediaRecorder.isTypeSupported("video/webm; codecs=vp9") ? "video/webm; codecs=vp9" : "video/webm";
+    const options = { mimeType: mime };
     mediaRecorder = new MediaRecorder(stream, options);
     mediaRecorder.ondataavailable = (event) => {
         if (event.data && event.data.size > 0) {
@@ -326,30 +331,31 @@ function fn_btn_download() {
     };
     mediaRecorder.start();
     mediaRecorder.onstop = () => {
-        recordVideo.srcObject.getTracks().forEach(track => track.stop());
+        //video.srcObject.getTracks().forEach(track => track.stop());
+        //const blob = new Blob(recordedBlobs, { type: recordedBlobs[0].type });
     };
-    video.start();
+    video.play();
     function move_end_fn(event) {
-
-    }
-    video.addEventListener("ended", (event) => {
+        video.removeEventListener("ended",move_end_fn);
+        mediaRecorder.stop();
+        const blob = new Blob(recordedBlobs, { type: mime });
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.style.display = 'none';
+        a.href = url;
+        a.download = '録画ファイル.webm';
+        document.body.appendChild(a);
+        a.click();
+        setTimeout(() => {
+            document.body.removeChild(a);
+            URL.revokeObjectURL(url);
+        }, 100);
         console.log(
             "1）動画が終了した、または 2）それ以上データがない" +
             "ため、動画が停止しました。",
         );
-    });
 
-    const blob = new Blob(recordedBlobs, { type: 'video/webm' });
-    const url = URL.createObjectURL(blob);
-    const a = document.createElement('a');
-    a.style.display = 'none';
-    a.href = url;
-    a.download = '録画ファイル.webm';
-    document.body.appendChild(a);
-    a.click();
-    setTimeout(() => {
-        document.body.removeChild(a);
-        URL.revokeObjectURL(url);
-    }, 100);
+    }
+    video.addEventListener("ended",move_end_fn);
+
 }
-*/
