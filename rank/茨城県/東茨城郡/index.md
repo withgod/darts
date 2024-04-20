@@ -23,21 +23,27 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|857|<span class="rank-name-dl">用具屋R!</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
-|2|844|<span class="rank-name-dl">ゆき☆まる</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
-|3|705|<span class="rank-name-dl">てんす だ余</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
-|4|546|<span class="rank-name-dl">Agito</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
-|5|503|<span class="rank-name-dl">三毛猫解散</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
-|6|486|<span class="rank-name-dl">Ｋ－1</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
-|7|484|<span class="rank-name-dl">抹っ茶ん</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
-|8|482|<span class="rank-name-dl">kn</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
-|9|471|<span class="rank-name-dl">た</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
-|10|459|<span class="rank-name-dl">つっきー</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
-|10|459|<span class="rank-name-dl">らんらん</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
-|12|450|<span class="rank-name-dl">リュイ</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
-|13|444|<span class="rank-name-dl">yami_5656</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
-|14|435|<span class="rank-name-dl">ゆびぃ</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
-|15|371|<span class="rank-name-dl">HOKULEI!inなお</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
+|1|871|<span class="rank-name-dl">青木 拓也</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
+|2|857|<span class="rank-name-dl">用具屋R!</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
+|3|844|<span class="rank-name-dl">ゆき☆まる</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
+|4|705|<span class="rank-name-dl">てんす だ余</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
+|5|619|<span class="rank-name-dl">-H！R０-【dcs】</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
+|6|581|<span class="rank-name-dl">フジちゃん</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
+|7|546|<span class="rank-name-dl">Agito</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
+|8|503|<span class="rank-name-dl">三毛猫解散</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
+|8|503|<span class="rank-name-dl">柴田洋行</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
+|10|486|<span class="rank-name-dl">Ｋ－1</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
+|11|484|<span class="rank-name-dl">抹っ茶ん</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
+|12|482|<span class="rank-name-dl">kn</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
+|13|471|<span class="rank-name-dl">た</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
+|14|468|<span class="rank-name-dl">れんこん</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
+|15|459|<span class="rank-name-dl">つっきー</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
+|15|459|<span class="rank-name-dl">らんらん</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
+|17|450|<span class="rank-name-dl">リュイ</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
+|18|445|<span class="rank-name-dl">アズキ</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
+|19|444|<span class="rank-name-dl">yami_5656</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
+|20|435|<span class="rank-name-dl">ゆびぃ</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
+|21|371|<span class="rank-name-dl">HOKULEI!inなお</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -47,21 +53,27 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|857|<span class="rank-name-dl">用具屋R!</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
-|2|844|<span class="rank-name-dl">ゆき☆まる</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
-|3|705|<span class="rank-name-dl">てんす だ余</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
-|4|546|<span class="rank-name-dl">Agito</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
-|5|503|<span class="rank-name-dl">三毛猫解散</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
-|6|486|<span class="rank-name-dl">Ｋ－1</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
-|7|484|<span class="rank-name-dl">抹っ茶ん</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
-|8|482|<span class="rank-name-dl">kn</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
-|9|471|<span class="rank-name-dl">た</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
-|10|459|<span class="rank-name-dl">つっきー</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
-|10|459|<span class="rank-name-dl">らんらん</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
-|12|450|<span class="rank-name-dl">リュイ</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
-|13|444|<span class="rank-name-dl">yami_5656</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
-|14|435|<span class="rank-name-dl">ゆびぃ</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
-|15|371|<span class="rank-name-dl">HOKULEI!inなお</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
+|1|871|<span class="rank-name-dl">青木 拓也</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
+|2|857|<span class="rank-name-dl">用具屋R!</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
+|3|844|<span class="rank-name-dl">ゆき☆まる</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
+|4|705|<span class="rank-name-dl">てんす だ余</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
+|5|619|<span class="rank-name-dl">-H！R０-【dcs】</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
+|6|581|<span class="rank-name-dl">フジちゃん</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
+|7|546|<span class="rank-name-dl">Agito</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
+|8|503|<span class="rank-name-dl">三毛猫解散</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
+|8|503|<span class="rank-name-dl">柴田洋行</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
+|10|486|<span class="rank-name-dl">Ｋ－1</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
+|11|484|<span class="rank-name-dl">抹っ茶ん</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
+|12|482|<span class="rank-name-dl">kn</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
+|13|471|<span class="rank-name-dl">た</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
+|14|468|<span class="rank-name-dl">れんこん</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
+|15|459|<span class="rank-name-dl">つっきー</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
+|15|459|<span class="rank-name-dl">らんらん</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
+|17|450|<span class="rank-name-dl">リュイ</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
+|18|445|<span class="rank-name-dl">アズキ</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
+|19|444|<span class="rank-name-dl">yami_5656</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
+|20|435|<span class="rank-name-dl">ゆびぃ</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
+|21|371|<span class="rank-name-dl">HOKULEI!inなお</span>|<a href="https://search.dartslive.com/jp/shop/56e50eb4890c18c60d9b047a20a7ba1e">タイトーステーション 水戸南店</a>|<a href="/darts/rank/茨城県/東茨城郡">茨城県東茨城郡</a>|
 
 
 #### PHOENIXDARTS TOP 100

@@ -28,6 +28,7 @@ ___
 |3|759|<span class="rank-name-dl">H.NOUCHI＠TBS</span>|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
 |4|423|<span class="rank-name-dl">NO NAME 8208</span>|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
 |5|392|<span class="rank-name-dl">yuta</span>|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
+|6|368|<span class="rank-name-dl">コカコーラ</span>|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -42,6 +43,7 @@ ___
 |3|759|<span class="rank-name-dl">H.NOUCHI＠TBS</span>|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
 |4|423|<span class="rank-name-dl">NO NAME 8208</span>|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
 |5|392|<span class="rank-name-dl">yuta</span>|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
+|6|368|<span class="rank-name-dl">コカコーラ</span>|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
 
 
 #### PHOENIXDARTS TOP 100

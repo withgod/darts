@@ -25,19 +25,31 @@ ___
 |---|---|---|---|---|
 |1|975|<span class="rank-name-pd">KAZUKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
 |2|951|<span class="rank-name-pd">カメレオン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
-|3|838|<span class="rank-name-pd">GYAFUN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
-|4|799|<span class="rank-name-pd">徳山 励起</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
-|5|796|<span class="rank-name-pd">担々麺 (甘口)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
-|6|785|<span class="rank-name-pd">しんちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
-|7|714|<span class="rank-name-pd"><span class="pro-icon-pd"></span>長谷川 雄亮</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
-|8|693|<span class="rank-name-pd">~DRAGON~</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
-|9|680|<span class="rank-name-pd">まーにゃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
-|10|677|<span class="rank-name-pd">はせぼん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
-|11|586|<span class="rank-name-pd">☆花★</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
-|12|585|<span class="rank-name-pd">ゆっこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
-|13|562|<span class="rank-name-pd">2525</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
-|14|435|<span class="rank-name-pd">Lenofin</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
-|15|330|<span class="rank-name-pd">0265_0619</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
+|3|849|<span class="rank-name-pd">しんちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
+|4|838|<span class="rank-name-pd">GYAFUN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
+|4|838|<span class="rank-name-pd">しょーGO!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
+|6|829|<span class="rank-name-pd">飛</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
+|7|804|<span class="rank-name-pd">まひる→P</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
+|7|804|<span class="rank-name-pd">めぐりゅ～</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
+|9|802|<span class="rank-name-pd">花</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
+|10|799|<span class="rank-name-pd">徳山 励起</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
+|11|796|<span class="rank-name-pd">担々麺 (甘口)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
+|12|714|<span class="rank-name-pd"><span class="pro-icon-pd"></span>長谷川 雄亮</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
+|13|703|<span class="rank-name-pd">ちたね(´･ω･｀)ﾀﾋ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
+|14|693|<span class="rank-name-pd">~DRAGON~</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
+|15|680|<span class="rank-name-pd">まーにゃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
+|16|677|<span class="rank-name-pd">はせぼん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
+|17|648|<span class="rank-name-pd">こちゃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
+|18|586|<span class="rank-name-pd">☆花★</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
+|19|585|<span class="rank-name-pd">ゆっこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
+|20|562|<span class="rank-name-pd">2525</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
+|21|561|<span class="rank-name-pd">0213_8322</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
+|22|441|<span class="rank-name-pd">＊あいちゃん＊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
+|23|435|<span class="rank-name-pd">Lenofin</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
+|24|434|<span class="rank-name-pd">MICHIKIYO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
+|25|420|<span class="rank-name-pd">SUMMER</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
+|26|339|<span class="rank-name-pd">アメイジングガンバ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
+|27|330|<span class="rank-name-pd">0265_0619</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -59,19 +71,31 @@ ___
 |---|---|---|---|---|
 |1|975|<span class="rank-name-pd">KAZUKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
 |2|951|<span class="rank-name-pd">カメレオン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
-|3|838|<span class="rank-name-pd">GYAFUN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
-|4|799|<span class="rank-name-pd">徳山 励起</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
-|5|796|<span class="rank-name-pd">担々麺 (甘口)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
-|6|785|<span class="rank-name-pd">しんちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
-|7|714|<span class="rank-name-pd"><span class="pro-icon-pd"></span>長谷川 雄亮</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
-|8|693|<span class="rank-name-pd">~DRAGON~</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
-|9|680|<span class="rank-name-pd">まーにゃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
-|10|677|<span class="rank-name-pd">はせぼん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
-|11|586|<span class="rank-name-pd">☆花★</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
-|12|585|<span class="rank-name-pd">ゆっこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
-|13|562|<span class="rank-name-pd">2525</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
-|14|435|<span class="rank-name-pd">Lenofin</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
-|15|330|<span class="rank-name-pd">0265_0619</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
+|3|849|<span class="rank-name-pd">しんちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
+|4|838|<span class="rank-name-pd">GYAFUN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
+|4|838|<span class="rank-name-pd">しょーGO!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
+|6|829|<span class="rank-name-pd">飛</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
+|7|804|<span class="rank-name-pd">まひる→P</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
+|7|804|<span class="rank-name-pd">めぐりゅ～</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
+|9|802|<span class="rank-name-pd">花</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
+|10|799|<span class="rank-name-pd">徳山 励起</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
+|11|796|<span class="rank-name-pd">担々麺 (甘口)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
+|12|714|<span class="rank-name-pd"><span class="pro-icon-pd"></span>長谷川 雄亮</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
+|13|703|<span class="rank-name-pd">ちたね(´･ω･｀)ﾀﾋ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
+|14|693|<span class="rank-name-pd">~DRAGON~</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
+|15|680|<span class="rank-name-pd">まーにゃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
+|16|677|<span class="rank-name-pd">はせぼん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
+|17|648|<span class="rank-name-pd">こちゃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
+|18|586|<span class="rank-name-pd">☆花★</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
+|19|585|<span class="rank-name-pd">ゆっこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
+|20|562|<span class="rank-name-pd">2525</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
+|21|561|<span class="rank-name-pd">0213_8322</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
+|22|441|<span class="rank-name-pd">＊あいちゃん＊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
+|23|435|<span class="rank-name-pd">Lenofin</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
+|24|434|<span class="rank-name-pd">MICHIKIYO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
+|25|420|<span class="rank-name-pd">SUMMER</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
+|26|339|<span class="rank-name-pd">アメイジングガンバ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
+|27|330|<span class="rank-name-pd">0265_0619</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_48031?s_seq=48031">快活CLUB 大和郡山店</a>|<a href="/darts/rank/奈良県/大和郡">奈良県大和郡</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

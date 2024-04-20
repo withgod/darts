@@ -24,13 +24,14 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|823|<span class="rank-name-dl">テフロンＭ</span>|<a href="https://search.dartslive.com/jp/shop/59b68c0c9d8f84af25d56fb0e5c39bac">Darts Bar TANTO</a>|<a href="/darts/rank/北海道/川上郡">北海道川上郡</a>|
-|2|735|<span class="rank-name-dl">AKILLER@ﾊｲﾌﾞﾘｯｼﾞ</span>|<a href="https://search.dartslive.com/jp/shop/59b68c0c9d8f84af25d56fb0e5c39bac">Darts Bar TANTO</a>|<a href="/darts/rank/北海道/川上郡">北海道川上郡</a>|
-|3|609|<span class="rank-name-dl">たか</span>|<a href="https://search.dartslive.com/jp/shop/59b68c0c9d8f84af25d56fb0e5c39bac">Darts Bar TANTO</a>|<a href="/darts/rank/北海道/川上郡">北海道川上郡</a>|
-|4|554|<span class="rank-name-dl">阿萬</span>|<a href="https://search.dartslive.com/jp/shop/59b68c0c9d8f84af25d56fb0e5c39bac">Darts Bar TANTO</a>|<a href="/darts/rank/北海道/川上郡">北海道川上郡</a>|
-|5|526|<span class="rank-name-dl">ゆみ</span>|<a href="https://search.dartslive.com/jp/shop/59b68c0c9d8f84af25d56fb0e5c39bac">Darts Bar TANTO</a>|<a href="/darts/rank/北海道/川上郡">北海道川上郡</a>|
-|5|526|<span class="rank-name-dl">りく</span>|<a href="https://search.dartslive.com/jp/shop/59b68c0c9d8f84af25d56fb0e5c39bac">Darts Bar TANTO</a>|<a href="/darts/rank/北海道/川上郡">北海道川上郡</a>|
-|7|451|<span class="rank-name-dl">∋==T=A=K=A==⇒</span>|<a href="https://search.dartslive.com/jp/shop/59b68c0c9d8f84af25d56fb0e5c39bac">Darts Bar TANTO</a>|<a href="/darts/rank/北海道/川上郡">北海道川上郡</a>|
-|8|448|<span class="rank-name-dl">ケンチクン</span>|<a href="https://search.dartslive.com/jp/shop/59b68c0c9d8f84af25d56fb0e5c39bac">Darts Bar TANTO</a>|<a href="/darts/rank/北海道/川上郡">北海道川上郡</a>|
+|2|785|<span class="rank-name-dl">AKILLER@ﾊｲﾌﾞﾘｯｼﾞ</span>|<a href="https://search.dartslive.com/jp/shop/59b68c0c9d8f84af25d56fb0e5c39bac">Darts Bar TANTO</a>|<a href="/darts/rank/北海道/川上郡">北海道川上郡</a>|
+|3|755|<span class="rank-name-dl">ケンチクン</span>|<a href="https://search.dartslive.com/jp/shop/59b68c0c9d8f84af25d56fb0e5c39bac">Darts Bar TANTO</a>|<a href="/darts/rank/北海道/川上郡">北海道川上郡</a>|
+|4|680|<span class="rank-name-dl">タカマルコ</span>|<a href="https://search.dartslive.com/jp/shop/59b68c0c9d8f84af25d56fb0e5c39bac">Darts Bar TANTO</a>|<a href="/darts/rank/北海道/川上郡">北海道川上郡</a>|
+|5|609|<span class="rank-name-dl">たか</span>|<a href="https://search.dartslive.com/jp/shop/59b68c0c9d8f84af25d56fb0e5c39bac">Darts Bar TANTO</a>|<a href="/darts/rank/北海道/川上郡">北海道川上郡</a>|
+|6|560|<span class="rank-name-dl">ゆみ</span>|<a href="https://search.dartslive.com/jp/shop/59b68c0c9d8f84af25d56fb0e5c39bac">Darts Bar TANTO</a>|<a href="/darts/rank/北海道/川上郡">北海道川上郡</a>|
+|7|554|<span class="rank-name-dl">阿萬</span>|<a href="https://search.dartslive.com/jp/shop/59b68c0c9d8f84af25d56fb0e5c39bac">Darts Bar TANTO</a>|<a href="/darts/rank/北海道/川上郡">北海道川上郡</a>|
+|8|526|<span class="rank-name-dl">りく</span>|<a href="https://search.dartslive.com/jp/shop/59b68c0c9d8f84af25d56fb0e5c39bac">Darts Bar TANTO</a>|<a href="/darts/rank/北海道/川上郡">北海道川上郡</a>|
+|9|451|<span class="rank-name-dl">∋==T=A=K=A==⇒</span>|<a href="https://search.dartslive.com/jp/shop/59b68c0c9d8f84af25d56fb0e5c39bac">Darts Bar TANTO</a>|<a href="/darts/rank/北海道/川上郡">北海道川上郡</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -41,13 +42,14 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|823|<span class="rank-name-dl">テフロンＭ</span>|<a href="https://search.dartslive.com/jp/shop/59b68c0c9d8f84af25d56fb0e5c39bac">Darts Bar TANTO</a>|<a href="/darts/rank/北海道/川上郡">北海道川上郡</a>|
-|2|735|<span class="rank-name-dl">AKILLER@ﾊｲﾌﾞﾘｯｼﾞ</span>|<a href="https://search.dartslive.com/jp/shop/59b68c0c9d8f84af25d56fb0e5c39bac">Darts Bar TANTO</a>|<a href="/darts/rank/北海道/川上郡">北海道川上郡</a>|
-|3|609|<span class="rank-name-dl">たか</span>|<a href="https://search.dartslive.com/jp/shop/59b68c0c9d8f84af25d56fb0e5c39bac">Darts Bar TANTO</a>|<a href="/darts/rank/北海道/川上郡">北海道川上郡</a>|
-|4|554|<span class="rank-name-dl">阿萬</span>|<a href="https://search.dartslive.com/jp/shop/59b68c0c9d8f84af25d56fb0e5c39bac">Darts Bar TANTO</a>|<a href="/darts/rank/北海道/川上郡">北海道川上郡</a>|
-|5|526|<span class="rank-name-dl">ゆみ</span>|<a href="https://search.dartslive.com/jp/shop/59b68c0c9d8f84af25d56fb0e5c39bac">Darts Bar TANTO</a>|<a href="/darts/rank/北海道/川上郡">北海道川上郡</a>|
-|5|526|<span class="rank-name-dl">りく</span>|<a href="https://search.dartslive.com/jp/shop/59b68c0c9d8f84af25d56fb0e5c39bac">Darts Bar TANTO</a>|<a href="/darts/rank/北海道/川上郡">北海道川上郡</a>|
-|7|451|<span class="rank-name-dl">∋==T=A=K=A==⇒</span>|<a href="https://search.dartslive.com/jp/shop/59b68c0c9d8f84af25d56fb0e5c39bac">Darts Bar TANTO</a>|<a href="/darts/rank/北海道/川上郡">北海道川上郡</a>|
-|8|448|<span class="rank-name-dl">ケンチクン</span>|<a href="https://search.dartslive.com/jp/shop/59b68c0c9d8f84af25d56fb0e5c39bac">Darts Bar TANTO</a>|<a href="/darts/rank/北海道/川上郡">北海道川上郡</a>|
+|2|785|<span class="rank-name-dl">AKILLER@ﾊｲﾌﾞﾘｯｼﾞ</span>|<a href="https://search.dartslive.com/jp/shop/59b68c0c9d8f84af25d56fb0e5c39bac">Darts Bar TANTO</a>|<a href="/darts/rank/北海道/川上郡">北海道川上郡</a>|
+|3|755|<span class="rank-name-dl">ケンチクン</span>|<a href="https://search.dartslive.com/jp/shop/59b68c0c9d8f84af25d56fb0e5c39bac">Darts Bar TANTO</a>|<a href="/darts/rank/北海道/川上郡">北海道川上郡</a>|
+|4|680|<span class="rank-name-dl">タカマルコ</span>|<a href="https://search.dartslive.com/jp/shop/59b68c0c9d8f84af25d56fb0e5c39bac">Darts Bar TANTO</a>|<a href="/darts/rank/北海道/川上郡">北海道川上郡</a>|
+|5|609|<span class="rank-name-dl">たか</span>|<a href="https://search.dartslive.com/jp/shop/59b68c0c9d8f84af25d56fb0e5c39bac">Darts Bar TANTO</a>|<a href="/darts/rank/北海道/川上郡">北海道川上郡</a>|
+|6|560|<span class="rank-name-dl">ゆみ</span>|<a href="https://search.dartslive.com/jp/shop/59b68c0c9d8f84af25d56fb0e5c39bac">Darts Bar TANTO</a>|<a href="/darts/rank/北海道/川上郡">北海道川上郡</a>|
+|7|554|<span class="rank-name-dl">阿萬</span>|<a href="https://search.dartslive.com/jp/shop/59b68c0c9d8f84af25d56fb0e5c39bac">Darts Bar TANTO</a>|<a href="/darts/rank/北海道/川上郡">北海道川上郡</a>|
+|8|526|<span class="rank-name-dl">りく</span>|<a href="https://search.dartslive.com/jp/shop/59b68c0c9d8f84af25d56fb0e5c39bac">Darts Bar TANTO</a>|<a href="/darts/rank/北海道/川上郡">北海道川上郡</a>|
+|9|451|<span class="rank-name-dl">∋==T=A=K=A==⇒</span>|<a href="https://search.dartslive.com/jp/shop/59b68c0c9d8f84af25d56fb0e5c39bac">Darts Bar TANTO</a>|<a href="/darts/rank/北海道/川上郡">北海道川上郡</a>|
 
 
 #### PHOENIXDARTS TOP 100

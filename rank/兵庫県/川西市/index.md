@@ -27,32 +27,59 @@ ___
 |2|1024|<span class="rank-name-dl">Soga</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
 |3|1019|<span class="rank-name-dl">冨田　耕平</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
 |4|968|<span class="rank-name-dl">king.kohei.007</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
-|5|957|<span class="rank-name-dl">Taichan</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
-|6|932|<span class="rank-name-dl">おすん</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
-|7|923|<span class="rank-name-dl">450だはぁ～ん♂</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
-|8|918|<span class="rank-name-dl">松村 康平</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
-|9|917|<span class="rank-name-dl">king康平</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
-|10|915|<span class="rank-name-dl">みつき@eX</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
-|11|902|<span class="rank-name-dl">takumi</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
-|12|895|<span class="rank-name-dl">ひぐちょ</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
-|13|872|<span class="rank-name-dl">ひろやす@DSY</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
-|14|871|<span class="rank-name-dl">K</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
-|15|865|<span class="rank-name-dl">ともり</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
-|16|711|<span class="rank-name-dl">Shiori♡</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
-|17|664|<span class="rank-name-dl">Jellyfish21</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
-|18|579|<span class="rank-name-dl">あきちゃん♡</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
-|19|562|<span class="rank-name-dl">yamin</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
-|20|515|<span class="rank-name-dl">みさき</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
-|21|502|<span class="rank-name-dl">りさっち♡</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
-|22|491|<span class="rank-name-dl">marco</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
-|23|473|<span class="rank-name-dl">ここ･ここぉぉ-☆</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
-|24|471|<span class="rank-name-dl">reirei</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
-|25|470|<span class="rank-name-dl">MITSUE</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
-|26|436|<span class="rank-name-dl">木加</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
-|27|432|<span class="rank-name-dl">あい</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
-|28|403|<span class="rank-name-dl">なな</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
-|29|396|<span class="rank-name-dl">MAKI♪★♪</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
-|30|279|<span class="rank-name-dl">たろ</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|5|965|<span class="rank-name-dl">kohei</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|6|957|<span class="rank-name-dl">Taichan</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|7|945|<span class="rank-name-dl">NO NAME 8582</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|8|943|<span class="rank-name-dl">ねこずし</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|9|939|<span class="rank-name-dl">山﨑 匠</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|10|932|<span class="rank-name-dl">おすん</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|11|923|<span class="rank-name-dl">450だはぁ～ん♂</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|12|918|<span class="rank-name-dl">松村 康平</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|13|917|<span class="rank-name-dl">king康平</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|14|915|<span class="rank-name-dl">みつき@eX</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|15|912|<span class="rank-name-dl">トミー</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|16|907|<span class="rank-name-dl">takumi</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|17|895|<span class="rank-name-dl">ひぐちょ</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|18|879|<span class="rank-name-dl">Kazu＠ｳﾗｯﾁｰｽﾞ</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|19|872|<span class="rank-name-dl">ひろやす@DSY</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|20|871|<span class="rank-name-dl">K</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|21|867|<span class="rank-name-dl">HIRO</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|22|866|<span class="rank-name-dl">ゆ</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|23|865|<span class="rank-name-dl">ともり</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|24|851|<span class="rank-name-dl">くりまんじゅう</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|25|817|<span class="rank-name-dl">安井 可菜子</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|26|795|<span class="rank-name-dl">ｳｨｰはﾔｽｲｶﾅｺ♪DMC</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|27|794|<span class="rank-name-dl">ともやん</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|28|776|<span class="rank-name-dl">Shiori♡</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|29|701|<span class="rank-name-dl">齋藤飛鳥</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|30|664|<span class="rank-name-dl">Jellyfish21</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|31|633|<span class="rank-name-dl">あきちゃん♡</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|32|562|<span class="rank-name-dl">yamin</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|33|549|<span class="rank-name-dl">M.K</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|34|540|<span class="rank-name-dl">しろう</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|35|531|<span class="rank-name-dl">ラーメンピアース</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|36|515|<span class="rank-name-dl">みさき</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|36|515|<span class="rank-name-dl">レティいと</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|38|502|<span class="rank-name-dl">りさっち♡</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|39|493|<span class="rank-name-dl">いとち</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|40|491|<span class="rank-name-dl">marco</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|41|487|<span class="rank-name-dl">ひろきんぽ</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|42|481|<span class="rank-name-dl">ゆめち</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|43|473|<span class="rank-name-dl">ここ･ここぉぉ-☆</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|44|471|<span class="rank-name-dl">reirei</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|45|470|<span class="rank-name-dl">MITSUE</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|45|470|<span class="rank-name-dl">ユウ</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|47|466|<span class="rank-name-dl">chan姉☞﻿あや★</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|48|436|<span class="rank-name-dl">木加</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|49|432|<span class="rank-name-dl">あい</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|50|429|<span class="rank-name-dl">JUNYA</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|51|420|<span class="rank-name-dl">SHINYA.T101</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|52|412|<span class="rank-name-dl">ベル</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|53|403|<span class="rank-name-dl">なな</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|54|396|<span class="rank-name-dl">MAKI♪★♪</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|55|353|<span class="rank-name-dl">かしま様やぞオラ</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|56|334|<span class="rank-name-dl">たまごちゃん</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|57|279|<span class="rank-name-dl">たろ</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -66,32 +93,59 @@ ___
 |2|1024|<span class="rank-name-dl">Soga</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
 |3|1019|<span class="rank-name-dl">冨田　耕平</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
 |4|968|<span class="rank-name-dl">king.kohei.007</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
-|5|957|<span class="rank-name-dl">Taichan</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
-|6|932|<span class="rank-name-dl">おすん</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
-|7|923|<span class="rank-name-dl">450だはぁ～ん♂</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
-|8|918|<span class="rank-name-dl">松村 康平</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
-|9|917|<span class="rank-name-dl">king康平</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
-|10|915|<span class="rank-name-dl">みつき@eX</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
-|11|902|<span class="rank-name-dl">takumi</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
-|12|895|<span class="rank-name-dl">ひぐちょ</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
-|13|872|<span class="rank-name-dl">ひろやす@DSY</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
-|14|871|<span class="rank-name-dl">K</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
-|15|865|<span class="rank-name-dl">ともり</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
-|16|711|<span class="rank-name-dl">Shiori♡</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
-|17|664|<span class="rank-name-dl">Jellyfish21</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
-|18|579|<span class="rank-name-dl">あきちゃん♡</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
-|19|562|<span class="rank-name-dl">yamin</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
-|20|515|<span class="rank-name-dl">みさき</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
-|21|502|<span class="rank-name-dl">りさっち♡</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
-|22|491|<span class="rank-name-dl">marco</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
-|23|473|<span class="rank-name-dl">ここ･ここぉぉ-☆</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
-|24|471|<span class="rank-name-dl">reirei</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
-|25|470|<span class="rank-name-dl">MITSUE</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
-|26|436|<span class="rank-name-dl">木加</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
-|27|432|<span class="rank-name-dl">あい</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
-|28|403|<span class="rank-name-dl">なな</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
-|29|396|<span class="rank-name-dl">MAKI♪★♪</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
-|30|279|<span class="rank-name-dl">たろ</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|5|965|<span class="rank-name-dl">kohei</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|6|957|<span class="rank-name-dl">Taichan</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|7|945|<span class="rank-name-dl">NO NAME 8582</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|8|943|<span class="rank-name-dl">ねこずし</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|9|939|<span class="rank-name-dl">山﨑 匠</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|10|932|<span class="rank-name-dl">おすん</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|11|923|<span class="rank-name-dl">450だはぁ～ん♂</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|12|918|<span class="rank-name-dl">松村 康平</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|13|917|<span class="rank-name-dl">king康平</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|14|915|<span class="rank-name-dl">みつき@eX</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|15|912|<span class="rank-name-dl">トミー</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|16|907|<span class="rank-name-dl">takumi</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|17|895|<span class="rank-name-dl">ひぐちょ</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|18|879|<span class="rank-name-dl">Kazu＠ｳﾗｯﾁｰｽﾞ</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|19|872|<span class="rank-name-dl">ひろやす@DSY</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|20|871|<span class="rank-name-dl">K</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|21|867|<span class="rank-name-dl">HIRO</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|22|866|<span class="rank-name-dl">ゆ</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|23|865|<span class="rank-name-dl">ともり</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|24|851|<span class="rank-name-dl">くりまんじゅう</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|25|817|<span class="rank-name-dl">安井 可菜子</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|26|795|<span class="rank-name-dl">ｳｨｰはﾔｽｲｶﾅｺ♪DMC</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|27|794|<span class="rank-name-dl">ともやん</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|28|776|<span class="rank-name-dl">Shiori♡</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|29|701|<span class="rank-name-dl">齋藤飛鳥</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|30|664|<span class="rank-name-dl">Jellyfish21</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|31|633|<span class="rank-name-dl">あきちゃん♡</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|32|562|<span class="rank-name-dl">yamin</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|33|549|<span class="rank-name-dl">M.K</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|34|540|<span class="rank-name-dl">しろう</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|35|531|<span class="rank-name-dl">ラーメンピアース</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|36|515|<span class="rank-name-dl">みさき</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|36|515|<span class="rank-name-dl">レティいと</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|38|502|<span class="rank-name-dl">りさっち♡</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|39|493|<span class="rank-name-dl">いとち</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|40|491|<span class="rank-name-dl">marco</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|41|487|<span class="rank-name-dl">ひろきんぽ</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|42|481|<span class="rank-name-dl">ゆめち</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|43|473|<span class="rank-name-dl">ここ･ここぉぉ-☆</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|44|471|<span class="rank-name-dl">reirei</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|45|470|<span class="rank-name-dl">MITSUE</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|45|470|<span class="rank-name-dl">ユウ</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|47|466|<span class="rank-name-dl">chan姉☞﻿あや★</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|48|436|<span class="rank-name-dl">木加</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|49|432|<span class="rank-name-dl">あい</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|50|429|<span class="rank-name-dl">JUNYA</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|51|420|<span class="rank-name-dl">SHINYA.T101</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|52|412|<span class="rank-name-dl">ベル</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|53|403|<span class="rank-name-dl">なな</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|54|396|<span class="rank-name-dl">MAKI♪★♪</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|55|353|<span class="rank-name-dl">かしま様やぞオラ</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|56|334|<span class="rank-name-dl">たまごちゃん</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
+|57|279|<span class="rank-name-dl">たろ</span>|<a href="https://search.dartslive.com/jp/shop/e5b3c37bf9a839d00d9b047a20a7ba1e">カラオケZERO-4 川西能勢口店</a>|<a href="/darts/rank/兵庫県/川西市">兵庫県川西市</a>|
 
 
 #### PHOENIXDARTS TOP 100

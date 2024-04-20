@@ -23,27 +23,35 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1033|<span class="rank-name-pd">クールデビル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
-|2|910|<span class="rank-name-pd">たっか</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
-|3|885|<span class="rank-name-pd">高谷優斗</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
-|4|821|<span class="rank-name-pd">SHOPCARD★CAFENO,22</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
-|5|774|<span class="rank-name-pd">ノボル@CAFE NO.22</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
-|6|763|<span class="rank-name-pd">うしぴっぴ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
-|7|758|<span class="rank-name-pd">K</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
-|8|735|<span class="rank-name-pd">α-BET</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
-|9|710|<span class="rank-name-pd">おっさんべいびー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
-|10|690|<span class="rank-name-pd">0115_7755</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
-|11|662|<span class="rank-name-pd">DESPERADO@YOSHIKING</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
-|12|640|<span class="rank-name-pd">と(-_-)し</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
-|13|614|<span class="rank-name-pd">MsGT＠CAFE No,22</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
-|14|554|<span class="rank-name-pd">ALEX.J.ARMSTRONG</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
-|15|472|<span class="rank-name-pd">酒井</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
-|16|449|<span class="rank-name-pd">KUMA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78591?s_seq=78591">T.Y.Person</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
-|17|438|<span class="rank-name-pd">☆ムラヒロ☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78591?s_seq=78591">T.Y.Person</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
-|18|433|<span class="rank-name-pd">黒霧島@雌鶏</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78591?s_seq=78591">T.Y.Person</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
-|19|432|<span class="rank-name-pd">ゆうぽん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78591?s_seq=78591">T.Y.Person</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
-|20|426|<span class="rank-name-pd">キンタ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78591?s_seq=78591">T.Y.Person</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
-|21|406|<span class="rank-name-pd">ままちゃり</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78591?s_seq=78591">T.Y.Person</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
+|1|1045|<span class="rank-name-pd">vitz</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
+|2|1033|<span class="rank-name-pd">クールデビル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
+|3|910|<span class="rank-name-pd">たっか</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
+|4|885|<span class="rank-name-pd">高谷優斗</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
+|5|850|<span class="rank-name-pd">よっぴー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
+|6|824|<span class="rank-name-pd">たっくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
+|7|821|<span class="rank-name-pd">SHOPCARD★CAFENO,22</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
+|8|774|<span class="rank-name-pd">ノボル@CAFE NO.22</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
+|9|763|<span class="rank-name-pd">KomaChanG</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
+|9|763|<span class="rank-name-pd">うしぴっぴ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
+|11|758|<span class="rank-name-pd">K</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
+|12|735|<span class="rank-name-pd">α-BET</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
+|13|729|<span class="rank-name-pd">0115_7755</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
+|14|710|<span class="rank-name-pd">おっさんべいびー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
+|15|693|<span class="rank-name-pd">と(-_-)し</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
+|16|680|<span class="rank-name-pd">りょうま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
+|17|662|<span class="rank-name-pd">DESPERADO@YOSHIKING</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
+|18|639|<span class="rank-name-pd">てるちゃん。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
+|19|623|<span class="rank-name-pd">べし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
+|20|614|<span class="rank-name-pd">MsGT＠CAFE No,22</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
+|21|554|<span class="rank-name-pd">ALEX.J.ARMSTRONG</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
+|22|472|<span class="rank-name-pd">酒井</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
+|23|469|<span class="rank-name-pd">新崎人生</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
+|24|449|<span class="rank-name-pd">KUMA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78591?s_seq=78591">T.Y.Person</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
+|25|438|<span class="rank-name-pd">☆ムラヒロ☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78591?s_seq=78591">T.Y.Person</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
+|26|433|<span class="rank-name-pd">黒霧島@雌鶏</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78591?s_seq=78591">T.Y.Person</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
+|27|432|<span class="rank-name-pd">ゆうぽん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78591?s_seq=78591">T.Y.Person</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
+|28|426|<span class="rank-name-pd">キンタ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78591?s_seq=78591">T.Y.Person</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
+|29|406|<span class="rank-name-pd">ままちゃり</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78591?s_seq=78591">T.Y.Person</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -63,27 +71,35 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1033|<span class="rank-name-pd">クールデビル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
-|2|910|<span class="rank-name-pd">たっか</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
-|3|885|<span class="rank-name-pd">高谷優斗</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
-|4|821|<span class="rank-name-pd">SHOPCARD★CAFENO,22</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
-|5|774|<span class="rank-name-pd">ノボル@CAFE NO.22</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
-|6|763|<span class="rank-name-pd">うしぴっぴ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
-|7|758|<span class="rank-name-pd">K</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
-|8|735|<span class="rank-name-pd">α-BET</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
-|9|710|<span class="rank-name-pd">おっさんべいびー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
-|10|690|<span class="rank-name-pd">0115_7755</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
-|11|662|<span class="rank-name-pd">DESPERADO@YOSHIKING</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
-|12|640|<span class="rank-name-pd">と(-_-)し</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
-|13|614|<span class="rank-name-pd">MsGT＠CAFE No,22</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
-|14|554|<span class="rank-name-pd">ALEX.J.ARMSTRONG</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
-|15|472|<span class="rank-name-pd">酒井</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
-|16|449|<span class="rank-name-pd">KUMA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78591?s_seq=78591">T.Y.Person</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
-|17|438|<span class="rank-name-pd">☆ムラヒロ☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78591?s_seq=78591">T.Y.Person</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
-|18|433|<span class="rank-name-pd">黒霧島@雌鶏</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78591?s_seq=78591">T.Y.Person</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
-|19|432|<span class="rank-name-pd">ゆうぽん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78591?s_seq=78591">T.Y.Person</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
-|20|426|<span class="rank-name-pd">キンタ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78591?s_seq=78591">T.Y.Person</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
-|21|406|<span class="rank-name-pd">ままちゃり</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78591?s_seq=78591">T.Y.Person</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
+|1|1045|<span class="rank-name-pd">vitz</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
+|2|1033|<span class="rank-name-pd">クールデビル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
+|3|910|<span class="rank-name-pd">たっか</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
+|4|885|<span class="rank-name-pd">高谷優斗</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
+|5|850|<span class="rank-name-pd">よっぴー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
+|6|824|<span class="rank-name-pd">たっくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
+|7|821|<span class="rank-name-pd">SHOPCARD★CAFENO,22</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
+|8|774|<span class="rank-name-pd">ノボル@CAFE NO.22</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
+|9|763|<span class="rank-name-pd">KomaChanG</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
+|9|763|<span class="rank-name-pd">うしぴっぴ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
+|11|758|<span class="rank-name-pd">K</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
+|12|735|<span class="rank-name-pd">α-BET</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
+|13|729|<span class="rank-name-pd">0115_7755</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
+|14|710|<span class="rank-name-pd">おっさんべいびー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
+|15|693|<span class="rank-name-pd">と(-_-)し</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
+|16|680|<span class="rank-name-pd">りょうま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
+|17|662|<span class="rank-name-pd">DESPERADO@YOSHIKING</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
+|18|639|<span class="rank-name-pd">てるちゃん。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
+|19|623|<span class="rank-name-pd">べし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
+|20|614|<span class="rank-name-pd">MsGT＠CAFE No,22</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
+|21|554|<span class="rank-name-pd">ALEX.J.ARMSTRONG</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
+|22|472|<span class="rank-name-pd">酒井</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
+|23|469|<span class="rank-name-pd">新崎人生</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47493?s_seq=47493">CAFE NO.22</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
+|24|449|<span class="rank-name-pd">KUMA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78591?s_seq=78591">T.Y.Person</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
+|25|438|<span class="rank-name-pd">☆ムラヒロ☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78591?s_seq=78591">T.Y.Person</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
+|26|433|<span class="rank-name-pd">黒霧島@雌鶏</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78591?s_seq=78591">T.Y.Person</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
+|27|432|<span class="rank-name-pd">ゆうぽん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78591?s_seq=78591">T.Y.Person</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
+|28|426|<span class="rank-name-pd">キンタ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78591?s_seq=78591">T.Y.Person</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
+|29|406|<span class="rank-name-pd">ままちゃり</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78591?s_seq=78591">T.Y.Person</a>|<a href="/darts/rank/北海道/根室市">北海道根室市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

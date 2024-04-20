@@ -23,23 +23,34 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|946|<span class="rank-name-pd">俊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
+|1|957|<span class="rank-name-pd">俊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
 |2|928|<span class="rank-name-pd">立石 大吾</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
-|3|858|<span class="rank-name-pd">37</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
-|4|843|<span class="rank-name-pd">toshi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
-|5|803|<span class="rank-name-pd">mako.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
-|6|704|<span class="rank-name-pd">ＧцЯц/朝の会</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
-|7|623|<span class="rank-name-pd">T.T.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
-|8|596|<span class="rank-name-pd">こじぃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
-|9|573|<span class="rank-name-pd">☆ゆーき☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
-|10|559|<span class="rank-name-pd">ばやし【L&amp;P】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
-|11|546|<span class="rank-name-pd">mio</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
-|12|539|<span class="rank-name-pd">あい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
-|13|537|<span class="rank-name-pd">しょうぺい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
-|14|507|<span class="rank-name-pd">麗奈</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
-|15|470|<span class="rank-name-pd">ペコ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
-|16|405|<span class="rank-name-pd">ふみや</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
-|17|392|<span class="rank-name-pd">Bikkoro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
+|3|916|<span class="rank-name-pd">Jin</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
+|4|903|<span class="rank-name-pd">mako.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
+|5|858|<span class="rank-name-pd">37</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
+|6|843|<span class="rank-name-pd">toshi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
+|7|704|<span class="rank-name-pd">ＧцЯц/朝の会</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
+|8|636|<span class="rank-name-pd">しょうた</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
+|9|623|<span class="rank-name-pd">T.T.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
+|10|596|<span class="rank-name-pd">こじぃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
+|11|573|<span class="rank-name-pd">☆ゆーき☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
+|12|569|<span class="rank-name-pd">mio</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
+|13|566|<span class="rank-name-pd">kyon_MS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75620?s_seq=75620">ラウンジ　ロンド</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
+|14|559|<span class="rank-name-pd">ばやし【L&amp;P】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
+|15|545|<span class="rank-name-pd">tukudani</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
+|16|539|<span class="rank-name-pd">あい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
+|17|537|<span class="rank-name-pd">しょうぺい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
+|18|507|<span class="rank-name-pd">麗奈</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
+|19|474|<span class="rank-name-pd">RYOMA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
+|20|470|<span class="rank-name-pd">ペコ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
+|21|466|<span class="rank-name-pd">MAKO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75620?s_seq=75620">ラウンジ　ロンド</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
+|22|450|<span class="rank-name-pd">kenji</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75620?s_seq=75620">ラウンジ　ロンド</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
+|23|438|<span class="rank-name-pd">ひとみん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
+|24|432|<span class="rank-name-pd">Bikkoro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
+|25|405|<span class="rank-name-pd">ふみや</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
+|26|386|<span class="rank-name-pd">PHOENIXDARTS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75620?s_seq=75620">ラウンジ　ロンド</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
+|27|372|<span class="rank-name-pd">kiyoshi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75620?s_seq=75620">ラウンジ　ロンド</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
+|28|319|<span class="rank-name-pd">yuka</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75620?s_seq=75620">ラウンジ　ロンド</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -59,23 +70,34 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|946|<span class="rank-name-pd">俊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
+|1|957|<span class="rank-name-pd">俊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
 |2|928|<span class="rank-name-pd">立石 大吾</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
-|3|858|<span class="rank-name-pd">37</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
-|4|843|<span class="rank-name-pd">toshi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
-|5|803|<span class="rank-name-pd">mako.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
-|6|704|<span class="rank-name-pd">ＧцЯц/朝の会</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
-|7|623|<span class="rank-name-pd">T.T.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
-|8|596|<span class="rank-name-pd">こじぃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
-|9|573|<span class="rank-name-pd">☆ゆーき☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
-|10|559|<span class="rank-name-pd">ばやし【L&amp;P】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
-|11|546|<span class="rank-name-pd">mio</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
-|12|539|<span class="rank-name-pd">あい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
-|13|537|<span class="rank-name-pd">しょうぺい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
-|14|507|<span class="rank-name-pd">麗奈</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
-|15|470|<span class="rank-name-pd">ペコ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
-|16|405|<span class="rank-name-pd">ふみや</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
-|17|392|<span class="rank-name-pd">Bikkoro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
+|3|916|<span class="rank-name-pd">Jin</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
+|4|903|<span class="rank-name-pd">mako.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
+|5|858|<span class="rank-name-pd">37</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
+|6|843|<span class="rank-name-pd">toshi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
+|7|704|<span class="rank-name-pd">ＧцЯц/朝の会</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
+|8|636|<span class="rank-name-pd">しょうた</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
+|9|623|<span class="rank-name-pd">T.T.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
+|10|596|<span class="rank-name-pd">こじぃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
+|11|573|<span class="rank-name-pd">☆ゆーき☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
+|12|569|<span class="rank-name-pd">mio</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
+|13|566|<span class="rank-name-pd">kyon_MS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75620?s_seq=75620">ラウンジ　ロンド</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
+|14|559|<span class="rank-name-pd">ばやし【L&amp;P】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
+|15|545|<span class="rank-name-pd">tukudani</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
+|16|539|<span class="rank-name-pd">あい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
+|17|537|<span class="rank-name-pd">しょうぺい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
+|18|507|<span class="rank-name-pd">麗奈</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
+|19|474|<span class="rank-name-pd">RYOMA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
+|20|470|<span class="rank-name-pd">ペコ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
+|21|466|<span class="rank-name-pd">MAKO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75620?s_seq=75620">ラウンジ　ロンド</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
+|22|450|<span class="rank-name-pd">kenji</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75620?s_seq=75620">ラウンジ　ロンド</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
+|23|438|<span class="rank-name-pd">ひとみん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
+|24|432|<span class="rank-name-pd">Bikkoro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
+|25|405|<span class="rank-name-pd">ふみや</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89004?s_seq=89004">ラウンドZERO</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
+|26|386|<span class="rank-name-pd">PHOENIXDARTS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75620?s_seq=75620">ラウンジ　ロンド</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
+|27|372|<span class="rank-name-pd">kiyoshi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75620?s_seq=75620">ラウンジ　ロンド</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
+|28|319|<span class="rank-name-pd">yuka</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75620?s_seq=75620">ラウンジ　ロンド</a>|<a href="/darts/rank/鹿児島県/南さつま市">鹿児島県南さつま市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

@@ -23,41 +23,51 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1084|<span class="rank-name-pd">今西 高広</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|2|1027|<span class="rank-name-pd">フェローズ@今兄</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|1|1104|<span class="rank-name-pd">今西 高広</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|2|1084|<span class="rank-name-pd">フェローズ@今兄</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
 |3|979|<span class="rank-name-pd">河口 勇生</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|4|957|<span class="rank-name-pd">ユウキ笑</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|5|837|<span class="rank-name-pd">鷹　(初心者)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|6|764|<span class="rank-name-pd">CBR1000RR</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|7|749|<span class="rank-name-pd">S.D.R</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|8|723|<span class="rank-name-pd">えーちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|9|720|<span class="rank-name-pd">TUBO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|10|698|<span class="rank-name-pd">じゅんじゅん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|11|680|<span class="rank-name-pd">takumi_o</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|12|661|<span class="rank-name-pd">Liy</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|13|651|<span class="rank-name-pd">たやちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|14|617|<span class="rank-name-pd">きよっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|15|599|<span class="rank-name-pd">ケンティー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|16|586|<span class="rank-name-pd">TERA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|17|582|<span class="rank-name-pd">hulu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|18|577|<span class="rank-name-pd">○たろー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|19|576|<span class="rank-name-pd">海に帰ります</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|20|522|<span class="rank-name-pd">ひかる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|21|514|<span class="rank-name-pd">モミジ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|22|511|<span class="rank-name-pd">覚</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|23|481|<span class="rank-name-pd">gsx1300r</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|24|468|<span class="rank-name-pd">たんぽぽ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|25|461|<span class="rank-name-pd">背筋ぴーん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|26|448|<span class="rank-name-pd">OguOgu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|27|431|<span class="rank-name-pd">あらきんぐ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|28|425|<span class="rank-name-pd">TH</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|29|420|<span class="rank-name-pd">sn</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|29|420|<span class="rank-name-pd">ドえむ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|31|398|<span class="rank-name-pd">ひらせん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|32|394|<span class="rank-name-pd">マサヒト</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|33|368|<span class="rank-name-pd">Fuma</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|34|339|<span class="rank-name-pd">ﾍｯﾎﾟｺ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|35|279|<span class="rank-name-pd">Momoe</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|4|967|<span class="rank-name-pd">おごう　たかゆき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|5|957|<span class="rank-name-pd">ユウキ笑</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|6|838|<span class="rank-name-pd">CBR1000RR</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|7|837|<span class="rank-name-pd">鷹　(初心者)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|8|762|<span class="rank-name-pd">たやちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|9|758|<span class="rank-name-pd">きよっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|10|749|<span class="rank-name-pd">S.D.R</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|11|723|<span class="rank-name-pd">えーちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|12|720|<span class="rank-name-pd">TUBO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|13|698|<span class="rank-name-pd">じゅんじゅん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|14|680|<span class="rank-name-pd">takumi_o</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|15|668|<span class="rank-name-pd">TH</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|16|661|<span class="rank-name-pd">Liy</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|17|618|<span class="rank-name-pd">ひらせん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|18|599|<span class="rank-name-pd">ケンティー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|19|586|<span class="rank-name-pd">TERA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|20|582|<span class="rank-name-pd">hulu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|21|577|<span class="rank-name-pd">○たろー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|22|576|<span class="rank-name-pd">海に帰ります</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|23|558|<span class="rank-name-pd">モミジ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|24|555|<span class="rank-name-pd">0226_2597</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|25|525|<span class="rank-name-pd">ひかる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|25|525|<span class="rank-name-pd">ミャ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|27|524|<span class="rank-name-pd">Kou</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|28|515|<span class="rank-name-pd">あらきんぐ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|29|511|<span class="rank-name-pd">覚</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|30|502|<span class="rank-name-pd">バンブーフィールド</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|31|500|<span class="rank-name-pd">背筋ぴーん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|32|489|<span class="rank-name-pd">WASU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|33|481|<span class="rank-name-pd">gsx1300r</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|34|476|<span class="rank-name-pd">たいき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|35|468|<span class="rank-name-pd">たんぽぽ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|36|452|<span class="rank-name-pd">ちーちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|37|448|<span class="rank-name-pd">OguOgu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|38|435|<span class="rank-name-pd">マサヒト</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|39|420|<span class="rank-name-pd">sn</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|39|420|<span class="rank-name-pd">ドえむ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|41|396|<span class="rank-name-pd">なつき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|42|381|<span class="rank-name-pd">Fuma</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|43|339|<span class="rank-name-pd">ﾍｯﾎﾟｺ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|44|279|<span class="rank-name-pd">Momoe</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|44|279|<span class="rank-name-pd">NENE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -77,41 +87,51 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1084|<span class="rank-name-pd">今西 高広</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|2|1027|<span class="rank-name-pd">フェローズ@今兄</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|1|1104|<span class="rank-name-pd">今西 高広</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|2|1084|<span class="rank-name-pd">フェローズ@今兄</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
 |3|979|<span class="rank-name-pd">河口 勇生</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|4|957|<span class="rank-name-pd">ユウキ笑</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|5|837|<span class="rank-name-pd">鷹　(初心者)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|6|764|<span class="rank-name-pd">CBR1000RR</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|7|749|<span class="rank-name-pd">S.D.R</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|8|723|<span class="rank-name-pd">えーちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|9|720|<span class="rank-name-pd">TUBO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|10|698|<span class="rank-name-pd">じゅんじゅん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|11|680|<span class="rank-name-pd">takumi_o</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|12|661|<span class="rank-name-pd">Liy</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|13|651|<span class="rank-name-pd">たやちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|14|617|<span class="rank-name-pd">きよっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|15|599|<span class="rank-name-pd">ケンティー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|16|586|<span class="rank-name-pd">TERA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|17|582|<span class="rank-name-pd">hulu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|18|577|<span class="rank-name-pd">○たろー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|19|576|<span class="rank-name-pd">海に帰ります</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|20|522|<span class="rank-name-pd">ひかる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|21|514|<span class="rank-name-pd">モミジ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|22|511|<span class="rank-name-pd">覚</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|23|481|<span class="rank-name-pd">gsx1300r</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|24|468|<span class="rank-name-pd">たんぽぽ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|25|461|<span class="rank-name-pd">背筋ぴーん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|26|448|<span class="rank-name-pd">OguOgu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|27|431|<span class="rank-name-pd">あらきんぐ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|28|425|<span class="rank-name-pd">TH</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|29|420|<span class="rank-name-pd">sn</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|29|420|<span class="rank-name-pd">ドえむ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|31|398|<span class="rank-name-pd">ひらせん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|32|394|<span class="rank-name-pd">マサヒト</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|33|368|<span class="rank-name-pd">Fuma</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|34|339|<span class="rank-name-pd">ﾍｯﾎﾟｺ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
-|35|279|<span class="rank-name-pd">Momoe</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|4|967|<span class="rank-name-pd">おごう　たかゆき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|5|957|<span class="rank-name-pd">ユウキ笑</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|6|838|<span class="rank-name-pd">CBR1000RR</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|7|837|<span class="rank-name-pd">鷹　(初心者)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|8|762|<span class="rank-name-pd">たやちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|9|758|<span class="rank-name-pd">きよっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|10|749|<span class="rank-name-pd">S.D.R</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|11|723|<span class="rank-name-pd">えーちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|12|720|<span class="rank-name-pd">TUBO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|13|698|<span class="rank-name-pd">じゅんじゅん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|14|680|<span class="rank-name-pd">takumi_o</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|15|668|<span class="rank-name-pd">TH</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|16|661|<span class="rank-name-pd">Liy</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|17|618|<span class="rank-name-pd">ひらせん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|18|599|<span class="rank-name-pd">ケンティー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|19|586|<span class="rank-name-pd">TERA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|20|582|<span class="rank-name-pd">hulu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|21|577|<span class="rank-name-pd">○たろー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|22|576|<span class="rank-name-pd">海に帰ります</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|23|558|<span class="rank-name-pd">モミジ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|24|555|<span class="rank-name-pd">0226_2597</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|25|525|<span class="rank-name-pd">ひかる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|25|525|<span class="rank-name-pd">ミャ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|27|524|<span class="rank-name-pd">Kou</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|28|515|<span class="rank-name-pd">あらきんぐ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|29|511|<span class="rank-name-pd">覚</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|30|502|<span class="rank-name-pd">バンブーフィールド</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|31|500|<span class="rank-name-pd">背筋ぴーん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|32|489|<span class="rank-name-pd">WASU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|33|481|<span class="rank-name-pd">gsx1300r</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|34|476|<span class="rank-name-pd">たいき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|35|468|<span class="rank-name-pd">たんぽぽ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|36|452|<span class="rank-name-pd">ちーちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|37|448|<span class="rank-name-pd">OguOgu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|38|435|<span class="rank-name-pd">マサヒト</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|39|420|<span class="rank-name-pd">sn</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|39|420|<span class="rank-name-pd">ドえむ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|41|396|<span class="rank-name-pd">なつき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|42|381|<span class="rank-name-pd">Fuma</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|43|339|<span class="rank-name-pd">ﾍｯﾎﾟｺ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|44|279|<span class="rank-name-pd">Momoe</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
+|44|279|<span class="rank-name-pd">NENE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75037?s_seq=75037">Bar Fellows</a>|<a href="/darts/rank/鹿児島県/西之表市">鹿児島県西之表市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

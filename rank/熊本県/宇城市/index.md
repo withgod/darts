@@ -25,16 +25,28 @@ ___
 |---|---|---|---|---|
 |1|971|<span class="rank-name-pd">琉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89280?s_seq=89280">BAR Chill</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
 |2|959|<span class="rank-name-pd">BAR Chill show</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89280?s_seq=89280">BAR Chill</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
-|3|752|<span class="rank-name-pd">✩.*˚じゅぜ✩*.ﾟ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89280?s_seq=89280">BAR Chill</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
-|4|694|<span class="rank-name-pd">MiU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89280?s_seq=89280">BAR Chill</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
-|5|634|<span class="rank-name-pd">Reeena</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89280?s_seq=89280">BAR Chill</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
-|6|600|<span class="rank-name-pd">Suzuiro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89280?s_seq=89280">BAR Chill</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
-|7|584|<span class="rank-name-pd">Nona</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73671?s_seq=73671">Cafestyle Dining Bar M's</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
-|8|579|<span class="rank-name-pd">け～た</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89280?s_seq=89280">BAR Chill</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
-|9|578|<span class="rank-name-pd">YASUHIRO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89280?s_seq=89280">BAR Chill</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
-|10|577|<span class="rank-name-pd">TOMO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89280?s_seq=89280">BAR Chill</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
-|11|527|<span class="rank-name-pd">宮田 将成</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89280?s_seq=89280">BAR Chill</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
-|12|461|<span class="rank-name-pd">0278 2229</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89280?s_seq=89280">BAR Chill</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
+|2|959|<span class="rank-name-pd">showhey@Chill</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89280?s_seq=89280">BAR Chill</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
+|4|871|<span class="rank-name-pd">___79.U.K</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89280?s_seq=89280">BAR Chill</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
+|5|831|<span class="rank-name-pd">MiU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89280?s_seq=89280">BAR Chill</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
+|6|770|<span class="rank-name-pd">Reeena</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89280?s_seq=89280">BAR Chill</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
+|7|752|<span class="rank-name-pd">✩.*˚じゅぜ✩*.ﾟ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89280?s_seq=89280">BAR Chill</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
+|8|741|<span class="rank-name-pd">TOMO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89280?s_seq=89280">BAR Chill</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
+|9|677|<span class="rank-name-pd">Suzuiro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89280?s_seq=89280">BAR Chill</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
+|10|649|<span class="rank-name-pd">YUYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89280?s_seq=89280">BAR Chill</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
+|10|649|<span class="rank-name-pd">showhey【セパ】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89280?s_seq=89280">BAR Chill</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
+|10|649|<span class="rank-name-pd">take</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89280?s_seq=89280">BAR Chill</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
+|10|649|<span class="rank-name-pd">黄色い靴は雨に濡れない…</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89280?s_seq=89280">BAR Chill</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
+|14|584|<span class="rank-name-pd">JUNPEI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89280?s_seq=89280">BAR Chill</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
+|14|584|<span class="rank-name-pd">Nona</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73671?s_seq=73671">Cafestyle Dining Bar M's</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
+|16|579|<span class="rank-name-pd">け～た</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89280?s_seq=89280">BAR Chill</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
+|17|578|<span class="rank-name-pd">YASUHIRO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89280?s_seq=89280">BAR Chill</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
+|18|527|<span class="rank-name-pd">宮田 将成</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89280?s_seq=89280">BAR Chill</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
+|19|461|<span class="rank-name-pd">0278 2229</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89280?s_seq=89280">BAR Chill</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
+|20|453|<span class="rank-name-pd">R-14</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89280?s_seq=89280">BAR Chill</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
+|21|379|<span class="rank-name-pd">Ms</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73671?s_seq=73671">Cafestyle Dining Bar M's</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
+|22|375|<span class="rank-name-pd">178</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89280?s_seq=89280">BAR Chill</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
+|23|297|<span class="rank-name-pd">しょうちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89280?s_seq=89280">BAR Chill</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
+|24|228|<span class="rank-name-pd">0169_2364</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73671?s_seq=73671">Cafestyle Dining Bar M's</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -56,16 +68,28 @@ ___
 |---|---|---|---|---|
 |1|971|<span class="rank-name-pd">琉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89280?s_seq=89280">BAR Chill</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
 |2|959|<span class="rank-name-pd">BAR Chill show</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89280?s_seq=89280">BAR Chill</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
-|3|752|<span class="rank-name-pd">✩.*˚じゅぜ✩*.ﾟ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89280?s_seq=89280">BAR Chill</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
-|4|694|<span class="rank-name-pd">MiU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89280?s_seq=89280">BAR Chill</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
-|5|634|<span class="rank-name-pd">Reeena</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89280?s_seq=89280">BAR Chill</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
-|6|600|<span class="rank-name-pd">Suzuiro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89280?s_seq=89280">BAR Chill</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
-|7|584|<span class="rank-name-pd">Nona</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73671?s_seq=73671">Cafestyle Dining Bar M's</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
-|8|579|<span class="rank-name-pd">け～た</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89280?s_seq=89280">BAR Chill</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
-|9|578|<span class="rank-name-pd">YASUHIRO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89280?s_seq=89280">BAR Chill</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
-|10|577|<span class="rank-name-pd">TOMO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89280?s_seq=89280">BAR Chill</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
-|11|527|<span class="rank-name-pd">宮田 将成</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89280?s_seq=89280">BAR Chill</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
-|12|461|<span class="rank-name-pd">0278 2229</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89280?s_seq=89280">BAR Chill</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
+|2|959|<span class="rank-name-pd">showhey@Chill</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89280?s_seq=89280">BAR Chill</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
+|4|871|<span class="rank-name-pd">___79.U.K</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89280?s_seq=89280">BAR Chill</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
+|5|831|<span class="rank-name-pd">MiU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89280?s_seq=89280">BAR Chill</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
+|6|770|<span class="rank-name-pd">Reeena</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89280?s_seq=89280">BAR Chill</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
+|7|752|<span class="rank-name-pd">✩.*˚じゅぜ✩*.ﾟ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89280?s_seq=89280">BAR Chill</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
+|8|741|<span class="rank-name-pd">TOMO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89280?s_seq=89280">BAR Chill</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
+|9|677|<span class="rank-name-pd">Suzuiro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89280?s_seq=89280">BAR Chill</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
+|10|649|<span class="rank-name-pd">YUYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89280?s_seq=89280">BAR Chill</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
+|10|649|<span class="rank-name-pd">showhey【セパ】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89280?s_seq=89280">BAR Chill</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
+|10|649|<span class="rank-name-pd">take</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89280?s_seq=89280">BAR Chill</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
+|10|649|<span class="rank-name-pd">黄色い靴は雨に濡れない…</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89280?s_seq=89280">BAR Chill</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
+|14|584|<span class="rank-name-pd">JUNPEI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89280?s_seq=89280">BAR Chill</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
+|14|584|<span class="rank-name-pd">Nona</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73671?s_seq=73671">Cafestyle Dining Bar M's</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
+|16|579|<span class="rank-name-pd">け～た</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89280?s_seq=89280">BAR Chill</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
+|17|578|<span class="rank-name-pd">YASUHIRO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89280?s_seq=89280">BAR Chill</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
+|18|527|<span class="rank-name-pd">宮田 将成</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89280?s_seq=89280">BAR Chill</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
+|19|461|<span class="rank-name-pd">0278 2229</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89280?s_seq=89280">BAR Chill</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
+|20|453|<span class="rank-name-pd">R-14</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89280?s_seq=89280">BAR Chill</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
+|21|379|<span class="rank-name-pd">Ms</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73671?s_seq=73671">Cafestyle Dining Bar M's</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
+|22|375|<span class="rank-name-pd">178</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89280?s_seq=89280">BAR Chill</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
+|23|297|<span class="rank-name-pd">しょうちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89280?s_seq=89280">BAR Chill</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
+|24|228|<span class="rank-name-pd">0169_2364</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73671?s_seq=73671">Cafestyle Dining Bar M's</a>|<a href="/darts/rank/熊本県/宇城市">熊本県宇城市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

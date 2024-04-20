@@ -24,7 +24,10 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|807|<span class="rank-name-pd">ポンコツおしん@Wega</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75470?s_seq=75470">Dining&Bar ILLUMI</a>|<a href="/darts/rank/福岡県/筑紫郡">福岡県筑紫郡</a>|
-|2|516|<span class="rank-name-pd">むっちゃん伊東</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75470?s_seq=75470">Dining&Bar ILLUMI</a>|<a href="/darts/rank/福岡県/筑紫郡">福岡県筑紫郡</a>|
+|2|638|<span class="rank-name-pd">109</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75470?s_seq=75470">Dining&Bar ILLUMI</a>|<a href="/darts/rank/福岡県/筑紫郡">福岡県筑紫郡</a>|
+|3|587|<span class="rank-name-pd">はまぁ@トライデント</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75470?s_seq=75470">Dining&Bar ILLUMI</a>|<a href="/darts/rank/福岡県/筑紫郡">福岡県筑紫郡</a>|
+|4|556|<span class="rank-name-pd">たねやん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75470?s_seq=75470">Dining&Bar ILLUMI</a>|<a href="/darts/rank/福岡県/筑紫郡">福岡県筑紫郡</a>|
+|5|516|<span class="rank-name-pd">むっちゃん伊東</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75470?s_seq=75470">Dining&Bar ILLUMI</a>|<a href="/darts/rank/福岡県/筑紫郡">福岡県筑紫郡</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -45,7 +48,10 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|807|<span class="rank-name-pd">ポンコツおしん@Wega</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75470?s_seq=75470">Dining&Bar ILLUMI</a>|<a href="/darts/rank/福岡県/筑紫郡">福岡県筑紫郡</a>|
-|2|516|<span class="rank-name-pd">むっちゃん伊東</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75470?s_seq=75470">Dining&Bar ILLUMI</a>|<a href="/darts/rank/福岡県/筑紫郡">福岡県筑紫郡</a>|
+|2|638|<span class="rank-name-pd">109</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75470?s_seq=75470">Dining&Bar ILLUMI</a>|<a href="/darts/rank/福岡県/筑紫郡">福岡県筑紫郡</a>|
+|3|587|<span class="rank-name-pd">はまぁ@トライデント</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75470?s_seq=75470">Dining&Bar ILLUMI</a>|<a href="/darts/rank/福岡県/筑紫郡">福岡県筑紫郡</a>|
+|4|556|<span class="rank-name-pd">たねやん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75470?s_seq=75470">Dining&Bar ILLUMI</a>|<a href="/darts/rank/福岡県/筑紫郡">福岡県筑紫郡</a>|
+|5|516|<span class="rank-name-pd">むっちゃん伊東</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75470?s_seq=75470">Dining&Bar ILLUMI</a>|<a href="/darts/rank/福岡県/筑紫郡">福岡県筑紫郡</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

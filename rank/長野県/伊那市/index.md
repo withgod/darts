@@ -24,19 +24,32 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|969|<span class="rank-name-dl">⬇️↘️➡️＋P</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
-|2|680|<span class="rank-name-dl">オザキ</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
-|3|632|<span class="rank-name-dl">あいる*</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
-|4|606|<span class="rank-name-dl">ROCKY</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
-|5|593|<span class="rank-name-dl">TOTTI@矢桜會(^^)</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
-|6|539|<span class="rank-name-dl">AIZ</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
-|7|537|<span class="rank-name-dl">Aki1784</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
-|8|489|<span class="rank-name-dl">MHH</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
-|9|463|<span class="rank-name-dl">イリダイ</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
-|10|459|<span class="rank-name-dl">NON</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
-|11|439|<span class="rank-name-dl">テケ</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
-|12|389|<span class="rank-name-dl">Daikon6ch</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
-|12|389|<span class="rank-name-dl">クワハラ</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
-|14|333|<span class="rank-name-dl">315</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
+|2|840|<span class="rank-name-dl">TOTTI</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
+|3|680|<span class="rank-name-dl">オザキ</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
+|4|640|<span class="rank-name-dl">しらす</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
+|5|632|<span class="rank-name-dl">あいる*</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
+|6|623|<span class="rank-name-dl">ジャム</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
+|7|606|<span class="rank-name-dl">ROCKY</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
+|8|603|<span class="rank-name-dl">Catch me</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
+|9|596|<span class="rank-name-dl">Rinma</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
+|10|593|<span class="rank-name-dl">TOTTI@矢桜會(^^)</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
+|11|571|<span class="rank-name-dl">MHH</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
+|12|558|<span class="rank-name-dl">YASU</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
+|13|539|<span class="rank-name-dl">AIZ</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
+|14|537|<span class="rank-name-dl">Aki1784</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
+|15|536|<span class="rank-name-dl">あかさか（サブ）</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
+|15|536|<span class="rank-name-dl">Ｃassie</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
+|17|527|<span class="rank-name-dl">みこちゃんまん</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
+|18|474|<span class="rank-name-dl">JUN</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
+|19|463|<span class="rank-name-dl">イリダイ</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
+|20|459|<span class="rank-name-dl">890</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
+|20|459|<span class="rank-name-dl">NON</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
+|22|439|<span class="rank-name-dl">テケ</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
+|23|438|<span class="rank-name-dl">NO NAME 7207</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
+|24|389|<span class="rank-name-dl">Daikon6ch</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
+|24|389|<span class="rank-name-dl">クワハラ</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
+|26|333|<span class="rank-name-dl">315</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
+|27|297|<span class="rank-name-dl">Milk Mow Mow</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -47,19 +60,32 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|969|<span class="rank-name-dl">⬇️↘️➡️＋P</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
-|2|680|<span class="rank-name-dl">オザキ</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
-|3|632|<span class="rank-name-dl">あいる*</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
-|4|606|<span class="rank-name-dl">ROCKY</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
-|5|593|<span class="rank-name-dl">TOTTI@矢桜會(^^)</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
-|6|539|<span class="rank-name-dl">AIZ</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
-|7|537|<span class="rank-name-dl">Aki1784</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
-|8|489|<span class="rank-name-dl">MHH</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
-|9|463|<span class="rank-name-dl">イリダイ</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
-|10|459|<span class="rank-name-dl">NON</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
-|11|439|<span class="rank-name-dl">テケ</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
-|12|389|<span class="rank-name-dl">Daikon6ch</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
-|12|389|<span class="rank-name-dl">クワハラ</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
-|14|333|<span class="rank-name-dl">315</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
+|2|840|<span class="rank-name-dl">TOTTI</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
+|3|680|<span class="rank-name-dl">オザキ</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
+|4|640|<span class="rank-name-dl">しらす</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
+|5|632|<span class="rank-name-dl">あいる*</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
+|6|623|<span class="rank-name-dl">ジャム</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
+|7|606|<span class="rank-name-dl">ROCKY</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
+|8|603|<span class="rank-name-dl">Catch me</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
+|9|596|<span class="rank-name-dl">Rinma</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
+|10|593|<span class="rank-name-dl">TOTTI@矢桜會(^^)</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
+|11|571|<span class="rank-name-dl">MHH</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
+|12|558|<span class="rank-name-dl">YASU</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
+|13|539|<span class="rank-name-dl">AIZ</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
+|14|537|<span class="rank-name-dl">Aki1784</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
+|15|536|<span class="rank-name-dl">あかさか（サブ）</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
+|15|536|<span class="rank-name-dl">Ｃassie</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
+|17|527|<span class="rank-name-dl">みこちゃんまん</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
+|18|474|<span class="rank-name-dl">JUN</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
+|19|463|<span class="rank-name-dl">イリダイ</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
+|20|459|<span class="rank-name-dl">890</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
+|20|459|<span class="rank-name-dl">NON</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
+|22|439|<span class="rank-name-dl">テケ</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
+|23|438|<span class="rank-name-dl">NO NAME 7207</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
+|24|389|<span class="rank-name-dl">Daikon6ch</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
+|24|389|<span class="rank-name-dl">クワハラ</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
+|26|333|<span class="rank-name-dl">315</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
+|27|297|<span class="rank-name-dl">Milk Mow Mow</span>|<a href="https://search.dartslive.com/jp/shop/b14f3f8d71c34fa228032249b44395af">アピナ伊那店</a>|<a href="/darts/rank/長野県/伊那市">長野県伊那市</a>|
 
 
 #### PHOENIXDARTS TOP 100

@@ -23,30 +23,36 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1125|<span class="rank-name-dl">あすか☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
-|2|1113|<span class="rank-name-dl">(本)あすか☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
-|3|1070|<span class="rank-name-dl">畦元 隆成</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
-|4|1001|<span class="rank-name-dl">Kotaro</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
-|5|969|<span class="rank-name-dl">ゴチ・テイラー</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
-|6|964|<span class="rank-name-dl">たけし☆爆音☆</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
-|7|963|<span class="rank-name-dl">はる</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
-|8|950|<span class="rank-name-dl">川﨑 翔馬</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
-|9|928|<span class="rank-name-dl">ゆ→じゅ･･･ん？</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
-|10|922|<span class="rank-name-dl">なおちゃん☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
-|10|922|<span class="rank-name-dl">まもさん☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
-|12|911|<span class="rank-name-dl">やましー☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
-|12|911|<span class="rank-name-dl">やーそん☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
-|14|910|<span class="rank-name-dl">世界∞</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
-|15|906|<span class="rank-name-dl">やんまにー</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
-|16|902|<span class="rank-name-dl">ＤＡＩ</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
-|17|740|<span class="rank-name-dl">りな@T&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
-|18|680|<span class="rank-name-dl">まちゃ☆爆音/Ⅱ</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
-|19|674|<span class="rank-name-dl">のすけ☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
-|20|626|<span class="rank-name-dl">平間　葵</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
-|21|546|<span class="rank-name-dl">SEINA</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
-|22|506|<span class="rank-name-dl">ニャン汰(=・・=)</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
-|23|495|<span class="rank-name-dl">ミートパスタ教</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
-|24|395|<span class="rank-name-dl">Mitsue</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
+|1|1209|<span class="rank-name-dl">畦元 隆成</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
+|2|1125|<span class="rank-name-dl">あすか☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
+|3|1123|<span class="rank-name-dl">(本)あすか☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
+|4|1073|<span class="rank-name-dl">なおちゃん☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
+|5|1029|<span class="rank-name-dl">長谷川　晃司</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
+|6|1001|<span class="rank-name-dl">Kotaro</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
+|7|983|<span class="rank-name-dl">まもさん☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
+|8|969|<span class="rank-name-dl">ゴチ・テイラー</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
+|9|964|<span class="rank-name-dl">たけし☆爆音☆</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
+|10|963|<span class="rank-name-dl">はる</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
+|11|957|<span class="rank-name-dl">しょま☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
+|12|951|<span class="rank-name-dl">たけし☆爆音‪☆</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
+|13|950|<span class="rank-name-dl">川﨑 翔馬</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
+|14|946|<span class="rank-name-dl">ゆ→じゅ･･･ん？</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
+|15|911|<span class="rank-name-dl">やましー☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
+|15|911|<span class="rank-name-dl">やーそん☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
+|17|910|<span class="rank-name-dl">世界∞</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
+|18|906|<span class="rank-name-dl">やんまにー</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
+|19|902|<span class="rank-name-dl">ＤＡＩ</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
+|20|894|<span class="rank-name-dl">911</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
+|21|740|<span class="rank-name-dl">りな@T&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
+|22|718|<span class="rank-name-dl">みーとぱすた教</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
+|23|680|<span class="rank-name-dl">まちゃ☆爆音/Ⅱ</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
+|24|674|<span class="rank-name-dl">のすけ☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
+|25|626|<span class="rank-name-dl">平間　葵</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
+|26|546|<span class="rank-name-dl">SEINA</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
+|27|512|<span class="rank-name-dl">T-gate</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
+|28|506|<span class="rank-name-dl">ニャン汰(=・・=)</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
+|29|495|<span class="rank-name-dl">ミートパスタ教</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
+|30|395|<span class="rank-name-dl">Mitsue</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -56,30 +62,36 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1125|<span class="rank-name-dl">あすか☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
-|2|1113|<span class="rank-name-dl">(本)あすか☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
-|3|1070|<span class="rank-name-dl">畦元 隆成</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
-|4|1001|<span class="rank-name-dl">Kotaro</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
-|5|969|<span class="rank-name-dl">ゴチ・テイラー</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
-|6|964|<span class="rank-name-dl">たけし☆爆音☆</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
-|7|963|<span class="rank-name-dl">はる</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
-|8|950|<span class="rank-name-dl">川﨑 翔馬</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
-|9|928|<span class="rank-name-dl">ゆ→じゅ･･･ん？</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
-|10|922|<span class="rank-name-dl">なおちゃん☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
-|10|922|<span class="rank-name-dl">まもさん☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
-|12|911|<span class="rank-name-dl">やましー☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
-|12|911|<span class="rank-name-dl">やーそん☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
-|14|910|<span class="rank-name-dl">世界∞</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
-|15|906|<span class="rank-name-dl">やんまにー</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
-|16|902|<span class="rank-name-dl">ＤＡＩ</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
-|17|740|<span class="rank-name-dl">りな@T&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
-|18|680|<span class="rank-name-dl">まちゃ☆爆音/Ⅱ</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
-|19|674|<span class="rank-name-dl">のすけ☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
-|20|626|<span class="rank-name-dl">平間　葵</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
-|21|546|<span class="rank-name-dl">SEINA</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
-|22|506|<span class="rank-name-dl">ニャン汰(=・・=)</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
-|23|495|<span class="rank-name-dl">ミートパスタ教</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
-|24|395|<span class="rank-name-dl">Mitsue</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
+|1|1209|<span class="rank-name-dl">畦元 隆成</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
+|2|1125|<span class="rank-name-dl">あすか☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
+|3|1123|<span class="rank-name-dl">(本)あすか☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
+|4|1073|<span class="rank-name-dl">なおちゃん☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
+|5|1029|<span class="rank-name-dl">長谷川　晃司</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
+|6|1001|<span class="rank-name-dl">Kotaro</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
+|7|983|<span class="rank-name-dl">まもさん☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
+|8|969|<span class="rank-name-dl">ゴチ・テイラー</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
+|9|964|<span class="rank-name-dl">たけし☆爆音☆</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
+|10|963|<span class="rank-name-dl">はる</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
+|11|957|<span class="rank-name-dl">しょま☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
+|12|951|<span class="rank-name-dl">たけし☆爆音‪☆</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
+|13|950|<span class="rank-name-dl">川﨑 翔馬</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
+|14|946|<span class="rank-name-dl">ゆ→じゅ･･･ん？</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
+|15|911|<span class="rank-name-dl">やましー☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
+|15|911|<span class="rank-name-dl">やーそん☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
+|17|910|<span class="rank-name-dl">世界∞</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
+|18|906|<span class="rank-name-dl">やんまにー</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
+|19|902|<span class="rank-name-dl">ＤＡＩ</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
+|20|894|<span class="rank-name-dl">911</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
+|21|740|<span class="rank-name-dl">りな@T&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
+|22|718|<span class="rank-name-dl">みーとぱすた教</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
+|23|680|<span class="rank-name-dl">まちゃ☆爆音/Ⅱ</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
+|24|674|<span class="rank-name-dl">のすけ☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
+|25|626|<span class="rank-name-dl">平間　葵</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
+|26|546|<span class="rank-name-dl">SEINA</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
+|27|512|<span class="rank-name-dl">T-gate</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
+|28|506|<span class="rank-name-dl">ニャン汰(=・・=)</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
+|29|495|<span class="rank-name-dl">ミートパスタ教</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
+|30|395|<span class="rank-name-dl">Mitsue</span>|<a href="https://search.dartslive.com/jp/shop/16e871fc133f58080d9b047a20a7ba1e">Darts＆Billiard Valley King</a>|<a href="/darts/rank/神奈川県/綾瀬市">神奈川県綾瀬市</a>|
 
 
 #### PHOENIXDARTS TOP 100

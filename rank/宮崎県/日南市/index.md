@@ -23,9 +23,11 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|386|<span class="rank-name-pd">0274_0362</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84410?s_seq=84410">ピラータ</a>|<a href="/darts/rank/宮崎県/日南市">宮崎県日南市</a>|
-|2|353|<span class="rank-name-pd">Dai</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84410?s_seq=84410">ピラータ</a>|<a href="/darts/rank/宮崎県/日南市">宮崎県日南市</a>|
-|3|345|<span class="rank-name-pd">チャッキー NO.13</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84410?s_seq=84410">ピラータ</a>|<a href="/darts/rank/宮崎県/日南市">宮崎県日南市</a>|
+|1|678|<span class="rank-name-pd">0047_9899</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84410?s_seq=84410">ピラータ</a>|<a href="/darts/rank/宮崎県/日南市">宮崎県日南市</a>|
+|2|634|<span class="rank-name-pd">0112_4466</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84410?s_seq=84410">ピラータ</a>|<a href="/darts/rank/宮崎県/日南市">宮崎県日南市</a>|
+|3|386|<span class="rank-name-pd">0274_0362</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84410?s_seq=84410">ピラータ</a>|<a href="/darts/rank/宮崎県/日南市">宮崎県日南市</a>|
+|4|353|<span class="rank-name-pd">Dai</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84410?s_seq=84410">ピラータ</a>|<a href="/darts/rank/宮崎県/日南市">宮崎県日南市</a>|
+|5|345|<span class="rank-name-pd">チャッキー NO.13</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84410?s_seq=84410">ピラータ</a>|<a href="/darts/rank/宮崎県/日南市">宮崎県日南市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -45,9 +47,11 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|386|<span class="rank-name-pd">0274_0362</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84410?s_seq=84410">ピラータ</a>|<a href="/darts/rank/宮崎県/日南市">宮崎県日南市</a>|
-|2|353|<span class="rank-name-pd">Dai</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84410?s_seq=84410">ピラータ</a>|<a href="/darts/rank/宮崎県/日南市">宮崎県日南市</a>|
-|3|345|<span class="rank-name-pd">チャッキー NO.13</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84410?s_seq=84410">ピラータ</a>|<a href="/darts/rank/宮崎県/日南市">宮崎県日南市</a>|
+|1|678|<span class="rank-name-pd">0047_9899</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84410?s_seq=84410">ピラータ</a>|<a href="/darts/rank/宮崎県/日南市">宮崎県日南市</a>|
+|2|634|<span class="rank-name-pd">0112_4466</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84410?s_seq=84410">ピラータ</a>|<a href="/darts/rank/宮崎県/日南市">宮崎県日南市</a>|
+|3|386|<span class="rank-name-pd">0274_0362</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84410?s_seq=84410">ピラータ</a>|<a href="/darts/rank/宮崎県/日南市">宮崎県日南市</a>|
+|4|353|<span class="rank-name-pd">Dai</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84410?s_seq=84410">ピラータ</a>|<a href="/darts/rank/宮崎県/日南市">宮崎県日南市</a>|
+|5|345|<span class="rank-name-pd">チャッキー NO.13</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84410?s_seq=84410">ピラータ</a>|<a href="/darts/rank/宮崎県/日南市">宮崎県日南市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

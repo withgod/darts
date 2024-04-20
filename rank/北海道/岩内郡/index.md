@@ -27,10 +27,13 @@ ___
 |2|937|<span class="rank-name-pd">タギ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67449?s_seq=67449">ライブ！アライブ！！キングダム</a>|<a href="/darts/rank/北海道/岩内郡">北海道岩内郡</a>|
 |3|901|<span class="rank-name-pd">シルバー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67449?s_seq=67449">ライブ！アライブ！！キングダム</a>|<a href="/darts/rank/北海道/岩内郡">北海道岩内郡</a>|
 |4|898|<span class="rank-name-pd">HaRu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67449?s_seq=67449">ライブ！アライブ！！キングダム</a>|<a href="/darts/rank/北海道/岩内郡">北海道岩内郡</a>|
-|5|681|<span class="rank-name-pd">PORIN(^^ゞ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67449?s_seq=67449">ライブ！アライブ！！キングダム</a>|<a href="/darts/rank/北海道/岩内郡">北海道岩内郡</a>|
-|6|613|<span class="rank-name-pd">ゴッチ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67449?s_seq=67449">ライブ！アライブ！！キングダム</a>|<a href="/darts/rank/北海道/岩内郡">北海道岩内郡</a>|
-|7|597|<span class="rank-name-pd">hyper_PORIN^-^</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67449?s_seq=67449">ライブ！アライブ！！キングダム</a>|<a href="/darts/rank/北海道/岩内郡">北海道岩内郡</a>|
-|8|544|<span class="rank-name-pd">みー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67449?s_seq=67449">ライブ！アライブ！！キングダム</a>|<a href="/darts/rank/北海道/岩内郡">北海道岩内郡</a>|
+|5|823|<span class="rank-name-pd">うなぎ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67449?s_seq=67449">ライブ！アライブ！！キングダム</a>|<a href="/darts/rank/北海道/岩内郡">北海道岩内郡</a>|
+|6|681|<span class="rank-name-pd">PORIN(^^ゞ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67449?s_seq=67449">ライブ！アライブ！！キングダム</a>|<a href="/darts/rank/北海道/岩内郡">北海道岩内郡</a>|
+|7|613|<span class="rank-name-pd">ゴッチ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67449?s_seq=67449">ライブ！アライブ！！キングダム</a>|<a href="/darts/rank/北海道/岩内郡">北海道岩内郡</a>|
+|8|597|<span class="rank-name-pd">hyper_PORIN^-^</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67449?s_seq=67449">ライブ！アライブ！！キングダム</a>|<a href="/darts/rank/北海道/岩内郡">北海道岩内郡</a>|
+|9|572|<span class="rank-name-pd">YUKINARI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67449?s_seq=67449">ライブ！アライブ！！キングダム</a>|<a href="/darts/rank/北海道/岩内郡">北海道岩内郡</a>|
+|10|544|<span class="rank-name-pd">みー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67449?s_seq=67449">ライブ！アライブ！！キングダム</a>|<a href="/darts/rank/北海道/岩内郡">北海道岩内郡</a>|
+|11|515|<span class="rank-name-pd">TERUMA!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67449?s_seq=67449">ライブ！アライブ！！キングダム</a>|<a href="/darts/rank/北海道/岩内郡">北海道岩内郡</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -54,10 +57,13 @@ ___
 |2|937|<span class="rank-name-pd">タギ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67449?s_seq=67449">ライブ！アライブ！！キングダム</a>|<a href="/darts/rank/北海道/岩内郡">北海道岩内郡</a>|
 |3|901|<span class="rank-name-pd">シルバー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67449?s_seq=67449">ライブ！アライブ！！キングダム</a>|<a href="/darts/rank/北海道/岩内郡">北海道岩内郡</a>|
 |4|898|<span class="rank-name-pd">HaRu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67449?s_seq=67449">ライブ！アライブ！！キングダム</a>|<a href="/darts/rank/北海道/岩内郡">北海道岩内郡</a>|
-|5|681|<span class="rank-name-pd">PORIN(^^ゞ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67449?s_seq=67449">ライブ！アライブ！！キングダム</a>|<a href="/darts/rank/北海道/岩内郡">北海道岩内郡</a>|
-|6|613|<span class="rank-name-pd">ゴッチ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67449?s_seq=67449">ライブ！アライブ！！キングダム</a>|<a href="/darts/rank/北海道/岩内郡">北海道岩内郡</a>|
-|7|597|<span class="rank-name-pd">hyper_PORIN^-^</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67449?s_seq=67449">ライブ！アライブ！！キングダム</a>|<a href="/darts/rank/北海道/岩内郡">北海道岩内郡</a>|
-|8|544|<span class="rank-name-pd">みー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67449?s_seq=67449">ライブ！アライブ！！キングダム</a>|<a href="/darts/rank/北海道/岩内郡">北海道岩内郡</a>|
+|5|823|<span class="rank-name-pd">うなぎ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67449?s_seq=67449">ライブ！アライブ！！キングダム</a>|<a href="/darts/rank/北海道/岩内郡">北海道岩内郡</a>|
+|6|681|<span class="rank-name-pd">PORIN(^^ゞ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67449?s_seq=67449">ライブ！アライブ！！キングダム</a>|<a href="/darts/rank/北海道/岩内郡">北海道岩内郡</a>|
+|7|613|<span class="rank-name-pd">ゴッチ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67449?s_seq=67449">ライブ！アライブ！！キングダム</a>|<a href="/darts/rank/北海道/岩内郡">北海道岩内郡</a>|
+|8|597|<span class="rank-name-pd">hyper_PORIN^-^</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67449?s_seq=67449">ライブ！アライブ！！キングダム</a>|<a href="/darts/rank/北海道/岩内郡">北海道岩内郡</a>|
+|9|572|<span class="rank-name-pd">YUKINARI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67449?s_seq=67449">ライブ！アライブ！！キングダム</a>|<a href="/darts/rank/北海道/岩内郡">北海道岩内郡</a>|
+|10|544|<span class="rank-name-pd">みー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67449?s_seq=67449">ライブ！アライブ！！キングダム</a>|<a href="/darts/rank/北海道/岩内郡">北海道岩内郡</a>|
+|11|515|<span class="rank-name-pd">TERUMA!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67449?s_seq=67449">ライブ！アライブ！！キングダム</a>|<a href="/darts/rank/北海道/岩内郡">北海道岩内郡</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

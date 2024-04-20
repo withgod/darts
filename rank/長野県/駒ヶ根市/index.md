@@ -23,20 +23,29 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1123|<span class="rank-name-dl">Mac</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
+|1|1130|<span class="rank-name-dl">Mac</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
 |2|1119|<span class="rank-name-dl">Yuki</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
-|3|890|<span class="rank-name-dl">ちか　Solria</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
-|4|822|<span class="rank-name-dl">ちか　店用</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
-|5|815|<span class="rank-name-dl">Yuuki</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
-|6|791|<span class="rank-name-dl">みー</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
-|7|752|<span class="rank-name-dl">NO NAME 3335</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
-|8|707|<span class="rank-name-dl">KEN</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
-|9|645|<span class="rank-name-dl">ぽんこつSio醤油</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
-|10|626|<span class="rank-name-dl">NO NAME 4423</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
-|11|624|<span class="rank-name-dl">Keita</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
-|11|624|<span class="rank-name-dl">⬇️↘️➡️＋P</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
-|13|600|<span class="rank-name-dl">mino</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
-|14|449|<span class="rank-name-dl">NO NAME 2657</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
+|3|1005|<span class="rank-name-dl">後藤優季</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
+|4|974|<span class="rank-name-dl">ちか　Solria</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
+|5|952|<span class="rank-name-dl">⬇️↘️➡️＋P</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
+|6|870|<span class="rank-name-dl">つば九郎@solria</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
+|7|869|<span class="rank-name-dl">みー</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
+|8|842|<span class="rank-name-dl">くまーー</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
+|9|822|<span class="rank-name-dl">ちか　店用</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
+|10|815|<span class="rank-name-dl">Yuuki</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
+|11|752|<span class="rank-name-dl">NO NAME 3335</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
+|12|729|<span class="rank-name-dl">薔薇雪</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
+|13|707|<span class="rank-name-dl">KEN</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
+|14|676|<span class="rank-name-dl">マッシー投族</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
+|15|665|<span class="rank-name-dl">食う寝る三度出す</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
+|16|645|<span class="rank-name-dl">ぽんこつSio醤油</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
+|17|640|<span class="rank-name-dl">ねおん</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
+|18|626|<span class="rank-name-dl">NO NAME 4423</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
+|19|624|<span class="rank-name-dl">Keita</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
+|20|616|<span class="rank-name-dl">Yu-ki@now</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
+|21|600|<span class="rank-name-dl">mino</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
+|22|579|<span class="rank-name-dl">ふく</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
+|23|449|<span class="rank-name-dl">NO NAME 2657</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -46,20 +55,29 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1123|<span class="rank-name-dl">Mac</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
+|1|1130|<span class="rank-name-dl">Mac</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
 |2|1119|<span class="rank-name-dl">Yuki</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
-|3|890|<span class="rank-name-dl">ちか　Solria</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
-|4|822|<span class="rank-name-dl">ちか　店用</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
-|5|815|<span class="rank-name-dl">Yuuki</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
-|6|791|<span class="rank-name-dl">みー</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
-|7|752|<span class="rank-name-dl">NO NAME 3335</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
-|8|707|<span class="rank-name-dl">KEN</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
-|9|645|<span class="rank-name-dl">ぽんこつSio醤油</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
-|10|626|<span class="rank-name-dl">NO NAME 4423</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
-|11|624|<span class="rank-name-dl">Keita</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
-|11|624|<span class="rank-name-dl">⬇️↘️➡️＋P</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
-|13|600|<span class="rank-name-dl">mino</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
-|14|449|<span class="rank-name-dl">NO NAME 2657</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
+|3|1005|<span class="rank-name-dl">後藤優季</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
+|4|974|<span class="rank-name-dl">ちか　Solria</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
+|5|952|<span class="rank-name-dl">⬇️↘️➡️＋P</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
+|6|870|<span class="rank-name-dl">つば九郎@solria</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
+|7|869|<span class="rank-name-dl">みー</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
+|8|842|<span class="rank-name-dl">くまーー</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
+|9|822|<span class="rank-name-dl">ちか　店用</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
+|10|815|<span class="rank-name-dl">Yuuki</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
+|11|752|<span class="rank-name-dl">NO NAME 3335</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
+|12|729|<span class="rank-name-dl">薔薇雪</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
+|13|707|<span class="rank-name-dl">KEN</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
+|14|676|<span class="rank-name-dl">マッシー投族</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
+|15|665|<span class="rank-name-dl">食う寝る三度出す</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
+|16|645|<span class="rank-name-dl">ぽんこつSio醤油</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
+|17|640|<span class="rank-name-dl">ねおん</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
+|18|626|<span class="rank-name-dl">NO NAME 4423</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
+|19|624|<span class="rank-name-dl">Keita</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
+|20|616|<span class="rank-name-dl">Yu-ki@now</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
+|21|600|<span class="rank-name-dl">mino</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
+|22|579|<span class="rank-name-dl">ふく</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
+|23|449|<span class="rank-name-dl">NO NAME 2657</span>|<a href="https://search.dartslive.com/jp/shop/61bf7620a77f283ba3f63593b5358cc4">Darts & Bar Solria</a>|<a href="/darts/rank/長野県/駒ヶ根市">長野県駒ヶ根市</a>|
 
 
 #### PHOENIXDARTS TOP 100

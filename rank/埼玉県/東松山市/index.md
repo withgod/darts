@@ -27,21 +27,36 @@ ___
 |2|964|<span class="rank-name-dl">鈴木雄大</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
 |3|941|<span class="rank-name-dl">Fujino</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
 |4|939|<span class="rank-name-dl">Fu-JIN</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
-|5|810|<span class="rank-name-dl">えーじ</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
-|6|763|<span class="rank-name-dl">鎌瀬@Nurse man</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
-|7|760|<span class="rank-name-dl">じゃがたむ</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
-|8|756|<span class="rank-name-dl">月輪</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
-|9|748|<span class="rank-name-dl">stainless boy</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
-|10|719|<span class="rank-name-dl">taku</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
-|11|715|<span class="rank-name-dl">♪TAZAKA♪</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
-|12|711|<span class="rank-name-dl">ｹｰｽｹa.k.aｳｯﾁｰ</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
-|13|700|<span class="rank-name-dl">NO NAME 7360</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
-|14|689|<span class="rank-name-dl">マシュマロ</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
-|15|683|<span class="rank-name-dl">五葉松</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
-|16|661|<span class="rank-name-dl">NO NAME 8230</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
-|17|654|<span class="rank-name-dl">SG</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
-|18|599|<span class="rank-name-dl">うーたん</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
-|19|367|<span class="rank-name-dl">あきねえ</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
+|5|903|<span class="rank-name-dl">きっくん</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
+|6|873|<span class="rank-name-dl">レジギガス</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
+|7|810|<span class="rank-name-dl">えーじ</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
+|8|763|<span class="rank-name-dl">鎌瀬@Nurse man</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
+|9|760|<span class="rank-name-dl">じゃがたむ</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
+|10|756|<span class="rank-name-dl">月輪</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
+|11|748|<span class="rank-name-dl">stainless boy</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
+|12|719|<span class="rank-name-dl">taku</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
+|13|715|<span class="rank-name-dl">♪TAZAKA♪</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
+|14|711|<span class="rank-name-dl">ｹｰｽｹa.k.aｳｯﾁｰ</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
+|15|700|<span class="rank-name-dl">NO NAME 7360</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
+|16|689|<span class="rank-name-dl">マシュマロ</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
+|16|689|<span class="rank-name-dl">メルル</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
+|18|686|<span class="rank-name-dl">う～やん</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
+|19|683|<span class="rank-name-dl">五葉松</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
+|20|680|<span class="rank-name-dl">ユウキ</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
+|21|661|<span class="rank-name-dl">NO NAME 8230</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
+|22|654|<span class="rank-name-dl">SG</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
+|23|646|<span class="rank-name-dl">u-yan</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
+|24|642|<span class="rank-name-dl">もちまる</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
+|25|627|<span class="rank-name-dl">xx32xx</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
+|26|617|<span class="rank-name-dl">すけ</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
+|27|612|<span class="rank-name-dl">そう</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
+|28|599|<span class="rank-name-dl">うーたん</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
+|29|579|<span class="rank-name-dl">Ｓｏｄａｉ．Ｋ</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
+|30|576|<span class="rank-name-dl">ぴこちぃ</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
+|31|569|<span class="rank-name-dl">taiga</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
+|32|567|<span class="rank-name-dl">Aladdin</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
+|33|419|<span class="rank-name-dl">youhua</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
+|34|367|<span class="rank-name-dl">あきねえ</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -55,21 +70,36 @@ ___
 |2|964|<span class="rank-name-dl">鈴木雄大</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
 |3|941|<span class="rank-name-dl">Fujino</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
 |4|939|<span class="rank-name-dl">Fu-JIN</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
-|5|810|<span class="rank-name-dl">えーじ</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
-|6|763|<span class="rank-name-dl">鎌瀬@Nurse man</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
-|7|760|<span class="rank-name-dl">じゃがたむ</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
-|8|756|<span class="rank-name-dl">月輪</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
-|9|748|<span class="rank-name-dl">stainless boy</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
-|10|719|<span class="rank-name-dl">taku</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
-|11|715|<span class="rank-name-dl">♪TAZAKA♪</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
-|12|711|<span class="rank-name-dl">ｹｰｽｹa.k.aｳｯﾁｰ</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
-|13|700|<span class="rank-name-dl">NO NAME 7360</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
-|14|689|<span class="rank-name-dl">マシュマロ</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
-|15|683|<span class="rank-name-dl">五葉松</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
-|16|661|<span class="rank-name-dl">NO NAME 8230</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
-|17|654|<span class="rank-name-dl">SG</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
-|18|599|<span class="rank-name-dl">うーたん</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
-|19|367|<span class="rank-name-dl">あきねえ</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
+|5|903|<span class="rank-name-dl">きっくん</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
+|6|873|<span class="rank-name-dl">レジギガス</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
+|7|810|<span class="rank-name-dl">えーじ</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
+|8|763|<span class="rank-name-dl">鎌瀬@Nurse man</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
+|9|760|<span class="rank-name-dl">じゃがたむ</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
+|10|756|<span class="rank-name-dl">月輪</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
+|11|748|<span class="rank-name-dl">stainless boy</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
+|12|719|<span class="rank-name-dl">taku</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
+|13|715|<span class="rank-name-dl">♪TAZAKA♪</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
+|14|711|<span class="rank-name-dl">ｹｰｽｹa.k.aｳｯﾁｰ</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
+|15|700|<span class="rank-name-dl">NO NAME 7360</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
+|16|689|<span class="rank-name-dl">マシュマロ</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
+|16|689|<span class="rank-name-dl">メルル</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
+|18|686|<span class="rank-name-dl">う～やん</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
+|19|683|<span class="rank-name-dl">五葉松</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
+|20|680|<span class="rank-name-dl">ユウキ</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
+|21|661|<span class="rank-name-dl">NO NAME 8230</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
+|22|654|<span class="rank-name-dl">SG</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
+|23|646|<span class="rank-name-dl">u-yan</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
+|24|642|<span class="rank-name-dl">もちまる</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
+|25|627|<span class="rank-name-dl">xx32xx</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
+|26|617|<span class="rank-name-dl">すけ</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
+|27|612|<span class="rank-name-dl">そう</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
+|28|599|<span class="rank-name-dl">うーたん</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
+|29|579|<span class="rank-name-dl">Ｓｏｄａｉ．Ｋ</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
+|30|576|<span class="rank-name-dl">ぴこちぃ</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
+|31|569|<span class="rank-name-dl">taiga</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
+|32|567|<span class="rank-name-dl">Aladdin</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
+|33|419|<span class="rank-name-dl">youhua</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
+|34|367|<span class="rank-name-dl">あきねえ</span>|<a href="https://search.dartslive.com/jp/shop/90599e9d01166a770d9b047a20a7ba1e">カラオケBANBAN東松山駅前店</a>|<a href="/darts/rank/埼玉県/東松山市">埼玉県東松山市</a>|
 
 
 #### PHOENIXDARTS TOP 100

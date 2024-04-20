@@ -24,15 +24,20 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|755|<span class="rank-name-pd">623</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77033?s_seq=77033">Bar Ai623</a>|<a href="/darts/rank/鹿児島県/志布志市">鹿児島県志布志市</a>|
-|2|734|<span class="rank-name-pd">sarug</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77033?s_seq=77033">Bar Ai623</a>|<a href="/darts/rank/鹿児島県/志布志市">鹿児島県志布志市</a>|
-|3|714|<span class="rank-name-pd">MOKICHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77033?s_seq=77033">Bar Ai623</a>|<a href="/darts/rank/鹿児島県/志布志市">鹿児島県志布志市</a>|
-|4|425|<span class="rank-name-pd">AIPARON</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77033?s_seq=77033">Bar Ai623</a>|<a href="/darts/rank/鹿児島県/志布志市">鹿児島県志布志市</a>|
-|5|411|<span class="rank-name-pd">SAYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77033?s_seq=77033">Bar Ai623</a>|<a href="/darts/rank/鹿児島県/志布志市">鹿児島県志布志市</a>|
-|6|404|<span class="rank-name-pd">ゆう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77033?s_seq=77033">Bar Ai623</a>|<a href="/darts/rank/鹿児島県/志布志市">鹿児島県志布志市</a>|
-|7|386|<span class="rank-name-pd">ISEEI-1997</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77033?s_seq=77033">Bar Ai623</a>|<a href="/darts/rank/鹿児島県/志布志市">鹿児島県志布志市</a>|
-|8|380|<span class="rank-name-pd">NITTOMO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77033?s_seq=77033">Bar Ai623</a>|<a href="/darts/rank/鹿児島県/志布志市">鹿児島県志布志市</a>|
-|9|325|<span class="rank-name-pd">KO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77033?s_seq=77033">Bar Ai623</a>|<a href="/darts/rank/鹿児島県/志布志市">鹿児島県志布志市</a>|
-|10|282|<span class="rank-name-pd">エビ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77033?s_seq=77033">Bar Ai623</a>|<a href="/darts/rank/鹿児島県/志布志市">鹿児島県志布志市</a>|
+|2|743|<span class="rank-name-pd">YUU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77033?s_seq=77033">Bar Ai623</a>|<a href="/darts/rank/鹿児島県/志布志市">鹿児島県志布志市</a>|
+|3|734|<span class="rank-name-pd">sarug</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77033?s_seq=77033">Bar Ai623</a>|<a href="/darts/rank/鹿児島県/志布志市">鹿児島県志布志市</a>|
+|4|714|<span class="rank-name-pd">MOKICHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77033?s_seq=77033">Bar Ai623</a>|<a href="/darts/rank/鹿児島県/志布志市">鹿児島県志布志市</a>|
+|5|556|<span class="rank-name-pd">いっせーぴょん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77033?s_seq=77033">Bar Ai623</a>|<a href="/darts/rank/鹿児島県/志布志市">鹿児島県志布志市</a>|
+|6|531|<span class="rank-name-pd">JohnDoeGonbe</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77033?s_seq=77033">Bar Ai623</a>|<a href="/darts/rank/鹿児島県/志布志市">鹿児島県志布志市</a>|
+|7|451|<span class="rank-name-pd">煮込</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77033?s_seq=77033">Bar Ai623</a>|<a href="/darts/rank/鹿児島県/志布志市">鹿児島県志布志市</a>|
+|8|434|<span class="rank-name-pd">SAYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77033?s_seq=77033">Bar Ai623</a>|<a href="/darts/rank/鹿児島県/志布志市">鹿児島県志布志市</a>|
+|9|427|<span class="rank-name-pd">AIPARON</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77033?s_seq=77033">Bar Ai623</a>|<a href="/darts/rank/鹿児島県/志布志市">鹿児島県志布志市</a>|
+|10|404|<span class="rank-name-pd">ゆう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77033?s_seq=77033">Bar Ai623</a>|<a href="/darts/rank/鹿児島県/志布志市">鹿児島県志布志市</a>|
+|11|402|<span class="rank-name-pd">HIRO516</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77033?s_seq=77033">Bar Ai623</a>|<a href="/darts/rank/鹿児島県/志布志市">鹿児島県志布志市</a>|
+|12|386|<span class="rank-name-pd">ISEEI-1997</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77033?s_seq=77033">Bar Ai623</a>|<a href="/darts/rank/鹿児島県/志布志市">鹿児島県志布志市</a>|
+|13|380|<span class="rank-name-pd">NITTOMO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77033?s_seq=77033">Bar Ai623</a>|<a href="/darts/rank/鹿児島県/志布志市">鹿児島県志布志市</a>|
+|14|325|<span class="rank-name-pd">KO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77033?s_seq=77033">Bar Ai623</a>|<a href="/darts/rank/鹿児島県/志布志市">鹿児島県志布志市</a>|
+|15|282|<span class="rank-name-pd">エビ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77033?s_seq=77033">Bar Ai623</a>|<a href="/darts/rank/鹿児島県/志布志市">鹿児島県志布志市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -53,15 +58,20 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|755|<span class="rank-name-pd">623</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77033?s_seq=77033">Bar Ai623</a>|<a href="/darts/rank/鹿児島県/志布志市">鹿児島県志布志市</a>|
-|2|734|<span class="rank-name-pd">sarug</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77033?s_seq=77033">Bar Ai623</a>|<a href="/darts/rank/鹿児島県/志布志市">鹿児島県志布志市</a>|
-|3|714|<span class="rank-name-pd">MOKICHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77033?s_seq=77033">Bar Ai623</a>|<a href="/darts/rank/鹿児島県/志布志市">鹿児島県志布志市</a>|
-|4|425|<span class="rank-name-pd">AIPARON</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77033?s_seq=77033">Bar Ai623</a>|<a href="/darts/rank/鹿児島県/志布志市">鹿児島県志布志市</a>|
-|5|411|<span class="rank-name-pd">SAYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77033?s_seq=77033">Bar Ai623</a>|<a href="/darts/rank/鹿児島県/志布志市">鹿児島県志布志市</a>|
-|6|404|<span class="rank-name-pd">ゆう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77033?s_seq=77033">Bar Ai623</a>|<a href="/darts/rank/鹿児島県/志布志市">鹿児島県志布志市</a>|
-|7|386|<span class="rank-name-pd">ISEEI-1997</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77033?s_seq=77033">Bar Ai623</a>|<a href="/darts/rank/鹿児島県/志布志市">鹿児島県志布志市</a>|
-|8|380|<span class="rank-name-pd">NITTOMO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77033?s_seq=77033">Bar Ai623</a>|<a href="/darts/rank/鹿児島県/志布志市">鹿児島県志布志市</a>|
-|9|325|<span class="rank-name-pd">KO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77033?s_seq=77033">Bar Ai623</a>|<a href="/darts/rank/鹿児島県/志布志市">鹿児島県志布志市</a>|
-|10|282|<span class="rank-name-pd">エビ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77033?s_seq=77033">Bar Ai623</a>|<a href="/darts/rank/鹿児島県/志布志市">鹿児島県志布志市</a>|
+|2|743|<span class="rank-name-pd">YUU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77033?s_seq=77033">Bar Ai623</a>|<a href="/darts/rank/鹿児島県/志布志市">鹿児島県志布志市</a>|
+|3|734|<span class="rank-name-pd">sarug</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77033?s_seq=77033">Bar Ai623</a>|<a href="/darts/rank/鹿児島県/志布志市">鹿児島県志布志市</a>|
+|4|714|<span class="rank-name-pd">MOKICHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77033?s_seq=77033">Bar Ai623</a>|<a href="/darts/rank/鹿児島県/志布志市">鹿児島県志布志市</a>|
+|5|556|<span class="rank-name-pd">いっせーぴょん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77033?s_seq=77033">Bar Ai623</a>|<a href="/darts/rank/鹿児島県/志布志市">鹿児島県志布志市</a>|
+|6|531|<span class="rank-name-pd">JohnDoeGonbe</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77033?s_seq=77033">Bar Ai623</a>|<a href="/darts/rank/鹿児島県/志布志市">鹿児島県志布志市</a>|
+|7|451|<span class="rank-name-pd">煮込</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77033?s_seq=77033">Bar Ai623</a>|<a href="/darts/rank/鹿児島県/志布志市">鹿児島県志布志市</a>|
+|8|434|<span class="rank-name-pd">SAYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77033?s_seq=77033">Bar Ai623</a>|<a href="/darts/rank/鹿児島県/志布志市">鹿児島県志布志市</a>|
+|9|427|<span class="rank-name-pd">AIPARON</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77033?s_seq=77033">Bar Ai623</a>|<a href="/darts/rank/鹿児島県/志布志市">鹿児島県志布志市</a>|
+|10|404|<span class="rank-name-pd">ゆう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77033?s_seq=77033">Bar Ai623</a>|<a href="/darts/rank/鹿児島県/志布志市">鹿児島県志布志市</a>|
+|11|402|<span class="rank-name-pd">HIRO516</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77033?s_seq=77033">Bar Ai623</a>|<a href="/darts/rank/鹿児島県/志布志市">鹿児島県志布志市</a>|
+|12|386|<span class="rank-name-pd">ISEEI-1997</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77033?s_seq=77033">Bar Ai623</a>|<a href="/darts/rank/鹿児島県/志布志市">鹿児島県志布志市</a>|
+|13|380|<span class="rank-name-pd">NITTOMO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77033?s_seq=77033">Bar Ai623</a>|<a href="/darts/rank/鹿児島県/志布志市">鹿児島県志布志市</a>|
+|14|325|<span class="rank-name-pd">KO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77033?s_seq=77033">Bar Ai623</a>|<a href="/darts/rank/鹿児島県/志布志市">鹿児島県志布志市</a>|
+|15|282|<span class="rank-name-pd">エビ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_77033?s_seq=77033">Bar Ai623</a>|<a href="/darts/rank/鹿児島県/志布志市">鹿児島県志布志市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

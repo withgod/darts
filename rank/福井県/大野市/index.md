@@ -23,16 +23,22 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|880|<span class="rank-name-pd">齋藤 恭央</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8800?s_seq=8800">Boston Club</a>|<a href="/darts/rank/福井県/大野市">福井県大野市</a>|
-|2|841|<span class="rank-name-pd">ちぇいちぇい（黄担）</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8800?s_seq=8800">Boston Club</a>|<a href="/darts/rank/福井県/大野市">福井県大野市</a>|
-|3|801|<span class="rank-name-pd">真ん中の番人　マイケル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8800?s_seq=8800">Boston Club</a>|<a href="/darts/rank/福井県/大野市">福井県大野市</a>|
-|4|795|<span class="rank-name-pd">大臣</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8800?s_seq=8800">Boston Club</a>|<a href="/darts/rank/福井県/大野市">福井県大野市</a>|
-|5|791|<span class="rank-name-pd">だいふく</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8800?s_seq=8800">Boston Club</a>|<a href="/darts/rank/福井県/大野市">福井県大野市</a>|
-|6|659|<span class="rank-name-pd">saori</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8800?s_seq=8800">Boston Club</a>|<a href="/darts/rank/福井県/大野市">福井県大野市</a>|
-|7|598|<span class="rank-name-pd">めめめめ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8800?s_seq=8800">Boston Club</a>|<a href="/darts/rank/福井県/大野市">福井県大野市</a>|
-|8|583|<span class="rank-name-pd">アッパマン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8800?s_seq=8800">Boston Club</a>|<a href="/darts/rank/福井県/大野市">福井県大野市</a>|
-|9|416|<span class="rank-name-pd">☆☆KuRi☆☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8800?s_seq=8800">Boston Club</a>|<a href="/darts/rank/福井県/大野市">福井県大野市</a>|
-|10|348|<span class="rank-name-pd">maa728</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8800?s_seq=8800">Boston Club</a>|<a href="/darts/rank/福井県/大野市">福井県大野市</a>|
+|1|925|<span class="rank-name-pd"><span class="pro-icon-pd"></span>齋藤 恭央</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8800?s_seq=8800">Boston Club</a>|<a href="/darts/rank/福井県/大野市">福井県大野市</a>|
+|2|853|<span class="rank-name-pd">杉田 拓哉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8800?s_seq=8800">Boston Club</a>|<a href="/darts/rank/福井県/大野市">福井県大野市</a>|
+|3|841|<span class="rank-name-pd">ちぇいちぇい（黄担）</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8800?s_seq=8800">Boston Club</a>|<a href="/darts/rank/福井県/大野市">福井県大野市</a>|
+|4|822|<span class="rank-name-pd">真ん中の番人　マイケル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8800?s_seq=8800">Boston Club</a>|<a href="/darts/rank/福井県/大野市">福井県大野市</a>|
+|5|802|<span class="rank-name-pd">だいふく</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8800?s_seq=8800">Boston Club</a>|<a href="/darts/rank/福井県/大野市">福井県大野市</a>|
+|6|795|<span class="rank-name-pd">大臣</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8800?s_seq=8800">Boston Club</a>|<a href="/darts/rank/福井県/大野市">福井県大野市</a>|
+|7|757|<span class="rank-name-pd"><span class="pro-icon-pd"></span>木原 正貴</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8800?s_seq=8800">Boston Club</a>|<a href="/darts/rank/福井県/大野市">福井県大野市</a>|
+|8|659|<span class="rank-name-pd">saori</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8800?s_seq=8800">Boston Club</a>|<a href="/darts/rank/福井県/大野市">福井県大野市</a>|
+|9|598|<span class="rank-name-pd">めめめめ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8800?s_seq=8800">Boston Club</a>|<a href="/darts/rank/福井県/大野市">福井県大野市</a>|
+|10|585|<span class="rank-name-pd">アッパマン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8800?s_seq=8800">Boston Club</a>|<a href="/darts/rank/福井県/大野市">福井県大野市</a>|
+|11|531|<span class="rank-name-pd">iceboyyyy</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8800?s_seq=8800">Boston Club</a>|<a href="/darts/rank/福井県/大野市">福井県大野市</a>|
+|12|526|<span class="rank-name-pd">Bostonclubおとやん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8800?s_seq=8800">Boston Club</a>|<a href="/darts/rank/福井県/大野市">福井県大野市</a>|
+|13|517|<span class="rank-name-pd">掘りごたつ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8800?s_seq=8800">Boston Club</a>|<a href="/darts/rank/福井県/大野市">福井県大野市</a>|
+|14|416|<span class="rank-name-pd">☆☆KuRi☆☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8800?s_seq=8800">Boston Club</a>|<a href="/darts/rank/福井県/大野市">福井県大野市</a>|
+|15|348|<span class="rank-name-pd">maa728</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8800?s_seq=8800">Boston Club</a>|<a href="/darts/rank/福井県/大野市">福井県大野市</a>|
+|16|286|<span class="rank-name-pd">実香(｀･ω･´)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8800?s_seq=8800">Boston Club</a>|<a href="/darts/rank/福井県/大野市">福井県大野市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -52,16 +58,22 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|880|<span class="rank-name-pd">齋藤 恭央</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8800?s_seq=8800">Boston Club</a>|<a href="/darts/rank/福井県/大野市">福井県大野市</a>|
-|2|841|<span class="rank-name-pd">ちぇいちぇい（黄担）</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8800?s_seq=8800">Boston Club</a>|<a href="/darts/rank/福井県/大野市">福井県大野市</a>|
-|3|801|<span class="rank-name-pd">真ん中の番人　マイケル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8800?s_seq=8800">Boston Club</a>|<a href="/darts/rank/福井県/大野市">福井県大野市</a>|
-|4|795|<span class="rank-name-pd">大臣</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8800?s_seq=8800">Boston Club</a>|<a href="/darts/rank/福井県/大野市">福井県大野市</a>|
-|5|791|<span class="rank-name-pd">だいふく</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8800?s_seq=8800">Boston Club</a>|<a href="/darts/rank/福井県/大野市">福井県大野市</a>|
-|6|659|<span class="rank-name-pd">saori</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8800?s_seq=8800">Boston Club</a>|<a href="/darts/rank/福井県/大野市">福井県大野市</a>|
-|7|598|<span class="rank-name-pd">めめめめ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8800?s_seq=8800">Boston Club</a>|<a href="/darts/rank/福井県/大野市">福井県大野市</a>|
-|8|583|<span class="rank-name-pd">アッパマン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8800?s_seq=8800">Boston Club</a>|<a href="/darts/rank/福井県/大野市">福井県大野市</a>|
-|9|416|<span class="rank-name-pd">☆☆KuRi☆☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8800?s_seq=8800">Boston Club</a>|<a href="/darts/rank/福井県/大野市">福井県大野市</a>|
-|10|348|<span class="rank-name-pd">maa728</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8800?s_seq=8800">Boston Club</a>|<a href="/darts/rank/福井県/大野市">福井県大野市</a>|
+|1|925|<span class="rank-name-pd"><span class="pro-icon-pd"></span>齋藤 恭央</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8800?s_seq=8800">Boston Club</a>|<a href="/darts/rank/福井県/大野市">福井県大野市</a>|
+|2|853|<span class="rank-name-pd">杉田 拓哉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8800?s_seq=8800">Boston Club</a>|<a href="/darts/rank/福井県/大野市">福井県大野市</a>|
+|3|841|<span class="rank-name-pd">ちぇいちぇい（黄担）</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8800?s_seq=8800">Boston Club</a>|<a href="/darts/rank/福井県/大野市">福井県大野市</a>|
+|4|822|<span class="rank-name-pd">真ん中の番人　マイケル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8800?s_seq=8800">Boston Club</a>|<a href="/darts/rank/福井県/大野市">福井県大野市</a>|
+|5|802|<span class="rank-name-pd">だいふく</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8800?s_seq=8800">Boston Club</a>|<a href="/darts/rank/福井県/大野市">福井県大野市</a>|
+|6|795|<span class="rank-name-pd">大臣</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8800?s_seq=8800">Boston Club</a>|<a href="/darts/rank/福井県/大野市">福井県大野市</a>|
+|7|757|<span class="rank-name-pd"><span class="pro-icon-pd"></span>木原 正貴</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8800?s_seq=8800">Boston Club</a>|<a href="/darts/rank/福井県/大野市">福井県大野市</a>|
+|8|659|<span class="rank-name-pd">saori</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8800?s_seq=8800">Boston Club</a>|<a href="/darts/rank/福井県/大野市">福井県大野市</a>|
+|9|598|<span class="rank-name-pd">めめめめ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8800?s_seq=8800">Boston Club</a>|<a href="/darts/rank/福井県/大野市">福井県大野市</a>|
+|10|585|<span class="rank-name-pd">アッパマン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8800?s_seq=8800">Boston Club</a>|<a href="/darts/rank/福井県/大野市">福井県大野市</a>|
+|11|531|<span class="rank-name-pd">iceboyyyy</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8800?s_seq=8800">Boston Club</a>|<a href="/darts/rank/福井県/大野市">福井県大野市</a>|
+|12|526|<span class="rank-name-pd">Bostonclubおとやん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8800?s_seq=8800">Boston Club</a>|<a href="/darts/rank/福井県/大野市">福井県大野市</a>|
+|13|517|<span class="rank-name-pd">掘りごたつ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8800?s_seq=8800">Boston Club</a>|<a href="/darts/rank/福井県/大野市">福井県大野市</a>|
+|14|416|<span class="rank-name-pd">☆☆KuRi☆☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8800?s_seq=8800">Boston Club</a>|<a href="/darts/rank/福井県/大野市">福井県大野市</a>|
+|15|348|<span class="rank-name-pd">maa728</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8800?s_seq=8800">Boston Club</a>|<a href="/darts/rank/福井県/大野市">福井県大野市</a>|
+|16|286|<span class="rank-name-pd">実香(｀･ω･´)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8800?s_seq=8800">Boston Club</a>|<a href="/darts/rank/福井県/大野市">福井県大野市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

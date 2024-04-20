@@ -25,104 +25,104 @@ ___
 |---|---|---|---|---|
 |1|1136|<span class="rank-name-pd">I am Tetsu.@S.GARAGE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_45648?s_seq=45648">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
 |2|1057|<span class="rank-name-pd">時風</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|3|975|<span class="rank-name-pd"><span class="pro-icon-pd"></span>土橋 勝利</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|4|963|<span class="rank-name-pd">ひろ㌧.｡.:✽</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|5|962|<span class="rank-name-pd"><span class="pro-icon-pd"></span>土橋 勝利</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|6|951|<span class="rank-name-pd">ゆー＄collect</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|7|929|<span class="rank-name-pd">じょう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|8|909|<span class="rank-name-pd">ゆうたDevi悪魔會</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|9|905|<span class="rank-name-pd">ぐっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|10|889|<span class="rank-name-pd">YAMA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|11|882|<span class="rank-name-dl">musashi</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|12|873|<span class="rank-name-pd">姫ぽん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|13|871|<span class="rank-name-pd">k.o.y.o.@UNIR</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|14|869|<span class="rank-name-pd">けんちゃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|15|857|<span class="rank-name-pd">けん茶</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|16|849|<span class="rank-name-pd">赤井彗星©️</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|17|845|<span class="rank-name-pd">RYU3</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_45648?s_seq=45648">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|18|843|<span class="rank-name-pd">時風</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|19|842|<span class="rank-name-pd">みなみおばちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|20|840|<span class="rank-name-pd">つばさ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|21|837|<span class="rank-name-pd">ミ ツ ル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|22|823|<span class="rank-name-pd">ﾜﾆﾜﾆ隊べろんちょ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|23|821|<span class="rank-name-pd">MUKU_110</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|23|821|<span class="rank-name-pd">PAPA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|25|820|<span class="rank-name-pd"><span class="pro-icon-pd"></span>依田 卓也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|26|815|<span class="rank-name-pd">僕はもじゃバブたんp</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|27|810|<span class="rank-name-pd">KOMMy</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|28|800|<span class="rank-name-dl">jackal</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|29|798|<span class="rank-name-pd">HAYATO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|30|794|<span class="rank-name-dl">t0127初心者</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|31|791|<span class="rank-name-pd">KOMMy</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|32|789|<span class="rank-name-pd">COL@なめち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|33|788|<span class="rank-name-pd">光成</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|34|786|<span class="rank-name-pd">くーさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|34|786|<span class="rank-name-pd">甲州小力@MRC</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|36|785|<span class="rank-name-pd">雷鳥【新菜Style】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|37|783|<span class="rank-name-dl">TAKUYA_N</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|38|779|<span class="rank-name-pd">伏見 龍也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|39|777|<span class="rank-name-pd">Kei</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|40|776|<span class="rank-name-pd">COL @ ゆかち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|41|769|<span class="rank-name-pd">HAYATO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|42|767|<span class="rank-name-pd">ぐっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|43|760|<span class="rank-name-pd">やす@ごーばす</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|44|751|<span class="rank-name-pd">(^ﾌﾙﾔﾝ^)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|45|736|<span class="rank-name-pd">やす@ごーばす</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|46|729|<span class="rank-name-pd">ひょきちん@ごーばす</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|47|723|<span class="rank-name-pd">ゆうき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|48|709|<span class="rank-name-pd">0164_1066</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|49|705|<span class="rank-name-pd">猿二代目</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|50|700|<span class="rank-name-pd">Kei</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|51|698|<span class="rank-name-pd">wolfy/松下琉夏</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|52|697|<span class="rank-name-pd">まるまる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|53|691|<span class="rank-name-pd">☆がっきー♪OVER用！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|54|689|<span class="rank-name-pd">たくまるcollect店長</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|55|684|<span class="rank-name-pd">あめ@UNIR</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|56|683|<span class="rank-name-pd"><span class="pro-icon-pd"></span>寺田 幸之助</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|57|681|<span class="rank-name-dl">めんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|58|678|<span class="rank-name-pd">けんじ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|59|671|<span class="rank-name-pd">0240_5131</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|60|668|<span class="rank-name-pd">＊ёмi＊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|61|663|<span class="rank-name-dl">有限会社ゆっちー</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|62|662|<span class="rank-name-pd">居酒屋千葉ちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|62|662|<span class="rank-name-pd">鹿</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_45648?s_seq=45648">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|64|657|<span class="rank-name-pd">りんご</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|65|656|<span class="rank-name-pd">るいぴー@UNIR</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|66|650|<span class="rank-name-pd">◯ゆいちゃん◯</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|67|638|<span class="rank-name-pd">たけ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|68|635|<span class="rank-name-pd">(*&gt;△&lt;)&lt;ﾂﾁｼﾞｭﾝ!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_45648?s_seq=45648">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|69|634|<span class="rank-name-pd">HERO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|70|632|<span class="rank-name-pd">TA-YA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|71|630|<span class="rank-name-pd">Ｌ ÿ ø n</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|72|628|<span class="rank-name-pd">り</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|73|616|<span class="rank-name-pd">どきお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|74|615|<span class="rank-name-pd">かぴしゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|75|608|<span class="rank-name-pd">0025_4251</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|76|600|<span class="rank-name-pd">LOL.K</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_45648?s_seq=45648">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|77|574|<span class="rank-name-pd">〜musubu〜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|78|573|<span class="rank-name-dl">PRIN@P</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|79|567|<span class="rank-name-pd">CIEL  てんちょー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|80|564|<span class="rank-name-pd">機関車ポーマス</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|81|556|<span class="rank-name-pd">ノッティ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|82|547|<span class="rank-name-pd">AOKING</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|82|547|<span class="rank-name-dl">サヤカ様とお呼び</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|84|546|<span class="rank-name-pd">tsuna</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|85|542|<span class="rank-name-dl">OL-AR</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|85|542|<span class="rank-name-pd">あに→THEENDER</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|87|538|<span class="rank-name-pd">Yoshi@ごーすとばすたーず</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|88|536|<span class="rank-name-pd">UP</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|89|535|<span class="rank-name-pd">めるぽん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|89|535|<span class="rank-name-pd">ミ ツ ル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_45648?s_seq=45648">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|91|534|<span class="rank-name-pd">早川司＠マリ嬢激推し</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_45648?s_seq=45648">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|92|532|<span class="rank-name-pd">ナル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_45648?s_seq=45648">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|93|523|<span class="rank-name-pd">0056_0872</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|94|522|<span class="rank-name-pd">三本線ﾆｬｰｶﾞﾝﾀﾞﾑ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|95|519|<span class="rank-name-pd">いっちー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_45648?s_seq=45648">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|95|519|<span class="rank-name-pd">なつみDevi悪魔會</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|97|518|<span class="rank-name-pd">小娘孕ませ隊副隊長</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|98|514|<span class="rank-name-pd">0173_9478</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|98|514|<span class="rank-name-pd">かぴしゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|100|510|<span class="rank-name-pd">MI-SOFU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|3|1054|<span class="rank-name-pd">吹き矢だーつぁー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|4|1038|<span class="rank-name-pd">べいぶのつばさ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_45648?s_seq=45648">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|5|1026|<span class="rank-name-dl">姫ぽん</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|6|975|<span class="rank-name-pd"><span class="pro-icon-pd"></span>土橋 勝利</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|7|969|<span class="rank-name-dl">べるせってぃ</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|8|968|<span class="rank-name-pd">ミ ツ ル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|9|963|<span class="rank-name-pd">ひろ㌧.｡.:✽</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|10|962|<span class="rank-name-pd"><span class="pro-icon-pd"></span>土橋 勝利</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|11|960|<span class="rank-name-pd">COL @ ゆかち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|12|959|<span class="rank-name-pd">ゆうたDevi悪魔會</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|13|951|<span class="rank-name-pd">ゆー＄collect</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|14|944|<span class="rank-name-pd">ゆうとんちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|15|935|<span class="rank-name-pd">べいぶのつばさ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|16|929|<span class="rank-name-pd">じょう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|17|908|<span class="rank-name-pd">Ur@-@tsushi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|18|905|<span class="rank-name-pd">ぐっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|19|904|<span class="rank-name-pd">じょう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_45648?s_seq=45648">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|20|900|<span class="rank-name-pd">たくまるcollect店長</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|21|889|<span class="rank-name-pd">YAMA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|22|888|<span class="rank-name-pd">PAPA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|23|882|<span class="rank-name-dl">musashi</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|24|873|<span class="rank-name-pd">姫ぽん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|25|871|<span class="rank-name-pd">k.o.y.o.@UNIR</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|26|869|<span class="rank-name-pd">けんちゃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|27|866|<span class="rank-name-pd">T0127</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_45648?s_seq=45648">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|28|857|<span class="rank-name-pd">けん茶</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|28|857|<span class="rank-name-dl">大統領</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|30|853|<span class="rank-name-pd">MUKU_110</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|31|849|<span class="rank-name-pd">赤井彗星©️</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|32|848|<span class="rank-name-pd">みなみおばちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|33|845|<span class="rank-name-pd">RYU3</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_45648?s_seq=45648">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|34|843|<span class="rank-name-pd">時風</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|35|840|<span class="rank-name-pd">つばさ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|36|838|<span class="rank-name-pd">ゆうきゃん@UNITE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|37|837|<span class="rank-name-pd">べるせってぃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|38|833|<span class="rank-name-pd">やす@ごーばす</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|39|832|<span class="rank-name-pd">ゆうきゃん@UNITE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_45648?s_seq=45648">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|40|829|<span class="rank-name-pd">ゆ→や</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|41|823|<span class="rank-name-pd">ﾜﾆﾜﾆ隊べろんちょ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|42|820|<span class="rank-name-pd"><span class="pro-icon-pd"></span>依田 卓也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|43|815|<span class="rank-name-pd">僕はもじゃバブたんp</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|44|810|<span class="rank-name-pd">KOMMy</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|45|806|<span class="rank-name-pd">ミ ツ ル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_45648?s_seq=45648">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|46|801|<span class="rank-name-pd">翼＠T.K.G</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|47|800|<span class="rank-name-dl">jackal</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|48|798|<span class="rank-name-pd">HAYATO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|49|794|<span class="rank-name-dl">t0127初心者</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|50|791|<span class="rank-name-pd">KOMMy</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|51|789|<span class="rank-name-pd">COL@なめち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|52|788|<span class="rank-name-pd">光成</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|53|786|<span class="rank-name-pd">くーさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|53|786|<span class="rank-name-pd">甲州小力@MRC</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|55|785|<span class="rank-name-pd">雷鳥【新菜Style】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|56|783|<span class="rank-name-dl">TAKUYA_N</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|57|779|<span class="rank-name-pd">伏見 龍也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|58|777|<span class="rank-name-pd">Kei</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|58|777|<span class="rank-name-pd">矢好人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|60|769|<span class="rank-name-pd">HAYATO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|61|767|<span class="rank-name-pd">ぐっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|62|760|<span class="rank-name-pd">どきお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|63|755|<span class="rank-name-pd"><span class="pro-icon-pd"></span>福澤 智輝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|64|751|<span class="rank-name-pd">(^ﾌﾙﾔﾝ^)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|65|748|<span class="rank-name-dl">t0127taka</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|66|738|<span class="rank-name-pd">べいぶのなめち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|67|736|<span class="rank-name-pd">やす@ごーばす</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|68|734|<span class="rank-name-pd">TORU2146</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|68|734|<span class="rank-name-pd">ゆうき@UNIR</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|70|732|<span class="rank-name-pd">MATSURUKA@Dspider</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|71|729|<span class="rank-name-pd">ひょきちん@ごーばす</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|72|726|<span class="rank-name-pd">zvul37f3a9aa3e</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_45648?s_seq=45648">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|73|723|<span class="rank-name-pd">ゆうき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|74|714|<span class="rank-name-pd">⭐︎甲州小力⭐︎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|74|714|<span class="rank-name-pd">あめ@UNIR</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|76|709|<span class="rank-name-pd">0164_1066</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|77|706|<span class="rank-name-pd">JUUUN  空間</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|78|705|<span class="rank-name-pd">猿二代目</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|79|702|<span class="rank-name-pd">ひかる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_45648?s_seq=45648">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|80|700|<span class="rank-name-pd">Kei</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|81|698|<span class="rank-name-pd">wolfy/松下琉夏</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|82|697|<span class="rank-name-pd">けんちゃ　L</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|82|697|<span class="rank-name-pd">まるまる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|84|694|<span class="rank-name-pd">mooTaka -Anpiece-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|85|691|<span class="rank-name-pd">☆がっきー♪OVER用！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|86|683|<span class="rank-name-pd"><span class="pro-icon-pd"></span>寺田 幸之助</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|87|681|<span class="rank-name-dl">めんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|88|679|<span class="rank-name-pd"><span class="pro-icon-pd"></span>依田 卓也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|89|678|<span class="rank-name-pd">けんじ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|90|671|<span class="rank-name-pd">0240_5131</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|91|668|<span class="rank-name-pd">＊ёмi＊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|92|667|<span class="rank-name-pd">GEKKOSTATE☆Type Akira</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|92|667|<span class="rank-name-dl">あき</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|94|663|<span class="rank-name-pd">僕はもじゃバブたんp</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|94|663|<span class="rank-name-dl">有限会社ゆっちー</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|96|662|<span class="rank-name-pd">居酒屋千葉ちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|96|662|<span class="rank-name-pd">鹿</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_45648?s_seq=45648">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|98|661|<span class="rank-name-pd">三本線ﾆｬｰｶﾞﾝﾀﾞﾑ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|99|659|<span class="rank-name-pd">ひろ㌧.｡.:✽</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|100|658|<span class="rank-name-dl">sanshi</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -132,19 +132,41 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|882|<span class="rank-name-dl">musashi</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|2|800|<span class="rank-name-dl">jackal</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|3|794|<span class="rank-name-dl">t0127初心者</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|4|783|<span class="rank-name-dl">TAKUYA_N</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|5|681|<span class="rank-name-dl">めんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|6|663|<span class="rank-name-dl">有限会社ゆっちー</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|7|573|<span class="rank-name-dl">PRIN@P</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|8|547|<span class="rank-name-dl">サヤカ様とお呼び</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|9|542|<span class="rank-name-dl">OL-AR</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|10|481|<span class="rank-name-dl">NO NAME 5016</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|11|479|<span class="rank-name-dl">hacchi</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|11|479|<span class="rank-name-dl">たくあんの友達</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|13|460|<span class="rank-name-dl">ハル</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|1|1026|<span class="rank-name-dl">姫ぽん</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|2|969|<span class="rank-name-dl">べるせってぃ</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|3|882|<span class="rank-name-dl">musashi</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|4|857|<span class="rank-name-dl">大統領</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|5|800|<span class="rank-name-dl">jackal</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|6|794|<span class="rank-name-dl">t0127初心者</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|7|783|<span class="rank-name-dl">TAKUYA_N</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|8|748|<span class="rank-name-dl">t0127taka</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|9|681|<span class="rank-name-dl">めんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|10|667|<span class="rank-name-dl">あき</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|11|663|<span class="rank-name-dl">有限会社ゆっちー</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|12|658|<span class="rank-name-dl">sanshi</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|13|635|<span class="rank-name-dl">All is vanity.</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|14|623|<span class="rank-name-dl">Gackun Saint</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|15|598|<span class="rank-name-dl">NO NAME 7665</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|16|573|<span class="rank-name-dl">PRIN@P</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|17|558|<span class="rank-name-dl">♡まるしこ♡</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|18|550|<span class="rank-name-dl">tsuna</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|19|547|<span class="rank-name-dl">サヤカ様とお呼び</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|20|542|<span class="rank-name-dl">OL-AR</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|21|541|<span class="rank-name-dl">くま統領</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|22|505|<span class="rank-name-dl">NISHIKI</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|23|496|<span class="rank-name-dl">コンの助</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|24|481|<span class="rank-name-dl">NO NAME 5016</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|25|479|<span class="rank-name-dl">hacchi</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|25|479|<span class="rank-name-dl">たくあんの友達</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|27|476|<span class="rank-name-dl">推統領</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|28|475|<span class="rank-name-dl">ふかけん@FIMBA</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|29|472|<span class="rank-name-dl">MASAKICHI</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|30|466|<span class="rank-name-dl">FUKURIN</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|31|460|<span class="rank-name-dl">ハル</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|32|440|<span class="rank-name-dl">(-･)</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|33|425|<span class="rank-name-dl">わんちゃき</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|34|405|<span class="rank-name-dl">B.W*raTs</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|35|352|<span class="rank-name-dl">Sakï</span>|<a href="https://search.dartslive.com/jp/shop/1f0bf80ef7fc7ba9790ab824ce8730e5">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
 
 
 #### PHOENIXDARTS TOP 100
@@ -156,104 +178,104 @@ ___
 |---|---|---|---|---|
 |1|1136|<span class="rank-name-pd">I am Tetsu.@S.GARAGE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_45648?s_seq=45648">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
 |2|1057|<span class="rank-name-pd">時風</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|3|975|<span class="rank-name-pd"><span class="pro-icon-pd"></span>土橋 勝利</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|4|963|<span class="rank-name-pd">ひろ㌧.｡.:✽</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|5|962|<span class="rank-name-pd"><span class="pro-icon-pd"></span>土橋 勝利</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|6|951|<span class="rank-name-pd">ゆー＄collect</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|7|929|<span class="rank-name-pd">じょう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|8|909|<span class="rank-name-pd">ゆうたDevi悪魔會</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|9|905|<span class="rank-name-pd">ぐっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|10|889|<span class="rank-name-pd">YAMA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|11|873|<span class="rank-name-pd">姫ぽん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|12|871|<span class="rank-name-pd">k.o.y.o.@UNIR</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|13|869|<span class="rank-name-pd">けんちゃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|14|857|<span class="rank-name-pd">けん茶</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|15|849|<span class="rank-name-pd">赤井彗星©️</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|16|845|<span class="rank-name-pd">RYU3</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_45648?s_seq=45648">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|17|843|<span class="rank-name-pd">時風</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|18|842|<span class="rank-name-pd">みなみおばちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|19|840|<span class="rank-name-pd">つばさ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|20|837|<span class="rank-name-pd">ミ ツ ル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|21|823|<span class="rank-name-pd">ﾜﾆﾜﾆ隊べろんちょ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|22|821|<span class="rank-name-pd">MUKU_110</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|22|821|<span class="rank-name-pd">PAPA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|24|820|<span class="rank-name-pd"><span class="pro-icon-pd"></span>依田 卓也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|25|815|<span class="rank-name-pd">僕はもじゃバブたんp</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|26|810|<span class="rank-name-pd">KOMMy</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|27|798|<span class="rank-name-pd">HAYATO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|28|791|<span class="rank-name-pd">KOMMy</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|29|789|<span class="rank-name-pd">COL@なめち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|30|788|<span class="rank-name-pd">光成</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|31|786|<span class="rank-name-pd">くーさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|31|786|<span class="rank-name-pd">甲州小力@MRC</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|33|785|<span class="rank-name-pd">雷鳥【新菜Style】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|34|779|<span class="rank-name-pd">伏見 龍也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|35|777|<span class="rank-name-pd">Kei</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|36|776|<span class="rank-name-pd">COL @ ゆかち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|37|769|<span class="rank-name-pd">HAYATO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|38|767|<span class="rank-name-pd">ぐっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|39|760|<span class="rank-name-pd">やす@ごーばす</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|40|751|<span class="rank-name-pd">(^ﾌﾙﾔﾝ^)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|41|736|<span class="rank-name-pd">やす@ごーばす</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|42|729|<span class="rank-name-pd">ひょきちん@ごーばす</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|43|723|<span class="rank-name-pd">ゆうき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|44|709|<span class="rank-name-pd">0164_1066</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|45|705|<span class="rank-name-pd">猿二代目</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|46|700|<span class="rank-name-pd">Kei</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|47|698|<span class="rank-name-pd">wolfy/松下琉夏</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|48|697|<span class="rank-name-pd">まるまる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|49|691|<span class="rank-name-pd">☆がっきー♪OVER用！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|50|689|<span class="rank-name-pd">たくまるcollect店長</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|51|684|<span class="rank-name-pd">あめ@UNIR</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|52|683|<span class="rank-name-pd"><span class="pro-icon-pd"></span>寺田 幸之助</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|53|678|<span class="rank-name-pd">けんじ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|54|671|<span class="rank-name-pd">0240_5131</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|55|668|<span class="rank-name-pd">＊ёмi＊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|56|662|<span class="rank-name-pd">居酒屋千葉ちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|56|662|<span class="rank-name-pd">鹿</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_45648?s_seq=45648">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|58|657|<span class="rank-name-pd">りんご</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|59|656|<span class="rank-name-pd">るいぴー@UNIR</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|60|650|<span class="rank-name-pd">◯ゆいちゃん◯</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|61|638|<span class="rank-name-pd">たけ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|62|635|<span class="rank-name-pd">(*&gt;△&lt;)&lt;ﾂﾁｼﾞｭﾝ!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_45648?s_seq=45648">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|63|634|<span class="rank-name-pd">HERO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|64|632|<span class="rank-name-pd">TA-YA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|65|630|<span class="rank-name-pd">Ｌ ÿ ø n</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|66|628|<span class="rank-name-pd">り</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|67|616|<span class="rank-name-pd">どきお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|68|615|<span class="rank-name-pd">かぴしゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|69|608|<span class="rank-name-pd">0025_4251</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|70|600|<span class="rank-name-pd">LOL.K</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_45648?s_seq=45648">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|71|574|<span class="rank-name-pd">〜musubu〜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|72|567|<span class="rank-name-pd">CIEL  てんちょー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|73|564|<span class="rank-name-pd">機関車ポーマス</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|74|556|<span class="rank-name-pd">ノッティ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|75|547|<span class="rank-name-pd">AOKING</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|76|546|<span class="rank-name-pd">tsuna</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|77|542|<span class="rank-name-pd">あに→THEENDER</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|78|538|<span class="rank-name-pd">Yoshi@ごーすとばすたーず</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|79|536|<span class="rank-name-pd">UP</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|80|535|<span class="rank-name-pd">めるぽん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|80|535|<span class="rank-name-pd">ミ ツ ル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_45648?s_seq=45648">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|82|534|<span class="rank-name-pd">早川司＠マリ嬢激推し</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_45648?s_seq=45648">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|83|532|<span class="rank-name-pd">ナル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_45648?s_seq=45648">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|84|523|<span class="rank-name-pd">0056_0872</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|85|522|<span class="rank-name-pd">三本線ﾆｬｰｶﾞﾝﾀﾞﾑ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|86|519|<span class="rank-name-pd">いっちー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_45648?s_seq=45648">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|86|519|<span class="rank-name-pd">なつみDevi悪魔會</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|88|518|<span class="rank-name-pd">小娘孕ませ隊副隊長</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|89|514|<span class="rank-name-pd">0173_9478</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|89|514|<span class="rank-name-pd">かぴしゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|91|510|<span class="rank-name-pd">MI-SOFU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|92|505|<span class="rank-name-pd">セレン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_45648?s_seq=45648">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|93|503|<span class="rank-name-pd">YOKOTAKU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|94|498|<span class="rank-name-pd">PEK2CHIN2</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|95|497|<span class="rank-name-pd">wolfy/松下琉夏</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|95|497|<span class="rank-name-pd">れもんちい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_45648?s_seq=45648">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|95|497|<span class="rank-name-pd">＊ёмi＊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_45648?s_seq=45648">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|98|494|<span class="rank-name-pd">Ｌ ÿ ø n</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|99|489|<span class="rank-name-pd">冥冥</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
-|100|486|<span class="rank-name-pd">kaorin</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|3|1054|<span class="rank-name-pd">吹き矢だーつぁー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|4|1038|<span class="rank-name-pd">べいぶのつばさ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_45648?s_seq=45648">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|5|975|<span class="rank-name-pd"><span class="pro-icon-pd"></span>土橋 勝利</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|6|968|<span class="rank-name-pd">ミ ツ ル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|7|963|<span class="rank-name-pd">ひろ㌧.｡.:✽</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|8|962|<span class="rank-name-pd"><span class="pro-icon-pd"></span>土橋 勝利</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|9|960|<span class="rank-name-pd">COL @ ゆかち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|10|959|<span class="rank-name-pd">ゆうたDevi悪魔會</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|11|951|<span class="rank-name-pd">ゆー＄collect</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|12|944|<span class="rank-name-pd">ゆうとんちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|13|935|<span class="rank-name-pd">べいぶのつばさ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|14|929|<span class="rank-name-pd">じょう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|15|908|<span class="rank-name-pd">Ur@-@tsushi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|16|905|<span class="rank-name-pd">ぐっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|17|904|<span class="rank-name-pd">じょう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_45648?s_seq=45648">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|18|900|<span class="rank-name-pd">たくまるcollect店長</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|19|889|<span class="rank-name-pd">YAMA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|20|888|<span class="rank-name-pd">PAPA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|21|873|<span class="rank-name-pd">姫ぽん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|22|871|<span class="rank-name-pd">k.o.y.o.@UNIR</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|23|869|<span class="rank-name-pd">けんちゃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|24|866|<span class="rank-name-pd">T0127</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_45648?s_seq=45648">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|24|866|<span class="rank-name-pd">べるせってぃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_45648?s_seq=45648">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|26|857|<span class="rank-name-pd">けん茶</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|27|853|<span class="rank-name-pd">MUKU_110</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|28|849|<span class="rank-name-pd">赤井彗星©️</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|29|848|<span class="rank-name-pd">みなみおばちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|30|845|<span class="rank-name-pd">RYU3</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_45648?s_seq=45648">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|31|843|<span class="rank-name-pd">時風</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|32|840|<span class="rank-name-pd">つばさ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|33|838|<span class="rank-name-pd">ゆうきゃん@UNITE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|34|837|<span class="rank-name-pd">べるせってぃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|35|833|<span class="rank-name-pd">やす@ごーばす</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|36|832|<span class="rank-name-pd">ゆうきゃん@UNITE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_45648?s_seq=45648">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|37|829|<span class="rank-name-pd">ゆ→や</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|38|823|<span class="rank-name-pd">ﾜﾆﾜﾆ隊べろんちょ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|39|820|<span class="rank-name-pd"><span class="pro-icon-pd"></span>依田 卓也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|40|815|<span class="rank-name-pd">僕はもじゃバブたんp</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|41|810|<span class="rank-name-pd">KOMMy</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|42|806|<span class="rank-name-pd">ミ ツ ル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_45648?s_seq=45648">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|43|801|<span class="rank-name-pd">翼＠T.K.G</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|44|798|<span class="rank-name-pd">HAYATO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|45|791|<span class="rank-name-pd">KOMMy</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|46|789|<span class="rank-name-pd">COL@なめち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|47|788|<span class="rank-name-pd">光成</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|48|786|<span class="rank-name-pd">くーさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|48|786|<span class="rank-name-pd">甲州小力@MRC</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|50|785|<span class="rank-name-pd">雷鳥【新菜Style】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|51|779|<span class="rank-name-pd">伏見 龍也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|52|777|<span class="rank-name-pd">Kei</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|52|777|<span class="rank-name-pd">矢好人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|54|769|<span class="rank-name-pd">HAYATO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|55|767|<span class="rank-name-pd">ぐっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|56|760|<span class="rank-name-pd">どきお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|57|755|<span class="rank-name-pd"><span class="pro-icon-pd"></span>福澤 智輝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|58|751|<span class="rank-name-pd">(^ﾌﾙﾔﾝ^)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|59|738|<span class="rank-name-pd">べいぶのなめち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|60|736|<span class="rank-name-pd">やす@ごーばす</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|61|734|<span class="rank-name-pd">TORU2146</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|61|734|<span class="rank-name-pd">ゆうき@UNIR</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|63|732|<span class="rank-name-pd">MATSURUKA@Dspider</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|64|729|<span class="rank-name-pd">ひょきちん@ごーばす</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|65|726|<span class="rank-name-pd">zvul37f3a9aa3e</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_45648?s_seq=45648">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|66|723|<span class="rank-name-pd">ゆうき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|67|714|<span class="rank-name-pd">⭐︎甲州小力⭐︎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|67|714|<span class="rank-name-pd">あめ@UNIR</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|69|709|<span class="rank-name-pd">0164_1066</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|70|706|<span class="rank-name-pd">JUUUN  空間</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|71|705|<span class="rank-name-pd">猿二代目</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|72|702|<span class="rank-name-pd">ひかる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_45648?s_seq=45648">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|73|700|<span class="rank-name-pd">Kei</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|74|698|<span class="rank-name-pd">wolfy/松下琉夏</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|75|697|<span class="rank-name-pd">けんちゃ　L</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|75|697|<span class="rank-name-pd">まるまる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|77|694|<span class="rank-name-pd">mooTaka -Anpiece-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|78|691|<span class="rank-name-pd">☆がっきー♪OVER用！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|79|683|<span class="rank-name-pd"><span class="pro-icon-pd"></span>寺田 幸之助</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|80|679|<span class="rank-name-pd"><span class="pro-icon-pd"></span>依田 卓也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|81|678|<span class="rank-name-pd">けんじ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|82|671|<span class="rank-name-pd">0240_5131</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|83|668|<span class="rank-name-pd">＊ёмi＊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|84|667|<span class="rank-name-pd">GEKKOSTATE☆Type Akira</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|85|663|<span class="rank-name-pd">僕はもじゃバブたんp</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|86|662|<span class="rank-name-pd">居酒屋千葉ちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|86|662|<span class="rank-name-pd">鹿</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_45648?s_seq=45648">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|88|661|<span class="rank-name-pd">三本線ﾆｬｰｶﾞﾝﾀﾞﾑ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|89|659|<span class="rank-name-pd">ひろ㌧.｡.:✽</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|90|657|<span class="rank-name-pd">りんご</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|91|656|<span class="rank-name-pd">COL @ ゆかち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_45648?s_seq=45648">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|91|656|<span class="rank-name-pd">るいぴー@UNIR</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|93|654|<span class="rank-name-pd">Ｌ ÿ ø n</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|94|651|<span class="rank-name-pd">にゃおや</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|95|650|<span class="rank-name-pd">◯ゆいちゃん◯</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|96|646|<span class="rank-name-pd">up</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_45648?s_seq=45648">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|97|644|<span class="rank-name-pd">坂本 凌平®</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|98|642|<span class="rank-name-pd">かぴしゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_18163?s_seq=18163">Darts&Bar Collect</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|98|642|<span class="rank-name-pd">スカ丸</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_45648?s_seq=45648">コート・ダジュール 甲府昭和店</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
+|100|638|<span class="rank-name-pd">たけ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9647?s_seq=9647">Monkey Rotten cafe</a>|<a href="/darts/rank/山梨県/中巨摩郡">山梨県中巨摩郡</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

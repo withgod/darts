@@ -24,7 +24,7 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|674|<span class="rank-name-pd">このハゲー٩(๑❛ᴗ❛๑)۶</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7021?s_seq=7021">のみくい処 旨や</a>|<a href="/darts/rank/北海道/浦河郡">北海道浦河郡</a>|
-|2|561|<span class="rank-name-pd">0090_3905</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7021?s_seq=7021">のみくい処 旨や</a>|<a href="/darts/rank/北海道/浦河郡">北海道浦河郡</a>|
+|2|609|<span class="rank-name-pd">0090_3905</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7021?s_seq=7021">のみくい処 旨や</a>|<a href="/darts/rank/北海道/浦河郡">北海道浦河郡</a>|
 |3|472|<span class="rank-name-pd">まーぼー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7021?s_seq=7021">のみくい処 旨や</a>|<a href="/darts/rank/北海道/浦河郡">北海道浦河郡</a>|
 
 
@@ -46,7 +46,7 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|674|<span class="rank-name-pd">このハゲー٩(๑❛ᴗ❛๑)۶</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7021?s_seq=7021">のみくい処 旨や</a>|<a href="/darts/rank/北海道/浦河郡">北海道浦河郡</a>|
-|2|561|<span class="rank-name-pd">0090_3905</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7021?s_seq=7021">のみくい処 旨や</a>|<a href="/darts/rank/北海道/浦河郡">北海道浦河郡</a>|
+|2|609|<span class="rank-name-pd">0090_3905</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7021?s_seq=7021">のみくい処 旨や</a>|<a href="/darts/rank/北海道/浦河郡">北海道浦河郡</a>|
 |3|472|<span class="rank-name-pd">まーぼー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7021?s_seq=7021">のみくい処 旨や</a>|<a href="/darts/rank/北海道/浦河郡">北海道浦河郡</a>|
 
 

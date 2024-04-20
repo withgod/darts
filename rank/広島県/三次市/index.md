@@ -24,18 +24,25 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|977|<span class="rank-name-dl">なかのさん</span>|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
-|2|906|<span class="rank-name-dl">のまお</span>|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
-|2|906|<span class="rank-name-dl">よっしぃー</span>|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
-|4|881|<span class="rank-name-dl">KEN(TД)</span>|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
-|5|874|<span class="rank-name-dl">マチャ</span>|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
+|2|907|<span class="rank-name-dl">マチャ</span>|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
+|3|906|<span class="rank-name-dl">のまお</span>|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
+|3|906|<span class="rank-name-dl">よっしぃー</span>|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
+|5|904|<span class="rank-name-dl">KEN(TД)</span>|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
 |6|841|<span class="rank-name-dl">ＷâＲà</span>|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
 |7|814|<span class="rank-name-dl">龍也</span>|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
 |8|804|<span class="rank-name-dl">★(ギ∀ワ) 3NX★</span>|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
-|9|717|<span class="rank-name-dl">みやもん</span>|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
-|10|697|<span class="rank-name-dl">ひーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
-|11|503|<span class="rank-name-dl">くま</span>|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
-|12|473|<span class="rank-name-dl">北山美装(妊婦)</span>|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
-|13|469|<span class="rank-name-dl">むろちゃん</span>|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
+|9|800|<span class="rank-name-dl">クロちゃんです</span>|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
+|10|731|<span class="rank-name-dl">やまだ</span>|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
+|11|721|<span class="rank-name-dl">Clear@ともも</span>|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
+|12|717|<span class="rank-name-dl">みやもん</span>|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
+|13|697|<span class="rank-name-dl">ひーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
+|14|690|<span class="rank-name-dl">お仕事頑張りガチ</span>|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
+|15|668|<span class="rank-name-dl">まさ木のぼり</span>|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
+|16|585|<span class="rank-name-dl">くみ</span>|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
+|17|548|<span class="rank-name-dl">サクラんぼ</span>|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
+|18|503|<span class="rank-name-dl">くま</span>|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
+|19|473|<span class="rank-name-dl">北山美装(妊婦)</span>|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
+|20|469|<span class="rank-name-dl">むろちゃん</span>|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -46,18 +53,25 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|977|<span class="rank-name-dl">なかのさん</span>|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
-|2|906|<span class="rank-name-dl">のまお</span>|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
-|2|906|<span class="rank-name-dl">よっしぃー</span>|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
-|4|881|<span class="rank-name-dl">KEN(TД)</span>|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
-|5|874|<span class="rank-name-dl">マチャ</span>|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
+|2|907|<span class="rank-name-dl">マチャ</span>|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
+|3|906|<span class="rank-name-dl">のまお</span>|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
+|3|906|<span class="rank-name-dl">よっしぃー</span>|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
+|5|904|<span class="rank-name-dl">KEN(TД)</span>|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
 |6|841|<span class="rank-name-dl">ＷâＲà</span>|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
 |7|814|<span class="rank-name-dl">龍也</span>|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
 |8|804|<span class="rank-name-dl">★(ギ∀ワ) 3NX★</span>|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
-|9|717|<span class="rank-name-dl">みやもん</span>|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
-|10|697|<span class="rank-name-dl">ひーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
-|11|503|<span class="rank-name-dl">くま</span>|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
-|12|473|<span class="rank-name-dl">北山美装(妊婦)</span>|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
-|13|469|<span class="rank-name-dl">むろちゃん</span>|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
+|9|800|<span class="rank-name-dl">クロちゃんです</span>|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
+|10|731|<span class="rank-name-dl">やまだ</span>|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
+|11|721|<span class="rank-name-dl">Clear@ともも</span>|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
+|12|717|<span class="rank-name-dl">みやもん</span>|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
+|13|697|<span class="rank-name-dl">ひーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
+|14|690|<span class="rank-name-dl">お仕事頑張りガチ</span>|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
+|15|668|<span class="rank-name-dl">まさ木のぼり</span>|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
+|16|585|<span class="rank-name-dl">くみ</span>|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
+|17|548|<span class="rank-name-dl">サクラんぼ</span>|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
+|18|503|<span class="rank-name-dl">くま</span>|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
+|19|473|<span class="rank-name-dl">北山美装(妊婦)</span>|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
+|20|469|<span class="rank-name-dl">むろちゃん</span>|<a href="https://search.dartslive.com/jp/shop/eae7c21fb1ffa372fec1ae84bb28bd87">THREE NEXT</a>|<a href="/darts/rank/広島県/三次市">広島県三次市</a>|
 
 
 #### PHOENIXDARTS TOP 100

@@ -23,16 +23,24 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|738|<span class="rank-name-dl">タカマルコ</span>|<a href="https://search.dartslive.com/jp/shop/d589309c002d05040d9b047a20a7ba1e">MONTAGE</a>|<a href="/darts/rank/北海道/紋別郡">北海道紋別郡</a>|
-|2|624|<span class="rank-name-dl">大盛野菜おかわり</span>|<a href="https://search.dartslive.com/jp/shop/d589309c002d05040d9b047a20a7ba1e">MONTAGE</a>|<a href="/darts/rank/北海道/紋別郡">北海道紋別郡</a>|
-|3|614|<span class="rank-name-dl">3代目タカマルコ</span>|<a href="https://search.dartslive.com/jp/shop/d589309c002d05040d9b047a20a7ba1e">MONTAGE</a>|<a href="/darts/rank/北海道/紋別郡">北海道紋別郡</a>|
-|4|544|<span class="rank-name-dl">みじんこ　セパ用</span>|<a href="https://search.dartslive.com/jp/shop/d589309c002d05040d9b047a20a7ba1e">MONTAGE</a>|<a href="/darts/rank/北海道/紋別郡">北海道紋別郡</a>|
-|5|515|<span class="rank-name-dl">トッティー</span>|<a href="https://search.dartslive.com/jp/shop/d589309c002d05040d9b047a20a7ba1e">MONTAGE</a>|<a href="/darts/rank/北海道/紋別郡">北海道紋別郡</a>|
-|6|511|<span class="rank-name-dl">ミチル</span>|<a href="https://search.dartslive.com/jp/shop/d589309c002d05040d9b047a20a7ba1e">MONTAGE</a>|<a href="/darts/rank/北海道/紋別郡">北海道紋別郡</a>|
-|7|495|<span class="rank-name-dl">大盛ご飯おかわり</span>|<a href="https://search.dartslive.com/jp/shop/d589309c002d05040d9b047a20a7ba1e">MONTAGE</a>|<a href="/darts/rank/北海道/紋別郡">北海道紋別郡</a>|
-|8|469|<span class="rank-name-dl">パンダ</span>|<a href="https://search.dartslive.com/jp/shop/d589309c002d05040d9b047a20a7ba1e">MONTAGE</a>|<a href="/darts/rank/北海道/紋別郡">北海道紋別郡</a>|
-|9|445|<span class="rank-name-dl">でびちん</span>|<a href="https://search.dartslive.com/jp/shop/d589309c002d05040d9b047a20a7ba1e">MONTAGE</a>|<a href="/darts/rank/北海道/紋別郡">北海道紋別郡</a>|
-|10|434|<span class="rank-name-dl">ひろあさひ</span>|<a href="https://search.dartslive.com/jp/shop/d589309c002d05040d9b047a20a7ba1e">MONTAGE</a>|<a href="/darts/rank/北海道/紋別郡">北海道紋別郡</a>|
+|1|742|<span class="rank-name-dl">❋ⓐⓨⓐ❋</span>|<a href="https://search.dartslive.com/jp/shop/d589309c002d05040d9b047a20a7ba1e">MONTAGE</a>|<a href="/darts/rank/北海道/紋別郡">北海道紋別郡</a>|
+|2|738|<span class="rank-name-dl">タカマルコ</span>|<a href="https://search.dartslive.com/jp/shop/d589309c002d05040d9b047a20a7ba1e">MONTAGE</a>|<a href="/darts/rank/北海道/紋別郡">北海道紋別郡</a>|
+|3|720|<span class="rank-name-dl">3代目タカマルコ</span>|<a href="https://search.dartslive.com/jp/shop/d589309c002d05040d9b047a20a7ba1e">MONTAGE</a>|<a href="/darts/rank/北海道/紋別郡">北海道紋別郡</a>|
+|4|680|<span class="rank-name-dl">eta</span>|<a href="https://search.dartslive.com/jp/shop/d589309c002d05040d9b047a20a7ba1e">MONTAGE</a>|<a href="/darts/rank/北海道/紋別郡">北海道紋別郡</a>|
+|5|624|<span class="rank-name-dl">大盛野菜おかわり</span>|<a href="https://search.dartslive.com/jp/shop/d589309c002d05040d9b047a20a7ba1e">MONTAGE</a>|<a href="/darts/rank/北海道/紋別郡">北海道紋別郡</a>|
+|6|571|<span class="rank-name-dl">さんちゃん♂</span>|<a href="https://search.dartslive.com/jp/shop/d589309c002d05040d9b047a20a7ba1e">MONTAGE</a>|<a href="/darts/rank/北海道/紋別郡">北海道紋別郡</a>|
+|7|560|<span class="rank-name-dl">大盛ご飯おかわり</span>|<a href="https://search.dartslive.com/jp/shop/d589309c002d05040d9b047a20a7ba1e">MONTAGE</a>|<a href="/darts/rank/北海道/紋別郡">北海道紋別郡</a>|
+|8|552|<span class="rank-name-dl">Naaku</span>|<a href="https://search.dartslive.com/jp/shop/d589309c002d05040d9b047a20a7ba1e">MONTAGE</a>|<a href="/darts/rank/北海道/紋別郡">北海道紋別郡</a>|
+|9|544|<span class="rank-name-dl">みじんこ　セパ用</span>|<a href="https://search.dartslive.com/jp/shop/d589309c002d05040d9b047a20a7ba1e">MONTAGE</a>|<a href="/darts/rank/北海道/紋別郡">北海道紋別郡</a>|
+|10|515|<span class="rank-name-dl">ひろあさひ</span>|<a href="https://search.dartslive.com/jp/shop/d589309c002d05040d9b047a20a7ba1e">MONTAGE</a>|<a href="/darts/rank/北海道/紋別郡">北海道紋別郡</a>|
+|10|515|<span class="rank-name-dl">トッティー</span>|<a href="https://search.dartslive.com/jp/shop/d589309c002d05040d9b047a20a7ba1e">MONTAGE</a>|<a href="/darts/rank/北海道/紋別郡">北海道紋別郡</a>|
+|12|511|<span class="rank-name-dl">ミチル</span>|<a href="https://search.dartslive.com/jp/shop/d589309c002d05040d9b047a20a7ba1e">MONTAGE</a>|<a href="/darts/rank/北海道/紋別郡">北海道紋別郡</a>|
+|13|474|<span class="rank-name-dl">えんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/d589309c002d05040d9b047a20a7ba1e">MONTAGE</a>|<a href="/darts/rank/北海道/紋別郡">北海道紋別郡</a>|
+|14|469|<span class="rank-name-dl">パンダ</span>|<a href="https://search.dartslive.com/jp/shop/d589309c002d05040d9b047a20a7ba1e">MONTAGE</a>|<a href="/darts/rank/北海道/紋別郡">北海道紋別郡</a>|
+|15|452|<span class="rank-name-dl">Me5514H</span>|<a href="https://search.dartslive.com/jp/shop/d589309c002d05040d9b047a20a7ba1e">MONTAGE</a>|<a href="/darts/rank/北海道/紋別郡">北海道紋別郡</a>|
+|16|445|<span class="rank-name-dl">でびちん</span>|<a href="https://search.dartslive.com/jp/shop/d589309c002d05040d9b047a20a7ba1e">MONTAGE</a>|<a href="/darts/rank/北海道/紋別郡">北海道紋別郡</a>|
+|17|432|<span class="rank-name-dl">fairy</span>|<a href="https://search.dartslive.com/jp/shop/d589309c002d05040d9b047a20a7ba1e">MONTAGE</a>|<a href="/darts/rank/北海道/紋別郡">北海道紋別郡</a>|
+|18|413|<span class="rank-name-dl">しょーきち</span>|<a href="https://search.dartslive.com/jp/shop/d589309c002d05040d9b047a20a7ba1e">MONTAGE</a>|<a href="/darts/rank/北海道/紋別郡">北海道紋別郡</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -42,16 +50,24 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|738|<span class="rank-name-dl">タカマルコ</span>|<a href="https://search.dartslive.com/jp/shop/d589309c002d05040d9b047a20a7ba1e">MONTAGE</a>|<a href="/darts/rank/北海道/紋別郡">北海道紋別郡</a>|
-|2|624|<span class="rank-name-dl">大盛野菜おかわり</span>|<a href="https://search.dartslive.com/jp/shop/d589309c002d05040d9b047a20a7ba1e">MONTAGE</a>|<a href="/darts/rank/北海道/紋別郡">北海道紋別郡</a>|
-|3|614|<span class="rank-name-dl">3代目タカマルコ</span>|<a href="https://search.dartslive.com/jp/shop/d589309c002d05040d9b047a20a7ba1e">MONTAGE</a>|<a href="/darts/rank/北海道/紋別郡">北海道紋別郡</a>|
-|4|544|<span class="rank-name-dl">みじんこ　セパ用</span>|<a href="https://search.dartslive.com/jp/shop/d589309c002d05040d9b047a20a7ba1e">MONTAGE</a>|<a href="/darts/rank/北海道/紋別郡">北海道紋別郡</a>|
-|5|515|<span class="rank-name-dl">トッティー</span>|<a href="https://search.dartslive.com/jp/shop/d589309c002d05040d9b047a20a7ba1e">MONTAGE</a>|<a href="/darts/rank/北海道/紋別郡">北海道紋別郡</a>|
-|6|511|<span class="rank-name-dl">ミチル</span>|<a href="https://search.dartslive.com/jp/shop/d589309c002d05040d9b047a20a7ba1e">MONTAGE</a>|<a href="/darts/rank/北海道/紋別郡">北海道紋別郡</a>|
-|7|495|<span class="rank-name-dl">大盛ご飯おかわり</span>|<a href="https://search.dartslive.com/jp/shop/d589309c002d05040d9b047a20a7ba1e">MONTAGE</a>|<a href="/darts/rank/北海道/紋別郡">北海道紋別郡</a>|
-|8|469|<span class="rank-name-dl">パンダ</span>|<a href="https://search.dartslive.com/jp/shop/d589309c002d05040d9b047a20a7ba1e">MONTAGE</a>|<a href="/darts/rank/北海道/紋別郡">北海道紋別郡</a>|
-|9|445|<span class="rank-name-dl">でびちん</span>|<a href="https://search.dartslive.com/jp/shop/d589309c002d05040d9b047a20a7ba1e">MONTAGE</a>|<a href="/darts/rank/北海道/紋別郡">北海道紋別郡</a>|
-|10|434|<span class="rank-name-dl">ひろあさひ</span>|<a href="https://search.dartslive.com/jp/shop/d589309c002d05040d9b047a20a7ba1e">MONTAGE</a>|<a href="/darts/rank/北海道/紋別郡">北海道紋別郡</a>|
+|1|742|<span class="rank-name-dl">❋ⓐⓨⓐ❋</span>|<a href="https://search.dartslive.com/jp/shop/d589309c002d05040d9b047a20a7ba1e">MONTAGE</a>|<a href="/darts/rank/北海道/紋別郡">北海道紋別郡</a>|
+|2|738|<span class="rank-name-dl">タカマルコ</span>|<a href="https://search.dartslive.com/jp/shop/d589309c002d05040d9b047a20a7ba1e">MONTAGE</a>|<a href="/darts/rank/北海道/紋別郡">北海道紋別郡</a>|
+|3|720|<span class="rank-name-dl">3代目タカマルコ</span>|<a href="https://search.dartslive.com/jp/shop/d589309c002d05040d9b047a20a7ba1e">MONTAGE</a>|<a href="/darts/rank/北海道/紋別郡">北海道紋別郡</a>|
+|4|680|<span class="rank-name-dl">eta</span>|<a href="https://search.dartslive.com/jp/shop/d589309c002d05040d9b047a20a7ba1e">MONTAGE</a>|<a href="/darts/rank/北海道/紋別郡">北海道紋別郡</a>|
+|5|624|<span class="rank-name-dl">大盛野菜おかわり</span>|<a href="https://search.dartslive.com/jp/shop/d589309c002d05040d9b047a20a7ba1e">MONTAGE</a>|<a href="/darts/rank/北海道/紋別郡">北海道紋別郡</a>|
+|6|571|<span class="rank-name-dl">さんちゃん♂</span>|<a href="https://search.dartslive.com/jp/shop/d589309c002d05040d9b047a20a7ba1e">MONTAGE</a>|<a href="/darts/rank/北海道/紋別郡">北海道紋別郡</a>|
+|7|560|<span class="rank-name-dl">大盛ご飯おかわり</span>|<a href="https://search.dartslive.com/jp/shop/d589309c002d05040d9b047a20a7ba1e">MONTAGE</a>|<a href="/darts/rank/北海道/紋別郡">北海道紋別郡</a>|
+|8|552|<span class="rank-name-dl">Naaku</span>|<a href="https://search.dartslive.com/jp/shop/d589309c002d05040d9b047a20a7ba1e">MONTAGE</a>|<a href="/darts/rank/北海道/紋別郡">北海道紋別郡</a>|
+|9|544|<span class="rank-name-dl">みじんこ　セパ用</span>|<a href="https://search.dartslive.com/jp/shop/d589309c002d05040d9b047a20a7ba1e">MONTAGE</a>|<a href="/darts/rank/北海道/紋別郡">北海道紋別郡</a>|
+|10|515|<span class="rank-name-dl">ひろあさひ</span>|<a href="https://search.dartslive.com/jp/shop/d589309c002d05040d9b047a20a7ba1e">MONTAGE</a>|<a href="/darts/rank/北海道/紋別郡">北海道紋別郡</a>|
+|10|515|<span class="rank-name-dl">トッティー</span>|<a href="https://search.dartslive.com/jp/shop/d589309c002d05040d9b047a20a7ba1e">MONTAGE</a>|<a href="/darts/rank/北海道/紋別郡">北海道紋別郡</a>|
+|12|511|<span class="rank-name-dl">ミチル</span>|<a href="https://search.dartslive.com/jp/shop/d589309c002d05040d9b047a20a7ba1e">MONTAGE</a>|<a href="/darts/rank/北海道/紋別郡">北海道紋別郡</a>|
+|13|474|<span class="rank-name-dl">えんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/d589309c002d05040d9b047a20a7ba1e">MONTAGE</a>|<a href="/darts/rank/北海道/紋別郡">北海道紋別郡</a>|
+|14|469|<span class="rank-name-dl">パンダ</span>|<a href="https://search.dartslive.com/jp/shop/d589309c002d05040d9b047a20a7ba1e">MONTAGE</a>|<a href="/darts/rank/北海道/紋別郡">北海道紋別郡</a>|
+|15|452|<span class="rank-name-dl">Me5514H</span>|<a href="https://search.dartslive.com/jp/shop/d589309c002d05040d9b047a20a7ba1e">MONTAGE</a>|<a href="/darts/rank/北海道/紋別郡">北海道紋別郡</a>|
+|16|445|<span class="rank-name-dl">でびちん</span>|<a href="https://search.dartslive.com/jp/shop/d589309c002d05040d9b047a20a7ba1e">MONTAGE</a>|<a href="/darts/rank/北海道/紋別郡">北海道紋別郡</a>|
+|17|432|<span class="rank-name-dl">fairy</span>|<a href="https://search.dartslive.com/jp/shop/d589309c002d05040d9b047a20a7ba1e">MONTAGE</a>|<a href="/darts/rank/北海道/紋別郡">北海道紋別郡</a>|
+|18|413|<span class="rank-name-dl">しょーきち</span>|<a href="https://search.dartslive.com/jp/shop/d589309c002d05040d9b047a20a7ba1e">MONTAGE</a>|<a href="/darts/rank/北海道/紋別郡">北海道紋別郡</a>|
 
 
 #### PHOENIXDARTS TOP 100

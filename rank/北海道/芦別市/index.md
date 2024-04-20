@@ -24,20 +24,28 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|959|<span class="rank-name-pd">naoking.スコール</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
-|2|907|<span class="rank-name-pd">UMIBOUZU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
-|3|887|<span class="rank-name-pd">JUNCHAN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
-|4|865|<span class="rank-name-pd">Four Roses</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
-|5|734|<span class="rank-name-pd">ﾗｲｱﾝ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
-|6|636|<span class="rank-name-pd">お～ちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
-|7|625|<span class="rank-name-pd">TAKUMI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
-|8|577|<span class="rank-name-pd">岡田 憲卓</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
-|9|538|<span class="rank-name-pd">HIDE6</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
-|10|536|<span class="rank-name-pd">07YU70</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
-|11|498|<span class="rank-name-pd">永遠のcﾌﾗｳｰﾏﾝᐠ( ᐛ )ᐟ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
-|12|452|<span class="rank-name-pd">39しょーた</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
-|13|440|<span class="rank-name-pd">K.K</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
-|14|355|<span class="rank-name-pd">すぐリーヌ.jp</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
-|15|222|<span class="rank-name-pd">MOTIOOO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
+|2|946|<span class="rank-name-pd">UMIBOUZU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
+|3|915|<span class="rank-name-pd">JUNCHAN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
+|4|866|<span class="rank-name-pd">SATTOthe power</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
+|5|865|<span class="rank-name-pd">Four Roses</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
+|6|734|<span class="rank-name-pd">ﾗｲｱﾝ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
+|7|654|<span class="rank-name-pd">aka(RED GOD)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
+|8|636|<span class="rank-name-pd">お～ちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
+|9|625|<span class="rank-name-pd">TAKUMI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
+|10|608|<span class="rank-name-pd">07YU70</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
+|11|577|<span class="rank-name-pd">岡田 憲卓</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
+|12|538|<span class="rank-name-pd">HIDE6</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
+|13|498|<span class="rank-name-pd">永遠のcﾌﾗｳｰﾏﾝᐠ( ᐛ )ᐟ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
+|14|463|<span class="rank-name-pd">ちど</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
+|15|452|<span class="rank-name-pd">39しょーた</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
+|16|440|<span class="rank-name-pd">K.K</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
+|17|437|<span class="rank-name-pd">GEKKOH</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
+|18|390|<span class="rank-name-pd">SHOTA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
+|19|383|<span class="rank-name-pd">チョコピ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
+|20|364|<span class="rank-name-pd">MISAKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
+|21|359|<span class="rank-name-pd">MOTIOOO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
+|22|355|<span class="rank-name-pd">すぐリーヌ.jp</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
+|23|352|<span class="rank-name-pd">MIYOKO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -58,20 +66,28 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|959|<span class="rank-name-pd">naoking.スコール</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
-|2|907|<span class="rank-name-pd">UMIBOUZU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
-|3|887|<span class="rank-name-pd">JUNCHAN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
-|4|865|<span class="rank-name-pd">Four Roses</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
-|5|734|<span class="rank-name-pd">ﾗｲｱﾝ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
-|6|636|<span class="rank-name-pd">お～ちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
-|7|625|<span class="rank-name-pd">TAKUMI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
-|8|577|<span class="rank-name-pd">岡田 憲卓</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
-|9|538|<span class="rank-name-pd">HIDE6</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
-|10|536|<span class="rank-name-pd">07YU70</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
-|11|498|<span class="rank-name-pd">永遠のcﾌﾗｳｰﾏﾝᐠ( ᐛ )ᐟ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
-|12|452|<span class="rank-name-pd">39しょーた</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
-|13|440|<span class="rank-name-pd">K.K</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
-|14|355|<span class="rank-name-pd">すぐリーヌ.jp</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
-|15|222|<span class="rank-name-pd">MOTIOOO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
+|2|946|<span class="rank-name-pd">UMIBOUZU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
+|3|915|<span class="rank-name-pd">JUNCHAN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
+|4|866|<span class="rank-name-pd">SATTOthe power</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
+|5|865|<span class="rank-name-pd">Four Roses</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
+|6|734|<span class="rank-name-pd">ﾗｲｱﾝ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
+|7|654|<span class="rank-name-pd">aka(RED GOD)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
+|8|636|<span class="rank-name-pd">お～ちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
+|9|625|<span class="rank-name-pd">TAKUMI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
+|10|608|<span class="rank-name-pd">07YU70</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
+|11|577|<span class="rank-name-pd">岡田 憲卓</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
+|12|538|<span class="rank-name-pd">HIDE6</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
+|13|498|<span class="rank-name-pd">永遠のcﾌﾗｳｰﾏﾝᐠ( ᐛ )ᐟ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
+|14|463|<span class="rank-name-pd">ちど</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
+|15|452|<span class="rank-name-pd">39しょーた</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
+|16|440|<span class="rank-name-pd">K.K</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
+|17|437|<span class="rank-name-pd">GEKKOH</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
+|18|390|<span class="rank-name-pd">SHOTA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
+|19|383|<span class="rank-name-pd">チョコピ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
+|20|364|<span class="rank-name-pd">MISAKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
+|21|359|<span class="rank-name-pd">MOTIOOO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
+|22|355|<span class="rank-name-pd">すぐリーヌ.jp</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
+|23|352|<span class="rank-name-pd">MIYOKO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42512?s_seq=42512">スコール</a>|<a href="/darts/rank/北海道/芦別市">北海道芦別市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

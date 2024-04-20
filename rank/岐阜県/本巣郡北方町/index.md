@@ -28,19 +28,26 @@ ___
 |3|850|<span class="rank-name-dl">恋川純弥∈TARGET</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
 |4|760|<span class="rank-name-dl">kkckn</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
 |5|751|<span class="rank-name-dl">アキ リーグ</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
-|6|693|<span class="rank-name-dl">我くんくんてんが</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
-|7|688|<span class="rank-name-dl">とおるちゃん♡y</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
-|8|684|<span class="rank-name-dl">タケ</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
-|9|666|<span class="rank-name-dl">とくちゃんCHAOS</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
-|10|636|<span class="rank-name-dl">U-ch@n♪CHAOS♪</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
-|11|560|<span class="rank-name-dl">はやちゃん</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
-|12|543|<span class="rank-name-dl">スーパーTK</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
-|13|509|<span class="rank-name-dl">うーこ</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
-|14|508|<span class="rank-name-dl">ゆ</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
-|15|503|<span class="rank-name-dl">ワキャンナパー</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
-|16|491|<span class="rank-name-dl">こま</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
-|17|479|<span class="rank-name-dl">りょうちゃん ♡</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
-|18|458|<span class="rank-name-dl">ฅMIKEฅ</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
+|6|712|<span class="rank-name-dl">いそべーやん</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
+|7|693|<span class="rank-name-dl">我くんくんてんが</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
+|8|688|<span class="rank-name-dl">とおるちゃん♡y</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
+|9|684|<span class="rank-name-dl">タケ</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
+|10|666|<span class="rank-name-dl">とくちゃんCHAOS</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
+|11|654|<span class="rank-name-dl">はやちゃん</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
+|12|636|<span class="rank-name-dl">U-ch@n♪CHAOS♪</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
+|13|603|<span class="rank-name-dl">りょうちゃん</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
+|14|577|<span class="rank-name-dl">激安ベイビー</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
+|15|544|<span class="rank-name-dl">Nao</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
+|16|543|<span class="rank-name-dl">スーパーTK</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
+|17|509|<span class="rank-name-dl">うーこ</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
+|18|508|<span class="rank-name-dl">ゆ</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
+|19|507|<span class="rank-name-dl">アーチヤン</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
+|20|503|<span class="rank-name-dl">ワキャンナパー</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
+|21|491|<span class="rank-name-dl">こま</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
+|22|479|<span class="rank-name-dl">りょうちゃん ♡</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
+|23|472|<span class="rank-name-dl">ま ね き 猫</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
+|24|458|<span class="rank-name-dl">ฅMIKEฅ</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
+|25|395|<span class="rank-name-dl">4代目J.S.B</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -55,19 +62,26 @@ ___
 |3|850|<span class="rank-name-dl">恋川純弥∈TARGET</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
 |4|760|<span class="rank-name-dl">kkckn</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
 |5|751|<span class="rank-name-dl">アキ リーグ</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
-|6|693|<span class="rank-name-dl">我くんくんてんが</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
-|7|688|<span class="rank-name-dl">とおるちゃん♡y</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
-|8|684|<span class="rank-name-dl">タケ</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
-|9|666|<span class="rank-name-dl">とくちゃんCHAOS</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
-|10|636|<span class="rank-name-dl">U-ch@n♪CHAOS♪</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
-|11|560|<span class="rank-name-dl">はやちゃん</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
-|12|543|<span class="rank-name-dl">スーパーTK</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
-|13|509|<span class="rank-name-dl">うーこ</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
-|14|508|<span class="rank-name-dl">ゆ</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
-|15|503|<span class="rank-name-dl">ワキャンナパー</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
-|16|491|<span class="rank-name-dl">こま</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
-|17|479|<span class="rank-name-dl">りょうちゃん ♡</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
-|18|458|<span class="rank-name-dl">ฅMIKEฅ</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
+|6|712|<span class="rank-name-dl">いそべーやん</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
+|7|693|<span class="rank-name-dl">我くんくんてんが</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
+|8|688|<span class="rank-name-dl">とおるちゃん♡y</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
+|9|684|<span class="rank-name-dl">タケ</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
+|10|666|<span class="rank-name-dl">とくちゃんCHAOS</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
+|11|654|<span class="rank-name-dl">はやちゃん</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
+|12|636|<span class="rank-name-dl">U-ch@n♪CHAOS♪</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
+|13|603|<span class="rank-name-dl">りょうちゃん</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
+|14|577|<span class="rank-name-dl">激安ベイビー</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
+|15|544|<span class="rank-name-dl">Nao</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
+|16|543|<span class="rank-name-dl">スーパーTK</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
+|17|509|<span class="rank-name-dl">うーこ</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
+|18|508|<span class="rank-name-dl">ゆ</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
+|19|507|<span class="rank-name-dl">アーチヤン</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
+|20|503|<span class="rank-name-dl">ワキャンナパー</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
+|21|491|<span class="rank-name-dl">こま</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
+|22|479|<span class="rank-name-dl">りょうちゃん ♡</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
+|23|472|<span class="rank-name-dl">ま ね き 猫</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
+|24|458|<span class="rank-name-dl">ฅMIKEฅ</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
+|25|395|<span class="rank-name-dl">4代目J.S.B</span>|<a href="https://search.dartslive.com/jp/shop/d69a03368e0ae639774c926eb736cb5a">HALF DOLLAR</a>|<a href="/darts/rank/岐阜県/本巣郡北方町">岐阜県本巣郡北方町</a>|
 
 
 #### PHOENIXDARTS TOP 100

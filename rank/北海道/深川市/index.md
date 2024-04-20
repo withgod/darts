@@ -23,10 +23,14 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|624|<span class="rank-name-dl">ゆた</span>|<a href="https://search.dartslive.com/jp/shop/353cc0e67f4d52ef0d9b047a20a7ba1e">Sports Cafe MAX</a>|<a href="/darts/rank/北海道/深川市">北海道深川市</a>|
-|2|597|<span class="rank-name-dl">NO NAME 2640</span>|<a href="https://search.dartslive.com/jp/shop/353cc0e67f4d52ef0d9b047a20a7ba1e">Sports Cafe MAX</a>|<a href="/darts/rank/北海道/深川市">北海道深川市</a>|
-|3|538|<span class="rank-name-dl">のぶおちょん</span>|<a href="https://search.dartslive.com/jp/shop/353cc0e67f4d52ef0d9b047a20a7ba1e">Sports Cafe MAX</a>|<a href="/darts/rank/北海道/深川市">北海道深川市</a>|
-|4|433|<span class="rank-name-dl">MAX@caco</span>|<a href="https://search.dartslive.com/jp/shop/353cc0e67f4d52ef0d9b047a20a7ba1e">Sports Cafe MAX</a>|<a href="/darts/rank/北海道/深川市">北海道深川市</a>|
+|1|1018|<span class="rank-name-dl">ガッチョ</span>|<a href="https://search.dartslive.com/jp/shop/353cc0e67f4d52ef0d9b047a20a7ba1e">Sports Cafe MAX</a>|<a href="/darts/rank/北海道/深川市">北海道深川市</a>|
+|2|724|<span class="rank-name-dl">だーほし</span>|<a href="https://search.dartslive.com/jp/shop/353cc0e67f4d52ef0d9b047a20a7ba1e">Sports Cafe MAX</a>|<a href="/darts/rank/北海道/深川市">北海道深川市</a>|
+|3|670|<span class="rank-name-dl">disk</span>|<a href="https://search.dartslive.com/jp/shop/353cc0e67f4d52ef0d9b047a20a7ba1e">Sports Cafe MAX</a>|<a href="/darts/rank/北海道/深川市">北海道深川市</a>|
+|4|624|<span class="rank-name-dl">ゆた</span>|<a href="https://search.dartslive.com/jp/shop/353cc0e67f4d52ef0d9b047a20a7ba1e">Sports Cafe MAX</a>|<a href="/darts/rank/北海道/深川市">北海道深川市</a>|
+|5|597|<span class="rank-name-dl">NO NAME 2640</span>|<a href="https://search.dartslive.com/jp/shop/353cc0e67f4d52ef0d9b047a20a7ba1e">Sports Cafe MAX</a>|<a href="/darts/rank/北海道/深川市">北海道深川市</a>|
+|6|538|<span class="rank-name-dl">のぶおちょん</span>|<a href="https://search.dartslive.com/jp/shop/353cc0e67f4d52ef0d9b047a20a7ba1e">Sports Cafe MAX</a>|<a href="/darts/rank/北海道/深川市">北海道深川市</a>|
+|7|498|<span class="rank-name-dl">蓮羅</span>|<a href="https://search.dartslive.com/jp/shop/353cc0e67f4d52ef0d9b047a20a7ba1e">Sports Cafe MAX</a>|<a href="/darts/rank/北海道/深川市">北海道深川市</a>|
+|8|473|<span class="rank-name-dl">MAX@caco</span>|<a href="https://search.dartslive.com/jp/shop/353cc0e67f4d52ef0d9b047a20a7ba1e">Sports Cafe MAX</a>|<a href="/darts/rank/北海道/深川市">北海道深川市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -36,10 +40,14 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|624|<span class="rank-name-dl">ゆた</span>|<a href="https://search.dartslive.com/jp/shop/353cc0e67f4d52ef0d9b047a20a7ba1e">Sports Cafe MAX</a>|<a href="/darts/rank/北海道/深川市">北海道深川市</a>|
-|2|597|<span class="rank-name-dl">NO NAME 2640</span>|<a href="https://search.dartslive.com/jp/shop/353cc0e67f4d52ef0d9b047a20a7ba1e">Sports Cafe MAX</a>|<a href="/darts/rank/北海道/深川市">北海道深川市</a>|
-|3|538|<span class="rank-name-dl">のぶおちょん</span>|<a href="https://search.dartslive.com/jp/shop/353cc0e67f4d52ef0d9b047a20a7ba1e">Sports Cafe MAX</a>|<a href="/darts/rank/北海道/深川市">北海道深川市</a>|
-|4|433|<span class="rank-name-dl">MAX@caco</span>|<a href="https://search.dartslive.com/jp/shop/353cc0e67f4d52ef0d9b047a20a7ba1e">Sports Cafe MAX</a>|<a href="/darts/rank/北海道/深川市">北海道深川市</a>|
+|1|1018|<span class="rank-name-dl">ガッチョ</span>|<a href="https://search.dartslive.com/jp/shop/353cc0e67f4d52ef0d9b047a20a7ba1e">Sports Cafe MAX</a>|<a href="/darts/rank/北海道/深川市">北海道深川市</a>|
+|2|724|<span class="rank-name-dl">だーほし</span>|<a href="https://search.dartslive.com/jp/shop/353cc0e67f4d52ef0d9b047a20a7ba1e">Sports Cafe MAX</a>|<a href="/darts/rank/北海道/深川市">北海道深川市</a>|
+|3|670|<span class="rank-name-dl">disk</span>|<a href="https://search.dartslive.com/jp/shop/353cc0e67f4d52ef0d9b047a20a7ba1e">Sports Cafe MAX</a>|<a href="/darts/rank/北海道/深川市">北海道深川市</a>|
+|4|624|<span class="rank-name-dl">ゆた</span>|<a href="https://search.dartslive.com/jp/shop/353cc0e67f4d52ef0d9b047a20a7ba1e">Sports Cafe MAX</a>|<a href="/darts/rank/北海道/深川市">北海道深川市</a>|
+|5|597|<span class="rank-name-dl">NO NAME 2640</span>|<a href="https://search.dartslive.com/jp/shop/353cc0e67f4d52ef0d9b047a20a7ba1e">Sports Cafe MAX</a>|<a href="/darts/rank/北海道/深川市">北海道深川市</a>|
+|6|538|<span class="rank-name-dl">のぶおちょん</span>|<a href="https://search.dartslive.com/jp/shop/353cc0e67f4d52ef0d9b047a20a7ba1e">Sports Cafe MAX</a>|<a href="/darts/rank/北海道/深川市">北海道深川市</a>|
+|7|498|<span class="rank-name-dl">蓮羅</span>|<a href="https://search.dartslive.com/jp/shop/353cc0e67f4d52ef0d9b047a20a7ba1e">Sports Cafe MAX</a>|<a href="/darts/rank/北海道/深川市">北海道深川市</a>|
+|8|473|<span class="rank-name-dl">MAX@caco</span>|<a href="https://search.dartslive.com/jp/shop/353cc0e67f4d52ef0d9b047a20a7ba1e">Sports Cafe MAX</a>|<a href="/darts/rank/北海道/深川市">北海道深川市</a>|
 
 
 #### PHOENIXDARTS TOP 100

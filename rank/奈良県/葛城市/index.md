@@ -23,34 +23,63 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|979|<span class="rank-name-dl">桃太郎</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
-|2|969|<span class="rank-name-dl">にぎにぎ</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
-|3|967|<span class="rank-name-dl">しょーGO！</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
-|4|957|<span class="rank-name-dl">コ～ジ～@TPGN</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
-|5|951|<span class="rank-name-dl">きのした</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
-|6|926|<span class="rank-name-dl">ウメミっち</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
-|7|889|<span class="rank-name-dl">やる気無し</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
-|8|883|<span class="rank-name-dl">ﾋﾟｱﾉﾏﾝ〆対戦募集</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
-|9|870|<span class="rank-name-dl">く～@AIMS</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
-|10|866|<span class="rank-name-dl">NO NAME 0310</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
-|10|866|<span class="rank-name-dl">めぐさん@773</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
-|12|864|<span class="rank-name-dl">本間　優斗</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
-|13|861|<span class="rank-name-dl">ANIKI@未来都</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
-|14|853|<span class="rank-name-dl">佐藤愛入</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
-|15|844|<span class="rank-name-dl">TAKA4</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
-|16|842|<span class="rank-name-dl">あべまゆ</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
-|16|842|<span class="rank-name-dl">チュン</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
-|18|744|<span class="rank-name-dl">＊あいちゃん＊</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
-|19|711|<span class="rank-name-dl">こちゃ</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
-|20|589|<span class="rank-name-dl">かおりん</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
-|21|586|<span class="rank-name-dl">Yuu</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
-|22|570|<span class="rank-name-dl">リッカルド</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
-|23|547|<span class="rank-name-dl">湊 風奈</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
-|24|544|<span class="rank-name-dl">★yuuu7</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
-|25|530|<span class="rank-name-dl">☆愛犬家kte☆</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
-|26|526|<span class="rank-name-dl">まぐろ</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
-|27|490|<span class="rank-name-dl">*･･)v♪</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
-|28|425|<span class="rank-name-dl">yukino</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|1|1085|<span class="rank-name-dl">みっき〜☆</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|2|1007|<span class="rank-name-dl">ルイージ</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|3|998|<span class="rank-name-dl">しょーGO！</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|4|979|<span class="rank-name-dl">桃太郎</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|5|969|<span class="rank-name-dl">にぎにぎ</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|6|957|<span class="rank-name-dl">コ～ジ～@TPGN</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|7|951|<span class="rank-name-dl">きのした</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|8|932|<span class="rank-name-dl">リッカルド</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|9|926|<span class="rank-name-dl">ウメミっち</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|10|918|<span class="rank-name-dl">X</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|11|905|<span class="rank-name-dl">本間優斗</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|12|900|<span class="rank-name-dl">RAISIN</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|13|897|<span class="rank-name-dl">三味線のお兄ヤン</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|14|893|<span class="rank-name-dl">鹿児SiN</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|15|889|<span class="rank-name-dl">やる気無し</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|15|889|<span class="rank-name-dl">フェルゼン</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|17|883|<span class="rank-name-dl">ﾋﾟｱﾉﾏﾝ〆対戦募集</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|18|870|<span class="rank-name-dl">く～@AIMS</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|19|867|<span class="rank-name-dl">ゆうすけ</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|20|866|<span class="rank-name-dl">NO NAME 0310</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|20|866|<span class="rank-name-dl">めぐさん@773</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|22|864|<span class="rank-name-dl">本間　優斗</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|23|861|<span class="rank-name-dl">ANIKI@未来都</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|24|853|<span class="rank-name-dl">佐藤愛入</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|25|848|<span class="rank-name-dl">☆NAO☆</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|26|844|<span class="rank-name-dl">TAKA4</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|27|842|<span class="rank-name-dl">あべまゆ</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|27|842|<span class="rank-name-dl">チュン</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|29|819|<span class="rank-name-dl">ゆううううう</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|30|789|<span class="rank-name-dl">くま☆奈良県人</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|31|764|<span class="rank-name-dl">ネーナはさっちー</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|32|744|<span class="rank-name-dl">＊あいちゃん＊</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|33|719|<span class="rank-name-dl">☆愛犬家kte☆</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|34|711|<span class="rank-name-dl">こちゃ</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|35|710|<span class="rank-name-dl">☪︎ Chizu ☪︎</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|36|675|<span class="rank-name-dl">✩*。Chizu ☽･:*</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|37|657|<span class="rank-name-dl">ふー</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|37|657|<span class="rank-name-dl">対戦募集＠コウ</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|39|589|<span class="rank-name-dl">かおりん</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|40|586|<span class="rank-name-dl">Yuu</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|41|581|<span class="rank-name-dl">嶽</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|42|564|<span class="rank-name-dl">まひろ</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|43|559|<span class="rank-name-dl">manami</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|44|547|<span class="rank-name-dl">湊 風奈</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|45|544|<span class="rank-name-dl">★yuuu7</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|46|531|<span class="rank-name-dl">うーたん</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|47|526|<span class="rank-name-dl">まぐろ</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|48|510|<span class="rank-name-dl">むーさん</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|49|498|<span class="rank-name-dl">orange</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|50|490|<span class="rank-name-dl">*･･)v♪</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|51|489|<span class="rank-name-dl">まゆ</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|52|462|<span class="rank-name-dl">*。Chizu ☽SHM☆</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|53|458|<span class="rank-name-dl">和覇</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|54|452|<span class="rank-name-dl">★cha-maruXX</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|55|447|<span class="rank-name-dl">yukino</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|56|364|<span class="rank-name-dl">メロンフラペ</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|57|313|<span class="rank-name-dl">サムス</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -60,34 +89,63 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|979|<span class="rank-name-dl">桃太郎</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
-|2|969|<span class="rank-name-dl">にぎにぎ</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
-|3|967|<span class="rank-name-dl">しょーGO！</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
-|4|957|<span class="rank-name-dl">コ～ジ～@TPGN</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
-|5|951|<span class="rank-name-dl">きのした</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
-|6|926|<span class="rank-name-dl">ウメミっち</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
-|7|889|<span class="rank-name-dl">やる気無し</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
-|8|883|<span class="rank-name-dl">ﾋﾟｱﾉﾏﾝ〆対戦募集</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
-|9|870|<span class="rank-name-dl">く～@AIMS</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
-|10|866|<span class="rank-name-dl">NO NAME 0310</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
-|10|866|<span class="rank-name-dl">めぐさん@773</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
-|12|864|<span class="rank-name-dl">本間　優斗</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
-|13|861|<span class="rank-name-dl">ANIKI@未来都</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
-|14|853|<span class="rank-name-dl">佐藤愛入</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
-|15|844|<span class="rank-name-dl">TAKA4</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
-|16|842|<span class="rank-name-dl">あべまゆ</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
-|16|842|<span class="rank-name-dl">チュン</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
-|18|744|<span class="rank-name-dl">＊あいちゃん＊</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
-|19|711|<span class="rank-name-dl">こちゃ</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
-|20|589|<span class="rank-name-dl">かおりん</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
-|21|586|<span class="rank-name-dl">Yuu</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
-|22|570|<span class="rank-name-dl">リッカルド</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
-|23|547|<span class="rank-name-dl">湊 風奈</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
-|24|544|<span class="rank-name-dl">★yuuu7</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
-|25|530|<span class="rank-name-dl">☆愛犬家kte☆</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
-|26|526|<span class="rank-name-dl">まぐろ</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
-|27|490|<span class="rank-name-dl">*･･)v♪</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
-|28|425|<span class="rank-name-dl">yukino</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|1|1085|<span class="rank-name-dl">みっき〜☆</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|2|1007|<span class="rank-name-dl">ルイージ</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|3|998|<span class="rank-name-dl">しょーGO！</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|4|979|<span class="rank-name-dl">桃太郎</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|5|969|<span class="rank-name-dl">にぎにぎ</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|6|957|<span class="rank-name-dl">コ～ジ～@TPGN</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|7|951|<span class="rank-name-dl">きのした</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|8|932|<span class="rank-name-dl">リッカルド</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|9|926|<span class="rank-name-dl">ウメミっち</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|10|918|<span class="rank-name-dl">X</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|11|905|<span class="rank-name-dl">本間優斗</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|12|900|<span class="rank-name-dl">RAISIN</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|13|897|<span class="rank-name-dl">三味線のお兄ヤン</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|14|893|<span class="rank-name-dl">鹿児SiN</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|15|889|<span class="rank-name-dl">やる気無し</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|15|889|<span class="rank-name-dl">フェルゼン</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|17|883|<span class="rank-name-dl">ﾋﾟｱﾉﾏﾝ〆対戦募集</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|18|870|<span class="rank-name-dl">く～@AIMS</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|19|867|<span class="rank-name-dl">ゆうすけ</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|20|866|<span class="rank-name-dl">NO NAME 0310</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|20|866|<span class="rank-name-dl">めぐさん@773</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|22|864|<span class="rank-name-dl">本間　優斗</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|23|861|<span class="rank-name-dl">ANIKI@未来都</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|24|853|<span class="rank-name-dl">佐藤愛入</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|25|848|<span class="rank-name-dl">☆NAO☆</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|26|844|<span class="rank-name-dl">TAKA4</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|27|842|<span class="rank-name-dl">あべまゆ</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|27|842|<span class="rank-name-dl">チュン</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|29|819|<span class="rank-name-dl">ゆううううう</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|30|789|<span class="rank-name-dl">くま☆奈良県人</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|31|764|<span class="rank-name-dl">ネーナはさっちー</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|32|744|<span class="rank-name-dl">＊あいちゃん＊</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|33|719|<span class="rank-name-dl">☆愛犬家kte☆</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|34|711|<span class="rank-name-dl">こちゃ</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|35|710|<span class="rank-name-dl">☪︎ Chizu ☪︎</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|36|675|<span class="rank-name-dl">✩*。Chizu ☽･:*</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|37|657|<span class="rank-name-dl">ふー</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|37|657|<span class="rank-name-dl">対戦募集＠コウ</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|39|589|<span class="rank-name-dl">かおりん</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|40|586|<span class="rank-name-dl">Yuu</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|41|581|<span class="rank-name-dl">嶽</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|42|564|<span class="rank-name-dl">まひろ</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|43|559|<span class="rank-name-dl">manami</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|44|547|<span class="rank-name-dl">湊 風奈</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|45|544|<span class="rank-name-dl">★yuuu7</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|46|531|<span class="rank-name-dl">うーたん</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|47|526|<span class="rank-name-dl">まぐろ</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|48|510|<span class="rank-name-dl">むーさん</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|49|498|<span class="rank-name-dl">orange</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|50|490|<span class="rank-name-dl">*･･)v♪</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|51|489|<span class="rank-name-dl">まゆ</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|52|462|<span class="rank-name-dl">*。Chizu ☽SHM☆</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|53|458|<span class="rank-name-dl">和覇</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|54|452|<span class="rank-name-dl">★cha-maruXX</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|55|447|<span class="rank-name-dl">yukino</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|56|364|<span class="rank-name-dl">メロンフラペ</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
+|57|313|<span class="rank-name-dl">サムス</span>|<a href="https://search.dartslive.com/jp/shop/49e90632ae105f54b21333aee1bd51e4">快活CLUB 大和高田店</a>|<a href="/darts/rank/奈良県/葛城市">奈良県葛城市</a>|
 
 
 #### PHOENIXDARTS TOP 100

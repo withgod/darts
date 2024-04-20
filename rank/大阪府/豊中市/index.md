@@ -23,106 +23,106 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1200|<span class="rank-name-dl">大橋　操</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|2|1130|<span class="rank-name-dl">津波良二CUESOUL</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|1|1205|<span class="rank-name-dl">津波良二CUESOUL</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|2|1200|<span class="rank-name-dl">大橋　操</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
 |3|1121|<span class="rank-name-dl">仮ｴｰｽ@こじらせ隊</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
 |4|1115|<span class="rank-name-dl">津波良二CUESOUL</span>|<a href="https://search.dartslive.com/jp/shop/d1d58de1ac0c8c190d9b047a20a7ba1e">Shot bar 4out</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
 |5|1109|<span class="rank-name-pd">銀河Ver2.0@玉野槍射會</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
 |6|1088|<span class="rank-name-dl">IORY</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
 |7|1086|<span class="rank-name-pd">もーやん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
 |8|1068|<span class="rank-name-dl">はやてるま</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|9|1023|<span class="rank-name-dl">かずき</span>|<a href="https://search.dartslive.com/jp/shop/559b6309da5de0e325d56fb0e5c39bac">Darts&Karaoke bar HERO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|10|1003|<span class="rank-name-dl">仮ｴｰｽ@こじらせ隊</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|11|971|<span class="rank-name-dl">ノイキルヒナー</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|12|965|<span class="rank-name-dl">YouCham@RED</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|13|952|<span class="rank-name-dl">Teru@ﾄｲﾄｲ</span>|<a href="https://search.dartslive.com/jp/shop/e1a59c9152b3e3d4a3f63593b5358cc4">Darts＆chill Toi Toi Toi</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|14|951|<span class="rank-name-dl">コロッケ大好き</span>|<a href="https://search.dartslive.com/jp/shop/559b6309da5de0e325d56fb0e5c39bac">Darts&Karaoke bar HERO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|15|945|<span class="rank-name-pd"><span class="pro-icon-pd"></span>森杉  玲華</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|16|941|<span class="rank-name-dl">大橋　操</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|17|936|<span class="rank-name-dl">たくぽん。</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|18|934|<span class="rank-name-dl">JUNYA☆SCORPION</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|19|932|<span class="rank-name-dl">Y☀︎M</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|20|926|<span class="rank-name-dl">ﾈｲﾉｰさん( ^-ﾟ)σ</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|21|925|<span class="rank-name-dl">そ@風</span>|<a href="https://search.dartslive.com/jp/shop/e1a59c9152b3e3d4a3f63593b5358cc4">Darts＆chill Toi Toi Toi</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|22|913|<span class="rank-name-dl">ティー屋@Hero</span>|<a href="https://search.dartslive.com/jp/shop/559b6309da5de0e325d56fb0e5c39bac">Darts&Karaoke bar HERO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|23|910|<span class="rank-name-dl">バタロー♪</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|24|888|<span class="rank-name-dl">仮ｴｰｽ@こじらせ隊</span>|<a href="https://search.dartslive.com/jp/shop/d1d58de1ac0c8c190d9b047a20a7ba1e">Shot bar 4out</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|25|887|<span class="rank-name-dl">森杉 玲華</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|26|883|<span class="rank-name-dl">せいや</span>|<a href="https://search.dartslive.com/jp/shop/eeefa11e7892b55a0d9b047a20a7ba1e">Shot bar N</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|27|879|<span class="rank-name-dl">takumi</span>|<a href="https://search.dartslive.com/jp/shop/e1a59c9152b3e3d4a3f63593b5358cc4">Darts＆chill Toi Toi Toi</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|28|877|<span class="rank-name-dl">だいすけ@HERO</span>|<a href="https://search.dartslive.com/jp/shop/559b6309da5de0e325d56fb0e5c39bac">Darts&Karaoke bar HERO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|29|872|<span class="rank-name-dl">ダル</span>|<a href="https://search.dartslive.com/jp/shop/36c0cbb29ca2d85e0d9b047a20a7ba1e">BAR SALT</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|29|872|<span class="rank-name-dl">ノイキルヒナー</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|31|870|<span class="rank-name-dl">りさちゃん</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|31|870|<span class="rank-name-dl">れん</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|33|865|<span class="rank-name-dl">☻</span>|<a href="https://search.dartslive.com/jp/shop/04fed2f80910556d0d9b047a20a7ba1e">Bar Ocean</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|34|863|<span class="rank-name-dl">かみにそ@風</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|35|862|<span class="rank-name-dl">ゴウ</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|36|853|<span class="rank-name-dl">清楚な一郎@風</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|37|845|<span class="rank-name-dl">K</span>|<a href="https://search.dartslive.com/jp/shop/e1a59c9152b3e3d4a3f63593b5358cc4">Darts＆chill Toi Toi Toi</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|38|830|<span class="rank-name-dl">そ@風</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|39|828|<span class="rank-name-dl">かじゅまる</span>|<a href="https://search.dartslive.com/jp/shop/cb495b16e1424fc5fec1ae84bb28bd87">Shot Bar ZERO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|40|824|<span class="rank-name-dl">厶〜ン(・_・;)</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|41|815|<span class="rank-name-dl">たつやん</span>|<a href="https://search.dartslive.com/jp/shop/e1a59c9152b3e3d4a3f63593b5358cc4">Darts＆chill Toi Toi Toi</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|42|814|<span class="rank-name-pd">Rockin&#x27;</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71566?s_seq=71566">SHOT BAR Rockin'CHAIR</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|43|812|<span class="rank-name-pd">あいちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71566?s_seq=71566">SHOT BAR Rockin'CHAIR</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|44|801|<span class="rank-name-pd">AtSUshioKA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|44|801|<span class="rank-name-dl">バタロー♪</span>|<a href="https://search.dartslive.com/jp/shop/e1a59c9152b3e3d4a3f63593b5358cc4">Darts＆chill Toi Toi Toi</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|46|791|<span class="rank-name-pd">MINI~~54</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|47|787|<span class="rank-name-dl">ダル</span>|<a href="https://search.dartslive.com/jp/shop/e1a59c9152b3e3d4a3f63593b5358cc4">Darts＆chill Toi Toi Toi</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|48|786|<span class="rank-name-dl">35@DAI</span>|<a href="https://search.dartslive.com/jp/shop/559b6309da5de0e325d56fb0e5c39bac">Darts&Karaoke bar HERO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|49|781|<span class="rank-name-dl">なっかん</span>|<a href="https://search.dartslive.com/jp/shop/e1a59c9152b3e3d4a3f63593b5358cc4">Darts＆chill Toi Toi Toi</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|50|779|<span class="rank-name-pd"><span class="pro-icon-pd"></span>小原 佑天</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|50|779|<span class="rank-name-dl">篤弥@N</span>|<a href="https://search.dartslive.com/jp/shop/eeefa11e7892b55a0d9b047a20a7ba1e">Shot bar N</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|52|772|<span class="rank-name-dl">K1Y0</span>|<a href="https://search.dartslive.com/jp/shop/d1d58de1ac0c8c190d9b047a20a7ba1e">Shot bar 4out</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|53|765|<span class="rank-name-dl">YuJi@豊中 風</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|54|763|<span class="rank-name-dl">Teppei</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|55|746|<span class="rank-name-dl">まきろん@8121風</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|56|740|<span class="rank-name-dl">ノイキルヒナー</span>|<a href="https://search.dartslive.com/jp/shop/d1d58de1ac0c8c190d9b047a20a7ba1e">Shot bar 4out</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|57|739|<span class="rank-name-dl">shion</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|58|736|<span class="rank-name-dl">エヴァン</span>|<a href="https://search.dartslive.com/jp/shop/eeefa11e7892b55a0d9b047a20a7ba1e">Shot bar N</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|59|735|<span class="rank-name-dl">AAAAA</span>|<a href="https://search.dartslive.com/jp/shop/04fed2f80910556d0d9b047a20a7ba1e">Bar Ocean</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|60|733|<span class="rank-name-dl">とみさん</span>|<a href="https://search.dartslive.com/jp/shop/d1d58de1ac0c8c190d9b047a20a7ba1e">Shot bar 4out</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|61|731|<span class="rank-name-dl">とぅ〜さん@風/R</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|62|729|<span class="rank-name-pd">KAZUKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|62|729|<span class="rank-name-dl">nao@OKAYAN</span>|<a href="https://search.dartslive.com/jp/shop/e1a59c9152b3e3d4a3f63593b5358cc4">Darts＆chill Toi Toi Toi</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|64|727|<span class="rank-name-dl">お</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|65|726|<span class="rank-name-dl">K1Y0</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|65|726|<span class="rank-name-dl">ゆうきです@風</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|67|720|<span class="rank-name-dl">たく＊Aus</span>|<a href="https://search.dartslive.com/jp/shop/e1a59c9152b3e3d4a3f63593b5358cc4">Darts＆chill Toi Toi Toi</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|67|720|<span class="rank-name-pd">中島　和宏</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|69|718|<span class="rank-name-pd">kantasky</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71566?s_seq=71566">SHOT BAR Rockin'CHAIR</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|69|718|<span class="rank-name-dl">イツキ@Shotber N</span>|<a href="https://search.dartslive.com/jp/shop/eeefa11e7892b55a0d9b047a20a7ba1e">Shot bar N</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|71|716|<span class="rank-name-pd">な</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|72|712|<span class="rank-name-dl">かずと</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|73|706|<span class="rank-name-dl">糸屯 ＠豊中 風</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|74|704|<span class="rank-name-dl">Bar Hero abechan</span>|<a href="https://search.dartslive.com/jp/shop/559b6309da5de0e325d56fb0e5c39bac">Darts&Karaoke bar HERO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|74|704|<span class="rank-name-dl">ちゃんみゆ</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|76|700|<span class="rank-name-dl">shion /901-QLAY</span>|<a href="https://search.dartslive.com/jp/shop/559b6309da5de0e325d56fb0e5c39bac">Darts&Karaoke bar HERO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|77|697|<span class="rank-name-dl">Ryuki</span>|<a href="https://search.dartslive.com/jp/shop/e1a59c9152b3e3d4a3f63593b5358cc4">Darts＆chill Toi Toi Toi</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|78|695|<span class="rank-name-dl">そ@風</span>|<a href="https://search.dartslive.com/jp/shop/eeefa11e7892b55a0d9b047a20a7ba1e">Shot bar N</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|79|688|<span class="rank-name-dl">みゅん</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|80|686|<span class="rank-name-dl">SHOW-YA@Ocean</span>|<a href="https://search.dartslive.com/jp/shop/04fed2f80910556d0d9b047a20a7ba1e">Bar Ocean</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|81|678|<span class="rank-name-pd">松崎しげらない</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71566?s_seq=71566">SHOT BAR Rockin'CHAIR</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|82|676|<span class="rank-name-pd">0431-0007</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|83|675|<span class="rank-name-dl">こーやん@風@N</span>|<a href="https://search.dartslive.com/jp/shop/eeefa11e7892b55a0d9b047a20a7ba1e">Shot bar N</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|84|671|<span class="rank-name-dl">上田祐希@ニート</span>|<a href="https://search.dartslive.com/jp/shop/559b6309da5de0e325d56fb0e5c39bac">Darts&Karaoke bar HERO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|85|667|<span class="rank-name-dl">CASHAAAAAAAAAAAN</span>|<a href="https://search.dartslive.com/jp/shop/d1d58de1ac0c8c190d9b047a20a7ba1e">Shot bar 4out</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|86|666|<span class="rank-name-dl">ダル</span>|<a href="https://search.dartslive.com/jp/shop/04fed2f80910556d0d9b047a20a7ba1e">Bar Ocean</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|87|661|<span class="rank-name-dl">はやと</span>|<a href="https://search.dartslive.com/jp/shop/eeefa11e7892b55a0d9b047a20a7ba1e">Shot bar N</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|88|660|<span class="rank-name-pd">まぶ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71566?s_seq=71566">SHOT BAR Rockin'CHAIR</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|88|660|<span class="rank-name-dl">ﾔﾒﾃﾖ!ﾔﾒﾃﾖﾐｻﾄｻｰﾝ!</span>|<a href="https://search.dartslive.com/jp/shop/e1a59c9152b3e3d4a3f63593b5358cc4">Darts＆chill Toi Toi Toi</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|90|659|<span class="rank-name-dl">MURA</span>|<a href="https://search.dartslive.com/jp/shop/e1a59c9152b3e3d4a3f63593b5358cc4">Darts＆chill Toi Toi Toi</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|91|657|<span class="rank-name-pd">ざわ…ざわ…</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71566?s_seq=71566">SHOT BAR Rockin'CHAIR</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|92|654|<span class="rank-name-pd">FURAN&amp;RUNE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|93|653|<span class="rank-name-dl">みやび@風</span>|<a href="https://search.dartslive.com/jp/shop/eeefa11e7892b55a0d9b047a20a7ba1e">Shot bar N</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|94|650|<span class="rank-name-pd">makkyyyyyyyyyyyyyyy</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71566?s_seq=71566">SHOT BAR Rockin'CHAIR</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|94|650|<span class="rank-name-dl">清楚な一郎@風</span>|<a href="https://search.dartslive.com/jp/shop/e1a59c9152b3e3d4a3f63593b5358cc4">Darts＆chill Toi Toi Toi</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|96|647|<span class="rank-name-dl">ʕ•ᴥ•ʔ</span>|<a href="https://search.dartslive.com/jp/shop/04fed2f80910556d0d9b047a20a7ba1e">Bar Ocean</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|97|642|<span class="rank-name-dl">K</span>|<a href="https://search.dartslive.com/jp/shop/eeefa11e7892b55a0d9b047a20a7ba1e">Shot bar N</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|98|640|<span class="rank-name-dl">清楚な一郎@風</span>|<a href="https://search.dartslive.com/jp/shop/04fed2f80910556d0d9b047a20a7ba1e">Bar Ocean</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|99|635|<span class="rank-name-dl">Dr</span>|<a href="https://search.dartslive.com/jp/shop/04fed2f80910556d0d9b047a20a7ba1e">Bar Ocean</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|100|628|<span class="rank-name-dl">ともただ1000%</span>|<a href="https://search.dartslive.com/jp/shop/04fed2f80910556d0d9b047a20a7ba1e">Bar Ocean</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|9|1053|<span class="rank-name-dl">徳仁@blowout</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|10|1052|<span class="rank-name-dl">津波　良二</span>|<a href="https://search.dartslive.com/jp/shop/d1d58de1ac0c8c190d9b047a20a7ba1e">Shot bar 4out</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|11|1047|<span class="rank-name-dl">ＡーＭＡＸ</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|12|1043|<span class="rank-name-dl">だいき</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|13|1027|<span class="rank-name-dl">takumi</span>|<a href="https://search.dartslive.com/jp/shop/e1a59c9152b3e3d4a3f63593b5358cc4">Darts＆chill Toi Toi Toi</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|14|1026|<span class="rank-name-dl">ナリタブライアン</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|15|1023|<span class="rank-name-dl">かずき</span>|<a href="https://search.dartslive.com/jp/shop/559b6309da5de0e325d56fb0e5c39bac">Darts&Karaoke bar HERO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|16|1018|<span class="rank-name-dl">M＆Y</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|17|1017|<span class="rank-name-dl">ねこずし</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|18|1015|<span class="rank-name-dl">仮ｴｰｽ@こじらせ隊</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|19|1008|<span class="rank-name-dl">ﾀｯﾁｬﾝ＠なんしか</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|20|985|<span class="rank-name-dl">ちゃーりー4545</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|21|982|<span class="rank-name-pd"><span class="pro-icon-pd"></span>森杉  玲華</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|22|971|<span class="rank-name-dl">ノイキルヒナー</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|23|965|<span class="rank-name-dl">YouCham@RED</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|24|960|<span class="rank-name-dl">35@DAI</span>|<a href="https://search.dartslive.com/jp/shop/559b6309da5de0e325d56fb0e5c39bac">Darts&Karaoke bar HERO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|25|954|<span class="rank-name-dl">-TAIKI-Voyage-</span>|<a href="https://search.dartslive.com/jp/shop/e1a59c9152b3e3d4a3f63593b5358cc4">Darts＆chill Toi Toi Toi</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|26|953|<span class="rank-name-dl">たろー</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|27|952|<span class="rank-name-dl">Teru@ﾄｲﾄｲ</span>|<a href="https://search.dartslive.com/jp/shop/e1a59c9152b3e3d4a3f63593b5358cc4">Darts＆chill Toi Toi Toi</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|28|951|<span class="rank-name-dl">コロッケ大好き</span>|<a href="https://search.dartslive.com/jp/shop/559b6309da5de0e325d56fb0e5c39bac">Darts&Karaoke bar HERO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|29|950|<span class="rank-name-dl">torry@投げ込み用</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|30|944|<span class="rank-name-dl">メガ</span>|<a href="https://search.dartslive.com/jp/shop/e1a59c9152b3e3d4a3f63593b5358cc4">Darts＆chill Toi Toi Toi</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|31|941|<span class="rank-name-dl">shion</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|31|941|<span class="rank-name-dl">大橋　操</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|33|936|<span class="rank-name-dl">たくぽん。</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|34|934|<span class="rank-name-dl">JUNYA☆SCORPION</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|34|934|<span class="rank-name-dl">カフェ　bond</span>|<a href="https://search.dartslive.com/jp/shop/559b6309da5de0e325d56fb0e5c39bac">Darts&Karaoke bar HERO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|36|933|<span class="rank-name-dl">Ψ(^.^)</span>|<a href="https://search.dartslive.com/jp/shop/559b6309da5de0e325d56fb0e5c39bac">Darts&Karaoke bar HERO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|37|932|<span class="rank-name-dl">Y☀︎M</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|37|932|<span class="rank-name-dl">ＡーＭＡＸ</span>|<a href="https://search.dartslive.com/jp/shop/e1a59c9152b3e3d4a3f63593b5358cc4">Darts＆chill Toi Toi Toi</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|39|931|<span class="rank-name-dl">ひざ神(裏)</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|40|929|<span class="rank-name-dl">トラン</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|41|926|<span class="rank-name-dl">ﾈｲﾉｰさん( ^-ﾟ)σ</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|42|925|<span class="rank-name-dl">そ@風</span>|<a href="https://search.dartslive.com/jp/shop/e1a59c9152b3e3d4a3f63593b5358cc4">Darts＆chill Toi Toi Toi</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|43|920|<span class="rank-name-dl">よーたろー@風</span>|<a href="https://search.dartslive.com/jp/shop/eeefa11e7892b55a0d9b047a20a7ba1e">Shot bar N</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|44|919|<span class="rank-name-dl">T</span>|<a href="https://search.dartslive.com/jp/shop/e1a59c9152b3e3d4a3f63593b5358cc4">Darts＆chill Toi Toi Toi</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|45|913|<span class="rank-name-dl">ティー屋@Hero</span>|<a href="https://search.dartslive.com/jp/shop/559b6309da5de0e325d56fb0e5c39bac">Darts&Karaoke bar HERO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|46|911|<span class="rank-name-dl">近藤 拓也</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|47|910|<span class="rank-name-dl">バタロー♪</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|48|906|<span class="rank-name-dl">かみにそ@風</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|49|904|<span class="rank-name-dl">山本です。@fifty</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|50|900|<span class="rank-name-dl">ゆうきです@風</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|51|894|<span class="rank-name-dl">AAAAA</span>|<a href="https://search.dartslive.com/jp/shop/04fed2f80910556d0d9b047a20a7ba1e">Bar Ocean</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|52|889|<span class="rank-name-dl">Lien まじゅ</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|53|888|<span class="rank-name-dl">仮ｴｰｽ@こじらせ隊</span>|<a href="https://search.dartslive.com/jp/shop/d1d58de1ac0c8c190d9b047a20a7ba1e">Shot bar 4out</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|54|887|<span class="rank-name-dl">森杉 玲華</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|55|883|<span class="rank-name-dl">せいや</span>|<a href="https://search.dartslive.com/jp/shop/eeefa11e7892b55a0d9b047a20a7ba1e">Shot bar N</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|56|880|<span class="rank-name-dl">ミケランジェロ</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|56|880|<span class="rank-name-dl">森田かずや</span>|<a href="https://search.dartslive.com/jp/shop/e1a59c9152b3e3d4a3f63593b5358cc4">Darts＆chill Toi Toi Toi</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|58|877|<span class="rank-name-dl">だいすけ@HERO</span>|<a href="https://search.dartslive.com/jp/shop/559b6309da5de0e325d56fb0e5c39bac">Darts&Karaoke bar HERO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|59|872|<span class="rank-name-dl">ダル</span>|<a href="https://search.dartslive.com/jp/shop/36c0cbb29ca2d85e0d9b047a20a7ba1e">BAR SALT</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|59|872|<span class="rank-name-dl">ノイキルヒナー</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|61|870|<span class="rank-name-dl">りさちゃん</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|61|870|<span class="rank-name-dl">れん</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|63|865|<span class="rank-name-dl">☻</span>|<a href="https://search.dartslive.com/jp/shop/04fed2f80910556d0d9b047a20a7ba1e">Bar Ocean</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|64|863|<span class="rank-name-dl">ダル</span>|<a href="https://search.dartslive.com/jp/shop/e1a59c9152b3e3d4a3f63593b5358cc4">Darts＆chill Toi Toi Toi</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|65|862|<span class="rank-name-pd">NEUKIRCHNER MAX</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|65|862|<span class="rank-name-dl">ゴウ</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|67|857|<span class="rank-name-dl">あっきー(p_-)</span>|<a href="https://search.dartslive.com/jp/shop/eeefa11e7892b55a0d9b047a20a7ba1e">Shot bar N</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|68|853|<span class="rank-name-dl">清楚な一郎@風</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|69|845|<span class="rank-name-dl">JUNYA☆SCORPION</span>|<a href="https://search.dartslive.com/jp/shop/eeefa11e7892b55a0d9b047a20a7ba1e">Shot bar N</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|69|845|<span class="rank-name-dl">K</span>|<a href="https://search.dartslive.com/jp/shop/e1a59c9152b3e3d4a3f63593b5358cc4">Darts＆chill Toi Toi Toi</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|69|845|<span class="rank-name-dl">takumi</span>|<a href="https://search.dartslive.com/jp/shop/559b6309da5de0e325d56fb0e5c39bac">Darts&Karaoke bar HERO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|72|844|<span class="rank-name-pd">zpjy37f96214eb</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|73|830|<span class="rank-name-dl">そ@風</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|74|828|<span class="rank-name-dl">かじゅまる</span>|<a href="https://search.dartslive.com/jp/shop/cb495b16e1424fc5fec1ae84bb28bd87">Shot Bar ZERO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|75|824|<span class="rank-name-dl">厶〜ン(・_・;)</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|76|815|<span class="rank-name-dl">たつやん</span>|<a href="https://search.dartslive.com/jp/shop/e1a59c9152b3e3d4a3f63593b5358cc4">Darts＆chill Toi Toi Toi</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|77|814|<span class="rank-name-pd">Rockin&#x27;</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71566?s_seq=71566">SHOT BAR Rockin'CHAIR</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|78|813|<span class="rank-name-dl">なごん。</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|79|812|<span class="rank-name-pd">あいちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71566?s_seq=71566">SHOT BAR Rockin'CHAIR</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|79|812|<span class="rank-name-dl">かじゅまる</span>|<a href="https://search.dartslive.com/jp/shop/d1d58de1ac0c8c190d9b047a20a7ba1e">Shot bar 4out</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|79|812|<span class="rank-name-dl">かじゅまる</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|82|807|<span class="rank-name-dl">ALICE☆みっくん</span>|<a href="https://search.dartslive.com/jp/shop/d1d58de1ac0c8c190d9b047a20a7ba1e">Shot bar 4out</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|82|807|<span class="rank-name-dl">そ@風</span>|<a href="https://search.dartslive.com/jp/shop/eeefa11e7892b55a0d9b047a20a7ba1e">Shot bar N</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|84|803|<span class="rank-name-dl">akipoyo</span>|<a href="https://search.dartslive.com/jp/shop/e1a59c9152b3e3d4a3f63593b5358cc4">Darts＆chill Toi Toi Toi</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|85|801|<span class="rank-name-pd">AtSUshioKA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|85|801|<span class="rank-name-dl">バタロー♪</span>|<a href="https://search.dartslive.com/jp/shop/e1a59c9152b3e3d4a3f63593b5358cc4">Darts＆chill Toi Toi Toi</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|87|800|<span class="rank-name-dl">李小龍</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|88|791|<span class="rank-name-pd">MINI~~54</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|89|783|<span class="rank-name-pd">gorilla</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|90|781|<span class="rank-name-dl">なっかん</span>|<a href="https://search.dartslive.com/jp/shop/e1a59c9152b3e3d4a3f63593b5358cc4">Darts＆chill Toi Toi Toi</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|91|780|<span class="rank-name-dl">斧田　翼</span>|<a href="https://search.dartslive.com/jp/shop/e1a59c9152b3e3d4a3f63593b5358cc4">Darts＆chill Toi Toi Toi</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|92|779|<span class="rank-name-pd">ざわ…ざわ…</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71566?s_seq=71566">SHOT BAR Rockin'CHAIR</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|92|779|<span class="rank-name-pd"><span class="pro-icon-pd"></span>小原 佑天</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|92|779|<span class="rank-name-dl">篤弥@N</span>|<a href="https://search.dartslive.com/jp/shop/eeefa11e7892b55a0d9b047a20a7ba1e">Shot bar N</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|95|778|<span class="rank-name-pd"><span class="pro-icon-pd"></span>樺山 尚正</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|96|775|<span class="rank-name-dl">よーたろー@風</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|96|775|<span class="rank-name-dl">洋平</span>|<a href="https://search.dartslive.com/jp/shop/e1a59c9152b3e3d4a3f63593b5358cc4">Darts＆chill Toi Toi Toi</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|98|772|<span class="rank-name-dl">K1Y0</span>|<a href="https://search.dartslive.com/jp/shop/d1d58de1ac0c8c190d9b047a20a7ba1e">Shot bar 4out</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|99|771|<span class="rank-name-dl">はやと</span>|<a href="https://search.dartslive.com/jp/shop/e1a59c9152b3e3d4a3f63593b5358cc4">Darts＆chill Toi Toi Toi</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|100|770|<span class="rank-name-dl">スパゲッティーニ</span>|<a href="https://search.dartslive.com/jp/shop/04fed2f80910556d0d9b047a20a7ba1e">Bar Ocean</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -132,106 +132,106 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1200|<span class="rank-name-dl">大橋　操</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|2|1130|<span class="rank-name-dl">津波良二CUESOUL</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|1|1205|<span class="rank-name-dl">津波良二CUESOUL</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|2|1200|<span class="rank-name-dl">大橋　操</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
 |3|1121|<span class="rank-name-dl">仮ｴｰｽ@こじらせ隊</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
 |4|1115|<span class="rank-name-dl">津波良二CUESOUL</span>|<a href="https://search.dartslive.com/jp/shop/d1d58de1ac0c8c190d9b047a20a7ba1e">Shot bar 4out</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
 |5|1088|<span class="rank-name-dl">IORY</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
 |6|1068|<span class="rank-name-dl">はやてるま</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|7|1023|<span class="rank-name-dl">かずき</span>|<a href="https://search.dartslive.com/jp/shop/559b6309da5de0e325d56fb0e5c39bac">Darts&Karaoke bar HERO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|8|1003|<span class="rank-name-dl">仮ｴｰｽ@こじらせ隊</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|9|971|<span class="rank-name-dl">ノイキルヒナー</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|10|965|<span class="rank-name-dl">YouCham@RED</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|11|952|<span class="rank-name-dl">Teru@ﾄｲﾄｲ</span>|<a href="https://search.dartslive.com/jp/shop/e1a59c9152b3e3d4a3f63593b5358cc4">Darts＆chill Toi Toi Toi</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|12|951|<span class="rank-name-dl">コロッケ大好き</span>|<a href="https://search.dartslive.com/jp/shop/559b6309da5de0e325d56fb0e5c39bac">Darts&Karaoke bar HERO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|13|941|<span class="rank-name-dl">大橋　操</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|14|936|<span class="rank-name-dl">たくぽん。</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|15|934|<span class="rank-name-dl">JUNYA☆SCORPION</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|16|932|<span class="rank-name-dl">Y☀︎M</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|17|926|<span class="rank-name-dl">ﾈｲﾉｰさん( ^-ﾟ)σ</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|18|925|<span class="rank-name-dl">そ@風</span>|<a href="https://search.dartslive.com/jp/shop/e1a59c9152b3e3d4a3f63593b5358cc4">Darts＆chill Toi Toi Toi</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|19|913|<span class="rank-name-dl">ティー屋@Hero</span>|<a href="https://search.dartslive.com/jp/shop/559b6309da5de0e325d56fb0e5c39bac">Darts&Karaoke bar HERO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|20|910|<span class="rank-name-dl">バタロー♪</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|21|888|<span class="rank-name-dl">仮ｴｰｽ@こじらせ隊</span>|<a href="https://search.dartslive.com/jp/shop/d1d58de1ac0c8c190d9b047a20a7ba1e">Shot bar 4out</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|22|887|<span class="rank-name-dl">森杉 玲華</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|23|883|<span class="rank-name-dl">せいや</span>|<a href="https://search.dartslive.com/jp/shop/eeefa11e7892b55a0d9b047a20a7ba1e">Shot bar N</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|24|879|<span class="rank-name-dl">takumi</span>|<a href="https://search.dartslive.com/jp/shop/e1a59c9152b3e3d4a3f63593b5358cc4">Darts＆chill Toi Toi Toi</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|25|877|<span class="rank-name-dl">だいすけ@HERO</span>|<a href="https://search.dartslive.com/jp/shop/559b6309da5de0e325d56fb0e5c39bac">Darts&Karaoke bar HERO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|26|872|<span class="rank-name-dl">ダル</span>|<a href="https://search.dartslive.com/jp/shop/36c0cbb29ca2d85e0d9b047a20a7ba1e">BAR SALT</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|26|872|<span class="rank-name-dl">ノイキルヒナー</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|28|870|<span class="rank-name-dl">りさちゃん</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|28|870|<span class="rank-name-dl">れん</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|30|865|<span class="rank-name-dl">☻</span>|<a href="https://search.dartslive.com/jp/shop/04fed2f80910556d0d9b047a20a7ba1e">Bar Ocean</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|31|863|<span class="rank-name-dl">かみにそ@風</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|32|862|<span class="rank-name-dl">ゴウ</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|33|853|<span class="rank-name-dl">清楚な一郎@風</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|34|845|<span class="rank-name-dl">K</span>|<a href="https://search.dartslive.com/jp/shop/e1a59c9152b3e3d4a3f63593b5358cc4">Darts＆chill Toi Toi Toi</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|35|830|<span class="rank-name-dl">そ@風</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|36|828|<span class="rank-name-dl">かじゅまる</span>|<a href="https://search.dartslive.com/jp/shop/cb495b16e1424fc5fec1ae84bb28bd87">Shot Bar ZERO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|37|824|<span class="rank-name-dl">厶〜ン(・_・;)</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|38|815|<span class="rank-name-dl">たつやん</span>|<a href="https://search.dartslive.com/jp/shop/e1a59c9152b3e3d4a3f63593b5358cc4">Darts＆chill Toi Toi Toi</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|39|801|<span class="rank-name-dl">バタロー♪</span>|<a href="https://search.dartslive.com/jp/shop/e1a59c9152b3e3d4a3f63593b5358cc4">Darts＆chill Toi Toi Toi</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|40|787|<span class="rank-name-dl">ダル</span>|<a href="https://search.dartslive.com/jp/shop/e1a59c9152b3e3d4a3f63593b5358cc4">Darts＆chill Toi Toi Toi</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|41|786|<span class="rank-name-dl">35@DAI</span>|<a href="https://search.dartslive.com/jp/shop/559b6309da5de0e325d56fb0e5c39bac">Darts&Karaoke bar HERO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|42|781|<span class="rank-name-dl">なっかん</span>|<a href="https://search.dartslive.com/jp/shop/e1a59c9152b3e3d4a3f63593b5358cc4">Darts＆chill Toi Toi Toi</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|43|779|<span class="rank-name-dl">篤弥@N</span>|<a href="https://search.dartslive.com/jp/shop/eeefa11e7892b55a0d9b047a20a7ba1e">Shot bar N</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|44|772|<span class="rank-name-dl">K1Y0</span>|<a href="https://search.dartslive.com/jp/shop/d1d58de1ac0c8c190d9b047a20a7ba1e">Shot bar 4out</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|45|765|<span class="rank-name-dl">YuJi@豊中 風</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|46|763|<span class="rank-name-dl">Teppei</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|47|746|<span class="rank-name-dl">まきろん@8121風</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|48|740|<span class="rank-name-dl">ノイキルヒナー</span>|<a href="https://search.dartslive.com/jp/shop/d1d58de1ac0c8c190d9b047a20a7ba1e">Shot bar 4out</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|49|739|<span class="rank-name-dl">shion</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|50|736|<span class="rank-name-dl">エヴァン</span>|<a href="https://search.dartslive.com/jp/shop/eeefa11e7892b55a0d9b047a20a7ba1e">Shot bar N</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|51|735|<span class="rank-name-dl">AAAAA</span>|<a href="https://search.dartslive.com/jp/shop/04fed2f80910556d0d9b047a20a7ba1e">Bar Ocean</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|52|733|<span class="rank-name-dl">とみさん</span>|<a href="https://search.dartslive.com/jp/shop/d1d58de1ac0c8c190d9b047a20a7ba1e">Shot bar 4out</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|53|731|<span class="rank-name-dl">とぅ〜さん@風/R</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|54|729|<span class="rank-name-dl">nao@OKAYAN</span>|<a href="https://search.dartslive.com/jp/shop/e1a59c9152b3e3d4a3f63593b5358cc4">Darts＆chill Toi Toi Toi</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|55|727|<span class="rank-name-dl">お</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|56|726|<span class="rank-name-dl">K1Y0</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|56|726|<span class="rank-name-dl">ゆうきです@風</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|58|720|<span class="rank-name-dl">たく＊Aus</span>|<a href="https://search.dartslive.com/jp/shop/e1a59c9152b3e3d4a3f63593b5358cc4">Darts＆chill Toi Toi Toi</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|59|718|<span class="rank-name-dl">イツキ@Shotber N</span>|<a href="https://search.dartslive.com/jp/shop/eeefa11e7892b55a0d9b047a20a7ba1e">Shot bar N</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|60|712|<span class="rank-name-dl">かずと</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|61|706|<span class="rank-name-dl">糸屯 ＠豊中 風</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|62|704|<span class="rank-name-dl">Bar Hero abechan</span>|<a href="https://search.dartslive.com/jp/shop/559b6309da5de0e325d56fb0e5c39bac">Darts&Karaoke bar HERO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|62|704|<span class="rank-name-dl">ちゃんみゆ</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|64|700|<span class="rank-name-dl">shion /901-QLAY</span>|<a href="https://search.dartslive.com/jp/shop/559b6309da5de0e325d56fb0e5c39bac">Darts&Karaoke bar HERO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|65|697|<span class="rank-name-dl">Ryuki</span>|<a href="https://search.dartslive.com/jp/shop/e1a59c9152b3e3d4a3f63593b5358cc4">Darts＆chill Toi Toi Toi</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|66|695|<span class="rank-name-dl">そ@風</span>|<a href="https://search.dartslive.com/jp/shop/eeefa11e7892b55a0d9b047a20a7ba1e">Shot bar N</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|67|688|<span class="rank-name-dl">みゅん</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|68|686|<span class="rank-name-dl">SHOW-YA@Ocean</span>|<a href="https://search.dartslive.com/jp/shop/04fed2f80910556d0d9b047a20a7ba1e">Bar Ocean</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|69|675|<span class="rank-name-dl">こーやん@風@N</span>|<a href="https://search.dartslive.com/jp/shop/eeefa11e7892b55a0d9b047a20a7ba1e">Shot bar N</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|70|671|<span class="rank-name-dl">上田祐希@ニート</span>|<a href="https://search.dartslive.com/jp/shop/559b6309da5de0e325d56fb0e5c39bac">Darts&Karaoke bar HERO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|71|667|<span class="rank-name-dl">CASHAAAAAAAAAAAN</span>|<a href="https://search.dartslive.com/jp/shop/d1d58de1ac0c8c190d9b047a20a7ba1e">Shot bar 4out</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|72|666|<span class="rank-name-dl">ダル</span>|<a href="https://search.dartslive.com/jp/shop/04fed2f80910556d0d9b047a20a7ba1e">Bar Ocean</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|73|661|<span class="rank-name-dl">はやと</span>|<a href="https://search.dartslive.com/jp/shop/eeefa11e7892b55a0d9b047a20a7ba1e">Shot bar N</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|74|660|<span class="rank-name-dl">ﾔﾒﾃﾖ!ﾔﾒﾃﾖﾐｻﾄｻｰﾝ!</span>|<a href="https://search.dartslive.com/jp/shop/e1a59c9152b3e3d4a3f63593b5358cc4">Darts＆chill Toi Toi Toi</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|75|659|<span class="rank-name-dl">MURA</span>|<a href="https://search.dartslive.com/jp/shop/e1a59c9152b3e3d4a3f63593b5358cc4">Darts＆chill Toi Toi Toi</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|76|653|<span class="rank-name-dl">みやび@風</span>|<a href="https://search.dartslive.com/jp/shop/eeefa11e7892b55a0d9b047a20a7ba1e">Shot bar N</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|77|650|<span class="rank-name-dl">清楚な一郎@風</span>|<a href="https://search.dartslive.com/jp/shop/e1a59c9152b3e3d4a3f63593b5358cc4">Darts＆chill Toi Toi Toi</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|78|647|<span class="rank-name-dl">ʕ•ᴥ•ʔ</span>|<a href="https://search.dartslive.com/jp/shop/04fed2f80910556d0d9b047a20a7ba1e">Bar Ocean</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|79|642|<span class="rank-name-dl">K</span>|<a href="https://search.dartslive.com/jp/shop/eeefa11e7892b55a0d9b047a20a7ba1e">Shot bar N</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|80|640|<span class="rank-name-dl">清楚な一郎@風</span>|<a href="https://search.dartslive.com/jp/shop/04fed2f80910556d0d9b047a20a7ba1e">Bar Ocean</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|81|635|<span class="rank-name-dl">Dr</span>|<a href="https://search.dartslive.com/jp/shop/04fed2f80910556d0d9b047a20a7ba1e">Bar Ocean</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|82|628|<span class="rank-name-dl">ともただ1000%</span>|<a href="https://search.dartslive.com/jp/shop/04fed2f80910556d0d9b047a20a7ba1e">Bar Ocean</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|83|626|<span class="rank-name-dl">-TAIKI-JACKAss.</span>|<a href="https://search.dartslive.com/jp/shop/04fed2f80910556d0d9b047a20a7ba1e">Bar Ocean</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|84|617|<span class="rank-name-dl">オコタ</span>|<a href="https://search.dartslive.com/jp/shop/559b6309da5de0e325d56fb0e5c39bac">Darts&Karaoke bar HERO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|85|616|<span class="rank-name-dl">美波</span>|<a href="https://search.dartslive.com/jp/shop/eeefa11e7892b55a0d9b047a20a7ba1e">Shot bar N</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|86|614|<span class="rank-name-dl">Jet真</span>|<a href="https://search.dartslive.com/jp/shop/eeefa11e7892b55a0d9b047a20a7ba1e">Shot bar N</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|86|614|<span class="rank-name-dl">モル弐号機(-_☆)</span>|<a href="https://search.dartslive.com/jp/shop/04fed2f80910556d0d9b047a20a7ba1e">Bar Ocean</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|88|613|<span class="rank-name-dl">ポリocean</span>|<a href="https://search.dartslive.com/jp/shop/04fed2f80910556d0d9b047a20a7ba1e">Bar Ocean</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|89|600|<span class="rank-name-dl">ヤーマン</span>|<a href="https://search.dartslive.com/jp/shop/26884bca1ac60053fec1ae84bb28bd87">Bar Lien</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|90|599|<span class="rank-name-dl">ALICE☆みっくん</span>|<a href="https://search.dartslive.com/jp/shop/d1d58de1ac0c8c190d9b047a20a7ba1e">Shot bar 4out</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|90|599|<span class="rank-name-dl">めがね@Ocean</span>|<a href="https://search.dartslive.com/jp/shop/04fed2f80910556d0d9b047a20a7ba1e">Bar Ocean</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|92|597|<span class="rank-name-dl">Ryuki</span>|<a href="https://search.dartslive.com/jp/shop/d1d58de1ac0c8c190d9b047a20a7ba1e">Shot bar 4out</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|93|595|<span class="rank-name-dl">はやと</span>|<a href="https://search.dartslive.com/jp/shop/e1a59c9152b3e3d4a3f63593b5358cc4">Darts＆chill Toi Toi Toi</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|94|592|<span class="rank-name-dl">百獣のカイドウ☆</span>|<a href="https://search.dartslive.com/jp/shop/559b6309da5de0e325d56fb0e5c39bac">Darts&Karaoke bar HERO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|95|590|<span class="rank-name-dl">佐古 彰</span>|<a href="https://search.dartslive.com/jp/shop/d1d58de1ac0c8c190d9b047a20a7ba1e">Shot bar 4out</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|96|588|<span class="rank-name-dl">ダルちゃん</span>|<a href="https://search.dartslive.com/jp/shop/36c0cbb29ca2d85e0d9b047a20a7ba1e">BAR SALT</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|97|585|<span class="rank-name-dl">みやび@風</span>|<a href="https://search.dartslive.com/jp/shop/04fed2f80910556d0d9b047a20a7ba1e">Bar Ocean</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|98|583|<span class="rank-name-dl">1046@風</span>|<a href="https://search.dartslive.com/jp/shop/d1d58de1ac0c8c190d9b047a20a7ba1e">Shot bar 4out</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|99|580|<span class="rank-name-dl">高安　晃</span>|<a href="https://search.dartslive.com/jp/shop/04fed2f80910556d0d9b047a20a7ba1e">Bar Ocean</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|100|579|<span class="rank-name-dl">にょっす</span>|<a href="https://search.dartslive.com/jp/shop/26884bca1ac60053fec1ae84bb28bd87">Bar Lien</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|7|1053|<span class="rank-name-dl">徳仁@blowout</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|8|1052|<span class="rank-name-dl">津波　良二</span>|<a href="https://search.dartslive.com/jp/shop/d1d58de1ac0c8c190d9b047a20a7ba1e">Shot bar 4out</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|9|1047|<span class="rank-name-dl">ＡーＭＡＸ</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|10|1043|<span class="rank-name-dl">だいき</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|11|1027|<span class="rank-name-dl">takumi</span>|<a href="https://search.dartslive.com/jp/shop/e1a59c9152b3e3d4a3f63593b5358cc4">Darts＆chill Toi Toi Toi</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|12|1026|<span class="rank-name-dl">ナリタブライアン</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|13|1023|<span class="rank-name-dl">かずき</span>|<a href="https://search.dartslive.com/jp/shop/559b6309da5de0e325d56fb0e5c39bac">Darts&Karaoke bar HERO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|14|1018|<span class="rank-name-dl">M＆Y</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|15|1017|<span class="rank-name-dl">ねこずし</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|16|1015|<span class="rank-name-dl">仮ｴｰｽ@こじらせ隊</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|17|1008|<span class="rank-name-dl">ﾀｯﾁｬﾝ＠なんしか</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|18|985|<span class="rank-name-dl">ちゃーりー4545</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|19|971|<span class="rank-name-dl">ノイキルヒナー</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|20|965|<span class="rank-name-dl">YouCham@RED</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|21|960|<span class="rank-name-dl">35@DAI</span>|<a href="https://search.dartslive.com/jp/shop/559b6309da5de0e325d56fb0e5c39bac">Darts&Karaoke bar HERO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|22|954|<span class="rank-name-dl">-TAIKI-Voyage-</span>|<a href="https://search.dartslive.com/jp/shop/e1a59c9152b3e3d4a3f63593b5358cc4">Darts＆chill Toi Toi Toi</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|23|953|<span class="rank-name-dl">たろー</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|24|952|<span class="rank-name-dl">Teru@ﾄｲﾄｲ</span>|<a href="https://search.dartslive.com/jp/shop/e1a59c9152b3e3d4a3f63593b5358cc4">Darts＆chill Toi Toi Toi</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|25|951|<span class="rank-name-dl">コロッケ大好き</span>|<a href="https://search.dartslive.com/jp/shop/559b6309da5de0e325d56fb0e5c39bac">Darts&Karaoke bar HERO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|26|950|<span class="rank-name-dl">torry@投げ込み用</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|27|944|<span class="rank-name-dl">メガ</span>|<a href="https://search.dartslive.com/jp/shop/e1a59c9152b3e3d4a3f63593b5358cc4">Darts＆chill Toi Toi Toi</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|28|941|<span class="rank-name-dl">shion</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|28|941|<span class="rank-name-dl">大橋　操</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|30|936|<span class="rank-name-dl">たくぽん。</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|31|934|<span class="rank-name-dl">JUNYA☆SCORPION</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|31|934|<span class="rank-name-dl">カフェ　bond</span>|<a href="https://search.dartslive.com/jp/shop/559b6309da5de0e325d56fb0e5c39bac">Darts&Karaoke bar HERO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|33|933|<span class="rank-name-dl">Ψ(^.^)</span>|<a href="https://search.dartslive.com/jp/shop/559b6309da5de0e325d56fb0e5c39bac">Darts&Karaoke bar HERO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|34|932|<span class="rank-name-dl">Y☀︎M</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|34|932|<span class="rank-name-dl">ＡーＭＡＸ</span>|<a href="https://search.dartslive.com/jp/shop/e1a59c9152b3e3d4a3f63593b5358cc4">Darts＆chill Toi Toi Toi</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|36|931|<span class="rank-name-dl">ひざ神(裏)</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|37|929|<span class="rank-name-dl">トラン</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|38|926|<span class="rank-name-dl">ﾈｲﾉｰさん( ^-ﾟ)σ</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|39|925|<span class="rank-name-dl">そ@風</span>|<a href="https://search.dartslive.com/jp/shop/e1a59c9152b3e3d4a3f63593b5358cc4">Darts＆chill Toi Toi Toi</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|40|920|<span class="rank-name-dl">よーたろー@風</span>|<a href="https://search.dartslive.com/jp/shop/eeefa11e7892b55a0d9b047a20a7ba1e">Shot bar N</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|41|919|<span class="rank-name-dl">T</span>|<a href="https://search.dartslive.com/jp/shop/e1a59c9152b3e3d4a3f63593b5358cc4">Darts＆chill Toi Toi Toi</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|42|913|<span class="rank-name-dl">ティー屋@Hero</span>|<a href="https://search.dartslive.com/jp/shop/559b6309da5de0e325d56fb0e5c39bac">Darts&Karaoke bar HERO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|43|911|<span class="rank-name-dl">近藤 拓也</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|44|910|<span class="rank-name-dl">バタロー♪</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|45|906|<span class="rank-name-dl">かみにそ@風</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|46|904|<span class="rank-name-dl">山本です。@fifty</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|47|900|<span class="rank-name-dl">ゆうきです@風</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|48|894|<span class="rank-name-dl">AAAAA</span>|<a href="https://search.dartslive.com/jp/shop/04fed2f80910556d0d9b047a20a7ba1e">Bar Ocean</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|49|889|<span class="rank-name-dl">Lien まじゅ</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|50|888|<span class="rank-name-dl">仮ｴｰｽ@こじらせ隊</span>|<a href="https://search.dartslive.com/jp/shop/d1d58de1ac0c8c190d9b047a20a7ba1e">Shot bar 4out</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|51|887|<span class="rank-name-dl">森杉 玲華</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|52|883|<span class="rank-name-dl">せいや</span>|<a href="https://search.dartslive.com/jp/shop/eeefa11e7892b55a0d9b047a20a7ba1e">Shot bar N</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|53|880|<span class="rank-name-dl">ミケランジェロ</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|53|880|<span class="rank-name-dl">森田かずや</span>|<a href="https://search.dartslive.com/jp/shop/e1a59c9152b3e3d4a3f63593b5358cc4">Darts＆chill Toi Toi Toi</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|55|877|<span class="rank-name-dl">だいすけ@HERO</span>|<a href="https://search.dartslive.com/jp/shop/559b6309da5de0e325d56fb0e5c39bac">Darts&Karaoke bar HERO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|56|872|<span class="rank-name-dl">ダル</span>|<a href="https://search.dartslive.com/jp/shop/36c0cbb29ca2d85e0d9b047a20a7ba1e">BAR SALT</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|56|872|<span class="rank-name-dl">ノイキルヒナー</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|58|870|<span class="rank-name-dl">りさちゃん</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|58|870|<span class="rank-name-dl">れん</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|60|865|<span class="rank-name-dl">☻</span>|<a href="https://search.dartslive.com/jp/shop/04fed2f80910556d0d9b047a20a7ba1e">Bar Ocean</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|61|863|<span class="rank-name-dl">ダル</span>|<a href="https://search.dartslive.com/jp/shop/e1a59c9152b3e3d4a3f63593b5358cc4">Darts＆chill Toi Toi Toi</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|62|862|<span class="rank-name-dl">ゴウ</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|63|857|<span class="rank-name-dl">あっきー(p_-)</span>|<a href="https://search.dartslive.com/jp/shop/eeefa11e7892b55a0d9b047a20a7ba1e">Shot bar N</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|64|853|<span class="rank-name-dl">清楚な一郎@風</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|65|845|<span class="rank-name-dl">JUNYA☆SCORPION</span>|<a href="https://search.dartslive.com/jp/shop/eeefa11e7892b55a0d9b047a20a7ba1e">Shot bar N</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|65|845|<span class="rank-name-dl">K</span>|<a href="https://search.dartslive.com/jp/shop/e1a59c9152b3e3d4a3f63593b5358cc4">Darts＆chill Toi Toi Toi</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|65|845|<span class="rank-name-dl">takumi</span>|<a href="https://search.dartslive.com/jp/shop/559b6309da5de0e325d56fb0e5c39bac">Darts&Karaoke bar HERO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|68|830|<span class="rank-name-dl">そ@風</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|69|828|<span class="rank-name-dl">かじゅまる</span>|<a href="https://search.dartslive.com/jp/shop/cb495b16e1424fc5fec1ae84bb28bd87">Shot Bar ZERO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|70|824|<span class="rank-name-dl">厶〜ン(・_・;)</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|71|815|<span class="rank-name-dl">たつやん</span>|<a href="https://search.dartslive.com/jp/shop/e1a59c9152b3e3d4a3f63593b5358cc4">Darts＆chill Toi Toi Toi</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|72|813|<span class="rank-name-dl">なごん。</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|73|812|<span class="rank-name-dl">かじゅまる</span>|<a href="https://search.dartslive.com/jp/shop/d1d58de1ac0c8c190d9b047a20a7ba1e">Shot bar 4out</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|73|812|<span class="rank-name-dl">かじゅまる</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|75|807|<span class="rank-name-dl">ALICE☆みっくん</span>|<a href="https://search.dartslive.com/jp/shop/d1d58de1ac0c8c190d9b047a20a7ba1e">Shot bar 4out</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|75|807|<span class="rank-name-dl">そ@風</span>|<a href="https://search.dartslive.com/jp/shop/eeefa11e7892b55a0d9b047a20a7ba1e">Shot bar N</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|77|803|<span class="rank-name-dl">akipoyo</span>|<a href="https://search.dartslive.com/jp/shop/e1a59c9152b3e3d4a3f63593b5358cc4">Darts＆chill Toi Toi Toi</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|78|801|<span class="rank-name-dl">バタロー♪</span>|<a href="https://search.dartslive.com/jp/shop/e1a59c9152b3e3d4a3f63593b5358cc4">Darts＆chill Toi Toi Toi</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|79|800|<span class="rank-name-dl">李小龍</span>|<a href="https://search.dartslive.com/jp/shop/c8c23d0f5747c1a10d9b047a20a7ba1e">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|80|781|<span class="rank-name-dl">なっかん</span>|<a href="https://search.dartslive.com/jp/shop/e1a59c9152b3e3d4a3f63593b5358cc4">Darts＆chill Toi Toi Toi</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|81|780|<span class="rank-name-dl">斧田　翼</span>|<a href="https://search.dartslive.com/jp/shop/e1a59c9152b3e3d4a3f63593b5358cc4">Darts＆chill Toi Toi Toi</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|82|779|<span class="rank-name-dl">篤弥@N</span>|<a href="https://search.dartslive.com/jp/shop/eeefa11e7892b55a0d9b047a20a7ba1e">Shot bar N</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|83|775|<span class="rank-name-dl">よーたろー@風</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|83|775|<span class="rank-name-dl">洋平</span>|<a href="https://search.dartslive.com/jp/shop/e1a59c9152b3e3d4a3f63593b5358cc4">Darts＆chill Toi Toi Toi</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|85|772|<span class="rank-name-dl">K1Y0</span>|<a href="https://search.dartslive.com/jp/shop/d1d58de1ac0c8c190d9b047a20a7ba1e">Shot bar 4out</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|86|771|<span class="rank-name-dl">はやと</span>|<a href="https://search.dartslive.com/jp/shop/e1a59c9152b3e3d4a3f63593b5358cc4">Darts＆chill Toi Toi Toi</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|87|770|<span class="rank-name-dl">スパゲッティーニ</span>|<a href="https://search.dartslive.com/jp/shop/04fed2f80910556d0d9b047a20a7ba1e">Bar Ocean</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|88|769|<span class="rank-name-dl">K1Y0</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|89|765|<span class="rank-name-dl">YuJi@豊中 風</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|90|763|<span class="rank-name-dl">Teppei</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|91|762|<span class="rank-name-dl">BarHero@ひろ</span>|<a href="https://search.dartslive.com/jp/shop/559b6309da5de0e325d56fb0e5c39bac">Darts&Karaoke bar HERO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|92|759|<span class="rank-name-dl">ハナ@風</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|93|754|<span class="rank-name-dl">ユウジ♂</span>|<a href="https://search.dartslive.com/jp/shop/04fed2f80910556d0d9b047a20a7ba1e">Bar Ocean</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|94|749|<span class="rank-name-dl">NO NAME 9294</span>|<a href="https://search.dartslive.com/jp/shop/d1d58de1ac0c8c190d9b047a20a7ba1e">Shot bar 4out</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|95|747|<span class="rank-name-dl">ノイキルヒナー</span>|<a href="https://search.dartslive.com/jp/shop/d1d58de1ac0c8c190d9b047a20a7ba1e">Shot bar 4out</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|96|746|<span class="rank-name-dl">まきろん@8121風</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|97|736|<span class="rank-name-dl">エヴァン</span>|<a href="https://search.dartslive.com/jp/shop/eeefa11e7892b55a0d9b047a20a7ba1e">Shot bar N</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|98|733|<span class="rank-name-dl">とみさん</span>|<a href="https://search.dartslive.com/jp/shop/d1d58de1ac0c8c190d9b047a20a7ba1e">Shot bar 4out</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|99|731|<span class="rank-name-dl">とぅ〜さん@風/R</span>|<a href="https://search.dartslive.com/jp/shop/cc0068ddc8ac95390d9b047a20a7ba1e">風</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|100|730|<span class="rank-name-dl">こーやん@風@N</span>|<a href="https://search.dartslive.com/jp/shop/eeefa11e7892b55a0d9b047a20a7ba1e">Shot bar N</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
 
 
 #### PHOENIXDARTS TOP 100
@@ -243,56 +243,100 @@ ___
 |---|---|---|---|---|
 |1|1109|<span class="rank-name-pd">銀河Ver2.0@玉野槍射會</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
 |2|1086|<span class="rank-name-pd">もーやん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|3|945|<span class="rank-name-pd"><span class="pro-icon-pd"></span>森杉  玲華</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|3|982|<span class="rank-name-pd"><span class="pro-icon-pd"></span>森杉  玲華</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
 |4|885|<span class="rank-name-pd">バタロー♪</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|5|814|<span class="rank-name-pd">Rockin&#x27;</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71566?s_seq=71566">SHOT BAR Rockin'CHAIR</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|6|812|<span class="rank-name-pd">あいちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71566?s_seq=71566">SHOT BAR Rockin'CHAIR</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|7|808|<span class="rank-name-pd">りさちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|8|801|<span class="rank-name-pd">AtSUshioKA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|9|791|<span class="rank-name-pd">MINI~~54</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|10|781|<span class="rank-name-pd">Y☀︎M</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|11|779|<span class="rank-name-pd"><span class="pro-icon-pd"></span>小原 佑天</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|12|729|<span class="rank-name-pd">KAZUKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|13|720|<span class="rank-name-pd">中島　和宏</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|14|718|<span class="rank-name-pd">kantasky</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71566?s_seq=71566">SHOT BAR Rockin'CHAIR</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|15|716|<span class="rank-name-pd">な</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|16|678|<span class="rank-name-pd">松崎しげらない</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71566?s_seq=71566">SHOT BAR Rockin'CHAIR</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|17|676|<span class="rank-name-pd">0431-0007</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|18|660|<span class="rank-name-pd">まぶ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71566?s_seq=71566">SHOT BAR Rockin'CHAIR</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|19|657|<span class="rank-name-pd">ざわ…ざわ…</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71566?s_seq=71566">SHOT BAR Rockin'CHAIR</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|20|654|<span class="rank-name-pd">FURAN&amp;RUNE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|21|650|<span class="rank-name-pd">makkyyyyyyyyyyyyyyy</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71566?s_seq=71566">SHOT BAR Rockin'CHAIR</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|22|627|<span class="rank-name-pd">おがおが</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|23|609|<span class="rank-name-pd">i_am_kake</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71566?s_seq=71566">SHOT BAR Rockin'CHAIR</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|24|598|<span class="rank-name-pd">デシビリー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|25|592|<span class="rank-name-pd">有村 潤也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|25|592|<span class="rank-name-pd">琉球魂</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|27|584|<span class="rank-name-pd">♾️よかろうざえもん♾️</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|28|581|<span class="rank-name-pd">はやと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71566?s_seq=71566">SHOT BAR Rockin'CHAIR</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|29|565|<span class="rank-name-pd">TEPPEI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|30|561|<span class="rank-name-pd">non</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71566?s_seq=71566">SHOT BAR Rockin'CHAIR</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|31|554|<span class="rank-name-pd">k619</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71566?s_seq=71566">SHOT BAR Rockin'CHAIR</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|32|540|<span class="rank-name-pd">0271_6468</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|33|535|<span class="rank-name-pd">H J with t @RC</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71566?s_seq=71566">SHOT BAR Rockin'CHAIR</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|33|535|<span class="rank-name-pd">しょたろ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|35|514|<span class="rank-name-pd">アレのアレ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71566?s_seq=71566">SHOT BAR Rockin'CHAIR</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|36|509|<span class="rank-name-pd">７ｕｍｉ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71566?s_seq=71566">SHOT BAR Rockin'CHAIR</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|37|506|<span class="rank-name-pd">egg坂東@ﾌﾞﾗｯｸ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|38|478|<span class="rank-name-pd">R</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|39|436|<span class="rank-name-pd">FUMI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90672?s_seq=90672">PIENO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|40|430|<span class="rank-name-pd">YUKA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90672?s_seq=90672">PIENO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|41|420|<span class="rank-name-pd">MIWA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90672?s_seq=90672">PIENO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|42|419|<span class="rank-name-pd">ITARU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|43|407|<span class="rank-name-pd">ナオ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|44|406|<span class="rank-name-pd">E(っ&#x27;-&#x27;)╮ =͟͟͞</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|45|396|<span class="rank-name-pd">KURA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90672?s_seq=90672">PIENO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|45|396|<span class="rank-name-pd">あやの</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71566?s_seq=71566">SHOT BAR Rockin'CHAIR</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|47|378|<span class="rank-name-pd">YASU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90672?s_seq=90672">PIENO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|48|374|<span class="rank-name-pd">UCCHII</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90672?s_seq=90672">PIENO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|49|352|<span class="rank-name-pd">ヒロ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|50|340|<span class="rank-name-pd">ANZU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90672?s_seq=90672">PIENO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|51|335|<span class="rank-name-pd">TAIKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90672?s_seq=90672">PIENO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
-|52|292|<span class="rank-name-pd">JJ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|5|862|<span class="rank-name-pd">NEUKIRCHNER MAX</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|6|844|<span class="rank-name-pd">zpjy37f96214eb</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|7|814|<span class="rank-name-pd">Rockin&#x27;</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71566?s_seq=71566">SHOT BAR Rockin'CHAIR</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|8|812|<span class="rank-name-pd">あいちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71566?s_seq=71566">SHOT BAR Rockin'CHAIR</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|9|808|<span class="rank-name-pd">りさちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|10|801|<span class="rank-name-pd">AtSUshioKA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|11|791|<span class="rank-name-pd">MINI~~54</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|12|783|<span class="rank-name-pd">gorilla</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|13|781|<span class="rank-name-pd">Y☀︎M</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|14|779|<span class="rank-name-pd">ざわ…ざわ…</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71566?s_seq=71566">SHOT BAR Rockin'CHAIR</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|14|779|<span class="rank-name-pd"><span class="pro-icon-pd"></span>小原 佑天</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|16|778|<span class="rank-name-pd"><span class="pro-icon-pd"></span>樺山 尚正</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|17|733|<span class="rank-name-pd">ざわ…ざわ…</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|18|729|<span class="rank-name-pd">KAZUKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|19|720|<span class="rank-name-pd">中島　和宏</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|20|718|<span class="rank-name-pd">kantasky</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71566?s_seq=71566">SHOT BAR Rockin'CHAIR</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|21|716|<span class="rank-name-pd">な</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|22|678|<span class="rank-name-pd">松崎しげらない</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71566?s_seq=71566">SHOT BAR Rockin'CHAIR</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|22|678|<span class="rank-name-pd">陸奥</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|24|676|<span class="rank-name-pd">0431-0007</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|25|674|<span class="rank-name-pd">ゴリ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|26|671|<span class="rank-name-pd">MITSUNO244</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|27|663|<span class="rank-name-pd">zv2a37f4bcf5ae</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|28|660|<span class="rank-name-pd">まぶ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71566?s_seq=71566">SHOT BAR Rockin'CHAIR</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|29|654|<span class="rank-name-pd">FURAN&amp;RUNE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|30|650|<span class="rank-name-pd">makkyyyyyyyyyyyyyyy</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71566?s_seq=71566">SHOT BAR Rockin'CHAIR</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|31|643|<span class="rank-name-pd"><span class="pro-icon-pd"></span>有村 潤也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|32|636|<span class="rank-name-pd">0197_8884</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|33|627|<span class="rank-name-pd">おがおが</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|34|618|<span class="rank-name-pd">VirtualCard</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|35|617|<span class="rank-name-pd">H J with t @RC</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71566?s_seq=71566">SHOT BAR Rockin'CHAIR</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|35|617|<span class="rank-name-pd">non</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71566?s_seq=71566">SHOT BAR Rockin'CHAIR</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|37|609|<span class="rank-name-pd">i_am_kake</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71566?s_seq=71566">SHOT BAR Rockin'CHAIR</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|38|607|<span class="rank-name-pd">Anne</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|39|599|<span class="rank-name-pd">tanishi zf1</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|40|598|<span class="rank-name-pd">デシビリー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|41|592|<span class="rank-name-pd">琉球魂</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|42|584|<span class="rank-name-pd">♾️よかろうざえもん♾️</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|43|582|<span class="rank-name-pd">ニャンコ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|44|581|<span class="rank-name-pd">はやと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71566?s_seq=71566">SHOT BAR Rockin'CHAIR</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|45|565|<span class="rank-name-pd">TEPPEI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|46|559|<span class="rank-name-pd">0271_6468</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|47|556|<span class="rank-name-pd">イトウちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71566?s_seq=71566">SHOT BAR Rockin'CHAIR</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|48|554|<span class="rank-name-pd">k619</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71566?s_seq=71566">SHOT BAR Rockin'CHAIR</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|49|535|<span class="rank-name-pd">しょたろ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|50|534|<span class="rank-name-pd">ナオ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|51|525|<span class="rank-name-pd">MIWA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90672?s_seq=90672">PIENO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|52|523|<span class="rank-name-pd">みづき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|53|516|<span class="rank-name-pd">humbre</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71566?s_seq=71566">SHOT BAR Rockin'CHAIR</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|54|514|<span class="rank-name-pd">アレのアレ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71566?s_seq=71566">SHOT BAR Rockin'CHAIR</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|55|513|<span class="rank-name-pd">OSSU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90672?s_seq=90672">PIENO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|56|509|<span class="rank-name-pd">７ｕｍｉ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71566?s_seq=71566">SHOT BAR Rockin'CHAIR</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|57|506|<span class="rank-name-pd">egg坂東@ﾌﾞﾗｯｸ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|58|483|<span class="rank-name-pd">MASAYUKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|59|479|<span class="rank-name-pd">mezase65kg</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71566?s_seq=71566">SHOT BAR Rockin'CHAIR</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|60|478|<span class="rank-name-pd">R</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|61|474|<span class="rank-name-pd">ゆう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|62|472|<span class="rank-name-pd">デグケン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|63|468|<span class="rank-name-pd">GOLD</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90672?s_seq=90672">PIENO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|63|468|<span class="rank-name-pd">YUKA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90672?s_seq=90672">PIENO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|65|464|<span class="rank-name-pd">MEG</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90672?s_seq=90672">PIENO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|66|457|<span class="rank-name-pd">seiya</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71566?s_seq=71566">SHOT BAR Rockin'CHAIR</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|67|447|<span class="rank-name-pd">YOJI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90672?s_seq=90672">PIENO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|68|443|<span class="rank-name-pd">KAKO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90672?s_seq=90672">PIENO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|69|436|<span class="rank-name-pd">FUMI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90672?s_seq=90672">PIENO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|70|434|<span class="rank-name-pd">KURA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90672?s_seq=90672">PIENO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|71|433|<span class="rank-name-pd">やざ兄(パイカ)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71566?s_seq=71566">SHOT BAR Rockin'CHAIR</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|72|428|<span class="rank-name-pd">M</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90672?s_seq=90672">PIENO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|72|428|<span class="rank-name-pd">kaoru</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90672?s_seq=90672">PIENO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|74|419|<span class="rank-name-pd">ITARU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|74|419|<span class="rank-name-pd">TUKAJI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90672?s_seq=90672">PIENO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|76|406|<span class="rank-name-pd">E(っ&#x27;-&#x27;)╮ =͟͟͞</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|77|405|<span class="rank-name-pd">凡人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|78|396|<span class="rank-name-pd">あやの</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71566?s_seq=71566">SHOT BAR Rockin'CHAIR</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|79|387|<span class="rank-name-pd">TATSUYOSI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90672?s_seq=90672">PIENO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|80|379|<span class="rank-name-pd">〃華微〃</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|81|378|<span class="rank-name-pd">YASU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90672?s_seq=90672">PIENO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|82|374|<span class="rank-name-pd">UCCHII</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90672?s_seq=90672">PIENO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|83|371|<span class="rank-name-pd">AKIRA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90672?s_seq=90672">PIENO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|84|368|<span class="rank-name-pd">そうちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90672?s_seq=90672">PIENO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|85|355|<span class="rank-name-pd">NOBU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90672?s_seq=90672">PIENO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|86|353|<span class="rank-name-pd">TAIKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90672?s_seq=90672">PIENO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|87|352|<span class="rank-name-pd">ヒロ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|88|347|<span class="rank-name-pd">ぷみちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90672?s_seq=90672">PIENO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|89|341|<span class="rank-name-pd">KAORI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90672?s_seq=90672">PIENO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|90|340|<span class="rank-name-pd">ANZU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90672?s_seq=90672">PIENO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|91|335|<span class="rank-name-pd">NAKA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90672?s_seq=90672">PIENO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|92|331|<span class="rank-name-pd">noda</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71566?s_seq=71566">SHOT BAR Rockin'CHAIR</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|93|308|<span class="rank-name-pd">神凪零</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|94|307|<span class="rank-name-pd">AYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90672?s_seq=90672">PIENO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|95|292|<span class="rank-name-pd">JJ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9330?s_seq=9330">ラウンドワン豊中店</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
+|96|272|<span class="rank-name-pd">zvqm37f9819933</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90672?s_seq=90672">PIENO</a>|<a href="/darts/rank/大阪府/豊中市">大阪府豊中市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

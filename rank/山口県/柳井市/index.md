@@ -24,21 +24,28 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|1163|<span class="rank-name-pd">まるにぃ@-so魂ul-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
-|2|954|<span class="rank-name-pd">0111_8518</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
-|3|913|<span class="rank-name-pd">DMTたけし@他力本願</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
-|3|913|<span class="rank-name-pd">本田　諒</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
-|5|888|<span class="rank-name-pd">ホンダっち@緑組</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
-|6|712|<span class="rank-name-pd">ね</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
-|7|596|<span class="rank-name-pd">つっきー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
-|8|559|<span class="rank-name-pd">☆シエル☆Trust U</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
-|9|551|<span class="rank-name-pd">☆トムトム☆Trust U</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
-|10|504|<span class="rank-name-pd">迅雷</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
-|11|491|<span class="rank-name-pd">DAICHAN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
-|12|487|<span class="rank-name-pd">ふぁるこん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
-|13|458|<span class="rank-name-pd">0027 4614</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
-|14|446|<span class="rank-name-pd">maki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
-|15|431|<span class="rank-name-pd">のののあかん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
-|16|402|<span class="rank-name-pd">ふーみん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
+|2|1052|<span class="rank-name-pd">DMTたけし@他力本願</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
+|3|954|<span class="rank-name-pd">0111_8518</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
+|3|954|<span class="rank-name-pd">ホンダっち@緑組</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
+|5|913|<span class="rank-name-pd">本田　諒</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
+|6|848|<span class="rank-name-pd">志村転弧</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
+|7|771|<span class="rank-name-pd">ね</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
+|8|754|<span class="rank-name-pd">だんだんダンボ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
+|9|714|<span class="rank-name-pd">T-owl</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
+|10|643|<span class="rank-name-pd">☆トムトム☆Trust U</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
+|11|638|<span class="rank-name-pd">ヘタレ@秘密兵器</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
+|12|609|<span class="rank-name-pd">ふぁるこん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
+|13|596|<span class="rank-name-pd">つっきー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
+|14|580|<span class="rank-name-pd">☆シエル☆Trust U</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
+|15|570|<span class="rank-name-pd">じゃがいも【原点回帰】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
+|16|557|<span class="rank-name-pd">ふーみん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
+|17|509|<span class="rank-name-pd">D-no</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
+|18|504|<span class="rank-name-pd">まみりん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
+|18|504|<span class="rank-name-pd">迅雷</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
+|20|491|<span class="rank-name-pd">DAICHAN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
+|21|458|<span class="rank-name-pd">0027 4614</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
+|22|446|<span class="rank-name-pd">maki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
+|23|431|<span class="rank-name-pd">のののあかん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -59,21 +66,28 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|1163|<span class="rank-name-pd">まるにぃ@-so魂ul-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
-|2|954|<span class="rank-name-pd">0111_8518</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
-|3|913|<span class="rank-name-pd">DMTたけし@他力本願</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
-|3|913|<span class="rank-name-pd">本田　諒</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
-|5|888|<span class="rank-name-pd">ホンダっち@緑組</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
-|6|712|<span class="rank-name-pd">ね</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
-|7|596|<span class="rank-name-pd">つっきー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
-|8|559|<span class="rank-name-pd">☆シエル☆Trust U</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
-|9|551|<span class="rank-name-pd">☆トムトム☆Trust U</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
-|10|504|<span class="rank-name-pd">迅雷</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
-|11|491|<span class="rank-name-pd">DAICHAN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
-|12|487|<span class="rank-name-pd">ふぁるこん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
-|13|458|<span class="rank-name-pd">0027 4614</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
-|14|446|<span class="rank-name-pd">maki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
-|15|431|<span class="rank-name-pd">のののあかん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
-|16|402|<span class="rank-name-pd">ふーみん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
+|2|1052|<span class="rank-name-pd">DMTたけし@他力本願</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
+|3|954|<span class="rank-name-pd">0111_8518</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
+|3|954|<span class="rank-name-pd">ホンダっち@緑組</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
+|5|913|<span class="rank-name-pd">本田　諒</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
+|6|848|<span class="rank-name-pd">志村転弧</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
+|7|771|<span class="rank-name-pd">ね</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
+|8|754|<span class="rank-name-pd">だんだんダンボ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
+|9|714|<span class="rank-name-pd">T-owl</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
+|10|643|<span class="rank-name-pd">☆トムトム☆Trust U</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
+|11|638|<span class="rank-name-pd">ヘタレ@秘密兵器</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
+|12|609|<span class="rank-name-pd">ふぁるこん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
+|13|596|<span class="rank-name-pd">つっきー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
+|14|580|<span class="rank-name-pd">☆シエル☆Trust U</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
+|15|570|<span class="rank-name-pd">じゃがいも【原点回帰】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
+|16|557|<span class="rank-name-pd">ふーみん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
+|17|509|<span class="rank-name-pd">D-no</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
+|18|504|<span class="rank-name-pd">まみりん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
+|18|504|<span class="rank-name-pd">迅雷</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
+|20|491|<span class="rank-name-pd">DAICHAN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
+|21|458|<span class="rank-name-pd">0027 4614</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
+|22|446|<span class="rank-name-pd">maki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
+|23|431|<span class="rank-name-pd">のののあかん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64682?s_seq=64682">SOUL</a>|<a href="/darts/rank/山口県/柳井市">山口県柳井市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

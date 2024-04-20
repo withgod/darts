@@ -25,14 +25,15 @@ ___
 |---|---|---|---|---|
 |1|985|<span class="rank-name-pd">シンヤ@こころみ(HEARTS)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84281?s_seq=84281">ダイニング こころみ</a>|<a href="/darts/rank/長野県/須坂市">長野県須坂市</a>|
 |2|873|<span class="rank-name-pd">けんぼぅ＠投魂一家</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84281?s_seq=84281">ダイニング こころみ</a>|<a href="/darts/rank/長野県/須坂市">長野県須坂市</a>|
-|3|680|<span class="rank-name-pd">いっせっせ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84281?s_seq=84281">ダイニング こころみ</a>|<a href="/darts/rank/長野県/須坂市">長野県須坂市</a>|
-|4|673|<span class="rank-name-pd">しゅん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84281?s_seq=84281">ダイニング こころみ</a>|<a href="/darts/rank/長野県/須坂市">長野県須坂市</a>|
-|5|650|<span class="rank-name-pd">RYU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84281?s_seq=84281">ダイニング こころみ</a>|<a href="/darts/rank/長野県/須坂市">長野県須坂市</a>|
-|6|638|<span class="rank-name-pd">Tsuyoshi-A</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84281?s_seq=84281">ダイニング こころみ</a>|<a href="/darts/rank/長野県/須坂市">長野県須坂市</a>|
-|7|623|<span class="rank-name-pd">なお2</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84281?s_seq=84281">ダイニング こころみ</a>|<a href="/darts/rank/長野県/須坂市">長野県須坂市</a>|
-|8|615|<span class="rank-name-pd">きよ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84281?s_seq=84281">ダイニング こころみ</a>|<a href="/darts/rank/長野県/須坂市">長野県須坂市</a>|
-|9|601|<span class="rank-name-pd">そう(・Д・)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84281?s_seq=84281">ダイニング こころみ</a>|<a href="/darts/rank/長野県/須坂市">長野県須坂市</a>|
-|10|359|<span class="rank-name-pd">れなれな</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84281?s_seq=84281">ダイニング こころみ</a>|<a href="/darts/rank/長野県/須坂市">長野県須坂市</a>|
+|3|761|<span class="rank-name-pd">Aru</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84281?s_seq=84281">ダイニング こころみ</a>|<a href="/darts/rank/長野県/須坂市">長野県須坂市</a>|
+|4|753|<span class="rank-name-pd">Tsuyoshi-A</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84281?s_seq=84281">ダイニング こころみ</a>|<a href="/darts/rank/長野県/須坂市">長野県須坂市</a>|
+|5|680|<span class="rank-name-pd">いっせっせ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84281?s_seq=84281">ダイニング こころみ</a>|<a href="/darts/rank/長野県/須坂市">長野県須坂市</a>|
+|6|673|<span class="rank-name-pd">しゅん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84281?s_seq=84281">ダイニング こころみ</a>|<a href="/darts/rank/長野県/須坂市">長野県須坂市</a>|
+|7|650|<span class="rank-name-pd">RYU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84281?s_seq=84281">ダイニング こころみ</a>|<a href="/darts/rank/長野県/須坂市">長野県須坂市</a>|
+|8|623|<span class="rank-name-pd">なお2</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84281?s_seq=84281">ダイニング こころみ</a>|<a href="/darts/rank/長野県/須坂市">長野県須坂市</a>|
+|9|615|<span class="rank-name-pd">きよ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84281?s_seq=84281">ダイニング こころみ</a>|<a href="/darts/rank/長野県/須坂市">長野県須坂市</a>|
+|10|601|<span class="rank-name-pd">そう(・Д・)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84281?s_seq=84281">ダイニング こころみ</a>|<a href="/darts/rank/長野県/須坂市">長野県須坂市</a>|
+|11|359|<span class="rank-name-pd">れなれな</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84281?s_seq=84281">ダイニング こころみ</a>|<a href="/darts/rank/長野県/須坂市">長野県須坂市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -54,14 +55,15 @@ ___
 |---|---|---|---|---|
 |1|985|<span class="rank-name-pd">シンヤ@こころみ(HEARTS)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84281?s_seq=84281">ダイニング こころみ</a>|<a href="/darts/rank/長野県/須坂市">長野県須坂市</a>|
 |2|873|<span class="rank-name-pd">けんぼぅ＠投魂一家</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84281?s_seq=84281">ダイニング こころみ</a>|<a href="/darts/rank/長野県/須坂市">長野県須坂市</a>|
-|3|680|<span class="rank-name-pd">いっせっせ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84281?s_seq=84281">ダイニング こころみ</a>|<a href="/darts/rank/長野県/須坂市">長野県須坂市</a>|
-|4|673|<span class="rank-name-pd">しゅん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84281?s_seq=84281">ダイニング こころみ</a>|<a href="/darts/rank/長野県/須坂市">長野県須坂市</a>|
-|5|650|<span class="rank-name-pd">RYU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84281?s_seq=84281">ダイニング こころみ</a>|<a href="/darts/rank/長野県/須坂市">長野県須坂市</a>|
-|6|638|<span class="rank-name-pd">Tsuyoshi-A</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84281?s_seq=84281">ダイニング こころみ</a>|<a href="/darts/rank/長野県/須坂市">長野県須坂市</a>|
-|7|623|<span class="rank-name-pd">なお2</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84281?s_seq=84281">ダイニング こころみ</a>|<a href="/darts/rank/長野県/須坂市">長野県須坂市</a>|
-|8|615|<span class="rank-name-pd">きよ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84281?s_seq=84281">ダイニング こころみ</a>|<a href="/darts/rank/長野県/須坂市">長野県須坂市</a>|
-|9|601|<span class="rank-name-pd">そう(・Д・)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84281?s_seq=84281">ダイニング こころみ</a>|<a href="/darts/rank/長野県/須坂市">長野県須坂市</a>|
-|10|359|<span class="rank-name-pd">れなれな</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84281?s_seq=84281">ダイニング こころみ</a>|<a href="/darts/rank/長野県/須坂市">長野県須坂市</a>|
+|3|761|<span class="rank-name-pd">Aru</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84281?s_seq=84281">ダイニング こころみ</a>|<a href="/darts/rank/長野県/須坂市">長野県須坂市</a>|
+|4|753|<span class="rank-name-pd">Tsuyoshi-A</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84281?s_seq=84281">ダイニング こころみ</a>|<a href="/darts/rank/長野県/須坂市">長野県須坂市</a>|
+|5|680|<span class="rank-name-pd">いっせっせ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84281?s_seq=84281">ダイニング こころみ</a>|<a href="/darts/rank/長野県/須坂市">長野県須坂市</a>|
+|6|673|<span class="rank-name-pd">しゅん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84281?s_seq=84281">ダイニング こころみ</a>|<a href="/darts/rank/長野県/須坂市">長野県須坂市</a>|
+|7|650|<span class="rank-name-pd">RYU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84281?s_seq=84281">ダイニング こころみ</a>|<a href="/darts/rank/長野県/須坂市">長野県須坂市</a>|
+|8|623|<span class="rank-name-pd">なお2</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84281?s_seq=84281">ダイニング こころみ</a>|<a href="/darts/rank/長野県/須坂市">長野県須坂市</a>|
+|9|615|<span class="rank-name-pd">きよ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84281?s_seq=84281">ダイニング こころみ</a>|<a href="/darts/rank/長野県/須坂市">長野県須坂市</a>|
+|10|601|<span class="rank-name-pd">そう(・Д・)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84281?s_seq=84281">ダイニング こころみ</a>|<a href="/darts/rank/長野県/須坂市">長野県須坂市</a>|
+|11|359|<span class="rank-name-pd">れなれな</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84281?s_seq=84281">ダイニング こころみ</a>|<a href="/darts/rank/長野県/須坂市">長野県須坂市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

@@ -24,15 +24,16 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|824|<span class="rank-name-pd">りょうと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10434?s_seq=10434">花唐草</a>|<a href="/darts/rank/大阪府/富田林市">大阪府富田林市</a>|
-|2|514|<span class="rank-name-dl">PADLOCK　カズ!?</span>|<a href="https://search.dartslive.com/jp/shop/404fb66bd97e5d750d9b047a20a7ba1e">BAR PADLOCK</a>|<a href="/darts/rank/大阪府/富田林市">大阪府富田林市</a>|
-|3|488|<span class="rank-name-pd">てらだまん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10434?s_seq=10434">花唐草</a>|<a href="/darts/rank/大阪府/富田林市">大阪府富田林市</a>|
-|4|471|<span class="rank-name-dl">Yoshito</span>|<a href="https://search.dartslive.com/jp/shop/404fb66bd97e5d750d9b047a20a7ba1e">BAR PADLOCK</a>|<a href="/darts/rank/大阪府/富田林市">大阪府富田林市</a>|
-|5|437|<span class="rank-name-dl">るーです</span>|<a href="https://search.dartslive.com/jp/shop/404fb66bd97e5d750d9b047a20a7ba1e">BAR PADLOCK</a>|<a href="/darts/rank/大阪府/富田林市">大阪府富田林市</a>|
-|6|429|<span class="rank-name-pd">SHIORI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10434?s_seq=10434">花唐草</a>|<a href="/darts/rank/大阪府/富田林市">大阪府富田林市</a>|
-|7|415|<span class="rank-name-dl">ko^ki</span>|<a href="https://search.dartslive.com/jp/shop/404fb66bd97e5d750d9b047a20a7ba1e">BAR PADLOCK</a>|<a href="/darts/rank/大阪府/富田林市">大阪府富田林市</a>|
-|8|343|<span class="rank-name-pd">KAEDE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10434?s_seq=10434">花唐草</a>|<a href="/darts/rank/大阪府/富田林市">大阪府富田林市</a>|
-|9|286|<span class="rank-name-pd">SA-YA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10434?s_seq=10434">花唐草</a>|<a href="/darts/rank/大阪府/富田林市">大阪府富田林市</a>|
-|10|240|<span class="rank-name-pd">KENTO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10434?s_seq=10434">花唐草</a>|<a href="/darts/rank/大阪府/富田林市">大阪府富田林市</a>|
+|2|813|<span class="rank-name-dl">PADLOCKカズ⁇</span>|<a href="https://search.dartslive.com/jp/shop/404fb66bd97e5d750d9b047a20a7ba1e">BAR PADLOCK</a>|<a href="/darts/rank/大阪府/富田林市">大阪府富田林市</a>|
+|3|523|<span class="rank-name-pd">てらだまん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10434?s_seq=10434">花唐草</a>|<a href="/darts/rank/大阪府/富田林市">大阪府富田林市</a>|
+|4|514|<span class="rank-name-dl">PADLOCK　カズ!?</span>|<a href="https://search.dartslive.com/jp/shop/404fb66bd97e5d750d9b047a20a7ba1e">BAR PADLOCK</a>|<a href="/darts/rank/大阪府/富田林市">大阪府富田林市</a>|
+|5|471|<span class="rank-name-dl">Yoshito</span>|<a href="https://search.dartslive.com/jp/shop/404fb66bd97e5d750d9b047a20a7ba1e">BAR PADLOCK</a>|<a href="/darts/rank/大阪府/富田林市">大阪府富田林市</a>|
+|6|437|<span class="rank-name-dl">るーです</span>|<a href="https://search.dartslive.com/jp/shop/404fb66bd97e5d750d9b047a20a7ba1e">BAR PADLOCK</a>|<a href="/darts/rank/大阪府/富田林市">大阪府富田林市</a>|
+|7|429|<span class="rank-name-pd">SHIORI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10434?s_seq=10434">花唐草</a>|<a href="/darts/rank/大阪府/富田林市">大阪府富田林市</a>|
+|8|415|<span class="rank-name-dl">ko^ki</span>|<a href="https://search.dartslive.com/jp/shop/404fb66bd97e5d750d9b047a20a7ba1e">BAR PADLOCK</a>|<a href="/darts/rank/大阪府/富田林市">大阪府富田林市</a>|
+|9|343|<span class="rank-name-pd">KAEDE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10434?s_seq=10434">花唐草</a>|<a href="/darts/rank/大阪府/富田林市">大阪府富田林市</a>|
+|10|286|<span class="rank-name-pd">SA-YA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10434?s_seq=10434">花唐草</a>|<a href="/darts/rank/大阪府/富田林市">大阪府富田林市</a>|
+|11|240|<span class="rank-name-pd">KENTO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10434?s_seq=10434">花唐草</a>|<a href="/darts/rank/大阪府/富田林市">大阪府富田林市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -42,10 +43,11 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|514|<span class="rank-name-dl">PADLOCK　カズ!?</span>|<a href="https://search.dartslive.com/jp/shop/404fb66bd97e5d750d9b047a20a7ba1e">BAR PADLOCK</a>|<a href="/darts/rank/大阪府/富田林市">大阪府富田林市</a>|
-|2|471|<span class="rank-name-dl">Yoshito</span>|<a href="https://search.dartslive.com/jp/shop/404fb66bd97e5d750d9b047a20a7ba1e">BAR PADLOCK</a>|<a href="/darts/rank/大阪府/富田林市">大阪府富田林市</a>|
-|3|437|<span class="rank-name-dl">るーです</span>|<a href="https://search.dartslive.com/jp/shop/404fb66bd97e5d750d9b047a20a7ba1e">BAR PADLOCK</a>|<a href="/darts/rank/大阪府/富田林市">大阪府富田林市</a>|
-|4|415|<span class="rank-name-dl">ko^ki</span>|<a href="https://search.dartslive.com/jp/shop/404fb66bd97e5d750d9b047a20a7ba1e">BAR PADLOCK</a>|<a href="/darts/rank/大阪府/富田林市">大阪府富田林市</a>|
+|1|813|<span class="rank-name-dl">PADLOCKカズ⁇</span>|<a href="https://search.dartslive.com/jp/shop/404fb66bd97e5d750d9b047a20a7ba1e">BAR PADLOCK</a>|<a href="/darts/rank/大阪府/富田林市">大阪府富田林市</a>|
+|2|514|<span class="rank-name-dl">PADLOCK　カズ!?</span>|<a href="https://search.dartslive.com/jp/shop/404fb66bd97e5d750d9b047a20a7ba1e">BAR PADLOCK</a>|<a href="/darts/rank/大阪府/富田林市">大阪府富田林市</a>|
+|3|471|<span class="rank-name-dl">Yoshito</span>|<a href="https://search.dartslive.com/jp/shop/404fb66bd97e5d750d9b047a20a7ba1e">BAR PADLOCK</a>|<a href="/darts/rank/大阪府/富田林市">大阪府富田林市</a>|
+|4|437|<span class="rank-name-dl">るーです</span>|<a href="https://search.dartslive.com/jp/shop/404fb66bd97e5d750d9b047a20a7ba1e">BAR PADLOCK</a>|<a href="/darts/rank/大阪府/富田林市">大阪府富田林市</a>|
+|5|415|<span class="rank-name-dl">ko^ki</span>|<a href="https://search.dartslive.com/jp/shop/404fb66bd97e5d750d9b047a20a7ba1e">BAR PADLOCK</a>|<a href="/darts/rank/大阪府/富田林市">大阪府富田林市</a>|
 
 
 #### PHOENIXDARTS TOP 100
@@ -56,7 +58,7 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|824|<span class="rank-name-pd">りょうと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10434?s_seq=10434">花唐草</a>|<a href="/darts/rank/大阪府/富田林市">大阪府富田林市</a>|
-|2|488|<span class="rank-name-pd">てらだまん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10434?s_seq=10434">花唐草</a>|<a href="/darts/rank/大阪府/富田林市">大阪府富田林市</a>|
+|2|523|<span class="rank-name-pd">てらだまん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10434?s_seq=10434">花唐草</a>|<a href="/darts/rank/大阪府/富田林市">大阪府富田林市</a>|
 |3|429|<span class="rank-name-pd">SHIORI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10434?s_seq=10434">花唐草</a>|<a href="/darts/rank/大阪府/富田林市">大阪府富田林市</a>|
 |4|343|<span class="rank-name-pd">KAEDE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10434?s_seq=10434">花唐草</a>|<a href="/darts/rank/大阪府/富田林市">大阪府富田林市</a>|
 |5|286|<span class="rank-name-pd">SA-YA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10434?s_seq=10434">花唐草</a>|<a href="/darts/rank/大阪府/富田林市">大阪府富田林市</a>|

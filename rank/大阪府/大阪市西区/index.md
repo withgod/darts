@@ -23,15 +23,20 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|937|<span class="rank-name-dl">SHINGO.</span>|<a href="https://search.dartslive.com/jp/shop/425d0b9bfb1783f70d9b047a20a7ba1e">SPORTS DINING BAR アンカー</a>|<a href="/darts/rank/大阪府/大阪市西区">大阪府大阪市西区</a>|
-|2|909|<span class="rank-name-dl">アンカーのバビ</span>|<a href="https://search.dartslive.com/jp/shop/425d0b9bfb1783f70d9b047a20a7ba1e">SPORTS DINING BAR アンカー</a>|<a href="/darts/rank/大阪府/大阪市西区">大阪府大阪市西区</a>|
-|3|902|<span class="rank-name-dl">テレ</span>|<a href="https://search.dartslive.com/jp/shop/425d0b9bfb1783f70d9b047a20a7ba1e">SPORTS DINING BAR アンカー</a>|<a href="/darts/rank/大阪府/大阪市西区">大阪府大阪市西区</a>|
+|1|954|<span class="rank-name-dl">テレ</span>|<a href="https://search.dartslive.com/jp/shop/425d0b9bfb1783f70d9b047a20a7ba1e">SPORTS DINING BAR アンカー</a>|<a href="/darts/rank/大阪府/大阪市西区">大阪府大阪市西区</a>|
+|2|937|<span class="rank-name-dl">SHINGO.</span>|<a href="https://search.dartslive.com/jp/shop/425d0b9bfb1783f70d9b047a20a7ba1e">SPORTS DINING BAR アンカー</a>|<a href="/darts/rank/大阪府/大阪市西区">大阪府大阪市西区</a>|
+|3|909|<span class="rank-name-dl">アンカーのバビ</span>|<a href="https://search.dartslive.com/jp/shop/425d0b9bfb1783f70d9b047a20a7ba1e">SPORTS DINING BAR アンカー</a>|<a href="/darts/rank/大阪府/大阪市西区">大阪府大阪市西区</a>|
 |4|787|<span class="rank-name-dl">ｹﾝｿﾞｩ(D&#x27;LoVE)</span>|<a href="https://search.dartslive.com/jp/shop/425d0b9bfb1783f70d9b047a20a7ba1e">SPORTS DINING BAR アンカー</a>|<a href="/darts/rank/大阪府/大阪市西区">大阪府大阪市西区</a>|
-|5|686|<span class="rank-name-dl">ﾄﾞﾐﾉﾋﾟｻﾞ食べたい</span>|<a href="https://search.dartslive.com/jp/shop/425d0b9bfb1783f70d9b047a20a7ba1e">SPORTS DINING BAR アンカー</a>|<a href="/darts/rank/大阪府/大阪市西区">大阪府大阪市西区</a>|
-|6|650|<span class="rank-name-dl">星空のDistance</span>|<a href="https://search.dartslive.com/jp/shop/425d0b9bfb1783f70d9b047a20a7ba1e">SPORTS DINING BAR アンカー</a>|<a href="/darts/rank/大阪府/大阪市西区">大阪府大阪市西区</a>|
-|7|647|<span class="rank-name-dl">TM_5_pack</span>|<a href="https://search.dartslive.com/jp/shop/425d0b9bfb1783f70d9b047a20a7ba1e">SPORTS DINING BAR アンカー</a>|<a href="/darts/rank/大阪府/大阪市西区">大阪府大阪市西区</a>|
-|8|453|<span class="rank-name-dl">amore</span>|<a href="https://search.dartslive.com/jp/shop/425d0b9bfb1783f70d9b047a20a7ba1e">SPORTS DINING BAR アンカー</a>|<a href="/darts/rank/大阪府/大阪市西区">大阪府大阪市西区</a>|
-|9|377|<span class="rank-name-dl">Shuri Lakshmi</span>|<a href="https://search.dartslive.com/jp/shop/425d0b9bfb1783f70d9b047a20a7ba1e">SPORTS DINING BAR アンカー</a>|<a href="/darts/rank/大阪府/大阪市西区">大阪府大阪市西区</a>|
+|5|779|<span class="rank-name-dl">サイモン△西住</span>|<a href="https://search.dartslive.com/jp/shop/425d0b9bfb1783f70d9b047a20a7ba1e">SPORTS DINING BAR アンカー</a>|<a href="/darts/rank/大阪府/大阪市西区">大阪府大阪市西区</a>|
+|6|700|<span class="rank-name-dl">TM_5_pack</span>|<a href="https://search.dartslive.com/jp/shop/425d0b9bfb1783f70d9b047a20a7ba1e">SPORTS DINING BAR アンカー</a>|<a href="/darts/rank/大阪府/大阪市西区">大阪府大阪市西区</a>|
+|7|686|<span class="rank-name-dl">ﾄﾞﾐﾉﾋﾟｻﾞ食べたい</span>|<a href="https://search.dartslive.com/jp/shop/425d0b9bfb1783f70d9b047a20a7ba1e">SPORTS DINING BAR アンカー</a>|<a href="/darts/rank/大阪府/大阪市西区">大阪府大阪市西区</a>|
+|8|650|<span class="rank-name-dl">星空のDistance</span>|<a href="https://search.dartslive.com/jp/shop/425d0b9bfb1783f70d9b047a20a7ba1e">SPORTS DINING BAR アンカー</a>|<a href="/darts/rank/大阪府/大阪市西区">大阪府大阪市西区</a>|
+|9|521|<span class="rank-name-dl">amore</span>|<a href="https://search.dartslive.com/jp/shop/425d0b9bfb1783f70d9b047a20a7ba1e">SPORTS DINING BAR アンカー</a>|<a href="/darts/rank/大阪府/大阪市西区">大阪府大阪市西区</a>|
+|10|519|<span class="rank-name-dl">Miki</span>|<a href="https://search.dartslive.com/jp/shop/425d0b9bfb1783f70d9b047a20a7ba1e">SPORTS DINING BAR アンカー</a>|<a href="/darts/rank/大阪府/大阪市西区">大阪府大阪市西区</a>|
+|11|498|<span class="rank-name-dl">ふっきー</span>|<a href="https://search.dartslive.com/jp/shop/425d0b9bfb1783f70d9b047a20a7ba1e">SPORTS DINING BAR アンカー</a>|<a href="/darts/rank/大阪府/大阪市西区">大阪府大阪市西区</a>|
+|12|492|<span class="rank-name-dl">☆俺ふみたろー☆</span>|<a href="https://search.dartslive.com/jp/shop/425d0b9bfb1783f70d9b047a20a7ba1e">SPORTS DINING BAR アンカー</a>|<a href="/darts/rank/大阪府/大阪市西区">大阪府大阪市西区</a>|
+|13|377|<span class="rank-name-dl">Shuri Lakshmi</span>|<a href="https://search.dartslive.com/jp/shop/425d0b9bfb1783f70d9b047a20a7ba1e">SPORTS DINING BAR アンカー</a>|<a href="/darts/rank/大阪府/大阪市西区">大阪府大阪市西区</a>|
+|14|360|<span class="rank-name-dl">pase</span>|<a href="https://search.dartslive.com/jp/shop/425d0b9bfb1783f70d9b047a20a7ba1e">SPORTS DINING BAR アンカー</a>|<a href="/darts/rank/大阪府/大阪市西区">大阪府大阪市西区</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -41,15 +46,20 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|937|<span class="rank-name-dl">SHINGO.</span>|<a href="https://search.dartslive.com/jp/shop/425d0b9bfb1783f70d9b047a20a7ba1e">SPORTS DINING BAR アンカー</a>|<a href="/darts/rank/大阪府/大阪市西区">大阪府大阪市西区</a>|
-|2|909|<span class="rank-name-dl">アンカーのバビ</span>|<a href="https://search.dartslive.com/jp/shop/425d0b9bfb1783f70d9b047a20a7ba1e">SPORTS DINING BAR アンカー</a>|<a href="/darts/rank/大阪府/大阪市西区">大阪府大阪市西区</a>|
-|3|902|<span class="rank-name-dl">テレ</span>|<a href="https://search.dartslive.com/jp/shop/425d0b9bfb1783f70d9b047a20a7ba1e">SPORTS DINING BAR アンカー</a>|<a href="/darts/rank/大阪府/大阪市西区">大阪府大阪市西区</a>|
+|1|954|<span class="rank-name-dl">テレ</span>|<a href="https://search.dartslive.com/jp/shop/425d0b9bfb1783f70d9b047a20a7ba1e">SPORTS DINING BAR アンカー</a>|<a href="/darts/rank/大阪府/大阪市西区">大阪府大阪市西区</a>|
+|2|937|<span class="rank-name-dl">SHINGO.</span>|<a href="https://search.dartslive.com/jp/shop/425d0b9bfb1783f70d9b047a20a7ba1e">SPORTS DINING BAR アンカー</a>|<a href="/darts/rank/大阪府/大阪市西区">大阪府大阪市西区</a>|
+|3|909|<span class="rank-name-dl">アンカーのバビ</span>|<a href="https://search.dartslive.com/jp/shop/425d0b9bfb1783f70d9b047a20a7ba1e">SPORTS DINING BAR アンカー</a>|<a href="/darts/rank/大阪府/大阪市西区">大阪府大阪市西区</a>|
 |4|787|<span class="rank-name-dl">ｹﾝｿﾞｩ(D&#x27;LoVE)</span>|<a href="https://search.dartslive.com/jp/shop/425d0b9bfb1783f70d9b047a20a7ba1e">SPORTS DINING BAR アンカー</a>|<a href="/darts/rank/大阪府/大阪市西区">大阪府大阪市西区</a>|
-|5|686|<span class="rank-name-dl">ﾄﾞﾐﾉﾋﾟｻﾞ食べたい</span>|<a href="https://search.dartslive.com/jp/shop/425d0b9bfb1783f70d9b047a20a7ba1e">SPORTS DINING BAR アンカー</a>|<a href="/darts/rank/大阪府/大阪市西区">大阪府大阪市西区</a>|
-|6|650|<span class="rank-name-dl">星空のDistance</span>|<a href="https://search.dartslive.com/jp/shop/425d0b9bfb1783f70d9b047a20a7ba1e">SPORTS DINING BAR アンカー</a>|<a href="/darts/rank/大阪府/大阪市西区">大阪府大阪市西区</a>|
-|7|647|<span class="rank-name-dl">TM_5_pack</span>|<a href="https://search.dartslive.com/jp/shop/425d0b9bfb1783f70d9b047a20a7ba1e">SPORTS DINING BAR アンカー</a>|<a href="/darts/rank/大阪府/大阪市西区">大阪府大阪市西区</a>|
-|8|453|<span class="rank-name-dl">amore</span>|<a href="https://search.dartslive.com/jp/shop/425d0b9bfb1783f70d9b047a20a7ba1e">SPORTS DINING BAR アンカー</a>|<a href="/darts/rank/大阪府/大阪市西区">大阪府大阪市西区</a>|
-|9|377|<span class="rank-name-dl">Shuri Lakshmi</span>|<a href="https://search.dartslive.com/jp/shop/425d0b9bfb1783f70d9b047a20a7ba1e">SPORTS DINING BAR アンカー</a>|<a href="/darts/rank/大阪府/大阪市西区">大阪府大阪市西区</a>|
+|5|779|<span class="rank-name-dl">サイモン△西住</span>|<a href="https://search.dartslive.com/jp/shop/425d0b9bfb1783f70d9b047a20a7ba1e">SPORTS DINING BAR アンカー</a>|<a href="/darts/rank/大阪府/大阪市西区">大阪府大阪市西区</a>|
+|6|700|<span class="rank-name-dl">TM_5_pack</span>|<a href="https://search.dartslive.com/jp/shop/425d0b9bfb1783f70d9b047a20a7ba1e">SPORTS DINING BAR アンカー</a>|<a href="/darts/rank/大阪府/大阪市西区">大阪府大阪市西区</a>|
+|7|686|<span class="rank-name-dl">ﾄﾞﾐﾉﾋﾟｻﾞ食べたい</span>|<a href="https://search.dartslive.com/jp/shop/425d0b9bfb1783f70d9b047a20a7ba1e">SPORTS DINING BAR アンカー</a>|<a href="/darts/rank/大阪府/大阪市西区">大阪府大阪市西区</a>|
+|8|650|<span class="rank-name-dl">星空のDistance</span>|<a href="https://search.dartslive.com/jp/shop/425d0b9bfb1783f70d9b047a20a7ba1e">SPORTS DINING BAR アンカー</a>|<a href="/darts/rank/大阪府/大阪市西区">大阪府大阪市西区</a>|
+|9|521|<span class="rank-name-dl">amore</span>|<a href="https://search.dartslive.com/jp/shop/425d0b9bfb1783f70d9b047a20a7ba1e">SPORTS DINING BAR アンカー</a>|<a href="/darts/rank/大阪府/大阪市西区">大阪府大阪市西区</a>|
+|10|519|<span class="rank-name-dl">Miki</span>|<a href="https://search.dartslive.com/jp/shop/425d0b9bfb1783f70d9b047a20a7ba1e">SPORTS DINING BAR アンカー</a>|<a href="/darts/rank/大阪府/大阪市西区">大阪府大阪市西区</a>|
+|11|498|<span class="rank-name-dl">ふっきー</span>|<a href="https://search.dartslive.com/jp/shop/425d0b9bfb1783f70d9b047a20a7ba1e">SPORTS DINING BAR アンカー</a>|<a href="/darts/rank/大阪府/大阪市西区">大阪府大阪市西区</a>|
+|12|492|<span class="rank-name-dl">☆俺ふみたろー☆</span>|<a href="https://search.dartslive.com/jp/shop/425d0b9bfb1783f70d9b047a20a7ba1e">SPORTS DINING BAR アンカー</a>|<a href="/darts/rank/大阪府/大阪市西区">大阪府大阪市西区</a>|
+|13|377|<span class="rank-name-dl">Shuri Lakshmi</span>|<a href="https://search.dartslive.com/jp/shop/425d0b9bfb1783f70d9b047a20a7ba1e">SPORTS DINING BAR アンカー</a>|<a href="/darts/rank/大阪府/大阪市西区">大阪府大阪市西区</a>|
+|14|360|<span class="rank-name-dl">pase</span>|<a href="https://search.dartslive.com/jp/shop/425d0b9bfb1783f70d9b047a20a7ba1e">SPORTS DINING BAR アンカー</a>|<a href="/darts/rank/大阪府/大阪市西区">大阪府大阪市西区</a>|
 
 
 #### PHOENIXDARTS TOP 100

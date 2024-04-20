@@ -25,11 +25,19 @@ ___
 |---|---|---|---|---|
 |1|930|<span class="rank-name-pd">ピース</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73147?s_seq=73147">スクラッチ</a>|<a href="/darts/rank/愛媛県/四国中央市">愛媛県四国中央市</a>|
 |2|915|<span class="rank-name-pd">ムラカミ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73147?s_seq=73147">スクラッチ</a>|<a href="/darts/rank/愛媛県/四国中央市">愛媛県四国中央市</a>|
-|3|786|<span class="rank-name-pd">うーくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73147?s_seq=73147">スクラッチ</a>|<a href="/darts/rank/愛媛県/四国中央市">愛媛県四国中央市</a>|
-|4|778|<span class="rank-name-pd">☆ぶぃぶぃ☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73147?s_seq=73147">スクラッチ</a>|<a href="/darts/rank/愛媛県/四国中央市">愛媛県四国中央市</a>|
+|3|844|<span class="rank-name-pd">☆ぶぃぶぃ☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73147?s_seq=73147">スクラッチ</a>|<a href="/darts/rank/愛媛県/四国中央市">愛媛県四国中央市</a>|
+|4|786|<span class="rank-name-pd">うーくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73147?s_seq=73147">スクラッチ</a>|<a href="/darts/rank/愛媛県/四国中央市">愛媛県四国中央市</a>|
 |5|708|<span class="rank-name-pd">taka</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73147?s_seq=73147">スクラッチ</a>|<a href="/darts/rank/愛媛県/四国中央市">愛媛県四国中央市</a>|
-|6|695|<span class="rank-name-pd">スクラッチ＠しこちゅ～</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73147?s_seq=73147">スクラッチ</a>|<a href="/darts/rank/愛媛県/四国中央市">愛媛県四国中央市</a>|
-|7|433|<span class="rank-name-pd">gureshika</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73147?s_seq=73147">スクラッチ</a>|<a href="/darts/rank/愛媛県/四国中央市">愛媛県四国中央市</a>|
+|6|705|<span class="rank-name-pd">二番隊隊長 火拳 4²</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73147?s_seq=73147">スクラッチ</a>|<a href="/darts/rank/愛媛県/四国中央市">愛媛県四国中央市</a>|
+|7|695|<span class="rank-name-pd">スクラッチ＠しこちゅ～</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73147?s_seq=73147">スクラッチ</a>|<a href="/darts/rank/愛媛県/四国中央市">愛媛県四国中央市</a>|
+|8|633|<span class="rank-name-pd">ロキソニンS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73147?s_seq=73147">スクラッチ</a>|<a href="/darts/rank/愛媛県/四国中央市">愛媛県四国中央市</a>|
+|9|536|<span class="rank-name-pd">takamaru</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73147?s_seq=73147">スクラッチ</a>|<a href="/darts/rank/愛媛県/四国中央市">愛媛県四国中央市</a>|
+|10|517|<span class="rank-name-pd">たつき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73147?s_seq=73147">スクラッチ</a>|<a href="/darts/rank/愛媛県/四国中央市">愛媛県四国中央市</a>|
+|11|512|<span class="rank-name-pd">yuno</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73147?s_seq=73147">スクラッチ</a>|<a href="/darts/rank/愛媛県/四国中央市">愛媛県四国中央市</a>|
+|12|482|<span class="rank-name-pd">もりぞー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73147?s_seq=73147">スクラッチ</a>|<a href="/darts/rank/愛媛県/四国中央市">愛媛県四国中央市</a>|
+|13|433|<span class="rank-name-pd">gureshika</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73147?s_seq=73147">スクラッチ</a>|<a href="/darts/rank/愛媛県/四国中央市">愛媛県四国中央市</a>|
+|14|384|<span class="rank-name-pd">五番隊隊長8087</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73147?s_seq=73147">スクラッチ</a>|<a href="/darts/rank/愛媛県/四国中央市">愛媛県四国中央市</a>|
+|15|268|<span class="rank-name-pd">まいまい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73147?s_seq=73147">スクラッチ</a>|<a href="/darts/rank/愛媛県/四国中央市">愛媛県四国中央市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -51,11 +59,19 @@ ___
 |---|---|---|---|---|
 |1|930|<span class="rank-name-pd">ピース</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73147?s_seq=73147">スクラッチ</a>|<a href="/darts/rank/愛媛県/四国中央市">愛媛県四国中央市</a>|
 |2|915|<span class="rank-name-pd">ムラカミ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73147?s_seq=73147">スクラッチ</a>|<a href="/darts/rank/愛媛県/四国中央市">愛媛県四国中央市</a>|
-|3|786|<span class="rank-name-pd">うーくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73147?s_seq=73147">スクラッチ</a>|<a href="/darts/rank/愛媛県/四国中央市">愛媛県四国中央市</a>|
-|4|778|<span class="rank-name-pd">☆ぶぃぶぃ☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73147?s_seq=73147">スクラッチ</a>|<a href="/darts/rank/愛媛県/四国中央市">愛媛県四国中央市</a>|
+|3|844|<span class="rank-name-pd">☆ぶぃぶぃ☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73147?s_seq=73147">スクラッチ</a>|<a href="/darts/rank/愛媛県/四国中央市">愛媛県四国中央市</a>|
+|4|786|<span class="rank-name-pd">うーくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73147?s_seq=73147">スクラッチ</a>|<a href="/darts/rank/愛媛県/四国中央市">愛媛県四国中央市</a>|
 |5|708|<span class="rank-name-pd">taka</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73147?s_seq=73147">スクラッチ</a>|<a href="/darts/rank/愛媛県/四国中央市">愛媛県四国中央市</a>|
-|6|695|<span class="rank-name-pd">スクラッチ＠しこちゅ～</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73147?s_seq=73147">スクラッチ</a>|<a href="/darts/rank/愛媛県/四国中央市">愛媛県四国中央市</a>|
-|7|433|<span class="rank-name-pd">gureshika</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73147?s_seq=73147">スクラッチ</a>|<a href="/darts/rank/愛媛県/四国中央市">愛媛県四国中央市</a>|
+|6|705|<span class="rank-name-pd">二番隊隊長 火拳 4²</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73147?s_seq=73147">スクラッチ</a>|<a href="/darts/rank/愛媛県/四国中央市">愛媛県四国中央市</a>|
+|7|695|<span class="rank-name-pd">スクラッチ＠しこちゅ～</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73147?s_seq=73147">スクラッチ</a>|<a href="/darts/rank/愛媛県/四国中央市">愛媛県四国中央市</a>|
+|8|633|<span class="rank-name-pd">ロキソニンS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73147?s_seq=73147">スクラッチ</a>|<a href="/darts/rank/愛媛県/四国中央市">愛媛県四国中央市</a>|
+|9|536|<span class="rank-name-pd">takamaru</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73147?s_seq=73147">スクラッチ</a>|<a href="/darts/rank/愛媛県/四国中央市">愛媛県四国中央市</a>|
+|10|517|<span class="rank-name-pd">たつき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73147?s_seq=73147">スクラッチ</a>|<a href="/darts/rank/愛媛県/四国中央市">愛媛県四国中央市</a>|
+|11|512|<span class="rank-name-pd">yuno</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73147?s_seq=73147">スクラッチ</a>|<a href="/darts/rank/愛媛県/四国中央市">愛媛県四国中央市</a>|
+|12|482|<span class="rank-name-pd">もりぞー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73147?s_seq=73147">スクラッチ</a>|<a href="/darts/rank/愛媛県/四国中央市">愛媛県四国中央市</a>|
+|13|433|<span class="rank-name-pd">gureshika</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73147?s_seq=73147">スクラッチ</a>|<a href="/darts/rank/愛媛県/四国中央市">愛媛県四国中央市</a>|
+|14|384|<span class="rank-name-pd">五番隊隊長8087</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73147?s_seq=73147">スクラッチ</a>|<a href="/darts/rank/愛媛県/四国中央市">愛媛県四国中央市</a>|
+|15|268|<span class="rank-name-pd">まいまい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73147?s_seq=73147">スクラッチ</a>|<a href="/darts/rank/愛媛県/四国中央市">愛媛県四国中央市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

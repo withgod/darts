@@ -23,31 +23,35 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|923|<span class="rank-name-pd">菊次郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
-|2|876|<span class="rank-name-pd">おい!   手塚!!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
-|3|853|<span class="rank-name-pd">ang</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
-|4|846|<span class="rank-name-pd">ポンコツん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
-|5|815|<span class="rank-name-pd">琉球偉人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
-|6|773|<span class="rank-name-pd">ベンジー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
-|7|684|<span class="rank-name-pd">おに丸君</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
-|8|653|<span class="rank-name-pd">足場ニキ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
-|9|649|<span class="rank-name-pd">ユウキ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
-|10|644|<span class="rank-name-pd">TOMOKA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
-|11|634|<span class="rank-name-pd">AOK!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
-|12|631|<span class="rank-name-pd">☆Take-10☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
-|13|628|<span class="rank-name-pd">のっぺ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
-|14|593|<span class="rank-name-pd">ﾂｯﾁｰJr.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
-|15|578|<span class="rank-name-pd">SKﾞY-SUN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
-|16|503|<span class="rank-name-pd">ERIBO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
-|17|498|<span class="rank-name-pd">D i c e - K [零の領域]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
-|18|497|<span class="rank-name-pd">むー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
-|19|480|<span class="rank-name-pd">寸矢</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
-|20|461|<span class="rank-name-pd">らっちょ(ρд-)zZZ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
-|21|452|<span class="rank-name-pd">MAKOTO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
-|22|434|<span class="rank-name-pd">ひーくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
-|23|419|<span class="rank-name-pd">ゆう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
-|24|308|<span class="rank-name-pd">RON</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
-|25|260|<span class="rank-name-pd">Bice</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
+|1|1034|<span class="rank-name-pd">阿部です。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
+|2|923|<span class="rank-name-pd">菊次郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
+|3|876|<span class="rank-name-pd">おい!   手塚!!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
+|4|853|<span class="rank-name-pd">ang</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
+|5|851|<span class="rank-name-pd">琉球偉人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
+|6|846|<span class="rank-name-pd">ポンコツん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
+|7|811|<span class="rank-name-pd">おに丸君</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
+|8|773|<span class="rank-name-pd">ベンジー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
+|9|735|<span class="rank-name-pd">TOMOKA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
+|10|715|<span class="rank-name-pd">のっぺ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
+|11|710|<span class="rank-name-pd">安城湯麺</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
+|12|693|<span class="rank-name-pd">☆Take-10☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
+|13|681|<span class="rank-name-pd">髪染め</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
+|14|676|<span class="rank-name-pd">寸矢</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
+|15|653|<span class="rank-name-pd">足場ニキ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
+|16|649|<span class="rank-name-pd">ユウキ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
+|17|634|<span class="rank-name-pd">AOK!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
+|18|593|<span class="rank-name-pd">ﾂｯﾁｰJr.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
+|19|578|<span class="rank-name-pd">SKﾞY-SUN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
+|20|543|<span class="rank-name-pd">yacchin</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
+|21|503|<span class="rank-name-pd">ERIBO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
+|22|498|<span class="rank-name-pd">D i c e - K [零の領域]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
+|23|497|<span class="rank-name-pd">むー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
+|24|493|<span class="rank-name-pd">MAKOTO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
+|25|461|<span class="rank-name-pd">らっちょ(ρд-)zZZ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
+|26|434|<span class="rank-name-pd">ひーくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
+|27|419|<span class="rank-name-pd">ゆう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
+|28|308|<span class="rank-name-pd">RON</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
+|29|260|<span class="rank-name-pd">Bice</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -67,31 +71,35 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|923|<span class="rank-name-pd">菊次郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
-|2|876|<span class="rank-name-pd">おい!   手塚!!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
-|3|853|<span class="rank-name-pd">ang</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
-|4|846|<span class="rank-name-pd">ポンコツん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
-|5|815|<span class="rank-name-pd">琉球偉人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
-|6|773|<span class="rank-name-pd">ベンジー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
-|7|684|<span class="rank-name-pd">おに丸君</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
-|8|653|<span class="rank-name-pd">足場ニキ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
-|9|649|<span class="rank-name-pd">ユウキ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
-|10|644|<span class="rank-name-pd">TOMOKA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
-|11|634|<span class="rank-name-pd">AOK!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
-|12|631|<span class="rank-name-pd">☆Take-10☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
-|13|628|<span class="rank-name-pd">のっぺ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
-|14|593|<span class="rank-name-pd">ﾂｯﾁｰJr.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
-|15|578|<span class="rank-name-pd">SKﾞY-SUN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
-|16|503|<span class="rank-name-pd">ERIBO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
-|17|498|<span class="rank-name-pd">D i c e - K [零の領域]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
-|18|497|<span class="rank-name-pd">むー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
-|19|480|<span class="rank-name-pd">寸矢</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
-|20|461|<span class="rank-name-pd">らっちょ(ρд-)zZZ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
-|21|452|<span class="rank-name-pd">MAKOTO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
-|22|434|<span class="rank-name-pd">ひーくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
-|23|419|<span class="rank-name-pd">ゆう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
-|24|308|<span class="rank-name-pd">RON</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
-|25|260|<span class="rank-name-pd">Bice</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
+|1|1034|<span class="rank-name-pd">阿部です。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
+|2|923|<span class="rank-name-pd">菊次郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
+|3|876|<span class="rank-name-pd">おい!   手塚!!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
+|4|853|<span class="rank-name-pd">ang</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
+|5|851|<span class="rank-name-pd">琉球偉人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
+|6|846|<span class="rank-name-pd">ポンコツん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
+|7|811|<span class="rank-name-pd">おに丸君</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
+|8|773|<span class="rank-name-pd">ベンジー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
+|9|735|<span class="rank-name-pd">TOMOKA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
+|10|715|<span class="rank-name-pd">のっぺ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
+|11|710|<span class="rank-name-pd">安城湯麺</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
+|12|693|<span class="rank-name-pd">☆Take-10☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
+|13|681|<span class="rank-name-pd">髪染め</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
+|14|676|<span class="rank-name-pd">寸矢</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
+|15|653|<span class="rank-name-pd">足場ニキ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
+|16|649|<span class="rank-name-pd">ユウキ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
+|17|634|<span class="rank-name-pd">AOK!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
+|18|593|<span class="rank-name-pd">ﾂｯﾁｰJr.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
+|19|578|<span class="rank-name-pd">SKﾞY-SUN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
+|20|543|<span class="rank-name-pd">yacchin</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
+|21|503|<span class="rank-name-pd">ERIBO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
+|22|498|<span class="rank-name-pd">D i c e - K [零の領域]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
+|23|497|<span class="rank-name-pd">むー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
+|24|493|<span class="rank-name-pd">MAKOTO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
+|25|461|<span class="rank-name-pd">らっちょ(ρд-)zZZ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
+|26|434|<span class="rank-name-pd">ひーくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
+|27|419|<span class="rank-name-pd">ゆう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
+|28|308|<span class="rank-name-pd">RON</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
+|29|260|<span class="rank-name-pd">Bice</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73724?s_seq=73724">Cafe&Bar LEGACY</a>|<a href="/darts/rank/山形県/長井市">山形県長井市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

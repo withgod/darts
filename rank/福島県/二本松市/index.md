@@ -24,21 +24,29 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|929|<span class="rank-name-dl">HIDETORII.</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
-|2|871|<span class="rank-name-dl">ひでざえもん</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
-|3|703|<span class="rank-name-dl">NO NAME 5158</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
-|4|684|<span class="rank-name-dl">わだい(&#x27;ω&#x27; )</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
-|5|659|<span class="rank-name-dl">b-child@FLAGILE</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
-|6|615|<span class="rank-name-dl">ヨシムラ@FRAGILE</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
-|7|599|<span class="rank-name-dl">うつみー。</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
-|8|589|<span class="rank-name-dl">HOKUTO</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
-|8|589|<span class="rank-name-dl">NO NAME 5921</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
-|10|583|<span class="rank-name-dl">NO NAME 3670</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
-|11|576|<span class="rank-name-dl">新　サイダー</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
-|12|553|<span class="rank-name-dl">NO NAME 2022</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
-|13|507|<span class="rank-name-dl">とーい</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
-|14|457|<span class="rank-name-dl">さしゅん</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
-|15|453|<span class="rank-name-dl">iso★酒属性ｷﾗｰEL</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
-|16|447|<span class="rank-name-dl">NICOTIN</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
+|2|920|<span class="rank-name-dl">ひでざえもん</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
+|3|880|<span class="rank-name-dl">J,tani@cosmo</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
+|4|755|<span class="rank-name-dl">うつみー。</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
+|5|703|<span class="rank-name-dl">NO NAME 5158</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
+|6|684|<span class="rank-name-dl">わだい(&#x27;ω&#x27; )</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
+|7|662|<span class="rank-name-dl">さしゅん</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
+|8|659|<span class="rank-name-dl">b-child@FLAGILE</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
+|9|641|<span class="rank-name-dl">ヨシムラ@FRAGILE</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
+|10|636|<span class="rank-name-dl">鈴木健二</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
+|11|627|<span class="rank-name-dl">NICOTIN</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
+|12|595|<span class="rank-name-dl">wadakaz(｢ﾟДﾟ)｢</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
+|13|589|<span class="rank-name-dl">HOKUTO</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
+|13|589|<span class="rank-name-dl">NO NAME 5921</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
+|15|583|<span class="rank-name-dl">NO NAME 3670</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
+|16|576|<span class="rank-name-dl">新　サイダー</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
+|17|553|<span class="rank-name-dl">NO NAME 2022</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
+|18|537|<span class="rank-name-dl">あゆたん</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
+|19|507|<span class="rank-name-dl">とーい</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
+|20|463|<span class="rank-name-dl">ゆ　み　ね　ぇ</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
+|21|453|<span class="rank-name-dl">iso★酒属性ｷﾗｰEL</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
+|22|435|<span class="rank-name-dl">したん_(:3」∠)_</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
+|23|422|<span class="rank-name-dl">★MOTS★</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
+|24|407|<span class="rank-name-dl">ゆみねぇ</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -49,21 +57,29 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|929|<span class="rank-name-dl">HIDETORII.</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
-|2|871|<span class="rank-name-dl">ひでざえもん</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
-|3|703|<span class="rank-name-dl">NO NAME 5158</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
-|4|684|<span class="rank-name-dl">わだい(&#x27;ω&#x27; )</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
-|5|659|<span class="rank-name-dl">b-child@FLAGILE</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
-|6|615|<span class="rank-name-dl">ヨシムラ@FRAGILE</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
-|7|599|<span class="rank-name-dl">うつみー。</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
-|8|589|<span class="rank-name-dl">HOKUTO</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
-|8|589|<span class="rank-name-dl">NO NAME 5921</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
-|10|583|<span class="rank-name-dl">NO NAME 3670</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
-|11|576|<span class="rank-name-dl">新　サイダー</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
-|12|553|<span class="rank-name-dl">NO NAME 2022</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
-|13|507|<span class="rank-name-dl">とーい</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
-|14|457|<span class="rank-name-dl">さしゅん</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
-|15|453|<span class="rank-name-dl">iso★酒属性ｷﾗｰEL</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
-|16|447|<span class="rank-name-dl">NICOTIN</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
+|2|920|<span class="rank-name-dl">ひでざえもん</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
+|3|880|<span class="rank-name-dl">J,tani@cosmo</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
+|4|755|<span class="rank-name-dl">うつみー。</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
+|5|703|<span class="rank-name-dl">NO NAME 5158</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
+|6|684|<span class="rank-name-dl">わだい(&#x27;ω&#x27; )</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
+|7|662|<span class="rank-name-dl">さしゅん</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
+|8|659|<span class="rank-name-dl">b-child@FLAGILE</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
+|9|641|<span class="rank-name-dl">ヨシムラ@FRAGILE</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
+|10|636|<span class="rank-name-dl">鈴木健二</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
+|11|627|<span class="rank-name-dl">NICOTIN</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
+|12|595|<span class="rank-name-dl">wadakaz(｢ﾟДﾟ)｢</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
+|13|589|<span class="rank-name-dl">HOKUTO</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
+|13|589|<span class="rank-name-dl">NO NAME 5921</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
+|15|583|<span class="rank-name-dl">NO NAME 3670</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
+|16|576|<span class="rank-name-dl">新　サイダー</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
+|17|553|<span class="rank-name-dl">NO NAME 2022</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
+|18|537|<span class="rank-name-dl">あゆたん</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
+|19|507|<span class="rank-name-dl">とーい</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
+|20|463|<span class="rank-name-dl">ゆ　み　ね　ぇ</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
+|21|453|<span class="rank-name-dl">iso★酒属性ｷﾗｰEL</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
+|22|435|<span class="rank-name-dl">したん_(:3」∠)_</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
+|23|422|<span class="rank-name-dl">★MOTS★</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
+|24|407|<span class="rank-name-dl">ゆみねぇ</span>|<a href="https://search.dartslive.com/jp/shop/8137ae932fe4f2490d9b047a20a7ba1e">FRAGILE</a>|<a href="/darts/rank/福島県/二本松市">福島県二本松市</a>|
 
 
 #### PHOENIXDARTS TOP 100

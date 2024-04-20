@@ -23,17 +23,27 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|822|<span class="rank-name-pd">松崎海星親衛隊＊貴pの犬@DSB</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
-|2|802|<span class="rank-name-pd">今関 伸弥</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
-|3|666|<span class="rank-name-pd">Naokin_910311</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
-|4|572|<span class="rank-name-pd">8BE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
-|5|455|<span class="rank-name-pd">なっちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
-|6|397|<span class="rank-name-pd">SPICE-ぉ味噌汁</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
-|7|385|<span class="rank-name-pd">COCO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
-|8|380|<span class="rank-name-pd">柊☆しお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
-|9|344|<span class="rank-name-pd">BEIGUN.1173 </span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
-|10|249|<span class="rank-name-pd">hikaru☆柊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
-|11|229|<span class="rank-name-pd">ATSUSHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
+|1|984|<span class="rank-name-pd">柊　べいぐん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
+|2|822|<span class="rank-name-pd">松崎海星親衛隊＊貴pの犬@DSB</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
+|3|802|<span class="rank-name-pd">今関 伸弥</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
+|4|726|<span class="rank-name-pd">なおちゅう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
+|5|666|<span class="rank-name-pd">Naokin_910311</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
+|6|636|<span class="rank-name-pd">まっす〜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
+|7|619|<span class="rank-name-pd">しょーへー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
+|8|574|<span class="rank-name-pd">ちゃま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
+|9|572|<span class="rank-name-pd">8BE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
+|10|540|<span class="rank-name-pd">ほにょん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
+|11|495|<span class="rank-name-pd">0082_1936</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
+|12|470|<span class="rank-name-pd">まー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
+|13|455|<span class="rank-name-pd">なっちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
+|14|454|<span class="rank-name-pd">0078_4398</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
+|15|439|<span class="rank-name-pd">K.Y</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
+|16|430|<span class="rank-name-pd">SPICE-ぉ味噌汁</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
+|17|399|<span class="rank-name-pd">COCO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
+|18|380|<span class="rank-name-pd">柊☆しお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
+|19|344|<span class="rank-name-pd">BEIGUN.1173 </span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
+|20|249|<span class="rank-name-pd">hikaru☆柊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
+|21|229|<span class="rank-name-pd">ATSUSHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -53,17 +63,27 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|822|<span class="rank-name-pd">松崎海星親衛隊＊貴pの犬@DSB</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
-|2|802|<span class="rank-name-pd">今関 伸弥</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
-|3|666|<span class="rank-name-pd">Naokin_910311</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
-|4|572|<span class="rank-name-pd">8BE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
-|5|455|<span class="rank-name-pd">なっちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
-|6|397|<span class="rank-name-pd">SPICE-ぉ味噌汁</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
-|7|385|<span class="rank-name-pd">COCO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
-|8|380|<span class="rank-name-pd">柊☆しお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
-|9|344|<span class="rank-name-pd">BEIGUN.1173 </span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
-|10|249|<span class="rank-name-pd">hikaru☆柊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
-|11|229|<span class="rank-name-pd">ATSUSHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
+|1|984|<span class="rank-name-pd">柊　べいぐん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
+|2|822|<span class="rank-name-pd">松崎海星親衛隊＊貴pの犬@DSB</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
+|3|802|<span class="rank-name-pd">今関 伸弥</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
+|4|726|<span class="rank-name-pd">なおちゅう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
+|5|666|<span class="rank-name-pd">Naokin_910311</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
+|6|636|<span class="rank-name-pd">まっす〜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
+|7|619|<span class="rank-name-pd">しょーへー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
+|8|574|<span class="rank-name-pd">ちゃま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
+|9|572|<span class="rank-name-pd">8BE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
+|10|540|<span class="rank-name-pd">ほにょん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
+|11|495|<span class="rank-name-pd">0082_1936</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
+|12|470|<span class="rank-name-pd">まー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
+|13|455|<span class="rank-name-pd">なっちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
+|14|454|<span class="rank-name-pd">0078_4398</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
+|15|439|<span class="rank-name-pd">K.Y</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
+|16|430|<span class="rank-name-pd">SPICE-ぉ味噌汁</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
+|17|399|<span class="rank-name-pd">COCO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
+|18|380|<span class="rank-name-pd">柊☆しお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
+|19|344|<span class="rank-name-pd">BEIGUN.1173 </span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
+|20|249|<span class="rank-name-pd">hikaru☆柊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
+|21|229|<span class="rank-name-pd">ATSUSHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7761?s_seq=7761">柊</a>|<a href="/darts/rank/千葉県/いすみ市">千葉県いすみ市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

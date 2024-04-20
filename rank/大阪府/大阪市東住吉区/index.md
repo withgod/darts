@@ -25,22 +25,30 @@ ___
 |---|---|---|---|---|
 |1|1161|<span class="rank-name-dl">DMC 菅村 毅</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
 |2|1153|<span class="rank-name-dl">NO NAME 9827</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
-|3|1037|<span class="rank-name-dl">中井 涼☆One80</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
-|4|946|<span class="rank-name-dl">kuuga</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
-|5|925|<span class="rank-name-dl">てらだあああああ</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
-|6|924|<span class="rank-name-dl">テクニシャン鷹</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
-|7|820|<span class="rank-name-dl">じーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
-|8|798|<span class="rank-name-dl">りつき</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
-|9|794|<span class="rank-name-dl">たいし+α@MAD.H</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
-|10|762|<span class="rank-name-dl">大ちゃん＠梅星</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
-|11|755|<span class="rank-name-dl">ヤン毛ニキ</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
-|12|719|<span class="rank-name-dl">愚地独歩</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
-|13|684|<span class="rank-name-dl">22年間地元の床屋</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
-|14|674|<span class="rank-name-dl">ダｳﾝタｳﾝのかずき</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
-|15|660|<span class="rank-name-dl">いぶき</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
-|16|555|<span class="rank-name-dl">おじまる</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
-|17|507|<span class="rank-name-dl">ダｳﾝタｳﾝのゆい</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
-|18|476|<span class="rank-name-dl">MIO</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|3|1048|<span class="rank-name-dl">水野 剛</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|4|1042|<span class="rank-name-dl">ﾌﾟﾙｼｪﾝｺﾏｰｸﾝLOOP</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|5|1037|<span class="rank-name-dl">中井 涼☆One80</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|6|946|<span class="rank-name-dl">kuuga</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|7|925|<span class="rank-name-dl">てらだあああああ</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|8|924|<span class="rank-name-dl">テクニシャン鷹</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|9|879|<span class="rank-name-dl">ヤン毛ニキ</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|10|820|<span class="rank-name-dl">じーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|11|814|<span class="rank-name-dl">りつき</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|12|794|<span class="rank-name-dl">たいし+α@MAD.H</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|13|762|<span class="rank-name-dl">大ちゃん＠梅星</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|14|742|<span class="rank-name-dl">大輝 @LOCO</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|15|730|<span class="rank-name-dl">Yuuchan@梅★</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|16|719|<span class="rank-name-dl">愚地独歩</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|17|717|<span class="rank-name-dl">zeal翔毅</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|18|686|<span class="rank-name-dl">DECO DECO</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|19|684|<span class="rank-name-dl">22年間地元の床屋</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|19|684|<span class="rank-name-dl">☆俺やすきちー☆</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|21|674|<span class="rank-name-dl">ダｳﾝタｳﾝのかずき</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|22|660|<span class="rank-name-dl">いぶき</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|23|555|<span class="rank-name-dl">おじまる</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|24|507|<span class="rank-name-dl">ダｳﾝタｳﾝのゆい</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|25|501|<span class="rank-name-dl">ばっさー</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|26|476|<span class="rank-name-dl">MIO</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -52,22 +60,30 @@ ___
 |---|---|---|---|---|
 |1|1161|<span class="rank-name-dl">DMC 菅村 毅</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
 |2|1153|<span class="rank-name-dl">NO NAME 9827</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
-|3|1037|<span class="rank-name-dl">中井 涼☆One80</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
-|4|946|<span class="rank-name-dl">kuuga</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
-|5|925|<span class="rank-name-dl">てらだあああああ</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
-|6|924|<span class="rank-name-dl">テクニシャン鷹</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
-|7|820|<span class="rank-name-dl">じーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
-|8|798|<span class="rank-name-dl">りつき</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
-|9|794|<span class="rank-name-dl">たいし+α@MAD.H</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
-|10|762|<span class="rank-name-dl">大ちゃん＠梅星</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
-|11|755|<span class="rank-name-dl">ヤン毛ニキ</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
-|12|719|<span class="rank-name-dl">愚地独歩</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
-|13|684|<span class="rank-name-dl">22年間地元の床屋</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
-|14|674|<span class="rank-name-dl">ダｳﾝタｳﾝのかずき</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
-|15|660|<span class="rank-name-dl">いぶき</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
-|16|555|<span class="rank-name-dl">おじまる</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
-|17|507|<span class="rank-name-dl">ダｳﾝタｳﾝのゆい</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
-|18|476|<span class="rank-name-dl">MIO</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|3|1048|<span class="rank-name-dl">水野 剛</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|4|1042|<span class="rank-name-dl">ﾌﾟﾙｼｪﾝｺﾏｰｸﾝLOOP</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|5|1037|<span class="rank-name-dl">中井 涼☆One80</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|6|946|<span class="rank-name-dl">kuuga</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|7|925|<span class="rank-name-dl">てらだあああああ</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|8|924|<span class="rank-name-dl">テクニシャン鷹</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|9|879|<span class="rank-name-dl">ヤン毛ニキ</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|10|820|<span class="rank-name-dl">じーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|11|814|<span class="rank-name-dl">りつき</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|12|794|<span class="rank-name-dl">たいし+α@MAD.H</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|13|762|<span class="rank-name-dl">大ちゃん＠梅星</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|14|742|<span class="rank-name-dl">大輝 @LOCO</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|15|730|<span class="rank-name-dl">Yuuchan@梅★</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|16|719|<span class="rank-name-dl">愚地独歩</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|17|717|<span class="rank-name-dl">zeal翔毅</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|18|686|<span class="rank-name-dl">DECO DECO</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|19|684|<span class="rank-name-dl">22年間地元の床屋</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|19|684|<span class="rank-name-dl">☆俺やすきちー☆</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|21|674|<span class="rank-name-dl">ダｳﾝタｳﾝのかずき</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|22|660|<span class="rank-name-dl">いぶき</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|23|555|<span class="rank-name-dl">おじまる</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|24|507|<span class="rank-name-dl">ダｳﾝタｳﾝのゆい</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|25|501|<span class="rank-name-dl">ばっさー</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
+|26|476|<span class="rank-name-dl">MIO</span>|<a href="https://search.dartslive.com/jp/shop/b56b97a98980a25aa3f63593b5358cc4">LOCOROCO</a>|<a href="/darts/rank/大阪府/大阪市東住吉区">大阪府大阪市東住吉区</a>|
 
 
 #### PHOENIXDARTS TOP 100

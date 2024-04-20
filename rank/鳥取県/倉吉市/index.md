@@ -23,22 +23,27 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|894|<span class="rank-name-pd">らっきょ 【超英雄】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
-|2|686|<span class="rank-name-pd">たぁ坊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
-|3|683|<span class="rank-name-pd">ATUYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
-|4|679|<span class="rank-name-pd">ねこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
-|5|654|<span class="rank-name-pd">ジャギ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
-|6|594|<span class="rank-name-pd">シマウマ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
-|7|556|<span class="rank-name-pd">えみ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
-|8|529|<span class="rank-name-pd">超絶初心者</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
-|9|527|<span class="rank-name-pd">蒼蓮</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
-|10|500|<span class="rank-name-pd">なる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
-|11|480|<span class="rank-name-pd">TAKU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
-|12|448|<span class="rank-name-pd">0166_9960</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
-|13|360|<span class="rank-name-pd">DAICHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
-|14|329|<span class="rank-name-pd">0225_9654</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
-|15|317|<span class="rank-name-pd">SETUNA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
-|16|313|<span class="rank-name-pd">soi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
+|1|931|<span class="rank-name-pd">らっきょ 【超英雄】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
+|2|880|<span class="rank-name-pd">くま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
+|3|832|<span class="rank-name-pd">HERO-2</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
+|4|724|<span class="rank-name-pd">たぁ坊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
+|5|697|<span class="rank-name-pd">老師＠６０(酔拳)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
+|6|683|<span class="rank-name-pd">ATUYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
+|7|679|<span class="rank-name-pd">ねこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
+|8|673|<span class="rank-name-pd">ジャギ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
+|9|602|<span class="rank-name-pd">シマウマ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
+|10|574|<span class="rank-name-pd">えみ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
+|11|536|<span class="rank-name-pd">なる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
+|12|529|<span class="rank-name-pd">超絶初心者</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
+|13|527|<span class="rank-name-pd">蒼蓮</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
+|14|480|<span class="rank-name-pd">TAKU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
+|15|448|<span class="rank-name-pd">0166_9960</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
+|16|376|<span class="rank-name-pd">ふるぞ雪が</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
+|17|360|<span class="rank-name-pd">DAICHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
+|18|329|<span class="rank-name-pd">0225_9654</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
+|19|317|<span class="rank-name-pd">SETUNA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
+|20|313|<span class="rank-name-pd">soi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
+|21|266|<span class="rank-name-pd">chro32</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -58,22 +63,27 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|894|<span class="rank-name-pd">らっきょ 【超英雄】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
-|2|686|<span class="rank-name-pd">たぁ坊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
-|3|683|<span class="rank-name-pd">ATUYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
-|4|679|<span class="rank-name-pd">ねこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
-|5|654|<span class="rank-name-pd">ジャギ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
-|6|594|<span class="rank-name-pd">シマウマ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
-|7|556|<span class="rank-name-pd">えみ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
-|8|529|<span class="rank-name-pd">超絶初心者</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
-|9|527|<span class="rank-name-pd">蒼蓮</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
-|10|500|<span class="rank-name-pd">なる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
-|11|480|<span class="rank-name-pd">TAKU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
-|12|448|<span class="rank-name-pd">0166_9960</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
-|13|360|<span class="rank-name-pd">DAICHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
-|14|329|<span class="rank-name-pd">0225_9654</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
-|15|317|<span class="rank-name-pd">SETUNA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
-|16|313|<span class="rank-name-pd">soi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
+|1|931|<span class="rank-name-pd">らっきょ 【超英雄】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
+|2|880|<span class="rank-name-pd">くま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
+|3|832|<span class="rank-name-pd">HERO-2</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
+|4|724|<span class="rank-name-pd">たぁ坊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
+|5|697|<span class="rank-name-pd">老師＠６０(酔拳)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
+|6|683|<span class="rank-name-pd">ATUYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
+|7|679|<span class="rank-name-pd">ねこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
+|8|673|<span class="rank-name-pd">ジャギ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
+|9|602|<span class="rank-name-pd">シマウマ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
+|10|574|<span class="rank-name-pd">えみ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
+|11|536|<span class="rank-name-pd">なる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
+|12|529|<span class="rank-name-pd">超絶初心者</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
+|13|527|<span class="rank-name-pd">蒼蓮</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
+|14|480|<span class="rank-name-pd">TAKU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
+|15|448|<span class="rank-name-pd">0166_9960</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
+|16|376|<span class="rank-name-pd">ふるぞ雪が</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
+|17|360|<span class="rank-name-pd">DAICHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
+|18|329|<span class="rank-name-pd">0225_9654</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
+|19|317|<span class="rank-name-pd">SETUNA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
+|20|313|<span class="rank-name-pd">soi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
+|21|266|<span class="rank-name-pd">chro32</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6287?s_seq=6287">スーパーヒーロー倉吉</a>|<a href="/darts/rank/鳥取県/倉吉市">鳥取県倉吉市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

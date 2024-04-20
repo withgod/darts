@@ -23,25 +23,35 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1069|<span class="rank-name-dl">こうが</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
-|2|1057|<span class="rank-name-dl">マルコメさん</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
-|3|1046|<span class="rank-name-dl">no name?笑</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
-|4|1016|<span class="rank-name-dl">綾鷹</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
-|5|1002|<span class="rank-name-dl">てるてるポン酢</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
-|6|967|<span class="rank-name-dl">辻本 祐吾</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
-|7|962|<span class="rank-name-dl">湊 悠真</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
-|8|953|<span class="rank-name-dl">キキ</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
-|9|950|<span class="rank-name-dl">紅</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
-|10|945|<span class="rank-name-dl">新矢　悠貴</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
-|11|919|<span class="rank-name-dl">つなKING♪</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
-|12|912|<span class="rank-name-dl">いっちゃん@DCGI</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
-|13|807|<span class="rank-name-dl">三宅 勇輝</span>|<a href="https://search.dartslive.com/jp/shop/e11e7d72c5f5916eb21333aee1bd51e4">Mix Bar Bacchus</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
-|14|740|<span class="rank-name-dl">YUKI:GIG</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
-|15|656|<span class="rank-name-dl">塩山 知亜妃</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
-|16|642|<span class="rank-name-dl">アンダーソン</span>|<a href="https://search.dartslive.com/jp/shop/e11e7d72c5f5916eb21333aee1bd51e4">Mix Bar Bacchus</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
-|17|619|<span class="rank-name-dl">GIG_よしえ</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
-|18|482|<span class="rank-name-dl">淑絵age@ｱｰｼﾞｭ86</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
-|19|289|<span class="rank-name-dl">がわ！</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
+|1|1076|<span class="rank-name-dl">Shi*R</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
+|2|1069|<span class="rank-name-dl">こうが</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
+|3|1065|<span class="rank-name-dl">キキ</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
+|4|1057|<span class="rank-name-dl">マルコメさん</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
+|5|1047|<span class="rank-name-dl">綾鷹</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
+|6|1046|<span class="rank-name-dl">no name?笑</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
+|7|1037|<span class="rank-name-dl">sooooooooyo</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
+|8|1003|<span class="rank-name-dl">山本 浩平</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
+|9|1002|<span class="rank-name-dl">てるてるポン酢</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
+|10|967|<span class="rank-name-dl">辻本 祐吾</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
+|11|962|<span class="rank-name-dl">湊 悠真</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
+|12|961|<span class="rank-name-dl">リョリョ</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
+|13|959|<span class="rank-name-dl">新矢　悠貴</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
+|14|950|<span class="rank-name-dl">紅</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
+|15|929|<span class="rank-name-dl">いっちゃん@DCGI</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
+|16|927|<span class="rank-name-dl">山尾　光輝</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
+|17|922|<span class="rank-name-dl">K</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
+|18|919|<span class="rank-name-dl">つなKING♪</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
+|19|895|<span class="rank-name-dl">t</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
+|20|807|<span class="rank-name-dl">三宅 勇輝</span>|<a href="https://search.dartslive.com/jp/shop/e11e7d72c5f5916eb21333aee1bd51e4">Mix Bar Bacchus</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
+|21|740|<span class="rank-name-dl">YUKI:GIG</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
+|22|733|<span class="rank-name-dl">塩山 知亜妃</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
+|23|650|<span class="rank-name-dl">ちゃきあら＊</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
+|24|642|<span class="rank-name-dl">アンダーソン</span>|<a href="https://search.dartslive.com/jp/shop/e11e7d72c5f5916eb21333aee1bd51e4">Mix Bar Bacchus</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
+|25|619|<span class="rank-name-dl">GIG_よしえ</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
+|26|526|<span class="rank-name-dl">せ</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
+|27|521|<span class="rank-name-dl">淑絵age@ｱｰｼﾞｭ86</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
+|28|462|<span class="rank-name-dl">☆キラッキー☆</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
+|29|289|<span class="rank-name-dl">がわ！</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -51,25 +61,35 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1069|<span class="rank-name-dl">こうが</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
-|2|1057|<span class="rank-name-dl">マルコメさん</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
-|3|1046|<span class="rank-name-dl">no name?笑</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
-|4|1016|<span class="rank-name-dl">綾鷹</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
-|5|1002|<span class="rank-name-dl">てるてるポン酢</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
-|6|967|<span class="rank-name-dl">辻本 祐吾</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
-|7|962|<span class="rank-name-dl">湊 悠真</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
-|8|953|<span class="rank-name-dl">キキ</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
-|9|950|<span class="rank-name-dl">紅</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
-|10|945|<span class="rank-name-dl">新矢　悠貴</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
-|11|919|<span class="rank-name-dl">つなKING♪</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
-|12|912|<span class="rank-name-dl">いっちゃん@DCGI</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
-|13|807|<span class="rank-name-dl">三宅 勇輝</span>|<a href="https://search.dartslive.com/jp/shop/e11e7d72c5f5916eb21333aee1bd51e4">Mix Bar Bacchus</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
-|14|740|<span class="rank-name-dl">YUKI:GIG</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
-|15|656|<span class="rank-name-dl">塩山 知亜妃</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
-|16|642|<span class="rank-name-dl">アンダーソン</span>|<a href="https://search.dartslive.com/jp/shop/e11e7d72c5f5916eb21333aee1bd51e4">Mix Bar Bacchus</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
-|17|619|<span class="rank-name-dl">GIG_よしえ</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
-|18|482|<span class="rank-name-dl">淑絵age@ｱｰｼﾞｭ86</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
-|19|289|<span class="rank-name-dl">がわ！</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
+|1|1076|<span class="rank-name-dl">Shi*R</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
+|2|1069|<span class="rank-name-dl">こうが</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
+|3|1065|<span class="rank-name-dl">キキ</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
+|4|1057|<span class="rank-name-dl">マルコメさん</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
+|5|1047|<span class="rank-name-dl">綾鷹</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
+|6|1046|<span class="rank-name-dl">no name?笑</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
+|7|1037|<span class="rank-name-dl">sooooooooyo</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
+|8|1003|<span class="rank-name-dl">山本 浩平</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
+|9|1002|<span class="rank-name-dl">てるてるポン酢</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
+|10|967|<span class="rank-name-dl">辻本 祐吾</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
+|11|962|<span class="rank-name-dl">湊 悠真</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
+|12|961|<span class="rank-name-dl">リョリョ</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
+|13|959|<span class="rank-name-dl">新矢　悠貴</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
+|14|950|<span class="rank-name-dl">紅</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
+|15|929|<span class="rank-name-dl">いっちゃん@DCGI</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
+|16|927|<span class="rank-name-dl">山尾　光輝</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
+|17|922|<span class="rank-name-dl">K</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
+|18|919|<span class="rank-name-dl">つなKING♪</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
+|19|895|<span class="rank-name-dl">t</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
+|20|807|<span class="rank-name-dl">三宅 勇輝</span>|<a href="https://search.dartslive.com/jp/shop/e11e7d72c5f5916eb21333aee1bd51e4">Mix Bar Bacchus</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
+|21|740|<span class="rank-name-dl">YUKI:GIG</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
+|22|733|<span class="rank-name-dl">塩山 知亜妃</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
+|23|650|<span class="rank-name-dl">ちゃきあら＊</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
+|24|642|<span class="rank-name-dl">アンダーソン</span>|<a href="https://search.dartslive.com/jp/shop/e11e7d72c5f5916eb21333aee1bd51e4">Mix Bar Bacchus</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
+|25|619|<span class="rank-name-dl">GIG_よしえ</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
+|26|526|<span class="rank-name-dl">せ</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
+|27|521|<span class="rank-name-dl">淑絵age@ｱｰｼﾞｭ86</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
+|28|462|<span class="rank-name-dl">☆キラッキー☆</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
+|29|289|<span class="rank-name-dl">がわ！</span>|<a href="https://search.dartslive.com/jp/shop/f4330ab5e65384c30d9b047a20a7ba1e">ダーツカフェ ガーデン奈良生駒店</a>|<a href="/darts/rank/奈良県/生駒市">奈良県生駒市</a>|
 
 
 #### PHOENIXDARTS TOP 100

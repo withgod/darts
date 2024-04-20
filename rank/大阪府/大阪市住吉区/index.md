@@ -25,60 +25,93 @@ ___
 |---|---|---|---|---|
 |1|1159|<span class="rank-name-dl">YTK◉sClanBULL</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
 |2|1139|<span class="rank-name-dl">しょういっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|3|1075|<span class="rank-name-dl">幡川 翔一</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|4|1055|<span class="rank-name-dl">しょういっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|5|1049|<span class="rank-name-dl">網野 武尊</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|6|1026|<span class="rank-name-dl">ʕ•ᴥ•ʔ</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|7|1017|<span class="rank-name-dl">ｻﾝｼﾞ★梅星☠乱蜂</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|8|1010|<span class="rank-name-dl">™️</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|9|982|<span class="rank-name-dl">ひじき</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|10|980|<span class="rank-name-dl">安積 海洋</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|11|975|<span class="rank-name-dl">凡ペンギン</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|12|965|<span class="rank-name-dl">ILVER</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|13|959|<span class="rank-name-dl">かーず☆彡Reve</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|13|959|<span class="rank-name-dl">慎太朗</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|15|956|<span class="rank-name-dl">長井 華穂衣</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|16|955|<span class="rank-name-dl">IORY</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|17|954|<span class="rank-name-dl">KAZU</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|18|927|<span class="rank-name-dl">信号機</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|19|919|<span class="rank-name-dl">みっふぃ〜。</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|20|914|<span class="rank-name-dl">にゃる兄y@orz</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|21|908|<span class="rank-name-dl">shige$</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|22|901|<span class="rank-name-dl">しょうくん</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|23|899|<span class="rank-name-dl">shandy@五百瀬組</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|24|876|<span class="rank-name-dl">まいっち</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|25|858|<span class="rank-name-dl">shige$</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|26|848|<span class="rank-name-dl">kaho</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|27|760|<span class="rank-name-dl">きしも@</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|28|750|<span class="rank-name-dl">長井 華穂衣</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|29|739|<span class="rank-name-dl">-yasuko-</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|30|729|<span class="rank-name-dl">さや._.</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|31|709|<span class="rank-name-dl">Mitsuki</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|32|702|<span class="rank-name-dl">kaho</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|33|666|<span class="rank-name-dl">ＫＡＤＯＹＡ</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|34|663|<span class="rank-name-dl">ताजीमाता</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|35|630|<span class="rank-name-dl">yuko OKAPPA FED</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|36|620|<span class="rank-name-dl">NO NAME 9847</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|37|613|<span class="rank-name-dl">チャンマツ千夏也</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|38|608|<span class="rank-name-dl">*＊nao＊･:*</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|39|605|<span class="rank-name-dl">わんたろう</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|39|605|<span class="rank-name-dl">鬼嫁ﾎﾋﾞｯﾄ♡</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|41|603|<span class="rank-name-dl">塩山 知亜妃</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|42|580|<span class="rank-name-dl">ゆんたん</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|43|578|<span class="rank-name-dl">ﾚｯﾄﾞｽﾀｰ2☆FED</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|44|575|<span class="rank-name-dl">信号機</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|45|566|<span class="rank-name-dl">yune( °꒳° )</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|46|563|<span class="rank-name-dl">tomo</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|47|547|<span class="rank-name-dl">なるせ</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|48|545|<span class="rank-name-dl">うるて</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|49|543|<span class="rank-name-dl">マロちゃん</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|50|540|<span class="rank-name-dl">ゆんたん</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|51|535|<span class="rank-name-dl">優衣</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|52|534|<span class="rank-name-dl">❀あやね❀</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|53|526|<span class="rank-name-dl">skty_45610</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|54|424|<span class="rank-name-dl">❀あやね❀</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|55|407|<span class="rank-name-dl">ｂｏｎｅERIKA</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|56|382|<span class="rank-name-dl">EILEEN</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|3|1088|<span class="rank-name-dl">三宅 勇輝</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|4|1079|<span class="rank-name-dl">ぺ～</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|5|1075|<span class="rank-name-dl">幡川 翔一</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|6|1066|<span class="rank-name-dl">ミッフィーさん</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|7|1058|<span class="rank-name-dl">しょういっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|8|1049|<span class="rank-name-dl">網野 武尊</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|9|1026|<span class="rank-name-dl">ʕ•ᴥ•ʔ</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|10|1017|<span class="rank-name-dl">ｻﾝｼﾞ★梅星☠乱蜂</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|11|1010|<span class="rank-name-dl">™️</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|12|1002|<span class="rank-name-dl">安積 海洋</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|13|993|<span class="rank-name-dl">慎太朗</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|14|982|<span class="rank-name-dl">ひじき</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|15|975|<span class="rank-name-dl">凡ペンギン</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|16|970|<span class="rank-name-dl">みっふぃ?。</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|17|965|<span class="rank-name-dl">ILVER</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|18|963|<span class="rank-name-dl">ゆうき</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|19|962|<span class="rank-name-dl">KAZU</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|20|960|<span class="rank-name-dl">Mitsuki</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|21|959|<span class="rank-name-dl">かーず☆彡Reve</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|22|956|<span class="rank-name-dl">長井 華穂衣</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|23|955|<span class="rank-name-dl">IORY</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|24|951|<span class="rank-name-dl">ＫＡＤＯＹＡ</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|25|933|<span class="rank-name-dl">shige$</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|26|927|<span class="rank-name-dl">信号機</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|27|919|<span class="rank-name-dl">みっふぃ〜。</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|28|914|<span class="rank-name-dl">にゃる兄y@orz</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|29|904|<span class="rank-name-dl">とっつぁん</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|30|902|<span class="rank-name-dl">れんぼーい@忘我</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|31|901|<span class="rank-name-dl">しょうくん</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|32|899|<span class="rank-name-dl">shandy@五百瀬組</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|33|882|<span class="rank-name-dl">kaho</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|34|876|<span class="rank-name-dl">まいっち</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|35|866|<span class="rank-name-dl">じゅん０１</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|36|858|<span class="rank-name-dl">shige$</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|37|848|<span class="rank-name-dl">kaho</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|38|831|<span class="rank-name-dl">KDS</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|39|806|<span class="rank-name-dl">チャンマツ千夏也</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|40|795|<span class="rank-name-dl">わんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|41|760|<span class="rank-name-dl">きしも@</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|42|753|<span class="rank-name-dl">信号機</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|43|750|<span class="rank-name-dl">長井 華穂衣</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|44|744|<span class="rank-name-dl">sao⭐️⭐️⭐️</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|45|743|<span class="rank-name-dl">dai@m@m@</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|46|739|<span class="rank-name-dl">-yasuko-</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|47|729|<span class="rank-name-dl">さや._.</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|48|726|<span class="rank-name-dl">kage3</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|49|717|<span class="rank-name-dl">Mitsuki</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|50|711|<span class="rank-name-dl">さくらは眠い</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|51|709|<span class="rank-name-dl">ताजीमाता</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|51|709|<span class="rank-name-dl">ﾚｯﾄﾞｽﾀｰ2☆FED</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|53|702|<span class="rank-name-dl">DELTA みゆ</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|53|702|<span class="rank-name-dl">Show</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|55|700|<span class="rank-name-dl">berserk</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|56|687|<span class="rank-name-dl">アフターグロウ</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|57|681|<span class="rank-name-dl">✩*。Chizu ☽･:*</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|58|675|<span class="rank-name-dl">塩山 知亜妃</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|59|670|<span class="rank-name-dl">よっしー</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|60|661|<span class="rank-name-dl">*。Chizu ☽SHM☆</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|61|658|<span class="rank-name-dl">☪︎ Chizu ☪︎</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|62|657|<span class="rank-name-dl">かほ</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|63|644|<span class="rank-name-dl">ゆんたん</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|64|640|<span class="rank-name-dl">つっさん</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|65|631|<span class="rank-name-dl">かよ★</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|66|630|<span class="rank-name-dl">yuko OKAPPA FED</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|67|622|<span class="rank-name-dl">水星の黒猫ver.39</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|68|620|<span class="rank-name-dl">NO NAME 9847</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|69|609|<span class="rank-name-dl">いっせい</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|70|608|<span class="rank-name-dl">*＊nao＊･:*</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|71|605|<span class="rank-name-dl">わんたろう</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|71|605|<span class="rank-name-dl">鬼嫁ﾎﾋﾞｯﾄ♡</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|73|604|<span class="rank-name-dl">走召MICHI★VEGA</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|74|593|<span class="rank-name-dl">ｱｰﾁﾝ</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|75|590|<span class="rank-name-dl">＊nao＊</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|76|566|<span class="rank-name-dl">yune( °꒳° )</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|77|563|<span class="rank-name-dl">tomo</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|78|547|<span class="rank-name-dl">なるせ</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|79|545|<span class="rank-name-dl">うるて</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|80|543|<span class="rank-name-dl">マロちゃん</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|81|540|<span class="rank-name-dl">ゆんたん</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|82|537|<span class="rank-name-dl">noriri</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|83|535|<span class="rank-name-dl">優衣</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|84|534|<span class="rank-name-dl">❀あやね❀</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|85|526|<span class="rank-name-dl">skty_45610</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|86|511|<span class="rank-name-dl">Mikki</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|87|424|<span class="rank-name-dl">❀あやね❀</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|88|407|<span class="rank-name-dl">ｂｏｎｅERIKA</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|89|382|<span class="rank-name-dl">EILEEN</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -90,60 +123,93 @@ ___
 |---|---|---|---|---|
 |1|1159|<span class="rank-name-dl">YTK◉sClanBULL</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
 |2|1139|<span class="rank-name-dl">しょういっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|3|1075|<span class="rank-name-dl">幡川 翔一</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|4|1055|<span class="rank-name-dl">しょういっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|5|1049|<span class="rank-name-dl">網野 武尊</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|6|1026|<span class="rank-name-dl">ʕ•ᴥ•ʔ</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|7|1017|<span class="rank-name-dl">ｻﾝｼﾞ★梅星☠乱蜂</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|8|1010|<span class="rank-name-dl">™️</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|9|982|<span class="rank-name-dl">ひじき</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|10|980|<span class="rank-name-dl">安積 海洋</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|11|975|<span class="rank-name-dl">凡ペンギン</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|12|965|<span class="rank-name-dl">ILVER</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|13|959|<span class="rank-name-dl">かーず☆彡Reve</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|13|959|<span class="rank-name-dl">慎太朗</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|15|956|<span class="rank-name-dl">長井 華穂衣</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|16|955|<span class="rank-name-dl">IORY</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|17|954|<span class="rank-name-dl">KAZU</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|18|927|<span class="rank-name-dl">信号機</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|19|919|<span class="rank-name-dl">みっふぃ〜。</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|20|914|<span class="rank-name-dl">にゃる兄y@orz</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|21|908|<span class="rank-name-dl">shige$</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|22|901|<span class="rank-name-dl">しょうくん</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|23|899|<span class="rank-name-dl">shandy@五百瀬組</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|24|876|<span class="rank-name-dl">まいっち</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|25|858|<span class="rank-name-dl">shige$</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|26|848|<span class="rank-name-dl">kaho</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|27|760|<span class="rank-name-dl">きしも@</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|28|750|<span class="rank-name-dl">長井 華穂衣</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|29|739|<span class="rank-name-dl">-yasuko-</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|30|729|<span class="rank-name-dl">さや._.</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|31|709|<span class="rank-name-dl">Mitsuki</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|32|702|<span class="rank-name-dl">kaho</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|33|666|<span class="rank-name-dl">ＫＡＤＯＹＡ</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|34|663|<span class="rank-name-dl">ताजीमाता</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|35|630|<span class="rank-name-dl">yuko OKAPPA FED</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|36|620|<span class="rank-name-dl">NO NAME 9847</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|37|613|<span class="rank-name-dl">チャンマツ千夏也</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|38|608|<span class="rank-name-dl">*＊nao＊･:*</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|39|605|<span class="rank-name-dl">わんたろう</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|39|605|<span class="rank-name-dl">鬼嫁ﾎﾋﾞｯﾄ♡</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|41|603|<span class="rank-name-dl">塩山 知亜妃</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|42|580|<span class="rank-name-dl">ゆんたん</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|43|578|<span class="rank-name-dl">ﾚｯﾄﾞｽﾀｰ2☆FED</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|44|575|<span class="rank-name-dl">信号機</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|45|566|<span class="rank-name-dl">yune( °꒳° )</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|46|563|<span class="rank-name-dl">tomo</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|47|547|<span class="rank-name-dl">なるせ</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|48|545|<span class="rank-name-dl">うるて</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|49|543|<span class="rank-name-dl">マロちゃん</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|50|540|<span class="rank-name-dl">ゆんたん</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|51|535|<span class="rank-name-dl">優衣</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|52|534|<span class="rank-name-dl">❀あやね❀</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|53|526|<span class="rank-name-dl">skty_45610</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|54|424|<span class="rank-name-dl">❀あやね❀</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|55|407|<span class="rank-name-dl">ｂｏｎｅERIKA</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
-|56|382|<span class="rank-name-dl">EILEEN</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|3|1088|<span class="rank-name-dl">三宅 勇輝</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|4|1079|<span class="rank-name-dl">ぺ～</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|5|1075|<span class="rank-name-dl">幡川 翔一</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|6|1066|<span class="rank-name-dl">ミッフィーさん</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|7|1058|<span class="rank-name-dl">しょういっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|8|1049|<span class="rank-name-dl">網野 武尊</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|9|1026|<span class="rank-name-dl">ʕ•ᴥ•ʔ</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|10|1017|<span class="rank-name-dl">ｻﾝｼﾞ★梅星☠乱蜂</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|11|1010|<span class="rank-name-dl">™️</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|12|1002|<span class="rank-name-dl">安積 海洋</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|13|993|<span class="rank-name-dl">慎太朗</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|14|982|<span class="rank-name-dl">ひじき</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|15|975|<span class="rank-name-dl">凡ペンギン</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|16|970|<span class="rank-name-dl">みっふぃ?。</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|17|965|<span class="rank-name-dl">ILVER</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|18|963|<span class="rank-name-dl">ゆうき</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|19|962|<span class="rank-name-dl">KAZU</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|20|960|<span class="rank-name-dl">Mitsuki</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|21|959|<span class="rank-name-dl">かーず☆彡Reve</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|22|956|<span class="rank-name-dl">長井 華穂衣</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|23|955|<span class="rank-name-dl">IORY</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|24|951|<span class="rank-name-dl">ＫＡＤＯＹＡ</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|25|933|<span class="rank-name-dl">shige$</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|26|927|<span class="rank-name-dl">信号機</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|27|919|<span class="rank-name-dl">みっふぃ〜。</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|28|914|<span class="rank-name-dl">にゃる兄y@orz</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|29|904|<span class="rank-name-dl">とっつぁん</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|30|902|<span class="rank-name-dl">れんぼーい@忘我</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|31|901|<span class="rank-name-dl">しょうくん</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|32|899|<span class="rank-name-dl">shandy@五百瀬組</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|33|882|<span class="rank-name-dl">kaho</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|34|876|<span class="rank-name-dl">まいっち</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|35|866|<span class="rank-name-dl">じゅん０１</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|36|858|<span class="rank-name-dl">shige$</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|37|848|<span class="rank-name-dl">kaho</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|38|831|<span class="rank-name-dl">KDS</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|39|806|<span class="rank-name-dl">チャンマツ千夏也</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|40|795|<span class="rank-name-dl">わんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|41|760|<span class="rank-name-dl">きしも@</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|42|753|<span class="rank-name-dl">信号機</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|43|750|<span class="rank-name-dl">長井 華穂衣</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|44|744|<span class="rank-name-dl">sao⭐️⭐️⭐️</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|45|743|<span class="rank-name-dl">dai@m@m@</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|46|739|<span class="rank-name-dl">-yasuko-</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|47|729|<span class="rank-name-dl">さや._.</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|48|726|<span class="rank-name-dl">kage3</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|49|717|<span class="rank-name-dl">Mitsuki</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|50|711|<span class="rank-name-dl">さくらは眠い</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|51|709|<span class="rank-name-dl">ताजीमाता</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|51|709|<span class="rank-name-dl">ﾚｯﾄﾞｽﾀｰ2☆FED</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|53|702|<span class="rank-name-dl">DELTA みゆ</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|53|702|<span class="rank-name-dl">Show</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|55|700|<span class="rank-name-dl">berserk</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|56|687|<span class="rank-name-dl">アフターグロウ</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|57|681|<span class="rank-name-dl">✩*。Chizu ☽･:*</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|58|675|<span class="rank-name-dl">塩山 知亜妃</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|59|670|<span class="rank-name-dl">よっしー</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|60|661|<span class="rank-name-dl">*。Chizu ☽SHM☆</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|61|658|<span class="rank-name-dl">☪︎ Chizu ☪︎</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|62|657|<span class="rank-name-dl">かほ</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|63|644|<span class="rank-name-dl">ゆんたん</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|64|640|<span class="rank-name-dl">つっさん</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|65|631|<span class="rank-name-dl">かよ★</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|66|630|<span class="rank-name-dl">yuko OKAPPA FED</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|67|622|<span class="rank-name-dl">水星の黒猫ver.39</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|68|620|<span class="rank-name-dl">NO NAME 9847</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|69|609|<span class="rank-name-dl">いっせい</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|70|608|<span class="rank-name-dl">*＊nao＊･:*</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|71|605|<span class="rank-name-dl">わんたろう</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|71|605|<span class="rank-name-dl">鬼嫁ﾎﾋﾞｯﾄ♡</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|73|604|<span class="rank-name-dl">走召MICHI★VEGA</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|74|593|<span class="rank-name-dl">ｱｰﾁﾝ</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|75|590|<span class="rank-name-dl">＊nao＊</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|76|566|<span class="rank-name-dl">yune( °꒳° )</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|77|563|<span class="rank-name-dl">tomo</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|78|547|<span class="rank-name-dl">なるせ</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|79|545|<span class="rank-name-dl">うるて</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|80|543|<span class="rank-name-dl">マロちゃん</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|81|540|<span class="rank-name-dl">ゆんたん</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|82|537|<span class="rank-name-dl">noriri</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|83|535|<span class="rank-name-dl">優衣</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|84|534|<span class="rank-name-dl">❀あやね❀</span>|<a href="https://search.dartslive.com/jp/shop/8ec6b0f4a3ad3a1cb21333aee1bd51e4">快活CLUB 長居駅前店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|85|526|<span class="rank-name-dl">skty_45610</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|86|511|<span class="rank-name-dl">Mikki</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|87|424|<span class="rank-name-dl">❀あやね❀</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|88|407|<span class="rank-name-dl">ｂｏｎｅERIKA</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
+|89|382|<span class="rank-name-dl">EILEEN</span>|<a href="https://search.dartslive.com/jp/shop/1b04d52cc72708f428032249b44395af">Far East Darts 長居店</a>|<a href="/darts/rank/大阪府/大阪市住吉区">大阪府大阪市住吉区</a>|
 
 
 #### PHOENIXDARTS TOP 100

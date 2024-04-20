@@ -28,13 +28,16 @@ ___
 |3|799|<span class="rank-name-pd">浅田清吾（本物）</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86118?s_seq=86118">5JAM</a>|<a href="/darts/rank/千葉県/旭市">千葉県旭市</a>|
 |4|778|<span class="rank-name-pd">からまる◎アルデンテ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86118?s_seq=86118">5JAM</a>|<a href="/darts/rank/千葉県/旭市">千葉県旭市</a>|
 |5|710|<span class="rank-name-pd">(｀･ω･´)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86118?s_seq=86118">5JAM</a>|<a href="/darts/rank/千葉県/旭市">千葉県旭市</a>|
+|6|650|<span class="rank-name-pd">mr.zyaaah</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86118?s_seq=86118">5JAM</a>|<a href="/darts/rank/千葉県/旭市">千葉県旭市</a>|
 |6|650|<span class="rank-name-pd">ぷれじでんと。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86118?s_seq=86118">5JAM</a>|<a href="/darts/rank/千葉県/旭市">千葉県旭市</a>|
-|7|582|<span class="rank-name-pd">mr.zyaaah</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86118?s_seq=86118">5JAM</a>|<a href="/darts/rank/千葉県/旭市">千葉県旭市</a>|
 |8|566|<span class="rank-name-pd">☆K.S☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86118?s_seq=86118">5JAM</a>|<a href="/darts/rank/千葉県/旭市">千葉県旭市</a>|
 |9|557|<span class="rank-name-pd">ギラン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86118?s_seq=86118">5JAM</a>|<a href="/darts/rank/千葉県/旭市">千葉県旭市</a>|
 |10|547|<span class="rank-name-pd">yu- 5JAM</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86118?s_seq=86118">5JAM</a>|<a href="/darts/rank/千葉県/旭市">千葉県旭市</a>|
 |11|515|<span class="rank-name-pd">鯖とピーナツと私</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86118?s_seq=86118">5JAM</a>|<a href="/darts/rank/千葉県/旭市">千葉県旭市</a>|
 |12|490|<span class="rank-name-pd">獅子王卍丸</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82083?s_seq=82083">INSOMNIA</a>|<a href="/darts/rank/千葉県/旭市">千葉県旭市</a>|
+|13|445|<span class="rank-name-pd">メガネ🇻🇳</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82083?s_seq=82083">INSOMNIA</a>|<a href="/darts/rank/千葉県/旭市">千葉県旭市</a>|
+|14|430|<span class="rank-name-pd">0037_6334</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86118?s_seq=86118">5JAM</a>|<a href="/darts/rank/千葉県/旭市">千葉県旭市</a>|
+|15|408|<span class="rank-name-pd">(ixi)junya</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86118?s_seq=86118">5JAM</a>|<a href="/darts/rank/千葉県/旭市">千葉県旭市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -59,13 +62,16 @@ ___
 |3|799|<span class="rank-name-pd">浅田清吾（本物）</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86118?s_seq=86118">5JAM</a>|<a href="/darts/rank/千葉県/旭市">千葉県旭市</a>|
 |4|778|<span class="rank-name-pd">からまる◎アルデンテ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86118?s_seq=86118">5JAM</a>|<a href="/darts/rank/千葉県/旭市">千葉県旭市</a>|
 |5|710|<span class="rank-name-pd">(｀･ω･´)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86118?s_seq=86118">5JAM</a>|<a href="/darts/rank/千葉県/旭市">千葉県旭市</a>|
+|6|650|<span class="rank-name-pd">mr.zyaaah</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86118?s_seq=86118">5JAM</a>|<a href="/darts/rank/千葉県/旭市">千葉県旭市</a>|
 |6|650|<span class="rank-name-pd">ぷれじでんと。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86118?s_seq=86118">5JAM</a>|<a href="/darts/rank/千葉県/旭市">千葉県旭市</a>|
-|7|582|<span class="rank-name-pd">mr.zyaaah</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86118?s_seq=86118">5JAM</a>|<a href="/darts/rank/千葉県/旭市">千葉県旭市</a>|
 |8|566|<span class="rank-name-pd">☆K.S☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86118?s_seq=86118">5JAM</a>|<a href="/darts/rank/千葉県/旭市">千葉県旭市</a>|
 |9|557|<span class="rank-name-pd">ギラン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86118?s_seq=86118">5JAM</a>|<a href="/darts/rank/千葉県/旭市">千葉県旭市</a>|
 |10|547|<span class="rank-name-pd">yu- 5JAM</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86118?s_seq=86118">5JAM</a>|<a href="/darts/rank/千葉県/旭市">千葉県旭市</a>|
 |11|515|<span class="rank-name-pd">鯖とピーナツと私</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86118?s_seq=86118">5JAM</a>|<a href="/darts/rank/千葉県/旭市">千葉県旭市</a>|
 |12|490|<span class="rank-name-pd">獅子王卍丸</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82083?s_seq=82083">INSOMNIA</a>|<a href="/darts/rank/千葉県/旭市">千葉県旭市</a>|
+|13|445|<span class="rank-name-pd">メガネ🇻🇳</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82083?s_seq=82083">INSOMNIA</a>|<a href="/darts/rank/千葉県/旭市">千葉県旭市</a>|
+|14|430|<span class="rank-name-pd">0037_6334</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86118?s_seq=86118">5JAM</a>|<a href="/darts/rank/千葉県/旭市">千葉県旭市</a>|
+|15|408|<span class="rank-name-pd">(ixi)junya</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86118?s_seq=86118">5JAM</a>|<a href="/darts/rank/千葉県/旭市">千葉県旭市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

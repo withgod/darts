@@ -30,16 +30,23 @@ ___
 |5|803|<span class="rank-name-dl">てょ。</span>|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
 |6|786|<span class="rank-name-dl">れんれん</span>|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
 |7|743|<span class="rank-name-dl">Kei.1209</span>|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
-|8|715|<span class="rank-name-dl">おが</span>|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
-|9|709|<span class="rank-name-dl">さく</span>|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
-|10|705|<span class="rank-name-dl">※SNOW※</span>|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
-|11|661|<span class="rank-name-dl">やまーん</span>|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
-|12|609|<span class="rank-name-dl">AIM_f</span>|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
-|13|607|<span class="rank-name-dl">T.kawase</span>|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
-|14|577|<span class="rank-name-dl">fuku</span>|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
-|15|566|<span class="rank-name-dl">Yukiiii</span>|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
-|16|529|<span class="rank-name-dl">こばやし</span>|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
-|17|397|<span class="rank-name-dl">yuu</span>|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
+|8|731|<span class="rank-name-dl">HAYATO</span>|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
+|9|716|<span class="rank-name-dl">T.kawase</span>|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
+|10|715|<span class="rank-name-dl">おが</span>|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
+|11|709|<span class="rank-name-dl">さく</span>|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
+|12|705|<span class="rank-name-dl">※SNOW※</span>|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
+|13|683|<span class="rank-name-dl">†如月†</span>|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
+|14|671|<span class="rank-name-dl">セキタク</span>|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
+|15|661|<span class="rank-name-dl">やまーん</span>|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
+|16|630|<span class="rank-name-dl">fuku</span>|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
+|17|609|<span class="rank-name-dl">AIM_f</span>|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
+|18|604|<span class="rank-name-dl">はなぶ〜</span>|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
+|19|566|<span class="rank-name-dl">Yukiiii</span>|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
+|20|565|<span class="rank-name-dl">こばやし</span>|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
+|21|539|<span class="rank-name-dl">なおみ</span>|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
+|22|401|<span class="rank-name-dl">NO NAME 3158</span>|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
+|23|397|<span class="rank-name-dl">yuu</span>|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
+|24|353|<span class="rank-name-dl">NO NAME 7673</span>|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -56,16 +63,23 @@ ___
 |5|803|<span class="rank-name-dl">てょ。</span>|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
 |6|786|<span class="rank-name-dl">れんれん</span>|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
 |7|743|<span class="rank-name-dl">Kei.1209</span>|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
-|8|715|<span class="rank-name-dl">おが</span>|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
-|9|709|<span class="rank-name-dl">さく</span>|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
-|10|705|<span class="rank-name-dl">※SNOW※</span>|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
-|11|661|<span class="rank-name-dl">やまーん</span>|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
-|12|609|<span class="rank-name-dl">AIM_f</span>|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
-|13|607|<span class="rank-name-dl">T.kawase</span>|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
-|14|577|<span class="rank-name-dl">fuku</span>|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
-|15|566|<span class="rank-name-dl">Yukiiii</span>|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
-|16|529|<span class="rank-name-dl">こばやし</span>|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
-|17|397|<span class="rank-name-dl">yuu</span>|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
+|8|731|<span class="rank-name-dl">HAYATO</span>|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
+|9|716|<span class="rank-name-dl">T.kawase</span>|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
+|10|715|<span class="rank-name-dl">おが</span>|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
+|11|709|<span class="rank-name-dl">さく</span>|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
+|12|705|<span class="rank-name-dl">※SNOW※</span>|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
+|13|683|<span class="rank-name-dl">†如月†</span>|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
+|14|671|<span class="rank-name-dl">セキタク</span>|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
+|15|661|<span class="rank-name-dl">やまーん</span>|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
+|16|630|<span class="rank-name-dl">fuku</span>|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
+|17|609|<span class="rank-name-dl">AIM_f</span>|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
+|18|604|<span class="rank-name-dl">はなぶ〜</span>|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
+|19|566|<span class="rank-name-dl">Yukiiii</span>|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
+|20|565|<span class="rank-name-dl">こばやし</span>|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
+|21|539|<span class="rank-name-dl">なおみ</span>|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
+|22|401|<span class="rank-name-dl">NO NAME 3158</span>|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
+|23|397|<span class="rank-name-dl">yuu</span>|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
+|24|353|<span class="rank-name-dl">NO NAME 7673</span>|<a href="https://search.dartslive.com/jp/shop/83662fe3fa4c6ec125d56fb0e5c39bac">プレイゾーン BANG-BOO</a>|<a href="/darts/rank/新潟県/南魚沼市">新潟県南魚沼市</a>|
 
 
 #### PHOENIXDARTS TOP 100

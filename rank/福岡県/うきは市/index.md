@@ -25,11 +25,13 @@ ___
 |---|---|---|---|---|
 |1|880|<span class="rank-name-pd">秋ヒコσ(ﾟ∀ﾟ )</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90157?s_seq=90157">スリーエフ</a>|<a href="/darts/rank/福岡県/うきは市">福岡県うきは市</a>|
 |2|720|<span class="rank-name-pd">まぁ倉富2</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90157?s_seq=90157">スリーエフ</a>|<a href="/darts/rank/福岡県/うきは市">福岡県うきは市</a>|
-|3|604|<span class="rank-name-pd">0035_2867</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90157?s_seq=90157">スリーエフ</a>|<a href="/darts/rank/福岡県/うきは市">福岡県うきは市</a>|
-|4|554|<span class="rank-name-pd">MOMO1002</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90157?s_seq=90157">スリーエフ</a>|<a href="/darts/rank/福岡県/うきは市">福岡県うきは市</a>|
-|5|473|<span class="rank-name-pd">ゆん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90157?s_seq=90157">スリーエフ</a>|<a href="/darts/rank/福岡県/うきは市">福岡県うきは市</a>|
-|6|434|<span class="rank-name-pd">MAMIKO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90157?s_seq=90157">スリーエフ</a>|<a href="/darts/rank/福岡県/うきは市">福岡県うきは市</a>|
-|7|360|<span class="rank-name-pd">YUKIO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90157?s_seq=90157">スリーエフ</a>|<a href="/darts/rank/福岡県/うきは市">福岡県うきは市</a>|
+|3|641|<span class="rank-name-pd">CHAN-T</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90157?s_seq=90157">スリーエフ</a>|<a href="/darts/rank/福岡県/うきは市">福岡県うきは市</a>|
+|4|604|<span class="rank-name-pd">0035_2867</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90157?s_seq=90157">スリーエフ</a>|<a href="/darts/rank/福岡県/うきは市">福岡県うきは市</a>|
+|5|554|<span class="rank-name-pd">MOMO1002</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90157?s_seq=90157">スリーエフ</a>|<a href="/darts/rank/福岡県/うきは市">福岡県うきは市</a>|
+|6|473|<span class="rank-name-pd">ゆん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90157?s_seq=90157">スリーエフ</a>|<a href="/darts/rank/福岡県/うきは市">福岡県うきは市</a>|
+|7|434|<span class="rank-name-pd">MAMIKO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90157?s_seq=90157">スリーエフ</a>|<a href="/darts/rank/福岡県/うきは市">福岡県うきは市</a>|
+|8|413|<span class="rank-name-pd">ひょす</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91206?s_seq=91206">fff</a>|<a href="/darts/rank/福岡県/うきは市">福岡県うきは市</a>|
+|9|360|<span class="rank-name-pd">YUKIO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90157?s_seq=90157">スリーエフ</a>|<a href="/darts/rank/福岡県/うきは市">福岡県うきは市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -51,11 +53,13 @@ ___
 |---|---|---|---|---|
 |1|880|<span class="rank-name-pd">秋ヒコσ(ﾟ∀ﾟ )</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90157?s_seq=90157">スリーエフ</a>|<a href="/darts/rank/福岡県/うきは市">福岡県うきは市</a>|
 |2|720|<span class="rank-name-pd">まぁ倉富2</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90157?s_seq=90157">スリーエフ</a>|<a href="/darts/rank/福岡県/うきは市">福岡県うきは市</a>|
-|3|604|<span class="rank-name-pd">0035_2867</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90157?s_seq=90157">スリーエフ</a>|<a href="/darts/rank/福岡県/うきは市">福岡県うきは市</a>|
-|4|554|<span class="rank-name-pd">MOMO1002</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90157?s_seq=90157">スリーエフ</a>|<a href="/darts/rank/福岡県/うきは市">福岡県うきは市</a>|
-|5|473|<span class="rank-name-pd">ゆん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90157?s_seq=90157">スリーエフ</a>|<a href="/darts/rank/福岡県/うきは市">福岡県うきは市</a>|
-|6|434|<span class="rank-name-pd">MAMIKO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90157?s_seq=90157">スリーエフ</a>|<a href="/darts/rank/福岡県/うきは市">福岡県うきは市</a>|
-|7|360|<span class="rank-name-pd">YUKIO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90157?s_seq=90157">スリーエフ</a>|<a href="/darts/rank/福岡県/うきは市">福岡県うきは市</a>|
+|3|641|<span class="rank-name-pd">CHAN-T</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90157?s_seq=90157">スリーエフ</a>|<a href="/darts/rank/福岡県/うきは市">福岡県うきは市</a>|
+|4|604|<span class="rank-name-pd">0035_2867</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90157?s_seq=90157">スリーエフ</a>|<a href="/darts/rank/福岡県/うきは市">福岡県うきは市</a>|
+|5|554|<span class="rank-name-pd">MOMO1002</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90157?s_seq=90157">スリーエフ</a>|<a href="/darts/rank/福岡県/うきは市">福岡県うきは市</a>|
+|6|473|<span class="rank-name-pd">ゆん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90157?s_seq=90157">スリーエフ</a>|<a href="/darts/rank/福岡県/うきは市">福岡県うきは市</a>|
+|7|434|<span class="rank-name-pd">MAMIKO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90157?s_seq=90157">スリーエフ</a>|<a href="/darts/rank/福岡県/うきは市">福岡県うきは市</a>|
+|8|413|<span class="rank-name-pd">ひょす</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91206?s_seq=91206">fff</a>|<a href="/darts/rank/福岡県/うきは市">福岡県うきは市</a>|
+|9|360|<span class="rank-name-pd">YUKIO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90157?s_seq=90157">スリーエフ</a>|<a href="/darts/rank/福岡県/うきは市">福岡県うきは市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

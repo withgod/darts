@@ -23,9 +23,10 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|718|<span class="rank-name-dl">NO NAME 0102</span>|<a href="https://search.dartslive.com/jp/shop/ae3281c196dc7b5f774c926eb736cb5a">カマタマーレ讃岐</a>|<a href="/darts/rank/香川県/三豊市">香川県三豊市</a>|
-|2|648|<span class="rank-name-dl">141chan✮星覇會</span>|<a href="https://search.dartslive.com/jp/shop/ae3281c196dc7b5f774c926eb736cb5a">カマタマーレ讃岐</a>|<a href="/darts/rank/香川県/三豊市">香川県三豊市</a>|
-|3|585|<span class="rank-name-dl">ミツイ カナ</span>|<a href="https://search.dartslive.com/jp/shop/ae3281c196dc7b5f774c926eb736cb5a">カマタマーレ讃岐</a>|<a href="/darts/rank/香川県/三豊市">香川県三豊市</a>|
+|1|746|<span class="rank-name-dl">三井 華奈</span>|<a href="https://search.dartslive.com/jp/shop/ae3281c196dc7b5f774c926eb736cb5a">カマタマーレ讃岐</a>|<a href="/darts/rank/香川県/三豊市">香川県三豊市</a>|
+|2|718|<span class="rank-name-dl">NO NAME 0102</span>|<a href="https://search.dartslive.com/jp/shop/ae3281c196dc7b5f774c926eb736cb5a">カマタマーレ讃岐</a>|<a href="/darts/rank/香川県/三豊市">香川県三豊市</a>|
+|3|648|<span class="rank-name-dl">141chan✮星覇會</span>|<a href="https://search.dartslive.com/jp/shop/ae3281c196dc7b5f774c926eb736cb5a">カマタマーレ讃岐</a>|<a href="/darts/rank/香川県/三豊市">香川県三豊市</a>|
+|4|585|<span class="rank-name-dl">ミツイ カナ</span>|<a href="https://search.dartslive.com/jp/shop/ae3281c196dc7b5f774c926eb736cb5a">カマタマーレ讃岐</a>|<a href="/darts/rank/香川県/三豊市">香川県三豊市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -35,9 +36,10 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|718|<span class="rank-name-dl">NO NAME 0102</span>|<a href="https://search.dartslive.com/jp/shop/ae3281c196dc7b5f774c926eb736cb5a">カマタマーレ讃岐</a>|<a href="/darts/rank/香川県/三豊市">香川県三豊市</a>|
-|2|648|<span class="rank-name-dl">141chan✮星覇會</span>|<a href="https://search.dartslive.com/jp/shop/ae3281c196dc7b5f774c926eb736cb5a">カマタマーレ讃岐</a>|<a href="/darts/rank/香川県/三豊市">香川県三豊市</a>|
-|3|585|<span class="rank-name-dl">ミツイ カナ</span>|<a href="https://search.dartslive.com/jp/shop/ae3281c196dc7b5f774c926eb736cb5a">カマタマーレ讃岐</a>|<a href="/darts/rank/香川県/三豊市">香川県三豊市</a>|
+|1|746|<span class="rank-name-dl">三井 華奈</span>|<a href="https://search.dartslive.com/jp/shop/ae3281c196dc7b5f774c926eb736cb5a">カマタマーレ讃岐</a>|<a href="/darts/rank/香川県/三豊市">香川県三豊市</a>|
+|2|718|<span class="rank-name-dl">NO NAME 0102</span>|<a href="https://search.dartslive.com/jp/shop/ae3281c196dc7b5f774c926eb736cb5a">カマタマーレ讃岐</a>|<a href="/darts/rank/香川県/三豊市">香川県三豊市</a>|
+|3|648|<span class="rank-name-dl">141chan✮星覇會</span>|<a href="https://search.dartslive.com/jp/shop/ae3281c196dc7b5f774c926eb736cb5a">カマタマーレ讃岐</a>|<a href="/darts/rank/香川県/三豊市">香川県三豊市</a>|
+|4|585|<span class="rank-name-dl">ミツイ カナ</span>|<a href="https://search.dartslive.com/jp/shop/ae3281c196dc7b5f774c926eb736cb5a">カマタマーレ讃岐</a>|<a href="/darts/rank/香川県/三豊市">香川県三豊市</a>|
 
 
 #### PHOENIXDARTS TOP 100

@@ -25,18 +25,25 @@ ___
 |---|---|---|---|---|
 |1|909|<span class="rank-name-pd"><span class="pro-icon-pd"></span>小林 拓巳</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
 |2|855|<span class="rank-name-pd">てつ兄【ｺｼｬﾗ】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
-|3|743|<span class="rank-name-pd">小林 尚人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
-|4|742|<span class="rank-name-pd">G@C-key[33s]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
-|5|538|<span class="rank-name-pd">UKIHIRO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
-|6|516|<span class="rank-name-pd">MAS@HUM</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
-|7|459|<span class="rank-name-pd">ミツ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
-|8|456|<span class="rank-name-pd">キュアぶちキュアぞう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
-|9|445|<span class="rank-name-pd">KOYO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
-|10|433|<span class="rank-name-pd">☆ayano☆【ｺｼｬﾗ】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
-|11|370|<span class="rank-name-pd">MURAMASA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
-|12|354|<span class="rank-name-pd">MIYA3854</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
-|13|325|<span class="rank-name-pd">ふくえい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
-|14|258|<span class="rank-name-pd">MI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
+|3|809|<span class="rank-name-pd">てつ兄</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
+|4|743|<span class="rank-name-pd">小林 尚人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
+|5|742|<span class="rank-name-pd">G@C-key[33s]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
+|6|726|<span class="rank-name-pd">コシャラ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
+|7|541|<span class="rank-name-pd">猫うさ^._.^</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
+|8|538|<span class="rank-name-pd">UKIHIRO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
+|9|516|<span class="rank-name-pd">MAS@HUM</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
+|10|500|<span class="rank-name-pd">ふくえい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
+|11|468|<span class="rank-name-pd">☆ayano☆【ｺｼｬﾗ】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
+|12|466|<span class="rank-name-pd">じゅんちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
+|13|459|<span class="rank-name-pd">ミツ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
+|14|456|<span class="rank-name-pd">キュアぶちキュアぞう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
+|15|454|<span class="rank-name-pd">IORI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
+|16|451|<span class="rank-name-pd">K</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
+|17|445|<span class="rank-name-pd">KOYO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
+|18|397|<span class="rank-name-pd">KOTO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
+|19|370|<span class="rank-name-pd">MURAMASA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
+|20|354|<span class="rank-name-pd">MIYA3854</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
+|21|258|<span class="rank-name-pd">MI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -58,18 +65,25 @@ ___
 |---|---|---|---|---|
 |1|909|<span class="rank-name-pd"><span class="pro-icon-pd"></span>小林 拓巳</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
 |2|855|<span class="rank-name-pd">てつ兄【ｺｼｬﾗ】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
-|3|743|<span class="rank-name-pd">小林 尚人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
-|4|742|<span class="rank-name-pd">G@C-key[33s]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
-|5|538|<span class="rank-name-pd">UKIHIRO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
-|6|516|<span class="rank-name-pd">MAS@HUM</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
-|7|459|<span class="rank-name-pd">ミツ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
-|8|456|<span class="rank-name-pd">キュアぶちキュアぞう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
-|9|445|<span class="rank-name-pd">KOYO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
-|10|433|<span class="rank-name-pd">☆ayano☆【ｺｼｬﾗ】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
-|11|370|<span class="rank-name-pd">MURAMASA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
-|12|354|<span class="rank-name-pd">MIYA3854</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
-|13|325|<span class="rank-name-pd">ふくえい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
-|14|258|<span class="rank-name-pd">MI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
+|3|809|<span class="rank-name-pd">てつ兄</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
+|4|743|<span class="rank-name-pd">小林 尚人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
+|5|742|<span class="rank-name-pd">G@C-key[33s]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
+|6|726|<span class="rank-name-pd">コシャラ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
+|7|541|<span class="rank-name-pd">猫うさ^._.^</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
+|8|538|<span class="rank-name-pd">UKIHIRO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
+|9|516|<span class="rank-name-pd">MAS@HUM</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
+|10|500|<span class="rank-name-pd">ふくえい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
+|11|468|<span class="rank-name-pd">☆ayano☆【ｺｼｬﾗ】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
+|12|466|<span class="rank-name-pd">じゅんちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
+|13|459|<span class="rank-name-pd">ミツ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
+|14|456|<span class="rank-name-pd">キュアぶちキュアぞう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
+|15|454|<span class="rank-name-pd">IORI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
+|16|451|<span class="rank-name-pd">K</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
+|17|445|<span class="rank-name-pd">KOYO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
+|18|397|<span class="rank-name-pd">KOTO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
+|19|370|<span class="rank-name-pd">MURAMASA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
+|20|354|<span class="rank-name-pd">MIYA3854</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
+|21|258|<span class="rank-name-pd">MI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87322?s_seq=87322">コシャラシャント</a>|<a href="/darts/rank/岐阜県/高山市">岐阜県高山市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

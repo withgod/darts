@@ -23,11 +23,12 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|692|<span class="rank-name-pd">Shin@L.B Maple</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89061?s_seq=89061">Lounge Bar Maple</a>|<a href="/darts/rank/京都府/長岡京市">京都府長岡京市</a>|
-|2|568|<span class="rank-name-pd">kou</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89061?s_seq=89061">Lounge Bar Maple</a>|<a href="/darts/rank/京都府/長岡京市">京都府長岡京市</a>|
-|3|513|<span class="rank-name-pd">sou</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89061?s_seq=89061">Lounge Bar Maple</a>|<a href="/darts/rank/京都府/長岡京市">京都府長岡京市</a>|
-|4|333|<span class="rank-name-pd">hiromasa1209</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89061?s_seq=89061">Lounge Bar Maple</a>|<a href="/darts/rank/京都府/長岡京市">京都府長岡京市</a>|
-|5|221|<span class="rank-name-pd">SOSHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89061?s_seq=89061">Lounge Bar Maple</a>|<a href="/darts/rank/京都府/長岡京市">京都府長岡京市</a>|
+|1|811|<span class="rank-name-pd">WATARU@KYOTO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89061?s_seq=89061">Lounge Bar Maple</a>|<a href="/darts/rank/京都府/長岡京市">京都府長岡京市</a>|
+|2|692|<span class="rank-name-pd">Shin@L.B Maple</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89061?s_seq=89061">Lounge Bar Maple</a>|<a href="/darts/rank/京都府/長岡京市">京都府長岡京市</a>|
+|3|568|<span class="rank-name-pd">kou</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89061?s_seq=89061">Lounge Bar Maple</a>|<a href="/darts/rank/京都府/長岡京市">京都府長岡京市</a>|
+|4|513|<span class="rank-name-pd">sou</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89061?s_seq=89061">Lounge Bar Maple</a>|<a href="/darts/rank/京都府/長岡京市">京都府長岡京市</a>|
+|5|333|<span class="rank-name-pd">hiromasa1209</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89061?s_seq=89061">Lounge Bar Maple</a>|<a href="/darts/rank/京都府/長岡京市">京都府長岡京市</a>|
+|6|221|<span class="rank-name-pd">SOSHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89061?s_seq=89061">Lounge Bar Maple</a>|<a href="/darts/rank/京都府/長岡京市">京都府長岡京市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -47,11 +48,12 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|692|<span class="rank-name-pd">Shin@L.B Maple</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89061?s_seq=89061">Lounge Bar Maple</a>|<a href="/darts/rank/京都府/長岡京市">京都府長岡京市</a>|
-|2|568|<span class="rank-name-pd">kou</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89061?s_seq=89061">Lounge Bar Maple</a>|<a href="/darts/rank/京都府/長岡京市">京都府長岡京市</a>|
-|3|513|<span class="rank-name-pd">sou</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89061?s_seq=89061">Lounge Bar Maple</a>|<a href="/darts/rank/京都府/長岡京市">京都府長岡京市</a>|
-|4|333|<span class="rank-name-pd">hiromasa1209</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89061?s_seq=89061">Lounge Bar Maple</a>|<a href="/darts/rank/京都府/長岡京市">京都府長岡京市</a>|
-|5|221|<span class="rank-name-pd">SOSHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89061?s_seq=89061">Lounge Bar Maple</a>|<a href="/darts/rank/京都府/長岡京市">京都府長岡京市</a>|
+|1|811|<span class="rank-name-pd">WATARU@KYOTO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89061?s_seq=89061">Lounge Bar Maple</a>|<a href="/darts/rank/京都府/長岡京市">京都府長岡京市</a>|
+|2|692|<span class="rank-name-pd">Shin@L.B Maple</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89061?s_seq=89061">Lounge Bar Maple</a>|<a href="/darts/rank/京都府/長岡京市">京都府長岡京市</a>|
+|3|568|<span class="rank-name-pd">kou</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89061?s_seq=89061">Lounge Bar Maple</a>|<a href="/darts/rank/京都府/長岡京市">京都府長岡京市</a>|
+|4|513|<span class="rank-name-pd">sou</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89061?s_seq=89061">Lounge Bar Maple</a>|<a href="/darts/rank/京都府/長岡京市">京都府長岡京市</a>|
+|5|333|<span class="rank-name-pd">hiromasa1209</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89061?s_seq=89061">Lounge Bar Maple</a>|<a href="/darts/rank/京都府/長岡京市">京都府長岡京市</a>|
+|6|221|<span class="rank-name-pd">SOSHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89061?s_seq=89061">Lounge Bar Maple</a>|<a href="/darts/rank/京都府/長岡京市">京都府長岡京市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

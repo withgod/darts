@@ -23,15 +23,20 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|754|<span class="rank-name-pd">海　龍【RMS】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87857?s_seq=87857">M Dolly</a>|<a href="/darts/rank/鹿児島県/大島郡">鹿児島県大島郡</a>|
-|2|701|<span class="rank-name-pd">山下は初心者です。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87857?s_seq=87857">M Dolly</a>|<a href="/darts/rank/鹿児島県/大島郡">鹿児島県大島郡</a>|
-|3|625|<span class="rank-name-pd">やなな</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87857?s_seq=87857">M Dolly</a>|<a href="/darts/rank/鹿児島県/大島郡">鹿児島県大島郡</a>|
-|4|618|<span class="rank-name-pd">タンスにゴンゴン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87857?s_seq=87857">M Dolly</a>|<a href="/darts/rank/鹿児島県/大島郡">鹿児島県大島郡</a>|
-|5|539|<span class="rank-name-pd">Midori</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87857?s_seq=87857">M Dolly</a>|<a href="/darts/rank/鹿児島県/大島郡">鹿児島県大島郡</a>|
-|6|531|<span class="rank-name-pd">SEA DRAGON 【RMS】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87857?s_seq=87857">M Dolly</a>|<a href="/darts/rank/鹿児島県/大島郡">鹿児島県大島郡</a>|
-|7|476|<span class="rank-name-pd">FUZIMORI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87857?s_seq=87857">M Dolly</a>|<a href="/darts/rank/鹿児島県/大島郡">鹿児島県大島郡</a>|
-|8|277|<span class="rank-name-pd">GURA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87857?s_seq=87857">M Dolly</a>|<a href="/darts/rank/鹿児島県/大島郡">鹿児島県大島郡</a>|
-|9|261|<span class="rank-name-pd">VNrei</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87857?s_seq=87857">M Dolly</a>|<a href="/darts/rank/鹿児島県/大島郡">鹿児島県大島郡</a>|
+|1|818|<span class="rank-name-pd">海　龍【RMS】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87857?s_seq=87857">M Dolly</a>|<a href="/darts/rank/鹿児島県/大島郡">鹿児島県大島郡</a>|
+|2|724|<span class="rank-name-pd">ばやし【L&amp;P】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87857?s_seq=87857">M Dolly</a>|<a href="/darts/rank/鹿児島県/大島郡">鹿児島県大島郡</a>|
+|3|722|<span class="rank-name-pd">ふみや</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87857?s_seq=87857">M Dolly</a>|<a href="/darts/rank/鹿児島県/大島郡">鹿児島県大島郡</a>|
+|4|701|<span class="rank-name-pd">山下は初心者です。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87857?s_seq=87857">M Dolly</a>|<a href="/darts/rank/鹿児島県/大島郡">鹿児島県大島郡</a>|
+|5|673|<span class="rank-name-pd">山下、車欲しい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87857?s_seq=87857">M Dolly</a>|<a href="/darts/rank/鹿児島県/大島郡">鹿児島県大島郡</a>|
+|6|625|<span class="rank-name-pd">やなな</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87857?s_seq=87857">M Dolly</a>|<a href="/darts/rank/鹿児島県/大島郡">鹿児島県大島郡</a>|
+|7|618|<span class="rank-name-pd">タンスにゴンゴン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87857?s_seq=87857">M Dolly</a>|<a href="/darts/rank/鹿児島県/大島郡">鹿児島県大島郡</a>|
+|8|572|<span class="rank-name-pd">Midori</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87857?s_seq=87857">M Dolly</a>|<a href="/darts/rank/鹿児島県/大島郡">鹿児島県大島郡</a>|
+|9|565|<span class="rank-name-pd">なつお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87857?s_seq=87857">M Dolly</a>|<a href="/darts/rank/鹿児島県/大島郡">鹿児島県大島郡</a>|
+|10|531|<span class="rank-name-pd">SEA DRAGON 【RMS】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87857?s_seq=87857">M Dolly</a>|<a href="/darts/rank/鹿児島県/大島郡">鹿児島県大島郡</a>|
+|11|476|<span class="rank-name-pd">FUZIMORI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87857?s_seq=87857">M Dolly</a>|<a href="/darts/rank/鹿児島県/大島郡">鹿児島県大島郡</a>|
+|12|414|<span class="rank-name-pd">GURA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87857?s_seq=87857">M Dolly</a>|<a href="/darts/rank/鹿児島県/大島郡">鹿児島県大島郡</a>|
+|13|350|<span class="rank-name-pd">奮い立つ乳B</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87857?s_seq=87857">M Dolly</a>|<a href="/darts/rank/鹿児島県/大島郡">鹿児島県大島郡</a>|
+|14|261|<span class="rank-name-pd">VNrei</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87857?s_seq=87857">M Dolly</a>|<a href="/darts/rank/鹿児島県/大島郡">鹿児島県大島郡</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -51,15 +56,20 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|754|<span class="rank-name-pd">海　龍【RMS】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87857?s_seq=87857">M Dolly</a>|<a href="/darts/rank/鹿児島県/大島郡">鹿児島県大島郡</a>|
-|2|701|<span class="rank-name-pd">山下は初心者です。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87857?s_seq=87857">M Dolly</a>|<a href="/darts/rank/鹿児島県/大島郡">鹿児島県大島郡</a>|
-|3|625|<span class="rank-name-pd">やなな</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87857?s_seq=87857">M Dolly</a>|<a href="/darts/rank/鹿児島県/大島郡">鹿児島県大島郡</a>|
-|4|618|<span class="rank-name-pd">タンスにゴンゴン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87857?s_seq=87857">M Dolly</a>|<a href="/darts/rank/鹿児島県/大島郡">鹿児島県大島郡</a>|
-|5|539|<span class="rank-name-pd">Midori</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87857?s_seq=87857">M Dolly</a>|<a href="/darts/rank/鹿児島県/大島郡">鹿児島県大島郡</a>|
-|6|531|<span class="rank-name-pd">SEA DRAGON 【RMS】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87857?s_seq=87857">M Dolly</a>|<a href="/darts/rank/鹿児島県/大島郡">鹿児島県大島郡</a>|
-|7|476|<span class="rank-name-pd">FUZIMORI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87857?s_seq=87857">M Dolly</a>|<a href="/darts/rank/鹿児島県/大島郡">鹿児島県大島郡</a>|
-|8|277|<span class="rank-name-pd">GURA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87857?s_seq=87857">M Dolly</a>|<a href="/darts/rank/鹿児島県/大島郡">鹿児島県大島郡</a>|
-|9|261|<span class="rank-name-pd">VNrei</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87857?s_seq=87857">M Dolly</a>|<a href="/darts/rank/鹿児島県/大島郡">鹿児島県大島郡</a>|
+|1|818|<span class="rank-name-pd">海　龍【RMS】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87857?s_seq=87857">M Dolly</a>|<a href="/darts/rank/鹿児島県/大島郡">鹿児島県大島郡</a>|
+|2|724|<span class="rank-name-pd">ばやし【L&amp;P】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87857?s_seq=87857">M Dolly</a>|<a href="/darts/rank/鹿児島県/大島郡">鹿児島県大島郡</a>|
+|3|722|<span class="rank-name-pd">ふみや</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87857?s_seq=87857">M Dolly</a>|<a href="/darts/rank/鹿児島県/大島郡">鹿児島県大島郡</a>|
+|4|701|<span class="rank-name-pd">山下は初心者です。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87857?s_seq=87857">M Dolly</a>|<a href="/darts/rank/鹿児島県/大島郡">鹿児島県大島郡</a>|
+|5|673|<span class="rank-name-pd">山下、車欲しい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87857?s_seq=87857">M Dolly</a>|<a href="/darts/rank/鹿児島県/大島郡">鹿児島県大島郡</a>|
+|6|625|<span class="rank-name-pd">やなな</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87857?s_seq=87857">M Dolly</a>|<a href="/darts/rank/鹿児島県/大島郡">鹿児島県大島郡</a>|
+|7|618|<span class="rank-name-pd">タンスにゴンゴン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87857?s_seq=87857">M Dolly</a>|<a href="/darts/rank/鹿児島県/大島郡">鹿児島県大島郡</a>|
+|8|572|<span class="rank-name-pd">Midori</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87857?s_seq=87857">M Dolly</a>|<a href="/darts/rank/鹿児島県/大島郡">鹿児島県大島郡</a>|
+|9|565|<span class="rank-name-pd">なつお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87857?s_seq=87857">M Dolly</a>|<a href="/darts/rank/鹿児島県/大島郡">鹿児島県大島郡</a>|
+|10|531|<span class="rank-name-pd">SEA DRAGON 【RMS】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87857?s_seq=87857">M Dolly</a>|<a href="/darts/rank/鹿児島県/大島郡">鹿児島県大島郡</a>|
+|11|476|<span class="rank-name-pd">FUZIMORI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87857?s_seq=87857">M Dolly</a>|<a href="/darts/rank/鹿児島県/大島郡">鹿児島県大島郡</a>|
+|12|414|<span class="rank-name-pd">GURA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87857?s_seq=87857">M Dolly</a>|<a href="/darts/rank/鹿児島県/大島郡">鹿児島県大島郡</a>|
+|13|350|<span class="rank-name-pd">奮い立つ乳B</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87857?s_seq=87857">M Dolly</a>|<a href="/darts/rank/鹿児島県/大島郡">鹿児島県大島郡</a>|
+|14|261|<span class="rank-name-pd">VNrei</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87857?s_seq=87857">M Dolly</a>|<a href="/darts/rank/鹿児島県/大島郡">鹿児島県大島郡</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

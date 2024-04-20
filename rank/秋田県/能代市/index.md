@@ -30,15 +30,27 @@ ___
 |5|767|<span class="rank-name-dl">こたこた</span>|<a href="https://search.dartslive.com/jp/shop/88188327f85b49c90d9b047a20a7ba1e">A.Q.A. 能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
 |6|734|<span class="rank-name-dl">りん</span>|<a href="https://search.dartslive.com/jp/shop/88188327f85b49c90d9b047a20a7ba1e">A.Q.A. 能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
 |7|721|<span class="rank-name-dl">みどり</span>|<a href="https://search.dartslive.com/jp/shop/88188327f85b49c90d9b047a20a7ba1e">A.Q.A. 能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
-|8|661|<span class="rank-name-dl">りゅ〜のすけです</span>|<a href="https://search.dartslive.com/jp/shop/88188327f85b49c90d9b047a20a7ba1e">A.Q.A. 能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
-|9|643|<span class="rank-name-dl">や</span>|<a href="https://search.dartslive.com/jp/shop/88188327f85b49c90d9b047a20a7ba1e">A.Q.A. 能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
-|10|614|<span class="rank-name-dl">しょやくん</span>|<a href="https://search.dartslive.com/jp/shop/88188327f85b49c90d9b047a20a7ba1e">A.Q.A. 能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
-|11|593|<span class="rank-name-dl">MARK OUT</span>|<a href="https://search.dartslive.com/jp/shop/88188327f85b49c90d9b047a20a7ba1e">A.Q.A. 能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
-|12|455|<span class="rank-name-dl">しょーちゃを</span>|<a href="https://search.dartslive.com/jp/shop/88188327f85b49c90d9b047a20a7ba1e">A.Q.A. 能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
-|13|445|<span class="rank-name-dl">NO NAME 5703</span>|<a href="https://search.dartslive.com/jp/shop/88188327f85b49c90d9b047a20a7ba1e">A.Q.A. 能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
-|14|407|<span class="rank-name-pd">z39v37e865b8ab</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10255?s_seq=10255">A.Q.A能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
-|15|401|<span class="rank-name-dl">どす恋</span>|<a href="https://search.dartslive.com/jp/shop/88188327f85b49c90d9b047a20a7ba1e">A.Q.A. 能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
-|16|311|<span class="rank-name-dl">いのまい</span>|<a href="https://search.dartslive.com/jp/shop/88188327f85b49c90d9b047a20a7ba1e">A.Q.A. 能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
+|8|690|<span class="rank-name-dl">litssk</span>|<a href="https://search.dartslive.com/jp/shop/88188327f85b49c90d9b047a20a7ba1e">A.Q.A. 能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
+|9|669|<span class="rank-name-dl">はるく</span>|<a href="https://search.dartslive.com/jp/shop/88188327f85b49c90d9b047a20a7ba1e">A.Q.A. 能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
+|10|661|<span class="rank-name-dl">りゅ〜のすけです</span>|<a href="https://search.dartslive.com/jp/shop/88188327f85b49c90d9b047a20a7ba1e">A.Q.A. 能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
+|11|643|<span class="rank-name-dl">や</span>|<a href="https://search.dartslive.com/jp/shop/88188327f85b49c90d9b047a20a7ba1e">A.Q.A. 能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
+|12|624|<span class="rank-name-dl">SHERMiE</span>|<a href="https://search.dartslive.com/jp/shop/88188327f85b49c90d9b047a20a7ba1e">A.Q.A. 能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
+|13|620|<span class="rank-name-dl">しょやくん</span>|<a href="https://search.dartslive.com/jp/shop/88188327f85b49c90d9b047a20a7ba1e">A.Q.A. 能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
+|14|600|<span class="rank-name-dl">おまつ</span>|<a href="https://search.dartslive.com/jp/shop/88188327f85b49c90d9b047a20a7ba1e">A.Q.A. 能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
+|15|593|<span class="rank-name-dl">MARK OUT</span>|<a href="https://search.dartslive.com/jp/shop/88188327f85b49c90d9b047a20a7ba1e">A.Q.A. 能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
+|16|549|<span class="rank-name-dl">いおり</span>|<a href="https://search.dartslive.com/jp/shop/88188327f85b49c90d9b047a20a7ba1e">A.Q.A. 能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
+|17|540|<span class="rank-name-dl">サブ</span>|<a href="https://search.dartslive.com/jp/shop/88188327f85b49c90d9b047a20a7ba1e">A.Q.A. 能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
+|18|532|<span class="rank-name-pd">サブ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10255?s_seq=10255">A.Q.A能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
+|19|506|<span class="rank-name-dl">いのまい</span>|<a href="https://search.dartslive.com/jp/shop/88188327f85b49c90d9b047a20a7ba1e">A.Q.A. 能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
+|20|497|<span class="rank-name-dl">みきゆ</span>|<a href="https://search.dartslive.com/jp/shop/88188327f85b49c90d9b047a20a7ba1e">A.Q.A. 能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
+|21|455|<span class="rank-name-dl">しょーちゃを</span>|<a href="https://search.dartslive.com/jp/shop/88188327f85b49c90d9b047a20a7ba1e">A.Q.A. 能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
+|22|452|<span class="rank-name-dl">にょっき</span>|<a href="https://search.dartslive.com/jp/shop/88188327f85b49c90d9b047a20a7ba1e">A.Q.A. 能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
+|23|445|<span class="rank-name-dl">NO NAME 5703</span>|<a href="https://search.dartslive.com/jp/shop/88188327f85b49c90d9b047a20a7ba1e">A.Q.A. 能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
+|24|407|<span class="rank-name-pd">z39v37e865b8ab</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10255?s_seq=10255">A.Q.A能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
+|25|401|<span class="rank-name-dl">どす恋</span>|<a href="https://search.dartslive.com/jp/shop/88188327f85b49c90d9b047a20a7ba1e">A.Q.A. 能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
+|26|365|<span class="rank-name-pd">んだびょん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10255?s_seq=10255">A.Q.A能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
+|27|329|<span class="rank-name-pd">zutg37f33f67d1</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10255?s_seq=10255">A.Q.A能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
+|28|300|<span class="rank-name-pd">カモメ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10255?s_seq=10255">A.Q.A能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -55,14 +67,22 @@ ___
 |5|767|<span class="rank-name-dl">こたこた</span>|<a href="https://search.dartslive.com/jp/shop/88188327f85b49c90d9b047a20a7ba1e">A.Q.A. 能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
 |6|734|<span class="rank-name-dl">りん</span>|<a href="https://search.dartslive.com/jp/shop/88188327f85b49c90d9b047a20a7ba1e">A.Q.A. 能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
 |7|721|<span class="rank-name-dl">みどり</span>|<a href="https://search.dartslive.com/jp/shop/88188327f85b49c90d9b047a20a7ba1e">A.Q.A. 能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
-|8|661|<span class="rank-name-dl">りゅ〜のすけです</span>|<a href="https://search.dartslive.com/jp/shop/88188327f85b49c90d9b047a20a7ba1e">A.Q.A. 能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
-|9|643|<span class="rank-name-dl">や</span>|<a href="https://search.dartslive.com/jp/shop/88188327f85b49c90d9b047a20a7ba1e">A.Q.A. 能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
-|10|614|<span class="rank-name-dl">しょやくん</span>|<a href="https://search.dartslive.com/jp/shop/88188327f85b49c90d9b047a20a7ba1e">A.Q.A. 能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
-|11|593|<span class="rank-name-dl">MARK OUT</span>|<a href="https://search.dartslive.com/jp/shop/88188327f85b49c90d9b047a20a7ba1e">A.Q.A. 能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
-|12|455|<span class="rank-name-dl">しょーちゃを</span>|<a href="https://search.dartslive.com/jp/shop/88188327f85b49c90d9b047a20a7ba1e">A.Q.A. 能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
-|13|445|<span class="rank-name-dl">NO NAME 5703</span>|<a href="https://search.dartslive.com/jp/shop/88188327f85b49c90d9b047a20a7ba1e">A.Q.A. 能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
-|14|401|<span class="rank-name-dl">どす恋</span>|<a href="https://search.dartslive.com/jp/shop/88188327f85b49c90d9b047a20a7ba1e">A.Q.A. 能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
-|15|311|<span class="rank-name-dl">いのまい</span>|<a href="https://search.dartslive.com/jp/shop/88188327f85b49c90d9b047a20a7ba1e">A.Q.A. 能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
+|8|690|<span class="rank-name-dl">litssk</span>|<a href="https://search.dartslive.com/jp/shop/88188327f85b49c90d9b047a20a7ba1e">A.Q.A. 能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
+|9|669|<span class="rank-name-dl">はるく</span>|<a href="https://search.dartslive.com/jp/shop/88188327f85b49c90d9b047a20a7ba1e">A.Q.A. 能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
+|10|661|<span class="rank-name-dl">りゅ〜のすけです</span>|<a href="https://search.dartslive.com/jp/shop/88188327f85b49c90d9b047a20a7ba1e">A.Q.A. 能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
+|11|643|<span class="rank-name-dl">や</span>|<a href="https://search.dartslive.com/jp/shop/88188327f85b49c90d9b047a20a7ba1e">A.Q.A. 能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
+|12|624|<span class="rank-name-dl">SHERMiE</span>|<a href="https://search.dartslive.com/jp/shop/88188327f85b49c90d9b047a20a7ba1e">A.Q.A. 能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
+|13|620|<span class="rank-name-dl">しょやくん</span>|<a href="https://search.dartslive.com/jp/shop/88188327f85b49c90d9b047a20a7ba1e">A.Q.A. 能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
+|14|600|<span class="rank-name-dl">おまつ</span>|<a href="https://search.dartslive.com/jp/shop/88188327f85b49c90d9b047a20a7ba1e">A.Q.A. 能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
+|15|593|<span class="rank-name-dl">MARK OUT</span>|<a href="https://search.dartslive.com/jp/shop/88188327f85b49c90d9b047a20a7ba1e">A.Q.A. 能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
+|16|549|<span class="rank-name-dl">いおり</span>|<a href="https://search.dartslive.com/jp/shop/88188327f85b49c90d9b047a20a7ba1e">A.Q.A. 能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
+|17|540|<span class="rank-name-dl">サブ</span>|<a href="https://search.dartslive.com/jp/shop/88188327f85b49c90d9b047a20a7ba1e">A.Q.A. 能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
+|18|506|<span class="rank-name-dl">いのまい</span>|<a href="https://search.dartslive.com/jp/shop/88188327f85b49c90d9b047a20a7ba1e">A.Q.A. 能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
+|19|497|<span class="rank-name-dl">みきゆ</span>|<a href="https://search.dartslive.com/jp/shop/88188327f85b49c90d9b047a20a7ba1e">A.Q.A. 能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
+|20|455|<span class="rank-name-dl">しょーちゃを</span>|<a href="https://search.dartslive.com/jp/shop/88188327f85b49c90d9b047a20a7ba1e">A.Q.A. 能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
+|21|452|<span class="rank-name-dl">にょっき</span>|<a href="https://search.dartslive.com/jp/shop/88188327f85b49c90d9b047a20a7ba1e">A.Q.A. 能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
+|22|445|<span class="rank-name-dl">NO NAME 5703</span>|<a href="https://search.dartslive.com/jp/shop/88188327f85b49c90d9b047a20a7ba1e">A.Q.A. 能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
+|23|401|<span class="rank-name-dl">どす恋</span>|<a href="https://search.dartslive.com/jp/shop/88188327f85b49c90d9b047a20a7ba1e">A.Q.A. 能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
 
 
 #### PHOENIXDARTS TOP 100
@@ -72,7 +92,11 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|407|<span class="rank-name-pd">z39v37e865b8ab</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10255?s_seq=10255">A.Q.A能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
+|1|532|<span class="rank-name-pd">サブ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10255?s_seq=10255">A.Q.A能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
+|2|407|<span class="rank-name-pd">z39v37e865b8ab</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10255?s_seq=10255">A.Q.A能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
+|3|365|<span class="rank-name-pd">んだびょん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10255?s_seq=10255">A.Q.A能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
+|4|329|<span class="rank-name-pd">zutg37f33f67d1</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10255?s_seq=10255">A.Q.A能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
+|5|300|<span class="rank-name-pd">カモメ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10255?s_seq=10255">A.Q.A能代店</a>|<a href="/darts/rank/秋田県/能代市">秋田県能代市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

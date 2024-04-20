@@ -23,11 +23,18 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|905|<span class="rank-name-dl">まい(´Д⊂ｸRun</span>|<a href="https://search.dartslive.com/jp/shop/efeb0cf905b031a25f9f3321c1147265">鳥鍵</a>|<a href="/darts/rank/長野県/木曽郡">長野県木曽郡</a>|
-|2|548|<span class="rank-name-dl">左を押して下さい</span>|<a href="https://search.dartslive.com/jp/shop/efeb0cf905b031a25f9f3321c1147265">鳥鍵</a>|<a href="/darts/rank/長野県/木曽郡">長野県木曽郡</a>|
-|3|474|<span class="rank-name-dl">cait</span>|<a href="https://search.dartslive.com/jp/shop/efeb0cf905b031a25f9f3321c1147265">鳥鍵</a>|<a href="/darts/rank/長野県/木曽郡">長野県木曽郡</a>|
-|4|451|<span class="rank-name-dl">デキンちゃん</span>|<a href="https://search.dartslive.com/jp/shop/efeb0cf905b031a25f9f3321c1147265">鳥鍵</a>|<a href="/darts/rank/長野県/木曽郡">長野県木曽郡</a>|
-|5|342|<span class="rank-name-dl">おとうふ@ネギ</span>|<a href="https://search.dartslive.com/jp/shop/efeb0cf905b031a25f9f3321c1147265">鳥鍵</a>|<a href="/darts/rank/長野県/木曽郡">長野県木曽郡</a>|
+|1|1021|<span class="rank-name-dl">Mac</span>|<a href="https://search.dartslive.com/jp/shop/efeb0cf905b031a25f9f3321c1147265">鳥鍵</a>|<a href="/darts/rank/長野県/木曽郡">長野県木曽郡</a>|
+|2|905|<span class="rank-name-dl">まい(´Д⊂ｸRun</span>|<a href="https://search.dartslive.com/jp/shop/efeb0cf905b031a25f9f3321c1147265">鳥鍵</a>|<a href="/darts/rank/長野県/木曽郡">長野県木曽郡</a>|
+|3|800|<span class="rank-name-dl">Shohei@Run</span>|<a href="https://search.dartslive.com/jp/shop/efeb0cf905b031a25f9f3321c1147265">鳥鍵</a>|<a href="/darts/rank/長野県/木曽郡">長野県木曽郡</a>|
+|4|798|<span class="rank-name-dl">しげ@Run</span>|<a href="https://search.dartslive.com/jp/shop/efeb0cf905b031a25f9f3321c1147265">鳥鍵</a>|<a href="/darts/rank/長野県/木曽郡">長野県木曽郡</a>|
+|5|721|<span class="rank-name-dl">おとうふ@ネギ</span>|<a href="https://search.dartslive.com/jp/shop/efeb0cf905b031a25f9f3321c1147265">鳥鍵</a>|<a href="/darts/rank/長野県/木曽郡">長野県木曽郡</a>|
+|6|716|<span class="rank-name-dl">リン</span>|<a href="https://search.dartslive.com/jp/shop/efeb0cf905b031a25f9f3321c1147265">鳥鍵</a>|<a href="/darts/rank/長野県/木曽郡">長野県木曽郡</a>|
+|7|702|<span class="rank-name-dl">かずとし</span>|<a href="https://search.dartslive.com/jp/shop/efeb0cf905b031a25f9f3321c1147265">鳥鍵</a>|<a href="/darts/rank/長野県/木曽郡">長野県木曽郡</a>|
+|8|548|<span class="rank-name-dl">左を押して下さい</span>|<a href="https://search.dartslive.com/jp/shop/efeb0cf905b031a25f9f3321c1147265">鳥鍵</a>|<a href="/darts/rank/長野県/木曽郡">長野県木曽郡</a>|
+|9|474|<span class="rank-name-dl">cait</span>|<a href="https://search.dartslive.com/jp/shop/efeb0cf905b031a25f9f3321c1147265">鳥鍵</a>|<a href="/darts/rank/長野県/木曽郡">長野県木曽郡</a>|
+|10|460|<span class="rank-name-dl">デキンちゃん</span>|<a href="https://search.dartslive.com/jp/shop/efeb0cf905b031a25f9f3321c1147265">鳥鍵</a>|<a href="/darts/rank/長野県/木曽郡">長野県木曽郡</a>|
+|11|457|<span class="rank-name-dl">hamilton</span>|<a href="https://search.dartslive.com/jp/shop/efeb0cf905b031a25f9f3321c1147265">鳥鍵</a>|<a href="/darts/rank/長野県/木曽郡">長野県木曽郡</a>|
+|12|426|<span class="rank-name-dl">三ツ矢サイダー</span>|<a href="https://search.dartslive.com/jp/shop/efeb0cf905b031a25f9f3321c1147265">鳥鍵</a>|<a href="/darts/rank/長野県/木曽郡">長野県木曽郡</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -37,11 +44,18 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|905|<span class="rank-name-dl">まい(´Д⊂ｸRun</span>|<a href="https://search.dartslive.com/jp/shop/efeb0cf905b031a25f9f3321c1147265">鳥鍵</a>|<a href="/darts/rank/長野県/木曽郡">長野県木曽郡</a>|
-|2|548|<span class="rank-name-dl">左を押して下さい</span>|<a href="https://search.dartslive.com/jp/shop/efeb0cf905b031a25f9f3321c1147265">鳥鍵</a>|<a href="/darts/rank/長野県/木曽郡">長野県木曽郡</a>|
-|3|474|<span class="rank-name-dl">cait</span>|<a href="https://search.dartslive.com/jp/shop/efeb0cf905b031a25f9f3321c1147265">鳥鍵</a>|<a href="/darts/rank/長野県/木曽郡">長野県木曽郡</a>|
-|4|451|<span class="rank-name-dl">デキンちゃん</span>|<a href="https://search.dartslive.com/jp/shop/efeb0cf905b031a25f9f3321c1147265">鳥鍵</a>|<a href="/darts/rank/長野県/木曽郡">長野県木曽郡</a>|
-|5|342|<span class="rank-name-dl">おとうふ@ネギ</span>|<a href="https://search.dartslive.com/jp/shop/efeb0cf905b031a25f9f3321c1147265">鳥鍵</a>|<a href="/darts/rank/長野県/木曽郡">長野県木曽郡</a>|
+|1|1021|<span class="rank-name-dl">Mac</span>|<a href="https://search.dartslive.com/jp/shop/efeb0cf905b031a25f9f3321c1147265">鳥鍵</a>|<a href="/darts/rank/長野県/木曽郡">長野県木曽郡</a>|
+|2|905|<span class="rank-name-dl">まい(´Д⊂ｸRun</span>|<a href="https://search.dartslive.com/jp/shop/efeb0cf905b031a25f9f3321c1147265">鳥鍵</a>|<a href="/darts/rank/長野県/木曽郡">長野県木曽郡</a>|
+|3|800|<span class="rank-name-dl">Shohei@Run</span>|<a href="https://search.dartslive.com/jp/shop/efeb0cf905b031a25f9f3321c1147265">鳥鍵</a>|<a href="/darts/rank/長野県/木曽郡">長野県木曽郡</a>|
+|4|798|<span class="rank-name-dl">しげ@Run</span>|<a href="https://search.dartslive.com/jp/shop/efeb0cf905b031a25f9f3321c1147265">鳥鍵</a>|<a href="/darts/rank/長野県/木曽郡">長野県木曽郡</a>|
+|5|721|<span class="rank-name-dl">おとうふ@ネギ</span>|<a href="https://search.dartslive.com/jp/shop/efeb0cf905b031a25f9f3321c1147265">鳥鍵</a>|<a href="/darts/rank/長野県/木曽郡">長野県木曽郡</a>|
+|6|716|<span class="rank-name-dl">リン</span>|<a href="https://search.dartslive.com/jp/shop/efeb0cf905b031a25f9f3321c1147265">鳥鍵</a>|<a href="/darts/rank/長野県/木曽郡">長野県木曽郡</a>|
+|7|702|<span class="rank-name-dl">かずとし</span>|<a href="https://search.dartslive.com/jp/shop/efeb0cf905b031a25f9f3321c1147265">鳥鍵</a>|<a href="/darts/rank/長野県/木曽郡">長野県木曽郡</a>|
+|8|548|<span class="rank-name-dl">左を押して下さい</span>|<a href="https://search.dartslive.com/jp/shop/efeb0cf905b031a25f9f3321c1147265">鳥鍵</a>|<a href="/darts/rank/長野県/木曽郡">長野県木曽郡</a>|
+|9|474|<span class="rank-name-dl">cait</span>|<a href="https://search.dartslive.com/jp/shop/efeb0cf905b031a25f9f3321c1147265">鳥鍵</a>|<a href="/darts/rank/長野県/木曽郡">長野県木曽郡</a>|
+|10|460|<span class="rank-name-dl">デキンちゃん</span>|<a href="https://search.dartslive.com/jp/shop/efeb0cf905b031a25f9f3321c1147265">鳥鍵</a>|<a href="/darts/rank/長野県/木曽郡">長野県木曽郡</a>|
+|11|457|<span class="rank-name-dl">hamilton</span>|<a href="https://search.dartslive.com/jp/shop/efeb0cf905b031a25f9f3321c1147265">鳥鍵</a>|<a href="/darts/rank/長野県/木曽郡">長野県木曽郡</a>|
+|12|426|<span class="rank-name-dl">三ツ矢サイダー</span>|<a href="https://search.dartslive.com/jp/shop/efeb0cf905b031a25f9f3321c1147265">鳥鍵</a>|<a href="/darts/rank/長野県/木曽郡">長野県木曽郡</a>|
 
 
 #### PHOENIXDARTS TOP 100

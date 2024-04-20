@@ -23,36 +23,43 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|902|<span class="rank-name-dl">kouya</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
-|2|900|<span class="rank-name-dl">ど$ま-くんHOMIE$</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
-|3|882|<span class="rank-name-dl">kazu</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
-|4|873|<span class="rank-name-dl">☆くりみなる☆</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
-|5|842|<span class="rank-name-dl">とも＠Mercury</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
-|6|839|<span class="rank-name-dl">だわさん</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
-|7|817|<span class="rank-name-dl">竜綺</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
-|8|766|<span class="rank-name-dl">☆鰤之助☆</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
-|9|760|<span class="rank-name-dl">ヒロ</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
-|10|752|<span class="rank-name-dl">TAKA</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
-|10|752|<span class="rank-name-dl">‎( ꒪⌓꒪)ﾀﾞｲｽP</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
-|12|719|<span class="rank-name-dl">Masaki@Mercury</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
-|13|708|<span class="rank-name-dl">Kozi</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
-|14|698|<span class="rank-name-dl">ユータ</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
-|15|669|<span class="rank-name-dl">ちょろ</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
-|16|594|<span class="rank-name-dl">マーヤン</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
-|17|562|<span class="rank-name-dl">naho</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
-|18|526|<span class="rank-name-dl">NaMi</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
-|19|515|<span class="rank-name-dl">Kaoriiiii</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
-|20|506|<span class="rank-name-dl">まよ</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
-|21|481|<span class="rank-name-dl">Madotan</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
-|22|479|<span class="rank-name-dl">愛結</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
-|23|465|<span class="rank-name-dl">Noël</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
-|24|461|<span class="rank-name-dl">あいか</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
-|24|461|<span class="rank-name-dl">ひろみん</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
-|26|459|<span class="rank-name-dl">Souu</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
-|27|405|<span class="rank-name-dl">K.Kちゃん</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
-|27|405|<span class="rank-name-dl">☆みき☆</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
-|29|375|<span class="rank-name-dl">想來</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
-|30|374|<span class="rank-name-dl">Re-ko</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|1|960|<span class="rank-name-dl">☆くりみなる☆</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|2|913|<span class="rank-name-dl">良@HoneyBee</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|3|903|<span class="rank-name-dl">MASSIVEMONKEY</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|4|902|<span class="rank-name-dl">kouya</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|5|900|<span class="rank-name-dl">ど$ま-くんHOMIE$</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|6|884|<span class="rank-name-dl">とも＠Mercury</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|7|882|<span class="rank-name-dl">kazu</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|8|839|<span class="rank-name-dl">だわさん</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|9|817|<span class="rank-name-dl">竜綺</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|10|809|<span class="rank-name-dl">Masaki@Mercury</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|11|766|<span class="rank-name-dl">☆鰤之助☆</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|12|760|<span class="rank-name-dl">ヒロ</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|12|760|<span class="rank-name-dl">ユータ</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|14|755|<span class="rank-name-dl">Kozi</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|15|752|<span class="rank-name-dl">TAKA</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|15|752|<span class="rank-name-dl">‎( ꒪⌓꒪)ﾀﾞｲｽP</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|17|736|<span class="rank-name-dl">マツ。</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|18|716|<span class="rank-name-dl">だわさん2</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|19|700|<span class="rank-name-dl">ちょろ</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|20|671|<span class="rank-name-dl">門ちゃん</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|21|644|<span class="rank-name-dl">naho</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|22|638|<span class="rank-name-dl">りなりな</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|23|594|<span class="rank-name-dl">マーヤン</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|24|526|<span class="rank-name-dl">NaMi</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|25|515|<span class="rank-name-dl">Kaoriiiii</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|26|514|<span class="rank-name-dl">リカ</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|27|506|<span class="rank-name-dl">まよ</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|28|481|<span class="rank-name-dl">Madotan</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|29|479|<span class="rank-name-dl">愛結</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|30|477|<span class="rank-name-dl">Noël</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|31|467|<span class="rank-name-dl">☆みき☆</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|32|461|<span class="rank-name-dl">あいか</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|32|461|<span class="rank-name-dl">ひろみん</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|34|459|<span class="rank-name-dl">Souu</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|35|405|<span class="rank-name-dl">K.Kちゃん</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|36|375|<span class="rank-name-dl">想來</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|37|374|<span class="rank-name-dl">Re-ko</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -62,36 +69,43 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|902|<span class="rank-name-dl">kouya</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
-|2|900|<span class="rank-name-dl">ど$ま-くんHOMIE$</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
-|3|882|<span class="rank-name-dl">kazu</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
-|4|873|<span class="rank-name-dl">☆くりみなる☆</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
-|5|842|<span class="rank-name-dl">とも＠Mercury</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
-|6|839|<span class="rank-name-dl">だわさん</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
-|7|817|<span class="rank-name-dl">竜綺</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
-|8|766|<span class="rank-name-dl">☆鰤之助☆</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
-|9|760|<span class="rank-name-dl">ヒロ</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
-|10|752|<span class="rank-name-dl">TAKA</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
-|10|752|<span class="rank-name-dl">‎( ꒪⌓꒪)ﾀﾞｲｽP</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
-|12|719|<span class="rank-name-dl">Masaki@Mercury</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
-|13|708|<span class="rank-name-dl">Kozi</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
-|14|698|<span class="rank-name-dl">ユータ</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
-|15|669|<span class="rank-name-dl">ちょろ</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
-|16|594|<span class="rank-name-dl">マーヤン</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
-|17|562|<span class="rank-name-dl">naho</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
-|18|526|<span class="rank-name-dl">NaMi</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
-|19|515|<span class="rank-name-dl">Kaoriiiii</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
-|20|506|<span class="rank-name-dl">まよ</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
-|21|481|<span class="rank-name-dl">Madotan</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
-|22|479|<span class="rank-name-dl">愛結</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
-|23|465|<span class="rank-name-dl">Noël</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
-|24|461|<span class="rank-name-dl">あいか</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
-|24|461|<span class="rank-name-dl">ひろみん</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
-|26|459|<span class="rank-name-dl">Souu</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
-|27|405|<span class="rank-name-dl">K.Kちゃん</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
-|27|405|<span class="rank-name-dl">☆みき☆</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
-|29|375|<span class="rank-name-dl">想來</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
-|30|374|<span class="rank-name-dl">Re-ko</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|1|960|<span class="rank-name-dl">☆くりみなる☆</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|2|913|<span class="rank-name-dl">良@HoneyBee</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|3|903|<span class="rank-name-dl">MASSIVEMONKEY</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|4|902|<span class="rank-name-dl">kouya</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|5|900|<span class="rank-name-dl">ど$ま-くんHOMIE$</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|6|884|<span class="rank-name-dl">とも＠Mercury</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|7|882|<span class="rank-name-dl">kazu</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|8|839|<span class="rank-name-dl">だわさん</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|9|817|<span class="rank-name-dl">竜綺</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|10|809|<span class="rank-name-dl">Masaki@Mercury</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|11|766|<span class="rank-name-dl">☆鰤之助☆</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|12|760|<span class="rank-name-dl">ヒロ</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|12|760|<span class="rank-name-dl">ユータ</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|14|755|<span class="rank-name-dl">Kozi</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|15|752|<span class="rank-name-dl">TAKA</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|15|752|<span class="rank-name-dl">‎( ꒪⌓꒪)ﾀﾞｲｽP</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|17|736|<span class="rank-name-dl">マツ。</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|18|716|<span class="rank-name-dl">だわさん2</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|19|700|<span class="rank-name-dl">ちょろ</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|20|671|<span class="rank-name-dl">門ちゃん</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|21|644|<span class="rank-name-dl">naho</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|22|638|<span class="rank-name-dl">りなりな</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|23|594|<span class="rank-name-dl">マーヤン</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|24|526|<span class="rank-name-dl">NaMi</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|25|515|<span class="rank-name-dl">Kaoriiiii</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|26|514|<span class="rank-name-dl">リカ</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|27|506|<span class="rank-name-dl">まよ</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|28|481|<span class="rank-name-dl">Madotan</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|29|479|<span class="rank-name-dl">愛結</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|30|477|<span class="rank-name-dl">Noël</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|31|467|<span class="rank-name-dl">☆みき☆</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|32|461|<span class="rank-name-dl">あいか</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|32|461|<span class="rank-name-dl">ひろみん</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|34|459|<span class="rank-name-dl">Souu</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|35|405|<span class="rank-name-dl">K.Kちゃん</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|36|375|<span class="rank-name-dl">想來</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
+|37|374|<span class="rank-name-dl">Re-ko</span>|<a href="https://search.dartslive.com/jp/shop/1c11f12dc3486a260d9b047a20a7ba1e">Mercury</a>|<a href="/darts/rank/愛知県/額田郡">愛知県額田郡</a>|
 
 
 #### PHOENIXDARTS TOP 100

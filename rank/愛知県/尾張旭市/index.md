@@ -26,103 +26,103 @@ ___
 |1|1132|<span class="rank-name-pd">マレス</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
 |2|1110|<span class="rank-name-pd">DOS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
 |3|1065|<span class="rank-name-pd">gaNeza【TEAM OPEN 21-22】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|4|916|<span class="rank-name-pd">マレス</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|5|878|<span class="rank-name-pd">ノリのりくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|6|872|<span class="rank-name-pd">のりのりのっきい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|7|834|<span class="rank-name-pd">zuttabe_shin_hige</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|8|821|<span class="rank-name-pd">MICHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|9|818|<span class="rank-name-pd">0117_8693</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8108?s_seq=8108">JOYJOY 晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|10|783|<span class="rank-name-dl">ちょな</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|11|782|<span class="rank-name-pd">真夏のサンタマン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|12|778|<span class="rank-name-pd">奥特曼</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|13|771|<span class="rank-name-dl">hyos_</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|14|767|<span class="rank-name-pd">ＡＫＩ＠Ｎ・Ａ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|15|766|<span class="rank-name-pd">Bshi♠Ｋたろう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|16|758|<span class="rank-name-pd">Rina@侍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|17|734|<span class="rank-name-pd">MICHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|18|726|<span class="rank-name-dl">123</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|19|701|<span class="rank-name-pd">ゲハさん☺</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|20|690|<span class="rank-name-pd">NOMU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|21|688|<span class="rank-name-dl">コギケン</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|22|687|<span class="rank-name-dl">TKK</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|23|679|<span class="rank-name-pd">ノリのりくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|24|675|<span class="rank-name-pd">TAKUMA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|25|666|<span class="rank-name-dl">つけめん@GROWTH</span>|<a href="https://search.dartslive.com/jp/shop/9edef799acb914ea774c926eb736cb5a">2★5 ne-go</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|26|664|<span class="rank-name-pd">Avril Lavigne</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8108?s_seq=8108">JOYJOY 晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|27|646|<span class="rank-name-pd">MIKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|27|646|<span class="rank-name-pd">UMIBOUZU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|29|644|<span class="rank-name-pd">ａｚｕ★</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|30|639|<span class="rank-name-pd">お酒マン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|31|637|<span class="rank-name-pd">ohide</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|32|634|<span class="rank-name-pd">激刺,*+gaNeza+*,</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|33|627|<span class="rank-name-dl">☆赤獅子☆</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|33|627|<span class="rank-name-pd">アオケン@N.A</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|35|620|<span class="rank-name-dl">ハゲ散らかし</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|36|610|<span class="rank-name-pd">おはな</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|37|608|<span class="rank-name-pd">TAKUMA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|38|598|<span class="rank-name-pd">DOS@NA?</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|39|597|<span class="rank-name-pd">やんゆー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|40|591|<span class="rank-name-pd">BOB</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|41|588|<span class="rank-name-pd">NOMU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|42|587|<span class="rank-name-dl">すー</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|43|584|<span class="rank-name-pd">すずり</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|44|580|<span class="rank-name-dl">ひょす</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|45|574|<span class="rank-name-pd">ありさん＠侍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|46|568|<span class="rank-name-dl">る</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|47|564|<span class="rank-name-pd">MAX</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|48|556|<span class="rank-name-pd">H∀ЯUO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|48|556|<span class="rank-name-pd">♤ちゃんひろ♤</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|50|555|<span class="rank-name-pd">#ずったべkensin</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|51|554|<span class="rank-name-pd">KAZU@N.A</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|52|552|<span class="rank-name-pd">kawat@SAKURAn</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|53|551|<span class="rank-name-dl">タイキ12000</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|54|547|<span class="rank-name-pd">Nakano</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|54|547|<span class="rank-name-pd">ていと＠Ｎ・Ａ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|56|544|<span class="rank-name-pd">けん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8108?s_seq=8108">JOYJOY 晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|57|543|<span class="rank-name-pd">BOB.JR@N.A</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|57|543|<span class="rank-name-dl">そんいよ</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|59|542|<span class="rank-name-pd">KAZU224</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|60|541|<span class="rank-name-pd">Rina@侍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|61|530|<span class="rank-name-pd">4025</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|61|530|<span class="rank-name-pd">SEI @ NA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|63|528|<span class="rank-name-pd">MIZUNO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8108?s_seq=8108">JOYJOY 晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|63|528|<span class="rank-name-pd">T.0800</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8108?s_seq=8108">JOYJOY 晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|65|521|<span class="rank-name-dl">ともみ</span>|<a href="https://search.dartslive.com/jp/shop/9edef799acb914ea774c926eb736cb5a">2★5 ne-go</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|66|520|<span class="rank-name-pd">sei @ NA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|67|513|<span class="rank-name-pd">takuma @ SAKURAn</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|68|510|<span class="rank-name-dl">こんちゃん27</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|69|508|<span class="rank-name-pd">アリさん＠侍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|70|504|<span class="rank-name-pd">しんちゃんとみんな</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|71|503|<span class="rank-name-dl">SHIVA</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|72|499|<span class="rank-name-pd">あき@Ｎ・Ａ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|73|491|<span class="rank-name-pd">ぷれもる。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|74|487|<span class="rank-name-dl">未沙のしもべ</span>|<a href="https://search.dartslive.com/jp/shop/9edef799acb914ea774c926eb736cb5a">2★5 ne-go</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|75|479|<span class="rank-name-pd">TEYRONE-WOODS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|75|479|<span class="rank-name-pd">ともすけ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|77|477|<span class="rank-name-pd">ペい　　　　　　　　　　　☕️</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|78|475|<span class="rank-name-pd">RINA@侍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|79|469|<span class="rank-name-pd">WACHA!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|80|455|<span class="rank-name-pd">ありさん＠侍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|81|454|<span class="rank-name-pd">ゆうり@侍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|82|446|<span class="rank-name-pd">桜 @ SAKURAn</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|83|444|<span class="rank-name-pd">Masa@N・A</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|84|432|<span class="rank-name-pd">HASE@NA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|84|432|<span class="rank-name-pd">KAZU224</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|86|416|<span class="rank-name-dl">荒ぶるTAKA</span>|<a href="https://search.dartslive.com/jp/shop/9edef799acb914ea774c926eb736cb5a">2★5 ne-go</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|87|411|<span class="rank-name-pd">BOB.JR@N.A</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|88|404|<span class="rank-name-pd">Akina⭐︎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|88|404|<span class="rank-name-pd">RIN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|90|400|<span class="rank-name-dl">SHIN</span>|<a href="https://search.dartslive.com/jp/shop/9edef799acb914ea774c926eb736cb5a">2★5 ne-go</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|91|398|<span class="rank-name-pd">BIBI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|92|381|<span class="rank-name-dl">ひでじ@巡業中</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|93|378|<span class="rank-name-pd">ぽいふる☻</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8108?s_seq=8108">JOYJOY 晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|94|369|<span class="rank-name-pd">MIMI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|94|369|<span class="rank-name-pd">SEI @ NA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8108?s_seq=8108">JOYJOY 晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|96|368|<span class="rank-name-pd">SYUGOSHIN@N.A</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|96|368|<span class="rank-name-pd">ていと＠Ｎ・Ａ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|98|363|<span class="rank-name-pd">HARUKA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|99|315|<span class="rank-name-pd">WARLD YAMATOBC</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8108?s_seq=8108">JOYJOY 晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|99|315|<span class="rank-name-pd">yokiyoki@SAKURAn</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|4|939|<span class="rank-name-pd">のりのりのっきい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N･A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|5|925|<span class="rank-name-pd">ノリのりくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N･A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|6|921|<span class="rank-name-pd">Bshi♠Ｋたろう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|7|916|<span class="rank-name-pd">マレス</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|8|878|<span class="rank-name-pd">ノリのりくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|9|872|<span class="rank-name-pd">のりのりのっきい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|10|864|<span class="rank-name-pd">zkxb37f3d7b689</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N･A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|11|851|<span class="rank-name-pd">マレス@SAKURAn</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N･A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|12|849|<span class="rank-name-pd">zuttabe_shin_hige</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|13|821|<span class="rank-name-pd">MICHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|14|819|<span class="rank-name-dl">中村大善</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|15|818|<span class="rank-name-pd">0117_8693</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8108?s_seq=8108">JOYJOY 晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|16|808|<span class="rank-name-pd">アオケン@N.A</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N･A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|17|788|<span class="rank-name-pd">NOMU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N･A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|18|783|<span class="rank-name-dl">ちょな</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|19|782|<span class="rank-name-pd">真夏のサンタマン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|20|780|<span class="rank-name-pd">マレス</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N･A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|21|778|<span class="rank-name-pd">奥特曼</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|22|771|<span class="rank-name-dl">hyos_</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|23|767|<span class="rank-name-pd">ＡＫＩ＠Ｎ・Ａ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|24|758|<span class="rank-name-pd">Rina@侍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|25|743|<span class="rank-name-dl">サトス☆</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|26|734|<span class="rank-name-pd">MICHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|27|733|<span class="rank-name-pd">MICHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N･A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|28|726|<span class="rank-name-dl">123</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|29|718|<span class="rank-name-dl">たくま</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|30|710|<span class="rank-name-pd">真夏のサンタマン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N･A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|31|704|<span class="rank-name-pd">BOB</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N･A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|32|701|<span class="rank-name-pd">ゲハさん☺</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|33|696|<span class="rank-name-pd">UMIBOUZU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|34|691|<span class="rank-name-dl">TikTok初めました</span>|<a href="https://search.dartslive.com/jp/shop/9edef799acb914ea774c926eb736cb5a">2★5 ne-go</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|35|690|<span class="rank-name-pd">NOMU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|36|688|<span class="rank-name-dl">コギケン</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|37|687|<span class="rank-name-dl">TKK</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|37|687|<span class="rank-name-pd">奥特曼</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N･A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|39|679|<span class="rank-name-pd">ノリのりくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|40|675|<span class="rank-name-pd">TAKUMA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|41|666|<span class="rank-name-dl">NOMU</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|41|666|<span class="rank-name-dl">つけめん@GROWTH</span>|<a href="https://search.dartslive.com/jp/shop/9edef799acb914ea774c926eb736cb5a">2★5 ne-go</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|43|664|<span class="rank-name-pd">40(ФωФ)25</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N･A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|43|664|<span class="rank-name-pd">Avril Lavigne</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8108?s_seq=8108">JOYJOY 晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|45|658|<span class="rank-name-dl">☆赤獅子☆</span>|<a href="https://search.dartslive.com/jp/shop/9edef799acb914ea774c926eb736cb5a">2★5 ne-go</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|46|650|<span class="rank-name-pd">4025</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N･A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|46|650|<span class="rank-name-pd">しんちゃんとみんな</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|46|650|<span class="rank-name-dl">やんゆー</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|49|646|<span class="rank-name-pd">MIKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|50|644|<span class="rank-name-pd">ａｚｕ★</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|51|640|<span class="rank-name-dl">mt yzr</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|52|639|<span class="rank-name-pd">お酒マン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|53|637|<span class="rank-name-pd">ohide</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|54|634|<span class="rank-name-pd">激刺,*+gaNeza+*,</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|55|633|<span class="rank-name-pd">#ずったべkensin</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|56|627|<span class="rank-name-dl">☆赤獅子☆</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|56|627|<span class="rank-name-pd">アオケン@N.A</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|58|625|<span class="rank-name-pd">DOS@NA?</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N･A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|59|620|<span class="rank-name-dl">ハゲ散らかし</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|60|613|<span class="rank-name-pd">すずり</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N･A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|61|611|<span class="rank-name-pd">SEI @ NA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N･A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|62|610|<span class="rank-name-pd">White Shine</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N･A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|62|610|<span class="rank-name-pd">おはな</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|64|608|<span class="rank-name-pd">TAKUMA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|65|604|<span class="rank-name-dl">77</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|66|598|<span class="rank-name-pd">DOS@NA?</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|67|597|<span class="rank-name-pd">やんゆー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|68|591|<span class="rank-name-pd">BOB</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|69|588|<span class="rank-name-pd">NOMU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|70|587|<span class="rank-name-dl">すー</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|71|585|<span class="rank-name-pd">ありさん＠侍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|72|584|<span class="rank-name-pd">すずり</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|73|580|<span class="rank-name-dl">ひょす</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|74|574|<span class="rank-name-dl">YAMA</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|74|574|<span class="rank-name-pd">♤ちゃんひろ♤</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N･A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|76|568|<span class="rank-name-dl">る</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|77|565|<span class="rank-name-pd">BIBI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N･A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|78|564|<span class="rank-name-pd">MAX</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|79|556|<span class="rank-name-pd">H∀ЯUO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|79|556|<span class="rank-name-pd">♤ちゃんひろ♤</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|81|555|<span class="rank-name-pd">TAKUMA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8108?s_seq=8108">JOYJOY 晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|82|554|<span class="rank-name-pd">KAZU@N.A</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|83|552|<span class="rank-name-pd">kawat@SAKURAn</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|84|551|<span class="rank-name-dl">タイキ12000</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|85|547|<span class="rank-name-pd">Nakano</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|85|547|<span class="rank-name-pd">ていと＠Ｎ・Ａ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|87|544|<span class="rank-name-pd">けん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8108?s_seq=8108">JOYJOY 晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|88|543|<span class="rank-name-pd">BOB.JR@N.A</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|88|543|<span class="rank-name-dl">そんいよ</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|90|542|<span class="rank-name-pd">KAZU224</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|91|541|<span class="rank-name-pd">Rina@侍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|92|537|<span class="rank-name-pd">sei @ NA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N･A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|93|534|<span class="rank-name-pd">Rina</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|94|532|<span class="rank-name-pd">yokiyoki@SAKURAn</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N･A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|95|530|<span class="rank-name-pd">4025</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|95|530|<span class="rank-name-pd">SEI @ NA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|95|530|<span class="rank-name-pd">あき🎯N・A</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8108?s_seq=8108">JOYJOY 晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|98|528|<span class="rank-name-pd">MIZUNO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8108?s_seq=8108">JOYJOY 晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|98|528|<span class="rank-name-pd">T.0800</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8108?s_seq=8108">JOYJOY 晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|100|525|<span class="rank-name-pd">たくみ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -132,26 +132,42 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|783|<span class="rank-name-dl">ちょな</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|2|771|<span class="rank-name-dl">hyos_</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|3|726|<span class="rank-name-dl">123</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|4|688|<span class="rank-name-dl">コギケン</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|5|687|<span class="rank-name-dl">TKK</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|6|666|<span class="rank-name-dl">つけめん@GROWTH</span>|<a href="https://search.dartslive.com/jp/shop/9edef799acb914ea774c926eb736cb5a">2★5 ne-go</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|7|627|<span class="rank-name-dl">☆赤獅子☆</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|8|620|<span class="rank-name-dl">ハゲ散らかし</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|9|587|<span class="rank-name-dl">すー</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|10|580|<span class="rank-name-dl">ひょす</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|11|568|<span class="rank-name-dl">る</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|12|551|<span class="rank-name-dl">タイキ12000</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|13|543|<span class="rank-name-dl">そんいよ</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|14|521|<span class="rank-name-dl">ともみ</span>|<a href="https://search.dartslive.com/jp/shop/9edef799acb914ea774c926eb736cb5a">2★5 ne-go</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|15|510|<span class="rank-name-dl">こんちゃん27</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|16|503|<span class="rank-name-dl">SHIVA</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|17|487|<span class="rank-name-dl">未沙のしもべ</span>|<a href="https://search.dartslive.com/jp/shop/9edef799acb914ea774c926eb736cb5a">2★5 ne-go</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|18|416|<span class="rank-name-dl">荒ぶるTAKA</span>|<a href="https://search.dartslive.com/jp/shop/9edef799acb914ea774c926eb736cb5a">2★5 ne-go</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|19|400|<span class="rank-name-dl">SHIN</span>|<a href="https://search.dartslive.com/jp/shop/9edef799acb914ea774c926eb736cb5a">2★5 ne-go</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|20|381|<span class="rank-name-dl">ひでじ@巡業中</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|1|819|<span class="rank-name-dl">中村大善</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|2|783|<span class="rank-name-dl">ちょな</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|3|771|<span class="rank-name-dl">hyos_</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|4|743|<span class="rank-name-dl">サトス☆</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|5|726|<span class="rank-name-dl">123</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|6|718|<span class="rank-name-dl">たくま</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|7|691|<span class="rank-name-dl">TikTok初めました</span>|<a href="https://search.dartslive.com/jp/shop/9edef799acb914ea774c926eb736cb5a">2★5 ne-go</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|8|688|<span class="rank-name-dl">コギケン</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|9|687|<span class="rank-name-dl">TKK</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|10|666|<span class="rank-name-dl">NOMU</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|10|666|<span class="rank-name-dl">つけめん@GROWTH</span>|<a href="https://search.dartslive.com/jp/shop/9edef799acb914ea774c926eb736cb5a">2★5 ne-go</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|12|658|<span class="rank-name-dl">☆赤獅子☆</span>|<a href="https://search.dartslive.com/jp/shop/9edef799acb914ea774c926eb736cb5a">2★5 ne-go</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|13|650|<span class="rank-name-dl">やんゆー</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|14|640|<span class="rank-name-dl">mt yzr</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|15|627|<span class="rank-name-dl">☆赤獅子☆</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|16|620|<span class="rank-name-dl">ハゲ散らかし</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|17|604|<span class="rank-name-dl">77</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|18|587|<span class="rank-name-dl">すー</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|19|580|<span class="rank-name-dl">ひょす</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|20|574|<span class="rank-name-dl">YAMA</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|21|568|<span class="rank-name-dl">る</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|22|551|<span class="rank-name-dl">タイキ12000</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|23|543|<span class="rank-name-dl">そんいよ</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|24|521|<span class="rank-name-dl">TOULI</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|24|521|<span class="rank-name-dl">ともみ</span>|<a href="https://search.dartslive.com/jp/shop/9edef799acb914ea774c926eb736cb5a">2★5 ne-go</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|26|510|<span class="rank-name-dl">こんちゃん27</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|27|503|<span class="rank-name-dl">SHIVA</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|28|487|<span class="rank-name-dl">れいな</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|28|487|<span class="rank-name-dl">未沙のしもべ</span>|<a href="https://search.dartslive.com/jp/shop/9edef799acb914ea774c926eb736cb5a">2★5 ne-go</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|30|479|<span class="rank-name-dl">SHIN</span>|<a href="https://search.dartslive.com/jp/shop/9edef799acb914ea774c926eb736cb5a">2★5 ne-go</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|31|477|<span class="rank-name-dl">T</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|32|448|<span class="rank-name-dl">モチャ</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|33|416|<span class="rank-name-dl">荒ぶるTAKA</span>|<a href="https://search.dartslive.com/jp/shop/9edef799acb914ea774c926eb736cb5a">2★5 ne-go</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|34|411|<span class="rank-name-dl">ブルージャム</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|35|381|<span class="rank-name-dl">ひでじ@巡業中</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|36|354|<span class="rank-name-dl">わかば</span>|<a href="https://search.dartslive.com/jp/shop/40c954debc50ed72a3f63593b5358cc4">JOYJOY尾張旭晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
 
 
 #### PHOENIXDARTS TOP 100
@@ -164,86 +180,103 @@ ___
 |1|1132|<span class="rank-name-pd">マレス</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
 |2|1110|<span class="rank-name-pd">DOS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
 |3|1065|<span class="rank-name-pd">gaNeza【TEAM OPEN 21-22】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|4|916|<span class="rank-name-pd">マレス</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|5|878|<span class="rank-name-pd">ノリのりくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|6|872|<span class="rank-name-pd">のりのりのっきい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|7|834|<span class="rank-name-pd">zuttabe_shin_hige</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|8|821|<span class="rank-name-pd">MICHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|9|818|<span class="rank-name-pd">0117_8693</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8108?s_seq=8108">JOYJOY 晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|10|782|<span class="rank-name-pd">真夏のサンタマン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|11|778|<span class="rank-name-pd">奥特曼</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|12|767|<span class="rank-name-pd">ＡＫＩ＠Ｎ・Ａ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|13|766|<span class="rank-name-pd">Bshi♠Ｋたろう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|14|758|<span class="rank-name-pd">Rina@侍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|15|734|<span class="rank-name-pd">MICHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|16|701|<span class="rank-name-pd">ゲハさん☺</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|17|690|<span class="rank-name-pd">NOMU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|18|679|<span class="rank-name-pd">ノリのりくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|19|675|<span class="rank-name-pd">TAKUMA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|20|664|<span class="rank-name-pd">Avril Lavigne</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8108?s_seq=8108">JOYJOY 晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|21|646|<span class="rank-name-pd">MIKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|21|646|<span class="rank-name-pd">UMIBOUZU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|23|644|<span class="rank-name-pd">ａｚｕ★</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|24|639|<span class="rank-name-pd">お酒マン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|25|637|<span class="rank-name-pd">ohide</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|26|634|<span class="rank-name-pd">激刺,*+gaNeza+*,</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|27|627|<span class="rank-name-pd">アオケン@N.A</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|28|610|<span class="rank-name-pd">おはな</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|29|608|<span class="rank-name-pd">TAKUMA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|30|598|<span class="rank-name-pd">DOS@NA?</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|31|597|<span class="rank-name-pd">やんゆー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|32|591|<span class="rank-name-pd">BOB</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|33|588|<span class="rank-name-pd">NOMU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|34|584|<span class="rank-name-pd">すずり</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|35|574|<span class="rank-name-pd">ありさん＠侍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|36|564|<span class="rank-name-pd">MAX</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|37|556|<span class="rank-name-pd">H∀ЯUO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|37|556|<span class="rank-name-pd">♤ちゃんひろ♤</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|39|555|<span class="rank-name-pd">#ずったべkensin</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|40|554|<span class="rank-name-pd">KAZU@N.A</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|41|552|<span class="rank-name-pd">kawat@SAKURAn</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|42|547|<span class="rank-name-pd">Nakano</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|42|547|<span class="rank-name-pd">ていと＠Ｎ・Ａ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|44|544|<span class="rank-name-pd">けん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8108?s_seq=8108">JOYJOY 晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|45|543|<span class="rank-name-pd">BOB.JR@N.A</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|46|542|<span class="rank-name-pd">KAZU224</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|47|541|<span class="rank-name-pd">Rina@侍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|48|530|<span class="rank-name-pd">4025</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|48|530|<span class="rank-name-pd">SEI @ NA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|50|528|<span class="rank-name-pd">MIZUNO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8108?s_seq=8108">JOYJOY 晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|50|528|<span class="rank-name-pd">T.0800</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8108?s_seq=8108">JOYJOY 晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|52|520|<span class="rank-name-pd">sei @ NA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|53|513|<span class="rank-name-pd">takuma @ SAKURAn</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|54|508|<span class="rank-name-pd">アリさん＠侍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|55|504|<span class="rank-name-pd">しんちゃんとみんな</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|56|499|<span class="rank-name-pd">あき@Ｎ・Ａ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|57|491|<span class="rank-name-pd">ぷれもる。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|58|479|<span class="rank-name-pd">TEYRONE-WOODS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|58|479|<span class="rank-name-pd">ともすけ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|60|477|<span class="rank-name-pd">ペい　　　　　　　　　　　☕️</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|61|475|<span class="rank-name-pd">RINA@侍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|62|469|<span class="rank-name-pd">WACHA!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|63|455|<span class="rank-name-pd">ありさん＠侍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|64|454|<span class="rank-name-pd">ゆうり@侍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|65|446|<span class="rank-name-pd">桜 @ SAKURAn</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|66|444|<span class="rank-name-pd">Masa@N・A</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|67|432|<span class="rank-name-pd">HASE@NA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|67|432|<span class="rank-name-pd">KAZU224</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|69|411|<span class="rank-name-pd">BOB.JR@N.A</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|70|404|<span class="rank-name-pd">Akina⭐︎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|70|404|<span class="rank-name-pd">RIN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|72|398|<span class="rank-name-pd">BIBI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|73|378|<span class="rank-name-pd">ぽいふる☻</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8108?s_seq=8108">JOYJOY 晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|74|369|<span class="rank-name-pd">MIMI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|74|369|<span class="rank-name-pd">SEI @ NA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8108?s_seq=8108">JOYJOY 晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|76|368|<span class="rank-name-pd">SYUGOSHIN@N.A</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|76|368|<span class="rank-name-pd">ていと＠Ｎ・Ａ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|78|363|<span class="rank-name-pd">HARUKA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|79|315|<span class="rank-name-pd">WARLD YAMATOBC</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8108?s_seq=8108">JOYJOY 晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|79|315|<span class="rank-name-pd">yokiyoki@SAKURAn</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|81|287|<span class="rank-name-pd">TAKACHAN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|81|287|<span class="rank-name-pd">ヒロキチ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8108?s_seq=8108">JOYJOY 晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
-|83|268|<span class="rank-name-pd">ダウンスタイルホールディングスCEO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|4|939|<span class="rank-name-pd">のりのりのっきい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N･A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|5|925|<span class="rank-name-pd">ノリのりくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N･A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|6|921|<span class="rank-name-pd">Bshi♠Ｋたろう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|7|916|<span class="rank-name-pd">マレス</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|8|878|<span class="rank-name-pd">ノリのりくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|9|872|<span class="rank-name-pd">のりのりのっきい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|10|864|<span class="rank-name-pd">zkxb37f3d7b689</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N･A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|11|851|<span class="rank-name-pd">マレス@SAKURAn</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N･A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|12|849|<span class="rank-name-pd">zuttabe_shin_hige</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|13|821|<span class="rank-name-pd">MICHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|14|818|<span class="rank-name-pd">0117_8693</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8108?s_seq=8108">JOYJOY 晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|15|808|<span class="rank-name-pd">アオケン@N.A</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N･A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|16|788|<span class="rank-name-pd">NOMU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N･A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|17|782|<span class="rank-name-pd">真夏のサンタマン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|18|780|<span class="rank-name-pd">マレス</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N･A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|19|778|<span class="rank-name-pd">奥特曼</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|20|767|<span class="rank-name-pd">ＡＫＩ＠Ｎ・Ａ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|21|758|<span class="rank-name-pd">Rina@侍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|22|734|<span class="rank-name-pd">MICHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|23|733|<span class="rank-name-pd">MICHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N･A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|24|710|<span class="rank-name-pd">真夏のサンタマン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N･A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|25|704|<span class="rank-name-pd">BOB</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N･A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|26|701|<span class="rank-name-pd">ゲハさん☺</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|27|696|<span class="rank-name-pd">UMIBOUZU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|28|690|<span class="rank-name-pd">NOMU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|29|687|<span class="rank-name-pd">奥特曼</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N･A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|30|679|<span class="rank-name-pd">ノリのりくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|31|675|<span class="rank-name-pd">TAKUMA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|32|664|<span class="rank-name-pd">40(ФωФ)25</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N･A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|32|664|<span class="rank-name-pd">Avril Lavigne</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8108?s_seq=8108">JOYJOY 晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|34|650|<span class="rank-name-pd">4025</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N･A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|34|650|<span class="rank-name-pd">しんちゃんとみんな</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|36|646|<span class="rank-name-pd">MIKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|37|644|<span class="rank-name-pd">ａｚｕ★</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|38|639|<span class="rank-name-pd">お酒マン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|39|637|<span class="rank-name-pd">ohide</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|40|634|<span class="rank-name-pd">激刺,*+gaNeza+*,</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|41|633|<span class="rank-name-pd">#ずったべkensin</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|42|627|<span class="rank-name-pd">アオケン@N.A</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|43|625|<span class="rank-name-pd">DOS@NA?</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N･A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|44|613|<span class="rank-name-pd">すずり</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N･A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|45|611|<span class="rank-name-pd">SEI @ NA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N･A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|46|610|<span class="rank-name-pd">White Shine</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N･A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|46|610|<span class="rank-name-pd">おはな</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|48|608|<span class="rank-name-pd">TAKUMA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|49|598|<span class="rank-name-pd">DOS@NA?</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|50|597|<span class="rank-name-pd">やんゆー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|51|591|<span class="rank-name-pd">BOB</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|52|588|<span class="rank-name-pd">NOMU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|53|585|<span class="rank-name-pd">ありさん＠侍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|54|584|<span class="rank-name-pd">すずり</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|55|574|<span class="rank-name-pd">♤ちゃんひろ♤</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N･A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|56|565|<span class="rank-name-pd">BIBI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N･A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|57|564|<span class="rank-name-pd">MAX</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|58|556|<span class="rank-name-pd">H∀ЯUO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|58|556|<span class="rank-name-pd">♤ちゃんひろ♤</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|60|555|<span class="rank-name-pd">TAKUMA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8108?s_seq=8108">JOYJOY 晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|61|554|<span class="rank-name-pd">KAZU@N.A</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|62|552|<span class="rank-name-pd">kawat@SAKURAn</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|63|547|<span class="rank-name-pd">Nakano</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|63|547|<span class="rank-name-pd">ていと＠Ｎ・Ａ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|65|544|<span class="rank-name-pd">けん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8108?s_seq=8108">JOYJOY 晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|66|543|<span class="rank-name-pd">BOB.JR@N.A</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|67|542|<span class="rank-name-pd">KAZU224</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|68|541|<span class="rank-name-pd">Rina@侍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|69|537|<span class="rank-name-pd">sei @ NA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N･A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|70|534|<span class="rank-name-pd">Rina</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|71|532|<span class="rank-name-pd">yokiyoki@SAKURAn</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N･A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|72|530|<span class="rank-name-pd">4025</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|72|530|<span class="rank-name-pd">SEI @ NA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|72|530|<span class="rank-name-pd">あき🎯N・A</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8108?s_seq=8108">JOYJOY 晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|75|528|<span class="rank-name-pd">MIZUNO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8108?s_seq=8108">JOYJOY 晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|75|528|<span class="rank-name-pd">T.0800</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8108?s_seq=8108">JOYJOY 晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|77|525|<span class="rank-name-pd">たくみ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|78|520|<span class="rank-name-pd">sei @ NA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|79|518|<span class="rank-name-pd">TAKUMA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N･A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|80|517|<span class="rank-name-pd">Yanyu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8108?s_seq=8108">JOYJOY 晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|81|514|<span class="rank-name-pd">ＡＫＩ＠Ｎ・Ａ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N･A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|82|513|<span class="rank-name-pd">takuma @ SAKURAn</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|83|508|<span class="rank-name-pd">アリさん＠侍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|84|506|<span class="rank-name-pd">あき🎯N・A</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N･A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|85|499|<span class="rank-name-pd">RINA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|85|499|<span class="rank-name-pd">あき@Ｎ・Ａ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|87|498|<span class="rank-name-pd">ていと＠N🎯A</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N･A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|88|493|<span class="rank-name-pd">shin_yuji</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|89|491|<span class="rank-name-pd">ぷれもる。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|90|490|<span class="rank-name-pd">奥特曼</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8108?s_seq=8108">JOYJOY 晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|91|482|<span class="rank-name-pd">ありさん＠侍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N･A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|92|479|<span class="rank-name-pd">TEYRONE-WOODS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|92|479|<span class="rank-name-pd">ともすけ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|94|478|<span class="rank-name-pd">YU-TA@N.A???</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N･A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|95|477|<span class="rank-name-pd">ペい　　　　　　　　　　　☕️</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|96|475|<span class="rank-name-pd">RINA@侍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71435?s_seq=71435">＃ずったべSHIN</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|97|474|<span class="rank-name-pd">チャンス 윤장수</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8108?s_seq=8108">JOYJOY 晴丘店</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|98|472|<span class="rank-name-pd">ていと＠Ｎ・Ａ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N･A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|99|471|<span class="rank-name-pd">ペこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N･A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
+|100|469|<span class="rank-name-pd">WACHA!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63542?s_seq=63542">N.A</a>|<a href="/darts/rank/愛知県/尾張旭市">愛知県尾張旭市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

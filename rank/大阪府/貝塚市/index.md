@@ -25,26 +25,43 @@ ___
 |---|---|---|---|---|
 |1|1200|<span class="rank-name-dl">多分?CRE§T?</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
 |2|1053|<span class="rank-name-dl">雄平FuD&#x27;s@DCG</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
-|3|981|<span class="rank-name-dl">髷一家☆ぶー☆PC</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
-|4|944|<span class="rank-name-dl">さいたま先生</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
-|5|929|<span class="rank-name-dl">TOSHI</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
-|5|929|<span class="rank-name-dl">すいまー</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
-|7|904|<span class="rank-name-dl">鬼若子a.k.a Mr.Y</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
-|8|903|<span class="rank-name-dl">セパワッサン</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
-|9|889|<span class="rank-name-dl">GO!@FORTES</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
-|10|861|<span class="rank-name-dl">K</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
-|11|837|<span class="rank-name-dl">Mr.Y</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
-|12|827|<span class="rank-name-dl">Tiger</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
-|13|813|<span class="rank-name-dl">こばちっち</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
-|14|780|<span class="rank-name-dl">ＴＰ</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
-|15|541|<span class="rank-name-dl">たらぼう</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
-|16|523|<span class="rank-name-dl">RINRIN</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
-|17|502|<span class="rank-name-dl">えりやん</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
-|18|499|<span class="rank-name-dl">りえさん2929</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
-|19|453|<span class="rank-name-dl">リオルマイト</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
-|20|452|<span class="rank-name-dl">DOJIGO</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
-|21|435|<span class="rank-name-dl">み〜き</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
-|22|311|<span class="rank-name-dl">りりあん</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|3|1051|<span class="rank-name-dl">Shack∞3CRE§T3</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|4|1000|<span class="rank-name-dl">めんchan☆DT</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|5|998|<span class="rank-name-dl">すいまー</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|6|981|<span class="rank-name-dl">髷一家☆ぶー☆PC</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|7|979|<span class="rank-name-dl">ゆっくん【爆笑】</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|8|971|<span class="rank-name-dl">TOSHI</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|9|944|<span class="rank-name-dl">さいたま先生</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|10|904|<span class="rank-name-dl">鬼若子a.k.a Mr.Y</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|11|903|<span class="rank-name-dl">セパワッサン</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|12|889|<span class="rank-name-dl">GO!@FORTES</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|13|869|<span class="rank-name-dl">ゆーき</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|14|861|<span class="rank-name-dl">K</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|15|851|<span class="rank-name-dl">Ikecchi/初号機</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|16|850|<span class="rank-name-dl">ryu-yan</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|17|847|<span class="rank-name-dl">直哉</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|18|837|<span class="rank-name-dl">Mr.Y</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|19|836|<span class="rank-name-dl">やまだ</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|20|827|<span class="rank-name-dl">Tiger</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|21|817|<span class="rank-name-dl">こばちっち</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|22|800|<span class="rank-name-dl">いつきくけ</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|23|796|<span class="rank-name-dl">Mr.SHOEI</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|24|780|<span class="rank-name-dl">ＴＰ</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|25|643|<span class="rank-name-dl">mai</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|26|575|<span class="rank-name-dl">KINGカーメン</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|27|541|<span class="rank-name-dl">たらぼう</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|28|536|<span class="rank-name-dl">めーりさん</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|29|523|<span class="rank-name-dl">RINRIN</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|30|505|<span class="rank-name-dl">しほ</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|31|502|<span class="rank-name-dl">えりやん</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|32|499|<span class="rank-name-dl">りえさん2929</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|33|454|<span class="rank-name-dl">DOJIGO</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|34|453|<span class="rank-name-dl">リオルマイト</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|35|435|<span class="rank-name-dl">み〜き</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|36|357|<span class="rank-name-dl">おばぶん</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|37|337|<span class="rank-name-dl">lionaʕ•ﻌ•ʔ</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|38|311|<span class="rank-name-dl">りりあん</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|39|302|<span class="rank-name-dl">Mayan</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -56,26 +73,43 @@ ___
 |---|---|---|---|---|
 |1|1200|<span class="rank-name-dl">多分?CRE§T?</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
 |2|1053|<span class="rank-name-dl">雄平FuD&#x27;s@DCG</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
-|3|981|<span class="rank-name-dl">髷一家☆ぶー☆PC</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
-|4|944|<span class="rank-name-dl">さいたま先生</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
-|5|929|<span class="rank-name-dl">TOSHI</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
-|5|929|<span class="rank-name-dl">すいまー</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
-|7|904|<span class="rank-name-dl">鬼若子a.k.a Mr.Y</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
-|8|903|<span class="rank-name-dl">セパワッサン</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
-|9|889|<span class="rank-name-dl">GO!@FORTES</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
-|10|861|<span class="rank-name-dl">K</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
-|11|837|<span class="rank-name-dl">Mr.Y</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
-|12|827|<span class="rank-name-dl">Tiger</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
-|13|813|<span class="rank-name-dl">こばちっち</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
-|14|780|<span class="rank-name-dl">ＴＰ</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
-|15|541|<span class="rank-name-dl">たらぼう</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
-|16|523|<span class="rank-name-dl">RINRIN</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
-|17|502|<span class="rank-name-dl">えりやん</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
-|18|499|<span class="rank-name-dl">りえさん2929</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
-|19|453|<span class="rank-name-dl">リオルマイト</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
-|20|452|<span class="rank-name-dl">DOJIGO</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
-|21|435|<span class="rank-name-dl">み〜き</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
-|22|311|<span class="rank-name-dl">りりあん</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|3|1051|<span class="rank-name-dl">Shack∞3CRE§T3</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|4|1000|<span class="rank-name-dl">めんchan☆DT</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|5|998|<span class="rank-name-dl">すいまー</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|6|981|<span class="rank-name-dl">髷一家☆ぶー☆PC</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|7|979|<span class="rank-name-dl">ゆっくん【爆笑】</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|8|971|<span class="rank-name-dl">TOSHI</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|9|944|<span class="rank-name-dl">さいたま先生</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|10|904|<span class="rank-name-dl">鬼若子a.k.a Mr.Y</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|11|903|<span class="rank-name-dl">セパワッサン</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|12|889|<span class="rank-name-dl">GO!@FORTES</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|13|869|<span class="rank-name-dl">ゆーき</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|14|861|<span class="rank-name-dl">K</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|15|851|<span class="rank-name-dl">Ikecchi/初号機</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|16|850|<span class="rank-name-dl">ryu-yan</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|17|847|<span class="rank-name-dl">直哉</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|18|837|<span class="rank-name-dl">Mr.Y</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|19|836|<span class="rank-name-dl">やまだ</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|20|827|<span class="rank-name-dl">Tiger</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|21|817|<span class="rank-name-dl">こばちっち</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|22|800|<span class="rank-name-dl">いつきくけ</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|23|796|<span class="rank-name-dl">Mr.SHOEI</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|24|780|<span class="rank-name-dl">ＴＰ</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|25|643|<span class="rank-name-dl">mai</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|26|575|<span class="rank-name-dl">KINGカーメン</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|27|541|<span class="rank-name-dl">たらぼう</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|28|536|<span class="rank-name-dl">めーりさん</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|29|523|<span class="rank-name-dl">RINRIN</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|30|505|<span class="rank-name-dl">しほ</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|31|502|<span class="rank-name-dl">えりやん</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|32|499|<span class="rank-name-dl">りえさん2929</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|33|454|<span class="rank-name-dl">DOJIGO</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|34|453|<span class="rank-name-dl">リオルマイト</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|35|435|<span class="rank-name-dl">み〜き</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|36|357|<span class="rank-name-dl">おばぶん</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|37|337|<span class="rank-name-dl">lionaʕ•ﻌ•ʔ</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|38|311|<span class="rank-name-dl">りりあん</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
+|39|302|<span class="rank-name-dl">Mayan</span>|<a href="https://search.dartslive.com/jp/shop/53bb72581ba36ed10d9b047a20a7ba1e">あそびば 貝塚店</a>|<a href="/darts/rank/大阪府/貝塚市">大阪府貝塚市</a>|
 
 
 #### PHOENIXDARTS TOP 100

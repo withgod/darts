@@ -23,10 +23,22 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|677|<span class="rank-name-dl">Dragon坊主</span>|<a href="https://search.dartslive.com/jp/shop/d7dbb13cdb8ed1560d9b047a20a7ba1e">DragonBowZ</a>|<a href="/darts/rank/愛媛県/伊予市">愛媛県伊予市</a>|
-|2|616|<span class="rank-name-dl">Kawata Maria</span>|<a href="https://search.dartslive.com/jp/shop/d7dbb13cdb8ed1560d9b047a20a7ba1e">DragonBowZ</a>|<a href="/darts/rank/愛媛県/伊予市">愛媛県伊予市</a>|
-|3|604|<span class="rank-name-dl">k5uk@龍坊主</span>|<a href="https://search.dartslive.com/jp/shop/d7dbb13cdb8ed1560d9b047a20a7ba1e">DragonBowZ</a>|<a href="/darts/rank/愛媛県/伊予市">愛媛県伊予市</a>|
-|4|410|<span class="rank-name-dl">✹✹✹き✹✹✹</span>|<a href="https://search.dartslive.com/jp/shop/d7dbb13cdb8ed1560d9b047a20a7ba1e">DragonBowZ</a>|<a href="/darts/rank/愛媛県/伊予市">愛媛県伊予市</a>|
+|1|946|<span class="rank-name-dl">かどたつ</span>|<a href="https://search.dartslive.com/jp/shop/d7dbb13cdb8ed1560d9b047a20a7ba1e">DragonBowZ</a>|<a href="/darts/rank/愛媛県/伊予市">愛媛県伊予市</a>|
+|2|866|<span class="rank-name-dl">パリピシンリー</span>|<a href="https://search.dartslive.com/jp/shop/d7dbb13cdb8ed1560d9b047a20a7ba1e">DragonBowZ</a>|<a href="/darts/rank/愛媛県/伊予市">愛媛県伊予市</a>|
+|3|761|<span class="rank-name-dl">＼(*⌒0⌒)ｂ♪</span>|<a href="https://search.dartslive.com/jp/shop/d7dbb13cdb8ed1560d9b047a20a7ba1e">DragonBowZ</a>|<a href="/darts/rank/愛媛県/伊予市">愛媛県伊予市</a>|
+|4|707|<span class="rank-name-dl">かずくん</span>|<a href="https://search.dartslive.com/jp/shop/d7dbb13cdb8ed1560d9b047a20a7ba1e">DragonBowZ</a>|<a href="/darts/rank/愛媛県/伊予市">愛媛県伊予市</a>|
+|5|696|<span class="rank-name-dl">Hiro</span>|<a href="https://search.dartslive.com/jp/shop/d7dbb13cdb8ed1560d9b047a20a7ba1e">DragonBowZ</a>|<a href="/darts/rank/愛媛県/伊予市">愛媛県伊予市</a>|
+|6|692|<span class="rank-name-dl">壱！龍坊主</span>|<a href="https://search.dartslive.com/jp/shop/d7dbb13cdb8ed1560d9b047a20a7ba1e">DragonBowZ</a>|<a href="/darts/rank/愛媛県/伊予市">愛媛県伊予市</a>|
+|7|684|<span class="rank-name-dl">淳也</span>|<a href="https://search.dartslive.com/jp/shop/d7dbb13cdb8ed1560d9b047a20a7ba1e">DragonBowZ</a>|<a href="/darts/rank/愛媛県/伊予市">愛媛県伊予市</a>|
+|8|677|<span class="rank-name-dl">Dragon坊主</span>|<a href="https://search.dartslive.com/jp/shop/d7dbb13cdb8ed1560d9b047a20a7ba1e">DragonBowZ</a>|<a href="/darts/rank/愛媛県/伊予市">愛媛県伊予市</a>|
+|9|668|<span class="rank-name-dl">☆ﾘｰﾏﾝず1号渡部</span>|<a href="https://search.dartslive.com/jp/shop/d7dbb13cdb8ed1560d9b047a20a7ba1e">DragonBowZ</a>|<a href="/darts/rank/愛媛県/伊予市">愛媛県伊予市</a>|
+|10|661|<span class="rank-name-dl">Rikuto</span>|<a href="https://search.dartslive.com/jp/shop/d7dbb13cdb8ed1560d9b047a20a7ba1e">DragonBowZ</a>|<a href="/darts/rank/愛媛県/伊予市">愛媛県伊予市</a>|
+|11|644|<span class="rank-name-dl">Kawata Maria</span>|<a href="https://search.dartslive.com/jp/shop/d7dbb13cdb8ed1560d9b047a20a7ba1e">DragonBowZ</a>|<a href="/darts/rank/愛媛県/伊予市">愛媛県伊予市</a>|
+|12|604|<span class="rank-name-dl">k5uk@龍坊主</span>|<a href="https://search.dartslive.com/jp/shop/d7dbb13cdb8ed1560d9b047a20a7ba1e">DragonBowZ</a>|<a href="/darts/rank/愛媛県/伊予市">愛媛県伊予市</a>|
+|13|548|<span class="rank-name-dl">NO NAME 3991</span>|<a href="https://search.dartslive.com/jp/shop/d7dbb13cdb8ed1560d9b047a20a7ba1e">DragonBowZ</a>|<a href="/darts/rank/愛媛県/伊予市">愛媛県伊予市</a>|
+|14|493|<span class="rank-name-dl">NO NAME 7997</span>|<a href="https://search.dartslive.com/jp/shop/d7dbb13cdb8ed1560d9b047a20a7ba1e">DragonBowZ</a>|<a href="/darts/rank/愛媛県/伊予市">愛媛県伊予市</a>|
+|15|445|<span class="rank-name-dl">✹KikukO✹</span>|<a href="https://search.dartslive.com/jp/shop/d7dbb13cdb8ed1560d9b047a20a7ba1e">DragonBowZ</a>|<a href="/darts/rank/愛媛県/伊予市">愛媛県伊予市</a>|
+|16|410|<span class="rank-name-dl">✹✹✹き✹✹✹</span>|<a href="https://search.dartslive.com/jp/shop/d7dbb13cdb8ed1560d9b047a20a7ba1e">DragonBowZ</a>|<a href="/darts/rank/愛媛県/伊予市">愛媛県伊予市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -36,10 +48,22 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|677|<span class="rank-name-dl">Dragon坊主</span>|<a href="https://search.dartslive.com/jp/shop/d7dbb13cdb8ed1560d9b047a20a7ba1e">DragonBowZ</a>|<a href="/darts/rank/愛媛県/伊予市">愛媛県伊予市</a>|
-|2|616|<span class="rank-name-dl">Kawata Maria</span>|<a href="https://search.dartslive.com/jp/shop/d7dbb13cdb8ed1560d9b047a20a7ba1e">DragonBowZ</a>|<a href="/darts/rank/愛媛県/伊予市">愛媛県伊予市</a>|
-|3|604|<span class="rank-name-dl">k5uk@龍坊主</span>|<a href="https://search.dartslive.com/jp/shop/d7dbb13cdb8ed1560d9b047a20a7ba1e">DragonBowZ</a>|<a href="/darts/rank/愛媛県/伊予市">愛媛県伊予市</a>|
-|4|410|<span class="rank-name-dl">✹✹✹き✹✹✹</span>|<a href="https://search.dartslive.com/jp/shop/d7dbb13cdb8ed1560d9b047a20a7ba1e">DragonBowZ</a>|<a href="/darts/rank/愛媛県/伊予市">愛媛県伊予市</a>|
+|1|946|<span class="rank-name-dl">かどたつ</span>|<a href="https://search.dartslive.com/jp/shop/d7dbb13cdb8ed1560d9b047a20a7ba1e">DragonBowZ</a>|<a href="/darts/rank/愛媛県/伊予市">愛媛県伊予市</a>|
+|2|866|<span class="rank-name-dl">パリピシンリー</span>|<a href="https://search.dartslive.com/jp/shop/d7dbb13cdb8ed1560d9b047a20a7ba1e">DragonBowZ</a>|<a href="/darts/rank/愛媛県/伊予市">愛媛県伊予市</a>|
+|3|761|<span class="rank-name-dl">＼(*⌒0⌒)ｂ♪</span>|<a href="https://search.dartslive.com/jp/shop/d7dbb13cdb8ed1560d9b047a20a7ba1e">DragonBowZ</a>|<a href="/darts/rank/愛媛県/伊予市">愛媛県伊予市</a>|
+|4|707|<span class="rank-name-dl">かずくん</span>|<a href="https://search.dartslive.com/jp/shop/d7dbb13cdb8ed1560d9b047a20a7ba1e">DragonBowZ</a>|<a href="/darts/rank/愛媛県/伊予市">愛媛県伊予市</a>|
+|5|696|<span class="rank-name-dl">Hiro</span>|<a href="https://search.dartslive.com/jp/shop/d7dbb13cdb8ed1560d9b047a20a7ba1e">DragonBowZ</a>|<a href="/darts/rank/愛媛県/伊予市">愛媛県伊予市</a>|
+|6|692|<span class="rank-name-dl">壱！龍坊主</span>|<a href="https://search.dartslive.com/jp/shop/d7dbb13cdb8ed1560d9b047a20a7ba1e">DragonBowZ</a>|<a href="/darts/rank/愛媛県/伊予市">愛媛県伊予市</a>|
+|7|684|<span class="rank-name-dl">淳也</span>|<a href="https://search.dartslive.com/jp/shop/d7dbb13cdb8ed1560d9b047a20a7ba1e">DragonBowZ</a>|<a href="/darts/rank/愛媛県/伊予市">愛媛県伊予市</a>|
+|8|677|<span class="rank-name-dl">Dragon坊主</span>|<a href="https://search.dartslive.com/jp/shop/d7dbb13cdb8ed1560d9b047a20a7ba1e">DragonBowZ</a>|<a href="/darts/rank/愛媛県/伊予市">愛媛県伊予市</a>|
+|9|668|<span class="rank-name-dl">☆ﾘｰﾏﾝず1号渡部</span>|<a href="https://search.dartslive.com/jp/shop/d7dbb13cdb8ed1560d9b047a20a7ba1e">DragonBowZ</a>|<a href="/darts/rank/愛媛県/伊予市">愛媛県伊予市</a>|
+|10|661|<span class="rank-name-dl">Rikuto</span>|<a href="https://search.dartslive.com/jp/shop/d7dbb13cdb8ed1560d9b047a20a7ba1e">DragonBowZ</a>|<a href="/darts/rank/愛媛県/伊予市">愛媛県伊予市</a>|
+|11|644|<span class="rank-name-dl">Kawata Maria</span>|<a href="https://search.dartslive.com/jp/shop/d7dbb13cdb8ed1560d9b047a20a7ba1e">DragonBowZ</a>|<a href="/darts/rank/愛媛県/伊予市">愛媛県伊予市</a>|
+|12|604|<span class="rank-name-dl">k5uk@龍坊主</span>|<a href="https://search.dartslive.com/jp/shop/d7dbb13cdb8ed1560d9b047a20a7ba1e">DragonBowZ</a>|<a href="/darts/rank/愛媛県/伊予市">愛媛県伊予市</a>|
+|13|548|<span class="rank-name-dl">NO NAME 3991</span>|<a href="https://search.dartslive.com/jp/shop/d7dbb13cdb8ed1560d9b047a20a7ba1e">DragonBowZ</a>|<a href="/darts/rank/愛媛県/伊予市">愛媛県伊予市</a>|
+|14|493|<span class="rank-name-dl">NO NAME 7997</span>|<a href="https://search.dartslive.com/jp/shop/d7dbb13cdb8ed1560d9b047a20a7ba1e">DragonBowZ</a>|<a href="/darts/rank/愛媛県/伊予市">愛媛県伊予市</a>|
+|15|445|<span class="rank-name-dl">✹KikukO✹</span>|<a href="https://search.dartslive.com/jp/shop/d7dbb13cdb8ed1560d9b047a20a7ba1e">DragonBowZ</a>|<a href="/darts/rank/愛媛県/伊予市">愛媛県伊予市</a>|
+|16|410|<span class="rank-name-dl">✹✹✹き✹✹✹</span>|<a href="https://search.dartslive.com/jp/shop/d7dbb13cdb8ed1560d9b047a20a7ba1e">DragonBowZ</a>|<a href="/darts/rank/愛媛県/伊予市">愛媛県伊予市</a>|
 
 
 #### PHOENIXDARTS TOP 100
