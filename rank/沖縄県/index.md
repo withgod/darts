@@ -43,106 +43,106 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1440|<span class="rank-name-pd">Nina and Re2&#x27;s Papa</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5939?s_seq=5939">ダーツスポット39</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
-|2|1230|<span class="rank-name-pd">2439-1  T</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|3|1200|<span class="rank-name-dl">みっきーCUE SOUL</span>|<a href="https://search.dartslive.com/jp/shop/e536fef99bd82260a3f63593b5358cc4">快活CLUB 宜野湾店</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
-|4|1168|<span class="rank-name-dl">ぶんぶん</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|5|1123|<span class="rank-name-pd">わと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10508?s_seq=10508">Hanabi</a>|<a href="/darts/rank/沖縄県/中頭郡">沖縄県中頭郡</a>|
-|6|1119|<span class="rank-name-pd">AKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9047?s_seq=9047">VALNOOT</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
-|6|1119|<span class="rank-name-pd">Haile Selassie 1</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5339?s_seq=5339">キスショット</a>|<a href="/darts/rank/沖縄県/名護市">沖縄県名護市</a>|
-|6|1119|<span class="rank-name-pd">照屋 圭樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_43123?s_seq=43123">喫茶 まっちょ</a>|<a href="/darts/rank/沖縄県/国頭郡">沖縄県国頭郡</a>|
-|9|1118|<span class="rank-name-dl">のーぶー</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|9|1118|<span class="rank-name-pd">ほろもも</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47179?s_seq=47179">LIEN</a>|<a href="/darts/rank/沖縄県/浦添市">沖縄県浦添市</a>|
-|11|1113|<span class="rank-name-dl">イペッイロシオオ</span>|<a href="https://search.dartslive.com/jp/shop/0142e7050cc33cb258d385ea46352d8f">BAR KING</a>|<a href="/darts/rank/沖縄県/沖縄市">沖縄県沖縄市</a>|
-|12|1110|<span class="rank-name-pd">喫茶　まっちょ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5339?s_seq=5339">キスショット</a>|<a href="/darts/rank/沖縄県/名護市">沖縄県名護市</a>|
-|13|1109|<span class="rank-name-dl">長谷部　巧</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|14|1108|<span class="rank-name-pd">0046-1PPE1</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87373?s_seq=87373">ORIENS</a>|<a href="/darts/rank/沖縄県/中頭郡">沖縄県中頭郡</a>|
-|14|1108|<span class="rank-name-pd">たけもとよしのぶ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6955?s_seq=6955">max OKINAWA 那覇店</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
-|16|1105|<span class="rank-name-pd">0154_7211</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8834?s_seq=8834">ラウンドワン宜野湾店</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
-|16|1105|<span class="rank-name-pd">棟田 貴弥</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69568?s_seq=69568">BONDS</a>|<a href="/darts/rank/沖縄県/沖縄市">沖縄県沖縄市</a>|
-|18|1095|<span class="rank-name-pd">ka----@#Ｋ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85528?s_seq=85528">倶楽部琉邦</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
-|19|1094|<span class="rank-name-pd">-*CHIRORU*~KING~123-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72248?s_seq=72248">Hammer</a>|<a href="/darts/rank/沖縄県/沖縄市">沖縄県沖縄市</a>|
-|20|1093|<span class="rank-name-pd">1046。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9047?s_seq=9047">VALNOOT</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
-|20|1093|<span class="rank-name-pd">A-KI-HIDARI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9047?s_seq=9047">VALNOOT</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
-|22|1092|<span class="rank-name-pd">宮城 信弘</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|23|1091|<span class="rank-name-pd">じ～ちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_43123?s_seq=43123">喫茶 まっちょ</a>|<a href="/darts/rank/沖縄県/国頭郡">沖縄県国頭郡</a>|
-|24|1088|<span class="rank-name-pd">おっぴー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88420?s_seq=88420">Bee Bee</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
-|25|1087|<span class="rank-name-pd">ろと@</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41122?s_seq=41122">Joker</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
-|26|1084|<span class="rank-name-dl">NO NAME 4223</span>|<a href="https://search.dartslive.com/jp/shop/0c161089cfc6fcd658d385ea46352d8f">BAR SeaRadLudic</a>|<a href="/darts/rank/沖縄県/名護市">沖縄県名護市</a>|
-|27|1081|<span class="rank-name-pd"><span class="pro-icon-pd"></span>澤岻 大空</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79412?s_seq=79412">REXX</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
-|28|1078|<span class="rank-name-pd">KOSUKE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81316?s_seq=81316">Arrange</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
-|28|1078|<span class="rank-name-pd">へしき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87503?s_seq=87503">フラット</a>|<a href="/darts/rank/沖縄県/中頭郡">沖縄県中頭郡</a>|
-|30|1072|<span class="rank-name-pd">喫茶　まっちょ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_43123?s_seq=43123">喫茶 まっちょ</a>|<a href="/darts/rank/沖縄県/国頭郡">沖縄県国頭郡</a>|
-|31|1071|<span class="rank-name-pd">( *´艸) ｱﾋｬﾋｬ➰ﾋｬ🎶</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|31|1071|<span class="rank-name-pd">shooooooo</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88420?s_seq=88420">Bee Bee</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
-|31|1071|<span class="rank-name-dl">りのがなろしらあ</span>|<a href="https://search.dartslive.com/jp/shop/4943b85de0570e12a3f63593b5358cc4">dining bar ACOUTE</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
-|34|1066|<span class="rank-name-pd">JUN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|34|1066|<span class="rank-name-pd"><span class="pro-icon-pd"></span>手島 拓也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82536?s_seq=82536">ACOUTE</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
-|36|1065|<span class="rank-name-pd">snoopy-suke</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91343?s_seq=91343">JINGAMA</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
-|37|1060|<span class="rank-name-pd">ただのダーツおじさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5259?s_seq=5259">PINK ELEPHANT</a>|<a href="/darts/rank/沖縄県/中頭郡">沖縄県中頭郡</a>|
-|38|1058|<span class="rank-name-pd">ゆーた</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5924?s_seq=5924">ぽっぽやはうす</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
-|39|1055|<span class="rank-name-pd">じ～ちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5339?s_seq=5339">キスショット</a>|<a href="/darts/rank/沖縄県/名護市">沖縄県名護市</a>|
-|39|1055|<span class="rank-name-pd">みっきーCUE SOUL☆L-style</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82536?s_seq=82536">ACOUTE</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
-|41|1054|<span class="rank-name-pd">[INFINITY]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9047?s_seq=9047">VALNOOT</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
-|41|1054|<span class="rank-name-pd">じ～ちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8599?s_seq=8599">RED BULL'S</a>|<a href="/darts/rank/沖縄県/名護市">沖縄県名護市</a>|
-|43|1053|<span class="rank-name-pd">M-RON[YUKI]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9240?s_seq=9240">Drink&Food M-RON</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
-|44|1052|<span class="rank-name-pd">チキン軍団　A-KI-　</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9047?s_seq=9047">VALNOOT</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
-|44|1052|<span class="rank-name-pd">平良　裕馬</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7386?s_seq=7386">メッツ</a>|<a href="/darts/rank/沖縄県/沖縄市">沖縄県沖縄市</a>|
-|46|1051|<span class="rank-name-pd">0430</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
-|46|1051|<span class="rank-name-pd">のぶー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|48|1050|<span class="rank-name-pd">翔悟</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52666?s_seq=52666">CHOICE</a>|<a href="/darts/rank/沖縄県/名護市">沖縄県名護市</a>|
-|49|1047|<span class="rank-name-pd">翔悟</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8599?s_seq=8599">RED BULL'S</a>|<a href="/darts/rank/沖縄県/名護市">沖縄県名護市</a>|
-|50|1045|<span class="rank-name-dl">Fuku@west☆end</span>|<a href="https://search.dartslive.com/jp/shop/f1b85b87f406dd530d9b047a20a7ba1e">ラウンドワン沖縄南風原店</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
-|51|1044|<span class="rank-name-pd">大王いけ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5259?s_seq=5259">PINK ELEPHANT</a>|<a href="/darts/rank/沖縄県/中頭郡">沖縄県中頭郡</a>|
-|52|1043|<span class="rank-name-pd">K4zzzz</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72470?s_seq=72470">GAMUSHARA</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
-|52|1043|<span class="rank-name-pd">∞INFINITY∞</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9047?s_seq=9047">VALNOOT</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
-|54|1042|<span class="rank-name-pd">ただのダーツおじさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7386?s_seq=7386">メッツ</a>|<a href="/darts/rank/沖縄県/沖縄市">沖縄県沖縄市</a>|
-|55|1040|<span class="rank-name-pd">だーにし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41122?s_seq=41122">Joker</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
-|55|1040|<span class="rank-name-pd">ギエピー！！！！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41122?s_seq=41122">Joker</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
-|57|1039|<span class="rank-name-pd">とよき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|57|1039|<span class="rank-name-pd">わと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9903?s_seq=9903">ビリヤード CUE</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
-|59|1037|<span class="rank-name-pd">つぐ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5924?s_seq=5924">ぽっぽやはうす</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
-|59|1037|<span class="rank-name-pd">俺がぶんぶん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|61|1033|<span class="rank-name-dl">西哲平TRINIDAD</span>|<a href="https://search.dartslive.com/jp/shop/0c161089cfc6fcd658d385ea46352d8f">BAR SeaRadLudic</a>|<a href="/darts/rank/沖縄県/名護市">沖縄県名護市</a>|
-|62|1031|<span class="rank-name-pd">Haile Selassie 1</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8599?s_seq=8599">RED BULL'S</a>|<a href="/darts/rank/沖縄県/名護市">沖縄県名護市</a>|
-|62|1031|<span class="rank-name-pd">byaf_</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81788?s_seq=81788">快活CLUB 浦添店</a>|<a href="/darts/rank/沖縄県/浦添市">沖縄県浦添市</a>|
-|62|1031|<span class="rank-name-pd">ぢロを【ＪＩＲＯ】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9047?s_seq=9047">VALNOOT</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
-|65|1029|<span class="rank-name-pd">はたぼー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7258?s_seq=7258">Darts bar JAWS</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
-|66|1028|<span class="rank-name-pd">shimu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7386?s_seq=7386">メッツ</a>|<a href="/darts/rank/沖縄県/沖縄市">沖縄県沖縄市</a>|
-|67|1026|<span class="rank-name-dl">NO NAME FUKU</span>|<a href="https://search.dartslive.com/jp/shop/f1b85b87f406dd530d9b047a20a7ba1e">ラウンドワン沖縄南風原店</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
-|68|1022|<span class="rank-name-dl">tatsuki</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|69|1019|<span class="rank-name-pd">Y.O</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7386?s_seq=7386">メッツ</a>|<a href="/darts/rank/沖縄県/沖縄市">沖縄県沖縄市</a>|
-|70|1018|<span class="rank-name-pd"><span class="pro-icon-pd"></span>宮里 力矢</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9454?s_seq=9454">ZONE</a>|<a href="/darts/rank/沖縄県/名護市">沖縄県名護市</a>|
-|71|1015|<span class="rank-name-pd">belrey</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_66348?s_seq=66348">ビリヤード＆ダーツ SPIRIT</a>|<a href="/darts/rank/沖縄県/沖縄市">沖縄県沖縄市</a>|
-|71|1015|<span class="rank-name-pd">ろと@</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7281?s_seq=7281">AZTECA</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
-|71|1015|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/634e4b79ada3b3df0d9b047a20a7ba1e">ラウンドワン沖縄宜野湾店</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
-|74|1013|<span class="rank-name-pd">KAZOO.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52666?s_seq=52666">CHOICE</a>|<a href="/darts/rank/沖縄県/名護市">沖縄県名護市</a>|
-|75|1012|<span class="rank-name-pd">SILVER☆野村安成</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8820?s_seq=8820">SILVER</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
-|75|1012|<span class="rank-name-pd">ただのダーツおじさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10508?s_seq=10508">Hanabi</a>|<a href="/darts/rank/沖縄県/中頭郡">沖縄県中頭郡</a>|
-|75|1012|<span class="rank-name-pd">前田 大輔</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58773?s_seq=58773">Bar 23</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|78|1011|<span class="rank-name-pd">0207_8277</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9240?s_seq=9240">Drink&Food M-RON</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
-|78|1011|<span class="rank-name-pd">たいちゃん@RDC</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65074?s_seq=65074">快活CLUB 宜野湾店</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
-|80|1010|<span class="rank-name-pd">-T-1048 SPECIAL</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9047?s_seq=9047">VALNOOT</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
-|80|1010|<span class="rank-name-pd">かねしろ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6955?s_seq=6955">max OKINAWA 那覇店</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
-|80|1010|<span class="rank-name-dl">みっきーCUE SOUL</span>|<a href="https://search.dartslive.com/jp/shop/3fea54aab6f9752d0d9b047a20a7ba1e">ROCKY</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
-|83|1009|<span class="rank-name-pd">-*CHIRORU*~KING~123-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7386?s_seq=7386">メッツ</a>|<a href="/darts/rank/沖縄県/沖縄市">沖縄県沖縄市</a>|
-|83|1009|<span class="rank-name-pd">たつき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8834?s_seq=8834">ラウンドワン宜野湾店</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
-|85|1008|<span class="rank-name-pd">わと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_66348?s_seq=66348">ビリヤード＆ダーツ SPIRIT</a>|<a href="/darts/rank/沖縄県/沖縄市">沖縄県沖縄市</a>|
-|85|1008|<span class="rank-name-pd">儀保 希龍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7386?s_seq=7386">メッツ</a>|<a href="/darts/rank/沖縄県/沖縄市">沖縄県沖縄市</a>|
-|87|1007|<span class="rank-name-pd">56</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5339?s_seq=5339">キスショット</a>|<a href="/darts/rank/沖縄県/名護市">沖縄県名護市</a>|
-|87|1007|<span class="rank-name-pd">SYUN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69568?s_seq=69568">BONDS</a>|<a href="/darts/rank/沖縄県/沖縄市">沖縄県沖縄市</a>|
-|89|1005|<span class="rank-name-pd">　首里　匡士　</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65074?s_seq=65074">快活CLUB 宜野湾店</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
-|89|1005|<span class="rank-name-pd"><span class="pro-icon-pd"></span>首里 匡士</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88420?s_seq=88420">Bee Bee</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
-|91|1004|<span class="rank-name-pd">ただのダーツおじさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42297?s_seq=42297">NEO BAATA</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
-|91|1004|<span class="rank-name-pd">ただのダーツおじさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9047?s_seq=9047">VALNOOT</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
-|91|1004|<span class="rank-name-pd">ひふみん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
-|91|1004|<span class="rank-name-pd">りよん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69991?s_seq=69991">Bar Cuore NAHA</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
-|95|1001|<span class="rank-name-pd">Haile Selassie 1</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10811?s_seq=10811">B's</a>|<a href="/darts/rank/沖縄県/名護市">沖縄県名護市</a>|
-|96|1000|<span class="rank-name-pd">CHANIGA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89453?s_seq=89453">西崎せんべろからおけ</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
-|96|1000|<span class="rank-name-pd"><span class="pro-icon-pd"></span>竹本 吉伸</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6955?s_seq=6955">max OKINAWA 那覇店</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
-|98|999|<span class="rank-name-pd">snoopy-suke</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7457?s_seq=7457">DARTS&BAR Quatro</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
-|98|999|<span class="rank-name-pd">つぐ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84403?s_seq=84403">ダーツ＆ビリヤード　ギンパラ</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
-|100|998|<span class="rank-name-pd">KAKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91343?s_seq=91343">JINGAMA</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
+|1|1200|<span class="rank-name-dl">みっきーCUE SOUL</span>|<a href="https://search.dartslive.com/jp/shop/e536fef99bd82260a3f63593b5358cc4">快活CLUB 宜野湾店</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
+|2|1168|<span class="rank-name-dl">ぶんぶん</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|3|1123|<span class="rank-name-pd">わと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10508?s_seq=10508">Hanabi</a>|<a href="/darts/rank/沖縄県/中頭郡">沖縄県中頭郡</a>|
+|4|1119|<span class="rank-name-pd">AKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9047?s_seq=9047">VALNOOT</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
+|4|1119|<span class="rank-name-pd">Haile Selassie 1</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5339?s_seq=5339">キスショット</a>|<a href="/darts/rank/沖縄県/名護市">沖縄県名護市</a>|
+|4|1119|<span class="rank-name-pd">照屋 圭樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_43123?s_seq=43123">喫茶 まっちょ</a>|<a href="/darts/rank/沖縄県/国頭郡">沖縄県国頭郡</a>|
+|7|1118|<span class="rank-name-dl">のーぶー</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|7|1118|<span class="rank-name-pd">ほろもも</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47179?s_seq=47179">LIEN</a>|<a href="/darts/rank/沖縄県/浦添市">沖縄県浦添市</a>|
+|9|1113|<span class="rank-name-dl">イペッイロシオオ</span>|<a href="https://search.dartslive.com/jp/shop/0142e7050cc33cb258d385ea46352d8f">BAR KING</a>|<a href="/darts/rank/沖縄県/沖縄市">沖縄県沖縄市</a>|
+|10|1110|<span class="rank-name-pd">喫茶　まっちょ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5339?s_seq=5339">キスショット</a>|<a href="/darts/rank/沖縄県/名護市">沖縄県名護市</a>|
+|11|1109|<span class="rank-name-dl">長谷部　巧</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|12|1108|<span class="rank-name-pd">0046-1PPE1</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87373?s_seq=87373">ORIENS</a>|<a href="/darts/rank/沖縄県/中頭郡">沖縄県中頭郡</a>|
+|12|1108|<span class="rank-name-pd">たけもとよしのぶ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6955?s_seq=6955">max OKINAWA 那覇店</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
+|14|1105|<span class="rank-name-pd">0154_7211</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8834?s_seq=8834">ラウンドワン宜野湾店</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
+|14|1105|<span class="rank-name-pd">棟田 貴弥</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69568?s_seq=69568">BONDS</a>|<a href="/darts/rank/沖縄県/沖縄市">沖縄県沖縄市</a>|
+|16|1095|<span class="rank-name-pd">ka----@#Ｋ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85528?s_seq=85528">倶楽部琉邦</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
+|17|1094|<span class="rank-name-pd">-*CHIRORU*~KING~123-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72248?s_seq=72248">Hammer</a>|<a href="/darts/rank/沖縄県/沖縄市">沖縄県沖縄市</a>|
+|18|1093|<span class="rank-name-pd">1046。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9047?s_seq=9047">VALNOOT</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
+|18|1093|<span class="rank-name-pd">A-KI-HIDARI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9047?s_seq=9047">VALNOOT</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
+|20|1092|<span class="rank-name-pd">宮城 信弘</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|21|1091|<span class="rank-name-pd">じ～ちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_43123?s_seq=43123">喫茶 まっちょ</a>|<a href="/darts/rank/沖縄県/国頭郡">沖縄県国頭郡</a>|
+|22|1088|<span class="rank-name-pd">おっぴー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88420?s_seq=88420">Bee Bee</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
+|23|1087|<span class="rank-name-pd">ろと@</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41122?s_seq=41122">Joker</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
+|24|1084|<span class="rank-name-dl">NO NAME 4223</span>|<a href="https://search.dartslive.com/jp/shop/0c161089cfc6fcd658d385ea46352d8f">BAR SeaRadLudic</a>|<a href="/darts/rank/沖縄県/名護市">沖縄県名護市</a>|
+|25|1081|<span class="rank-name-pd"><span class="pro-icon-pd"></span>澤岻 大空</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79412?s_seq=79412">REXX</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
+|26|1078|<span class="rank-name-pd">KOSUKE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81316?s_seq=81316">Arrange</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|26|1078|<span class="rank-name-pd">へしき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87503?s_seq=87503">フラット</a>|<a href="/darts/rank/沖縄県/中頭郡">沖縄県中頭郡</a>|
+|28|1072|<span class="rank-name-pd">喫茶　まっちょ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_43123?s_seq=43123">喫茶 まっちょ</a>|<a href="/darts/rank/沖縄県/国頭郡">沖縄県国頭郡</a>|
+|29|1071|<span class="rank-name-pd">( *´艸) ｱﾋｬﾋｬ➰ﾋｬ🎶</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|29|1071|<span class="rank-name-pd">shooooooo</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88420?s_seq=88420">Bee Bee</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
+|29|1071|<span class="rank-name-dl">りのがなろしらあ</span>|<a href="https://search.dartslive.com/jp/shop/4943b85de0570e12a3f63593b5358cc4">dining bar ACOUTE</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
+|32|1066|<span class="rank-name-pd">JUN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|32|1066|<span class="rank-name-pd"><span class="pro-icon-pd"></span>手島 拓也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82536?s_seq=82536">ACOUTE</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
+|34|1065|<span class="rank-name-pd">snoopy-suke</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91343?s_seq=91343">JINGAMA</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
+|35|1060|<span class="rank-name-pd">ただのダーツおじさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5259?s_seq=5259">PINK ELEPHANT</a>|<a href="/darts/rank/沖縄県/中頭郡">沖縄県中頭郡</a>|
+|36|1058|<span class="rank-name-pd">ゆーた</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5924?s_seq=5924">ぽっぽやはうす</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
+|37|1055|<span class="rank-name-pd">じ～ちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5339?s_seq=5339">キスショット</a>|<a href="/darts/rank/沖縄県/名護市">沖縄県名護市</a>|
+|37|1055|<span class="rank-name-pd">みっきーCUE SOUL☆L-style</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82536?s_seq=82536">ACOUTE</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
+|39|1054|<span class="rank-name-pd">[INFINITY]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9047?s_seq=9047">VALNOOT</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
+|39|1054|<span class="rank-name-pd">じ～ちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8599?s_seq=8599">RED BULL'S</a>|<a href="/darts/rank/沖縄県/名護市">沖縄県名護市</a>|
+|41|1053|<span class="rank-name-pd">M-RON[YUKI]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9240?s_seq=9240">Drink&Food M-RON</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
+|42|1052|<span class="rank-name-pd">チキン軍団　A-KI-　</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9047?s_seq=9047">VALNOOT</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
+|42|1052|<span class="rank-name-pd">平良　裕馬</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7386?s_seq=7386">メッツ</a>|<a href="/darts/rank/沖縄県/沖縄市">沖縄県沖縄市</a>|
+|44|1051|<span class="rank-name-pd">0430</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
+|44|1051|<span class="rank-name-pd">のぶー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|46|1050|<span class="rank-name-pd">翔悟</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52666?s_seq=52666">CHOICE</a>|<a href="/darts/rank/沖縄県/名護市">沖縄県名護市</a>|
+|47|1047|<span class="rank-name-pd">翔悟</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8599?s_seq=8599">RED BULL'S</a>|<a href="/darts/rank/沖縄県/名護市">沖縄県名護市</a>|
+|48|1045|<span class="rank-name-dl">Fuku@west☆end</span>|<a href="https://search.dartslive.com/jp/shop/f1b85b87f406dd530d9b047a20a7ba1e">ラウンドワン沖縄南風原店</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
+|49|1044|<span class="rank-name-pd">大王いけ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5259?s_seq=5259">PINK ELEPHANT</a>|<a href="/darts/rank/沖縄県/中頭郡">沖縄県中頭郡</a>|
+|50|1043|<span class="rank-name-pd">K4zzzz</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72470?s_seq=72470">GAMUSHARA</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
+|50|1043|<span class="rank-name-pd">∞INFINITY∞</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9047?s_seq=9047">VALNOOT</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
+|52|1042|<span class="rank-name-pd">ただのダーツおじさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7386?s_seq=7386">メッツ</a>|<a href="/darts/rank/沖縄県/沖縄市">沖縄県沖縄市</a>|
+|53|1040|<span class="rank-name-pd">だーにし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41122?s_seq=41122">Joker</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
+|53|1040|<span class="rank-name-pd">ギエピー！！！！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41122?s_seq=41122">Joker</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
+|55|1039|<span class="rank-name-pd">とよき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|55|1039|<span class="rank-name-pd">わと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9903?s_seq=9903">ビリヤード CUE</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
+|57|1037|<span class="rank-name-pd">つぐ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5924?s_seq=5924">ぽっぽやはうす</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
+|57|1037|<span class="rank-name-pd">俺がぶんぶん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|59|1033|<span class="rank-name-dl">西哲平TRINIDAD</span>|<a href="https://search.dartslive.com/jp/shop/0c161089cfc6fcd658d385ea46352d8f">BAR SeaRadLudic</a>|<a href="/darts/rank/沖縄県/名護市">沖縄県名護市</a>|
+|60|1031|<span class="rank-name-pd">Haile Selassie 1</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8599?s_seq=8599">RED BULL'S</a>|<a href="/darts/rank/沖縄県/名護市">沖縄県名護市</a>|
+|60|1031|<span class="rank-name-pd">byaf_</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81788?s_seq=81788">快活CLUB 浦添店</a>|<a href="/darts/rank/沖縄県/浦添市">沖縄県浦添市</a>|
+|60|1031|<span class="rank-name-pd">ぢロを【ＪＩＲＯ】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9047?s_seq=9047">VALNOOT</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
+|63|1029|<span class="rank-name-pd">はたぼー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7258?s_seq=7258">Darts bar JAWS</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
+|64|1028|<span class="rank-name-pd">shimu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7386?s_seq=7386">メッツ</a>|<a href="/darts/rank/沖縄県/沖縄市">沖縄県沖縄市</a>|
+|65|1026|<span class="rank-name-dl">NO NAME FUKU</span>|<a href="https://search.dartslive.com/jp/shop/f1b85b87f406dd530d9b047a20a7ba1e">ラウンドワン沖縄南風原店</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
+|66|1022|<span class="rank-name-dl">tatsuki</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|67|1019|<span class="rank-name-pd">Y.O</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7386?s_seq=7386">メッツ</a>|<a href="/darts/rank/沖縄県/沖縄市">沖縄県沖縄市</a>|
+|68|1018|<span class="rank-name-pd"><span class="pro-icon-pd"></span>宮里 力矢</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9454?s_seq=9454">ZONE</a>|<a href="/darts/rank/沖縄県/名護市">沖縄県名護市</a>|
+|69|1015|<span class="rank-name-pd">belrey</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_66348?s_seq=66348">ビリヤード＆ダーツ SPIRIT</a>|<a href="/darts/rank/沖縄県/沖縄市">沖縄県沖縄市</a>|
+|69|1015|<span class="rank-name-pd">ろと@</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7281?s_seq=7281">AZTECA</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
+|69|1015|<span class="rank-name-dl">ファンタ</span>|<a href="https://search.dartslive.com/jp/shop/634e4b79ada3b3df0d9b047a20a7ba1e">ラウンドワン沖縄宜野湾店</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
+|72|1013|<span class="rank-name-pd">KAZOO.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52666?s_seq=52666">CHOICE</a>|<a href="/darts/rank/沖縄県/名護市">沖縄県名護市</a>|
+|73|1012|<span class="rank-name-pd">SILVER☆野村安成</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8820?s_seq=8820">SILVER</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
+|73|1012|<span class="rank-name-pd">ただのダーツおじさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10508?s_seq=10508">Hanabi</a>|<a href="/darts/rank/沖縄県/中頭郡">沖縄県中頭郡</a>|
+|73|1012|<span class="rank-name-pd">前田 大輔</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58773?s_seq=58773">Bar 23</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|76|1011|<span class="rank-name-pd">0207_8277</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9240?s_seq=9240">Drink&Food M-RON</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
+|76|1011|<span class="rank-name-pd">たいちゃん@RDC</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65074?s_seq=65074">快活CLUB 宜野湾店</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
+|78|1010|<span class="rank-name-pd">-T-1048 SPECIAL</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9047?s_seq=9047">VALNOOT</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
+|78|1010|<span class="rank-name-pd">かねしろ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6955?s_seq=6955">max OKINAWA 那覇店</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
+|78|1010|<span class="rank-name-dl">みっきーCUE SOUL</span>|<a href="https://search.dartslive.com/jp/shop/3fea54aab6f9752d0d9b047a20a7ba1e">ROCKY</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
+|81|1009|<span class="rank-name-pd">-*CHIRORU*~KING~123-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7386?s_seq=7386">メッツ</a>|<a href="/darts/rank/沖縄県/沖縄市">沖縄県沖縄市</a>|
+|81|1009|<span class="rank-name-pd">たつき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8834?s_seq=8834">ラウンドワン宜野湾店</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
+|83|1008|<span class="rank-name-pd">わと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_66348?s_seq=66348">ビリヤード＆ダーツ SPIRIT</a>|<a href="/darts/rank/沖縄県/沖縄市">沖縄県沖縄市</a>|
+|83|1008|<span class="rank-name-pd">儀保 希龍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7386?s_seq=7386">メッツ</a>|<a href="/darts/rank/沖縄県/沖縄市">沖縄県沖縄市</a>|
+|85|1007|<span class="rank-name-pd">56</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5339?s_seq=5339">キスショット</a>|<a href="/darts/rank/沖縄県/名護市">沖縄県名護市</a>|
+|85|1007|<span class="rank-name-pd">SYUN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69568?s_seq=69568">BONDS</a>|<a href="/darts/rank/沖縄県/沖縄市">沖縄県沖縄市</a>|
+|87|1005|<span class="rank-name-pd">　首里　匡士　</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65074?s_seq=65074">快活CLUB 宜野湾店</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
+|87|1005|<span class="rank-name-pd"><span class="pro-icon-pd"></span>首里 匡士</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88420?s_seq=88420">Bee Bee</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
+|89|1004|<span class="rank-name-pd">ただのダーツおじさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42297?s_seq=42297">NEO BAATA</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
+|89|1004|<span class="rank-name-pd">ただのダーツおじさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9047?s_seq=9047">VALNOOT</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
+|89|1004|<span class="rank-name-pd">ひふみん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
+|89|1004|<span class="rank-name-pd">りよん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69991?s_seq=69991">Bar Cuore NAHA</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
+|93|1001|<span class="rank-name-pd">Haile Selassie 1</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10811?s_seq=10811">B's</a>|<a href="/darts/rank/沖縄県/名護市">沖縄県名護市</a>|
+|94|1000|<span class="rank-name-pd">CHANIGA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89453?s_seq=89453">西崎せんべろからおけ</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
+|94|1000|<span class="rank-name-pd"><span class="pro-icon-pd"></span>竹本 吉伸</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6955?s_seq=6955">max OKINAWA 那覇店</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
+|96|999|<span class="rank-name-pd">snoopy-suke</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7457?s_seq=7457">DARTS&BAR Quatro</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
+|96|999|<span class="rank-name-pd">つぐ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84403?s_seq=84403">ダーツ＆ビリヤード　ギンパラ</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
+|98|998|<span class="rank-name-pd">KAKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91343?s_seq=91343">JINGAMA</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
+|98|998|<span class="rank-name-pd">　首里　匡士　</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7386?s_seq=7386">メッツ</a>|<a href="/darts/rank/沖縄県/沖縄市">沖縄県沖縄市</a>|
+|100|994|<span class="rank-name-pd">喜友名 亮</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5259?s_seq=5259">PINK ELEPHANT</a>|<a href="/darts/rank/沖縄県/中頭郡">沖縄県中頭郡</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -261,106 +261,106 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1440|<span class="rank-name-pd">Nina and Re2&#x27;s Papa</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5939?s_seq=5939">ダーツスポット39</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
-|2|1230|<span class="rank-name-pd">2439-1  T</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|3|1123|<span class="rank-name-pd">わと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10508?s_seq=10508">Hanabi</a>|<a href="/darts/rank/沖縄県/中頭郡">沖縄県中頭郡</a>|
-|4|1119|<span class="rank-name-pd">AKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9047?s_seq=9047">VALNOOT</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
-|4|1119|<span class="rank-name-pd">Haile Selassie 1</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5339?s_seq=5339">キスショット</a>|<a href="/darts/rank/沖縄県/名護市">沖縄県名護市</a>|
-|4|1119|<span class="rank-name-pd">照屋 圭樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_43123?s_seq=43123">喫茶 まっちょ</a>|<a href="/darts/rank/沖縄県/国頭郡">沖縄県国頭郡</a>|
-|7|1118|<span class="rank-name-pd">ほろもも</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47179?s_seq=47179">LIEN</a>|<a href="/darts/rank/沖縄県/浦添市">沖縄県浦添市</a>|
-|8|1110|<span class="rank-name-pd">喫茶　まっちょ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5339?s_seq=5339">キスショット</a>|<a href="/darts/rank/沖縄県/名護市">沖縄県名護市</a>|
-|9|1108|<span class="rank-name-pd">0046-1PPE1</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87373?s_seq=87373">ORIENS</a>|<a href="/darts/rank/沖縄県/中頭郡">沖縄県中頭郡</a>|
-|9|1108|<span class="rank-name-pd">たけもとよしのぶ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6955?s_seq=6955">max OKINAWA 那覇店</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
-|11|1105|<span class="rank-name-pd">0154_7211</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8834?s_seq=8834">ラウンドワン宜野湾店</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
-|11|1105|<span class="rank-name-pd">棟田 貴弥</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69568?s_seq=69568">BONDS</a>|<a href="/darts/rank/沖縄県/沖縄市">沖縄県沖縄市</a>|
-|13|1095|<span class="rank-name-pd">ka----@#Ｋ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85528?s_seq=85528">倶楽部琉邦</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
-|14|1094|<span class="rank-name-pd">-*CHIRORU*~KING~123-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72248?s_seq=72248">Hammer</a>|<a href="/darts/rank/沖縄県/沖縄市">沖縄県沖縄市</a>|
-|15|1093|<span class="rank-name-pd">1046。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9047?s_seq=9047">VALNOOT</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
-|15|1093|<span class="rank-name-pd">A-KI-HIDARI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9047?s_seq=9047">VALNOOT</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
-|17|1092|<span class="rank-name-pd">宮城 信弘</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|18|1091|<span class="rank-name-pd">じ～ちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_43123?s_seq=43123">喫茶 まっちょ</a>|<a href="/darts/rank/沖縄県/国頭郡">沖縄県国頭郡</a>|
-|19|1088|<span class="rank-name-pd">おっぴー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88420?s_seq=88420">Bee Bee</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
-|20|1087|<span class="rank-name-pd">ろと@</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41122?s_seq=41122">Joker</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
-|21|1081|<span class="rank-name-pd"><span class="pro-icon-pd"></span>澤岻 大空</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79412?s_seq=79412">REXX</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
-|22|1078|<span class="rank-name-pd">KOSUKE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81316?s_seq=81316">Arrange</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
-|22|1078|<span class="rank-name-pd">へしき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87503?s_seq=87503">フラット</a>|<a href="/darts/rank/沖縄県/中頭郡">沖縄県中頭郡</a>|
-|24|1072|<span class="rank-name-pd">喫茶　まっちょ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_43123?s_seq=43123">喫茶 まっちょ</a>|<a href="/darts/rank/沖縄県/国頭郡">沖縄県国頭郡</a>|
-|25|1071|<span class="rank-name-pd">( *´艸) ｱﾋｬﾋｬ➰ﾋｬ🎶</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|25|1071|<span class="rank-name-pd">shooooooo</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88420?s_seq=88420">Bee Bee</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
-|27|1066|<span class="rank-name-pd">JUN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|27|1066|<span class="rank-name-pd"><span class="pro-icon-pd"></span>手島 拓也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82536?s_seq=82536">ACOUTE</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
-|29|1065|<span class="rank-name-pd">snoopy-suke</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91343?s_seq=91343">JINGAMA</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
-|30|1060|<span class="rank-name-pd">ただのダーツおじさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5259?s_seq=5259">PINK ELEPHANT</a>|<a href="/darts/rank/沖縄県/中頭郡">沖縄県中頭郡</a>|
-|31|1058|<span class="rank-name-pd">ゆーた</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5924?s_seq=5924">ぽっぽやはうす</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
-|32|1055|<span class="rank-name-pd">じ～ちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5339?s_seq=5339">キスショット</a>|<a href="/darts/rank/沖縄県/名護市">沖縄県名護市</a>|
-|32|1055|<span class="rank-name-pd">みっきーCUE SOUL☆L-style</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82536?s_seq=82536">ACOUTE</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
-|34|1054|<span class="rank-name-pd">[INFINITY]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9047?s_seq=9047">VALNOOT</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
-|34|1054|<span class="rank-name-pd">じ～ちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8599?s_seq=8599">RED BULL'S</a>|<a href="/darts/rank/沖縄県/名護市">沖縄県名護市</a>|
-|36|1053|<span class="rank-name-pd">M-RON[YUKI]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9240?s_seq=9240">Drink&Food M-RON</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
-|37|1052|<span class="rank-name-pd">チキン軍団　A-KI-　</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9047?s_seq=9047">VALNOOT</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
-|37|1052|<span class="rank-name-pd">平良　裕馬</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7386?s_seq=7386">メッツ</a>|<a href="/darts/rank/沖縄県/沖縄市">沖縄県沖縄市</a>|
-|39|1051|<span class="rank-name-pd">0430</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
-|39|1051|<span class="rank-name-pd">のぶー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|41|1050|<span class="rank-name-pd">翔悟</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52666?s_seq=52666">CHOICE</a>|<a href="/darts/rank/沖縄県/名護市">沖縄県名護市</a>|
-|42|1047|<span class="rank-name-pd">翔悟</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8599?s_seq=8599">RED BULL'S</a>|<a href="/darts/rank/沖縄県/名護市">沖縄県名護市</a>|
-|43|1044|<span class="rank-name-pd">大王いけ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5259?s_seq=5259">PINK ELEPHANT</a>|<a href="/darts/rank/沖縄県/中頭郡">沖縄県中頭郡</a>|
-|44|1043|<span class="rank-name-pd">K4zzzz</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72470?s_seq=72470">GAMUSHARA</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
-|44|1043|<span class="rank-name-pd">∞INFINITY∞</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9047?s_seq=9047">VALNOOT</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
-|46|1042|<span class="rank-name-pd">ただのダーツおじさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7386?s_seq=7386">メッツ</a>|<a href="/darts/rank/沖縄県/沖縄市">沖縄県沖縄市</a>|
-|47|1040|<span class="rank-name-pd">だーにし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41122?s_seq=41122">Joker</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
-|47|1040|<span class="rank-name-pd">ギエピー！！！！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41122?s_seq=41122">Joker</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
-|49|1039|<span class="rank-name-pd">とよき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|49|1039|<span class="rank-name-pd">わと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9903?s_seq=9903">ビリヤード CUE</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
-|51|1037|<span class="rank-name-pd">つぐ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5924?s_seq=5924">ぽっぽやはうす</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
-|51|1037|<span class="rank-name-pd">俺がぶんぶん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|53|1031|<span class="rank-name-pd">Haile Selassie 1</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8599?s_seq=8599">RED BULL'S</a>|<a href="/darts/rank/沖縄県/名護市">沖縄県名護市</a>|
-|53|1031|<span class="rank-name-pd">byaf_</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81788?s_seq=81788">快活CLUB 浦添店</a>|<a href="/darts/rank/沖縄県/浦添市">沖縄県浦添市</a>|
-|53|1031|<span class="rank-name-pd">ぢロを【ＪＩＲＯ】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9047?s_seq=9047">VALNOOT</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
-|56|1029|<span class="rank-name-pd">はたぼー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7258?s_seq=7258">Darts bar JAWS</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
-|57|1028|<span class="rank-name-pd">shimu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7386?s_seq=7386">メッツ</a>|<a href="/darts/rank/沖縄県/沖縄市">沖縄県沖縄市</a>|
-|58|1019|<span class="rank-name-pd">Y.O</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7386?s_seq=7386">メッツ</a>|<a href="/darts/rank/沖縄県/沖縄市">沖縄県沖縄市</a>|
-|59|1018|<span class="rank-name-pd"><span class="pro-icon-pd"></span>宮里 力矢</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9454?s_seq=9454">ZONE</a>|<a href="/darts/rank/沖縄県/名護市">沖縄県名護市</a>|
-|60|1015|<span class="rank-name-pd">belrey</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_66348?s_seq=66348">ビリヤード＆ダーツ SPIRIT</a>|<a href="/darts/rank/沖縄県/沖縄市">沖縄県沖縄市</a>|
-|60|1015|<span class="rank-name-pd">ろと@</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7281?s_seq=7281">AZTECA</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
-|62|1013|<span class="rank-name-pd">KAZOO.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52666?s_seq=52666">CHOICE</a>|<a href="/darts/rank/沖縄県/名護市">沖縄県名護市</a>|
-|63|1012|<span class="rank-name-pd">SILVER☆野村安成</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8820?s_seq=8820">SILVER</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
-|63|1012|<span class="rank-name-pd">ただのダーツおじさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10508?s_seq=10508">Hanabi</a>|<a href="/darts/rank/沖縄県/中頭郡">沖縄県中頭郡</a>|
-|63|1012|<span class="rank-name-pd">前田 大輔</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58773?s_seq=58773">Bar 23</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|66|1011|<span class="rank-name-pd">0207_8277</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9240?s_seq=9240">Drink&Food M-RON</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
-|66|1011|<span class="rank-name-pd">たいちゃん@RDC</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65074?s_seq=65074">快活CLUB 宜野湾店</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
-|68|1010|<span class="rank-name-pd">-T-1048 SPECIAL</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9047?s_seq=9047">VALNOOT</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
-|68|1010|<span class="rank-name-pd">かねしろ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6955?s_seq=6955">max OKINAWA 那覇店</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
-|70|1009|<span class="rank-name-pd">-*CHIRORU*~KING~123-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7386?s_seq=7386">メッツ</a>|<a href="/darts/rank/沖縄県/沖縄市">沖縄県沖縄市</a>|
-|70|1009|<span class="rank-name-pd">たつき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8834?s_seq=8834">ラウンドワン宜野湾店</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
-|72|1008|<span class="rank-name-pd">わと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_66348?s_seq=66348">ビリヤード＆ダーツ SPIRIT</a>|<a href="/darts/rank/沖縄県/沖縄市">沖縄県沖縄市</a>|
-|72|1008|<span class="rank-name-pd">儀保 希龍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7386?s_seq=7386">メッツ</a>|<a href="/darts/rank/沖縄県/沖縄市">沖縄県沖縄市</a>|
-|74|1007|<span class="rank-name-pd">56</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5339?s_seq=5339">キスショット</a>|<a href="/darts/rank/沖縄県/名護市">沖縄県名護市</a>|
-|74|1007|<span class="rank-name-pd">SYUN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69568?s_seq=69568">BONDS</a>|<a href="/darts/rank/沖縄県/沖縄市">沖縄県沖縄市</a>|
-|76|1005|<span class="rank-name-pd">　首里　匡士　</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65074?s_seq=65074">快活CLUB 宜野湾店</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
-|76|1005|<span class="rank-name-pd"><span class="pro-icon-pd"></span>首里 匡士</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88420?s_seq=88420">Bee Bee</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
-|78|1004|<span class="rank-name-pd">ただのダーツおじさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42297?s_seq=42297">NEO BAATA</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
-|78|1004|<span class="rank-name-pd">ただのダーツおじさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9047?s_seq=9047">VALNOOT</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
-|78|1004|<span class="rank-name-pd">ひふみん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
-|78|1004|<span class="rank-name-pd">りよん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69991?s_seq=69991">Bar Cuore NAHA</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
-|82|1001|<span class="rank-name-pd">Haile Selassie 1</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10811?s_seq=10811">B's</a>|<a href="/darts/rank/沖縄県/名護市">沖縄県名護市</a>|
-|83|1000|<span class="rank-name-pd">CHANIGA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89453?s_seq=89453">西崎せんべろからおけ</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
-|83|1000|<span class="rank-name-pd"><span class="pro-icon-pd"></span>竹本 吉伸</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6955?s_seq=6955">max OKINAWA 那覇店</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
-|85|999|<span class="rank-name-pd">snoopy-suke</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7457?s_seq=7457">DARTS&BAR Quatro</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
-|85|999|<span class="rank-name-pd">つぐ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84403?s_seq=84403">ダーツ＆ビリヤード　ギンパラ</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
-|87|998|<span class="rank-name-pd">KAKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91343?s_seq=91343">JINGAMA</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
-|87|998|<span class="rank-name-pd">　首里　匡士　</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7386?s_seq=7386">メッツ</a>|<a href="/darts/rank/沖縄県/沖縄市">沖縄県沖縄市</a>|
-|89|994|<span class="rank-name-pd">喜友名 亮</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5259?s_seq=5259">PINK ELEPHANT</a>|<a href="/darts/rank/沖縄県/中頭郡">沖縄県中頭郡</a>|
-|90|991|<span class="rank-name-pd">ゆうたDevi悪魔會</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7457?s_seq=7457">DARTS&BAR Quatro</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
-|90|991|<span class="rank-name-pd">比嘉 大地</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9047?s_seq=9047">VALNOOT</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
-|92|990|<span class="rank-name-pd">(*´艸｀)ﾆｮ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9047?s_seq=9047">VALNOOT</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
-|92|990|<span class="rank-name-pd"><span class="pro-icon-pd"></span>宮城 晨</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9454?s_seq=9454">ZONE</a>|<a href="/darts/rank/沖縄県/名護市">沖縄県名護市</a>|
-|94|987|<span class="rank-name-pd">ギエピー！！！！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84205?s_seq=84205">ストラッド</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
-|95|986|<span class="rank-name-pd">中村 翔†whirl wind†</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88420?s_seq=88420">Bee Bee</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
-|95|986|<span class="rank-name-pd">松田　和真</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52666?s_seq=52666">CHOICE</a>|<a href="/darts/rank/沖縄県/名護市">沖縄県名護市</a>|
-|97|985|<span class="rank-name-pd">NOISY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9903?s_seq=9903">ビリヤード CUE</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
-|97|985|<span class="rank-name-pd">まぁるぅ侍7     酒</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72248?s_seq=72248">Hammer</a>|<a href="/darts/rank/沖縄県/沖縄市">沖縄県沖縄市</a>|
-|97|985|<span class="rank-name-pd">新城 長寛</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|100|984|<span class="rank-name-pd">さく</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9363?s_seq=9363">ROCKY</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
+|1|1123|<span class="rank-name-pd">わと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10508?s_seq=10508">Hanabi</a>|<a href="/darts/rank/沖縄県/中頭郡">沖縄県中頭郡</a>|
+|2|1119|<span class="rank-name-pd">AKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9047?s_seq=9047">VALNOOT</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
+|2|1119|<span class="rank-name-pd">Haile Selassie 1</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5339?s_seq=5339">キスショット</a>|<a href="/darts/rank/沖縄県/名護市">沖縄県名護市</a>|
+|2|1119|<span class="rank-name-pd">照屋 圭樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_43123?s_seq=43123">喫茶 まっちょ</a>|<a href="/darts/rank/沖縄県/国頭郡">沖縄県国頭郡</a>|
+|5|1118|<span class="rank-name-pd">ほろもも</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47179?s_seq=47179">LIEN</a>|<a href="/darts/rank/沖縄県/浦添市">沖縄県浦添市</a>|
+|6|1110|<span class="rank-name-pd">喫茶　まっちょ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5339?s_seq=5339">キスショット</a>|<a href="/darts/rank/沖縄県/名護市">沖縄県名護市</a>|
+|7|1108|<span class="rank-name-pd">0046-1PPE1</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87373?s_seq=87373">ORIENS</a>|<a href="/darts/rank/沖縄県/中頭郡">沖縄県中頭郡</a>|
+|7|1108|<span class="rank-name-pd">たけもとよしのぶ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6955?s_seq=6955">max OKINAWA 那覇店</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
+|9|1105|<span class="rank-name-pd">0154_7211</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8834?s_seq=8834">ラウンドワン宜野湾店</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
+|9|1105|<span class="rank-name-pd">棟田 貴弥</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69568?s_seq=69568">BONDS</a>|<a href="/darts/rank/沖縄県/沖縄市">沖縄県沖縄市</a>|
+|11|1095|<span class="rank-name-pd">ka----@#Ｋ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85528?s_seq=85528">倶楽部琉邦</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
+|12|1094|<span class="rank-name-pd">-*CHIRORU*~KING~123-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72248?s_seq=72248">Hammer</a>|<a href="/darts/rank/沖縄県/沖縄市">沖縄県沖縄市</a>|
+|13|1093|<span class="rank-name-pd">1046。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9047?s_seq=9047">VALNOOT</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
+|13|1093|<span class="rank-name-pd">A-KI-HIDARI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9047?s_seq=9047">VALNOOT</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
+|15|1092|<span class="rank-name-pd">宮城 信弘</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|16|1091|<span class="rank-name-pd">じ～ちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_43123?s_seq=43123">喫茶 まっちょ</a>|<a href="/darts/rank/沖縄県/国頭郡">沖縄県国頭郡</a>|
+|17|1088|<span class="rank-name-pd">おっぴー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88420?s_seq=88420">Bee Bee</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
+|18|1087|<span class="rank-name-pd">ろと@</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41122?s_seq=41122">Joker</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
+|19|1081|<span class="rank-name-pd"><span class="pro-icon-pd"></span>澤岻 大空</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79412?s_seq=79412">REXX</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
+|20|1078|<span class="rank-name-pd">KOSUKE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81316?s_seq=81316">Arrange</a>|<a href="/darts/rank/沖縄県/宮古島市">沖縄県宮古島市</a>|
+|20|1078|<span class="rank-name-pd">へしき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87503?s_seq=87503">フラット</a>|<a href="/darts/rank/沖縄県/中頭郡">沖縄県中頭郡</a>|
+|22|1072|<span class="rank-name-pd">喫茶　まっちょ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_43123?s_seq=43123">喫茶 まっちょ</a>|<a href="/darts/rank/沖縄県/国頭郡">沖縄県国頭郡</a>|
+|23|1071|<span class="rank-name-pd">( *´艸) ｱﾋｬﾋｬ➰ﾋｬ🎶</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|23|1071|<span class="rank-name-pd">shooooooo</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88420?s_seq=88420">Bee Bee</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
+|25|1066|<span class="rank-name-pd">JUN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|25|1066|<span class="rank-name-pd"><span class="pro-icon-pd"></span>手島 拓也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82536?s_seq=82536">ACOUTE</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
+|27|1065|<span class="rank-name-pd">snoopy-suke</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91343?s_seq=91343">JINGAMA</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
+|28|1060|<span class="rank-name-pd">ただのダーツおじさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5259?s_seq=5259">PINK ELEPHANT</a>|<a href="/darts/rank/沖縄県/中頭郡">沖縄県中頭郡</a>|
+|29|1058|<span class="rank-name-pd">ゆーた</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5924?s_seq=5924">ぽっぽやはうす</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
+|30|1055|<span class="rank-name-pd">じ～ちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5339?s_seq=5339">キスショット</a>|<a href="/darts/rank/沖縄県/名護市">沖縄県名護市</a>|
+|30|1055|<span class="rank-name-pd">みっきーCUE SOUL☆L-style</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82536?s_seq=82536">ACOUTE</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
+|32|1054|<span class="rank-name-pd">[INFINITY]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9047?s_seq=9047">VALNOOT</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
+|32|1054|<span class="rank-name-pd">じ～ちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8599?s_seq=8599">RED BULL'S</a>|<a href="/darts/rank/沖縄県/名護市">沖縄県名護市</a>|
+|34|1053|<span class="rank-name-pd">M-RON[YUKI]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9240?s_seq=9240">Drink&Food M-RON</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
+|35|1052|<span class="rank-name-pd">チキン軍団　A-KI-　</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9047?s_seq=9047">VALNOOT</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
+|35|1052|<span class="rank-name-pd">平良　裕馬</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7386?s_seq=7386">メッツ</a>|<a href="/darts/rank/沖縄県/沖縄市">沖縄県沖縄市</a>|
+|37|1051|<span class="rank-name-pd">0430</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
+|37|1051|<span class="rank-name-pd">のぶー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|39|1050|<span class="rank-name-pd">翔悟</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52666?s_seq=52666">CHOICE</a>|<a href="/darts/rank/沖縄県/名護市">沖縄県名護市</a>|
+|40|1047|<span class="rank-name-pd">翔悟</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8599?s_seq=8599">RED BULL'S</a>|<a href="/darts/rank/沖縄県/名護市">沖縄県名護市</a>|
+|41|1044|<span class="rank-name-pd">大王いけ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5259?s_seq=5259">PINK ELEPHANT</a>|<a href="/darts/rank/沖縄県/中頭郡">沖縄県中頭郡</a>|
+|42|1043|<span class="rank-name-pd">K4zzzz</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72470?s_seq=72470">GAMUSHARA</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
+|42|1043|<span class="rank-name-pd">∞INFINITY∞</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9047?s_seq=9047">VALNOOT</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
+|44|1042|<span class="rank-name-pd">ただのダーツおじさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7386?s_seq=7386">メッツ</a>|<a href="/darts/rank/沖縄県/沖縄市">沖縄県沖縄市</a>|
+|45|1040|<span class="rank-name-pd">だーにし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41122?s_seq=41122">Joker</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
+|45|1040|<span class="rank-name-pd">ギエピー！！！！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41122?s_seq=41122">Joker</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
+|47|1039|<span class="rank-name-pd">とよき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|47|1039|<span class="rank-name-pd">わと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9903?s_seq=9903">ビリヤード CUE</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
+|49|1037|<span class="rank-name-pd">つぐ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5924?s_seq=5924">ぽっぽやはうす</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
+|49|1037|<span class="rank-name-pd">俺がぶんぶん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|51|1031|<span class="rank-name-pd">Haile Selassie 1</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8599?s_seq=8599">RED BULL'S</a>|<a href="/darts/rank/沖縄県/名護市">沖縄県名護市</a>|
+|51|1031|<span class="rank-name-pd">byaf_</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81788?s_seq=81788">快活CLUB 浦添店</a>|<a href="/darts/rank/沖縄県/浦添市">沖縄県浦添市</a>|
+|51|1031|<span class="rank-name-pd">ぢロを【ＪＩＲＯ】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9047?s_seq=9047">VALNOOT</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
+|54|1029|<span class="rank-name-pd">はたぼー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7258?s_seq=7258">Darts bar JAWS</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
+|55|1028|<span class="rank-name-pd">shimu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7386?s_seq=7386">メッツ</a>|<a href="/darts/rank/沖縄県/沖縄市">沖縄県沖縄市</a>|
+|56|1019|<span class="rank-name-pd">Y.O</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7386?s_seq=7386">メッツ</a>|<a href="/darts/rank/沖縄県/沖縄市">沖縄県沖縄市</a>|
+|57|1018|<span class="rank-name-pd"><span class="pro-icon-pd"></span>宮里 力矢</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9454?s_seq=9454">ZONE</a>|<a href="/darts/rank/沖縄県/名護市">沖縄県名護市</a>|
+|58|1015|<span class="rank-name-pd">belrey</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_66348?s_seq=66348">ビリヤード＆ダーツ SPIRIT</a>|<a href="/darts/rank/沖縄県/沖縄市">沖縄県沖縄市</a>|
+|58|1015|<span class="rank-name-pd">ろと@</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7281?s_seq=7281">AZTECA</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
+|60|1013|<span class="rank-name-pd">KAZOO.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52666?s_seq=52666">CHOICE</a>|<a href="/darts/rank/沖縄県/名護市">沖縄県名護市</a>|
+|61|1012|<span class="rank-name-pd">SILVER☆野村安成</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8820?s_seq=8820">SILVER</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
+|61|1012|<span class="rank-name-pd">ただのダーツおじさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10508?s_seq=10508">Hanabi</a>|<a href="/darts/rank/沖縄県/中頭郡">沖縄県中頭郡</a>|
+|61|1012|<span class="rank-name-pd">前田 大輔</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58773?s_seq=58773">Bar 23</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|64|1011|<span class="rank-name-pd">0207_8277</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9240?s_seq=9240">Drink&Food M-RON</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
+|64|1011|<span class="rank-name-pd">たいちゃん@RDC</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65074?s_seq=65074">快活CLUB 宜野湾店</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
+|66|1010|<span class="rank-name-pd">-T-1048 SPECIAL</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9047?s_seq=9047">VALNOOT</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
+|66|1010|<span class="rank-name-pd">かねしろ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6955?s_seq=6955">max OKINAWA 那覇店</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
+|68|1009|<span class="rank-name-pd">-*CHIRORU*~KING~123-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7386?s_seq=7386">メッツ</a>|<a href="/darts/rank/沖縄県/沖縄市">沖縄県沖縄市</a>|
+|68|1009|<span class="rank-name-pd">たつき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8834?s_seq=8834">ラウンドワン宜野湾店</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
+|70|1008|<span class="rank-name-pd">わと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_66348?s_seq=66348">ビリヤード＆ダーツ SPIRIT</a>|<a href="/darts/rank/沖縄県/沖縄市">沖縄県沖縄市</a>|
+|70|1008|<span class="rank-name-pd">儀保 希龍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7386?s_seq=7386">メッツ</a>|<a href="/darts/rank/沖縄県/沖縄市">沖縄県沖縄市</a>|
+|72|1007|<span class="rank-name-pd">56</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5339?s_seq=5339">キスショット</a>|<a href="/darts/rank/沖縄県/名護市">沖縄県名護市</a>|
+|72|1007|<span class="rank-name-pd">SYUN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69568?s_seq=69568">BONDS</a>|<a href="/darts/rank/沖縄県/沖縄市">沖縄県沖縄市</a>|
+|74|1005|<span class="rank-name-pd">　首里　匡士　</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65074?s_seq=65074">快活CLUB 宜野湾店</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
+|74|1005|<span class="rank-name-pd"><span class="pro-icon-pd"></span>首里 匡士</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88420?s_seq=88420">Bee Bee</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
+|76|1004|<span class="rank-name-pd">ただのダーツおじさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_42297?s_seq=42297">NEO BAATA</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
+|76|1004|<span class="rank-name-pd">ただのダーツおじさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9047?s_seq=9047">VALNOOT</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
+|76|1004|<span class="rank-name-pd">ひふみん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56565?s_seq=56565">LION</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
+|76|1004|<span class="rank-name-pd">りよん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69991?s_seq=69991">Bar Cuore NAHA</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
+|80|1001|<span class="rank-name-pd">Haile Selassie 1</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10811?s_seq=10811">B's</a>|<a href="/darts/rank/沖縄県/名護市">沖縄県名護市</a>|
+|81|1000|<span class="rank-name-pd">CHANIGA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89453?s_seq=89453">西崎せんべろからおけ</a>|<a href="/darts/rank/沖縄県/糸満市">沖縄県糸満市</a>|
+|81|1000|<span class="rank-name-pd"><span class="pro-icon-pd"></span>竹本 吉伸</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6955?s_seq=6955">max OKINAWA 那覇店</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
+|83|999|<span class="rank-name-pd">snoopy-suke</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7457?s_seq=7457">DARTS&BAR Quatro</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
+|83|999|<span class="rank-name-pd">つぐ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84403?s_seq=84403">ダーツ＆ビリヤード　ギンパラ</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
+|85|998|<span class="rank-name-pd">KAKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91343?s_seq=91343">JINGAMA</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
+|85|998|<span class="rank-name-pd">　首里　匡士　</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7386?s_seq=7386">メッツ</a>|<a href="/darts/rank/沖縄県/沖縄市">沖縄県沖縄市</a>|
+|87|994|<span class="rank-name-pd">喜友名 亮</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5259?s_seq=5259">PINK ELEPHANT</a>|<a href="/darts/rank/沖縄県/中頭郡">沖縄県中頭郡</a>|
+|88|991|<span class="rank-name-pd">ゆうたDevi悪魔會</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7457?s_seq=7457">DARTS&BAR Quatro</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
+|88|991|<span class="rank-name-pd">比嘉 大地</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9047?s_seq=9047">VALNOOT</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
+|90|990|<span class="rank-name-pd">(*´艸｀)ﾆｮ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9047?s_seq=9047">VALNOOT</a>|<a href="/darts/rank/沖縄県/島尻郡">沖縄県島尻郡</a>|
+|90|990|<span class="rank-name-pd"><span class="pro-icon-pd"></span>宮城 晨</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9454?s_seq=9454">ZONE</a>|<a href="/darts/rank/沖縄県/名護市">沖縄県名護市</a>|
+|92|987|<span class="rank-name-pd">ギエピー！！！！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84205?s_seq=84205">ストラッド</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
+|93|986|<span class="rank-name-pd">中村 翔†whirl wind†</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88420?s_seq=88420">Bee Bee</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
+|93|986|<span class="rank-name-pd">松田　和真</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_52666?s_seq=52666">CHOICE</a>|<a href="/darts/rank/沖縄県/名護市">沖縄県名護市</a>|
+|95|985|<span class="rank-name-pd">NOISY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9903?s_seq=9903">ビリヤード CUE</a>|<a href="/darts/rank/沖縄県/宜野湾市">沖縄県宜野湾市</a>|
+|95|985|<span class="rank-name-pd">まぁるぅ侍7     酒</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72248?s_seq=72248">Hammer</a>|<a href="/darts/rank/沖縄県/沖縄市">沖縄県沖縄市</a>|
+|95|985|<span class="rank-name-pd">新城 長寛</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|98|984|<span class="rank-name-pd">さく</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9363?s_seq=9363">ROCKY</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
+|99|983|<span class="rank-name-pd">とも君</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59278?s_seq=59278">快活CLUB 沖縄コザ店</a>|<a href="/darts/rank/沖縄県/沖縄市">沖縄県沖縄市</a>|
+|99|983|<span class="rank-name-pd">金城 道</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65131?s_seq=65131">琉球NOVA</a>|<a href="/darts/rank/沖縄県/那覇市">沖縄県那覇市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
