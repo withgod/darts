@@ -24,105 +24,105 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|1255|<span class="rank-name-dl">てんちょ</span>|<a href="https://search.dartslive.com/jp/shop/2d05c5caa9446ca20d9b047a20a7ba1e">白夜</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|2|1200|<span class="rank-name-dl">名定　望</span>|<a href="https://search.dartslive.com/jp/shop/3fc75c60c7407f81fec1ae84bb28bd87">Dining Darts Bar Teddy Bear</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|2|1200|<span class="rank-name-dl">大城　正樹</span>|<a href="https://search.dartslive.com/jp/shop/1314016fd2d10eb4790ab824ce8730e5">Laughter</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|4|1169|<span class="rank-name-dl">マサ_</span>|<a href="https://search.dartslive.com/jp/shop/7d4971579c94eec1a3f63593b5358cc4">Darts Bar bloom</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|5|1165|<span class="rank-name-dl">中井 涼</span>|<a href="https://search.dartslive.com/jp/shop/4f62efe6a04c413a0d9b047a20a7ba1e">CAFE＆DARTS BAR RICORDE</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|5|1165|<span class="rank-name-dl">葉山 善久</span>|<a href="https://search.dartslive.com/jp/shop/af5f5ae7b8417e2958d385ea46352d8f">BAR WAI WAI</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|7|1161|<span class="rank-name-dl">noncha@teddy</span>|<a href="https://search.dartslive.com/jp/shop/3fc75c60c7407f81fec1ae84bb28bd87">Dining Darts Bar Teddy Bear</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|8|1158|<span class="rank-name-dl">清水景太　@SUN</span>|<a href="https://search.dartslive.com/jp/shop/13f2ed6bdcd0e9e90d9b047a20a7ba1e">Billiard＆Darts SUN KOBE</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|9|1153|<span class="rank-name-dl">時任 修斗</span>|<a href="https://search.dartslive.com/jp/shop/5d6cb5d37310f21bf454cb89828a1cfe">D-SPIDER</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|9|1153|<span class="rank-name-dl">東田の臣だわ</span>|<a href="https://search.dartslive.com/jp/shop/84712648398ecf960d9b047a20a7ba1e">Darts Cafe Asgard</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|11|1152|<span class="rank-name-dl">432</span>|<a href="https://search.dartslive.com/jp/shop/84712648398ecf960d9b047a20a7ba1e">Darts Cafe Asgard</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|11|1152|<span class="rank-name-dl">432</span>|<a href="https://search.dartslive.com/jp/shop/f90caaeabb96354a790ab824ce8730e5">Estrella</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|11|1152|<span class="rank-name-dl">ゆうちゃん^ ^</span>|<a href="https://search.dartslive.com/jp/shop/7d4971579c94eec1a3f63593b5358cc4">Darts Bar bloom</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|14|1134|<span class="rank-name-dl">432</span>|<a href="https://search.dartslive.com/jp/shop/2a8eba4a1321305d0d9b047a20a7ba1e">Bee SANNOMIYA</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|14|1134|<span class="rank-name-dl">NO NAME 0025</span>|<a href="https://search.dartslive.com/jp/shop/174c18ece112b2f35f9f3321c1147265">快活CLUB 神戸伊川谷店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|16|1128|<span class="rank-name-dl">soushi@ｳﾗｯﾁｰｽﾞ</span>|<a href="https://search.dartslive.com/jp/shop/c0fc44d54e7a8929790ab824ce8730e5">KARAOKE SURREAL</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|17|1127|<span class="rank-name-dl">まりの弟</span>|<a href="https://search.dartslive.com/jp/shop/84712648398ecf960d9b047a20a7ba1e">Darts Cafe Asgard</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|18|1126|<span class="rank-name-dl">清水 景太</span>|<a href="https://search.dartslive.com/jp/shop/13f2ed6bdcd0e9e90d9b047a20a7ba1e">Billiard＆Darts SUN KOBE</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|19|1125|<span class="rank-name-dl">あちゃーも</span>|<a href="https://search.dartslive.com/jp/shop/0b53b0604a0410745f9f3321c1147265">快活CLUB 三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|19|1125|<span class="rank-name-dl">さしみ</span>|<a href="https://search.dartslive.com/jp/shop/35b667a0611ad9bc790ab824ce8730e5">Dining & Darts LaBit</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|19|1125|<span class="rank-name-dl">篤弥@ｳﾗｯﾁｰｽﾞ</span>|<a href="https://search.dartslive.com/jp/shop/3c298337ae55bd4658d385ea46352d8f">快活CLUB 鈴蘭台店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|22|1124|<span class="rank-name-dl">ピン</span>|<a href="https://search.dartslive.com/jp/shop/61dc30b2288223cf0d9b047a20a7ba1e">DANG NEXT</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|22|1124|<span class="rank-name-dl">泰</span>|<a href="https://search.dartslive.com/jp/shop/7d4971579c94eec1a3f63593b5358cc4">Darts Bar bloom</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|22|1124|<span class="rank-name-dl">清水 景太</span>|<a href="https://search.dartslive.com/jp/shop/35b667a0611ad9bc790ab824ce8730e5">Dining & Darts LaBit</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|25|1123|<span class="rank-name-dl">ウルトラマン</span>|<a href="https://search.dartslive.com/jp/shop/7d4971579c94eec1a3f63593b5358cc4">Darts Bar bloom</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|25|1123|<span class="rank-name-dl">太田 舞鳩</span>|<a href="https://search.dartslive.com/jp/shop/0b53b0604a0410745f9f3321c1147265">快活CLUB 三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|27|1115|<span class="rank-name-dl">432</span>|<a href="https://search.dartslive.com/jp/shop/3ed04ca0b89d840828032249b44395af">SHOTBAR Barrel</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|28|1113|<span class="rank-name-dl">#つーじーw</span>|<a href="https://search.dartslive.com/jp/shop/af5cfc570cba515ba3f63593b5358cc4">快活CLUB グランド六甲店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|28|1113|<span class="rank-name-dl">ｳﾗｯﾁ -RRSY-</span>|<a href="https://search.dartslive.com/jp/shop/84712648398ecf960d9b047a20a7ba1e">Darts Cafe Asgard</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|30|1109|<span class="rank-name-dl">ピン</span>|<a href="https://search.dartslive.com/jp/shop/174c18ece112b2f35f9f3321c1147265">快活CLUB 神戸伊川谷店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|30|1109|<span class="rank-name-dl">山下 竜起@DMC</span>|<a href="https://search.dartslive.com/jp/shop/1314016fd2d10eb4790ab824ce8730e5">Laughter</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|32|1107|<span class="rank-name-dl">川端 将生</span>|<a href="https://search.dartslive.com/jp/shop/3ed04ca0b89d840828032249b44395af">SHOTBAR Barrel</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|33|1105|<span class="rank-name-dl">NO NAME 4310</span>|<a href="https://search.dartslive.com/jp/shop/2a8eba4a1321305d0d9b047a20a7ba1e">Bee SANNOMIYA</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|33|1105|<span class="rank-name-dl">ばたやん</span>|<a href="https://search.dartslive.com/jp/shop/84712648398ecf960d9b047a20a7ba1e">Darts Cafe Asgard</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|35|1102|<span class="rank-name-dl">NO NAME 4310</span>|<a href="https://search.dartslive.com/jp/shop/0b53b0604a0410745f9f3321c1147265">快活CLUB 三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|36|1100|<span class="rank-name-dl">名定　望</span>|<a href="https://search.dartslive.com/jp/shop/247c4ee7d555654c774c926eb736cb5a">Dining Darts Bar Teddy Bear +PLUS</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|36|1100|<span class="rank-name-dl">清水景太　@SUN</span>|<a href="https://search.dartslive.com/jp/shop/2a8eba4a1321305d0d9b047a20a7ba1e">Bee SANNOMIYA</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|38|1099|<span class="rank-name-dl">おキャンタマ森蔵</span>|<a href="https://search.dartslive.com/jp/shop/84712648398ecf960d9b047a20a7ba1e">Darts Cafe Asgard</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|39|1096|<span class="rank-name-dl">brushwood dog</span>|<a href="https://search.dartslive.com/jp/shop/174c18ece112b2f35f9f3321c1147265">快活CLUB 神戸伊川谷店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|40|1093|<span class="rank-name-dl">神様仏様なあや様</span>|<a href="https://search.dartslive.com/jp/shop/3c542a8570088199790ab824ce8730e5">カラオケ館 北野坂店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|41|1091|<span class="rank-name-dl">パウ/R</span>|<a href="https://search.dartslive.com/jp/shop/7f76fd991f8a6d5fb21333aee1bd51e4">マイーダの酒場</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|42|1090|<span class="rank-name-dl">青井 梨佳</span>|<a href="https://search.dartslive.com/jp/shop/4f62efe6a04c413a0d9b047a20a7ba1e">CAFE & DARTS BAR REGALO</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|43|1089|<span class="rank-name-dl">水野＠だんねく</span>|<a href="https://search.dartslive.com/jp/shop/61dc30b2288223cf0d9b047a20a7ba1e">DANG NEXT</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|44|1088|<span class="rank-name-dl">あちゃーも@N組</span>|<a href="https://search.dartslive.com/jp/shop/247c4ee7d555654c774c926eb736cb5a">Dining Darts Bar Teddy Bear +PLUS</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|45|1087|<span class="rank-name-dl">noncha@teddy</span>|<a href="https://search.dartslive.com/jp/shop/3c542a8570088199790ab824ce8730e5">カラオケ館 北野坂店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|45|1087|<span class="rank-name-dl">べーやんEstrella</span>|<a href="https://search.dartslive.com/jp/shop/f90caaeabb96354a790ab824ce8730e5">Estrella</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|47|1085|<span class="rank-name-dl">てんちょ</span>|<a href="https://search.dartslive.com/jp/shop/13f2ed6bdcd0e9e90d9b047a20a7ba1e">Billiard＆Darts SUN KOBE</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|48|1084|<span class="rank-name-dl">432</span>|<a href="https://search.dartslive.com/jp/shop/2d05c5caa9446ca20d9b047a20a7ba1e">白夜</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|48|1084|<span class="rank-name-dl">八＠REGALO</span>|<a href="https://search.dartslive.com/jp/shop/4f62efe6a04c413a0d9b047a20a7ba1e">CAFE & DARTS BAR REGALO</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|50|1083|<span class="rank-name-dl">SAKI</span>|<a href="https://search.dartslive.com/jp/shop/174c18ece112b2f35f9f3321c1147265">快活CLUB 神戸伊川谷店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|51|1082|<span class="rank-name-dl">432 @まりの弟</span>|<a href="https://search.dartslive.com/jp/shop/4f62efe6a04c413a0d9b047a20a7ba1e">CAFE & DARTS BAR REGALO</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|51|1082|<span class="rank-name-dl">@ｳﾗｯﾁｰｽﾞ</span>|<a href="https://search.dartslive.com/jp/shop/c0fc44d54e7a8929790ab824ce8730e5">KARAOKE SURREAL</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|53|1080|<span class="rank-name-dl">きたむらかずま</span>|<a href="https://search.dartslive.com/jp/shop/84712648398ecf960d9b047a20a7ba1e">Darts Cafe Asgard</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|54|1079|<span class="rank-name-dl">たまっち</span>|<a href="https://search.dartslive.com/jp/shop/2a8eba4a1321305d0d9b047a20a7ba1e">Bee SANNOMIYA</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|54|1079|<span class="rank-name-dl">てんちょ</span>|<a href="https://search.dartslive.com/jp/shop/860b16c7a7c5a9d1fec1ae84bb28bd87">Darts Bar RAITO</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|54|1079|<span class="rank-name-dl">ﾀｯﾁｬﾝ@ｳﾗｯﾁｰｽﾞ</span>|<a href="https://search.dartslive.com/jp/shop/84712648398ecf960d9b047a20a7ba1e">Darts Cafe Asgard</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|57|1078|<span class="rank-name-dl">NO NAME 8551</span>|<a href="https://search.dartslive.com/jp/shop/0b53b0604a0410745f9f3321c1147265">快活CLUB 三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|58|1076|<span class="rank-name-dl">清水 景太</span>|<a href="https://search.dartslive.com/jp/shop/2d05c5caa9446ca20d9b047a20a7ba1e">白夜</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|59|1075|<span class="rank-name-dl">あちゃーも</span>|<a href="https://search.dartslive.com/jp/shop/af5cfc570cba515ba3f63593b5358cc4">快活CLUB グランド六甲店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|60|1074|<span class="rank-name-dl">べいびー☆Strato</span>|<a href="https://search.dartslive.com/jp/shop/84712648398ecf960d9b047a20a7ba1e">Darts Cafe Asgard</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|60|1074|<span class="rank-name-dl">ゆか</span>|<a href="https://search.dartslive.com/jp/shop/f90caaeabb96354a790ab824ce8730e5">Estrella</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|62|1072|<span class="rank-name-dl">Takuya Y.</span>|<a href="https://search.dartslive.com/jp/shop/84712648398ecf960d9b047a20a7ba1e">Darts Cafe Asgard</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|62|1072|<span class="rank-name-dl">つーじーw</span>|<a href="https://search.dartslive.com/jp/shop/84712648398ecf960d9b047a20a7ba1e">Darts Cafe Asgard</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|64|1071|<span class="rank-name-dl">Shin Higashida</span>|<a href="https://search.dartslive.com/jp/shop/84712648398ecf960d9b047a20a7ba1e">Darts Cafe Asgard</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|64|1071|<span class="rank-name-dl">Shoichi</span>|<a href="https://search.dartslive.com/jp/shop/0b53b0604a0410745f9f3321c1147265">快活CLUB 三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|64|1071|<span class="rank-name-dl">清水 景太</span>|<a href="https://search.dartslive.com/jp/shop/2a8eba4a1321305d0d9b047a20a7ba1e">Bee SANNOMIYA</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|67|1070|<span class="rank-name-dl">コッテリ(-.-)y-~</span>|<a href="https://search.dartslive.com/jp/shop/174c18ece112b2f35f9f3321c1147265">快活CLUB 神戸伊川谷店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|68|1069|<span class="rank-name-dl">泰</span>|<a href="https://search.dartslive.com/jp/shop/15a13423c1b54e260d9b047a20a7ba1e">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|69|1067|<span class="rank-name-dl">432</span>|<a href="https://search.dartslive.com/jp/shop/3c298337ae55bd4658d385ea46352d8f">快活CLUB 鈴蘭台店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|69|1067|<span class="rank-name-dl">noncha@teddy</span>|<a href="https://search.dartslive.com/jp/shop/247c4ee7d555654c774c926eb736cb5a">Dining Darts Bar Teddy Bear +PLUS</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|71|1066|<span class="rank-name-dl">NO NAME 0025</span>|<a href="https://search.dartslive.com/jp/shop/15a13423c1b54e260d9b047a20a7ba1e">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|71|1066|<span class="rank-name-dl">☆QUARTER→LOW☆</span>|<a href="https://search.dartslive.com/jp/shop/0b53b0604a0410745f9f3321c1147265">快活CLUB 三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|71|1066|<span class="rank-name-dl">中井涼☆</span>|<a href="https://search.dartslive.com/jp/shop/4f62efe6a04c413a0d9b047a20a7ba1e">CAFE＆DARTS BAR RICORDE</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|71|1066|<span class="rank-name-dl">菅 洸貴</span>|<a href="https://search.dartslive.com/jp/shop/4f62efe6a04c413a0d9b047a20a7ba1e">CAFE＆DARTS BAR RICORDE</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|75|1065|<span class="rank-name-dl">Y.K</span>|<a href="https://search.dartslive.com/jp/shop/15a13423c1b54e260d9b047a20a7ba1e">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|76|1064|<span class="rank-name-dl">すー@ｳﾗｯﾁｰｽﾞ</span>|<a href="https://search.dartslive.com/jp/shop/7c8f4532f892574c25d56fb0e5c39bac">TAKE-00/3D</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|76|1064|<span class="rank-name-dl">ﾌﾙｻｷ ﾋｭｳｾｲ</span>|<a href="https://search.dartslive.com/jp/shop/860b16c7a7c5a9d1fec1ae84bb28bd87">Darts Bar RAITO</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|78|1063|<span class="rank-name-dl">(ｸﾞ)(ｯ)(ﾁ)No.6</span>|<a href="https://search.dartslive.com/jp/shop/ee6dcfa66a3d9552b21333aee1bd51e4">GUNS</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|78|1063|<span class="rank-name-dl">CANIS Kaz MAJOR</span>|<a href="https://search.dartslive.com/jp/shop/d466a57c9e7c0dfafec1ae84bb28bd87">SIRIUS CAFE</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|78|1063|<span class="rank-name-dl">篤弥@ｳﾗｯﾁｰｽﾞ</span>|<a href="https://search.dartslive.com/jp/shop/c0fc44d54e7a8929790ab824ce8730e5">KARAOKE SURREAL</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|81|1062|<span class="rank-name-dl">Takuya Y.</span>|<a href="https://search.dartslive.com/jp/shop/0b53b0604a0410745f9f3321c1147265">快活CLUB 三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|82|1061|<span class="rank-name-dl">noncha@teddy</span>|<a href="https://search.dartslive.com/jp/shop/6d75ee8fe2c34a2e28032249b44395af">Amusement＆Darts noegle</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|82|1061|<span class="rank-name-dl">清水景太@swell</span>|<a href="https://search.dartslive.com/jp/shop/318a1f38817f1176b21333aee1bd51e4">Swell Cafe</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|84|1060|<span class="rank-name-dl">きー@ｳﾗｯﾁｰｽﾞ</span>|<a href="https://search.dartslive.com/jp/shop/247c4ee7d555654c774c926eb736cb5a">Dining Darts Bar Teddy Bear +PLUS</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|84|1060|<span class="rank-name-dl">てんちょ</span>|<a href="https://search.dartslive.com/jp/shop/84712648398ecf960d9b047a20a7ba1e">Darts Cafe Asgard</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|84|1060|<span class="rank-name-dl">モモニシキ</span>|<a href="https://search.dartslive.com/jp/shop/632d8fee28627b4d0d9b047a20a7ba1e">Cote Kote 神戸</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|87|1059|<span class="rank-name-dl">とっくんの下僕</span>|<a href="https://search.dartslive.com/jp/shop/3c298337ae55bd4658d385ea46352d8f">快活CLUB 鈴蘭台店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|87|1059|<span class="rank-name-dl">和泉　真平</span>|<a href="https://search.dartslive.com/jp/shop/4f62efe6a04c413a0d9b047a20a7ba1e">CAFE＆DARTS BAR RICORDE</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|87|1059|<span class="rank-name-dl">葵@ｳﾗｯﾁｰｽﾞ</span>|<a href="https://search.dartslive.com/jp/shop/c0fc44d54e7a8929790ab824ce8730e5">KARAOKE SURREAL</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|87|1059|<span class="rank-name-dl">辻　裕充@one80</span>|<a href="https://search.dartslive.com/jp/shop/af5cfc570cba515ba3f63593b5358cc4">快活CLUB グランド六甲店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|91|1058|<span class="rank-name-dl">432</span>|<a href="https://search.dartslive.com/jp/shop/0b53b0604a0410745f9f3321c1147265">快活CLUB 三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|91|1058|<span class="rank-name-dl">sakuchan</span>|<a href="https://search.dartslive.com/jp/shop/174c18ece112b2f35f9f3321c1147265">快活CLUB 神戸伊川谷店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|91|1058|<span class="rank-name-dl">ピン</span>|<a href="https://search.dartslive.com/jp/shop/64f6bb1e0c3de1d8b21333aee1bd51e4">LIEN</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|91|1058|<span class="rank-name-dl">清水 景太</span>|<a href="https://search.dartslive.com/jp/shop/4f62efe6a04c413a0d9b047a20a7ba1e">CAFE＆DARTS BAR RICORDE</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|95|1056|<span class="rank-name-dl">432</span>|<a href="https://search.dartslive.com/jp/shop/4f62efe6a04c413a0d9b047a20a7ba1e">CAFE＆DARTS BAR RICORDE</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|95|1056|<span class="rank-name-dl">♤Enja♤</span>|<a href="https://search.dartslive.com/jp/shop/9705f08b1dc2e0e90d9b047a20a7ba1e">カラオケBANBAN伊川谷店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|95|1056|<span class="rank-name-dl">とんとん</span>|<a href="https://search.dartslive.com/jp/shop/61dc30b2288223cf0d9b047a20a7ba1e">DANG NEXT</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|98|1055|<span class="rank-name-dl">✪新山隆丸✪</span>|<a href="https://search.dartslive.com/jp/shop/9cc5c64fe7e21275774c926eb736cb5a">Ratsel</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|99|1054|<span class="rank-name-dl">まりの弟</span>|<a href="https://search.dartslive.com/jp/shop/3c542a8570088199790ab824ce8730e5">カラオケ館 北野坂店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|100|1053|<span class="rank-name-dl">(ｸﾞ)(ｯ)(ﾁ)No.6</span>|<a href="https://search.dartslive.com/jp/shop/c0fc44d54e7a8929790ab824ce8730e5">KARAOKE SURREAL</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|2|1217|<span class="rank-name-dl">ブルはいらんゾ～</span>|<a href="https://search.dartslive.com/jp/shop/7d4971579c94eec1a3f63593b5358cc4">Darts Bar bloom</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|3|1200|<span class="rank-name-dl">Hiromi Miyazaki</span>|<a href="https://search.dartslive.com/jp/shop/af5cfc570cba515ba3f63593b5358cc4">快活CLUB グランド六甲店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|3|1200|<span class="rank-name-dl">ウルトラマン</span>|<a href="https://search.dartslive.com/jp/shop/7d4971579c94eec1a3f63593b5358cc4">Darts Bar bloom</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|3|1200|<span class="rank-name-dl">マサ_</span>|<a href="https://search.dartslive.com/jp/shop/7d4971579c94eec1a3f63593b5358cc4">Darts Bar bloom</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|3|1200|<span class="rank-name-dl">名定　望</span>|<a href="https://search.dartslive.com/jp/shop/3fc75c60c7407f81fec1ae84bb28bd87">Dining Darts Bar Teddy Bear</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|3|1200|<span class="rank-name-dl">大城　正樹</span>|<a href="https://search.dartslive.com/jp/shop/1314016fd2d10eb4790ab824ce8730e5">Laughter</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|3|1200|<span class="rank-name-dl">門脇聖護@白夜</span>|<a href="https://search.dartslive.com/jp/shop/2d05c5caa9446ca20d9b047a20a7ba1e">白夜</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|3|1200|<span class="rank-name-dl">ﾊｼﾞﾒちゃん@8121</span>|<a href="https://search.dartslive.com/jp/shop/174c18ece112b2f35f9f3321c1147265">快活CLUB 神戸伊川谷店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|10|1175|<span class="rank-name-dl">NO NAME 5047</span>|<a href="https://search.dartslive.com/jp/shop/84712648398ecf960d9b047a20a7ba1e">Darts Cafe Asgard</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|11|1167|<span class="rank-name-dl">CANIS Kaz MAJOR</span>|<a href="https://search.dartslive.com/jp/shop/d466a57c9e7c0dfafec1ae84bb28bd87">SIRIUS CAFE</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|12|1166|<span class="rank-name-dl">ゆうちん</span>|<a href="https://search.dartslive.com/jp/shop/84712648398ecf960d9b047a20a7ba1e">Darts Cafe Asgard</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|12|1166|<span class="rank-name-dl">ピン</span>|<a href="https://search.dartslive.com/jp/shop/174c18ece112b2f35f9f3321c1147265">快活CLUB 神戸伊川谷店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|14|1165|<span class="rank-name-dl">中井 涼</span>|<a href="https://search.dartslive.com/jp/shop/4f62efe6a04c413a0d9b047a20a7ba1e">CAFE＆DARTS BAR RICORDE</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|14|1165|<span class="rank-name-dl">葉山 善久</span>|<a href="https://search.dartslive.com/jp/shop/af5f5ae7b8417e2958d385ea46352d8f">BAR WAI WAI</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|16|1162|<span class="rank-name-dl">#つーじーw@店番</span>|<a href="https://search.dartslive.com/jp/shop/632d8fee28627b4d0d9b047a20a7ba1e">Cote Kote 神戸</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|17|1161|<span class="rank-name-dl">noncha@teddy</span>|<a href="https://search.dartslive.com/jp/shop/3fc75c60c7407f81fec1ae84bb28bd87">Dining Darts Bar Teddy Bear</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|18|1159|<span class="rank-name-dl">愛義成＠あらいふ</span>|<a href="https://search.dartslive.com/jp/shop/f90caaeabb96354a790ab824ce8730e5">Estrella</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|19|1158|<span class="rank-name-dl">清水景太　@SUN</span>|<a href="https://search.dartslive.com/jp/shop/13f2ed6bdcd0e9e90d9b047a20a7ba1e">Billiard＆Darts SUN KOBE</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|20|1157|<span class="rank-name-dl">泰</span>|<a href="https://search.dartslive.com/jp/shop/7d4971579c94eec1a3f63593b5358cc4">Darts Bar bloom</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|21|1153|<span class="rank-name-dl">時任 修斗</span>|<a href="https://search.dartslive.com/jp/shop/5d6cb5d37310f21bf454cb89828a1cfe">D-SPIDER</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|21|1153|<span class="rank-name-dl">東田の臣だわ</span>|<a href="https://search.dartslive.com/jp/shop/84712648398ecf960d9b047a20a7ba1e">Darts Cafe Asgard</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|23|1152|<span class="rank-name-dl">432</span>|<a href="https://search.dartslive.com/jp/shop/84712648398ecf960d9b047a20a7ba1e">Darts Cafe Asgard</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|23|1152|<span class="rank-name-dl">432</span>|<a href="https://search.dartslive.com/jp/shop/f90caaeabb96354a790ab824ce8730e5">Estrella</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|23|1152|<span class="rank-name-dl">ゆうちゃん^ ^</span>|<a href="https://search.dartslive.com/jp/shop/7d4971579c94eec1a3f63593b5358cc4">Darts Bar bloom</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|26|1135|<span class="rank-name-dl">432</span>|<a href="https://search.dartslive.com/jp/shop/2a8eba4a1321305d0d9b047a20a7ba1e">Bee SANNOMIYA</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|27|1134|<span class="rank-name-dl">Mitsurun@CLEF</span>|<a href="https://search.dartslive.com/jp/shop/7c2568d9a85c43635f9f3321c1147265">Thailand Bar Kuncee</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|27|1134|<span class="rank-name-dl">NO NAME 0025</span>|<a href="https://search.dartslive.com/jp/shop/174c18ece112b2f35f9f3321c1147265">快活CLUB 神戸伊川谷店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|29|1132|<span class="rank-name-dl">tりょう</span>|<a href="https://search.dartslive.com/jp/shop/3c298337ae55bd4658d385ea46352d8f">快活CLUB 鈴蘭台店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|29|1132|<span class="rank-name-dl">里予 桜太良月</span>|<a href="https://search.dartslive.com/jp/shop/1314016fd2d10eb4790ab824ce8730e5">Laughter</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|31|1129|<span class="rank-name-dl">NO NAME 4781</span>|<a href="https://search.dartslive.com/jp/shop/3c298337ae55bd4658d385ea46352d8f">快活CLUB 鈴蘭台店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|32|1128|<span class="rank-name-dl">soushi@ｳﾗｯﾁｰｽﾞ</span>|<a href="https://search.dartslive.com/jp/shop/c0fc44d54e7a8929790ab824ce8730e5">KARAOKE SURREAL</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|32|1128|<span class="rank-name-dl">たぷちゃん</span>|<a href="https://search.dartslive.com/jp/shop/174c18ece112b2f35f9f3321c1147265">快活CLUB 神戸伊川谷店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|34|1127|<span class="rank-name-dl">まりの弟</span>|<a href="https://search.dartslive.com/jp/shop/84712648398ecf960d9b047a20a7ba1e">Darts Cafe Asgard</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|35|1126|<span class="rank-name-dl">#つーじーw</span>|<a href="https://search.dartslive.com/jp/shop/af5cfc570cba515ba3f63593b5358cc4">快活CLUB グランド六甲店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|35|1126|<span class="rank-name-dl">ねこ</span>|<a href="https://search.dartslive.com/jp/shop/9705f08b1dc2e0e90d9b047a20a7ba1e">カラオケBanBan伊川谷店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|35|1126|<span class="rank-name-dl">清水 景太</span>|<a href="https://search.dartslive.com/jp/shop/13f2ed6bdcd0e9e90d9b047a20a7ba1e">Billiard＆Darts SUN KOBE</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|35|1126|<span class="rank-name-dl">葉山 善久</span>|<a href="https://search.dartslive.com/jp/shop/84712648398ecf960d9b047a20a7ba1e">Darts Cafe Asgard</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|39|1125|<span class="rank-name-dl">あちゃーも</span>|<a href="https://search.dartslive.com/jp/shop/0b53b0604a0410745f9f3321c1147265">快活CLUB 三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|39|1125|<span class="rank-name-dl">さしみ</span>|<a href="https://search.dartslive.com/jp/shop/35b667a0611ad9bc790ab824ce8730e5">Dining & Darts LaBit</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|39|1125|<span class="rank-name-dl">太田 舞鳩</span>|<a href="https://search.dartslive.com/jp/shop/0b53b0604a0410745f9f3321c1147265">快活CLUB 三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|39|1125|<span class="rank-name-dl">清水景太@swell</span>|<a href="https://search.dartslive.com/jp/shop/318a1f38817f1176b21333aee1bd51e4">Swell Cafe</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|39|1125|<span class="rank-name-dl">篤弥@ｳﾗｯﾁｰｽﾞ</span>|<a href="https://search.dartslive.com/jp/shop/3c298337ae55bd4658d385ea46352d8f">快活CLUB 鈴蘭台店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|39|1125|<span class="rank-name-dl">絶不調ぴんき〜！</span>|<a href="https://search.dartslive.com/jp/shop/3c542a8570088199790ab824ce8730e5">カラオケ館 北野坂店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|45|1124|<span class="rank-name-dl">ピン</span>|<a href="https://search.dartslive.com/jp/shop/61dc30b2288223cf0d9b047a20a7ba1e">DANG NEXT</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|45|1124|<span class="rank-name-dl">清水 景太</span>|<a href="https://search.dartslive.com/jp/shop/35b667a0611ad9bc790ab824ce8730e5">Dining & Darts LaBit</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|47|1123|<span class="rank-name-dl">べーやんEstrella</span>|<a href="https://search.dartslive.com/jp/shop/f90caaeabb96354a790ab824ce8730e5">Estrella</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|48|1122|<span class="rank-name-dl">ねこ</span>|<a href="https://search.dartslive.com/jp/shop/174c18ece112b2f35f9f3321c1147265">快活CLUB 神戸伊川谷店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|49|1118|<span class="rank-name-dl">熊元康則@CUESOUL</span>|<a href="https://search.dartslive.com/jp/shop/ee6dcfa66a3d9552b21333aee1bd51e4">GUNS</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|50|1117|<span class="rank-name-dl">(ｸﾞ)(ｯ)(ﾁ)No.6</span>|<a href="https://search.dartslive.com/jp/shop/ee6dcfa66a3d9552b21333aee1bd51e4">GUNS</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|51|1116|<span class="rank-name-dl">ピン</span>|<a href="https://search.dartslive.com/jp/shop/9705f08b1dc2e0e90d9b047a20a7ba1e">カラオケBanBan伊川谷店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|52|1115|<span class="rank-name-dl">432</span>|<a href="https://search.dartslive.com/jp/shop/3ed04ca0b89d840828032249b44395af">SHOTBAR Barrel</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|52|1115|<span class="rank-name-dl">Shoichi</span>|<a href="https://search.dartslive.com/jp/shop/3c542a8570088199790ab824ce8730e5">カラオケ館 北野坂店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|52|1115|<span class="rank-name-dl">brushwood dog</span>|<a href="https://search.dartslive.com/jp/shop/174c18ece112b2f35f9f3321c1147265">快活CLUB 神戸伊川谷店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|52|1115|<span class="rank-name-dl">たっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/84712648398ecf960d9b047a20a7ba1e">Darts Cafe Asgard</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|56|1114|<span class="rank-name-dl">NO NAME 6295</span>|<a href="https://search.dartslive.com/jp/shop/35b667a0611ad9bc790ab824ce8730e5">Dining & Darts LaBit</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|57|1113|<span class="rank-name-dl">ｳﾗｯﾁ -RRSY-</span>|<a href="https://search.dartslive.com/jp/shop/84712648398ecf960d9b047a20a7ba1e">Darts Cafe Asgard</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|58|1112|<span class="rank-name-dl">432</span>|<a href="https://search.dartslive.com/jp/shop/4f62efe6a04c413a0d9b047a20a7ba1e">CAFE＆DARTS BAR RICORDE</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|59|1110|<span class="rank-name-dl">noncha@teddy</span>|<a href="https://search.dartslive.com/jp/shop/2a8eba4a1321305d0d9b047a20a7ba1e">Bee SANNOMIYA</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|59|1110|<span class="rank-name-dl">あちゃーも</span>|<a href="https://search.dartslive.com/jp/shop/af5cfc570cba515ba3f63593b5358cc4">快活CLUB グランド六甲店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|61|1109|<span class="rank-name-dl">山下 竜起@DMC</span>|<a href="https://search.dartslive.com/jp/shop/1314016fd2d10eb4790ab824ce8730e5">Laughter</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|62|1107|<span class="rank-name-dl">川端 将生</span>|<a href="https://search.dartslive.com/jp/shop/3ed04ca0b89d840828032249b44395af">SHOTBAR Barrel</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|62|1107|<span class="rank-name-dl">清水景太</span>|<a href="https://search.dartslive.com/jp/shop/b1e47c398cab819f25d56fb0e5c39bac">Sirius</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|64|1106|<span class="rank-name-dl">MY NAME</span>|<a href="https://search.dartslive.com/jp/shop/1314016fd2d10eb4790ab824ce8730e5">Laughter</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|64|1106|<span class="rank-name-dl">守 口　瑞 穂</span>|<a href="https://search.dartslive.com/jp/shop/c0fc44d54e7a8929790ab824ce8730e5">KARAOKE SURREAL</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|66|1105|<span class="rank-name-dl">NO NAME 4310</span>|<a href="https://search.dartslive.com/jp/shop/2a8eba4a1321305d0d9b047a20a7ba1e">Bee SANNOMIYA</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|66|1105|<span class="rank-name-dl">ばたやん</span>|<a href="https://search.dartslive.com/jp/shop/84712648398ecf960d9b047a20a7ba1e">Darts Cafe Asgard</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|68|1103|<span class="rank-name-dl">ばたやん@Barrel</span>|<a href="https://search.dartslive.com/jp/shop/3ed04ca0b89d840828032249b44395af">SHOTBAR Barrel</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|69|1102|<span class="rank-name-dl">NO NAME 4310</span>|<a href="https://search.dartslive.com/jp/shop/0b53b0604a0410745f9f3321c1147265">快活CLUB 三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|70|1101|<span class="rank-name-dl">432</span>|<a href="https://search.dartslive.com/jp/shop/55c44ef7b70ea9abf454cb89828a1cfe">Far East Darts 神戸店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|70|1101|<span class="rank-name-dl">Shoichi</span>|<a href="https://search.dartslive.com/jp/shop/926cab81e20abde60d9b047a20a7ba1e">Thancoeur & Sammystone</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|70|1101|<span class="rank-name-dl">ピン</span>|<a href="https://search.dartslive.com/jp/shop/64f6bb1e0c3de1d8b21333aee1bd51e4">LIEN</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|70|1101|<span class="rank-name-dl">池田 竜也</span>|<a href="https://search.dartslive.com/jp/shop/174c18ece112b2f35f9f3321c1147265">快活CLUB 神戸伊川谷店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|74|1100|<span class="rank-name-dl">名定　望</span>|<a href="https://search.dartslive.com/jp/shop/247c4ee7d555654c774c926eb736cb5a">Dining Darts Bar Teddy Bear +PLUS</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|74|1100|<span class="rank-name-dl">河本篤弥@CUESOUL</span>|<a href="https://search.dartslive.com/jp/shop/15a13423c1b54e260d9b047a20a7ba1e">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|74|1100|<span class="rank-name-dl">浜崎祥悟</span>|<a href="https://search.dartslive.com/jp/shop/84712648398ecf960d9b047a20a7ba1e">Darts Cafe Asgard</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|74|1100|<span class="rank-name-dl">清水景太　@SUN</span>|<a href="https://search.dartslive.com/jp/shop/2a8eba4a1321305d0d9b047a20a7ba1e">Bee SANNOMIYA</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|74|1100|<span class="rank-name-dl">３２０</span>|<a href="https://search.dartslive.com/jp/shop/84712648398ecf960d9b047a20a7ba1e">Darts Cafe Asgard</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|79|1099|<span class="rank-name-dl">NO NAME 5047</span>|<a href="https://search.dartslive.com/jp/shop/0b53b0604a0410745f9f3321c1147265">快活CLUB 三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|79|1099|<span class="rank-name-dl">おキャンタマ森蔵</span>|<a href="https://search.dartslive.com/jp/shop/84712648398ecf960d9b047a20a7ba1e">Darts Cafe Asgard</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|81|1096|<span class="rank-name-dl">いくみ@ｳﾗｯﾁｰｽﾞ</span>|<a href="https://search.dartslive.com/jp/shop/926cab81e20abde60d9b047a20a7ba1e">Thancoeur & Sammystone</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|81|1096|<span class="rank-name-dl">青井 梨佳</span>|<a href="https://search.dartslive.com/jp/shop/f90caaeabb96354a790ab824ce8730e5">Estrella</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|83|1094|<span class="rank-name-dl">コッテリ(-.-)y-~</span>|<a href="https://search.dartslive.com/jp/shop/174c18ece112b2f35f9f3321c1147265">快活CLUB 神戸伊川谷店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|84|1093|<span class="rank-name-dl">神様仏様なあや様</span>|<a href="https://search.dartslive.com/jp/shop/3c542a8570088199790ab824ce8730e5">カラオケ館 北野坂店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|85|1091|<span class="rank-name-dl">パウ/R</span>|<a href="https://search.dartslive.com/jp/shop/7f76fd991f8a6d5fb21333aee1bd51e4">マイーダの酒場</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|86|1090|<span class="rank-name-dl">青井 梨佳</span>|<a href="https://search.dartslive.com/jp/shop/4f62efe6a04c413a0d9b047a20a7ba1e">CAFE & DARTS BAR REGALO</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|87|1089|<span class="rank-name-dl">水野＠だんねく</span>|<a href="https://search.dartslive.com/jp/shop/61dc30b2288223cf0d9b047a20a7ba1e">DANG NEXT</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|88|1088|<span class="rank-name-dl">あちゃーも@N組</span>|<a href="https://search.dartslive.com/jp/shop/247c4ee7d555654c774c926eb736cb5a">Dining Darts Bar Teddy Bear +PLUS</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|88|1088|<span class="rank-name-dl">シュモ・ヘイヘ</span>|<a href="https://search.dartslive.com/jp/shop/84712648398ecf960d9b047a20a7ba1e">Darts Cafe Asgard</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|90|1087|<span class="rank-name-dl">noncha@teddy</span>|<a href="https://search.dartslive.com/jp/shop/3c542a8570088199790ab824ce8730e5">カラオケ館 北野坂店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|91|1086|<span class="rank-name-dl">かずまき</span>|<a href="https://search.dartslive.com/jp/shop/2cf4443875eaafd00d9b047a20a7ba1e">Jmart</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|92|1085|<span class="rank-name-dl">しゅん太郎A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/371dda3dcc7f657458d385ea46352d8f">blossom</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|92|1085|<span class="rank-name-dl">てんちょ</span>|<a href="https://search.dartslive.com/jp/shop/13f2ed6bdcd0e9e90d9b047a20a7ba1e">Billiard＆Darts SUN KOBE</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|94|1084|<span class="rank-name-dl">432</span>|<a href="https://search.dartslive.com/jp/shop/2d05c5caa9446ca20d9b047a20a7ba1e">白夜</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|94|1084|<span class="rank-name-dl">八＠REGALO</span>|<a href="https://search.dartslive.com/jp/shop/4f62efe6a04c413a0d9b047a20a7ba1e">CAFE & DARTS BAR REGALO</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|94|1084|<span class="rank-name-dl">泰</span>|<a href="https://search.dartslive.com/jp/shop/371dda3dcc7f657458d385ea46352d8f">blossom</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|97|1083|<span class="rank-name-dl">SAKI</span>|<a href="https://search.dartslive.com/jp/shop/174c18ece112b2f35f9f3321c1147265">快活CLUB 神戸伊川谷店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|97|1083|<span class="rank-name-dl">ﾊｼﾞﾒちゃん@8121</span>|<a href="https://search.dartslive.com/jp/shop/84712648398ecf960d9b047a20a7ba1e">Darts Cafe Asgard</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|99|1082|<span class="rank-name-dl">432 @まりの弟</span>|<a href="https://search.dartslive.com/jp/shop/4f62efe6a04c413a0d9b047a20a7ba1e">CAFE & DARTS BAR REGALO</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|99|1082|<span class="rank-name-dl">@ｳﾗｯﾁｰｽﾞ</span>|<a href="https://search.dartslive.com/jp/shop/c0fc44d54e7a8929790ab824ce8730e5">KARAOKE SURREAL</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -133,105 +133,105 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|1255|<span class="rank-name-dl">てんちょ</span>|<a href="https://search.dartslive.com/jp/shop/2d05c5caa9446ca20d9b047a20a7ba1e">白夜</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|2|1200|<span class="rank-name-dl">名定　望</span>|<a href="https://search.dartslive.com/jp/shop/3fc75c60c7407f81fec1ae84bb28bd87">Dining Darts Bar Teddy Bear</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|2|1200|<span class="rank-name-dl">大城　正樹</span>|<a href="https://search.dartslive.com/jp/shop/1314016fd2d10eb4790ab824ce8730e5">Laughter</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|4|1169|<span class="rank-name-dl">マサ_</span>|<a href="https://search.dartslive.com/jp/shop/7d4971579c94eec1a3f63593b5358cc4">Darts Bar bloom</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|5|1165|<span class="rank-name-dl">中井 涼</span>|<a href="https://search.dartslive.com/jp/shop/4f62efe6a04c413a0d9b047a20a7ba1e">CAFE＆DARTS BAR RICORDE</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|5|1165|<span class="rank-name-dl">葉山 善久</span>|<a href="https://search.dartslive.com/jp/shop/af5f5ae7b8417e2958d385ea46352d8f">BAR WAI WAI</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|7|1161|<span class="rank-name-dl">noncha@teddy</span>|<a href="https://search.dartslive.com/jp/shop/3fc75c60c7407f81fec1ae84bb28bd87">Dining Darts Bar Teddy Bear</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|8|1158|<span class="rank-name-dl">清水景太　@SUN</span>|<a href="https://search.dartslive.com/jp/shop/13f2ed6bdcd0e9e90d9b047a20a7ba1e">Billiard＆Darts SUN KOBE</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|9|1153|<span class="rank-name-dl">時任 修斗</span>|<a href="https://search.dartslive.com/jp/shop/5d6cb5d37310f21bf454cb89828a1cfe">D-SPIDER</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|9|1153|<span class="rank-name-dl">東田の臣だわ</span>|<a href="https://search.dartslive.com/jp/shop/84712648398ecf960d9b047a20a7ba1e">Darts Cafe Asgard</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|11|1152|<span class="rank-name-dl">432</span>|<a href="https://search.dartslive.com/jp/shop/84712648398ecf960d9b047a20a7ba1e">Darts Cafe Asgard</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|11|1152|<span class="rank-name-dl">432</span>|<a href="https://search.dartslive.com/jp/shop/f90caaeabb96354a790ab824ce8730e5">Estrella</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|11|1152|<span class="rank-name-dl">ゆうちゃん^ ^</span>|<a href="https://search.dartslive.com/jp/shop/7d4971579c94eec1a3f63593b5358cc4">Darts Bar bloom</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|14|1134|<span class="rank-name-dl">432</span>|<a href="https://search.dartslive.com/jp/shop/2a8eba4a1321305d0d9b047a20a7ba1e">Bee SANNOMIYA</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|14|1134|<span class="rank-name-dl">NO NAME 0025</span>|<a href="https://search.dartslive.com/jp/shop/174c18ece112b2f35f9f3321c1147265">快活CLUB 神戸伊川谷店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|16|1128|<span class="rank-name-dl">soushi@ｳﾗｯﾁｰｽﾞ</span>|<a href="https://search.dartslive.com/jp/shop/c0fc44d54e7a8929790ab824ce8730e5">KARAOKE SURREAL</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|17|1127|<span class="rank-name-dl">まりの弟</span>|<a href="https://search.dartslive.com/jp/shop/84712648398ecf960d9b047a20a7ba1e">Darts Cafe Asgard</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|18|1126|<span class="rank-name-dl">清水 景太</span>|<a href="https://search.dartslive.com/jp/shop/13f2ed6bdcd0e9e90d9b047a20a7ba1e">Billiard＆Darts SUN KOBE</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|19|1125|<span class="rank-name-dl">あちゃーも</span>|<a href="https://search.dartslive.com/jp/shop/0b53b0604a0410745f9f3321c1147265">快活CLUB 三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|19|1125|<span class="rank-name-dl">さしみ</span>|<a href="https://search.dartslive.com/jp/shop/35b667a0611ad9bc790ab824ce8730e5">Dining & Darts LaBit</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|19|1125|<span class="rank-name-dl">篤弥@ｳﾗｯﾁｰｽﾞ</span>|<a href="https://search.dartslive.com/jp/shop/3c298337ae55bd4658d385ea46352d8f">快活CLUB 鈴蘭台店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|22|1124|<span class="rank-name-dl">ピン</span>|<a href="https://search.dartslive.com/jp/shop/61dc30b2288223cf0d9b047a20a7ba1e">DANG NEXT</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|22|1124|<span class="rank-name-dl">泰</span>|<a href="https://search.dartslive.com/jp/shop/7d4971579c94eec1a3f63593b5358cc4">Darts Bar bloom</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|22|1124|<span class="rank-name-dl">清水 景太</span>|<a href="https://search.dartslive.com/jp/shop/35b667a0611ad9bc790ab824ce8730e5">Dining & Darts LaBit</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|25|1123|<span class="rank-name-dl">ウルトラマン</span>|<a href="https://search.dartslive.com/jp/shop/7d4971579c94eec1a3f63593b5358cc4">Darts Bar bloom</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|25|1123|<span class="rank-name-dl">太田 舞鳩</span>|<a href="https://search.dartslive.com/jp/shop/0b53b0604a0410745f9f3321c1147265">快活CLUB 三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|27|1115|<span class="rank-name-dl">432</span>|<a href="https://search.dartslive.com/jp/shop/3ed04ca0b89d840828032249b44395af">SHOTBAR Barrel</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|28|1113|<span class="rank-name-dl">#つーじーw</span>|<a href="https://search.dartslive.com/jp/shop/af5cfc570cba515ba3f63593b5358cc4">快活CLUB グランド六甲店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|28|1113|<span class="rank-name-dl">ｳﾗｯﾁ -RRSY-</span>|<a href="https://search.dartslive.com/jp/shop/84712648398ecf960d9b047a20a7ba1e">Darts Cafe Asgard</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|30|1109|<span class="rank-name-dl">ピン</span>|<a href="https://search.dartslive.com/jp/shop/174c18ece112b2f35f9f3321c1147265">快活CLUB 神戸伊川谷店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|30|1109|<span class="rank-name-dl">山下 竜起@DMC</span>|<a href="https://search.dartslive.com/jp/shop/1314016fd2d10eb4790ab824ce8730e5">Laughter</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|32|1107|<span class="rank-name-dl">川端 将生</span>|<a href="https://search.dartslive.com/jp/shop/3ed04ca0b89d840828032249b44395af">SHOTBAR Barrel</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|33|1105|<span class="rank-name-dl">NO NAME 4310</span>|<a href="https://search.dartslive.com/jp/shop/2a8eba4a1321305d0d9b047a20a7ba1e">Bee SANNOMIYA</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|33|1105|<span class="rank-name-dl">ばたやん</span>|<a href="https://search.dartslive.com/jp/shop/84712648398ecf960d9b047a20a7ba1e">Darts Cafe Asgard</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|35|1102|<span class="rank-name-dl">NO NAME 4310</span>|<a href="https://search.dartslive.com/jp/shop/0b53b0604a0410745f9f3321c1147265">快活CLUB 三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|36|1100|<span class="rank-name-dl">名定　望</span>|<a href="https://search.dartslive.com/jp/shop/247c4ee7d555654c774c926eb736cb5a">Dining Darts Bar Teddy Bear +PLUS</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|36|1100|<span class="rank-name-dl">清水景太　@SUN</span>|<a href="https://search.dartslive.com/jp/shop/2a8eba4a1321305d0d9b047a20a7ba1e">Bee SANNOMIYA</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|38|1099|<span class="rank-name-dl">おキャンタマ森蔵</span>|<a href="https://search.dartslive.com/jp/shop/84712648398ecf960d9b047a20a7ba1e">Darts Cafe Asgard</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|39|1096|<span class="rank-name-dl">brushwood dog</span>|<a href="https://search.dartslive.com/jp/shop/174c18ece112b2f35f9f3321c1147265">快活CLUB 神戸伊川谷店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|40|1093|<span class="rank-name-dl">神様仏様なあや様</span>|<a href="https://search.dartslive.com/jp/shop/3c542a8570088199790ab824ce8730e5">カラオケ館 北野坂店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|41|1091|<span class="rank-name-dl">パウ/R</span>|<a href="https://search.dartslive.com/jp/shop/7f76fd991f8a6d5fb21333aee1bd51e4">マイーダの酒場</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|42|1090|<span class="rank-name-dl">青井 梨佳</span>|<a href="https://search.dartslive.com/jp/shop/4f62efe6a04c413a0d9b047a20a7ba1e">CAFE & DARTS BAR REGALO</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|43|1089|<span class="rank-name-dl">水野＠だんねく</span>|<a href="https://search.dartslive.com/jp/shop/61dc30b2288223cf0d9b047a20a7ba1e">DANG NEXT</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|44|1088|<span class="rank-name-dl">あちゃーも@N組</span>|<a href="https://search.dartslive.com/jp/shop/247c4ee7d555654c774c926eb736cb5a">Dining Darts Bar Teddy Bear +PLUS</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|45|1087|<span class="rank-name-dl">noncha@teddy</span>|<a href="https://search.dartslive.com/jp/shop/3c542a8570088199790ab824ce8730e5">カラオケ館 北野坂店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|45|1087|<span class="rank-name-dl">べーやんEstrella</span>|<a href="https://search.dartslive.com/jp/shop/f90caaeabb96354a790ab824ce8730e5">Estrella</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|47|1085|<span class="rank-name-dl">てんちょ</span>|<a href="https://search.dartslive.com/jp/shop/13f2ed6bdcd0e9e90d9b047a20a7ba1e">Billiard＆Darts SUN KOBE</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|48|1084|<span class="rank-name-dl">432</span>|<a href="https://search.dartslive.com/jp/shop/2d05c5caa9446ca20d9b047a20a7ba1e">白夜</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|48|1084|<span class="rank-name-dl">八＠REGALO</span>|<a href="https://search.dartslive.com/jp/shop/4f62efe6a04c413a0d9b047a20a7ba1e">CAFE & DARTS BAR REGALO</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|50|1083|<span class="rank-name-dl">SAKI</span>|<a href="https://search.dartslive.com/jp/shop/174c18ece112b2f35f9f3321c1147265">快活CLUB 神戸伊川谷店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|51|1082|<span class="rank-name-dl">432 @まりの弟</span>|<a href="https://search.dartslive.com/jp/shop/4f62efe6a04c413a0d9b047a20a7ba1e">CAFE & DARTS BAR REGALO</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|51|1082|<span class="rank-name-dl">@ｳﾗｯﾁｰｽﾞ</span>|<a href="https://search.dartslive.com/jp/shop/c0fc44d54e7a8929790ab824ce8730e5">KARAOKE SURREAL</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|53|1080|<span class="rank-name-dl">きたむらかずま</span>|<a href="https://search.dartslive.com/jp/shop/84712648398ecf960d9b047a20a7ba1e">Darts Cafe Asgard</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|54|1079|<span class="rank-name-dl">たまっち</span>|<a href="https://search.dartslive.com/jp/shop/2a8eba4a1321305d0d9b047a20a7ba1e">Bee SANNOMIYA</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|54|1079|<span class="rank-name-dl">てんちょ</span>|<a href="https://search.dartslive.com/jp/shop/860b16c7a7c5a9d1fec1ae84bb28bd87">Darts Bar RAITO</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|54|1079|<span class="rank-name-dl">ﾀｯﾁｬﾝ@ｳﾗｯﾁｰｽﾞ</span>|<a href="https://search.dartslive.com/jp/shop/84712648398ecf960d9b047a20a7ba1e">Darts Cafe Asgard</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|57|1078|<span class="rank-name-dl">NO NAME 8551</span>|<a href="https://search.dartslive.com/jp/shop/0b53b0604a0410745f9f3321c1147265">快活CLUB 三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|58|1076|<span class="rank-name-dl">清水 景太</span>|<a href="https://search.dartslive.com/jp/shop/2d05c5caa9446ca20d9b047a20a7ba1e">白夜</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|59|1075|<span class="rank-name-dl">あちゃーも</span>|<a href="https://search.dartslive.com/jp/shop/af5cfc570cba515ba3f63593b5358cc4">快活CLUB グランド六甲店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|60|1074|<span class="rank-name-dl">べいびー☆Strato</span>|<a href="https://search.dartslive.com/jp/shop/84712648398ecf960d9b047a20a7ba1e">Darts Cafe Asgard</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|60|1074|<span class="rank-name-dl">ゆか</span>|<a href="https://search.dartslive.com/jp/shop/f90caaeabb96354a790ab824ce8730e5">Estrella</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|62|1072|<span class="rank-name-dl">Takuya Y.</span>|<a href="https://search.dartslive.com/jp/shop/84712648398ecf960d9b047a20a7ba1e">Darts Cafe Asgard</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|62|1072|<span class="rank-name-dl">つーじーw</span>|<a href="https://search.dartslive.com/jp/shop/84712648398ecf960d9b047a20a7ba1e">Darts Cafe Asgard</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|64|1071|<span class="rank-name-dl">Shin Higashida</span>|<a href="https://search.dartslive.com/jp/shop/84712648398ecf960d9b047a20a7ba1e">Darts Cafe Asgard</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|64|1071|<span class="rank-name-dl">Shoichi</span>|<a href="https://search.dartslive.com/jp/shop/0b53b0604a0410745f9f3321c1147265">快活CLUB 三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|64|1071|<span class="rank-name-dl">清水 景太</span>|<a href="https://search.dartslive.com/jp/shop/2a8eba4a1321305d0d9b047a20a7ba1e">Bee SANNOMIYA</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|67|1070|<span class="rank-name-dl">コッテリ(-.-)y-~</span>|<a href="https://search.dartslive.com/jp/shop/174c18ece112b2f35f9f3321c1147265">快活CLUB 神戸伊川谷店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|68|1069|<span class="rank-name-dl">泰</span>|<a href="https://search.dartslive.com/jp/shop/15a13423c1b54e260d9b047a20a7ba1e">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|69|1067|<span class="rank-name-dl">432</span>|<a href="https://search.dartslive.com/jp/shop/3c298337ae55bd4658d385ea46352d8f">快活CLUB 鈴蘭台店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|69|1067|<span class="rank-name-dl">noncha@teddy</span>|<a href="https://search.dartslive.com/jp/shop/247c4ee7d555654c774c926eb736cb5a">Dining Darts Bar Teddy Bear +PLUS</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|71|1066|<span class="rank-name-dl">NO NAME 0025</span>|<a href="https://search.dartslive.com/jp/shop/15a13423c1b54e260d9b047a20a7ba1e">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|71|1066|<span class="rank-name-dl">☆QUARTER→LOW☆</span>|<a href="https://search.dartslive.com/jp/shop/0b53b0604a0410745f9f3321c1147265">快活CLUB 三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|71|1066|<span class="rank-name-dl">中井涼☆</span>|<a href="https://search.dartslive.com/jp/shop/4f62efe6a04c413a0d9b047a20a7ba1e">CAFE＆DARTS BAR RICORDE</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|71|1066|<span class="rank-name-dl">菅 洸貴</span>|<a href="https://search.dartslive.com/jp/shop/4f62efe6a04c413a0d9b047a20a7ba1e">CAFE＆DARTS BAR RICORDE</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|75|1065|<span class="rank-name-dl">Y.K</span>|<a href="https://search.dartslive.com/jp/shop/15a13423c1b54e260d9b047a20a7ba1e">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|76|1064|<span class="rank-name-dl">すー@ｳﾗｯﾁｰｽﾞ</span>|<a href="https://search.dartslive.com/jp/shop/7c8f4532f892574c25d56fb0e5c39bac">TAKE-00/3D</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|76|1064|<span class="rank-name-dl">ﾌﾙｻｷ ﾋｭｳｾｲ</span>|<a href="https://search.dartslive.com/jp/shop/860b16c7a7c5a9d1fec1ae84bb28bd87">Darts Bar RAITO</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|78|1063|<span class="rank-name-dl">(ｸﾞ)(ｯ)(ﾁ)No.6</span>|<a href="https://search.dartslive.com/jp/shop/ee6dcfa66a3d9552b21333aee1bd51e4">GUNS</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|78|1063|<span class="rank-name-dl">CANIS Kaz MAJOR</span>|<a href="https://search.dartslive.com/jp/shop/d466a57c9e7c0dfafec1ae84bb28bd87">SIRIUS CAFE</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|78|1063|<span class="rank-name-dl">篤弥@ｳﾗｯﾁｰｽﾞ</span>|<a href="https://search.dartslive.com/jp/shop/c0fc44d54e7a8929790ab824ce8730e5">KARAOKE SURREAL</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|81|1062|<span class="rank-name-dl">Takuya Y.</span>|<a href="https://search.dartslive.com/jp/shop/0b53b0604a0410745f9f3321c1147265">快活CLUB 三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|82|1061|<span class="rank-name-dl">noncha@teddy</span>|<a href="https://search.dartslive.com/jp/shop/6d75ee8fe2c34a2e28032249b44395af">Amusement＆Darts noegle</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|82|1061|<span class="rank-name-dl">清水景太@swell</span>|<a href="https://search.dartslive.com/jp/shop/318a1f38817f1176b21333aee1bd51e4">Swell Cafe</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|84|1060|<span class="rank-name-dl">きー@ｳﾗｯﾁｰｽﾞ</span>|<a href="https://search.dartslive.com/jp/shop/247c4ee7d555654c774c926eb736cb5a">Dining Darts Bar Teddy Bear +PLUS</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|84|1060|<span class="rank-name-dl">てんちょ</span>|<a href="https://search.dartslive.com/jp/shop/84712648398ecf960d9b047a20a7ba1e">Darts Cafe Asgard</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|84|1060|<span class="rank-name-dl">モモニシキ</span>|<a href="https://search.dartslive.com/jp/shop/632d8fee28627b4d0d9b047a20a7ba1e">Cote Kote 神戸</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|87|1059|<span class="rank-name-dl">とっくんの下僕</span>|<a href="https://search.dartslive.com/jp/shop/3c298337ae55bd4658d385ea46352d8f">快活CLUB 鈴蘭台店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|87|1059|<span class="rank-name-dl">和泉　真平</span>|<a href="https://search.dartslive.com/jp/shop/4f62efe6a04c413a0d9b047a20a7ba1e">CAFE＆DARTS BAR RICORDE</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|87|1059|<span class="rank-name-dl">葵@ｳﾗｯﾁｰｽﾞ</span>|<a href="https://search.dartslive.com/jp/shop/c0fc44d54e7a8929790ab824ce8730e5">KARAOKE SURREAL</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|87|1059|<span class="rank-name-dl">辻　裕充@one80</span>|<a href="https://search.dartslive.com/jp/shop/af5cfc570cba515ba3f63593b5358cc4">快活CLUB グランド六甲店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|91|1058|<span class="rank-name-dl">432</span>|<a href="https://search.dartslive.com/jp/shop/0b53b0604a0410745f9f3321c1147265">快活CLUB 三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|91|1058|<span class="rank-name-dl">sakuchan</span>|<a href="https://search.dartslive.com/jp/shop/174c18ece112b2f35f9f3321c1147265">快活CLUB 神戸伊川谷店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|91|1058|<span class="rank-name-dl">ピン</span>|<a href="https://search.dartslive.com/jp/shop/64f6bb1e0c3de1d8b21333aee1bd51e4">LIEN</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|91|1058|<span class="rank-name-dl">清水 景太</span>|<a href="https://search.dartslive.com/jp/shop/4f62efe6a04c413a0d9b047a20a7ba1e">CAFE＆DARTS BAR RICORDE</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|95|1056|<span class="rank-name-dl">432</span>|<a href="https://search.dartslive.com/jp/shop/4f62efe6a04c413a0d9b047a20a7ba1e">CAFE＆DARTS BAR RICORDE</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|95|1056|<span class="rank-name-dl">♤Enja♤</span>|<a href="https://search.dartslive.com/jp/shop/9705f08b1dc2e0e90d9b047a20a7ba1e">カラオケBANBAN伊川谷店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|95|1056|<span class="rank-name-dl">とんとん</span>|<a href="https://search.dartslive.com/jp/shop/61dc30b2288223cf0d9b047a20a7ba1e">DANG NEXT</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|98|1055|<span class="rank-name-dl">✪新山隆丸✪</span>|<a href="https://search.dartslive.com/jp/shop/9cc5c64fe7e21275774c926eb736cb5a">Ratsel</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|99|1054|<span class="rank-name-dl">まりの弟</span>|<a href="https://search.dartslive.com/jp/shop/3c542a8570088199790ab824ce8730e5">カラオケ館 北野坂店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|100|1053|<span class="rank-name-dl">(ｸﾞ)(ｯ)(ﾁ)No.6</span>|<a href="https://search.dartslive.com/jp/shop/c0fc44d54e7a8929790ab824ce8730e5">KARAOKE SURREAL</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|2|1217|<span class="rank-name-dl">ブルはいらんゾ～</span>|<a href="https://search.dartslive.com/jp/shop/7d4971579c94eec1a3f63593b5358cc4">Darts Bar bloom</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|3|1200|<span class="rank-name-dl">Hiromi Miyazaki</span>|<a href="https://search.dartslive.com/jp/shop/af5cfc570cba515ba3f63593b5358cc4">快活CLUB グランド六甲店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|3|1200|<span class="rank-name-dl">ウルトラマン</span>|<a href="https://search.dartslive.com/jp/shop/7d4971579c94eec1a3f63593b5358cc4">Darts Bar bloom</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|3|1200|<span class="rank-name-dl">マサ_</span>|<a href="https://search.dartslive.com/jp/shop/7d4971579c94eec1a3f63593b5358cc4">Darts Bar bloom</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|3|1200|<span class="rank-name-dl">名定　望</span>|<a href="https://search.dartslive.com/jp/shop/3fc75c60c7407f81fec1ae84bb28bd87">Dining Darts Bar Teddy Bear</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|3|1200|<span class="rank-name-dl">大城　正樹</span>|<a href="https://search.dartslive.com/jp/shop/1314016fd2d10eb4790ab824ce8730e5">Laughter</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|3|1200|<span class="rank-name-dl">門脇聖護@白夜</span>|<a href="https://search.dartslive.com/jp/shop/2d05c5caa9446ca20d9b047a20a7ba1e">白夜</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|3|1200|<span class="rank-name-dl">ﾊｼﾞﾒちゃん@8121</span>|<a href="https://search.dartslive.com/jp/shop/174c18ece112b2f35f9f3321c1147265">快活CLUB 神戸伊川谷店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|10|1175|<span class="rank-name-dl">NO NAME 5047</span>|<a href="https://search.dartslive.com/jp/shop/84712648398ecf960d9b047a20a7ba1e">Darts Cafe Asgard</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|11|1167|<span class="rank-name-dl">CANIS Kaz MAJOR</span>|<a href="https://search.dartslive.com/jp/shop/d466a57c9e7c0dfafec1ae84bb28bd87">SIRIUS CAFE</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|12|1166|<span class="rank-name-dl">ゆうちん</span>|<a href="https://search.dartslive.com/jp/shop/84712648398ecf960d9b047a20a7ba1e">Darts Cafe Asgard</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|12|1166|<span class="rank-name-dl">ピン</span>|<a href="https://search.dartslive.com/jp/shop/174c18ece112b2f35f9f3321c1147265">快活CLUB 神戸伊川谷店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|14|1165|<span class="rank-name-dl">中井 涼</span>|<a href="https://search.dartslive.com/jp/shop/4f62efe6a04c413a0d9b047a20a7ba1e">CAFE＆DARTS BAR RICORDE</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|14|1165|<span class="rank-name-dl">葉山 善久</span>|<a href="https://search.dartslive.com/jp/shop/af5f5ae7b8417e2958d385ea46352d8f">BAR WAI WAI</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|16|1162|<span class="rank-name-dl">#つーじーw@店番</span>|<a href="https://search.dartslive.com/jp/shop/632d8fee28627b4d0d9b047a20a7ba1e">Cote Kote 神戸</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|17|1161|<span class="rank-name-dl">noncha@teddy</span>|<a href="https://search.dartslive.com/jp/shop/3fc75c60c7407f81fec1ae84bb28bd87">Dining Darts Bar Teddy Bear</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|18|1159|<span class="rank-name-dl">愛義成＠あらいふ</span>|<a href="https://search.dartslive.com/jp/shop/f90caaeabb96354a790ab824ce8730e5">Estrella</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|19|1158|<span class="rank-name-dl">清水景太　@SUN</span>|<a href="https://search.dartslive.com/jp/shop/13f2ed6bdcd0e9e90d9b047a20a7ba1e">Billiard＆Darts SUN KOBE</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|20|1157|<span class="rank-name-dl">泰</span>|<a href="https://search.dartslive.com/jp/shop/7d4971579c94eec1a3f63593b5358cc4">Darts Bar bloom</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|21|1153|<span class="rank-name-dl">時任 修斗</span>|<a href="https://search.dartslive.com/jp/shop/5d6cb5d37310f21bf454cb89828a1cfe">D-SPIDER</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|21|1153|<span class="rank-name-dl">東田の臣だわ</span>|<a href="https://search.dartslive.com/jp/shop/84712648398ecf960d9b047a20a7ba1e">Darts Cafe Asgard</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|23|1152|<span class="rank-name-dl">432</span>|<a href="https://search.dartslive.com/jp/shop/84712648398ecf960d9b047a20a7ba1e">Darts Cafe Asgard</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|23|1152|<span class="rank-name-dl">432</span>|<a href="https://search.dartslive.com/jp/shop/f90caaeabb96354a790ab824ce8730e5">Estrella</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|23|1152|<span class="rank-name-dl">ゆうちゃん^ ^</span>|<a href="https://search.dartslive.com/jp/shop/7d4971579c94eec1a3f63593b5358cc4">Darts Bar bloom</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|26|1135|<span class="rank-name-dl">432</span>|<a href="https://search.dartslive.com/jp/shop/2a8eba4a1321305d0d9b047a20a7ba1e">Bee SANNOMIYA</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|27|1134|<span class="rank-name-dl">Mitsurun@CLEF</span>|<a href="https://search.dartslive.com/jp/shop/7c2568d9a85c43635f9f3321c1147265">Thailand Bar Kuncee</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|27|1134|<span class="rank-name-dl">NO NAME 0025</span>|<a href="https://search.dartslive.com/jp/shop/174c18ece112b2f35f9f3321c1147265">快活CLUB 神戸伊川谷店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|29|1132|<span class="rank-name-dl">tりょう</span>|<a href="https://search.dartslive.com/jp/shop/3c298337ae55bd4658d385ea46352d8f">快活CLUB 鈴蘭台店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|29|1132|<span class="rank-name-dl">里予 桜太良月</span>|<a href="https://search.dartslive.com/jp/shop/1314016fd2d10eb4790ab824ce8730e5">Laughter</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|31|1129|<span class="rank-name-dl">NO NAME 4781</span>|<a href="https://search.dartslive.com/jp/shop/3c298337ae55bd4658d385ea46352d8f">快活CLUB 鈴蘭台店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|32|1128|<span class="rank-name-dl">soushi@ｳﾗｯﾁｰｽﾞ</span>|<a href="https://search.dartslive.com/jp/shop/c0fc44d54e7a8929790ab824ce8730e5">KARAOKE SURREAL</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|32|1128|<span class="rank-name-dl">たぷちゃん</span>|<a href="https://search.dartslive.com/jp/shop/174c18ece112b2f35f9f3321c1147265">快活CLUB 神戸伊川谷店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|34|1127|<span class="rank-name-dl">まりの弟</span>|<a href="https://search.dartslive.com/jp/shop/84712648398ecf960d9b047a20a7ba1e">Darts Cafe Asgard</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|35|1126|<span class="rank-name-dl">#つーじーw</span>|<a href="https://search.dartslive.com/jp/shop/af5cfc570cba515ba3f63593b5358cc4">快活CLUB グランド六甲店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|35|1126|<span class="rank-name-dl">ねこ</span>|<a href="https://search.dartslive.com/jp/shop/9705f08b1dc2e0e90d9b047a20a7ba1e">カラオケBanBan伊川谷店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|35|1126|<span class="rank-name-dl">清水 景太</span>|<a href="https://search.dartslive.com/jp/shop/13f2ed6bdcd0e9e90d9b047a20a7ba1e">Billiard＆Darts SUN KOBE</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|35|1126|<span class="rank-name-dl">葉山 善久</span>|<a href="https://search.dartslive.com/jp/shop/84712648398ecf960d9b047a20a7ba1e">Darts Cafe Asgard</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|39|1125|<span class="rank-name-dl">あちゃーも</span>|<a href="https://search.dartslive.com/jp/shop/0b53b0604a0410745f9f3321c1147265">快活CLUB 三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|39|1125|<span class="rank-name-dl">さしみ</span>|<a href="https://search.dartslive.com/jp/shop/35b667a0611ad9bc790ab824ce8730e5">Dining & Darts LaBit</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|39|1125|<span class="rank-name-dl">太田 舞鳩</span>|<a href="https://search.dartslive.com/jp/shop/0b53b0604a0410745f9f3321c1147265">快活CLUB 三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|39|1125|<span class="rank-name-dl">清水景太@swell</span>|<a href="https://search.dartslive.com/jp/shop/318a1f38817f1176b21333aee1bd51e4">Swell Cafe</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|39|1125|<span class="rank-name-dl">篤弥@ｳﾗｯﾁｰｽﾞ</span>|<a href="https://search.dartslive.com/jp/shop/3c298337ae55bd4658d385ea46352d8f">快活CLUB 鈴蘭台店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|39|1125|<span class="rank-name-dl">絶不調ぴんき〜！</span>|<a href="https://search.dartslive.com/jp/shop/3c542a8570088199790ab824ce8730e5">カラオケ館 北野坂店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|45|1124|<span class="rank-name-dl">ピン</span>|<a href="https://search.dartslive.com/jp/shop/61dc30b2288223cf0d9b047a20a7ba1e">DANG NEXT</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|45|1124|<span class="rank-name-dl">清水 景太</span>|<a href="https://search.dartslive.com/jp/shop/35b667a0611ad9bc790ab824ce8730e5">Dining & Darts LaBit</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|47|1123|<span class="rank-name-dl">べーやんEstrella</span>|<a href="https://search.dartslive.com/jp/shop/f90caaeabb96354a790ab824ce8730e5">Estrella</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|48|1122|<span class="rank-name-dl">ねこ</span>|<a href="https://search.dartslive.com/jp/shop/174c18ece112b2f35f9f3321c1147265">快活CLUB 神戸伊川谷店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|49|1118|<span class="rank-name-dl">熊元康則@CUESOUL</span>|<a href="https://search.dartslive.com/jp/shop/ee6dcfa66a3d9552b21333aee1bd51e4">GUNS</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|50|1117|<span class="rank-name-dl">(ｸﾞ)(ｯ)(ﾁ)No.6</span>|<a href="https://search.dartslive.com/jp/shop/ee6dcfa66a3d9552b21333aee1bd51e4">GUNS</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|51|1116|<span class="rank-name-dl">ピン</span>|<a href="https://search.dartslive.com/jp/shop/9705f08b1dc2e0e90d9b047a20a7ba1e">カラオケBanBan伊川谷店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|52|1115|<span class="rank-name-dl">432</span>|<a href="https://search.dartslive.com/jp/shop/3ed04ca0b89d840828032249b44395af">SHOTBAR Barrel</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|52|1115|<span class="rank-name-dl">Shoichi</span>|<a href="https://search.dartslive.com/jp/shop/3c542a8570088199790ab824ce8730e5">カラオケ館 北野坂店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|52|1115|<span class="rank-name-dl">brushwood dog</span>|<a href="https://search.dartslive.com/jp/shop/174c18ece112b2f35f9f3321c1147265">快活CLUB 神戸伊川谷店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|52|1115|<span class="rank-name-dl">たっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/84712648398ecf960d9b047a20a7ba1e">Darts Cafe Asgard</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|56|1114|<span class="rank-name-dl">NO NAME 6295</span>|<a href="https://search.dartslive.com/jp/shop/35b667a0611ad9bc790ab824ce8730e5">Dining & Darts LaBit</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|57|1113|<span class="rank-name-dl">ｳﾗｯﾁ -RRSY-</span>|<a href="https://search.dartslive.com/jp/shop/84712648398ecf960d9b047a20a7ba1e">Darts Cafe Asgard</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|58|1112|<span class="rank-name-dl">432</span>|<a href="https://search.dartslive.com/jp/shop/4f62efe6a04c413a0d9b047a20a7ba1e">CAFE＆DARTS BAR RICORDE</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|59|1110|<span class="rank-name-dl">noncha@teddy</span>|<a href="https://search.dartslive.com/jp/shop/2a8eba4a1321305d0d9b047a20a7ba1e">Bee SANNOMIYA</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|59|1110|<span class="rank-name-dl">あちゃーも</span>|<a href="https://search.dartslive.com/jp/shop/af5cfc570cba515ba3f63593b5358cc4">快活CLUB グランド六甲店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|61|1109|<span class="rank-name-dl">山下 竜起@DMC</span>|<a href="https://search.dartslive.com/jp/shop/1314016fd2d10eb4790ab824ce8730e5">Laughter</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|62|1107|<span class="rank-name-dl">川端 将生</span>|<a href="https://search.dartslive.com/jp/shop/3ed04ca0b89d840828032249b44395af">SHOTBAR Barrel</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|62|1107|<span class="rank-name-dl">清水景太</span>|<a href="https://search.dartslive.com/jp/shop/b1e47c398cab819f25d56fb0e5c39bac">Sirius</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|64|1106|<span class="rank-name-dl">MY NAME</span>|<a href="https://search.dartslive.com/jp/shop/1314016fd2d10eb4790ab824ce8730e5">Laughter</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|64|1106|<span class="rank-name-dl">守 口　瑞 穂</span>|<a href="https://search.dartslive.com/jp/shop/c0fc44d54e7a8929790ab824ce8730e5">KARAOKE SURREAL</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|66|1105|<span class="rank-name-dl">NO NAME 4310</span>|<a href="https://search.dartslive.com/jp/shop/2a8eba4a1321305d0d9b047a20a7ba1e">Bee SANNOMIYA</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|66|1105|<span class="rank-name-dl">ばたやん</span>|<a href="https://search.dartslive.com/jp/shop/84712648398ecf960d9b047a20a7ba1e">Darts Cafe Asgard</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|68|1103|<span class="rank-name-dl">ばたやん@Barrel</span>|<a href="https://search.dartslive.com/jp/shop/3ed04ca0b89d840828032249b44395af">SHOTBAR Barrel</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|69|1102|<span class="rank-name-dl">NO NAME 4310</span>|<a href="https://search.dartslive.com/jp/shop/0b53b0604a0410745f9f3321c1147265">快活CLUB 三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|70|1101|<span class="rank-name-dl">432</span>|<a href="https://search.dartslive.com/jp/shop/55c44ef7b70ea9abf454cb89828a1cfe">Far East Darts 神戸店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|70|1101|<span class="rank-name-dl">Shoichi</span>|<a href="https://search.dartslive.com/jp/shop/926cab81e20abde60d9b047a20a7ba1e">Thancoeur & Sammystone</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|70|1101|<span class="rank-name-dl">ピン</span>|<a href="https://search.dartslive.com/jp/shop/64f6bb1e0c3de1d8b21333aee1bd51e4">LIEN</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|70|1101|<span class="rank-name-dl">池田 竜也</span>|<a href="https://search.dartslive.com/jp/shop/174c18ece112b2f35f9f3321c1147265">快活CLUB 神戸伊川谷店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|74|1100|<span class="rank-name-dl">名定　望</span>|<a href="https://search.dartslive.com/jp/shop/247c4ee7d555654c774c926eb736cb5a">Dining Darts Bar Teddy Bear +PLUS</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|74|1100|<span class="rank-name-dl">河本篤弥@CUESOUL</span>|<a href="https://search.dartslive.com/jp/shop/15a13423c1b54e260d9b047a20a7ba1e">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|74|1100|<span class="rank-name-dl">浜崎祥悟</span>|<a href="https://search.dartslive.com/jp/shop/84712648398ecf960d9b047a20a7ba1e">Darts Cafe Asgard</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|74|1100|<span class="rank-name-dl">清水景太　@SUN</span>|<a href="https://search.dartslive.com/jp/shop/2a8eba4a1321305d0d9b047a20a7ba1e">Bee SANNOMIYA</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|74|1100|<span class="rank-name-dl">３２０</span>|<a href="https://search.dartslive.com/jp/shop/84712648398ecf960d9b047a20a7ba1e">Darts Cafe Asgard</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|79|1099|<span class="rank-name-dl">NO NAME 5047</span>|<a href="https://search.dartslive.com/jp/shop/0b53b0604a0410745f9f3321c1147265">快活CLUB 三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|79|1099|<span class="rank-name-dl">おキャンタマ森蔵</span>|<a href="https://search.dartslive.com/jp/shop/84712648398ecf960d9b047a20a7ba1e">Darts Cafe Asgard</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|81|1096|<span class="rank-name-dl">いくみ@ｳﾗｯﾁｰｽﾞ</span>|<a href="https://search.dartslive.com/jp/shop/926cab81e20abde60d9b047a20a7ba1e">Thancoeur & Sammystone</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|81|1096|<span class="rank-name-dl">青井 梨佳</span>|<a href="https://search.dartslive.com/jp/shop/f90caaeabb96354a790ab824ce8730e5">Estrella</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|83|1094|<span class="rank-name-dl">コッテリ(-.-)y-~</span>|<a href="https://search.dartslive.com/jp/shop/174c18ece112b2f35f9f3321c1147265">快活CLUB 神戸伊川谷店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|84|1093|<span class="rank-name-dl">神様仏様なあや様</span>|<a href="https://search.dartslive.com/jp/shop/3c542a8570088199790ab824ce8730e5">カラオケ館 北野坂店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|85|1091|<span class="rank-name-dl">パウ/R</span>|<a href="https://search.dartslive.com/jp/shop/7f76fd991f8a6d5fb21333aee1bd51e4">マイーダの酒場</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|86|1090|<span class="rank-name-dl">青井 梨佳</span>|<a href="https://search.dartslive.com/jp/shop/4f62efe6a04c413a0d9b047a20a7ba1e">CAFE & DARTS BAR REGALO</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|87|1089|<span class="rank-name-dl">水野＠だんねく</span>|<a href="https://search.dartslive.com/jp/shop/61dc30b2288223cf0d9b047a20a7ba1e">DANG NEXT</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|88|1088|<span class="rank-name-dl">あちゃーも@N組</span>|<a href="https://search.dartslive.com/jp/shop/247c4ee7d555654c774c926eb736cb5a">Dining Darts Bar Teddy Bear +PLUS</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|88|1088|<span class="rank-name-dl">シュモ・ヘイヘ</span>|<a href="https://search.dartslive.com/jp/shop/84712648398ecf960d9b047a20a7ba1e">Darts Cafe Asgard</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|90|1087|<span class="rank-name-dl">noncha@teddy</span>|<a href="https://search.dartslive.com/jp/shop/3c542a8570088199790ab824ce8730e5">カラオケ館 北野坂店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|91|1086|<span class="rank-name-dl">かずまき</span>|<a href="https://search.dartslive.com/jp/shop/2cf4443875eaafd00d9b047a20a7ba1e">Jmart</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|92|1085|<span class="rank-name-dl">しゅん太郎A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/371dda3dcc7f657458d385ea46352d8f">blossom</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|92|1085|<span class="rank-name-dl">てんちょ</span>|<a href="https://search.dartslive.com/jp/shop/13f2ed6bdcd0e9e90d9b047a20a7ba1e">Billiard＆Darts SUN KOBE</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|94|1084|<span class="rank-name-dl">432</span>|<a href="https://search.dartslive.com/jp/shop/2d05c5caa9446ca20d9b047a20a7ba1e">白夜</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|94|1084|<span class="rank-name-dl">八＠REGALO</span>|<a href="https://search.dartslive.com/jp/shop/4f62efe6a04c413a0d9b047a20a7ba1e">CAFE & DARTS BAR REGALO</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|94|1084|<span class="rank-name-dl">泰</span>|<a href="https://search.dartslive.com/jp/shop/371dda3dcc7f657458d385ea46352d8f">blossom</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|97|1083|<span class="rank-name-dl">SAKI</span>|<a href="https://search.dartslive.com/jp/shop/174c18ece112b2f35f9f3321c1147265">快活CLUB 神戸伊川谷店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|97|1083|<span class="rank-name-dl">ﾊｼﾞﾒちゃん@8121</span>|<a href="https://search.dartslive.com/jp/shop/84712648398ecf960d9b047a20a7ba1e">Darts Cafe Asgard</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|99|1082|<span class="rank-name-dl">432 @まりの弟</span>|<a href="https://search.dartslive.com/jp/shop/4f62efe6a04c413a0d9b047a20a7ba1e">CAFE & DARTS BAR REGALO</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|99|1082|<span class="rank-name-dl">@ｳﾗｯﾁｰｽﾞ</span>|<a href="https://search.dartslive.com/jp/shop/c0fc44d54e7a8929790ab824ce8730e5">KARAOKE SURREAL</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
 
 
 #### PHOENIXDARTS TOP 100
@@ -241,103 +241,106 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|960|<span class="rank-name-pd">YUKIセクシービーム</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|2|953|<span class="rank-name-pd">Y.K</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|3|929|<span class="rank-name-pd">ピンク坊や</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85813?s_seq=85813">noegle</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|4|915|<span class="rank-name-pd">かいち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|5|856|<span class="rank-name-pd">しゅん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|6|840|<span class="rank-name-pd">てってれー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|7|835|<span class="rank-name-pd">マーシネン スネークアイ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|7|835|<span class="rank-name-pd">近藤 聖也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|9|810|<span class="rank-name-pd">( ˙-˙  )</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|10|797|<span class="rank-name-pd">sulafu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|11|770|<span class="rank-name-pd">earth</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|12|758|<span class="rank-name-pd">セチ・ガライ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|13|757|<span class="rank-name-pd">ラテ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73206?s_seq=73206">ASOBIBAR 三宮店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|14|754|<span class="rank-name-pd">すぃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|15|752|<span class="rank-name-pd">白井 龍太郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|16|747|<span class="rank-name-pd">塩コンブ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|17|737|<span class="rank-name-pd">Taku</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|18|731|<span class="rank-name-pd">0079_2705</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|19|714|<span class="rank-name-pd">ぽ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|20|681|<span class="rank-name-pd">まちゃあき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|21|673|<span class="rank-name-pd">江崎 真直</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73206?s_seq=73206">ASOBIBAR 三宮店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|22|669|<span class="rank-name-pd">Katanoda Futo</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|23|668|<span class="rank-name-pd">遼@L( ・ω・)ノ~</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|24|660|<span class="rank-name-pd">星見</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|25|659|<span class="rank-name-pd">UME</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|26|656|<span class="rank-name-pd">kazuki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|27|652|<span class="rank-name-pd">そそそ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|28|651|<span class="rank-name-pd">zdx235ceb3071b</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|29|642|<span class="rank-name-pd">ざっく</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|30|625|<span class="rank-name-pd">MASAHIKO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|31|623|<span class="rank-name-pd">きたけん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|32|612|<span class="rank-name-pd">★魔王★</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|33|599|<span class="rank-name-pd">sharkisland.k</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73206?s_seq=73206">ASOBIBAR 三宮店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|34|597|<span class="rank-name-pd">おこめいずごっど</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|35|593|<span class="rank-name-pd">しゅん！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|36|590|<span class="rank-name-pd">SIRIUS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|37|584|<span class="rank-name-pd">@USK</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|38|582|<span class="rank-name-pd">しょたろ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|39|580|<span class="rank-name-pd">◎←o(^-^o)もりもり</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|40|573|<span class="rank-name-pd">TAKESHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|40|573|<span class="rank-name-pd">シティ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73206?s_seq=73206">ASOBIBAR 三宮店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|42|565|<span class="rank-name-pd">Mackey</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84312?s_seq=84312">ダーツ＆バル YASU</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|43|562|<span class="rank-name-pd">タダッチxyz</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73206?s_seq=73206">ASOBIBAR 三宮店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|44|554|<span class="rank-name-pd">0118 0294</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|45|551|<span class="rank-name-pd">NORIPY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85813?s_seq=85813">noegle</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|46|550|<span class="rank-name-pd">おっくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67283?s_seq=67283">legame</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|47|548|<span class="rank-name-pd">Yasoilu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|48|547|<span class="rank-name-pd">ちゅんだぁ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|49|544|<span class="rank-name-pd">シゲ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|50|537|<span class="rank-name-pd">てるみん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73206?s_seq=73206">ASOBIBAR 三宮店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|51|528|<span class="rank-name-pd">RX-78masaoくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|52|526|<span class="rank-name-pd">ふくろう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|53|513|<span class="rank-name-pd">超たけし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|54|508|<span class="rank-name-pd">VirtualCard</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|55|507|<span class="rank-name-pd">ANDY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|56|502|<span class="rank-name-pd">MITSUE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|57|501|<span class="rank-name-pd">[LINE] BROWN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|58|493|<span class="rank-name-pd">ふゆ。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|59|490|<span class="rank-name-pd">ゆうま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85813?s_seq=85813">noegle</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|60|489|<span class="rank-name-pd">Anthony</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|61|486|<span class="rank-name-pd">0162 6397</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|62|477|<span class="rank-name-pd">katudon26</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|63|476|<span class="rank-name-pd">おなつ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|64|474|<span class="rank-name-pd">k＊o</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|65|470|<span class="rank-name-pd">さくら</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85813?s_seq=85813">noegle</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|66|467|<span class="rank-name-pd">こうき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|67|456|<span class="rank-name-pd">nogami</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85813?s_seq=85813">noegle</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|68|451|<span class="rank-name-pd">クレナイ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|69|448|<span class="rank-name-pd">スザンヌ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|70|445|<span class="rank-name-pd">古代の機械変熊冀外国人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|71|440|<span class="rank-name-pd">♾️よかろうざえもん♾️</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|72|429|<span class="rank-name-pd">0138_9544</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|72|429|<span class="rank-name-pd">0184_8709</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|72|429|<span class="rank-name-pd">りゅういち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85813?s_seq=85813">noegle</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|75|410|<span class="rank-name-pd">あつし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|76|409|<span class="rank-name-pd">TOMOHIRO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|77|407|<span class="rank-name-pd">taro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|78|400|<span class="rank-name-pd">태연</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|79|398|<span class="rank-name-pd">미니초미니</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|80|393|<span class="rank-name-pd">げん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85813?s_seq=85813">noegle</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|81|371|<span class="rank-name-pd">けん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|82|354|<span class="rank-name-pd">ちぁーきー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|83|353|<span class="rank-name-pd">四代目組長票っ瓜ー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|84|348|<span class="rank-name-pd">Taisei</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|85|334|<span class="rank-name-pd">ヨシロック☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85813?s_seq=85813">noegle</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|86|331|<span class="rank-name-pd">0268_1606</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|87|325|<span class="rank-name-pd">れい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|88|318|<span class="rank-name-pd">miyu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|89|315|<span class="rank-name-pd">魁人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|90|314|<span class="rank-name-pd">たじじほけたろー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|91|309|<span class="rank-name-pd">ピュア＠ＪＪ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|92|283|<span class="rank-name-pd">なかば</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|93|261|<span class="rank-name-pd">きゃめーさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|93|261|<span class="rank-name-pd">きょし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|95|218|<span class="rank-name-pd">규현</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|96|217|<span class="rank-name-pd">がう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
-|97|160|<span class="rank-name-pd">やっこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|1|1007|<span class="rank-name-pd"><span class="pro-icon-pd"></span>玉島 蒼茉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|2|967|<span class="rank-name-pd">YUKIセクシービーム</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|3|953|<span class="rank-name-pd">Y.K</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|4|929|<span class="rank-name-pd">ピンク坊や</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85813?s_seq=85813">noegle</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|5|915|<span class="rank-name-pd">かいち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|6|899|<span class="rank-name-pd">0009_5411</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|6|899|<span class="rank-name-pd">SoLuna</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|8|856|<span class="rank-name-pd">しゅん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|9|850|<span class="rank-name-pd">むらさき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|10|840|<span class="rank-name-pd">てってれー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|11|835|<span class="rank-name-pd">マーシネン スネークアイ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|11|835|<span class="rank-name-pd">近藤 聖也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|13|828|<span class="rank-name-pd">すぃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|14|822|<span class="rank-name-pd">遼@L( ・ω・)ノ~</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|15|810|<span class="rank-name-pd">( ˙-˙  )</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|15|810|<span class="rank-name-pd"><span class="pro-icon-pd"></span>白井 龍太郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|17|799|<span class="rank-name-pd">taaa-w-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|18|797|<span class="rank-name-pd">sulafu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|19|787|<span class="rank-name-pd">Sumire</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84312?s_seq=84312">ダーツ＆バル YASU</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|20|784|<span class="rank-name-pd">Yasoilu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|21|772|<span class="rank-name-pd">おこげ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|22|770|<span class="rank-name-pd">earth</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|23|760|<span class="rank-name-pd">aki__221014</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|24|758|<span class="rank-name-pd">セチ・ガライ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|25|757|<span class="rank-name-pd">ラテ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73206?s_seq=73206">ASOBIBAR 三宮店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|26|754|<span class="rank-name-pd">ケッティー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|27|750|<span class="rank-name-pd">KONDOH</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|28|747|<span class="rank-name-pd">塩コンブ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|29|737|<span class="rank-name-pd">Taku</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|30|736|<span class="rank-name-pd">ちーず</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|31|731|<span class="rank-name-pd">0079_2705</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|32|715|<span class="rank-name-pd">はると</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|33|714|<span class="rank-name-pd">ぽ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|34|712|<span class="rank-name-pd">なお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95221?s_seq=95221">ダイニングダーツバーBee 三宮店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|35|709|<span class="rank-name-pd">CUESOUL</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|36|703|<span class="rank-name-pd">NAGI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|37|681|<span class="rank-name-pd">TKS@BURST</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|37|681|<span class="rank-name-pd">まちゃあき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|39|673|<span class="rank-name-pd">Mackey</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84312?s_seq=84312">ダーツ＆バル YASU</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|39|673|<span class="rank-name-pd">江崎 真直</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73206?s_seq=73206">ASOBIBAR 三宮店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|41|670|<span class="rank-name-pd">カツシン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|42|669|<span class="rank-name-pd">Katanoda Futo</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|43|664|<span class="rank-name-pd">zftx3a47f10fea</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|44|662|<span class="rank-name-pd">zdx235ceb3071b</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|45|660|<span class="rank-name-pd">星見</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|46|659|<span class="rank-name-pd">@USK</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|46|659|<span class="rank-name-pd">UME</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|48|656|<span class="rank-name-pd">AKI..</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|48|656|<span class="rank-name-pd">MASAHiKO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|48|656|<span class="rank-name-pd">kazuki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|51|652|<span class="rank-name-pd">そそそ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|52|642|<span class="rank-name-pd">ざっく</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|53|639|<span class="rank-name-pd">booyan</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|54|637|<span class="rank-name-pd">ミスターホワイト</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|55|634|<span class="rank-name-pd">ゆーと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|56|631|<span class="rank-name-pd">つ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|57|625|<span class="rank-name-pd">MASAHIKO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|58|623|<span class="rank-name-pd">きたけん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|59|618|<span class="rank-name-pd">i see the car</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|60|614|<span class="rank-name-pd">コロぽっくる♪(＾(人)＾)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|61|612|<span class="rank-name-pd">★魔王★</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|62|610|<span class="rank-name-pd">k Ado</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|63|601|<span class="rank-name-pd">ImNotLinus</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|64|599|<span class="rank-name-pd">sharkisland.k</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73206?s_seq=73206">ASOBIBAR 三宮店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|65|597|<span class="rank-name-pd">おこめいずごっど</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|66|593|<span class="rank-name-pd">しゅん！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|67|590|<span class="rank-name-pd">SIRIUS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|68|588|<span class="rank-name-pd">Aru</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|69|582|<span class="rank-name-pd">しょたろ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|70|580|<span class="rank-name-pd">◎←o(^-^o)もりもり</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|71|575|<span class="rank-name-pd">コウスケ@SwingArms</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|72|573|<span class="rank-name-pd">TAKE 2xx0</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|72|573|<span class="rank-name-pd">TAKESHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|72|573|<span class="rank-name-pd">シティ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73206?s_seq=73206">ASOBIBAR 三宮店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|75|567|<span class="rank-name-pd">ちゅんだぁ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|76|566|<span class="rank-name-pd">グァバ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|77|562|<span class="rank-name-pd">タダッチxyz</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73206?s_seq=73206">ASOBIBAR 三宮店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|77|562|<span class="rank-name-pd">ホワイトチョコ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|79|557|<span class="rank-name-pd">VirtualCard</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|80|554|<span class="rank-name-pd">0118 0294</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|81|553|<span class="rank-name-pd">樋口</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95221?s_seq=95221">ダイニングダーツバーBee 三宮店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|82|551|<span class="rank-name-pd">0107_0858</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|82|551|<span class="rank-name-pd">NORIPY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85813?s_seq=85813">noegle</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|84|550|<span class="rank-name-pd">おっくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67283?s_seq=67283">legame</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|85|547|<span class="rank-name-pd">開口鬼人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|86|544|<span class="rank-name-pd">シゲ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|87|540|<span class="rank-name-pd">RYO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|88|537|<span class="rank-name-pd">てるみん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73206?s_seq=73206">ASOBIBAR 三宮店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|89|536|<span class="rank-name-pd">ぽてと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|89|536|<span class="rank-name-pd">コマちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|91|534|<span class="rank-name-pd">F.Y.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71611?s_seq=71611">カラオケボックスおさるの村DX</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|92|531|<span class="rank-name-pd">TONchan</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|93|528|<span class="rank-name-pd">RX-78masaoくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|94|526|<span class="rank-name-pd">ふくろう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|95|521|<span class="rank-name-pd">🍀鳥取の弓道射手🍀ダーツプレイヤー🍀</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73206?s_seq=73206">ASOBIBAR 三宮店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|96|519|<span class="rank-name-pd">figo1202</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|97|513|<span class="rank-name-pd">マサやんです</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|97|513|<span class="rank-name-pd">超たけし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|99|512|<span class="rank-name-pd">あり</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
+|100|507|<span class="rank-name-pd">ANDY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9617?s_seq=9617">ラウンドワン三宮駅前店</a>|<a href="/darts/rank/兵庫県/神戸市">兵庫県神戸市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

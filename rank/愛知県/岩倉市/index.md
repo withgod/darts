@@ -23,7 +23,10 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-||0|<span class="rank-name-dl"> </span>|<a href=""></a>|<a href="/darts/rank//"></a>|
+|1|666|<span class="rank-name-dl">OKI</span>|<a href="https://search.dartslive.com/jp/shop/ca1307bf240edb1a0d9b047a20a7ba1e">鉄板バル E.STYLE</a>|<a href="/darts/rank/愛知県/岩倉市">愛知県岩倉市</a>|
+|2|638|<span class="rank-name-dl">Nao</span>|<a href="https://search.dartslive.com/jp/shop/ca1307bf240edb1a0d9b047a20a7ba1e">鉄板バル E.STYLE</a>|<a href="/darts/rank/愛知県/岩倉市">愛知県岩倉市</a>|
+|3|495|<span class="rank-name-dl">Kayoko</span>|<a href="https://search.dartslive.com/jp/shop/ca1307bf240edb1a0d9b047a20a7ba1e">鉄板バル E.STYLE</a>|<a href="/darts/rank/愛知県/岩倉市">愛知県岩倉市</a>|
+|4|422|<span class="rank-name-dl">まーくん</span>|<a href="https://search.dartslive.com/jp/shop/ca1307bf240edb1a0d9b047a20a7ba1e">鉄板バル E.STYLE</a>|<a href="/darts/rank/愛知県/岩倉市">愛知県岩倉市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -33,7 +36,10 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-||0|<span class="rank-name-dl"> </span>|<a href=""></a>|<a href="/darts/rank//"></a>|
+|1|666|<span class="rank-name-dl">OKI</span>|<a href="https://search.dartslive.com/jp/shop/ca1307bf240edb1a0d9b047a20a7ba1e">鉄板バル E.STYLE</a>|<a href="/darts/rank/愛知県/岩倉市">愛知県岩倉市</a>|
+|2|638|<span class="rank-name-dl">Nao</span>|<a href="https://search.dartslive.com/jp/shop/ca1307bf240edb1a0d9b047a20a7ba1e">鉄板バル E.STYLE</a>|<a href="/darts/rank/愛知県/岩倉市">愛知県岩倉市</a>|
+|3|495|<span class="rank-name-dl">Kayoko</span>|<a href="https://search.dartslive.com/jp/shop/ca1307bf240edb1a0d9b047a20a7ba1e">鉄板バル E.STYLE</a>|<a href="/darts/rank/愛知県/岩倉市">愛知県岩倉市</a>|
+|4|422|<span class="rank-name-dl">まーくん</span>|<a href="https://search.dartslive.com/jp/shop/ca1307bf240edb1a0d9b047a20a7ba1e">鉄板バル E.STYLE</a>|<a href="/darts/rank/愛知県/岩倉市">愛知県岩倉市</a>|
 
 
 #### PHOENIXDARTS TOP 100

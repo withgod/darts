@@ -24,105 +24,105 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|1200|<span class="rank-name-dl">のりを</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|2|1133|<span class="rank-name-dl">木村 裕馬</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|3|1108|<span class="rank-name-dl">丸田和樹</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|4|1083|<span class="rank-name-dl">長久手さん</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|5|1082|<span class="rank-name-pd">やまじゅう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|6|1062|<span class="rank-name-dl">はらさん</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|7|1060|<span class="rank-name-pd">MASA ~TRiNiDAD~</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|8|1049|<span class="rank-name-dl">丸田　和樹</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|9|1041|<span class="rank-name-pd"><span class="pro-icon-pd"></span>日高 達矢</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|10|1040|<span class="rank-name-dl">Hide</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|11|1038|<span class="rank-name-dl">じゅん(JJ)</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|12|1008|<span class="rank-name-dl">アルクマックス</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|13|1004|<span class="rank-name-dl">りょう</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|14|999|<span class="rank-name-dl">おおさわ</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|15|990|<span class="rank-name-dl">竜</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|16|977|<span class="rank-name-dl">†BEAT†@pp1</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|17|975|<span class="rank-name-dl">じゅん@JJ</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|18|967|<span class="rank-name-dl">あっきー</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|19|962|<span class="rank-name-pd">トミーヤン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|20|950|<span class="rank-name-dl">ゆうとぉぉおおお</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|21|947|<span class="rank-name-dl">さし</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|22|936|<span class="rank-name-dl">H.A.R.U</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|23|932|<span class="rank-name-dl">YC</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|23|932|<span class="rank-name-dl">ましゃみち</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|25|929|<span class="rank-name-pd">Y.M.Revolution</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|26|925|<span class="rank-name-dl">ちょな</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|27|912|<span class="rank-name-dl">Taka</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|28|911|<span class="rank-name-pd">JJ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|29|905|<span class="rank-name-pd">鯉沼 秀人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|30|900|<span class="rank-name-dl">こまこ</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|31|861|<span class="rank-name-pd">海馬コーポレーション</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|32|852|<span class="rank-name-pd">M.I</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|33|840|<span class="rank-name-pd">エンジョイ専用</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|34|831|<span class="rank-name-dl">ゆみ</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|35|817|<span class="rank-name-pd">オースティン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|36|810|<span class="rank-name-pd">あつのりばんぶ〜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|37|792|<span class="rank-name-pd">Yanyu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|38|786|<span class="rank-name-pd">赤穂ルイージ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|39|757|<span class="rank-name-pd">ぽんちょ侍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|40|754|<span class="rank-name-dl">あんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|41|752|<span class="rank-name-pd">0192_0847</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|41|752|<span class="rank-name-pd">TECH</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|43|749|<span class="rank-name-pd">KeN@gaNeza</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|44|748|<span class="rank-name-pd">Lamune</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|45|747|<span class="rank-name-pd">TAKARO-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|46|744|<span class="rank-name-pd">JIN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|47|734|<span class="rank-name-pd">ゆーとぉぉおおお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|48|732|<span class="rank-name-pd">HIGESHIGE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|49|726|<span class="rank-name-dl">平牧 あつ子</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|50|721|<span class="rank-name-pd">EMA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|51|716|<span class="rank-name-pd">だーやま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|52|693|<span class="rank-name-pd">TAKU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|53|692|<span class="rank-name-dl">シバ</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|54|690|<span class="rank-name-pd">りゅーちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|55|687|<span class="rank-name-pd">月】RYOGA【姫</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|56|685|<span class="rank-name-pd"><span class="pro-icon-pd"></span>松浦 孝彰</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|57|684|<span class="rank-name-pd">まさき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|58|682|<span class="rank-name-pd">池ちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|59|680|<span class="rank-name-pd">znbj35cf6c1736</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|60|675|<span class="rank-name-dl">Tetra</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|61|671|<span class="rank-name-pd"><span class="pro-icon-pd"></span>小村 俊喜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|62|669|<span class="rank-name-dl">なっしぃ</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|63|666|<span class="rank-name-dl">そーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|64|661|<span class="rank-name-pd">Mori</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|64|661|<span class="rank-name-pd">S.NAKAJIMA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|66|651|<span class="rank-name-pd">D</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|67|649|<span class="rank-name-dl">N.</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|68|647|<span class="rank-name-dl">ゆっけ</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|69|642|<span class="rank-name-pd">ウエシン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|70|637|<span class="rank-name-dl">Atsunori</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|71|633|<span class="rank-name-pd">こころ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|72|631|<span class="rank-name-pd"><span class="pro-icon-pd"></span>鈴木 祥史</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|73|629|<span class="rank-name-pd">Hiro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|74|620|<span class="rank-name-pd">NERMAL</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|75|619|<span class="rank-name-dl">ちゃちゃまる。</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|76|617|<span class="rank-name-dl">NO NAME ENDO</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|76|617|<span class="rank-name-pd">m</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|78|615|<span class="rank-name-dl">†ゆうちゃん†</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|79|613|<span class="rank-name-pd">とろろだょ☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|80|608|<span class="rank-name-dl">うぱあぁ</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|81|599|<span class="rank-name-pd">Remy</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|81|599|<span class="rank-name-pd">ぼっしー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|83|594|<span class="rank-name-pd">KULSU HOMLA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|83|594|<span class="rank-name-pd">RYOHEI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|85|589|<span class="rank-name-pd">ギャランごう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|86|584|<span class="rank-name-pd">Sakuma</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|87|581|<span class="rank-name-pd">アッパ貝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|88|579|<span class="rank-name-pd">たけのこ初心者</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|88|579|<span class="rank-name-pd">ナユ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|90|577|<span class="rank-name-pd">Ash*</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|91|571|<span class="rank-name-pd">だゆう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|92|569|<span class="rank-name-pd">シューベルト</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|93|563|<span class="rank-name-pd">hiro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|93|563|<span class="rank-name-pd">すぎ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|95|553|<span class="rank-name-dl">ちーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|96|550|<span class="rank-name-dl">みきすけ</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|97|548|<span class="rank-name-pd">おかゆ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|98|547|<span class="rank-name-pd">KATOO.GAIA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|99|545|<span class="rank-name-pd">テンパリーナ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|100|543|<span class="rank-name-pd">みぃクン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|2|1159|<span class="rank-name-dl">Hide</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|3|1156|<span class="rank-name-pd">MASA ~TRiNiDAD~</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|4|1133|<span class="rank-name-dl">木村 裕馬</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|5|1129|<span class="rank-name-dl">りょう</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|6|1113|<span class="rank-name-dl">中村大善</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|7|1108|<span class="rank-name-dl">丸田和樹</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|8|1100|<span class="rank-name-pd">トミーヤン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|9|1085|<span class="rank-name-pd">エンジョイ専用</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|10|1083|<span class="rank-name-dl">長久手さん</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|11|1082|<span class="rank-name-pd">やまじゅう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|12|1076|<span class="rank-name-dl">Masa -TRiNiDAD-</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|13|1075|<span class="rank-name-dl">さし</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|14|1067|<span class="rank-name-dl">どいっち</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|15|1064|<span class="rank-name-dl">H.A.R.U</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|16|1062|<span class="rank-name-dl">はらさん</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|17|1057|<span class="rank-name-dl">鯉沼 秀人</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|18|1052|<span class="rank-name-dl">アルクマックス</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|19|1049|<span class="rank-name-dl">丸田　和樹</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|20|1044|<span class="rank-name-dl">ひでぼーい</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|21|1043|<span class="rank-name-dl">じゅん@JJ</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|22|1041|<span class="rank-name-pd"><span class="pro-icon-pd"></span>日高 達矢</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|23|1040|<span class="rank-name-dl">亮太</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|24|1038|<span class="rank-name-dl">MT KENTA</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|24|1038|<span class="rank-name-dl">じゅん(JJ)</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|26|1022|<span class="rank-name-dl">あっきー</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|27|1017|<span class="rank-name-dl">Babuu</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|28|1005|<span class="rank-name-dl">BERO</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|29|1000|<span class="rank-name-pd">0020_4213</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|30|999|<span class="rank-name-dl">†BEAT†@pp1</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|30|999|<span class="rank-name-dl">おおさわ</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|32|990|<span class="rank-name-dl">竜</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|33|984|<span class="rank-name-dl">H.A.R.U@Re:boot</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|34|978|<span class="rank-name-dl">神の味噌汁</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|35|977|<span class="rank-name-pd">JJ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|36|975|<span class="rank-name-dl">たっつ</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|37|969|<span class="rank-name-pd">YC</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|38|953|<span class="rank-name-dl">追い兎</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|39|950|<span class="rank-name-dl">ゆうとぉぉおおお</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|40|948|<span class="rank-name-dl">岩間俊也</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|41|943|<span class="rank-name-pd">znbj35cf6c1736</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|42|937|<span class="rank-name-dl">ぴ</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|43|936|<span class="rank-name-pd">kaminomisoshiru</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|44|932|<span class="rank-name-dl">ましゃみち</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|45|931|<span class="rank-name-dl">しゅたいん</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|46|930|<span class="rank-name-dl">あおい(｡･ω･｡)</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|47|929|<span class="rank-name-pd">Y.M.Revolution</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|48|925|<span class="rank-name-dl">ちょな</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|49|913|<span class="rank-name-dl">中村 大善</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|49|913|<span class="rank-name-dl">丸雄</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|51|912|<span class="rank-name-dl">Taka</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|52|908|<span class="rank-name-dl">こうせい</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|53|900|<span class="rank-name-dl">こまこ</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|54|893|<span class="rank-name-dl">Runa</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|54|893|<span class="rank-name-dl">ミルクレープ</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|56|886|<span class="rank-name-dl">Austin</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|57|884|<span class="rank-name-dl">シュタイン</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|58|877|<span class="rank-name-dl">tAka【Vivace】</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|59|861|<span class="rank-name-pd">海馬コーポレーション</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|60|852|<span class="rank-name-pd">M.I</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|61|848|<span class="rank-name-pd">岡本 涼</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|62|844|<span class="rank-name-pd">†BEAT†@PP1</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|62|844|<span class="rank-name-pd">りょうと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|64|831|<span class="rank-name-dl">ゆみ</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|65|822|<span class="rank-name-pd">RaN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|66|821|<span class="rank-name-pd"><span class="pro-icon-pd"></span>赤堀 真也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|67|817|<span class="rank-name-pd">オースティン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|68|814|<span class="rank-name-pd">ゆーとぉぉおおお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|69|812|<span class="rank-name-dl">あつのりばんぶ〜</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|69|812|<span class="rank-name-dl">ファニはなお</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|71|811|<span class="rank-name-pd">THJT</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|72|809|<span class="rank-name-pd">SHOW-GO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|73|808|<span class="rank-name-pd">NAGI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|74|806|<span class="rank-name-pd">没個性</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|75|802|<span class="rank-name-pd">神花粉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|76|800|<span class="rank-name-pd">あい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|77|793|<span class="rank-name-dl">†메멜†</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|78|792|<span class="rank-name-pd">Yanyu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|79|791|<span class="rank-name-pd">だーやま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|80|786|<span class="rank-name-pd">ブルジョニー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|80|786|<span class="rank-name-pd">赤穂ルイージ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|82|785|<span class="rank-name-dl">けいこ</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|83|781|<span class="rank-name-pd">ほわいと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|84|777|<span class="rank-name-pd">ポン酢</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|85|776|<span class="rank-name-pd">JIN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|86|773|<span class="rank-name-pd">senju09</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|87|771|<span class="rank-name-dl">まみやん</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|88|769|<span class="rank-name-pd">Mori</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|89|761|<span class="rank-name-pd">シューベルト</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|90|757|<span class="rank-name-pd">☆まさき☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|90|757|<span class="rank-name-pd">ぽんちょ侍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|92|756|<span class="rank-name-dl">N.</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|93|754|<span class="rank-name-dl">あんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|93|754|<span class="rank-name-pd"><span class="pro-icon-pd"></span>松浦 孝彰</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|95|752|<span class="rank-name-pd">0192_0847</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|95|752|<span class="rank-name-pd">TECH</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|97|749|<span class="rank-name-pd">KeN@gaNeza</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|98|748|<span class="rank-name-pd">Lamune</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|99|747|<span class="rank-name-pd">TAKARO-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|100|746|<span class="rank-name-pd">Steveさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -133,56 +133,105 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|1200|<span class="rank-name-dl">のりを</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|2|1133|<span class="rank-name-dl">木村 裕馬</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|3|1108|<span class="rank-name-dl">丸田和樹</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|4|1083|<span class="rank-name-dl">長久手さん</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|5|1062|<span class="rank-name-dl">はらさん</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|6|1059|<span class="rank-name-dl">やまじゅう</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|7|1049|<span class="rank-name-dl">丸田　和樹</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|8|1040|<span class="rank-name-dl">Hide</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|9|1038|<span class="rank-name-dl">じゅん(JJ)</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|10|1008|<span class="rank-name-dl">アルクマックス</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|11|1004|<span class="rank-name-dl">りょう</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|12|999|<span class="rank-name-dl">おおさわ</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|13|990|<span class="rank-name-dl">竜</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|14|977|<span class="rank-name-dl">†BEAT†@pp1</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|15|975|<span class="rank-name-dl">じゅん@JJ</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|16|967|<span class="rank-name-dl">あっきー</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|17|950|<span class="rank-name-dl">ゆうとぉぉおおお</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|18|947|<span class="rank-name-dl">さし</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|19|936|<span class="rank-name-dl">H.A.R.U</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|20|932|<span class="rank-name-dl">YC</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|20|932|<span class="rank-name-dl">ましゃみち</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|22|925|<span class="rank-name-dl">ちょな</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|23|912|<span class="rank-name-dl">Taka</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|24|900|<span class="rank-name-dl">こまこ</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|25|831|<span class="rank-name-dl">ゆみ</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|26|754|<span class="rank-name-dl">あんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|27|726|<span class="rank-name-dl">平牧 あつ子</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|28|692|<span class="rank-name-dl">シバ</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|29|675|<span class="rank-name-dl">Tetra</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|30|669|<span class="rank-name-dl">なっしぃ</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|31|666|<span class="rank-name-dl">そーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|32|649|<span class="rank-name-dl">N.</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|33|647|<span class="rank-name-dl">ゆっけ</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|34|637|<span class="rank-name-dl">Atsunori</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|35|619|<span class="rank-name-dl">ちゃちゃまる。</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|36|617|<span class="rank-name-dl">NO NAME ENDO</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|37|615|<span class="rank-name-dl">†ゆうちゃん†</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|38|608|<span class="rank-name-dl">うぱあぁ</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|39|553|<span class="rank-name-dl">ちーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|40|550|<span class="rank-name-dl">みきすけ</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|41|541|<span class="rank-name-dl">ぴたま</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|42|530|<span class="rank-name-dl">Narigen</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|43|528|<span class="rank-name-dl">♡みどり♡</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|44|516|<span class="rank-name-dl">YUKI</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|45|499|<span class="rank-name-dl">え</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|46|453|<span class="rank-name-dl">しょこぱんぴッ♡</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|47|443|<span class="rank-name-dl">ちむ</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|48|413|<span class="rank-name-dl">琥珀</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|49|366|<span class="rank-name-dl">紗希☆</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|50|336|<span class="rank-name-dl">かのんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|51|202|<span class="rank-name-dl">ヤハ太郎</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|2|1159|<span class="rank-name-dl">Hide</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|3|1133|<span class="rank-name-dl">木村 裕馬</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|4|1129|<span class="rank-name-dl">りょう</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|5|1113|<span class="rank-name-dl">中村大善</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|6|1108|<span class="rank-name-dl">丸田和樹</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|7|1083|<span class="rank-name-dl">長久手さん</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|8|1076|<span class="rank-name-dl">Masa -TRiNiDAD-</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|9|1075|<span class="rank-name-dl">さし</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|10|1067|<span class="rank-name-dl">どいっち</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|11|1064|<span class="rank-name-dl">H.A.R.U</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|12|1062|<span class="rank-name-dl">はらさん</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|13|1059|<span class="rank-name-dl">やまじゅう</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|14|1057|<span class="rank-name-dl">鯉沼 秀人</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|15|1052|<span class="rank-name-dl">アルクマックス</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|16|1049|<span class="rank-name-dl">丸田　和樹</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|17|1044|<span class="rank-name-dl">ひでぼーい</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|18|1043|<span class="rank-name-dl">じゅん@JJ</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|19|1040|<span class="rank-name-dl">亮太</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|20|1038|<span class="rank-name-dl">MT KENTA</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|20|1038|<span class="rank-name-dl">じゅん(JJ)</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|22|1022|<span class="rank-name-dl">あっきー</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|23|1017|<span class="rank-name-dl">Babuu</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|24|1005|<span class="rank-name-dl">BERO</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|25|999|<span class="rank-name-dl">†BEAT†@pp1</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|25|999|<span class="rank-name-dl">おおさわ</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|27|990|<span class="rank-name-dl">竜</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|28|984|<span class="rank-name-dl">H.A.R.U@Re:boot</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|29|978|<span class="rank-name-dl">神の味噌汁</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|30|975|<span class="rank-name-dl">たっつ</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|31|953|<span class="rank-name-dl">追い兎</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|32|950|<span class="rank-name-dl">ゆうとぉぉおおお</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|33|948|<span class="rank-name-dl">岩間俊也</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|34|937|<span class="rank-name-dl">ぴ</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|35|932|<span class="rank-name-dl">YC</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|35|932|<span class="rank-name-dl">ましゃみち</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|37|931|<span class="rank-name-dl">しゅたいん</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|38|930|<span class="rank-name-dl">あおい(｡･ω･｡)</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|39|925|<span class="rank-name-dl">ちょな</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|40|913|<span class="rank-name-dl">中村 大善</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|40|913|<span class="rank-name-dl">丸雄</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|42|912|<span class="rank-name-dl">Taka</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|43|908|<span class="rank-name-dl">こうせい</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|44|900|<span class="rank-name-dl">こまこ</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|45|893|<span class="rank-name-dl">Runa</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|45|893|<span class="rank-name-dl">ミルクレープ</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|47|886|<span class="rank-name-dl">Austin</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|48|884|<span class="rank-name-dl">シュタイン</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|49|877|<span class="rank-name-dl">tAka【Vivace】</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|50|831|<span class="rank-name-dl">ゆみ</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|51|812|<span class="rank-name-dl">あつのりばんぶ〜</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|51|812|<span class="rank-name-dl">ファニはなお</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|53|793|<span class="rank-name-dl">†메멜†</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|54|785|<span class="rank-name-dl">けいこ</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|55|771|<span class="rank-name-dl">まみやん</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|56|756|<span class="rank-name-dl">N.</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|57|754|<span class="rank-name-dl">あんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|58|726|<span class="rank-name-dl">平牧 あつ子</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|59|692|<span class="rank-name-dl">シバ</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|60|691|<span class="rank-name-dl">みきすけ</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|61|675|<span class="rank-name-dl">Tetra</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|62|669|<span class="rank-name-dl">なっしぃ</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|63|666|<span class="rank-name-dl">そーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|64|664|<span class="rank-name-dl">†ゆうちゃん†</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|65|661|<span class="rank-name-dl">え</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|66|657|<span class="rank-name-dl">小木曽 秀美</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|67|647|<span class="rank-name-dl">ゆっけ</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|68|645|<span class="rank-name-dl">あすか</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|69|637|<span class="rank-name-dl">Atsunori</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|70|630|<span class="rank-name-dl">〆ゆかどの〆</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|71|619|<span class="rank-name-dl">ちゃちゃまる。</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|72|617|<span class="rank-name-dl">NO NAME ENDO</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|73|608|<span class="rank-name-dl">うぱあぁ</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|74|573|<span class="rank-name-dl">＊ちぃ＊</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|75|565|<span class="rank-name-dl">ゆっこ</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|76|562|<span class="rank-name-dl">ほりぷぅ</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|77|555|<span class="rank-name-dl">紗希☆</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|78|553|<span class="rank-name-dl">ちーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|79|549|<span class="rank-name-dl">れいな</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|80|541|<span class="rank-name-dl">ぴたま</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|81|539|<span class="rank-name-dl">Nagisa</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|82|530|<span class="rank-name-dl">Narigen</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|83|528|<span class="rank-name-dl">♡みどり♡</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|84|527|<span class="rank-name-dl">まめ</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|85|525|<span class="rank-name-dl">湯たんぽ君</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|86|523|<span class="rank-name-dl">里鈴</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|87|516|<span class="rank-name-dl">YUKI</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|88|507|<span class="rank-name-dl">ねこちゃん</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|89|498|<span class="rank-name-dl">ちびすけ</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|90|495|<span class="rank-name-dl">xopoшo</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|91|492|<span class="rank-name-dl">しょこぱんぴッ♡</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|92|491|<span class="rank-name-dl">み～こ♪</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|93|484|<span class="rank-name-dl">くるみ</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|94|483|<span class="rank-name-dl">さぉ@親ﾊﾞｶ</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|95|451|<span class="rank-name-dl">Tatsuki_SUNRISE</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|96|448|<span class="rank-name-dl">もへ</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|97|443|<span class="rank-name-dl">ちむ</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|98|413|<span class="rank-name-dl">琥珀</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|99|411|<span class="rank-name-dl">百佳</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|100|408|<span class="rank-name-dl">こんしば</span>|<a href="https://search.dartslive.com/jp/shop/5aa1dd591e46144725d56fb0e5c39bac">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
 
 
 #### PHOENIXDARTS TOP 100
@@ -192,106 +241,106 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1082|<span class="rank-name-pd">やまじゅう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|2|1060|<span class="rank-name-pd">MASA ~TRiNiDAD~</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|3|1041|<span class="rank-name-pd"><span class="pro-icon-pd"></span>日高 達矢</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|4|1004|<span class="rank-name-pd">長久手さん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|5|962|<span class="rank-name-pd">トミーヤン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|6|951|<span class="rank-name-pd">おおさわ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|7|929|<span class="rank-name-pd">Y.M.Revolution</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|8|911|<span class="rank-name-pd">JJ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|9|906|<span class="rank-name-pd">YC</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|10|905|<span class="rank-name-pd">鯉沼 秀人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|11|888|<span class="rank-name-pd">あっきー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|12|861|<span class="rank-name-pd">海馬コーポレーション</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|13|852|<span class="rank-name-pd">M.I</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|14|840|<span class="rank-name-pd">エンジョイ専用</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|15|817|<span class="rank-name-pd">オースティン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|16|810|<span class="rank-name-pd">あつのりばんぶ〜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|17|792|<span class="rank-name-pd">Yanyu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|18|786|<span class="rank-name-pd">赤穂ルイージ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|19|757|<span class="rank-name-pd">ぽんちょ侍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|20|752|<span class="rank-name-pd">0192_0847</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|20|752|<span class="rank-name-pd">TECH</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|22|749|<span class="rank-name-pd">KeN@gaNeza</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|23|748|<span class="rank-name-pd">Lamune</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|24|747|<span class="rank-name-pd">TAKARO-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|25|744|<span class="rank-name-pd">JIN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|26|734|<span class="rank-name-pd">ゆーとぉぉおおお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|27|732|<span class="rank-name-pd">HIGESHIGE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|28|721|<span class="rank-name-pd">EMA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|29|716|<span class="rank-name-pd">だーやま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|30|693|<span class="rank-name-pd">TAKU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|31|690|<span class="rank-name-pd">りゅーちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|32|687|<span class="rank-name-pd">月】RYOGA【姫</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|33|685|<span class="rank-name-pd"><span class="pro-icon-pd"></span>松浦 孝彰</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|34|684|<span class="rank-name-pd">まさき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|35|682|<span class="rank-name-pd">池ちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|36|680|<span class="rank-name-pd">znbj35cf6c1736</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|37|678|<span class="rank-name-pd">H.A.R.U</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|38|671|<span class="rank-name-pd"><span class="pro-icon-pd"></span>小村 俊喜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|39|661|<span class="rank-name-pd">Mori</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|39|661|<span class="rank-name-pd">S.NAKAJIMA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|41|651|<span class="rank-name-pd">D</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|42|642|<span class="rank-name-pd">ウエシン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|43|633|<span class="rank-name-pd">こころ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|44|631|<span class="rank-name-pd"><span class="pro-icon-pd"></span>鈴木 祥史</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|45|629|<span class="rank-name-pd">Hiro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|46|620|<span class="rank-name-pd">NERMAL</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|47|617|<span class="rank-name-pd">m</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|48|613|<span class="rank-name-pd">とろろだょ☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|49|599|<span class="rank-name-pd">Remy</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|49|599|<span class="rank-name-pd">ぼっしー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|51|594|<span class="rank-name-pd">KULSU HOMLA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|51|594|<span class="rank-name-pd">RYOHEI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|53|589|<span class="rank-name-pd">ギャランごう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|54|584|<span class="rank-name-pd">Sakuma</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|55|581|<span class="rank-name-pd">アッパ貝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|56|579|<span class="rank-name-pd">たけのこ初心者</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|56|579|<span class="rank-name-pd">ナユ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|58|577|<span class="rank-name-pd">Ash*</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|59|571|<span class="rank-name-pd">だゆう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|60|569|<span class="rank-name-pd">シューベルト</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|61|563|<span class="rank-name-pd">hiro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|61|563|<span class="rank-name-pd">すぎ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|63|548|<span class="rank-name-pd">おかゆ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|64|547|<span class="rank-name-pd">KATOO.GAIA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|65|545|<span class="rank-name-pd">テンパリーナ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|66|543|<span class="rank-name-pd">みぃクン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|67|527|<span class="rank-name-pd">VirtualCard</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|67|527|<span class="rank-name-pd">ぴーたん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|69|523|<span class="rank-name-pd">タカハル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|70|520|<span class="rank-name-pd">ゆたか</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|71|517|<span class="rank-name-pd">♀MEGULucifer♂</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|72|510|<span class="rank-name-pd">TAM</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|73|509|<span class="rank-name-pd">ブルジョニー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|74|506|<span class="rank-name-pd">T.0800</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|74|506|<span class="rank-name-pd">s4tor1</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|76|504|<span class="rank-name-pd">神花粉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|77|503|<span class="rank-name-pd">EORI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|77|503|<span class="rank-name-pd">ぽよ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|79|498|<span class="rank-name-pd">Jun</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|79|498|<span class="rank-name-pd">北川 貴博</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|81|491|<span class="rank-name-pd">加藤涼</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|82|488|<span class="rank-name-pd">ぱんだりーな</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|83|484|<span class="rank-name-pd">ま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|84|482|<span class="rank-name-pd">ことり</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|85|475|<span class="rank-name-pd">K</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|86|474|<span class="rank-name-pd">こっこ＠NGK</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|87|470|<span class="rank-name-pd">ゆーと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|88|466|<span class="rank-name-pd">あるむ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|89|462|<span class="rank-name-pd">momojun</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|90|458|<span class="rank-name-pd">眞空【旅烏】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|91|457|<span class="rank-name-pd">わか</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|92|456|<span class="rank-name-pd">紗希☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|93|453|<span class="rank-name-pd">🐽</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|94|451|<span class="rank-name-pd">Fuka</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|95|446|<span class="rank-name-pd">ブルスケッタ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|96|444|<span class="rank-name-pd">みぎ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|97|433|<span class="rank-name-pd">y,mpgd</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|98|427|<span class="rank-name-pd">かりん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|99|426|<span class="rank-name-pd">カズきち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
-|100|425|<span class="rank-name-pd">ken</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|1|1156|<span class="rank-name-pd">MASA ~TRiNiDAD~</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|2|1144|<span class="rank-name-pd">のりを</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|3|1100|<span class="rank-name-pd">トミーヤン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|4|1085|<span class="rank-name-pd">エンジョイ専用</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|5|1082|<span class="rank-name-pd">やまじゅう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|6|1050|<span class="rank-name-pd">鯉沼 秀人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|7|1044|<span class="rank-name-pd">丸田　和樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|8|1041|<span class="rank-name-pd"><span class="pro-icon-pd"></span>日高 達矢</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|9|1004|<span class="rank-name-pd">長久手さん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|10|1000|<span class="rank-name-pd">0020_4213</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|11|977|<span class="rank-name-pd">JJ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|12|969|<span class="rank-name-pd">YC</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|13|951|<span class="rank-name-pd">おおさわ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|14|943|<span class="rank-name-pd">znbj35cf6c1736</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|15|936|<span class="rank-name-pd">kaminomisoshiru</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|16|929|<span class="rank-name-pd">Y.M.Revolution</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|17|910|<span class="rank-name-pd">どいっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|18|888|<span class="rank-name-pd">あっきー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|19|861|<span class="rank-name-pd">海馬コーポレーション</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|20|852|<span class="rank-name-pd">M.I</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|21|848|<span class="rank-name-pd">岡本 涼</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|22|844|<span class="rank-name-pd">†BEAT†@PP1</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|22|844|<span class="rank-name-pd">りょうと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|24|822|<span class="rank-name-pd">RaN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|25|821|<span class="rank-name-pd"><span class="pro-icon-pd"></span>赤堀 真也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|26|817|<span class="rank-name-pd">オースティン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|27|814|<span class="rank-name-pd">ゆーとぉぉおおお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|28|811|<span class="rank-name-pd">THJT</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|29|810|<span class="rank-name-pd">あつのりばんぶ〜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|30|809|<span class="rank-name-pd">SHOW-GO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|31|808|<span class="rank-name-pd">NAGI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|32|806|<span class="rank-name-pd">没個性</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|33|802|<span class="rank-name-pd">神花粉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|34|800|<span class="rank-name-pd">あい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|35|798|<span class="rank-name-pd">ぴ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|36|796|<span class="rank-name-pd">H.A.R.U</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|37|792|<span class="rank-name-pd">Yanyu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|38|791|<span class="rank-name-pd">だーやま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|39|786|<span class="rank-name-pd">ブルジョニー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|39|786|<span class="rank-name-pd">赤穂ルイージ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|41|781|<span class="rank-name-pd">ほわいと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|42|777|<span class="rank-name-pd">ポン酢</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|43|776|<span class="rank-name-pd">JIN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|44|773|<span class="rank-name-pd">senju09</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|45|769|<span class="rank-name-pd">Mori</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|46|761|<span class="rank-name-pd">シューベルト</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|47|757|<span class="rank-name-pd">☆まさき☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|47|757|<span class="rank-name-pd">ぽんちょ侍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|49|754|<span class="rank-name-pd"><span class="pro-icon-pd"></span>松浦 孝彰</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|50|752|<span class="rank-name-pd">0192_0847</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|50|752|<span class="rank-name-pd">TECH</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|52|749|<span class="rank-name-pd">KeN@gaNeza</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|53|748|<span class="rank-name-pd">Lamune</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|54|747|<span class="rank-name-pd">TAKARO-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|55|746|<span class="rank-name-pd">Steveさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|56|738|<span class="rank-name-pd">K&amp;K VERY GOOD MAN!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|57|735|<span class="rank-name-pd">ヨモギ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|58|734|<span class="rank-name-pd">キュアしろしろ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|59|732|<span class="rank-name-pd">HIGESHIGE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|60|725|<span class="rank-name-pd">じんのサブ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|60|725|<span class="rank-name-pd">デスラビット🐰Pleasure</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|62|724|<span class="rank-name-pd">TAKU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|63|721|<span class="rank-name-pd">EMA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|63|721|<span class="rank-name-pd">znts3a4820a252</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|65|718|<span class="rank-name-pd">タカちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|66|713|<span class="rank-name-pd">k</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|67|699|<span class="rank-name-pd">shu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|68|697|<span class="rank-name-pd">SHUN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|69|695|<span class="rank-name-pd">うかっきー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|69|695|<span class="rank-name-pd">やのすけ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|71|692|<span class="rank-name-pd">reojiro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|72|690|<span class="rank-name-pd">りゅーちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|73|687|<span class="rank-name-pd">あきらかにあい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|73|687|<span class="rank-name-pd">月】RYOGA【姫</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|75|684|<span class="rank-name-pd">まさき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|76|682|<span class="rank-name-pd">ISSEI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|76|682|<span class="rank-name-pd">せーまる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|76|682|<span class="rank-name-pd">池ちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|79|679|<span class="rank-name-pd">nero</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|80|672|<span class="rank-name-pd">たけのこ初心者</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|80|672|<span class="rank-name-pd">ビディー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|82|671|<span class="rank-name-pd"><span class="pro-icon-pd"></span>小村 俊喜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|83|669|<span class="rank-name-pd">KOJIRO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|84|667|<span class="rank-name-pd">海馬瀬人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|85|665|<span class="rank-name-pd">Peko</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|86|664|<span class="rank-name-pd">MaSaKi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|87|663|<span class="rank-name-pd">ともやん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|88|661|<span class="rank-name-pd">ASUKA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|88|661|<span class="rank-name-pd">S.NAKAJIMA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|90|656|<span class="rank-name-pd">S汰</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|91|651|<span class="rank-name-pd">D</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|92|648|<span class="rank-name-pd">あんちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|93|644|<span class="rank-name-pd">こっこ＠NGK</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|94|642|<span class="rank-name-pd">ウエシン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|95|641|<span class="rank-name-pd">KAZU224</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|96|640|<span class="rank-name-pd">TO-YA!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|96|640|<span class="rank-name-pd">アオケン@N.A</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|98|639|<span class="rank-name-pd">m</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|99|636|<span class="rank-name-pd">U-suke</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
+|100|633|<span class="rank-name-pd">こころ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8355?s_seq=8355">快活CLUB 長久手グリーンロード店</a>|<a href="/darts/rank/愛知県/長久手市">愛知県長久手市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

@@ -23,48 +23,68 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|942|<span class="rank-name-dl">GAN【絆】</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|2|922|<span class="rank-name-dl">28@SOL</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|3|904|<span class="rank-name-dl">Fortune</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|4|891|<span class="rank-name-dl">※SNOW※</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|5|862|<span class="rank-name-dl">伝説の著作権ﾊﾝﾀｰ</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|6|815|<span class="rank-name-dl">ぐるぐーる</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|7|797|<span class="rank-name-pd">ぐるぐーる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|8|742|<span class="rank-name-dl">SAN</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|9|733|<span class="rank-name-dl">@hiderigth K.S</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|10|722|<span class="rank-name-dl">TAKUYA</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|11|716|<span class="rank-name-pd">K</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|12|692|<span class="rank-name-dl">もりこ U^ｪ^U</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|13|691|<span class="rank-name-pd">ぐるぐーる@EMUROKU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|14|690|<span class="rank-name-dl">一等兵</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|15|687|<span class="rank-name-pd">★アッキー★</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|16|656|<span class="rank-name-dl">智【絆】</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|17|646|<span class="rank-name-dl">ゆか</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|18|645|<span class="rank-name-dl">G.K.K</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|19|633|<span class="rank-name-dl">＊あ～ちゃん＊</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|20|622|<span class="rank-name-pd">たくや</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|21|618|<span class="rank-name-dl">☞みずき☜</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|21|618|<span class="rank-name-dl">いっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|23|616|<span class="rank-name-dl">Sita心</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|24|604|<span class="rank-name-pd">BAYASHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|25|594|<span class="rank-name-pd">KR3</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|26|587|<span class="rank-name-pd">まろん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|27|576|<span class="rank-name-dl">Hideaki Fujiwara</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|28|566|<span class="rank-name-dl">Raphael</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|29|561|<span class="rank-name-pd">一等兵</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|30|515|<span class="rank-name-pd">えいきん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|31|511|<span class="rank-name-pd">あとむ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|32|498|<span class="rank-name-pd">しゅう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|33|485|<span class="rank-name-dl">ＭＩＫＯ</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|34|475|<span class="rank-name-dl">♡SHI-♡</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|35|459|<span class="rank-name-pd">ひろと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|36|452|<span class="rank-name-dl">YUUKO</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|37|450|<span class="rank-name-dl">RISA</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|38|449|<span class="rank-name-dl">MIN</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|39|398|<span class="rank-name-pd">こや</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|40|393|<span class="rank-name-pd">岡ちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|41|391|<span class="rank-name-pd">山口空翼</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|42|330|<span class="rank-name-pd">REONA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|1|1002|<span class="rank-name-dl">GAN【絆】</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|2|1000|<span class="rank-name-dl">伝説の著作権ﾊﾝﾀｰ</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|3|967|<span class="rank-name-dl">†Gooner†</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|4|925|<span class="rank-name-dl">将ω</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|5|922|<span class="rank-name-dl">28@SOL</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|6|904|<span class="rank-name-dl">Fortune</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|7|901|<span class="rank-name-dl">SAN</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|8|897|<span class="rank-name-dl">※SNOW※</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|9|851|<span class="rank-name-dl">hide*ｻｻﾗﾈｰﾉ*</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|10|824|<span class="rank-name-dl">Иaoki【絆】</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|11|815|<span class="rank-name-dl">ぐるぐーる</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|12|808|<span class="rank-name-dl">智【絆】</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|13|797|<span class="rank-name-pd">ぐるぐーる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|14|764|<span class="rank-name-dl">孤葉瑠</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|15|733|<span class="rank-name-dl">@hiderigth K.S</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|16|722|<span class="rank-name-dl">TAKUYA</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|17|716|<span class="rank-name-pd">K</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|18|699|<span class="rank-name-dl">☞みずき☜</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|19|692|<span class="rank-name-dl">もりこ U^ｪ^U</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|20|691|<span class="rank-name-pd">ぐるぐーる@EMUROKU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|21|690|<span class="rank-name-dl">一等兵</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|22|688|<span class="rank-name-dl">G.G.GUCCHI@ZEUS</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|22|688|<span class="rank-name-dl">Re・さとし</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|24|687|<span class="rank-name-pd">★アッキー★</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|25|682|<span class="rank-name-dl">＊あ～ちゃん＊</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|26|674|<span class="rank-name-dl">らいむ</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|27|673|<span class="rank-name-dl">タカ</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|28|671|<span class="rank-name-dl">riri</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|29|660|<span class="rank-name-dl">福さん。</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|30|657|<span class="rank-name-dl">Taka</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|31|646|<span class="rank-name-dl">ゆか</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|32|645|<span class="rank-name-dl">G.K.K</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|33|643|<span class="rank-name-pd">山口空翼</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|34|629|<span class="rank-name-dl">§ｈｏｐё§</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|35|623|<span class="rank-name-dl">★アッキー★</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|36|622|<span class="rank-name-pd">たくや</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|37|621|<span class="rank-name-dl">ゆ～ちゃん</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|38|618|<span class="rank-name-dl">いっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|39|616|<span class="rank-name-dl">Sita心</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|40|604|<span class="rank-name-pd">BAYASHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|41|594|<span class="rank-name-pd">KR3</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|42|587|<span class="rank-name-pd">まろん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|43|576|<span class="rank-name-dl">Hideaki Fujiwara</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|44|566|<span class="rank-name-dl">Raphael</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|45|561|<span class="rank-name-pd">一等兵</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|46|546|<span class="rank-name-dl">えみり〜noyu〜</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|47|524|<span class="rank-name-dl">YUUKO</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|48|521|<span class="rank-name-pd">しゅう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|49|515|<span class="rank-name-pd">えいきん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|50|511|<span class="rank-name-pd">あとむ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|51|499|<span class="rank-name-dl">りぃ。</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|52|485|<span class="rank-name-dl">ＭＩＫＯ</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|53|477|<span class="rank-name-dl">AIM_f</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|54|475|<span class="rank-name-dl">♡SHI-♡</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|55|464|<span class="rank-name-dl">MIN</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|56|459|<span class="rank-name-pd">ひろと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|57|450|<span class="rank-name-dl">RISA</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|58|422|<span class="rank-name-pd">MIKO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|59|398|<span class="rank-name-pd">こや</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|60|393|<span class="rank-name-pd">岡ちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|61|382|<span class="rank-name-dl">KING</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|62|330|<span class="rank-name-pd">REONA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -74,31 +94,50 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|942|<span class="rank-name-dl">GAN【絆】</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|2|922|<span class="rank-name-dl">28@SOL</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|3|904|<span class="rank-name-dl">Fortune</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|4|891|<span class="rank-name-dl">※SNOW※</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|5|862|<span class="rank-name-dl">伝説の著作権ﾊﾝﾀｰ</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|6|815|<span class="rank-name-dl">ぐるぐーる</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|7|742|<span class="rank-name-dl">SAN</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|8|733|<span class="rank-name-dl">@hiderigth K.S</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|9|722|<span class="rank-name-dl">TAKUYA</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|10|692|<span class="rank-name-dl">もりこ U^ｪ^U</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|11|690|<span class="rank-name-dl">一等兵</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|12|656|<span class="rank-name-dl">智【絆】</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|13|646|<span class="rank-name-dl">ゆか</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|14|645|<span class="rank-name-dl">G.K.K</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|15|633|<span class="rank-name-dl">＊あ～ちゃん＊</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|16|618|<span class="rank-name-dl">☞みずき☜</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|16|618|<span class="rank-name-dl">いっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|18|616|<span class="rank-name-dl">Sita心</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|19|576|<span class="rank-name-dl">Hideaki Fujiwara</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|20|566|<span class="rank-name-dl">Raphael</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|21|485|<span class="rank-name-dl">ＭＩＫＯ</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|22|475|<span class="rank-name-dl">♡SHI-♡</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|23|452|<span class="rank-name-dl">YUUKO</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|24|450|<span class="rank-name-dl">RISA</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|25|449|<span class="rank-name-dl">MIN</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|1|1002|<span class="rank-name-dl">GAN【絆】</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|2|1000|<span class="rank-name-dl">伝説の著作権ﾊﾝﾀｰ</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|3|967|<span class="rank-name-dl">†Gooner†</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|4|925|<span class="rank-name-dl">将ω</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|5|922|<span class="rank-name-dl">28@SOL</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|6|904|<span class="rank-name-dl">Fortune</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|7|901|<span class="rank-name-dl">SAN</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|8|897|<span class="rank-name-dl">※SNOW※</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|9|851|<span class="rank-name-dl">hide*ｻｻﾗﾈｰﾉ*</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|10|824|<span class="rank-name-dl">Иaoki【絆】</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|11|815|<span class="rank-name-dl">ぐるぐーる</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|12|808|<span class="rank-name-dl">智【絆】</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|13|764|<span class="rank-name-dl">孤葉瑠</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|14|733|<span class="rank-name-dl">@hiderigth K.S</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|15|722|<span class="rank-name-dl">TAKUYA</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|16|699|<span class="rank-name-dl">☞みずき☜</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|17|692|<span class="rank-name-dl">もりこ U^ｪ^U</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|18|690|<span class="rank-name-dl">一等兵</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|19|688|<span class="rank-name-dl">G.G.GUCCHI@ZEUS</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|19|688|<span class="rank-name-dl">Re・さとし</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|21|682|<span class="rank-name-dl">＊あ～ちゃん＊</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|22|674|<span class="rank-name-dl">らいむ</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|23|673|<span class="rank-name-dl">タカ</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|24|671|<span class="rank-name-dl">riri</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|25|660|<span class="rank-name-dl">福さん。</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|26|657|<span class="rank-name-dl">Taka</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|27|646|<span class="rank-name-dl">ゆか</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|28|645|<span class="rank-name-dl">G.K.K</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|29|629|<span class="rank-name-dl">§ｈｏｐё§</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|30|623|<span class="rank-name-dl">★アッキー★</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|31|621|<span class="rank-name-dl">ゆ～ちゃん</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|32|618|<span class="rank-name-dl">いっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|33|616|<span class="rank-name-dl">Sita心</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|34|576|<span class="rank-name-dl">Hideaki Fujiwara</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|35|566|<span class="rank-name-dl">Raphael</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|36|546|<span class="rank-name-dl">えみり〜noyu〜</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|37|524|<span class="rank-name-dl">YUUKO</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|38|499|<span class="rank-name-dl">りぃ。</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|39|485|<span class="rank-name-dl">ＭＩＫＯ</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|40|477|<span class="rank-name-dl">AIM_f</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|41|475|<span class="rank-name-dl">♡SHI-♡</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|42|464|<span class="rank-name-dl">MIN</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|43|450|<span class="rank-name-dl">RISA</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|44|382|<span class="rank-name-dl">KING</span>|<a href="https://search.dartslive.com/jp/shop/5f56c6a642237fd10d9b047a20a7ba1e">hide light</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
 
 
 #### PHOENIXDARTS TOP 100
@@ -112,19 +151,20 @@ ___
 |2|716|<span class="rank-name-pd">K</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
 |3|691|<span class="rank-name-pd">ぐるぐーる@EMUROKU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
 |4|687|<span class="rank-name-pd">★アッキー★</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|5|622|<span class="rank-name-pd">たくや</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|6|604|<span class="rank-name-pd">BAYASHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|7|594|<span class="rank-name-pd">KR3</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|8|587|<span class="rank-name-pd">まろん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|9|561|<span class="rank-name-pd">一等兵</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|10|515|<span class="rank-name-pd">えいきん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|11|511|<span class="rank-name-pd">あとむ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|12|498|<span class="rank-name-pd">しゅう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|13|459|<span class="rank-name-pd">ひろと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|14|398|<span class="rank-name-pd">こや</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|15|393|<span class="rank-name-pd">岡ちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|16|391|<span class="rank-name-pd">山口空翼</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
-|17|330|<span class="rank-name-pd">REONA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|5|643|<span class="rank-name-pd">山口空翼</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|6|622|<span class="rank-name-pd">たくや</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|7|604|<span class="rank-name-pd">BAYASHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|8|594|<span class="rank-name-pd">KR3</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|9|587|<span class="rank-name-pd">まろん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|10|561|<span class="rank-name-pd">一等兵</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|11|521|<span class="rank-name-pd">しゅう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|12|515|<span class="rank-name-pd">えいきん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|13|511|<span class="rank-name-pd">あとむ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|14|459|<span class="rank-name-pd">ひろと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|15|422|<span class="rank-name-pd">MIKO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|16|398|<span class="rank-name-pd">こや</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|17|393|<span class="rank-name-pd">岡ちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
+|18|330|<span class="rank-name-pd">REONA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85631?s_seq=85631">BAR EMUROKU</a>|<a href="/darts/rank/埼玉県/大里郡">埼玉県大里郡</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

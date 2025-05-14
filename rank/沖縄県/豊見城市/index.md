@@ -25,10 +25,15 @@ ___
 |---|---|---|---|---|
 |1|801|<span class="rank-name-pd">まったー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55423?s_seq=55423">Dart's shop 01</a>|<a href="/darts/rank/沖縄県/豊見城市">沖縄県豊見城市</a>|
 |2|691|<span class="rank-name-pd">R.M.D</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55423?s_seq=55423">Dart's shop 01</a>|<a href="/darts/rank/沖縄県/豊見城市">沖縄県豊見城市</a>|
-|3|540|<span class="rank-name-pd">！れ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55423?s_seq=55423">Dart's shop 01</a>|<a href="/darts/rank/沖縄県/豊見城市">沖縄県豊見城市</a>|
-|4|501|<span class="rank-name-pd">みいゆ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55423?s_seq=55423">Dart's shop 01</a>|<a href="/darts/rank/沖縄県/豊見城市">沖縄県豊見城市</a>|
-|5|497|<span class="rank-name-pd">ぽーんぽん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55423?s_seq=55423">Dart's shop 01</a>|<a href="/darts/rank/沖縄県/豊見城市">沖縄県豊見城市</a>|
-|6|485|<span class="rank-name-pd">チョモランマ2世</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55423?s_seq=55423">Dart's shop 01</a>|<a href="/darts/rank/沖縄県/豊見城市">沖縄県豊見城市</a>|
+|3|592|<span class="rank-name-pd">taka</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95378?s_seq=95378">ダーツショップ 01</a>|<a href="/darts/rank/沖縄県/豊見城市">沖縄県豊見城市</a>|
+|4|540|<span class="rank-name-pd">！れ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55423?s_seq=55423">Dart's shop 01</a>|<a href="/darts/rank/沖縄県/豊見城市">沖縄県豊見城市</a>|
+|5|535|<span class="rank-name-pd">カッツォ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95378?s_seq=95378">ダーツショップ 01</a>|<a href="/darts/rank/沖縄県/豊見城市">沖縄県豊見城市</a>|
+|6|501|<span class="rank-name-pd">みいゆ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55423?s_seq=55423">Dart's shop 01</a>|<a href="/darts/rank/沖縄県/豊見城市">沖縄県豊見城市</a>|
+|7|497|<span class="rank-name-pd">ぽーんぽん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55423?s_seq=55423">Dart's shop 01</a>|<a href="/darts/rank/沖縄県/豊見城市">沖縄県豊見城市</a>|
+|8|485|<span class="rank-name-pd">チョモランマ2世</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55423?s_seq=55423">Dart's shop 01</a>|<a href="/darts/rank/沖縄県/豊見城市">沖縄県豊見城市</a>|
+|9|444|<span class="rank-name-pd">Takara</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95378?s_seq=95378">ダーツショップ 01</a>|<a href="/darts/rank/沖縄県/豊見城市">沖縄県豊見城市</a>|
+|10|407|<span class="rank-name-pd">パウロ•ディバラ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95378?s_seq=95378">ダーツショップ 01</a>|<a href="/darts/rank/沖縄県/豊見城市">沖縄県豊見城市</a>|
+|11|404|<span class="rank-name-pd">松村竜次</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95378?s_seq=95378">ダーツショップ 01</a>|<a href="/darts/rank/沖縄県/豊見城市">沖縄県豊見城市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -50,10 +55,15 @@ ___
 |---|---|---|---|---|
 |1|801|<span class="rank-name-pd">まったー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55423?s_seq=55423">Dart's shop 01</a>|<a href="/darts/rank/沖縄県/豊見城市">沖縄県豊見城市</a>|
 |2|691|<span class="rank-name-pd">R.M.D</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55423?s_seq=55423">Dart's shop 01</a>|<a href="/darts/rank/沖縄県/豊見城市">沖縄県豊見城市</a>|
-|3|540|<span class="rank-name-pd">！れ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55423?s_seq=55423">Dart's shop 01</a>|<a href="/darts/rank/沖縄県/豊見城市">沖縄県豊見城市</a>|
-|4|501|<span class="rank-name-pd">みいゆ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55423?s_seq=55423">Dart's shop 01</a>|<a href="/darts/rank/沖縄県/豊見城市">沖縄県豊見城市</a>|
-|5|497|<span class="rank-name-pd">ぽーんぽん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55423?s_seq=55423">Dart's shop 01</a>|<a href="/darts/rank/沖縄県/豊見城市">沖縄県豊見城市</a>|
-|6|485|<span class="rank-name-pd">チョモランマ2世</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55423?s_seq=55423">Dart's shop 01</a>|<a href="/darts/rank/沖縄県/豊見城市">沖縄県豊見城市</a>|
+|3|592|<span class="rank-name-pd">taka</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95378?s_seq=95378">ダーツショップ 01</a>|<a href="/darts/rank/沖縄県/豊見城市">沖縄県豊見城市</a>|
+|4|540|<span class="rank-name-pd">！れ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55423?s_seq=55423">Dart's shop 01</a>|<a href="/darts/rank/沖縄県/豊見城市">沖縄県豊見城市</a>|
+|5|535|<span class="rank-name-pd">カッツォ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95378?s_seq=95378">ダーツショップ 01</a>|<a href="/darts/rank/沖縄県/豊見城市">沖縄県豊見城市</a>|
+|6|501|<span class="rank-name-pd">みいゆ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55423?s_seq=55423">Dart's shop 01</a>|<a href="/darts/rank/沖縄県/豊見城市">沖縄県豊見城市</a>|
+|7|497|<span class="rank-name-pd">ぽーんぽん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55423?s_seq=55423">Dart's shop 01</a>|<a href="/darts/rank/沖縄県/豊見城市">沖縄県豊見城市</a>|
+|8|485|<span class="rank-name-pd">チョモランマ2世</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55423?s_seq=55423">Dart's shop 01</a>|<a href="/darts/rank/沖縄県/豊見城市">沖縄県豊見城市</a>|
+|9|444|<span class="rank-name-pd">Takara</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95378?s_seq=95378">ダーツショップ 01</a>|<a href="/darts/rank/沖縄県/豊見城市">沖縄県豊見城市</a>|
+|10|407|<span class="rank-name-pd">パウロ•ディバラ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95378?s_seq=95378">ダーツショップ 01</a>|<a href="/darts/rank/沖縄県/豊見城市">沖縄県豊見城市</a>|
+|11|404|<span class="rank-name-pd">松村竜次</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95378?s_seq=95378">ダーツショップ 01</a>|<a href="/darts/rank/沖縄県/豊見城市">沖縄県豊見城市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

@@ -23,8 +23,10 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|706|<span class="rank-name-pd">masatuku</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63192?s_seq=63192">ガレージNo.7</a>|<a href="/darts/rank/栃木県/下野市">栃木県下野市</a>|
-|2|542|<span class="rank-name-pd">みむ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63192?s_seq=63192">ガレージNo.7</a>|<a href="/darts/rank/栃木県/下野市">栃木県下野市</a>|
+|1|776|<span class="rank-name-pd">masatuku</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63192?s_seq=63192">ガレージNo.7</a>|<a href="/darts/rank/栃木県/下野市">栃木県下野市</a>|
+|2|672|<span class="rank-name-pd">ＺＯＮＯ努根性㌍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63192?s_seq=63192">ガレージNo.7</a>|<a href="/darts/rank/栃木県/下野市">栃木県下野市</a>|
+|3|542|<span class="rank-name-pd">みむ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63192?s_seq=63192">ガレージNo.7</a>|<a href="/darts/rank/栃木県/下野市">栃木県下野市</a>|
+|4|494|<span class="rank-name-pd">conan&#x27;&#x27;s</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63192?s_seq=63192">ガレージNo.7</a>|<a href="/darts/rank/栃木県/下野市">栃木県下野市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -44,8 +46,10 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|706|<span class="rank-name-pd">masatuku</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63192?s_seq=63192">ガレージNo.7</a>|<a href="/darts/rank/栃木県/下野市">栃木県下野市</a>|
-|2|542|<span class="rank-name-pd">みむ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63192?s_seq=63192">ガレージNo.7</a>|<a href="/darts/rank/栃木県/下野市">栃木県下野市</a>|
+|1|776|<span class="rank-name-pd">masatuku</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63192?s_seq=63192">ガレージNo.7</a>|<a href="/darts/rank/栃木県/下野市">栃木県下野市</a>|
+|2|672|<span class="rank-name-pd">ＺＯＮＯ努根性㌍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63192?s_seq=63192">ガレージNo.7</a>|<a href="/darts/rank/栃木県/下野市">栃木県下野市</a>|
+|3|542|<span class="rank-name-pd">みむ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63192?s_seq=63192">ガレージNo.7</a>|<a href="/darts/rank/栃木県/下野市">栃木県下野市</a>|
+|4|494|<span class="rank-name-pd">conan&#x27;&#x27;s</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_63192?s_seq=63192">ガレージNo.7</a>|<a href="/darts/rank/栃木県/下野市">栃木県下野市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

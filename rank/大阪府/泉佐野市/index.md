@@ -23,91 +23,106 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1029|<span class="rank-name-pd">にこちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|2|1007|<span class="rank-name-dl">市川啓太</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|3|969|<span class="rank-name-dl">ゆーやん</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|4|962|<span class="rank-name-dl">yuuki</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|5|956|<span class="rank-name-pd">daiψ(`∀´)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81066?s_seq=81066">DOMINATOR</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|6|951|<span class="rank-name-dl">市川啓太CUESOUL</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|7|947|<span class="rank-name-dl">FUJIKI@Dominator</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|8|944|<span class="rank-name-dl">ゆっくん【爆笑】</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|9|922|<span class="rank-name-pd">FUJIKI@Dominator</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81066?s_seq=81066">DOMINATOR</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|10|920|<span class="rank-name-pd">ＮＩＣＯちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|11|916|<span class="rank-name-dl">鬼若子a.k.a Mr.Y</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|12|900|<span class="rank-name-pd">0138_4662</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|13|890|<span class="rank-name-pd">ゆーひ@nonぼーい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|14|880|<span class="rank-name-dl">yuuki imura</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|15|876|<span class="rank-name-pd">大肘壊しじじぃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|16|875|<span class="rank-name-pd">小林denimdenim</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|17|868|<span class="rank-name-pd">Yoshiyuki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|18|864|<span class="rank-name-dl">Mr.Y</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|18|864|<span class="rank-name-dl">直哉</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|20|849|<span class="rank-name-pd">AIRI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|21|841|<span class="rank-name-dl">ﾅｵﾔ</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|22|832|<span class="rank-name-pd">イカ二貫.え？イカ二貫！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|23|824|<span class="rank-name-pd">y__</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|24|816|<span class="rank-name-pd">Mr.Y</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|25|805|<span class="rank-name-dl">井村有希</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|26|801|<span class="rank-name-dl">大輔☆T.Island</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|27|794|<span class="rank-name-pd">FUJIKI@Dominator</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|28|791|<span class="rank-name-dl">薄毛の・・・</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|29|788|<span class="rank-name-pd">ゴトキン@bonos</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|30|781|<span class="rank-name-pd">suuchan</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|30|781|<span class="rank-name-dl">☆tak☆</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|32|765|<span class="rank-name-pd">ほ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|33|760|<span class="rank-name-pd">kai</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|34|754|<span class="rank-name-pd">ペチリュウト─QLAY─</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|35|746|<span class="rank-name-pd">大輔☆T.Island</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|36|744|<span class="rank-name-pd">こばちっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|37|736|<span class="rank-name-dl">ムロやん</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|38|723|<span class="rank-name-dl">細川ひさし</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|39|722|<span class="rank-name-dl">なおや</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|40|719|<span class="rank-name-pd">少年エーミール</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|41|716|<span class="rank-name-pd">T.K</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|42|704|<span class="rank-name-pd">BONO.S    花道</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|43|703|<span class="rank-name-dl">モテ期は幻想</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|44|698|<span class="rank-name-dl">K</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|45|697|<span class="rank-name-pd">Tsukasa</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|46|696|<span class="rank-name-dl">市川　啓太</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|47|666|<span class="rank-name-dl">淡路屋 湧也</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|48|660|<span class="rank-name-pd">こんちゃそ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|49|635|<span class="rank-name-pd">104</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80678?s_seq=80678">BAR SIX-NINE</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|50|627|<span class="rank-name-pd">だるまさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|51|612|<span class="rank-name-dl">yuna</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|52|603|<span class="rank-name-dl">AIRI</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|53|593|<span class="rank-name-pd">Hiroto</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|54|582|<span class="rank-name-pd">まーと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80678?s_seq=80678">BAR SIX-NINE</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|55|580|<span class="rank-name-pd">shoichi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|56|574|<span class="rank-name-pd">YUMA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|57|573|<span class="rank-name-pd">nobu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|58|564|<span class="rank-name-pd">nagomi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|59|552|<span class="rank-name-pd">#37</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|60|542|<span class="rank-name-pd">Tatsu_CieL</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|61|541|<span class="rank-name-pd">RYO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|62|534|<span class="rank-name-pd">-ばかたれ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|63|530|<span class="rank-name-pd">TANIGU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80678?s_seq=80678">BAR SIX-NINE</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|64|529|<span class="rank-name-pd">みもん(*^♀︎^*)Secret</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|65|524|<span class="rank-name-pd">MEGさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|66|518|<span class="rank-name-pd">renren</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|67|513|<span class="rank-name-pd">Yu-ka</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|68|512|<span class="rank-name-pd">zvs435cf8731d3</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|69|503|<span class="rank-name-pd">0003_4309</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|70|499|<span class="rank-name-pd">れーいち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|71|494|<span class="rank-name-pd">かっつん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|72|483|<span class="rank-name-pd">X.X@37</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|73|478|<span class="rank-name-pd">友傘</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|74|452|<span class="rank-name-pd">reiwa6-0101</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|75|448|<span class="rank-name-pd">NONAME</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81066?s_seq=81066">DOMINATOR</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|76|442|<span class="rank-name-pd">kanayan</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|77|438|<span class="rank-name-pd">macci</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|78|428|<span class="rank-name-pd">37.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|79|422|<span class="rank-name-dl">ｽｽﾞｶ(*･ω･)ﾉ→T</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|80|416|<span class="rank-name-pd">    JUNJUN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|81|408|<span class="rank-name-dl">鄭</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|82|396|<span class="rank-name-pd">りこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|83|363|<span class="rank-name-dl">BO$$</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|84|331|<span class="rank-name-pd">shizuku</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80678?s_seq=80678">BAR SIX-NINE</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|85|242|<span class="rank-name-pd">kazuya</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81066?s_seq=81066">DOMINATOR</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|1|1080|<span class="rank-name-dl">市川啓太CUESOUL</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|2|1036|<span class="rank-name-pd">SHINPEI DMC</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|3|1029|<span class="rank-name-pd">にこちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|4|1027|<span class="rank-name-dl">ばっさん＠</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|5|1014|<span class="rank-name-dl">青レンジャー</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|6|1013|<span class="rank-name-dl">リサﾓﾝ★悪餓鬼</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|7|1007|<span class="rank-name-dl">市川啓太</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|8|993|<span class="rank-name-dl">ゆーき</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|9|981|<span class="rank-name-dl">多分?CRE§T?</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|10|976|<span class="rank-name-dl">FUJIKI@Dominator</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|11|969|<span class="rank-name-dl">ゆーやん</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|12|968|<span class="rank-name-dl">鬼若子a.k.a Mr.Y</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|13|966|<span class="rank-name-dl">ゆっくん【爆笑】</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|14|962|<span class="rank-name-dl">yuuki</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|15|956|<span class="rank-name-pd">daiψ(`∀´)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81066?s_seq=81066">DOMINATOR</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|16|953|<span class="rank-name-pd">大五月病じじぃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|17|935|<span class="rank-name-pd">DTBK</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|18|932|<span class="rank-name-dl">ﾍﾟﾁﾀﾏｺﾞ酔Steady</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|19|930|<span class="rank-name-pd">ばっさん＠</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81066?s_seq=81066">DOMINATOR</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|20|926|<span class="rank-name-pd">小林denimdenim</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|21|922|<span class="rank-name-pd">FUJIKI@Dominator</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81066?s_seq=81066">DOMINATOR</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|22|920|<span class="rank-name-pd">Mr.Y</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81066?s_seq=81066">DOMINATOR</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|22|920|<span class="rank-name-pd">ＮＩＣＯちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|24|900|<span class="rank-name-pd">0138_4662</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|25|899|<span class="rank-name-dl">のすけ→T.Island</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|25|899|<span class="rank-name-dl">リサﾓﾝ★DownTown</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|25|899|<span class="rank-name-pd">大肘壊しじじぃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|28|896|<span class="rank-name-dl">なおぴ</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|29|894|<span class="rank-name-pd">NKT@DIVE閉店</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|30|890|<span class="rank-name-dl">510</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|30|890|<span class="rank-name-pd">ゆーひ@nonぼーい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|32|888|<span class="rank-name-pd">はっしー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|33|886|<span class="rank-name-dl">MASA@BULLｶﾞﾝﾐGL</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|33|886|<span class="rank-name-dl">Mr.Y</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|35|882|<span class="rank-name-dl">直哉</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|36|881|<span class="rank-name-dl">Mr.Y@セパ</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|37|880|<span class="rank-name-dl">yuuki imura</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|38|869|<span class="rank-name-pd">いづ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|39|868|<span class="rank-name-pd">Yoshiyuki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|40|867|<span class="rank-name-dl">bacchus</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|41|864|<span class="rank-name-dl">たぁち(･ω･)ﾉ→S</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|42|862|<span class="rank-name-dl">なおや</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|43|857|<span class="rank-name-dl">moyashi@ACES</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|44|853|<span class="rank-name-pd">y__</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|45|851|<span class="rank-name-dl">淡路屋 湧也</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|46|849|<span class="rank-name-pd">AIRI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|47|843|<span class="rank-name-pd">Dan.bonos.こばちっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|48|841|<span class="rank-name-dl">ﾅｵﾔ</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|49|832|<span class="rank-name-pd">イカ二貫.え？イカ二貫！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|50|816|<span class="rank-name-pd">Mr.Y</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|50|816|<span class="rank-name-pd">daiψ(`∀´)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|52|807|<span class="rank-name-pd">☆タッキー☆PDN4</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|53|805|<span class="rank-name-dl">井村有希</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|54|802|<span class="rank-name-pd">ホタルイカ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|55|801|<span class="rank-name-dl">大輔☆T.Island</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|56|794|<span class="rank-name-pd">FUJIKI@Dominator</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|57|791|<span class="rank-name-dl">薄毛の・・・</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|58|788|<span class="rank-name-pd">ゴトキン@bonos</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|58|788|<span class="rank-name-dl">丈ち</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|60|781|<span class="rank-name-pd">suuchan</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|60|781|<span class="rank-name-dl">☆tak☆</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|62|774|<span class="rank-name-dl">ほ</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|63|771|<span class="rank-name-pd">ペチリュウト─QLAY─</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|64|766|<span class="rank-name-pd">大輔☆T.Island</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|65|765|<span class="rank-name-pd">ほ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|66|760|<span class="rank-name-pd">kai</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|67|755|<span class="rank-name-dl">joker</span>|<a href="https://search.dartslive.com/jp/shop/fccebe2c323e33180d9b047a20a7ba1e">bar crib</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|68|753|<span class="rank-name-pd">shizuku</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80678?s_seq=80678">BAR SIX-NINE</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|68|753|<span class="rank-name-pd">松本康寿【S-DARTS 2022】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81066?s_seq=81066">DOMINATOR</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|70|744|<span class="rank-name-pd">こばちっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|71|736|<span class="rank-name-dl">ムロやん</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|72|726|<span class="rank-name-pd">-ばかたれ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|72|726|<span class="rank-name-dl">190cm57kg</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|74|723|<span class="rank-name-dl">細川ひさし</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|75|721|<span class="rank-name-pd">Hiroto</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|76|719|<span class="rank-name-pd">少年エーミール</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|77|716|<span class="rank-name-pd">T.K</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|78|715|<span class="rank-name-dl">eri</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|79|704|<span class="rank-name-pd">BONO.S    花道</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|80|703|<span class="rank-name-dl">モテ期は幻想</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|81|698|<span class="rank-name-dl">K</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|82|697|<span class="rank-name-pd">Tsukasa</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|83|696|<span class="rank-name-dl">市川　啓太</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|84|691|<span class="rank-name-pd">まーと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80678?s_seq=80678">BAR SIX-NINE</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|85|690|<span class="rank-name-pd">AJITOMI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|85|690|<span class="rank-name-pd">こんちゃそ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|87|688|<span class="rank-name-pd">shoichi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|88|674|<span class="rank-name-pd">大輔☆T.Island</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81066?s_seq=81066">DOMINATOR</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|89|666|<span class="rank-name-dl">SHOTO</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|90|664|<span class="rank-name-pd">こんちゃそ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81066?s_seq=81066">DOMINATOR</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|91|650|<span class="rank-name-dl">ハシ</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|92|647|<span class="rank-name-pd">AIRI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81066?s_seq=81066">DOMINATOR</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|93|646|<span class="rank-name-dl">クリブ　嵐</span>|<a href="https://search.dartslive.com/jp/shop/fccebe2c323e33180d9b047a20a7ba1e">bar crib</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|94|645|<span class="rank-name-pd">タツヤ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80678?s_seq=80678">BAR SIX-NINE</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|95|641|<span class="rank-name-pd">AIRI@BONOS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|96|635|<span class="rank-name-pd">104</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80678?s_seq=80678">BAR SIX-NINE</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|96|635|<span class="rank-name-dl">ムスコ大蛇</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|98|633|<span class="rank-name-pd">エリキング</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81066?s_seq=81066">DOMINATOR</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|99|630|<span class="rank-name-pd">TK</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|100|629|<span class="rank-name-pd">だるまさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -117,33 +132,78 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1007|<span class="rank-name-dl">市川啓太</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|2|969|<span class="rank-name-dl">ゆーやん</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|3|962|<span class="rank-name-dl">yuuki</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|4|951|<span class="rank-name-dl">市川啓太CUESOUL</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|5|947|<span class="rank-name-dl">FUJIKI@Dominator</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|6|944|<span class="rank-name-dl">ゆっくん【爆笑】</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|7|916|<span class="rank-name-dl">鬼若子a.k.a Mr.Y</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|8|880|<span class="rank-name-dl">yuuki imura</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|9|864|<span class="rank-name-dl">Mr.Y</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|9|864|<span class="rank-name-dl">直哉</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|11|841|<span class="rank-name-dl">ﾅｵﾔ</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|12|805|<span class="rank-name-dl">井村有希</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|13|801|<span class="rank-name-dl">大輔☆T.Island</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|14|791|<span class="rank-name-dl">薄毛の・・・</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|15|781|<span class="rank-name-dl">☆tak☆</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|16|736|<span class="rank-name-dl">ムロやん</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|17|723|<span class="rank-name-dl">細川ひさし</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|18|722|<span class="rank-name-dl">なおや</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|19|703|<span class="rank-name-dl">モテ期は幻想</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|20|698|<span class="rank-name-dl">K</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|21|696|<span class="rank-name-dl">市川　啓太</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|22|666|<span class="rank-name-dl">淡路屋 湧也</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|23|612|<span class="rank-name-dl">yuna</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|24|603|<span class="rank-name-dl">AIRI</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|25|422|<span class="rank-name-dl">ｽｽﾞｶ(*･ω･)ﾉ→T</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|26|408|<span class="rank-name-dl">鄭</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|27|363|<span class="rank-name-dl">BO$$</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|1|1080|<span class="rank-name-dl">市川啓太CUESOUL</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|2|1027|<span class="rank-name-dl">ばっさん＠</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|3|1014|<span class="rank-name-dl">青レンジャー</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|4|1013|<span class="rank-name-dl">リサﾓﾝ★悪餓鬼</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|5|1007|<span class="rank-name-dl">市川啓太</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|6|993|<span class="rank-name-dl">ゆーき</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|7|981|<span class="rank-name-dl">多分?CRE§T?</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|8|976|<span class="rank-name-dl">FUJIKI@Dominator</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|9|969|<span class="rank-name-dl">ゆーやん</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|10|968|<span class="rank-name-dl">鬼若子a.k.a Mr.Y</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|11|966|<span class="rank-name-dl">ゆっくん【爆笑】</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|12|962|<span class="rank-name-dl">yuuki</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|13|932|<span class="rank-name-dl">ﾍﾟﾁﾀﾏｺﾞ酔Steady</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|14|899|<span class="rank-name-dl">のすけ→T.Island</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|14|899|<span class="rank-name-dl">リサﾓﾝ★DownTown</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|16|896|<span class="rank-name-dl">なおぴ</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|17|890|<span class="rank-name-dl">510</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|18|886|<span class="rank-name-dl">MASA@BULLｶﾞﾝﾐGL</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|18|886|<span class="rank-name-dl">Mr.Y</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|20|882|<span class="rank-name-dl">直哉</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|21|881|<span class="rank-name-dl">Mr.Y@セパ</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|22|880|<span class="rank-name-dl">yuuki imura</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|23|867|<span class="rank-name-dl">bacchus</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|24|864|<span class="rank-name-dl">たぁち(･ω･)ﾉ→S</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|25|862|<span class="rank-name-dl">なおや</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|26|857|<span class="rank-name-dl">moyashi@ACES</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|27|851|<span class="rank-name-dl">淡路屋 湧也</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|28|841|<span class="rank-name-dl">ﾅｵﾔ</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|29|805|<span class="rank-name-dl">井村有希</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|30|801|<span class="rank-name-dl">大輔☆T.Island</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|31|791|<span class="rank-name-dl">薄毛の・・・</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|32|788|<span class="rank-name-dl">丈ち</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|33|781|<span class="rank-name-dl">☆tak☆</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|34|774|<span class="rank-name-dl">ほ</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|35|755|<span class="rank-name-dl">joker</span>|<a href="https://search.dartslive.com/jp/shop/fccebe2c323e33180d9b047a20a7ba1e">bar crib</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|36|736|<span class="rank-name-dl">ムロやん</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|37|726|<span class="rank-name-dl">190cm57kg</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|38|723|<span class="rank-name-dl">細川ひさし</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|39|715|<span class="rank-name-dl">eri</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|40|703|<span class="rank-name-dl">モテ期は幻想</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|41|698|<span class="rank-name-dl">K</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|42|696|<span class="rank-name-dl">市川　啓太</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|43|666|<span class="rank-name-dl">SHOTO</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|44|650|<span class="rank-name-dl">ハシ</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|45|646|<span class="rank-name-dl">クリブ　嵐</span>|<a href="https://search.dartslive.com/jp/shop/fccebe2c323e33180d9b047a20a7ba1e">bar crib</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|46|635|<span class="rank-name-dl">ムスコ大蛇</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|47|622|<span class="rank-name-dl">ジヨン【爆笑】</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|48|612|<span class="rank-name-dl">yuna</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|49|603|<span class="rank-name-dl">AIRI</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|50|601|<span class="rank-name-dl">APTX4869</span>|<a href="https://search.dartslive.com/jp/shop/fccebe2c323e33180d9b047a20a7ba1e">bar crib</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|51|598|<span class="rank-name-dl">じゃみ</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|52|597|<span class="rank-name-dl">ANEGO♬*゜</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|53|590|<span class="rank-name-dl">ｽｽﾞｶ(*･ω･)ﾉ→T</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|54|588|<span class="rank-name-dl">らんまる</span>|<a href="https://search.dartslive.com/jp/shop/fccebe2c323e33180d9b047a20a7ba1e">bar crib</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|55|586|<span class="rank-name-dl">かのん</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|56|570|<span class="rank-name-dl">unicorn</span>|<a href="https://search.dartslive.com/jp/shop/fccebe2c323e33180d9b047a20a7ba1e">bar crib</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|57|566|<span class="rank-name-dl">unicorn</span>|<a href="https://search.dartslive.com/jp/shop/3a8067ab1246e3070d9b047a20a7ba1e">Bar Shanty</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|58|559|<span class="rank-name-dl">こんちゃそ</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|59|538|<span class="rank-name-dl">まみか</span>|<a href="https://search.dartslive.com/jp/shop/fccebe2c323e33180d9b047a20a7ba1e">bar crib</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|60|526|<span class="rank-name-dl">Yuta33@BarShanty</span>|<a href="https://search.dartslive.com/jp/shop/3a8067ab1246e3070d9b047a20a7ba1e">Bar Shanty</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|61|508|<span class="rank-name-dl">怪盗探偵山猫</span>|<a href="https://search.dartslive.com/jp/shop/fccebe2c323e33180d9b047a20a7ba1e">bar crib</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|62|490|<span class="rank-name-dl">Mahalo</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|63|486|<span class="rank-name-dl">♡りさちん♡</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|64|467|<span class="rank-name-dl">アラレ</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|65|446|<span class="rank-name-dl">あやぴー</span>|<a href="https://search.dartslive.com/jp/shop/3a8067ab1246e3070d9b047a20a7ba1e">Bar Shanty</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|66|408|<span class="rank-name-dl">鄭</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|67|401|<span class="rank-name-dl">あいり</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|68|363|<span class="rank-name-dl">BO$$</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|69|344|<span class="rank-name-dl">フシギダネ</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|70|313|<span class="rank-name-dl">makoto</span>|<a href="https://search.dartslive.com/jp/shop/3a8067ab1246e3070d9b047a20a7ba1e">Bar Shanty</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|71|300|<span class="rank-name-dl">MIHO</span>|<a href="https://search.dartslive.com/jp/shop/dcc9248ca80ffb6c5f9f3321c1147265">Dominator</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|72|286|<span class="rank-name-dl">NO NAME 2871</span>|<a href="https://search.dartslive.com/jp/shop/fccebe2c323e33180d9b047a20a7ba1e">bar crib</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
 
 
 #### PHOENIXDARTS TOP 100
@@ -153,64 +213,100 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1029|<span class="rank-name-pd">にこちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|2|956|<span class="rank-name-pd">daiψ(`∀´)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81066?s_seq=81066">DOMINATOR</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|3|922|<span class="rank-name-pd">FUJIKI@Dominator</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81066?s_seq=81066">DOMINATOR</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|4|920|<span class="rank-name-pd">ＮＩＣＯちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|5|900|<span class="rank-name-pd">0138_4662</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|6|890|<span class="rank-name-pd">ゆーひ@nonぼーい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|7|876|<span class="rank-name-pd">大肘壊しじじぃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|8|875|<span class="rank-name-pd">小林denimdenim</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|9|868|<span class="rank-name-pd">Yoshiyuki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|10|849|<span class="rank-name-pd">AIRI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|11|832|<span class="rank-name-pd">イカ二貫.え？イカ二貫！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|12|824|<span class="rank-name-pd">y__</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|13|816|<span class="rank-name-pd">Mr.Y</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|14|794|<span class="rank-name-pd">FUJIKI@Dominator</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|15|788|<span class="rank-name-pd">ゴトキン@bonos</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|16|781|<span class="rank-name-pd">suuchan</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|17|765|<span class="rank-name-pd">ほ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|18|760|<span class="rank-name-pd">kai</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|19|754|<span class="rank-name-pd">ペチリュウト─QLAY─</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|20|746|<span class="rank-name-pd">大輔☆T.Island</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|21|744|<span class="rank-name-pd">こばちっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|22|719|<span class="rank-name-pd">少年エーミール</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|23|716|<span class="rank-name-pd">T.K</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|24|704|<span class="rank-name-pd">BONO.S    花道</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|25|697|<span class="rank-name-pd">Tsukasa</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|26|660|<span class="rank-name-pd">こんちゃそ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|27|635|<span class="rank-name-pd">104</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80678?s_seq=80678">BAR SIX-NINE</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|28|627|<span class="rank-name-pd">だるまさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|29|593|<span class="rank-name-pd">Hiroto</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|30|582|<span class="rank-name-pd">まーと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80678?s_seq=80678">BAR SIX-NINE</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|31|580|<span class="rank-name-pd">shoichi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|32|574|<span class="rank-name-pd">YUMA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|33|573|<span class="rank-name-pd">nobu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|34|564|<span class="rank-name-pd">nagomi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|35|552|<span class="rank-name-pd">#37</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|36|542|<span class="rank-name-pd">Tatsu_CieL</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|37|541|<span class="rank-name-pd">RYO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|38|534|<span class="rank-name-pd">-ばかたれ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|39|530|<span class="rank-name-pd">TANIGU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80678?s_seq=80678">BAR SIX-NINE</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|40|529|<span class="rank-name-pd">みもん(*^♀︎^*)Secret</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|41|524|<span class="rank-name-pd">MEGさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|42|518|<span class="rank-name-pd">renren</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|43|513|<span class="rank-name-pd">Yu-ka</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|44|512|<span class="rank-name-pd">zvs435cf8731d3</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|45|503|<span class="rank-name-pd">0003_4309</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|46|499|<span class="rank-name-pd">れーいち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|47|494|<span class="rank-name-pd">かっつん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|48|483|<span class="rank-name-pd">X.X@37</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|49|478|<span class="rank-name-pd">友傘</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|50|452|<span class="rank-name-pd">reiwa6-0101</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|51|448|<span class="rank-name-pd">NONAME</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81066?s_seq=81066">DOMINATOR</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|52|442|<span class="rank-name-pd">kanayan</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|53|438|<span class="rank-name-pd">macci</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|54|428|<span class="rank-name-pd">37.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|55|416|<span class="rank-name-pd">    JUNJUN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|56|396|<span class="rank-name-pd">りこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|57|331|<span class="rank-name-pd">shizuku</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80678?s_seq=80678">BAR SIX-NINE</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
-|58|242|<span class="rank-name-pd">kazuya</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81066?s_seq=81066">DOMINATOR</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|1|1036|<span class="rank-name-pd">SHINPEI DMC</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|2|1029|<span class="rank-name-pd">にこちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|3|956|<span class="rank-name-pd">daiψ(`∀´)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81066?s_seq=81066">DOMINATOR</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|4|953|<span class="rank-name-pd">大五月病じじぃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|5|935|<span class="rank-name-pd">DTBK</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|6|930|<span class="rank-name-pd">ばっさん＠</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81066?s_seq=81066">DOMINATOR</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|7|926|<span class="rank-name-pd">小林denimdenim</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|8|922|<span class="rank-name-pd">FUJIKI@Dominator</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81066?s_seq=81066">DOMINATOR</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|9|920|<span class="rank-name-pd">Mr.Y</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81066?s_seq=81066">DOMINATOR</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|9|920|<span class="rank-name-pd">ＮＩＣＯちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|11|900|<span class="rank-name-pd">0138_4662</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|12|899|<span class="rank-name-pd">大肘壊しじじぃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|13|894|<span class="rank-name-pd">NKT@DIVE閉店</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|14|890|<span class="rank-name-pd">ゆーひ@nonぼーい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|15|888|<span class="rank-name-pd">はっしー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|16|869|<span class="rank-name-pd">いづ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|17|868|<span class="rank-name-pd">Yoshiyuki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|18|853|<span class="rank-name-pd">y__</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|19|849|<span class="rank-name-pd">AIRI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|20|843|<span class="rank-name-pd">Dan.bonos.こばちっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|21|832|<span class="rank-name-pd">イカ二貫.え？イカ二貫！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|22|816|<span class="rank-name-pd">Mr.Y</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|22|816|<span class="rank-name-pd">daiψ(`∀´)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|24|807|<span class="rank-name-pd">☆タッキー☆PDN4</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|25|802|<span class="rank-name-pd">ホタルイカ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|26|794|<span class="rank-name-pd">FUJIKI@Dominator</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|27|788|<span class="rank-name-pd">ゴトキン@bonos</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|28|781|<span class="rank-name-pd">suuchan</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|29|771|<span class="rank-name-pd">ペチリュウト─QLAY─</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|30|766|<span class="rank-name-pd">大輔☆T.Island</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|31|765|<span class="rank-name-pd">ほ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|32|760|<span class="rank-name-pd">kai</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|33|753|<span class="rank-name-pd">shizuku</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80678?s_seq=80678">BAR SIX-NINE</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|33|753|<span class="rank-name-pd">松本康寿【S-DARTS 2022】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81066?s_seq=81066">DOMINATOR</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|35|744|<span class="rank-name-pd">こばちっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|36|726|<span class="rank-name-pd">-ばかたれ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|37|721|<span class="rank-name-pd">Hiroto</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|38|719|<span class="rank-name-pd">少年エーミール</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|39|716|<span class="rank-name-pd">T.K</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|40|704|<span class="rank-name-pd">BONO.S    花道</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|41|697|<span class="rank-name-pd">Tsukasa</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|42|691|<span class="rank-name-pd">まーと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80678?s_seq=80678">BAR SIX-NINE</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|43|690|<span class="rank-name-pd">AJITOMI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|43|690|<span class="rank-name-pd">こんちゃそ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|45|688|<span class="rank-name-pd">shoichi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|46|674|<span class="rank-name-pd">大輔☆T.Island</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81066?s_seq=81066">DOMINATOR</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|47|664|<span class="rank-name-pd">こんちゃそ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81066?s_seq=81066">DOMINATOR</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|48|647|<span class="rank-name-pd">AIRI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81066?s_seq=81066">DOMINATOR</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|49|645|<span class="rank-name-pd">タツヤ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80678?s_seq=80678">BAR SIX-NINE</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|50|641|<span class="rank-name-pd">AIRI@BONOS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|51|635|<span class="rank-name-pd">104</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80678?s_seq=80678">BAR SIX-NINE</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|52|633|<span class="rank-name-pd">エリキング</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81066?s_seq=81066">DOMINATOR</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|53|630|<span class="rank-name-pd">TK</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|54|629|<span class="rank-name-pd">だるまさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|55|628|<span class="rank-name-pd">ただのザコ眼鏡</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|56|627|<span class="rank-name-pd">Gun</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|57|619|<span class="rank-name-pd">りょ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80678?s_seq=80678">BAR SIX-NINE</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|58|618|<span class="rank-name-pd">nobu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|59|611|<span class="rank-name-pd">    JUNJUN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|60|589|<span class="rank-name-pd">nagomi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|61|574|<span class="rank-name-pd">YUMA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|62|566|<span class="rank-name-pd">KAZ-ZUN@幻影旅団</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|63|564|<span class="rank-name-pd">Yu-ka</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|64|560|<span class="rank-name-pd">renren</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|65|557|<span class="rank-name-pd">友傘</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|66|553|<span class="rank-name-pd">yugo</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80678?s_seq=80678">BAR SIX-NINE</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|67|552|<span class="rank-name-pd">#37</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|68|542|<span class="rank-name-pd">Tatsu_CieL</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|69|541|<span class="rank-name-pd">RYO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|70|530|<span class="rank-name-pd">TANIGU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80678?s_seq=80678">BAR SIX-NINE</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|71|529|<span class="rank-name-pd">みもん(*^♀︎^*)Secret</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|72|524|<span class="rank-name-pd">MEGさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|73|512|<span class="rank-name-pd">zvs435cf8731d3</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|74|503|<span class="rank-name-pd">0003_4309</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|75|501|<span class="rank-name-pd">OLIVER</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|76|499|<span class="rank-name-pd">れーいち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|77|494|<span class="rank-name-pd">かっつん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|78|486|<span class="rank-name-pd">37.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|79|483|<span class="rank-name-pd">X.X@37</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|80|467|<span class="rank-name-pd">PHOENIX DARTS大阪 藤井</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81066?s_seq=81066">DOMINATOR</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|81|456|<span class="rank-name-pd">773</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|82|452|<span class="rank-name-pd">reiwa6-0101</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|83|448|<span class="rank-name-pd">NONAME</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81066?s_seq=81066">DOMINATOR</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|84|442|<span class="rank-name-pd">kanayan</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|85|438|<span class="rank-name-pd">macci</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|86|424|<span class="rank-name-pd">ソラ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80678?s_seq=80678">BAR SIX-NINE</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|87|396|<span class="rank-name-pd">りこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|88|390|<span class="rank-name-pd">HISAPYON</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|89|364|<span class="rank-name-pd">かずこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80678?s_seq=80678">BAR SIX-NINE</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|90|363|<span class="rank-name-pd">れねっくす</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|91|316|<span class="rank-name-pd">urachan</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|92|313|<span class="rank-name-pd">Amiru</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61454?s_seq=61454">BONOS</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|93|285|<span class="rank-name-pd">けーた</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80678?s_seq=80678">BAR SIX-NINE</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
+|94|242|<span class="rank-name-pd">kazuya</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81066?s_seq=81066">DOMINATOR</a>|<a href="/darts/rank/大阪府/泉佐野市">大阪府泉佐野市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

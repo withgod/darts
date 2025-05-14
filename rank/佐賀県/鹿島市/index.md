@@ -24,58 +24,102 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|1112|<span class="rank-name-pd"><span class="pro-icon-pd"></span>城野 弘樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|2|1026|<span class="rank-name-pd">ニカ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|3|936|<span class="rank-name-pd">Maru。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|4|928|<span class="rank-name-pd">しんくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|5|912|<span class="rank-name-pd">元にぃ【LEFT】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|6|909|<span class="rank-name-pd">熊谷 太志</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|7|896|<span class="rank-name-pd">４４４４</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|8|863|<span class="rank-name-pd">なお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|9|854|<span class="rank-name-pd">YA-MAN２【Laughtale】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|10|849|<span class="rank-name-pd">MJ4072</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|11|838|<span class="rank-name-pd">蜜柑屋</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|12|801|<span class="rank-name-pd">ネクター</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|13|769|<span class="rank-name-pd">がんぼりもすりょうへい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|14|761|<span class="rank-name-pd"><span class="pro-icon-pd"></span>和田 祐樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|15|718|<span class="rank-name-pd">Take</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|16|705|<span class="rank-name-pd">YA-MAN【Laughtale】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|17|692|<span class="rank-name-pd">まいちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|17|692|<span class="rank-name-pd">ガイモン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|19|691|<span class="rank-name-pd">そーたまん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|20|676|<span class="rank-name-pd">LAKE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|20|676|<span class="rank-name-pd">関西ばれえ屋さん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|22|673|<span class="rank-name-pd">JUMBA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|22|673|<span class="rank-name-pd">Mr.joyful</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|24|669|<span class="rank-name-pd">つーさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|25|667|<span class="rank-name-pd">山口 香奈江</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|26|659|<span class="rank-name-pd"><span class="pro-icon-pd"></span>松本 泰輔</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|27|657|<span class="rank-name-pd">DDDai</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|28|649|<span class="rank-name-pd">がんぼったりょうへい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|29|643|<span class="rank-name-pd">おかでぃー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|30|632|<span class="rank-name-pd">unofficial staff</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|31|625|<span class="rank-name-pd">ＲＹＴＨＥＭ(＊･ω･)ﾉﾉD-Mate@Y.K.K</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|32|619|<span class="rank-name-pd">SAKURA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|33|617|<span class="rank-name-pd">YOSHIO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|34|615|<span class="rank-name-pd">ワンサード従業員</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|35|606|<span class="rank-name-pd">最弱そうた最弱</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|36|605|<span class="rank-name-pd">Nagi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|37|579|<span class="rank-name-pd">Wonder</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|38|578|<span class="rank-name-pd">なな</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|39|572|<span class="rank-name-pd">sho</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|40|556|<span class="rank-name-pd">プンプン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|41|552|<span class="rank-name-pd">👓</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|42|549|<span class="rank-name-pd">しょうた</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|43|548|<span class="rank-name-pd">やまもと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|44|541|<span class="rank-name-pd">鰊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|45|510|<span class="rank-name-pd">パンダマン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|46|483|<span class="rank-name-pd">kazusa</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|47|477|<span class="rank-name-pd">いっせい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|48|475|<span class="rank-name-pd">0175 8368</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|49|459|<span class="rank-name-pd">みな</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|50|421|<span class="rank-name-pd">タカ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|51|409|<span class="rank-name-pd">悠李</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|52|324|<span class="rank-name-pd">遼平@TITO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|53|304|<span class="rank-name-pd">CHOCO Clear</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|2|1078|<span class="rank-name-pd">Maru。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|3|1067|<span class="rank-name-pd">中西永吉@TRiNiDAD</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|4|1026|<span class="rank-name-pd">ニカ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|5|1007|<span class="rank-name-pd">ゆういち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|6|967|<span class="rank-name-pd">やーまん【Laughtale】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|7|961|<span class="rank-name-pd">４４４４</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|8|950|<span class="rank-name-pd">火の傷の男【Laughtale】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|9|931|<span class="rank-name-pd">しんくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|10|929|<span class="rank-name-pd">MJ4072</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|11|912|<span class="rank-name-pd">元にぃ【LEFT】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|12|910|<span class="rank-name-pd">革命家ドラゴソ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|13|909|<span class="rank-name-pd">熊谷 太志</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|14|908|<span class="rank-name-pd">千住観音菩薩</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|15|904|<span class="rank-name-pd">Ｋмｓ敦志.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|16|903|<span class="rank-name-pd">まる。【Laughtale】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|17|897|<span class="rank-name-pd">YA-MAN２【Laughtale】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|17|897|<span class="rank-name-pd">なべっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|17|897|<span class="rank-name-pd"><span class="pro-icon-pd"></span>田中 佑一</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|20|871|<span class="rank-name-pd">なお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|21|857|<span class="rank-name-pd"><span class="pro-icon-pd"></span>山口 香奈江</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|22|855|<span class="rank-name-pd">蜜柑屋</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|23|812|<span class="rank-name-pd">モリゾー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|24|801|<span class="rank-name-pd">ネクター</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|25|788|<span class="rank-name-pd">0204_8235</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|26|774|<span class="rank-name-pd">DDDai</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|27|769|<span class="rank-name-pd">がんぼりもすりょうへい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|28|761|<span class="rank-name-pd"><span class="pro-icon-pd"></span>和田 祐樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|29|753|<span class="rank-name-pd">タカ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|30|747|<span class="rank-name-pd">ＭΦNSTER 【LaughTale】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|31|746|<span class="rank-name-pd">森田恒平セパ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|32|739|<span class="rank-name-pd">MONCHI【LEFT】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|33|735|<span class="rank-name-pd">よしり</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|34|734|<span class="rank-name-pd"><span class="pro-icon-pd"></span>森田 恒平</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|35|718|<span class="rank-name-pd">Take</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|36|705|<span class="rank-name-pd">YA-MAN【Laughtale】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|37|700|<span class="rank-name-pd">やまもと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|38|693|<span class="rank-name-pd">グッチー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|39|692|<span class="rank-name-pd">まいちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|39|692|<span class="rank-name-pd">ガイモン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|41|691|<span class="rank-name-pd">そーたまん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|42|690|<span class="rank-name-pd">K4y</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|43|676|<span class="rank-name-pd">LAKE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|43|676|<span class="rank-name-pd">関西ばれえ屋さん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|45|673|<span class="rank-name-pd">JUMBA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|45|673|<span class="rank-name-pd">Mr.TONBO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|45|673|<span class="rank-name-pd">Mr.joyful</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|48|671|<span class="rank-name-pd">まっきー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|49|669|<span class="rank-name-pd">つーさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|50|660|<span class="rank-name-pd">APC teacher</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|51|659|<span class="rank-name-pd"><span class="pro-icon-pd"></span>松本 泰輔</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|52|652|<span class="rank-name-pd">逆手のMaru。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|53|649|<span class="rank-name-pd">がんぼったりょうへい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|54|643|<span class="rank-name-pd">おかでぃー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|55|632|<span class="rank-name-pd">unofficial staff</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|56|626|<span class="rank-name-pd">プンプン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|57|625|<span class="rank-name-pd">ＲＹＴＨＥＭ(＊･ω･)ﾉﾉD-Mate@Y.K.K</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|58|624|<span class="rank-name-pd">Russ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|59|619|<span class="rank-name-pd">SAKURA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|60|617|<span class="rank-name-pd">YOSHIO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|61|615|<span class="rank-name-pd">ワンサード従業員</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|62|610|<span class="rank-name-pd">mai</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|63|606|<span class="rank-name-pd">最弱そうた最弱</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|64|605|<span class="rank-name-pd">Nagi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|65|604|<span class="rank-name-pd">ぺーヨン純</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|66|597|<span class="rank-name-pd">sho</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|67|592|<span class="rank-name-pd">なな</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|68|586|<span class="rank-name-pd">16</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|69|579|<span class="rank-name-pd">Wonder</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|70|577|<span class="rank-name-pd">よっしー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|71|575|<span class="rank-name-pd">Ryo</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|72|561|<span class="rank-name-pd">👓</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|73|549|<span class="rank-name-pd">しょうた</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|74|544|<span class="rank-name-pd">iRi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|75|541|<span class="rank-name-pd">鰊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|76|531|<span class="rank-name-pd">いっせい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|77|525|<span class="rank-name-pd">ばばちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|78|516|<span class="rank-name-pd">音</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|79|511|<span class="rank-name-pd">((’∀’=))</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|80|510|<span class="rank-name-pd">パンダマン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|81|490|<span class="rank-name-pd">みな</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|82|485|<span class="rank-name-pd">ひろやん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|83|483|<span class="rank-name-pd">kazusa</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|84|482|<span class="rank-name-pd">爱</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|85|476|<span class="rank-name-pd">M</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|86|475|<span class="rank-name-pd">0175 8368</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|87|469|<span class="rank-name-pd">ゆーこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|88|465|<span class="rank-name-pd">uza</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|89|431|<span class="rank-name-pd">あすかぽん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|90|409|<span class="rank-name-pd">悠李</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|91|403|<span class="rank-name-pd">まゆニャン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|92|394|<span class="rank-name-pd">もちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|93|389|<span class="rank-name-pd">KEI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|94|365|<span class="rank-name-pd">MINE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|95|325|<span class="rank-name-pd">んくんし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|96|324|<span class="rank-name-pd">遼平@TITO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|97|304|<span class="rank-name-pd">CHOCO Clear</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -96,58 +140,102 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|1112|<span class="rank-name-pd"><span class="pro-icon-pd"></span>城野 弘樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|2|1026|<span class="rank-name-pd">ニカ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|3|936|<span class="rank-name-pd">Maru。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|4|928|<span class="rank-name-pd">しんくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|5|912|<span class="rank-name-pd">元にぃ【LEFT】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|6|909|<span class="rank-name-pd">熊谷 太志</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|7|896|<span class="rank-name-pd">４４４４</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|8|863|<span class="rank-name-pd">なお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|9|854|<span class="rank-name-pd">YA-MAN２【Laughtale】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|10|849|<span class="rank-name-pd">MJ4072</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|11|838|<span class="rank-name-pd">蜜柑屋</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|12|801|<span class="rank-name-pd">ネクター</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|13|769|<span class="rank-name-pd">がんぼりもすりょうへい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|14|761|<span class="rank-name-pd"><span class="pro-icon-pd"></span>和田 祐樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|15|718|<span class="rank-name-pd">Take</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|16|705|<span class="rank-name-pd">YA-MAN【Laughtale】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|17|692|<span class="rank-name-pd">まいちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|17|692|<span class="rank-name-pd">ガイモン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|19|691|<span class="rank-name-pd">そーたまん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|20|676|<span class="rank-name-pd">LAKE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|20|676|<span class="rank-name-pd">関西ばれえ屋さん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|22|673|<span class="rank-name-pd">JUMBA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|22|673|<span class="rank-name-pd">Mr.joyful</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|24|669|<span class="rank-name-pd">つーさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|25|667|<span class="rank-name-pd">山口 香奈江</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|26|659|<span class="rank-name-pd"><span class="pro-icon-pd"></span>松本 泰輔</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|27|657|<span class="rank-name-pd">DDDai</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|28|649|<span class="rank-name-pd">がんぼったりょうへい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|29|643|<span class="rank-name-pd">おかでぃー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|30|632|<span class="rank-name-pd">unofficial staff</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|31|625|<span class="rank-name-pd">ＲＹＴＨＥＭ(＊･ω･)ﾉﾉD-Mate@Y.K.K</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|32|619|<span class="rank-name-pd">SAKURA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|33|617|<span class="rank-name-pd">YOSHIO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|34|615|<span class="rank-name-pd">ワンサード従業員</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|35|606|<span class="rank-name-pd">最弱そうた最弱</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|36|605|<span class="rank-name-pd">Nagi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|37|579|<span class="rank-name-pd">Wonder</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|38|578|<span class="rank-name-pd">なな</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|39|572|<span class="rank-name-pd">sho</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|40|556|<span class="rank-name-pd">プンプン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|41|552|<span class="rank-name-pd">👓</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|42|549|<span class="rank-name-pd">しょうた</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|43|548|<span class="rank-name-pd">やまもと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|44|541|<span class="rank-name-pd">鰊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|45|510|<span class="rank-name-pd">パンダマン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|46|483|<span class="rank-name-pd">kazusa</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|47|477|<span class="rank-name-pd">いっせい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|48|475|<span class="rank-name-pd">0175 8368</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|49|459|<span class="rank-name-pd">みな</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|50|421|<span class="rank-name-pd">タカ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|51|409|<span class="rank-name-pd">悠李</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|52|324|<span class="rank-name-pd">遼平@TITO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
-|53|304|<span class="rank-name-pd">CHOCO Clear</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|2|1078|<span class="rank-name-pd">Maru。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|3|1067|<span class="rank-name-pd">中西永吉@TRiNiDAD</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|4|1026|<span class="rank-name-pd">ニカ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|5|1007|<span class="rank-name-pd">ゆういち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|6|967|<span class="rank-name-pd">やーまん【Laughtale】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|7|961|<span class="rank-name-pd">４４４４</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|8|950|<span class="rank-name-pd">火の傷の男【Laughtale】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|9|931|<span class="rank-name-pd">しんくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|10|929|<span class="rank-name-pd">MJ4072</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|11|912|<span class="rank-name-pd">元にぃ【LEFT】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|12|910|<span class="rank-name-pd">革命家ドラゴソ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|13|909|<span class="rank-name-pd">熊谷 太志</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|14|908|<span class="rank-name-pd">千住観音菩薩</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|15|904|<span class="rank-name-pd">Ｋмｓ敦志.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|16|903|<span class="rank-name-pd">まる。【Laughtale】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|17|897|<span class="rank-name-pd">YA-MAN２【Laughtale】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|17|897|<span class="rank-name-pd">なべっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|17|897|<span class="rank-name-pd"><span class="pro-icon-pd"></span>田中 佑一</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|20|871|<span class="rank-name-pd">なお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|21|857|<span class="rank-name-pd"><span class="pro-icon-pd"></span>山口 香奈江</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|22|855|<span class="rank-name-pd">蜜柑屋</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|23|812|<span class="rank-name-pd">モリゾー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|24|801|<span class="rank-name-pd">ネクター</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|25|788|<span class="rank-name-pd">0204_8235</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|26|774|<span class="rank-name-pd">DDDai</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|27|769|<span class="rank-name-pd">がんぼりもすりょうへい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|28|761|<span class="rank-name-pd"><span class="pro-icon-pd"></span>和田 祐樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|29|753|<span class="rank-name-pd">タカ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|30|747|<span class="rank-name-pd">ＭΦNSTER 【LaughTale】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|31|746|<span class="rank-name-pd">森田恒平セパ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|32|739|<span class="rank-name-pd">MONCHI【LEFT】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|33|735|<span class="rank-name-pd">よしり</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|34|734|<span class="rank-name-pd"><span class="pro-icon-pd"></span>森田 恒平</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|35|718|<span class="rank-name-pd">Take</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|36|705|<span class="rank-name-pd">YA-MAN【Laughtale】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|37|700|<span class="rank-name-pd">やまもと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|38|693|<span class="rank-name-pd">グッチー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|39|692|<span class="rank-name-pd">まいちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|39|692|<span class="rank-name-pd">ガイモン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|41|691|<span class="rank-name-pd">そーたまん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|42|690|<span class="rank-name-pd">K4y</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|43|676|<span class="rank-name-pd">LAKE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|43|676|<span class="rank-name-pd">関西ばれえ屋さん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|45|673|<span class="rank-name-pd">JUMBA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|45|673|<span class="rank-name-pd">Mr.TONBO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|45|673|<span class="rank-name-pd">Mr.joyful</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|48|671|<span class="rank-name-pd">まっきー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|49|669|<span class="rank-name-pd">つーさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|50|660|<span class="rank-name-pd">APC teacher</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|51|659|<span class="rank-name-pd"><span class="pro-icon-pd"></span>松本 泰輔</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|52|652|<span class="rank-name-pd">逆手のMaru。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|53|649|<span class="rank-name-pd">がんぼったりょうへい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|54|643|<span class="rank-name-pd">おかでぃー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|55|632|<span class="rank-name-pd">unofficial staff</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|56|626|<span class="rank-name-pd">プンプン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|57|625|<span class="rank-name-pd">ＲＹＴＨＥＭ(＊･ω･)ﾉﾉD-Mate@Y.K.K</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|58|624|<span class="rank-name-pd">Russ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|59|619|<span class="rank-name-pd">SAKURA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|60|617|<span class="rank-name-pd">YOSHIO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|61|615|<span class="rank-name-pd">ワンサード従業員</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|62|610|<span class="rank-name-pd">mai</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|63|606|<span class="rank-name-pd">最弱そうた最弱</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|64|605|<span class="rank-name-pd">Nagi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|65|604|<span class="rank-name-pd">ぺーヨン純</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|66|597|<span class="rank-name-pd">sho</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|67|592|<span class="rank-name-pd">なな</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|68|586|<span class="rank-name-pd">16</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|69|579|<span class="rank-name-pd">Wonder</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|70|577|<span class="rank-name-pd">よっしー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|71|575|<span class="rank-name-pd">Ryo</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|72|561|<span class="rank-name-pd">👓</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|73|549|<span class="rank-name-pd">しょうた</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|74|544|<span class="rank-name-pd">iRi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|75|541|<span class="rank-name-pd">鰊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|76|531|<span class="rank-name-pd">いっせい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|77|525|<span class="rank-name-pd">ばばちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|78|516|<span class="rank-name-pd">音</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|79|511|<span class="rank-name-pd">((’∀’=))</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|80|510|<span class="rank-name-pd">パンダマン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|81|490|<span class="rank-name-pd">みな</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|82|485|<span class="rank-name-pd">ひろやん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|83|483|<span class="rank-name-pd">kazusa</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|84|482|<span class="rank-name-pd">爱</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|85|476|<span class="rank-name-pd">M</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|86|475|<span class="rank-name-pd">0175 8368</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|87|469|<span class="rank-name-pd">ゆーこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|88|465|<span class="rank-name-pd">uza</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|89|431|<span class="rank-name-pd">あすかぽん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|90|409|<span class="rank-name-pd">悠李</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|91|403|<span class="rank-name-pd">まゆニャン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|92|394|<span class="rank-name-pd">もちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|93|389|<span class="rank-name-pd">KEI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|94|365|<span class="rank-name-pd">MINE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|95|325|<span class="rank-name-pd">んくんし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|96|324|<span class="rank-name-pd">遼平@TITO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
+|97|304|<span class="rank-name-pd">CHOCO Clear</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88344?s_seq=88344">Laughtale</a>|<a href="/darts/rank/佐賀県/鹿島市">佐賀県鹿島市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

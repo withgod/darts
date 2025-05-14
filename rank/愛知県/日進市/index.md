@@ -23,7 +23,7 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|865|<span class="rank-name-pd">ケンズ@Lallapalooza</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88116?s_seq=88116">ももいち</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
+|1|963|<span class="rank-name-pd">ケンズ@Lallapalooza</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88116?s_seq=88116">ももいち</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
 |2|789|<span class="rank-name-pd">ひかる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88116?s_seq=88116">ももいち</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
 |3|747|<span class="rank-name-pd">トミーヤン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88116?s_seq=88116">ももいち</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
 |4|710|<span class="rank-name-pd">エンジョイ専用</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88116?s_seq=88116">ももいち</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
@@ -31,19 +31,29 @@ ___
 |5|660|<span class="rank-name-pd">イーヨ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_68217?s_seq=68217">Darts Cafe & Bar M's cafe</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
 |7|649|<span class="rank-name-pd">(:D)+Kobayan+</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_68217?s_seq=68217">Darts Cafe & Bar M's cafe</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
 |8|638|<span class="rank-name-pd">M&#x27;s cafe</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_68217?s_seq=68217">Darts Cafe & Bar M's cafe</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
-|9|560|<span class="rank-name-pd">POKO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_68217?s_seq=68217">Darts Cafe & Bar M's cafe</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
-|10|525|<span class="rank-name-pd">忍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88116?s_seq=88116">ももいち</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
-|11|494|<span class="rank-name-pd">831♪</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88116?s_seq=88116">ももいち</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
-|12|467|<span class="rank-name-pd">ゆきほ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88116?s_seq=88116">ももいち</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
-|13|466|<span class="rank-name-pd">momo</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88116?s_seq=88116">ももいち</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
-|14|455|<span class="rank-name-pd">KATURA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_68217?s_seq=68217">Darts Cafe & Bar M's cafe</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
-|15|441|<span class="rank-name-pd">尚慶</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88116?s_seq=88116">ももいち</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
-|16|398|<span class="rank-name-pd">的宛マスター</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88116?s_seq=88116">ももいち</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
-|17|382|<span class="rank-name-pd">Prince_Sugar</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_68217?s_seq=68217">Darts Cafe & Bar M's cafe</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
-|18|377|<span class="rank-name-pd">ｙｕｋｉ【SHOT】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_68217?s_seq=68217">Darts Cafe & Bar M's cafe</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
-|19|358|<span class="rank-name-pd">KUROO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_68217?s_seq=68217">Darts Cafe & Bar M's cafe</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
-|20|320|<span class="rank-name-pd">suni</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88116?s_seq=88116">ももいち</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
-|21|312|<span class="rank-name-pd">NON</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_68217?s_seq=68217">Darts Cafe & Bar M's cafe</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
+|9|630|<span class="rank-name-pd">こんちくりん§的投</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88116?s_seq=88116">ももいち</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
+|10|601|<span class="rank-name-pd">ぴょん@momoichi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88116?s_seq=88116">ももいち</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
+|11|577|<span class="rank-name-pd">なちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88116?s_seq=88116">ももいち</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
+|12|560|<span class="rank-name-pd">POKO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_68217?s_seq=68217">Darts Cafe & Bar M's cafe</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
+|13|531|<span class="rank-name-pd">TAMA 2</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88116?s_seq=88116">ももいち</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
+|14|525|<span class="rank-name-pd">忍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88116?s_seq=88116">ももいち</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
+|15|494|<span class="rank-name-pd">831♪</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88116?s_seq=88116">ももいち</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
+|16|492|<span class="rank-name-pd">❀いのっち❀</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88116?s_seq=88116">ももいち</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
+|17|482|<span class="rank-name-pd">尚慶</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88116?s_seq=88116">ももいち</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
+|18|467|<span class="rank-name-pd">ゆきほ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88116?s_seq=88116">ももいち</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
+|19|466|<span class="rank-name-pd">momo</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88116?s_seq=88116">ももいち</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
+|20|455|<span class="rank-name-pd">KATURA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_68217?s_seq=68217">Darts Cafe & Bar M's cafe</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
+|21|447|<span class="rank-name-pd">ギッシュ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88116?s_seq=88116">ももいち</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
+|22|446|<span class="rank-name-pd">suni</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88116?s_seq=88116">ももいち</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
+|23|416|<span class="rank-name-pd">良雄</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88116?s_seq=88116">ももいち</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
+|24|398|<span class="rank-name-pd">的宛マスター</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88116?s_seq=88116">ももいち</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
+|25|388|<span class="rank-name-pd">越後の縮緬問屋の隠居で光衛門</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88116?s_seq=88116">ももいち</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
+|26|382|<span class="rank-name-pd">Prince_Sugar</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_68217?s_seq=68217">Darts Cafe & Bar M's cafe</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
+|27|377|<span class="rank-name-pd">ｙｕｋｉ【SHOT】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_68217?s_seq=68217">Darts Cafe & Bar M's cafe</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
+|28|358|<span class="rank-name-pd">KUROO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_68217?s_seq=68217">Darts Cafe & Bar M's cafe</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
+|29|315|<span class="rank-name-pd">z8xg35d5c99a3e</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88116?s_seq=88116">ももいち</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
+|30|312|<span class="rank-name-pd">NON</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_68217?s_seq=68217">Darts Cafe & Bar M's cafe</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
+|31|8|<span class="rank-name-pd">Wwwww</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_68217?s_seq=68217">Darts Cafe & Bar M's cafe</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -63,7 +73,7 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|865|<span class="rank-name-pd">ケンズ@Lallapalooza</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88116?s_seq=88116">ももいち</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
+|1|963|<span class="rank-name-pd">ケンズ@Lallapalooza</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88116?s_seq=88116">ももいち</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
 |2|789|<span class="rank-name-pd">ひかる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88116?s_seq=88116">ももいち</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
 |3|747|<span class="rank-name-pd">トミーヤン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88116?s_seq=88116">ももいち</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
 |4|710|<span class="rank-name-pd">エンジョイ専用</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88116?s_seq=88116">ももいち</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
@@ -71,19 +81,29 @@ ___
 |5|660|<span class="rank-name-pd">イーヨ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_68217?s_seq=68217">Darts Cafe & Bar M's cafe</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
 |7|649|<span class="rank-name-pd">(:D)+Kobayan+</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_68217?s_seq=68217">Darts Cafe & Bar M's cafe</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
 |8|638|<span class="rank-name-pd">M&#x27;s cafe</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_68217?s_seq=68217">Darts Cafe & Bar M's cafe</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
-|9|560|<span class="rank-name-pd">POKO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_68217?s_seq=68217">Darts Cafe & Bar M's cafe</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
-|10|525|<span class="rank-name-pd">忍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88116?s_seq=88116">ももいち</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
-|11|494|<span class="rank-name-pd">831♪</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88116?s_seq=88116">ももいち</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
-|12|467|<span class="rank-name-pd">ゆきほ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88116?s_seq=88116">ももいち</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
-|13|466|<span class="rank-name-pd">momo</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88116?s_seq=88116">ももいち</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
-|14|455|<span class="rank-name-pd">KATURA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_68217?s_seq=68217">Darts Cafe & Bar M's cafe</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
-|15|441|<span class="rank-name-pd">尚慶</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88116?s_seq=88116">ももいち</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
-|16|398|<span class="rank-name-pd">的宛マスター</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88116?s_seq=88116">ももいち</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
-|17|382|<span class="rank-name-pd">Prince_Sugar</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_68217?s_seq=68217">Darts Cafe & Bar M's cafe</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
-|18|377|<span class="rank-name-pd">ｙｕｋｉ【SHOT】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_68217?s_seq=68217">Darts Cafe & Bar M's cafe</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
-|19|358|<span class="rank-name-pd">KUROO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_68217?s_seq=68217">Darts Cafe & Bar M's cafe</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
-|20|320|<span class="rank-name-pd">suni</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88116?s_seq=88116">ももいち</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
-|21|312|<span class="rank-name-pd">NON</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_68217?s_seq=68217">Darts Cafe & Bar M's cafe</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
+|9|630|<span class="rank-name-pd">こんちくりん§的投</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88116?s_seq=88116">ももいち</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
+|10|601|<span class="rank-name-pd">ぴょん@momoichi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88116?s_seq=88116">ももいち</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
+|11|577|<span class="rank-name-pd">なちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88116?s_seq=88116">ももいち</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
+|12|560|<span class="rank-name-pd">POKO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_68217?s_seq=68217">Darts Cafe & Bar M's cafe</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
+|13|531|<span class="rank-name-pd">TAMA 2</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88116?s_seq=88116">ももいち</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
+|14|525|<span class="rank-name-pd">忍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88116?s_seq=88116">ももいち</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
+|15|494|<span class="rank-name-pd">831♪</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88116?s_seq=88116">ももいち</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
+|16|492|<span class="rank-name-pd">❀いのっち❀</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88116?s_seq=88116">ももいち</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
+|17|482|<span class="rank-name-pd">尚慶</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88116?s_seq=88116">ももいち</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
+|18|467|<span class="rank-name-pd">ゆきほ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88116?s_seq=88116">ももいち</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
+|19|466|<span class="rank-name-pd">momo</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88116?s_seq=88116">ももいち</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
+|20|455|<span class="rank-name-pd">KATURA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_68217?s_seq=68217">Darts Cafe & Bar M's cafe</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
+|21|447|<span class="rank-name-pd">ギッシュ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88116?s_seq=88116">ももいち</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
+|22|446|<span class="rank-name-pd">suni</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88116?s_seq=88116">ももいち</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
+|23|416|<span class="rank-name-pd">良雄</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88116?s_seq=88116">ももいち</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
+|24|398|<span class="rank-name-pd">的宛マスター</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88116?s_seq=88116">ももいち</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
+|25|388|<span class="rank-name-pd">越後の縮緬問屋の隠居で光衛門</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88116?s_seq=88116">ももいち</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
+|26|382|<span class="rank-name-pd">Prince_Sugar</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_68217?s_seq=68217">Darts Cafe & Bar M's cafe</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
+|27|377|<span class="rank-name-pd">ｙｕｋｉ【SHOT】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_68217?s_seq=68217">Darts Cafe & Bar M's cafe</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
+|28|358|<span class="rank-name-pd">KUROO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_68217?s_seq=68217">Darts Cafe & Bar M's cafe</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
+|29|315|<span class="rank-name-pd">z8xg35d5c99a3e</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88116?s_seq=88116">ももいち</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
+|30|312|<span class="rank-name-pd">NON</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_68217?s_seq=68217">Darts Cafe & Bar M's cafe</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
+|31|8|<span class="rank-name-pd">Wwwww</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_68217?s_seq=68217">Darts Cafe & Bar M's cafe</a>|<a href="/darts/rank/愛知県/日進市">愛知県日進市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

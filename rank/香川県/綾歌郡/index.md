@@ -24,97 +24,105 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|1105|<span class="rank-name-dl">三井 翔太</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|2|1030|<span class="rank-name-pd">freedom漢</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
 |2|1030|<span class="rank-name-dl">こじこじ</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|3|1008|<span class="rank-name-dl">ミツイ カナ</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|4|970|<span class="rank-name-pd">0113_0896</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|5|967|<span class="rank-name-dl">中川航次郎</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|6|928|<span class="rank-name-dl">MATSU</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|7|915|<span class="rank-name-dl">うーき</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|8|906|<span class="rank-name-dl">南木 俊彦</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|9|904|<span class="rank-name-dl">北山　稀士</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|10|899|<span class="rank-name-dl">YAMA</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|11|884|<span class="rank-name-pd">月猫.KN-1@Hearth/飲</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|12|876|<span class="rank-name-pd">中川航次郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|13|833|<span class="rank-name-pd">path@ヤギ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|14|831|<span class="rank-name-dl">ジョー☆龍神</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|15|812|<span class="rank-name-pd">弐壱零四</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|16|805|<span class="rank-name-pd">なんきー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|17|801|<span class="rank-name-pd">Masato.Y</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|17|801|<span class="rank-name-dl">ちゃんわか</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|19|787|<span class="rank-name-pd">TNGCH</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|20|776|<span class="rank-name-dl">☆タカシロウ☆</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|21|771|<span class="rank-name-pd">︎★SHIØRI DØI★</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|22|765|<span class="rank-name-dl">理央</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|23|761|<span class="rank-name-pd">コロ助</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|24|759|<span class="rank-name-pd">ｷﾑﾁｬﾝ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|25|758|<span class="rank-name-dl">ぷんこちゃん</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|26|746|<span class="rank-name-dl">モジモジ</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|26|746|<span class="rank-name-pd">弐壱零四</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|28|738|<span class="rank-name-pd">yutaman</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|28|738|<span class="rank-name-dl">ハルジオン</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|30|734|<span class="rank-name-dl">加古</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|31|731|<span class="rank-name-dl">も</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|32|724|<span class="rank-name-dl">Mudkip</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|33|718|<span class="rank-name-dl">suwako!</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|34|714|<span class="rank-name-pd">HIR</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|35|709|<span class="rank-name-pd">猫じた（笑）</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|36|703|<span class="rank-name-dl">ワス</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|37|702|<span class="rank-name-pd">マサシ＠手品師　MM</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|38|698|<span class="rank-name-dl">Tomoya</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|39|695|<span class="rank-name-pd">Tani@imabari</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|40|691|<span class="rank-name-pd">MATSU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|41|687|<span class="rank-name-pd">K.Ｏ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|41|687|<span class="rank-name-pd">STARDUST</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|43|677|<span class="rank-name-dl">GAKU19</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|44|673|<span class="rank-name-pd">fujii</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|45|666|<span class="rank-name-dl">ｷﾑﾁｬﾝ</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|46|661|<span class="rank-name-dl">NO NAME 8141</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|47|657|<span class="rank-name-pd">TAKU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|48|654|<span class="rank-name-pd">TOMOYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|48|654|<span class="rank-name-dl">mautik</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|50|648|<span class="rank-name-dl">ティラノサウルス</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|51|647|<span class="rank-name-pd">ｷﾑﾁｬﾝ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|52|645|<span class="rank-name-pd">KANAYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|53|638|<span class="rank-name-dl">Yamachaaaaan</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|54|634|<span class="rank-name-dl">guramu27</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|55|630|<span class="rank-name-pd">コウスケ@SwingArms</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|56|617|<span class="rank-name-dl">ちょりん</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|57|613|<span class="rank-name-dl">NO NAME 1065</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|58|609|<span class="rank-name-pd">どん＠ＤＯＮｃｈａｎ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|59|602|<span class="rank-name-pd">マサシ＠手品師</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|60|600|<span class="rank-name-pd">うが@Hearth/飲んだくれ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|61|598|<span class="rank-name-pd">kota</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|62|584|<span class="rank-name-pd">オグラム</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|63|583|<span class="rank-name-pd">77@Hearth</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|64|581|<span class="rank-name-dl">乱馬</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|65|567|<span class="rank-name-dl">NO NAME 8121</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|66|560|<span class="rank-name-pd">はう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|66|560|<span class="rank-name-dl">三千力三</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|68|548|<span class="rank-name-pd">Y</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|69|544|<span class="rank-name-pd">0027_7484</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|70|542|<span class="rank-name-dl">ひかる</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|71|525|<span class="rank-name-dl">MIU</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|71|525|<span class="rank-name-dl">_una_</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|71|525|<span class="rank-name-pd">shiden0926</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|74|516|<span class="rank-name-pd">楽々K☆はっし～＠Hearth.En</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|75|497|<span class="rank-name-dl">310</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|76|494|<span class="rank-name-pd">ゆぅ1000</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|77|481|<span class="rank-name-pd">HIKARI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|78|472|<span class="rank-name-pd">FUKU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|79|459|<span class="rank-name-pd">響</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|80|458|<span class="rank-name-pd">HANA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|81|437|<span class="rank-name-pd">MIU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|82|424|<span class="rank-name-pd">KANAYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|83|417|<span class="rank-name-pd">シックス</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|84|404|<span class="rank-name-dl">なし</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|85|397|<span class="rank-name-dl">uちゃん@trico</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|86|345|<span class="rank-name-pd">APIPIRO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|87|343|<span class="rank-name-pd">ひかる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|88|339|<span class="rank-name-dl">なずーりん</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|89|326|<span class="rank-name-dl">まゆパン</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|90|305|<span class="rank-name-pd">GORORI@LUKE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|91|268|<span class="rank-name-pd">NYAAAKO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|92|256|<span class="rank-name-dl">Tarumeiro</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|4|1008|<span class="rank-name-dl">ミツイ カナ</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|5|984|<span class="rank-name-dl">YA-su</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|6|970|<span class="rank-name-pd">0113_0896</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|7|967|<span class="rank-name-dl">中川航次郎</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|8|928|<span class="rank-name-dl">MATSU</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|9|915|<span class="rank-name-dl">うーき</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|10|906|<span class="rank-name-dl">南木 俊彦</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|11|904|<span class="rank-name-dl">北山　稀士</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|12|899|<span class="rank-name-dl">YAMA</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|13|884|<span class="rank-name-pd">月猫.KN-1@Hearth/飲</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|14|876|<span class="rank-name-pd">中川航次郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|15|833|<span class="rank-name-pd">path@ヤギ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|16|831|<span class="rank-name-dl">ジョー☆龍神</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|17|828|<span class="rank-name-dl">ﾀｰﾎﾞｽｷｰ</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|18|812|<span class="rank-name-pd">弐壱零四</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|19|805|<span class="rank-name-pd">なんきー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|20|801|<span class="rank-name-pd">Masato.Y</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|20|801|<span class="rank-name-dl">ちゃんわか</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|22|800|<span class="rank-name-dl">metal-x</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|23|796|<span class="rank-name-pd">.tom.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|24|789|<span class="rank-name-pd">マサシ＠手品師</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|25|787|<span class="rank-name-pd">TNGCH</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|26|776|<span class="rank-name-dl">☆タカシロウ☆</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|27|774|<span class="rank-name-pd">Tani@imabari</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|28|771|<span class="rank-name-pd">︎★SHIØRI DØI★</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|29|765|<span class="rank-name-dl">理央</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|30|761|<span class="rank-name-pd">コロ助</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|31|759|<span class="rank-name-pd">ｷﾑﾁｬﾝ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|32|758|<span class="rank-name-dl">ぷんこちゃん</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|33|756|<span class="rank-name-pd">0000_5952</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|34|754|<span class="rank-name-pd">マサシ＠手品師　MM</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|35|753|<span class="rank-name-dl">I love garlic</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|36|746|<span class="rank-name-dl">モジモジ</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|36|746|<span class="rank-name-pd">弐壱零四</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|38|738|<span class="rank-name-pd">yutaman</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|38|738|<span class="rank-name-dl">ハルジオン</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|40|734|<span class="rank-name-dl">加古</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|41|731|<span class="rank-name-dl">も</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|42|727|<span class="rank-name-dl">もー</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|43|724|<span class="rank-name-dl">Mudkip</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|43|724|<span class="rank-name-pd">tama</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|45|718|<span class="rank-name-dl">suwako!</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|46|714|<span class="rank-name-pd">HIR</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|47|712|<span class="rank-name-pd">U-G</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|48|711|<span class="rank-name-dl">ぴろあにき</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|49|709|<span class="rank-name-pd">猫じた（笑）</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|50|703|<span class="rank-name-dl">ワス</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|51|702|<span class="rank-name-pd">おじゅう@</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|51|702|<span class="rank-name-pd">ワス</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|53|699|<span class="rank-name-pd">SK/0469</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|54|698|<span class="rank-name-dl">Tomoya</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|55|695|<span class="rank-name-pd">TOMOYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|56|691|<span class="rank-name-pd">MATSU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|57|689|<span class="rank-name-pd">ジーノさんpart2</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|58|687|<span class="rank-name-pd">K.Ｏ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|58|687|<span class="rank-name-pd">STARDUST</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|60|684|<span class="rank-name-pd">どん＠ＤＯＮｃｈａｎ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|61|677|<span class="rank-name-dl">GAKU19</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|62|673|<span class="rank-name-pd">fujii</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|63|667|<span class="rank-name-dl">Sss</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|63|667|<span class="rank-name-pd">tsrr</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|65|666|<span class="rank-name-dl">ｷﾑﾁｬﾝ</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|66|661|<span class="rank-name-dl">NO NAME 8141</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|67|657|<span class="rank-name-pd">TAKU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|68|654|<span class="rank-name-dl">mautik</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|69|650|<span class="rank-name-dl">NAME 6489</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|70|648|<span class="rank-name-dl">ティラノサウルス</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|71|647|<span class="rank-name-pd">ｷﾑﾁｬﾝ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|72|645|<span class="rank-name-pd">KANAYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|73|638|<span class="rank-name-dl">Yamachaaaaan</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|74|635|<span class="rank-name-pd">yuli</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|75|634|<span class="rank-name-dl">guramu27</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|76|631|<span class="rank-name-dl">ほっしー★彡</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|77|630|<span class="rank-name-pd">コウスケ@SwingArms</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|78|628|<span class="rank-name-dl">とみぃ</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|79|626|<span class="rank-name-pd">うが@Hearth/飲んだくれ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|80|625|<span class="rank-name-dl">たく</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|81|617|<span class="rank-name-dl">ちょりん</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|82|613|<span class="rank-name-dl">NO NAME 1065</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|83|609|<span class="rank-name-pd">どん＠ＤＯＮｃｈａｎ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|84|598|<span class="rank-name-pd">kota</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|85|596|<span class="rank-name-dl">tyori</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|86|593|<span class="rank-name-pd">もっち/ GAO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|87|590|<span class="rank-name-dl">クロ</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|88|588|<span class="rank-name-pd">かんくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|89|584|<span class="rank-name-pd">オグラム</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|90|583|<span class="rank-name-pd">77@Hearth</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|91|581|<span class="rank-name-dl">乱馬</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|92|567|<span class="rank-name-dl">NO NAME 8121</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|92|567|<span class="rank-name-dl">シャークモロコシ</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|94|560|<span class="rank-name-pd">はう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|94|560|<span class="rank-name-dl">三千力三</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|96|548|<span class="rank-name-pd">Y</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|97|544|<span class="rank-name-pd">0027_7484</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|98|542|<span class="rank-name-dl">ひかる</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|99|534|<span class="rank-name-pd">【彩】イソップЖブルーホース</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|100|526|<span class="rank-name-pd">ありくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -127,46 +135,64 @@ ___
 |1|1105|<span class="rank-name-dl">三井 翔太</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
 |2|1030|<span class="rank-name-dl">こじこじ</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
 |3|1008|<span class="rank-name-dl">ミツイ カナ</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|4|967|<span class="rank-name-dl">中川航次郎</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|5|928|<span class="rank-name-dl">MATSU</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|6|915|<span class="rank-name-dl">うーき</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|7|906|<span class="rank-name-dl">南木 俊彦</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|8|904|<span class="rank-name-dl">北山　稀士</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|9|899|<span class="rank-name-dl">YAMA</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|10|831|<span class="rank-name-dl">ジョー☆龍神</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|11|801|<span class="rank-name-dl">ちゃんわか</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|12|776|<span class="rank-name-dl">☆タカシロウ☆</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|13|765|<span class="rank-name-dl">理央</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|14|758|<span class="rank-name-dl">ぷんこちゃん</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|15|746|<span class="rank-name-dl">モジモジ</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|16|738|<span class="rank-name-dl">ハルジオン</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|17|734|<span class="rank-name-dl">加古</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|18|731|<span class="rank-name-dl">も</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|19|724|<span class="rank-name-dl">Mudkip</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|20|718|<span class="rank-name-dl">suwako!</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|21|703|<span class="rank-name-dl">ワス</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|22|698|<span class="rank-name-dl">Tomoya</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|23|677|<span class="rank-name-dl">GAKU19</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|24|666|<span class="rank-name-dl">ｷﾑﾁｬﾝ</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|25|661|<span class="rank-name-dl">NO NAME 8141</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|26|654|<span class="rank-name-dl">mautik</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|27|648|<span class="rank-name-dl">ティラノサウルス</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|28|638|<span class="rank-name-dl">Yamachaaaaan</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|29|634|<span class="rank-name-dl">guramu27</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|30|617|<span class="rank-name-dl">ちょりん</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|31|613|<span class="rank-name-dl">NO NAME 1065</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|32|581|<span class="rank-name-dl">乱馬</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|33|567|<span class="rank-name-dl">NO NAME 8121</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|34|560|<span class="rank-name-dl">三千力三</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|35|542|<span class="rank-name-dl">ひかる</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|36|525|<span class="rank-name-dl">MIU</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|36|525|<span class="rank-name-dl">_una_</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|38|497|<span class="rank-name-dl">310</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|39|404|<span class="rank-name-dl">なし</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|40|397|<span class="rank-name-dl">uちゃん@trico</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|41|339|<span class="rank-name-dl">なずーりん</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|42|326|<span class="rank-name-dl">まゆパン</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|43|256|<span class="rank-name-dl">Tarumeiro</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|4|984|<span class="rank-name-dl">YA-su</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|5|967|<span class="rank-name-dl">中川航次郎</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|6|928|<span class="rank-name-dl">MATSU</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|7|915|<span class="rank-name-dl">うーき</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|8|906|<span class="rank-name-dl">南木 俊彦</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|9|904|<span class="rank-name-dl">北山　稀士</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|10|899|<span class="rank-name-dl">YAMA</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|11|831|<span class="rank-name-dl">ジョー☆龍神</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|12|828|<span class="rank-name-dl">ﾀｰﾎﾞｽｷｰ</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|13|801|<span class="rank-name-dl">ちゃんわか</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|14|800|<span class="rank-name-dl">metal-x</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|15|776|<span class="rank-name-dl">☆タカシロウ☆</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|16|765|<span class="rank-name-dl">理央</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|17|758|<span class="rank-name-dl">ぷんこちゃん</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|18|753|<span class="rank-name-dl">I love garlic</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|19|746|<span class="rank-name-dl">モジモジ</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|20|738|<span class="rank-name-dl">ハルジオン</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|21|734|<span class="rank-name-dl">加古</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|22|731|<span class="rank-name-dl">も</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|23|727|<span class="rank-name-dl">もー</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|24|724|<span class="rank-name-dl">Mudkip</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|25|718|<span class="rank-name-dl">suwako!</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|26|711|<span class="rank-name-dl">ぴろあにき</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|27|703|<span class="rank-name-dl">ワス</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|28|698|<span class="rank-name-dl">Tomoya</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|29|677|<span class="rank-name-dl">GAKU19</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|30|667|<span class="rank-name-dl">Sss</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|31|666|<span class="rank-name-dl">ｷﾑﾁｬﾝ</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|32|661|<span class="rank-name-dl">NO NAME 8141</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|33|654|<span class="rank-name-dl">mautik</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|34|650|<span class="rank-name-dl">NAME 6489</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|35|648|<span class="rank-name-dl">ティラノサウルス</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|36|638|<span class="rank-name-dl">Yamachaaaaan</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|37|634|<span class="rank-name-dl">guramu27</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|38|631|<span class="rank-name-dl">ほっしー★彡</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|39|628|<span class="rank-name-dl">とみぃ</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|40|625|<span class="rank-name-dl">たく</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|41|617|<span class="rank-name-dl">ちょりん</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|42|613|<span class="rank-name-dl">NO NAME 1065</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|43|596|<span class="rank-name-dl">tyori</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|44|590|<span class="rank-name-dl">クロ</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|45|581|<span class="rank-name-dl">乱馬</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|46|567|<span class="rank-name-dl">NO NAME 8121</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|46|567|<span class="rank-name-dl">シャークモロコシ</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|48|560|<span class="rank-name-dl">三千力三</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|49|542|<span class="rank-name-dl">ひかる</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|50|525|<span class="rank-name-dl">MIU</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|50|525|<span class="rank-name-dl">_una_</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|52|497|<span class="rank-name-dl">310</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|53|468|<span class="rank-name-dl">佐野明太子</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|54|421|<span class="rank-name-dl">2ba3</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|55|414|<span class="rank-name-dl">0469</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|56|404|<span class="rank-name-dl">なし</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|57|397|<span class="rank-name-dl">uちゃん@trico</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|58|382|<span class="rank-name-dl">晏樹</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|59|339|<span class="rank-name-dl">なずーりん</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|60|326|<span class="rank-name-dl">まゆパン</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|61|256|<span class="rank-name-dl">Tarumeiro</span>|<a href="https://search.dartslive.com/jp/shop/501bb2641f0448270d9b047a20a7ba1e">ファンキータイム 宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
 
 
 #### PHOENIXDARTS TOP 100
@@ -176,55 +202,81 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|970|<span class="rank-name-pd">0113_0896</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|2|884|<span class="rank-name-pd">月猫.KN-1@Hearth/飲</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|3|876|<span class="rank-name-pd">中川航次郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|4|833|<span class="rank-name-pd">path@ヤギ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|5|812|<span class="rank-name-pd">弐壱零四</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|6|805|<span class="rank-name-pd">なんきー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|7|801|<span class="rank-name-pd">Masato.Y</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|8|787|<span class="rank-name-pd">TNGCH</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|9|771|<span class="rank-name-pd">︎★SHIØRI DØI★</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|10|761|<span class="rank-name-pd">コロ助</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|11|759|<span class="rank-name-pd">ｷﾑﾁｬﾝ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|12|746|<span class="rank-name-pd">弐壱零四</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|13|738|<span class="rank-name-pd">yutaman</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|14|714|<span class="rank-name-pd">HIR</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|15|709|<span class="rank-name-pd">猫じた（笑）</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|16|702|<span class="rank-name-pd">マサシ＠手品師　MM</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|17|695|<span class="rank-name-pd">Tani@imabari</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|18|691|<span class="rank-name-pd">MATSU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|19|687|<span class="rank-name-pd">K.Ｏ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|19|687|<span class="rank-name-pd">STARDUST</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|21|673|<span class="rank-name-pd">fujii</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|22|657|<span class="rank-name-pd">TAKU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|23|654|<span class="rank-name-pd">TOMOYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|24|647|<span class="rank-name-pd">ｷﾑﾁｬﾝ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|25|645|<span class="rank-name-pd">KANAYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|26|630|<span class="rank-name-pd">コウスケ@SwingArms</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|27|609|<span class="rank-name-pd">どん＠ＤＯＮｃｈａｎ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|28|602|<span class="rank-name-pd">マサシ＠手品師</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|29|600|<span class="rank-name-pd">うが@Hearth/飲んだくれ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|30|598|<span class="rank-name-pd">kota</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|31|584|<span class="rank-name-pd">オグラム</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|32|583|<span class="rank-name-pd">77@Hearth</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|33|560|<span class="rank-name-pd">はう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|34|548|<span class="rank-name-pd">Y</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|35|544|<span class="rank-name-pd">0027_7484</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|36|525|<span class="rank-name-pd">shiden0926</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|37|516|<span class="rank-name-pd">楽々K☆はっし～＠Hearth.En</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|38|494|<span class="rank-name-pd">ゆぅ1000</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|39|481|<span class="rank-name-pd">HIKARI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|40|472|<span class="rank-name-pd">FUKU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|41|459|<span class="rank-name-pd">響</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|42|458|<span class="rank-name-pd">HANA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|43|437|<span class="rank-name-pd">MIU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|44|424|<span class="rank-name-pd">KANAYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|45|417|<span class="rank-name-pd">シックス</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|46|345|<span class="rank-name-pd">APIPIRO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|47|343|<span class="rank-name-pd">ひかる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|48|305|<span class="rank-name-pd">GORORI@LUKE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
-|49|268|<span class="rank-name-pd">NYAAAKO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|1|1030|<span class="rank-name-pd">freedom漢</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|2|970|<span class="rank-name-pd">0113_0896</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|3|884|<span class="rank-name-pd">月猫.KN-1@Hearth/飲</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|4|876|<span class="rank-name-pd">中川航次郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|5|833|<span class="rank-name-pd">path@ヤギ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|6|812|<span class="rank-name-pd">弐壱零四</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|7|805|<span class="rank-name-pd">なんきー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|8|801|<span class="rank-name-pd">Masato.Y</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|9|796|<span class="rank-name-pd">.tom.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|10|789|<span class="rank-name-pd">マサシ＠手品師</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|11|787|<span class="rank-name-pd">TNGCH</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|12|774|<span class="rank-name-pd">Tani@imabari</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|13|771|<span class="rank-name-pd">︎★SHIØRI DØI★</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|14|761|<span class="rank-name-pd">コロ助</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|15|759|<span class="rank-name-pd">ｷﾑﾁｬﾝ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|16|756|<span class="rank-name-pd">0000_5952</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|17|754|<span class="rank-name-pd">マサシ＠手品師　MM</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|18|746|<span class="rank-name-pd">弐壱零四</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|19|738|<span class="rank-name-pd">yutaman</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|20|724|<span class="rank-name-pd">tama</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|21|714|<span class="rank-name-pd">HIR</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|22|712|<span class="rank-name-pd">U-G</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|23|709|<span class="rank-name-pd">猫じた（笑）</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|24|702|<span class="rank-name-pd">おじゅう@</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|24|702|<span class="rank-name-pd">ワス</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|26|699|<span class="rank-name-pd">SK/0469</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|27|695|<span class="rank-name-pd">TOMOYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|28|691|<span class="rank-name-pd">MATSU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|29|689|<span class="rank-name-pd">ジーノさんpart2</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|30|687|<span class="rank-name-pd">K.Ｏ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|30|687|<span class="rank-name-pd">STARDUST</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|32|684|<span class="rank-name-pd">どん＠ＤＯＮｃｈａｎ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|33|673|<span class="rank-name-pd">fujii</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|34|667|<span class="rank-name-pd">tsrr</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|35|657|<span class="rank-name-pd">TAKU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|36|647|<span class="rank-name-pd">ｷﾑﾁｬﾝ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|37|645|<span class="rank-name-pd">KANAYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|38|635|<span class="rank-name-pd">yuli</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|39|630|<span class="rank-name-pd">コウスケ@SwingArms</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|40|626|<span class="rank-name-pd">うが@Hearth/飲んだくれ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|41|609|<span class="rank-name-pd">どん＠ＤＯＮｃｈａｎ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|42|598|<span class="rank-name-pd">kota</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|43|593|<span class="rank-name-pd">もっち/ GAO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|44|588|<span class="rank-name-pd">かんくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|45|584|<span class="rank-name-pd">オグラム</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|46|583|<span class="rank-name-pd">77@Hearth</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|47|560|<span class="rank-name-pd">はう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|48|548|<span class="rank-name-pd">Y</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|49|544|<span class="rank-name-pd">0027_7484</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|50|534|<span class="rank-name-pd">【彩】イソップЖブルーホース</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|51|526|<span class="rank-name-pd">ありくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|52|525|<span class="rank-name-pd">shiden0926</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|53|516|<span class="rank-name-pd">楽々K☆はっし～＠Hearth.En</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|54|505|<span class="rank-name-pd">yutaman</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|55|494|<span class="rank-name-pd">ゆぅ1000</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|56|481|<span class="rank-name-pd">HIKARI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|57|478|<span class="rank-name-pd">HANA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|58|472|<span class="rank-name-pd">FUKU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|59|459|<span class="rank-name-pd">響</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|60|437|<span class="rank-name-pd">MIU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|61|435|<span class="rank-name-pd">みち∞Infinity∞</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|62|432|<span class="rank-name-pd">あわた@飲んだくれ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|63|424|<span class="rank-name-pd">KANAYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|64|417|<span class="rank-name-pd">シックス</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|65|407|<span class="rank-name-pd">まりこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|66|406|<span class="rank-name-pd">ヒデのカード！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|67|395|<span class="rank-name-pd">ととのいモリモリ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|68|390|<span class="rank-name-pd">mayudon</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|69|385|<span class="rank-name-pd">K^-^@HEARTH</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|70|370|<span class="rank-name-pd">うどんラーメン君</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|71|360|<span class="rank-name-pd">こむさし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|72|345|<span class="rank-name-pd">APIPIRO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|73|343|<span class="rank-name-pd">ひかる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10424?s_seq=10424">ファンキータイム宇多津店</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|74|305|<span class="rank-name-pd">GORORI@LUKE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
+|75|268|<span class="rank-name-pd">NYAAAKO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9640?s_seq=9640">HEARTH</a>|<a href="/darts/rank/香川県/綾歌郡">香川県綾歌郡</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

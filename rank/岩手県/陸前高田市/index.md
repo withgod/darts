@@ -24,23 +24,36 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|970|<span class="rank-name-dl">大富 豪</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
-|2|884|<span class="rank-name-dl">のぶちゃん❤️</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
-|3|856|<span class="rank-name-dl">ミウティ</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
-|4|798|<span class="rank-name-dl">HAYATE</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
-|5|766|<span class="rank-name-dl">ちばとしひろ</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
-|6|736|<span class="rank-name-dl">ちーかま★</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
-|7|703|<span class="rank-name-dl">よっこい</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
-|8|695|<span class="rank-name-dl">はね@第９工廠</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
-|9|681|<span class="rank-name-dl">ちーかま</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
-|10|652|<span class="rank-name-dl">SHINGO</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
-|11|624|<span class="rank-name-dl">すがぴぃ</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
-|12|621|<span class="rank-name-dl">めいど</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
-|13|603|<span class="rank-name-dl">NO NAME 5046</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
-|14|600|<span class="rank-name-dl">Baskin-Robbins</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
-|15|581|<span class="rank-name-dl">HIDE A.</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
-|16|577|<span class="rank-name-dl">yuta_k</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
-|17|467|<span class="rank-name-dl">TFOA</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
-|18|443|<span class="rank-name-dl">M・K</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
+|2|907|<span class="rank-name-dl">高橋 翔(危険球)</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
+|3|890|<span class="rank-name-dl">のぶちゃん❤️</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
+|4|856|<span class="rank-name-dl">ミウティ</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
+|5|799|<span class="rank-name-dl">よっこい</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
+|6|798|<span class="rank-name-dl">HAYATE</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
+|7|787|<span class="rank-name-dl">みうてぃ</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
+|8|780|<span class="rank-name-dl">Baskin-Robbins</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
+|9|766|<span class="rank-name-dl">ちばとしひろ</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
+|10|736|<span class="rank-name-dl">ちーかま★</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
+|11|735|<span class="rank-name-dl">NO NAME 5046</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
+|12|726|<span class="rank-name-dl">SHINGO</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
+|13|718|<span class="rank-name-dl">カメ</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
+|14|708|<span class="rank-name-dl">ちーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
+|15|697|<span class="rank-name-dl">coba</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
+|16|695|<span class="rank-name-dl">はね@第９工廠</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
+|17|681|<span class="rank-name-dl">ちーかま</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
+|18|628|<span class="rank-name-dl">yuta_k</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
+|19|624|<span class="rank-name-dl">すがぴぃ</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
+|20|621|<span class="rank-name-dl">めいど</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
+|21|614|<span class="rank-name-dl">食い逃げ</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
+|22|581|<span class="rank-name-dl">HIDE A.</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
+|23|558|<span class="rank-name-dl">TFOA</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
+|24|490|<span class="rank-name-dl">まひろ</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
+|25|471|<span class="rank-name-dl">ARA</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
+|26|453|<span class="rank-name-dl">あかねちゃん</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
+|27|443|<span class="rank-name-dl">M・K</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
+|28|442|<span class="rank-name-dl">NO NAME 6582</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
+|29|359|<span class="rank-name-dl">NK</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
+|30|353|<span class="rank-name-dl">ティー太</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
+|31|304|<span class="rank-name-dl">はる</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -51,23 +64,36 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|970|<span class="rank-name-dl">大富 豪</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
-|2|884|<span class="rank-name-dl">のぶちゃん❤️</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
-|3|856|<span class="rank-name-dl">ミウティ</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
-|4|798|<span class="rank-name-dl">HAYATE</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
-|5|766|<span class="rank-name-dl">ちばとしひろ</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
-|6|736|<span class="rank-name-dl">ちーかま★</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
-|7|703|<span class="rank-name-dl">よっこい</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
-|8|695|<span class="rank-name-dl">はね@第９工廠</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
-|9|681|<span class="rank-name-dl">ちーかま</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
-|10|652|<span class="rank-name-dl">SHINGO</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
-|11|624|<span class="rank-name-dl">すがぴぃ</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
-|12|621|<span class="rank-name-dl">めいど</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
-|13|603|<span class="rank-name-dl">NO NAME 5046</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
-|14|600|<span class="rank-name-dl">Baskin-Robbins</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
-|15|581|<span class="rank-name-dl">HIDE A.</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
-|16|577|<span class="rank-name-dl">yuta_k</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
-|17|467|<span class="rank-name-dl">TFOA</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
-|18|443|<span class="rank-name-dl">M・K</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
+|2|907|<span class="rank-name-dl">高橋 翔(危険球)</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
+|3|890|<span class="rank-name-dl">のぶちゃん❤️</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
+|4|856|<span class="rank-name-dl">ミウティ</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
+|5|799|<span class="rank-name-dl">よっこい</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
+|6|798|<span class="rank-name-dl">HAYATE</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
+|7|787|<span class="rank-name-dl">みうてぃ</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
+|8|780|<span class="rank-name-dl">Baskin-Robbins</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
+|9|766|<span class="rank-name-dl">ちばとしひろ</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
+|10|736|<span class="rank-name-dl">ちーかま★</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
+|11|735|<span class="rank-name-dl">NO NAME 5046</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
+|12|726|<span class="rank-name-dl">SHINGO</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
+|13|718|<span class="rank-name-dl">カメ</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
+|14|708|<span class="rank-name-dl">ちーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
+|15|697|<span class="rank-name-dl">coba</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
+|16|695|<span class="rank-name-dl">はね@第９工廠</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
+|17|681|<span class="rank-name-dl">ちーかま</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
+|18|628|<span class="rank-name-dl">yuta_k</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
+|19|624|<span class="rank-name-dl">すがぴぃ</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
+|20|621|<span class="rank-name-dl">めいど</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
+|21|614|<span class="rank-name-dl">食い逃げ</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
+|22|581|<span class="rank-name-dl">HIDE A.</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
+|23|558|<span class="rank-name-dl">TFOA</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
+|24|490|<span class="rank-name-dl">まひろ</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
+|25|471|<span class="rank-name-dl">ARA</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
+|26|453|<span class="rank-name-dl">あかねちゃん</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
+|27|443|<span class="rank-name-dl">M・K</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
+|28|442|<span class="rank-name-dl">NO NAME 6582</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
+|29|359|<span class="rank-name-dl">NK</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
+|30|353|<span class="rank-name-dl">ティー太</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
+|31|304|<span class="rank-name-dl">はる</span>|<a href="https://search.dartslive.com/jp/shop/9b3886d2ef2fa5150d9b047a20a7ba1e">W LOOP</a>|<a href="/darts/rank/岩手県/陸前高田市">岩手県陸前高田市</a>|
 
 
 #### PHOENIXDARTS TOP 100

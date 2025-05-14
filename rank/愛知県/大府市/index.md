@@ -23,106 +23,106 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1166|<span class="rank-name-dl">釜谷 能弘</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|2|1135|<span class="rank-name-pd">Yossy</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|3|1121|<span class="rank-name-pd">よっしー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|4|1117|<span class="rank-name-dl">おぐりん</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|5|1090|<span class="rank-name-pd">おぐりん。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|6|1041|<span class="rank-name-dl">Ippei</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|7|1038|<span class="rank-name-dl">じゅんじ</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|8|990|<span class="rank-name-pd">PELU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|9|978|<span class="rank-name-pd">hayato</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|10|967|<span class="rank-name-dl">にしける</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|11|961|<span class="rank-name-dl">そにーそ</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|12|937|<span class="rank-name-dl">ジェレミア卿</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|13|931|<span class="rank-name-dl">にしける</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|14|930|<span class="rank-name-pd"><span class="pro-icon-pd"></span>甲斐 亮太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|15|928|<span class="rank-name-dl">★ゆう★</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|15|928|<span class="rank-name-pd">ｷｭｱﾊﾟﾅそにっく</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|17|914|<span class="rank-name-dl">福助</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|18|908|<span class="rank-name-dl">RYO(〃&#x27;▽&#x27;〃)</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|19|899|<span class="rank-name-dl">anδ_δan</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|20|894|<span class="rank-name-pd">0025_4700</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|21|885|<span class="rank-name-pd">KO--CHU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|22|859|<span class="rank-name-dl">ボンド@ｸﾞﾗｯﾂｪ</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|23|858|<span class="rank-name-pd">KO--CHU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|24|856|<span class="rank-name-pd">Ryuji</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|25|851|<span class="rank-name-pd">波野イクラ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|26|831|<span class="rank-name-dl">Yoshimitsu</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|27|829|<span class="rank-name-dl">( ・∇・)</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|28|827|<span class="rank-name-pd">にっしー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79720?s_seq=79720">JOYJOY 大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|29|826|<span class="rank-name-pd">SIN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|30|811|<span class="rank-name-pd">スウ☆彡</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|31|807|<span class="rank-name-pd">T-suke</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|32|804|<span class="rank-name-pd">コパンダ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|33|800|<span class="rank-name-pd">ジェレミア</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|34|787|<span class="rank-name-dl">NO NAME 9408</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|35|778|<span class="rank-name-pd">ビビ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|36|776|<span class="rank-name-pd">PACHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|37|774|<span class="rank-name-dl">りう</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|38|771|<span class="rank-name-dl">マグロマン</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|39|769|<span class="rank-name-pd">AZU5572</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|40|765|<span class="rank-name-pd">Ryu🐉💫</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|40|765|<span class="rank-name-dl">ぴーへっど♘</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|42|761|<span class="rank-name-dl">じゅーーーん</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|43|759|<span class="rank-name-pd">現在カコ未来 ２</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|44|749|<span class="rank-name-dl">スモーキー</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|45|743|<span class="rank-name-pd">けむし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|46|737|<span class="rank-name-pd">我は木偶なり使われて踊るなり</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79720?s_seq=79720">JOYJOY 大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|47|735|<span class="rank-name-pd">JUNJI [SEPA]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|48|734|<span class="rank-name-dl">✞ゆいまる✞</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|49|733|<span class="rank-name-pd">リョウタ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79720?s_seq=79720">JOYJOY 大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|50|732|<span class="rank-name-dl">毛虫</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|51|727|<span class="rank-name-pd">現在カコ未来</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|52|723|<span class="rank-name-dl">104634　RYOSUKE</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|52|723|<span class="rank-name-dl">パスタ巻いてる？</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|54|718|<span class="rank-name-pd">TAKUtaku</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|55|716|<span class="rank-name-dl">ゴロー蛇骨山</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|56|714|<span class="rank-name-dl">あがぁーyu～shin</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|57|711|<span class="rank-name-pd">уμ～ζΗιη〆ちゃ銀</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|58|709|<span class="rank-name-dl">ハルカンパニー</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|59|700|<span class="rank-name-dl">いっき</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|60|696|<span class="rank-name-pd">HARU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|60|696|<span class="rank-name-pd">st</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|60|696|<span class="rank-name-pd">リョウ(o^∀^o)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|63|668|<span class="rank-name-dl">しょーきは本気</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|64|663|<span class="rank-name-dl">Ryo-Suke</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|64|663|<span class="rank-name-pd">pi/(_ﾛ_;/)ｼ木</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79720?s_seq=79720">JOYJOY 大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|64|663|<span class="rank-name-pd">しんせつ侍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|64|663|<span class="rank-name-dl">たいち</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|68|662|<span class="rank-name-pd">かまとし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|68|662|<span class="rank-name-pd">唯</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|70|657|<span class="rank-name-pd">カッサーノ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|71|640|<span class="rank-name-pd">ごっちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|72|639|<span class="rank-name-pd">yeah</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|73|638|<span class="rank-name-pd">Tana-john</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|74|636|<span class="rank-name-dl">mai</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|75|628|<span class="rank-name-dl">seiya</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|75|628|<span class="rank-name-dl">yuto</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|77|626|<span class="rank-name-pd">Power</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|78|620|<span class="rank-name-dl">しょーへー</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|79|616|<span class="rank-name-pd">海男</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|80|615|<span class="rank-name-pd">Tｰ2  team RR</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|81|613|<span class="rank-name-pd">かずき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|82|611|<span class="rank-name-pd">T-suke</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79720?s_seq=79720">JOYJOY 大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|82|611|<span class="rank-name-pd">にょー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|84|609|<span class="rank-name-dl">阿修羅男爵</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|85|595|<span class="rank-name-dl">NO NAME 1161</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|86|594|<span class="rank-name-pd">KATSU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|87|589|<span class="rank-name-dl">水谷さんで〜す</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|88|588|<span class="rank-name-dl">ノーマーク山本</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|89|586|<span class="rank-name-pd">りっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|90|584|<span class="rank-name-pd">ﾁﾘﾁﾘﾎﾞﾝﾊﾞｰ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|91|576|<span class="rank-name-pd">phoenica</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79720?s_seq=79720">JOYJOY 大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|92|570|<span class="rank-name-pd">KAZU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|92|570|<span class="rank-name-dl">Runa</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|94|561|<span class="rank-name-dl">ｱﾀﾞﾁｾﾅ</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|95|559|<span class="rank-name-pd">세이 세이</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79720?s_seq=79720">JOYJOY 大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|96|556|<span class="rank-name-pd">またたび</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|97|554|<span class="rank-name-pd">徹底先行134</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79720?s_seq=79720">JOYJOY 大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|98|552|<span class="rank-name-pd">炭酸水</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|99|550|<span class="rank-name-pd">KAZU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|100|538|<span class="rank-name-pd">醤油</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|1|1200|<span class="rank-name-pd">Yossy</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|2|1169|<span class="rank-name-pd">よっしー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|3|1166|<span class="rank-name-dl">釜谷 能弘</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|4|1135|<span class="rank-name-dl">hayato</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|5|1117|<span class="rank-name-dl">おぐりん</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|6|1090|<span class="rank-name-pd">おぐりん。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|7|1079|<span class="rank-name-dl">嶋崎一翠</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|8|1050|<span class="rank-name-dl">けいた</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|9|1049|<span class="rank-name-dl">にしける</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|10|1041|<span class="rank-name-dl">Ippei</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|11|1038|<span class="rank-name-dl">じゅんじ</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|12|1021|<span class="rank-name-dl">ｶｰｽﾞ=ﾌｨｰﾛ</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|13|1018|<span class="rank-name-pd">嶋崎二翠</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|14|994|<span class="rank-name-dl">T STYLE</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|15|990|<span class="rank-name-pd">PELU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|16|976|<span class="rank-name-dl">ko-kun☆</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|16|976|<span class="rank-name-dl">ふじさきスパニー</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|18|975|<span class="rank-name-dl">あべし</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|19|969|<span class="rank-name-pd">NAOYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|20|961|<span class="rank-name-dl">そにーそ</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|21|959|<span class="rank-name-pd"><span class="pro-icon-pd"></span>川田 夏理武</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79720?s_seq=79720">JOYJOY 大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|22|957|<span class="rank-name-dl">ko-chu★★</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|23|937|<span class="rank-name-dl">ジェレミア卿</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|24|931|<span class="rank-name-dl">にしける</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|25|930|<span class="rank-name-pd"><span class="pro-icon-pd"></span>甲斐 亮太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|26|928|<span class="rank-name-dl">★ゆう★</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|26|928|<span class="rank-name-pd">ｷｭｱﾊﾟﾅそにっく</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|28|920|<span class="rank-name-dl">(゜ー゜)</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|29|917|<span class="rank-name-pd">ippei</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|30|914|<span class="rank-name-dl">福助</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|31|912|<span class="rank-name-dl">Tｰsuke〆愛州</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|32|908|<span class="rank-name-dl">RYO(〃&#x27;▽&#x27;〃)</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|33|906|<span class="rank-name-dl">福ちゃん〆愛州</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|34|905|<span class="rank-name-pd">Panda@おにぎりゃーず</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|34|905|<span class="rank-name-dl">がんがん</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|36|901|<span class="rank-name-pd">st</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|37|899|<span class="rank-name-dl">anδ_δan</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|38|898|<span class="rank-name-pd">6NaO9</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|39|897|<span class="rank-name-dl">オレ( ´ ▽ ` )ﾉ</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|39|897|<span class="rank-name-dl">ジェレミア</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|41|894|<span class="rank-name-pd">0025_4700</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|42|892|<span class="rank-name-dl">早川 航平</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|43|889|<span class="rank-name-dl">KOH</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|44|888|<span class="rank-name-pd">an･an</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|45|885|<span class="rank-name-pd">KO--CHU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|45|885|<span class="rank-name-dl">やらないか</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|47|884|<span class="rank-name-pd">スウ☆彡</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|47|884|<span class="rank-name-dl">波野 イクラ</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|49|883|<span class="rank-name-dl">ぴーへっど♘</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|50|873|<span class="rank-name-pd">にっしー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79720?s_seq=79720">JOYJOY 大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|51|866|<span class="rank-name-dl">宇宙戦艦</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|52|859|<span class="rank-name-dl">ボンド@ｸﾞﾗｯﾂｪ</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|53|858|<span class="rank-name-pd">KO--CHU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|54|856|<span class="rank-name-pd">Ryuji</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|55|855|<span class="rank-name-pd">Ryu🐉💫</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|56|854|<span class="rank-name-pd">-RYO~King~-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|57|852|<span class="rank-name-dl">あがぁーyu～shin</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|58|851|<span class="rank-name-pd">波野イクラ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|59|850|<span class="rank-name-dl">TAKUtaku</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|59|850|<span class="rank-name-pd">【Kidd】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79720?s_seq=79720">JOYJOY 大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|59|850|<span class="rank-name-dl">あらぁぁきぃぃ〆</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|62|849|<span class="rank-name-dl">Aiki</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|63|842|<span class="rank-name-dl">ぺんぺ</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|64|839|<span class="rank-name-dl">すし〆太郎</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|65|837|<span class="rank-name-pd">T-suke</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|66|833|<span class="rank-name-dl">KAZU</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|67|831|<span class="rank-name-pd">AZU5572</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|67|831|<span class="rank-name-dl">Yoshimitsu</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|69|829|<span class="rank-name-dl">( ・∇・)</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|70|826|<span class="rank-name-pd">SIN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|71|824|<span class="rank-name-pd">いっちー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|72|813|<span class="rank-name-pd">現在カコ未来 ２</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|73|807|<span class="rank-name-dl">Kaname</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|74|804|<span class="rank-name-pd">コパンダ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|75|798|<span class="rank-name-pd">けむし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|76|795|<span class="rank-name-pd">マグロマン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|77|787|<span class="rank-name-dl">NO NAME 9408</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|77|787|<span class="rank-name-dl">福ちゃん〆愛州</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|79|786|<span class="rank-name-dl">ﾃﾞｽﾗﾋﾞｯﾄ</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|80|778|<span class="rank-name-pd">ビビ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|81|777|<span class="rank-name-dl">ヤベチャン</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|82|776|<span class="rank-name-pd">PACHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|82|776|<span class="rank-name-pd">ひい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|84|775|<span class="rank-name-pd">かわぞう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|85|774|<span class="rank-name-dl">りう</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|86|772|<span class="rank-name-dl">pi/(_ﾛ_;/)ｼ木</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|86|772|<span class="rank-name-pd">あがぁーゆーしん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|88|769|<span class="rank-name-pd">Halu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|89|764|<span class="rank-name-pd">唯</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|90|763|<span class="rank-name-dl">龍桜</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|91|762|<span class="rank-name-pd">ゆかりのろくよん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|92|761|<span class="rank-name-dl">じゅーーーん</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|93|759|<span class="rank-name-pd">カッサーノ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|93|759|<span class="rank-name-pd">現在カコ未来 ２</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|95|753|<span class="rank-name-dl">kilyn</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|96|751|<span class="rank-name-pd">[DON]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|97|749|<span class="rank-name-dl">イワ</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|97|749|<span class="rank-name-dl">スモーキー</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|99|748|<span class="rank-name-pd">musasi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|99|748|<span class="rank-name-dl">あがぁーyu～shin</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -132,72 +132,106 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1166|<span class="rank-name-dl">釜谷 能弘</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|2|1130|<span class="rank-name-dl">Yossy</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|3|1117|<span class="rank-name-dl">おぐりん</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|4|1041|<span class="rank-name-dl">Ippei</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|5|1038|<span class="rank-name-dl">じゅんじ</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|6|967|<span class="rank-name-dl">にしける</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|7|961|<span class="rank-name-dl">そにーそ</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|8|943|<span class="rank-name-dl">hayato</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|9|937|<span class="rank-name-dl">ジェレミア卿</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|10|931|<span class="rank-name-dl">にしける</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|11|928|<span class="rank-name-dl">★ゆう★</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|12|914|<span class="rank-name-dl">福助</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|13|908|<span class="rank-name-dl">RYO(〃&#x27;▽&#x27;〃)</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|14|899|<span class="rank-name-dl">anδ_δan</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|15|859|<span class="rank-name-dl">ボンド@ｸﾞﾗｯﾂｪ</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|16|831|<span class="rank-name-dl">Yoshimitsu</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|17|829|<span class="rank-name-dl">( ・∇・)</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|18|794|<span class="rank-name-dl">ジェレミア</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|19|787|<span class="rank-name-dl">NO NAME 9408</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|20|774|<span class="rank-name-dl">りう</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|21|771|<span class="rank-name-dl">マグロマン</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|22|770|<span class="rank-name-dl">甲斐 亮太</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|23|765|<span class="rank-name-dl">ぴーへっど♘</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|24|761|<span class="rank-name-dl">じゅーーーん</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|25|749|<span class="rank-name-dl">スモーキー</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|26|734|<span class="rank-name-dl">✞ゆいまる✞</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|27|732|<span class="rank-name-dl">毛虫</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|28|723|<span class="rank-name-dl">104634　RYOSUKE</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|28|723|<span class="rank-name-dl">パスタ巻いてる？</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|30|716|<span class="rank-name-dl">ゴロー蛇骨山</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|31|714|<span class="rank-name-dl">あがぁーyu～shin</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|32|709|<span class="rank-name-dl">ハルカンパニー</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|33|700|<span class="rank-name-dl">いっき</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|34|668|<span class="rank-name-dl">しょーきは本気</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|35|663|<span class="rank-name-dl">Ryo-Suke</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|35|663|<span class="rank-name-dl">たいち</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|37|636|<span class="rank-name-dl">mai</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|38|628|<span class="rank-name-dl">seiya</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|38|628|<span class="rank-name-dl">yuto</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|40|620|<span class="rank-name-dl">しょーへー</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|41|609|<span class="rank-name-dl">阿修羅男爵</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|42|595|<span class="rank-name-dl">NO NAME 1161</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|43|589|<span class="rank-name-dl">水谷さんで〜す</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|44|588|<span class="rank-name-dl">ノーマーク山本</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|45|570|<span class="rank-name-dl">Runa</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|46|561|<span class="rank-name-dl">ｱﾀﾞﾁｾﾅ</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|47|536|<span class="rank-name-dl">カットゥーゾ</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|48|533|<span class="rank-name-dl">いさ</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|49|512|<span class="rank-name-dl">龍</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|50|511|<span class="rank-name-dl">Ｋ</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|51|510|<span class="rank-name-dl">F・NARU76</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|52|506|<span class="rank-name-dl">けんえい</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|53|503|<span class="rank-name-dl">なお</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|54|500|<span class="rank-name-dl">オ•へウォン</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|55|473|<span class="rank-name-dl">るのち</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|56|471|<span class="rank-name-dl">ひでじ@巡業中</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|57|466|<span class="rank-name-dl">カリフラワー</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|58|448|<span class="rank-name-dl">☆きっとササキ★</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|59|430|<span class="rank-name-dl">だいふく</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|60|415|<span class="rank-name-dl">mattu</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|61|405|<span class="rank-name-dl">まい✳︎</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|62|404|<span class="rank-name-dl">mi</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|63|397|<span class="rank-name-dl">natsuki</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|64|379|<span class="rank-name-dl">まつもと</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|65|365|<span class="rank-name-dl">hana</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|66|322|<span class="rank-name-dl">ゆきちゃん</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|1|1169|<span class="rank-name-dl">Yossy</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|2|1166|<span class="rank-name-dl">釜谷 能弘</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|3|1135|<span class="rank-name-dl">hayato</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|4|1117|<span class="rank-name-dl">おぐりん</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|5|1079|<span class="rank-name-dl">嶋崎一翠</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|6|1050|<span class="rank-name-dl">けいた</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|7|1049|<span class="rank-name-dl">にしける</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|8|1041|<span class="rank-name-dl">Ippei</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|9|1038|<span class="rank-name-dl">じゅんじ</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|10|1021|<span class="rank-name-dl">ｶｰｽﾞ=ﾌｨｰﾛ</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|11|994|<span class="rank-name-dl">T STYLE</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|12|976|<span class="rank-name-dl">ko-kun☆</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|12|976|<span class="rank-name-dl">ふじさきスパニー</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|14|975|<span class="rank-name-dl">あべし</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|15|961|<span class="rank-name-dl">そにーそ</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|16|957|<span class="rank-name-dl">ko-chu★★</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|17|937|<span class="rank-name-dl">ジェレミア卿</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|18|931|<span class="rank-name-dl">にしける</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|19|930|<span class="rank-name-dl">嶋崎二翠</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|20|928|<span class="rank-name-dl">★ゆう★</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|21|920|<span class="rank-name-dl">(゜ー゜)</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|22|914|<span class="rank-name-dl">福助</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|23|912|<span class="rank-name-dl">Tｰsuke〆愛州</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|24|908|<span class="rank-name-dl">RYO(〃&#x27;▽&#x27;〃)</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|25|906|<span class="rank-name-dl">福ちゃん〆愛州</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|26|905|<span class="rank-name-dl">がんがん</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|27|899|<span class="rank-name-dl">anδ_δan</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|28|897|<span class="rank-name-dl">オレ( ´ ▽ ` )ﾉ</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|28|897|<span class="rank-name-dl">ジェレミア</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|30|892|<span class="rank-name-dl">早川 航平</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|31|889|<span class="rank-name-dl">KOH</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|32|885|<span class="rank-name-dl">やらないか</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|33|884|<span class="rank-name-dl">波野 イクラ</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|34|883|<span class="rank-name-dl">ぴーへっど♘</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|35|866|<span class="rank-name-dl">宇宙戦艦</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|36|859|<span class="rank-name-dl">ボンド@ｸﾞﾗｯﾂｪ</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|37|852|<span class="rank-name-dl">あがぁーyu～shin</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|38|850|<span class="rank-name-dl">TAKUtaku</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|38|850|<span class="rank-name-dl">あらぁぁきぃぃ〆</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|40|849|<span class="rank-name-dl">Aiki</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|41|842|<span class="rank-name-dl">ぺんぺ</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|42|839|<span class="rank-name-dl">すし〆太郎</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|43|833|<span class="rank-name-dl">KAZU</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|44|831|<span class="rank-name-dl">Yoshimitsu</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|45|829|<span class="rank-name-dl">( ・∇・)</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|46|807|<span class="rank-name-dl">Kaname</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|47|787|<span class="rank-name-dl">NO NAME 9408</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|47|787|<span class="rank-name-dl">福ちゃん〆愛州</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|49|786|<span class="rank-name-dl">ﾃﾞｽﾗﾋﾞｯﾄ</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|50|777|<span class="rank-name-dl">ヤベチャン</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|51|774|<span class="rank-name-dl">りう</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|52|772|<span class="rank-name-dl">pi/(_ﾛ_;/)ｼ木</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|53|771|<span class="rank-name-dl">マグロマン</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|54|770|<span class="rank-name-dl">甲斐 亮太</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|55|763|<span class="rank-name-dl">龍桜</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|56|761|<span class="rank-name-dl">じゅーーーん</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|57|753|<span class="rank-name-dl">kilyn</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|58|749|<span class="rank-name-dl">イワ</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|58|749|<span class="rank-name-dl">スモーキー</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|60|748|<span class="rank-name-dl">あがぁーyu～shin</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|61|734|<span class="rank-name-dl">✞ゆいまる✞</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|61|734|<span class="rank-name-dl">えのきだけ</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|63|732|<span class="rank-name-dl">毛虫</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|64|724|<span class="rank-name-dl">Ayaka</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|65|723|<span class="rank-name-dl">104634　RYOSUKE</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|65|723|<span class="rank-name-dl">パスタ巻いてる？</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|67|719|<span class="rank-name-dl">てっかまき</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|68|717|<span class="rank-name-dl">天ドンman</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|69|716|<span class="rank-name-dl">ゴロー蛇骨山</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|70|709|<span class="rank-name-dl">ハルカンパニー</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|71|701|<span class="rank-name-dl">しょーきは本気</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|71|701|<span class="rank-name-dl">シェリー</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|73|700|<span class="rank-name-dl">いっき</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|74|681|<span class="rank-name-dl">りへい</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|75|678|<span class="rank-name-dl">テイラー・ブル</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|76|677|<span class="rank-name-dl">pi/(_ﾛ_;/)ｼ木</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|77|667|<span class="rank-name-dl">ＣＲＯＷＮ</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|78|665|<span class="rank-name-dl">しもん</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|79|663|<span class="rank-name-dl">Ryo-Suke</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|79|663|<span class="rank-name-dl">たいち</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|81|657|<span class="rank-name-dl">おかゆ</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|82|650|<span class="rank-name-dl">Ast</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|83|645|<span class="rank-name-dl">RUM</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|84|636|<span class="rank-name-dl">mai</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|85|631|<span class="rank-name-dl">RYOJI</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|86|628|<span class="rank-name-dl">seiya</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|86|628|<span class="rank-name-dl">yuto</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|88|620|<span class="rank-name-dl">しょーへー</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|89|618|<span class="rank-name-dl">れん</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|90|614|<span class="rank-name-dl">お玉</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|91|611|<span class="rank-name-dl">omizu509</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|92|609|<span class="rank-name-dl">阿修羅男爵</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|93|601|<span class="rank-name-dl">ぺんぺ</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|93|601|<span class="rank-name-dl">もっち</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|95|595|<span class="rank-name-dl">NO NAME 1161</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|96|589|<span class="rank-name-dl">水谷さんで〜す</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|97|588|<span class="rank-name-dl">ノーマーク山本</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|98|575|<span class="rank-name-dl">なお</span>|<a href="https://search.dartslive.com/jp/shop/14735f95f4d995465f9f3321c1147265">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|99|571|<span class="rank-name-dl">くるみ</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|100|570|<span class="rank-name-dl">Runa</span>|<a href="https://search.dartslive.com/jp/shop/18e2087a780dc58af454cb89828a1cfe">JOYJOY大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
 
 
 #### PHOENIXDARTS TOP 100
@@ -207,101 +241,106 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1135|<span class="rank-name-pd">Yossy</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|2|1121|<span class="rank-name-pd">よっしー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|1|1200|<span class="rank-name-pd">Yossy</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|2|1169|<span class="rank-name-pd">よっしー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
 |3|1090|<span class="rank-name-pd">おぐりん。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|4|990|<span class="rank-name-pd">PELU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|5|978|<span class="rank-name-pd">hayato</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|6|930|<span class="rank-name-pd"><span class="pro-icon-pd"></span>甲斐 亮太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|7|928|<span class="rank-name-pd">ｷｭｱﾊﾟﾅそにっく</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|8|905|<span class="rank-name-pd">ジェレミア卿</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|9|894|<span class="rank-name-pd">0025_4700</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|10|885|<span class="rank-name-pd">KO--CHU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|11|858|<span class="rank-name-pd">KO--CHU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|12|856|<span class="rank-name-pd">Ryuji</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|13|851|<span class="rank-name-pd">波野イクラ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|14|827|<span class="rank-name-pd">にっしー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79720?s_seq=79720">JOYJOY 大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|15|826|<span class="rank-name-pd">SIN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|16|811|<span class="rank-name-pd">スウ☆彡</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|17|807|<span class="rank-name-pd">T-suke</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|18|804|<span class="rank-name-pd">コパンダ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|19|800|<span class="rank-name-pd">ジェレミア</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|20|778|<span class="rank-name-pd">ビビ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|21|776|<span class="rank-name-pd">PACHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|22|769|<span class="rank-name-pd">AZU5572</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|23|765|<span class="rank-name-pd">Ryu🐉💫</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|24|759|<span class="rank-name-pd">現在カコ未来 ２</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|25|743|<span class="rank-name-pd">けむし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|26|737|<span class="rank-name-pd">我は木偶なり使われて踊るなり</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79720?s_seq=79720">JOYJOY 大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|27|735|<span class="rank-name-pd">JUNJI [SEPA]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|28|733|<span class="rank-name-pd">リョウタ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79720?s_seq=79720">JOYJOY 大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|29|727|<span class="rank-name-pd">現在カコ未来</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|30|718|<span class="rank-name-pd">TAKUtaku</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|31|711|<span class="rank-name-pd">уμ～ζΗιη〆ちゃ銀</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|32|696|<span class="rank-name-pd">HARU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|32|696|<span class="rank-name-pd">st</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|32|696|<span class="rank-name-pd">リョウ(o^∀^o)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|35|663|<span class="rank-name-pd">pi/(_ﾛ_;/)ｼ木</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79720?s_seq=79720">JOYJOY 大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|35|663|<span class="rank-name-pd">しんせつ侍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|37|662|<span class="rank-name-pd">かまとし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|37|662|<span class="rank-name-pd">唯</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|39|657|<span class="rank-name-pd">カッサーノ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|40|640|<span class="rank-name-pd">ごっちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|41|639|<span class="rank-name-pd">yeah</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|42|638|<span class="rank-name-pd">Tana-john</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|43|626|<span class="rank-name-pd">Power</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|44|616|<span class="rank-name-pd">海男</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|45|615|<span class="rank-name-pd">Tｰ2  team RR</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|46|613|<span class="rank-name-pd">かずき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|47|611|<span class="rank-name-pd">T-suke</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79720?s_seq=79720">JOYJOY 大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|47|611|<span class="rank-name-pd">にょー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|49|594|<span class="rank-name-pd">KATSU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|50|586|<span class="rank-name-pd">りっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|51|584|<span class="rank-name-pd">ﾁﾘﾁﾘﾎﾞﾝﾊﾞｰ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|52|576|<span class="rank-name-pd">phoenica</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79720?s_seq=79720">JOYJOY 大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|53|570|<span class="rank-name-pd">KAZU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|54|559|<span class="rank-name-pd">세이 세이</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79720?s_seq=79720">JOYJOY 大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|55|556|<span class="rank-name-pd">またたび</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|56|554|<span class="rank-name-pd">徹底先行134</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79720?s_seq=79720">JOYJOY 大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|57|552|<span class="rank-name-pd">炭酸水</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|58|550|<span class="rank-name-pd">KAZU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|59|538|<span class="rank-name-pd">醤油</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|60|537|<span class="rank-name-pd">Ryo-Suke</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79720?s_seq=79720">JOYJOY 大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|61|536|<span class="rank-name-pd">RIN117</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|62|525|<span class="rank-name-pd">サークルKシャンクス</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79720?s_seq=79720">JOYJOY 大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|63|523|<span class="rank-name-pd">syumi(｡-_-...</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|63|523|<span class="rank-name-pd">ジャック</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|65|522|<span class="rank-name-pd">信長@Team-FR</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|66|520|<span class="rank-name-pd">☆たかし☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|67|514|<span class="rank-name-pd">コンギョ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79720?s_seq=79720">JOYJOY 大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|68|511|<span class="rank-name-pd">Hiropon</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|69|510|<span class="rank-name-pd">がんばるたなかさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|70|508|<span class="rank-name-pd">アるアる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|71|506|<span class="rank-name-pd">せい(￣^￣ゞ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79720?s_seq=79720">JOYJOY 大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|72|502|<span class="rank-name-pd">うえすぎ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79720?s_seq=79720">JOYJOY 大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|73|499|<span class="rank-name-pd">hidekiti</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|74|497|<span class="rank-name-pd">0052_7999</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79720?s_seq=79720">JOYJOY 大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|75|490|<span class="rank-name-pd">0147_3296</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|76|487|<span class="rank-name-pd">KYOHEI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|76|487|<span class="rank-name-pd">ゆいっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|78|468|<span class="rank-name-pd">けけーん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|79|462|<span class="rank-name-pd">★がり☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|80|461|<span class="rank-name-pd">なお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|81|460|<span class="rank-name-pd">KAZU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79720?s_seq=79720">JOYJOY 大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|82|444|<span class="rank-name-pd">haku_ashu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79720?s_seq=79720">JOYJOY 大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|83|434|<span class="rank-name-pd">yasu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|84|425|<span class="rank-name-pd">MIKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|85|424|<span class="rank-name-pd">keiju_03</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|86|418|<span class="rank-name-pd">カズチッチ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79720?s_seq=79720">JOYJOY 大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|87|368|<span class="rank-name-pd">イクイノックス</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|88|354|<span class="rank-name-pd">_pwm.t2</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79720?s_seq=79720">JOYJOY 大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|89|345|<span class="rank-name-pd">にしけるは倒せない</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79720?s_seq=79720">JOYJOY 大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|89|345|<span class="rank-name-pd">ふじメン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|91|333|<span class="rank-name-pd">ポータマペルシアン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|92|321|<span class="rank-name-pd">R</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|93|320|<span class="rank-name-pd">NABE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|94|261|<span class="rank-name-pd">^^</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
-|95|0|<span class="rank-name-pd">pi/(_ﾛ_;/)ｼ木</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|4|1018|<span class="rank-name-pd">嶋崎二翠</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|5|990|<span class="rank-name-pd">PELU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|6|978|<span class="rank-name-pd">hayato</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|7|969|<span class="rank-name-pd">NAOYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|8|959|<span class="rank-name-pd"><span class="pro-icon-pd"></span>川田 夏理武</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79720?s_seq=79720">JOYJOY 大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|9|930|<span class="rank-name-pd"><span class="pro-icon-pd"></span>甲斐 亮太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|10|928|<span class="rank-name-pd">ｷｭｱﾊﾟﾅそにっく</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|11|917|<span class="rank-name-pd">ippei</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|12|905|<span class="rank-name-pd">Panda@おにぎりゃーず</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|12|905|<span class="rank-name-pd">ジェレミア卿</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|14|901|<span class="rank-name-pd">st</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|15|898|<span class="rank-name-pd">6NaO9</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|16|894|<span class="rank-name-pd">0025_4700</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|17|888|<span class="rank-name-pd">an･an</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|18|885|<span class="rank-name-pd">KO--CHU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|19|884|<span class="rank-name-pd">スウ☆彡</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|20|873|<span class="rank-name-pd">にっしー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79720?s_seq=79720">JOYJOY 大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|21|865|<span class="rank-name-pd">やらないか</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|22|858|<span class="rank-name-pd">KO--CHU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|23|856|<span class="rank-name-pd">Ryuji</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|24|855|<span class="rank-name-pd">Ryu🐉💫</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|25|854|<span class="rank-name-pd">-RYO~King~-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|26|851|<span class="rank-name-pd">波野イクラ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|27|850|<span class="rank-name-pd">【Kidd】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79720?s_seq=79720">JOYJOY 大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|28|837|<span class="rank-name-pd">T-suke</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|29|831|<span class="rank-name-pd">AZU5572</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|30|826|<span class="rank-name-pd">SIN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|31|824|<span class="rank-name-pd">いっちー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|32|813|<span class="rank-name-pd">現在カコ未来 ２</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|33|804|<span class="rank-name-pd">コパンダ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|34|800|<span class="rank-name-pd">ジェレミア</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|35|798|<span class="rank-name-pd">けむし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|36|795|<span class="rank-name-pd">マグロマン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|37|780|<span class="rank-name-pd">TAKUtaku</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|38|778|<span class="rank-name-pd">ビビ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|39|776|<span class="rank-name-pd">PACHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|39|776|<span class="rank-name-pd">ひい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|41|775|<span class="rank-name-pd">かわぞう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|42|772|<span class="rank-name-pd">あがぁーゆーしん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|43|769|<span class="rank-name-pd">Halu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|44|764|<span class="rank-name-pd">唯</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|45|762|<span class="rank-name-pd">ゆかりのろくよん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|46|759|<span class="rank-name-pd">カッサーノ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|46|759|<span class="rank-name-pd">現在カコ未来 ２</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|48|751|<span class="rank-name-pd">[DON]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|49|748|<span class="rank-name-pd">musasi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|50|746|<span class="rank-name-pd">T.O.R☆Air Grow</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79720?s_seq=79720">JOYJOY 大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|51|737|<span class="rank-name-pd">我は木偶なり使われて踊るなり</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79720?s_seq=79720">JOYJOY 大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|52|735|<span class="rank-name-pd">JUNJI [SEPA]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|53|733|<span class="rank-name-pd">リョウタ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79720?s_seq=79720">JOYJOY 大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|54|727|<span class="rank-name-pd">KOH</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79720?s_seq=79720">JOYJOY 大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|54|727|<span class="rank-name-pd">現在カコ未来</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|56|719|<span class="rank-name-pd">よっぺい。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79720?s_seq=79720">JOYJOY 大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|56|719|<span class="rank-name-pd">シェリー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79720?s_seq=79720">JOYJOY 大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|58|718|<span class="rank-name-pd">悠</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|59|717|<span class="rank-name-pd">Yaguttttta!!!!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|60|711|<span class="rank-name-pd">уμ～ζΗιη〆ちゃ銀</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|61|710|<span class="rank-name-pd">phoenica</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79720?s_seq=79720">JOYJOY 大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|62|696|<span class="rank-name-pd">0111_2906</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|62|696|<span class="rank-name-pd">HARU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|62|696|<span class="rank-name-pd">リョウ(o^∀^o)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|65|689|<span class="rank-name-pd">かまとし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|66|680|<span class="rank-name-pd">ぢぢ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|67|677|<span class="rank-name-pd">pi/(_ﾛ_;/)ｼ木</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79720?s_seq=79720">JOYJOY 大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|68|675|<span class="rank-name-pd">RIDER☆Fourze</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|69|664|<span class="rank-name-pd">なっしー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79720?s_seq=79720">JOYJOY 大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|70|663|<span class="rank-name-pd">しんせつ侍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|71|660|<span class="rank-name-pd">KAz</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|72|658|<span class="rank-name-pd">時をかけるあいちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|73|648|<span class="rank-name-pd">minatori</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79720?s_seq=79720">JOYJOY 大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|74|645|<span class="rank-name-pd">pi/(_ﾛ_;/)ｼ木</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|75|643|<span class="rank-name-pd">VirtualCard</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79720?s_seq=79720">JOYJOY 大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|76|642|<span class="rank-name-pd">おはる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|77|641|<span class="rank-name-pd">ﾁﾘﾁﾘﾎﾞﾝﾊﾞｰ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|78|640|<span class="rank-name-pd">ごっちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|79|639|<span class="rank-name-pd">yeah</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|80|638|<span class="rank-name-pd">Tana-john</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|81|637|<span class="rank-name-pd">海男</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|82|634|<span class="rank-name-pd">Zygot</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|83|629|<span class="rank-name-pd">がんばるたなかさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|84|627|<span class="rank-name-pd">fran</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|85|626|<span class="rank-name-pd">Power</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|86|620|<span class="rank-name-pd">TOMO~KING~</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|86|620|<span class="rank-name-pd">秀虎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|88|617|<span class="rank-name-pd">str</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|89|615|<span class="rank-name-pd">Tｰ2  team RR</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|90|613|<span class="rank-name-pd">かずき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|91|611|<span class="rank-name-pd">T-suke</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79720?s_seq=79720">JOYJOY 大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|91|611|<span class="rank-name-pd">skgzykm</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|91|611|<span class="rank-name-pd">にょー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|94|610|<span class="rank-name-pd">貞 子</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79720?s_seq=79720">JOYJOY 大府共和店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|95|596|<span class="rank-name-pd">デスラビット🐰Pleasure</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|96|594|<span class="rank-name-pd">KATSU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|97|589|<span class="rank-name-pd">霧夢</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|98|586|<span class="rank-name-pd">りっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|99|585|<span class="rank-name-pd">HAMAMETAL</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7417?s_seq=7417">Four Roses</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
+|100|582|<span class="rank-name-pd">むさ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9200?s_seq=9200">自遊空間 大府店</a>|<a href="/darts/rank/愛知県/大府市">愛知県大府市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

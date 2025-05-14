@@ -23,106 +23,106 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1062|<span class="rank-name-dl">チョコりんU^ｴ^U</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|2|1058|<span class="rank-name-pd">まさちょ☆寿組☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|3|1049|<span class="rank-name-dl">まさちょ</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|4|1014|<span class="rank-name-pd">くろ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10745?s_seq=10745">メディアカフェ ポパイ下関山の田店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|5|1002|<span class="rank-name-dl">吉岡　裕也</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|6|1000|<span class="rank-name-dl">Maityi</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|7|979|<span class="rank-name-dl">まさちょ</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|8|978|<span class="rank-name-dl">ゆってぃ</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|9|972|<span class="rank-name-dl">NO NAME 2466</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|10|957|<span class="rank-name-pd">CARD NAME</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|10|957|<span class="rank-name-pd">k-sk-寿組？</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|12|956|<span class="rank-name-pd">上田 真之</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|13|954|<span class="rank-name-dl">てぃー</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|14|952|<span class="rank-name-dl">Maityi</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|14|952|<span class="rank-name-dl">あっきぃ~☆</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|16|949|<span class="rank-name-pd">QPS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|17|948|<span class="rank-name-dl">あっきぃ~☆</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|18|945|<span class="rank-name-pd">tomo@Fdays</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|19|944|<span class="rank-name-dl">ダイスケ</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|20|936|<span class="rank-name-dl">IMS</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|21|933|<span class="rank-name-dl">SIGMA</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|22|931|<span class="rank-name-dl">910</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|22|931|<span class="rank-name-dl">トロピカーナ</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|24|925|<span class="rank-name-dl">ゆってぃ</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|25|923|<span class="rank-name-dl">k@zu</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|26|917|<span class="rank-name-pd">*yu-ki*</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|27|914|<span class="rank-name-pd">Maithi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|28|913|<span class="rank-name-dl">まさちょ</span>|<a href="https://search.dartslive.com/jp/shop/78213b693b704daa790ab824ce8730e5">GENIUS 3000</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|29|902|<span class="rank-name-dl">タオ・ｵパイｵパイ</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|30|889|<span class="rank-name-dl">REI16</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|31|887|<span class="rank-name-dl">ユヤ丸</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|32|884|<span class="rank-name-pd">Maithi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|33|882|<span class="rank-name-dl">テラコッタ</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|34|881|<span class="rank-name-dl">如月 爛花,</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|35|880|<span class="rank-name-pd">TAKE-KORO (-_-)zzz</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|36|873|<span class="rank-name-pd">yu-suke@Fdays</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|37|871|<span class="rank-name-dl">kumi☆</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|38|863|<span class="rank-name-dl">みっとん</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|39|862|<span class="rank-name-dl">こーたろ</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|40|857|<span class="rank-name-pd">yu-suke@Fdays</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|41|854|<span class="rank-name-dl">ユヤ丸</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|42|851|<span class="rank-name-dl">⭐︎德海乃島⭐︎</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|42|851|<span class="rank-name-dl">レム</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|44|849|<span class="rank-name-pd">Daisuke</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|45|846|<span class="rank-name-pd">tomo@Fdays</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|46|845|<span class="rank-name-dl">Makky</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|47|842|<span class="rank-name-dl">おぢゃる☆</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|48|841|<span class="rank-name-dl">おぢゃる☆</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|49|839|<span class="rank-name-dl">キー君</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|50|837|<span class="rank-name-dl">りゅーき@万作</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|50|837|<span class="rank-name-dl">フルヤトシオ</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|52|831|<span class="rank-name-dl">Kazu@孤独な旅人</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|53|824|<span class="rank-name-dl">IMS</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|53|824|<span class="rank-name-pd">Kumagoro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|55|822|<span class="rank-name-pd">マッキー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|56|818|<span class="rank-name-dl">KEIICHI&#x27;</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|57|817|<span class="rank-name-dl">サイババギター♪</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|58|816|<span class="rank-name-dl">aori-mate</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|58|816|<span class="rank-name-dl">mrtd</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|60|811|<span class="rank-name-pd">MAME</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|60|811|<span class="rank-name-pd">まさちょ☆寿組☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|62|809|<span class="rank-name-pd">ume.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|63|805|<span class="rank-name-dl">みっとん</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|64|800|<span class="rank-name-dl">A・F・C</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|64|800|<span class="rank-name-dl">NoRI</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|64|800|<span class="rank-name-dl">もっこ！</span>|<a href="https://search.dartslive.com/jp/shop/78213b693b704daa790ab824ce8730e5">GENIUS 3000</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|67|792|<span class="rank-name-pd">シソ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|68|785|<span class="rank-name-pd">☆βιКкё☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|69|777|<span class="rank-name-pd">0146_5790</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|70|776|<span class="rank-name-pd">かまモン*T-T*</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|71|757|<span class="rank-name-dl">ダイスケ</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|72|755|<span class="rank-name-pd">ドンゴロス</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|73|750|<span class="rank-name-pd">うっきー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|74|742|<span class="rank-name-pd">MAME</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|75|740|<span class="rank-name-pd">Enano</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|75|740|<span class="rank-name-pd">わらびもち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|77|737|<span class="rank-name-pd">くろろろ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10745?s_seq=10745">メディアカフェ ポパイ下関山の田店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|78|726|<span class="rank-name-pd">*yu-ki*</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|79|723|<span class="rank-name-pd">H.Tatsuya</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|80|717|<span class="rank-name-pd">サイババギター</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|81|709|<span class="rank-name-pd">ミツ♪寿組</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|82|701|<span class="rank-name-pd">マッキー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|83|697|<span class="rank-name-pd">Yuuki555</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|84|691|<span class="rank-name-dl">tomo</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|85|688|<span class="rank-name-pd">ミツ♪寿組</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10745?s_seq=10745">メディアカフェ ポパイ下関山の田店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|86|687|<span class="rank-name-pd">K-寿組-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|87|684|<span class="rank-name-pd">Enano</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|88|683|<span class="rank-name-pd">シソ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|89|678|<span class="rank-name-pd">zrl635ca1c55e2</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|89|678|<span class="rank-name-pd">冬霧(とうむ).寿組</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|91|671|<span class="rank-name-pd">tats.61</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|92|667|<span class="rank-name-pd">[sakurako]suki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|93|666|<span class="rank-name-pd">おぢゃこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|94|665|<span class="rank-name-pd">如月 爛花,</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|95|659|<span class="rank-name-pd">十六夜 蒼月</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|96|648|<span class="rank-name-dl">三代目MATSU</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|97|645|<span class="rank-name-pd">がたお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|98|643|<span class="rank-name-pd">せ-ﾁｬﾝ∞華組×B.R∞</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|99|635|<span class="rank-name-pd">H.Tatsuya</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|99|635|<span class="rank-name-pd">Hys&#x27;</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|1|1112|<span class="rank-name-pd">QPS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|2|1065|<span class="rank-name-dl">長井辰之輔</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|3|1062|<span class="rank-name-dl">チョコりんU^ｴ^U</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|4|1058|<span class="rank-name-pd">まさちょ☆寿組☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|5|1054|<span class="rank-name-dl">ダイスケ</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|6|1049|<span class="rank-name-dl">まさちょ</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|7|1038|<span class="rank-name-pd"><span class="pro-icon-pd"></span>白石 友貴</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|8|1029|<span class="rank-name-dl">長井 辰之輔</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|9|1024|<span class="rank-name-dl">MOKO</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|10|1014|<span class="rank-name-pd">くろ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10745?s_seq=10745">メディアカフェ ポパイ下関山の田店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|11|1006|<span class="rank-name-pd">Maithi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|11|1006|<span class="rank-name-dl">τοττιε</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|11|1006|<span class="rank-name-pd"><span class="pro-icon-pd"></span>津留 悠太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|14|1002|<span class="rank-name-dl">吉岡　裕也</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|15|1000|<span class="rank-name-dl">Maityi</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|16|998|<span class="rank-name-dl">あっきぃ~☆</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|17|994|<span class="rank-name-dl">ダイスケ</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|18|989|<span class="rank-name-dl">あっきぃ~☆</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|19|980|<span class="rank-name-dl">Hys&#x27;</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|20|979|<span class="rank-name-dl">まさちょ</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|21|978|<span class="rank-name-dl">ゆってぃ</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|21|978|<span class="rank-name-dl">トロピカーナ</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|23|972|<span class="rank-name-dl">NO NAME 2466</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|24|971|<span class="rank-name-pd">CARD NAME</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|25|970|<span class="rank-name-pd">kumi☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|25|970|<span class="rank-name-pd">まさちょ☆寿組☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|27|966|<span class="rank-name-dl">こーたろ</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|27|966|<span class="rank-name-pd">上田 真之</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|29|965|<span class="rank-name-dl">ユーイ</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|29|965|<span class="rank-name-pd">Ｍａｓａｈｉｒｏ.Ａ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|31|957|<span class="rank-name-pd">k-sk-寿組？</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|32|954|<span class="rank-name-dl">てぃー</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|33|953|<span class="rank-name-dl">Nori♪</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|34|952|<span class="rank-name-dl">Maityi</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|34|952|<span class="rank-name-dl">τοττιε</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|36|951|<span class="rank-name-dl">ユーイ</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|37|948|<span class="rank-name-pd">逆太郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|38|945|<span class="rank-name-pd">tomo@Fdays</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|39|943|<span class="rank-name-pd"><span class="pro-icon-pd"></span>白石 友貴</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|40|936|<span class="rank-name-dl">IMS</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|41|933|<span class="rank-name-dl">910</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|41|933|<span class="rank-name-dl">SIGMA</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|43|928|<span class="rank-name-pd">佐藤</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|44|925|<span class="rank-name-dl">ゆってぃ</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|45|923|<span class="rank-name-dl">k@zu</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|46|917|<span class="rank-name-pd">*yu-ki*</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|47|916|<span class="rank-name-dl">ずくに〜</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|48|913|<span class="rank-name-dl">まさちょ</span>|<a href="https://search.dartslive.com/jp/shop/78213b693b704daa790ab824ce8730e5">GENIUS 3000</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|49|911|<span class="rank-name-dl">Makky</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|49|911|<span class="rank-name-dl">けいくん</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|51|910|<span class="rank-name-pd">まさちょ☆寿組☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10745?s_seq=10745">メディアカフェ ポパイ下関山の田店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|52|905|<span class="rank-name-dl">くまーー</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|53|904|<span class="rank-name-dl">NoRI</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|53|904|<span class="rank-name-dl">yu-suke</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|55|902|<span class="rank-name-dl">タオ・ｵパイｵパイ</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|56|897|<span class="rank-name-dl">りゅーき@N.U.K</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|57|895|<span class="rank-name-pd">Maithi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|58|893|<span class="rank-name-dl">フ(●´ω｀●)ミ</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|59|889|<span class="rank-name-dl">REI16</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|60|887|<span class="rank-name-dl">ユヤ丸</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|61|883|<span class="rank-name-pd">マッキー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|62|882|<span class="rank-name-dl">テラコッタ</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|63|881|<span class="rank-name-dl">如月 爛花,</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|64|880|<span class="rank-name-pd">TAKE-KORO (-_-)zzz</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|65|877|<span class="rank-name-pd"><span class="pro-icon-pd"></span>和田 祐樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|65|877|<span class="rank-name-dl">如月 爛花,</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|67|873|<span class="rank-name-dl">Yuki555</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|67|873|<span class="rank-name-pd">yu-suke@Fdays</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|69|871|<span class="rank-name-dl">ハコりり</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|70|868|<span class="rank-name-dl">tomo</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|71|865|<span class="rank-name-dl">三代目MATSU</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|72|863|<span class="rank-name-dl">KEIICHI&#x27;</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|72|863|<span class="rank-name-dl">みっとん</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|74|857|<span class="rank-name-pd">yu-suke@Fdays</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|74|857|<span class="rank-name-dl">湾児</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|76|855|<span class="rank-name-dl">赤い大きい車</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|77|854|<span class="rank-name-dl">ユヤ丸</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|78|851|<span class="rank-name-dl">Lelouch</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|78|851|<span class="rank-name-dl">⭐︎德海乃島⭐︎</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|78|851|<span class="rank-name-dl">レム</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|81|849|<span class="rank-name-pd">Daisuke</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|82|848|<span class="rank-name-pd">Yuuki555</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|83|846|<span class="rank-name-pd">tomo@Fdays</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|83|846|<span class="rank-name-dl">みっとん</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|85|845|<span class="rank-name-dl">Makky</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|86|842|<span class="rank-name-dl">おぢゃる☆</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|87|841|<span class="rank-name-dl">おぢゃる☆</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|87|841|<span class="rank-name-pd">かずきち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|89|839|<span class="rank-name-pd">あすか★ｱｵﾘｰﾒｲﾄ★</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|89|839|<span class="rank-name-pd">みお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|89|839|<span class="rank-name-dl">キー君</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|92|837|<span class="rank-name-dl">りゅーき@万作</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|92|837|<span class="rank-name-dl">フルヤトシオ</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|94|835|<span class="rank-name-dl">tomo</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|95|834|<span class="rank-name-pd">番長♪寿組</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|96|831|<span class="rank-name-pd">Helter Skelter</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|96|831|<span class="rank-name-dl">Kazu@孤独な旅人</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|98|824|<span class="rank-name-dl">IMS</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|98|824|<span class="rank-name-pd">Kumagoro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|100|822|<span class="rank-name-pd">マッキー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -132,79 +132,106 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1062|<span class="rank-name-dl">チョコりんU^ｴ^U</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|2|1049|<span class="rank-name-dl">まさちょ</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|3|1002|<span class="rank-name-dl">吉岡　裕也</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|4|1000|<span class="rank-name-dl">Maityi</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|5|979|<span class="rank-name-dl">まさちょ</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|6|978|<span class="rank-name-dl">ゆってぃ</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|7|972|<span class="rank-name-dl">NO NAME 2466</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|8|954|<span class="rank-name-dl">てぃー</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|9|952|<span class="rank-name-dl">Maityi</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|9|952|<span class="rank-name-dl">あっきぃ~☆</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|11|948|<span class="rank-name-dl">あっきぃ~☆</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|12|944|<span class="rank-name-dl">ダイスケ</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|13|936|<span class="rank-name-dl">IMS</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|14|933|<span class="rank-name-dl">SIGMA</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|15|931|<span class="rank-name-dl">910</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|15|931|<span class="rank-name-dl">トロピカーナ</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|17|925|<span class="rank-name-dl">ゆってぃ</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|18|923|<span class="rank-name-dl">k@zu</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|19|913|<span class="rank-name-dl">まさちょ</span>|<a href="https://search.dartslive.com/jp/shop/78213b693b704daa790ab824ce8730e5">GENIUS 3000</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|20|902|<span class="rank-name-dl">タオ・ｵパイｵパイ</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|21|889|<span class="rank-name-dl">REI16</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|22|887|<span class="rank-name-dl">ユヤ丸</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|23|882|<span class="rank-name-dl">テラコッタ</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|24|881|<span class="rank-name-dl">如月 爛花,</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|25|871|<span class="rank-name-dl">kumi☆</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|26|863|<span class="rank-name-dl">みっとん</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|27|862|<span class="rank-name-dl">こーたろ</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|28|854|<span class="rank-name-dl">ユヤ丸</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|29|851|<span class="rank-name-dl">⭐︎德海乃島⭐︎</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|29|851|<span class="rank-name-dl">レム</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|31|845|<span class="rank-name-dl">Makky</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|32|842|<span class="rank-name-dl">おぢゃる☆</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|33|841|<span class="rank-name-dl">おぢゃる☆</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|34|839|<span class="rank-name-dl">キー君</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|35|837|<span class="rank-name-dl">りゅーき@万作</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|35|837|<span class="rank-name-dl">フルヤトシオ</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|37|831|<span class="rank-name-dl">Kazu@孤独な旅人</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|38|824|<span class="rank-name-dl">IMS</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|39|818|<span class="rank-name-dl">KEIICHI&#x27;</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|40|817|<span class="rank-name-dl">サイババギター♪</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|41|816|<span class="rank-name-dl">aori-mate</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|41|816|<span class="rank-name-dl">mrtd</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|43|805|<span class="rank-name-dl">みっとん</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|44|800|<span class="rank-name-dl">A・F・C</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|44|800|<span class="rank-name-dl">NoRI</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|44|800|<span class="rank-name-dl">もっこ！</span>|<a href="https://search.dartslive.com/jp/shop/78213b693b704daa790ab824ce8730e5">GENIUS 3000</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|47|775|<span class="rank-name-dl">シソ</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|48|757|<span class="rank-name-dl">ダイスケ</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|49|691|<span class="rank-name-dl">tomo</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|50|648|<span class="rank-name-dl">三代目MATSU</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|51|628|<span class="rank-name-dl">ワス</span>|<a href="https://search.dartslive.com/jp/shop/78213b693b704daa790ab824ce8730e5">GENIUS 3000</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|52|617|<span class="rank-name-dl">まっつぅぁん</span>|<a href="https://search.dartslive.com/jp/shop/78213b693b704daa790ab824ce8730e5">GENIUS 3000</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|53|601|<span class="rank-name-dl">Tutti</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|54|592|<span class="rank-name-dl">てぃー</span>|<a href="https://search.dartslive.com/jp/shop/78213b693b704daa790ab824ce8730e5">GENIUS 3000</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|55|590|<span class="rank-name-dl">コリトリス</span>|<a href="https://search.dartslive.com/jp/shop/78213b693b704daa790ab824ce8730e5">GENIUS 3000</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|56|585|<span class="rank-name-dl">右斜め上から448</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|57|578|<span class="rank-name-dl">machu 3510</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|58|568|<span class="rank-name-dl">ミッツ♪寿組</span>|<a href="https://search.dartslive.com/jp/shop/78213b693b704daa790ab824ce8730e5">GENIUS 3000</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|59|554|<span class="rank-name-dl">kei</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|60|552|<span class="rank-name-dl">きゃな</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|61|545|<span class="rank-name-dl">ぷに</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|62|531|<span class="rank-name-dl">Kaho</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|63|530|<span class="rank-name-dl">SIGMA(セパ)</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|64|528|<span class="rank-name-dl">Kaho</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|65|517|<span class="rank-name-dl">ミッチ</span>|<a href="https://search.dartslive.com/jp/shop/78213b693b704daa790ab824ce8730e5">GENIUS 3000</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|66|510|<span class="rank-name-dl">ぷに</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|67|459|<span class="rank-name-dl">あんげちゃん</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|68|430|<span class="rank-name-dl">いいちこ</span>|<a href="https://search.dartslive.com/jp/shop/78213b693b704daa790ab824ce8730e5">GENIUS 3000</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|69|419|<span class="rank-name-dl">ジン</span>|<a href="https://search.dartslive.com/jp/shop/78213b693b704daa790ab824ce8730e5">GENIUS 3000</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|70|407|<span class="rank-name-dl">ねこたんぬ</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|71|391|<span class="rank-name-dl">ねこたんぬ</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|72|338|<span class="rank-name-dl">☆寿♪奈美♪組☆</span>|<a href="https://search.dartslive.com/jp/shop/78213b693b704daa790ab824ce8730e5">GENIUS 3000</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|73|250|<span class="rank-name-dl">みゆ</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|1|1065|<span class="rank-name-dl">長井辰之輔</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|2|1062|<span class="rank-name-dl">チョコりんU^ｴ^U</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|3|1054|<span class="rank-name-dl">ダイスケ</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|4|1049|<span class="rank-name-dl">まさちょ</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|5|1029|<span class="rank-name-dl">長井 辰之輔</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|6|1024|<span class="rank-name-dl">MOKO</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|7|1006|<span class="rank-name-dl">τοττιε</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|8|1002|<span class="rank-name-dl">吉岡　裕也</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|9|1000|<span class="rank-name-dl">Maityi</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|10|998|<span class="rank-name-dl">あっきぃ~☆</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|11|994|<span class="rank-name-dl">ダイスケ</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|12|989|<span class="rank-name-dl">あっきぃ~☆</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|13|980|<span class="rank-name-dl">Hys&#x27;</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|14|979|<span class="rank-name-dl">まさちょ</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|15|978|<span class="rank-name-dl">ゆってぃ</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|15|978|<span class="rank-name-dl">トロピカーナ</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|17|972|<span class="rank-name-dl">NO NAME 2466</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|18|966|<span class="rank-name-dl">こーたろ</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|19|965|<span class="rank-name-dl">ユーイ</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|20|954|<span class="rank-name-dl">てぃー</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|21|953|<span class="rank-name-dl">Nori♪</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|22|952|<span class="rank-name-dl">Maityi</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|22|952|<span class="rank-name-dl">τοττιε</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|24|951|<span class="rank-name-dl">ユーイ</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|25|940|<span class="rank-name-dl">kumi☆</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|26|936|<span class="rank-name-dl">IMS</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|27|933|<span class="rank-name-dl">910</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|27|933|<span class="rank-name-dl">SIGMA</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|29|925|<span class="rank-name-dl">ゆってぃ</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|30|923|<span class="rank-name-dl">k@zu</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|31|916|<span class="rank-name-dl">ずくに〜</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|32|913|<span class="rank-name-dl">まさちょ</span>|<a href="https://search.dartslive.com/jp/shop/78213b693b704daa790ab824ce8730e5">GENIUS 3000</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|33|911|<span class="rank-name-dl">Makky</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|33|911|<span class="rank-name-dl">けいくん</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|35|905|<span class="rank-name-dl">くまーー</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|36|904|<span class="rank-name-dl">NoRI</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|36|904|<span class="rank-name-dl">yu-suke</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|38|902|<span class="rank-name-dl">タオ・ｵパイｵパイ</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|39|897|<span class="rank-name-dl">りゅーき@N.U.K</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|40|893|<span class="rank-name-dl">フ(●´ω｀●)ミ</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|41|889|<span class="rank-name-dl">REI16</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|42|887|<span class="rank-name-dl">ユヤ丸</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|43|885|<span class="rank-name-dl">佐藤</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|44|882|<span class="rank-name-dl">テラコッタ</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|45|881|<span class="rank-name-dl">如月 爛花,</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|46|877|<span class="rank-name-dl">如月 爛花,</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|47|873|<span class="rank-name-dl">Yuki555</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|48|871|<span class="rank-name-dl">ハコりり</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|49|868|<span class="rank-name-dl">tomo</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|50|865|<span class="rank-name-dl">三代目MATSU</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|51|863|<span class="rank-name-dl">KEIICHI&#x27;</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|51|863|<span class="rank-name-dl">みっとん</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|53|857|<span class="rank-name-dl">湾児</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|54|855|<span class="rank-name-dl">赤い大きい車</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|55|854|<span class="rank-name-dl">ユヤ丸</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|56|851|<span class="rank-name-dl">Lelouch</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|56|851|<span class="rank-name-dl">⭐︎德海乃島⭐︎</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|56|851|<span class="rank-name-dl">レム</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|59|846|<span class="rank-name-dl">みっとん</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|60|845|<span class="rank-name-dl">Makky</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|61|842|<span class="rank-name-dl">おぢゃる☆</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|62|841|<span class="rank-name-dl">おぢゃる☆</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|63|839|<span class="rank-name-dl">キー君</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|64|837|<span class="rank-name-dl">りゅーき@万作</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|64|837|<span class="rank-name-dl">フルヤトシオ</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|66|835|<span class="rank-name-dl">tomo</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|67|831|<span class="rank-name-dl">Kazu@孤独な旅人</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|68|824|<span class="rank-name-dl">IMS</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|69|817|<span class="rank-name-dl">サイババギター♪</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|70|816|<span class="rank-name-dl">aori-mate</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|70|816|<span class="rank-name-dl">mrtd</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|72|815|<span class="rank-name-dl">Ｎ</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|73|811|<span class="rank-name-dl">マサﾃﾙ@one vitz</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|74|810|<span class="rank-name-dl">ゆーたろー</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|75|809|<span class="rank-name-dl">DRST. SatC</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|76|808|<span class="rank-name-dl">Andromeda-瞬</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|77|805|<span class="rank-name-dl">みお</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|78|800|<span class="rank-name-dl">A・F・C</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|78|800|<span class="rank-name-dl">もっこ！</span>|<a href="https://search.dartslive.com/jp/shop/78213b693b704daa790ab824ce8730e5">GENIUS 3000</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|80|795|<span class="rank-name-dl">マサﾃﾙ@one vitz</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|81|787|<span class="rank-name-dl">Arua</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|82|785|<span class="rank-name-dl">NO NAME 3319</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|83|776|<span class="rank-name-dl">みどー</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|84|775|<span class="rank-name-dl">シソ</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|85|773|<span class="rank-name-dl">まっちゃ</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|86|772|<span class="rank-name-dl">へたっぴ〜</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|87|767|<span class="rank-name-dl">ヨシカズ</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|88|765|<span class="rank-name-dl">もっこ</span>|<a href="https://search.dartslive.com/jp/shop/78213b693b704daa790ab824ce8730e5">GENIUS 3000</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|89|762|<span class="rank-name-dl">defujam</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|90|761|<span class="rank-name-dl">バンチョ～♪</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|91|749|<span class="rank-name-dl">みゅう</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|92|746|<span class="rank-name-dl">yufa</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|93|729|<span class="rank-name-dl">GF</span>|<a href="https://search.dartslive.com/jp/shop/78213b693b704daa790ab824ce8730e5">GENIUS 3000</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|94|726|<span class="rank-name-dl">給食団</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|95|717|<span class="rank-name-dl">十六夜 蒼月</span>|<a href="https://search.dartslive.com/jp/shop/4e8fa93f067c4b36a3f63593b5358cc4">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|96|689|<span class="rank-name-dl">まーくん</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|97|686|<span class="rank-name-dl">しゃと〜る@鏑矢</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|98|677|<span class="rank-name-dl">たなしょー</span>|<a href="https://search.dartslive.com/jp/shop/78213b693b704daa790ab824ce8730e5">GENIUS 3000</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|99|670|<span class="rank-name-dl">Masashi☆</span>|<a href="https://search.dartslive.com/jp/shop/cc47c9d364db45bf5f9f3321c1147265">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|100|668|<span class="rank-name-dl">NO NAME 8839</span>|<a href="https://search.dartslive.com/jp/shop/78213b693b704daa790ab824ce8730e5">GENIUS 3000</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
 
 
 #### PHOENIXDARTS TOP 100
@@ -214,106 +241,106 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1058|<span class="rank-name-pd">まさちょ☆寿組☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|2|1014|<span class="rank-name-pd">くろ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10745?s_seq=10745">メディアカフェ ポパイ下関山の田店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|3|957|<span class="rank-name-pd">CARD NAME</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|3|957|<span class="rank-name-pd">k-sk-寿組？</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|5|956|<span class="rank-name-pd">上田 真之</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|6|949|<span class="rank-name-pd">QPS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|7|945|<span class="rank-name-pd">tomo@Fdays</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|8|917|<span class="rank-name-pd">*yu-ki*</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|9|914|<span class="rank-name-pd">Maithi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|10|884|<span class="rank-name-pd">Maithi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|11|880|<span class="rank-name-pd">TAKE-KORO (-_-)zzz</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|12|873|<span class="rank-name-pd">yu-suke@Fdays</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|13|857|<span class="rank-name-pd">yu-suke@Fdays</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|14|849|<span class="rank-name-pd">Daisuke</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|15|846|<span class="rank-name-pd">tomo@Fdays</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|16|845|<span class="rank-name-pd">kumi☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|17|824|<span class="rank-name-pd">Kumagoro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|18|822|<span class="rank-name-pd">マッキー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|19|811|<span class="rank-name-pd">MAME</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|19|811|<span class="rank-name-pd">まさちょ☆寿組☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|21|809|<span class="rank-name-pd">ume.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|22|801|<span class="rank-name-pd">こーたろ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|23|800|<span class="rank-name-pd">みっとん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|24|792|<span class="rank-name-pd">シソ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|25|785|<span class="rank-name-pd">☆βιКкё☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|26|777|<span class="rank-name-pd">0146_5790</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|27|776|<span class="rank-name-pd">かまモン*T-T*</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|28|755|<span class="rank-name-pd">ドンゴロス</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|29|750|<span class="rank-name-pd">うっきー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|30|742|<span class="rank-name-pd">MAME</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|31|740|<span class="rank-name-pd">Enano</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|31|740|<span class="rank-name-pd">わらびもち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|33|737|<span class="rank-name-pd">くろろろ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10745?s_seq=10745">メディアカフェ ポパイ下関山の田店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|34|726|<span class="rank-name-pd">*yu-ki*</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|35|723|<span class="rank-name-pd">H.Tatsuya</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|36|722|<span class="rank-name-pd">みっとん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|37|717|<span class="rank-name-pd">サイババギター</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|38|709|<span class="rank-name-pd">ミツ♪寿組</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|39|701|<span class="rank-name-pd">マッキー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|40|697|<span class="rank-name-pd">Yuuki555</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|41|688|<span class="rank-name-pd">ミツ♪寿組</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10745?s_seq=10745">メディアカフェ ポパイ下関山の田店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|42|687|<span class="rank-name-pd">K-寿組-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|43|684|<span class="rank-name-pd">Enano</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|44|683|<span class="rank-name-pd">シソ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|45|678|<span class="rank-name-pd">zrl635ca1c55e2</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|45|678|<span class="rank-name-pd">冬霧(とうむ).寿組</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|47|671|<span class="rank-name-pd">tats.61</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|48|667|<span class="rank-name-pd">[sakurako]suki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|49|666|<span class="rank-name-pd">おぢゃこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|50|665|<span class="rank-name-pd">如月 爛花,</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|51|664|<span class="rank-name-pd">如月 爛花,</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|52|659|<span class="rank-name-pd">十六夜 蒼月</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|53|645|<span class="rank-name-pd">がたお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|54|643|<span class="rank-name-pd">せ-ﾁｬﾝ∞華組×B.R∞</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|55|635|<span class="rank-name-pd">H.Tatsuya</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|55|635|<span class="rank-name-pd">Hys&#x27;</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|57|633|<span class="rank-name-pd">machu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|58|627|<span class="rank-name-pd">ナッツ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|59|623|<span class="rank-name-pd">ハコリ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|60|619|<span class="rank-name-pd">KAZUO➶</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|61|601|<span class="rank-name-pd">fur</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|62|587|<span class="rank-name-pd">K.N</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|63|586|<span class="rank-name-pd">☆じちょー☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|64|584|<span class="rank-name-pd">がたお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|65|582|<span class="rank-name-pd">コタ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10745?s_seq=10745">メディアカフェ ポパイ下関山の田店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|66|579|<span class="rank-name-pd">ダイ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|67|578|<span class="rank-name-pd">夢幻@AAA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|68|574|<span class="rank-name-pd">ごっちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|69|568|<span class="rank-name-pd">みお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|70|567|<span class="rank-name-pd">JIN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|70|567|<span class="rank-name-pd">RED</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|72|561|<span class="rank-name-pd">yoshi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|73|549|<span class="rank-name-pd">RED</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|74|548|<span class="rank-name-pd">柄の悪いコンビニ店員さん(副職)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|75|545|<span class="rank-name-pd">NANCHAN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|76|540|<span class="rank-name-pd">KEIICHI&#x27;</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|77|538|<span class="rank-name-pd">D. ジャム</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|78|534|<span class="rank-name-pd">TERU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10745?s_seq=10745">メディアカフェ ポパイ下関山の田店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|79|533|<span class="rank-name-pd">machu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|80|524|<span class="rank-name-pd">智仁</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|81|519|<span class="rank-name-pd">fur</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|82|518|<span class="rank-name-pd">む〜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|83|517|<span class="rank-name-pd">tetsu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10745?s_seq=10745">メディアカフェ ポパイ下関山の田店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|84|515|<span class="rank-name-pd">syzzzzz</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|85|513|<span class="rank-name-pd">愚っ痴</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|86|512|<span class="rank-name-pd">せっき→</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|87|509|<span class="rank-name-pd">ミツ♪寿組</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|88|503|<span class="rank-name-pd">0256_7990</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|89|501|<span class="rank-name-pd">4410</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|89|501|<span class="rank-name-pd">ksdaks</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|91|492|<span class="rank-name-pd">takahikokitahala</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|92|486|<span class="rank-name-pd">うってぃー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|93|478|<span class="rank-name-pd">machu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10745?s_seq=10745">メディアカフェ ポパイ下関山の田店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|94|474|<span class="rank-name-pd">CHAORIE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10745?s_seq=10745">メディアカフェ ポパイ下関山の田店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|95|469|<span class="rank-name-pd">Saki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|95|469|<span class="rank-name-pd">zyxh37f397f9c2</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|95|469|<span class="rank-name-pd">智仁</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|98|461|<span class="rank-name-pd">FUJI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|99|458|<span class="rank-name-pd">J a i K o</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
-|100|457|<span class="rank-name-pd">味の素</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|1|1112|<span class="rank-name-pd">QPS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|2|1058|<span class="rank-name-pd">まさちょ☆寿組☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|3|1038|<span class="rank-name-pd"><span class="pro-icon-pd"></span>白石 友貴</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|4|1014|<span class="rank-name-pd">くろ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10745?s_seq=10745">メディアカフェ ポパイ下関山の田店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|5|1006|<span class="rank-name-pd">Maithi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|5|1006|<span class="rank-name-pd"><span class="pro-icon-pd"></span>津留 悠太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|7|971|<span class="rank-name-pd">CARD NAME</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|8|970|<span class="rank-name-pd">kumi☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|8|970|<span class="rank-name-pd">まさちょ☆寿組☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|10|966|<span class="rank-name-pd">上田 真之</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|11|965|<span class="rank-name-pd">Ｍａｓａｈｉｒｏ.Ａ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|12|957|<span class="rank-name-pd">k-sk-寿組？</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|13|948|<span class="rank-name-pd">逆太郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|14|945|<span class="rank-name-pd">tomo@Fdays</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|15|943|<span class="rank-name-pd"><span class="pro-icon-pd"></span>白石 友貴</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|16|928|<span class="rank-name-pd">佐藤</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|17|917|<span class="rank-name-pd">*yu-ki*</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|18|910|<span class="rank-name-pd">まさちょ☆寿組☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10745?s_seq=10745">メディアカフェ ポパイ下関山の田店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|19|895|<span class="rank-name-pd">Maithi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|20|883|<span class="rank-name-pd">マッキー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|21|880|<span class="rank-name-pd">TAKE-KORO (-_-)zzz</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|22|877|<span class="rank-name-pd"><span class="pro-icon-pd"></span>和田 祐樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|23|873|<span class="rank-name-pd">yu-suke@Fdays</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|24|857|<span class="rank-name-pd">yu-suke@Fdays</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|25|849|<span class="rank-name-pd">Daisuke</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|26|848|<span class="rank-name-pd">Yuuki555</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|27|846|<span class="rank-name-pd">tomo@Fdays</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|28|841|<span class="rank-name-pd">かずきち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|29|839|<span class="rank-name-pd">あすか★ｱｵﾘｰﾒｲﾄ★</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|29|839|<span class="rank-name-pd">みお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|31|835|<span class="rank-name-pd">湾児</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|32|834|<span class="rank-name-pd">番長♪寿組</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|33|833|<span class="rank-name-pd">yu-suke</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|34|831|<span class="rank-name-pd">Helter Skelter</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|35|824|<span class="rank-name-pd">Kumagoro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|36|822|<span class="rank-name-pd">マッキー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|37|821|<span class="rank-name-pd">ponko2</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10745?s_seq=10745">メディアカフェ ポパイ下関山の田店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|38|819|<span class="rank-name-pd">TAKE-KORO☆寿組☆MOTONARI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|39|816|<span class="rank-name-pd">dynamic erio</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|40|815|<span class="rank-name-pd">TAKE-KORO (-_-)zzz</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|41|811|<span class="rank-name-pd">MAME</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|41|811|<span class="rank-name-pd">yu-suke</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|43|809|<span class="rank-name-pd">ume.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|44|807|<span class="rank-name-pd">taku</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|45|806|<span class="rank-name-pd">こーたろ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|46|804|<span class="rank-name-pd">りゅーき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|47|803|<span class="rank-name-pd">machu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|48|800|<span class="rank-name-pd">みっとん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|49|792|<span class="rank-name-pd">シソ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|50|791|<span class="rank-name-pd">H.Tatsuya</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|51|785|<span class="rank-name-pd">K-寿組-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|51|785|<span class="rank-name-pd">cнerry</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|51|785|<span class="rank-name-pd">☆βιКкё☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|54|777|<span class="rank-name-pd">0146_5790</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|55|776|<span class="rank-name-pd">かまモン*T-T*</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|56|774|<span class="rank-name-pd">Enano</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|57|773|<span class="rank-name-pd">H.Tatsuya</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10745?s_seq=10745">メディアカフェ ポパイ下関山の田店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|58|765|<span class="rank-name-pd">よっちゃんぬ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|59|763|<span class="rank-name-pd">machu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|60|761|<span class="rank-name-pd">hiro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|61|757|<span class="rank-name-pd">みっとん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|62|755|<span class="rank-name-pd">ドンゴロス</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|63|753|<span class="rank-name-pd">インプモン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|64|750|<span class="rank-name-pd">うっきー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|65|747|<span class="rank-name-pd">ハコリ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|66|742|<span class="rank-name-pd">MAME</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|66|742|<span class="rank-name-pd">ともきち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|68|740|<span class="rank-name-pd">H.Tatsuya</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|68|740|<span class="rank-name-pd">わらびもち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|70|737|<span class="rank-name-pd">くろろろ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10745?s_seq=10745">メディアカフェ ポパイ下関山の田店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|71|734|<span class="rank-name-pd">HAYA-56</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|71|734|<span class="rank-name-pd">如月 爛花,</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|73|733|<span class="rank-name-pd">十六夜 蒼月</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|74|726|<span class="rank-name-pd">*yu-ki*</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|75|725|<span class="rank-name-pd">kumi☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|76|722|<span class="rank-name-pd">りゅーき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|77|717|<span class="rank-name-pd">サイババギター</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|78|714|<span class="rank-name-pd">ミツ♪寿組</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10745?s_seq=10745">メディアカフェ ポパイ下関山の田店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|79|713|<span class="rank-name-pd">みお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|80|709|<span class="rank-name-pd">ミツ♪寿組</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|81|706|<span class="rank-name-pd">La Paz</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|82|703|<span class="rank-name-pd">奈美ブー♪寿組</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|83|701|<span class="rank-name-pd">RED</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|84|690|<span class="rank-name-pd"><span class="pro-icon-pd"></span>永友 真輝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|85|688|<span class="rank-name-pd">アンディー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|86|684|<span class="rank-name-pd">Enano</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|87|683|<span class="rank-name-pd">シソ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|88|682|<span class="rank-name-pd">カズさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|89|678|<span class="rank-name-pd">zrl635ca1c55e2</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|89|678|<span class="rank-name-pd">冬霧(とうむ).寿組</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|91|676|<span class="rank-name-pd">テルテル坊主(,, -᷅ ̫̈-᷄ ,,)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|92|671|<span class="rank-name-pd">tats.61</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|93|670|<span class="rank-name-pd">がたお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|94|668|<span class="rank-name-pd">KAZUO➶</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|95|667|<span class="rank-name-pd">[sakurako]suki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|95|667|<span class="rank-name-pd">chien（シヤン）</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|97|666|<span class="rank-name-pd">おぢゃこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|98|665|<span class="rank-name-pd">如月 爛花,</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|99|655|<span class="rank-name-pd">奈美ブー♪寿組</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80287?s_seq=80287">快活CLUB 下関綾羅木店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
+|100|643|<span class="rank-name-pd"> K/R.W.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61638?s_seq=61638">快活CLUB 下関長府店</a>|<a href="/darts/rank/山口県/下関市">山口県下関市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

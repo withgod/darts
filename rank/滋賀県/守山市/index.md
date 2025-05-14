@@ -23,104 +23,106 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1055|<span class="rank-name-dl">外村和平　GAISON</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|2|1042|<span class="rank-name-dl">森本 純矢</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|3|1036|<span class="rank-name-dl">いそろくミッド</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|4|1022|<span class="rank-name-dl">ずっちーな悠月</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|5|1017|<span class="rank-name-dl">Y.N</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|6|1001|<span class="rank-name-dl">ʕ•ᴥ•ʔ</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|7|981|<span class="rank-name-dl">174cm60kg</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|7|981|<span class="rank-name-dl">TAKERU</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|9|970|<span class="rank-name-dl">光@ひかるくん</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|10|961|<span class="rank-name-dl">傾奇者</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|11|960|<span class="rank-name-dl">うぇぽん</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|12|958|<span class="rank-name-dl">FATMAN</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|13|956|<span class="rank-name-dl">五十六</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|14|955|<span class="rank-name-dl">たっちゃんる〜ふ</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|15|953|<span class="rank-name-dl">いそろくミッド</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|16|949|<span class="rank-name-dl">しいたけ</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|17|931|<span class="rank-name-dl">カリフラワー悠月</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|18|929|<span class="rank-name-dl">傾奇者</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|19|905|<span class="rank-name-dl">りょ</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|20|904|<span class="rank-name-dl">飼い主さん</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|21|901|<span class="rank-name-dl">fxmylife495</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|22|895|<span class="rank-name-dl">☆ Z E N ☆</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|23|879|<span class="rank-name-dl">ゆーこ</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|24|867|<span class="rank-name-dl">TAKERU</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|25|849|<span class="rank-name-dl">ぬっきー</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|26|847|<span class="rank-name-dl">あっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|27|844|<span class="rank-name-dl">FTC@ASPARA 5th</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|28|839|<span class="rank-name-dl">ノムケン</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|29|838|<span class="rank-name-dl">GINJI</span>|<a href="https://search.dartslive.com/jp/shop/4a6b9e1004134ea528032249b44395af">Lounge Era</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|30|833|<span class="rank-name-dl">勝@ザキ</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|31|832|<span class="rank-name-dl">maaaa...</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|32|817|<span class="rank-name-dl">ryochin</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|33|815|<span class="rank-name-dl">houyou</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|34|808|<span class="rank-name-dl">もりけん</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|35|806|<span class="rank-name-dl">rainbow爺♪</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|36|804|<span class="rank-name-dl">HITMAN</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|37|802|<span class="rank-name-dl">FTC@ASPARA</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|38|785|<span class="rank-name-dl">山ヤン</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|39|775|<span class="rank-name-dl">ひきじですおぉ!!</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|39|775|<span class="rank-name-dl">ぺそ</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|41|770|<span class="rank-name-dl">Kazuto</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|41|770|<span class="rank-name-pd">Kentaro Nomura</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9525?s_seq=9525">エースレーン守山</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|43|762|<span class="rank-name-dl">ライジングリナ</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|44|753|<span class="rank-name-dl">飛ばない豚</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|45|733|<span class="rank-name-dl">BORI</span>|<a href="https://search.dartslive.com/jp/shop/92d48adddc590c42a3f63593b5358cc4">Bar BORI</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|46|724|<span class="rank-name-dl">Nikaaaa➷</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|47|722|<span class="rank-name-dl">ライジングゆづき</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|48|721|<span class="rank-name-dl">1063→terumi♡</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|49|717|<span class="rank-name-dl">NO NAME 6134</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|49|717|<span class="rank-name-dl">はまぴこ(*´Д`)</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|51|703|<span class="rank-name-dl">J</span>|<a href="https://search.dartslive.com/jp/shop/4a6b9e1004134ea528032249b44395af">Lounge Era</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|52|702|<span class="rank-name-dl">ｳﾞｧｯｼｭｻﾞｽﾀﾝﾋﾟｰﾄﾞ</span>|<a href="https://search.dartslive.com/jp/shop/4a6b9e1004134ea528032249b44395af">Lounge Era</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|53|694|<span class="rank-name-dl">HIROTOooo</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|54|693|<span class="rank-name-dl">みー</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|55|689|<span class="rank-name-dl">世界の不良</span>|<a href="https://search.dartslive.com/jp/shop/4a6b9e1004134ea528032249b44395af">Lounge Era</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|56|688|<span class="rank-name-dl">ばばろあ</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|57|685|<span class="rank-name-dl">ポンタ</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|58|677|<span class="rank-name-dl">Yun♔.ﾟ</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|59|661|<span class="rank-name-dl">SMALLハーミー</span>|<a href="https://search.dartslive.com/jp/shop/92d48adddc590c42a3f63593b5358cc4">Bar BORI</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|60|630|<span class="rank-name-dl">コウ</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|61|629|<span class="rank-name-dl">maco</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|62|620|<span class="rank-name-dl">アスパラThink</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|63|618|<span class="rank-name-dl">文 耶</span>|<a href="https://search.dartslive.com/jp/shop/4a6b9e1004134ea528032249b44395af">Lounge Era</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|64|608|<span class="rank-name-dl">れんれん♡</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|65|605|<span class="rank-name-dl">hi12ro21</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|66|600|<span class="rank-name-dl">ゆたか99</span>|<a href="https://search.dartslive.com/jp/shop/4a6b9e1004134ea528032249b44395af">Lounge Era</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|67|598|<span class="rank-name-dl">miii**</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|68|595|<span class="rank-name-pd">ko-chan♪</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9525?s_seq=9525">エースレーン守山</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|69|573|<span class="rank-name-dl">響</span>|<a href="https://search.dartslive.com/jp/shop/4a6b9e1004134ea528032249b44395af">Lounge Era</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|70|566|<span class="rank-name-dl">とりあえずアユ</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|71|563|<span class="rank-name-dl">とりあえずアユ</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|72|561|<span class="rank-name-dl">hi^_^ro</span>|<a href="https://search.dartslive.com/jp/shop/4a6b9e1004134ea528032249b44395af">Lounge Era</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|73|543|<span class="rank-name-dl">maco</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|74|538|<span class="rank-name-dl">まみぞ</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|75|536|<span class="rank-name-dl">Hiro</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|75|536|<span class="rank-name-dl">NJPW★はっち★</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|77|521|<span class="rank-name-dl">♡かおchan♡</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|78|512|<span class="rank-name-dl">FROPPY</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|79|500|<span class="rank-name-dl">まなまな♥</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|80|487|<span class="rank-name-dl">NO NAME 1783</span>|<a href="https://search.dartslive.com/jp/shop/4a6b9e1004134ea528032249b44395af">Lounge Era</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|81|485|<span class="rank-name-dl">ゆた</span>|<a href="https://search.dartslive.com/jp/shop/4a6b9e1004134ea528032249b44395af">Lounge Era</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|82|484|<span class="rank-name-dl">笹木</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|83|483|<span class="rank-name-dl">KIWAKO</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|84|479|<span class="rank-name-dl">☆☆はっち☆☆FY</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|85|463|<span class="rank-name-dl">ひかる</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|86|458|<span class="rank-name-dl">ミーちゃん☆</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|87|435|<span class="rank-name-dl">NO NAME 1159</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|88|433|<span class="rank-name-dl">がわ！</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|89|412|<span class="rank-name-dl">ﾓｴ･ｴ･ｼｬﾝﾄﾞﾝ</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|90|410|<span class="rank-name-dl">しょたミーム</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|91|400|<span class="rank-name-pd">ayon</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9525?s_seq=9525">エースレーン守山</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|92|399|<span class="rank-name-dl">hi^_^ro</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|93|396|<span class="rank-name-dl">NJPW★はっち★R</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|94|356|<span class="rank-name-dl">R&amp;Y@ｳ〇ｺ</span>|<a href="https://search.dartslive.com/jp/shop/4a6b9e1004134ea528032249b44395af">Lounge Era</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|95|340|<span class="rank-name-dl">あちゅだお</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|96|339|<span class="rank-name-dl">Re*</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|97|314|<span class="rank-name-dl">文耶</span>|<a href="https://search.dartslive.com/jp/shop/4a6b9e1004134ea528032249b44395af">Lounge Era</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|98|275|<span class="rank-name-dl">みかん</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|1|1114|<span class="rank-name-dl">外村和平　GAISON</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|2|1065|<span class="rank-name-dl">FATMAN</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|3|1042|<span class="rank-name-dl">森本 純矢</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|4|1036|<span class="rank-name-dl">いそろくミッド</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|5|1023|<span class="rank-name-dl">みつゆーこ</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|6|1022|<span class="rank-name-dl">ずっちーな悠月</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|7|1017|<span class="rank-name-dl">Y.N</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|8|1003|<span class="rank-name-dl">cashew nuts ｲｿﾛｸ</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|9|1001|<span class="rank-name-dl">ʕ•ᴥ•ʔ</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|10|986|<span class="rank-name-dl">ぺそ</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|11|981|<span class="rank-name-dl">174cm60kg</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|11|981|<span class="rank-name-dl">TAKERU</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|13|970|<span class="rank-name-dl">光@ひかるくん</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|14|969|<span class="rank-name-dl">やーまも</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|15|962|<span class="rank-name-dl">やーまも</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|16|961|<span class="rank-name-dl">傾奇者</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|17|960|<span class="rank-name-dl">173cm60kg</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|17|960|<span class="rank-name-dl">うぇぽん</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|19|956|<span class="rank-name-dl">五十六</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|20|955|<span class="rank-name-dl">たっちゃんる〜ふ</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|21|954|<span class="rank-name-dl">外村和平　GAISON</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|22|953|<span class="rank-name-dl">いそろくミッド</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|23|949|<span class="rank-name-dl">Nikaaaa➷</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|23|949|<span class="rank-name-dl">しいたけ</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|25|948|<span class="rank-name-dl">勝@ザキ</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|26|941|<span class="rank-name-dl">うぇぽん【セパ】</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|27|936|<span class="rank-name-dl">あつや@ROOF</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|27|936|<span class="rank-name-dl">はんぎょどん</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|29|931|<span class="rank-name-dl">Akimi Nakanishi</span>|<a href="https://search.dartslive.com/jp/shop/92d48adddc590c42a3f63593b5358cc4">Bar BORI</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|29|931|<span class="rank-name-dl">カリフラワー悠月</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|31|929|<span class="rank-name-dl">傾奇者</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|32|925|<span class="rank-name-dl">けんたろー</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|33|924|<span class="rank-name-dl">うっしぃ</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|34|911|<span class="rank-name-dl">米田篤司@PERFECT</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|35|908|<span class="rank-name-dl">前歯 龍二</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|36|905|<span class="rank-name-dl">りょ</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|37|904|<span class="rank-name-dl">飼い主さん</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|38|901|<span class="rank-name-dl">fxmylife495</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|39|895|<span class="rank-name-dl">☆ Z E N ☆</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|40|883|<span class="rank-name-dl">TATSURU</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|40|883|<span class="rank-name-dl">見習いダーツァー</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|42|879|<span class="rank-name-dl">ゆーこ</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|43|869|<span class="rank-name-dl">チャッピー</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|44|867|<span class="rank-name-dl">GINJI</span>|<a href="https://search.dartslive.com/jp/shop/4a6b9e1004134ea528032249b44395af">Lounge Era</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|44|867|<span class="rank-name-dl">TAKERU</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|46|866|<span class="rank-name-dl">ぬっきー</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|47|865|<span class="rank-name-dl">せんちまん</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|47|865|<span class="rank-name-dl">ハンギョドン</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|49|857|<span class="rank-name-dl">あらし</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|50|853|<span class="rank-name-dl">あっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|51|852|<span class="rank-name-dl">KElBON</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|52|848|<span class="rank-name-dl">ともき(゜□゜)</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|53|847|<span class="rank-name-dl">森本 純矢</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|54|844|<span class="rank-name-dl">FTC@ASPARA 5th</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|55|843|<span class="rank-name-dl">LONEwolf∞</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|56|840|<span class="rank-name-dl">N</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|57|839|<span class="rank-name-dl">ノムケン</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|58|838|<span class="rank-name-pd">NO NAME 0507</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9525?s_seq=9525">エースレーン守山</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|59|834|<span class="rank-name-dl">鶴谷みつゆ</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|60|833|<span class="rank-name-dl">勝@ザキ</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|61|832|<span class="rank-name-dl">maaaa...</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|61|832|<span class="rank-name-dl">ゆゆ@</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|61|832|<span class="rank-name-pd"><span class="pro-icon-pd"></span>大槻 翼</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9525?s_seq=9525">エースレーン守山</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|64|831|<span class="rank-name-dl">East.end×nori</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|65|830|<span class="rank-name-dl">あつや@ROOF</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|66|821|<span class="rank-name-dl">優</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|67|817|<span class="rank-name-dl">ryochin</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|68|815|<span class="rank-name-dl">houyou</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|69|808|<span class="rank-name-dl">Akimi Nakanishi</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|69|808|<span class="rank-name-dl">maaaa</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|69|808|<span class="rank-name-dl">もりけん</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|72|806|<span class="rank-name-dl">rainbow爺♪</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|73|804|<span class="rank-name-dl">HITMAN</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|74|802|<span class="rank-name-dl">FTC@ASPARA</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|75|794|<span class="rank-name-dl">しょたミーム</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|76|785|<span class="rank-name-dl">山ヤン</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|77|784|<span class="rank-name-dl">L☪Cてんしょう♍</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|78|783|<span class="rank-name-dl">みったー</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|79|777|<span class="rank-name-dl">SIZUKU@Bully&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|80|775|<span class="rank-name-dl">ひきじですおぉ!!</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|81|774|<span class="rank-name-dl">1063→terumi♡</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|82|770|<span class="rank-name-dl">Kazuto</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|82|770|<span class="rank-name-pd">Kentaro Nomura</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9525?s_seq=9525">エースレーン守山</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|84|766|<span class="rank-name-dl">ねーさん♡dimple</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|85|763|<span class="rank-name-dl">じゅん@横蜂家</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|85|763|<span class="rank-name-pd"><span class="pro-icon-pd"></span>水谷 友哉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9525?s_seq=9525">エースレーン守山</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|87|762|<span class="rank-name-dl">ライジングリナ</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|88|760|<span class="rank-name-dl">アスパラThink</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|89|753|<span class="rank-name-dl">飛ばない豚</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|90|751|<span class="rank-name-dl">じゅんいち</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|91|750|<span class="rank-name-dl">hidechun☆</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|92|748|<span class="rank-name-dl">Macchun</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|93|747|<span class="rank-name-dl">K.Tomoya</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|94|742|<span class="rank-name-dl">J</span>|<a href="https://search.dartslive.com/jp/shop/4a6b9e1004134ea528032249b44395af">Lounge Era</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|95|738|<span class="rank-name-dl">azu05</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|95|738|<span class="rank-name-dl">さーくー</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|97|735|<span class="rank-name-dl">syn</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|97|735|<span class="rank-name-dl">ヒヤシンス</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|99|733|<span class="rank-name-dl">BORI</span>|<a href="https://search.dartslive.com/jp/shop/92d48adddc590c42a3f63593b5358cc4">Bar BORI</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|100|727|<span class="rank-name-dl">Kusu</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -130,101 +132,106 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1055|<span class="rank-name-dl">外村和平　GAISON</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|2|1042|<span class="rank-name-dl">森本 純矢</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|3|1036|<span class="rank-name-dl">いそろくミッド</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|4|1022|<span class="rank-name-dl">ずっちーな悠月</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|5|1017|<span class="rank-name-dl">Y.N</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|6|1001|<span class="rank-name-dl">ʕ•ᴥ•ʔ</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|7|981|<span class="rank-name-dl">174cm60kg</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|7|981|<span class="rank-name-dl">TAKERU</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|9|970|<span class="rank-name-dl">光@ひかるくん</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|10|961|<span class="rank-name-dl">傾奇者</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|11|960|<span class="rank-name-dl">うぇぽん</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|12|958|<span class="rank-name-dl">FATMAN</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|13|956|<span class="rank-name-dl">五十六</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|14|955|<span class="rank-name-dl">たっちゃんる〜ふ</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|15|953|<span class="rank-name-dl">いそろくミッド</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|16|949|<span class="rank-name-dl">しいたけ</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|17|931|<span class="rank-name-dl">カリフラワー悠月</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|18|929|<span class="rank-name-dl">傾奇者</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|19|905|<span class="rank-name-dl">りょ</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|20|904|<span class="rank-name-dl">飼い主さん</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|21|901|<span class="rank-name-dl">fxmylife495</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|22|895|<span class="rank-name-dl">☆ Z E N ☆</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|23|879|<span class="rank-name-dl">ゆーこ</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|24|867|<span class="rank-name-dl">TAKERU</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|25|849|<span class="rank-name-dl">ぬっきー</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|26|847|<span class="rank-name-dl">あっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|27|844|<span class="rank-name-dl">FTC@ASPARA 5th</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|28|839|<span class="rank-name-dl">ノムケン</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|29|838|<span class="rank-name-dl">GINJI</span>|<a href="https://search.dartslive.com/jp/shop/4a6b9e1004134ea528032249b44395af">Lounge Era</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|30|833|<span class="rank-name-dl">勝@ザキ</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|31|832|<span class="rank-name-dl">maaaa...</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|32|817|<span class="rank-name-dl">ryochin</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|33|815|<span class="rank-name-dl">houyou</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|34|808|<span class="rank-name-dl">もりけん</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|35|806|<span class="rank-name-dl">rainbow爺♪</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|36|804|<span class="rank-name-dl">HITMAN</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|37|802|<span class="rank-name-dl">FTC@ASPARA</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|38|785|<span class="rank-name-dl">山ヤン</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|39|775|<span class="rank-name-dl">ひきじですおぉ!!</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|39|775|<span class="rank-name-dl">ぺそ</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|41|770|<span class="rank-name-dl">Kazuto</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|42|762|<span class="rank-name-dl">ライジングリナ</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|43|753|<span class="rank-name-dl">飛ばない豚</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|44|733|<span class="rank-name-dl">BORI</span>|<a href="https://search.dartslive.com/jp/shop/92d48adddc590c42a3f63593b5358cc4">Bar BORI</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|45|724|<span class="rank-name-dl">Nikaaaa➷</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|46|722|<span class="rank-name-dl">ライジングゆづき</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|47|721|<span class="rank-name-dl">1063→terumi♡</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|48|717|<span class="rank-name-dl">NO NAME 6134</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|48|717|<span class="rank-name-dl">はまぴこ(*´Д`)</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|50|703|<span class="rank-name-dl">J</span>|<a href="https://search.dartslive.com/jp/shop/4a6b9e1004134ea528032249b44395af">Lounge Era</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|51|702|<span class="rank-name-dl">ｳﾞｧｯｼｭｻﾞｽﾀﾝﾋﾟｰﾄﾞ</span>|<a href="https://search.dartslive.com/jp/shop/4a6b9e1004134ea528032249b44395af">Lounge Era</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|52|694|<span class="rank-name-dl">HIROTOooo</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|53|693|<span class="rank-name-dl">みー</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|54|689|<span class="rank-name-dl">世界の不良</span>|<a href="https://search.dartslive.com/jp/shop/4a6b9e1004134ea528032249b44395af">Lounge Era</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|55|688|<span class="rank-name-dl">ばばろあ</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|56|685|<span class="rank-name-dl">ポンタ</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|57|677|<span class="rank-name-dl">Yun♔.ﾟ</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|58|661|<span class="rank-name-dl">SMALLハーミー</span>|<a href="https://search.dartslive.com/jp/shop/92d48adddc590c42a3f63593b5358cc4">Bar BORI</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|59|630|<span class="rank-name-dl">コウ</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|60|629|<span class="rank-name-dl">maco</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|61|620|<span class="rank-name-dl">アスパラThink</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|62|618|<span class="rank-name-dl">文 耶</span>|<a href="https://search.dartslive.com/jp/shop/4a6b9e1004134ea528032249b44395af">Lounge Era</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|63|608|<span class="rank-name-dl">れんれん♡</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|64|605|<span class="rank-name-dl">hi12ro21</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|65|600|<span class="rank-name-dl">ゆたか99</span>|<a href="https://search.dartslive.com/jp/shop/4a6b9e1004134ea528032249b44395af">Lounge Era</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|66|598|<span class="rank-name-dl">miii**</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|67|573|<span class="rank-name-dl">響</span>|<a href="https://search.dartslive.com/jp/shop/4a6b9e1004134ea528032249b44395af">Lounge Era</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|68|566|<span class="rank-name-dl">とりあえずアユ</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|69|563|<span class="rank-name-dl">とりあえずアユ</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|70|561|<span class="rank-name-dl">hi^_^ro</span>|<a href="https://search.dartslive.com/jp/shop/4a6b9e1004134ea528032249b44395af">Lounge Era</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|71|543|<span class="rank-name-dl">maco</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|72|538|<span class="rank-name-dl">まみぞ</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|73|536|<span class="rank-name-dl">Hiro</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|73|536|<span class="rank-name-dl">NJPW★はっち★</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|75|521|<span class="rank-name-dl">♡かおchan♡</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|76|512|<span class="rank-name-dl">FROPPY</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|77|500|<span class="rank-name-dl">まなまな♥</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|78|487|<span class="rank-name-dl">NO NAME 1783</span>|<a href="https://search.dartslive.com/jp/shop/4a6b9e1004134ea528032249b44395af">Lounge Era</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|79|485|<span class="rank-name-dl">ゆた</span>|<a href="https://search.dartslive.com/jp/shop/4a6b9e1004134ea528032249b44395af">Lounge Era</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|80|484|<span class="rank-name-dl">笹木</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|81|483|<span class="rank-name-dl">KIWAKO</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|82|479|<span class="rank-name-dl">☆☆はっち☆☆FY</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|83|463|<span class="rank-name-dl">ひかる</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|84|458|<span class="rank-name-dl">ミーちゃん☆</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|85|435|<span class="rank-name-dl">NO NAME 1159</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|86|433|<span class="rank-name-dl">がわ！</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|87|412|<span class="rank-name-dl">ﾓｴ･ｴ･ｼｬﾝﾄﾞﾝ</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|88|410|<span class="rank-name-dl">しょたミーム</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|89|399|<span class="rank-name-dl">hi^_^ro</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|90|396|<span class="rank-name-dl">NJPW★はっち★R</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|91|356|<span class="rank-name-dl">R&amp;Y@ｳ〇ｺ</span>|<a href="https://search.dartslive.com/jp/shop/4a6b9e1004134ea528032249b44395af">Lounge Era</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|92|340|<span class="rank-name-dl">あちゅだお</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|93|339|<span class="rank-name-dl">Re*</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|94|314|<span class="rank-name-dl">文耶</span>|<a href="https://search.dartslive.com/jp/shop/4a6b9e1004134ea528032249b44395af">Lounge Era</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|95|275|<span class="rank-name-dl">みかん</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|1|1114|<span class="rank-name-dl">外村和平　GAISON</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|2|1065|<span class="rank-name-dl">FATMAN</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|3|1042|<span class="rank-name-dl">森本 純矢</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|4|1036|<span class="rank-name-dl">いそろくミッド</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|5|1023|<span class="rank-name-dl">みつゆーこ</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|6|1022|<span class="rank-name-dl">ずっちーな悠月</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|7|1017|<span class="rank-name-dl">Y.N</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|8|1003|<span class="rank-name-dl">cashew nuts ｲｿﾛｸ</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|9|1001|<span class="rank-name-dl">ʕ•ᴥ•ʔ</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|10|986|<span class="rank-name-dl">ぺそ</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|11|981|<span class="rank-name-dl">174cm60kg</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|11|981|<span class="rank-name-dl">TAKERU</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|13|970|<span class="rank-name-dl">光@ひかるくん</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|14|969|<span class="rank-name-dl">やーまも</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|15|962|<span class="rank-name-dl">やーまも</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|16|961|<span class="rank-name-dl">傾奇者</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|17|960|<span class="rank-name-dl">173cm60kg</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|17|960|<span class="rank-name-dl">うぇぽん</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|19|956|<span class="rank-name-dl">五十六</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|20|955|<span class="rank-name-dl">たっちゃんる〜ふ</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|21|954|<span class="rank-name-dl">外村和平　GAISON</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|22|953|<span class="rank-name-dl">いそろくミッド</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|23|949|<span class="rank-name-dl">Nikaaaa➷</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|23|949|<span class="rank-name-dl">しいたけ</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|25|948|<span class="rank-name-dl">勝@ザキ</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|26|941|<span class="rank-name-dl">うぇぽん【セパ】</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|27|936|<span class="rank-name-dl">あつや@ROOF</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|27|936|<span class="rank-name-dl">はんぎょどん</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|29|931|<span class="rank-name-dl">Akimi Nakanishi</span>|<a href="https://search.dartslive.com/jp/shop/92d48adddc590c42a3f63593b5358cc4">Bar BORI</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|29|931|<span class="rank-name-dl">カリフラワー悠月</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|31|929|<span class="rank-name-dl">傾奇者</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|32|925|<span class="rank-name-dl">けんたろー</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|33|924|<span class="rank-name-dl">うっしぃ</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|34|911|<span class="rank-name-dl">米田篤司@PERFECT</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|35|908|<span class="rank-name-dl">前歯 龍二</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|36|905|<span class="rank-name-dl">りょ</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|37|904|<span class="rank-name-dl">飼い主さん</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|38|901|<span class="rank-name-dl">fxmylife495</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|39|895|<span class="rank-name-dl">☆ Z E N ☆</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|40|883|<span class="rank-name-dl">TATSURU</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|40|883|<span class="rank-name-dl">見習いダーツァー</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|42|879|<span class="rank-name-dl">ゆーこ</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|43|869|<span class="rank-name-dl">チャッピー</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|44|867|<span class="rank-name-dl">GINJI</span>|<a href="https://search.dartslive.com/jp/shop/4a6b9e1004134ea528032249b44395af">Lounge Era</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|44|867|<span class="rank-name-dl">TAKERU</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|46|866|<span class="rank-name-dl">ぬっきー</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|47|865|<span class="rank-name-dl">せんちまん</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|47|865|<span class="rank-name-dl">ハンギョドン</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|49|857|<span class="rank-name-dl">あらし</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|50|853|<span class="rank-name-dl">あっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|51|852|<span class="rank-name-dl">KElBON</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|52|848|<span class="rank-name-dl">ともき(゜□゜)</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|53|847|<span class="rank-name-dl">森本 純矢</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|54|844|<span class="rank-name-dl">FTC@ASPARA 5th</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|55|843|<span class="rank-name-dl">LONEwolf∞</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|56|840|<span class="rank-name-dl">N</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|57|839|<span class="rank-name-dl">ノムケン</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|58|834|<span class="rank-name-dl">鶴谷みつゆ</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|59|833|<span class="rank-name-dl">勝@ザキ</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|60|832|<span class="rank-name-dl">maaaa...</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|60|832|<span class="rank-name-dl">ゆゆ@</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|62|831|<span class="rank-name-dl">East.end×nori</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|63|830|<span class="rank-name-dl">あつや@ROOF</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|64|821|<span class="rank-name-dl">優</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|65|817|<span class="rank-name-dl">ryochin</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|66|815|<span class="rank-name-dl">houyou</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|67|808|<span class="rank-name-dl">Akimi Nakanishi</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|67|808|<span class="rank-name-dl">maaaa</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|67|808|<span class="rank-name-dl">もりけん</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|70|806|<span class="rank-name-dl">rainbow爺♪</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|71|804|<span class="rank-name-dl">HITMAN</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|72|802|<span class="rank-name-dl">FTC@ASPARA</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|73|794|<span class="rank-name-dl">しょたミーム</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|74|785|<span class="rank-name-dl">山ヤン</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|75|784|<span class="rank-name-dl">L☪Cてんしょう♍</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|76|783|<span class="rank-name-dl">みったー</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|77|777|<span class="rank-name-dl">SIZUKU@Bully&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|78|775|<span class="rank-name-dl">ひきじですおぉ!!</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|79|774|<span class="rank-name-dl">1063→terumi♡</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|80|770|<span class="rank-name-dl">Kazuto</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|81|766|<span class="rank-name-dl">ねーさん♡dimple</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|82|763|<span class="rank-name-dl">じゅん@横蜂家</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|83|762|<span class="rank-name-dl">ライジングリナ</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|84|760|<span class="rank-name-dl">アスパラThink</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|85|753|<span class="rank-name-dl">飛ばない豚</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|86|751|<span class="rank-name-dl">じゅんいち</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|87|750|<span class="rank-name-dl">hidechun☆</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|88|748|<span class="rank-name-dl">Macchun</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|89|747|<span class="rank-name-dl">K.Tomoya</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|90|742|<span class="rank-name-dl">J</span>|<a href="https://search.dartslive.com/jp/shop/4a6b9e1004134ea528032249b44395af">Lounge Era</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|91|738|<span class="rank-name-dl">azu05</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|91|738|<span class="rank-name-dl">さーくー</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|93|735|<span class="rank-name-dl">syn</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|93|735|<span class="rank-name-dl">ヒヤシンス</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|95|733|<span class="rank-name-dl">BORI</span>|<a href="https://search.dartslive.com/jp/shop/92d48adddc590c42a3f63593b5358cc4">Bar BORI</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|96|727|<span class="rank-name-dl">Kusu</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|97|725|<span class="rank-name-dl">☆</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|98|724|<span class="rank-name-dl">Nikaaaa➷</span>|<a href="https://search.dartslive.com/jp/shop/6de4ce390bbd78ce774c926eb736cb5a">ASPARA</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|99|722|<span class="rank-name-dl">ライジングゆづき</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|100|717|<span class="rank-name-dl">NO NAME 6134</span>|<a href="https://search.dartslive.com/jp/shop/18af301d7865e6fd0d9b047a20a7ba1e">アットタイム守山店</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
 
 
 #### PHOENIXDARTS TOP 100
@@ -234,9 +241,18 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|770|<span class="rank-name-pd">Kentaro Nomura</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9525?s_seq=9525">エースレーン守山</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|2|595|<span class="rank-name-pd">ko-chan♪</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9525?s_seq=9525">エースレーン守山</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
-|3|400|<span class="rank-name-pd">ayon</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9525?s_seq=9525">エースレーン守山</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|1|838|<span class="rank-name-pd">NO NAME 0507</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9525?s_seq=9525">エースレーン守山</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|2|832|<span class="rank-name-pd"><span class="pro-icon-pd"></span>大槻 翼</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9525?s_seq=9525">エースレーン守山</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|3|770|<span class="rank-name-pd">Kentaro Nomura</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9525?s_seq=9525">エースレーン守山</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|4|763|<span class="rank-name-pd"><span class="pro-icon-pd"></span>水谷 友哉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9525?s_seq=9525">エースレーン守山</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|5|681|<span class="rank-name-pd">ゆきちゃん足‼</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9525?s_seq=9525">エースレーン守山</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|6|595|<span class="rank-name-pd">ko-chan♪</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9525?s_seq=9525">エースレーン守山</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|7|579|<span class="rank-name-pd">ええ。の人@Home</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9525?s_seq=9525">エースレーン守山</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|8|557|<span class="rank-name-pd">NEW-ERA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9525?s_seq=9525">エースレーン守山</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|9|538|<span class="rank-name-pd">ko-chan@ JinJin海賊団</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9525?s_seq=9525">エースレーン守山</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|10|458|<span class="rank-name-pd">やまと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9525?s_seq=9525">エースレーン守山</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|11|400|<span class="rank-name-pd">ayon</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9525?s_seq=9525">エースレーン守山</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
+|12|378|<span class="rank-name-pd">サブ。の人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9525?s_seq=9525">エースレーン守山</a>|<a href="/darts/rank/滋賀県/守山市">滋賀県守山市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

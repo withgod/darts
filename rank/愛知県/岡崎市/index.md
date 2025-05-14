@@ -26,103 +26,103 @@ ___
 |1|1270|<span class="rank-name-dl">大和久明彦セパ</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
 |2|1210|<span class="rank-name-dl">大和久明彦</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
 |3|1200|<span class="rank-name-dl">め</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|4|1166|<span class="rank-name-dl">カラサキウルハ</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|5|1164|<span class="rank-name-dl">高橋　隼人</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|6|1163|<span class="rank-name-dl">源Gen@Stinger</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|7|1161|<span class="rank-name-dl">初音ミク</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|8|1155|<span class="rank-name-dl">山形　明人</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|9|1140|<span class="rank-name-dl">カラサキウルハNT</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|10|1117|<span class="rank-name-dl">大和久明彦</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|11|1116|<span class="rank-name-dl">後藤 健太</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|12|1115|<span class="rank-name-dl">伊藤 駿</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|13|1112|<span class="rank-name-dl">鈴木大地SoleSoul</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|14|1110|<span class="rank-name-dl">小野　恵太</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|15|1105|<span class="rank-name-pd">MASA ~TRiNiDAD~</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|16|1104|<span class="rank-name-dl">富竹</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|17|1103|<span class="rank-name-dl">悪【ﾄﾞｴﾛ】とみぃ</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|18|1101|<span class="rank-name-dl">のりを</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|19|1099|<span class="rank-name-dl">おぐりん</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|20|1095|<span class="rank-name-dl">ど$ま-くんHOMIE$</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|21|1085|<span class="rank-name-dl">‎( ꒪⌓꒪)ﾀﾞｲｽP</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|22|1083|<span class="rank-name-dl">まーしー</span>|<a href="https://search.dartslive.com/jp/shop/b77af57c9e373799b21333aee1bd51e4">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|22|1083|<span class="rank-name-dl">ブルモンキーー！</span>|<a href="https://search.dartslive.com/jp/shop/6e0fa3a85dcee8110d9b047a20a7ba1e">BULL MONKEY</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|24|1079|<span class="rank-name-dl">&gt;○&lt;</span>|<a href="https://search.dartslive.com/jp/shop/b77af57c9e373799b21333aee1bd51e4">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|25|1073|<span class="rank-name-pd">Shun Ito</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|26|1069|<span class="rank-name-dl">(゜ー゜)</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|27|1068|<span class="rank-name-dl">のの</span>|<a href="https://search.dartslive.com/jp/shop/b77af57c9e373799b21333aee1bd51e4">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|28|1065|<span class="rank-name-dl">神田　貴秀</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|29|1057|<span class="rank-name-pd">鈴木大地@sole soul</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|30|1052|<span class="rank-name-dl">田村　亮二@Dx3</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|31|1049|<span class="rank-name-dl">みねひろ</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|32|1048|<span class="rank-name-dl">takashun☆彡</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|32|1048|<span class="rank-name-pd">さとしっくす</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|34|1046|<span class="rank-name-dl">さとし@DEB</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|35|1042|<span class="rank-name-dl">スギ○○ダイ○</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|36|1039|<span class="rank-name-dl">ののまっしぐら</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|36|1039|<span class="rank-name-dl">ののまっしぐら</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|38|1032|<span class="rank-name-dl">イペッイロシオオ</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|39|1027|<span class="rank-name-dl">ブルモンキー</span>|<a href="https://search.dartslive.com/jp/shop/6e0fa3a85dcee8110d9b047a20a7ba1e">BULL MONKEY</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|40|1024|<span class="rank-name-dl">NN</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|41|1017|<span class="rank-name-dl">むらけん</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|42|1016|<span class="rank-name-pd">ゆうき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89578?s_seq=89578">SANBON</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|43|1014|<span class="rank-name-dl">上里 徹弥cuesoul</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|43|1014|<span class="rank-name-pd">都筑 稚菜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|45|1010|<span class="rank-name-dl">しゅん</span>|<a href="https://search.dartslive.com/jp/shop/b77af57c9e373799b21333aee1bd51e4">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|45|1010|<span class="rank-name-dl">目谷 佳大</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|45|1010|<span class="rank-name-dl">逋ｽ邀ｳ鬟ｯ螟ｪ驛</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|48|1009|<span class="rank-name-dl">ざき</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|49|1008|<span class="rank-name-dl">亮太</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|50|1007|<span class="rank-name-pd">SHUN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89578?s_seq=89578">SANBON</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|50|1007|<span class="rank-name-dl">TaFa@迷走中</span>|<a href="https://search.dartslive.com/jp/shop/b77af57c9e373799b21333aee1bd51e4">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|50|1007|<span class="rank-name-pd">丸田　和樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|53|1005|<span class="rank-name-dl">あーーちゃん★</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|54|1004|<span class="rank-name-dl">きぬ</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|54|1004|<span class="rank-name-dl">こっすー</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|56|1000|<span class="rank-name-dl">後藤 健太</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|56|1000|<span class="rank-name-dl">甲斐 亮太</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|58|999|<span class="rank-name-dl">のの</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|59|996|<span class="rank-name-dl">kouya</span>|<a href="https://search.dartslive.com/jp/shop/6e0fa3a85dcee8110d9b047a20a7ba1e">BULL MONKEY</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|60|989|<span class="rank-name-dl">杉本　勇気</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|61|987|<span class="rank-name-pd">ショうキ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89578?s_seq=89578">SANBON</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|61|987|<span class="rank-name-pd">悪【ﾄﾞｴﾛ】とみぃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89578?s_seq=89578">SANBON</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|63|983|<span class="rank-name-dl">Oguri Cap</span>|<a href="https://search.dartslive.com/jp/shop/540eb4e60468307cf454cb89828a1cfe">JOYJOY東岡崎駅前店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|64|979|<span class="rank-name-dl">すぎもん</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|64|979|<span class="rank-name-dl">はみるとん</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|66|978|<span class="rank-name-pd">SHUN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10311?s_seq=10311">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|66|978|<span class="rank-name-pd">ただのダーツおじさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|66|978|<span class="rank-name-dl">富竹</span>|<a href="https://search.dartslive.com/jp/shop/b77af57c9e373799b21333aee1bd51e4">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|69|976|<span class="rank-name-dl">masato</span>|<a href="https://search.dartslive.com/jp/shop/b77af57c9e373799b21333aee1bd51e4">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|70|969|<span class="rank-name-dl">桑江 哲矢</span>|<a href="https://search.dartslive.com/jp/shop/6e0fa3a85dcee8110d9b047a20a7ba1e">BULL MONKEY</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|71|968|<span class="rank-name-pd">あっきー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|71|968|<span class="rank-name-dl">ぐい</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|73|967|<span class="rank-name-pd"><span class="pro-icon-pd"></span>甲斐 亮太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|74|964|<span class="rank-name-dl">【ひげまる】</span>|<a href="https://search.dartslive.com/jp/shop/b77af57c9e373799b21333aee1bd51e4">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|75|963|<span class="rank-name-pd">ごとんヌ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89578?s_seq=89578">SANBON</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|76|961|<span class="rank-name-pd">バクシーシ山本</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89578?s_seq=89578">SANBON</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|77|960|<span class="rank-name-dl">さとし@DEB</span>|<a href="https://search.dartslive.com/jp/shop/6e0fa3a85dcee8110d9b047a20a7ba1e">BULL MONKEY</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|77|960|<span class="rank-name-dl">ジンとニック</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|79|959|<span class="rank-name-pd">ただのダーツおじさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89578?s_seq=89578">SANBON</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|80|955|<span class="rank-name-pd"><span class="pro-icon-pd"></span>小林 拓巳</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|81|953|<span class="rank-name-dl">ののまっしぐら</span>|<a href="https://search.dartslive.com/jp/shop/b77af57c9e373799b21333aee1bd51e4">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|81|953|<span class="rank-name-dl">カラサキウルハ</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|83|952|<span class="rank-name-dl">やまやま</span>|<a href="https://search.dartslive.com/jp/shop/b77af57c9e373799b21333aee1bd51e4">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|84|950|<span class="rank-name-dl">松浦 広貴</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|85|947|<span class="rank-name-dl">がわせ りょー</span>|<a href="https://search.dartslive.com/jp/shop/b77af57c9e373799b21333aee1bd51e4">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|86|945|<span class="rank-name-pd">ﾐｯｷｰ@なっしぃ愛知応援隊隊長</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89578?s_seq=89578">SANBON</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|87|944|<span class="rank-name-dl">けいやいや</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|87|944|<span class="rank-name-pd">ゐ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|89|943|<span class="rank-name-pd">こーた</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|90|940|<span class="rank-name-pd">澤﨑 拓也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|91|937|<span class="rank-name-dl">m</span>|<a href="https://search.dartslive.com/jp/shop/b77af57c9e373799b21333aee1bd51e4">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|92|935|<span class="rank-name-pd">ごとんヌ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|93|930|<span class="rank-name-dl">Oguri Cap</span>|<a href="https://search.dartslive.com/jp/shop/b77af57c9e373799b21333aee1bd51e4">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|94|928|<span class="rank-name-pd">小栗つくね</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|94|928|<span class="rank-name-pd">杉山 元規</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|96|926|<span class="rank-name-pd">SHUN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|97|925|<span class="rank-name-pd">†BEAT†@PP1</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|98|924|<span class="rank-name-dl">NN</span>|<a href="https://search.dartslive.com/jp/shop/b77af57c9e373799b21333aee1bd51e4">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|98|924|<span class="rank-name-dl">スギ○○ダイ○</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|100|919|<span class="rank-name-dl">MASSIVEMONKEY</span>|<a href="https://search.dartslive.com/jp/shop/6e0fa3a85dcee8110d9b047a20a7ba1e">BULL MONKEY</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|3|1200|<span class="rank-name-dl">大和久 明彦</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|3|1200|<span class="rank-name-dl">高橋 隼人</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|6|1192|<span class="rank-name-dl">初音ミク</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|7|1168|<span class="rank-name-dl">高橋 隼人</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|8|1166|<span class="rank-name-dl">カラサキウルハ</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|9|1164|<span class="rank-name-dl">高橋　隼人</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|10|1163|<span class="rank-name-dl">源Gen@Stinger</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|11|1162|<span class="rank-name-dl">Tatoo[Ｖivace]</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|12|1160|<span class="rank-name-dl">目谷佳大</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|13|1159|<span class="rank-name-dl">亮太</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|14|1155|<span class="rank-name-dl">山形　明人</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|15|1140|<span class="rank-name-dl">カラサキウルハNT</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|16|1137|<span class="rank-name-dl">木原 涼太</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|16|1137|<span class="rank-name-dl">酒井　素</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|18|1135|<span class="rank-name-dl">ＪＥＴ</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|19|1134|<span class="rank-name-pd">大和久明彦TRIPLEIGHT</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84160?s_seq=84160">Darts Practice Space T.D.C</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|20|1132|<span class="rank-name-dl">目谷 佳大</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|21|1131|<span class="rank-name-dl">Yossy</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|22|1127|<span class="rank-name-dl">D×3 鈴木大地</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|23|1125|<span class="rank-name-dl">NO NAME 5799</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|24|1124|<span class="rank-name-dl">酒井 素</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|25|1118|<span class="rank-name-dl">神田 貴秀</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|26|1117|<span class="rank-name-dl">大和久明彦</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|27|1116|<span class="rank-name-dl">後藤 健太</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|28|1115|<span class="rank-name-dl">伊藤 駿</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|29|1112|<span class="rank-name-dl">鈴木大地SoleSoul</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|30|1110|<span class="rank-name-dl">小野　恵太</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|31|1109|<span class="rank-name-dl">鈴木大地さん(35)</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|32|1105|<span class="rank-name-pd">MASA ~TRiNiDAD~</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|33|1104|<span class="rank-name-dl">けいた</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|33|1104|<span class="rank-name-dl">富竹</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|33|1104|<span class="rank-name-pd">高橋　隼人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|36|1103|<span class="rank-name-dl">さとし@DEB</span>|<a href="https://search.dartslive.com/jp/shop/6e0fa3a85dcee8110d9b047a20a7ba1e">BULL MONKEY</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|36|1103|<span class="rank-name-dl">悪【ﾄﾞｴﾛ】とみぃ</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|38|1101|<span class="rank-name-dl">のりを</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|39|1100|<span class="rank-name-dl">ぐい</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|40|1099|<span class="rank-name-dl">おぐりん</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|41|1095|<span class="rank-name-dl">ど$ま-くんHOMIE$</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|41|1095|<span class="rank-name-pd">田中銀河</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|43|1093|<span class="rank-name-dl">稲葉 成</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|44|1088|<span class="rank-name-dl">さとし@DEB</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|44|1088|<span class="rank-name-dl">有原 竜太</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|46|1085|<span class="rank-name-dl">‎( ꒪⌓꒪)ﾀﾞｲｽP</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|46|1085|<span class="rank-name-dl">らぷんつぇる</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|48|1084|<span class="rank-name-dl">ブルモンキー</span>|<a href="https://search.dartslive.com/jp/shop/6e0fa3a85dcee8110d9b047a20a7ba1e">BULL MONKEY</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|49|1083|<span class="rank-name-dl">まーしー</span>|<a href="https://search.dartslive.com/jp/shop/b77af57c9e373799b21333aee1bd51e4">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|49|1083|<span class="rank-name-dl">ブルモンキーー！</span>|<a href="https://search.dartslive.com/jp/shop/6e0fa3a85dcee8110d9b047a20a7ba1e">BULL MONKEY</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|49|1083|<span class="rank-name-dl">猫まっしぐら</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|52|1082|<span class="rank-name-dl">NonoyamAoR</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|53|1081|<span class="rank-name-dl">NonoyamA</span>|<a href="https://search.dartslive.com/jp/shop/b77af57c9e373799b21333aee1bd51e4">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|54|1079|<span class="rank-name-dl">&gt;○&lt;</span>|<a href="https://search.dartslive.com/jp/shop/b77af57c9e373799b21333aee1bd51e4">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|55|1076|<span class="rank-name-dl">イガグリ少年(32)</span>|<a href="https://search.dartslive.com/jp/shop/b77af57c9e373799b21333aee1bd51e4">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|56|1074|<span class="rank-name-dl">のの</span>|<a href="https://search.dartslive.com/jp/shop/b77af57c9e373799b21333aee1bd51e4">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|57|1073|<span class="rank-name-pd">Shun Ito</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|58|1069|<span class="rank-name-dl">(゜ー゜)</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|59|1068|<span class="rank-name-dl">みねひろ</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|60|1066|<span class="rank-name-dl">スギ○○ダイ○</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|61|1065|<span class="rank-name-dl">神田　貴秀</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|62|1064|<span class="rank-name-dl">NonoyamAoR</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|63|1062|<span class="rank-name-dl">たこやき</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|63|1062|<span class="rank-name-pd">鈴木大地@D×3</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ D×３ 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|65|1060|<span class="rank-name-dl">ネコ！∬reedo㎜</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|65|1060|<span class="rank-name-dl">仁ちゃゃゃん</span>|<a href="https://search.dartslive.com/jp/shop/b77af57c9e373799b21333aee1bd51e4">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|67|1057|<span class="rank-name-dl">大城　明香利</span>|<a href="https://search.dartslive.com/jp/shop/6e0fa3a85dcee8110d9b047a20a7ba1e">BULL MONKEY</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|67|1057|<span class="rank-name-pd">鈴木大地@sole soul</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|69|1053|<span class="rank-name-dl">さとる@GALLANT</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|70|1052|<span class="rank-name-dl">田村　亮二@Dx3</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|71|1051|<span class="rank-name-pd">ITZY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|71|1051|<span class="rank-name-dl">NonoyamA</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|71|1051|<span class="rank-name-pd">ぎ ふ ち ゃ ん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89578?s_seq=89578">SANBON</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|74|1050|<span class="rank-name-dl">悪【ﾄﾞｴﾛ】とみぃ</span>|<a href="https://search.dartslive.com/jp/shop/6e0fa3a85dcee8110d9b047a20a7ba1e">BULL MONKEY</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|74|1050|<span class="rank-name-pd">鈴木大地@D×3</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|76|1049|<span class="rank-name-dl">大和久明彦</span>|<a href="https://search.dartslive.com/jp/shop/6e0fa3a85dcee8110d9b047a20a7ba1e">BULL MONKEY</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|77|1048|<span class="rank-name-dl">takashun☆彡</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|77|1048|<span class="rank-name-pd">さとしっくす</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|79|1046|<span class="rank-name-dl">山形 明人</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|80|1044|<span class="rank-name-dl">オグリちゃん</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|81|1040|<span class="rank-name-dl">ハル.a.k.a.MUSH</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|81|1040|<span class="rank-name-pd">田中銀河</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ D×３ 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|83|1039|<span class="rank-name-dl">ののまっしぐら</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|83|1039|<span class="rank-name-dl">ののまっしぐら</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|85|1033|<span class="rank-name-dl">猫まっしぐら</span>|<a href="https://search.dartslive.com/jp/shop/b77af57c9e373799b21333aee1bd51e4">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|86|1032|<span class="rank-name-dl">イペッイロシオオ</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|87|1029|<span class="rank-name-dl">ko-kun★</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|87|1029|<span class="rank-name-pd">かんちゃん。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|89|1024|<span class="rank-name-dl">NN</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|90|1021|<span class="rank-name-dl">大和久 明彦</span>|<a href="https://search.dartslive.com/jp/shop/6e0fa3a85dcee8110d9b047a20a7ba1e">BULL MONKEY</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|90|1021|<span class="rank-name-pd"><span class="pro-icon-pd"></span>芦沢 一輝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|92|1018|<span class="rank-name-dl">ネコ！∬reedo㎜</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|93|1017|<span class="rank-name-dl">むらけん</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|94|1016|<span class="rank-name-pd">ゆうき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89578?s_seq=89578">SANBON</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|95|1014|<span class="rank-name-dl">なかがわ さとし</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|95|1014|<span class="rank-name-dl">上里 徹弥cuesoul</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|95|1014|<span class="rank-name-pd">都筑 稚菜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|98|1013|<span class="rank-name-dl">大地</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|99|1010|<span class="rank-name-dl">しゅん</span>|<a href="https://search.dartslive.com/jp/shop/b77af57c9e373799b21333aee1bd51e4">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|99|1010|<span class="rank-name-dl">目谷佳大</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -135,103 +135,103 @@ ___
 |1|1270|<span class="rank-name-dl">大和久明彦セパ</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
 |2|1210|<span class="rank-name-dl">大和久明彦</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
 |3|1200|<span class="rank-name-dl">め</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|4|1166|<span class="rank-name-dl">カラサキウルハ</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|5|1164|<span class="rank-name-dl">高橋　隼人</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|6|1163|<span class="rank-name-dl">源Gen@Stinger</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|7|1161|<span class="rank-name-dl">初音ミク</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|8|1155|<span class="rank-name-dl">山形　明人</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|9|1140|<span class="rank-name-dl">カラサキウルハNT</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|10|1117|<span class="rank-name-dl">大和久明彦</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|11|1116|<span class="rank-name-dl">後藤 健太</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|12|1115|<span class="rank-name-dl">伊藤 駿</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|13|1112|<span class="rank-name-dl">鈴木大地SoleSoul</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|14|1110|<span class="rank-name-dl">小野　恵太</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|15|1104|<span class="rank-name-dl">富竹</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|16|1103|<span class="rank-name-dl">悪【ﾄﾞｴﾛ】とみぃ</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|17|1101|<span class="rank-name-dl">のりを</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|18|1099|<span class="rank-name-dl">おぐりん</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|19|1095|<span class="rank-name-dl">ど$ま-くんHOMIE$</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|20|1085|<span class="rank-name-dl">‎( ꒪⌓꒪)ﾀﾞｲｽP</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|21|1083|<span class="rank-name-dl">まーしー</span>|<a href="https://search.dartslive.com/jp/shop/b77af57c9e373799b21333aee1bd51e4">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|21|1083|<span class="rank-name-dl">ブルモンキーー！</span>|<a href="https://search.dartslive.com/jp/shop/6e0fa3a85dcee8110d9b047a20a7ba1e">BULL MONKEY</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|23|1079|<span class="rank-name-dl">&gt;○&lt;</span>|<a href="https://search.dartslive.com/jp/shop/b77af57c9e373799b21333aee1bd51e4">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|24|1069|<span class="rank-name-dl">(゜ー゜)</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|25|1068|<span class="rank-name-dl">のの</span>|<a href="https://search.dartslive.com/jp/shop/b77af57c9e373799b21333aee1bd51e4">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|26|1065|<span class="rank-name-dl">神田　貴秀</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|27|1052|<span class="rank-name-dl">田村　亮二@Dx3</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|28|1049|<span class="rank-name-dl">みねひろ</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|29|1048|<span class="rank-name-dl">takashun☆彡</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|30|1046|<span class="rank-name-dl">さとし@DEB</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|31|1042|<span class="rank-name-dl">スギ○○ダイ○</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|32|1039|<span class="rank-name-dl">ののまっしぐら</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|32|1039|<span class="rank-name-dl">ののまっしぐら</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|34|1032|<span class="rank-name-dl">イペッイロシオオ</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|35|1027|<span class="rank-name-dl">ブルモンキー</span>|<a href="https://search.dartslive.com/jp/shop/6e0fa3a85dcee8110d9b047a20a7ba1e">BULL MONKEY</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|36|1024|<span class="rank-name-dl">NN</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|37|1017|<span class="rank-name-dl">むらけん</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|38|1014|<span class="rank-name-dl">上里 徹弥cuesoul</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|39|1010|<span class="rank-name-dl">しゅん</span>|<a href="https://search.dartslive.com/jp/shop/b77af57c9e373799b21333aee1bd51e4">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|39|1010|<span class="rank-name-dl">目谷 佳大</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|39|1010|<span class="rank-name-dl">逋ｽ邀ｳ鬟ｯ螟ｪ驛</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|42|1009|<span class="rank-name-dl">ざき</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|43|1008|<span class="rank-name-dl">亮太</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|44|1007|<span class="rank-name-dl">TaFa@迷走中</span>|<a href="https://search.dartslive.com/jp/shop/b77af57c9e373799b21333aee1bd51e4">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|45|1005|<span class="rank-name-dl">あーーちゃん★</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|46|1004|<span class="rank-name-dl">きぬ</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|46|1004|<span class="rank-name-dl">こっすー</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|48|1000|<span class="rank-name-dl">後藤 健太</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|48|1000|<span class="rank-name-dl">甲斐 亮太</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|50|999|<span class="rank-name-dl">のの</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|51|996|<span class="rank-name-dl">kouya</span>|<a href="https://search.dartslive.com/jp/shop/6e0fa3a85dcee8110d9b047a20a7ba1e">BULL MONKEY</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|52|989|<span class="rank-name-dl">杉本　勇気</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|53|983|<span class="rank-name-dl">Oguri Cap</span>|<a href="https://search.dartslive.com/jp/shop/540eb4e60468307cf454cb89828a1cfe">JOYJOY東岡崎駅前店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|54|979|<span class="rank-name-dl">すぎもん</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|54|979|<span class="rank-name-dl">はみるとん</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|56|978|<span class="rank-name-dl">富竹</span>|<a href="https://search.dartslive.com/jp/shop/b77af57c9e373799b21333aee1bd51e4">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|57|976|<span class="rank-name-dl">masato</span>|<a href="https://search.dartslive.com/jp/shop/b77af57c9e373799b21333aee1bd51e4">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|58|969|<span class="rank-name-dl">桑江 哲矢</span>|<a href="https://search.dartslive.com/jp/shop/6e0fa3a85dcee8110d9b047a20a7ba1e">BULL MONKEY</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|59|968|<span class="rank-name-dl">ぐい</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|60|964|<span class="rank-name-dl">【ひげまる】</span>|<a href="https://search.dartslive.com/jp/shop/b77af57c9e373799b21333aee1bd51e4">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|61|960|<span class="rank-name-dl">さとし@DEB</span>|<a href="https://search.dartslive.com/jp/shop/6e0fa3a85dcee8110d9b047a20a7ba1e">BULL MONKEY</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|61|960|<span class="rank-name-dl">ジンとニック</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|63|953|<span class="rank-name-dl">ののまっしぐら</span>|<a href="https://search.dartslive.com/jp/shop/b77af57c9e373799b21333aee1bd51e4">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|63|953|<span class="rank-name-dl">カラサキウルハ</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|65|952|<span class="rank-name-dl">やまやま</span>|<a href="https://search.dartslive.com/jp/shop/b77af57c9e373799b21333aee1bd51e4">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|66|950|<span class="rank-name-dl">松浦 広貴</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|67|947|<span class="rank-name-dl">がわせ りょー</span>|<a href="https://search.dartslive.com/jp/shop/b77af57c9e373799b21333aee1bd51e4">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|68|944|<span class="rank-name-dl">けいやいや</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|69|937|<span class="rank-name-dl">m</span>|<a href="https://search.dartslive.com/jp/shop/b77af57c9e373799b21333aee1bd51e4">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|70|930|<span class="rank-name-dl">Oguri Cap</span>|<a href="https://search.dartslive.com/jp/shop/b77af57c9e373799b21333aee1bd51e4">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|71|924|<span class="rank-name-dl">NN</span>|<a href="https://search.dartslive.com/jp/shop/b77af57c9e373799b21333aee1bd51e4">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|71|924|<span class="rank-name-dl">スギ○○ダイ○</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|73|919|<span class="rank-name-dl">MASSIVEMONKEY</span>|<a href="https://search.dartslive.com/jp/shop/6e0fa3a85dcee8110d9b047a20a7ba1e">BULL MONKEY</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|74|916|<span class="rank-name-dl">姫（AKI店長）</span>|<a href="https://search.dartslive.com/jp/shop/266c2873bd6fcd9cb21333aee1bd51e4">DARTS BAR AKI</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|75|914|<span class="rank-name-dl">はみるとん</span>|<a href="https://search.dartslive.com/jp/shop/6e0fa3a85dcee8110d9b047a20a7ba1e">BULL MONKEY</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|76|913|<span class="rank-name-dl">ひでででで</span>|<a href="https://search.dartslive.com/jp/shop/b77af57c9e373799b21333aee1bd51e4">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|76|913|<span class="rank-name-dl">みねひろ</span>|<a href="https://search.dartslive.com/jp/shop/b77af57c9e373799b21333aee1bd51e4">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|78|911|<span class="rank-name-dl">ＨＩＤＥ@Gomez</span>|<a href="https://search.dartslive.com/jp/shop/b77af57c9e373799b21333aee1bd51e4">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|79|909|<span class="rank-name-dl">がわせ りょー</span>|<a href="https://search.dartslive.com/jp/shop/4e8a325bcffa186b28032249b44395af">カラオケ ジョイジョイ 岡崎六名店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|80|902|<span class="rank-name-dl">ちせ</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|81|896|<span class="rank-name-dl">☆くりみなる☆</span>|<a href="https://search.dartslive.com/jp/shop/6e0fa3a85dcee8110d9b047a20a7ba1e">BULL MONKEY</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|82|895|<span class="rank-name-dl">BON BAR</span>|<a href="https://search.dartslive.com/jp/shop/b77af57c9e373799b21333aee1bd51e4">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|83|890|<span class="rank-name-dl">Tatoo[Ｖivace]</span>|<a href="https://search.dartslive.com/jp/shop/6e0fa3a85dcee8110d9b047a20a7ba1e">BULL MONKEY</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|84|887|<span class="rank-name-dl">ひ</span>|<a href="https://search.dartslive.com/jp/shop/b77af57c9e373799b21333aee1bd51e4">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|85|885|<span class="rank-name-dl">りょう</span>|<a href="https://search.dartslive.com/jp/shop/b77af57c9e373799b21333aee1bd51e4">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|86|883|<span class="rank-name-dl">じゅん(JJ)</span>|<a href="https://search.dartslive.com/jp/shop/b77af57c9e373799b21333aee1bd51e4">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|87|881|<span class="rank-name-dl">モリヤ</span>|<a href="https://search.dartslive.com/jp/shop/e79799686a311f080d9b047a20a7ba1e">食房 まんじ</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|88|876|<span class="rank-name-dl">だんごむし</span>|<a href="https://search.dartslive.com/jp/shop/b77af57c9e373799b21333aee1bd51e4">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|89|868|<span class="rank-name-dl">RUIさん</span>|<a href="https://search.dartslive.com/jp/shop/4e8a325bcffa186b28032249b44395af">カラオケ ジョイジョイ 岡崎六名店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|90|859|<span class="rank-name-dl">ど$ま-くんHOMIE$</span>|<a href="https://search.dartslive.com/jp/shop/e79799686a311f080d9b047a20a7ba1e">食房 まんじ</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|91|858|<span class="rank-name-dl">ウナム</span>|<a href="https://search.dartslive.com/jp/shop/b77af57c9e373799b21333aee1bd51e4">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|92|857|<span class="rank-name-dl">‎( ꒪⌓꒪)ﾀﾞｲｽP</span>|<a href="https://search.dartslive.com/jp/shop/6e0fa3a85dcee8110d9b047a20a7ba1e">BULL MONKEY</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|93|844|<span class="rank-name-dl">Runa</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|94|843|<span class="rank-name-dl">☆鰤之助☆</span>|<a href="https://search.dartslive.com/jp/shop/6e0fa3a85dcee8110d9b047a20a7ba1e">BULL MONKEY</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|95|842|<span class="rank-name-dl">2850</span>|<a href="https://search.dartslive.com/jp/shop/6e0fa3a85dcee8110d9b047a20a7ba1e">BULL MONKEY</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|96|839|<span class="rank-name-dl">も〜りぃ</span>|<a href="https://search.dartslive.com/jp/shop/b77af57c9e373799b21333aee1bd51e4">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|97|837|<span class="rank-name-dl">WIL¥</span>|<a href="https://search.dartslive.com/jp/shop/b77af57c9e373799b21333aee1bd51e4">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|98|836|<span class="rank-name-dl">たむ坊</span>|<a href="https://search.dartslive.com/jp/shop/b77af57c9e373799b21333aee1bd51e4">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|99|834|<span class="rank-name-dl">マサ</span>|<a href="https://search.dartslive.com/jp/shop/b77af57c9e373799b21333aee1bd51e4">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|100|831|<span class="rank-name-dl">ど$ま-くんHOMIE$</span>|<a href="https://search.dartslive.com/jp/shop/6e0fa3a85dcee8110d9b047a20a7ba1e">BULL MONKEY</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|3|1200|<span class="rank-name-dl">大和久 明彦</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|3|1200|<span class="rank-name-dl">高橋 隼人</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|6|1192|<span class="rank-name-dl">初音ミク</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|7|1168|<span class="rank-name-dl">高橋 隼人</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|8|1166|<span class="rank-name-dl">カラサキウルハ</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|9|1164|<span class="rank-name-dl">高橋　隼人</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|10|1163|<span class="rank-name-dl">源Gen@Stinger</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|11|1162|<span class="rank-name-dl">Tatoo[Ｖivace]</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|12|1160|<span class="rank-name-dl">目谷佳大</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|13|1159|<span class="rank-name-dl">亮太</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|14|1155|<span class="rank-name-dl">山形　明人</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|15|1140|<span class="rank-name-dl">カラサキウルハNT</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|16|1137|<span class="rank-name-dl">木原 涼太</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|16|1137|<span class="rank-name-dl">酒井　素</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|18|1135|<span class="rank-name-dl">ＪＥＴ</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|19|1132|<span class="rank-name-dl">目谷 佳大</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|20|1131|<span class="rank-name-dl">Yossy</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|21|1127|<span class="rank-name-dl">D×3 鈴木大地</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|22|1125|<span class="rank-name-dl">NO NAME 5799</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|23|1124|<span class="rank-name-dl">酒井 素</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|24|1118|<span class="rank-name-dl">神田 貴秀</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|25|1117|<span class="rank-name-dl">大和久明彦</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|26|1116|<span class="rank-name-dl">後藤 健太</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|27|1115|<span class="rank-name-dl">伊藤 駿</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|28|1112|<span class="rank-name-dl">鈴木大地SoleSoul</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|29|1110|<span class="rank-name-dl">小野　恵太</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|30|1109|<span class="rank-name-dl">鈴木大地さん(35)</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|31|1104|<span class="rank-name-dl">けいた</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|31|1104|<span class="rank-name-dl">富竹</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|33|1103|<span class="rank-name-dl">さとし@DEB</span>|<a href="https://search.dartslive.com/jp/shop/6e0fa3a85dcee8110d9b047a20a7ba1e">BULL MONKEY</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|33|1103|<span class="rank-name-dl">悪【ﾄﾞｴﾛ】とみぃ</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|35|1101|<span class="rank-name-dl">のりを</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|36|1100|<span class="rank-name-dl">ぐい</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|37|1099|<span class="rank-name-dl">おぐりん</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|38|1095|<span class="rank-name-dl">ど$ま-くんHOMIE$</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|39|1093|<span class="rank-name-dl">稲葉 成</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|40|1088|<span class="rank-name-dl">さとし@DEB</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|40|1088|<span class="rank-name-dl">有原 竜太</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|42|1085|<span class="rank-name-dl">‎( ꒪⌓꒪)ﾀﾞｲｽP</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|42|1085|<span class="rank-name-dl">らぷんつぇる</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|44|1084|<span class="rank-name-dl">ブルモンキー</span>|<a href="https://search.dartslive.com/jp/shop/6e0fa3a85dcee8110d9b047a20a7ba1e">BULL MONKEY</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|45|1083|<span class="rank-name-dl">まーしー</span>|<a href="https://search.dartslive.com/jp/shop/b77af57c9e373799b21333aee1bd51e4">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|45|1083|<span class="rank-name-dl">ブルモンキーー！</span>|<a href="https://search.dartslive.com/jp/shop/6e0fa3a85dcee8110d9b047a20a7ba1e">BULL MONKEY</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|45|1083|<span class="rank-name-dl">猫まっしぐら</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|48|1082|<span class="rank-name-dl">NonoyamAoR</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|49|1081|<span class="rank-name-dl">NonoyamA</span>|<a href="https://search.dartslive.com/jp/shop/b77af57c9e373799b21333aee1bd51e4">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|50|1079|<span class="rank-name-dl">&gt;○&lt;</span>|<a href="https://search.dartslive.com/jp/shop/b77af57c9e373799b21333aee1bd51e4">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|51|1076|<span class="rank-name-dl">イガグリ少年(32)</span>|<a href="https://search.dartslive.com/jp/shop/b77af57c9e373799b21333aee1bd51e4">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|52|1074|<span class="rank-name-dl">のの</span>|<a href="https://search.dartslive.com/jp/shop/b77af57c9e373799b21333aee1bd51e4">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|53|1069|<span class="rank-name-dl">(゜ー゜)</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|54|1068|<span class="rank-name-dl">みねひろ</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|55|1066|<span class="rank-name-dl">スギ○○ダイ○</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|56|1065|<span class="rank-name-dl">神田　貴秀</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|57|1064|<span class="rank-name-dl">NonoyamAoR</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|58|1062|<span class="rank-name-dl">たこやき</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|59|1060|<span class="rank-name-dl">ネコ！∬reedo㎜</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|59|1060|<span class="rank-name-dl">仁ちゃゃゃん</span>|<a href="https://search.dartslive.com/jp/shop/b77af57c9e373799b21333aee1bd51e4">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|61|1057|<span class="rank-name-dl">大城　明香利</span>|<a href="https://search.dartslive.com/jp/shop/6e0fa3a85dcee8110d9b047a20a7ba1e">BULL MONKEY</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|62|1053|<span class="rank-name-dl">さとる@GALLANT</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|63|1052|<span class="rank-name-dl">田村　亮二@Dx3</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|64|1051|<span class="rank-name-dl">NonoyamA</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|65|1050|<span class="rank-name-dl">悪【ﾄﾞｴﾛ】とみぃ</span>|<a href="https://search.dartslive.com/jp/shop/6e0fa3a85dcee8110d9b047a20a7ba1e">BULL MONKEY</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|66|1049|<span class="rank-name-dl">大和久明彦</span>|<a href="https://search.dartslive.com/jp/shop/6e0fa3a85dcee8110d9b047a20a7ba1e">BULL MONKEY</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|67|1048|<span class="rank-name-dl">takashun☆彡</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|68|1046|<span class="rank-name-dl">山形 明人</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|69|1044|<span class="rank-name-dl">オグリちゃん</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|70|1040|<span class="rank-name-dl">ハル.a.k.a.MUSH</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|71|1039|<span class="rank-name-dl">ののまっしぐら</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|71|1039|<span class="rank-name-dl">ののまっしぐら</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|73|1033|<span class="rank-name-dl">猫まっしぐら</span>|<a href="https://search.dartslive.com/jp/shop/b77af57c9e373799b21333aee1bd51e4">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|74|1032|<span class="rank-name-dl">イペッイロシオオ</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|75|1029|<span class="rank-name-dl">ko-kun★</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|76|1024|<span class="rank-name-dl">NN</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|77|1021|<span class="rank-name-dl">大和久 明彦</span>|<a href="https://search.dartslive.com/jp/shop/6e0fa3a85dcee8110d9b047a20a7ba1e">BULL MONKEY</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|78|1018|<span class="rank-name-dl">ネコ！∬reedo㎜</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|79|1017|<span class="rank-name-dl">むらけん</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|80|1014|<span class="rank-name-dl">なかがわ さとし</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|80|1014|<span class="rank-name-dl">上里 徹弥cuesoul</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|82|1013|<span class="rank-name-dl">大地</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|83|1010|<span class="rank-name-dl">しゅん</span>|<a href="https://search.dartslive.com/jp/shop/b77af57c9e373799b21333aee1bd51e4">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|83|1010|<span class="rank-name-dl">目谷佳大</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|83|1010|<span class="rank-name-dl">逋ｽ邀ｳ鬟ｯ螟ｪ驛</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|86|1009|<span class="rank-name-dl">ざき</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|87|1008|<span class="rank-name-dl">satokko</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|88|1007|<span class="rank-name-dl">TaFa@迷走中</span>|<a href="https://search.dartslive.com/jp/shop/b77af57c9e373799b21333aee1bd51e4">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|89|1005|<span class="rank-name-dl">あーーちゃん★</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|90|1004|<span class="rank-name-dl">きぬ</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|90|1004|<span class="rank-name-dl">こっすー</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|92|1003|<span class="rank-name-dl">都筑 稚菜</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|93|1001|<span class="rank-name-dl">Tatoo[Ｖivace]</span>|<a href="https://search.dartslive.com/jp/shop/6e0fa3a85dcee8110d9b047a20a7ba1e">BULL MONKEY</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|94|1000|<span class="rank-name-dl">後藤 健太</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|94|1000|<span class="rank-name-dl">甲斐 亮太</span>|<a href="https://search.dartslive.com/jp/shop/0f6671d760f774820d9b047a20a7ba1e">ダーツショップ Dx3</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|96|999|<span class="rank-name-dl">のの</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|97|996|<span class="rank-name-dl">kouya</span>|<a href="https://search.dartslive.com/jp/shop/6e0fa3a85dcee8110d9b047a20a7ba1e">BULL MONKEY</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|98|989|<span class="rank-name-dl">杉本　勇気</span>|<a href="https://search.dartslive.com/jp/shop/0c3d6010f50cee17a3f63593b5358cc4">DARTS BAR ROCKS</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|99|983|<span class="rank-name-dl">NN</span>|<a href="https://search.dartslive.com/jp/shop/b77af57c9e373799b21333aee1bd51e4">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|99|983|<span class="rank-name-dl">Oguri Cap</span>|<a href="https://search.dartslive.com/jp/shop/540eb4e60468307cf454cb89828a1cfe">JOYJOY東岡崎駅前店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
 
 
 #### PHOENIXDARTS TOP 100
@@ -241,106 +241,106 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1105|<span class="rank-name-pd">MASA ~TRiNiDAD~</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|2|1073|<span class="rank-name-pd">Shun Ito</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|3|1057|<span class="rank-name-pd">鈴木大地@sole soul</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|4|1048|<span class="rank-name-pd">さとしっくす</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|5|1016|<span class="rank-name-pd">ゆうき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89578?s_seq=89578">SANBON</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|6|1014|<span class="rank-name-pd">都筑 稚菜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|7|1007|<span class="rank-name-pd">SHUN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89578?s_seq=89578">SANBON</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|7|1007|<span class="rank-name-pd">丸田　和樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|9|987|<span class="rank-name-pd">ショうキ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89578?s_seq=89578">SANBON</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|9|987|<span class="rank-name-pd">悪【ﾄﾞｴﾛ】とみぃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89578?s_seq=89578">SANBON</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|11|978|<span class="rank-name-pd">SHUN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10311?s_seq=10311">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|11|978|<span class="rank-name-pd">ただのダーツおじさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|13|968|<span class="rank-name-pd">あっきー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|14|967|<span class="rank-name-pd"><span class="pro-icon-pd"></span>甲斐 亮太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|15|963|<span class="rank-name-pd">ごとんヌ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89578?s_seq=89578">SANBON</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|16|961|<span class="rank-name-pd">バクシーシ山本</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89578?s_seq=89578">SANBON</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|17|959|<span class="rank-name-pd">ただのダーツおじさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89578?s_seq=89578">SANBON</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|18|955|<span class="rank-name-pd"><span class="pro-icon-pd"></span>小林 拓巳</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|19|945|<span class="rank-name-pd">ﾐｯｷｰ@なっしぃ愛知応援隊隊長</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89578?s_seq=89578">SANBON</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|20|944|<span class="rank-name-pd">ゐ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|21|943|<span class="rank-name-pd">こーた</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|22|940|<span class="rank-name-pd">澤﨑 拓也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|23|935|<span class="rank-name-pd">ごとんヌ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|24|928|<span class="rank-name-pd">小栗つくね</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|24|928|<span class="rank-name-pd">杉山 元規</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|26|926|<span class="rank-name-pd">SHUN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|27|925|<span class="rank-name-pd">†BEAT†@PP1</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|28|918|<span class="rank-name-pd">T.J</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|29|915|<span class="rank-name-pd">みねひろ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|30|910|<span class="rank-name-pd">おか( ´￢｀)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|31|906|<span class="rank-name-pd">M-HIROKI5</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|32|905|<span class="rank-name-pd"><span class="pro-icon-pd"></span>甲斐 亮太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89578?s_seq=89578">SANBON</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|33|904|<span class="rank-name-pd">MARC</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|34|892|<span class="rank-name-pd">≡Ζёｇηа≡</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89578?s_seq=89578">SANBON</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|35|891|<span class="rank-name-pd">こうさく</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|36|890|<span class="rank-name-pd">初音ミク</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|37|887|<span class="rank-name-pd">貴姉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88917?s_seq=88917">JOYJOY 東岡崎駅前店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|38|883|<span class="rank-name-pd">錦</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10311?s_seq=10311">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|39|876|<span class="rank-name-pd">Oguri Cap</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10311?s_seq=10311">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|39|876|<span class="rank-name-pd">YC</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|41|869|<span class="rank-name-pd">深津(NO.103)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|42|867|<span class="rank-name-pd">痩せこけた工場長</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|43|866|<span class="rank-name-pd">mitsuki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10311?s_seq=10311">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|43|866|<span class="rank-name-pd">中村　章②</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|45|857|<span class="rank-name-pd">デスラビット🐰Pleasure</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|46|855|<span class="rank-name-pd">あーーちやん✩.*˚</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|47|852|<span class="rank-name-pd">KEITA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|47|852|<span class="rank-name-pd">RY@?!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|49|850|<span class="rank-name-pd">ヒロ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|49|850|<span class="rank-name-pd">焼き鬼斬り定食</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59635?s_seq=59635">JOYJOY 岡崎248六名店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|51|849|<span class="rank-name-pd">ぎゅうどん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|52|844|<span class="rank-name-pd">KIM YOUTH</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|53|840|<span class="rank-name-pd">いねむり</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88917?s_seq=88917">JOYJOY 東岡崎駅前店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|53|840|<span class="rank-name-pd">ヒロキチ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|55|830|<span class="rank-name-pd">Oguri Cap</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89578?s_seq=89578">SANBON</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|56|829|<span class="rank-name-pd">そーま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|57|827|<span class="rank-name-pd">ど$ま〜くん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89578?s_seq=89578">SANBON</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|58|826|<span class="rank-name-pd">しょう。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89578?s_seq=89578">SANBON</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|58|826|<span class="rank-name-pd">神野 圭祐</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89578?s_seq=89578">SANBON</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|60|822|<span class="rank-name-pd">σω･)σ26</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10311?s_seq=10311">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|60|822|<span class="rank-name-pd">ぺけお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89578?s_seq=89578">SANBON</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|62|820|<span class="rank-name-pd">どヴぁきん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|63|817|<span class="rank-name-pd">まちゃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|64|812|<span class="rank-name-pd"><span class="pro-icon-pd"></span>吉田 響</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89578?s_seq=89578">SANBON</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|64|812|<span class="rank-name-pd">楠本 純也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89578?s_seq=89578">SANBON</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|66|804|<span class="rank-name-pd">山根啓史∬ネコ！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10311?s_seq=10311">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|67|803|<span class="rank-name-pd">m.s</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10311?s_seq=10311">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|68|801|<span class="rank-name-pd">澤﨑 拓也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84160?s_seq=84160">Darts Practice Space T.D.C</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|69|800|<span class="rank-name-pd">亮太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|70|799|<span class="rank-name-pd">0008_0247</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89578?s_seq=89578">SANBON</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|71|792|<span class="rank-name-pd">Oguri Cap</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88917?s_seq=88917">JOYJOY 東岡崎駅前店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|72|791|<span class="rank-name-pd">@YOSHINORI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89578?s_seq=89578">SANBON</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|73|790|<span class="rank-name-pd">ヒロキチ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10311?s_seq=10311">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|74|785|<span class="rank-name-pd">♾たにヤン♾</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|75|780|<span class="rank-name-pd">RUNA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|76|778|<span class="rank-name-pd">まき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|77|777|<span class="rank-name-pd">紀州南高梅</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10311?s_seq=10311">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|78|776|<span class="rank-name-pd">川口 颯太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|78|776|<span class="rank-name-pd">雪だるま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|80|775|<span class="rank-name-pd">ひとねむり</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88917?s_seq=88917">JOYJOY 東岡崎駅前店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|80|775|<span class="rank-name-pd">正</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|82|772|<span class="rank-name-pd">たらちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89578?s_seq=89578">SANBON</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|83|771|<span class="rank-name-pd">≡Ζёｇηа≡</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|84|770|<span class="rank-name-pd">Guchi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10311?s_seq=10311">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|85|769|<span class="rank-name-pd">おぐりん。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|85|769|<span class="rank-name-pd">ひーちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89578?s_seq=89578">SANBON</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|87|768|<span class="rank-name-pd">44H!RO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|88|767|<span class="rank-name-pd">マサ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10311?s_seq=10311">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|89|764|<span class="rank-name-pd">雅鬼∞STRAD</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|90|762|<span class="rank-name-pd">AYM39</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10311?s_seq=10311">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|91|757|<span class="rank-name-pd">しょう。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|92|756|<span class="rank-name-pd">こうた</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89578?s_seq=89578">SANBON</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|93|753|<span class="rank-name-pd">TAKU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88917?s_seq=88917">JOYJOY 東岡崎駅前店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|94|748|<span class="rank-name-pd">エレノア</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|95|745|<span class="rank-name-pd">sig</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|96|742|<span class="rank-name-pd">MIRAI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|97|741|<span class="rank-name-pd">ひび君</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89578?s_seq=89578">SANBON</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|98|739|<span class="rank-name-pd">たくみさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84160?s_seq=84160">Darts Practice Space T.D.C</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|99|737|<span class="rank-name-pd">RY@?!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10311?s_seq=10311">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
-|100|734|<span class="rank-name-pd">ｷｭｱﾐｷﾐｷ@あすかしか勝たん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89578?s_seq=89578">SANBON</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|1|1134|<span class="rank-name-pd">大和久明彦TRIPLEIGHT</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84160?s_seq=84160">Darts Practice Space T.D.C</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|2|1105|<span class="rank-name-pd">MASA ~TRiNiDAD~</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|3|1104|<span class="rank-name-pd">高橋　隼人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|4|1095|<span class="rank-name-pd">田中銀河</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|5|1073|<span class="rank-name-pd">Shun Ito</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|6|1062|<span class="rank-name-pd">鈴木大地@D×3</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ D×３ 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|7|1057|<span class="rank-name-pd">鈴木大地@sole soul</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|8|1051|<span class="rank-name-pd">ITZY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|8|1051|<span class="rank-name-pd">ぎ ふ ち ゃ ん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89578?s_seq=89578">SANBON</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|10|1050|<span class="rank-name-pd">鈴木大地@D×3</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|11|1048|<span class="rank-name-pd">さとしっくす</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|12|1040|<span class="rank-name-pd">田中銀河</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ D×３ 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|13|1029|<span class="rank-name-pd">かんちゃん。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|14|1021|<span class="rank-name-pd"><span class="pro-icon-pd"></span>芦沢 一輝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|15|1016|<span class="rank-name-pd">ゆうき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89578?s_seq=89578">SANBON</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|16|1014|<span class="rank-name-pd">都筑 稚菜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|17|1007|<span class="rank-name-pd">SHUN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89578?s_seq=89578">SANBON</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|17|1007|<span class="rank-name-pd">丸田　和樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|19|1001|<span class="rank-name-pd">おか( ´￢｀)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|20|999|<span class="rank-name-pd">ぺけお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89578?s_seq=89578">SANBON</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|21|987|<span class="rank-name-pd">ショうキ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89578?s_seq=89578">SANBON</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|21|987|<span class="rank-name-pd">悪【ﾄﾞｴﾛ】とみぃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89578?s_seq=89578">SANBON</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|23|980|<span class="rank-name-pd">おぐりん。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|24|978|<span class="rank-name-pd">SHUN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10311?s_seq=10311">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|24|978|<span class="rank-name-pd">ただのダーツおじさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|26|977|<span class="rank-name-pd">店舗公認非公式テーマ配布用</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ D×３ 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|27|975|<span class="rank-name-pd">亮太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|28|974|<span class="rank-name-pd">003</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|28|974|<span class="rank-name-pd">おか( ´￢｀)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ D×３ 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|30|968|<span class="rank-name-pd">あっきー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|30|968|<span class="rank-name-pd">悪【ﾄﾞｴﾛ】とみぃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88917?s_seq=88917">JOYJOY 東岡崎駅前店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|30|968|<span class="rank-name-pd">痩せこけた工場長</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ D×３ 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|33|967|<span class="rank-name-pd"><span class="pro-icon-pd"></span>浦野 力</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ D×３ 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|33|967|<span class="rank-name-pd"><span class="pro-icon-pd"></span>甲斐 亮太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|35|963|<span class="rank-name-pd">ごとんヌ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89578?s_seq=89578">SANBON</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|36|961|<span class="rank-name-pd">バクシーシ山本</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89578?s_seq=89578">SANBON</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|37|959|<span class="rank-name-pd">ただのダーツおじさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89578?s_seq=89578">SANBON</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|38|958|<span class="rank-name-pd">ネムスン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ D×３ 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|39|955|<span class="rank-name-pd"><span class="pro-icon-pd"></span>小林 拓巳</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|40|954|<span class="rank-name-pd"><span class="pro-icon-pd"></span>杉山 元規</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|41|952|<span class="rank-name-pd">らぷんつぇる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|42|945|<span class="rank-name-pd">がわせ りょー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_93377?s_seq=93377">JOYJOY 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|42|945|<span class="rank-name-pd">ﾐｯｷｰ@なっしぃ愛知応援隊隊長</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89578?s_seq=89578">SANBON</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|44|944|<span class="rank-name-pd">ゐ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|45|943|<span class="rank-name-pd">こーた</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|46|940|<span class="rank-name-pd"><span class="pro-icon-pd"></span>平石 勝文</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ D×３ 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|46|940|<span class="rank-name-pd">澤﨑 拓也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|48|939|<span class="rank-name-pd">かんちゃん。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ D×３ 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|49|935|<span class="rank-name-pd">ごとんヌ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|50|928|<span class="rank-name-pd">小栗つくね</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|51|926|<span class="rank-name-pd">SHUN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|52|925|<span class="rank-name-pd">†BEAT†@PP1</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|53|921|<span class="rank-name-pd">うめちん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|53|921|<span class="rank-name-pd">ネコ！∬reedo㎜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ D×３ 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|55|919|<span class="rank-name-pd">けいた</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ D×３ 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|55|919|<span class="rank-name-pd">磯部　宏汰</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ D×３ 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|57|918|<span class="rank-name-pd">T.J</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|58|915|<span class="rank-name-pd">みねひろ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|59|911|<span class="rank-name-pd">NAGATATSU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ D×３ 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|59|911|<span class="rank-name-pd">yuki-saaaaan^-^</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ D×３ 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|61|906|<span class="rank-name-pd">M-HIROKI5</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|62|905|<span class="rank-name-pd"><span class="pro-icon-pd"></span>甲斐 亮太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89578?s_seq=89578">SANBON</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|63|904|<span class="rank-name-pd">MARC</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|64|903|<span class="rank-name-pd">@YOSHINORI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89578?s_seq=89578">SANBON</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|64|903|<span class="rank-name-pd">TAKA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|64|903|<span class="rank-name-pd">澤﨑 拓也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84160?s_seq=84160">Darts Practice Space T.D.C</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|67|895|<span class="rank-name-pd">ひででで</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10311?s_seq=10311">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|68|893|<span class="rank-name-pd">あるる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|68|893|<span class="rank-name-pd">店舗公認非公式テーマ配布用</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|70|892|<span class="rank-name-pd">≡Ζёｇηа≡</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89578?s_seq=89578">SANBON</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|71|891|<span class="rank-name-pd">こうさく</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|72|890|<span class="rank-name-pd">ωにゃ七ω☆Air Grow</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|72|890|<span class="rank-name-pd">初音ミク</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|74|887|<span class="rank-name-pd">貴姉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88917?s_seq=88917">JOYJOY 東岡崎駅前店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|75|883|<span class="rank-name-pd">オグリちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10311?s_seq=10311">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|75|883|<span class="rank-name-pd">錦</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10311?s_seq=10311">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|75|883|<span class="rank-name-pd">ＪＥＴ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|78|881|<span class="rank-name-pd">オグリちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|79|878|<span class="rank-name-pd">ネコ！∬Orion</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|80|876|<span class="rank-name-pd">Oguri Cap</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10311?s_seq=10311">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|80|876|<span class="rank-name-pd">YC</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|80|876|<span class="rank-name-pd">まき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|83|875|<span class="rank-name-pd">杉山 元規</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ D×３ 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|84|871|<span class="rank-name-pd">雅鬼∞STRAD</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59635?s_seq=59635">JOYJOY 岡崎248六名店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|85|869|<span class="rank-name-pd">深津(NO.103)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|86|867|<span class="rank-name-pd">痩せこけた工場長</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|87|866|<span class="rank-name-pd">mitsuki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10311?s_seq=10311">快活CLUB 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|87|866|<span class="rank-name-pd">中村　章②</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|89|859|<span class="rank-name-pd">RUNA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|90|857|<span class="rank-name-pd">NonoyamAoR</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|90|857|<span class="rank-name-pd">デスラビット🐰Pleasure</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|90|857|<span class="rank-name-pd">北国 寒太郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|93|855|<span class="rank-name-pd">あーーちやん✩.*˚</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|93|855|<span class="rank-name-pd">でんかちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_59635?s_seq=59635">JOYJOY 岡崎248六名店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|95|852|<span class="rank-name-pd">KEITA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|95|852|<span class="rank-name-pd">RY@?!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|95|852|<span class="rank-name-pd">まっちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|98|851|<span class="rank-name-pd"><span class="pro-icon-pd"></span>平石 勝文</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_93377?s_seq=93377">JOYJOY 岡崎大樹寺店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|99|850|<span class="rank-name-pd">かず☆たく</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89578?s_seq=89578">SANBON</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
+|99|850|<span class="rank-name-pd">ヒロ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_46725?s_seq=46725">ダーツショップ ディースリー 岡崎店</a>|<a href="/darts/rank/愛知県/岡崎市">愛知県岡崎市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

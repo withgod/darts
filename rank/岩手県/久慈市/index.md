@@ -23,21 +23,47 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|968|<span class="rank-name-dl">昆　正吉</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
-|2|927|<span class="rank-name-dl">SHARAKUマサキチ</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
-|3|922|<span class="rank-name-dl">坂本　翔</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
-|4|854|<span class="rank-name-dl">マ　サ　キ　チ</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
-|5|852|<span class="rank-name-dl">月火水木金正日</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
-|6|683|<span class="rank-name-dl">なっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
-|7|673|<span class="rank-name-dl">ｸｱﾄﾛ【Club M+】</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
-|8|597|<span class="rank-name-dl">板谷 仁</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
-|9|591|<span class="rank-name-dl">ちゃーまる</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
-|10|589|<span class="rank-name-dl">大西です。</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
-|11|532|<span class="rank-name-dl">やっちまん</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
-|12|455|<span class="rank-name-dl">msk</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
-|13|432|<span class="rank-name-dl">スナック中の橋</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
-|14|427|<span class="rank-name-dl">あお</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
-|15|425|<span class="rank-name-dl">はぴ</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|1|1093|<span class="rank-name-dl">マム</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|2|1043|<span class="rank-name-dl">Mamu.</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|3|980|<span class="rank-name-dl">土反本羊羽</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|4|968|<span class="rank-name-dl">昆　正吉</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|5|957|<span class="rank-name-dl">SHARAKUマサキチ</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|6|956|<span class="rank-name-dl">藤嶌 淳樹</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|7|922|<span class="rank-name-dl">坂本　翔</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|8|905|<span class="rank-name-dl">SHARAKUでぶやん</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|9|904|<span class="rank-name-dl">大洞　祐輔</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|10|854|<span class="rank-name-dl">マ　サ　キ　チ</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|11|852|<span class="rank-name-dl">月火水木金正日</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|12|817|<span class="rank-name-dl">専業主夫志望</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|13|747|<span class="rank-name-dl">あおっち</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|14|722|<span class="rank-name-dl">キー@中の橋</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|15|720|<span class="rank-name-dl">Ryuma_6666</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|16|712|<span class="rank-name-dl">臼澤 勝</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|17|706|<span class="rank-name-dl">@カス代表</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|18|701|<span class="rank-name-dl">アシタけ</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|19|692|<span class="rank-name-dl">みんなのやまﾁｬﾝ｡</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|20|683|<span class="rank-name-dl">なっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|21|673|<span class="rank-name-dl">ｸｱﾄﾛ【Club M+】</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|22|663|<span class="rank-name-dl">カス代表＠中の橋</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|23|660|<span class="rank-name-dl">大西です。</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|24|659|<span class="rank-name-dl">ズン＠中の橋</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|25|658|<span class="rank-name-dl">きゃんでぃ</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|26|649|<span class="rank-name-dl">もっちん</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|27|630|<span class="rank-name-dl">せーや</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|28|623|<span class="rank-name-dl">レイン</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|29|618|<span class="rank-name-dl">板谷 仁</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|30|605|<span class="rank-name-dl">しんびー</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|31|593|<span class="rank-name-dl">ケンヤーマン</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|32|591|<span class="rank-name-dl">ちゃーまる</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|33|585|<span class="rank-name-dl">スナック中の橋</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|34|583|<span class="rank-name-dl">ﾁｬﾝﾁｬﾝ@曉組☾.</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|35|575|<span class="rank-name-dl">我家＠カス代表</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|36|551|<span class="rank-name-dl">msk</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|37|532|<span class="rank-name-dl">やっちまん</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|38|526|<span class="rank-name-dl">hiro</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|39|513|<span class="rank-name-dl">でんすけぇサブ</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|40|467|<span class="rank-name-dl">あお</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|41|425|<span class="rank-name-dl">はぴ</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -47,21 +73,47 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|968|<span class="rank-name-dl">昆　正吉</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
-|2|927|<span class="rank-name-dl">SHARAKUマサキチ</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
-|3|922|<span class="rank-name-dl">坂本　翔</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
-|4|854|<span class="rank-name-dl">マ　サ　キ　チ</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
-|5|852|<span class="rank-name-dl">月火水木金正日</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
-|6|683|<span class="rank-name-dl">なっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
-|7|673|<span class="rank-name-dl">ｸｱﾄﾛ【Club M+】</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
-|8|597|<span class="rank-name-dl">板谷 仁</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
-|9|591|<span class="rank-name-dl">ちゃーまる</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
-|10|589|<span class="rank-name-dl">大西です。</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
-|11|532|<span class="rank-name-dl">やっちまん</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
-|12|455|<span class="rank-name-dl">msk</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
-|13|432|<span class="rank-name-dl">スナック中の橋</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
-|14|427|<span class="rank-name-dl">あお</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
-|15|425|<span class="rank-name-dl">はぴ</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|1|1093|<span class="rank-name-dl">マム</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|2|1043|<span class="rank-name-dl">Mamu.</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|3|980|<span class="rank-name-dl">土反本羊羽</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|4|968|<span class="rank-name-dl">昆　正吉</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|5|957|<span class="rank-name-dl">SHARAKUマサキチ</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|6|956|<span class="rank-name-dl">藤嶌 淳樹</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|7|922|<span class="rank-name-dl">坂本　翔</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|8|905|<span class="rank-name-dl">SHARAKUでぶやん</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|9|904|<span class="rank-name-dl">大洞　祐輔</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|10|854|<span class="rank-name-dl">マ　サ　キ　チ</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|11|852|<span class="rank-name-dl">月火水木金正日</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|12|817|<span class="rank-name-dl">専業主夫志望</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|13|747|<span class="rank-name-dl">あおっち</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|14|722|<span class="rank-name-dl">キー@中の橋</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|15|720|<span class="rank-name-dl">Ryuma_6666</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|16|712|<span class="rank-name-dl">臼澤 勝</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|17|706|<span class="rank-name-dl">@カス代表</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|18|701|<span class="rank-name-dl">アシタけ</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|19|692|<span class="rank-name-dl">みんなのやまﾁｬﾝ｡</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|20|683|<span class="rank-name-dl">なっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|21|673|<span class="rank-name-dl">ｸｱﾄﾛ【Club M+】</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|22|663|<span class="rank-name-dl">カス代表＠中の橋</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|23|660|<span class="rank-name-dl">大西です。</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|24|659|<span class="rank-name-dl">ズン＠中の橋</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|25|658|<span class="rank-name-dl">きゃんでぃ</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|26|649|<span class="rank-name-dl">もっちん</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|27|630|<span class="rank-name-dl">せーや</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|28|623|<span class="rank-name-dl">レイン</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|29|618|<span class="rank-name-dl">板谷 仁</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|30|605|<span class="rank-name-dl">しんびー</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|31|593|<span class="rank-name-dl">ケンヤーマン</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|32|591|<span class="rank-name-dl">ちゃーまる</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|33|585|<span class="rank-name-dl">スナック中の橋</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|34|583|<span class="rank-name-dl">ﾁｬﾝﾁｬﾝ@曉組☾.</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|35|575|<span class="rank-name-dl">我家＠カス代表</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|36|551|<span class="rank-name-dl">msk</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|37|532|<span class="rank-name-dl">やっちまん</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|38|526|<span class="rank-name-dl">hiro</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|39|513|<span class="rank-name-dl">でんすけぇサブ</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|40|467|<span class="rank-name-dl">あお</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
+|41|425|<span class="rank-name-dl">はぴ</span>|<a href="https://search.dartslive.com/jp/shop/8fc5ff0ecb03409c58d385ea46352d8f">HOME</a>|<a href="/darts/rank/岩手県/久慈市">岩手県久慈市</a>|
 
 
 #### PHOENIXDARTS TOP 100

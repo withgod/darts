@@ -23,106 +23,106 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1111|<span class="rank-name-dl">和泉　真平</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|2|1100|<span class="rank-name-dl">磯和 勇希</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|3|1047|<span class="rank-name-dl">石原　蒼</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|4|986|<span class="rank-name-dl">123</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|5|983|<span class="rank-name-dl">おかへい@pirata</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|6|967|<span class="rank-name-dl">翔大</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|7|966|<span class="rank-name-dl">kenzonium</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|8|965|<span class="rank-name-dl">@kira</span>|<a href="https://search.dartslive.com/jp/shop/74289bbd4a643f5ca3f63593b5358cc4">ダイニングバー JO-GO</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|9|961|<span class="rank-name-dl">おかへー</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|10|941|<span class="rank-name-dl">C-onホケーキョ♂</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|11|931|<span class="rank-name-dl">ゆっきぃ</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|12|930|<span class="rank-name-dl">ぎんｷﾞﾗｷﾞｰﾝ^q^</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|13|926|<span class="rank-name-dl">_</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|14|912|<span class="rank-name-dl">なおや@max</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|15|907|<span class="rank-name-dl">ぎん(°∀°)ｷﾞｰﾝ</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|16|900|<span class="rank-name-dl">おキャンタマ匠真</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|17|899|<span class="rank-name-dl">むきcafe bar GeM</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|18|896|<span class="rank-name-dl">とよ@現場ar</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|19|881|<span class="rank-name-dl">@ki</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|20|878|<span class="rank-name-dl">ハニホ</span>|<a href="https://search.dartslive.com/jp/shop/74289bbd4a643f5ca3f63593b5358cc4">ダイニングバー JO-GO</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|21|872|<span class="rank-name-dl">pirata★よぉこ</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|22|870|<span class="rank-name-dl">KING&#x27;S キタ</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|22|870|<span class="rank-name-dl">柊城 孝生</span>|<a href="https://search.dartslive.com/jp/shop/74289bbd4a643f5ca3f63593b5358cc4">ダイニングバー JO-GO</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|24|867|<span class="rank-name-dl">堀江　勇人</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|25|864|<span class="rank-name-dl">現場ar＝G･A･M･E</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|26|853|<span class="rank-name-dl">ARE☆DAI☆sole</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|27|851|<span class="rank-name-dl">とよ＠現場ar</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|28|846|<span class="rank-name-dl">kenjha</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|29|837|<span class="rank-name-dl">atsushi+revenge+</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|30|833|<span class="rank-name-dl">HARRY</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|31|832|<span class="rank-name-dl">ちょね丸水産</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|32|831|<span class="rank-name-dl">∽シバ∽</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|33|819|<span class="rank-name-dl">和@現場ar</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|34|817|<span class="rank-name-dl">ハリ</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|35|814|<span class="rank-name-dl">酒enz</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|36|810|<span class="rank-name-dl">ばちお</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|37|805|<span class="rank-name-dl">miyuakichun⭐︎</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|38|791|<span class="rank-name-dl">ばちお(酒)</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|39|788|<span class="rank-name-dl">ひろ@LOWSCORE</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|39|788|<span class="rank-name-dl">メガザル酒enjha</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|39|788|<span class="rank-name-dl">宗吉</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|42|786|<span class="rank-name-dl">酒enjha</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|43|784|<span class="rank-name-dl">たいち@DROTIKI</span>|<a href="https://search.dartslive.com/jp/shop/6948cdc1237819c125d56fb0e5c39bac">カラオケサウンドキューブ 生野店</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|44|778|<span class="rank-name-dl">NO NAME 8368</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|45|773|<span class="rank-name-dl">Rose@グッチ</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|46|772|<span class="rank-name-dl">KAZMAer</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|47|769|<span class="rank-name-dl">アッキー</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|48|764|<span class="rank-name-dl">としやす</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|49|760|<span class="rank-name-dl">D&amp;Mの拓也</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|50|755|<span class="rank-name-dl">どんぐりたけし</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|51|743|<span class="rank-name-dl">ko-n</span>|<a href="https://search.dartslive.com/jp/shop/74289bbd4a643f5ca3f63593b5358cc4">ダイニングバー JO-GO</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|52|741|<span class="rank-name-dl">drunkenstein</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|52|741|<span class="rank-name-dl">ﾕｳｻｸ★</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|54|740|<span class="rank-name-dl">sho//@R</span>|<a href="https://search.dartslive.com/jp/shop/74289bbd4a643f5ca3f63593b5358cc4">ダイニングバー JO-GO</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|55|732|<span class="rank-name-dl">きゅーり＠野菜</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|56|731|<span class="rank-name-dl">ばちお</span>|<a href="https://search.dartslive.com/jp/shop/74289bbd4a643f5ca3f63593b5358cc4">ダイニングバー JO-GO</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|57|729|<span class="rank-name-dl">SHIGE：Ji</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|57|729|<span class="rank-name-dl">tomo@( &#x27;-&#x27; )?</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|59|727|<span class="rank-name-dl">KINGs かな野郎＊</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|60|725|<span class="rank-name-dl">† Jun兄 †</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|61|723|<span class="rank-name-dl">高裕</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|62|718|<span class="rank-name-dl">仏様</span>|<a href="https://search.dartslive.com/jp/shop/6948cdc1237819c125d56fb0e5c39bac">カラオケサウンドキューブ 生野店</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|63|709|<span class="rank-name-dl">もじゃ@現場ar</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|64|701|<span class="rank-name-dl">ﾊﾑちゃん公佑</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|65|699|<span class="rank-name-dl">ハマクリちゃん</span>|<a href="https://search.dartslive.com/jp/shop/74289bbd4a643f5ca3f63593b5358cc4">ダイニングバー JO-GO</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|66|698|<span class="rank-name-dl">Daddy</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|67|696|<span class="rank-name-dl">KO-SHITOKe</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|68|695|<span class="rank-name-dl">Mi</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|69|686|<span class="rank-name-dl">りほ</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|70|685|<span class="rank-name-dl">のぐしん</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|71|684|<span class="rank-name-dl">としやす＝利保</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|72|680|<span class="rank-name-dl">GOD∽8192</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|73|678|<span class="rank-name-dl">現場ar⇒Jun兄</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|74|675|<span class="rank-name-dl">AKIRA</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|75|670|<span class="rank-name-dl">あみ</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|76|669|<span class="rank-name-dl">♡ru_ucy S8</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|77|665|<span class="rank-name-dl">＊NANAE＊</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|78|662|<span class="rank-name-dl">目指せJAPAN</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|79|660|<span class="rank-name-dl">サップ？いや池だ</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|80|654|<span class="rank-name-dl">Rose@グッチ</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|81|651|<span class="rank-name-dl">そそーは@ENDLESS</span>|<a href="https://search.dartslive.com/jp/shop/74289bbd4a643f5ca3f63593b5358cc4">ダイニングバー JO-GO</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|82|644|<span class="rank-name-dl">kotoe★</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|83|638|<span class="rank-name-dl">はちべぇ</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|84|629|<span class="rank-name-dl">tomo@( &#x27;-&#x27; )?</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|85|616|<span class="rank-name-dl">ぴっぴ</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|85|616|<span class="rank-name-dl">オカン@JO-GO</span>|<a href="https://search.dartslive.com/jp/shop/74289bbd4a643f5ca3f63593b5358cc4">ダイニングバー JO-GO</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|87|609|<span class="rank-name-dl">ﾑﾁﾑﾁ♡ﾋﾟｽﾀﾁｵ</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|88|606|<span class="rank-name-dl">takuma</span>|<a href="https://search.dartslive.com/jp/shop/74289bbd4a643f5ca3f63593b5358cc4">ダイニングバー JO-GO</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|89|597|<span class="rank-name-dl">Satsuki@PIRATA</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|90|593|<span class="rank-name-dl">池サップ尚宏</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|91|587|<span class="rank-name-dl">∽シバ∽</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|91|587|<span class="rank-name-dl">ｱﾏｯﾀﾚﾝﾅwさゅ*</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|93|582|<span class="rank-name-dl">うに</span>|<a href="https://search.dartslive.com/jp/shop/74289bbd4a643f5ca3f63593b5358cc4">ダイニングバー JO-GO</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|94|580|<span class="rank-name-dl">チョロQしょうた</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|95|578|<span class="rank-name-dl">那乃@現場ar</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|96|570|<span class="rank-name-dl">翔大</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|97|567|<span class="rank-name-dl">こ〜さ〜〜ん</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|97|567|<span class="rank-name-dl">とっとと飲め太郎</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|97|567|<span class="rank-name-dl">ジャイ勘違い中</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|97|567|<span class="rank-name-dl">量産型じゅん</span>|<a href="https://search.dartslive.com/jp/shop/74289bbd4a643f5ca3f63593b5358cc4">ダイニングバー JO-GO</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|1|1119|<span class="rank-name-dl">おかへー</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|2|1111|<span class="rank-name-dl">和泉　真平</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|3|1100|<span class="rank-name-dl">磯和 勇希</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|4|1061|<span class="rank-name-dl">みっふぃ〜。</span>|<a href="https://search.dartslive.com/jp/shop/74289bbd4a643f5ca3f63593b5358cc4">ダイニングバー JO-GO</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|5|1047|<span class="rank-name-dl">石原　蒼</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|6|1026|<span class="rank-name-dl">C-onホケーキョ♂</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|7|1015|<span class="rank-name-dl">現場ar@れん</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|8|1004|<span class="rank-name-dl">和泉 真平</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|9|1000|<span class="rank-name-dl">誠</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|10|997|<span class="rank-name-dl">@ki</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|11|986|<span class="rank-name-dl">123</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|12|983|<span class="rank-name-dl">おかへい@pirata</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|13|967|<span class="rank-name-dl">とよ＠現場ar</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|13|967|<span class="rank-name-dl">翔大</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|15|966|<span class="rank-name-dl">kenzonium</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|16|965|<span class="rank-name-dl">@kira</span>|<a href="https://search.dartslive.com/jp/shop/74289bbd4a643f5ca3f63593b5358cc4">ダイニングバー JO-GO</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|17|952|<span class="rank-name-dl">和泉 真平 DMC</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|18|951|<span class="rank-name-dl">きしもっ</span>|<a href="https://search.dartslive.com/jp/shop/74289bbd4a643f5ca3f63593b5358cc4">ダイニングバー JO-GO</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|19|950|<span class="rank-name-dl">翔大＠GeM</span>|<a href="https://search.dartslive.com/jp/shop/74289bbd4a643f5ca3f63593b5358cc4">ダイニングバー JO-GO</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|20|947|<span class="rank-name-dl">のぐしん</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|21|944|<span class="rank-name-dl">しん Rose soul</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|22|933|<span class="rank-name-dl">Swan@Nari</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|23|931|<span class="rank-name-dl">ゆっきぃ</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|24|930|<span class="rank-name-dl">ぎんｷﾞﾗｷﾞｰﾝ^q^</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|25|926|<span class="rank-name-dl">_</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|26|922|<span class="rank-name-dl">柊城 孝生</span>|<a href="https://search.dartslive.com/jp/shop/74289bbd4a643f5ca3f63593b5358cc4">ダイニングバー JO-GO</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|27|920|<span class="rank-name-dl">なおや@max</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|28|917|<span class="rank-name-dl">こ〜へ〜ROSE</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|29|913|<span class="rank-name-dl">むきcafe bar GeM</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|30|907|<span class="rank-name-dl">ぎん(°∀°)ｷﾞｰﾝ</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|31|900|<span class="rank-name-dl">おキャンタマ匠真</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|32|898|<span class="rank-name-dl">ARE☆DAI☆sole</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|33|896|<span class="rank-name-dl">とよ@現場ar</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|34|893|<span class="rank-name-dl">拓磨</span>|<a href="https://search.dartslive.com/jp/shop/938494433dae45730d9b047a20a7ba1e">HANJYAN</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|35|890|<span class="rank-name-dl">R☆A</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|36|888|<span class="rank-name-dl">原田海聖</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|37|887|<span class="rank-name-dl">【　　　】</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|38|886|<span class="rank-name-dl">しん　Rose soul</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|39|878|<span class="rank-name-dl">ハニホ</span>|<a href="https://search.dartslive.com/jp/shop/74289bbd4a643f5ca3f63593b5358cc4">ダイニングバー JO-GO</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|40|872|<span class="rank-name-dl">DoNa☆ドナテッラ</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|40|872|<span class="rank-name-dl">pirata★よぉこ</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|42|870|<span class="rank-name-dl">KING&#x27;S キタ</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|43|869|<span class="rank-name-dl">jhaken</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|43|869|<span class="rank-name-dl">kenchara@GeM</span>|<a href="https://search.dartslive.com/jp/shop/74289bbd4a643f5ca3f63593b5358cc4">ダイニングバー JO-GO</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|45|868|<span class="rank-name-dl">ばちお</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|45|868|<span class="rank-name-dl">和@現場ar</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|47|867|<span class="rank-name-dl">Harry</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|47|867|<span class="rank-name-dl">堀江　勇人</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|49|866|<span class="rank-name-dl">ひろ@GeM</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|50|864|<span class="rank-name-dl">現場ar＝G･A･M･E</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|51|862|<span class="rank-name-dl">きしも@</span>|<a href="https://search.dartslive.com/jp/shop/74289bbd4a643f5ca3f63593b5358cc4">ダイニングバー JO-GO</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|52|852|<span class="rank-name-dl">ワドゥPower</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|53|850|<span class="rank-name-dl">drunkenstein</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|54|848|<span class="rank-name-dl">ばちお(禁酒)</span>|<a href="https://search.dartslive.com/jp/shop/74289bbd4a643f5ca3f63593b5358cc4">ダイニングバー JO-GO</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|55|846|<span class="rank-name-dl">kenjha</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|55|846|<span class="rank-name-dl">マヨスター</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|57|845|<span class="rank-name-dl">J B N</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|58|843|<span class="rank-name-dl">とよ＠現場ar</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|58|843|<span class="rank-name-dl">はれ</span>|<a href="https://search.dartslive.com/jp/shop/938494433dae45730d9b047a20a7ba1e">HANJYAN</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|60|841|<span class="rank-name-dl">☆</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|61|839|<span class="rank-name-dl">もじゃ@現場ar</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|62|838|<span class="rank-name-dl">＠サップ</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|63|837|<span class="rank-name-dl">atsushi+revenge+</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|64|833|<span class="rank-name-dl">HARRY</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|64|833|<span class="rank-name-dl">ヒダカ</span>|<a href="https://search.dartslive.com/jp/shop/6948cdc1237819c125d56fb0e5c39bac">カラオケサウンドキューブ 生野店</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|66|832|<span class="rank-name-dl">ちょね丸水産</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|67|831|<span class="rank-name-dl">∽シバ∽</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|67|831|<span class="rank-name-dl">忘我のtakuma</span>|<a href="https://search.dartslive.com/jp/shop/6948cdc1237819c125d56fb0e5c39bac">カラオケサウンドキューブ 生野店</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|69|828|<span class="rank-name-dl">仏様　(裏アカ♡)</span>|<a href="https://search.dartslive.com/jp/shop/6948cdc1237819c125d56fb0e5c39bac">カラオケサウンドキューブ 生野店</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|70|817|<span class="rank-name-dl">ハリ</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|71|815|<span class="rank-name-dl">現場ar ホケキョ</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|72|814|<span class="rank-name-dl">酒enz</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|73|808|<span class="rank-name-dl">SHINGO.</span>|<a href="https://search.dartslive.com/jp/shop/938494433dae45730d9b047a20a7ba1e">HANJYAN</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|74|807|<span class="rank-name-dl">ばちお(禁酒)</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|75|805|<span class="rank-name-dl">miyuakichun⭐︎</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|75|805|<span class="rank-name-dl">shodai</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|77|800|<span class="rank-name-dl">Haru Haru</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|78|796|<span class="rank-name-dl">NK</span>|<a href="https://search.dartslive.com/jp/shop/6948cdc1237819c125d56fb0e5c39bac">カラオケサウンドキューブ 生野店</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|79|795|<span class="rank-name-dl">KO-SK(公)@ROSE魂</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|80|791|<span class="rank-name-dl">ばちお(酒)</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|81|788|<span class="rank-name-dl">KO-SK(公)ﾛｰｽﾞｿｳﾙ</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|81|788|<span class="rank-name-dl">ひろ@LOWSCORE</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|81|788|<span class="rank-name-dl">メガザル酒enjha</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|81|788|<span class="rank-name-dl">宗吉</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|85|786|<span class="rank-name-dl">酒enjha</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|86|785|<span class="rank-name-dl">™shiba™</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|86|785|<span class="rank-name-dl">ぎんｼｺﾞﾛ3156&gt;&lt;</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|88|784|<span class="rank-name-dl">たいち@DROTIKI</span>|<a href="https://search.dartslive.com/jp/shop/6948cdc1237819c125d56fb0e5c39bac">カラオケサウンドキューブ 生野店</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|88|784|<span class="rank-name-dl">なめこ@何かに…</span>|<a href="https://search.dartslive.com/jp/shop/74289bbd4a643f5ca3f63593b5358cc4">ダイニングバー JO-GO</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|90|782|<span class="rank-name-dl">ハイレモン</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|91|780|<span class="rank-name-dl">こ〜さん</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|92|779|<span class="rank-name-dl">ぎんRoseSoul</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|93|778|<span class="rank-name-dl">NO NAME 8368</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|93|778|<span class="rank-name-dl">利保</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|95|775|<span class="rank-name-dl">ARE☆DAI☆sole</span>|<a href="https://search.dartslive.com/jp/shop/74289bbd4a643f5ca3f63593b5358cc4">ダイニングバー JO-GO</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|96|773|<span class="rank-name-dl">Rose@グッチ</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|97|772|<span class="rank-name-dl">KAZMAer</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|98|769|<span class="rank-name-dl">アッキー</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|99|768|<span class="rank-name-dl">ﾘｯｶｼﾞｬｲ復帰中</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|100|767|<span class="rank-name-dl">仏様(サブ)</span>|<a href="https://search.dartslive.com/jp/shop/6948cdc1237819c125d56fb0e5c39bac">カラオケサウンドキューブ 生野店</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -132,106 +132,106 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1111|<span class="rank-name-dl">和泉　真平</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|2|1100|<span class="rank-name-dl">磯和 勇希</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|3|1047|<span class="rank-name-dl">石原　蒼</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|4|986|<span class="rank-name-dl">123</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|5|983|<span class="rank-name-dl">おかへい@pirata</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|6|967|<span class="rank-name-dl">翔大</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|7|966|<span class="rank-name-dl">kenzonium</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|8|965|<span class="rank-name-dl">@kira</span>|<a href="https://search.dartslive.com/jp/shop/74289bbd4a643f5ca3f63593b5358cc4">ダイニングバー JO-GO</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|9|961|<span class="rank-name-dl">おかへー</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|10|941|<span class="rank-name-dl">C-onホケーキョ♂</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|11|931|<span class="rank-name-dl">ゆっきぃ</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|12|930|<span class="rank-name-dl">ぎんｷﾞﾗｷﾞｰﾝ^q^</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|13|926|<span class="rank-name-dl">_</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|14|912|<span class="rank-name-dl">なおや@max</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|15|907|<span class="rank-name-dl">ぎん(°∀°)ｷﾞｰﾝ</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|16|900|<span class="rank-name-dl">おキャンタマ匠真</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|17|899|<span class="rank-name-dl">むきcafe bar GeM</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|18|896|<span class="rank-name-dl">とよ@現場ar</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|19|881|<span class="rank-name-dl">@ki</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|20|878|<span class="rank-name-dl">ハニホ</span>|<a href="https://search.dartslive.com/jp/shop/74289bbd4a643f5ca3f63593b5358cc4">ダイニングバー JO-GO</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|21|872|<span class="rank-name-dl">pirata★よぉこ</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|22|870|<span class="rank-name-dl">KING&#x27;S キタ</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|22|870|<span class="rank-name-dl">柊城 孝生</span>|<a href="https://search.dartslive.com/jp/shop/74289bbd4a643f5ca3f63593b5358cc4">ダイニングバー JO-GO</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|24|867|<span class="rank-name-dl">堀江　勇人</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|25|864|<span class="rank-name-dl">現場ar＝G･A･M･E</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|26|853|<span class="rank-name-dl">ARE☆DAI☆sole</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|27|851|<span class="rank-name-dl">とよ＠現場ar</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|28|846|<span class="rank-name-dl">kenjha</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|29|837|<span class="rank-name-dl">atsushi+revenge+</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|30|833|<span class="rank-name-dl">HARRY</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|31|832|<span class="rank-name-dl">ちょね丸水産</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|32|831|<span class="rank-name-dl">∽シバ∽</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|33|819|<span class="rank-name-dl">和@現場ar</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|34|817|<span class="rank-name-dl">ハリ</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|35|814|<span class="rank-name-dl">酒enz</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|36|810|<span class="rank-name-dl">ばちお</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|37|805|<span class="rank-name-dl">miyuakichun⭐︎</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|38|791|<span class="rank-name-dl">ばちお(酒)</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|39|788|<span class="rank-name-dl">ひろ@LOWSCORE</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|39|788|<span class="rank-name-dl">メガザル酒enjha</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|39|788|<span class="rank-name-dl">宗吉</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|42|786|<span class="rank-name-dl">酒enjha</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|43|784|<span class="rank-name-dl">たいち@DROTIKI</span>|<a href="https://search.dartslive.com/jp/shop/6948cdc1237819c125d56fb0e5c39bac">カラオケサウンドキューブ 生野店</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|44|778|<span class="rank-name-dl">NO NAME 8368</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|45|773|<span class="rank-name-dl">Rose@グッチ</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|46|772|<span class="rank-name-dl">KAZMAer</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|47|769|<span class="rank-name-dl">アッキー</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|48|764|<span class="rank-name-dl">としやす</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|49|760|<span class="rank-name-dl">D&amp;Mの拓也</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|50|755|<span class="rank-name-dl">どんぐりたけし</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|51|743|<span class="rank-name-dl">ko-n</span>|<a href="https://search.dartslive.com/jp/shop/74289bbd4a643f5ca3f63593b5358cc4">ダイニングバー JO-GO</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|52|741|<span class="rank-name-dl">drunkenstein</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|52|741|<span class="rank-name-dl">ﾕｳｻｸ★</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|54|740|<span class="rank-name-dl">sho//@R</span>|<a href="https://search.dartslive.com/jp/shop/74289bbd4a643f5ca3f63593b5358cc4">ダイニングバー JO-GO</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|55|732|<span class="rank-name-dl">きゅーり＠野菜</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|56|731|<span class="rank-name-dl">ばちお</span>|<a href="https://search.dartslive.com/jp/shop/74289bbd4a643f5ca3f63593b5358cc4">ダイニングバー JO-GO</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|57|729|<span class="rank-name-dl">SHIGE：Ji</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|57|729|<span class="rank-name-dl">tomo@( &#x27;-&#x27; )?</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|59|727|<span class="rank-name-dl">KINGs かな野郎＊</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|60|725|<span class="rank-name-dl">† Jun兄 †</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|61|723|<span class="rank-name-dl">高裕</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|62|718|<span class="rank-name-dl">仏様</span>|<a href="https://search.dartslive.com/jp/shop/6948cdc1237819c125d56fb0e5c39bac">カラオケサウンドキューブ 生野店</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|63|709|<span class="rank-name-dl">もじゃ@現場ar</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|64|701|<span class="rank-name-dl">ﾊﾑちゃん公佑</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|65|699|<span class="rank-name-dl">ハマクリちゃん</span>|<a href="https://search.dartslive.com/jp/shop/74289bbd4a643f5ca3f63593b5358cc4">ダイニングバー JO-GO</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|66|698|<span class="rank-name-dl">Daddy</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|67|696|<span class="rank-name-dl">KO-SHITOKe</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|68|695|<span class="rank-name-dl">Mi</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|69|686|<span class="rank-name-dl">りほ</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|70|685|<span class="rank-name-dl">のぐしん</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|71|684|<span class="rank-name-dl">としやす＝利保</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|72|680|<span class="rank-name-dl">GOD∽8192</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|73|678|<span class="rank-name-dl">現場ar⇒Jun兄</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|74|675|<span class="rank-name-dl">AKIRA</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|75|670|<span class="rank-name-dl">あみ</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|76|669|<span class="rank-name-dl">♡ru_ucy S8</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|77|665|<span class="rank-name-dl">＊NANAE＊</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|78|662|<span class="rank-name-dl">目指せJAPAN</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|79|660|<span class="rank-name-dl">サップ？いや池だ</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|80|654|<span class="rank-name-dl">Rose@グッチ</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|81|651|<span class="rank-name-dl">そそーは@ENDLESS</span>|<a href="https://search.dartslive.com/jp/shop/74289bbd4a643f5ca3f63593b5358cc4">ダイニングバー JO-GO</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|82|644|<span class="rank-name-dl">kotoe★</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|83|638|<span class="rank-name-dl">はちべぇ</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|84|629|<span class="rank-name-dl">tomo@( &#x27;-&#x27; )?</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|85|616|<span class="rank-name-dl">ぴっぴ</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|85|616|<span class="rank-name-dl">オカン@JO-GO</span>|<a href="https://search.dartslive.com/jp/shop/74289bbd4a643f5ca3f63593b5358cc4">ダイニングバー JO-GO</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|87|609|<span class="rank-name-dl">ﾑﾁﾑﾁ♡ﾋﾟｽﾀﾁｵ</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|88|606|<span class="rank-name-dl">takuma</span>|<a href="https://search.dartslive.com/jp/shop/74289bbd4a643f5ca3f63593b5358cc4">ダイニングバー JO-GO</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|89|597|<span class="rank-name-dl">Satsuki@PIRATA</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|90|593|<span class="rank-name-dl">池サップ尚宏</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|91|587|<span class="rank-name-dl">∽シバ∽</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|91|587|<span class="rank-name-dl">ｱﾏｯﾀﾚﾝﾅwさゅ*</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|93|582|<span class="rank-name-dl">うに</span>|<a href="https://search.dartslive.com/jp/shop/74289bbd4a643f5ca3f63593b5358cc4">ダイニングバー JO-GO</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|94|580|<span class="rank-name-dl">チョロQしょうた</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|95|578|<span class="rank-name-dl">那乃@現場ar</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|96|570|<span class="rank-name-dl">翔大</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|97|567|<span class="rank-name-dl">こ〜さ〜〜ん</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|97|567|<span class="rank-name-dl">とっとと飲め太郎</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|97|567|<span class="rank-name-dl">ジャイ勘違い中</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
-|97|567|<span class="rank-name-dl">量産型じゅん</span>|<a href="https://search.dartslive.com/jp/shop/74289bbd4a643f5ca3f63593b5358cc4">ダイニングバー JO-GO</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|1|1119|<span class="rank-name-dl">おかへー</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|2|1111|<span class="rank-name-dl">和泉　真平</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|3|1100|<span class="rank-name-dl">磯和 勇希</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|4|1061|<span class="rank-name-dl">みっふぃ〜。</span>|<a href="https://search.dartslive.com/jp/shop/74289bbd4a643f5ca3f63593b5358cc4">ダイニングバー JO-GO</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|5|1047|<span class="rank-name-dl">石原　蒼</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|6|1026|<span class="rank-name-dl">C-onホケーキョ♂</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|7|1015|<span class="rank-name-dl">現場ar@れん</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|8|1004|<span class="rank-name-dl">和泉 真平</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|9|1000|<span class="rank-name-dl">誠</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|10|997|<span class="rank-name-dl">@ki</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|11|986|<span class="rank-name-dl">123</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|12|983|<span class="rank-name-dl">おかへい@pirata</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|13|967|<span class="rank-name-dl">とよ＠現場ar</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|13|967|<span class="rank-name-dl">翔大</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|15|966|<span class="rank-name-dl">kenzonium</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|16|965|<span class="rank-name-dl">@kira</span>|<a href="https://search.dartslive.com/jp/shop/74289bbd4a643f5ca3f63593b5358cc4">ダイニングバー JO-GO</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|17|952|<span class="rank-name-dl">和泉 真平 DMC</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|18|951|<span class="rank-name-dl">きしもっ</span>|<a href="https://search.dartslive.com/jp/shop/74289bbd4a643f5ca3f63593b5358cc4">ダイニングバー JO-GO</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|19|950|<span class="rank-name-dl">翔大＠GeM</span>|<a href="https://search.dartslive.com/jp/shop/74289bbd4a643f5ca3f63593b5358cc4">ダイニングバー JO-GO</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|20|947|<span class="rank-name-dl">のぐしん</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|21|944|<span class="rank-name-dl">しん Rose soul</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|22|933|<span class="rank-name-dl">Swan@Nari</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|23|931|<span class="rank-name-dl">ゆっきぃ</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|24|930|<span class="rank-name-dl">ぎんｷﾞﾗｷﾞｰﾝ^q^</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|25|926|<span class="rank-name-dl">_</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|26|922|<span class="rank-name-dl">柊城 孝生</span>|<a href="https://search.dartslive.com/jp/shop/74289bbd4a643f5ca3f63593b5358cc4">ダイニングバー JO-GO</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|27|920|<span class="rank-name-dl">なおや@max</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|28|917|<span class="rank-name-dl">こ〜へ〜ROSE</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|29|913|<span class="rank-name-dl">むきcafe bar GeM</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|30|907|<span class="rank-name-dl">ぎん(°∀°)ｷﾞｰﾝ</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|31|900|<span class="rank-name-dl">おキャンタマ匠真</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|32|898|<span class="rank-name-dl">ARE☆DAI☆sole</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|33|896|<span class="rank-name-dl">とよ@現場ar</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|34|893|<span class="rank-name-dl">拓磨</span>|<a href="https://search.dartslive.com/jp/shop/938494433dae45730d9b047a20a7ba1e">HANJYAN</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|35|890|<span class="rank-name-dl">R☆A</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|36|888|<span class="rank-name-dl">原田海聖</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|37|887|<span class="rank-name-dl">【　　　】</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|38|886|<span class="rank-name-dl">しん　Rose soul</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|39|878|<span class="rank-name-dl">ハニホ</span>|<a href="https://search.dartslive.com/jp/shop/74289bbd4a643f5ca3f63593b5358cc4">ダイニングバー JO-GO</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|40|872|<span class="rank-name-dl">DoNa☆ドナテッラ</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|40|872|<span class="rank-name-dl">pirata★よぉこ</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|42|870|<span class="rank-name-dl">KING&#x27;S キタ</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|43|869|<span class="rank-name-dl">jhaken</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|43|869|<span class="rank-name-dl">kenchara@GeM</span>|<a href="https://search.dartslive.com/jp/shop/74289bbd4a643f5ca3f63593b5358cc4">ダイニングバー JO-GO</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|45|868|<span class="rank-name-dl">ばちお</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|45|868|<span class="rank-name-dl">和@現場ar</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|47|867|<span class="rank-name-dl">Harry</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|47|867|<span class="rank-name-dl">堀江　勇人</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|49|866|<span class="rank-name-dl">ひろ@GeM</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|50|864|<span class="rank-name-dl">現場ar＝G･A･M･E</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|51|862|<span class="rank-name-dl">きしも@</span>|<a href="https://search.dartslive.com/jp/shop/74289bbd4a643f5ca3f63593b5358cc4">ダイニングバー JO-GO</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|52|852|<span class="rank-name-dl">ワドゥPower</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|53|850|<span class="rank-name-dl">drunkenstein</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|54|848|<span class="rank-name-dl">ばちお(禁酒)</span>|<a href="https://search.dartslive.com/jp/shop/74289bbd4a643f5ca3f63593b5358cc4">ダイニングバー JO-GO</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|55|846|<span class="rank-name-dl">kenjha</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|55|846|<span class="rank-name-dl">マヨスター</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|57|845|<span class="rank-name-dl">J B N</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|58|843|<span class="rank-name-dl">とよ＠現場ar</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|58|843|<span class="rank-name-dl">はれ</span>|<a href="https://search.dartslive.com/jp/shop/938494433dae45730d9b047a20a7ba1e">HANJYAN</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|60|841|<span class="rank-name-dl">☆</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|61|839|<span class="rank-name-dl">もじゃ@現場ar</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|62|838|<span class="rank-name-dl">＠サップ</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|63|837|<span class="rank-name-dl">atsushi+revenge+</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|64|833|<span class="rank-name-dl">HARRY</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|64|833|<span class="rank-name-dl">ヒダカ</span>|<a href="https://search.dartslive.com/jp/shop/6948cdc1237819c125d56fb0e5c39bac">カラオケサウンドキューブ 生野店</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|66|832|<span class="rank-name-dl">ちょね丸水産</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|67|831|<span class="rank-name-dl">∽シバ∽</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|67|831|<span class="rank-name-dl">忘我のtakuma</span>|<a href="https://search.dartslive.com/jp/shop/6948cdc1237819c125d56fb0e5c39bac">カラオケサウンドキューブ 生野店</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|69|828|<span class="rank-name-dl">仏様　(裏アカ♡)</span>|<a href="https://search.dartslive.com/jp/shop/6948cdc1237819c125d56fb0e5c39bac">カラオケサウンドキューブ 生野店</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|70|817|<span class="rank-name-dl">ハリ</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|71|815|<span class="rank-name-dl">現場ar ホケキョ</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|72|814|<span class="rank-name-dl">酒enz</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|73|808|<span class="rank-name-dl">SHINGO.</span>|<a href="https://search.dartslive.com/jp/shop/938494433dae45730d9b047a20a7ba1e">HANJYAN</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|74|807|<span class="rank-name-dl">ばちお(禁酒)</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|75|805|<span class="rank-name-dl">miyuakichun⭐︎</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|75|805|<span class="rank-name-dl">shodai</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|77|800|<span class="rank-name-dl">Haru Haru</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|78|796|<span class="rank-name-dl">NK</span>|<a href="https://search.dartslive.com/jp/shop/6948cdc1237819c125d56fb0e5c39bac">カラオケサウンドキューブ 生野店</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|79|795|<span class="rank-name-dl">KO-SK(公)@ROSE魂</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|80|791|<span class="rank-name-dl">ばちお(酒)</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|81|788|<span class="rank-name-dl">KO-SK(公)ﾛｰｽﾞｿｳﾙ</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|81|788|<span class="rank-name-dl">ひろ@LOWSCORE</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|81|788|<span class="rank-name-dl">メガザル酒enjha</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|81|788|<span class="rank-name-dl">宗吉</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|85|786|<span class="rank-name-dl">酒enjha</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|86|785|<span class="rank-name-dl">™shiba™</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|86|785|<span class="rank-name-dl">ぎんｼｺﾞﾛ3156&gt;&lt;</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|88|784|<span class="rank-name-dl">たいち@DROTIKI</span>|<a href="https://search.dartslive.com/jp/shop/6948cdc1237819c125d56fb0e5c39bac">カラオケサウンドキューブ 生野店</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|88|784|<span class="rank-name-dl">なめこ@何かに…</span>|<a href="https://search.dartslive.com/jp/shop/74289bbd4a643f5ca3f63593b5358cc4">ダイニングバー JO-GO</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|90|782|<span class="rank-name-dl">ハイレモン</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|91|780|<span class="rank-name-dl">こ〜さん</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|92|779|<span class="rank-name-dl">ぎんRoseSoul</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|93|778|<span class="rank-name-dl">NO NAME 8368</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|93|778|<span class="rank-name-dl">利保</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|95|775|<span class="rank-name-dl">ARE☆DAI☆sole</span>|<a href="https://search.dartslive.com/jp/shop/74289bbd4a643f5ca3f63593b5358cc4">ダイニングバー JO-GO</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|96|773|<span class="rank-name-dl">Rose@グッチ</span>|<a href="https://search.dartslive.com/jp/shop/e3cb92f35cb67d5b0d9b047a20a7ba1e">Darts&Music BAR Pirata</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|97|772|<span class="rank-name-dl">KAZMAer</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|98|769|<span class="rank-name-dl">アッキー</span>|<a href="https://search.dartslive.com/jp/shop/bad9b08b208d1b18774c926eb736cb5a">現場ar</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|99|768|<span class="rank-name-dl">ﾘｯｶｼﾞｬｲ復帰中</span>|<a href="https://search.dartslive.com/jp/shop/4bfdea0d7ebdd9b50d9b047a20a7ba1e">ROSE SOUL</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
+|100|767|<span class="rank-name-dl">仏様(サブ)</span>|<a href="https://search.dartslive.com/jp/shop/6948cdc1237819c125d56fb0e5c39bac">カラオケサウンドキューブ 生野店</a>|<a href="/darts/rank/大阪府/大阪市生野区">大阪府大阪市生野区</a>|
 
 
 #### PHOENIXDARTS TOP 100

@@ -23,106 +23,106 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1152|<span class="rank-name-dl">磯和 勇希</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|2|1124|<span class="rank-name-dl">takashun☆彡</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|3|1080|<span class="rank-name-dl">補欠-4</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|4|1061|<span class="rank-name-dl">しょうちゃん</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|5|1059|<span class="rank-name-dl">たかしゅん</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|6|1051|<span class="rank-name-dl">もにゃん☆彡</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|7|1036|<span class="rank-name-dl">みっふぃ?。</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|8|1019|<span class="rank-name-dl">和泉　真平</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|9|1016|<span class="rank-name-dl">ししまる///TIGA</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|10|1015|<span class="rank-name-dl">しょーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|11|1005|<span class="rank-name-dl">コソ練</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|12|1001|<span class="rank-name-dl">early3</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|13|1000|<span class="rank-name-dl">生足のｲｻﾞβ忘我</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|14|994|<span class="rank-name-dl">藤末 祐史Selfish</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|15|964|<span class="rank-name-dl">ぽ。</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|16|963|<span class="rank-name-dl">えッちゃん*｡✧</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|17|956|<span class="rank-name-dl">田原 駿也</span>|<a href="https://search.dartslive.com/jp/shop/647d8a5bf58ec6fefec1ae84bb28bd87">遊びBAR D</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|18|950|<span class="rank-name-dl">かーず☆彡Reve</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|19|929|<span class="rank-name-dl">でんでん∞NMBee</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|19|929|<span class="rank-name-dl">タケトヽ(・∀・)</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|21|922|<span class="rank-name-dl">Ash</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|22|909|<span class="rank-name-dl">くるめ@アロトワ</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|23|902|<span class="rank-name-dl">こい</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|24|896|<span class="rank-name-dl">きむきむノーリー</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|25|887|<span class="rank-name-dl">どんぐりたけし</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|26|886|<span class="rank-name-dl">つじ⇔次元</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|27|879|<span class="rank-name-dl">RyOtA→Re:road</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|28|865|<span class="rank-name-dl">高山　俊太</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|29|855|<span class="rank-name-dl">ガンチャン</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|30|847|<span class="rank-name-dl">ARE☆DAI☆sole</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|30|847|<span class="rank-name-dl">生足のｲｻﾞβ忘我</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|32|826|<span class="rank-name-dl">ゆーき</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|33|813|<span class="rank-name-dl">takuma</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|34|809|<span class="rank-name-dl">寺口貴久 ｾｸｼｮﾝ８</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|35|787|<span class="rank-name-dl">kenzonium</span>|<a href="https://search.dartslive.com/jp/shop/647d8a5bf58ec6fefec1ae84bb28bd87">遊びBAR D</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|36|774|<span class="rank-name-dl">まいっち</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|37|766|<span class="rank-name-dl">ゆう@Arey&#x27;z</span>|<a href="https://search.dartslive.com/jp/shop/676c2871cace4eb00d9b047a20a7ba1e">FREAK OUT 鶴橋店</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|38|759|<span class="rank-name-dl">にーにー</span>|<a href="https://search.dartslive.com/jp/shop/676c2871cace4eb00d9b047a20a7ba1e">FREAK OUT 鶴橋店</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|39|755|<span class="rank-name-dl">さっちょん</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|40|725|<span class="rank-name-dl">普通の人</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|41|686|<span class="rank-name-dl">ryu00721</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|42|684|<span class="rank-name-dl">ARALE</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|43|682|<span class="rank-name-dl">セチ・ガライ</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|44|662|<span class="rank-name-dl">Reve✪morichan✪</span>|<a href="https://search.dartslive.com/jp/shop/647d8a5bf58ec6fefec1ae84bb28bd87">遊びBAR D</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|45|660|<span class="rank-name-dl">sAk！</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|45|660|<span class="rank-name-dl">ほんちゃん＠鶴橋</span>|<a href="https://search.dartslive.com/jp/shop/676c2871cace4eb00d9b047a20a7ba1e">FREAK OUT 鶴橋店</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|45|660|<span class="rank-name-dl">ヤドン</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|48|658|<span class="rank-name-dl">RYOTA</span>|<a href="https://search.dartslive.com/jp/shop/676c2871cace4eb00d9b047a20a7ba1e">FREAK OUT 鶴橋店</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|49|648|<span class="rank-name-dl">KEN⇔No.1</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|50|645|<span class="rank-name-dl">ZAP</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|51|643|<span class="rank-name-dl">NATSUo忘我</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|52|635|<span class="rank-name-dl">a.k.a忘我のrocky</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|52|635|<span class="rank-name-dl">＊NANAE＊</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|54|630|<span class="rank-name-dl">テイーアップ　1</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|55|624|<span class="rank-name-dl">ＤＯＳＳ†忘我</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|56|623|<span class="rank-name-dl">まけへん。</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|57|615|<span class="rank-name-dl">うぃわぁちゃん</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|58|602|<span class="rank-name-dl">まみ</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|59|594|<span class="rank-name-dl">ｍａｓａｒU</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|60|588|<span class="rank-name-dl">T@社畜</span>|<a href="https://search.dartslive.com/jp/shop/676c2871cace4eb00d9b047a20a7ba1e">FREAK OUT 鶴橋店</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|61|572|<span class="rank-name-dl">♡ru_ucy S8</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|62|571|<span class="rank-name-dl">Yuu@</span>|<a href="https://search.dartslive.com/jp/shop/676c2871cace4eb00d9b047a20a7ba1e">FREAK OUT 鶴橋店</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|63|570|<span class="rank-name-dl">Rose@グッチ</span>|<a href="https://search.dartslive.com/jp/shop/676c2871cace4eb00d9b047a20a7ba1e">FREAK OUT 鶴橋店</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|64|564|<span class="rank-name-dl">AMAちゃん</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|64|564|<span class="rank-name-dl">Art Photo Dog</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|66|562|<span class="rank-name-dl">TAKUYA♾たくや</span>|<a href="https://search.dartslive.com/jp/shop/647d8a5bf58ec6fefec1ae84bb28bd87">遊びBAR D</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|67|560|<span class="rank-name-dl">mikiにゃん♡忘我</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|68|559|<span class="rank-name-dl">きっき</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|69|542|<span class="rank-name-dl">ＢＩＧ ＦＩＳＨ</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|70|536|<span class="rank-name-dl">ほんの気持ちです</span>|<a href="https://search.dartslive.com/jp/shop/676c2871cace4eb00d9b047a20a7ba1e">FREAK OUT 鶴橋店</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|71|535|<span class="rank-name-dl">ダークホース</span>|<a href="https://search.dartslive.com/jp/shop/676c2871cace4eb00d9b047a20a7ba1e">FREAK OUT 鶴橋店</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|72|528|<span class="rank-name-dl">松田優希強化中！</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|73|524|<span class="rank-name-dl">リハビリ君</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|74|522|<span class="rank-name-dl">海女海優希</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|75|520|<span class="rank-name-dl">ばちお</span>|<a href="https://search.dartslive.com/jp/shop/647d8a5bf58ec6fefec1ae84bb28bd87">遊びBAR D</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|76|518|<span class="rank-name-dl">ゆう爺</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|77|509|<span class="rank-name-dl">さｯちｬんLOOP.vg</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|78|504|<span class="rank-name-dl">KINU</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|78|504|<span class="rank-name-dl">ひな</span>|<a href="https://search.dartslive.com/jp/shop/676c2871cace4eb00d9b047a20a7ba1e">FREAK OUT 鶴橋店</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|80|491|<span class="rank-name-dl">NO NAME 2727</span>|<a href="https://search.dartslive.com/jp/shop/676c2871cace4eb00d9b047a20a7ba1e">FREAK OUT 鶴橋店</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|80|491|<span class="rank-name-dl">masa</span>|<a href="https://search.dartslive.com/jp/shop/676c2871cace4eb00d9b047a20a7ba1e">FREAK OUT 鶴橋店</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|82|485|<span class="rank-name-dl">やっくん</span>|<a href="https://search.dartslive.com/jp/shop/647d8a5bf58ec6fefec1ae84bb28bd87">遊びBAR D</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|82|485|<span class="rank-name-dl">ゆい</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|84|480|<span class="rank-name-dl">がつまつ</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|85|468|<span class="rank-name-dl">Yuria-Cross Yao-</span>|<a href="https://search.dartslive.com/jp/shop/676c2871cace4eb00d9b047a20a7ba1e">FREAK OUT 鶴橋店</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|86|467|<span class="rank-name-dl">クロ@ﾌﾘｰｸｱｳﾄ鶴橋</span>|<a href="https://search.dartslive.com/jp/shop/676c2871cace4eb00d9b047a20a7ba1e">FREAK OUT 鶴橋店</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|87|457|<span class="rank-name-dl">はる次郎</span>|<a href="https://search.dartslive.com/jp/shop/676c2871cace4eb00d9b047a20a7ba1e">FREAK OUT 鶴橋店</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|88|447|<span class="rank-name-dl">NO NAME 5559</span>|<a href="https://search.dartslive.com/jp/shop/676c2871cace4eb00d9b047a20a7ba1e">FREAK OUT 鶴橋店</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|89|446|<span class="rank-name-dl">鈴木徹(偽物)</span>|<a href="https://search.dartslive.com/jp/shop/676c2871cace4eb00d9b047a20a7ba1e">FREAK OUT 鶴橋店</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|90|444|<span class="rank-name-dl">かのん</span>|<a href="https://search.dartslive.com/jp/shop/647d8a5bf58ec6fefec1ae84bb28bd87">遊びBAR D</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|91|439|<span class="rank-name-dl">にゃん</span>|<a href="https://search.dartslive.com/jp/shop/676c2871cace4eb00d9b047a20a7ba1e">FREAK OUT 鶴橋店</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|92|438|<span class="rank-name-dl">NO NAME 5078</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|93|437|<span class="rank-name-dl">NO NAME 0321</span>|<a href="https://search.dartslive.com/jp/shop/647d8a5bf58ec6fefec1ae84bb28bd87">遊びBAR D</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|94|429|<span class="rank-name-dl">POTECHI</span>|<a href="https://search.dartslive.com/jp/shop/676c2871cace4eb00d9b047a20a7ba1e">FREAK OUT 鶴橋店</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|95|421|<span class="rank-name-dl">けんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/647d8a5bf58ec6fefec1ae84bb28bd87">遊びBAR D</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|96|406|<span class="rank-name-dl">ゆキムチおでかけ</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|97|403|<span class="rank-name-dl">KENTA</span>|<a href="https://search.dartslive.com/jp/shop/676c2871cace4eb00d9b047a20a7ba1e">FREAK OUT 鶴橋店</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|98|401|<span class="rank-name-dl">NO NAME 3072</span>|<a href="https://search.dartslive.com/jp/shop/676c2871cace4eb00d9b047a20a7ba1e">FREAK OUT 鶴橋店</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|99|387|<span class="rank-name-dl">NO NAME 5984</span>|<a href="https://search.dartslive.com/jp/shop/647d8a5bf58ec6fefec1ae84bb28bd87">遊びBAR D</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|100|375|<span class="rank-name-dl">隼</span>|<a href="https://search.dartslive.com/jp/shop/676c2871cace4eb00d9b047a20a7ba1e">FREAK OUT 鶴橋店</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|1|1178|<span class="rank-name-dl">takashun☆彡</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|2|1169|<span class="rank-name-dl">磯和 勇希</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|3|1107|<span class="rank-name-dl">もにゃん*｡✧</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|4|1102|<span class="rank-name-dl">シカ罰</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|5|1099|<span class="rank-name-dl">生足のｲｻﾞβ忘我</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|6|1089|<span class="rank-name-dl">もえこーん</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|7|1082|<span class="rank-name-dl">呪言師もえこーん</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|8|1080|<span class="rank-name-dl">補欠-4</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|9|1071|<span class="rank-name-dl">GIAN JOKERDRIVER</span>|<a href="https://search.dartslive.com/jp/shop/647d8a5bf58ec6fefec1ae84bb28bd87">遊びBAR D</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|10|1061|<span class="rank-name-dl">しょうちゃん</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|11|1060|<span class="rank-name-dl">たかしゅん*｡✧</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|12|1059|<span class="rank-name-dl">たかしゅん</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|13|1057|<span class="rank-name-dl">晋</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|14|1052|<span class="rank-name-dl">はやてるま</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|15|1051|<span class="rank-name-dl">もにゃん☆彡</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|16|1048|<span class="rank-name-dl">ぽ。</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|17|1046|<span class="rank-name-dl">松藤 翔太</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|18|1044|<span class="rank-name-dl">どんぐりたけし</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|19|1040|<span class="rank-name-dl">NO NAME 3126</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|20|1038|<span class="rank-name-dl">RyOtA→Re:road</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|21|1036|<span class="rank-name-dl">みっふぃ?。</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|22|1023|<span class="rank-name-dl">しょーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|23|1019|<span class="rank-name-dl">北川　知志</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|23|1019|<span class="rank-name-dl">和泉　真平</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|25|1017|<span class="rank-name-dl">なおや114</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|26|1016|<span class="rank-name-dl">ししまる///TIGA</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|27|1011|<span class="rank-name-dl">でんでん∞NMBee</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|28|1005|<span class="rank-name-dl">コソ練</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|29|1001|<span class="rank-name-dl">early3</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|29|1001|<span class="rank-name-dl">松浦 広貴</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|31|994|<span class="rank-name-dl">藤末 祐史Selfish</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|32|978|<span class="rank-name-dl">伏黒甚爾</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|33|970|<span class="rank-name-dl">ばちお(禁酒)</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|34|969|<span class="rank-name-dl">まちを☆TOP-Shef</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|35|966|<span class="rank-name-dl">あおきしょーた</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|36|963|<span class="rank-name-dl">えッちゃん*｡✧</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|37|957|<span class="rank-name-dl">黒馬 ムーミン</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|38|956|<span class="rank-name-dl">田原 駿也</span>|<a href="https://search.dartslive.com/jp/shop/647d8a5bf58ec6fefec1ae84bb28bd87">遊びBAR D</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|39|950|<span class="rank-name-dl">かーず☆彡Reve</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|40|929|<span class="rank-name-dl">タケトヽ(・∀・)</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|41|927|<span class="rank-name-dl">(´ &#x27;ヮ&#x27;｀)ﾜﾜﾜ</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|42|923|<span class="rank-name-dl">でんでん∞NMBee</span>|<a href="https://search.dartslive.com/jp/shop/647d8a5bf58ec6fefec1ae84bb28bd87">遊びBAR D</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|43|922|<span class="rank-name-dl">Ash</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|44|909|<span class="rank-name-dl">くるめ@アロトワ</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|45|908|<span class="rank-name-dl">MAKOTO</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|46|907|<span class="rank-name-dl">きむきむノーリー</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|47|906|<span class="rank-name-dl">Orancio☆Teppei</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|48|902|<span class="rank-name-dl">こい</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|49|896|<span class="rank-name-dl">G.G.G.たけちよ</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|50|886|<span class="rank-name-dl">つじ⇔次元</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|51|881|<span class="rank-name-dl">にーにー</span>|<a href="https://search.dartslive.com/jp/shop/676c2871cace4eb00d9b047a20a7ba1e">FREAK OUT 鶴橋店</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|52|871|<span class="rank-name-dl">とき@Arrotowa</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|53|865|<span class="rank-name-dl">高山　俊太</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|54|855|<span class="rank-name-dl">ガンチャン</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|55|847|<span class="rank-name-dl">ARE☆DAI☆sole</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|55|847|<span class="rank-name-dl">生足のｲｻﾞβ忘我</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|57|826|<span class="rank-name-dl">ゆーき</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|58|822|<span class="rank-name-dl">Sept.ｼｲﾅ</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|59|815|<span class="rank-name-dl">ゆび練@GeM</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|60|813|<span class="rank-name-dl">takuma</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|61|809|<span class="rank-name-dl">寺口貴久 ｾｸｼｮﾝ８</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|62|807|<span class="rank-name-dl">Harry</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|62|807|<span class="rank-name-dl">ぱーら</span>|<a href="https://search.dartslive.com/jp/shop/676c2871cace4eb00d9b047a20a7ba1e">FREAK OUT 鶴橋店</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|64|801|<span class="rank-name-dl">燦仁</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|65|787|<span class="rank-name-dl">kenzonium</span>|<a href="https://search.dartslive.com/jp/shop/647d8a5bf58ec6fefec1ae84bb28bd87">遊びBAR D</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|66|774|<span class="rank-name-dl">まいっち</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|67|766|<span class="rank-name-dl">ゆう@Arey&#x27;z</span>|<a href="https://search.dartslive.com/jp/shop/676c2871cace4eb00d9b047a20a7ba1e">FREAK OUT 鶴橋店</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|68|759|<span class="rank-name-dl">髙橋　励</span>|<a href="https://search.dartslive.com/jp/shop/647d8a5bf58ec6fefec1ae84bb28bd87">遊びBAR D</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|69|755|<span class="rank-name-dl">さっちょん</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|70|748|<span class="rank-name-dl">ちょね丸水産</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|71|739|<span class="rank-name-dl">Sat氏@じぇむ</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|72|737|<span class="rank-name-dl">きっき</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|73|735|<span class="rank-name-dl">ヤドン</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|74|734|<span class="rank-name-dl">tossy-901_QLAY</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|75|729|<span class="rank-name-dl">ＮORI</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|76|725|<span class="rank-name-dl">普通の人</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|77|721|<span class="rank-name-dl">拓磨</span>|<a href="https://search.dartslive.com/jp/shop/647d8a5bf58ec6fefec1ae84bb28bd87">遊びBAR D</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|78|719|<span class="rank-name-dl">おやさい114</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|79|716|<span class="rank-name-dl">しん　Rose soul</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|80|710|<span class="rank-name-dl">逆襲のoka★</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|81|705|<span class="rank-name-dl">YUDAI</span>|<a href="https://search.dartslive.com/jp/shop/647d8a5bf58ec6fefec1ae84bb28bd87">遊びBAR D</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|82|700|<span class="rank-name-dl">こ〜さん</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|82|700|<span class="rank-name-dl">タピオカ兄さん</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|84|692|<span class="rank-name-dl">遊びBAR D</span>|<a href="https://search.dartslive.com/jp/shop/647d8a5bf58ec6fefec1ae84bb28bd87">遊びBAR D</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|85|689|<span class="rank-name-dl">燦鳥居山崎１８年</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|86|686|<span class="rank-name-dl">ryu00721</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|87|685|<span class="rank-name-dl">ゆうちき</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|88|684|<span class="rank-name-dl">ARALE</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|89|682|<span class="rank-name-dl">セチ・ガライ</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|90|664|<span class="rank-name-dl">サップ～さん</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|91|662|<span class="rank-name-dl">Reve✪morichan✪</span>|<a href="https://search.dartslive.com/jp/shop/647d8a5bf58ec6fefec1ae84bb28bd87">遊びBAR D</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|92|660|<span class="rank-name-dl">sAk！</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|92|660|<span class="rank-name-dl">ほんちゃん＠鶴橋</span>|<a href="https://search.dartslive.com/jp/shop/676c2871cace4eb00d9b047a20a7ba1e">FREAK OUT 鶴橋店</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|94|658|<span class="rank-name-dl">RYOTA</span>|<a href="https://search.dartslive.com/jp/shop/676c2871cace4eb00d9b047a20a7ba1e">FREAK OUT 鶴橋店</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|95|657|<span class="rank-name-dl">Art Photo Dog</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|96|655|<span class="rank-name-dl">棒力団・―/NO.1</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|97|652|<span class="rank-name-dl">うららちゃん</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|98|648|<span class="rank-name-dl">KEN⇔No.1</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|99|645|<span class="rank-name-dl">ZAP</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|99|645|<span class="rank-name-dl">ハニホ@イワ大</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -132,106 +132,106 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1152|<span class="rank-name-dl">磯和 勇希</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|2|1124|<span class="rank-name-dl">takashun☆彡</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|3|1080|<span class="rank-name-dl">補欠-4</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|4|1061|<span class="rank-name-dl">しょうちゃん</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|5|1059|<span class="rank-name-dl">たかしゅん</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|6|1051|<span class="rank-name-dl">もにゃん☆彡</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|7|1036|<span class="rank-name-dl">みっふぃ?。</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|8|1019|<span class="rank-name-dl">和泉　真平</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|9|1016|<span class="rank-name-dl">ししまる///TIGA</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|10|1015|<span class="rank-name-dl">しょーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|11|1005|<span class="rank-name-dl">コソ練</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|12|1001|<span class="rank-name-dl">early3</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|13|1000|<span class="rank-name-dl">生足のｲｻﾞβ忘我</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|14|994|<span class="rank-name-dl">藤末 祐史Selfish</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|15|964|<span class="rank-name-dl">ぽ。</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|16|963|<span class="rank-name-dl">えッちゃん*｡✧</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|17|956|<span class="rank-name-dl">田原 駿也</span>|<a href="https://search.dartslive.com/jp/shop/647d8a5bf58ec6fefec1ae84bb28bd87">遊びBAR D</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|18|950|<span class="rank-name-dl">かーず☆彡Reve</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|19|929|<span class="rank-name-dl">でんでん∞NMBee</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|19|929|<span class="rank-name-dl">タケトヽ(・∀・)</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|21|922|<span class="rank-name-dl">Ash</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|22|909|<span class="rank-name-dl">くるめ@アロトワ</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|23|902|<span class="rank-name-dl">こい</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|24|896|<span class="rank-name-dl">きむきむノーリー</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|25|887|<span class="rank-name-dl">どんぐりたけし</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|26|886|<span class="rank-name-dl">つじ⇔次元</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|27|879|<span class="rank-name-dl">RyOtA→Re:road</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|28|865|<span class="rank-name-dl">高山　俊太</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|29|855|<span class="rank-name-dl">ガンチャン</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|30|847|<span class="rank-name-dl">ARE☆DAI☆sole</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|30|847|<span class="rank-name-dl">生足のｲｻﾞβ忘我</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|32|826|<span class="rank-name-dl">ゆーき</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|33|813|<span class="rank-name-dl">takuma</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|34|809|<span class="rank-name-dl">寺口貴久 ｾｸｼｮﾝ８</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|35|787|<span class="rank-name-dl">kenzonium</span>|<a href="https://search.dartslive.com/jp/shop/647d8a5bf58ec6fefec1ae84bb28bd87">遊びBAR D</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|36|774|<span class="rank-name-dl">まいっち</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|37|766|<span class="rank-name-dl">ゆう@Arey&#x27;z</span>|<a href="https://search.dartslive.com/jp/shop/676c2871cace4eb00d9b047a20a7ba1e">FREAK OUT 鶴橋店</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|38|759|<span class="rank-name-dl">にーにー</span>|<a href="https://search.dartslive.com/jp/shop/676c2871cace4eb00d9b047a20a7ba1e">FREAK OUT 鶴橋店</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|39|755|<span class="rank-name-dl">さっちょん</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|40|725|<span class="rank-name-dl">普通の人</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|41|686|<span class="rank-name-dl">ryu00721</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|42|684|<span class="rank-name-dl">ARALE</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|43|682|<span class="rank-name-dl">セチ・ガライ</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|44|662|<span class="rank-name-dl">Reve✪morichan✪</span>|<a href="https://search.dartslive.com/jp/shop/647d8a5bf58ec6fefec1ae84bb28bd87">遊びBAR D</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|45|660|<span class="rank-name-dl">sAk！</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|45|660|<span class="rank-name-dl">ほんちゃん＠鶴橋</span>|<a href="https://search.dartslive.com/jp/shop/676c2871cace4eb00d9b047a20a7ba1e">FREAK OUT 鶴橋店</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|45|660|<span class="rank-name-dl">ヤドン</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|48|658|<span class="rank-name-dl">RYOTA</span>|<a href="https://search.dartslive.com/jp/shop/676c2871cace4eb00d9b047a20a7ba1e">FREAK OUT 鶴橋店</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|49|648|<span class="rank-name-dl">KEN⇔No.1</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|50|645|<span class="rank-name-dl">ZAP</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|51|643|<span class="rank-name-dl">NATSUo忘我</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|52|635|<span class="rank-name-dl">a.k.a忘我のrocky</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|52|635|<span class="rank-name-dl">＊NANAE＊</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|54|630|<span class="rank-name-dl">テイーアップ　1</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|55|624|<span class="rank-name-dl">ＤＯＳＳ†忘我</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|56|623|<span class="rank-name-dl">まけへん。</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|57|615|<span class="rank-name-dl">うぃわぁちゃん</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|58|602|<span class="rank-name-dl">まみ</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|59|594|<span class="rank-name-dl">ｍａｓａｒU</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|60|588|<span class="rank-name-dl">T@社畜</span>|<a href="https://search.dartslive.com/jp/shop/676c2871cace4eb00d9b047a20a7ba1e">FREAK OUT 鶴橋店</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|61|572|<span class="rank-name-dl">♡ru_ucy S8</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|62|571|<span class="rank-name-dl">Yuu@</span>|<a href="https://search.dartslive.com/jp/shop/676c2871cace4eb00d9b047a20a7ba1e">FREAK OUT 鶴橋店</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|63|570|<span class="rank-name-dl">Rose@グッチ</span>|<a href="https://search.dartslive.com/jp/shop/676c2871cace4eb00d9b047a20a7ba1e">FREAK OUT 鶴橋店</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|64|564|<span class="rank-name-dl">AMAちゃん</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|64|564|<span class="rank-name-dl">Art Photo Dog</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|66|562|<span class="rank-name-dl">TAKUYA♾たくや</span>|<a href="https://search.dartslive.com/jp/shop/647d8a5bf58ec6fefec1ae84bb28bd87">遊びBAR D</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|67|560|<span class="rank-name-dl">mikiにゃん♡忘我</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|68|559|<span class="rank-name-dl">きっき</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|69|542|<span class="rank-name-dl">ＢＩＧ ＦＩＳＨ</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|70|536|<span class="rank-name-dl">ほんの気持ちです</span>|<a href="https://search.dartslive.com/jp/shop/676c2871cace4eb00d9b047a20a7ba1e">FREAK OUT 鶴橋店</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|71|535|<span class="rank-name-dl">ダークホース</span>|<a href="https://search.dartslive.com/jp/shop/676c2871cace4eb00d9b047a20a7ba1e">FREAK OUT 鶴橋店</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|72|528|<span class="rank-name-dl">松田優希強化中！</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|73|524|<span class="rank-name-dl">リハビリ君</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|74|522|<span class="rank-name-dl">海女海優希</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|75|520|<span class="rank-name-dl">ばちお</span>|<a href="https://search.dartslive.com/jp/shop/647d8a5bf58ec6fefec1ae84bb28bd87">遊びBAR D</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|76|518|<span class="rank-name-dl">ゆう爺</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|77|509|<span class="rank-name-dl">さｯちｬんLOOP.vg</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|78|504|<span class="rank-name-dl">KINU</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|78|504|<span class="rank-name-dl">ひな</span>|<a href="https://search.dartslive.com/jp/shop/676c2871cace4eb00d9b047a20a7ba1e">FREAK OUT 鶴橋店</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|80|491|<span class="rank-name-dl">NO NAME 2727</span>|<a href="https://search.dartslive.com/jp/shop/676c2871cace4eb00d9b047a20a7ba1e">FREAK OUT 鶴橋店</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|80|491|<span class="rank-name-dl">masa</span>|<a href="https://search.dartslive.com/jp/shop/676c2871cace4eb00d9b047a20a7ba1e">FREAK OUT 鶴橋店</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|82|485|<span class="rank-name-dl">やっくん</span>|<a href="https://search.dartslive.com/jp/shop/647d8a5bf58ec6fefec1ae84bb28bd87">遊びBAR D</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|82|485|<span class="rank-name-dl">ゆい</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|84|480|<span class="rank-name-dl">がつまつ</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|85|468|<span class="rank-name-dl">Yuria-Cross Yao-</span>|<a href="https://search.dartslive.com/jp/shop/676c2871cace4eb00d9b047a20a7ba1e">FREAK OUT 鶴橋店</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|86|467|<span class="rank-name-dl">クロ@ﾌﾘｰｸｱｳﾄ鶴橋</span>|<a href="https://search.dartslive.com/jp/shop/676c2871cace4eb00d9b047a20a7ba1e">FREAK OUT 鶴橋店</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|87|457|<span class="rank-name-dl">はる次郎</span>|<a href="https://search.dartslive.com/jp/shop/676c2871cace4eb00d9b047a20a7ba1e">FREAK OUT 鶴橋店</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|88|447|<span class="rank-name-dl">NO NAME 5559</span>|<a href="https://search.dartslive.com/jp/shop/676c2871cace4eb00d9b047a20a7ba1e">FREAK OUT 鶴橋店</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|89|446|<span class="rank-name-dl">鈴木徹(偽物)</span>|<a href="https://search.dartslive.com/jp/shop/676c2871cace4eb00d9b047a20a7ba1e">FREAK OUT 鶴橋店</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|90|444|<span class="rank-name-dl">かのん</span>|<a href="https://search.dartslive.com/jp/shop/647d8a5bf58ec6fefec1ae84bb28bd87">遊びBAR D</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|91|439|<span class="rank-name-dl">にゃん</span>|<a href="https://search.dartslive.com/jp/shop/676c2871cace4eb00d9b047a20a7ba1e">FREAK OUT 鶴橋店</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|92|438|<span class="rank-name-dl">NO NAME 5078</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|93|437|<span class="rank-name-dl">NO NAME 0321</span>|<a href="https://search.dartslive.com/jp/shop/647d8a5bf58ec6fefec1ae84bb28bd87">遊びBAR D</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|94|429|<span class="rank-name-dl">POTECHI</span>|<a href="https://search.dartslive.com/jp/shop/676c2871cace4eb00d9b047a20a7ba1e">FREAK OUT 鶴橋店</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|95|421|<span class="rank-name-dl">けんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/647d8a5bf58ec6fefec1ae84bb28bd87">遊びBAR D</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|96|406|<span class="rank-name-dl">ゆキムチおでかけ</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|97|403|<span class="rank-name-dl">KENTA</span>|<a href="https://search.dartslive.com/jp/shop/676c2871cace4eb00d9b047a20a7ba1e">FREAK OUT 鶴橋店</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|98|401|<span class="rank-name-dl">NO NAME 3072</span>|<a href="https://search.dartslive.com/jp/shop/676c2871cace4eb00d9b047a20a7ba1e">FREAK OUT 鶴橋店</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|99|387|<span class="rank-name-dl">NO NAME 5984</span>|<a href="https://search.dartslive.com/jp/shop/647d8a5bf58ec6fefec1ae84bb28bd87">遊びBAR D</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
-|100|375|<span class="rank-name-dl">隼</span>|<a href="https://search.dartslive.com/jp/shop/676c2871cace4eb00d9b047a20a7ba1e">FREAK OUT 鶴橋店</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|1|1178|<span class="rank-name-dl">takashun☆彡</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|2|1169|<span class="rank-name-dl">磯和 勇希</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|3|1107|<span class="rank-name-dl">もにゃん*｡✧</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|4|1102|<span class="rank-name-dl">シカ罰</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|5|1099|<span class="rank-name-dl">生足のｲｻﾞβ忘我</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|6|1089|<span class="rank-name-dl">もえこーん</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|7|1082|<span class="rank-name-dl">呪言師もえこーん</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|8|1080|<span class="rank-name-dl">補欠-4</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|9|1071|<span class="rank-name-dl">GIAN JOKERDRIVER</span>|<a href="https://search.dartslive.com/jp/shop/647d8a5bf58ec6fefec1ae84bb28bd87">遊びBAR D</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|10|1061|<span class="rank-name-dl">しょうちゃん</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|11|1060|<span class="rank-name-dl">たかしゅん*｡✧</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|12|1059|<span class="rank-name-dl">たかしゅん</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|13|1057|<span class="rank-name-dl">晋</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|14|1052|<span class="rank-name-dl">はやてるま</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|15|1051|<span class="rank-name-dl">もにゃん☆彡</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|16|1048|<span class="rank-name-dl">ぽ。</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|17|1046|<span class="rank-name-dl">松藤 翔太</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|18|1044|<span class="rank-name-dl">どんぐりたけし</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|19|1040|<span class="rank-name-dl">NO NAME 3126</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|20|1038|<span class="rank-name-dl">RyOtA→Re:road</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|21|1036|<span class="rank-name-dl">みっふぃ?。</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|22|1023|<span class="rank-name-dl">しょーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|23|1019|<span class="rank-name-dl">北川　知志</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|23|1019|<span class="rank-name-dl">和泉　真平</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|25|1017|<span class="rank-name-dl">なおや114</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|26|1016|<span class="rank-name-dl">ししまる///TIGA</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|27|1011|<span class="rank-name-dl">でんでん∞NMBee</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|28|1005|<span class="rank-name-dl">コソ練</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|29|1001|<span class="rank-name-dl">early3</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|29|1001|<span class="rank-name-dl">松浦 広貴</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|31|994|<span class="rank-name-dl">藤末 祐史Selfish</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|32|978|<span class="rank-name-dl">伏黒甚爾</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|33|970|<span class="rank-name-dl">ばちお(禁酒)</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|34|969|<span class="rank-name-dl">まちを☆TOP-Shef</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|35|966|<span class="rank-name-dl">あおきしょーた</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|36|963|<span class="rank-name-dl">えッちゃん*｡✧</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|37|957|<span class="rank-name-dl">黒馬 ムーミン</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|38|956|<span class="rank-name-dl">田原 駿也</span>|<a href="https://search.dartslive.com/jp/shop/647d8a5bf58ec6fefec1ae84bb28bd87">遊びBAR D</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|39|950|<span class="rank-name-dl">かーず☆彡Reve</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|40|929|<span class="rank-name-dl">タケトヽ(・∀・)</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|41|927|<span class="rank-name-dl">(´ &#x27;ヮ&#x27;｀)ﾜﾜﾜ</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|42|923|<span class="rank-name-dl">でんでん∞NMBee</span>|<a href="https://search.dartslive.com/jp/shop/647d8a5bf58ec6fefec1ae84bb28bd87">遊びBAR D</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|43|922|<span class="rank-name-dl">Ash</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|44|909|<span class="rank-name-dl">くるめ@アロトワ</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|45|908|<span class="rank-name-dl">MAKOTO</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|46|907|<span class="rank-name-dl">きむきむノーリー</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|47|906|<span class="rank-name-dl">Orancio☆Teppei</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|48|902|<span class="rank-name-dl">こい</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|49|896|<span class="rank-name-dl">G.G.G.たけちよ</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|50|886|<span class="rank-name-dl">つじ⇔次元</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|51|881|<span class="rank-name-dl">にーにー</span>|<a href="https://search.dartslive.com/jp/shop/676c2871cace4eb00d9b047a20a7ba1e">FREAK OUT 鶴橋店</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|52|871|<span class="rank-name-dl">とき@Arrotowa</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|53|865|<span class="rank-name-dl">高山　俊太</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|54|855|<span class="rank-name-dl">ガンチャン</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|55|847|<span class="rank-name-dl">ARE☆DAI☆sole</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|55|847|<span class="rank-name-dl">生足のｲｻﾞβ忘我</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|57|826|<span class="rank-name-dl">ゆーき</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|58|822|<span class="rank-name-dl">Sept.ｼｲﾅ</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|59|815|<span class="rank-name-dl">ゆび練@GeM</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|60|813|<span class="rank-name-dl">takuma</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|61|809|<span class="rank-name-dl">寺口貴久 ｾｸｼｮﾝ８</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|62|807|<span class="rank-name-dl">Harry</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|62|807|<span class="rank-name-dl">ぱーら</span>|<a href="https://search.dartslive.com/jp/shop/676c2871cace4eb00d9b047a20a7ba1e">FREAK OUT 鶴橋店</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|64|801|<span class="rank-name-dl">燦仁</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|65|787|<span class="rank-name-dl">kenzonium</span>|<a href="https://search.dartslive.com/jp/shop/647d8a5bf58ec6fefec1ae84bb28bd87">遊びBAR D</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|66|774|<span class="rank-name-dl">まいっち</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|67|766|<span class="rank-name-dl">ゆう@Arey&#x27;z</span>|<a href="https://search.dartslive.com/jp/shop/676c2871cace4eb00d9b047a20a7ba1e">FREAK OUT 鶴橋店</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|68|759|<span class="rank-name-dl">髙橋　励</span>|<a href="https://search.dartslive.com/jp/shop/647d8a5bf58ec6fefec1ae84bb28bd87">遊びBAR D</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|69|755|<span class="rank-name-dl">さっちょん</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|70|748|<span class="rank-name-dl">ちょね丸水産</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|71|739|<span class="rank-name-dl">Sat氏@じぇむ</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|72|737|<span class="rank-name-dl">きっき</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|73|735|<span class="rank-name-dl">ヤドン</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|74|734|<span class="rank-name-dl">tossy-901_QLAY</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|75|729|<span class="rank-name-dl">ＮORI</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|76|725|<span class="rank-name-dl">普通の人</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|77|721|<span class="rank-name-dl">拓磨</span>|<a href="https://search.dartslive.com/jp/shop/647d8a5bf58ec6fefec1ae84bb28bd87">遊びBAR D</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|78|719|<span class="rank-name-dl">おやさい114</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|79|716|<span class="rank-name-dl">しん　Rose soul</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|80|710|<span class="rank-name-dl">逆襲のoka★</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|81|705|<span class="rank-name-dl">YUDAI</span>|<a href="https://search.dartslive.com/jp/shop/647d8a5bf58ec6fefec1ae84bb28bd87">遊びBAR D</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|82|700|<span class="rank-name-dl">こ〜さん</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|82|700|<span class="rank-name-dl">タピオカ兄さん</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|84|692|<span class="rank-name-dl">遊びBAR D</span>|<a href="https://search.dartslive.com/jp/shop/647d8a5bf58ec6fefec1ae84bb28bd87">遊びBAR D</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|85|689|<span class="rank-name-dl">燦鳥居山崎１８年</span>|<a href="https://search.dartslive.com/jp/shop/7850e7844429df9c0d9b047a20a7ba1e">ビリヤード＆ダーツ セクションエイト</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|86|686|<span class="rank-name-dl">ryu00721</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|87|685|<span class="rank-name-dl">ゆうちき</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|88|684|<span class="rank-name-dl">ARALE</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|89|682|<span class="rank-name-dl">セチ・ガライ</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|90|664|<span class="rank-name-dl">サップ～さん</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|91|662|<span class="rank-name-dl">Reve✪morichan✪</span>|<a href="https://search.dartslive.com/jp/shop/647d8a5bf58ec6fefec1ae84bb28bd87">遊びBAR D</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|92|660|<span class="rank-name-dl">sAk！</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|92|660|<span class="rank-name-dl">ほんちゃん＠鶴橋</span>|<a href="https://search.dartslive.com/jp/shop/676c2871cace4eb00d9b047a20a7ba1e">FREAK OUT 鶴橋店</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|94|658|<span class="rank-name-dl">RYOTA</span>|<a href="https://search.dartslive.com/jp/shop/676c2871cace4eb00d9b047a20a7ba1e">FREAK OUT 鶴橋店</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|95|657|<span class="rank-name-dl">Art Photo Dog</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|96|655|<span class="rank-name-dl">棒力団・―/NO.1</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|97|652|<span class="rank-name-dl">うららちゃん</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|98|648|<span class="rank-name-dl">KEN⇔No.1</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|99|645|<span class="rank-name-dl">ZAP</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
+|99|645|<span class="rank-name-dl">ハニホ@イワ大</span>|<a href="https://search.dartslive.com/jp/shop/0bbc268142f1cb160d9b047a20a7ba1e">ビリヤード　No.1</a>|<a href="/darts/rank/大阪府/大阪市東成区">大阪府大阪市東成区</a>|
 
 
 #### PHOENIXDARTS TOP 100

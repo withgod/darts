@@ -23,30 +23,46 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|844|<span class="rank-name-dl">hiroki.h</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
-|2|769|<span class="rank-name-dl">☠️ハヤさん☠️</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
-|3|766|<span class="rank-name-dl">板井 正俊</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
-|4|737|<span class="rank-name-dl">シミー</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
-|5|719|<span class="rank-name-dl">すんてゃ</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
-|6|694|<span class="rank-name-dl">Shigeki</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
-|7|670|<span class="rank-name-dl">SHUN</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
-|8|654|<span class="rank-name-dl">とっきー</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
-|9|611|<span class="rank-name-dl">NO NAME 8931</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
-|10|573|<span class="rank-name-dl">tsune</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
-|11|572|<span class="rank-name-dl">かぶ</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
-|12|567|<span class="rank-name-dl">negi</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
-|13|556|<span class="rank-name-dl">togisu</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
-|14|543|<span class="rank-name-dl">hiroto</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
-|15|536|<span class="rank-name-dl">～ｼﾞﾝ～</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
-|16|506|<span class="rank-name-dl">ゆー</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
-|17|493|<span class="rank-name-dl">ゆーみゃ</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
-|18|481|<span class="rank-name-dl">こーた</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
-|19|480|<span class="rank-name-dl">おじさんずN</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
-|20|471|<span class="rank-name-dl">とと</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
-|21|458|<span class="rank-name-dl">おきゃんたま</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
-|22|366|<span class="rank-name-dl">なべさん☠️☠️</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
-|23|362|<span class="rank-name-dl">ミーヤ</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
-|24|354|<span class="rank-name-dl">まーっきの</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|1|1038|<span class="rank-name-dl">きしくん</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|2|844|<span class="rank-name-dl">hiroki.h</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|3|769|<span class="rank-name-dl">☠️ハヤさん☠️</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|4|766|<span class="rank-name-dl">板井 正俊</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|5|744|<span class="rank-name-dl">いっしー☆神音</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|6|741|<span class="rank-name-dl">シミー</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|7|719|<span class="rank-name-dl">すんてゃ</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|8|694|<span class="rank-name-dl">Shigeki</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|9|670|<span class="rank-name-dl">SHUN</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|10|654|<span class="rank-name-dl">とっきー</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|11|651|<span class="rank-name-dl">ゆー</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|12|649|<span class="rank-name-dl">～ｼﾞﾝ～</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|13|611|<span class="rank-name-dl">NO NAME 8931</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|14|573|<span class="rank-name-dl">tsune</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|14|573|<span class="rank-name-dl">かぶ</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|16|567|<span class="rank-name-dl">negi</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|17|556|<span class="rank-name-dl">togisu</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|18|552|<span class="rank-name-dl">とーる</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|19|543|<span class="rank-name-dl">hiroto</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|20|523|<span class="rank-name-dl">いっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|21|507|<span class="rank-name-dl">なべさん☠️☠️</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|22|500|<span class="rank-name-dl">けんしん</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|23|499|<span class="rank-name-dl">あとむ</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|24|494|<span class="rank-name-dl">おじさんずN</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|25|493|<span class="rank-name-dl">ゆーみゃ</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|26|481|<span class="rank-name-dl">こーた</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|27|471|<span class="rank-name-dl">とと</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|28|460|<span class="rank-name-dl">ﾎﾀﾃ</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|29|458|<span class="rank-name-dl">おきゃんたま</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|30|452|<span class="rank-name-dl">まーっきの</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|31|443|<span class="rank-name-dl">F</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|32|430|<span class="rank-name-dl">仲亀雄汰</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|33|427|<span class="rank-name-dl">ろどゆき</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|34|408|<span class="rank-name-dl">涼弥</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|35|403|<span class="rank-name-dl">ざきさん</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|36|401|<span class="rank-name-dl">タカシータ</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|37|374|<span class="rank-name-dl">おじさんずK</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|37|374|<span class="rank-name-dl">やのぺん</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|39|362|<span class="rank-name-dl">ミーヤ</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|40|343|<span class="rank-name-dl">ぺんまり*｡</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -56,30 +72,46 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|844|<span class="rank-name-dl">hiroki.h</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
-|2|769|<span class="rank-name-dl">☠️ハヤさん☠️</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
-|3|766|<span class="rank-name-dl">板井 正俊</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
-|4|737|<span class="rank-name-dl">シミー</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
-|5|719|<span class="rank-name-dl">すんてゃ</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
-|6|694|<span class="rank-name-dl">Shigeki</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
-|7|670|<span class="rank-name-dl">SHUN</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
-|8|654|<span class="rank-name-dl">とっきー</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
-|9|611|<span class="rank-name-dl">NO NAME 8931</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
-|10|573|<span class="rank-name-dl">tsune</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
-|11|572|<span class="rank-name-dl">かぶ</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
-|12|567|<span class="rank-name-dl">negi</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
-|13|556|<span class="rank-name-dl">togisu</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
-|14|543|<span class="rank-name-dl">hiroto</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
-|15|536|<span class="rank-name-dl">～ｼﾞﾝ～</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
-|16|506|<span class="rank-name-dl">ゆー</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
-|17|493|<span class="rank-name-dl">ゆーみゃ</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
-|18|481|<span class="rank-name-dl">こーた</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
-|19|480|<span class="rank-name-dl">おじさんずN</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
-|20|471|<span class="rank-name-dl">とと</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
-|21|458|<span class="rank-name-dl">おきゃんたま</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
-|22|366|<span class="rank-name-dl">なべさん☠️☠️</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
-|23|362|<span class="rank-name-dl">ミーヤ</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
-|24|354|<span class="rank-name-dl">まーっきの</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|1|1038|<span class="rank-name-dl">きしくん</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|2|844|<span class="rank-name-dl">hiroki.h</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|3|769|<span class="rank-name-dl">☠️ハヤさん☠️</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|4|766|<span class="rank-name-dl">板井 正俊</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|5|744|<span class="rank-name-dl">いっしー☆神音</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|6|741|<span class="rank-name-dl">シミー</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|7|719|<span class="rank-name-dl">すんてゃ</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|8|694|<span class="rank-name-dl">Shigeki</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|9|670|<span class="rank-name-dl">SHUN</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|10|654|<span class="rank-name-dl">とっきー</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|11|651|<span class="rank-name-dl">ゆー</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|12|649|<span class="rank-name-dl">～ｼﾞﾝ～</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|13|611|<span class="rank-name-dl">NO NAME 8931</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|14|573|<span class="rank-name-dl">tsune</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|14|573|<span class="rank-name-dl">かぶ</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|16|567|<span class="rank-name-dl">negi</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|17|556|<span class="rank-name-dl">togisu</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|18|552|<span class="rank-name-dl">とーる</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|19|543|<span class="rank-name-dl">hiroto</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|20|523|<span class="rank-name-dl">いっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|21|507|<span class="rank-name-dl">なべさん☠️☠️</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|22|500|<span class="rank-name-dl">けんしん</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|23|499|<span class="rank-name-dl">あとむ</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|24|494|<span class="rank-name-dl">おじさんずN</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|25|493|<span class="rank-name-dl">ゆーみゃ</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|26|481|<span class="rank-name-dl">こーた</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|27|471|<span class="rank-name-dl">とと</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|28|460|<span class="rank-name-dl">ﾎﾀﾃ</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|29|458|<span class="rank-name-dl">おきゃんたま</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|30|452|<span class="rank-name-dl">まーっきの</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|31|443|<span class="rank-name-dl">F</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|32|430|<span class="rank-name-dl">仲亀雄汰</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|33|427|<span class="rank-name-dl">ろどゆき</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|34|408|<span class="rank-name-dl">涼弥</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|35|403|<span class="rank-name-dl">ざきさん</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|36|401|<span class="rank-name-dl">タカシータ</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|37|374|<span class="rank-name-dl">おじさんずK</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|37|374|<span class="rank-name-dl">やのぺん</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|39|362|<span class="rank-name-dl">ミーヤ</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
+|40|343|<span class="rank-name-dl">ぺんまり*｡</span>|<a href="https://search.dartslive.com/jp/shop/279c6769e5c8308fb21333aee1bd51e4">遊-more酒場 jamboree</a>|<a href="/darts/rank/埼玉県/志木市">埼玉県志木市</a>|
 
 
 #### PHOENIXDARTS TOP 100

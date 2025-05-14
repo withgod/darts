@@ -24,105 +24,105 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|1171|<span class="rank-name-dl">SHUYA</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|2|1049|<span class="rank-name-dl">たけちゃんまん</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|3|1016|<span class="rank-name-dl">馬渕 柊也</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|4|1012|<span class="rank-name-pd">ゆうき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|4|1012|<span class="rank-name-dl">馬渕 柊也</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|6|1011|<span class="rank-name-pd">◇花山◇</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79902?s_seq=79902">S.Factory</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|7|1004|<span class="rank-name-dl">おっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|8|1001|<span class="rank-name-dl">こちょ</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|9|1000|<span class="rank-name-dl">ショうキ</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|10|991|<span class="rank-name-pd">たかお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7856?s_seq=7856">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|11|981|<span class="rank-name-dl">山本智也</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|12|978|<span class="rank-name-dl">Metalist</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|13|969|<span class="rank-name-dl">鍋</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|14|964|<span class="rank-name-pd">Minoru</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|15|962|<span class="rank-name-pd">T.J</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|16|961|<span class="rank-name-dl">たかお</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|17|960|<span class="rank-name-dl">たかお</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|17|960|<span class="rank-name-dl">もりゆうだい</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|17|960|<span class="rank-name-dl">カズナリ</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|20|958|<span class="rank-name-pd">たかお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|21|956|<span class="rank-name-dl">○山</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|21|956|<span class="rank-name-pd">もりゆうだい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|23|955|<span class="rank-name-pd">かずたん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|24|952|<span class="rank-name-dl">みたこ</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|25|946|<span class="rank-name-dl">あおい(｡･ω･｡)</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|25|946|<span class="rank-name-dl">村上 裕二</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|27|945|<span class="rank-name-dl">Nobu@Tks</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|28|941|<span class="rank-name-dl">ゆう</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|29|935|<span class="rank-name-dl">どヴぁきん</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|30|932|<span class="rank-name-pd">たかおT20</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7856?s_seq=7856">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|31|929|<span class="rank-name-dl">天野 大志</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|32|924|<span class="rank-name-dl">しょう。</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|33|923|<span class="rank-name-dl">sAku〆蛍</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|34|920|<span class="rank-name-dl">ﾊｲﾌﾞﾃｰﾏこちょ</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|35|916|<span class="rank-name-pd"><span class="pro-icon-pd"></span>斎藤 大樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|36|915|<span class="rank-name-dl">☀︎てぃも☀︎</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|36|915|<span class="rank-name-dl">かわうっち</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|38|914|<span class="rank-name-pd">こちょ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|39|913|<span class="rank-name-dl">しょまたん</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|40|907|<span class="rank-name-pd">sAku〆蛍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7856?s_seq=7856">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|41|906|<span class="rank-name-pd">T.J</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79902?s_seq=79902">S.Factory</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|42|901|<span class="rank-name-pd">木村 誠志</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|43|896|<span class="rank-name-pd">ぱじー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|44|886|<span class="rank-name-pd">Tenga</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7856?s_seq=7856">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|45|885|<span class="rank-name-pd">kazumax.v</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|45|885|<span class="rank-name-pd">カズナリ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|45|885|<span class="rank-name-pd">ベックス@VABE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|48|866|<span class="rank-name-dl">じゅん(JJ)</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|48|866|<span class="rank-name-pd">ゆっきー/ななち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7856?s_seq=7856">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|50|865|<span class="rank-name-dl">HACHI</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|51|855|<span class="rank-name-dl">ぱすも</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|52|850|<span class="rank-name-pd">ゆっきー/ななち/</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7856?s_seq=7856">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|53|848|<span class="rank-name-dl">？？？？？</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|54|836|<span class="rank-name-dl">白ナタ</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|55|813|<span class="rank-name-dl">Mとぅーん@STRAD</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|56|810|<span class="rank-name-pd">(株)ともぞー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|57|807|<span class="rank-name-dl">わおん</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|58|805|<span class="rank-name-pd">EISUKE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|59|802|<span class="rank-name-pd">もりゆうだい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79902?s_seq=79902">S.Factory</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|60|800|<span class="rank-name-pd">李白師匠</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7856?s_seq=7856">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|61|797|<span class="rank-name-dl">真たーなー</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|61|797|<span class="rank-name-pd"><span class="pro-icon-pd"></span>高巣 寛亨</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|63|790|<span class="rank-name-pd">THJT</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|63|790|<span class="rank-name-pd">はやしゅ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7856?s_seq=7856">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|65|783|<span class="rank-name-dl">赤髪のななち</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|66|781|<span class="rank-name-pd">ゆっきー/ななち/</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|67|774|<span class="rank-name-pd">MEGANEROCK</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|68|772|<span class="rank-name-pd">いかくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7856?s_seq=7856">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|69|771|<span class="rank-name-pd">JJ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|70|762|<span class="rank-name-dl">TEN3</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|71|757|<span class="rank-name-pd">ほたに氏 fm 名古屋</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|72|756|<span class="rank-name-pd">SaiDa</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7856?s_seq=7856">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|73|753|<span class="rank-name-pd">ゆっきー/ななち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79902?s_seq=79902">S.Factory</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|74|752|<span class="rank-name-pd">Red べこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79902?s_seq=79902">S.Factory</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|75|749|<span class="rank-name-pd">NOBU男爵</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|76|748|<span class="rank-name-dl">赤髪のななち/E</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|77|741|<span class="rank-name-pd">RY@?!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79902?s_seq=79902">S.Factory</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|78|740|<span class="rank-name-pd">ななち師範代(仮)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|79|733|<span class="rank-name-pd">Air</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|80|732|<span class="rank-name-pd">SALT</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7856?s_seq=7856">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|81|727|<span class="rank-name-dl">わたぬきまん</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|81|727|<span class="rank-name-pd"><span class="pro-icon-pd"></span>堀出 紘史</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|83|715|<span class="rank-name-pd">Y-ZI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7864?s_seq=7864">JUNK BAR</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|83|715|<span class="rank-name-dl">李白§師匠</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|85|713|<span class="rank-name-pd">y</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|85|713|<span class="rank-name-dl">しょまたん</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|87|712|<span class="rank-name-pd">0088_5585</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7856?s_seq=7856">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|88|700|<span class="rank-name-pd">YUU―ＳＡＮ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|89|699|<span class="rank-name-pd">Akr</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7856?s_seq=7856">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|90|685|<span class="rank-name-pd">サレイア</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79902?s_seq=79902">S.Factory</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|91|679|<span class="rank-name-pd">Red べこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|92|678|<span class="rank-name-pd">ながしまるな</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|93|676|<span class="rank-name-pd">tora_kichi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79902?s_seq=79902">S.Factory</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|93|676|<span class="rank-name-dl">李白師匠</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|95|674|<span class="rank-name-dl">ななち師範代(仮)</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|95|674|<span class="rank-name-dl">はやしゅ</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|97|673|<span class="rank-name-pd">ぺぺ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|98|672|<span class="rank-name-pd">NEW-1</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79902?s_seq=79902">S.Factory</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|99|671|<span class="rank-name-dl">NO NAME 0862</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|99|671|<span class="rank-name-dl">はすきー</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|2|1160|<span class="rank-name-dl">大和久明彦</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|3|1131|<span class="rank-name-dl">村田 俊憲</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|4|1119|<span class="rank-name-dl">馬渕 柊也</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|5|1087|<span class="rank-name-dl">‎( ꒪⌓꒪)ﾀﾞｲｽP</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|6|1084|<span class="rank-name-pd">浜崎祥悟</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|7|1080|<span class="rank-name-dl">ベックス@VABE</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|8|1075|<span class="rank-name-pd">おぐりん。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|9|1073|<span class="rank-name-dl">おぐりん</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|10|1054|<span class="rank-name-pd">sAku〆蛍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7856?s_seq=7856">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|11|1052|<span class="rank-name-pd">0141_1133</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|11|1052|<span class="rank-name-dl">塙 尚 紘</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|13|1049|<span class="rank-name-dl">たけちゃんまん</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|14|1047|<span class="rank-name-pd">たかお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7856?s_seq=7856">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|15|1031|<span class="rank-name-dl">◆ぺったん◆</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|15|1031|<span class="rank-name-dl">亮太</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|17|1029|<span class="rank-name-dl">けんた　Michigan</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|18|1025|<span class="rank-name-dl">Metalist</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|19|1012|<span class="rank-name-pd">ゆうき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|19|1012|<span class="rank-name-dl">馬渕 柊也</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|21|1011|<span class="rank-name-pd">◇花山◇</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79902?s_seq=79902">S.Factory</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|22|1007|<span class="rank-name-dl">☀︎てぃも☀︎</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|23|1006|<span class="rank-name-dl">Nobu@Tks</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|23|1006|<span class="rank-name-pd">〆ゆーま〆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7856?s_seq=7856">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|25|1004|<span class="rank-name-dl">おっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|25|1004|<span class="rank-name-dl">神田　貴秀</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|27|1001|<span class="rank-name-dl">こちょ</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|28|1000|<span class="rank-name-dl">ショうキ</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|28|1000|<span class="rank-name-dl">村上 裕二</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|30|998|<span class="rank-name-pd">T.J</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|31|994|<span class="rank-name-pd"><span class="pro-icon-pd"></span>甲斐 亮太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|31|994|<span class="rank-name-dl">鍋</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|33|991|<span class="rank-name-pd">T.J@JOYJOY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|34|981|<span class="rank-name-dl">山本智也</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|35|977|<span class="rank-name-pd"><span class="pro-icon-pd"></span>木村 誠志</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|36|975|<span class="rank-name-dl">Minoru</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|37|969|<span class="rank-name-pd">Butterfly【蝶】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|38|967|<span class="rank-name-pd">JJ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|38|967|<span class="rank-name-dl">ゆう</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|40|966|<span class="rank-name-dl">はすきー</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|41|964|<span class="rank-name-pd">Minoru</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|41|964|<span class="rank-name-dl">ひろきんにく☆</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|43|963|<span class="rank-name-dl">まっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|44|961|<span class="rank-name-dl">たかお</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|45|960|<span class="rank-name-dl">たかお</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|45|960|<span class="rank-name-dl">もりゆうだい</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|45|960|<span class="rank-name-dl">カズナリ</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|48|958|<span class="rank-name-pd">たかお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|49|956|<span class="rank-name-dl">○山</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|49|956|<span class="rank-name-pd">もりゆうだい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|51|955|<span class="rank-name-pd">かずたん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|52|954|<span class="rank-name-pd">絵夢とぅーん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|53|952|<span class="rank-name-dl">みたこ</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|53|952|<span class="rank-name-dl">宮脇 実由</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|55|950|<span class="rank-name-dl">ku</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|56|946|<span class="rank-name-dl">あおい(｡･ω･｡)</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|57|944|<span class="rank-name-pd">もりゆうだい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79902?s_seq=79902">S.Factory</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|58|943|<span class="rank-name-pd">Metalist</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79902?s_seq=79902">S.Factory</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|59|940|<span class="rank-name-pd"><span class="pro-icon-pd"></span>高巣 寛亨</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|60|939|<span class="rank-name-dl">COJI-COJI＠T.J</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|61|935|<span class="rank-name-dl">どヴぁきん</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|62|932|<span class="rank-name-pd">たかおT20</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7856?s_seq=7856">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|63|929|<span class="rank-name-dl">天野 大志</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|64|928|<span class="rank-name-pd">≡Ζёｇηа≡</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|65|925|<span class="rank-name-pd">みたこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|66|924|<span class="rank-name-pd">○山</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|66|924|<span class="rank-name-dl">しょう。</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|68|923|<span class="rank-name-dl">sAku〆蛍</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|69|920|<span class="rank-name-dl">ﾊｲﾌﾞﾃｰﾏこちょ</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|70|916|<span class="rank-name-pd"><span class="pro-icon-pd"></span>斎藤 大樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|71|915|<span class="rank-name-dl">かわうっち</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|72|914|<span class="rank-name-pd">こちょ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|73|913|<span class="rank-name-dl">しょまたん</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|74|912|<span class="rank-name-dl">とーやこ®</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|75|911|<span class="rank-name-pd">Y.M</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79902?s_seq=79902">S.Factory</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|76|910|<span class="rank-name-dl">えんちゃん。</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|76|910|<span class="rank-name-dl">ｱｲﾙｰ@なげ場STRAD</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|78|909|<span class="rank-name-pd">MOOOOORIN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7856?s_seq=7856">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|79|907|<span class="rank-name-dl">※ヨッシー※</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|80|906|<span class="rank-name-pd">T.J</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79902?s_seq=79902">S.Factory</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|81|900|<span class="rank-name-dl">白ナタ</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|82|896|<span class="rank-name-pd">ぱじー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|83|892|<span class="rank-name-dl">闇の帝王</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|84|889|<span class="rank-name-dl">マスオ</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|85|887|<span class="rank-name-dl">TETSU</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|86|886|<span class="rank-name-pd">Tenga</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7856?s_seq=7856">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|87|885|<span class="rank-name-pd">kazumax.v</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|87|885|<span class="rank-name-pd">カズナリ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|87|885|<span class="rank-name-pd">ベックス@VABE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|90|883|<span class="rank-name-pd">しゅーや</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|91|879|<span class="rank-name-dl">世界のフジワラ</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|92|877|<span class="rank-name-dl">こーき</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|93|874|<span class="rank-name-pd">どいっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|94|872|<span class="rank-name-pd">KEI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7864?s_seq=7864">JUNK BAR</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|95|869|<span class="rank-name-pd">Metalist</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|96|866|<span class="rank-name-dl">じゅん(JJ)</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|96|866|<span class="rank-name-pd">ゆっきー/ななち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7856?s_seq=7856">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|98|865|<span class="rank-name-dl">HACHI</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|99|863|<span class="rank-name-pd">ЖヨッシーЖ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|100|860|<span class="rank-name-pd">ななち師範代(仮)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -133,81 +133,105 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|1171|<span class="rank-name-dl">SHUYA</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|2|1049|<span class="rank-name-dl">たけちゃんまん</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|3|1016|<span class="rank-name-dl">馬渕 柊也</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|4|1012|<span class="rank-name-dl">馬渕 柊也</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|5|1004|<span class="rank-name-dl">おっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|6|1001|<span class="rank-name-dl">こちょ</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|7|1000|<span class="rank-name-dl">ショうキ</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|8|981|<span class="rank-name-dl">山本智也</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|9|978|<span class="rank-name-dl">Metalist</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|10|969|<span class="rank-name-dl">鍋</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|11|961|<span class="rank-name-dl">たかお</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|12|960|<span class="rank-name-dl">たかお</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|12|960|<span class="rank-name-dl">もりゆうだい</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|12|960|<span class="rank-name-dl">カズナリ</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|15|956|<span class="rank-name-dl">○山</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|16|952|<span class="rank-name-dl">みたこ</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|17|946|<span class="rank-name-dl">あおい(｡･ω･｡)</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|17|946|<span class="rank-name-dl">村上 裕二</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|19|945|<span class="rank-name-dl">Nobu@Tks</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|20|941|<span class="rank-name-dl">ゆう</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|21|935|<span class="rank-name-dl">どヴぁきん</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|22|929|<span class="rank-name-dl">天野 大志</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|23|924|<span class="rank-name-dl">しょう。</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|24|923|<span class="rank-name-dl">sAku〆蛍</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|25|920|<span class="rank-name-dl">ﾊｲﾌﾞﾃｰﾏこちょ</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|26|915|<span class="rank-name-dl">☀︎てぃも☀︎</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|26|915|<span class="rank-name-dl">かわうっち</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|28|913|<span class="rank-name-dl">しょまたん</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|29|896|<span class="rank-name-dl">たかお</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|30|866|<span class="rank-name-dl">じゅん(JJ)</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|31|865|<span class="rank-name-dl">HACHI</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|32|855|<span class="rank-name-dl">ぱすも</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|33|848|<span class="rank-name-dl">？？？？？</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|34|836|<span class="rank-name-dl">白ナタ</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|35|813|<span class="rank-name-dl">Mとぅーん@STRAD</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|36|808|<span class="rank-name-dl">ゆっきー/ななち</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|37|807|<span class="rank-name-dl">わおん</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|38|797|<span class="rank-name-dl">真たーなー</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|39|783|<span class="rank-name-dl">赤髪のななち</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|40|762|<span class="rank-name-dl">TEN3</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|41|748|<span class="rank-name-dl">赤髪のななち/E</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|42|727|<span class="rank-name-dl">わたぬきまん</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|43|723|<span class="rank-name-dl">はやしゅ</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|44|715|<span class="rank-name-dl">李白§師匠</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|45|713|<span class="rank-name-dl">しょまたん</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|46|676|<span class="rank-name-dl">李白師匠</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|46|676|<span class="rank-name-dl">李白師匠</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|48|674|<span class="rank-name-dl">ななち師範代(仮)</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|48|674|<span class="rank-name-dl">はやしゅ</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|50|671|<span class="rank-name-dl">NO NAME 0862</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|50|671|<span class="rank-name-dl">はすきー</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|52|634|<span class="rank-name-dl">SYUN(元ブル)</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|53|622|<span class="rank-name-dl">＊みなみ＊</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|54|621|<span class="rank-name-dl">Mayu@STRAD</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|55|615|<span class="rank-name-dl">miya</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|56|585|<span class="rank-name-dl">oga</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|57|556|<span class="rank-name-dl">戯子-zako-</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|58|553|<span class="rank-name-dl">かおりん</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|59|551|<span class="rank-name-dl">なつみかん</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|60|540|<span class="rank-name-dl">JU28</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|61|503|<span class="rank-name-dl">かおり</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|62|501|<span class="rank-name-dl">みさ</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|63|499|<span class="rank-name-dl">ch1sa</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|64|487|<span class="rank-name-dl">ひでじ@巡業中</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|65|469|<span class="rank-name-dl">りん</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|66|460|<span class="rank-name-dl">まいやん</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|67|459|<span class="rank-name-dl">にゃんころりん</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|68|454|<span class="rank-name-dl">ゆき＠Noa</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|69|431|<span class="rank-name-dl">まほ☆</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|70|430|<span class="rank-name-dl">りっち</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|71|425|<span class="rank-name-dl">mi</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|72|424|<span class="rank-name-dl">NO NAME 4865</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|73|399|<span class="rank-name-dl">Chiaki</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|74|376|<span class="rank-name-dl">みなみ@Tink</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|75|365|<span class="rank-name-dl">こじ</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|76|351|<span class="rank-name-dl">Mayu@STRAD✩.*˚</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|2|1160|<span class="rank-name-dl">大和久明彦</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|3|1131|<span class="rank-name-dl">村田 俊憲</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|4|1119|<span class="rank-name-dl">馬渕 柊也</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|5|1087|<span class="rank-name-dl">‎( ꒪⌓꒪)ﾀﾞｲｽP</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|6|1080|<span class="rank-name-dl">ベックス@VABE</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|7|1073|<span class="rank-name-dl">おぐりん</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|8|1052|<span class="rank-name-dl">塙 尚 紘</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|9|1049|<span class="rank-name-dl">たけちゃんまん</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|10|1031|<span class="rank-name-dl">◆ぺったん◆</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|10|1031|<span class="rank-name-dl">亮太</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|12|1029|<span class="rank-name-dl">けんた　Michigan</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|13|1025|<span class="rank-name-dl">Metalist</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|14|1012|<span class="rank-name-dl">馬渕 柊也</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|15|1007|<span class="rank-name-dl">☀︎てぃも☀︎</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|16|1006|<span class="rank-name-dl">Nobu@Tks</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|17|1004|<span class="rank-name-dl">おっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|17|1004|<span class="rank-name-dl">神田　貴秀</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|19|1001|<span class="rank-name-dl">こちょ</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|20|1000|<span class="rank-name-dl">ショうキ</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|20|1000|<span class="rank-name-dl">村上 裕二</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|22|994|<span class="rank-name-dl">鍋</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|23|981|<span class="rank-name-dl">山本智也</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|24|975|<span class="rank-name-dl">Minoru</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|25|967|<span class="rank-name-dl">ゆう</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|26|966|<span class="rank-name-dl">はすきー</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|27|964|<span class="rank-name-dl">ひろきんにく☆</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|28|963|<span class="rank-name-dl">まっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|29|961|<span class="rank-name-dl">たかお</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|30|960|<span class="rank-name-dl">たかお</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|30|960|<span class="rank-name-dl">もりゆうだい</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|30|960|<span class="rank-name-dl">カズナリ</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|33|956|<span class="rank-name-dl">○山</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|34|952|<span class="rank-name-dl">みたこ</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|34|952|<span class="rank-name-dl">宮脇 実由</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|36|950|<span class="rank-name-dl">ku</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|37|946|<span class="rank-name-dl">あおい(｡･ω･｡)</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|38|939|<span class="rank-name-dl">COJI-COJI＠T.J</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|39|935|<span class="rank-name-dl">どヴぁきん</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|40|929|<span class="rank-name-dl">天野 大志</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|41|924|<span class="rank-name-dl">しょう。</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|42|923|<span class="rank-name-dl">sAku〆蛍</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|43|920|<span class="rank-name-dl">ﾊｲﾌﾞﾃｰﾏこちょ</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|44|915|<span class="rank-name-dl">かわうっち</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|45|913|<span class="rank-name-dl">しょまたん</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|46|912|<span class="rank-name-dl">とーやこ®</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|47|910|<span class="rank-name-dl">えんちゃん。</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|47|910|<span class="rank-name-dl">ｱｲﾙｰ@なげ場STRAD</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|49|907|<span class="rank-name-dl">※ヨッシー※</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|50|900|<span class="rank-name-dl">白ナタ</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|51|896|<span class="rank-name-dl">たかお</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|52|892|<span class="rank-name-dl">闇の帝王</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|53|889|<span class="rank-name-dl">マスオ</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|54|887|<span class="rank-name-dl">TETSU</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|55|879|<span class="rank-name-dl">世界のフジワラ</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|56|877|<span class="rank-name-dl">こーき</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|57|866|<span class="rank-name-dl">じゅん(JJ)</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|58|865|<span class="rank-name-dl">HACHI</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|59|855|<span class="rank-name-dl">ぱすも</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|60|854|<span class="rank-name-dl">NO NAME 2625</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|61|851|<span class="rank-name-dl">ﾗﾘ</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|62|849|<span class="rank-name-dl">Runa</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|63|848|<span class="rank-name-dl">？？？？？</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|64|843|<span class="rank-name-dl">シージ</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|65|824|<span class="rank-name-dl">RYO</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|66|816|<span class="rank-name-dl">真たーなー</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|67|813|<span class="rank-name-dl">Ka-Zu</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|67|813|<span class="rank-name-dl">Mとぅーん@STRAD</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|69|808|<span class="rank-name-dl">ゆっきー/ななち</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|70|807|<span class="rank-name-dl">わおん</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|71|805|<span class="rank-name-dl">sAku〆蛍</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|72|804|<span class="rank-name-dl">THJT</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|72|804|<span class="rank-name-dl">李白師匠</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|74|789|<span class="rank-name-dl">TaKaYuKi</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|74|789|<span class="rank-name-dl">まさや</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|76|783|<span class="rank-name-dl">クソハム</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|76|783|<span class="rank-name-dl">赤髪のななち</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|78|782|<span class="rank-name-dl">(´(ｪ)` )natsuo</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|79|778|<span class="rank-name-dl">戦場ヶ原下着</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|80|774|<span class="rank-name-dl">ゆうま</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|81|769|<span class="rank-name-dl">zacky</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|82|765|<span class="rank-name-dl">Kuma</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|83|762|<span class="rank-name-dl">TEN3</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|84|759|<span class="rank-name-dl">フジワラ</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|85|750|<span class="rank-name-dl">そーやん</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|86|748|<span class="rank-name-dl">赤髪のななち/E</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|87|737|<span class="rank-name-dl">yuhyan</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|88|734|<span class="rank-name-dl">よっしー</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|89|732|<span class="rank-name-dl">cokercue</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|90|727|<span class="rank-name-dl">わたぬきまん</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|91|723|<span class="rank-name-dl">はやしゅ</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|92|718|<span class="rank-name-dl">ryuto</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|93|715|<span class="rank-name-dl">S</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|93|715|<span class="rank-name-dl">李白§師匠</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|95|714|<span class="rank-name-dl">*。Chizu ☽SHM☆</span>|<a href="https://search.dartslive.com/jp/shop/12c7f2f8c75736ef0d9b047a20a7ba1e">なげ場STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|95|714|<span class="rank-name-dl">Mr.コンパラ</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|97|713|<span class="rank-name-dl">しょまたん</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|98|710|<span class="rank-name-dl">TaNa</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|98|710|<span class="rank-name-dl">まりん</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|100|709|<span class="rank-name-dl">KAITO</span>|<a href="https://search.dartslive.com/jp/shop/366357425b8f056325d56fb0e5c39bac">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
 
 
 #### PHOENIXDARTS TOP 100
@@ -217,106 +241,106 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1012|<span class="rank-name-pd">ゆうき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|2|1011|<span class="rank-name-pd">◇花山◇</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79902?s_seq=79902">S.Factory</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|3|991|<span class="rank-name-pd">たかお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7856?s_seq=7856">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|4|964|<span class="rank-name-pd">Minoru</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|5|962|<span class="rank-name-pd">T.J</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|6|958|<span class="rank-name-pd">たかお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|7|956|<span class="rank-name-pd">もりゆうだい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|8|955|<span class="rank-name-pd">かずたん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|9|932|<span class="rank-name-pd">たかおT20</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7856?s_seq=7856">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|10|916|<span class="rank-name-pd"><span class="pro-icon-pd"></span>斎藤 大樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|11|914|<span class="rank-name-pd">こちょ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|12|907|<span class="rank-name-pd">sAku〆蛍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7856?s_seq=7856">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|13|906|<span class="rank-name-pd">T.J</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79902?s_seq=79902">S.Factory</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|14|901|<span class="rank-name-pd">木村 誠志</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|15|896|<span class="rank-name-pd">ぱじー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|16|886|<span class="rank-name-pd">Tenga</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7856?s_seq=7856">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|17|885|<span class="rank-name-pd">kazumax.v</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|17|885|<span class="rank-name-pd">カズナリ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|17|885|<span class="rank-name-pd">ベックス@VABE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|20|866|<span class="rank-name-pd">ゆっきー/ななち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7856?s_seq=7856">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|21|850|<span class="rank-name-pd">ゆっきー/ななち/</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7856?s_seq=7856">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|22|810|<span class="rank-name-pd">(株)ともぞー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|23|805|<span class="rank-name-pd">EISUKE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|24|802|<span class="rank-name-pd">もりゆうだい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79902?s_seq=79902">S.Factory</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|25|800|<span class="rank-name-pd">李白師匠</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7856?s_seq=7856">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|26|797|<span class="rank-name-pd"><span class="pro-icon-pd"></span>高巣 寛亨</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|27|790|<span class="rank-name-pd">THJT</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|27|790|<span class="rank-name-pd">はやしゅ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7856?s_seq=7856">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|29|781|<span class="rank-name-pd">ゆっきー/ななち/</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|30|774|<span class="rank-name-pd">MEGANEROCK</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|31|772|<span class="rank-name-pd">いかくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7856?s_seq=7856">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|32|771|<span class="rank-name-pd">JJ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|33|757|<span class="rank-name-pd">ほたに氏 fm 名古屋</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|34|756|<span class="rank-name-pd">SaiDa</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7856?s_seq=7856">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|35|753|<span class="rank-name-pd">ゆっきー/ななち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79902?s_seq=79902">S.Factory</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|36|752|<span class="rank-name-pd">Red べこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79902?s_seq=79902">S.Factory</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|37|749|<span class="rank-name-pd">NOBU男爵</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|38|741|<span class="rank-name-pd">RY@?!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79902?s_seq=79902">S.Factory</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|39|740|<span class="rank-name-pd">ななち師範代(仮)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|40|733|<span class="rank-name-pd">Air</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|41|732|<span class="rank-name-pd">SALT</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7856?s_seq=7856">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|42|727|<span class="rank-name-pd"><span class="pro-icon-pd"></span>堀出 紘史</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|43|715|<span class="rank-name-pd">Y-ZI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7864?s_seq=7864">JUNK BAR</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|44|713|<span class="rank-name-pd">y</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|45|712|<span class="rank-name-pd">0088_5585</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7856?s_seq=7856">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|46|700|<span class="rank-name-pd">YUU―ＳＡＮ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|47|699|<span class="rank-name-pd">Akr</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7856?s_seq=7856">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|48|685|<span class="rank-name-pd">サレイア</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79902?s_seq=79902">S.Factory</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|49|679|<span class="rank-name-pd">Red べこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|50|678|<span class="rank-name-pd">ながしまるな</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|51|676|<span class="rank-name-pd">tora_kichi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79902?s_seq=79902">S.Factory</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|52|673|<span class="rank-name-pd">ぺぺ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|53|672|<span class="rank-name-pd">NEW-1</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79902?s_seq=79902">S.Factory</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|54|670|<span class="rank-name-pd"><span class="pro-icon-pd"></span>森 優太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|55|661|<span class="rank-name-pd">HIROMI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7864?s_seq=7864">JUNK BAR</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|55|661|<span class="rank-name-pd">みっ！？</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|57|658|<span class="rank-name-pd">やま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|58|657|<span class="rank-name-pd">絵夢とぅーん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|59|652|<span class="rank-name-pd">kouya</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7864?s_seq=7864">JUNK BAR</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|60|651|<span class="rank-name-pd">TEN212</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7856?s_seq=7856">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|61|645|<span class="rank-name-pd">0242_9779</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|62|640|<span class="rank-name-pd">H.A.R.U</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|63|634|<span class="rank-name-pd">芋けんぴ？(畑)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79902?s_seq=79902">S.Factory</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|64|632|<span class="rank-name-pd"><span class="pro-icon-pd"></span>森 優太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79902?s_seq=79902">S.Factory</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|65|630|<span class="rank-name-pd">TEN212</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|65|630|<span class="rank-name-pd">masa</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|67|628|<span class="rank-name-pd">Ryota</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79902?s_seq=79902">S.Factory</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|68|622|<span class="rank-name-pd">タマ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|69|617|<span class="rank-name-pd">J</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7856?s_seq=7856">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|70|614|<span class="rank-name-pd">タマ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7864?s_seq=7864">JUNK BAR</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|71|613|<span class="rank-name-pd">noname16003200</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|72|607|<span class="rank-name-pd">Mayu( 。∀ ﾟ)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|73|606|<span class="rank-name-pd">現在カコ未来</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|74|602|<span class="rank-name-pd">NAヒロキ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7856?s_seq=7856">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|75|600|<span class="rank-name-pd">Nana</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|76|595|<span class="rank-name-pd">おいさ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|77|582|<span class="rank-name-pd">たい。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79902?s_seq=79902">S.Factory</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|78|579|<span class="rank-name-pd">JUNK YASU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7864?s_seq=7864">JUNK BAR</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|78|579|<span class="rank-name-pd">みなみ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|80|570|<span class="rank-name-pd">Na0k1</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7856?s_seq=7856">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|81|566|<span class="rank-name-pd">KEI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7864?s_seq=7864">JUNK BAR</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|81|566|<span class="rank-name-pd">ゆっきー/ななち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|83|565|<span class="rank-name-pd">58チャンプルー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79902?s_seq=79902">S.Factory</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|84|561|<span class="rank-name-pd">鍋</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|85|560|<span class="rank-name-pd">わさび</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7856?s_seq=7856">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|86|559|<span class="rank-name-pd">mine.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79902?s_seq=79902">S.Factory</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|87|557|<span class="rank-name-pd">roro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|88|551|<span class="rank-name-pd">たかし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7856?s_seq=7856">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|89|550|<span class="rank-name-pd">Rina@侍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|89|550|<span class="rank-name-pd">かける</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79902?s_seq=79902">S.Factory</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|91|545|<span class="rank-name-pd">ユーサク、</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79902?s_seq=79902">S.Factory</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|92|538|<span class="rank-name-pd">ゆうき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7856?s_seq=7856">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|93|535|<span class="rank-name-pd">○山</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|94|533|<span class="rank-name-pd">ASUKA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|94|533|<span class="rank-name-pd">ち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79902?s_seq=79902">S.Factory</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|96|532|<span class="rank-name-pd">れいや</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79902?s_seq=79902">S.Factory</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|97|530|<span class="rank-name-pd">Takeru</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79902?s_seq=79902">S.Factory</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|98|524|<span class="rank-name-pd">なつみかん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|99|519|<span class="rank-name-pd">( ´Д`)y━虎弥太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
-|100|517|<span class="rank-name-pd">zgvw37f37c397d</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|1|1084|<span class="rank-name-pd">浜崎祥悟</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|2|1075|<span class="rank-name-pd">おぐりん。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|3|1054|<span class="rank-name-pd">sAku〆蛍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7856?s_seq=7856">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|4|1052|<span class="rank-name-pd">0141_1133</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|5|1047|<span class="rank-name-pd">たかお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7856?s_seq=7856">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|6|1012|<span class="rank-name-pd">ゆうき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|7|1011|<span class="rank-name-pd">◇花山◇</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79902?s_seq=79902">S.Factory</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|8|1006|<span class="rank-name-pd">〆ゆーま〆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7856?s_seq=7856">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|9|998|<span class="rank-name-pd">T.J</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|10|994|<span class="rank-name-pd"><span class="pro-icon-pd"></span>甲斐 亮太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|11|991|<span class="rank-name-pd">T.J@JOYJOY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|12|977|<span class="rank-name-pd"><span class="pro-icon-pd"></span>木村 誠志</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|13|969|<span class="rank-name-pd">Butterfly【蝶】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|14|967|<span class="rank-name-pd">JJ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|15|964|<span class="rank-name-pd">Minoru</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|16|958|<span class="rank-name-pd">たかお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|17|956|<span class="rank-name-pd">もりゆうだい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|18|955|<span class="rank-name-pd">かずたん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|19|954|<span class="rank-name-pd">絵夢とぅーん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|20|944|<span class="rank-name-pd">もりゆうだい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79902?s_seq=79902">S.Factory</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|21|943|<span class="rank-name-pd">Metalist</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79902?s_seq=79902">S.Factory</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|22|940|<span class="rank-name-pd"><span class="pro-icon-pd"></span>高巣 寛亨</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|23|932|<span class="rank-name-pd">たかおT20</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7856?s_seq=7856">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|24|928|<span class="rank-name-pd">≡Ζёｇηа≡</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|25|925|<span class="rank-name-pd">みたこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|26|924|<span class="rank-name-pd">○山</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|27|916|<span class="rank-name-pd"><span class="pro-icon-pd"></span>斎藤 大樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|28|914|<span class="rank-name-pd">こちょ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|29|911|<span class="rank-name-pd">Y.M</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79902?s_seq=79902">S.Factory</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|30|909|<span class="rank-name-pd">MOOOOORIN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7856?s_seq=7856">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|31|906|<span class="rank-name-pd">T.J</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79902?s_seq=79902">S.Factory</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|32|896|<span class="rank-name-pd">ぱじー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|33|886|<span class="rank-name-pd">Tenga</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7856?s_seq=7856">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|34|885|<span class="rank-name-pd">kazumax.v</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|34|885|<span class="rank-name-pd">カズナリ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|34|885|<span class="rank-name-pd">ベックス@VABE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|37|883|<span class="rank-name-pd">しゅーや</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|38|874|<span class="rank-name-pd">どいっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|39|872|<span class="rank-name-pd">KEI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7864?s_seq=7864">JUNK BAR</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|40|869|<span class="rank-name-pd">Metalist</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|41|866|<span class="rank-name-pd">ゆっきー/ななち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7856?s_seq=7856">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|42|863|<span class="rank-name-pd">ЖヨッシーЖ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|43|860|<span class="rank-name-pd">ななち師範代(仮)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|44|859|<span class="rank-name-pd">Mayu@STRAD</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|45|858|<span class="rank-name-pd">ゆっきー/ななち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|46|850|<span class="rank-name-pd">ゆっきー/ななち/</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7856?s_seq=7856">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|47|846|<span class="rank-name-pd">-MARIMO~king~-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|48|837|<span class="rank-name-pd">⭐︎闇の帝王⭐︎きょん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|49|831|<span class="rank-name-pd">【東亜グループ】 亜熱帯</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|50|827|<span class="rank-name-pd">0043_9950</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7856?s_seq=7856">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|50|827|<span class="rank-name-pd">マキ•ドン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|52|820|<span class="rank-name-pd">いっちー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|53|816|<span class="rank-name-pd"><span class="pro-icon-pd"></span>高尾 忠彦</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7856?s_seq=7856">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|54|814|<span class="rank-name-pd"><span class="pro-icon-pd"></span>近藤 晃吉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|55|813|<span class="rank-name-pd">ゆきなな</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7856?s_seq=7856">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|55|813|<span class="rank-name-pd"><span class="pro-icon-pd"></span>高巣 寛亨</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79902?s_seq=79902">S.Factory</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|57|810|<span class="rank-name-pd">(株)ともぞー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|58|806|<span class="rank-name-pd">つっちー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|59|805|<span class="rank-name-pd">EISUKE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|59|805|<span class="rank-name-pd">MOOOOORIN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|61|800|<span class="rank-name-pd">李白師匠</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7856?s_seq=7856">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|62|798|<span class="rank-name-pd">りょーちん@林　亮佑</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|63|794|<span class="rank-name-pd">0050_5225</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|64|791|<span class="rank-name-pd">村上 裕二</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|65|790|<span class="rank-name-pd">THJT</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|65|790|<span class="rank-name-pd">はやしゅ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7856?s_seq=7856">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|65|790|<span class="rank-name-pd">カワキヨ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79902?s_seq=79902">S.Factory</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|68|789|<span class="rank-name-pd">⭐︎闇の帝王⭐︎きょん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7856?s_seq=7856">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|69|788|<span class="rank-name-pd">ゆｰた</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|70|784|<span class="rank-name-pd">とーやこ®️</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|71|781|<span class="rank-name-pd">ゆっきー/ななち/</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|72|774|<span class="rank-name-pd">MEGANEROCK</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|73|772|<span class="rank-name-pd">y</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|73|772|<span class="rank-name-pd">いかくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7856?s_seq=7856">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|75|769|<span class="rank-name-pd">ななち師範代(仮)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7856?s_seq=7856">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|76|768|<span class="rank-name-pd">哲骨ラーメン@兎組T.D.N</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7856?s_seq=7856">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|77|764|<span class="rank-name-pd">タオパイパイ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|78|763|<span class="rank-name-pd">0265_6730</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7856?s_seq=7856">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|79|757|<span class="rank-name-pd">ほたに氏 fm 名古屋</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|80|756|<span class="rank-name-pd">SaiDa</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7856?s_seq=7856">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|81|754|<span class="rank-name-pd">鍋</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|82|753|<span class="rank-name-pd">ゆっきー/ななち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79902?s_seq=79902">S.Factory</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|83|752|<span class="rank-name-pd">Red べこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79902?s_seq=79902">S.Factory</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|83|752|<span class="rank-name-pd">おつぼネコ（チャロつぼ）</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|83|752|<span class="rank-name-pd">ひろ㌧.｡.:✽</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|86|750|<span class="rank-name-pd">純正九蓮宝燈</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|87|749|<span class="rank-name-pd">NOBU男爵</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|88|746|<span class="rank-name-pd">テルさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|89|745|<span class="rank-name-pd">TaKaYuKi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|90|742|<span class="rank-name-pd">鍋</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79902?s_seq=79902">S.Factory</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|91|741|<span class="rank-name-pd">RY@?!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79902?s_seq=79902">S.Factory</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|91|741|<span class="rank-name-pd">Y-ZI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7864?s_seq=7864">JUNK BAR</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|93|740|<span class="rank-name-pd">ＨｉＳａ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|94|739|<span class="rank-name-pd">クレヨンしんちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|95|736|<span class="rank-name-pd">ありさ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|96|734|<span class="rank-name-pd">宮城朱勇</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|97|733|<span class="rank-name-pd">Air</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|98|732|<span class="rank-name-pd">SALT</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7856?s_seq=7856">亜熱帯 北名古屋店</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|99|727|<span class="rank-name-pd"><span class="pro-icon-pd"></span>堀出 紘史</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
+|100|725|<span class="rank-name-pd">まろん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89261?s_seq=89261">なげ場 STRAD</a>|<a href="/darts/rank/愛知県/北名古屋市">愛知県北名古屋市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

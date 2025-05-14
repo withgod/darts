@@ -23,76 +23,106 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1042|<span class="rank-name-pd">潤@Cross Time 北広島</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|2|969|<span class="rank-name-pd"><span class="pro-icon-pd"></span>立藏 潤</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|3|964|<span class="rank-name-pd">荒 真輝cross Time</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|4|947|<span class="rank-name-pd">ricky</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|5|932|<span class="rank-name-pd">太郎@BAR Cross Time</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|6|931|<span class="rank-name-pd">潤セパ@Cross Time北広島</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|7|928|<span class="rank-name-pd">隆謙@Cross time 北広島</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|8|911|<span class="rank-name-pd">高瀬 洋平</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|9|888|<span class="rank-name-pd"><span class="pro-icon-pd"></span>長谷川 裕太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|10|872|<span class="rank-name-pd">かもねぎ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|11|869|<span class="rank-name-pd">manathy#男梅</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|12|856|<span class="rank-name-pd">やきや</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|13|852|<span class="rank-name-pd">ﾀﾞﾌﾞﾙｽますちーCross Time</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|14|839|<span class="rank-name-pd">miwaTaro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|15|826|<span class="rank-name-pd">yasu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|16|822|<span class="rank-name-pd">BAR Cross Time</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|17|803|<span class="rank-name-pd">かく</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|18|798|<span class="rank-name-pd">アサシン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|19|797|<span class="rank-name-pd">たてちゃんまん@ぼんず（仮）</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|20|777|<span class="rank-name-pd">永桶 勇真</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|21|764|<span class="rank-name-pd">たく@crosstime</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|22|758|<span class="rank-name-pd">佐藤 友亮</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|23|757|<span class="rank-name-pd">take</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|24|743|<span class="rank-name-pd">(株)藤やん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|25|738|<span class="rank-name-pd">かとぅ～ん～荒波絶頂～</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|26|733|<span class="rank-name-pd">藤田の伝承者</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|27|725|<span class="rank-name-pd">OI@Anastasis</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|28|724|<span class="rank-name-pd">0069_0253</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|29|715|<span class="rank-name-pd">0023_8793</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|30|704|<span class="rank-name-pd">まーさ(゜o゜)練習用</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|30|704|<span class="rank-name-pd">テルさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|32|696|<span class="rank-name-pd">SHEENA（遠藤しいな）</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|33|693|<span class="rank-name-pd">コウ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|34|687|<span class="rank-name-pd">イシシ・石川</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|35|686|<span class="rank-name-pd">ITACHO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|36|681|<span class="rank-name-pd">じゅじゅ@CrossTime</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|37|668|<span class="rank-name-pd">SUMI@CrossTime北広島</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|38|660|<span class="rank-name-pd">HAYATA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|39|659|<span class="rank-name-pd">きわどい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|39|659|<span class="rank-name-pd">ーおまつぅー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|41|647|<span class="rank-name-pd">たけ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|42|637|<span class="rank-name-pd">おすおす@FIRE FLY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|43|632|<span class="rank-name-pd">ぽん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|44|611|<span class="rank-name-pd">菜々美@CrossTime</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|45|606|<span class="rank-name-pd">SUMI@北広島CROSS TIME</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|46|595|<span class="rank-name-pd">Crosstime ばっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|47|585|<span class="rank-name-pd">wakka</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|48|577|<span class="rank-name-pd">明寿香</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|49|575|<span class="rank-name-pd">儀保建瑠</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|50|569|<span class="rank-name-pd">鈴木 ちなみ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|51|562|<span class="rank-name-pd">田中リョウ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|52|552|<span class="rank-name-pd">武田@ブルドッグ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|53|550|<span class="rank-name-pd">zai</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|54|539|<span class="rank-name-pd">がし@hangover</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|55|513|<span class="rank-name-pd">LUXURY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|56|506|<span class="rank-name-pd">辰雅</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|57|502|<span class="rank-name-pd">KAITO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|58|486|<span class="rank-name-pd">tai@Cross Time</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|59|462|<span class="rank-name-pd">幸誠@CROSS TIME</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|60|445|<span class="rank-name-pd">HIRO-O    酒呑みライオン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|61|443|<span class="rank-name-pd">Katsu.O</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|62|428|<span class="rank-name-pd">ハナハナボール</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|63|409|<span class="rank-name-pd">867</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|63|409|<span class="rank-name-pd">ひよこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|65|408|<span class="rank-name-pd">STEED</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|66|400|<span class="rank-name-pd">ぽこまる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|67|385|<span class="rank-name-pd">もっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|68|383|<span class="rank-name-pd">zkmu37e7dd28fe</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|69|379|<span class="rank-name-pd">金魚@CrossTime</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|70|281|<span class="rank-name-pd">ReNA@Cross Time</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|1|1044|<span class="rank-name-pd">裕太@Queen&#x27;s Eye</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|2|1042|<span class="rank-name-pd">潤@Cross Time 北広島</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|3|1038|<span class="rank-name-pd">キエるﾏｷｭｳ.HiVe</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|4|1019|<span class="rank-name-pd">潤JUN@Cross Time北広島</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|5|1013|<span class="rank-name-pd">わかちこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|6|1005|<span class="rank-name-pd"><span class="pro-icon-pd"></span>長谷川 裕太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|7|983|<span class="rank-name-pd">隆謙@Cross time 北広島</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|8|977|<span class="rank-name-pd">BAR Cross Time</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|9|969|<span class="rank-name-pd"><span class="pro-icon-pd"></span>立藏 潤</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|10|968|<span class="rank-name-pd">yasu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|11|964|<span class="rank-name-pd">荒 真輝cross Time</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|12|947|<span class="rank-name-pd">ricky</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|13|932|<span class="rank-name-pd">太郎@BAR Cross Time</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|14|931|<span class="rank-name-pd">潤セパ@Cross Time北広島</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|15|922|<span class="rank-name-pd">YUTA@Q.E</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|16|911|<span class="rank-name-pd">高瀬 洋平</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|17|910|<span class="rank-name-pd">やきや</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|17|910|<span class="rank-name-pd">潤ダブルス@Cross Time北広島</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|19|886|<span class="rank-name-pd">たかぴ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|20|877|<span class="rank-name-pd">敬汰</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|21|872|<span class="rank-name-pd">かもねぎ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|22|869|<span class="rank-name-pd">manathy#男梅</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|23|852|<span class="rank-name-pd">ﾀﾞﾌﾞﾙｽますちーCross Time</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|24|839|<span class="rank-name-pd">miwaTaro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|25|832|<span class="rank-name-pd">-おまつ打倒かもねぎ-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|26|831|<span class="rank-name-pd"><span class="pro-icon-pd"></span>田渕 省造</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|27|822|<span class="rank-name-pd">立藏　潤</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|28|807|<span class="rank-name-pd">Ｏ Ｈ Ｎ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|29|803|<span class="rank-name-pd">かく</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|30|798|<span class="rank-name-pd">アサシン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|31|797|<span class="rank-name-pd">たてちゃんまん@ぼんず（仮）</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|32|777|<span class="rank-name-pd">永桶 勇真</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|33|772|<span class="rank-name-pd">イシシ・石川</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|34|764|<span class="rank-name-pd">たく@crosstime</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|35|758|<span class="rank-name-pd">佐藤 友亮</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|36|757|<span class="rank-name-pd">take</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|37|755|<span class="rank-name-pd">鈴木 ちなみ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|38|750|<span class="rank-name-pd">おすおす@FIRE FLY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|39|749|<span class="rank-name-pd">miwaTaro＠Cross Time</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|40|745|<span class="rank-name-pd">Minorrrrrin</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|41|743|<span class="rank-name-pd">(株)藤やん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|42|739|<span class="rank-name-pd">やす@TRY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|43|738|<span class="rank-name-pd">かとぅ～ん～荒波絶頂～</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|44|733|<span class="rank-name-pd">藤田の伝承者</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|45|732|<span class="rank-name-pd">ハナハナボール</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|46|731|<span class="rank-name-pd">Eito</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|47|726|<span class="rank-name-pd">SUMI@CrossTime北広島</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|48|725|<span class="rank-name-pd">OI@Anastasis</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|49|724|<span class="rank-name-pd">0069_0253</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|50|722|<span class="rank-name-pd">ISOISO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|51|715|<span class="rank-name-pd">0023_8793</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|52|704|<span class="rank-name-pd">まーさ(゜o゜)練習用</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|52|704|<span class="rank-name-pd">テルさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|54|703|<span class="rank-name-pd">明寿香</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|55|696|<span class="rank-name-pd">SHEENA（遠藤しいな）</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|56|693|<span class="rank-name-pd">コウ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|57|686|<span class="rank-name-pd">ITACHO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|58|685|<span class="rank-name-pd">たろう＠Cross Time北広島</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|59|684|<span class="rank-name-pd">ROY3</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|60|681|<span class="rank-name-pd">じゅじゅ@CrossTime</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|61|677|<span class="rank-name-pd">夜勤ニキ@CrossTime</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|62|660|<span class="rank-name-pd">HAYATA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|63|659|<span class="rank-name-pd">Shu Takahashi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|63|659|<span class="rank-name-pd">きわどい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|63|659|<span class="rank-name-pd">ーおまつぅー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|63|659|<span class="rank-name-pd">醤油派</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|67|658|<span class="rank-name-pd">じゅじゅ@CrossTime北広島</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|68|647|<span class="rank-name-pd">たけ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|69|632|<span class="rank-name-pd">ぽん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|70|611|<span class="rank-name-pd">菜々美@CrossTime</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|71|609|<span class="rank-name-pd">SAYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|72|606|<span class="rank-name-pd">SUMI@北広島CROSS TIME</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|73|597|<span class="rank-name-pd">KING52418</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|74|595|<span class="rank-name-pd">Crosstime ばっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|75|585|<span class="rank-name-pd">wakka</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|76|579|<span class="rank-name-pd">聖矢@One Eighty</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|77|575|<span class="rank-name-pd">儀保建瑠</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|78|562|<span class="rank-name-pd">田中リョウ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|79|554|<span class="rank-name-pd">いぼまる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|80|553|<span class="rank-name-pd">金魚@CrossTime</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|81|552|<span class="rank-name-pd">武田@ブルドッグ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|82|550|<span class="rank-name-pd">zai</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|83|539|<span class="rank-name-pd">がし@hangover</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|84|526|<span class="rank-name-pd">がし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|85|513|<span class="rank-name-pd">LUXURY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|86|506|<span class="rank-name-pd">辰雅</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|87|502|<span class="rank-name-pd">KAITO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|88|486|<span class="rank-name-pd">tai@Cross Time</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|89|464|<span class="rank-name-pd">森永　太郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|90|462|<span class="rank-name-pd">幸誠@CROSS TIME</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|91|445|<span class="rank-name-pd">HIRO-O    酒呑みライオン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|92|443|<span class="rank-name-pd">Katsu.O</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|93|416|<span class="rank-name-pd">未熟なバナナ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|94|409|<span class="rank-name-pd">867</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|94|409|<span class="rank-name-pd">ひよこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|96|408|<span class="rank-name-pd">STEED</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|97|400|<span class="rank-name-pd">ぽこまる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|98|385|<span class="rank-name-pd">もっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|99|383|<span class="rank-name-pd">zkmu37e7dd28fe</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|100|281|<span class="rank-name-pd">ReNA@Cross Time</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -112,76 +142,106 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1042|<span class="rank-name-pd">潤@Cross Time 北広島</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|2|969|<span class="rank-name-pd"><span class="pro-icon-pd"></span>立藏 潤</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|3|964|<span class="rank-name-pd">荒 真輝cross Time</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|4|947|<span class="rank-name-pd">ricky</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|5|932|<span class="rank-name-pd">太郎@BAR Cross Time</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|6|931|<span class="rank-name-pd">潤セパ@Cross Time北広島</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|7|928|<span class="rank-name-pd">隆謙@Cross time 北広島</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|8|911|<span class="rank-name-pd">高瀬 洋平</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|9|888|<span class="rank-name-pd"><span class="pro-icon-pd"></span>長谷川 裕太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|10|872|<span class="rank-name-pd">かもねぎ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|11|869|<span class="rank-name-pd">manathy#男梅</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|12|856|<span class="rank-name-pd">やきや</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|13|852|<span class="rank-name-pd">ﾀﾞﾌﾞﾙｽますちーCross Time</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|14|839|<span class="rank-name-pd">miwaTaro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|15|826|<span class="rank-name-pd">yasu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|16|822|<span class="rank-name-pd">BAR Cross Time</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|17|803|<span class="rank-name-pd">かく</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|18|798|<span class="rank-name-pd">アサシン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|19|797|<span class="rank-name-pd">たてちゃんまん@ぼんず（仮）</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|20|777|<span class="rank-name-pd">永桶 勇真</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|21|764|<span class="rank-name-pd">たく@crosstime</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|22|758|<span class="rank-name-pd">佐藤 友亮</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|23|757|<span class="rank-name-pd">take</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|24|743|<span class="rank-name-pd">(株)藤やん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|25|738|<span class="rank-name-pd">かとぅ～ん～荒波絶頂～</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|26|733|<span class="rank-name-pd">藤田の伝承者</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|27|725|<span class="rank-name-pd">OI@Anastasis</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|28|724|<span class="rank-name-pd">0069_0253</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|29|715|<span class="rank-name-pd">0023_8793</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|30|704|<span class="rank-name-pd">まーさ(゜o゜)練習用</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|30|704|<span class="rank-name-pd">テルさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|32|696|<span class="rank-name-pd">SHEENA（遠藤しいな）</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|33|693|<span class="rank-name-pd">コウ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|34|687|<span class="rank-name-pd">イシシ・石川</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|35|686|<span class="rank-name-pd">ITACHO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|36|681|<span class="rank-name-pd">じゅじゅ@CrossTime</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|37|668|<span class="rank-name-pd">SUMI@CrossTime北広島</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|38|660|<span class="rank-name-pd">HAYATA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|39|659|<span class="rank-name-pd">きわどい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|39|659|<span class="rank-name-pd">ーおまつぅー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|41|647|<span class="rank-name-pd">たけ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|42|637|<span class="rank-name-pd">おすおす@FIRE FLY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|43|632|<span class="rank-name-pd">ぽん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|44|611|<span class="rank-name-pd">菜々美@CrossTime</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|45|606|<span class="rank-name-pd">SUMI@北広島CROSS TIME</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|46|595|<span class="rank-name-pd">Crosstime ばっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|47|585|<span class="rank-name-pd">wakka</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|48|577|<span class="rank-name-pd">明寿香</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|49|575|<span class="rank-name-pd">儀保建瑠</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|50|569|<span class="rank-name-pd">鈴木 ちなみ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|51|562|<span class="rank-name-pd">田中リョウ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|52|552|<span class="rank-name-pd">武田@ブルドッグ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|53|550|<span class="rank-name-pd">zai</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|54|539|<span class="rank-name-pd">がし@hangover</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|55|513|<span class="rank-name-pd">LUXURY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|56|506|<span class="rank-name-pd">辰雅</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|57|502|<span class="rank-name-pd">KAITO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|58|486|<span class="rank-name-pd">tai@Cross Time</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|59|462|<span class="rank-name-pd">幸誠@CROSS TIME</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|60|445|<span class="rank-name-pd">HIRO-O    酒呑みライオン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|61|443|<span class="rank-name-pd">Katsu.O</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|62|428|<span class="rank-name-pd">ハナハナボール</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|63|409|<span class="rank-name-pd">867</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|63|409|<span class="rank-name-pd">ひよこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|65|408|<span class="rank-name-pd">STEED</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|66|400|<span class="rank-name-pd">ぽこまる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|67|385|<span class="rank-name-pd">もっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|68|383|<span class="rank-name-pd">zkmu37e7dd28fe</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|69|379|<span class="rank-name-pd">金魚@CrossTime</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
-|70|281|<span class="rank-name-pd">ReNA@Cross Time</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|1|1044|<span class="rank-name-pd">裕太@Queen&#x27;s Eye</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|2|1042|<span class="rank-name-pd">潤@Cross Time 北広島</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|3|1038|<span class="rank-name-pd">キエるﾏｷｭｳ.HiVe</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|4|1019|<span class="rank-name-pd">潤JUN@Cross Time北広島</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|5|1013|<span class="rank-name-pd">わかちこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|6|1005|<span class="rank-name-pd"><span class="pro-icon-pd"></span>長谷川 裕太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|7|983|<span class="rank-name-pd">隆謙@Cross time 北広島</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|8|977|<span class="rank-name-pd">BAR Cross Time</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|9|969|<span class="rank-name-pd"><span class="pro-icon-pd"></span>立藏 潤</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|10|968|<span class="rank-name-pd">yasu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|11|964|<span class="rank-name-pd">荒 真輝cross Time</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|12|947|<span class="rank-name-pd">ricky</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|13|932|<span class="rank-name-pd">太郎@BAR Cross Time</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|14|931|<span class="rank-name-pd">潤セパ@Cross Time北広島</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|15|922|<span class="rank-name-pd">YUTA@Q.E</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|16|911|<span class="rank-name-pd">高瀬 洋平</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|17|910|<span class="rank-name-pd">やきや</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|17|910|<span class="rank-name-pd">潤ダブルス@Cross Time北広島</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|19|886|<span class="rank-name-pd">たかぴ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|20|877|<span class="rank-name-pd">敬汰</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|21|872|<span class="rank-name-pd">かもねぎ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|22|869|<span class="rank-name-pd">manathy#男梅</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|23|852|<span class="rank-name-pd">ﾀﾞﾌﾞﾙｽますちーCross Time</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|24|839|<span class="rank-name-pd">miwaTaro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|25|832|<span class="rank-name-pd">-おまつ打倒かもねぎ-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|26|831|<span class="rank-name-pd"><span class="pro-icon-pd"></span>田渕 省造</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|27|822|<span class="rank-name-pd">立藏　潤</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|28|807|<span class="rank-name-pd">Ｏ Ｈ Ｎ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|29|803|<span class="rank-name-pd">かく</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|30|798|<span class="rank-name-pd">アサシン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|31|797|<span class="rank-name-pd">たてちゃんまん@ぼんず（仮）</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|32|777|<span class="rank-name-pd">永桶 勇真</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|33|772|<span class="rank-name-pd">イシシ・石川</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|34|764|<span class="rank-name-pd">たく@crosstime</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|35|758|<span class="rank-name-pd">佐藤 友亮</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|36|757|<span class="rank-name-pd">take</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|37|755|<span class="rank-name-pd">鈴木 ちなみ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|38|750|<span class="rank-name-pd">おすおす@FIRE FLY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|39|749|<span class="rank-name-pd">miwaTaro＠Cross Time</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|40|745|<span class="rank-name-pd">Minorrrrrin</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|41|743|<span class="rank-name-pd">(株)藤やん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|42|739|<span class="rank-name-pd">やす@TRY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|43|738|<span class="rank-name-pd">かとぅ～ん～荒波絶頂～</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|44|733|<span class="rank-name-pd">藤田の伝承者</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|45|732|<span class="rank-name-pd">ハナハナボール</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|46|731|<span class="rank-name-pd">Eito</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|47|726|<span class="rank-name-pd">SUMI@CrossTime北広島</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|48|725|<span class="rank-name-pd">OI@Anastasis</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|49|724|<span class="rank-name-pd">0069_0253</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|50|722|<span class="rank-name-pd">ISOISO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|51|715|<span class="rank-name-pd">0023_8793</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|52|704|<span class="rank-name-pd">まーさ(゜o゜)練習用</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|52|704|<span class="rank-name-pd">テルさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|54|703|<span class="rank-name-pd">明寿香</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|55|696|<span class="rank-name-pd">SHEENA（遠藤しいな）</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|56|693|<span class="rank-name-pd">コウ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|57|686|<span class="rank-name-pd">ITACHO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|58|685|<span class="rank-name-pd">たろう＠Cross Time北広島</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|59|684|<span class="rank-name-pd">ROY3</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|60|681|<span class="rank-name-pd">じゅじゅ@CrossTime</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|61|677|<span class="rank-name-pd">夜勤ニキ@CrossTime</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|62|660|<span class="rank-name-pd">HAYATA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|63|659|<span class="rank-name-pd">Shu Takahashi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|63|659|<span class="rank-name-pd">きわどい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|63|659|<span class="rank-name-pd">ーおまつぅー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|63|659|<span class="rank-name-pd">醤油派</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|67|658|<span class="rank-name-pd">じゅじゅ@CrossTime北広島</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|68|647|<span class="rank-name-pd">たけ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|69|632|<span class="rank-name-pd">ぽん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|70|611|<span class="rank-name-pd">菜々美@CrossTime</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|71|609|<span class="rank-name-pd">SAYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|72|606|<span class="rank-name-pd">SUMI@北広島CROSS TIME</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|73|597|<span class="rank-name-pd">KING52418</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|74|595|<span class="rank-name-pd">Crosstime ばっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|75|585|<span class="rank-name-pd">wakka</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|76|579|<span class="rank-name-pd">聖矢@One Eighty</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|77|575|<span class="rank-name-pd">儀保建瑠</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|78|562|<span class="rank-name-pd">田中リョウ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|79|554|<span class="rank-name-pd">いぼまる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|80|553|<span class="rank-name-pd">金魚@CrossTime</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|81|552|<span class="rank-name-pd">武田@ブルドッグ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|82|550|<span class="rank-name-pd">zai</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|83|539|<span class="rank-name-pd">がし@hangover</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|84|526|<span class="rank-name-pd">がし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|85|513|<span class="rank-name-pd">LUXURY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|86|506|<span class="rank-name-pd">辰雅</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|87|502|<span class="rank-name-pd">KAITO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|88|486|<span class="rank-name-pd">tai@Cross Time</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|89|464|<span class="rank-name-pd">森永　太郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|90|462|<span class="rank-name-pd">幸誠@CROSS TIME</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|91|445|<span class="rank-name-pd">HIRO-O    酒呑みライオン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|92|443|<span class="rank-name-pd">Katsu.O</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|93|416|<span class="rank-name-pd">未熟なバナナ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|94|409|<span class="rank-name-pd">867</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|94|409|<span class="rank-name-pd">ひよこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|96|408|<span class="rank-name-pd">STEED</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|97|400|<span class="rank-name-pd">ぽこまる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|98|385|<span class="rank-name-pd">もっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|99|383|<span class="rank-name-pd">zkmu37e7dd28fe</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
+|100|281|<span class="rank-name-pd">ReNA@Cross Time</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80543?s_seq=80543">Bar Cross Time</a>|<a href="/darts/rank/北海道/北広島市">北海道北広島市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

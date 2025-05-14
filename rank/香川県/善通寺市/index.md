@@ -25,6 +25,7 @@ ___
 |---|---|---|---|---|
 |1|639|<span class="rank-name-dl">BAR AKI(店長)</span>|<a href="https://search.dartslive.com/jp/shop/79e35f27694fc6330d9b047a20a7ba1e">BAR AKI</a>|<a href="/darts/rank/香川県/善通寺市">香川県善通寺市</a>|
 |2|553|<span class="rank-name-dl">ｳｫﾝﾊﾞｯﾄ〆[矢宴]</span>|<a href="https://search.dartslive.com/jp/shop/79e35f27694fc6330d9b047a20a7ba1e">BAR AKI</a>|<a href="/darts/rank/香川県/善通寺市">香川県善通寺市</a>|
+|3|486|<span class="rank-name-dl">ゆ</span>|<a href="https://search.dartslive.com/jp/shop/79e35f27694fc6330d9b047a20a7ba1e">BAR AKI</a>|<a href="/darts/rank/香川県/善通寺市">香川県善通寺市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -36,6 +37,7 @@ ___
 |---|---|---|---|---|
 |1|639|<span class="rank-name-dl">BAR AKI(店長)</span>|<a href="https://search.dartslive.com/jp/shop/79e35f27694fc6330d9b047a20a7ba1e">BAR AKI</a>|<a href="/darts/rank/香川県/善通寺市">香川県善通寺市</a>|
 |2|553|<span class="rank-name-dl">ｳｫﾝﾊﾞｯﾄ〆[矢宴]</span>|<a href="https://search.dartslive.com/jp/shop/79e35f27694fc6330d9b047a20a7ba1e">BAR AKI</a>|<a href="/darts/rank/香川県/善通寺市">香川県善通寺市</a>|
+|3|486|<span class="rank-name-dl">ゆ</span>|<a href="https://search.dartslive.com/jp/shop/79e35f27694fc6330d9b047a20a7ba1e">BAR AKI</a>|<a href="/darts/rank/香川県/善通寺市">香川県善通寺市</a>|
 
 
 #### PHOENIXDARTS TOP 100

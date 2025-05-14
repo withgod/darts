@@ -25,31 +25,52 @@ ___
 |---|---|---|---|---|
 |1|1085|<span class="rank-name-dl">三宅 勇輝</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
 |2|1083|<span class="rank-name-dl">FreeStyleﾂｯﾁ〜</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
-|3|1026|<span class="rank-name-dl">@Ｈ☆</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
-|4|1023|<span class="rank-name-dl">TK-LONG</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
-|5|969|<span class="rank-name-dl">Team裏庭つっち〜</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
-|6|964|<span class="rank-name-dl">@Ｈ</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
-|7|962|<span class="rank-name-dl">@Ｈ_FreeStyle</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
-|8|952|<span class="rank-name-dl">BackYardつっち〜</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
-|9|927|<span class="rank-name-dl">綾鷹</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
-|10|872|<span class="rank-name-dl">ちかし</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
-|11|845|<span class="rank-name-dl">つっち〜リーグ用</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
-|12|843|<span class="rank-name-dl">ぽいちゃん</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
-|13|807|<span class="rank-name-dl">ﾕｰｲﾁ</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
-|14|799|<span class="rank-name-dl">ベルリ</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
-|14|799|<span class="rank-name-dl">紅</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
-|16|758|<span class="rank-name-dl">もりぞう</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
-|17|745|<span class="rank-name-dl">こゆき</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
-|18|716|<span class="rank-name-dl">こゆき@FreeStyle</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
-|19|678|<span class="rank-name-dl">頑張るファービー</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
-|20|640|<span class="rank-name-dl">中間設定拾う人</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
-|21|632|<span class="rank-name-dl">MATSU 222</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
-|22|625|<span class="rank-name-dl">HARU</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
-|23|535|<span class="rank-name-dl">拳ｰG@MOANA</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
-|24|523|<span class="rank-name-dl">美豚</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
-|25|505|<span class="rank-name-dl">あみ</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
-|26|461|<span class="rank-name-dl">YUKI:GIG</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
-|27|375|<span class="rank-name-dl">❁Yukari❁</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|3|1038|<span class="rank-name-dl">夏珠会☆Ryu02</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|4|1026|<span class="rank-name-dl">@Ｈ☆</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|5|1023|<span class="rank-name-dl">TK-LONG</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|6|1003|<span class="rank-name-dl">NO NAME 2647</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|7|1000|<span class="rank-name-dl">ｶﾞﾝﾀﾞﾑBARのﾚｲｼﾞ</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|8|990|<span class="rank-name-dl">BackYardつっち〜</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|9|973|<span class="rank-name-dl">つっち〜ＦＳ</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|10|971|<span class="rank-name-dl">ぽいちゃん</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|11|969|<span class="rank-name-dl">Team裏庭つっち〜</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|12|967|<span class="rank-name-dl">@H.com</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|13|964|<span class="rank-name-dl">@Ｈ</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|14|962|<span class="rank-name-dl">@Ｈ_FreeStyle</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|15|927|<span class="rank-name-dl">綾鷹</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|16|913|<span class="rank-name-dl">睦✝INSPIRIT✝</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|17|888|<span class="rank-name-dl">Ryu02.Free style</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|18|886|<span class="rank-name-dl">ちかし</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|19|845|<span class="rank-name-dl">つっち〜リーグ用</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|20|826|<span class="rank-name-dl">@Ｈ_Fs</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|21|825|<span class="rank-name-dl">こゆき@FreeStyle</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|22|807|<span class="rank-name-dl">ﾕｰｲﾁ</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|23|799|<span class="rank-name-dl">ベルリ</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|23|799|<span class="rank-name-dl">紅</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|25|778|<span class="rank-name-dl">美豚</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|26|758|<span class="rank-name-dl">もりぞう</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|27|750|<span class="rank-name-dl">セットを辞める</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|28|745|<span class="rank-name-dl">こゆき</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|29|730|<span class="rank-name-dl">Ｓhine☆あき</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|30|726|<span class="rank-name-dl">ファービー</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|31|723|<span class="rank-name-dl">SHIGE</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|32|678|<span class="rank-name-dl">頑張るファービー</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|33|670|<span class="rank-name-dl">りゅうじ</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|34|666|<span class="rank-name-dl">NECHI</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|35|640|<span class="rank-name-dl">中間設定拾う人</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|36|638|<span class="rank-name-dl">てっか</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|37|632|<span class="rank-name-dl">MATSU 222</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|38|625|<span class="rank-name-dl">HARU</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|39|609|<span class="rank-name-dl">み〜バラバラ</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|40|608|<span class="rank-name-dl">mayu</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|41|561|<span class="rank-name-dl">YUKI:GIG</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|42|535|<span class="rank-name-dl">拳ｰG@MOANA</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|43|505|<span class="rank-name-dl">あみ</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|44|474|<span class="rank-name-dl">NO NAME 7830</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|45|473|<span class="rank-name-dl">ナオキ</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|46|403|<span class="rank-name-dl">カナエ</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|47|399|<span class="rank-name-dl">なっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|48|375|<span class="rank-name-dl">❁Yukari❁</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -61,31 +82,52 @@ ___
 |---|---|---|---|---|
 |1|1085|<span class="rank-name-dl">三宅 勇輝</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
 |2|1083|<span class="rank-name-dl">FreeStyleﾂｯﾁ〜</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
-|3|1026|<span class="rank-name-dl">@Ｈ☆</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
-|4|1023|<span class="rank-name-dl">TK-LONG</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
-|5|969|<span class="rank-name-dl">Team裏庭つっち〜</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
-|6|964|<span class="rank-name-dl">@Ｈ</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
-|7|962|<span class="rank-name-dl">@Ｈ_FreeStyle</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
-|8|952|<span class="rank-name-dl">BackYardつっち〜</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
-|9|927|<span class="rank-name-dl">綾鷹</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
-|10|872|<span class="rank-name-dl">ちかし</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
-|11|845|<span class="rank-name-dl">つっち〜リーグ用</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
-|12|843|<span class="rank-name-dl">ぽいちゃん</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
-|13|807|<span class="rank-name-dl">ﾕｰｲﾁ</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
-|14|799|<span class="rank-name-dl">ベルリ</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
-|14|799|<span class="rank-name-dl">紅</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
-|16|758|<span class="rank-name-dl">もりぞう</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
-|17|745|<span class="rank-name-dl">こゆき</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
-|18|716|<span class="rank-name-dl">こゆき@FreeStyle</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
-|19|678|<span class="rank-name-dl">頑張るファービー</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
-|20|640|<span class="rank-name-dl">中間設定拾う人</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
-|21|632|<span class="rank-name-dl">MATSU 222</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
-|22|625|<span class="rank-name-dl">HARU</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
-|23|535|<span class="rank-name-dl">拳ｰG@MOANA</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
-|24|523|<span class="rank-name-dl">美豚</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
-|25|505|<span class="rank-name-dl">あみ</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
-|26|461|<span class="rank-name-dl">YUKI:GIG</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
-|27|375|<span class="rank-name-dl">❁Yukari❁</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|3|1038|<span class="rank-name-dl">夏珠会☆Ryu02</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|4|1026|<span class="rank-name-dl">@Ｈ☆</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|5|1023|<span class="rank-name-dl">TK-LONG</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|6|1003|<span class="rank-name-dl">NO NAME 2647</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|7|1000|<span class="rank-name-dl">ｶﾞﾝﾀﾞﾑBARのﾚｲｼﾞ</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|8|990|<span class="rank-name-dl">BackYardつっち〜</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|9|973|<span class="rank-name-dl">つっち〜ＦＳ</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|10|971|<span class="rank-name-dl">ぽいちゃん</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|11|969|<span class="rank-name-dl">Team裏庭つっち〜</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|12|967|<span class="rank-name-dl">@H.com</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|13|964|<span class="rank-name-dl">@Ｈ</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|14|962|<span class="rank-name-dl">@Ｈ_FreeStyle</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|15|927|<span class="rank-name-dl">綾鷹</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|16|913|<span class="rank-name-dl">睦✝INSPIRIT✝</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|17|888|<span class="rank-name-dl">Ryu02.Free style</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|18|886|<span class="rank-name-dl">ちかし</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|19|845|<span class="rank-name-dl">つっち〜リーグ用</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|20|826|<span class="rank-name-dl">@Ｈ_Fs</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|21|825|<span class="rank-name-dl">こゆき@FreeStyle</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|22|807|<span class="rank-name-dl">ﾕｰｲﾁ</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|23|799|<span class="rank-name-dl">ベルリ</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|23|799|<span class="rank-name-dl">紅</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|25|778|<span class="rank-name-dl">美豚</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|26|758|<span class="rank-name-dl">もりぞう</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|27|750|<span class="rank-name-dl">セットを辞める</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|28|745|<span class="rank-name-dl">こゆき</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|29|730|<span class="rank-name-dl">Ｓhine☆あき</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|30|726|<span class="rank-name-dl">ファービー</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|31|723|<span class="rank-name-dl">SHIGE</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|32|678|<span class="rank-name-dl">頑張るファービー</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|33|670|<span class="rank-name-dl">りゅうじ</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|34|666|<span class="rank-name-dl">NECHI</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|35|640|<span class="rank-name-dl">中間設定拾う人</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|36|638|<span class="rank-name-dl">てっか</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|37|632|<span class="rank-name-dl">MATSU 222</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|38|625|<span class="rank-name-dl">HARU</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|39|609|<span class="rank-name-dl">み〜バラバラ</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|40|608|<span class="rank-name-dl">mayu</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|41|561|<span class="rank-name-dl">YUKI:GIG</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|42|535|<span class="rank-name-dl">拳ｰG@MOANA</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|43|505|<span class="rank-name-dl">あみ</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|44|474|<span class="rank-name-dl">NO NAME 7830</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|45|473|<span class="rank-name-dl">ナオキ</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|46|403|<span class="rank-name-dl">カナエ</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|47|399|<span class="rank-name-dl">なっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
+|48|375|<span class="rank-name-dl">❁Yukari❁</span>|<a href="https://search.dartslive.com/jp/shop/1a01c2f8eb40a5d0a3f63593b5358cc4">Amusement Bar Free Style</a>|<a href="/darts/rank/奈良県/生駒郡">奈良県生駒郡</a>|
 
 
 #### PHOENIXDARTS TOP 100

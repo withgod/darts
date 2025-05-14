@@ -23,84 +23,106 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1084|<span class="rank-name-dl">仮ｴｰｽ@こじらせ隊</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|2|1060|<span class="rank-name-dl">MaSaTo</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|2|1060|<span class="rank-name-dl">べーさん@mcz波紋</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|4|1039|<span class="rank-name-dl">おたい</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|5|1019|<span class="rank-name-dl">ラミ</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|6|1014|<span class="rank-name-dl">夏珠会☆Ryu02</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|7|1008|<span class="rank-name-dl">さと～</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|8|998|<span class="rank-name-dl">田村 隆</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|9|966|<span class="rank-name-dl">450だはぁ～ん♂</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|10|953|<span class="rank-name-dl">おいぬ。</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|11|947|<span class="rank-name-dl">＊OGI＊*</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|12|946|<span class="rank-name-dl">かーず☆彡Reve</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|13|944|<span class="rank-name-dl">カワヅトシヒロ</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|14|938|<span class="rank-name-dl">おたい2</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|15|937|<span class="rank-name-dl">三矢翔</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|16|935|<span class="rank-name-dl">まっちょん@Q梅</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|17|926|<span class="rank-name-dl">もにゃん☆彡</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|18|922|<span class="rank-name-dl">あべふ25.8+gills</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|19|907|<span class="rank-name-dl">まーくん</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|20|900|<span class="rank-name-dl">おか　R151</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|20|900|<span class="rank-name-dl">カーリーVMAX</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|22|898|<span class="rank-name-dl">ぷう太 Roots151</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|23|894|<span class="rank-name-dl">코우다이</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|24|889|<span class="rank-name-dl">re</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|25|883|<span class="rank-name-dl">ねぎぃ</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|26|874|<span class="rank-name-dl">矢安宮 重清</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|27|870|<span class="rank-name-dl">きょーすけ</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|28|864|<span class="rank-name-dl">みょん</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|29|853|<span class="rank-name-dl">AtSUshi oKA</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|30|822|<span class="rank-name-dl">骨折のSally</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|31|788|<span class="rank-name-dl">Aki</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|32|778|<span class="rank-name-dl">NO NAME 9663</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|33|776|<span class="rank-name-dl">hane</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|34|773|<span class="rank-name-dl">코우다이</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|35|763|<span class="rank-name-dl">世界のﾔｽｵ?J&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|36|756|<span class="rank-name-dl">おたい</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|37|743|<span class="rank-name-dl">オグリキヤツプDO</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|38|730|<span class="rank-name-dl">ひでぼん&#124;*･ω･)</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|39|717|<span class="rank-name-dl">J10</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|40|716|<span class="rank-name-dl">ちっち</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|41|714|<span class="rank-name-dl">J&#x27;s投げ放題500円</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|42|712|<span class="rank-name-dl">M</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|43|705|<span class="rank-name-dl">本気連合＠雅史②</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|44|692|<span class="rank-name-dl">２代目養分ニキ</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|45|669|<span class="rank-name-dl">JIN</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|46|627|<span class="rank-name-dl">まーたん♡</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|47|624|<span class="rank-name-dl">トム@S3とD20</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|48|605|<span class="rank-name-dl">まいっち</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|49|603|<span class="rank-name-dl">NO NAME 1734</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|50|601|<span class="rank-name-dl">まかろにさん。</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|51|596|<span class="rank-name-dl">やんざー</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|52|571|<span class="rank-name-dl">しょうた</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|53|550|<span class="rank-name-dl">瓦ﾞぱんてい</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|54|528|<span class="rank-name-dl">NO NAME 5751</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|55|523|<span class="rank-name-dl">はなRoots151</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|56|516|<span class="rank-name-dl">HANAKO</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|57|514|<span class="rank-name-dl">いしえもん</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|58|508|<span class="rank-name-dl">ぺこりん@琴様♡</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|59|499|<span class="rank-name-dl">TOSHI614</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|60|490|<span class="rank-name-dl">Nanami Yoshizaki</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|61|480|<span class="rank-name-dl">Sato!</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|62|479|<span class="rank-name-dl">JｕJｕKｏ✩gills</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|63|470|<span class="rank-name-dl">ひろみん★</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|64|457|<span class="rank-name-dl">スネオ</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|65|454|<span class="rank-name-dl">おぺこDO</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|66|451|<span class="rank-name-dl">Mashiro❁﻿</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|67|427|<span class="rank-name-dl">忍風彩之助</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|68|416|<span class="rank-name-dl">羽雲 蒼空♡</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|69|414|<span class="rank-name-dl">かめちゃん</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|70|412|<span class="rank-name-dl">HIKARU</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|71|410|<span class="rank-name-dl">TARO</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|72|404|<span class="rank-name-dl">スネオ#007</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|73|395|<span class="rank-name-dl">たけぼー</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|74|373|<span class="rank-name-dl">Ichigo</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|75|335|<span class="rank-name-dl">RAV4</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|76|286|<span class="rank-name-dl">aya_aya Roots151</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|77|282|<span class="rank-name-dl">utana3</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|78|219|<span class="rank-name-dl">あかつき</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|1|1118|<span class="rank-name-dl">べーさん@mcz波紋</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|2|1117|<span class="rank-name-dl">takashun☆彡</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|3|1084|<span class="rank-name-dl">仮ｴｰｽ@こじらせ隊</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|4|1060|<span class="rank-name-dl">MaSaTo</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|5|1056|<span class="rank-name-dl">ラミ</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|6|1046|<span class="rank-name-dl">まーくん</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|7|1039|<span class="rank-name-dl">おたい</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|8|1015|<span class="rank-name-dl">大窪 勝巳</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|9|1014|<span class="rank-name-dl">夏珠会☆Ryu02</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|10|1008|<span class="rank-name-dl">さと～</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|11|1004|<span class="rank-name-dl">徳仁@blowout</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|12|998|<span class="rank-name-dl">田村 隆</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|13|985|<span class="rank-name-dl">Fukka</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|14|979|<span class="rank-name-dl">ＷＴＲ/ёχi∫т</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|15|969|<span class="rank-name-dl">だいむー</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|16|968|<span class="rank-name-dl">450だはぁ～ん†</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|17|967|<span class="rank-name-dl">赤木　一樹</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|18|966|<span class="rank-name-dl">(◎▽◎)</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|18|966|<span class="rank-name-dl">450だはぁ～ん♂</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|20|964|<span class="rank-name-dl">＊OGI＊*</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|21|960|<span class="rank-name-dl">＊OGI＊*清水流</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|22|955|<span class="rank-name-dl">ふりにゃん♪</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|23|954|<span class="rank-name-dl">おか　R151</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|24|953|<span class="rank-name-dl">おいぬ。</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|25|946|<span class="rank-name-dl">かーず☆彡Reve</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|26|944|<span class="rank-name-dl">カワヅトシヒロ</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|27|942|<span class="rank-name-dl">だい</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|28|938|<span class="rank-name-dl">おたい2</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|29|937|<span class="rank-name-dl">きょーすけ</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|29|937|<span class="rank-name-dl">三矢翔</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|31|935|<span class="rank-name-dl">まっちょん@Q梅</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|32|927|<span class="rank-name-dl">ＫＩＤ</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|33|926|<span class="rank-name-dl">もにゃん☆彡</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|34|922|<span class="rank-name-dl">あべふ25.8+gills</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|34|922|<span class="rank-name-dl">大ちゃん</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|36|914|<span class="rank-name-dl">NO NAME 8551</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|36|914|<span class="rank-name-dl">ぷう太 Roots151</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|38|905|<span class="rank-name-dl">코우다이</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|39|904|<span class="rank-name-dl">世界のﾔｽｵ?J&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|40|901|<span class="rank-name-dl">みょん</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|41|900|<span class="rank-name-dl">カーリーVMAX</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|42|895|<span class="rank-name-dl">AtSUshi oKA</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|43|892|<span class="rank-name-dl">おかRoots151DLM</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|44|889|<span class="rank-name-dl">re</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|45|883|<span class="rank-name-dl">ねぎぃ</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|46|874|<span class="rank-name-dl">MOLET</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|46|874|<span class="rank-name-dl">矢安宮 重清</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|48|872|<span class="rank-name-dl">おさぼりーぬ</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|49|870|<span class="rank-name-dl">M.Aphrodite</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|50|865|<span class="rank-name-dl">morikatsu∞</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|51|863|<span class="rank-name-dl">ヒエッ...!</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|52|861|<span class="rank-name-dl">清井 寛司</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|53|850|<span class="rank-name-dl">ひろしです</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|54|845|<span class="rank-name-dl">山盛ぷぅ太。</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|55|838|<span class="rank-name-dl">M</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|56|822|<span class="rank-name-dl">骨折のSally</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|57|818|<span class="rank-name-dl">おか　Roots151</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|58|817|<span class="rank-name-dl">焼肉番長 轟</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|59|793|<span class="rank-name-dl">$ドンキーコング$</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|60|788|<span class="rank-name-dl">Aki</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|61|778|<span class="rank-name-dl">NO NAME 9663</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|62|776|<span class="rank-name-dl">hane</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|63|773|<span class="rank-name-dl">코우다이</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|64|756|<span class="rank-name-dl">おたい</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|65|743|<span class="rank-name-dl">オグリキヤツプDO</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|66|742|<span class="rank-name-dl">中川 みらい</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|67|730|<span class="rank-name-dl">ひでぼん&#124;*･ω･)</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|68|717|<span class="rank-name-dl">J10</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|69|716|<span class="rank-name-dl">ちっち</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|70|715|<span class="rank-name-dl">まーたん♡</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|71|714|<span class="rank-name-dl">J&#x27;s投げ放題500円</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|72|705|<span class="rank-name-dl">本気連合＠雅史②</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|73|696|<span class="rank-name-dl">NO NAME 3639</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|74|692|<span class="rank-name-dl">２代目養分ニキ</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|75|691|<span class="rank-name-dl">ROOTS151</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|76|685|<span class="rank-name-dl">ましろたん♡</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|77|676|<span class="rank-name-dl">コッキー</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|78|669|<span class="rank-name-dl">JIN</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|78|669|<span class="rank-name-dl">ごえ</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|80|651|<span class="rank-name-dl">瓦ﾞぱんてい</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|81|638|<span class="rank-name-dl">toppogi</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|82|632|<span class="rank-name-dl">ちゃんつな</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|83|624|<span class="rank-name-dl">トム@S3とD20</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|84|623|<span class="rank-name-dl">とよタロス(2)</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|85|622|<span class="rank-name-dl">りょう</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|86|619|<span class="rank-name-dl">ＫＩＤ</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|87|608|<span class="rank-name-dl">きゃんな</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|88|605|<span class="rank-name-dl">まいっち</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|89|603|<span class="rank-name-dl">NO NAME 1734</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|90|601|<span class="rank-name-dl">まかろにさん。</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|91|596|<span class="rank-name-dl">やんざー</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|92|592|<span class="rank-name-dl">yu-ki</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|92|592|<span class="rank-name-dl">はなRoots151</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|94|571|<span class="rank-name-dl">しょうた</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|95|570|<span class="rank-name-dl">YABU</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|95|570|<span class="rank-name-dl">羽雲 蒼空♡</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|97|562|<span class="rank-name-dl">･∀･)ﾎﾅﾐMICHIGAN</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|98|560|<span class="rank-name-dl">シェフ</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|99|557|<span class="rank-name-dl">黒猫ルナ</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|100|554|<span class="rank-name-dl">ひろみん★</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -110,84 +132,106 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1084|<span class="rank-name-dl">仮ｴｰｽ@こじらせ隊</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|2|1060|<span class="rank-name-dl">MaSaTo</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|2|1060|<span class="rank-name-dl">べーさん@mcz波紋</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|4|1039|<span class="rank-name-dl">おたい</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|5|1019|<span class="rank-name-dl">ラミ</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|6|1014|<span class="rank-name-dl">夏珠会☆Ryu02</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|7|1008|<span class="rank-name-dl">さと～</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|8|998|<span class="rank-name-dl">田村 隆</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|9|966|<span class="rank-name-dl">450だはぁ～ん♂</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|10|953|<span class="rank-name-dl">おいぬ。</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|11|947|<span class="rank-name-dl">＊OGI＊*</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|12|946|<span class="rank-name-dl">かーず☆彡Reve</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|13|944|<span class="rank-name-dl">カワヅトシヒロ</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|14|938|<span class="rank-name-dl">おたい2</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|15|937|<span class="rank-name-dl">三矢翔</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|16|935|<span class="rank-name-dl">まっちょん@Q梅</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|17|926|<span class="rank-name-dl">もにゃん☆彡</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|18|922|<span class="rank-name-dl">あべふ25.8+gills</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|19|907|<span class="rank-name-dl">まーくん</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|20|900|<span class="rank-name-dl">おか　R151</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|20|900|<span class="rank-name-dl">カーリーVMAX</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|22|898|<span class="rank-name-dl">ぷう太 Roots151</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|23|894|<span class="rank-name-dl">코우다이</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|24|889|<span class="rank-name-dl">re</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|25|883|<span class="rank-name-dl">ねぎぃ</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|26|874|<span class="rank-name-dl">矢安宮 重清</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|27|870|<span class="rank-name-dl">きょーすけ</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|28|864|<span class="rank-name-dl">みょん</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|29|853|<span class="rank-name-dl">AtSUshi oKA</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|30|822|<span class="rank-name-dl">骨折のSally</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|31|788|<span class="rank-name-dl">Aki</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|32|778|<span class="rank-name-dl">NO NAME 9663</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|33|776|<span class="rank-name-dl">hane</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|34|773|<span class="rank-name-dl">코우다이</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|35|763|<span class="rank-name-dl">世界のﾔｽｵ?J&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|36|756|<span class="rank-name-dl">おたい</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|37|743|<span class="rank-name-dl">オグリキヤツプDO</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|38|730|<span class="rank-name-dl">ひでぼん&#124;*･ω･)</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|39|717|<span class="rank-name-dl">J10</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|40|716|<span class="rank-name-dl">ちっち</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|41|714|<span class="rank-name-dl">J&#x27;s投げ放題500円</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|42|712|<span class="rank-name-dl">M</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|43|705|<span class="rank-name-dl">本気連合＠雅史②</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|44|692|<span class="rank-name-dl">２代目養分ニキ</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|45|669|<span class="rank-name-dl">JIN</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|46|627|<span class="rank-name-dl">まーたん♡</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|47|624|<span class="rank-name-dl">トム@S3とD20</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|48|605|<span class="rank-name-dl">まいっち</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|49|603|<span class="rank-name-dl">NO NAME 1734</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|50|601|<span class="rank-name-dl">まかろにさん。</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|51|596|<span class="rank-name-dl">やんざー</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|52|571|<span class="rank-name-dl">しょうた</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|53|550|<span class="rank-name-dl">瓦ﾞぱんてい</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|54|528|<span class="rank-name-dl">NO NAME 5751</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|55|523|<span class="rank-name-dl">はなRoots151</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|56|516|<span class="rank-name-dl">HANAKO</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|57|514|<span class="rank-name-dl">いしえもん</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|58|508|<span class="rank-name-dl">ぺこりん@琴様♡</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|59|499|<span class="rank-name-dl">TOSHI614</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|60|490|<span class="rank-name-dl">Nanami Yoshizaki</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|61|480|<span class="rank-name-dl">Sato!</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|62|479|<span class="rank-name-dl">JｕJｕKｏ✩gills</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|63|470|<span class="rank-name-dl">ひろみん★</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|64|457|<span class="rank-name-dl">スネオ</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|65|454|<span class="rank-name-dl">おぺこDO</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|66|451|<span class="rank-name-dl">Mashiro❁﻿</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|67|427|<span class="rank-name-dl">忍風彩之助</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|68|416|<span class="rank-name-dl">羽雲 蒼空♡</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|69|414|<span class="rank-name-dl">かめちゃん</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|70|412|<span class="rank-name-dl">HIKARU</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|71|410|<span class="rank-name-dl">TARO</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|72|404|<span class="rank-name-dl">スネオ#007</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|73|395|<span class="rank-name-dl">たけぼー</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|74|373|<span class="rank-name-dl">Ichigo</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|75|335|<span class="rank-name-dl">RAV4</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|76|286|<span class="rank-name-dl">aya_aya Roots151</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|77|282|<span class="rank-name-dl">utana3</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
-|78|219|<span class="rank-name-dl">あかつき</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|1|1118|<span class="rank-name-dl">べーさん@mcz波紋</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|2|1117|<span class="rank-name-dl">takashun☆彡</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|3|1084|<span class="rank-name-dl">仮ｴｰｽ@こじらせ隊</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|4|1060|<span class="rank-name-dl">MaSaTo</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|5|1056|<span class="rank-name-dl">ラミ</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|6|1046|<span class="rank-name-dl">まーくん</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|7|1039|<span class="rank-name-dl">おたい</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|8|1015|<span class="rank-name-dl">大窪 勝巳</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|9|1014|<span class="rank-name-dl">夏珠会☆Ryu02</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|10|1008|<span class="rank-name-dl">さと～</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|11|1004|<span class="rank-name-dl">徳仁@blowout</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|12|998|<span class="rank-name-dl">田村 隆</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|13|985|<span class="rank-name-dl">Fukka</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|14|979|<span class="rank-name-dl">ＷＴＲ/ёχi∫т</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|15|969|<span class="rank-name-dl">だいむー</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|16|968|<span class="rank-name-dl">450だはぁ～ん†</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|17|967|<span class="rank-name-dl">赤木　一樹</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|18|966|<span class="rank-name-dl">(◎▽◎)</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|18|966|<span class="rank-name-dl">450だはぁ～ん♂</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|20|964|<span class="rank-name-dl">＊OGI＊*</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|21|960|<span class="rank-name-dl">＊OGI＊*清水流</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|22|955|<span class="rank-name-dl">ふりにゃん♪</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|23|954|<span class="rank-name-dl">おか　R151</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|24|953|<span class="rank-name-dl">おいぬ。</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|25|946|<span class="rank-name-dl">かーず☆彡Reve</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|26|944|<span class="rank-name-dl">カワヅトシヒロ</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|27|942|<span class="rank-name-dl">だい</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|28|938|<span class="rank-name-dl">おたい2</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|29|937|<span class="rank-name-dl">きょーすけ</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|29|937|<span class="rank-name-dl">三矢翔</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|31|935|<span class="rank-name-dl">まっちょん@Q梅</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|32|927|<span class="rank-name-dl">ＫＩＤ</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|33|926|<span class="rank-name-dl">もにゃん☆彡</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|34|922|<span class="rank-name-dl">あべふ25.8+gills</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|34|922|<span class="rank-name-dl">大ちゃん</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|36|914|<span class="rank-name-dl">NO NAME 8551</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|36|914|<span class="rank-name-dl">ぷう太 Roots151</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|38|905|<span class="rank-name-dl">코우다이</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|39|904|<span class="rank-name-dl">世界のﾔｽｵ?J&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|40|901|<span class="rank-name-dl">みょん</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|41|900|<span class="rank-name-dl">カーリーVMAX</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|42|895|<span class="rank-name-dl">AtSUshi oKA</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|43|892|<span class="rank-name-dl">おかRoots151DLM</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|44|889|<span class="rank-name-dl">re</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|45|883|<span class="rank-name-dl">ねぎぃ</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|46|874|<span class="rank-name-dl">MOLET</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|46|874|<span class="rank-name-dl">矢安宮 重清</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|48|872|<span class="rank-name-dl">おさぼりーぬ</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|49|870|<span class="rank-name-dl">M.Aphrodite</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|50|865|<span class="rank-name-dl">morikatsu∞</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|51|863|<span class="rank-name-dl">ヒエッ...!</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|52|861|<span class="rank-name-dl">清井 寛司</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|53|850|<span class="rank-name-dl">ひろしです</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|54|845|<span class="rank-name-dl">山盛ぷぅ太。</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|55|838|<span class="rank-name-dl">M</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|56|822|<span class="rank-name-dl">骨折のSally</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|57|818|<span class="rank-name-dl">おか　Roots151</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|58|817|<span class="rank-name-dl">焼肉番長 轟</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|59|793|<span class="rank-name-dl">$ドンキーコング$</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|60|788|<span class="rank-name-dl">Aki</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|61|778|<span class="rank-name-dl">NO NAME 9663</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|62|776|<span class="rank-name-dl">hane</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|63|773|<span class="rank-name-dl">코우다이</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|64|756|<span class="rank-name-dl">おたい</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|65|743|<span class="rank-name-dl">オグリキヤツプDO</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|66|742|<span class="rank-name-dl">中川 みらい</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|67|730|<span class="rank-name-dl">ひでぼん&#124;*･ω･)</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|68|717|<span class="rank-name-dl">J10</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|69|716|<span class="rank-name-dl">ちっち</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|70|715|<span class="rank-name-dl">まーたん♡</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|71|714|<span class="rank-name-dl">J&#x27;s投げ放題500円</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|72|705|<span class="rank-name-dl">本気連合＠雅史②</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|73|696|<span class="rank-name-dl">NO NAME 3639</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|74|692|<span class="rank-name-dl">２代目養分ニキ</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|75|691|<span class="rank-name-dl">ROOTS151</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|76|685|<span class="rank-name-dl">ましろたん♡</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|77|676|<span class="rank-name-dl">コッキー</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|78|669|<span class="rank-name-dl">JIN</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|78|669|<span class="rank-name-dl">ごえ</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|80|651|<span class="rank-name-dl">瓦ﾞぱんてい</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|81|638|<span class="rank-name-dl">toppogi</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|82|632|<span class="rank-name-dl">ちゃんつな</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|83|624|<span class="rank-name-dl">トム@S3とD20</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|84|623|<span class="rank-name-dl">とよタロス(2)</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|85|622|<span class="rank-name-dl">りょう</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|86|619|<span class="rank-name-dl">ＫＩＤ</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|87|608|<span class="rank-name-dl">きゃんな</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|88|605|<span class="rank-name-dl">まいっち</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|89|603|<span class="rank-name-dl">NO NAME 1734</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|90|601|<span class="rank-name-dl">まかろにさん。</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|91|596|<span class="rank-name-dl">やんざー</span>|<a href="https://search.dartslive.com/jp/shop/f1b2b0a976fdb2d10d9b047a20a7ba1e">Darts Bar J's</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|92|592|<span class="rank-name-dl">yu-ki</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|92|592|<span class="rank-name-dl">はなRoots151</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|94|571|<span class="rank-name-dl">しょうた</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|95|570|<span class="rank-name-dl">YABU</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|95|570|<span class="rank-name-dl">羽雲 蒼空♡</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|97|562|<span class="rank-name-dl">･∀･)ﾎﾅﾐMICHIGAN</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|98|560|<span class="rank-name-dl">シェフ</span>|<a href="https://search.dartslive.com/jp/shop/27e2e2c7267d7bad0d9b047a20a7ba1e">ROOTS 151</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|99|557|<span class="rank-name-dl">黒猫ルナ</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
+|100|554|<span class="rank-name-dl">ひろみん★</span>|<a href="https://search.dartslive.com/jp/shop/c1a171777ea087250d9b047a20a7ba1e">ビリヤード　アンド　ダーツ　アイボリー</a>|<a href="/darts/rank/大阪府/大阪市西淀川区">大阪府大阪市西淀川区</a>|
 
 
 #### PHOENIXDARTS TOP 100

@@ -23,106 +23,106 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1133|<span class="rank-name-dl">津田 成普</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|1|1163|<span class="rank-name-dl">津田 成普</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
 |2|1129|<span class="rank-name-dl">地家　央貴</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
 |3|1127|<span class="rank-name-dl">名前 ごるご</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
 |4|1119|<span class="rank-name-dl">&#x27;81 コーチ</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|5|1088|<span class="rank-name-dl">EISAN</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|6|1060|<span class="rank-name-dl">nico</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|7|1057|<span class="rank-name-dl">宮侑</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|8|1052|<span class="rank-name-dl">地家 央貴</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|9|1012|<span class="rank-name-dl">山口　力</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|10|1004|<span class="rank-name-dl">ぽちた</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|11|1001|<span class="rank-name-dl">RYU@留雲借風真君</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|12|997|<span class="rank-name-dl">ＪＩＲＵ</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|13|987|<span class="rank-name-dl">RYU@おだづもっこ</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|14|976|<span class="rank-name-dl">相馬 正義</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|15|975|<span class="rank-name-dl">たろ→</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|16|971|<span class="rank-name-dl">よしみちゃん</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|16|971|<span class="rank-name-dl">山本 大稀</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|18|966|<span class="rank-name-dl">みつば</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|19|963|<span class="rank-name-dl">そらまる</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|19|963|<span class="rank-name-dl">黒澤 怜</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|21|958|<span class="rank-name-dl">Yuya☆17</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|22|954|<span class="rank-name-dl">あたる</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|22|954|<span class="rank-name-dl">相馬 正義</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|24|952|<span class="rank-name-pd">ひで</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10088?s_seq=10088">Belic</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|25|938|<span class="rank-name-dl">&#x27;81 岩井 美紗希</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|26|927|<span class="rank-name-dl">Yuya.T☆17</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|27|920|<span class="rank-name-dl">碧咲</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|28|901|<span class="rank-name-dl">ベルモット＠</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|29|885|<span class="rank-name-pd">龍   1  @R&amp;D</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56650?s_seq=56650">Eggplant</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|30|869|<span class="rank-name-pd">のり@あ〜りやす</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56650?s_seq=56650">Eggplant</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|31|851|<span class="rank-name-pd">Type-0/0A</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10088?s_seq=10088">Belic</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|32|849|<span class="rank-name-dl">野うさぎ@ﾄﾞﾅﾄﾞﾅ</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|33|838|<span class="rank-name-dl">マッシーeye&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|34|834|<span class="rank-name-dl">益子 凱太</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|35|829|<span class="rank-name-pd">目白魔苦院</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56650?s_seq=56650">Eggplant</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|36|827|<span class="rank-name-dl">Hiro</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|37|810|<span class="rank-name-dl">そら◯投族</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|38|808|<span class="rank-name-dl">さとっぺ</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|39|788|<span class="rank-name-dl">やま</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|40|785|<span class="rank-name-dl">カラス</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|40|785|<span class="rank-name-dl">独眼竜☬きよかず</span>|<a href="https://search.dartslive.com/jp/shop/4cba5f26382d400125d56fb0e5c39bac">B-GARAGE 黒磯店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|42|765|<span class="rank-name-dl">モリ</span>|<a href="https://search.dartslive.com/jp/shop/4cba5f26382d400125d56fb0e5c39bac">B-GARAGE 黒磯店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|43|763|<span class="rank-name-dl">なりま</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|44|760|<span class="rank-name-pd">RINA@BOW</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56650?s_seq=56650">Eggplant</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|45|755|<span class="rank-name-dl">it0ui7</span>|<a href="https://search.dartslive.com/jp/shop/4cba5f26382d400125d56fb0e5c39bac">B-GARAGE 黒磯店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|46|754|<span class="rank-name-pd">YっKE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56650?s_seq=56650">Eggplant</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|46|754|<span class="rank-name-dl">モリ</span>|<a href="https://search.dartslive.com/jp/shop/d849d7c720ff3d950d9b047a20a7ba1e">カラオケBANBAN西那須野バイパス店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|48|747|<span class="rank-name-dl">そらまる</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|49|745|<span class="rank-name-dl">勝彦</span>|<a href="https://search.dartslive.com/jp/shop/4cba5f26382d400125d56fb0e5c39bac">B-GARAGE 黒磯店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|50|732|<span class="rank-name-dl">たまごっぺきみこ</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|51|731|<span class="rank-name-dl">ベルモット＠</span>|<a href="https://search.dartslive.com/jp/shop/d849d7c720ff3d950d9b047a20a7ba1e">カラオケBANBAN西那須野バイパス店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|52|719|<span class="rank-name-dl">剛田じゃないタケ</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|53|714|<span class="rank-name-pd">碧咲</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10088?s_seq=10088">Belic</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|54|713|<span class="rank-name-dl">たかすぃ➸DUOGO!</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|54|713|<span class="rank-name-pd">ジル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10088?s_seq=10088">Belic</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|56|712|<span class="rank-name-dl">しゅん</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|57|698|<span class="rank-name-dl">彩良</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|58|692|<span class="rank-name-dl">武諒CU用</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|59|690|<span class="rank-name-dl">mi-yann</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|60|689|<span class="rank-name-dl">katsuhiko</span>|<a href="https://search.dartslive.com/jp/shop/4cba5f26382d400125d56fb0e5c39bac">B-GARAGE 黒磯店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|61|687|<span class="rank-name-dl">まぁ～☆GO！GO！</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|62|686|<span class="rank-name-dl">souǝɯ</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|63|679|<span class="rank-name-dl">akgooood</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|63|679|<span class="rank-name-dl">田代　徳雄</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|65|677|<span class="rank-name-pd">Eggのジャイアン@あいや〜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56650?s_seq=56650">Eggplant</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|66|658|<span class="rank-name-dl">KΐyØkaz♛</span>|<a href="https://search.dartslive.com/jp/shop/4cba5f26382d400125d56fb0e5c39bac">B-GARAGE 黒磯店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|67|657|<span class="rank-name-pd">0000000</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56650?s_seq=56650">Eggplant</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|68|651|<span class="rank-name-pd">ぱけ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56650?s_seq=56650">Eggplant</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|69|645|<span class="rank-name-pd">ともひろだよ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56650?s_seq=56650">Eggplant</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|70|635|<span class="rank-name-pd">そらまる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10088?s_seq=10088">Belic</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|71|632|<span class="rank-name-dl">がまる</span>|<a href="https://search.dartslive.com/jp/shop/d849d7c720ff3d950d9b047a20a7ba1e">カラオケBANBAN西那須野バイパス店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|72|623|<span class="rank-name-dl">けんたろー</span>|<a href="https://search.dartslive.com/jp/shop/4cba5f26382d400125d56fb0e5c39bac">B-GARAGE 黒磯店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|73|614|<span class="rank-name-dl">sirayuki73@☆♤</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|74|609|<span class="rank-name-dl">しゅん</span>|<a href="https://search.dartslive.com/jp/shop/d849d7c720ff3d950d9b047a20a7ba1e">カラオケBANBAN西那須野バイパス店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|75|608|<span class="rank-name-pd">ペロッち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10088?s_seq=10088">Belic</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|76|607|<span class="rank-name-pd">さんとりさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10088?s_seq=10088">Belic</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|77|604|<span class="rank-name-dl">кเץ๏кคչ</span>|<a href="https://search.dartslive.com/jp/shop/4cba5f26382d400125d56fb0e5c39bac">B-GARAGE 黒磯店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|78|595|<span class="rank-name-dl">katsuhiko</span>|<a href="https://search.dartslive.com/jp/shop/d849d7c720ff3d950d9b047a20a7ba1e">カラオケBANBAN西那須野バイパス店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|78|595|<span class="rank-name-dl">ピストルズ</span>|<a href="https://search.dartslive.com/jp/shop/d849d7c720ff3d950d9b047a20a7ba1e">カラオケBANBAN西那須野バイパス店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|80|593|<span class="rank-name-dl">まひな</span>|<a href="https://search.dartslive.com/jp/shop/d849d7c720ff3d950d9b047a20a7ba1e">カラオケBANBAN西那須野バイパス店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|81|587|<span class="rank-name-pd">YOSHIYOSHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10088?s_seq=10088">Belic</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|82|585|<span class="rank-name-dl">にゃまざき</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|83|582|<span class="rank-name-dl">マッシー投族</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|84|575|<span class="rank-name-dl">♥ＮaOmi♥</span>|<a href="https://search.dartslive.com/jp/shop/d849d7c720ff3d950d9b047a20a7ba1e">カラオケBANBAN西那須野バイパス店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|85|570|<span class="rank-name-dl">it0ui7</span>|<a href="https://search.dartslive.com/jp/shop/d849d7c720ff3d950d9b047a20a7ba1e">カラオケBANBAN西那須野バイパス店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|85|570|<span class="rank-name-dl">田中崇凱</span>|<a href="https://search.dartslive.com/jp/shop/4cba5f26382d400125d56fb0e5c39bac">B-GARAGE 黒磯店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|87|568|<span class="rank-name-pd">HANEO999</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10088?s_seq=10088">Belic</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|88|565|<span class="rank-name-dl">ドラちゃん</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|89|563|<span class="rank-name-dl">I&#x27;mウィンター</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|90|562|<span class="rank-name-dl">RAI</span>|<a href="https://search.dartslive.com/jp/shop/4cba5f26382d400125d56fb0e5c39bac">B-GARAGE 黒磯店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|91|557|<span class="rank-name-dl">x_haku_x</span>|<a href="https://search.dartslive.com/jp/shop/4cba5f26382d400125d56fb0e5c39bac">B-GARAGE 黒磯店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|92|555|<span class="rank-name-dl">びび</span>|<a href="https://search.dartslive.com/jp/shop/4cba5f26382d400125d56fb0e5c39bac">B-GARAGE 黒磯店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|93|552|<span class="rank-name-dl">katie</span>|<a href="https://search.dartslive.com/jp/shop/d849d7c720ff3d950d9b047a20a7ba1e">カラオケBANBAN西那須野バイパス店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|94|550|<span class="rank-name-dl">マッシーeye&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|95|545|<span class="rank-name-dl">❣₭ᵢꪗℴ❣</span>|<a href="https://search.dartslive.com/jp/shop/4cba5f26382d400125d56fb0e5c39bac">B-GARAGE 黒磯店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|96|542|<span class="rank-name-dl">TENGA</span>|<a href="https://search.dartslive.com/jp/shop/d849d7c720ff3d950d9b047a20a7ba1e">カラオケBANBAN西那須野バイパス店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|97|518|<span class="rank-name-dl">scorpion</span>|<a href="https://search.dartslive.com/jp/shop/d849d7c720ff3d950d9b047a20a7ba1e">カラオケBANBAN西那須野バイパス店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|98|515|<span class="rank-name-dl">warawa</span>|<a href="https://search.dartslive.com/jp/shop/d849d7c720ff3d950d9b047a20a7ba1e">カラオケBANBAN西那須野バイパス店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|99|512|<span class="rank-name-dl">T.T 0303</span>|<a href="https://search.dartslive.com/jp/shop/4cba5f26382d400125d56fb0e5c39bac">B-GARAGE 黒磯店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|99|512|<span class="rank-name-dl">いとう</span>|<a href="https://search.dartslive.com/jp/shop/4cba5f26382d400125d56fb0e5c39bac">B-GARAGE 黒磯店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|5|1093|<span class="rank-name-dl">ぽちた</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|6|1088|<span class="rank-name-dl">EISAN</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|7|1086|<span class="rank-name-dl">&#x27;81 岩井 美紗希</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|8|1073|<span class="rank-name-dl">★ATS★</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|9|1065|<span class="rank-name-dl">みつば</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|10|1060|<span class="rank-name-dl">nico</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|11|1059|<span class="rank-name-dl">よっち･ヂ･えぬど</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|11|1059|<span class="rank-name-dl">ダニエル</span>|<a href="https://search.dartslive.com/jp/shop/d849d7c720ff3d950d9b047a20a7ba1e">カラオケBanBan西那須野バイパス店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|13|1057|<span class="rank-name-dl">宮侑</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|14|1052|<span class="rank-name-dl">地家 央貴</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|15|1049|<span class="rank-name-dl">RYU@SAN値↑</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|16|1039|<span class="rank-name-dl">相馬 正義</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|17|1023|<span class="rank-name-dl">RYU@留雲借風真君</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|18|1022|<span class="rank-name-dl">マヒロ</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|19|1018|<span class="rank-name-dl">遅澤 厚志</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|20|1012|<span class="rank-name-dl">Harry Potter</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|20|1012|<span class="rank-name-dl">山口　力</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|22|1001|<span class="rank-name-dl">ふじぽん</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|23|997|<span class="rank-name-dl">ＪＩＲＵ</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|24|987|<span class="rank-name-dl">RYU@おだづもっこ</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|25|977|<span class="rank-name-dl">赤司征十郎</span>|<a href="https://search.dartslive.com/jp/shop/d849d7c720ff3d950d9b047a20a7ba1e">カラオケBANBAN西那須野バイパス店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|26|975|<span class="rank-name-dl">たろ→</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|27|971|<span class="rank-name-dl">よしみちゃん</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|27|971|<span class="rank-name-dl">山本 大稀</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|29|969|<span class="rank-name-dl">katsuhiko</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|29|969|<span class="rank-name-dl">でめきん</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|31|968|<span class="rank-name-dl">yamaday</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|32|965|<span class="rank-name-dl">Yuya☆17</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|32|965|<span class="rank-name-dl">鈴木 裕介</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|34|963|<span class="rank-name-dl">そらまる</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|34|963|<span class="rank-name-dl">黒澤 怜</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|36|960|<span class="rank-name-dl">あたる</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|37|959|<span class="rank-name-dl">こーた</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|38|955|<span class="rank-name-dl">やま</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|39|954|<span class="rank-name-dl">相馬 正義</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|40|953|<span class="rank-name-dl">碧咲</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|41|952|<span class="rank-name-pd">ひで</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10088?s_seq=10088">Belic</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|42|949|<span class="rank-name-dl">アスラン</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|43|947|<span class="rank-name-dl">パピコそー</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|44|945|<span class="rank-name-dl">Udai</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|45|941|<span class="rank-name-dl">ROOKIE</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|45|941|<span class="rank-name-dl">ともや</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|47|940|<span class="rank-name-dl">常闇みつば</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|48|935|<span class="rank-name-dl">こーた</span>|<a href="https://search.dartslive.com/jp/shop/d849d7c720ff3d950d9b047a20a7ba1e">カラオケBanBan西那須野バイパス店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|49|929|<span class="rank-name-dl">その名は貴寛</span>|<a href="https://search.dartslive.com/jp/shop/d849d7c720ff3d950d9b047a20a7ba1e">カラオケBanBan西那須野バイパス店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|50|927|<span class="rank-name-dl">Yuya.T☆17</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|51|925|<span class="rank-name-dl">さとっぺ</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|52|919|<span class="rank-name-dl">☆</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|52|919|<span class="rank-name-dl">ﾖｰﾍｲﾀﾞﾖ。</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|54|916|<span class="rank-name-dl">----</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|54|916|<span class="rank-name-dl">Men-D</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|56|911|<span class="rank-name-dl">アスラン</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|57|905|<span class="rank-name-dl">常闇みつば</span>|<a href="https://search.dartslive.com/jp/shop/d849d7c720ff3d950d9b047a20a7ba1e">カラオケBanBan西那須野バイパス店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|58|901|<span class="rank-name-dl">ベルモット＠</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|59|889|<span class="rank-name-dl">かみかみ</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|60|885|<span class="rank-name-dl">鈴木 裕介【狼】</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|60|885|<span class="rank-name-pd">龍   1  @R&amp;D</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56650?s_seq=56650">Eggplant</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|62|879|<span class="rank-name-dl">みつば＠Day&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|63|869|<span class="rank-name-pd">のり@あ〜りやす</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56650?s_seq=56650">Eggplant</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|64|868|<span class="rank-name-dl">なりま</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|65|866|<span class="rank-name-dl">りゅう</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|66|859|<span class="rank-name-dl">久保ちゃん</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|66|859|<span class="rank-name-dl">菅原 瑛太@eiTA.</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|68|851|<span class="rank-name-pd">Type-0/0A</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10088?s_seq=10088">Belic</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|69|849|<span class="rank-name-dl">Udai</span>|<a href="https://search.dartslive.com/jp/shop/4cba5f26382d400125d56fb0e5c39bac">B-GARAGE 黒磯店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|69|849|<span class="rank-name-dl">野うさぎ@ﾄﾞﾅﾄﾞﾅ</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|71|842|<span class="rank-name-dl">マッシー投族</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|72|838|<span class="rank-name-dl">マッシーeye&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|73|834|<span class="rank-name-dl">益子 凱太</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|74|829|<span class="rank-name-pd">目白魔苦院</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56650?s_seq=56650">Eggplant</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|75|827|<span class="rank-name-dl">Hiro</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|76|814|<span class="rank-name-dl">アスラン</span>|<a href="https://search.dartslive.com/jp/shop/d849d7c720ff3d950d9b047a20a7ba1e">カラオケBanBan西那須野バイパス店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|77|810|<span class="rank-name-dl">そら◯投族</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|78|807|<span class="rank-name-dl">カラス</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|79|802|<span class="rank-name-dl">りゅうせい</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|80|790|<span class="rank-name-dl">hira</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|81|786|<span class="rank-name-dl">star</span>|<a href="https://search.dartslive.com/jp/shop/d849d7c720ff3d950d9b047a20a7ba1e">カラオケBanBan西那須野バイパス店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|82|785|<span class="rank-name-dl">独眼竜☬きよかず</span>|<a href="https://search.dartslive.com/jp/shop/4cba5f26382d400125d56fb0e5c39bac">B-GARAGE 黒磯店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|83|779|<span class="rank-name-dl">りゅうせい</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|84|769|<span class="rank-name-dl">小川！！！</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|85|766|<span class="rank-name-pd">どスケベ野郎☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10088?s_seq=10088">Belic</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|86|765|<span class="rank-name-dl">モリ</span>|<a href="https://search.dartslive.com/jp/shop/4cba5f26382d400125d56fb0e5c39bac">B-GARAGE 黒磯店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|86|765|<span class="rank-name-dl">堀内</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|88|764|<span class="rank-name-dl">天照大御神</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|89|761|<span class="rank-name-dl">天翔百裂拳</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|90|760|<span class="rank-name-dl">Naaapachi7</span>|<a href="https://search.dartslive.com/jp/shop/4cba5f26382d400125d56fb0e5c39bac">B-GARAGE 黒磯店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|90|760|<span class="rank-name-pd">RINA@BOW</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56650?s_seq=56650">Eggplant</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|92|757|<span class="rank-name-dl">OBT（右手用）</span>|<a href="https://search.dartslive.com/jp/shop/d849d7c720ff3d950d9b047a20a7ba1e">カラオケBanBan西那須野バイパス店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|93|755|<span class="rank-name-dl">it0ui7</span>|<a href="https://search.dartslive.com/jp/shop/4cba5f26382d400125d56fb0e5c39bac">B-GARAGE 黒磯店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|94|754|<span class="rank-name-pd">YっKE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56650?s_seq=56650">Eggplant</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|94|754|<span class="rank-name-dl">モリ</span>|<a href="https://search.dartslive.com/jp/shop/d849d7c720ff3d950d9b047a20a7ba1e">カラオケBANBAN西那須野バイパス店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|96|753|<span class="rank-name-dl">ゆう</span>|<a href="https://search.dartslive.com/jp/shop/d849d7c720ff3d950d9b047a20a7ba1e">カラオケBANBAN西那須野バイパス店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|97|748|<span class="rank-name-dl">zddca</span>|<a href="https://search.dartslive.com/jp/shop/4cba5f26382d400125d56fb0e5c39bac">B-GARAGE 黒磯店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|98|747|<span class="rank-name-dl">そらまる</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|98|747|<span class="rank-name-pd">碧咲傘忘れない</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10088?s_seq=10088">Belic</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|100|745|<span class="rank-name-dl">勝彦</span>|<a href="https://search.dartslive.com/jp/shop/4cba5f26382d400125d56fb0e5c39bac">B-GARAGE 黒磯店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -132,106 +132,106 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1133|<span class="rank-name-dl">津田 成普</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|1|1163|<span class="rank-name-dl">津田 成普</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
 |2|1129|<span class="rank-name-dl">地家　央貴</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
 |3|1127|<span class="rank-name-dl">名前 ごるご</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
 |4|1119|<span class="rank-name-dl">&#x27;81 コーチ</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|5|1088|<span class="rank-name-dl">EISAN</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|6|1060|<span class="rank-name-dl">nico</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|7|1057|<span class="rank-name-dl">宮侑</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|8|1052|<span class="rank-name-dl">地家 央貴</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|9|1012|<span class="rank-name-dl">山口　力</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|10|1004|<span class="rank-name-dl">ぽちた</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|11|1001|<span class="rank-name-dl">RYU@留雲借風真君</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|12|997|<span class="rank-name-dl">ＪＩＲＵ</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|13|987|<span class="rank-name-dl">RYU@おだづもっこ</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|14|976|<span class="rank-name-dl">相馬 正義</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|15|975|<span class="rank-name-dl">たろ→</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|16|971|<span class="rank-name-dl">よしみちゃん</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|16|971|<span class="rank-name-dl">山本 大稀</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|18|966|<span class="rank-name-dl">みつば</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|19|963|<span class="rank-name-dl">そらまる</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|19|963|<span class="rank-name-dl">黒澤 怜</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|21|958|<span class="rank-name-dl">Yuya☆17</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|22|954|<span class="rank-name-dl">あたる</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|22|954|<span class="rank-name-dl">相馬 正義</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|24|938|<span class="rank-name-dl">&#x27;81 岩井 美紗希</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|25|927|<span class="rank-name-dl">Yuya.T☆17</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|26|920|<span class="rank-name-dl">碧咲</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|27|901|<span class="rank-name-dl">ベルモット＠</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|28|849|<span class="rank-name-dl">野うさぎ@ﾄﾞﾅﾄﾞﾅ</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|29|838|<span class="rank-name-dl">マッシーeye&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|30|834|<span class="rank-name-dl">益子 凱太</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|31|827|<span class="rank-name-dl">Hiro</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|32|810|<span class="rank-name-dl">そら◯投族</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|33|808|<span class="rank-name-dl">さとっぺ</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|34|788|<span class="rank-name-dl">やま</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|35|785|<span class="rank-name-dl">カラス</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|35|785|<span class="rank-name-dl">独眼竜☬きよかず</span>|<a href="https://search.dartslive.com/jp/shop/4cba5f26382d400125d56fb0e5c39bac">B-GARAGE 黒磯店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|37|765|<span class="rank-name-dl">モリ</span>|<a href="https://search.dartslive.com/jp/shop/4cba5f26382d400125d56fb0e5c39bac">B-GARAGE 黒磯店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|38|763|<span class="rank-name-dl">なりま</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|39|755|<span class="rank-name-dl">it0ui7</span>|<a href="https://search.dartslive.com/jp/shop/4cba5f26382d400125d56fb0e5c39bac">B-GARAGE 黒磯店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|40|754|<span class="rank-name-dl">モリ</span>|<a href="https://search.dartslive.com/jp/shop/d849d7c720ff3d950d9b047a20a7ba1e">カラオケBANBAN西那須野バイパス店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|41|747|<span class="rank-name-dl">そらまる</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|42|745|<span class="rank-name-dl">勝彦</span>|<a href="https://search.dartslive.com/jp/shop/4cba5f26382d400125d56fb0e5c39bac">B-GARAGE 黒磯店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|43|732|<span class="rank-name-dl">たまごっぺきみこ</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|44|731|<span class="rank-name-dl">ベルモット＠</span>|<a href="https://search.dartslive.com/jp/shop/d849d7c720ff3d950d9b047a20a7ba1e">カラオケBANBAN西那須野バイパス店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|45|719|<span class="rank-name-dl">剛田じゃないタケ</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|46|713|<span class="rank-name-dl">たかすぃ➸DUOGO!</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|47|712|<span class="rank-name-dl">しゅん</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|48|698|<span class="rank-name-dl">彩良</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|49|692|<span class="rank-name-dl">武諒CU用</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|50|690|<span class="rank-name-dl">mi-yann</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|51|689|<span class="rank-name-dl">katsuhiko</span>|<a href="https://search.dartslive.com/jp/shop/4cba5f26382d400125d56fb0e5c39bac">B-GARAGE 黒磯店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|52|687|<span class="rank-name-dl">まぁ～☆GO！GO！</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|53|686|<span class="rank-name-dl">souǝɯ</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|54|679|<span class="rank-name-dl">akgooood</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|54|679|<span class="rank-name-dl">田代　徳雄</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|56|658|<span class="rank-name-dl">KΐyØkaz♛</span>|<a href="https://search.dartslive.com/jp/shop/4cba5f26382d400125d56fb0e5c39bac">B-GARAGE 黒磯店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|57|632|<span class="rank-name-dl">がまる</span>|<a href="https://search.dartslive.com/jp/shop/d849d7c720ff3d950d9b047a20a7ba1e">カラオケBANBAN西那須野バイパス店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|58|623|<span class="rank-name-dl">けんたろー</span>|<a href="https://search.dartslive.com/jp/shop/4cba5f26382d400125d56fb0e5c39bac">B-GARAGE 黒磯店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|59|614|<span class="rank-name-dl">sirayuki73@☆♤</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|60|609|<span class="rank-name-dl">しゅん</span>|<a href="https://search.dartslive.com/jp/shop/d849d7c720ff3d950d9b047a20a7ba1e">カラオケBANBAN西那須野バイパス店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|61|604|<span class="rank-name-dl">кเץ๏кคչ</span>|<a href="https://search.dartslive.com/jp/shop/4cba5f26382d400125d56fb0e5c39bac">B-GARAGE 黒磯店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|62|595|<span class="rank-name-dl">katsuhiko</span>|<a href="https://search.dartslive.com/jp/shop/d849d7c720ff3d950d9b047a20a7ba1e">カラオケBANBAN西那須野バイパス店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|62|595|<span class="rank-name-dl">ピストルズ</span>|<a href="https://search.dartslive.com/jp/shop/d849d7c720ff3d950d9b047a20a7ba1e">カラオケBANBAN西那須野バイパス店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|64|593|<span class="rank-name-dl">まひな</span>|<a href="https://search.dartslive.com/jp/shop/d849d7c720ff3d950d9b047a20a7ba1e">カラオケBANBAN西那須野バイパス店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|65|585|<span class="rank-name-dl">にゃまざき</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|66|582|<span class="rank-name-dl">マッシー投族</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|67|575|<span class="rank-name-dl">♥ＮaOmi♥</span>|<a href="https://search.dartslive.com/jp/shop/d849d7c720ff3d950d9b047a20a7ba1e">カラオケBANBAN西那須野バイパス店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|68|570|<span class="rank-name-dl">it0ui7</span>|<a href="https://search.dartslive.com/jp/shop/d849d7c720ff3d950d9b047a20a7ba1e">カラオケBANBAN西那須野バイパス店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|68|570|<span class="rank-name-dl">田中崇凱</span>|<a href="https://search.dartslive.com/jp/shop/4cba5f26382d400125d56fb0e5c39bac">B-GARAGE 黒磯店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|70|565|<span class="rank-name-dl">ドラちゃん</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|71|563|<span class="rank-name-dl">I&#x27;mウィンター</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|72|562|<span class="rank-name-dl">RAI</span>|<a href="https://search.dartslive.com/jp/shop/4cba5f26382d400125d56fb0e5c39bac">B-GARAGE 黒磯店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|73|557|<span class="rank-name-dl">x_haku_x</span>|<a href="https://search.dartslive.com/jp/shop/4cba5f26382d400125d56fb0e5c39bac">B-GARAGE 黒磯店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|74|555|<span class="rank-name-dl">びび</span>|<a href="https://search.dartslive.com/jp/shop/4cba5f26382d400125d56fb0e5c39bac">B-GARAGE 黒磯店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|75|552|<span class="rank-name-dl">katie</span>|<a href="https://search.dartslive.com/jp/shop/d849d7c720ff3d950d9b047a20a7ba1e">カラオケBANBAN西那須野バイパス店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|76|550|<span class="rank-name-dl">マッシーeye&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|77|545|<span class="rank-name-dl">❣₭ᵢꪗℴ❣</span>|<a href="https://search.dartslive.com/jp/shop/4cba5f26382d400125d56fb0e5c39bac">B-GARAGE 黒磯店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|78|542|<span class="rank-name-dl">TENGA</span>|<a href="https://search.dartslive.com/jp/shop/d849d7c720ff3d950d9b047a20a7ba1e">カラオケBANBAN西那須野バイパス店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|79|518|<span class="rank-name-dl">scorpion</span>|<a href="https://search.dartslive.com/jp/shop/d849d7c720ff3d950d9b047a20a7ba1e">カラオケBANBAN西那須野バイパス店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|80|515|<span class="rank-name-dl">warawa</span>|<a href="https://search.dartslive.com/jp/shop/d849d7c720ff3d950d9b047a20a7ba1e">カラオケBANBAN西那須野バイパス店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|81|512|<span class="rank-name-dl">T.T 0303</span>|<a href="https://search.dartslive.com/jp/shop/4cba5f26382d400125d56fb0e5c39bac">B-GARAGE 黒磯店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|81|512|<span class="rank-name-dl">いとう</span>|<a href="https://search.dartslive.com/jp/shop/4cba5f26382d400125d56fb0e5c39bac">B-GARAGE 黒磯店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|83|511|<span class="rank-name-dl">はるか</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|84|510|<span class="rank-name-dl">夏蜜柑</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|84|510|<span class="rank-name-dl">如月 蒼夏</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|86|509|<span class="rank-name-dl">たん</span>|<a href="https://search.dartslive.com/jp/shop/d849d7c720ff3d950d9b047a20a7ba1e">カラオケBANBAN西那須野バイパス店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|87|504|<span class="rank-name-dl">むにゅ</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|88|503|<span class="rank-name-dl">負け犬</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|89|500|<span class="rank-name-dl">おーせ</span>|<a href="https://search.dartslive.com/jp/shop/d849d7c720ff3d950d9b047a20a7ba1e">カラオケBANBAN西那須野バイパス店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|90|494|<span class="rank-name-dl">NONAME 0721</span>|<a href="https://search.dartslive.com/jp/shop/d849d7c720ff3d950d9b047a20a7ba1e">カラオケBANBAN西那須野バイパス店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|91|486|<span class="rank-name-dl">く</span>|<a href="https://search.dartslive.com/jp/shop/d849d7c720ff3d950d9b047a20a7ba1e">カラオケBANBAN西那須野バイパス店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|92|480|<span class="rank-name-dl">みっふぃ</span>|<a href="https://search.dartslive.com/jp/shop/d849d7c720ff3d950d9b047a20a7ba1e">カラオケBANBAN西那須野バイパス店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|93|479|<span class="rank-name-dl">nao☺︎⋆*</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|94|476|<span class="rank-name-dl">Tatsuya</span>|<a href="https://search.dartslive.com/jp/shop/4cba5f26382d400125d56fb0e5c39bac">B-GARAGE 黒磯店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|95|472|<span class="rank-name-dl">るーしー</span>|<a href="https://search.dartslive.com/jp/shop/4cba5f26382d400125d56fb0e5c39bac">B-GARAGE 黒磯店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|96|469|<span class="rank-name-dl">yuki</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|97|465|<span class="rank-name-dl">MIKI</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|98|464|<span class="rank-name-dl">Chiyo</span>|<a href="https://search.dartslive.com/jp/shop/d849d7c720ff3d950d9b047a20a7ba1e">カラオケBANBAN西那須野バイパス店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|99|452|<span class="rank-name-dl">K24</span>|<a href="https://search.dartslive.com/jp/shop/4cba5f26382d400125d56fb0e5c39bac">B-GARAGE 黒磯店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|100|431|<span class="rank-name-dl">ゲーフィー</span>|<a href="https://search.dartslive.com/jp/shop/d849d7c720ff3d950d9b047a20a7ba1e">カラオケBANBAN西那須野バイパス店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|5|1093|<span class="rank-name-dl">ぽちた</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|6|1088|<span class="rank-name-dl">EISAN</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|7|1086|<span class="rank-name-dl">&#x27;81 岩井 美紗希</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|8|1073|<span class="rank-name-dl">★ATS★</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|9|1065|<span class="rank-name-dl">みつば</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|10|1060|<span class="rank-name-dl">nico</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|11|1059|<span class="rank-name-dl">よっち･ヂ･えぬど</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|11|1059|<span class="rank-name-dl">ダニエル</span>|<a href="https://search.dartslive.com/jp/shop/d849d7c720ff3d950d9b047a20a7ba1e">カラオケBanBan西那須野バイパス店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|13|1057|<span class="rank-name-dl">宮侑</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|14|1052|<span class="rank-name-dl">地家 央貴</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|15|1049|<span class="rank-name-dl">RYU@SAN値↑</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|16|1039|<span class="rank-name-dl">相馬 正義</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|17|1023|<span class="rank-name-dl">RYU@留雲借風真君</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|18|1022|<span class="rank-name-dl">マヒロ</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|19|1018|<span class="rank-name-dl">遅澤 厚志</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|20|1012|<span class="rank-name-dl">Harry Potter</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|20|1012|<span class="rank-name-dl">山口　力</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|22|1001|<span class="rank-name-dl">ふじぽん</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|23|997|<span class="rank-name-dl">ＪＩＲＵ</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|24|987|<span class="rank-name-dl">RYU@おだづもっこ</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|25|977|<span class="rank-name-dl">赤司征十郎</span>|<a href="https://search.dartslive.com/jp/shop/d849d7c720ff3d950d9b047a20a7ba1e">カラオケBANBAN西那須野バイパス店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|26|975|<span class="rank-name-dl">たろ→</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|27|971|<span class="rank-name-dl">よしみちゃん</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|27|971|<span class="rank-name-dl">山本 大稀</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|29|969|<span class="rank-name-dl">katsuhiko</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|29|969|<span class="rank-name-dl">でめきん</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|31|968|<span class="rank-name-dl">yamaday</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|32|965|<span class="rank-name-dl">Yuya☆17</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|32|965|<span class="rank-name-dl">鈴木 裕介</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|34|963|<span class="rank-name-dl">そらまる</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|34|963|<span class="rank-name-dl">黒澤 怜</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|36|960|<span class="rank-name-dl">あたる</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|37|959|<span class="rank-name-dl">こーた</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|38|955|<span class="rank-name-dl">やま</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|39|954|<span class="rank-name-dl">相馬 正義</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|40|953|<span class="rank-name-dl">碧咲</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|41|949|<span class="rank-name-dl">アスラン</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|42|947|<span class="rank-name-dl">パピコそー</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|43|945|<span class="rank-name-dl">Udai</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|44|941|<span class="rank-name-dl">ROOKIE</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|44|941|<span class="rank-name-dl">ともや</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|46|940|<span class="rank-name-dl">常闇みつば</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|47|935|<span class="rank-name-dl">こーた</span>|<a href="https://search.dartslive.com/jp/shop/d849d7c720ff3d950d9b047a20a7ba1e">カラオケBanBan西那須野バイパス店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|48|929|<span class="rank-name-dl">その名は貴寛</span>|<a href="https://search.dartslive.com/jp/shop/d849d7c720ff3d950d9b047a20a7ba1e">カラオケBanBan西那須野バイパス店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|49|927|<span class="rank-name-dl">Yuya.T☆17</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|50|925|<span class="rank-name-dl">さとっぺ</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|51|919|<span class="rank-name-dl">☆</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|51|919|<span class="rank-name-dl">ﾖｰﾍｲﾀﾞﾖ。</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|53|916|<span class="rank-name-dl">----</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|53|916|<span class="rank-name-dl">Men-D</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|55|911|<span class="rank-name-dl">アスラン</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|56|905|<span class="rank-name-dl">常闇みつば</span>|<a href="https://search.dartslive.com/jp/shop/d849d7c720ff3d950d9b047a20a7ba1e">カラオケBanBan西那須野バイパス店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|57|901|<span class="rank-name-dl">ベルモット＠</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|58|889|<span class="rank-name-dl">かみかみ</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|59|885|<span class="rank-name-dl">鈴木 裕介【狼】</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|60|879|<span class="rank-name-dl">みつば＠Day&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|61|868|<span class="rank-name-dl">なりま</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|62|866|<span class="rank-name-dl">りゅう</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|63|859|<span class="rank-name-dl">久保ちゃん</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|63|859|<span class="rank-name-dl">菅原 瑛太@eiTA.</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|65|849|<span class="rank-name-dl">Udai</span>|<a href="https://search.dartslive.com/jp/shop/4cba5f26382d400125d56fb0e5c39bac">B-GARAGE 黒磯店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|65|849|<span class="rank-name-dl">野うさぎ@ﾄﾞﾅﾄﾞﾅ</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|67|842|<span class="rank-name-dl">マッシー投族</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|68|838|<span class="rank-name-dl">マッシーeye&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|69|834|<span class="rank-name-dl">益子 凱太</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|70|827|<span class="rank-name-dl">Hiro</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|71|814|<span class="rank-name-dl">アスラン</span>|<a href="https://search.dartslive.com/jp/shop/d849d7c720ff3d950d9b047a20a7ba1e">カラオケBanBan西那須野バイパス店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|72|810|<span class="rank-name-dl">そら◯投族</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|73|807|<span class="rank-name-dl">カラス</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|74|802|<span class="rank-name-dl">りゅうせい</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|75|790|<span class="rank-name-dl">hira</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|76|786|<span class="rank-name-dl">star</span>|<a href="https://search.dartslive.com/jp/shop/d849d7c720ff3d950d9b047a20a7ba1e">カラオケBanBan西那須野バイパス店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|77|785|<span class="rank-name-dl">独眼竜☬きよかず</span>|<a href="https://search.dartslive.com/jp/shop/4cba5f26382d400125d56fb0e5c39bac">B-GARAGE 黒磯店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|78|779|<span class="rank-name-dl">りゅうせい</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|79|769|<span class="rank-name-dl">小川！！！</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|80|765|<span class="rank-name-dl">モリ</span>|<a href="https://search.dartslive.com/jp/shop/4cba5f26382d400125d56fb0e5c39bac">B-GARAGE 黒磯店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|80|765|<span class="rank-name-dl">堀内</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|82|764|<span class="rank-name-dl">天照大御神</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|83|761|<span class="rank-name-dl">天翔百裂拳</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|84|760|<span class="rank-name-dl">Naaapachi7</span>|<a href="https://search.dartslive.com/jp/shop/4cba5f26382d400125d56fb0e5c39bac">B-GARAGE 黒磯店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|85|757|<span class="rank-name-dl">OBT（右手用）</span>|<a href="https://search.dartslive.com/jp/shop/d849d7c720ff3d950d9b047a20a7ba1e">カラオケBanBan西那須野バイパス店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|86|755|<span class="rank-name-dl">it0ui7</span>|<a href="https://search.dartslive.com/jp/shop/4cba5f26382d400125d56fb0e5c39bac">B-GARAGE 黒磯店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|87|754|<span class="rank-name-dl">モリ</span>|<a href="https://search.dartslive.com/jp/shop/d849d7c720ff3d950d9b047a20a7ba1e">カラオケBANBAN西那須野バイパス店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|88|753|<span class="rank-name-dl">ゆう</span>|<a href="https://search.dartslive.com/jp/shop/d849d7c720ff3d950d9b047a20a7ba1e">カラオケBANBAN西那須野バイパス店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|89|748|<span class="rank-name-dl">zddca</span>|<a href="https://search.dartslive.com/jp/shop/4cba5f26382d400125d56fb0e5c39bac">B-GARAGE 黒磯店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|90|747|<span class="rank-name-dl">そらまる</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|91|745|<span class="rank-name-dl">勝彦</span>|<a href="https://search.dartslive.com/jp/shop/4cba5f26382d400125d56fb0e5c39bac">B-GARAGE 黒磯店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|92|743|<span class="rank-name-dl">Another</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|93|740|<span class="rank-name-dl">でめきん</span>|<a href="https://search.dartslive.com/jp/shop/4cba5f26382d400125d56fb0e5c39bac">B-GARAGE 黒磯店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|94|734|<span class="rank-name-dl">TOMOYA</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|95|732|<span class="rank-name-dl">たまごっぺきみこ</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|96|731|<span class="rank-name-dl">ベルモット＠</span>|<a href="https://search.dartslive.com/jp/shop/d849d7c720ff3d950d9b047a20a7ba1e">カラオケBANBAN西那須野バイパス店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|97|728|<span class="rank-name-dl">ダニエル</span>|<a href="https://search.dartslive.com/jp/shop/d849d7c720ff3d950d9b047a20a7ba1e">カラオケBANBAN西那須野バイパス店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|98|727|<span class="rank-name-dl">in the house@leo</span>|<a href="https://search.dartslive.com/jp/shop/c3ca51406b3488200d9b047a20a7ba1e">'81 SPORT DARTS</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|99|719|<span class="rank-name-dl">剛田じゃないタケ</span>|<a href="https://search.dartslive.com/jp/shop/78bf37a72c871a600d9b047a20a7ba1e">ポイント西那須野店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|100|717|<span class="rank-name-dl">Ryoya</span>|<a href="https://search.dartslive.com/jp/shop/4cba5f26382d400125d56fb0e5c39bac">B-GARAGE 黒磯店</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
 
 
 #### PHOENIXDARTS TOP 100
@@ -246,25 +246,48 @@ ___
 |3|869|<span class="rank-name-pd">のり@あ〜りやす</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56650?s_seq=56650">Eggplant</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
 |4|851|<span class="rank-name-pd">Type-0/0A</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10088?s_seq=10088">Belic</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
 |5|829|<span class="rank-name-pd">目白魔苦院</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56650?s_seq=56650">Eggplant</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|6|760|<span class="rank-name-pd">RINA@BOW</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56650?s_seq=56650">Eggplant</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|7|754|<span class="rank-name-pd">YっKE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56650?s_seq=56650">Eggplant</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|8|714|<span class="rank-name-pd">碧咲</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10088?s_seq=10088">Belic</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|9|713|<span class="rank-name-pd">ジル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10088?s_seq=10088">Belic</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|10|677|<span class="rank-name-pd">Eggのジャイアン@あいや〜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56650?s_seq=56650">Eggplant</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|11|657|<span class="rank-name-pd">0000000</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56650?s_seq=56650">Eggplant</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|12|651|<span class="rank-name-pd">ぱけ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56650?s_seq=56650">Eggplant</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|13|645|<span class="rank-name-pd">ともひろだよ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56650?s_seq=56650">Eggplant</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|14|635|<span class="rank-name-pd">そらまる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10088?s_seq=10088">Belic</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|15|608|<span class="rank-name-pd">ペロッち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10088?s_seq=10088">Belic</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|16|607|<span class="rank-name-pd">さんとりさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10088?s_seq=10088">Belic</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|17|587|<span class="rank-name-pd">YOSHIYOSHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10088?s_seq=10088">Belic</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|18|568|<span class="rank-name-pd">HANEO999</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10088?s_seq=10088">Belic</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|19|481|<span class="rank-name-pd">ドナドナ@野うさぎ同盟</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10088?s_seq=10088">Belic</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|20|475|<span class="rank-name-pd">ポンコツクエストのカク</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10088?s_seq=10088">Belic</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|21|473|<span class="rank-name-pd">ムラ☆コルト</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10088?s_seq=10088">Belic</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|22|468|<span class="rank-name-pd">ばんばんけ？いやっどーも！！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56650?s_seq=56650">Eggplant</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|23|435|<span class="rank-name-pd">Holly Wood</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56650?s_seq=56650">Eggplant</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
-|24|376|<span class="rank-name-pd">心が折れマスター</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10088?s_seq=10088">Belic</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|6|766|<span class="rank-name-pd">どスケベ野郎☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10088?s_seq=10088">Belic</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|7|760|<span class="rank-name-pd">RINA@BOW</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56650?s_seq=56650">Eggplant</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|8|754|<span class="rank-name-pd">YっKE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56650?s_seq=56650">Eggplant</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|9|747|<span class="rank-name-pd">碧咲傘忘れない</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10088?s_seq=10088">Belic</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|10|717|<span class="rank-name-pd">ビスケット1号</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56650?s_seq=56650">Eggplant</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|11|714|<span class="rank-name-pd">碧咲</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10088?s_seq=10088">Belic</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|12|713|<span class="rank-name-pd">ジル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10088?s_seq=10088">Belic</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|13|681|<span class="rank-name-pd">ムラ☆コルト</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10088?s_seq=10088">Belic</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|14|677|<span class="rank-name-pd">Eggのジャイアン@あいや〜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56650?s_seq=56650">Eggplant</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|15|658|<span class="rank-name-pd">eiTA.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10088?s_seq=10088">Belic</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|16|657|<span class="rank-name-pd">0000000</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56650?s_seq=56650">Eggplant</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|17|651|<span class="rank-name-pd">ぱけ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56650?s_seq=56650">Eggplant</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|18|645|<span class="rank-name-pd">ともひろだよ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56650?s_seq=56650">Eggplant</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|19|635|<span class="rank-name-pd">そらまる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10088?s_seq=10088">Belic</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|20|624|<span class="rank-name-pd">帰ってきたあーたん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10088?s_seq=10088">Belic</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|21|616|<span class="rank-name-pd">マッシー@投族</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10088?s_seq=10088">Belic</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|22|608|<span class="rank-name-pd">ペロッち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10088?s_seq=10088">Belic</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|23|607|<span class="rank-name-pd">さんとりさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10088?s_seq=10088">Belic</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|24|587|<span class="rank-name-pd">YOSHIYOSHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10088?s_seq=10088">Belic</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|25|575|<span class="rank-name-pd">SHIN99</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56650?s_seq=56650">Eggplant</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|26|568|<span class="rank-name-pd">HANEO999</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10088?s_seq=10088">Belic</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|27|562|<span class="rank-name-pd">hikaru</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56650?s_seq=56650">Eggplant</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|28|549|<span class="rank-name-pd">ルパン二世</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56650?s_seq=56650">Eggplant</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|29|547|<span class="rank-name-pd">ぱけ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10088?s_seq=10088">Belic</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|30|509|<span class="rank-name-pd">0187_1182</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56650?s_seq=56650">Eggplant</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|31|500|<span class="rank-name-pd">K</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10088?s_seq=10088">Belic</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|32|491|<span class="rank-name-pd">0105_7386</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56650?s_seq=56650">Eggplant</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|33|481|<span class="rank-name-pd">ドナドナ@野うさぎ同盟</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10088?s_seq=10088">Belic</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|34|475|<span class="rank-name-pd">ポンコツクエストのカク</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10088?s_seq=10088">Belic</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|35|473|<span class="rank-name-pd">CHIKASO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56650?s_seq=56650">Eggplant</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|36|468|<span class="rank-name-pd">ばんばんけ？いやっどーも！！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56650?s_seq=56650">Eggplant</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|37|467|<span class="rank-name-pd">mona@Belic</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10088?s_seq=10088">Belic</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|38|466|<span class="rank-name-pd">Ryoma</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10088?s_seq=10088">Belic</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|39|454|<span class="rank-name-pd">Rockets</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10088?s_seq=10088">Belic</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|40|441|<span class="rank-name-pd">ki1</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56650?s_seq=56650">Eggplant</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|41|435|<span class="rank-name-pd">Holly Wood</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56650?s_seq=56650">Eggplant</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|42|400|<span class="rank-name-pd">SION</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10088?s_seq=10088">Belic</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|43|395|<span class="rank-name-pd">もなきゅー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10088?s_seq=10088">Belic</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|44|393|<span class="rank-name-pd">0074_9574</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10088?s_seq=10088">Belic</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|45|376|<span class="rank-name-pd">心が折れマスター</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10088?s_seq=10088">Belic</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|46|347|<span class="rank-name-pd">a</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10088?s_seq=10088">Belic</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
+|47|293|<span class="rank-name-pd">はるちゃん⭐︎ムラ嫁ちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10088?s_seq=10088">Belic</a>|<a href="/darts/rank/栃木県/那須塩原市">栃木県那須塩原市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

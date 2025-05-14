@@ -23,34 +23,60 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1090|<span class="rank-name-dl">だい☆軌道戦士</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
-|2|971|<span class="rank-name-dl">あっくん</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
-|3|969|<span class="rank-name-dl">いいじまけいき</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
-|4|968|<span class="rank-name-dl">DAI-1@メガネ部</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
-|5|961|<span class="rank-name-dl">こばのりーさん</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
-|6|958|<span class="rank-name-dl">羽角英明TARGET</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
-|7|930|<span class="rank-name-dl">冨澤雅人</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
-|8|904|<span class="rank-name-dl">たこすけ@Zi-6491</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
-|9|835|<span class="rank-name-dl">飯嶋 敬貴</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
-|10|820|<span class="rank-name-dl">和製 ルーニー</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
-|11|807|<span class="rank-name-dl">ZO-NOG</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
-|12|765|<span class="rank-name-dl">miko＠Zi-6491</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
-|13|730|<span class="rank-name-dl">よこたZi-6491°</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
-|14|728|<span class="rank-name-dl">NO NAME 0928</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
-|15|723|<span class="rank-name-dl">とっきー</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
-|16|710|<span class="rank-name-dl">Yo-ko T@Home</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
-|17|708|<span class="rank-name-dl">亀</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
-|18|680|<span class="rank-name-dl">NO NAME 7267</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
-|18|680|<span class="rank-name-dl">togisu</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
-|20|679|<span class="rank-name-dl">あばよイギー</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
-|21|669|<span class="rank-name-dl">Fujicky</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
-|22|662|<span class="rank-name-dl">ぬまっち③</span>|<a href="https://search.dartslive.com/jp/shop/bffda67f9bce8fc40d9b047a20a7ba1e">みずほ台ガールズバーTAMA</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
-|23|626|<span class="rank-name-dl">眞 純@kkc_mar</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
-|24|618|<span class="rank-name-dl">なる</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
-|25|585|<span class="rank-name-dl">栄斗</span>|<a href="https://search.dartslive.com/jp/shop/bc150dfbc5b7846d5f9f3321c1147265">シックスセンス</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
-|26|541|<span class="rank-name-dl">Mitsue</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
-|27|371|<span class="rank-name-dl">ちゃんだい</span>|<a href="https://search.dartslive.com/jp/shop/bc150dfbc5b7846d5f9f3321c1147265">シックスセンス</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
-|28|322|<span class="rank-name-dl">翔</span>|<a href="https://search.dartslive.com/jp/shop/bffda67f9bce8fc40d9b047a20a7ba1e">みずほ台ガールズバーTAMA</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|1|1109|<span class="rank-name-dl">羽角英明TARGET</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|2|1090|<span class="rank-name-dl">だい☆軌道戦士</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|3|1089|<span class="rank-name-dl">こばのりーさん</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|4|1072|<span class="rank-name-dl">冨澤雅人</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|5|1043|<span class="rank-name-dl">あっくん</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|6|969|<span class="rank-name-dl">いいじまけいき</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|7|968|<span class="rank-name-dl">DAI-1@メガネ部</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|8|944|<span class="rank-name-dl">Fu-min</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|9|933|<span class="rank-name-dl">ぬまっち②</span>|<a href="https://search.dartslive.com/jp/shop/bffda67f9bce8fc40d9b047a20a7ba1e">みずほ台ガールズバーTAMA</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|10|921|<span class="rank-name-dl">NO NAME 3303</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|11|906|<span class="rank-name-dl">FUーMIN</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|12|904|<span class="rank-name-dl">たこすけ@Zi-6491</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|12|904|<span class="rank-name-dl">性帝サウザー</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|14|894|<span class="rank-name-dl">しん</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|15|890|<span class="rank-name-dl">いとう　けいすけ</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|16|868|<span class="rank-name-dl">はるさん</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|17|866|<span class="rank-name-dl">ぬまっち①</span>|<a href="https://search.dartslive.com/jp/shop/bffda67f9bce8fc40d9b047a20a7ba1e">みずほ台ガールズバーTAMA</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|18|848|<span class="rank-name-dl">miko＠Zi-6491</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|19|835|<span class="rank-name-dl">飯嶋 敬貴</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|20|833|<span class="rank-name-dl">和製 ルーニー</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|21|827|<span class="rank-name-dl">厨二病</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|22|819|<span class="rank-name-dl">Fu-min　セパ</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|22|819|<span class="rank-name-dl">ZO-NOG</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|24|801|<span class="rank-name-dl">こすけゑ@CT水色</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|25|775|<span class="rank-name-dl">性病デパート改</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|26|755|<span class="rank-name-dl">涼涼</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|27|751|<span class="rank-name-dl">togisu</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|28|745|<span class="rank-name-dl">だまんぴ</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|29|733|<span class="rank-name-dl">よこたZi-6491°</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|30|728|<span class="rank-name-dl">NO NAME 0928</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|30|728|<span class="rank-name-dl">NO NAME 8931</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|32|726|<span class="rank-name-dl">あばよイギー</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|33|723|<span class="rank-name-dl">とっきー</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|34|710|<span class="rank-name-dl">Yo-ko T@Home</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|35|708|<span class="rank-name-dl">亀</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|36|680|<span class="rank-name-dl">NO NAME 7267</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|37|678|<span class="rank-name-dl">☆CON☆</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|38|677|<span class="rank-name-dl">なる</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|39|669|<span class="rank-name-dl">Fujicky</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|40|662|<span class="rank-name-dl">ぬまっち③</span>|<a href="https://search.dartslive.com/jp/shop/bffda67f9bce8fc40d9b047a20a7ba1e">みずほ台ガールズバーTAMA</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|41|650|<span class="rank-name-dl">ももゑギガスガス</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|42|626|<span class="rank-name-dl">眞 純@kkc_mar</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|43|593|<span class="rank-name-dl">山嵐</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|44|585|<span class="rank-name-dl">さとさん</span>|<a href="https://search.dartslive.com/jp/shop/bffda67f9bce8fc40d9b047a20a7ba1e">みずほ台ガールズバーTAMA</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|44|585|<span class="rank-name-dl">栄斗</span>|<a href="https://search.dartslive.com/jp/shop/bc150dfbc5b7846d5f9f3321c1147265">シックスセンス</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|46|541|<span class="rank-name-dl">Mitsue</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|47|537|<span class="rank-name-dl">Y.Fujino</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|48|528|<span class="rank-name-dl">山嵐 ～零式～</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|49|515|<span class="rank-name-dl">エグツカ</span>|<a href="https://search.dartslive.com/jp/shop/bc150dfbc5b7846d5f9f3321c1147265">シックスセンス</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|50|492|<span class="rank-name-dl">USHUU</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|51|475|<span class="rank-name-dl">ロヰ@こくま</span>|<a href="https://search.dartslive.com/jp/shop/bffda67f9bce8fc40d9b047a20a7ba1e">みずほ台ガールズバーTAMA</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|52|401|<span class="rank-name-dl">otogibread</span>|<a href="https://search.dartslive.com/jp/shop/bc150dfbc5b7846d5f9f3321c1147265">シックスセンス</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|53|371|<span class="rank-name-dl">ちゃんだい</span>|<a href="https://search.dartslive.com/jp/shop/bc150dfbc5b7846d5f9f3321c1147265">シックスセンス</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|54|322|<span class="rank-name-dl">翔</span>|<a href="https://search.dartslive.com/jp/shop/bffda67f9bce8fc40d9b047a20a7ba1e">みずほ台ガールズバーTAMA</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -60,34 +86,60 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1090|<span class="rank-name-dl">だい☆軌道戦士</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
-|2|971|<span class="rank-name-dl">あっくん</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
-|3|969|<span class="rank-name-dl">いいじまけいき</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
-|4|968|<span class="rank-name-dl">DAI-1@メガネ部</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
-|5|961|<span class="rank-name-dl">こばのりーさん</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
-|6|958|<span class="rank-name-dl">羽角英明TARGET</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
-|7|930|<span class="rank-name-dl">冨澤雅人</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
-|8|904|<span class="rank-name-dl">たこすけ@Zi-6491</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
-|9|835|<span class="rank-name-dl">飯嶋 敬貴</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
-|10|820|<span class="rank-name-dl">和製 ルーニー</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
-|11|807|<span class="rank-name-dl">ZO-NOG</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
-|12|765|<span class="rank-name-dl">miko＠Zi-6491</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
-|13|730|<span class="rank-name-dl">よこたZi-6491°</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
-|14|728|<span class="rank-name-dl">NO NAME 0928</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
-|15|723|<span class="rank-name-dl">とっきー</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
-|16|710|<span class="rank-name-dl">Yo-ko T@Home</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
-|17|708|<span class="rank-name-dl">亀</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
-|18|680|<span class="rank-name-dl">NO NAME 7267</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
-|18|680|<span class="rank-name-dl">togisu</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
-|20|679|<span class="rank-name-dl">あばよイギー</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
-|21|669|<span class="rank-name-dl">Fujicky</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
-|22|662|<span class="rank-name-dl">ぬまっち③</span>|<a href="https://search.dartslive.com/jp/shop/bffda67f9bce8fc40d9b047a20a7ba1e">みずほ台ガールズバーTAMA</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
-|23|626|<span class="rank-name-dl">眞 純@kkc_mar</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
-|24|618|<span class="rank-name-dl">なる</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
-|25|585|<span class="rank-name-dl">栄斗</span>|<a href="https://search.dartslive.com/jp/shop/bc150dfbc5b7846d5f9f3321c1147265">シックスセンス</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
-|26|541|<span class="rank-name-dl">Mitsue</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
-|27|371|<span class="rank-name-dl">ちゃんだい</span>|<a href="https://search.dartslive.com/jp/shop/bc150dfbc5b7846d5f9f3321c1147265">シックスセンス</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
-|28|322|<span class="rank-name-dl">翔</span>|<a href="https://search.dartslive.com/jp/shop/bffda67f9bce8fc40d9b047a20a7ba1e">みずほ台ガールズバーTAMA</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|1|1109|<span class="rank-name-dl">羽角英明TARGET</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|2|1090|<span class="rank-name-dl">だい☆軌道戦士</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|3|1089|<span class="rank-name-dl">こばのりーさん</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|4|1072|<span class="rank-name-dl">冨澤雅人</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|5|1043|<span class="rank-name-dl">あっくん</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|6|969|<span class="rank-name-dl">いいじまけいき</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|7|968|<span class="rank-name-dl">DAI-1@メガネ部</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|8|944|<span class="rank-name-dl">Fu-min</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|9|933|<span class="rank-name-dl">ぬまっち②</span>|<a href="https://search.dartslive.com/jp/shop/bffda67f9bce8fc40d9b047a20a7ba1e">みずほ台ガールズバーTAMA</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|10|921|<span class="rank-name-dl">NO NAME 3303</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|11|906|<span class="rank-name-dl">FUーMIN</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|12|904|<span class="rank-name-dl">たこすけ@Zi-6491</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|12|904|<span class="rank-name-dl">性帝サウザー</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|14|894|<span class="rank-name-dl">しん</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|15|890|<span class="rank-name-dl">いとう　けいすけ</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|16|868|<span class="rank-name-dl">はるさん</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|17|866|<span class="rank-name-dl">ぬまっち①</span>|<a href="https://search.dartslive.com/jp/shop/bffda67f9bce8fc40d9b047a20a7ba1e">みずほ台ガールズバーTAMA</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|18|848|<span class="rank-name-dl">miko＠Zi-6491</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|19|835|<span class="rank-name-dl">飯嶋 敬貴</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|20|833|<span class="rank-name-dl">和製 ルーニー</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|21|827|<span class="rank-name-dl">厨二病</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|22|819|<span class="rank-name-dl">Fu-min　セパ</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|22|819|<span class="rank-name-dl">ZO-NOG</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|24|801|<span class="rank-name-dl">こすけゑ@CT水色</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|25|775|<span class="rank-name-dl">性病デパート改</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|26|755|<span class="rank-name-dl">涼涼</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|27|751|<span class="rank-name-dl">togisu</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|28|745|<span class="rank-name-dl">だまんぴ</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|29|733|<span class="rank-name-dl">よこたZi-6491°</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|30|728|<span class="rank-name-dl">NO NAME 0928</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|30|728|<span class="rank-name-dl">NO NAME 8931</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|32|726|<span class="rank-name-dl">あばよイギー</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|33|723|<span class="rank-name-dl">とっきー</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|34|710|<span class="rank-name-dl">Yo-ko T@Home</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|35|708|<span class="rank-name-dl">亀</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|36|680|<span class="rank-name-dl">NO NAME 7267</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|37|678|<span class="rank-name-dl">☆CON☆</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|38|677|<span class="rank-name-dl">なる</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|39|669|<span class="rank-name-dl">Fujicky</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|40|662|<span class="rank-name-dl">ぬまっち③</span>|<a href="https://search.dartslive.com/jp/shop/bffda67f9bce8fc40d9b047a20a7ba1e">みずほ台ガールズバーTAMA</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|41|650|<span class="rank-name-dl">ももゑギガスガス</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|42|626|<span class="rank-name-dl">眞 純@kkc_mar</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|43|593|<span class="rank-name-dl">山嵐</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|44|585|<span class="rank-name-dl">さとさん</span>|<a href="https://search.dartslive.com/jp/shop/bffda67f9bce8fc40d9b047a20a7ba1e">みずほ台ガールズバーTAMA</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|44|585|<span class="rank-name-dl">栄斗</span>|<a href="https://search.dartslive.com/jp/shop/bc150dfbc5b7846d5f9f3321c1147265">シックスセンス</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|46|541|<span class="rank-name-dl">Mitsue</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|47|537|<span class="rank-name-dl">Y.Fujino</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|48|528|<span class="rank-name-dl">山嵐 ～零式～</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|49|515|<span class="rank-name-dl">エグツカ</span>|<a href="https://search.dartslive.com/jp/shop/bc150dfbc5b7846d5f9f3321c1147265">シックスセンス</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|50|492|<span class="rank-name-dl">USHUU</span>|<a href="https://search.dartslive.com/jp/shop/9157f721437cec2158d385ea46352d8f">Zi-6491</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|51|475|<span class="rank-name-dl">ロヰ@こくま</span>|<a href="https://search.dartslive.com/jp/shop/bffda67f9bce8fc40d9b047a20a7ba1e">みずほ台ガールズバーTAMA</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|52|401|<span class="rank-name-dl">otogibread</span>|<a href="https://search.dartslive.com/jp/shop/bc150dfbc5b7846d5f9f3321c1147265">シックスセンス</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|53|371|<span class="rank-name-dl">ちゃんだい</span>|<a href="https://search.dartslive.com/jp/shop/bc150dfbc5b7846d5f9f3321c1147265">シックスセンス</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
+|54|322|<span class="rank-name-dl">翔</span>|<a href="https://search.dartslive.com/jp/shop/bffda67f9bce8fc40d9b047a20a7ba1e">みずほ台ガールズバーTAMA</a>|<a href="/darts/rank/埼玉県/富士見市">埼玉県富士見市</a>|
 
 
 #### PHOENIXDARTS TOP 100

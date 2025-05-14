@@ -25,104 +25,104 @@ ___
 |---|---|---|---|---|
 |1|1099|<span class="rank-name-pd">永岡　功也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
 |2|1090|<span class="rank-name-pd">永岡　功也　エリア13</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|3|1006|<span class="rank-name-pd">RYOTA(不調)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|4|996|<span class="rank-name-pd">永岡　功也　エリア13</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|5|978|<span class="rank-name-pd">RYOTA(不調)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|5|978|<span class="rank-name-pd">嘉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|7|969|<span class="rank-name-pd">TOMOZO---</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|8|957|<span class="rank-name-pd">ダイキチ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|9|937|<span class="rank-name-pd">TAROOOOO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|10|929|<span class="rank-name-pd">亀山 仁太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|11|911|<span class="rank-name-pd">永岡　功也　エリア13</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|12|909|<span class="rank-name-pd">嘉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|13|908|<span class="rank-name-pd">kaikun</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|14|904|<span class="rank-name-pd">亀山 仁太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|15|901|<span class="rank-name-pd">☆RYUSEI☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|16|897|<span class="rank-name-pd">MARNIY.03</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|17|882|<span class="rank-name-pd">永岡　功也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|18|868|<span class="rank-name-pd">おいしいパスタがあると聞いて</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|19|853|<span class="rank-name-pd">☆RYUSEI☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|20|850|<span class="rank-name-pd">ダイキチ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|21|846|<span class="rank-name-pd">TOMO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|22|835|<span class="rank-name-pd">亀山 仁太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|23|825|<span class="rank-name-pd">遊喜知&lt;yukichi&gt;</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|24|805|<span class="rank-name-pd">☆マジカルMACん☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|25|801|<span class="rank-name-pd">まつもー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|26|783|<span class="rank-name-pd">ＫＥＮ８０☆彡Z</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|27|778|<span class="rank-name-pd">Ryotin→Catch</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|28|777|<span class="rank-name-pd">chan53</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|29|775|<span class="rank-name-pd">嘉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|30|770|<span class="rank-name-pd">KTR</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|31|755|<span class="rank-name-pd">MARNIY.03</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|32|747|<span class="rank-name-pd">SKB店長 (カラオケ３)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|33|738|<span class="rank-name-pd">TAROOOOO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|34|731|<span class="rank-name-pd">おいしいパスタがあると聞いて</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|35|728|<span class="rank-name-pd">REKEY_カラオケ3</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|35|728|<span class="rank-name-pd">TKM.K</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|37|727|<span class="rank-name-pd">ＫＡＷＡＫＡＷＡ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|38|726|<span class="rank-name-pd">MARNIY.03</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|38|726|<span class="rank-name-pd">遊喜知&lt;yukichi&gt;</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|40|725|<span class="rank-name-pd">TOMO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|41|724|<span class="rank-name-pd">KAZUMI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|42|717|<span class="rank-name-pd">BROWN </span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|43|715|<span class="rank-name-pd">YUUTA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|44|713|<span class="rank-name-pd">遊喜知&lt;yukichi&gt;</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|45|711|<span class="rank-name-pd">REKEY_カラオケ3</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|46|705|<span class="rank-name-pd">Mizuki@MORRY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|47|703|<span class="rank-name-pd">SKB店長 (カラオケ３)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|48|701|<span class="rank-name-pd">SYO-TA@</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|49|693|<span class="rank-name-pd">KAZUMI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|49|693|<span class="rank-name-pd">NAHO1.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|51|682|<span class="rank-name-pd">おじゅん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|52|679|<span class="rank-name-pd">Hayate@奄美大島</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|53|673|<span class="rank-name-pd">GYARAN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|54|668|<span class="rank-name-pd">DAI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|54|668|<span class="rank-name-pd">おじゅん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|56|666|<span class="rank-name-pd">甘味の抹茶ん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|57|664|<span class="rank-name-pd">GGG</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|57|664|<span class="rank-name-pd">Nonobu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|59|663|<span class="rank-name-pd">ANRI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|60|649|<span class="rank-name-pd">SHOMA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|61|640|<span class="rank-name-pd">0022_4258</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|61|640|<span class="rank-name-pd">REKEY_カラオケ3</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|63|636|<span class="rank-name-pd">Blu_rrrrrrrrr</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|63|636|<span class="rank-name-pd">Kazuki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|65|631|<span class="rank-name-pd">AREA13-GUEST@2</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|66|630|<span class="rank-name-pd">まつもー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|67|626|<span class="rank-name-pd">【H I D E】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|68|623|<span class="rank-name-pd">BANANA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|69|618|<span class="rank-name-pd">なんでも屋ケンチヤン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|70|617|<span class="rank-name-pd">DDD</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|70|617|<span class="rank-name-pd">☆*りゅうせい*☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|70|617|<span class="rank-name-pd">あいり(好調)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|73|613|<span class="rank-name-pd">ANRI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|74|611|<span class="rank-name-pd">SUKEPIYO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|75|610|<span class="rank-name-pd">RYUSEI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|76|608|<span class="rank-name-pd">0022_4258</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|77|606|<span class="rank-name-pd">GYARAN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|78|605|<span class="rank-name-pd">あやか</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|79|603|<span class="rank-name-pd">Yuua</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|80|601|<span class="rank-name-pd">MAA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|81|598|<span class="rank-name-pd">SOUND ONLY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|82|597|<span class="rank-name-pd">VALDERRAMA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|83|594|<span class="rank-name-pd">TKM.K</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|84|592|<span class="rank-name-pd">MARNY-06</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|84|592|<span class="rank-name-pd">TKM.K</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|86|585|<span class="rank-name-pd">KAITAROU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|87|582|<span class="rank-name-pd">MEGUMI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|87|582|<span class="rank-name-pd">☆こう☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|89|581|<span class="rank-name-pd">木村　英博／COCORO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|90|576|<span class="rank-name-pd">MISAMISA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|91|573|<span class="rank-name-pd">SEI08</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|92|567|<span class="rank-name-pd">えりｻﾞﾍﾞｽ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|93|558|<span class="rank-name-pd">NAHO1.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|93|558|<span class="rank-name-pd">猫屋敷の親分</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|95|557|<span class="rank-name-pd">MONO-0055</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|96|556|<span class="rank-name-pd">えりｻﾞﾍﾞｽ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|96|556|<span class="rank-name-pd">＊YU-TA＊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|98|551|<span class="rank-name-pd">HIROSI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|99|544|<span class="rank-name-pd">おじゅん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|100|542|<span class="rank-name-pd">シモン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|3|1086|<span class="rank-name-pd">永岡　功也　エリア13</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|4|1061|<span class="rank-name-pd">ダイキチ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|5|1020|<span class="rank-name-pd">RYUSEI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|6|1006|<span class="rank-name-pd">RYOTA(不調)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|7|1004|<span class="rank-name-pd">嘉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|8|994|<span class="rank-name-pd">永岡　功也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|9|978|<span class="rank-name-pd">RYOTA(不調)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|10|974|<span class="rank-name-pd">DAIKITHI.3</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|11|969|<span class="rank-name-pd">TOMOZO---</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|12|963|<span class="rank-name-pd">ともぞー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_93419?s_seq=93419">BARが五反田</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|13|961|<span class="rank-name-pd">嘉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|14|959|<span class="rank-name-pd">0150_6812</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|15|957|<span class="rank-name-pd">ダイキチ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|16|940|<span class="rank-name-pd">⁑RYUSEI⁑</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|17|937|<span class="rank-name-pd">TAROOOOO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|18|929|<span class="rank-name-pd">亀山 仁太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|19|911|<span class="rank-name-pd">永岡　功也　エリア13</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|20|908|<span class="rank-name-pd">kaikun</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|21|904|<span class="rank-name-pd">亀山 仁太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|22|901|<span class="rank-name-pd">☆RYUSEI☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|23|897|<span class="rank-name-pd">MARNIY.03</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|24|889|<span class="rank-name-pd">⁑RYUSEI⁑</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|24|889|<span class="rank-name-pd">亀山 仁太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|26|872|<span class="rank-name-pd">りゅうせい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|27|868|<span class="rank-name-pd">おいしいパスタがあると聞いて</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|28|867|<span class="rank-name-pd">chan53</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|29|866|<span class="rank-name-pd">DAIKITHI.3</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_93419?s_seq=93419">BARが五反田</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|30|854|<span class="rank-name-pd">りゅうせい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|31|853|<span class="rank-name-pd">☆RYUSEI☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|32|851|<span class="rank-name-pd">りゅうせい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|33|850|<span class="rank-name-pd">おいしいパスタがあると聞いて</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|34|846|<span class="rank-name-pd">TOMO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|35|840|<span class="rank-name-pd">MARNY-06</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|35|840|<span class="rank-name-pd">☆マジカルMACん☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|37|834|<span class="rank-name-pd">TOMOZO---</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_92502?s_seq=92502">BAR HOME</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|38|833|<span class="rank-name-pd">☆マジカルMACん☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|39|827|<span class="rank-name-pd">熊本人だモン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_92502?s_seq=92502">BAR HOME</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|40|825|<span class="rank-name-pd">遊喜知&lt;yukichi&gt;</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|41|822|<span class="rank-name-pd">-AMAMI-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|42|820|<span class="rank-name-pd">chan53</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|43|815|<span class="rank-name-pd">TSUMOMO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|44|803|<span class="rank-name-pd">りゅうせい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_92502?s_seq=92502">BAR HOME</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|45|801|<span class="rank-name-pd">YUUTA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|45|801|<span class="rank-name-pd">まつもー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|47|791|<span class="rank-name-pd">TOMOZO---</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|47|791|<span class="rank-name-pd">☆マジカルMACん☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|49|783|<span class="rank-name-pd">ＫＥＮ８０☆彡Z</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|50|782|<span class="rank-name-pd">しんご</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|51|781|<span class="rank-name-pd">はっしー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|52|778|<span class="rank-name-pd">Ryotin→Catch</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|53|776|<span class="rank-name-pd">亀山 仁太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_93419?s_seq=93419">BARが五反田</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|54|775|<span class="rank-name-pd">嘉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|55|770|<span class="rank-name-pd">KTR</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|56|761|<span class="rank-name-pd">おじゅん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|57|755|<span class="rank-name-pd">MARNIY.03</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|58|751|<span class="rank-name-pd">純菜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|59|749|<span class="rank-name-pd">mari</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|60|747|<span class="rank-name-pd">REKEY_カラオケ3</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|60|747|<span class="rank-name-pd">SKB店長 (カラオケ３)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|62|746|<span class="rank-name-pd">かつや@甘味13</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|63|744|<span class="rank-name-pd">TOSHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|64|743|<span class="rank-name-pd">JURITA1</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|65|740|<span class="rank-name-pd">KENTA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|66|738|<span class="rank-name-pd">REKEY_カラオケ3</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|66|738|<span class="rank-name-pd">TAROOOOO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|68|736|<span class="rank-name-pd">DAIKITHI.3</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|69|735|<span class="rank-name-pd">TOMO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|70|732|<span class="rank-name-pd">おいしいパスタがあると聞いて</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|71|730|<span class="rank-name-pd">AMAMI NO MATSUCHAN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|72|728|<span class="rank-name-pd">TKM.K</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|73|727|<span class="rank-name-pd">ＫＡＷＡＫＡＷＡ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|74|726|<span class="rank-name-pd">MARNIY.03</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|74|726|<span class="rank-name-pd">遊喜知&lt;yukichi&gt;</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|76|724|<span class="rank-name-pd">KAZUMI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|77|722|<span class="rank-name-pd">おじゅん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|78|718|<span class="rank-name-pd">SKB店長 (カラオケ３)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|79|717|<span class="rank-name-pd">BROWN </span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|80|713|<span class="rank-name-pd">遊喜知&lt;yukichi&gt;</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|81|712|<span class="rank-name-pd">Mizuki@MORRY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|82|705|<span class="rank-name-pd">Mizuki@MORRY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|83|703|<span class="rank-name-pd">NAHO1.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|84|702|<span class="rank-name-pd">KAITAROU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|85|701|<span class="rank-name-pd">SYO-TA@</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|86|699|<span class="rank-name-pd">0101_8207</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|86|699|<span class="rank-name-pd">TOMO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_92502?s_seq=92502">BAR HOME</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|86|699|<span class="rank-name-pd">【H I D E】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|89|696|<span class="rank-name-pd">シモン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|90|693|<span class="rank-name-pd">KAZUMI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|90|693|<span class="rank-name-pd">NAHO1.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|90|693|<span class="rank-name-pd">SKB店長 (カラオケ３)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|93|690|<span class="rank-name-pd">DAI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|94|684|<span class="rank-name-pd">ベッケン・バウアー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|94|684|<span class="rank-name-pd">純菜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|96|679|<span class="rank-name-pd">Hayate@奄美大島</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|96|679|<span class="rank-name-pd">おこげ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|98|677|<span class="rank-name-pd">NAHO2.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|99|673|<span class="rank-name-pd">GYARAN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|100|671|<span class="rank-name-pd">おじゅん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -144,104 +144,104 @@ ___
 |---|---|---|---|---|
 |1|1099|<span class="rank-name-pd">永岡　功也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
 |2|1090|<span class="rank-name-pd">永岡　功也　エリア13</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|3|1006|<span class="rank-name-pd">RYOTA(不調)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|4|996|<span class="rank-name-pd">永岡　功也　エリア13</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|5|978|<span class="rank-name-pd">RYOTA(不調)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|5|978|<span class="rank-name-pd">嘉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|7|969|<span class="rank-name-pd">TOMOZO---</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|8|957|<span class="rank-name-pd">ダイキチ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|9|937|<span class="rank-name-pd">TAROOOOO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|10|929|<span class="rank-name-pd">亀山 仁太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|11|911|<span class="rank-name-pd">永岡　功也　エリア13</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|12|909|<span class="rank-name-pd">嘉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|13|908|<span class="rank-name-pd">kaikun</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|14|904|<span class="rank-name-pd">亀山 仁太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|15|901|<span class="rank-name-pd">☆RYUSEI☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|16|897|<span class="rank-name-pd">MARNIY.03</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|17|882|<span class="rank-name-pd">永岡　功也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|18|868|<span class="rank-name-pd">おいしいパスタがあると聞いて</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|19|853|<span class="rank-name-pd">☆RYUSEI☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|20|850|<span class="rank-name-pd">ダイキチ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|21|846|<span class="rank-name-pd">TOMO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|22|835|<span class="rank-name-pd">亀山 仁太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|23|825|<span class="rank-name-pd">遊喜知&lt;yukichi&gt;</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|24|805|<span class="rank-name-pd">☆マジカルMACん☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|25|801|<span class="rank-name-pd">まつもー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|26|783|<span class="rank-name-pd">ＫＥＮ８０☆彡Z</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|27|778|<span class="rank-name-pd">Ryotin→Catch</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|28|777|<span class="rank-name-pd">chan53</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|29|775|<span class="rank-name-pd">嘉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|30|770|<span class="rank-name-pd">KTR</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|31|755|<span class="rank-name-pd">MARNIY.03</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|32|747|<span class="rank-name-pd">SKB店長 (カラオケ３)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|33|738|<span class="rank-name-pd">TAROOOOO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|34|731|<span class="rank-name-pd">おいしいパスタがあると聞いて</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|35|728|<span class="rank-name-pd">REKEY_カラオケ3</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|35|728|<span class="rank-name-pd">TKM.K</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|37|727|<span class="rank-name-pd">ＫＡＷＡＫＡＷＡ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|38|726|<span class="rank-name-pd">MARNIY.03</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|38|726|<span class="rank-name-pd">遊喜知&lt;yukichi&gt;</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|40|725|<span class="rank-name-pd">TOMO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|41|724|<span class="rank-name-pd">KAZUMI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|42|717|<span class="rank-name-pd">BROWN </span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|43|715|<span class="rank-name-pd">YUUTA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|44|713|<span class="rank-name-pd">遊喜知&lt;yukichi&gt;</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|45|711|<span class="rank-name-pd">REKEY_カラオケ3</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|46|705|<span class="rank-name-pd">Mizuki@MORRY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|47|703|<span class="rank-name-pd">SKB店長 (カラオケ３)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|48|701|<span class="rank-name-pd">SYO-TA@</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|49|693|<span class="rank-name-pd">KAZUMI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|49|693|<span class="rank-name-pd">NAHO1.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|51|682|<span class="rank-name-pd">おじゅん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|52|679|<span class="rank-name-pd">Hayate@奄美大島</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|53|673|<span class="rank-name-pd">GYARAN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|54|668|<span class="rank-name-pd">DAI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|54|668|<span class="rank-name-pd">おじゅん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|56|666|<span class="rank-name-pd">甘味の抹茶ん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|57|664|<span class="rank-name-pd">GGG</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|57|664|<span class="rank-name-pd">Nonobu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|59|663|<span class="rank-name-pd">ANRI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|60|649|<span class="rank-name-pd">SHOMA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|61|640|<span class="rank-name-pd">0022_4258</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|61|640|<span class="rank-name-pd">REKEY_カラオケ3</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|63|636|<span class="rank-name-pd">Blu_rrrrrrrrr</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|63|636|<span class="rank-name-pd">Kazuki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|65|631|<span class="rank-name-pd">AREA13-GUEST@2</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|66|630|<span class="rank-name-pd">まつもー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|67|626|<span class="rank-name-pd">【H I D E】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|68|623|<span class="rank-name-pd">BANANA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|69|618|<span class="rank-name-pd">なんでも屋ケンチヤン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|70|617|<span class="rank-name-pd">DDD</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|70|617|<span class="rank-name-pd">☆*りゅうせい*☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|70|617|<span class="rank-name-pd">あいり(好調)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|73|613|<span class="rank-name-pd">ANRI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|74|611|<span class="rank-name-pd">SUKEPIYO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|75|610|<span class="rank-name-pd">RYUSEI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|76|608|<span class="rank-name-pd">0022_4258</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|77|606|<span class="rank-name-pd">GYARAN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|78|605|<span class="rank-name-pd">あやか</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|79|603|<span class="rank-name-pd">Yuua</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|80|601|<span class="rank-name-pd">MAA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|81|598|<span class="rank-name-pd">SOUND ONLY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|82|597|<span class="rank-name-pd">VALDERRAMA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|83|594|<span class="rank-name-pd">TKM.K</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|84|592|<span class="rank-name-pd">MARNY-06</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|84|592|<span class="rank-name-pd">TKM.K</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|86|585|<span class="rank-name-pd">KAITAROU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|87|582|<span class="rank-name-pd">MEGUMI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|87|582|<span class="rank-name-pd">☆こう☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|89|581|<span class="rank-name-pd">木村　英博／COCORO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|90|576|<span class="rank-name-pd">MISAMISA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|91|573|<span class="rank-name-pd">SEI08</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|92|567|<span class="rank-name-pd">えりｻﾞﾍﾞｽ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|93|558|<span class="rank-name-pd">NAHO1.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|93|558|<span class="rank-name-pd">猫屋敷の親分</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|95|557|<span class="rank-name-pd">MONO-0055</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|96|556|<span class="rank-name-pd">えりｻﾞﾍﾞｽ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|96|556|<span class="rank-name-pd">＊YU-TA＊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|98|551|<span class="rank-name-pd">HIROSI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|99|544|<span class="rank-name-pd">おじゅん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
-|100|542|<span class="rank-name-pd">シモン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|3|1086|<span class="rank-name-pd">永岡　功也　エリア13</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|4|1061|<span class="rank-name-pd">ダイキチ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|5|1020|<span class="rank-name-pd">RYUSEI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|6|1006|<span class="rank-name-pd">RYOTA(不調)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|7|1004|<span class="rank-name-pd">嘉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|8|994|<span class="rank-name-pd">永岡　功也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|9|978|<span class="rank-name-pd">RYOTA(不調)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|10|974|<span class="rank-name-pd">DAIKITHI.3</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|11|969|<span class="rank-name-pd">TOMOZO---</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|12|963|<span class="rank-name-pd">ともぞー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_93419?s_seq=93419">BARが五反田</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|13|961|<span class="rank-name-pd">嘉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|14|959|<span class="rank-name-pd">0150_6812</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|15|957|<span class="rank-name-pd">ダイキチ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|16|940|<span class="rank-name-pd">⁑RYUSEI⁑</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|17|937|<span class="rank-name-pd">TAROOOOO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|18|929|<span class="rank-name-pd">亀山 仁太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|19|911|<span class="rank-name-pd">永岡　功也　エリア13</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|20|908|<span class="rank-name-pd">kaikun</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|21|904|<span class="rank-name-pd">亀山 仁太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|22|901|<span class="rank-name-pd">☆RYUSEI☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|23|897|<span class="rank-name-pd">MARNIY.03</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|24|889|<span class="rank-name-pd">⁑RYUSEI⁑</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|24|889|<span class="rank-name-pd">亀山 仁太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|26|872|<span class="rank-name-pd">りゅうせい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|27|868|<span class="rank-name-pd">おいしいパスタがあると聞いて</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|28|867|<span class="rank-name-pd">chan53</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|29|866|<span class="rank-name-pd">DAIKITHI.3</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_93419?s_seq=93419">BARが五反田</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|30|854|<span class="rank-name-pd">りゅうせい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|31|853|<span class="rank-name-pd">☆RYUSEI☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|32|851|<span class="rank-name-pd">りゅうせい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|33|850|<span class="rank-name-pd">おいしいパスタがあると聞いて</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|34|846|<span class="rank-name-pd">TOMO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|35|840|<span class="rank-name-pd">MARNY-06</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|35|840|<span class="rank-name-pd">☆マジカルMACん☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|37|834|<span class="rank-name-pd">TOMOZO---</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_92502?s_seq=92502">BAR HOME</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|38|833|<span class="rank-name-pd">☆マジカルMACん☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|39|827|<span class="rank-name-pd">熊本人だモン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_92502?s_seq=92502">BAR HOME</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|40|825|<span class="rank-name-pd">遊喜知&lt;yukichi&gt;</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|41|822|<span class="rank-name-pd">-AMAMI-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|42|820|<span class="rank-name-pd">chan53</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|43|815|<span class="rank-name-pd">TSUMOMO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|44|803|<span class="rank-name-pd">りゅうせい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_92502?s_seq=92502">BAR HOME</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|45|801|<span class="rank-name-pd">YUUTA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|45|801|<span class="rank-name-pd">まつもー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|47|791|<span class="rank-name-pd">TOMOZO---</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|47|791|<span class="rank-name-pd">☆マジカルMACん☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|49|783|<span class="rank-name-pd">ＫＥＮ８０☆彡Z</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|50|782|<span class="rank-name-pd">しんご</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|51|781|<span class="rank-name-pd">はっしー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|52|778|<span class="rank-name-pd">Ryotin→Catch</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|53|776|<span class="rank-name-pd">亀山 仁太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_93419?s_seq=93419">BARが五反田</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|54|775|<span class="rank-name-pd">嘉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|55|770|<span class="rank-name-pd">KTR</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|56|761|<span class="rank-name-pd">おじゅん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|57|755|<span class="rank-name-pd">MARNIY.03</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|58|751|<span class="rank-name-pd">純菜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|59|749|<span class="rank-name-pd">mari</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|60|747|<span class="rank-name-pd">REKEY_カラオケ3</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|60|747|<span class="rank-name-pd">SKB店長 (カラオケ３)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|62|746|<span class="rank-name-pd">かつや@甘味13</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|63|744|<span class="rank-name-pd">TOSHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|64|743|<span class="rank-name-pd">JURITA1</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|65|740|<span class="rank-name-pd">KENTA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|66|738|<span class="rank-name-pd">REKEY_カラオケ3</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|66|738|<span class="rank-name-pd">TAROOOOO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|68|736|<span class="rank-name-pd">DAIKITHI.3</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|69|735|<span class="rank-name-pd">TOMO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|70|732|<span class="rank-name-pd">おいしいパスタがあると聞いて</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|71|730|<span class="rank-name-pd">AMAMI NO MATSUCHAN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|72|728|<span class="rank-name-pd">TKM.K</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|73|727|<span class="rank-name-pd">ＫＡＷＡＫＡＷＡ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|74|726|<span class="rank-name-pd">MARNIY.03</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|74|726|<span class="rank-name-pd">遊喜知&lt;yukichi&gt;</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|76|724|<span class="rank-name-pd">KAZUMI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|77|722|<span class="rank-name-pd">おじゅん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|78|718|<span class="rank-name-pd">SKB店長 (カラオケ３)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|79|717|<span class="rank-name-pd">BROWN </span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|80|713|<span class="rank-name-pd">遊喜知&lt;yukichi&gt;</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|81|712|<span class="rank-name-pd">Mizuki@MORRY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|82|705|<span class="rank-name-pd">Mizuki@MORRY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|83|703|<span class="rank-name-pd">NAHO1.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|84|702|<span class="rank-name-pd">KAITAROU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|85|701|<span class="rank-name-pd">SYO-TA@</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|86|699|<span class="rank-name-pd">0101_8207</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|86|699|<span class="rank-name-pd">TOMO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_92502?s_seq=92502">BAR HOME</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|86|699|<span class="rank-name-pd">【H I D E】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|89|696|<span class="rank-name-pd">シモン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|90|693|<span class="rank-name-pd">KAZUMI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|90|693|<span class="rank-name-pd">NAHO1.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|90|693|<span class="rank-name-pd">SKB店長 (カラオケ３)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|93|690|<span class="rank-name-pd">DAI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|94|684|<span class="rank-name-pd">ベッケン・バウアー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|94|684|<span class="rank-name-pd">純菜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|96|679|<span class="rank-name-pd">Hayate@奄美大島</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|96|679|<span class="rank-name-pd">おこげ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|98|677|<span class="rank-name-pd">NAHO2.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10274?s_seq=10274">エリア13</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|99|673|<span class="rank-name-pd">GYARAN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10744?s_seq=10744">ドルフィンリング</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
+|100|671|<span class="rank-name-pd">おじゅん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10555?s_seq=10555">カラオケ3</a>|<a href="/darts/rank/鹿児島県/奄美市">鹿児島県奄美市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

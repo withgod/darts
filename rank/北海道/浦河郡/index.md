@@ -23,9 +23,15 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|674|<span class="rank-name-pd">このハゲー٩(๑❛ᴗ❛๑)۶</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7021?s_seq=7021">のみくい処 旨や</a>|<a href="/darts/rank/北海道/浦河郡">北海道浦河郡</a>|
-|2|609|<span class="rank-name-pd">0090_3905</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7021?s_seq=7021">のみくい処 旨や</a>|<a href="/darts/rank/北海道/浦河郡">北海道浦河郡</a>|
-|3|472|<span class="rank-name-pd">まーぼー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7021?s_seq=7021">のみくい処 旨や</a>|<a href="/darts/rank/北海道/浦河郡">北海道浦河郡</a>|
+|1|796|<span class="rank-name-pd">Hanabi Mania</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7021?s_seq=7021">のみくい処 旨や</a>|<a href="/darts/rank/北海道/浦河郡">北海道浦河郡</a>|
+|2|707|<span class="rank-name-pd">A-Shin</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7021?s_seq=7021">のみくい処 旨や</a>|<a href="/darts/rank/北海道/浦河郡">北海道浦河郡</a>|
+|3|674|<span class="rank-name-pd">このハゲー٩(๑❛ᴗ❛๑)۶</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7021?s_seq=7021">のみくい処 旨や</a>|<a href="/darts/rank/北海道/浦河郡">北海道浦河郡</a>|
+|4|667|<span class="rank-name-pd">0090_3905</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7021?s_seq=7021">のみくい処 旨や</a>|<a href="/darts/rank/北海道/浦河郡">北海道浦河郡</a>|
+|5|655|<span class="rank-name-pd">拓龍[cazador]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7021?s_seq=7021">のみくい処 旨や</a>|<a href="/darts/rank/北海道/浦河郡">北海道浦河郡</a>|
+|6|579|<span class="rank-name-pd">pocky</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7021?s_seq=7021">のみくい処 旨や</a>|<a href="/darts/rank/北海道/浦河郡">北海道浦河郡</a>|
+|7|559|<span class="rank-name-pd">道化師</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7021?s_seq=7021">のみくい処 旨や</a>|<a href="/darts/rank/北海道/浦河郡">北海道浦河郡</a>|
+|8|557|<span class="rank-name-pd">夢見る隙間</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7021?s_seq=7021">のみくい処 旨や</a>|<a href="/darts/rank/北海道/浦河郡">北海道浦河郡</a>|
+|9|472|<span class="rank-name-pd">まーぼー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7021?s_seq=7021">のみくい処 旨や</a>|<a href="/darts/rank/北海道/浦河郡">北海道浦河郡</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -45,9 +51,15 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|674|<span class="rank-name-pd">このハゲー٩(๑❛ᴗ❛๑)۶</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7021?s_seq=7021">のみくい処 旨や</a>|<a href="/darts/rank/北海道/浦河郡">北海道浦河郡</a>|
-|2|609|<span class="rank-name-pd">0090_3905</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7021?s_seq=7021">のみくい処 旨や</a>|<a href="/darts/rank/北海道/浦河郡">北海道浦河郡</a>|
-|3|472|<span class="rank-name-pd">まーぼー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7021?s_seq=7021">のみくい処 旨や</a>|<a href="/darts/rank/北海道/浦河郡">北海道浦河郡</a>|
+|1|796|<span class="rank-name-pd">Hanabi Mania</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7021?s_seq=7021">のみくい処 旨や</a>|<a href="/darts/rank/北海道/浦河郡">北海道浦河郡</a>|
+|2|707|<span class="rank-name-pd">A-Shin</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7021?s_seq=7021">のみくい処 旨や</a>|<a href="/darts/rank/北海道/浦河郡">北海道浦河郡</a>|
+|3|674|<span class="rank-name-pd">このハゲー٩(๑❛ᴗ❛๑)۶</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7021?s_seq=7021">のみくい処 旨や</a>|<a href="/darts/rank/北海道/浦河郡">北海道浦河郡</a>|
+|4|667|<span class="rank-name-pd">0090_3905</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7021?s_seq=7021">のみくい処 旨や</a>|<a href="/darts/rank/北海道/浦河郡">北海道浦河郡</a>|
+|5|655|<span class="rank-name-pd">拓龍[cazador]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7021?s_seq=7021">のみくい処 旨や</a>|<a href="/darts/rank/北海道/浦河郡">北海道浦河郡</a>|
+|6|579|<span class="rank-name-pd">pocky</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7021?s_seq=7021">のみくい処 旨や</a>|<a href="/darts/rank/北海道/浦河郡">北海道浦河郡</a>|
+|7|559|<span class="rank-name-pd">道化師</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7021?s_seq=7021">のみくい処 旨や</a>|<a href="/darts/rank/北海道/浦河郡">北海道浦河郡</a>|
+|8|557|<span class="rank-name-pd">夢見る隙間</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7021?s_seq=7021">のみくい処 旨や</a>|<a href="/darts/rank/北海道/浦河郡">北海道浦河郡</a>|
+|9|472|<span class="rank-name-pd">まーぼー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7021?s_seq=7021">のみくい処 旨や</a>|<a href="/darts/rank/北海道/浦河郡">北海道浦河郡</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

@@ -24,16 +24,21 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|951|<span class="rank-name-pd">JOU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
-|2|819|<span class="rank-name-pd">エビちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
-|3|818|<span class="rank-name-pd">とし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
-|4|709|<span class="rank-name-pd">PON</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
-|5|669|<span class="rank-name-pd">ハムりん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
-|6|634|<span class="rank-name-pd">明日花キヨラ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
-|7|626|<span class="rank-name-pd">ゆうきっき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
-|8|583|<span class="rank-name-pd">ピーナッツ君</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
-|9|566|<span class="rank-name-pd">HIROYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
-|10|522|<span class="rank-name-pd">chii</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
-|11|516|<span class="rank-name-pd">ケンちんゆー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
+|2|820|<span class="rank-name-pd">いのしん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
+|3|819|<span class="rank-name-pd">エビちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
+|4|818|<span class="rank-name-pd">とし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
+|5|716|<span class="rank-name-pd">明日花キヨラ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
+|6|709|<span class="rank-name-pd">PON</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
+|7|669|<span class="rank-name-pd">ハムりん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
+|8|639|<span class="rank-name-pd">shuma@Tono&#x27;p</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
+|9|626|<span class="rank-name-pd">ゆうきっき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
+|10|583|<span class="rank-name-pd">ピーナッツ君</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
+|11|566|<span class="rank-name-pd">HIROYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
+|12|522|<span class="rank-name-pd">chii</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
+|13|516|<span class="rank-name-pd">ケンちんゆー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
+|14|508|<span class="rank-name-pd">GREENHILL-WATARU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
+|15|475|<span class="rank-name-pd">SHINYAINOUE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
+|16|326|<span class="rank-name-pd">のぶ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -54,16 +59,21 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|951|<span class="rank-name-pd">JOU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
-|2|819|<span class="rank-name-pd">エビちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
-|3|818|<span class="rank-name-pd">とし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
-|4|709|<span class="rank-name-pd">PON</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
-|5|669|<span class="rank-name-pd">ハムりん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
-|6|634|<span class="rank-name-pd">明日花キヨラ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
-|7|626|<span class="rank-name-pd">ゆうきっき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
-|8|583|<span class="rank-name-pd">ピーナッツ君</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
-|9|566|<span class="rank-name-pd">HIROYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
-|10|522|<span class="rank-name-pd">chii</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
-|11|516|<span class="rank-name-pd">ケンちんゆー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
+|2|820|<span class="rank-name-pd">いのしん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
+|3|819|<span class="rank-name-pd">エビちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
+|4|818|<span class="rank-name-pd">とし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
+|5|716|<span class="rank-name-pd">明日花キヨラ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
+|6|709|<span class="rank-name-pd">PON</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
+|7|669|<span class="rank-name-pd">ハムりん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
+|8|639|<span class="rank-name-pd">shuma@Tono&#x27;p</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
+|9|626|<span class="rank-name-pd">ゆうきっき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
+|10|583|<span class="rank-name-pd">ピーナッツ君</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
+|11|566|<span class="rank-name-pd">HIROYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
+|12|522|<span class="rank-name-pd">chii</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
+|13|516|<span class="rank-name-pd">ケンちんゆー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
+|14|508|<span class="rank-name-pd">GREENHILL-WATARU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
+|15|475|<span class="rank-name-pd">SHINYAINOUE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
+|16|326|<span class="rank-name-pd">のぶ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

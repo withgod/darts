@@ -23,56 +23,91 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1125|<span class="rank-name-dl">新庄雅浩*超AB&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|2|1054|<span class="rank-name-dl">アライリュウセイ</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|3|1025|<span class="rank-name-dl">もう少し上田</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|3|1025|<span class="rank-name-dl">ゆうじ WAKE</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|5|975|<span class="rank-name-dl">リョウちんBG★RG</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|6|970|<span class="rank-name-dl">ﾏｷｿﾝ【鴉】BG*RG</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|7|961|<span class="rank-name-dl">みるきー</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|8|957|<span class="rank-name-dl">milky</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|8|957|<span class="rank-name-dl">みなと</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|10|955|<span class="rank-name-dl">432</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|11|944|<span class="rank-name-dl">BanGaRanGﾁｬﾗ超Ｔ</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|11|944|<span class="rank-name-dl">荒木　龍人</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|13|941|<span class="rank-name-dl">ﾊﾞﾙｶﾝ300 ｼﾞｴﾝﾄﾞ</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|14|932|<span class="rank-name-dl">320☆みっしー</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|15|900|<span class="rank-name-dl">ちぇるみ☆BR*MR</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|16|885|<span class="rank-name-dl">中島 諒</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|17|881|<span class="rank-name-dl">椎名 大介</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|18|869|<span class="rank-name-dl">アライちゃん</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|19|866|<span class="rank-name-dl">カズキンマン</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|20|842|<span class="rank-name-dl">みるきーせぱ</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|21|835|<span class="rank-name-dl">ぺぷし&quot;BG*RG&quot;</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|22|821|<span class="rank-name-dl">＠ＢＩＧ</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|23|815|<span class="rank-name-dl">ﾁｪｹraba。Lv.99</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|24|774|<span class="rank-name-dl">Airi BG*RG</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|25|767|<span class="rank-name-dl">ぺぷし&quot;BG&#x27;RG&quot;</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|26|710|<span class="rank-name-pd">荒木 龍人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85019?s_seq=85019">6DINER</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|27|702|<span class="rank-name-dl">yupi➳♡</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|28|694|<span class="rank-name-dl">yupi➳♡BG*RG</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|29|684|<span class="rank-name-dl">Airi</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|30|663|<span class="rank-name-pd">(￣∇￣)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85019?s_seq=85019">6DINER</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|31|653|<span class="rank-name-dl">【nasa】moana</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|32|634|<span class="rank-name-dl">鵺</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|33|630|<span class="rank-name-pd">ふみや</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85019?s_seq=85019">6DINER</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|34|606|<span class="rank-name-dl">Ru</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|35|523|<span class="rank-name-pd">守谷のSHO-TIME☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85019?s_seq=85019">6DINER</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|36|509|<span class="rank-name-dl">おしるこ❤️ｺﾘｽ</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|37|492|<span class="rank-name-pd">SHINYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85019?s_seq=85019">6DINER</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|38|491|<span class="rank-name-dl">BanGaRanG のん</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|39|485|<span class="rank-name-dl">りったぁん</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|40|453|<span class="rank-name-pd">0213_6216</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85019?s_seq=85019">6DINER</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|41|445|<span class="rank-name-dl">なぎさ</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|42|443|<span class="rank-name-dl">宇佐美</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|43|439|<span class="rank-name-dl">A-CO BG*RG</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|44|436|<span class="rank-name-dl">りったん</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|45|429|<span class="rank-name-pd">みゆ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85019?s_seq=85019">6DINER</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|46|362|<span class="rank-name-dl">たいちゃソ</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|47|356|<span class="rank-name-dl">BanGaRanG みな</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|48|343|<span class="rank-name-dl">Akari</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|49|333|<span class="rank-name-dl">のんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|50|332|<span class="rank-name-dl">ちーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|1|1159|<span class="rank-name-dl">みなと</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|2|1125|<span class="rank-name-dl">新庄雅浩*超AB&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|3|1054|<span class="rank-name-dl">アライリュウセイ</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|4|1028|<span class="rank-name-dl">リョウちんBG★RG</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|5|1025|<span class="rank-name-dl">もう少し上田</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|5|1025|<span class="rank-name-dl">ゆうじ WAKE</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|7|988|<span class="rank-name-dl">320☆みっしー</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|8|984|<span class="rank-name-dl">みるきー BG*RG</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|9|970|<span class="rank-name-dl">ﾏｷｿﾝ【鴉】BG*RG</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|10|967|<span class="rank-name-dl">milky</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|11|961|<span class="rank-name-dl">みるきー</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|12|960|<span class="rank-name-dl">ぺぷし&quot;BG*RG&quot;</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|13|955|<span class="rank-name-dl">432</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|14|954|<span class="rank-name-dl">;Yuuki;</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|15|952|<span class="rank-name-dl">milky BG*RG</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|16|945|<span class="rank-name-dl">中島 諒</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|17|944|<span class="rank-name-dl">BanGaRanGﾁｬﾗ超Ｔ</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|17|944|<span class="rank-name-dl">荒木　龍人</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|19|941|<span class="rank-name-dl">ﾊﾞﾙｶﾝ300 ｼﾞｴﾝﾄﾞ</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|20|938|<span class="rank-name-dl">ちよこれゐと</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|21|932|<span class="rank-name-dl">冨山宜彦ULTIMA</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|22|925|<span class="rank-name-dl">りんつかBG*RG</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|23|917|<span class="rank-name-dl">;Yuuki; BG*RG</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|24|913|<span class="rank-name-dl">tommy</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|25|912|<span class="rank-name-dl">ツカジ</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|26|905|<span class="rank-name-dl">おだい</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|26|905|<span class="rank-name-dl">ゆーき</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|28|900|<span class="rank-name-dl">ちぇるみ☆BR*MR</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|29|892|<span class="rank-name-dl">ｼﾞｬｲｱﾝ(ю:】</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|30|889|<span class="rank-name-dl">小林 一貴</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|31|887|<span class="rank-name-dl">ゆーき　BG*RG</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|32|886|<span class="rank-name-dl">METEOR8/23〜25</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|33|881|<span class="rank-name-dl">椎名 大介</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|34|869|<span class="rank-name-dl">アライちゃん</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|35|866|<span class="rank-name-dl">カズキンマン</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|36|861|<span class="rank-name-dl">そや</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|37|842|<span class="rank-name-dl">みるきーせぱ</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|38|835|<span class="rank-name-dl">ヨッシー☆BG*RG</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|39|821|<span class="rank-name-dl">＠ＢＩＧ</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|40|819|<span class="rank-name-dl">yupi➳♡BG*RG</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|41|815|<span class="rank-name-dl">ﾁｪｹraba。Lv.99</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|42|809|<span class="rank-name-dl">Airi BG*RG</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|43|767|<span class="rank-name-dl">ぺぷし&quot;BG&#x27;RG&quot;</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|44|711|<span class="rank-name-dl">*βGRG*TANI</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|45|710|<span class="rank-name-pd">荒木 龍人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85019?s_seq=85019">6DINER</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|46|702|<span class="rank-name-dl">yupi➳♡</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|47|684|<span class="rank-name-dl">Airi</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|48|666|<span class="rank-name-dl">Kaki</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|49|663|<span class="rank-name-pd">(￣∇￣)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85019?s_seq=85019">6DINER</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|50|653|<span class="rank-name-dl">【nasa】moana</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|51|637|<span class="rank-name-dl">Ru BG*RG</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|52|634|<span class="rank-name-dl">鵺</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|53|630|<span class="rank-name-pd">ふみや</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85019?s_seq=85019">6DINER</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|54|606|<span class="rank-name-dl">Ru</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|55|572|<span class="rank-name-dl">Я</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|56|557|<span class="rank-name-dl">Akari</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|57|555|<span class="rank-name-dl">ぺぷし</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|58|549|<span class="rank-name-pd">たっさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85019?s_seq=85019">6DINER</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|58|549|<span class="rank-name-dl">りん</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|60|540|<span class="rank-name-dl">mina BG*RG</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|61|539|<span class="rank-name-dl">ℳ</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|62|523|<span class="rank-name-dl">HIDE</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|62|523|<span class="rank-name-pd">守谷のSHO-TIME☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85019?s_seq=85019">6DINER</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|64|509|<span class="rank-name-dl">おしるこ❤️ｺﾘｽ</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|65|498|<span class="rank-name-dl">たいちゃソ</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|66|492|<span class="rank-name-pd">SHINYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85019?s_seq=85019">6DINER</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|67|491|<span class="rank-name-dl">BanGaRanG のん</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|68|488|<span class="rank-name-dl">りったん</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|69|485|<span class="rank-name-dl">りったぁん</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|70|479|<span class="rank-name-dl">ユカリ城BG*RG</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|71|477|<span class="rank-name-dl">urara</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|72|462|<span class="rank-name-pd">6diner_dai</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85019?s_seq=85019">6DINER</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|73|459|<span class="rank-name-dl">A-CO BG*RG</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|74|453|<span class="rank-name-pd">0213_6216</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85019?s_seq=85019">6DINER</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|74|453|<span class="rank-name-dl">♯鯖男</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|76|445|<span class="rank-name-dl">なぎさ</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|77|443|<span class="rank-name-dl">宇佐美</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|78|434|<span class="rank-name-dl">POND&#x27;S【零】</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|78|434|<span class="rank-name-dl">のんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|80|429|<span class="rank-name-pd">みゆ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85019?s_seq=85019">6DINER</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|81|418|<span class="rank-name-dl">るる坊</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|82|409|<span class="rank-name-dl">shunk@</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|83|356|<span class="rank-name-dl">BanGaRanG みな</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|84|332|<span class="rank-name-dl">ちーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|85|266|<span class="rank-name-pd">TOYO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85019?s_seq=85019">6DINER</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -82,49 +117,81 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1125|<span class="rank-name-dl">新庄雅浩*超AB&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|2|1054|<span class="rank-name-dl">アライリュウセイ</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|3|1025|<span class="rank-name-dl">もう少し上田</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|3|1025|<span class="rank-name-dl">ゆうじ WAKE</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|5|975|<span class="rank-name-dl">リョウちんBG★RG</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|6|970|<span class="rank-name-dl">ﾏｷｿﾝ【鴉】BG*RG</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|7|961|<span class="rank-name-dl">みるきー</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|8|957|<span class="rank-name-dl">milky</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|8|957|<span class="rank-name-dl">みなと</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|10|955|<span class="rank-name-dl">432</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|11|944|<span class="rank-name-dl">BanGaRanGﾁｬﾗ超Ｔ</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|11|944|<span class="rank-name-dl">荒木　龍人</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|13|941|<span class="rank-name-dl">ﾊﾞﾙｶﾝ300 ｼﾞｴﾝﾄﾞ</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|14|932|<span class="rank-name-dl">320☆みっしー</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|15|900|<span class="rank-name-dl">ちぇるみ☆BR*MR</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|16|885|<span class="rank-name-dl">中島 諒</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|17|881|<span class="rank-name-dl">椎名 大介</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|18|869|<span class="rank-name-dl">アライちゃん</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|19|866|<span class="rank-name-dl">カズキンマン</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|20|842|<span class="rank-name-dl">みるきーせぱ</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|21|835|<span class="rank-name-dl">ぺぷし&quot;BG*RG&quot;</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|22|821|<span class="rank-name-dl">＠ＢＩＧ</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|23|815|<span class="rank-name-dl">ﾁｪｹraba。Lv.99</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|24|774|<span class="rank-name-dl">Airi BG*RG</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|25|767|<span class="rank-name-dl">ぺぷし&quot;BG&#x27;RG&quot;</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|26|702|<span class="rank-name-dl">yupi➳♡</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|27|694|<span class="rank-name-dl">yupi➳♡BG*RG</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|28|684|<span class="rank-name-dl">Airi</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|29|653|<span class="rank-name-dl">【nasa】moana</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|30|634|<span class="rank-name-dl">鵺</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|31|606|<span class="rank-name-dl">Ru</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|32|509|<span class="rank-name-dl">おしるこ❤️ｺﾘｽ</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|33|491|<span class="rank-name-dl">BanGaRanG のん</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|34|485|<span class="rank-name-dl">りったぁん</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|35|445|<span class="rank-name-dl">なぎさ</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|36|443|<span class="rank-name-dl">宇佐美</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|37|439|<span class="rank-name-dl">A-CO BG*RG</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|38|436|<span class="rank-name-dl">りったん</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|39|362|<span class="rank-name-dl">たいちゃソ</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|40|356|<span class="rank-name-dl">BanGaRanG みな</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|41|343|<span class="rank-name-dl">Akari</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|42|333|<span class="rank-name-dl">のんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|43|332|<span class="rank-name-dl">ちーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|1|1159|<span class="rank-name-dl">みなと</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|2|1125|<span class="rank-name-dl">新庄雅浩*超AB&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|3|1054|<span class="rank-name-dl">アライリュウセイ</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|4|1028|<span class="rank-name-dl">リョウちんBG★RG</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|5|1025|<span class="rank-name-dl">もう少し上田</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|5|1025|<span class="rank-name-dl">ゆうじ WAKE</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|7|988|<span class="rank-name-dl">320☆みっしー</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|8|984|<span class="rank-name-dl">みるきー BG*RG</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|9|970|<span class="rank-name-dl">ﾏｷｿﾝ【鴉】BG*RG</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|10|967|<span class="rank-name-dl">milky</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|11|961|<span class="rank-name-dl">みるきー</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|12|960|<span class="rank-name-dl">ぺぷし&quot;BG*RG&quot;</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|13|955|<span class="rank-name-dl">432</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|14|954|<span class="rank-name-dl">;Yuuki;</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|15|952|<span class="rank-name-dl">milky BG*RG</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|16|945|<span class="rank-name-dl">中島 諒</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|17|944|<span class="rank-name-dl">BanGaRanGﾁｬﾗ超Ｔ</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|17|944|<span class="rank-name-dl">荒木　龍人</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|19|941|<span class="rank-name-dl">ﾊﾞﾙｶﾝ300 ｼﾞｴﾝﾄﾞ</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|20|938|<span class="rank-name-dl">ちよこれゐと</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|21|932|<span class="rank-name-dl">冨山宜彦ULTIMA</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|22|925|<span class="rank-name-dl">りんつかBG*RG</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|23|917|<span class="rank-name-dl">;Yuuki; BG*RG</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|24|913|<span class="rank-name-dl">tommy</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|25|912|<span class="rank-name-dl">ツカジ</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|26|905|<span class="rank-name-dl">おだい</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|26|905|<span class="rank-name-dl">ゆーき</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|28|900|<span class="rank-name-dl">ちぇるみ☆BR*MR</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|29|892|<span class="rank-name-dl">ｼﾞｬｲｱﾝ(ю:】</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|30|889|<span class="rank-name-dl">小林 一貴</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|31|887|<span class="rank-name-dl">ゆーき　BG*RG</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|32|886|<span class="rank-name-dl">METEOR8/23〜25</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|33|881|<span class="rank-name-dl">椎名 大介</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|34|869|<span class="rank-name-dl">アライちゃん</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|35|866|<span class="rank-name-dl">カズキンマン</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|36|861|<span class="rank-name-dl">そや</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|37|842|<span class="rank-name-dl">みるきーせぱ</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|38|835|<span class="rank-name-dl">ヨッシー☆BG*RG</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|39|821|<span class="rank-name-dl">＠ＢＩＧ</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|40|819|<span class="rank-name-dl">yupi➳♡BG*RG</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|41|815|<span class="rank-name-dl">ﾁｪｹraba。Lv.99</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|42|809|<span class="rank-name-dl">Airi BG*RG</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|43|767|<span class="rank-name-dl">ぺぷし&quot;BG&#x27;RG&quot;</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|44|711|<span class="rank-name-dl">*βGRG*TANI</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|45|702|<span class="rank-name-dl">yupi➳♡</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|46|684|<span class="rank-name-dl">Airi</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|47|666|<span class="rank-name-dl">Kaki</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|48|653|<span class="rank-name-dl">【nasa】moana</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|49|637|<span class="rank-name-dl">Ru BG*RG</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|50|634|<span class="rank-name-dl">鵺</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|51|606|<span class="rank-name-dl">Ru</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|52|572|<span class="rank-name-dl">Я</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|53|557|<span class="rank-name-dl">Akari</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|54|555|<span class="rank-name-dl">ぺぷし</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|55|549|<span class="rank-name-dl">りん</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|56|540|<span class="rank-name-dl">mina BG*RG</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|57|539|<span class="rank-name-dl">ℳ</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|58|523|<span class="rank-name-dl">HIDE</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|59|509|<span class="rank-name-dl">おしるこ❤️ｺﾘｽ</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|60|498|<span class="rank-name-dl">たいちゃソ</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|61|491|<span class="rank-name-dl">BanGaRanG のん</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|62|488|<span class="rank-name-dl">りったん</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|63|485|<span class="rank-name-dl">りったぁん</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|64|479|<span class="rank-name-dl">ユカリ城BG*RG</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|65|477|<span class="rank-name-dl">urara</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|66|459|<span class="rank-name-dl">A-CO BG*RG</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|67|453|<span class="rank-name-dl">♯鯖男</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|68|445|<span class="rank-name-dl">なぎさ</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|69|443|<span class="rank-name-dl">宇佐美</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|70|434|<span class="rank-name-dl">POND&#x27;S【零】</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|70|434|<span class="rank-name-dl">のんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|72|418|<span class="rank-name-dl">るる坊</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|73|409|<span class="rank-name-dl">shunk@</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|74|356|<span class="rank-name-dl">BanGaRanG みな</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|75|332|<span class="rank-name-dl">ちーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/bb2be7d0030bd6d70d9b047a20a7ba1e">バンガラング　守谷店</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
 
 
 #### PHOENIXDARTS TOP 100
@@ -137,10 +204,13 @@ ___
 |1|710|<span class="rank-name-pd">荒木 龍人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85019?s_seq=85019">6DINER</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
 |2|663|<span class="rank-name-pd">(￣∇￣)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85019?s_seq=85019">6DINER</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
 |3|630|<span class="rank-name-pd">ふみや</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85019?s_seq=85019">6DINER</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|4|523|<span class="rank-name-pd">守谷のSHO-TIME☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85019?s_seq=85019">6DINER</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|5|492|<span class="rank-name-pd">SHINYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85019?s_seq=85019">6DINER</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|6|453|<span class="rank-name-pd">0213_6216</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85019?s_seq=85019">6DINER</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
-|7|429|<span class="rank-name-pd">みゆ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85019?s_seq=85019">6DINER</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|4|549|<span class="rank-name-pd">たっさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85019?s_seq=85019">6DINER</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|5|523|<span class="rank-name-pd">守谷のSHO-TIME☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85019?s_seq=85019">6DINER</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|6|492|<span class="rank-name-pd">SHINYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85019?s_seq=85019">6DINER</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|7|462|<span class="rank-name-pd">6diner_dai</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85019?s_seq=85019">6DINER</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|8|453|<span class="rank-name-pd">0213_6216</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85019?s_seq=85019">6DINER</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|9|429|<span class="rank-name-pd">みゆ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85019?s_seq=85019">6DINER</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
+|10|266|<span class="rank-name-pd">TOYO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85019?s_seq=85019">6DINER</a>|<a href="/darts/rank/茨城県/守谷市">茨城県守谷市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

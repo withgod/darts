@@ -24,105 +24,105 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|1073|<span class="rank-name-pd"><span class="pro-icon-pd"></span>小川 唯</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86162?s_seq=86162">BAR PLAY BACK</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|2|1032|<span class="rank-name-pd">楽天ユーザー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|3|1009|<span class="rank-name-pd">0001</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|4|1008|<span class="rank-name-dl">小部 紘弥</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|5|988|<span class="rank-name-pd">津留 悠太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|6|966|<span class="rank-name-pd">薗田 善孝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86162?s_seq=86162">BAR PLAY BACK</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|7|964|<span class="rank-name-pd">Daisuke【MJ３兄弟...長男】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|8|959|<span class="rank-name-dl">打上花火@幸</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|9|955|<span class="rank-name-pd">薗田 善孝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|10|941|<span class="rank-name-dl">ブタ</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|11|937|<span class="rank-name-pd">シルビア.inc</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|12|930|<span class="rank-name-pd">Daisuke【MJ３兄弟...長男】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|12|930|<span class="rank-name-pd">SUKOYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|14|923|<span class="rank-name-pd">☆まるみパンダ☆★TWO FACE☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87646?s_seq=87646">BAR Saul</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|15|920|<span class="rank-name-dl">24</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|16|914|<span class="rank-name-pd">けんた！＠くる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86162?s_seq=86162">BAR PLAY BACK</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|17|913|<span class="rank-name-dl">ダイスケ</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|18|912|<span class="rank-name-pd">ウッディさんですよー(o^^o)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|19|911|<span class="rank-name-pd">まめさんです。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|20|909|<span class="rank-name-pd">DemiTaka【D-BULL】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|21|907|<span class="rank-name-pd">りょう-Cafe&amp;Bar B1-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8546?s_seq=8546">B1</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|22|898|<span class="rank-name-pd">宮城 惇</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|23|897|<span class="rank-name-pd"><span class="pro-icon-pd"></span>青山 光二</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|24|895|<span class="rank-name-dl">sasa</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|25|888|<span class="rank-name-pd">☆まるみパンダ☆★TWO FACE☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|26|886|<span class="rank-name-pd"><span class="pro-icon-pd"></span>青山 光二</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|27|883|<span class="rank-name-pd">まさ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|28|874|<span class="rank-name-pd">カビゴン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|29|872|<span class="rank-name-pd">食品衛生管理者</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85008?s_seq=85008">BAR DESTINO</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|30|857|<span class="rank-name-pd">ぱんさー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|31|854|<span class="rank-name-pd"><span class="pro-icon-pd"></span>小川 唯</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85008?s_seq=85008">BAR DESTINO</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|32|853|<span class="rank-name-pd">津留 悠太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|33|849|<span class="rank-name-dl">進撃の小人</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|34|845|<span class="rank-name-pd">CRow</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|34|845|<span class="rank-name-pd">☆打上花火</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|36|843|<span class="rank-name-pd"><span class="pro-icon-pd"></span>小川 唯</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87646?s_seq=87646">BAR Saul</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|37|839|<span class="rank-name-pd"><span class="pro-icon-pd"></span>福重 敬吾</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|38|836|<span class="rank-name-pd">✵s.OOR∞</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|38|836|<span class="rank-name-pd">優弥</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|40|835|<span class="rank-name-pd">DemiTaka【D-BULL】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|41|834|<span class="rank-name-pd">りょう-Cafe&amp;Bar B1-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|42|831|<span class="rank-name-pd">神蔵　剛</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|43|828|<span class="rank-name-pd">ウッディさんかもねー(・・?)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|44|827|<span class="rank-name-dl">シルビア@hana</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|45|823|<span class="rank-name-pd">☆まるみパンダ☆★TWO FACE☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|46|820|<span class="rank-name-dl">さこやん</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|47|819|<span class="rank-name-pd">まっちゃん【MJ3兄弟....三男】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|48|817|<span class="rank-name-pd">優弥（万華鏡花火）</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|49|815|<span class="rank-name-pd">seiya@D&amp;C</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85823?s_seq=85823">D&C</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|50|810|<span class="rank-name-pd">翔</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|51|808|<span class="rank-name-pd">ぽっぷちゅーぶ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|52|800|<span class="rank-name-pd">こまめ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|53|799|<span class="rank-name-dl">Takami---</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|54|798|<span class="rank-name-pd">ｙｕｙａ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87646?s_seq=87646">BAR Saul</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|55|797|<span class="rank-name-pd">宮城 惇</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86162?s_seq=86162">BAR PLAY BACK</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|56|795|<span class="rank-name-pd">適　当次郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56328?s_seq=56328">BAR OKROCK</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|57|784|<span class="rank-name-dl">小林</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|58|782|<span class="rank-name-pd">RYO-TA.D&amp;C</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85823?s_seq=85823">D&C</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|59|779|<span class="rank-name-pd">ibuki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|60|776|<span class="rank-name-pd">よっぺい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|60|776|<span class="rank-name-pd">レジェンド</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87155?s_seq=87155">THEA</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|62|774|<span class="rank-name-pd">76**</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|63|772|<span class="rank-name-dl">あつふみ</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|64|769|<span class="rank-name-pd">seiya@D&amp;C</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8546?s_seq=8546">B1</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|65|763|<span class="rank-name-pd">Co2</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|66|762|<span class="rank-name-pd">ウッディさんですかー？⊙⁠.⁠☉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|67|761|<span class="rank-name-pd">DemiTaka【D-BULL】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86162?s_seq=86162">BAR PLAY BACK</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|68|760|<span class="rank-name-dl">(光)‼️</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|68|760|<span class="rank-name-pd">しゅんしゅん。D-BULL</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|70|759|<span class="rank-name-pd">SR</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70321?s_seq=70321">RANDOLE</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|70|759|<span class="rank-name-pd">エネル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|70|759|<span class="rank-name-dl">ダイフク</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|73|758|<span class="rank-name-dl">NO NAME 8768</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|74|757|<span class="rank-name-pd">エネル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86162?s_seq=86162">BAR PLAY BACK</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|75|755|<span class="rank-name-pd">コイキング</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|76|752|<span class="rank-name-dl">敵　当次郎</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|77|746|<span class="rank-name-dl">R-k</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|78|744|<span class="rank-name-pd">翔太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56328?s_seq=56328">BAR OKROCK</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|79|743|<span class="rank-name-pd">幸 @打上花火</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|80|741|<span class="rank-name-dl">ゆーだい</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|81|730|<span class="rank-name-pd">F.MAKOTO.MDC</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|81|730|<span class="rank-name-pd">エネル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|83|728|<span class="rank-name-pd">KOHSHIRO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|83|728|<span class="rank-name-dl">S@Remu</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|83|728|<span class="rank-name-pd">優</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|86|726|<span class="rank-name-dl">JUNYA</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|86|726|<span class="rank-name-pd">Yuchan04</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|86|726|<span class="rank-name-pd">たいじゅ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|89|725|<span class="rank-name-pd">たくま(・×・)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85008?s_seq=85008">BAR DESTINO</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|89|725|<span class="rank-name-pd">適　当次郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|91|724|<span class="rank-name-pd">ぱんさー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|91|724|<span class="rank-name-pd">りょう-Cafe&amp;Bar B1-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|93|723|<span class="rank-name-pd">おさるのジョージ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|94|721|<span class="rank-name-pd">ゼニガメ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10691?s_seq=10691">Bar J</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|94|721|<span class="rank-name-pd">ハッサムex</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|94|721|<span class="rank-name-pd">柿木　洋</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86162?s_seq=86162">BAR PLAY BACK</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|97|720|<span class="rank-name-pd">MASAMI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|98|718|<span class="rank-name-pd">KAMI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85823?s_seq=85823">D&C</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|99|711|<span class="rank-name-pd">優弥</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87646?s_seq=87646">BAR Saul</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|100|710|<span class="rank-name-dl">虎BULL☠️ZONO</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|2|1072|<span class="rank-name-dl">FUTABA28</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|3|1063|<span class="rank-name-dl">宮城 惇</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|4|1053|<span class="rank-name-pd">TAKE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|5|1043|<span class="rank-name-dl">さこやん</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|6|1032|<span class="rank-name-pd">楽天ユーザー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|7|1029|<span class="rank-name-pd">平塚 拓郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86162?s_seq=86162">BAR PLAY BACK</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|8|1025|<span class="rank-name-dl">seiya@D&amp;C</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|9|1011|<span class="rank-name-pd">宮城 惇</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|10|1009|<span class="rank-name-pd">0001</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|11|1008|<span class="rank-name-dl">小部 紘弥</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|12|988|<span class="rank-name-pd">津留 悠太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|13|966|<span class="rank-name-pd">TATSUYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|13|966|<span class="rank-name-pd">薗田 善孝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86162?s_seq=86162">BAR PLAY BACK</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|15|964|<span class="rank-name-pd">Daisuke【MJ３兄弟...長男】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|16|961|<span class="rank-name-pd">ミサキ@ポンコツC</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|17|959|<span class="rank-name-dl">打上花火@幸</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|18|955|<span class="rank-name-pd">薗田 善孝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|19|945|<span class="rank-name-pd">シルビア.inc</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|20|941|<span class="rank-name-dl">ブタ</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|21|937|<span class="rank-name-pd">まめちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|22|930|<span class="rank-name-pd">Daisuke【MJ３兄弟...長男】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|22|930|<span class="rank-name-pd">SUKOYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|24|923|<span class="rank-name-pd">☆まるみパンダ☆★TWO FACE☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87646?s_seq=87646">BAR Saul</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|25|921|<span class="rank-name-dl">DAIKI</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|26|920|<span class="rank-name-dl">24</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|27|916|<span class="rank-name-dl">進撃の小人</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|28|914|<span class="rank-name-pd">けんた！＠くる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86162?s_seq=86162">BAR PLAY BACK</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|29|913|<span class="rank-name-dl">ダイスケ</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|30|912|<span class="rank-name-pd">Kou@打上花火</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|30|912|<span class="rank-name-pd">ウッディさんですよー(o^^o)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|30|912|<span class="rank-name-pd"><span class="pro-icon-pd"></span>柿木 唯</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86162?s_seq=86162">BAR PLAY BACK</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|33|911|<span class="rank-name-pd">まめさんです。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|34|910|<span class="rank-name-pd">あやたか</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|35|909|<span class="rank-name-pd">DemiTaka【D-BULL】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|36|907|<span class="rank-name-pd">りょう-Cafe&amp;Bar B1-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8546?s_seq=8546">B1</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|37|906|<span class="rank-name-dl">D-BULL☆☆★</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|38|905|<span class="rank-name-pd">seiya@D&amp;C</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85823?s_seq=85823">D&C</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|39|901|<span class="rank-name-pd">ポニョ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|40|900|<span class="rank-name-dl">るん</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|41|897|<span class="rank-name-pd"><span class="pro-icon-pd"></span>青山 光二</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|42|896|<span class="rank-name-pd">柳澤 怜央</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|43|895|<span class="rank-name-dl">sasa</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|44|890|<span class="rank-name-pd"><span class="pro-icon-pd"></span>山元 瑛司</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|45|888|<span class="rank-name-pd">☆まるみパンダ☆★TWO FACE☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|45|888|<span class="rank-name-dl">ゆーさく</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|47|886|<span class="rank-name-pd"><span class="pro-icon-pd"></span>青山 光二</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|48|883|<span class="rank-name-pd">まさ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|49|878|<span class="rank-name-pd">KaZuKi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|50|876|<span class="rank-name-pd">神蔵　剛</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|51|875|<span class="rank-name-dl">すぎゆー</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|52|874|<span class="rank-name-pd">カビゴン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|53|872|<span class="rank-name-pd">RYO-TA.D&amp;C</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85823?s_seq=85823">D&C</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|53|872|<span class="rank-name-pd">食品衛生管理者</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85008?s_seq=85008">BAR DESTINO</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|55|868|<span class="rank-name-pd">西 哲平</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|56|867|<span class="rank-name-pd">ミサキ@ポンコツC</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86162?s_seq=86162">BAR PLAY BACK</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|57|864|<span class="rank-name-pd">薗田 善孝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|58|861|<span class="rank-name-pd">KH</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|59|860|<span class="rank-name-pd">rintarow.617</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86162?s_seq=86162">BAR PLAY BACK</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|60|859|<span class="rank-name-pd">タイソン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|61|858|<span class="rank-name-dl">よしも</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|62|857|<span class="rank-name-pd">ぱんさー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|63|854|<span class="rank-name-pd"><span class="pro-icon-pd"></span>小川 唯</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85008?s_seq=85008">BAR DESTINO</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|64|853|<span class="rank-name-pd">津留 悠太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|65|852|<span class="rank-name-pd">SR</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70321?s_seq=70321">RANDOLE</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|66|851|<span class="rank-name-pd">TATSUYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|67|850|<span class="rank-name-pd">みっちー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|68|848|<span class="rank-name-dl">てててててててて</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|68|848|<span class="rank-name-pd">竹下 翔太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85008?s_seq=85008">BAR DESTINO</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|70|845|<span class="rank-name-pd">CRow</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|70|845|<span class="rank-name-pd">seiya@D&amp;C</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86162?s_seq=86162">BAR PLAY BACK</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|70|845|<span class="rank-name-dl">yu-Ri</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|70|845|<span class="rank-name-pd">☆打上花火</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|74|843|<span class="rank-name-pd"><span class="pro-icon-pd"></span>小川 唯</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87646?s_seq=87646">BAR Saul</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|75|842|<span class="rank-name-dl">HATO</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|75|842|<span class="rank-name-pd">☆打上花火</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87155?s_seq=87155">THEA</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|77|841|<span class="rank-name-pd">神蔵　剛</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86162?s_seq=86162">BAR PLAY BACK</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|78|839|<span class="rank-name-pd">TAKE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|78|839|<span class="rank-name-pd">seiya@D&amp;C</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|78|839|<span class="rank-name-pd"><span class="pro-icon-pd"></span>福重 敬吾</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|81|836|<span class="rank-name-pd">✵s.OOR∞</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|81|836|<span class="rank-name-pd">優弥</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|83|835|<span class="rank-name-pd">DemiTaka【D-BULL】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|83|835|<span class="rank-name-dl">[一]</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|83|835|<span class="rank-name-dl">なお</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|83|835|<span class="rank-name-dl">幸@打上花火</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|87|834|<span class="rank-name-pd">りょう-Cafe&amp;Bar B1-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|88|833|<span class="rank-name-dl">カボクロ</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|89|830|<span class="rank-name-pd">BURI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|90|829|<span class="rank-name-pd">NAOYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56328?s_seq=56328">BAR OKROCK</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|90|829|<span class="rank-name-pd">TATSUYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85823?s_seq=85823">D&C</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|92|828|<span class="rank-name-dl">Darurun</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|92|828|<span class="rank-name-pd">Ha L K ing</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|92|828|<span class="rank-name-pd">TAKE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85823?s_seq=85823">D&C</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|92|828|<span class="rank-name-pd">ウッディさんかもねー(・・?)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|96|827|<span class="rank-name-pd">rintarow.617</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|96|827|<span class="rank-name-dl">シルビア@hana</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|96|827|<span class="rank-name-dl">無名</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|99|825|<span class="rank-name-pd">ミサキ@ポンコツC</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|100|824|<span class="rank-name-pd">ポポポ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -132,47 +132,95 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1008|<span class="rank-name-dl">小部 紘弥</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|2|959|<span class="rank-name-dl">打上花火@幸</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|3|941|<span class="rank-name-dl">ブタ</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|4|920|<span class="rank-name-dl">24</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|5|913|<span class="rank-name-dl">ダイスケ</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|6|895|<span class="rank-name-dl">sasa</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|7|849|<span class="rank-name-dl">進撃の小人</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|8|827|<span class="rank-name-dl">シルビア@hana</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|9|820|<span class="rank-name-dl">さこやん</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|10|799|<span class="rank-name-dl">Takami---</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|11|784|<span class="rank-name-dl">小林</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|12|772|<span class="rank-name-dl">あつふみ</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|13|760|<span class="rank-name-dl">(光)‼️</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|14|759|<span class="rank-name-dl">ダイフク</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|15|758|<span class="rank-name-dl">NO NAME 8768</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|16|752|<span class="rank-name-dl">敵　当次郎</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|17|746|<span class="rank-name-dl">R-k</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|18|741|<span class="rank-name-dl">ゆーだい</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|19|728|<span class="rank-name-dl">S@Remu</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|20|726|<span class="rank-name-dl">JUNYA</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|21|710|<span class="rank-name-dl">虎BULL☠️ZONO</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|22|708|<span class="rank-name-dl">kenshin</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|23|701|<span class="rank-name-dl">ヘボ</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|24|696|<span class="rank-name-dl">☆打上花火☆</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|25|695|<span class="rank-name-dl">Shadow</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|26|692|<span class="rank-name-dl">Takuto</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|27|691|<span class="rank-name-dl">yukito</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|28|674|<span class="rank-name-dl">せごどん</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|29|666|<span class="rank-name-dl">そら</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|30|665|<span class="rank-name-dl">リュウ</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|31|607|<span class="rank-name-dl">たけのこ</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|32|564|<span class="rank-name-dl">RYOHGA11</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|33|546|<span class="rank-name-dl">あごだし</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|33|546|<span class="rank-name-dl">ぷちょん</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|35|535|<span class="rank-name-dl">宮野 真優</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|36|517|<span class="rank-name-dl">千嘉</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|37|505|<span class="rank-name-dl">Ri-★</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|38|466|<span class="rank-name-dl">Rami</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|39|401|<span class="rank-name-dl">chinatsu</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|40|311|<span class="rank-name-dl">UACHAMA</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|41|223|<span class="rank-name-dl">ともえもん</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|1|1072|<span class="rank-name-dl">FUTABA28</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|2|1063|<span class="rank-name-dl">宮城 惇</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|3|1043|<span class="rank-name-dl">さこやん</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|4|1025|<span class="rank-name-dl">seiya@D&amp;C</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|5|1008|<span class="rank-name-dl">小部 紘弥</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|6|959|<span class="rank-name-dl">打上花火@幸</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|7|941|<span class="rank-name-dl">ブタ</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|8|921|<span class="rank-name-dl">DAIKI</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|9|920|<span class="rank-name-dl">24</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|10|916|<span class="rank-name-dl">進撃の小人</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|11|913|<span class="rank-name-dl">ダイスケ</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|12|906|<span class="rank-name-dl">D-BULL☆☆★</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|13|900|<span class="rank-name-dl">るん</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|14|895|<span class="rank-name-dl">sasa</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|15|888|<span class="rank-name-dl">ゆーさく</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|16|875|<span class="rank-name-dl">すぎゆー</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|17|872|<span class="rank-name-dl">楽天ユーザー</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|18|858|<span class="rank-name-dl">よしも</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|19|848|<span class="rank-name-dl">てててててててて</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|20|845|<span class="rank-name-dl">yu-Ri</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|21|842|<span class="rank-name-dl">HATO</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|22|835|<span class="rank-name-dl">[一]</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|22|835|<span class="rank-name-dl">なお</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|22|835|<span class="rank-name-dl">幸@打上花火</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|25|833|<span class="rank-name-dl">カボクロ</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|26|828|<span class="rank-name-dl">Darurun</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|27|827|<span class="rank-name-dl">シルビア@hana</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|27|827|<span class="rank-name-dl">無名</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|29|823|<span class="rank-name-dl">☆YuuRi</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|30|821|<span class="rank-name-dl">敵　当次郎</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|31|817|<span class="rank-name-dl">い</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|32|811|<span class="rank-name-dl">ⅱOⅱ</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|33|799|<span class="rank-name-dl">Takami---</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|34|793|<span class="rank-name-dl">NO NAME 6950</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|35|784|<span class="rank-name-dl">小林</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|36|773|<span class="rank-name-dl">tokiya</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|37|772|<span class="rank-name-dl">あつふみ</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|38|767|<span class="rank-name-dl">こまつ</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|39|760|<span class="rank-name-dl">(光)‼️</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|40|759|<span class="rank-name-dl">ダイフク</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|41|758|<span class="rank-name-dl">NO NAME 8768</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|42|751|<span class="rank-name-dl">ぱんさー</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|42|751|<span class="rank-name-dl">ﾏｷｼﾏﾑｻﾞあっ君</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|44|746|<span class="rank-name-dl">R-k</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|45|741|<span class="rank-name-dl">ゆーだい</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|46|734|<span class="rank-name-dl">おちゅくん</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|47|732|<span class="rank-name-dl">kabo82</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|48|728|<span class="rank-name-dl">S@Remu</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|49|726|<span class="rank-name-dl">JUNYA</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|50|710|<span class="rank-name-dl">虎BULL☠️ZONO</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|51|708|<span class="rank-name-dl">kenshin</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|52|701|<span class="rank-name-dl">ヘボ</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|53|699|<span class="rank-name-dl">NO NAME 6904</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|54|696|<span class="rank-name-dl">☆打上花火☆</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|55|695|<span class="rank-name-dl">Shadow</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|56|692|<span class="rank-name-dl">Takuto</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|57|691|<span class="rank-name-dl">yukito</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|58|674|<span class="rank-name-dl">せごどん</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|59|666|<span class="rank-name-dl">そら</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|60|665|<span class="rank-name-dl">リュウ</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|61|624|<span class="rank-name-dl">natsumi</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|62|611|<span class="rank-name-dl">あごだし</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|63|607|<span class="rank-name-dl">たけのこ</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|64|578|<span class="rank-name-dl">のあ</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|65|564|<span class="rank-name-dl">RYOHGA11</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|66|546|<span class="rank-name-dl">ぷちょん</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|67|536|<span class="rank-name-dl">NO NAME 1032</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|68|535|<span class="rank-name-dl">宮野 真優</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|69|531|<span class="rank-name-dl">Ayaho</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|70|527|<span class="rank-name-dl">NO NAME 3846</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|70|527|<span class="rank-name-dl">ramda</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|72|520|<span class="rank-name-dl">めだか</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|73|517|<span class="rank-name-dl">UBUMI</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|73|517|<span class="rank-name-dl">千嘉</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|75|507|<span class="rank-name-dl">UACHAMA</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|76|506|<span class="rank-name-dl">NO NAME 6678</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|77|505|<span class="rank-name-dl">Ri-★</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|78|466|<span class="rank-name-dl">Rami</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|79|460|<span class="rank-name-dl">みー。</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|80|417|<span class="rank-name-dl">倖歌</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|81|405|<span class="rank-name-dl">めいや</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|82|401|<span class="rank-name-dl">chinatsu</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|83|400|<span class="rank-name-dl">ぽよ</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|84|397|<span class="rank-name-dl">なおき</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|85|381|<span class="rank-name-dl">こうとく</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|86|350|<span class="rank-name-dl">ぷぅ</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|87|309|<span class="rank-name-dl">るくたろ</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|88|279|<span class="rank-name-dl">AYU</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|89|223|<span class="rank-name-dl">ともえもん</span>|<a href="https://search.dartslive.com/jp/shop/ce8fa21d120a91eab21333aee1bd51e4">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
 
 
 #### PHOENIXDARTS TOP 100
@@ -183,105 +231,105 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|1073|<span class="rank-name-pd"><span class="pro-icon-pd"></span>小川 唯</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86162?s_seq=86162">BAR PLAY BACK</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|2|1032|<span class="rank-name-pd">楽天ユーザー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|3|1009|<span class="rank-name-pd">0001</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|4|988|<span class="rank-name-pd">津留 悠太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|5|966|<span class="rank-name-pd">薗田 善孝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86162?s_seq=86162">BAR PLAY BACK</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|6|964|<span class="rank-name-pd">Daisuke【MJ３兄弟...長男】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|7|955|<span class="rank-name-pd">薗田 善孝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|8|937|<span class="rank-name-pd">シルビア.inc</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|9|930|<span class="rank-name-pd">Daisuke【MJ３兄弟...長男】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|9|930|<span class="rank-name-pd">SUKOYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|11|923|<span class="rank-name-pd">☆まるみパンダ☆★TWO FACE☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87646?s_seq=87646">BAR Saul</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|12|914|<span class="rank-name-pd">けんた！＠くる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86162?s_seq=86162">BAR PLAY BACK</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|13|912|<span class="rank-name-pd">ウッディさんですよー(o^^o)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|14|911|<span class="rank-name-pd">まめさんです。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|15|909|<span class="rank-name-pd">DemiTaka【D-BULL】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|16|907|<span class="rank-name-pd">りょう-Cafe&amp;Bar B1-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8546?s_seq=8546">B1</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|17|898|<span class="rank-name-pd">宮城 惇</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|18|897|<span class="rank-name-pd"><span class="pro-icon-pd"></span>青山 光二</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|19|888|<span class="rank-name-pd">☆まるみパンダ☆★TWO FACE☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|20|886|<span class="rank-name-pd"><span class="pro-icon-pd"></span>青山 光二</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|21|883|<span class="rank-name-pd">まさ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|22|874|<span class="rank-name-pd">カビゴン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|23|872|<span class="rank-name-pd">食品衛生管理者</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85008?s_seq=85008">BAR DESTINO</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|24|857|<span class="rank-name-pd">ぱんさー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|25|854|<span class="rank-name-pd"><span class="pro-icon-pd"></span>小川 唯</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85008?s_seq=85008">BAR DESTINO</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|26|853|<span class="rank-name-pd">津留 悠太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|27|845|<span class="rank-name-pd">CRow</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|27|845|<span class="rank-name-pd">☆打上花火</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|29|843|<span class="rank-name-pd"><span class="pro-icon-pd"></span>小川 唯</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87646?s_seq=87646">BAR Saul</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|30|839|<span class="rank-name-pd"><span class="pro-icon-pd"></span>福重 敬吾</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|31|836|<span class="rank-name-pd">✵s.OOR∞</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|31|836|<span class="rank-name-pd">優弥</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|33|835|<span class="rank-name-pd">DemiTaka【D-BULL】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|34|834|<span class="rank-name-pd">りょう-Cafe&amp;Bar B1-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|35|831|<span class="rank-name-pd">神蔵　剛</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|36|828|<span class="rank-name-pd">ウッディさんかもねー(・・?)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|37|823|<span class="rank-name-pd">☆まるみパンダ☆★TWO FACE☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|38|819|<span class="rank-name-pd">まっちゃん【MJ3兄弟....三男】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|39|817|<span class="rank-name-pd">優弥（万華鏡花火）</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|40|815|<span class="rank-name-pd">seiya@D&amp;C</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85823?s_seq=85823">D&C</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|41|810|<span class="rank-name-pd">翔</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|42|808|<span class="rank-name-pd">ぽっぷちゅーぶ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|43|800|<span class="rank-name-pd">こまめ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|44|798|<span class="rank-name-pd">ｙｕｙａ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87646?s_seq=87646">BAR Saul</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|45|797|<span class="rank-name-pd">宮城 惇</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86162?s_seq=86162">BAR PLAY BACK</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|46|795|<span class="rank-name-pd">適　当次郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56328?s_seq=56328">BAR OKROCK</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|47|782|<span class="rank-name-pd">RYO-TA.D&amp;C</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85823?s_seq=85823">D&C</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|48|779|<span class="rank-name-pd">ibuki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|49|776|<span class="rank-name-pd">よっぺい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|49|776|<span class="rank-name-pd">レジェンド</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87155?s_seq=87155">THEA</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|51|774|<span class="rank-name-pd">76**</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|52|769|<span class="rank-name-pd">seiya@D&amp;C</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8546?s_seq=8546">B1</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|53|763|<span class="rank-name-pd">Co2</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|54|762|<span class="rank-name-pd">ウッディさんですかー？⊙⁠.⁠☉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|55|761|<span class="rank-name-pd">DemiTaka【D-BULL】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86162?s_seq=86162">BAR PLAY BACK</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|56|760|<span class="rank-name-pd">しゅんしゅん。D-BULL</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|57|759|<span class="rank-name-pd">SR</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70321?s_seq=70321">RANDOLE</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|57|759|<span class="rank-name-pd">エネル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|59|757|<span class="rank-name-pd">エネル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86162?s_seq=86162">BAR PLAY BACK</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|60|755|<span class="rank-name-pd">コイキング</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|61|744|<span class="rank-name-pd">翔太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56328?s_seq=56328">BAR OKROCK</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|62|743|<span class="rank-name-pd">幸 @打上花火</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|63|730|<span class="rank-name-pd">F.MAKOTO.MDC</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|63|730|<span class="rank-name-pd">エネル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|65|728|<span class="rank-name-pd">KOHSHIRO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|65|728|<span class="rank-name-pd">優</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|67|726|<span class="rank-name-pd">Yuchan04</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|67|726|<span class="rank-name-pd">たいじゅ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|69|725|<span class="rank-name-pd">たくま(・×・)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85008?s_seq=85008">BAR DESTINO</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|69|725|<span class="rank-name-pd">適　当次郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|71|724|<span class="rank-name-pd">ぱんさー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|71|724|<span class="rank-name-pd">りょう-Cafe&amp;Bar B1-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|73|723|<span class="rank-name-pd">おさるのジョージ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|74|721|<span class="rank-name-pd">ゼニガメ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10691?s_seq=10691">Bar J</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|74|721|<span class="rank-name-pd">ハッサムex</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|74|721|<span class="rank-name-pd">柿木　洋</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86162?s_seq=86162">BAR PLAY BACK</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|77|720|<span class="rank-name-pd">MASAMI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|78|718|<span class="rank-name-pd">KAMI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85823?s_seq=85823">D&C</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|79|711|<span class="rank-name-pd">優弥</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87646?s_seq=87646">BAR Saul</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|80|706|<span class="rank-name-pd">亀吉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85008?s_seq=85008">BAR DESTINO</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|81|705|<span class="rank-name-pd">DemiTaka【D-BULL】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87646?s_seq=87646">BAR Saul</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|81|705|<span class="rank-name-pd"><span class="pro-icon-pd"></span>小川 唯</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|83|703|<span class="rank-name-pd">YUKIO@darts LIFE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|83|703|<span class="rank-name-pd">〆yøükī〆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|85|701|<span class="rank-name-pd">Bun</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8546?s_seq=8546">B1</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|85|701|<span class="rank-name-pd">圭</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56328?s_seq=56328">BAR OKROCK</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|87|700|<span class="rank-name-pd">まひろ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86162?s_seq=86162">BAR PLAY BACK</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|88|698|<span class="rank-name-pd">ピンクマリオ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|89|695|<span class="rank-name-pd">薗田 善孝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87646?s_seq=87646">BAR Saul</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|90|692|<span class="rank-name-pd">KENT</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|91|688|<span class="rank-name-pd">Yanakky</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|92|684|<span class="rank-name-pd">トニートニー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|92|684|<span class="rank-name-pd">長友 勇樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|94|681|<span class="rank-name-pd">たけし@Play Back</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|94|681|<span class="rank-name-pd">ゲッコウガEX</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|96|680|<span class="rank-name-pd">悠</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86162?s_seq=86162">BAR PLAY BACK</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|96|680|<span class="rank-name-pd">雑魚2</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85008?s_seq=85008">BAR DESTINO</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|98|676|<span class="rank-name-pd">きく</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|98|676|<span class="rank-name-pd">たいじゅ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86162?s_seq=86162">BAR PLAY BACK</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
-|100|675|<span class="rank-name-pd">ポニョ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|2|1057|<span class="rank-name-pd">宮城 惇</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|3|1053|<span class="rank-name-pd">TAKE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|4|1032|<span class="rank-name-pd">楽天ユーザー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|5|1029|<span class="rank-name-pd">平塚 拓郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86162?s_seq=86162">BAR PLAY BACK</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|6|1011|<span class="rank-name-pd">宮城 惇</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|7|1009|<span class="rank-name-pd">0001</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|8|988|<span class="rank-name-pd">津留 悠太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|9|966|<span class="rank-name-pd">TATSUYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|9|966|<span class="rank-name-pd">薗田 善孝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86162?s_seq=86162">BAR PLAY BACK</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|11|964|<span class="rank-name-pd">Daisuke【MJ３兄弟...長男】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|12|961|<span class="rank-name-pd">ミサキ@ポンコツC</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|13|955|<span class="rank-name-pd">薗田 善孝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|14|945|<span class="rank-name-pd">シルビア.inc</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|15|937|<span class="rank-name-pd">まめちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|16|930|<span class="rank-name-pd">Daisuke【MJ３兄弟...長男】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|16|930|<span class="rank-name-pd">SUKOYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|18|923|<span class="rank-name-pd">☆まるみパンダ☆★TWO FACE☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87646?s_seq=87646">BAR Saul</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|19|914|<span class="rank-name-pd">けんた！＠くる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86162?s_seq=86162">BAR PLAY BACK</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|20|912|<span class="rank-name-pd">Kou@打上花火</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|20|912|<span class="rank-name-pd">ウッディさんですよー(o^^o)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|20|912|<span class="rank-name-pd"><span class="pro-icon-pd"></span>柿木 唯</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86162?s_seq=86162">BAR PLAY BACK</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|23|911|<span class="rank-name-pd">まめさんです。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|24|910|<span class="rank-name-pd">あやたか</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|25|909|<span class="rank-name-pd">DemiTaka【D-BULL】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|26|907|<span class="rank-name-pd">りょう-Cafe&amp;Bar B1-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8546?s_seq=8546">B1</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|27|905|<span class="rank-name-pd">seiya@D&amp;C</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85823?s_seq=85823">D&C</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|28|901|<span class="rank-name-pd">ポニョ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|29|897|<span class="rank-name-pd"><span class="pro-icon-pd"></span>青山 光二</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|30|896|<span class="rank-name-pd">柳澤 怜央</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|31|890|<span class="rank-name-pd"><span class="pro-icon-pd"></span>山元 瑛司</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|32|888|<span class="rank-name-pd">☆まるみパンダ☆★TWO FACE☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|33|886|<span class="rank-name-pd"><span class="pro-icon-pd"></span>青山 光二</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|34|883|<span class="rank-name-pd">まさ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|35|878|<span class="rank-name-pd">KaZuKi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|36|876|<span class="rank-name-pd">神蔵　剛</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|37|874|<span class="rank-name-pd">カビゴン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|38|872|<span class="rank-name-pd">RYO-TA.D&amp;C</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85823?s_seq=85823">D&C</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|38|872|<span class="rank-name-pd">食品衛生管理者</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85008?s_seq=85008">BAR DESTINO</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|40|868|<span class="rank-name-pd">西 哲平</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|41|867|<span class="rank-name-pd">ミサキ@ポンコツC</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86162?s_seq=86162">BAR PLAY BACK</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|42|864|<span class="rank-name-pd">薗田 善孝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|43|862|<span class="rank-name-pd">seiya@D&amp;C</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|44|861|<span class="rank-name-pd">KH</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|45|860|<span class="rank-name-pd">rintarow.617</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86162?s_seq=86162">BAR PLAY BACK</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|46|859|<span class="rank-name-pd">タイソン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|47|857|<span class="rank-name-pd">ぱんさー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|48|854|<span class="rank-name-pd"><span class="pro-icon-pd"></span>小川 唯</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85008?s_seq=85008">BAR DESTINO</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|49|853|<span class="rank-name-pd">津留 悠太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|50|852|<span class="rank-name-pd">SR</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70321?s_seq=70321">RANDOLE</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|51|851|<span class="rank-name-pd">TATSUYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|52|850|<span class="rank-name-pd">みっちー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|53|848|<span class="rank-name-pd">竹下 翔太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85008?s_seq=85008">BAR DESTINO</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|54|845|<span class="rank-name-pd">CRow</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|54|845|<span class="rank-name-pd">seiya@D&amp;C</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86162?s_seq=86162">BAR PLAY BACK</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|54|845|<span class="rank-name-pd">☆打上花火</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|57|843|<span class="rank-name-pd"><span class="pro-icon-pd"></span>小川 唯</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87646?s_seq=87646">BAR Saul</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|58|842|<span class="rank-name-pd">☆打上花火</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87155?s_seq=87155">THEA</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|59|841|<span class="rank-name-pd">神蔵　剛</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86162?s_seq=86162">BAR PLAY BACK</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|60|839|<span class="rank-name-pd">TAKE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|60|839|<span class="rank-name-pd">seiya@D&amp;C</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|60|839|<span class="rank-name-pd"><span class="pro-icon-pd"></span>福重 敬吾</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|63|836|<span class="rank-name-pd">✵s.OOR∞</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|63|836|<span class="rank-name-pd">優弥</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|65|835|<span class="rank-name-pd">DemiTaka【D-BULL】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|66|834|<span class="rank-name-pd">りょう-Cafe&amp;Bar B1-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|67|830|<span class="rank-name-pd">BURI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|68|829|<span class="rank-name-pd">NAOYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56328?s_seq=56328">BAR OKROCK</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|68|829|<span class="rank-name-pd">TATSUYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85823?s_seq=85823">D&C</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|70|828|<span class="rank-name-pd">Ha L K ing</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|70|828|<span class="rank-name-pd">TAKE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85823?s_seq=85823">D&C</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|70|828|<span class="rank-name-pd">ウッディさんかもねー(・・?)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|73|827|<span class="rank-name-pd">rintarow.617</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|74|825|<span class="rank-name-pd">FUTABA28</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|74|825|<span class="rank-name-pd">ミサキ@ポンコツC</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|76|824|<span class="rank-name-pd">ポポポ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|77|823|<span class="rank-name-pd">☆まるみパンダ☆★TWO FACE☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|78|822|<span class="rank-name-pd">SAI狂さん。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8546?s_seq=8546">B1</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|79|819|<span class="rank-name-pd">まっちゃん【MJ3兄弟....三男】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|80|817|<span class="rank-name-pd">優弥（万華鏡花火）</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|81|816|<span class="rank-name-pd">KH</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|82|814|<span class="rank-name-pd">YUKIO@darts LIFE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9862?s_seq=9862">D-BULL</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|83|813|<span class="rank-name-pd">ブル際の魔術師</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|84|811|<span class="rank-name-pd">い</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|85|810|<span class="rank-name-pd">NAOYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85823?s_seq=85823">D&C</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|85|810|<span class="rank-name-pd">Ryuto</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|85|810|<span class="rank-name-pd">翔</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|88|808|<span class="rank-name-pd">のすけ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86162?s_seq=86162">BAR PLAY BACK</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|88|808|<span class="rank-name-pd">ぽっぷちゅーぶ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|90|804|<span class="rank-name-pd">Ton-G D-BULL</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87155?s_seq=87155">THEA</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|91|803|<span class="rank-name-pd">taki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|92|802|<span class="rank-name-pd">かわしょう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87155?s_seq=87155">THEA</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|93|800|<span class="rank-name-pd">こまめ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|93|800|<span class="rank-name-pd">みゆー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|93|800|<span class="rank-name-pd">デイモン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|96|798|<span class="rank-name-pd">ｙｕｙａ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87646?s_seq=87646">BAR Saul</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|97|797|<span class="rank-name-pd">宮城 惇</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86162?s_seq=86162">BAR PLAY BACK</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|97|797|<span class="rank-name-pd">捌弐漆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|99|795|<span class="rank-name-pd">適　当次郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56328?s_seq=56328">BAR OKROCK</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
+|100|792|<span class="rank-name-pd">て</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47412?s_seq=47412">快活CLUB 都城店</a>|<a href="/darts/rank/宮崎県/都城市">宮崎県都城市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

@@ -23,106 +23,106 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1154|<span class="rank-name-dl">ｻﾝｼﾞ梅星★乱蜂</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|2|1120|<span class="rank-name-pd"><span class="pro-icon-pd"></span>玉島 蒼茉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|3|1105|<span class="rank-name-dl">小動物ﾊｾ⋚⋚・و</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|4|1104|<span class="rank-name-dl">2024</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|5|1102|<span class="rank-name-dl">ｻﾗﾊﾟﾊﾟEDDIe西宮</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|6|1092|<span class="rank-name-dl">Ryu@</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|7|1085|<span class="rank-name-dl">たまじろう</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|8|1083|<span class="rank-name-dl">ＷＴＲ/ёχi∫т</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|9|1058|<span class="rank-name-dl">やんも</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|10|1037|<span class="rank-name-dl">ｵｸﾀﾞ(T｡T){ｼｮﾎﾞｽ</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|11|1032|<span class="rank-name-dl">432 @まりの弟</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|12|1021|<span class="rank-name-dl">9G</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|13|1013|<span class="rank-name-dl">だいき@S.O.Z</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|14|1008|<span class="rank-name-dl">HIROKI YAMANO</span>|<a href="https://search.dartslive.com/jp/shop/f3b701f966b0ebf6790ab824ce8730e5">Rocka Rolla</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|15|999|<span class="rank-name-dl">たいし+α@MAD.H</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|16|977|<span class="rank-name-dl">S＠KAI YOUHEI</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|17|972|<span class="rank-name-dl">ミヤ</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|18|970|<span class="rank-name-dl">HIROKI YAMANO</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|19|969|<span class="rank-name-dl">ひら</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|20|968|<span class="rank-name-dl">ぐっさん</span>|<a href="https://search.dartslive.com/jp/shop/f3b701f966b0ebf6790ab824ce8730e5">Rocka Rolla</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|20|968|<span class="rank-name-dl">水道　隆太</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|22|967|<span class="rank-name-dl">gucci:3</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|23|966|<span class="rank-name-dl">ＡＡＡ</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|24|961|<span class="rank-name-dl">KUGE</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|25|959|<span class="rank-name-dl">Se_Ya</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|26|956|<span class="rank-name-dl">hama</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|26|956|<span class="rank-name-dl">シュウ●ブラッズ</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|28|955|<span class="rank-name-dl">Yuuta</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|29|954|<span class="rank-name-dl">ひら</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|30|953|<span class="rank-name-dl">wataru matts</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|31|949|<span class="rank-name-pd">タツヤ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|32|948|<span class="rank-name-dl">かーず☆彡Reve</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|33|945|<span class="rank-name-dl">ＷＴＲ/ёχi∫т</span>|<a href="https://search.dartslive.com/jp/shop/4d2fa15946ffb26e0d9b047a20a7ba1e">BAR ARPH</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|34|944|<span class="rank-name-dl">あ</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|35|937|<span class="rank-name-dl">れん</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|36|933|<span class="rank-name-dl">しょーたろう</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|36|933|<span class="rank-name-dl">はまたつ</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|38|929|<span class="rank-name-dl">9GE@ｳﾗｯﾁｰｽﾞ</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|39|927|<span class="rank-name-dl">だいき＠りあん</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|40|925|<span class="rank-name-dl">雄輝RinRin</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|41|922|<span class="rank-name-dl">deca&quot;βaτa&quot;cho</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|42|920|<span class="rank-name-dl">タツヤ</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|43|919|<span class="rank-name-dl">やんも</span>|<a href="https://search.dartslive.com/jp/shop/4d2fa15946ffb26e0d9b047a20a7ba1e">BAR ARPH</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|44|918|<span class="rank-name-dl">カズヤボンバイエ</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|45|917|<span class="rank-name-dl">wataru matts</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|46|914|<span class="rank-name-dl">やげんじちあき</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|47|913|<span class="rank-name-dl">ACのDLCはよ</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|47|913|<span class="rank-name-dl">Mg</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|49|907|<span class="rank-name-dl">ごう</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|49|907|<span class="rank-name-dl">翔(´ω｀)平</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|51|904|<span class="rank-name-dl">遼@でんでん</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|52|903|<span class="rank-name-pd">聖命</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64661?s_seq=64661">Bar Lafeene</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|52|903|<span class="rank-name-dl">ＡＡＡ</span>|<a href="https://search.dartslive.com/jp/shop/4d2fa15946ffb26e0d9b047a20a7ba1e">BAR ARPH</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|54|898|<span class="rank-name-dl">yoengshin</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|54|898|<span class="rank-name-dl">とみー</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|56|888|<span class="rank-name-dl">タツヤ</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|56|888|<span class="rank-name-dl">冥王WS.Tomahawk</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|58|881|<span class="rank-name-dl">HIROKI YAMANO</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|59|880|<span class="rank-name-dl">NiA</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|60|878|<span class="rank-name-dl">八＠REGALO</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|61|869|<span class="rank-name-dl">じゅんぺ@Oops!!</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|62|868|<span class="rank-name-dl">雄輝RinRin</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|63|865|<span class="rank-name-pd"><span class="pro-icon-pd"></span>野中 雅</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|64|864|<span class="rank-name-dl">しっぽにゃ</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|65|861|<span class="rank-name-dl">momen@PUBLIC</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|66|860|<span class="rank-name-dl">ナスビ</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|67|856|<span class="rank-name-dl">ゆとくん</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|68|852|<span class="rank-name-dl">ゆとくん</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|69|842|<span class="rank-name-dl">コザワ</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|70|840|<span class="rank-name-dl">KEN-U✖️KDS</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|70|840|<span class="rank-name-dl">takumi</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|72|837|<span class="rank-name-dl">猫パンチ</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|73|835|<span class="rank-name-dl">てんちょ</span>|<a href="https://search.dartslive.com/jp/shop/f3b701f966b0ebf6790ab824ce8730e5">Rocka Rolla</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|74|830|<span class="rank-name-pd">hituji</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|75|825|<span class="rank-name-dl">Daisuke@Asgard</span>|<a href="https://search.dartslive.com/jp/shop/4d2fa15946ffb26e0d9b047a20a7ba1e">BAR ARPH</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|75|825|<span class="rank-name-dl">アルフ　後井雄貴</span>|<a href="https://search.dartslive.com/jp/shop/4d2fa15946ffb26e0d9b047a20a7ba1e">BAR ARPH</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|75|825|<span class="rank-name-dl">翔(*⁰▿⁰*)平</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|78|818|<span class="rank-name-dl">マルセ</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|79|817|<span class="rank-name-pd">HISA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|80|812|<span class="rank-name-dl">Takumi</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|80|812|<span class="rank-name-pd">ポルじぃ(  ¯꒳​¯ )ᐝ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|82|803|<span class="rank-name-dl">たけのこの里@MIU</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|83|800|<span class="rank-name-dl">コギ</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|84|799|<span class="rank-name-dl">Sota</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|85|796|<span class="rank-name-dl">ayumu</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|85|796|<span class="rank-name-dl">まり⋈*。</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|87|790|<span class="rank-name-pd">yori</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|88|788|<span class="rank-name-dl">たく＊Aus</span>|<a href="https://search.dartslive.com/jp/shop/f3b701f966b0ebf6790ab824ce8730e5">Rocka Rolla</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|89|786|<span class="rank-name-pd">YUJIRO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|90|773|<span class="rank-name-pd">96℃</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|91|768|<span class="rank-name-dl">☆るりぃ☆</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|92|767|<span class="rank-name-dl">Fukka</span>|<a href="https://search.dartslive.com/jp/shop/f3b701f966b0ebf6790ab824ce8730e5">Rocka Rolla</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|93|766|<span class="rank-name-dl">ナスビ</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|94|765|<span class="rank-name-dl">たー@F</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|94|765|<span class="rank-name-dl">モノトーン</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|94|765|<span class="rank-name-pd">遼@L( ・ω・)ノ~</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|97|758|<span class="rank-name-pd">雄輝RinRin</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|98|748|<span class="rank-name-dl">ゆう</span>|<a href="https://search.dartslive.com/jp/shop/f164dd123864a3c00d9b047a20a7ba1e">Bar 5to</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|99|742|<span class="rank-name-dl">NATSUo忘我</span>|<a href="https://search.dartslive.com/jp/shop/f3b701f966b0ebf6790ab824ce8730e5">Rocka Rolla</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|99|742|<span class="rank-name-dl">おふみにゃん♪</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|1|1165|<span class="rank-name-pd"><span class="pro-icon-pd"></span>玉島 蒼茉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|2|1160|<span class="rank-name-dl">ミクトーーーDMC</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|3|1154|<span class="rank-name-dl">ｻﾝｼﾞ梅星★乱蜂</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|4|1139|<span class="rank-name-dl">ＷＴＲ/ёχi∫т</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|5|1122|<span class="rank-name-dl">たいし+α@MAD.H</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|6|1111|<span class="rank-name-dl">小動物ﾊｾ⋚⋚・و</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|7|1104|<span class="rank-name-dl">2024</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|8|1102|<span class="rank-name-dl">ｻﾗﾊﾟﾊﾟEDDIe西宮</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|9|1094|<span class="rank-name-dl">H@YATO EJIMA</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|10|1092|<span class="rank-name-dl">Ryu@</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|11|1091|<span class="rank-name-dl">RYU@</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|12|1085|<span class="rank-name-dl">9ge</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|12|1085|<span class="rank-name-dl">たまじろう</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|14|1058|<span class="rank-name-dl">やんも</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|15|1055|<span class="rank-name-dl">赤い酔星RedTomet</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|16|1042|<span class="rank-name-dl">タツヤ</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|17|1037|<span class="rank-name-dl">ｵｸﾀﾞ(T｡T){ｼｮﾎﾞｽ</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|18|1032|<span class="rank-name-dl">432 @まりの弟</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|19|1026|<span class="rank-name-dl">のむ</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|20|1023|<span class="rank-name-dl">ナカジマ！</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|21|1021|<span class="rank-name-dl">9G</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|22|1013|<span class="rank-name-dl">RYO#UCBE</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|22|1013|<span class="rank-name-dl">だいき@S.O.Z</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|24|1010|<span class="rank-name-dl">YUKIMILKYAN</span>|<a href="https://search.dartslive.com/jp/shop/f3b701f966b0ebf6790ab824ce8730e5">Rocka Rolla</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|25|1009|<span class="rank-name-dl">nn</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|26|1008|<span class="rank-name-dl">HIROKI YAMANO</span>|<a href="https://search.dartslive.com/jp/shop/f3b701f966b0ebf6790ab824ce8730e5">Rocka Rolla</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|26|1008|<span class="rank-name-dl">gucci:3</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|28|1004|<span class="rank-name-dl">ミヤ</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|29|1001|<span class="rank-name-dl">玉島　蒼茉</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|30|1000|<span class="rank-name-dl">田村 隆</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|31|999|<span class="rank-name-dl">たいし+α@MAD.H</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|32|997|<span class="rank-name-dl">9GE@ｳﾗｯﾁｰｽﾞ</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|32|997|<span class="rank-name-dl">カズヤボンバイエ</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|34|978|<span class="rank-name-dl">ＡＡＡ</span>|<a href="https://search.dartslive.com/jp/shop/19c56f2f3e2eeb460d9b047a20a7ba1e">Plus B</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|35|977|<span class="rank-name-dl">S＠KAI YOUHEI</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|36|970|<span class="rank-name-dl">HIROKI YAMANO</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|37|969|<span class="rank-name-dl">ひら</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|38|968|<span class="rank-name-dl">ぐっさん</span>|<a href="https://search.dartslive.com/jp/shop/f3b701f966b0ebf6790ab824ce8730e5">Rocka Rolla</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|38|968|<span class="rank-name-dl">水道　隆太</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|40|967|<span class="rank-name-dl">gucci:3</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|41|966|<span class="rank-name-dl">ただのおっさん</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|41|966|<span class="rank-name-dl">コザワ</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|41|966|<span class="rank-name-dl">ＡＡＡ</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|44|965|<span class="rank-name-dl">ひら</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|45|961|<span class="rank-name-dl">KUGE</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|46|959|<span class="rank-name-dl">Se_Ya</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|47|956|<span class="rank-name-dl">hama</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|47|956|<span class="rank-name-dl">シュウ●ブラッズ</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|49|955|<span class="rank-name-dl">Yuuta</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|50|954|<span class="rank-name-dl">しっぽにゃ</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|51|953|<span class="rank-name-dl">wataru matts</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|52|949|<span class="rank-name-pd">タツヤ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|53|948|<span class="rank-name-dl">かーず☆彡Reve</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|54|945|<span class="rank-name-dl">ＷＴＲ/ёχi∫т</span>|<a href="https://search.dartslive.com/jp/shop/4d2fa15946ffb26e0d9b047a20a7ba1e">BAR ARPH</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|55|944|<span class="rank-name-dl">あ</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|56|941|<span class="rank-name-dl">やまもっㄘ☆TPGN</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|57|938|<span class="rank-name-dl">かった→ｳﾗｯﾁｰｽﾞ</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|58|937|<span class="rank-name-dl">れん</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|59|933|<span class="rank-name-dl">しょーたろう</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|59|933|<span class="rank-name-dl">はまたつ</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|61|930|<span class="rank-name-dl">ゆとくん@Blossom</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|62|927|<span class="rank-name-dl">だいき＠りあん</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|63|925|<span class="rank-name-dl">雄輝RinRin</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|64|923|<span class="rank-name-dl">9GE@育児中</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|64|923|<span class="rank-name-dl">あなんひろむ</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|64|923|<span class="rank-name-dl">じゅんぺ@Oops!!</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|64|923|<span class="rank-name-dl">加古</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|68|922|<span class="rank-name-dl">deca&quot;βaτa&quot;cho</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|69|919|<span class="rank-name-dl">やんも</span>|<a href="https://search.dartslive.com/jp/shop/4d2fa15946ffb26e0d9b047a20a7ba1e">BAR ARPH</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|69|919|<span class="rank-name-dl">カズヤボンバイエ</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|69|919|<span class="rank-name-dl">タツヤ</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|72|918|<span class="rank-name-dl">遼@でんでん</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|73|917|<span class="rank-name-dl">Red指定nbsr39</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|73|917|<span class="rank-name-dl">Sota</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|73|917|<span class="rank-name-dl">wataru matts</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|76|916|<span class="rank-name-dl">gucci:3</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|77|915|<span class="rank-name-pd">gucci:3</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|78|914|<span class="rank-name-dl">じゅんピ@Oops!!</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|78|914|<span class="rank-name-dl">やげんじちあき</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|80|913|<span class="rank-name-dl">ACのDLCはよ</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|80|913|<span class="rank-name-dl">Mg</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|82|910|<span class="rank-name-dl">PENGUIN RESEARCH</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|82|910|<span class="rank-name-dl">コギ@DDO</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|84|907|<span class="rank-name-dl">ごう</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|84|907|<span class="rank-name-dl">翔(´ω｀)平</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|86|906|<span class="rank-name-dl">まかろにさん。</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|87|905|<span class="rank-name-dl">み。</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|88|903|<span class="rank-name-dl">ゆとくん</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|88|903|<span class="rank-name-pd">聖命</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64661?s_seq=64661">Bar Lafeene</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|88|903|<span class="rank-name-dl">ＡＡＡ</span>|<a href="https://search.dartslive.com/jp/shop/4d2fa15946ffb26e0d9b047a20a7ba1e">BAR ARPH</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|91|901|<span class="rank-name-pd">ボンバイエくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|92|898|<span class="rank-name-dl">yoengshin</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|92|898|<span class="rank-name-dl">とみー</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|94|889|<span class="rank-name-dl">左ナスビ</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|95|888|<span class="rank-name-dl">冥王WS.Tomahawk</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|96|881|<span class="rank-name-dl">HIROKI YAMANO</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|97|880|<span class="rank-name-dl">NiA</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|97|880|<span class="rank-name-dl">マサやん</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|99|878|<span class="rank-name-dl">八＠REGALO</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|100|873|<span class="rank-name-dl">ポリタンク大佐</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -132,106 +132,106 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1154|<span class="rank-name-dl">ｻﾝｼﾞ梅星★乱蜂</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|2|1105|<span class="rank-name-dl">小動物ﾊｾ⋚⋚・و</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|3|1104|<span class="rank-name-dl">2024</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|4|1102|<span class="rank-name-dl">ｻﾗﾊﾟﾊﾟEDDIe西宮</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|5|1092|<span class="rank-name-dl">Ryu@</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|6|1085|<span class="rank-name-dl">たまじろう</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|7|1083|<span class="rank-name-dl">ＷＴＲ/ёχi∫т</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|8|1058|<span class="rank-name-dl">やんも</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|9|1037|<span class="rank-name-dl">ｵｸﾀﾞ(T｡T){ｼｮﾎﾞｽ</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|10|1032|<span class="rank-name-dl">432 @まりの弟</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|11|1021|<span class="rank-name-dl">9G</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|12|1013|<span class="rank-name-dl">だいき@S.O.Z</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|13|1008|<span class="rank-name-dl">HIROKI YAMANO</span>|<a href="https://search.dartslive.com/jp/shop/f3b701f966b0ebf6790ab824ce8730e5">Rocka Rolla</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|14|999|<span class="rank-name-dl">たいし+α@MAD.H</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|15|977|<span class="rank-name-dl">S＠KAI YOUHEI</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|16|972|<span class="rank-name-dl">ミヤ</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|17|970|<span class="rank-name-dl">HIROKI YAMANO</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|18|969|<span class="rank-name-dl">ひら</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|19|968|<span class="rank-name-dl">ぐっさん</span>|<a href="https://search.dartslive.com/jp/shop/f3b701f966b0ebf6790ab824ce8730e5">Rocka Rolla</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|19|968|<span class="rank-name-dl">水道　隆太</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|21|967|<span class="rank-name-dl">gucci:3</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|22|966|<span class="rank-name-dl">ＡＡＡ</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|23|961|<span class="rank-name-dl">KUGE</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|24|959|<span class="rank-name-dl">Se_Ya</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|25|956|<span class="rank-name-dl">hama</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|25|956|<span class="rank-name-dl">シュウ●ブラッズ</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|27|955|<span class="rank-name-dl">Yuuta</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|28|954|<span class="rank-name-dl">ひら</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|29|953|<span class="rank-name-dl">wataru matts</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|30|948|<span class="rank-name-dl">かーず☆彡Reve</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|31|945|<span class="rank-name-dl">ＷＴＲ/ёχi∫т</span>|<a href="https://search.dartslive.com/jp/shop/4d2fa15946ffb26e0d9b047a20a7ba1e">BAR ARPH</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|32|944|<span class="rank-name-dl">あ</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|33|937|<span class="rank-name-dl">れん</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|34|933|<span class="rank-name-dl">しょーたろう</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|34|933|<span class="rank-name-dl">はまたつ</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|36|929|<span class="rank-name-dl">9GE@ｳﾗｯﾁｰｽﾞ</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|37|927|<span class="rank-name-dl">だいき＠りあん</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|38|925|<span class="rank-name-dl">雄輝RinRin</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|39|922|<span class="rank-name-dl">deca&quot;βaτa&quot;cho</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|40|920|<span class="rank-name-dl">タツヤ</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|41|919|<span class="rank-name-dl">やんも</span>|<a href="https://search.dartslive.com/jp/shop/4d2fa15946ffb26e0d9b047a20a7ba1e">BAR ARPH</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|42|918|<span class="rank-name-dl">カズヤボンバイエ</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|43|917|<span class="rank-name-dl">wataru matts</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|44|914|<span class="rank-name-dl">やげんじちあき</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|45|913|<span class="rank-name-dl">ACのDLCはよ</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|45|913|<span class="rank-name-dl">Mg</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|47|907|<span class="rank-name-dl">ごう</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|47|907|<span class="rank-name-dl">翔(´ω｀)平</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|49|904|<span class="rank-name-dl">遼@でんでん</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|50|903|<span class="rank-name-dl">ＡＡＡ</span>|<a href="https://search.dartslive.com/jp/shop/4d2fa15946ffb26e0d9b047a20a7ba1e">BAR ARPH</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|51|898|<span class="rank-name-dl">yoengshin</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|51|898|<span class="rank-name-dl">とみー</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|53|888|<span class="rank-name-dl">タツヤ</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|53|888|<span class="rank-name-dl">冥王WS.Tomahawk</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|55|881|<span class="rank-name-dl">HIROKI YAMANO</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|56|880|<span class="rank-name-dl">NiA</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|57|878|<span class="rank-name-dl">八＠REGALO</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|58|869|<span class="rank-name-dl">じゅんぺ@Oops!!</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|59|868|<span class="rank-name-dl">雄輝RinRin</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|60|864|<span class="rank-name-dl">しっぽにゃ</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|61|861|<span class="rank-name-dl">momen@PUBLIC</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|62|860|<span class="rank-name-dl">ナスビ</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|63|856|<span class="rank-name-dl">ゆとくん</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|64|852|<span class="rank-name-dl">ゆとくん</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|65|842|<span class="rank-name-dl">コザワ</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|66|840|<span class="rank-name-dl">KEN-U✖️KDS</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|66|840|<span class="rank-name-dl">takumi</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|68|837|<span class="rank-name-dl">猫パンチ</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|69|835|<span class="rank-name-dl">てんちょ</span>|<a href="https://search.dartslive.com/jp/shop/f3b701f966b0ebf6790ab824ce8730e5">Rocka Rolla</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|70|825|<span class="rank-name-dl">Daisuke@Asgard</span>|<a href="https://search.dartslive.com/jp/shop/4d2fa15946ffb26e0d9b047a20a7ba1e">BAR ARPH</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|70|825|<span class="rank-name-dl">アルフ　後井雄貴</span>|<a href="https://search.dartslive.com/jp/shop/4d2fa15946ffb26e0d9b047a20a7ba1e">BAR ARPH</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|70|825|<span class="rank-name-dl">翔(*⁰▿⁰*)平</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|73|818|<span class="rank-name-dl">マルセ</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|74|812|<span class="rank-name-dl">Takumi</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|75|803|<span class="rank-name-dl">たけのこの里@MIU</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|76|800|<span class="rank-name-dl">コギ</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|77|799|<span class="rank-name-dl">Sota</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|78|796|<span class="rank-name-dl">ayumu</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|78|796|<span class="rank-name-dl">まり⋈*。</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|80|788|<span class="rank-name-dl">たく＊Aus</span>|<a href="https://search.dartslive.com/jp/shop/f3b701f966b0ebf6790ab824ce8730e5">Rocka Rolla</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|81|768|<span class="rank-name-dl">☆るりぃ☆</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|82|767|<span class="rank-name-dl">Fukka</span>|<a href="https://search.dartslive.com/jp/shop/f3b701f966b0ebf6790ab824ce8730e5">Rocka Rolla</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|83|766|<span class="rank-name-dl">ナスビ</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|84|765|<span class="rank-name-dl">たー@F</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|84|765|<span class="rank-name-dl">モノトーン</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|86|748|<span class="rank-name-dl">ゆう</span>|<a href="https://search.dartslive.com/jp/shop/f164dd123864a3c00d9b047a20a7ba1e">Bar 5to</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|87|742|<span class="rank-name-dl">NATSUo忘我</span>|<a href="https://search.dartslive.com/jp/shop/f3b701f966b0ebf6790ab824ce8730e5">Rocka Rolla</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|87|742|<span class="rank-name-dl">おふみにゃん♪</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|89|727|<span class="rank-name-dl">daya</span>|<a href="https://search.dartslive.com/jp/shop/4d2fa15946ffb26e0d9b047a20a7ba1e">BAR ARPH</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|89|727|<span class="rank-name-dl">マサやん</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|91|722|<span class="rank-name-dl">ＡＡＡ</span>|<a href="https://search.dartslive.com/jp/shop/19c56f2f3e2eeb460d9b047a20a7ba1e">Plus B</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|92|713|<span class="rank-name-dl">じゅんじゅん</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|93|709|<span class="rank-name-dl">Sena</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|94|689|<span class="rank-name-dl">無敵艦隊</span>|<a href="https://search.dartslive.com/jp/shop/4d2fa15946ffb26e0d9b047a20a7ba1e">BAR ARPH</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|95|680|<span class="rank-name-dl">いっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|96|677|<span class="rank-name-dl">がっくん</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|97|673|<span class="rank-name-dl">Zizo</span>|<a href="https://search.dartslive.com/jp/shop/f3b701f966b0ebf6790ab824ce8730e5">Rocka Rolla</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|97|673|<span class="rank-name-dl">まさおくん</span>|<a href="https://search.dartslive.com/jp/shop/f164dd123864a3c00d9b047a20a7ba1e">Bar 5to</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|99|667|<span class="rank-name-dl">まさ</span>|<a href="https://search.dartslive.com/jp/shop/f3b701f966b0ebf6790ab824ce8730e5">Rocka Rolla</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|100|658|<span class="rank-name-dl">HAZYU</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|1|1160|<span class="rank-name-dl">ミクトーーーDMC</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|2|1154|<span class="rank-name-dl">ｻﾝｼﾞ梅星★乱蜂</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|3|1139|<span class="rank-name-dl">ＷＴＲ/ёχi∫т</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|4|1122|<span class="rank-name-dl">たいし+α@MAD.H</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|5|1111|<span class="rank-name-dl">小動物ﾊｾ⋚⋚・و</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|6|1104|<span class="rank-name-dl">2024</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|7|1102|<span class="rank-name-dl">ｻﾗﾊﾟﾊﾟEDDIe西宮</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|8|1094|<span class="rank-name-dl">H@YATO EJIMA</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|9|1092|<span class="rank-name-dl">Ryu@</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|10|1091|<span class="rank-name-dl">RYU@</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|11|1085|<span class="rank-name-dl">9ge</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|11|1085|<span class="rank-name-dl">たまじろう</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|13|1058|<span class="rank-name-dl">やんも</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|14|1055|<span class="rank-name-dl">赤い酔星RedTomet</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|15|1042|<span class="rank-name-dl">タツヤ</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|16|1037|<span class="rank-name-dl">ｵｸﾀﾞ(T｡T){ｼｮﾎﾞｽ</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|17|1032|<span class="rank-name-dl">432 @まりの弟</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|18|1026|<span class="rank-name-dl">のむ</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|19|1023|<span class="rank-name-dl">ナカジマ！</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|20|1021|<span class="rank-name-dl">9G</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|21|1013|<span class="rank-name-dl">RYO#UCBE</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|21|1013|<span class="rank-name-dl">だいき@S.O.Z</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|23|1010|<span class="rank-name-dl">YUKIMILKYAN</span>|<a href="https://search.dartslive.com/jp/shop/f3b701f966b0ebf6790ab824ce8730e5">Rocka Rolla</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|24|1009|<span class="rank-name-dl">nn</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|25|1008|<span class="rank-name-dl">HIROKI YAMANO</span>|<a href="https://search.dartslive.com/jp/shop/f3b701f966b0ebf6790ab824ce8730e5">Rocka Rolla</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|25|1008|<span class="rank-name-dl">gucci:3</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|27|1004|<span class="rank-name-dl">ミヤ</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|28|1001|<span class="rank-name-dl">玉島　蒼茉</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|29|1000|<span class="rank-name-dl">田村 隆</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|30|999|<span class="rank-name-dl">たいし+α@MAD.H</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|31|997|<span class="rank-name-dl">9GE@ｳﾗｯﾁｰｽﾞ</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|31|997|<span class="rank-name-dl">カズヤボンバイエ</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|33|978|<span class="rank-name-dl">ＡＡＡ</span>|<a href="https://search.dartslive.com/jp/shop/19c56f2f3e2eeb460d9b047a20a7ba1e">Plus B</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|34|977|<span class="rank-name-dl">S＠KAI YOUHEI</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|35|970|<span class="rank-name-dl">HIROKI YAMANO</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|36|969|<span class="rank-name-dl">ひら</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|37|968|<span class="rank-name-dl">ぐっさん</span>|<a href="https://search.dartslive.com/jp/shop/f3b701f966b0ebf6790ab824ce8730e5">Rocka Rolla</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|37|968|<span class="rank-name-dl">水道　隆太</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|39|967|<span class="rank-name-dl">gucci:3</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|40|966|<span class="rank-name-dl">ただのおっさん</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|40|966|<span class="rank-name-dl">コザワ</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|40|966|<span class="rank-name-dl">ＡＡＡ</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|43|965|<span class="rank-name-dl">ひら</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|44|961|<span class="rank-name-dl">KUGE</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|45|959|<span class="rank-name-dl">Se_Ya</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|46|956|<span class="rank-name-dl">hama</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|46|956|<span class="rank-name-dl">シュウ●ブラッズ</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|48|955|<span class="rank-name-dl">Yuuta</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|49|954|<span class="rank-name-dl">しっぽにゃ</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|50|953|<span class="rank-name-dl">wataru matts</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|51|948|<span class="rank-name-dl">かーず☆彡Reve</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|52|945|<span class="rank-name-dl">ＷＴＲ/ёχi∫т</span>|<a href="https://search.dartslive.com/jp/shop/4d2fa15946ffb26e0d9b047a20a7ba1e">BAR ARPH</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|53|944|<span class="rank-name-dl">あ</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|54|941|<span class="rank-name-dl">やまもっㄘ☆TPGN</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|55|938|<span class="rank-name-dl">かった→ｳﾗｯﾁｰｽﾞ</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|56|937|<span class="rank-name-dl">れん</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|57|933|<span class="rank-name-dl">しょーたろう</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|57|933|<span class="rank-name-dl">はまたつ</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|59|930|<span class="rank-name-dl">ゆとくん@Blossom</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|60|927|<span class="rank-name-dl">だいき＠りあん</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|61|925|<span class="rank-name-dl">雄輝RinRin</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|62|923|<span class="rank-name-dl">9GE@育児中</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|62|923|<span class="rank-name-dl">あなんひろむ</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|62|923|<span class="rank-name-dl">じゅんぺ@Oops!!</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|62|923|<span class="rank-name-dl">加古</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|66|922|<span class="rank-name-dl">deca&quot;βaτa&quot;cho</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|67|919|<span class="rank-name-dl">やんも</span>|<a href="https://search.dartslive.com/jp/shop/4d2fa15946ffb26e0d9b047a20a7ba1e">BAR ARPH</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|67|919|<span class="rank-name-dl">カズヤボンバイエ</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|67|919|<span class="rank-name-dl">タツヤ</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|70|918|<span class="rank-name-dl">遼@でんでん</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|71|917|<span class="rank-name-dl">Red指定nbsr39</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|71|917|<span class="rank-name-dl">Sota</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|71|917|<span class="rank-name-dl">wataru matts</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|74|916|<span class="rank-name-dl">gucci:3</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|75|914|<span class="rank-name-dl">じゅんピ@Oops!!</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|75|914|<span class="rank-name-dl">やげんじちあき</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|77|913|<span class="rank-name-dl">ACのDLCはよ</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|77|913|<span class="rank-name-dl">Mg</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|79|910|<span class="rank-name-dl">PENGUIN RESEARCH</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|79|910|<span class="rank-name-dl">コギ@DDO</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|81|907|<span class="rank-name-dl">ごう</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|81|907|<span class="rank-name-dl">翔(´ω｀)平</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|83|906|<span class="rank-name-dl">まかろにさん。</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|84|905|<span class="rank-name-dl">み。</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|85|903|<span class="rank-name-dl">ゆとくん</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|85|903|<span class="rank-name-dl">ＡＡＡ</span>|<a href="https://search.dartslive.com/jp/shop/4d2fa15946ffb26e0d9b047a20a7ba1e">BAR ARPH</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|87|898|<span class="rank-name-dl">yoengshin</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|87|898|<span class="rank-name-dl">とみー</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|89|889|<span class="rank-name-dl">左ナスビ</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|90|888|<span class="rank-name-dl">冥王WS.Tomahawk</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|91|881|<span class="rank-name-dl">HIROKI YAMANO</span>|<a href="https://search.dartslive.com/jp/shop/e67a527dd74482ca0d9b047a20a7ba1e">西宮ブラッズ</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|92|880|<span class="rank-name-dl">NiA</span>|<a href="https://search.dartslive.com/jp/shop/96319f5e69f5acee0d9b047a20a7ba1e">Pool & Darts Eddie Nishinomiya</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|92|880|<span class="rank-name-dl">マサやん</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|94|878|<span class="rank-name-dl">八＠REGALO</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|95|873|<span class="rank-name-dl">ポリタンク大佐</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|96|871|<span class="rank-name-dl">norio</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|96|871|<span class="rank-name-dl">ｼｭｳhey☆Justice</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|98|868|<span class="rank-name-dl">Sota</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|98|868|<span class="rank-name-dl">雄輝RinRin</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|100|864|<span class="rank-name-dl">ゆとくん</span>|<a href="https://search.dartslive.com/jp/shop/e15ba0f518ecd5cca3f63593b5358cc4">快活CLUB 国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
 
 
 #### PHOENIXDARTS TOP 100
@@ -241,73 +241,106 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1120|<span class="rank-name-pd"><span class="pro-icon-pd"></span>玉島 蒼茉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|1|1165|<span class="rank-name-pd"><span class="pro-icon-pd"></span>玉島 蒼茉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
 |2|949|<span class="rank-name-pd">タツヤ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|3|903|<span class="rank-name-pd">聖命</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64661?s_seq=64661">Bar Lafeene</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|4|865|<span class="rank-name-pd"><span class="pro-icon-pd"></span>野中 雅</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|5|830|<span class="rank-name-pd">hituji</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|6|817|<span class="rank-name-pd">HISA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|7|812|<span class="rank-name-pd">ポルじぃ(  ¯꒳​¯ )ᐝ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|8|790|<span class="rank-name-pd">yori</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|9|786|<span class="rank-name-pd">YUJIRO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|10|773|<span class="rank-name-pd">96℃</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|11|765|<span class="rank-name-pd">遼@L( ・ω・)ノ~</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|12|758|<span class="rank-name-pd">雄輝RinRin</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|13|741|<span class="rank-name-pd">TAKA ’13/7/3</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|14|723|<span class="rank-name-pd">z3tq35b70aa7cf</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64661?s_seq=64661">Bar Lafeene</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|15|717|<span class="rank-name-pd">三浦 貴弘</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|16|708|<span class="rank-name-pd">hama</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|17|705|<span class="rank-name-pd">みなみなと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|18|704|<span class="rank-name-pd">ペンギン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|19|697|<span class="rank-name-pd">seiya</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|20|696|<span class="rank-name-pd">ninini</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|21|694|<span class="rank-name-pd">z7wi37f924b0ee</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|22|692|<span class="rank-name-pd">近藤 聖也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|23|680|<span class="rank-name-pd">LA☆えいじ〜(^o^)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64661?s_seq=64661">Bar Lafeene</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|24|676|<span class="rank-name-pd">いっちやねん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|25|670|<span class="rank-name-pd">トミー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|26|664|<span class="rank-name-pd">Chikka</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|27|663|<span class="rank-name-pd">LA.STELLA☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64661?s_seq=64661">Bar Lafeene</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|28|650|<span class="rank-name-pd">アルティメット</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64661?s_seq=64661">Bar Lafeene</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|29|647|<span class="rank-name-pd">yu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|30|626|<span class="rank-name-pd">LA.RICKY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64661?s_seq=64661">Bar Lafeene</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|31|625|<span class="rank-name-pd">KATOO.GAIA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|31|625|<span class="rank-name-pd">LA@KEITA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64661?s_seq=64661">Bar Lafeene</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|33|621|<span class="rank-name-pd">PAPPOHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|34|619|<span class="rank-name-pd">TOMMＹ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|35|616|<span class="rank-name-pd">彩乃＆海月</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|36|613|<span class="rank-name-pd">SOTB</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64661?s_seq=64661">Bar Lafeene</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|37|608|<span class="rank-name-pd">ノンペリ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64661?s_seq=64661">Bar Lafeene</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|38|594|<span class="rank-name-pd">飛</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|39|581|<span class="rank-name-pd">だーかず</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|40|570|<span class="rank-name-pd">やがさサル。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|41|561|<span class="rank-name-pd">Fuuuuto</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|42|560|<span class="rank-name-pd">スザンヌ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|43|545|<span class="rank-name-pd">ryota1648</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64661?s_seq=64661">Bar Lafeene</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|44|535|<span class="rank-name-pd">桂馬</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|45|534|<span class="rank-name-pd">リ・トモマサ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|46|516|<span class="rank-name-pd">Kai</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|46|516|<span class="rank-name-pd">Lemon</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|48|500|<span class="rank-name-pd"><span class="pro-icon-pd"></span>小原 佑天</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|49|484|<span class="rank-name-pd">☆Masa☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|50|477|<span class="rank-name-pd">0039_2242</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|51|463|<span class="rank-name-pd">LA@007</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64661?s_seq=64661">Bar Lafeene</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|52|456|<span class="rank-name-pd">noname</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|53|445|<span class="rank-name-pd">ヒロ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|54|442|<span class="rank-name-pd">@ぴょん。#ひつじ組</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|55|438|<span class="rank-name-pd">RYOTA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64661?s_seq=64661">Bar Lafeene</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|56|437|<span class="rank-name-pd">LA@009</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64661?s_seq=64661">Bar Lafeene</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|57|432|<span class="rank-name-pd">SOTB</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|58|425|<span class="rank-name-pd">りさ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|59|415|<span class="rank-name-pd">soイチロー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|60|414|<span class="rank-name-pd">に</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|61|402|<span class="rank-name-pd">さとし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|62|339|<span class="rank-name-pd">LA☆STAFF-0</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64661?s_seq=64661">Bar Lafeene</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|62|339|<span class="rank-name-pd">ハル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64661?s_seq=64661">Bar Lafeene</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|64|338|<span class="rank-name-pd">シゲ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|65|328|<span class="rank-name-pd">お野菜の人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|66|315|<span class="rank-name-pd">LA@STAFF-1</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64661?s_seq=64661">Bar Lafeene</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
-|67|205|<span class="rank-name-pd">ＹＯＮＥ☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64661?s_seq=64661">Bar Lafeene</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|3|915|<span class="rank-name-pd">gucci:3</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|4|903|<span class="rank-name-pd">聖命</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64661?s_seq=64661">Bar Lafeene</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|5|901|<span class="rank-name-pd">ボンバイエくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|6|865|<span class="rank-name-pd"><span class="pro-icon-pd"></span>野中 雅</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|7|855|<span class="rank-name-pd">Q</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|8|830|<span class="rank-name-pd">hituji</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|8|830|<span class="rank-name-pd">ひら</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|10|828|<span class="rank-name-pd">だーその</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|11|817|<span class="rank-name-pd">HISA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|12|812|<span class="rank-name-pd">ポルじぃ(  ¯꒳​¯ )ᐝ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|13|811|<span class="rank-name-pd">遼@L( ・ω・)ノ~</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|14|790|<span class="rank-name-pd">yori</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|15|786|<span class="rank-name-pd">YUJIRO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|16|776|<span class="rank-name-pd">やまもっち★TPGN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|17|773|<span class="rank-name-pd">96℃</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|18|758|<span class="rank-name-pd">雄輝RinRin</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|19|741|<span class="rank-name-pd">TAKA ’13/7/3</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|20|731|<span class="rank-name-pd">みなみなと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|21|729|<span class="rank-name-pd">ninini</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|22|723|<span class="rank-name-pd">z3tq35b70aa7cf</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64661?s_seq=64661">Bar Lafeene</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|23|717|<span class="rank-name-pd">三浦 貴弘</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|24|709|<span class="rank-name-pd">さとたす</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|25|708|<span class="rank-name-pd">hama</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|26|704|<span class="rank-name-pd">ペンギン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|27|697|<span class="rank-name-pd">seiya</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|28|694|<span class="rank-name-pd">z7wi37f924b0ee</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|29|692|<span class="rank-name-pd">近藤 聖也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|30|680|<span class="rank-name-pd">LA☆えいじ〜(^o^)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64661?s_seq=64661">Bar Lafeene</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|31|676|<span class="rank-name-pd">いっちやねん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|32|675|<span class="rank-name-pd">yuki takai</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|33|670|<span class="rank-name-pd">たかふみ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|33|670|<span class="rank-name-pd">トミー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|35|665|<span class="rank-name-pd">KOTARO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|36|664|<span class="rank-name-pd">Chikka</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|37|663|<span class="rank-name-pd">LA.STELLA☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64661?s_seq=64661">Bar Lafeene</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|38|659|<span class="rank-name-pd">マサやん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|39|650|<span class="rank-name-pd">アルティメット</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64661?s_seq=64661">Bar Lafeene</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|40|647|<span class="rank-name-pd">yu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|41|646|<span class="rank-name-pd">じゅんじゅん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|42|637|<span class="rank-name-pd">馬</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|43|626|<span class="rank-name-pd">LA.RICKY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64661?s_seq=64661">Bar Lafeene</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|44|625|<span class="rank-name-pd">KATOO.GAIA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|44|625|<span class="rank-name-pd">LA@KEITA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64661?s_seq=64661">Bar Lafeene</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|46|621|<span class="rank-name-pd">PAPPOHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|47|619|<span class="rank-name-pd">TOMMＹ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|48|616|<span class="rank-name-pd">Y/Y</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|48|616|<span class="rank-name-pd">彩乃＆海月</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|50|613|<span class="rank-name-pd">SOTB</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64661?s_seq=64661">Bar Lafeene</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|51|608|<span class="rank-name-pd">ノンペリ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64661?s_seq=64661">Bar Lafeene</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|52|595|<span class="rank-name-pd">けん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|53|594|<span class="rank-name-pd">飛</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|54|589|<span class="rank-name-pd">ralf</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|55|581|<span class="rank-name-pd">だーかず</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|56|578|<span class="rank-name-pd">0179_9027</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|56|578|<span class="rank-name-pd">noname</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|58|570|<span class="rank-name-pd">やがさサル。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|59|568|<span class="rank-name-pd">とむ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|60|561|<span class="rank-name-pd">Fuuuuto</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|61|560|<span class="rank-name-pd">スザンヌ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|62|559|<span class="rank-name-pd">フェニさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|63|556|<span class="rank-name-pd">小嶋　将仁</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|64|552|<span class="rank-name-pd">shu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|65|550|<span class="rank-name-pd">平沢 公貴</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|66|545|<span class="rank-name-pd">ryota1648</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64661?s_seq=64661">Bar Lafeene</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|66|545|<span class="rank-name-pd">シゲ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|68|544|<span class="rank-name-pd">ぷるぷる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|69|543|<span class="rank-name-pd">haru</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|70|541|<span class="rank-name-pd">じゅん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|71|540|<span class="rank-name-pd">chihiro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|72|538|<span class="rank-name-pd">桂馬</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|73|536|<span class="rank-name-pd">0005_2917</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|74|534|<span class="rank-name-pd">リ・トモマサ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|75|532|<span class="rank-name-pd">メリー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|76|525|<span class="rank-name-pd">美菜子@テラット</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|77|516|<span class="rank-name-pd">Kai</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|77|516|<span class="rank-name-pd">Lemon</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|79|514|<span class="rank-name-pd">TSUKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|80|511|<span class="rank-name-pd">Momoka</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|81|510|<span class="rank-name-pd">狂乱のＤ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|82|500|<span class="rank-name-pd"><span class="pro-icon-pd"></span>小原 佑天</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|83|492|<span class="rank-name-pd">VirtualCard</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|84|490|<span class="rank-name-pd">z6qi37ee3c840a</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|85|484|<span class="rank-name-pd">☆Masa☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|86|477|<span class="rank-name-pd">0039_2242</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|87|467|<span class="rank-name-pd">そうえもん。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|88|465|<span class="rank-name-pd">よう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|89|463|<span class="rank-name-pd">LA@007</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64661?s_seq=64661">Bar Lafeene</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|90|449|<span class="rank-name-pd">shako</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|91|445|<span class="rank-name-pd">ヒロ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|92|443|<span class="rank-name-pd">梓汐</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|92|443|<span class="rank-name-pd">黒星奏斗</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|94|442|<span class="rank-name-pd">@ぴょん。#ひつじ組</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|95|438|<span class="rank-name-pd">RYOTA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64661?s_seq=64661">Bar Lafeene</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|96|437|<span class="rank-name-pd">LA@009</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64661?s_seq=64661">Bar Lafeene</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|97|434|<span class="rank-name-pd">(けxん)ノ~ｰ→ [◎]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|98|432|<span class="rank-name-pd">SOTB</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|99|431|<span class="rank-name-pd">Kazuya@放浪中</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
+|100|425|<span class="rank-name-pd">りさ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_53279?s_seq=53279">快活CLUB国道2号西宮店</a>|<a href="/darts/rank/兵庫県/西宮市">兵庫県西宮市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

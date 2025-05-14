@@ -23,106 +23,106 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1168|<span class="rank-name-dl">ぶんぶん</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|2|1118|<span class="rank-name-dl">のーぶー</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|3|1109|<span class="rank-name-dl">長谷部　巧</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|4|1092|<span class="rank-name-pd">宮城 信弘</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|5|1071|<span class="rank-name-pd">( *´艸) ｱﾋｬﾋｬ➰ﾋｬ🎶</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|6|1066|<span class="rank-name-pd">JUN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|7|1051|<span class="rank-name-pd">のぶー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|8|1039|<span class="rank-name-pd">とよき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|9|1037|<span class="rank-name-pd">俺がぶんぶん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|10|1022|<span class="rank-name-dl">tatsuki</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|11|1012|<span class="rank-name-pd">前田 大輔</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58773?s_seq=58773">Bar 23</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|12|986|<span class="rank-name-dl">JOU@BREEZE</span>|<a href="https://search.dartslive.com/jp/shop/9cb601d64f7cad480d9b047a20a7ba1e">Darts & Bar BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|13|985|<span class="rank-name-pd">新城 長寛</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|14|981|<span class="rank-name-dl">強童のdaion</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|15|978|<span class="rank-name-pd">( *´艸) ONE☝️🆘️</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|16|975|<span class="rank-name-pd">JOU@BREEZE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7219?s_seq=7219">BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|17|973|<span class="rank-name-pd">とよき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|18|968|<span class="rank-name-pd">新城 長寛</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5416?s_seq=5416">CoCo Club</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|18|968|<span class="rank-name-pd">新城　長寛</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|20|967|<span class="rank-name-dl">一宮弘人†濱大将</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|20|967|<span class="rank-name-pd"><span class="pro-icon-pd"></span>中尾 尚</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|22|956|<span class="rank-name-dl">あらしろながのり</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|23|943|<span class="rank-name-pd">tatsuki٩( &#x27;ω&#x27; )و</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|24|939|<span class="rank-name-pd">強童のdaion</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|25|938|<span class="rank-name-pd">大城 琉@above</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73225?s_seq=73225">しゃべり場</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|25|938|<span class="rank-name-pd">新城　長寛</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|27|936|<span class="rank-name-pd"><span class="pro-icon-pd"></span>一宮 弘人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|27|936|<span class="rank-name-pd">桃太郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|29|930|<span class="rank-name-pd">とよき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|30|925|<span class="rank-name-pd">大城 琉@above</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|31|922|<span class="rank-name-pd">さんぴん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|32|917|<span class="rank-name-pd">T.G</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|33|915|<span class="rank-name-pd">新城　長寛</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|34|913|<span class="rank-name-pd"><span class="pro-icon-pd"></span>前田 大輔</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|35|911|<span class="rank-name-pd">はたぼー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|35|911|<span class="rank-name-pd">オートガレージ友利</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|37|896|<span class="rank-name-pd">強童のdaion</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|38|891|<span class="rank-name-pd">みじゃー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|39|885|<span class="rank-name-pd">ぽぱい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|40|879|<span class="rank-name-pd">SHUN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88202?s_seq=88202">Amusement BAR HANAHANA</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|40|879|<span class="rank-name-pd">ꕤ*デブエル⋆ꕤ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7219?s_seq=7219">BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|42|866|<span class="rank-name-pd">ひーたん＠BREEZE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|43|865|<span class="rank-name-pd">や∽け</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|44|864|<span class="rank-name-pd">0162_8001</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|45|863|<span class="rank-name-pd">ぷよはる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|45|863|<span class="rank-name-pd">クリケ松村@bar23</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58773?s_seq=58773">Bar 23</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|47|862|<span class="rank-name-pd">強童のdaion</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7219?s_seq=7219">BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|48|856|<span class="rank-name-pd">kirin4</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9505?s_seq=9505">Darts Bar CROWD</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|49|852|<span class="rank-name-pd">ヂアミ ダイスケ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|50|851|<span class="rank-name-pd">K・K🍀*゜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|51|845|<span class="rank-name-pd">みじゃー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|52|843|<span class="rank-name-dl">かいと</span>|<a href="https://search.dartslive.com/jp/shop/9cb601d64f7cad480d9b047a20a7ba1e">Darts & Bar BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|53|838|<span class="rank-name-pd">雄麿丈</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|54|828|<span class="rank-name-pd">ꕤ*ツマリオ⋆ꕤ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7219?s_seq=7219">BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|55|825|<span class="rank-name-dl">⌘やーけ⌘</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|56|823|<span class="rank-name-pd">雄麿丈</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|57|821|<span class="rank-name-pd">めぐみ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|57|821|<span class="rank-name-pd">リンダマン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7219?s_seq=7219">BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|59|817|<span class="rank-name-pd">Ta-Ka @CROWD</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9505?s_seq=9505">Darts Bar CROWD</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|60|816|<span class="rank-name-pd">CROWD@TA-I</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9505?s_seq=9505">Darts Bar CROWD</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|60|816|<span class="rank-name-pd">ひーたん＠BREEZE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7219?s_seq=7219">BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|60|816|<span class="rank-name-pd">中尾 尚</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_66847?s_seq=66847">Set up 石垣島</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|63|813|<span class="rank-name-pd">tatsuki٩( &#x27;ω&#x27; )و</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|64|807|<span class="rank-name-pd"><span class="pro-icon-pd"></span>前田 大輔</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9505?s_seq=9505">Darts Bar CROWD</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|65|804|<span class="rank-name-pd">peko</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7219?s_seq=7219">BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|65|804|<span class="rank-name-pd">ひ－坊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7219?s_seq=7219">BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|65|804|<span class="rank-name-dl">まうす</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|68|801|<span class="rank-name-pd">ゆきち#K＆Kfamily</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|69|800|<span class="rank-name-pd">さきっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|69|800|<span class="rank-name-dl">りゅ</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|71|799|<span class="rank-name-pd">さきっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|72|794|<span class="rank-name-dl">おーみじゃ</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|72|794|<span class="rank-name-dl">のんきち</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|74|792|<span class="rank-name-pd">( *´艸) ｱﾋｬﾋｬ➰ﾋｬ🎶</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|74|792|<span class="rank-name-pd">Erina*</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_66847?s_seq=66847">Set up 石垣島</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|76|788|<span class="rank-name-pd">☆心☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_66847?s_seq=66847">Set up 石垣島</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|76|788|<span class="rank-name-pd">金太郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|78|787|<span class="rank-name-dl">だいちゃん石垣島</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|78|787|<span class="rank-name-pd">大久保賢志【DKAD】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|80|785|<span class="rank-name-pd">ヒロキ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7219?s_seq=7219">BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|81|783|<span class="rank-name-pd">@kaneku(^^)v</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81554?s_seq=81554">I’S SPORTS BAR&CAFE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|82|777|<span class="rank-name-pd">あべちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|83|776|<span class="rank-name-dl">yukichi.d.t.b</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|84|775|<span class="rank-name-pd">AKA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|85|772|<span class="rank-name-pd">りんたろ⇄くりす</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|86|770|<span class="rank-name-pd">to-4</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88202?s_seq=88202">Amusement BAR HANAHANA</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|86|770|<span class="rank-name-pd">新井 大介</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_66847?s_seq=66847">Set up 石垣島</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|88|769|<span class="rank-name-pd">大城 琉@above</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9505?s_seq=9505">Darts Bar CROWD</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|89|767|<span class="rank-name-pd">sae☆石垣島☆矢投人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|90|759|<span class="rank-name-dl">がく 「B×B」</span>|<a href="https://search.dartslive.com/jp/shop/9cb601d64f7cad480d9b047a20a7ba1e">Darts & Bar BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|91|754|<span class="rank-name-dl">がく 「B×B」</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|91|754|<span class="rank-name-pd">早川 昭之 JPN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58773?s_seq=58773">Bar 23</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|93|753|<span class="rank-name-pd">フェイシャル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7219?s_seq=7219">BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|94|750|<span class="rank-name-pd">ゆぃか@ぶんちゅ〜ぶ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|95|749|<span class="rank-name-pd">0112_3237</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|95|749|<span class="rank-name-pd">NARI~</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|97|746|<span class="rank-name-pd">農民1号</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|98|745|<span class="rank-name-pd">あべちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|99|744|<span class="rank-name-pd">HANA HANA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88202?s_seq=88202">Amusement BAR HANAHANA</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|100|742|<span class="rank-name-pd">ゆきち#K＆Kfamily</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7219?s_seq=7219">BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|1|1200|<span class="rank-name-pd">俺がぶんぶん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|2|1168|<span class="rank-name-dl">ぶんぶん</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|3|1128|<span class="rank-name-pd"><span class="pro-icon-pd"></span>前田 大輔</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58773?s_seq=58773">Bar 23</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|4|1126|<span class="rank-name-pd"><span class="pro-icon-pd"></span>新城 長寛</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|5|1118|<span class="rank-name-dl">のーぶー</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|6|1109|<span class="rank-name-dl">長谷部　巧</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|7|1092|<span class="rank-name-pd">宮城 信弘</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|8|1078|<span class="rank-name-pd">饗場克也DMC</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|9|1074|<span class="rank-name-pd">徳村 樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|10|1071|<span class="rank-name-pd">( *´艸) ｱﾋｬﾋｬ➰ﾋｬ🎶</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|11|1067|<span class="rank-name-pd">浅田 斉吾【2019 PERFECT】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|12|1066|<span class="rank-name-pd">JUN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|13|1051|<span class="rank-name-pd">のぶー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|14|1048|<span class="rank-name-pd">とよき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|15|1047|<span class="rank-name-dl">のぶー</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|16|1042|<span class="rank-name-pd">とよき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|17|1039|<span class="rank-name-pd">とよき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|18|1022|<span class="rank-name-dl">tatsuki</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|19|1007|<span class="rank-name-pd"><span class="pro-icon-pd"></span>新城 長寛</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94018?s_seq=94018">zero R 〜ISHIGAKI〜</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|20|996|<span class="rank-name-pd">☆カタカムナ＠アシア☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7219?s_seq=7219">BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|21|986|<span class="rank-name-dl">JOU@BREEZE</span>|<a href="https://search.dartslive.com/jp/shop/9cb601d64f7cad480d9b047a20a7ba1e">Darts & Bar BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|22|981|<span class="rank-name-dl">強童のdaion</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|23|978|<span class="rank-name-pd">( *´艸) ONE☝️🆘️</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|24|976|<span class="rank-name-pd">くーちゃんSet up 石垣島</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_66847?s_seq=66847">Set up 石垣島</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|24|976|<span class="rank-name-pd">ヂアミ ダイスケ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|26|975|<span class="rank-name-pd">JOU@BREEZE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7219?s_seq=7219">BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|27|973|<span class="rank-name-pd">＊T.g＊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|28|969|<span class="rank-name-pd">0092_3169</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|29|968|<span class="rank-name-pd">新城 長寛</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5416?s_seq=5416">CoCo Club</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|29|968|<span class="rank-name-pd">新城　長寛</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|31|967|<span class="rank-name-dl">一宮弘人†濱大将</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|31|967|<span class="rank-name-pd"><span class="pro-icon-pd"></span>中尾 尚</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|33|965|<span class="rank-name-pd">tatsuki٩( &#x27;ω&#x27; )و</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|34|964|<span class="rank-name-pd">新井 大介</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_66847?s_seq=66847">Set up 石垣島</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|35|959|<span class="rank-name-pd">のぶー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|35|959|<span class="rank-name-dl">青龍 S.P.G.H</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|37|956|<span class="rank-name-dl">あらしろながのり</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|38|954|<span class="rank-name-pd">^⁠_⁠^=⁠_⁠=</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7219?s_seq=7219">BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|39|940|<span class="rank-name-pd">( *´艸) ｱﾋｬﾋｬ➰ﾋｬ🎶</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7219?s_seq=7219">BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|40|939|<span class="rank-name-pd">強童のdaion</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|41|938|<span class="rank-name-pd">大城 琉@above</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73225?s_seq=73225">しゃべり場</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|41|938|<span class="rank-name-pd">新城　長寛</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|43|936|<span class="rank-name-pd"><span class="pro-icon-pd"></span>一宮 弘人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|43|936|<span class="rank-name-pd">桃太郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|45|925|<span class="rank-name-pd">大城 琉@above</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|46|922|<span class="rank-name-pd">くーちゃんSet up 石垣島</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_66847?s_seq=66847">Set up 石垣島　八重山油そば専門店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|46|922|<span class="rank-name-pd">さんぴん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|48|919|<span class="rank-name-pd">ほっしゃん@麺飯食堂＆zero R</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|49|917|<span class="rank-name-pd">T.G</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|50|915|<span class="rank-name-pd">0135_1806</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|50|915|<span class="rank-name-pd">新城　長寛</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|52|913|<span class="rank-name-pd"><span class="pro-icon-pd"></span>前田 大輔</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|53|912|<span class="rank-name-pd">農民1号</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7219?s_seq=7219">BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|54|911|<span class="rank-name-pd">はたぼー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|54|911|<span class="rank-name-pd">オートガレージ友利</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|56|910|<span class="rank-name-pd">みじゃー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|57|909|<span class="rank-name-pd">ちゅーるฅ•ω•ฅ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|58|905|<span class="rank-name-dl">miku sasaki</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|58|905|<span class="rank-name-dl">oba</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|60|904|<span class="rank-name-pd">ちゅーる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|60|904|<span class="rank-name-pd">ほっしゃん@麺飯食堂＆zero R</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94018?s_seq=94018">zero R 〜ISHIGAKI〜</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|62|900|<span class="rank-name-pd"><span class="pro-icon-pd"></span>新城 長寛</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|63|896|<span class="rank-name-dl">けん☆すたいる</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|63|896|<span class="rank-name-pd">強童のdaion</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|65|892|<span class="rank-name-pd">ꕤ竈開ꕤ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7219?s_seq=7219">BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|66|891|<span class="rank-name-pd">みじゃー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|67|888|<span class="rank-name-pd">ほっしゃん@麺飯食堂＆zero R</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7219?s_seq=7219">BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|67|888|<span class="rank-name-dl">やなぎ@9DartsTW</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|69|886|<span class="rank-name-pd">ちゅーるฅ•ω•ฅ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|70|885|<span class="rank-name-pd">ぽぱい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|71|882|<span class="rank-name-pd">ひーたん＠BREEZE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7219?s_seq=7219">BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|72|879|<span class="rank-name-pd">SHUN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88202?s_seq=88202">Amusement BAR HANAHANA</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|72|879|<span class="rank-name-dl">ちゅーる</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|72|879|<span class="rank-name-pd">ꕤ*デブエル⋆ꕤ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7219?s_seq=7219">BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|75|877|<span class="rank-name-pd">ほっしゃん@麺飯食堂＆zero R</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|76|876|<span class="rank-name-pd">あべちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|77|869|<span class="rank-name-pd">ka_key×ishigaki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9505?s_seq=9505">Darts Bar CROWD</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|78|866|<span class="rank-name-pd">ひーたん＠BREEZE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|79|865|<span class="rank-name-pd">や∽け</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|80|864|<span class="rank-name-pd">0162_8001</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|80|864|<span class="rank-name-pd">kirin4</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9505?s_seq=9505">Darts Bar CROWD</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|82|863|<span class="rank-name-pd">ぷよはる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|82|863|<span class="rank-name-pd">クリケ松村@bar23</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58773?s_seq=58773">Bar 23</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|84|862|<span class="rank-name-pd">強童のdaion</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7219?s_seq=7219">BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|85|861|<span class="rank-name-dl">仲本海岸</span>|<a href="https://search.dartslive.com/jp/shop/9cb601d64f7cad480d9b047a20a7ba1e">Darts & Bar BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|86|860|<span class="rank-name-pd">ひーたん＠BREEZE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|86|860|<span class="rank-name-pd">ふじ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|86|860|<span class="rank-name-pd">農民1号</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|89|856|<span class="rank-name-pd">Yuuuchan@chem</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|90|852|<span class="rank-name-pd">ほっしゃん@麺飯食堂＆zero R</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|91|851|<span class="rank-name-pd">K・K🍀*゜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|91|851|<span class="rank-name-dl">仲本海岸</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|93|850|<span class="rank-name-pd">はっぴぃ(⁠^⁠^⁠)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88202?s_seq=88202">Amusement BAR HANAHANA</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|93|850|<span class="rank-name-pd">青龍 S.P.G.H</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94018?s_seq=94018">zero R 〜ISHIGAKI〜</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|95|849|<span class="rank-name-pd">徳村 樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|96|846|<span class="rank-name-dl">新田 摩紀</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|97|843|<span class="rank-name-dl">かいと</span>|<a href="https://search.dartslive.com/jp/shop/9cb601d64f7cad480d9b047a20a7ba1e">Darts & Bar BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|98|839|<span class="rank-name-pd">ちゅーるฅ•ω•ฅ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94018?s_seq=94018">zero R 〜ISHIGAKI〜</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|99|838|<span class="rank-name-pd">雄麿丈</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|100|836|<span class="rank-name-pd">フェイシャル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7219?s_seq=7219">BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -135,62 +135,103 @@ ___
 |1|1168|<span class="rank-name-dl">ぶんぶん</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
 |2|1118|<span class="rank-name-dl">のーぶー</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
 |3|1109|<span class="rank-name-dl">長谷部　巧</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|4|1022|<span class="rank-name-dl">tatsuki</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|5|986|<span class="rank-name-dl">JOU@BREEZE</span>|<a href="https://search.dartslive.com/jp/shop/9cb601d64f7cad480d9b047a20a7ba1e">Darts & Bar BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|6|981|<span class="rank-name-dl">強童のdaion</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|7|967|<span class="rank-name-dl">一宮弘人†濱大将</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|8|956|<span class="rank-name-dl">あらしろながのり</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|9|843|<span class="rank-name-dl">かいと</span>|<a href="https://search.dartslive.com/jp/shop/9cb601d64f7cad480d9b047a20a7ba1e">Darts & Bar BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|10|825|<span class="rank-name-dl">⌘やーけ⌘</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|11|804|<span class="rank-name-dl">まうす</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|12|800|<span class="rank-name-dl">りゅ</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|13|794|<span class="rank-name-dl">おーみじゃ</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|13|794|<span class="rank-name-dl">のんきち</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|15|787|<span class="rank-name-dl">だいちゃん石垣島</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|16|776|<span class="rank-name-dl">yukichi.d.t.b</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|17|759|<span class="rank-name-dl">がく 「B×B」</span>|<a href="https://search.dartslive.com/jp/shop/9cb601d64f7cad480d9b047a20a7ba1e">Darts & Bar BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|18|754|<span class="rank-name-dl">がく 「B×B」</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|19|741|<span class="rank-name-dl">ちゃー</span>|<a href="https://search.dartslive.com/jp/shop/9cb601d64f7cad480d9b047a20a7ba1e">Darts & Bar BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|20|737|<span class="rank-name-dl">J★Shiggi</span>|<a href="https://search.dartslive.com/jp/shop/3c1feca6a42ebdef0d9b047a20a7ba1e">Set up</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|21|736|<span class="rank-name-dl">和琉風</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|22|732|<span class="rank-name-dl">NO NAME 4624</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|23|727|<span class="rank-name-dl">くーにゃん石垣島</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|24|725|<span class="rank-name-dl">keikan@anbaransu</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|25|722|<span class="rank-name-dl">A_saku</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|26|718|<span class="rank-name-dl">やけ</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|27|710|<span class="rank-name-dl">⋆*ginp*⋆</span>|<a href="https://search.dartslive.com/jp/shop/9cb601d64f7cad480d9b047a20a7ba1e">Darts & Bar BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|28|707|<span class="rank-name-dl">中村　涼太</span>|<a href="https://search.dartslive.com/jp/shop/9cb601d64f7cad480d9b047a20a7ba1e">Darts & Bar BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|29|697|<span class="rank-name-dl">せんちまん</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|30|681|<span class="rank-name-dl">yoshitaka manabe</span>|<a href="https://search.dartslive.com/jp/shop/9cb601d64f7cad480d9b047a20a7ba1e">Darts & Bar BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|31|672|<span class="rank-name-dl">J★Shiggi</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|32|656|<span class="rank-name-dl">NO NAME 2822</span>|<a href="https://search.dartslive.com/jp/shop/9cb601d64f7cad480d9b047a20a7ba1e">Darts & Bar BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|33|640|<span class="rank-name-dl">焼酎はそば</span>|<a href="https://search.dartslive.com/jp/shop/3c1feca6a42ebdef0d9b047a20a7ba1e">Set up</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|34|638|<span class="rank-name-dl">kohei</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|35|637|<span class="rank-name-dl">yuika</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|36|634|<span class="rank-name-dl">水沢 怜</span>|<a href="https://search.dartslive.com/jp/shop/9cb601d64f7cad480d9b047a20a7ba1e">Darts & Bar BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|36|634|<span class="rank-name-dl">熊さん(*´艸`*)</span>|<a href="https://search.dartslive.com/jp/shop/3c1feca6a42ebdef0d9b047a20a7ba1e">Set up</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|38|620|<span class="rank-name-dl">吉羽 咲代子</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|39|619|<span class="rank-name-dl">GEORGE</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|40|617|<span class="rank-name-dl">あべちゃん</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|40|617|<span class="rank-name-dl">優希@ｵｰﾘﾄｰﾘ</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|42|594|<span class="rank-name-dl">abovestyle</span>|<a href="https://search.dartslive.com/jp/shop/9cb601d64f7cad480d9b047a20a7ba1e">Darts & Bar BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|43|591|<span class="rank-name-dl">tommy@酒拳練習用</span>|<a href="https://search.dartslive.com/jp/shop/9cb601d64f7cad480d9b047a20a7ba1e">Darts & Bar BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|44|590|<span class="rank-name-dl">ジェダイの騎士</span>|<a href="https://search.dartslive.com/jp/shop/9cb601d64f7cad480d9b047a20a7ba1e">Darts & Bar BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|45|570|<span class="rank-name-dl">ゆキムチおでかけ</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|46|569|<span class="rank-name-dl">above</span>|<a href="https://search.dartslive.com/jp/shop/9cb601d64f7cad480d9b047a20a7ba1e">Darts & Bar BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|47|502|<span class="rank-name-dl">北挑戦</span>|<a href="https://search.dartslive.com/jp/shop/9cb601d64f7cad480d9b047a20a7ba1e">Darts & Bar BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|48|487|<span class="rank-name-dl">Micchan</span>|<a href="https://search.dartslive.com/jp/shop/3c1feca6a42ebdef0d9b047a20a7ba1e">Set up</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|49|486|<span class="rank-name-dl">山田組☆問題児♂</span>|<a href="https://search.dartslive.com/jp/shop/3c1feca6a42ebdef0d9b047a20a7ba1e">Set up</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|50|481|<span class="rank-name-dl">やまだ</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|51|466|<span class="rank-name-dl">YOCHAN</span>|<a href="https://search.dartslive.com/jp/shop/3c1feca6a42ebdef0d9b047a20a7ba1e">Set up</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|52|464|<span class="rank-name-dl">S.T</span>|<a href="https://search.dartslive.com/jp/shop/9cb601d64f7cad480d9b047a20a7ba1e">Darts & Bar BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|53|426|<span class="rank-name-dl">みーこ</span>|<a href="https://search.dartslive.com/jp/shop/9cb601d64f7cad480d9b047a20a7ba1e">Darts & Bar BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|54|410|<span class="rank-name-dl">南ぬ島人</span>|<a href="https://search.dartslive.com/jp/shop/9cb601d64f7cad480d9b047a20a7ba1e">Darts & Bar BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|55|402|<span class="rank-name-dl">石垣</span>|<a href="https://search.dartslive.com/jp/shop/3c1feca6a42ebdef0d9b047a20a7ba1e">Set up</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|56|376|<span class="rank-name-dl">みつき</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|57|375|<span class="rank-name-dl">NO NAME 3350</span>|<a href="https://search.dartslive.com/jp/shop/9cb601d64f7cad480d9b047a20a7ba1e">Darts & Bar BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|58|325|<span class="rank-name-dl">ゆうこ（左）</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|59|310|<span class="rank-name-dl">もちこ</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|4|1047|<span class="rank-name-dl">のぶー</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|5|1022|<span class="rank-name-dl">tatsuki</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|6|986|<span class="rank-name-dl">JOU@BREEZE</span>|<a href="https://search.dartslive.com/jp/shop/9cb601d64f7cad480d9b047a20a7ba1e">Darts & Bar BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|7|981|<span class="rank-name-dl">強童のdaion</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|8|967|<span class="rank-name-dl">一宮弘人†濱大将</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|9|959|<span class="rank-name-dl">青龍 S.P.G.H</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|10|956|<span class="rank-name-dl">あらしろながのり</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|11|905|<span class="rank-name-dl">miku sasaki</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|11|905|<span class="rank-name-dl">oba</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|13|896|<span class="rank-name-dl">けん☆すたいる</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|14|888|<span class="rank-name-dl">やなぎ@9DartsTW</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|15|879|<span class="rank-name-dl">ちゅーる</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|16|861|<span class="rank-name-dl">仲本海岸</span>|<a href="https://search.dartslive.com/jp/shop/9cb601d64f7cad480d9b047a20a7ba1e">Darts & Bar BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|17|851|<span class="rank-name-dl">仲本海岸</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|18|846|<span class="rank-name-dl">新田 摩紀</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|19|843|<span class="rank-name-dl">かいと</span>|<a href="https://search.dartslive.com/jp/shop/9cb601d64f7cad480d9b047a20a7ba1e">Darts & Bar BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|20|825|<span class="rank-name-dl">⌘やーけ⌘</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|21|823|<span class="rank-name-dl">フェイシャル</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|22|804|<span class="rank-name-dl">まうす</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|23|800|<span class="rank-name-dl">りゅ</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|24|794|<span class="rank-name-dl">おーみじゃ</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|24|794|<span class="rank-name-dl">のんきち</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|26|787|<span class="rank-name-dl">だいちゃん石垣島</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|27|784|<span class="rank-name-dl">さきｯﾁｮ(｢･ω･)｢</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|28|781|<span class="rank-name-dl">やけ</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|29|776|<span class="rank-name-dl">yukichi.d.t.b</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|30|772|<span class="rank-name-dl">yoshitaka manabe</span>|<a href="https://search.dartslive.com/jp/shop/9cb601d64f7cad480d9b047a20a7ba1e">Darts & Bar BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|31|769|<span class="rank-name-dl">eda^. ̫ .^‪</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|32|759|<span class="rank-name-dl">がく 「B×B」</span>|<a href="https://search.dartslive.com/jp/shop/9cb601d64f7cad480d9b047a20a7ba1e">Darts & Bar BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|33|755|<span class="rank-name-dl">フェイシャル</span>|<a href="https://search.dartslive.com/jp/shop/9cb601d64f7cad480d9b047a20a7ba1e">Darts & Bar BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|34|754|<span class="rank-name-dl">がく 「B×B」</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|35|751|<span class="rank-name-dl">あべちゃん</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|36|749|<span class="rank-name-dl">かまぼこ</span>|<a href="https://search.dartslive.com/jp/shop/9cb601d64f7cad480d9b047a20a7ba1e">Darts & Bar BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|37|746|<span class="rank-name-dl">かまぼこ</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|38|741|<span class="rank-name-dl">ちゃー</span>|<a href="https://search.dartslive.com/jp/shop/9cb601d64f7cad480d9b047a20a7ba1e">Darts & Bar BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|39|737|<span class="rank-name-dl">J★Shiggi</span>|<a href="https://search.dartslive.com/jp/shop/3c1feca6a42ebdef0d9b047a20a7ba1e">Set up</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|40|736|<span class="rank-name-dl">和琉風</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|41|732|<span class="rank-name-dl">NO NAME 4624</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|42|727|<span class="rank-name-dl">くーにゃん石垣島</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|43|725|<span class="rank-name-dl">keikan@anbaransu</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|44|722|<span class="rank-name-dl">A_saku</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|45|720|<span class="rank-name-dl">NO NAME 0870</span>|<a href="https://search.dartslive.com/jp/shop/9cb601d64f7cad480d9b047a20a7ba1e">Darts & Bar BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|46|714|<span class="rank-name-dl">NO NAME 0358</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|47|713|<span class="rank-name-dl">YouCham@RED</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|48|710|<span class="rank-name-dl">⋆*ginp*⋆</span>|<a href="https://search.dartslive.com/jp/shop/9cb601d64f7cad480d9b047a20a7ba1e">Darts & Bar BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|49|708|<span class="rank-name-dl">41359_柳 嘉俊</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|49|708|<span class="rank-name-dl">R@香港赴任中</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|51|707|<span class="rank-name-dl">中村　涼太</span>|<a href="https://search.dartslive.com/jp/shop/9cb601d64f7cad480d9b047a20a7ba1e">Darts & Bar BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|52|699|<span class="rank-name-dl">kawa24</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|53|697|<span class="rank-name-dl">せんちまん</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|54|672|<span class="rank-name-dl">J★Shiggi</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|55|669|<span class="rank-name-dl">YU___Ki</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|55|669|<span class="rank-name-dl">そらにぃ</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|57|668|<span class="rank-name-dl">りゅザクもみ</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|58|664|<span class="rank-name-dl">yoshitaka manabe</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|59|662|<span class="rank-name-dl">ナベ</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|60|656|<span class="rank-name-dl">NO NAME 2822</span>|<a href="https://search.dartslive.com/jp/shop/9cb601d64f7cad480d9b047a20a7ba1e">Darts & Bar BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|60|656|<span class="rank-name-dl">マルテハ</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|62|640|<span class="rank-name-dl">焼酎はそば</span>|<a href="https://search.dartslive.com/jp/shop/3c1feca6a42ebdef0d9b047a20a7ba1e">Set up</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|63|638|<span class="rank-name-dl">kohei</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|64|637|<span class="rank-name-dl">yuika</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|65|634|<span class="rank-name-dl">水沢 怜</span>|<a href="https://search.dartslive.com/jp/shop/9cb601d64f7cad480d9b047a20a7ba1e">Darts & Bar BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|65|634|<span class="rank-name-dl">熊さん(*´艸`*)</span>|<a href="https://search.dartslive.com/jp/shop/3c1feca6a42ebdef0d9b047a20a7ba1e">Set up</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|67|620|<span class="rank-name-dl">吉羽 咲代子</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|68|619|<span class="rank-name-dl">GEORGE</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|69|617|<span class="rank-name-dl">優希@ｵｰﾘﾄｰﾘ</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|70|607|<span class="rank-name-dl">d(｡ゝд･)でし○</span>|<a href="https://search.dartslive.com/jp/shop/9cb601d64f7cad480d9b047a20a7ba1e">Darts & Bar BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|71|594|<span class="rank-name-dl">abovestyle</span>|<a href="https://search.dartslive.com/jp/shop/9cb601d64f7cad480d9b047a20a7ba1e">Darts & Bar BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|71|594|<span class="rank-name-dl">なんなん</span>|<a href="https://search.dartslive.com/jp/shop/9cb601d64f7cad480d9b047a20a7ba1e">Darts & Bar BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|73|591|<span class="rank-name-dl">tommy@酒拳練習用</span>|<a href="https://search.dartslive.com/jp/shop/9cb601d64f7cad480d9b047a20a7ba1e">Darts & Bar BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|74|590|<span class="rank-name-dl">ジェダイの騎士</span>|<a href="https://search.dartslive.com/jp/shop/9cb601d64f7cad480d9b047a20a7ba1e">Darts & Bar BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|75|585|<span class="rank-name-dl">NO NAME 0032</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|76|573|<span class="rank-name-dl">NAO</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|77|570|<span class="rank-name-dl">ゆキムチおでかけ</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|78|569|<span class="rank-name-dl">above</span>|<a href="https://search.dartslive.com/jp/shop/9cb601d64f7cad480d9b047a20a7ba1e">Darts & Bar BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|79|565|<span class="rank-name-dl">d-なかむー@虹</span>|<a href="https://search.dartslive.com/jp/shop/9cb601d64f7cad480d9b047a20a7ba1e">Darts & Bar BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|79|565|<span class="rank-name-dl">中の人@T&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|81|543|<span class="rank-name-dl">ちゃま</span>|<a href="https://search.dartslive.com/jp/shop/9cb601d64f7cad480d9b047a20a7ba1e">Darts & Bar BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|82|530|<span class="rank-name-dl">S.T</span>|<a href="https://search.dartslive.com/jp/shop/9cb601d64f7cad480d9b047a20a7ba1e">Darts & Bar BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|83|502|<span class="rank-name-dl">北挑戦</span>|<a href="https://search.dartslive.com/jp/shop/9cb601d64f7cad480d9b047a20a7ba1e">Darts & Bar BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|84|489|<span class="rank-name-dl">ンパ職人</span>|<a href="https://search.dartslive.com/jp/shop/9cb601d64f7cad480d9b047a20a7ba1e">Darts & Bar BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|85|487|<span class="rank-name-dl">Micchan</span>|<a href="https://search.dartslive.com/jp/shop/3c1feca6a42ebdef0d9b047a20a7ba1e">Set up</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|86|486|<span class="rank-name-dl">山田組☆問題児♂</span>|<a href="https://search.dartslive.com/jp/shop/3c1feca6a42ebdef0d9b047a20a7ba1e">Set up</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|87|481|<span class="rank-name-dl">やまだ</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|88|466|<span class="rank-name-dl">YOCHAN</span>|<a href="https://search.dartslive.com/jp/shop/3c1feca6a42ebdef0d9b047a20a7ba1e">Set up</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|89|459|<span class="rank-name-dl">りょー</span>|<a href="https://search.dartslive.com/jp/shop/9cb601d64f7cad480d9b047a20a7ba1e">Darts & Bar BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|90|437|<span class="rank-name-dl">MISAKI</span>|<a href="https://search.dartslive.com/jp/shop/9cb601d64f7cad480d9b047a20a7ba1e">Darts & Bar BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|91|430|<span class="rank-name-dl">Remmy</span>|<a href="https://search.dartslive.com/jp/shop/9cb601d64f7cad480d9b047a20a7ba1e">Darts & Bar BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|92|426|<span class="rank-name-dl">みーこ</span>|<a href="https://search.dartslive.com/jp/shop/9cb601d64f7cad480d9b047a20a7ba1e">Darts & Bar BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|93|419|<span class="rank-name-dl">ぐっさん</span>|<a href="https://search.dartslive.com/jp/shop/9cb601d64f7cad480d9b047a20a7ba1e">Darts & Bar BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|94|410|<span class="rank-name-dl">南ぬ島人</span>|<a href="https://search.dartslive.com/jp/shop/9cb601d64f7cad480d9b047a20a7ba1e">Darts & Bar BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|95|402|<span class="rank-name-dl">石垣</span>|<a href="https://search.dartslive.com/jp/shop/3c1feca6a42ebdef0d9b047a20a7ba1e">Set up</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|96|395|<span class="rank-name-dl">アクセル</span>|<a href="https://search.dartslive.com/jp/shop/9cb601d64f7cad480d9b047a20a7ba1e">Darts & Bar BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|97|376|<span class="rank-name-dl">みつき</span>|<a href="https://search.dartslive.com/jp/shop/d26181f01ebddbe2b21333aee1bd51e4">AmusementBar あんばらんす</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|98|375|<span class="rank-name-dl">NO NAME 3350</span>|<a href="https://search.dartslive.com/jp/shop/9cb601d64f7cad480d9b047a20a7ba1e">Darts & Bar BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|99|365|<span class="rank-name-dl">1129_0115</span>|<a href="https://search.dartslive.com/jp/shop/9cb601d64f7cad480d9b047a20a7ba1e">Darts & Bar BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|100|342|<span class="rank-name-dl">CHOUJI＠石垣島</span>|<a href="https://search.dartslive.com/jp/shop/9cb601d64f7cad480d9b047a20a7ba1e">Darts & Bar BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
 
 
 #### PHOENIXDARTS TOP 100
@@ -200,106 +241,106 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1092|<span class="rank-name-pd">宮城 信弘</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|2|1071|<span class="rank-name-pd">( *´艸) ｱﾋｬﾋｬ➰ﾋｬ🎶</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|3|1066|<span class="rank-name-pd">JUN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|4|1051|<span class="rank-name-pd">のぶー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|5|1039|<span class="rank-name-pd">とよき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|6|1037|<span class="rank-name-pd">俺がぶんぶん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|7|1012|<span class="rank-name-pd">前田 大輔</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58773?s_seq=58773">Bar 23</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|8|985|<span class="rank-name-pd">新城 長寛</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|9|978|<span class="rank-name-pd">( *´艸) ONE☝️🆘️</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|10|975|<span class="rank-name-pd">JOU@BREEZE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7219?s_seq=7219">BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|11|973|<span class="rank-name-pd">とよき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|12|968|<span class="rank-name-pd">新城 長寛</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5416?s_seq=5416">CoCo Club</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|12|968|<span class="rank-name-pd">新城　長寛</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|14|967|<span class="rank-name-pd"><span class="pro-icon-pd"></span>中尾 尚</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|15|943|<span class="rank-name-pd">tatsuki٩( &#x27;ω&#x27; )و</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|16|939|<span class="rank-name-pd">強童のdaion</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|17|938|<span class="rank-name-pd">大城 琉@above</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73225?s_seq=73225">しゃべり場</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|17|938|<span class="rank-name-pd">新城　長寛</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|19|936|<span class="rank-name-pd"><span class="pro-icon-pd"></span>一宮 弘人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|19|936|<span class="rank-name-pd">桃太郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|21|930|<span class="rank-name-pd">とよき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|22|925|<span class="rank-name-pd">大城 琉@above</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|23|922|<span class="rank-name-pd">さんぴん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|24|917|<span class="rank-name-pd">T.G</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|25|915|<span class="rank-name-pd">新城　長寛</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|26|913|<span class="rank-name-pd"><span class="pro-icon-pd"></span>前田 大輔</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|27|911|<span class="rank-name-pd">はたぼー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|27|911|<span class="rank-name-pd">オートガレージ友利</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|29|896|<span class="rank-name-pd">強童のdaion</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|30|891|<span class="rank-name-pd">みじゃー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|31|885|<span class="rank-name-pd">ぽぱい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|32|879|<span class="rank-name-pd">SHUN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88202?s_seq=88202">Amusement BAR HANAHANA</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|32|879|<span class="rank-name-pd">ꕤ*デブエル⋆ꕤ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7219?s_seq=7219">BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|34|866|<span class="rank-name-pd">ひーたん＠BREEZE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|35|865|<span class="rank-name-pd">や∽け</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|36|864|<span class="rank-name-pd">0162_8001</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|37|863|<span class="rank-name-pd">ぷよはる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|37|863|<span class="rank-name-pd">クリケ松村@bar23</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58773?s_seq=58773">Bar 23</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|39|862|<span class="rank-name-pd">強童のdaion</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7219?s_seq=7219">BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|40|856|<span class="rank-name-pd">kirin4</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9505?s_seq=9505">Darts Bar CROWD</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|41|852|<span class="rank-name-pd">ヂアミ ダイスケ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|42|851|<span class="rank-name-pd">K・K🍀*゜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|43|845|<span class="rank-name-pd">みじゃー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|44|838|<span class="rank-name-pd">雄麿丈</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|45|828|<span class="rank-name-pd">ꕤ*ツマリオ⋆ꕤ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7219?s_seq=7219">BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|46|823|<span class="rank-name-pd">雄麿丈</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|47|821|<span class="rank-name-pd">めぐみ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|47|821|<span class="rank-name-pd">リンダマン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7219?s_seq=7219">BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|49|817|<span class="rank-name-pd">Ta-Ka @CROWD</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9505?s_seq=9505">Darts Bar CROWD</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|50|816|<span class="rank-name-pd">CROWD@TA-I</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9505?s_seq=9505">Darts Bar CROWD</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|50|816|<span class="rank-name-pd">ひーたん＠BREEZE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7219?s_seq=7219">BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|50|816|<span class="rank-name-pd">中尾 尚</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_66847?s_seq=66847">Set up 石垣島</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|53|813|<span class="rank-name-pd">tatsuki٩( &#x27;ω&#x27; )و</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|54|807|<span class="rank-name-pd"><span class="pro-icon-pd"></span>前田 大輔</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9505?s_seq=9505">Darts Bar CROWD</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|55|804|<span class="rank-name-pd">peko</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7219?s_seq=7219">BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|55|804|<span class="rank-name-pd">ひ－坊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7219?s_seq=7219">BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|57|801|<span class="rank-name-pd">ゆきち#K＆Kfamily</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|58|800|<span class="rank-name-pd">さきっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|59|799|<span class="rank-name-pd">さきっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|60|792|<span class="rank-name-pd">( *´艸) ｱﾋｬﾋｬ➰ﾋｬ🎶</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|60|792|<span class="rank-name-pd">Erina*</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_66847?s_seq=66847">Set up 石垣島</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|62|788|<span class="rank-name-pd">☆心☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_66847?s_seq=66847">Set up 石垣島</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|62|788|<span class="rank-name-pd">金太郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|64|787|<span class="rank-name-pd">大久保賢志【DKAD】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|65|785|<span class="rank-name-pd">ヒロキ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7219?s_seq=7219">BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|66|783|<span class="rank-name-pd">@kaneku(^^)v</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81554?s_seq=81554">I’S SPORTS BAR&CAFE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|67|777|<span class="rank-name-pd">あべちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|68|775|<span class="rank-name-pd">AKA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|69|772|<span class="rank-name-pd">りんたろ⇄くりす</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|70|770|<span class="rank-name-pd">to-4</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88202?s_seq=88202">Amusement BAR HANAHANA</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|70|770|<span class="rank-name-pd">新井 大介</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_66847?s_seq=66847">Set up 石垣島</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|72|769|<span class="rank-name-pd">大城 琉@above</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9505?s_seq=9505">Darts Bar CROWD</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|73|767|<span class="rank-name-pd">sae☆石垣島☆矢投人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|74|754|<span class="rank-name-pd">早川 昭之 JPN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58773?s_seq=58773">Bar 23</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|75|753|<span class="rank-name-pd">フェイシャル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7219?s_seq=7219">BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|76|750|<span class="rank-name-pd">ゆぃか@ぶんちゅ〜ぶ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|77|749|<span class="rank-name-pd">0112_3237</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|77|749|<span class="rank-name-pd">NARI~</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|79|746|<span class="rank-name-pd">農民1号</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|80|745|<span class="rank-name-pd">あべちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|81|744|<span class="rank-name-pd">HANA HANA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88202?s_seq=88202">Amusement BAR HANAHANA</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|82|742|<span class="rank-name-pd">ゆきち#K＆Kfamily</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7219?s_seq=7219">BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|83|741|<span class="rank-name-pd">kirin4</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|84|740|<span class="rank-name-pd">J☆@PinkElephant</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_66847?s_seq=66847">Set up 石垣島</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|85|738|<span class="rank-name-pd">Daiki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|86|735|<span class="rank-name-pd">PON</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|87|727|<span class="rank-name-pd">sae☆石垣島☆矢投人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|88|726|<span class="rank-name-pd">和琉風</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|88|726|<span class="rank-name-pd"><span class="pro-icon-pd"></span>平田 里美</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|90|723|<span class="rank-name-pd">NARI~</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|91|720|<span class="rank-name-pd">Kou</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|92|719|<span class="rank-name-pd">KENKENDS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|92|719|<span class="rank-name-pd">ひーたん＠BREEZE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|94|718|<span class="rank-name-pd">ゆきち#K＆Kfamily</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|94|718|<span class="rank-name-pd">ヒロキ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|96|714|<span class="rank-name-pd">MACALLAN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88202?s_seq=88202">Amusement BAR HANAHANA</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|97|711|<span class="rank-name-pd">レオ( ˙ᒡ̱˙   )</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|98|707|<span class="rank-name-pd">1997</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|98|707|<span class="rank-name-pd">MACALLAN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7219?s_seq=7219">BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
-|100|706|<span class="rank-name-pd">U-M@Do</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|1|1200|<span class="rank-name-pd">俺がぶんぶん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|2|1128|<span class="rank-name-pd"><span class="pro-icon-pd"></span>前田 大輔</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58773?s_seq=58773">Bar 23</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|3|1126|<span class="rank-name-pd"><span class="pro-icon-pd"></span>新城 長寛</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|4|1092|<span class="rank-name-pd">宮城 信弘</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|5|1078|<span class="rank-name-pd">饗場克也DMC</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|6|1074|<span class="rank-name-pd">徳村 樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|7|1071|<span class="rank-name-pd">( *´艸) ｱﾋｬﾋｬ➰ﾋｬ🎶</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|8|1067|<span class="rank-name-pd">浅田 斉吾【2019 PERFECT】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|9|1066|<span class="rank-name-pd">JUN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|10|1051|<span class="rank-name-pd">のぶー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|11|1048|<span class="rank-name-pd">とよき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|12|1042|<span class="rank-name-pd">とよき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|13|1039|<span class="rank-name-pd">とよき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|14|1007|<span class="rank-name-pd"><span class="pro-icon-pd"></span>新城 長寛</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94018?s_seq=94018">zero R 〜ISHIGAKI〜</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|15|996|<span class="rank-name-pd">☆カタカムナ＠アシア☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7219?s_seq=7219">BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|16|978|<span class="rank-name-pd">( *´艸) ONE☝️🆘️</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|17|976|<span class="rank-name-pd">くーちゃんSet up 石垣島</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_66847?s_seq=66847">Set up 石垣島</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|17|976|<span class="rank-name-pd">ヂアミ ダイスケ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|19|975|<span class="rank-name-pd">JOU@BREEZE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7219?s_seq=7219">BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|20|973|<span class="rank-name-pd">＊T.g＊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|21|969|<span class="rank-name-pd">0092_3169</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|22|968|<span class="rank-name-pd">新城 長寛</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5416?s_seq=5416">CoCo Club</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|22|968|<span class="rank-name-pd">新城　長寛</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|24|967|<span class="rank-name-pd"><span class="pro-icon-pd"></span>中尾 尚</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|25|965|<span class="rank-name-pd">tatsuki٩( &#x27;ω&#x27; )و</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|26|964|<span class="rank-name-pd">新井 大介</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_66847?s_seq=66847">Set up 石垣島</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|27|959|<span class="rank-name-pd">のぶー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|28|954|<span class="rank-name-pd">^⁠_⁠^=⁠_⁠=</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7219?s_seq=7219">BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|29|940|<span class="rank-name-pd">( *´艸) ｱﾋｬﾋｬ➰ﾋｬ🎶</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7219?s_seq=7219">BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|30|939|<span class="rank-name-pd">強童のdaion</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|31|938|<span class="rank-name-pd">大城 琉@above</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73225?s_seq=73225">しゃべり場</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|31|938|<span class="rank-name-pd">新城　長寛</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|33|936|<span class="rank-name-pd"><span class="pro-icon-pd"></span>一宮 弘人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|33|936|<span class="rank-name-pd">桃太郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|35|925|<span class="rank-name-pd">大城 琉@above</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|36|922|<span class="rank-name-pd">くーちゃんSet up 石垣島</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_66847?s_seq=66847">Set up 石垣島　八重山油そば専門店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|36|922|<span class="rank-name-pd">さんぴん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|38|919|<span class="rank-name-pd">ほっしゃん@麺飯食堂＆zero R</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|39|917|<span class="rank-name-pd">T.G</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|40|915|<span class="rank-name-pd">0135_1806</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|40|915|<span class="rank-name-pd">新城　長寛</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|42|913|<span class="rank-name-pd"><span class="pro-icon-pd"></span>前田 大輔</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|43|912|<span class="rank-name-pd">農民1号</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7219?s_seq=7219">BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|44|911|<span class="rank-name-pd">はたぼー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|44|911|<span class="rank-name-pd">オートガレージ友利</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|46|910|<span class="rank-name-pd">みじゃー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|47|909|<span class="rank-name-pd">ちゅーるฅ•ω•ฅ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|48|904|<span class="rank-name-pd">ちゅーる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|48|904|<span class="rank-name-pd">ほっしゃん@麺飯食堂＆zero R</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94018?s_seq=94018">zero R 〜ISHIGAKI〜</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|50|900|<span class="rank-name-pd"><span class="pro-icon-pd"></span>新城 長寛</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|51|896|<span class="rank-name-pd">強童のdaion</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|52|892|<span class="rank-name-pd">ꕤ竈開ꕤ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7219?s_seq=7219">BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|53|891|<span class="rank-name-pd">みじゃー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|54|888|<span class="rank-name-pd">ほっしゃん@麺飯食堂＆zero R</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7219?s_seq=7219">BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|55|886|<span class="rank-name-pd">ちゅーるฅ•ω•ฅ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|56|885|<span class="rank-name-pd">ぽぱい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|57|882|<span class="rank-name-pd">ひーたん＠BREEZE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7219?s_seq=7219">BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|58|879|<span class="rank-name-pd">SHUN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88202?s_seq=88202">Amusement BAR HANAHANA</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|58|879|<span class="rank-name-pd">ꕤ*デブエル⋆ꕤ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7219?s_seq=7219">BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|60|877|<span class="rank-name-pd">ほっしゃん@麺飯食堂＆zero R</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|61|876|<span class="rank-name-pd">あべちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|62|869|<span class="rank-name-pd">ka_key×ishigaki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9505?s_seq=9505">Darts Bar CROWD</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|63|866|<span class="rank-name-pd">ひーたん＠BREEZE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|64|865|<span class="rank-name-pd">や∽け</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|65|864|<span class="rank-name-pd">0162_8001</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|65|864|<span class="rank-name-pd">kirin4</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9505?s_seq=9505">Darts Bar CROWD</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|67|863|<span class="rank-name-pd">ぷよはる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|67|863|<span class="rank-name-pd">クリケ松村@bar23</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_58773?s_seq=58773">Bar 23</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|69|862|<span class="rank-name-pd">強童のdaion</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7219?s_seq=7219">BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|70|860|<span class="rank-name-pd">ひーたん＠BREEZE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|70|860|<span class="rank-name-pd">ふじ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|70|860|<span class="rank-name-pd">農民1号</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|73|856|<span class="rank-name-pd">Yuuuchan@chem</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|74|852|<span class="rank-name-pd">ほっしゃん@麺飯食堂＆zero R</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|75|851|<span class="rank-name-pd">K・K🍀*゜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|76|850|<span class="rank-name-pd">はっぴぃ(⁠^⁠^⁠)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88202?s_seq=88202">Amusement BAR HANAHANA</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|76|850|<span class="rank-name-pd">青龍 S.P.G.H</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94018?s_seq=94018">zero R 〜ISHIGAKI〜</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|78|849|<span class="rank-name-pd">徳村 樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|79|839|<span class="rank-name-pd">ちゅーるฅ•ω•ฅ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94018?s_seq=94018">zero R 〜ISHIGAKI〜</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|80|838|<span class="rank-name-pd">雄麿丈</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|81|836|<span class="rank-name-pd">フェイシャル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7219?s_seq=7219">BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|82|834|<span class="rank-name-pd">センリ2</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7219?s_seq=7219">BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|83|828|<span class="rank-name-pd">ꕤ*ツマリオ⋆ꕤ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7219?s_seq=7219">BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|84|825|<span class="rank-name-pd">はっぴぃ(⁠^⁠^⁠)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|85|823|<span class="rank-name-pd">雄麿丈</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|86|822|<span class="rank-name-pd">ちゅーるฅ•ω•ฅ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_66847?s_seq=66847">Set up 石垣島　八重山油そば専門店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|86|822|<span class="rank-name-pd"><span class="pro-icon-pd"></span>中尾 尚</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|88|821|<span class="rank-name-pd">めぐみ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8230?s_seq=8230">アンバランス</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|88|821|<span class="rank-name-pd">リンダマン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7219?s_seq=7219">BREEZE</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|90|819|<span class="rank-name-pd"><span class="pro-icon-pd"></span>新城 長寛</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_66847?s_seq=66847">Set up 石垣島</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|91|818|<span class="rank-name-pd">sae☆石垣島☆矢投人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|91|818|<span class="rank-name-pd">フェイシャル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|93|817|<span class="rank-name-pd">Ta-Ka @CROWD</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9505?s_seq=9505">Darts Bar CROWD</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|93|817|<span class="rank-name-pd">さち@above</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|95|816|<span class="rank-name-pd">CROWD@TA-I</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9505?s_seq=9505">Darts Bar CROWD</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|95|816|<span class="rank-name-pd">中尾 尚</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_66847?s_seq=66847">Set up 石垣島</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|97|815|<span class="rank-name-pd">zuha38004cd3b3</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85028?s_seq=85028">Darts Bar above</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|98|813|<span class="rank-name-pd">tatsuki٩( &#x27;ω&#x27; )و</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74624?s_seq=74624">コミックバスター 石垣島店</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|99|808|<span class="rank-name-pd">よーじゅん1</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_66847?s_seq=66847">Set up 石垣島</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
+|99|808|<span class="rank-name-pd"><span class="pro-icon-pd"></span>大城 琉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73225?s_seq=73225">しゃべり場</a>|<a href="/darts/rank/沖縄県/石垣市">沖縄県石垣市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

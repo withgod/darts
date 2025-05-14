@@ -23,106 +23,106 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1205|<span class="rank-name-dl">S.Kuroda</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|2|1200|<span class="rank-name-dl">黒田 俊平</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|3|1084|<span class="rank-name-dl">kaz-8</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|4|1080|<span class="rank-name-dl">モウモウ倶楽部</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|5|1051|<span class="rank-name-pd">S.KURODA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|6|1038|<span class="rank-name-pd">KAZ-8</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|7|1033|<span class="rank-name-dl">道</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|8|1021|<span class="rank-name-dl">STYLE×裕矢</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|9|1016|<span class="rank-name-dl">ﾊﾞﾙｶﾝ300 ｼﾞｴﾝﾄﾞ</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|10|1013|<span class="rank-name-pd">MO!chan☆Tres</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|11|1007|<span class="rank-name-dl">K</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|11|1007|<span class="rank-name-dl">Z</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|13|1006|<span class="rank-name-pd">子連れ狼</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|14|1005|<span class="rank-name-pd">JUN-50嵐</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|15|1002|<span class="rank-name-dl">亀亀破ーー！！！</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|16|991|<span class="rank-name-dl">Lstyle2022a</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|17|990|<span class="rank-name-dl">(ixi)ライミィ</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|18|986|<span class="rank-name-dl">MO!chan</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|19|983|<span class="rank-name-dl">KAZ☆矢</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|20|981|<span class="rank-name-dl">自由の女神</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|21|976|<span class="rank-name-dl">☆TAKUYA☆</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|22|971|<span class="rank-name-dl">ﾀｶﾋﾛ@ATTIC×JET8</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|23|967|<span class="rank-name-pd">モウモウ倶楽部</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|24|966|<span class="rank-name-dl">茶葉</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|25|961|<span class="rank-name-pd">C.T.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|26|951|<span class="rank-name-dl">じめ@vintage</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|27|944|<span class="rank-name-pd">MICHI瑛</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|28|937|<span class="rank-name-dl">ｴﾐﾁｬﾝﾌﾞﾗｯｸOldAge</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|29|933|<span class="rank-name-dl">鈴木 裕介【狼】</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|30|922|<span class="rank-name-pd">hikaru</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|31|913|<span class="rank-name-pd">みっちー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|32|911|<span class="rank-name-pd">TOM</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|33|905|<span class="rank-name-pd">☆暇人☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|33|905|<span class="rank-name-pd">茶葉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|35|903|<span class="rank-name-pd">z56x35d644abb0</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|36|896|<span class="rank-name-pd">tobi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|37|877|<span class="rank-name-dl">りょうま</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|38|873|<span class="rank-name-pd">kaz☆矢</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|39|862|<span class="rank-name-dl">世良ちゃん</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|40|861|<span class="rank-name-pd">よぴ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|41|846|<span class="rank-name-pd">0057_1171</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|42|834|<span class="rank-name-dl">ｴﾐﾌｪｰｳﾞﾙ♞OldAge</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|43|833|<span class="rank-name-pd">Tatsuya</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|44|830|<span class="rank-name-dl">(ixi)aya★</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|45|829|<span class="rank-name-pd">CARLY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|46|811|<span class="rank-name-dl">maria</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|47|806|<span class="rank-name-pd">ウツボカズラさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|48|802|<span class="rank-name-pd">たいやき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|48|802|<span class="rank-name-pd">だぁ〜と</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|50|791|<span class="rank-name-pd">自由の女神</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|51|789|<span class="rank-name-dl">めろんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|52|788|<span class="rank-name-dl">Emily☆゜.*・。</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|53|787|<span class="rank-name-dl">NO NAME 2368</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|54|786|<span class="rank-name-dl">/ZEROたくなるとﾞ</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|55|776|<span class="rank-name-pd">Ma8aki&#x27;s Darts Room</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|56|767|<span class="rank-name-pd">ゆう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|57|761|<span class="rank-name-dl">☆まき☆</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|58|754|<span class="rank-name-pd">THOMAS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|59|750|<span class="rank-name-dl">真樹</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|60|748|<span class="rank-name-pd">0254_2466</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|60|748|<span class="rank-name-dl">HIRO</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|60|748|<span class="rank-name-pd">グリーングリーン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|63|746|<span class="rank-name-dl">☆MAKI☆</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|64|742|<span class="rank-name-dl">Ryu</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|64|742|<span class="rank-name-pd">z</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|66|738|<span class="rank-name-pd">@tatsu@</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|67|736|<span class="rank-name-pd">ピロチ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|68|735|<span class="rank-name-pd">にーに≪函館≫</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|69|730|<span class="rank-name-dl">RIE★イップス</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|70|727|<span class="rank-name-pd">うどんぬ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|71|716|<span class="rank-name-pd">Emily </span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|72|711|<span class="rank-name-dl">MOMO</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|73|710|<span class="rank-name-dl">わにゃーびぃ</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|74|706|<span class="rank-name-pd">hikaru.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|75|687|<span class="rank-name-pd">☆MAKI☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|76|686|<span class="rank-name-pd">I</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|77|684|<span class="rank-name-pd">みや</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|78|682|<span class="rank-name-pd">ピロチ@</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|79|679|<span class="rank-name-pd">(ixi)AYA★</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|80|675|<span class="rank-name-dl">黒田 絵美</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|81|667|<span class="rank-name-dl">もぐら</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|82|663|<span class="rank-name-dl">富デレラ</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|83|662|<span class="rank-name-pd">-Jack-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|84|655|<span class="rank-name-dl">きびだんご</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|85|654|<span class="rank-name-pd">ヒカル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|86|649|<span class="rank-name-pd">ユウキ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|87|642|<span class="rank-name-pd">.iekaTsugumi.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|88|641|<span class="rank-name-pd">0241_0009</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|89|640|<span class="rank-name-dl">美波</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|90|635|<span class="rank-name-dl">MAKI</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|91|625|<span class="rank-name-pd">NOT MATH</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|92|620|<span class="rank-name-dl">ゆき。</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|93|618|<span class="rank-name-pd">shinji</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|94|614|<span class="rank-name-pd">kaito</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|94|614|<span class="rank-name-dl">妃楼@Vintage</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|96|608|<span class="rank-name-pd">KOUDAI.ISHII</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|97|604|<span class="rank-name-pd">やみつき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|97|604|<span class="rank-name-pd">ＴＤＬ※ＢＢＹ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|99|598|<span class="rank-name-pd">maSARU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|100|588|<span class="rank-name-pd">yuya kurihara</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|1|1240|<span class="rank-name-dl">黒田 俊平</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|2|1205|<span class="rank-name-dl">S.Kuroda</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|3|1200|<span class="rank-name-dl">くろだしゅんぺい</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|3|1200|<span class="rank-name-dl">黒田 俊平</span>|<a href="https://search.dartslive.com/jp/shop/0d8d7866b1aa302ffec1ae84bb28bd87">PlayGarden 富里店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|5|1157|<span class="rank-name-dl">モウモウ倶楽部</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|6|1121|<span class="rank-name-dl">STYLE×裕矢</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|7|1111|<span class="rank-name-dl">太平燕</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|8|1084|<span class="rank-name-dl">kaz-8</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|9|1078|<span class="rank-name-dl">いけぴー</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|10|1076|<span class="rank-name-dl">髭麿＠巓娥</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|11|1070|<span class="rank-name-dl">ACHO×カル</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|11|1070|<span class="rank-name-dl">S.Kuroda</span>|<a href="https://search.dartslive.com/jp/shop/0d8d7866b1aa302ffec1ae84bb28bd87">PlayGarden 富里店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|13|1066|<span class="rank-name-dl">茶葉</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|14|1058|<span class="rank-name-dl">CT</span>|<a href="https://search.dartslive.com/jp/shop/0d8d7866b1aa302ffec1ae84bb28bd87">PlayGarden 富里店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|15|1052|<span class="rank-name-dl">n,s Nori</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|16|1051|<span class="rank-name-pd">S.KURODA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|17|1050|<span class="rank-name-dl">Z</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|18|1038|<span class="rank-name-pd">KAZ-8</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|19|1033|<span class="rank-name-dl">道</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|20|1018|<span class="rank-name-pd">KAZ-8</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|21|1016|<span class="rank-name-dl">ﾊﾞﾙｶﾝ300 ｼﾞｴﾝﾄﾞ</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|22|1013|<span class="rank-name-pd">MO!chan☆Tres</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|23|1012|<span class="rank-name-pd">髭麿＊Happy Island＊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|23|1012|<span class="rank-name-dl">ｴﾐﾁｬﾝﾌﾞﾗｯｸOldAge</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|25|1009|<span class="rank-name-dl">NO NAME 9974</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|26|1008|<span class="rank-name-dl">なんとかなるさ</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|27|1007|<span class="rank-name-dl">K</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|28|1006|<span class="rank-name-pd">子連れ狼</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|29|1005|<span class="rank-name-pd">JUN-50嵐</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|30|1002|<span class="rank-name-dl">ゆう@s</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|30|1002|<span class="rank-name-dl">亀亀破ーー！！！</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|32|1001|<span class="rank-name-dl">NO NAME 1062</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|32|1001|<span class="rank-name-dl">shishi</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|34|998|<span class="rank-name-dl">くに。KUNI.</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|35|996|<span class="rank-name-dl">Lstyle2022a</span>|<a href="https://search.dartslive.com/jp/shop/0d8d7866b1aa302ffec1ae84bb28bd87">PlayGarden 富里店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|36|991|<span class="rank-name-dl">Lstyle2022a</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|37|990|<span class="rank-name-dl">(ixi)ライミィ</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|38|986|<span class="rank-name-dl">MO!chan</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|39|983|<span class="rank-name-dl">KAZ☆矢</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|39|983|<span class="rank-name-dl">なお</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|41|981|<span class="rank-name-dl">自由の女神</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|42|978|<span class="rank-name-dl">STYLE×裕矢</span>|<a href="https://search.dartslive.com/jp/shop/53b415d7bdaab71b0d9b047a20a7ba1e">Trauyle</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|43|976|<span class="rank-name-dl">☆TAKUYA☆</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|44|974|<span class="rank-name-dl">太平燕</span>|<a href="https://search.dartslive.com/jp/shop/0d8d7866b1aa302ffec1ae84bb28bd87">PlayGarden 富里店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|44|974|<span class="rank-name-dl">茶葉</span>|<a href="https://search.dartslive.com/jp/shop/0d8d7866b1aa302ffec1ae84bb28bd87">PlayGarden 富里店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|46|973|<span class="rank-name-pd">THOMAS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|47|972|<span class="rank-name-dl">れい</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|48|971|<span class="rank-name-dl">ﾀｶﾋﾛ@ATTIC×JET8</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|49|968|<span class="rank-name-dl">カツヲ？@vintage</span>|<a href="https://search.dartslive.com/jp/shop/0d8d7866b1aa302ffec1ae84bb28bd87">PlayGarden 富里店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|50|967|<span class="rank-name-pd">ゆう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|50|967|<span class="rank-name-pd">モウモウ倶楽部</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|52|965|<span class="rank-name-pd">TOM</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|52|965|<span class="rank-name-pd">（ixi）ひかる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|54|963|<span class="rank-name-dl">れい</span>|<a href="https://search.dartslive.com/jp/shop/0d8d7866b1aa302ffec1ae84bb28bd87">PlayGarden 富里店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|55|961|<span class="rank-name-pd">C.T.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|56|957|<span class="rank-name-pd">MICHI瑛</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|56|957|<span class="rank-name-pd">TOM</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|56|957|<span class="rank-name-dl">つーくん2</span>|<a href="https://search.dartslive.com/jp/shop/0d8d7866b1aa302ffec1ae84bb28bd87">PlayGarden 富里店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|59|951|<span class="rank-name-dl">じめ@vintage</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|60|944|<span class="rank-name-pd">茶葉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|60|944|<span class="rank-name-pd">裕矢</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|62|940|<span class="rank-name-dl">だぁ〜と</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|63|937|<span class="rank-name-dl">佐々チタン亮太</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|64|933|<span class="rank-name-dl">鈴木 裕介【狼】</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|65|932|<span class="rank-name-dl">ACHO×TOM</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|66|928|<span class="rank-name-pd">ごうごう○</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|67|926|<span class="rank-name-pd">Sympa</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|68|922|<span class="rank-name-pd">hikaru</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|69|921|<span class="rank-name-pd">JUN-50嵐</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|70|920|<span class="rank-name-dl">つーくん</span>|<a href="https://search.dartslive.com/jp/shop/0d8d7866b1aa302ffec1ae84bb28bd87">PlayGarden 富里店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|71|913|<span class="rank-name-pd">みっちー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|72|912|<span class="rank-name-dl">T</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|73|911|<span class="rank-name-pd">よぴ汁@In Forest</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|74|907|<span class="rank-name-pd">MO!chan☆Tres</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|75|905|<span class="rank-name-pd">☆暇人☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|75|905|<span class="rank-name-pd">亮太@NMD</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|77|903|<span class="rank-name-pd">z56x35d644abb0</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|78|899|<span class="rank-name-pd">カルシファー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|79|896|<span class="rank-name-pd">tobi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|80|894|<span class="rank-name-pd">yasu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|81|888|<span class="rank-name-dl">☆ HIDEAKI ☆</span>|<a href="https://search.dartslive.com/jp/shop/0d8d7866b1aa302ffec1ae84bb28bd87">PlayGarden 富里店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|82|887|<span class="rank-name-pd">髭麿＊Happy Island＊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|83|878|<span class="rank-name-pd">モナ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|84|877|<span class="rank-name-dl">C.T.</span>|<a href="https://search.dartslive.com/jp/shop/0d8d7866b1aa302ffec1ae84bb28bd87">PlayGarden 富里店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|84|877|<span class="rank-name-dl">りょうま</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|86|873|<span class="rank-name-pd">kaz☆矢</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|87|872|<span class="rank-name-pd">ゆーま@Vintage</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|87|872|<span class="rank-name-dl">りゅんたろ</span>|<a href="https://search.dartslive.com/jp/shop/0d8d7866b1aa302ffec1ae84bb28bd87">PlayGarden 富里店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|89|868|<span class="rank-name-dl">カツヲさんどこ？</span>|<a href="https://search.dartslive.com/jp/shop/0d8d7866b1aa302ffec1ae84bb28bd87">PlayGarden 富里店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|90|862|<span class="rank-name-dl">世良ちゃん</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|91|861|<span class="rank-name-pd">よぴ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|92|858|<span class="rank-name-dl">☆TAKUYA☆</span>|<a href="https://search.dartslive.com/jp/shop/0d8d7866b1aa302ffec1ae84bb28bd87">PlayGarden 富里店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|93|855|<span class="rank-name-pd">PIGMON777</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|94|853|<span class="rank-name-pd">たいやき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|95|848|<span class="rank-name-pd">0180_5011</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|96|846|<span class="rank-name-pd">0057_1171</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|97|845|<span class="rank-name-pd">早野 裕矢</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|98|841|<span class="rank-name-dl">STYLE×でぇすけ</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|99|836|<span class="rank-name-dl">モウモウ倶楽部</span>|<a href="https://search.dartslive.com/jp/shop/0d8d7866b1aa302ffec1ae84bb28bd87">PlayGarden 富里店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|100|834|<span class="rank-name-dl">ｴﾐﾌｪｰｳﾞﾙ♞OldAge</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -132,59 +132,106 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1205|<span class="rank-name-dl">S.Kuroda</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|2|1200|<span class="rank-name-dl">黒田 俊平</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|3|1084|<span class="rank-name-dl">kaz-8</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|4|1080|<span class="rank-name-dl">モウモウ倶楽部</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|5|1033|<span class="rank-name-dl">道</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|6|1021|<span class="rank-name-dl">STYLE×裕矢</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|7|1016|<span class="rank-name-dl">ﾊﾞﾙｶﾝ300 ｼﾞｴﾝﾄﾞ</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|8|1007|<span class="rank-name-dl">K</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|8|1007|<span class="rank-name-dl">Z</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|10|1002|<span class="rank-name-dl">亀亀破ーー！！！</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|11|991|<span class="rank-name-dl">Lstyle2022a</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|12|990|<span class="rank-name-dl">(ixi)ライミィ</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|13|986|<span class="rank-name-dl">MO!chan</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|14|983|<span class="rank-name-dl">KAZ☆矢</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|15|981|<span class="rank-name-dl">自由の女神</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|16|976|<span class="rank-name-dl">☆TAKUYA☆</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|17|971|<span class="rank-name-dl">ﾀｶﾋﾛ@ATTIC×JET8</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|18|966|<span class="rank-name-dl">茶葉</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|19|951|<span class="rank-name-dl">じめ@vintage</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|20|937|<span class="rank-name-dl">ｴﾐﾁｬﾝﾌﾞﾗｯｸOldAge</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|21|933|<span class="rank-name-dl">鈴木 裕介【狼】</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|22|877|<span class="rank-name-dl">りょうま</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|23|862|<span class="rank-name-dl">世良ちゃん</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|24|834|<span class="rank-name-dl">ｴﾐﾌｪｰｳﾞﾙ♞OldAge</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|25|830|<span class="rank-name-dl">(ixi)aya★</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|26|811|<span class="rank-name-dl">maria</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|27|789|<span class="rank-name-dl">めろんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|28|788|<span class="rank-name-dl">Emily☆゜.*・。</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|29|787|<span class="rank-name-dl">NO NAME 2368</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|30|786|<span class="rank-name-dl">/ZEROたくなるとﾞ</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|31|761|<span class="rank-name-dl">☆まき☆</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|32|750|<span class="rank-name-dl">真樹</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|33|748|<span class="rank-name-dl">HIRO</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|34|746|<span class="rank-name-dl">☆MAKI☆</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|35|742|<span class="rank-name-dl">Ryu</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|36|730|<span class="rank-name-dl">RIE★イップス</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|37|711|<span class="rank-name-dl">MOMO</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|38|710|<span class="rank-name-dl">わにゃーびぃ</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|39|675|<span class="rank-name-dl">黒田 絵美</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|40|667|<span class="rank-name-dl">もぐら</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|41|663|<span class="rank-name-dl">富デレラ</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|42|655|<span class="rank-name-dl">きびだんご</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|43|640|<span class="rank-name-dl">美波</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|44|635|<span class="rank-name-dl">MAKI</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|45|620|<span class="rank-name-dl">ゆき。</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|46|614|<span class="rank-name-dl">妃楼@Vintage</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|47|587|<span class="rank-name-dl">3dさくら</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|48|539|<span class="rank-name-dl">はくじつ</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|49|523|<span class="rank-name-dl">HARU</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|50|504|<span class="rank-name-dl">POTATO</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|51|499|<span class="rank-name-dl">みう@参道D</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|52|497|<span class="rank-name-dl">Kana</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|53|477|<span class="rank-name-dl">ぱんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|1|1240|<span class="rank-name-dl">黒田 俊平</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|2|1205|<span class="rank-name-dl">S.Kuroda</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|3|1200|<span class="rank-name-dl">くろだしゅんぺい</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|3|1200|<span class="rank-name-dl">黒田 俊平</span>|<a href="https://search.dartslive.com/jp/shop/0d8d7866b1aa302ffec1ae84bb28bd87">PlayGarden 富里店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|5|1157|<span class="rank-name-dl">モウモウ倶楽部</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|6|1121|<span class="rank-name-dl">STYLE×裕矢</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|7|1111|<span class="rank-name-dl">太平燕</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|8|1084|<span class="rank-name-dl">kaz-8</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|9|1078|<span class="rank-name-dl">いけぴー</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|10|1076|<span class="rank-name-dl">髭麿＠巓娥</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|11|1070|<span class="rank-name-dl">ACHO×カル</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|11|1070|<span class="rank-name-dl">S.Kuroda</span>|<a href="https://search.dartslive.com/jp/shop/0d8d7866b1aa302ffec1ae84bb28bd87">PlayGarden 富里店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|13|1066|<span class="rank-name-dl">茶葉</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|14|1058|<span class="rank-name-dl">CT</span>|<a href="https://search.dartslive.com/jp/shop/0d8d7866b1aa302ffec1ae84bb28bd87">PlayGarden 富里店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|15|1052|<span class="rank-name-dl">n,s Nori</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|16|1050|<span class="rank-name-dl">Z</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|17|1033|<span class="rank-name-dl">道</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|18|1016|<span class="rank-name-dl">ﾊﾞﾙｶﾝ300 ｼﾞｴﾝﾄﾞ</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|19|1012|<span class="rank-name-dl">ｴﾐﾁｬﾝﾌﾞﾗｯｸOldAge</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|20|1009|<span class="rank-name-dl">NO NAME 9974</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|21|1008|<span class="rank-name-dl">なんとかなるさ</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|22|1007|<span class="rank-name-dl">K</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|23|1002|<span class="rank-name-dl">ゆう@s</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|23|1002|<span class="rank-name-dl">亀亀破ーー！！！</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|25|1001|<span class="rank-name-dl">NO NAME 1062</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|25|1001|<span class="rank-name-dl">shishi</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|27|998|<span class="rank-name-dl">くに。KUNI.</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|28|996|<span class="rank-name-dl">Lstyle2022a</span>|<a href="https://search.dartslive.com/jp/shop/0d8d7866b1aa302ffec1ae84bb28bd87">PlayGarden 富里店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|29|991|<span class="rank-name-dl">Lstyle2022a</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|30|990|<span class="rank-name-dl">(ixi)ライミィ</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|31|986|<span class="rank-name-dl">MO!chan</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|32|983|<span class="rank-name-dl">KAZ☆矢</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|32|983|<span class="rank-name-dl">なお</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|34|981|<span class="rank-name-dl">自由の女神</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|35|978|<span class="rank-name-dl">STYLE×裕矢</span>|<a href="https://search.dartslive.com/jp/shop/53b415d7bdaab71b0d9b047a20a7ba1e">Trauyle</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|36|976|<span class="rank-name-dl">☆TAKUYA☆</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|37|974|<span class="rank-name-dl">太平燕</span>|<a href="https://search.dartslive.com/jp/shop/0d8d7866b1aa302ffec1ae84bb28bd87">PlayGarden 富里店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|37|974|<span class="rank-name-dl">茶葉</span>|<a href="https://search.dartslive.com/jp/shop/0d8d7866b1aa302ffec1ae84bb28bd87">PlayGarden 富里店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|39|972|<span class="rank-name-dl">れい</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|40|971|<span class="rank-name-dl">ﾀｶﾋﾛ@ATTIC×JET8</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|41|968|<span class="rank-name-dl">THOMAS</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|41|968|<span class="rank-name-dl">カツヲ？@vintage</span>|<a href="https://search.dartslive.com/jp/shop/0d8d7866b1aa302ffec1ae84bb28bd87">PlayGarden 富里店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|43|963|<span class="rank-name-dl">れい</span>|<a href="https://search.dartslive.com/jp/shop/0d8d7866b1aa302ffec1ae84bb28bd87">PlayGarden 富里店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|44|957|<span class="rank-name-dl">つーくん2</span>|<a href="https://search.dartslive.com/jp/shop/0d8d7866b1aa302ffec1ae84bb28bd87">PlayGarden 富里店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|45|951|<span class="rank-name-dl">じめ@vintage</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|46|940|<span class="rank-name-dl">だぁ〜と</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|47|937|<span class="rank-name-dl">佐々チタン亮太</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|48|933|<span class="rank-name-dl">鈴木 裕介【狼】</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|49|932|<span class="rank-name-dl">ACHO×TOM</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|50|920|<span class="rank-name-dl">つーくん</span>|<a href="https://search.dartslive.com/jp/shop/0d8d7866b1aa302ffec1ae84bb28bd87">PlayGarden 富里店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|51|912|<span class="rank-name-dl">T</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|52|888|<span class="rank-name-dl">☆ HIDEAKI ☆</span>|<a href="https://search.dartslive.com/jp/shop/0d8d7866b1aa302ffec1ae84bb28bd87">PlayGarden 富里店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|53|877|<span class="rank-name-dl">C.T.</span>|<a href="https://search.dartslive.com/jp/shop/0d8d7866b1aa302ffec1ae84bb28bd87">PlayGarden 富里店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|53|877|<span class="rank-name-dl">KAZ-8</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|53|877|<span class="rank-name-dl">りょうま</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|56|872|<span class="rank-name-dl">りゅんたろ</span>|<a href="https://search.dartslive.com/jp/shop/0d8d7866b1aa302ffec1ae84bb28bd87">PlayGarden 富里店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|57|868|<span class="rank-name-dl">カツヲさんどこ？</span>|<a href="https://search.dartslive.com/jp/shop/0d8d7866b1aa302ffec1ae84bb28bd87">PlayGarden 富里店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|58|862|<span class="rank-name-dl">世良ちゃん</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|59|858|<span class="rank-name-dl">☆TAKUYA☆</span>|<a href="https://search.dartslive.com/jp/shop/0d8d7866b1aa302ffec1ae84bb28bd87">PlayGarden 富里店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|60|841|<span class="rank-name-dl">STYLE×でぇすけ</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|61|836|<span class="rank-name-dl">モウモウ倶楽部</span>|<a href="https://search.dartslive.com/jp/shop/0d8d7866b1aa302ffec1ae84bb28bd87">PlayGarden 富里店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|62|834|<span class="rank-name-dl">ｴﾐﾌｪｰｳﾞﾙ♞OldAge</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|63|830|<span class="rank-name-dl">(ixi)aya★</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|63|830|<span class="rank-name-dl">しん</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|65|829|<span class="rank-name-dl">黒田 絵美</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|66|824|<span class="rank-name-dl">ブラッキーSS</span>|<a href="https://search.dartslive.com/jp/shop/0d8d7866b1aa302ffec1ae84bb28bd87">PlayGarden 富里店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|67|816|<span class="rank-name-dl">Tatsuya</span>|<a href="https://search.dartslive.com/jp/shop/0d8d7866b1aa302ffec1ae84bb28bd87">PlayGarden 富里店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|68|813|<span class="rank-name-dl">☆MAKI☆</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|69|812|<span class="rank-name-dl">Emily☆゜.*・。</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|70|811|<span class="rank-name-dl">maria</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|71|809|<span class="rank-name-dl">ｴﾐﾁｬﾝﾌﾞﾗｯｸOldAge</span>|<a href="https://search.dartslive.com/jp/shop/0d8d7866b1aa302ffec1ae84bb28bd87">PlayGarden 富里店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|72|808|<span class="rank-name-dl">じめ@vintage</span>|<a href="https://search.dartslive.com/jp/shop/0d8d7866b1aa302ffec1ae84bb28bd87">PlayGarden 富里店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|73|807|<span class="rank-name-dl">ししゃもヾ(･ω･</span>|<a href="https://search.dartslive.com/jp/shop/0d8d7866b1aa302ffec1ae84bb28bd87">PlayGarden 富里店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|74|806|<span class="rank-name-dl">ACHO×カル</span>|<a href="https://search.dartslive.com/jp/shop/53b415d7bdaab71b0d9b047a20a7ba1e">Trauyle</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|75|805|<span class="rank-name-dl">しーてぃー</span>|<a href="https://search.dartslive.com/jp/shop/0d8d7866b1aa302ffec1ae84bb28bd87">PlayGarden 富里店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|76|801|<span class="rank-name-dl">__&#x27;&#x27;Mass&#x27;&#x27;__</span>|<a href="https://search.dartslive.com/jp/shop/0d8d7866b1aa302ffec1ae84bb28bd87">PlayGarden 富里店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|77|800|<span class="rank-name-dl">STYLE×漁師</span>|<a href="https://search.dartslive.com/jp/shop/53b415d7bdaab71b0d9b047a20a7ba1e">Trauyle</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|78|798|<span class="rank-name-dl">Z</span>|<a href="https://search.dartslive.com/jp/shop/53b415d7bdaab71b0d9b047a20a7ba1e">Trauyle</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|79|789|<span class="rank-name-dl">めろんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|80|787|<span class="rank-name-dl">MI</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|80|787|<span class="rank-name-dl">NO NAME 2368</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|82|786|<span class="rank-name-dl">/ZEROたくなるとﾞ</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|82|786|<span class="rank-name-dl">Toma</span>|<a href="https://search.dartslive.com/jp/shop/0d8d7866b1aa302ffec1ae84bb28bd87">PlayGarden 富里店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|84|781|<span class="rank-name-dl">けいちょん</span>|<a href="https://search.dartslive.com/jp/shop/0d8d7866b1aa302ffec1ae84bb28bd87">PlayGarden 富里店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|85|779|<span class="rank-name-dl">RIKUO YAMADA</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|85|779|<span class="rank-name-dl">がわし</span>|<a href="https://search.dartslive.com/jp/shop/0d8d7866b1aa302ffec1ae84bb28bd87">PlayGarden 富里店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|85|779|<span class="rank-name-dl">ぴっつ</span>|<a href="https://search.dartslive.com/jp/shop/0d8d7866b1aa302ffec1ae84bb28bd87">PlayGarden 富里店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|88|778|<span class="rank-name-dl">真ミナリソスキー</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|88|778|<span class="rank-name-dl">ｸﾛﾍﾟｯﾁｭだぉ-ん</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|90|776|<span class="rank-name-dl">とっけん</span>|<a href="https://search.dartslive.com/jp/shop/0d8d7866b1aa302ffec1ae84bb28bd87">PlayGarden 富里店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|91|775|<span class="rank-name-dl">らきすと</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|92|767|<span class="rank-name-dl">りーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|93|765|<span class="rank-name-dl">真樹</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|94|762|<span class="rank-name-dl">ゆき</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|95|761|<span class="rank-name-dl">☆まき☆</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|96|754|<span class="rank-name-dl">りょうま</span>|<a href="https://search.dartslive.com/jp/shop/53b415d7bdaab71b0d9b047a20a7ba1e">Trauyle</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|97|751|<span class="rank-name-dl">ACHO×れい</span>|<a href="https://search.dartslive.com/jp/shop/0d8d7866b1aa302ffec1ae84bb28bd87">PlayGarden 富里店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|98|749|<span class="rank-name-dl">オカピ</span>|<a href="https://search.dartslive.com/jp/shop/0d8d7866b1aa302ffec1ae84bb28bd87">PlayGarden 富里店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|99|748|<span class="rank-name-dl">HIRO</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|100|742|<span class="rank-name-dl">Ryu</span>|<a href="https://search.dartslive.com/jp/shop/9fcd0c2b6a0b8c2afec1ae84bb28bd87">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
 
 
 #### PHOENIXDARTS TOP 100
@@ -196,98 +243,104 @@ ___
 |---|---|---|---|---|
 |1|1051|<span class="rank-name-pd">S.KURODA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
 |2|1038|<span class="rank-name-pd">KAZ-8</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|3|1013|<span class="rank-name-pd">MO!chan☆Tres</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|4|1006|<span class="rank-name-pd">子連れ狼</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|5|1005|<span class="rank-name-pd">JUN-50嵐</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|6|967|<span class="rank-name-pd">モウモウ倶楽部</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|7|961|<span class="rank-name-pd">C.T.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|8|944|<span class="rank-name-pd">MICHI瑛</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|9|922|<span class="rank-name-pd">hikaru</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|10|913|<span class="rank-name-pd">みっちー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|11|911|<span class="rank-name-pd">TOM</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|12|905|<span class="rank-name-pd">☆暇人☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|12|905|<span class="rank-name-pd">茶葉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|14|903|<span class="rank-name-pd">z56x35d644abb0</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|15|896|<span class="rank-name-pd">tobi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|16|873|<span class="rank-name-pd">kaz☆矢</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|17|861|<span class="rank-name-pd">よぴ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|18|846|<span class="rank-name-pd">0057_1171</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|19|833|<span class="rank-name-pd">Tatsuya</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|20|829|<span class="rank-name-pd">CARLY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|21|806|<span class="rank-name-pd">ウツボカズラさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|22|802|<span class="rank-name-pd">たいやき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|22|802|<span class="rank-name-pd">だぁ〜と</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|24|791|<span class="rank-name-pd">自由の女神</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|25|776|<span class="rank-name-pd">Ma8aki&#x27;s Darts Room</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|26|767|<span class="rank-name-pd">ゆう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|27|754|<span class="rank-name-pd">THOMAS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|28|748|<span class="rank-name-pd">0254_2466</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|28|748|<span class="rank-name-pd">グリーングリーン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|30|742|<span class="rank-name-pd">z</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|31|738|<span class="rank-name-pd">@tatsu@</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|32|736|<span class="rank-name-pd">ピロチ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|33|735|<span class="rank-name-pd">にーに≪函館≫</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|34|727|<span class="rank-name-pd">うどんぬ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|35|716|<span class="rank-name-pd">Emily </span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|36|706|<span class="rank-name-pd">hikaru.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|37|687|<span class="rank-name-pd">☆MAKI☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|38|686|<span class="rank-name-pd">I</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|39|684|<span class="rank-name-pd">みや</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|40|682|<span class="rank-name-pd">ピロチ@</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|41|679|<span class="rank-name-pd">(ixi)AYA★</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|42|662|<span class="rank-name-pd">-Jack-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|43|654|<span class="rank-name-pd">ヒカル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|44|649|<span class="rank-name-pd">ユウキ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|45|642|<span class="rank-name-pd">.iekaTsugumi.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|46|641|<span class="rank-name-pd">0241_0009</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|47|625|<span class="rank-name-pd">NOT MATH</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|48|618|<span class="rank-name-pd">shinji</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|49|614|<span class="rank-name-pd">kaito</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|50|608|<span class="rank-name-pd">KOUDAI.ISHII</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|51|604|<span class="rank-name-pd">やみつき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|51|604|<span class="rank-name-pd">ＴＤＬ※ＢＢＹ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|53|598|<span class="rank-name-pd">maSARU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|54|588|<span class="rank-name-pd">yuya kurihara</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|55|568|<span class="rank-name-pd">YKD@toorunrun</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|56|566|<span class="rank-name-pd">だんす</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|57|559|<span class="rank-name-pd">岩寺</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|58|558|<span class="rank-name-pd">0103_3921</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|59|556|<span class="rank-name-pd">ラキスト</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|60|549|<span class="rank-name-pd">ふかいくん×COMET</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|61|541|<span class="rank-name-pd">ぽっちゃり王子</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|62|537|<span class="rank-name-pd">YABU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|63|534|<span class="rank-name-pd">ゆき。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|64|531|<span class="rank-name-pd">オレンジ@0521</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|65|530|<span class="rank-name-pd">ﾏｷｼﾏﾑ ｻﾞゆっくん@PHOENIX</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|66|526|<span class="rank-name-pd">さわい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|67|521|<span class="rank-name-pd">騎薇EZO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|68|520|<span class="rank-name-pd">.png</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|69|517|<span class="rank-name-pd">ＴＤＳ※ＲＤＣ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|70|511|<span class="rank-name-pd">かえで</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|71|493|<span class="rank-name-pd">takuwann</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|72|490|<span class="rank-name-pd">KATSUUUN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|73|482|<span class="rank-name-pd">KAZ[SPARO]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|74|466|<span class="rank-name-pd">MoonRabbit</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|75|460|<span class="rank-name-pd">つよし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|76|456|<span class="rank-name-pd">こ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|77|437|<span class="rank-name-pd">Ghost Fox</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|78|435|<span class="rank-name-pd">VirtualCard</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|79|430|<span class="rank-name-pd">アンジュ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|80|422|<span class="rank-name-pd">TOYOTA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|80|422|<span class="rank-name-pd">hi.s@</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|82|416|<span class="rank-name-pd">紅葉屋</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|83|415|<span class="rank-name-pd">Maria</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|84|414|<span class="rank-name-pd">なの店長</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|85|412|<span class="rank-name-pd">ACE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|85|412|<span class="rank-name-pd">ITOH</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|87|397|<span class="rank-name-pd">PRISM</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|88|395|<span class="rank-name-pd">yoshino</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|89|392|<span class="rank-name-pd">marina（♂）</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|90|388|<span class="rank-name-pd">ごまどうふ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|91|348|<span class="rank-name-pd">＼( &#x27;ω&#x27;)／</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|92|333|<span class="rank-name-pd">まちださん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|93|332|<span class="rank-name-pd">Darkcats</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
-|94|315|<span class="rank-name-pd">ayato</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|3|1018|<span class="rank-name-pd">KAZ-8</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|4|1013|<span class="rank-name-pd">MO!chan☆Tres</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|5|1012|<span class="rank-name-pd">髭麿＊Happy Island＊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|6|1006|<span class="rank-name-pd">子連れ狼</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|7|1005|<span class="rank-name-pd">JUN-50嵐</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|8|973|<span class="rank-name-pd">THOMAS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|9|967|<span class="rank-name-pd">ゆう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|9|967|<span class="rank-name-pd">モウモウ倶楽部</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|11|965|<span class="rank-name-pd">TOM</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|11|965|<span class="rank-name-pd">（ixi）ひかる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|13|961|<span class="rank-name-pd">C.T.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|14|957|<span class="rank-name-pd">MICHI瑛</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|14|957|<span class="rank-name-pd">TOM</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|16|945|<span class="rank-name-pd">茶葉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|17|944|<span class="rank-name-pd">茶葉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|17|944|<span class="rank-name-pd">裕矢</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|19|928|<span class="rank-name-pd">ごうごう○</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|20|926|<span class="rank-name-pd">Sympa</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|21|922|<span class="rank-name-pd">hikaru</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|22|921|<span class="rank-name-pd">JUN-50嵐</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|23|913|<span class="rank-name-pd">みっちー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|24|912|<span class="rank-name-pd">佐々チタン亮太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|25|911|<span class="rank-name-pd">よぴ汁@In Forest</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|26|907|<span class="rank-name-pd">MO!chan☆Tres</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|27|905|<span class="rank-name-pd">☆暇人☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|27|905|<span class="rank-name-pd">亮太@NMD</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|29|903|<span class="rank-name-pd">z56x35d644abb0</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|30|899|<span class="rank-name-pd">カルシファー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|31|896|<span class="rank-name-pd">tobi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|32|894|<span class="rank-name-pd">yasu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|32|894|<span class="rank-name-pd">モウモウ倶楽部</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|34|887|<span class="rank-name-pd">髭麿＊Happy Island＊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|35|878|<span class="rank-name-pd">モナ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|36|873|<span class="rank-name-pd">kaz☆矢</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|36|873|<span class="rank-name-pd">だぁ〜と</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|38|872|<span class="rank-name-pd">ゆーま@Vintage</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|39|861|<span class="rank-name-pd">よぴ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|40|855|<span class="rank-name-pd">PIGMON777</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|41|853|<span class="rank-name-pd">たいやき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|42|848|<span class="rank-name-pd">0180_5011</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|43|846|<span class="rank-name-pd">0057_1171</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|44|845|<span class="rank-name-pd">早野 裕矢</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|45|833|<span class="rank-name-pd">Tatsuya</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|46|830|<span class="rank-name-pd">CT</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|46|830|<span class="rank-name-pd">しんちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|48|829|<span class="rank-name-pd">CARLY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|48|829|<span class="rank-name-pd">RIKUOYAMADA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|50|826|<span class="rank-name-pd">z</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|51|825|<span class="rank-name-pd">葉問</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|52|820|<span class="rank-name-pd">shishi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|53|811|<span class="rank-name-pd">じめ@Vintage</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|54|806|<span class="rank-name-pd">ウツボカズラさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|55|802|<span class="rank-name-pd">たいやき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|55|802|<span class="rank-name-pd">だぁ〜と</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|57|800|<span class="rank-name-pd">z</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|58|793|<span class="rank-name-pd">0241_0009</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|58|793|<span class="rank-name-pd">ピロチ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|60|791|<span class="rank-name-pd">自由の女神</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|61|780|<span class="rank-name-pd">ゆう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|62|776|<span class="rank-name-pd">Ma8aki&#x27;s Darts Room</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|63|775|<span class="rank-name-pd">N.A</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|64|771|<span class="rank-name-pd">0057_1171</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|64|771|<span class="rank-name-pd"><span class="pro-icon-pd"></span>石橋 勢都</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|66|770|<span class="rank-name-pd">N.A</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|67|768|<span class="rank-name-pd">☆DAIchang☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|67|768|<span class="rank-name-pd">ハナハナボール</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|69|766|<span class="rank-name-pd">OFF10N</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|70|760|<span class="rank-name-pd">な。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|71|754|<span class="rank-name-pd">THOMAS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|72|748|<span class="rank-name-pd">0254_2466</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|72|748|<span class="rank-name-pd">グリーングリーン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|74|741|<span class="rank-name-pd">NOT MATH</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|75|738|<span class="rank-name-pd">@tatsu@</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|76|736|<span class="rank-name-pd">ピロチ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|77|735|<span class="rank-name-pd">にーに≪函館≫</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|78|730|<span class="rank-name-pd">チェイサー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|79|728|<span class="rank-name-pd">gotturacing</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|80|727|<span class="rank-name-pd">うどんぬ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|81|725|<span class="rank-name-pd">かみかぜ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|82|720|<span class="rank-name-pd">ACHO×ゆうD</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|83|717|<span class="rank-name-pd">トト</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|84|716|<span class="rank-name-pd">Emily </span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|85|710|<span class="rank-name-pd">松坂でぇすけ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|86|707|<span class="rank-name-pd">shinji</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|87|706|<span class="rank-name-pd">RIKUOYAMADA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|87|706|<span class="rank-name-pd">hikaru.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|87|706|<span class="rank-name-pd">kaito</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|90|705|<span class="rank-name-pd">-Jack-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|90|705|<span class="rank-name-pd">ヒカル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|92|704|<span class="rank-name-pd">がわし@ギャンブル中毒</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|93|703|<span class="rank-name-pd">maSARU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|93|703|<span class="rank-name-pd">フェニックスの飛ばし屋</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|95|698|<span class="rank-name-pd">ＴＤＬ※ＢＢＹ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|96|697|<span class="rank-name-pd">z56x35d644abb0</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|97|694|<span class="rank-name-pd">Tatsuya</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 富里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|98|687|<span class="rank-name-pd">☆MAKI☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|99|686|<span class="rank-name-pd">I</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
+|100|684|<span class="rank-name-pd">みや</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82823?s_seq=82823">快活CLUB 冨里インター店</a>|<a href="/darts/rank/千葉県/富里市">千葉県富里市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

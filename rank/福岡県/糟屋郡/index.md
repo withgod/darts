@@ -24,105 +24,105 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|1155|<span class="rank-name-dl">前っち［D&#x27;s］DMC</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|2|1072|<span class="rank-name-dl">RINDA</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|3|1060|<span class="rank-name-dl">D&#x27;s☆かっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|4|1058|<span class="rank-name-dl">永淵 良</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|5|1057|<span class="rank-name-pd">つかぽん☆jade</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|6|1032|<span class="rank-name-pd">0223_7790</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|7|992|<span class="rank-name-dl">Equinox</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|8|976|<span class="rank-name-dl">まｰ@D&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|9|974|<span class="rank-name-dl">つかぽん＠jade</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|9|974|<span class="rank-name-dl">イニ</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|11|966|<span class="rank-name-dl">さわ</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|12|961|<span class="rank-name-pd">かっちゃん＠D’s</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|13|960|<span class="rank-name-dl">森のたくまさん</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|14|957|<span class="rank-name-dl">○</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|15|946|<span class="rank-name-pd">Madoka☆Jade</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|16|943|<span class="rank-name-dl">恭兵</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|17|942|<span class="rank-name-dl">がんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|17|942|<span class="rank-name-pd">リンダ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|19|925|<span class="rank-name-pd">前っち【DMC】D&#x27;s House</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|20|918|<span class="rank-name-pd">よし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|21|917|<span class="rank-name-pd">092NOBUKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|22|916|<span class="rank-name-pd">092NOBUKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|23|914|<span class="rank-name-dl">JUN仔☀︎</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|24|912|<span class="rank-name-pd">はァ@D&#x27;s House</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|24|912|<span class="rank-name-dl">トモ@三隈改提督</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|26|911|<span class="rank-name-pd">あず</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|27|910|<span class="rank-name-dl">k@zu</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|28|902|<span class="rank-name-pd">092のぶき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|29|892|<span class="rank-name-pd">R社長</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|30|886|<span class="rank-name-pd">NAOKI三隈改二はよ提督</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|31|885|<span class="rank-name-pd">moz</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|31|885|<span class="rank-name-dl">ysdh【hiro】</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|33|883|<span class="rank-name-dl">土屋 大悟@verb</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|34|878|<span class="rank-name-pd">とも☆Jade</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|35|873|<span class="rank-name-dl">じぃーこー</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|36|866|<span class="rank-name-pd">0033_4256</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|37|863|<span class="rank-name-pd">塚嵜重工☆Jade</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|38|862|<span class="rank-name-pd">風雷坊☆麻美っち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|39|861|<span class="rank-name-pd">Hiroki#jade</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|40|860|<span class="rank-name-pd">madochan</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|41|848|<span class="rank-name-dl">Naaasi</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|42|843|<span class="rank-name-dl">きゅんきゅん</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|43|842|<span class="rank-name-pd">futa</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86208?s_seq=86208">よふけ</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|44|836|<span class="rank-name-dl">ysdh</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|45|830|<span class="rank-name-pd">Hiroki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|45|830|<span class="rank-name-pd">まあ(･ω･)ﾉ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|47|824|<span class="rank-name-pd">take[JADE]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|48|822|<span class="rank-name-dl">JUN仔☀︎maxφ洲</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|49|821|<span class="rank-name-dl">＊835＊</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|50|811|<span class="rank-name-pd">taka@Jade</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|51|808|<span class="rank-name-pd">キノピッピ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|52|806|<span class="rank-name-pd">tooru♪Jade</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|53|800|<span class="rank-name-pd">0119_1504</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|54|794|<span class="rank-name-pd">JUN仔☀︎J∂de</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|55|780|<span class="rank-name-pd">ハゼ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|56|774|<span class="rank-name-pd">つかぽん☆jade</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|57|773|<span class="rank-name-pd">しょうりん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|58|771|<span class="rank-name-pd">石井　貞</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|59|769|<span class="rank-name-pd">kado</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|60|765|<span class="rank-name-pd">PAL</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|61|764|<span class="rank-name-pd">si-si</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|62|763|<span class="rank-name-pd">Hiroki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|63|760|<span class="rank-name-pd">えいちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|64|756|<span class="rank-name-pd">ユウ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|65|755|<span class="rank-name-pd">K2</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|66|754|<span class="rank-name-pd">0224_0995</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|67|753|<span class="rank-name-pd">じーじょ@Jade</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|68|751|<span class="rank-name-pd">MASAK!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|69|747|<span class="rank-name-pd">ベソ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|70|743|<span class="rank-name-pd">せぱぷ〜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|71|739|<span class="rank-name-pd">★Mickey★</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|72|730|<span class="rank-name-pd">tomoya</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|73|729|<span class="rank-name-pd">ISSEI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|74|727|<span class="rank-name-pd">★Mickey★</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|75|725|<span class="rank-name-dl">【はァ】D&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|75|725|<span class="rank-name-pd">はまたろぉ【ジンベエ】たりーず</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|77|724|<span class="rank-name-pd">SEJIﾒﾝ★ﾄﾛjade</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|78|722|<span class="rank-name-pd">じーじょ@Jade</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|79|719|<span class="rank-name-pd">のっちにぃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|80|715|<span class="rank-name-pd">まさひこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|81|711|<span class="rank-name-pd">ゆうき☆Jade</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|82|707|<span class="rank-name-pd">中村仁</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|83|705|<span class="rank-name-pd">パイセン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|84|701|<span class="rank-name-dl">KEINA@D&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|85|700|<span class="rank-name-pd">征治★jade</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|86|694|<span class="rank-name-pd">警笛の徘徊者</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|87|692|<span class="rank-name-pd">KEI JADE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|87|692|<span class="rank-name-pd">TAKE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86208?s_seq=86208">よふけ</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|89|678|<span class="rank-name-pd">092のぶき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|90|673|<span class="rank-name-dl">さきっぺ</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|91|668|<span class="rank-name-dl">Cikuwa</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|92|667|<span class="rank-name-pd">風雷坊☆taka★</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|93|656|<span class="rank-name-dl">ぶーぶ</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|94|651|<span class="rank-name-pd">りき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|95|650|<span class="rank-name-pd">Hiroki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86208?s_seq=86208">よふけ</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|96|645|<span class="rank-name-pd">よう@Marlboro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|97|643|<span class="rank-name-pd">Hiro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|98|638|<span class="rank-name-pd">0K072</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|99|637|<span class="rank-name-pd">梶悠&#x27;01</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|100|629|<span class="rank-name-pd">猫のママ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|2|1129|<span class="rank-name-dl">つかぽん☆D&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|3|1079|<span class="rank-name-dl">サルディバル中西</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|4|1072|<span class="rank-name-dl">RINDA</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|5|1060|<span class="rank-name-dl">D&#x27;s☆かっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|6|1058|<span class="rank-name-dl">永淵 良</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|7|1057|<span class="rank-name-pd">つかぽん☆jade</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|8|1050|<span class="rank-name-pd">かっちゃん＠D’s</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|9|1045|<span class="rank-name-pd">前っち【DMC】D&#x27;s House</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|10|1032|<span class="rank-name-pd">0223_7790</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|11|1014|<span class="rank-name-pd">森のたくまさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|12|1011|<span class="rank-name-pd">よし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|13|1008|<span class="rank-name-pd">092のぶき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|14|1004|<span class="rank-name-pd">YUNOKING@OVER</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|15|992|<span class="rank-name-dl">Equinox</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|16|980|<span class="rank-name-dl">かずき</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|17|978|<span class="rank-name-dl">イニ</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|17|978|<span class="rank-name-dl">トモ@三隈改提督</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|19|976|<span class="rank-name-dl">まｰ@D&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|20|974|<span class="rank-name-dl">つかぽん＠jade</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|21|968|<span class="rank-name-dl">さわ</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|22|967|<span class="rank-name-pd">つかぽん☆D&#x27;s</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|23|965|<span class="rank-name-dl">トモ@ルンちょま</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|24|963|<span class="rank-name-dl">NO NAME 8816</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|24|963|<span class="rank-name-dl">だいき☆BAN</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|24|963|<span class="rank-name-dl">中坂　ヒロキ</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|27|962|<span class="rank-name-dl">かずき@D&#x27;s House</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|28|957|<span class="rank-name-dl">○</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|29|951|<span class="rank-name-dl">R社長</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|30|946|<span class="rank-name-pd">Madoka☆Jade</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|31|943|<span class="rank-name-dl">恭兵</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|32|942|<span class="rank-name-dl">がんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|32|942|<span class="rank-name-pd">リンダ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|34|940|<span class="rank-name-dl">James Law</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|35|936|<span class="rank-name-pd">0119_1504</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|36|930|<span class="rank-name-dl">Hiroki</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|37|925|<span class="rank-name-pd">K2</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|38|917|<span class="rank-name-pd">092NOBUKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|39|916|<span class="rank-name-pd">092NOBUKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|40|914|<span class="rank-name-dl">JUN仔☀︎</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|41|912|<span class="rank-name-pd">はァ@D&#x27;s House</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|42|911|<span class="rank-name-pd">あず</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|43|910|<span class="rank-name-dl">k@zu</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|44|908|<span class="rank-name-dl">MOKO</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|45|906|<span class="rank-name-pd">HIROKI#jade</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|46|904|<span class="rank-name-dl">ysdh【D&#x27;s】</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|47|903|<span class="rank-name-dl">ysdh【hiro】</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|48|901|<span class="rank-name-dl">taka@HNY</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|49|892|<span class="rank-name-pd">まあ(･ω･)ﾉ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|50|890|<span class="rank-name-pd">じゅうべー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|51|886|<span class="rank-name-pd">NAOKI三隈改二はよ提督</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|52|885|<span class="rank-name-pd">moz</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|53|883|<span class="rank-name-dl">土屋 大悟@verb</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|54|878|<span class="rank-name-pd">とも☆Jade</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|55|873|<span class="rank-name-dl">じぃーこー</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|56|869|<span class="rank-name-dl">092のぶき</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|57|866|<span class="rank-name-pd">0033_4256</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|58|863|<span class="rank-name-pd">塚嵜重工☆Jade</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|59|862|<span class="rank-name-pd">風雷坊☆麻美っち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|60|861|<span class="rank-name-pd">Hiroki#jade</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|61|860|<span class="rank-name-pd">madochan</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|62|848|<span class="rank-name-dl">Naaasi</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|63|843|<span class="rank-name-dl">THOMAS</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|63|843|<span class="rank-name-dl">きゅんきゅん</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|65|842|<span class="rank-name-pd">futa</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86208?s_seq=86208">よふけ</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|66|838|<span class="rank-name-pd">zj2k37ff86df1f</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|67|836|<span class="rank-name-dl">ysdh</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|68|834|<span class="rank-name-pd">たいせー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|68|834|<span class="rank-name-pd">ﾕﾏ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|70|830|<span class="rank-name-pd">Hiroki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|71|825|<span class="rank-name-pd">ぴ～やま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|72|824|<span class="rank-name-pd">take[JADE]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|73|822|<span class="rank-name-dl">JUN仔☀︎maxφ洲</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|74|821|<span class="rank-name-pd">PAL</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|74|821|<span class="rank-name-dl">＊835＊</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|76|811|<span class="rank-name-pd">taka@Jade</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|77|809|<span class="rank-name-dl">Miku</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|78|808|<span class="rank-name-pd">キノピッピ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|78|808|<span class="rank-name-pd">征治IIIotf☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|80|806|<span class="rank-name-pd">tooru♪Jade</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|81|794|<span class="rank-name-pd">HIROKI#jade</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|81|794|<span class="rank-name-pd">JUN仔☀︎J∂de</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|83|791|<span class="rank-name-pd">miku</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|84|784|<span class="rank-name-pd">≪MkT≫</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|85|780|<span class="rank-name-pd">ハゼ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|86|774|<span class="rank-name-pd">しょうりん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|86|774|<span class="rank-name-pd">つかぽん☆jade</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|88|773|<span class="rank-name-pd">32</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|89|771|<span class="rank-name-pd">石井　貞</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|90|770|<span class="rank-name-dl">Seiji.t.</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|91|769|<span class="rank-name-pd">0224_0995</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|91|769|<span class="rank-name-pd">kado</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|93|764|<span class="rank-name-pd">si-si</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|94|761|<span class="rank-name-pd">征治★D&#x27;s</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|95|760|<span class="rank-name-pd">えいちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|96|756|<span class="rank-name-pd">ユウ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|97|753|<span class="rank-name-pd">じーじょ@Jade</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|98|751|<span class="rank-name-pd">MASAK!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|99|750|<span class="rank-name-pd">futa</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|100|747|<span class="rank-name-pd">ベソ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -133,45 +133,70 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|1155|<span class="rank-name-dl">前っち［D&#x27;s］DMC</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|2|1072|<span class="rank-name-dl">RINDA</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|3|1060|<span class="rank-name-dl">D&#x27;s☆かっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|4|1058|<span class="rank-name-dl">永淵 良</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|5|992|<span class="rank-name-dl">Equinox</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|6|976|<span class="rank-name-dl">まｰ@D&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|7|974|<span class="rank-name-dl">つかぽん＠jade</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|7|974|<span class="rank-name-dl">イニ</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|9|966|<span class="rank-name-dl">さわ</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|10|960|<span class="rank-name-dl">森のたくまさん</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|11|957|<span class="rank-name-dl">○</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|12|943|<span class="rank-name-dl">恭兵</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|13|942|<span class="rank-name-dl">がんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|14|914|<span class="rank-name-dl">JUN仔☀︎</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|15|912|<span class="rank-name-dl">トモ@三隈改提督</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|16|910|<span class="rank-name-dl">k@zu</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|17|885|<span class="rank-name-dl">ysdh【hiro】</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|18|883|<span class="rank-name-dl">土屋 大悟@verb</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|19|873|<span class="rank-name-dl">じぃーこー</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|20|872|<span class="rank-name-dl">R社長</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|21|848|<span class="rank-name-dl">Naaasi</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|22|843|<span class="rank-name-dl">きゅんきゅん</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|23|836|<span class="rank-name-dl">ysdh</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|24|822|<span class="rank-name-dl">JUN仔☀︎maxφ洲</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|25|821|<span class="rank-name-dl">＊835＊</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|26|725|<span class="rank-name-dl">【はァ】D&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|27|701|<span class="rank-name-dl">KEINA@D&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|28|673|<span class="rank-name-dl">えいちゃん</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|28|673|<span class="rank-name-dl">さきっぺ</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|30|668|<span class="rank-name-dl">Cikuwa</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|31|656|<span class="rank-name-dl">ぶーぶ</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|32|615|<span class="rank-name-dl">猫のママさん</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|33|594|<span class="rank-name-dl">HARU@RAS推し</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|34|582|<span class="rank-name-dl">じーじょ</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|35|525|<span class="rank-name-dl">nana</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|36|501|<span class="rank-name-dl">†ａｙａ†</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|37|499|<span class="rank-name-dl">ちえ</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|38|494|<span class="rank-name-dl">たむたむ</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|39|493|<span class="rank-name-dl">ナオキ</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|40|354|<span class="rank-name-dl">えみぃ@D&#x27;sHouse</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|2|1129|<span class="rank-name-dl">つかぽん☆D&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|3|1079|<span class="rank-name-dl">サルディバル中西</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|4|1072|<span class="rank-name-dl">RINDA</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|5|1060|<span class="rank-name-dl">D&#x27;s☆かっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|6|1058|<span class="rank-name-dl">永淵 良</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|7|992|<span class="rank-name-dl">Equinox</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|8|980|<span class="rank-name-dl">かずき</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|9|978|<span class="rank-name-dl">イニ</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|9|978|<span class="rank-name-dl">トモ@三隈改提督</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|11|976|<span class="rank-name-dl">まｰ@D&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|12|974|<span class="rank-name-dl">つかぽん＠jade</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|13|968|<span class="rank-name-dl">さわ</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|14|965|<span class="rank-name-dl">トモ@ルンちょま</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|15|963|<span class="rank-name-dl">NO NAME 8816</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|15|963|<span class="rank-name-dl">だいき☆BAN</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|15|963|<span class="rank-name-dl">中坂　ヒロキ</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|18|962|<span class="rank-name-dl">かずき@D&#x27;s House</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|18|962|<span class="rank-name-dl">森のたくまさん</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|20|957|<span class="rank-name-dl">○</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|21|951|<span class="rank-name-dl">R社長</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|22|943|<span class="rank-name-dl">恭兵</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|23|942|<span class="rank-name-dl">がんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|24|940|<span class="rank-name-dl">James Law</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|25|930|<span class="rank-name-dl">Hiroki</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|26|914|<span class="rank-name-dl">JUN仔☀︎</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|27|910|<span class="rank-name-dl">k@zu</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|28|908|<span class="rank-name-dl">MOKO</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|29|904|<span class="rank-name-dl">ysdh【D&#x27;s】</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|30|903|<span class="rank-name-dl">ysdh【hiro】</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|31|901|<span class="rank-name-dl">taka@HNY</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|32|883|<span class="rank-name-dl">土屋 大悟@verb</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|33|873|<span class="rank-name-dl">じぃーこー</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|34|869|<span class="rank-name-dl">092のぶき</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|35|848|<span class="rank-name-dl">Naaasi</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|36|843|<span class="rank-name-dl">THOMAS</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|36|843|<span class="rank-name-dl">きゅんきゅん</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|38|836|<span class="rank-name-dl">ysdh</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|39|822|<span class="rank-name-dl">JUN仔☀︎maxφ洲</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|40|821|<span class="rank-name-dl">＊835＊</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|41|809|<span class="rank-name-dl">Miku</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|42|770|<span class="rank-name-dl">Seiji.t.</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|43|728|<span class="rank-name-dl">しょうりん@901</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|44|725|<span class="rank-name-dl">【はァ】D&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|45|723|<span class="rank-name-dl">しょうりん</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|46|711|<span class="rank-name-dl">D．亮太-飛傘組-</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|47|706|<span class="rank-name-dl">KEINA@D&#x27;s</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|48|695|<span class="rank-name-dl">とっしー</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|49|673|<span class="rank-name-dl">えいちゃん</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|49|673|<span class="rank-name-dl">さきっぺ</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|51|668|<span class="rank-name-dl">Cikuwa</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|52|656|<span class="rank-name-dl">ぶーぶ</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|53|629|<span class="rank-name-dl">†ａｙａ†</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|54|615|<span class="rank-name-dl">猫のママさん</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|55|613|<span class="rank-name-dl">HARU@RAS推し</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|56|586|<span class="rank-name-dl">KIYO.</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|57|582|<span class="rank-name-dl">じーじょ</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|58|557|<span class="rank-name-dl">つる</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|59|537|<span class="rank-name-dl">たっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|60|525|<span class="rank-name-dl">nana</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|61|499|<span class="rank-name-dl">ちえ</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|62|498|<span class="rank-name-dl">ハル@佐伯の仲磨</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|63|494|<span class="rank-name-dl">たむたむ</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|64|493|<span class="rank-name-dl">ナオキ</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|65|354|<span class="rank-name-dl">えみぃ@D&#x27;sHouse</span>|<a href="https://search.dartslive.com/jp/shop/40b0914f275b9d3e0d9b047a20a7ba1e">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
 
 
 #### PHOENIXDARTS TOP 100
@@ -182,105 +207,105 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|1057|<span class="rank-name-pd">つかぽん☆jade</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|2|1032|<span class="rank-name-pd">0223_7790</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|3|961|<span class="rank-name-pd">かっちゃん＠D’s</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|4|946|<span class="rank-name-pd">Madoka☆Jade</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|5|942|<span class="rank-name-pd">リンダ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|6|925|<span class="rank-name-pd">前っち【DMC】D&#x27;s House</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|7|918|<span class="rank-name-pd">よし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|8|917|<span class="rank-name-pd">092NOBUKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|9|916|<span class="rank-name-pd">092NOBUKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|10|912|<span class="rank-name-pd">はァ@D&#x27;s House</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|11|911|<span class="rank-name-pd">あず</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|12|902|<span class="rank-name-pd">092のぶき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|13|892|<span class="rank-name-pd">R社長</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|14|886|<span class="rank-name-pd">NAOKI三隈改二はよ提督</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|15|885|<span class="rank-name-pd">moz</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|16|880|<span class="rank-name-pd">森のたくまさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|17|878|<span class="rank-name-pd">とも☆Jade</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|18|866|<span class="rank-name-pd">0033_4256</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|19|863|<span class="rank-name-pd">塚嵜重工☆Jade</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|20|862|<span class="rank-name-pd">風雷坊☆麻美っち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|21|861|<span class="rank-name-pd">Hiroki#jade</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|22|860|<span class="rank-name-pd">madochan</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|23|842|<span class="rank-name-pd">futa</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86208?s_seq=86208">よふけ</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|24|830|<span class="rank-name-pd">Hiroki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|24|830|<span class="rank-name-pd">まあ(･ω･)ﾉ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|26|824|<span class="rank-name-pd">take[JADE]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|27|811|<span class="rank-name-pd">taka@Jade</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|28|808|<span class="rank-name-pd">キノピッピ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|29|806|<span class="rank-name-pd">tooru♪Jade</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|30|800|<span class="rank-name-pd">0119_1504</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|31|794|<span class="rank-name-pd">JUN仔☀︎J∂de</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|32|780|<span class="rank-name-pd">ハゼ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|33|774|<span class="rank-name-pd">つかぽん☆jade</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|34|773|<span class="rank-name-pd">しょうりん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|35|771|<span class="rank-name-pd">石井　貞</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|36|769|<span class="rank-name-pd">kado</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|37|765|<span class="rank-name-pd">PAL</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|38|764|<span class="rank-name-pd">si-si</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|39|763|<span class="rank-name-pd">Hiroki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|40|760|<span class="rank-name-pd">えいちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|41|759|<span class="rank-name-pd">ysdh</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|42|756|<span class="rank-name-pd">ユウ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|43|755|<span class="rank-name-pd">K2</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|44|754|<span class="rank-name-pd">0224_0995</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|44|754|<span class="rank-name-pd">がんちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|46|753|<span class="rank-name-pd">じーじょ@Jade</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|47|751|<span class="rank-name-pd">MASAK!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|48|747|<span class="rank-name-pd">ベソ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|49|743|<span class="rank-name-pd">せぱぷ〜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|50|739|<span class="rank-name-pd">★Mickey★</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|51|730|<span class="rank-name-pd">tomoya</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|52|729|<span class="rank-name-pd">ISSEI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|53|727|<span class="rank-name-pd">★Mickey★</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|54|725|<span class="rank-name-pd">はまたろぉ【ジンベエ】たりーず</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|55|724|<span class="rank-name-pd">SEJIﾒﾝ★ﾄﾛjade</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|56|722|<span class="rank-name-pd">じーじょ@Jade</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|57|721|<span class="rank-name-pd">じぃーこー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|58|719|<span class="rank-name-pd">のっちにぃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|59|715|<span class="rank-name-pd">まさひこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|60|711|<span class="rank-name-pd">ゆうき☆Jade</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|61|707|<span class="rank-name-pd">中村仁</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|62|705|<span class="rank-name-pd">パイセン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|63|700|<span class="rank-name-pd">征治★jade</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|64|694|<span class="rank-name-pd">警笛の徘徊者</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|65|692|<span class="rank-name-pd">KEI JADE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|65|692|<span class="rank-name-pd">TAKE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86208?s_seq=86208">よふけ</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|67|678|<span class="rank-name-pd">092のぶき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|68|667|<span class="rank-name-pd">風雷坊☆taka★</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|69|651|<span class="rank-name-pd">りき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|70|650|<span class="rank-name-pd">Hiroki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86208?s_seq=86208">よふけ</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|71|645|<span class="rank-name-pd">よう@Marlboro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|72|643|<span class="rank-name-pd">Hiro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|73|638|<span class="rank-name-pd">0K072</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|74|637|<span class="rank-name-pd">梶悠&#x27;01</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|75|629|<span class="rank-name-pd">猫のママ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|76|616|<span class="rank-name-pd">ruchir</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|77|614|<span class="rank-name-pd">あきひろ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|78|609|<span class="rank-name-pd">冴羽商事。代表取締役！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|79|608|<span class="rank-name-pd">さき**SAND.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|80|603|<span class="rank-name-pd">さき**SAND.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|81|602|<span class="rank-name-pd">0070_0931</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|82|598|<span class="rank-name-pd">風雷坊☆つつみん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|83|594|<span class="rank-name-pd">☆心☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86208?s_seq=86208">よふけ</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|84|590|<span class="rank-name-pd">バーボン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|85|586|<span class="rank-name-pd">CAMIY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|86|585|<span class="rank-name-pd">32</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|87|583|<span class="rank-name-pd">ナオキ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|88|582|<span class="rank-name-pd">ひらっち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|89|581|<span class="rank-name-pd">とっしー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|90|578|<span class="rank-name-pd">しょーちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|91|573|<span class="rank-name-pd">ふみや</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|92|553|<span class="rank-name-pd">将人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|93|551|<span class="rank-name-pd">S</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|94|550|<span class="rank-name-pd">まなったん推し⭐︎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|94|550|<span class="rank-name-pd">ナオキ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|96|544|<span class="rank-name-pd">☆心☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|97|541|<span class="rank-name-pd">MASAK!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|97|541|<span class="rank-name-pd">はァ＠D’s House</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|99|538|<span class="rank-name-pd">ｺﾞﾝchan@ﾍﾀﾚ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
-|100|534|<span class="rank-name-pd">愚羅虎狼恵子</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|2|1050|<span class="rank-name-pd">かっちゃん＠D’s</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|3|1045|<span class="rank-name-pd">前っち【DMC】D&#x27;s House</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|4|1032|<span class="rank-name-pd">0223_7790</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|5|1014|<span class="rank-name-pd">森のたくまさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|6|1011|<span class="rank-name-pd">よし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|7|1008|<span class="rank-name-pd">092のぶき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|8|1004|<span class="rank-name-pd">YUNOKING@OVER</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|9|967|<span class="rank-name-pd">つかぽん☆D&#x27;s</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|10|964|<span class="rank-name-pd">つかぽん☆D&#x27;s</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|11|946|<span class="rank-name-pd">Madoka☆Jade</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|12|942|<span class="rank-name-pd">リンダ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|13|936|<span class="rank-name-pd">0119_1504</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|14|925|<span class="rank-name-pd">K2</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|15|917|<span class="rank-name-pd">092NOBUKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|16|916|<span class="rank-name-pd">092NOBUKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|17|912|<span class="rank-name-pd">はァ@D&#x27;s House</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|18|911|<span class="rank-name-pd">あず</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|19|906|<span class="rank-name-pd">HIROKI#jade</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|20|892|<span class="rank-name-pd">R社長</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|20|892|<span class="rank-name-pd">まあ(･ω･)ﾉ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|22|890|<span class="rank-name-pd">じゅうべー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|23|886|<span class="rank-name-pd">NAOKI三隈改二はよ提督</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|24|885|<span class="rank-name-pd">moz</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|25|878|<span class="rank-name-pd">とも☆Jade</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|26|866|<span class="rank-name-pd">0033_4256</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|26|866|<span class="rank-name-pd">MOKO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|28|863|<span class="rank-name-pd">塚嵜重工☆Jade</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|29|862|<span class="rank-name-pd">風雷坊☆麻美っち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|30|861|<span class="rank-name-pd">Hiroki#jade</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|31|860|<span class="rank-name-pd">madochan</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|32|842|<span class="rank-name-pd">futa</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86208?s_seq=86208">よふけ</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|33|838|<span class="rank-name-pd">zj2k37ff86df1f</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|34|834|<span class="rank-name-pd">たいせー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|34|834|<span class="rank-name-pd">ﾕﾏ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|36|830|<span class="rank-name-pd">Hiroki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|37|827|<span class="rank-name-pd">092のぶき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|38|826|<span class="rank-name-pd">中坂　ヒロキ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|39|825|<span class="rank-name-pd">ぴ～やま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|40|824|<span class="rank-name-pd">take[JADE]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|41|821|<span class="rank-name-pd">PAL</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|42|811|<span class="rank-name-pd">taka@Jade</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|43|808|<span class="rank-name-pd">キノピッピ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|43|808|<span class="rank-name-pd">征治IIIotf☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|45|806|<span class="rank-name-pd">tooru♪Jade</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|46|794|<span class="rank-name-pd">HIROKI#jade</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|46|794|<span class="rank-name-pd">JUN仔☀︎J∂de</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|48|791|<span class="rank-name-pd">miku</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|49|786|<span class="rank-name-pd">THOMAS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|50|784|<span class="rank-name-pd">≪MkT≫</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|51|780|<span class="rank-name-pd">ハゼ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|52|774|<span class="rank-name-pd">しょうりん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|52|774|<span class="rank-name-pd">つかぽん☆jade</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|54|773|<span class="rank-name-pd">32</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|55|771|<span class="rank-name-pd">石井　貞</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|56|769|<span class="rank-name-pd">0224_0995</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|56|769|<span class="rank-name-pd">kado</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|58|764|<span class="rank-name-pd">si-si</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|59|763|<span class="rank-name-pd">Hiroki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|60|761|<span class="rank-name-pd">征治★D&#x27;s</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|61|760|<span class="rank-name-pd">えいちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|62|759|<span class="rank-name-pd">ysdh</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|63|756|<span class="rank-name-pd">ユウ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|64|754|<span class="rank-name-pd">がんちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|65|753|<span class="rank-name-pd">じーじょ@Jade</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|66|751|<span class="rank-name-pd">MASAK!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|67|750|<span class="rank-name-pd">futa</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|68|747|<span class="rank-name-pd">ベソ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|69|743|<span class="rank-name-pd">せぱぷ〜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|70|739|<span class="rank-name-pd">★Mickey★</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|71|738|<span class="rank-name-pd">《真治》☆Jade</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|72|732|<span class="rank-name-pd">まさひこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|73|731|<span class="rank-name-pd">★Mickey★</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|74|730|<span class="rank-name-pd">tomoya</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|75|729|<span class="rank-name-pd">ISSEI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|76|727|<span class="rank-name-pd">0072_8764</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|77|725|<span class="rank-name-pd">はまたろぉ【ジンベエ】たりーず</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|78|724|<span class="rank-name-pd">SEJIﾒﾝ★ﾄﾛjade</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|78|724|<span class="rank-name-pd">VULCANS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|80|723|<span class="rank-name-pd">Ｋ２【ブル泥棒】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|81|722|<span class="rank-name-pd">じーじょ@Jade</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|82|721|<span class="rank-name-pd">じぃーこー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|83|719|<span class="rank-name-pd">のっちにぃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|84|715|<span class="rank-name-pd">まさひこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|85|711|<span class="rank-name-pd">ゆうき☆Jade</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|86|710|<span class="rank-name-pd">ぴーやま　左</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|87|708|<span class="rank-name-pd">あきひろ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|88|707|<span class="rank-name-pd">中村仁</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|89|705|<span class="rank-name-pd">パイセン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|90|704|<span class="rank-name-pd"><span class="pro-icon-pd"></span>竹田 謙</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|91|703|<span class="rank-name-pd">矢野晃大@D&#x27;sHouse</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|92|700|<span class="rank-name-pd">征治★jade</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|93|695|<span class="rank-name-pd">やえ🌼.*♡</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|94|694|<span class="rank-name-pd">警笛の徘徊者</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|95|692|<span class="rank-name-pd">KEI JADE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|95|692|<span class="rank-name-pd">TAKE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86208?s_seq=86208">よふけ</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|95|692|<span class="rank-name-pd">佐世保から世を抜くと私になります</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|98|690|<span class="rank-name-pd">征治★D&#x27;s 2nd</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|99|683|<span class="rank-name-pd">ひろ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72496?s_seq=72496">D's House</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
+|100|667|<span class="rank-name-pd">風雷坊☆taka★</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10288?s_seq=10288">Jade</a>|<a href="/darts/rank/福岡県/糟屋郡">福岡県糟屋郡</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

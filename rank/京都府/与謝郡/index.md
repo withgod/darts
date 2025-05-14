@@ -24,13 +24,27 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|936|<span class="rank-name-pd">TADASHI@TSUDOI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87180?s_seq=87180">KARAOKE＆Amusement S</a>|<a href="/darts/rank/京都府/与謝郡">京都府与謝郡</a>|
-|2|866|<span class="rank-name-pd">R</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87180?s_seq=87180">KARAOKE＆Amusement S</a>|<a href="/darts/rank/京都府/与謝郡">京都府与謝郡</a>|
-|3|654|<span class="rank-name-pd">S Tetsu🔝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87180?s_seq=87180">KARAOKE＆Amusement S</a>|<a href="/darts/rank/京都府/与謝郡">京都府与謝郡</a>|
-|4|602|<span class="rank-name-pd">0229_8416</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87180?s_seq=87180">KARAOKE＆Amusement S</a>|<a href="/darts/rank/京都府/与謝郡">京都府与謝郡</a>|
-|5|568|<span class="rank-name-pd">こに</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87180?s_seq=87180">KARAOKE＆Amusement S</a>|<a href="/darts/rank/京都府/与謝郡">京都府与謝郡</a>|
-|6|536|<span class="rank-name-pd">airi DX</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87180?s_seq=87180">KARAOKE＆Amusement S</a>|<a href="/darts/rank/京都府/与謝郡">京都府与謝郡</a>|
-|7|410|<span class="rank-name-pd">おっきー＠忍ノ一字</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87180?s_seq=87180">KARAOKE＆Amusement S</a>|<a href="/darts/rank/京都府/与謝郡">京都府与謝郡</a>|
-|8|369|<span class="rank-name-pd">666</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87180?s_seq=87180">KARAOKE＆Amusement S</a>|<a href="/darts/rank/京都府/与謝郡">京都府与謝郡</a>|
+|2|875|<span class="rank-name-pd"> ただし君@つどい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87180?s_seq=87180">KARAOKE＆Amusement S</a>|<a href="/darts/rank/京都府/与謝郡">京都府与謝郡</a>|
+|3|866|<span class="rank-name-pd">R</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87180?s_seq=87180">KARAOKE＆Amusement S</a>|<a href="/darts/rank/京都府/与謝郡">京都府与謝郡</a>|
+|4|786|<span class="rank-name-pd">よっしゃん(-.-)zzz</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87180?s_seq=87180">KARAOKE＆Amusement S</a>|<a href="/darts/rank/京都府/与謝郡">京都府与謝郡</a>|
+|5|726|<span class="rank-name-pd">0064_2177</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87180?s_seq=87180">KARAOKE＆Amusement S</a>|<a href="/darts/rank/京都府/与謝郡">京都府与謝郡</a>|
+|6|678|<span class="rank-name-pd">17</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87180?s_seq=87180">KARAOKE＆Amusement S</a>|<a href="/darts/rank/京都府/与謝郡">京都府与謝郡</a>|
+|7|654|<span class="rank-name-pd">S Tetsu🔝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87180?s_seq=87180">KARAOKE＆Amusement S</a>|<a href="/darts/rank/京都府/与謝郡">京都府与謝郡</a>|
+|8|602|<span class="rank-name-pd">0229_8416</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87180?s_seq=87180">KARAOKE＆Amusement S</a>|<a href="/darts/rank/京都府/与謝郡">京都府与謝郡</a>|
+|9|568|<span class="rank-name-pd">こに</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87180?s_seq=87180">KARAOKE＆Amusement S</a>|<a href="/darts/rank/京都府/与謝郡">京都府与謝郡</a>|
+|10|536|<span class="rank-name-pd">airi DX</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87180?s_seq=87180">KARAOKE＆Amusement S</a>|<a href="/darts/rank/京都府/与謝郡">京都府与謝郡</a>|
+|11|528|<span class="rank-name-pd">@_り</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87180?s_seq=87180">KARAOKE＆Amusement S</a>|<a href="/darts/rank/京都府/与謝郡">京都府与謝郡</a>|
+|11|528|<span class="rank-name-pd">じゅんこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87180?s_seq=87180">KARAOKE＆Amusement S</a>|<a href="/darts/rank/京都府/与謝郡">京都府与謝郡</a>|
+|13|527|<span class="rank-name-pd">ぎんじろう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87180?s_seq=87180">KARAOKE＆Amusement S</a>|<a href="/darts/rank/京都府/与謝郡">京都府与謝郡</a>|
+|14|515|<span class="rank-name-pd">Sasha</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87180?s_seq=87180">KARAOKE＆Amusement S</a>|<a href="/darts/rank/京都府/与謝郡">京都府与謝郡</a>|
+|15|510|<span class="rank-name-pd">ぶるたろう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87180?s_seq=87180">KARAOKE＆Amusement S</a>|<a href="/darts/rank/京都府/与謝郡">京都府与謝郡</a>|
+|16|482|<span class="rank-name-pd">タッチ～</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87180?s_seq=87180">KARAOKE＆Amusement S</a>|<a href="/darts/rank/京都府/与謝郡">京都府与謝郡</a>|
+|17|435|<span class="rank-name-pd">Yaaaaas</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87180?s_seq=87180">KARAOKE＆Amusement S</a>|<a href="/darts/rank/京都府/与謝郡">京都府与謝郡</a>|
+|18|411|<span class="rank-name-pd">ABC</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87180?s_seq=87180">KARAOKE＆Amusement S</a>|<a href="/darts/rank/京都府/与謝郡">京都府与謝郡</a>|
+|19|410|<span class="rank-name-pd">おっきー＠忍ノ一字</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87180?s_seq=87180">KARAOKE＆Amusement S</a>|<a href="/darts/rank/京都府/与謝郡">京都府与謝郡</a>|
+|20|402|<span class="rank-name-pd">ちあき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87180?s_seq=87180">KARAOKE＆Amusement S</a>|<a href="/darts/rank/京都府/与謝郡">京都府与謝郡</a>|
+|21|369|<span class="rank-name-pd">666</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87180?s_seq=87180">KARAOKE＆Amusement S</a>|<a href="/darts/rank/京都府/与謝郡">京都府与謝郡</a>|
+|22|289|<span class="rank-name-pd">コビー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87180?s_seq=87180">KARAOKE＆Amusement S</a>|<a href="/darts/rank/京都府/与謝郡">京都府与謝郡</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -51,13 +65,27 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|936|<span class="rank-name-pd">TADASHI@TSUDOI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87180?s_seq=87180">KARAOKE＆Amusement S</a>|<a href="/darts/rank/京都府/与謝郡">京都府与謝郡</a>|
-|2|866|<span class="rank-name-pd">R</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87180?s_seq=87180">KARAOKE＆Amusement S</a>|<a href="/darts/rank/京都府/与謝郡">京都府与謝郡</a>|
-|3|654|<span class="rank-name-pd">S Tetsu🔝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87180?s_seq=87180">KARAOKE＆Amusement S</a>|<a href="/darts/rank/京都府/与謝郡">京都府与謝郡</a>|
-|4|602|<span class="rank-name-pd">0229_8416</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87180?s_seq=87180">KARAOKE＆Amusement S</a>|<a href="/darts/rank/京都府/与謝郡">京都府与謝郡</a>|
-|5|568|<span class="rank-name-pd">こに</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87180?s_seq=87180">KARAOKE＆Amusement S</a>|<a href="/darts/rank/京都府/与謝郡">京都府与謝郡</a>|
-|6|536|<span class="rank-name-pd">airi DX</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87180?s_seq=87180">KARAOKE＆Amusement S</a>|<a href="/darts/rank/京都府/与謝郡">京都府与謝郡</a>|
-|7|410|<span class="rank-name-pd">おっきー＠忍ノ一字</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87180?s_seq=87180">KARAOKE＆Amusement S</a>|<a href="/darts/rank/京都府/与謝郡">京都府与謝郡</a>|
-|8|369|<span class="rank-name-pd">666</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87180?s_seq=87180">KARAOKE＆Amusement S</a>|<a href="/darts/rank/京都府/与謝郡">京都府与謝郡</a>|
+|2|875|<span class="rank-name-pd"> ただし君@つどい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87180?s_seq=87180">KARAOKE＆Amusement S</a>|<a href="/darts/rank/京都府/与謝郡">京都府与謝郡</a>|
+|3|866|<span class="rank-name-pd">R</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87180?s_seq=87180">KARAOKE＆Amusement S</a>|<a href="/darts/rank/京都府/与謝郡">京都府与謝郡</a>|
+|4|786|<span class="rank-name-pd">よっしゃん(-.-)zzz</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87180?s_seq=87180">KARAOKE＆Amusement S</a>|<a href="/darts/rank/京都府/与謝郡">京都府与謝郡</a>|
+|5|726|<span class="rank-name-pd">0064_2177</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87180?s_seq=87180">KARAOKE＆Amusement S</a>|<a href="/darts/rank/京都府/与謝郡">京都府与謝郡</a>|
+|6|678|<span class="rank-name-pd">17</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87180?s_seq=87180">KARAOKE＆Amusement S</a>|<a href="/darts/rank/京都府/与謝郡">京都府与謝郡</a>|
+|7|654|<span class="rank-name-pd">S Tetsu🔝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87180?s_seq=87180">KARAOKE＆Amusement S</a>|<a href="/darts/rank/京都府/与謝郡">京都府与謝郡</a>|
+|8|602|<span class="rank-name-pd">0229_8416</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87180?s_seq=87180">KARAOKE＆Amusement S</a>|<a href="/darts/rank/京都府/与謝郡">京都府与謝郡</a>|
+|9|568|<span class="rank-name-pd">こに</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87180?s_seq=87180">KARAOKE＆Amusement S</a>|<a href="/darts/rank/京都府/与謝郡">京都府与謝郡</a>|
+|10|536|<span class="rank-name-pd">airi DX</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87180?s_seq=87180">KARAOKE＆Amusement S</a>|<a href="/darts/rank/京都府/与謝郡">京都府与謝郡</a>|
+|11|528|<span class="rank-name-pd">@_り</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87180?s_seq=87180">KARAOKE＆Amusement S</a>|<a href="/darts/rank/京都府/与謝郡">京都府与謝郡</a>|
+|11|528|<span class="rank-name-pd">じゅんこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87180?s_seq=87180">KARAOKE＆Amusement S</a>|<a href="/darts/rank/京都府/与謝郡">京都府与謝郡</a>|
+|13|527|<span class="rank-name-pd">ぎんじろう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87180?s_seq=87180">KARAOKE＆Amusement S</a>|<a href="/darts/rank/京都府/与謝郡">京都府与謝郡</a>|
+|14|515|<span class="rank-name-pd">Sasha</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87180?s_seq=87180">KARAOKE＆Amusement S</a>|<a href="/darts/rank/京都府/与謝郡">京都府与謝郡</a>|
+|15|510|<span class="rank-name-pd">ぶるたろう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87180?s_seq=87180">KARAOKE＆Amusement S</a>|<a href="/darts/rank/京都府/与謝郡">京都府与謝郡</a>|
+|16|482|<span class="rank-name-pd">タッチ～</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87180?s_seq=87180">KARAOKE＆Amusement S</a>|<a href="/darts/rank/京都府/与謝郡">京都府与謝郡</a>|
+|17|435|<span class="rank-name-pd">Yaaaaas</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87180?s_seq=87180">KARAOKE＆Amusement S</a>|<a href="/darts/rank/京都府/与謝郡">京都府与謝郡</a>|
+|18|411|<span class="rank-name-pd">ABC</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87180?s_seq=87180">KARAOKE＆Amusement S</a>|<a href="/darts/rank/京都府/与謝郡">京都府与謝郡</a>|
+|19|410|<span class="rank-name-pd">おっきー＠忍ノ一字</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87180?s_seq=87180">KARAOKE＆Amusement S</a>|<a href="/darts/rank/京都府/与謝郡">京都府与謝郡</a>|
+|20|402|<span class="rank-name-pd">ちあき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87180?s_seq=87180">KARAOKE＆Amusement S</a>|<a href="/darts/rank/京都府/与謝郡">京都府与謝郡</a>|
+|21|369|<span class="rank-name-pd">666</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87180?s_seq=87180">KARAOKE＆Amusement S</a>|<a href="/darts/rank/京都府/与謝郡">京都府与謝郡</a>|
+|22|289|<span class="rank-name-pd">コビー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87180?s_seq=87180">KARAOKE＆Amusement S</a>|<a href="/darts/rank/京都府/与謝郡">京都府与謝郡</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

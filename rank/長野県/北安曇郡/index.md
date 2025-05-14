@@ -27,13 +27,28 @@ ___
 |2|845|<span class="rank-name-pd">タイラント</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
 |3|841|<span class="rank-name-pd">ぼんたんマン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
 |4|786|<span class="rank-name-pd">REO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
-|5|738|<span class="rank-name-pd">ピンロー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
-|6|723|<span class="rank-name-pd">うっちー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
-|7|605|<span class="rank-name-pd">❁⃘*.ﾟ彩季 ❁⃘*.ﾟ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
-|8|578|<span class="rank-name-pd">美玖</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
-|9|547|<span class="rank-name-pd">RSK</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
-|10|511|<span class="rank-name-pd">ロミオ*19</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
-|11|306|<span class="rank-name-pd">LaBu4</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
+|5|748|<span class="rank-name-pd">IKEO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
+|6|738|<span class="rank-name-pd">ピンロー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
+|7|723|<span class="rank-name-pd">うっちー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
+|8|719|<span class="rank-name-pd">OZIKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
+|9|639|<span class="rank-name-pd">KYO-00</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
+|10|635|<span class="rank-name-pd">かいこくん@Hang out</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
+|11|605|<span class="rank-name-pd">❁⃘*.ﾟ彩季 ❁⃘*.ﾟ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
+|11|605|<span class="rank-name-pd">中級者</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
+|13|602|<span class="rank-name-pd">あやか</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
+|14|578|<span class="rank-name-pd">美玖</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
+|15|554|<span class="rank-name-pd">Lime</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
+|16|547|<span class="rank-name-pd">RSK</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
+|17|542|<span class="rank-name-pd">163008*19</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
+|18|534|<span class="rank-name-pd">ke1ta</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
+|19|511|<span class="rank-name-pd">ロミオ*19</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
+|20|478|<span class="rank-name-pd">SR20</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
+|21|475|<span class="rank-name-pd">はらぺこあおむし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
+|22|451|<span class="rank-name-pd">ごきげーん！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
+|23|441|<span class="rank-name-pd">朝倉未来</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
+|24|385|<span class="rank-name-pd">いいだきりゅう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
+|25|384|<span class="rank-name-pd">えーん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
+|26|306|<span class="rank-name-pd">LaBu4</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -57,13 +72,28 @@ ___
 |2|845|<span class="rank-name-pd">タイラント</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
 |3|841|<span class="rank-name-pd">ぼんたんマン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
 |4|786|<span class="rank-name-pd">REO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
-|5|738|<span class="rank-name-pd">ピンロー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
-|6|723|<span class="rank-name-pd">うっちー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
-|7|605|<span class="rank-name-pd">❁⃘*.ﾟ彩季 ❁⃘*.ﾟ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
-|8|578|<span class="rank-name-pd">美玖</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
-|9|547|<span class="rank-name-pd">RSK</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
-|10|511|<span class="rank-name-pd">ロミオ*19</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
-|11|306|<span class="rank-name-pd">LaBu4</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
+|5|748|<span class="rank-name-pd">IKEO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
+|6|738|<span class="rank-name-pd">ピンロー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
+|7|723|<span class="rank-name-pd">うっちー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
+|8|719|<span class="rank-name-pd">OZIKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
+|9|639|<span class="rank-name-pd">KYO-00</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
+|10|635|<span class="rank-name-pd">かいこくん@Hang out</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
+|11|605|<span class="rank-name-pd">❁⃘*.ﾟ彩季 ❁⃘*.ﾟ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
+|11|605|<span class="rank-name-pd">中級者</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
+|13|602|<span class="rank-name-pd">あやか</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
+|14|578|<span class="rank-name-pd">美玖</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
+|15|554|<span class="rank-name-pd">Lime</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
+|16|547|<span class="rank-name-pd">RSK</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
+|17|542|<span class="rank-name-pd">163008*19</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
+|18|534|<span class="rank-name-pd">ke1ta</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
+|19|511|<span class="rank-name-pd">ロミオ*19</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
+|20|478|<span class="rank-name-pd">SR20</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
+|21|475|<span class="rank-name-pd">はらぺこあおむし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
+|22|451|<span class="rank-name-pd">ごきげーん！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
+|23|441|<span class="rank-name-pd">朝倉未来</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
+|24|385|<span class="rank-name-pd">いいだきりゅう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
+|25|384|<span class="rank-name-pd">えーん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
+|26|306|<span class="rank-name-pd">LaBu4</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8681?s_seq=8681">ダモンデ</a>|<a href="/darts/rank/長野県/北安曇郡">長野県北安曇郡</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

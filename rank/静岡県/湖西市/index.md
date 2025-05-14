@@ -26,18 +26,43 @@ ___
 |1|853|<span class="rank-name-pd">ひろぱ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85883?s_seq=85883">MAHOROBA</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
 |2|845|<span class="rank-name-pd">こうすけ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85883?s_seq=85883">MAHOROBA</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
 |3|799|<span class="rank-name-pd">かっけー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85883?s_seq=85883">MAHOROBA</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
-|4|769|<span class="rank-name-pd">アツシ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85883?s_seq=85883">MAHOROBA</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
-|5|726|<span class="rank-name-pd">雅鬼∞STRAD</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85883?s_seq=85883">MAHOROBA</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
-|6|718|<span class="rank-name-pd">Yama</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85883?s_seq=85883">MAHOROBA</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
-|7|702|<span class="rank-name-pd">S-DARTS【20th】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85883?s_seq=85883">MAHOROBA</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
-|8|521|<span class="rank-name-pd">深見</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85883?s_seq=85883">MAHOROBA</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
-|9|459|<span class="rank-name-pd">ふかみん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85883?s_seq=85883">MAHOROBA</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
-|10|433|<span class="rank-name-pd">A</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85883?s_seq=85883">MAHOROBA</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
-|11|427|<span class="rank-name-pd">@k@ri</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85883?s_seq=85883">MAHOROBA</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
-|12|420|<span class="rank-name-pd">鈴木　貴博</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85883?s_seq=85883">MAHOROBA</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
-|13|381|<span class="rank-name-pd">73</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85883?s_seq=85883">MAHOROBA</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
-|14|350|<span class="rank-name-pd">MAHOROBAアツシ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85883?s_seq=85883">MAHOROBA</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
-|15|317|<span class="rank-name-pd">malboro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85883?s_seq=85883">MAHOROBA</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|4|773|<span class="rank-name-pd">雅鬼∞STRAD</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94634?s_seq=94634">TESORO</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|5|769|<span class="rank-name-pd">アツシ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85883?s_seq=85883">MAHOROBA</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|6|764|<span class="rank-name-pd">はじー【TESORO】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94634?s_seq=94634">TESORO</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|7|762|<span class="rank-name-pd">かっけー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94634?s_seq=94634">TESORO</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|8|726|<span class="rank-name-pd">雅鬼∞STRAD</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85883?s_seq=85883">MAHOROBA</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|9|718|<span class="rank-name-pd">Yama</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85883?s_seq=85883">MAHOROBA</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|10|702|<span class="rank-name-pd">S-DARTS【20th】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85883?s_seq=85883">MAHOROBA</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|11|661|<span class="rank-name-pd">岡本 武宏</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94634?s_seq=94634">TESORO</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|12|645|<span class="rank-name-pd">HIRORO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94634?s_seq=94634">TESORO</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|13|599|<span class="rank-name-pd">橋本哲至(元色々箱）【わらしべ】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94634?s_seq=94634">TESORO</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|14|564|<span class="rank-name-pd">ふかみん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94634?s_seq=94634">TESORO</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|15|540|<span class="rank-name-pd">深見</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94634?s_seq=94634">TESORO</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|16|526|<span class="rank-name-pd">GOMA@0126</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94634?s_seq=94634">TESORO</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|17|521|<span class="rank-name-pd">深見</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85883?s_seq=85883">MAHOROBA</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|18|518|<span class="rank-name-pd">ゆたん【TESORO】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94634?s_seq=94634">TESORO</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|19|513|<span class="rank-name-pd">yumichun【TESORO】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94634?s_seq=94634">TESORO</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|19|513|<span class="rank-name-pd">アツシ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94634?s_seq=94634">TESORO</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|21|508|<span class="rank-name-pd">おすぎ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94634?s_seq=94634">TESORO</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|22|503|<span class="rank-name-pd">NAGACHIKA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94634?s_seq=94634">TESORO</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|23|486|<span class="rank-name-pd">【KFB】FE2【色々箱】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94634?s_seq=94634">TESORO</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|24|483|<span class="rank-name-pd">ルナ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94634?s_seq=94634">TESORO</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|25|468|<span class="rank-name-pd">イクサソ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94634?s_seq=94634">TESORO</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|26|459|<span class="rank-name-pd">ふかみん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85883?s_seq=85883">MAHOROBA</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|27|434|<span class="rank-name-pd">GAN BULL</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94634?s_seq=94634">TESORO</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|27|434|<span class="rank-name-pd">ガブ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94634?s_seq=94634">TESORO</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|29|433|<span class="rank-name-pd">A</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85883?s_seq=85883">MAHOROBA</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|30|427|<span class="rank-name-pd">@k@ri</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85883?s_seq=85883">MAHOROBA</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|31|420|<span class="rank-name-pd">J</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94634?s_seq=94634">TESORO</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|31|420|<span class="rank-name-pd">鈴木　貴博</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85883?s_seq=85883">MAHOROBA</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|33|417|<span class="rank-name-pd">0170_4993</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94634?s_seq=94634">TESORO</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|34|410|<span class="rank-name-pd">りゅうちゃん【バードランド】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94634?s_seq=94634">TESORO</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|35|409|<span class="rank-name-pd">のみげー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94634?s_seq=94634">TESORO</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|36|391|<span class="rank-name-pd">takuzen...</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94634?s_seq=94634">TESORO</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|37|381|<span class="rank-name-pd">73</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85883?s_seq=85883">MAHOROBA</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|38|350|<span class="rank-name-pd">MAHOROBAアツシ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85883?s_seq=85883">MAHOROBA</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|39|333|<span class="rank-name-pd">TENGA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94634?s_seq=94634">TESORO</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|40|317|<span class="rank-name-pd">malboro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85883?s_seq=85883">MAHOROBA</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -60,18 +85,43 @@ ___
 |1|853|<span class="rank-name-pd">ひろぱ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85883?s_seq=85883">MAHOROBA</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
 |2|845|<span class="rank-name-pd">こうすけ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85883?s_seq=85883">MAHOROBA</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
 |3|799|<span class="rank-name-pd">かっけー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85883?s_seq=85883">MAHOROBA</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
-|4|769|<span class="rank-name-pd">アツシ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85883?s_seq=85883">MAHOROBA</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
-|5|726|<span class="rank-name-pd">雅鬼∞STRAD</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85883?s_seq=85883">MAHOROBA</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
-|6|718|<span class="rank-name-pd">Yama</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85883?s_seq=85883">MAHOROBA</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
-|7|702|<span class="rank-name-pd">S-DARTS【20th】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85883?s_seq=85883">MAHOROBA</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
-|8|521|<span class="rank-name-pd">深見</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85883?s_seq=85883">MAHOROBA</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
-|9|459|<span class="rank-name-pd">ふかみん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85883?s_seq=85883">MAHOROBA</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
-|10|433|<span class="rank-name-pd">A</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85883?s_seq=85883">MAHOROBA</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
-|11|427|<span class="rank-name-pd">@k@ri</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85883?s_seq=85883">MAHOROBA</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
-|12|420|<span class="rank-name-pd">鈴木　貴博</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85883?s_seq=85883">MAHOROBA</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
-|13|381|<span class="rank-name-pd">73</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85883?s_seq=85883">MAHOROBA</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
-|14|350|<span class="rank-name-pd">MAHOROBAアツシ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85883?s_seq=85883">MAHOROBA</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
-|15|317|<span class="rank-name-pd">malboro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85883?s_seq=85883">MAHOROBA</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|4|773|<span class="rank-name-pd">雅鬼∞STRAD</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94634?s_seq=94634">TESORO</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|5|769|<span class="rank-name-pd">アツシ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85883?s_seq=85883">MAHOROBA</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|6|764|<span class="rank-name-pd">はじー【TESORO】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94634?s_seq=94634">TESORO</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|7|762|<span class="rank-name-pd">かっけー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94634?s_seq=94634">TESORO</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|8|726|<span class="rank-name-pd">雅鬼∞STRAD</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85883?s_seq=85883">MAHOROBA</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|9|718|<span class="rank-name-pd">Yama</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85883?s_seq=85883">MAHOROBA</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|10|702|<span class="rank-name-pd">S-DARTS【20th】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85883?s_seq=85883">MAHOROBA</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|11|661|<span class="rank-name-pd">岡本 武宏</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94634?s_seq=94634">TESORO</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|12|645|<span class="rank-name-pd">HIRORO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94634?s_seq=94634">TESORO</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|13|599|<span class="rank-name-pd">橋本哲至(元色々箱）【わらしべ】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94634?s_seq=94634">TESORO</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|14|564|<span class="rank-name-pd">ふかみん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94634?s_seq=94634">TESORO</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|15|540|<span class="rank-name-pd">深見</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94634?s_seq=94634">TESORO</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|16|526|<span class="rank-name-pd">GOMA@0126</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94634?s_seq=94634">TESORO</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|17|521|<span class="rank-name-pd">深見</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85883?s_seq=85883">MAHOROBA</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|18|518|<span class="rank-name-pd">ゆたん【TESORO】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94634?s_seq=94634">TESORO</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|19|513|<span class="rank-name-pd">yumichun【TESORO】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94634?s_seq=94634">TESORO</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|19|513|<span class="rank-name-pd">アツシ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94634?s_seq=94634">TESORO</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|21|508|<span class="rank-name-pd">おすぎ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94634?s_seq=94634">TESORO</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|22|503|<span class="rank-name-pd">NAGACHIKA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94634?s_seq=94634">TESORO</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|23|486|<span class="rank-name-pd">【KFB】FE2【色々箱】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94634?s_seq=94634">TESORO</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|24|483|<span class="rank-name-pd">ルナ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94634?s_seq=94634">TESORO</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|25|468|<span class="rank-name-pd">イクサソ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94634?s_seq=94634">TESORO</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|26|459|<span class="rank-name-pd">ふかみん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85883?s_seq=85883">MAHOROBA</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|27|434|<span class="rank-name-pd">GAN BULL</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94634?s_seq=94634">TESORO</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|27|434|<span class="rank-name-pd">ガブ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94634?s_seq=94634">TESORO</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|29|433|<span class="rank-name-pd">A</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85883?s_seq=85883">MAHOROBA</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|30|427|<span class="rank-name-pd">@k@ri</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85883?s_seq=85883">MAHOROBA</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|31|420|<span class="rank-name-pd">J</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94634?s_seq=94634">TESORO</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|31|420|<span class="rank-name-pd">鈴木　貴博</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85883?s_seq=85883">MAHOROBA</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|33|417|<span class="rank-name-pd">0170_4993</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94634?s_seq=94634">TESORO</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|34|410|<span class="rank-name-pd">りゅうちゃん【バードランド】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94634?s_seq=94634">TESORO</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|35|409|<span class="rank-name-pd">のみげー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94634?s_seq=94634">TESORO</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|36|391|<span class="rank-name-pd">takuzen...</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94634?s_seq=94634">TESORO</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|37|381|<span class="rank-name-pd">73</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85883?s_seq=85883">MAHOROBA</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|38|350|<span class="rank-name-pd">MAHOROBAアツシ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85883?s_seq=85883">MAHOROBA</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|39|333|<span class="rank-name-pd">TENGA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94634?s_seq=94634">TESORO</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
+|40|317|<span class="rank-name-pd">malboro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85883?s_seq=85883">MAHOROBA</a>|<a href="/darts/rank/静岡県/湖西市">静岡県湖西市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

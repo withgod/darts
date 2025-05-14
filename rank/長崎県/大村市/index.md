@@ -31,13 +31,15 @@ ___
 |6|572|<span class="rank-name-pd">おでん嫌い</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7895?s_seq=7895">SAMURAI</a>|<a href="/darts/rank/長崎県/大村市">長崎県大村市</a>|
 |7|559|<span class="rank-name-pd">川内  康生</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7895?s_seq=7895">SAMURAI</a>|<a href="/darts/rank/長崎県/大村市">長崎県大村市</a>|
 |8|554|<span class="rank-name-pd">KEI331</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7895?s_seq=7895">SAMURAI</a>|<a href="/darts/rank/長崎県/大村市">長崎県大村市</a>|
-|9|521|<span class="rank-name-pd">___hauru</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7895?s_seq=7895">SAMURAI</a>|<a href="/darts/rank/長崎県/大村市">長崎県大村市</a>|
-|10|464|<span class="rank-name-pd">あっきー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7895?s_seq=7895">SAMURAI</a>|<a href="/darts/rank/長崎県/大村市">長崎県大村市</a>|
-|11|447|<span class="rank-name-pd">☆梅さん☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7895?s_seq=7895">SAMURAI</a>|<a href="/darts/rank/長崎県/大村市">長崎県大村市</a>|
-|12|443|<span class="rank-name-pd">Hikarero</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7895?s_seq=7895">SAMURAI</a>|<a href="/darts/rank/長崎県/大村市">長崎県大村市</a>|
-|13|436|<span class="rank-name-pd">k-kun</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7895?s_seq=7895">SAMURAI</a>|<a href="/darts/rank/長崎県/大村市">長崎県大村市</a>|
-|14|384|<span class="rank-name-pd">白狐</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7895?s_seq=7895">SAMURAI</a>|<a href="/darts/rank/長崎県/大村市">長崎県大村市</a>|
-|15|348|<span class="rank-name-pd">KAZUSAN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7895?s_seq=7895">SAMURAI</a>|<a href="/darts/rank/長崎県/大村市">長崎県大村市</a>|
+|9|522|<span class="rank-name-pd">Hikarero</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7895?s_seq=7895">SAMURAI</a>|<a href="/darts/rank/長崎県/大村市">長崎県大村市</a>|
+|10|521|<span class="rank-name-pd">___hauru</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7895?s_seq=7895">SAMURAI</a>|<a href="/darts/rank/長崎県/大村市">長崎県大村市</a>|
+|11|464|<span class="rank-name-pd">あっきー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7895?s_seq=7895">SAMURAI</a>|<a href="/darts/rank/長崎県/大村市">長崎県大村市</a>|
+|12|452|<span class="rank-name-pd">MIZUKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7895?s_seq=7895">SAMURAI</a>|<a href="/darts/rank/長崎県/大村市">長崎県大村市</a>|
+|13|447|<span class="rank-name-pd">☆梅さん☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7895?s_seq=7895">SAMURAI</a>|<a href="/darts/rank/長崎県/大村市">長崎県大村市</a>|
+|14|436|<span class="rank-name-pd">k-kun</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7895?s_seq=7895">SAMURAI</a>|<a href="/darts/rank/長崎県/大村市">長崎県大村市</a>|
+|15|384|<span class="rank-name-pd">白狐</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7895?s_seq=7895">SAMURAI</a>|<a href="/darts/rank/長崎県/大村市">長崎県大村市</a>|
+|16|348|<span class="rank-name-pd">KAZUSAN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7895?s_seq=7895">SAMURAI</a>|<a href="/darts/rank/長崎県/大村市">長崎県大村市</a>|
+|17|283|<span class="rank-name-pd">0217_7893</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7895?s_seq=7895">SAMURAI</a>|<a href="/darts/rank/長崎県/大村市">長崎県大村市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -65,13 +67,15 @@ ___
 |6|572|<span class="rank-name-pd">おでん嫌い</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7895?s_seq=7895">SAMURAI</a>|<a href="/darts/rank/長崎県/大村市">長崎県大村市</a>|
 |7|559|<span class="rank-name-pd">川内  康生</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7895?s_seq=7895">SAMURAI</a>|<a href="/darts/rank/長崎県/大村市">長崎県大村市</a>|
 |8|554|<span class="rank-name-pd">KEI331</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7895?s_seq=7895">SAMURAI</a>|<a href="/darts/rank/長崎県/大村市">長崎県大村市</a>|
-|9|521|<span class="rank-name-pd">___hauru</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7895?s_seq=7895">SAMURAI</a>|<a href="/darts/rank/長崎県/大村市">長崎県大村市</a>|
-|10|464|<span class="rank-name-pd">あっきー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7895?s_seq=7895">SAMURAI</a>|<a href="/darts/rank/長崎県/大村市">長崎県大村市</a>|
-|11|447|<span class="rank-name-pd">☆梅さん☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7895?s_seq=7895">SAMURAI</a>|<a href="/darts/rank/長崎県/大村市">長崎県大村市</a>|
-|12|443|<span class="rank-name-pd">Hikarero</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7895?s_seq=7895">SAMURAI</a>|<a href="/darts/rank/長崎県/大村市">長崎県大村市</a>|
-|13|436|<span class="rank-name-pd">k-kun</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7895?s_seq=7895">SAMURAI</a>|<a href="/darts/rank/長崎県/大村市">長崎県大村市</a>|
-|14|384|<span class="rank-name-pd">白狐</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7895?s_seq=7895">SAMURAI</a>|<a href="/darts/rank/長崎県/大村市">長崎県大村市</a>|
-|15|348|<span class="rank-name-pd">KAZUSAN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7895?s_seq=7895">SAMURAI</a>|<a href="/darts/rank/長崎県/大村市">長崎県大村市</a>|
+|9|522|<span class="rank-name-pd">Hikarero</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7895?s_seq=7895">SAMURAI</a>|<a href="/darts/rank/長崎県/大村市">長崎県大村市</a>|
+|10|521|<span class="rank-name-pd">___hauru</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7895?s_seq=7895">SAMURAI</a>|<a href="/darts/rank/長崎県/大村市">長崎県大村市</a>|
+|11|464|<span class="rank-name-pd">あっきー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7895?s_seq=7895">SAMURAI</a>|<a href="/darts/rank/長崎県/大村市">長崎県大村市</a>|
+|12|452|<span class="rank-name-pd">MIZUKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7895?s_seq=7895">SAMURAI</a>|<a href="/darts/rank/長崎県/大村市">長崎県大村市</a>|
+|13|447|<span class="rank-name-pd">☆梅さん☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7895?s_seq=7895">SAMURAI</a>|<a href="/darts/rank/長崎県/大村市">長崎県大村市</a>|
+|14|436|<span class="rank-name-pd">k-kun</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7895?s_seq=7895">SAMURAI</a>|<a href="/darts/rank/長崎県/大村市">長崎県大村市</a>|
+|15|384|<span class="rank-name-pd">白狐</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7895?s_seq=7895">SAMURAI</a>|<a href="/darts/rank/長崎県/大村市">長崎県大村市</a>|
+|16|348|<span class="rank-name-pd">KAZUSAN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7895?s_seq=7895">SAMURAI</a>|<a href="/darts/rank/長崎県/大村市">長崎県大村市</a>|
+|17|283|<span class="rank-name-pd">0217_7893</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7895?s_seq=7895">SAMURAI</a>|<a href="/darts/rank/長崎県/大村市">長崎県大村市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

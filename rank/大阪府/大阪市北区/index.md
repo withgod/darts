@@ -23,106 +23,106 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1225|<span class="rank-name-dl">山下　竜起</span>|<a href="https://search.dartslive.com/jp/shop/bdfafc15e5af3b910d9b047a20a7ba1e">Darts Bar eX</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|2|1200|<span class="rank-name-dl">Ryu Nagayo☆狼族</span>|<a href="https://search.dartslive.com/jp/shop/f0a7940f7e4a27fa0d9b047a20a7ba1e">Sports Bar Seed</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|2|1200|<span class="rank-name-dl">浅田　斉吾</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|2|1200|<span class="rank-name-dl">畦元 隆成</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|2|1200|<span class="rank-name-dl">藤原　徹也</span>|<a href="https://search.dartslive.com/jp/shop/f37ffdd76e2d326725d56fb0e5c39bac">快活CLUB 天六店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|6|1185|<span class="rank-name-dl">山下 竜起@DMC</span>|<a href="https://search.dartslive.com/jp/shop/bdfafc15e5af3b910d9b047a20a7ba1e">Darts Bar eX</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|7|1176|<span class="rank-name-dl">柴田 豊和</span>|<a href="https://search.dartslive.com/jp/shop/bdfafc15e5af3b910d9b047a20a7ba1e">Darts Bar eX</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|8|1174|<span class="rank-name-dl">ｼﾞｮｰｼﾞ ﾐｼｶﾞﾝ</span>|<a href="https://search.dartslive.com/jp/shop/2f545869ced206690d9b047a20a7ba1e">DARTS BAR MICHIGAN</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|9|1169|<span class="rank-name-dl">ゆうちん</span>|<a href="https://search.dartslive.com/jp/shop/2f545869ced206690d9b047a20a7ba1e">DARTS BAR MICHIGAN</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|10|1168|<span class="rank-name-dl">unknown</span>|<a href="https://search.dartslive.com/jp/shop/b9bc068ea231b1f00d9b047a20a7ba1e">ラウンドワン梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|11|1167|<span class="rank-name-dl">馬場 善久</span>|<a href="https://search.dartslive.com/jp/shop/d049acd619ee2217f454cb89828a1cfe">max osaka 梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|12|1166|<span class="rank-name-dl">星野 光正</span>|<a href="https://search.dartslive.com/jp/shop/d049acd619ee2217f454cb89828a1cfe">max osaka 梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|13|1165|<span class="rank-name-dl">魔王@eX</span>|<a href="https://search.dartslive.com/jp/shop/bdfafc15e5af3b910d9b047a20a7ba1e">Darts Bar eX</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|14|1163|<span class="rank-name-dl">tkm</span>|<a href="https://search.dartslive.com/jp/shop/4c50b821b3d02dc725d56fb0e5c39bac">忘我スタジアム</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|15|1159|<span class="rank-name-dl">ゆうちん</span>|<a href="https://search.dartslive.com/jp/shop/04b99e033433a59b0d9b047a20a7ba1e">ダーツカフェデルタお初天神店(DartsCafeDELTAお初天神店)</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|16|1157|<span class="rank-name-dl">NO NAME 5559</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|17|1155|<span class="rank-name-dl">魔人王＠ex</span>|<a href="https://search.dartslive.com/jp/shop/b9bc068ea231b1f00d9b047a20a7ba1e">ラウンドワン梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|18|1150|<span class="rank-name-dl">魔王@eX</span>|<a href="https://search.dartslive.com/jp/shop/b9bc068ea231b1f00d9b047a20a7ba1e">ラウンドワン梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|19|1147|<span class="rank-name-dl">津波良二CUESOUL</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|20|1142|<span class="rank-name-dl">901ｸﾞﾘｺS-DARTS23</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|21|1140|<span class="rank-name-dl">tkm</span>|<a href="https://search.dartslive.com/jp/shop/2f545869ced206690d9b047a20a7ba1e">DARTS BAR MICHIGAN</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|22|1138|<span class="rank-name-dl">Masato Narita</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|23|1137|<span class="rank-name-dl">松藤 翔太</span>|<a href="https://search.dartslive.com/jp/shop/4c50b821b3d02dc725d56fb0e5c39bac">忘我スタジアム</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|24|1132|<span class="rank-name-dl">和泉　真平</span>|<a href="https://search.dartslive.com/jp/shop/d9b52c26d9aefc120d9b047a20a7ba1e">BAR CROSS UMEDA</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|25|1128|<span class="rank-name-dl">愛 義成</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|26|1127|<span class="rank-name-dl">なおp</span>|<a href="https://search.dartslive.com/jp/shop/d049acd619ee2217f454cb89828a1cfe">max osaka 梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|27|1124|<span class="rank-name-dl">じんぼ</span>|<a href="https://search.dartslive.com/jp/shop/2f545869ced206690d9b047a20a7ba1e">DARTS BAR MICHIGAN</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|27|1124|<span class="rank-name-dl">なおや@max</span>|<a href="https://search.dartslive.com/jp/shop/d049acd619ee2217f454cb89828a1cfe">max osaka 梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|27|1124|<span class="rank-name-dl">近藤 拓也</span>|<a href="https://search.dartslive.com/jp/shop/4c50b821b3d02dc725d56fb0e5c39bac">忘我スタジアム</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|30|1123|<span class="rank-name-dl">2024</span>|<a href="https://search.dartslive.com/jp/shop/4c50b821b3d02dc725d56fb0e5c39bac">忘我スタジアム</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|30|1123|<span class="rank-name-dl">けんじーの</span>|<a href="https://search.dartslive.com/jp/shop/53a54323d71b4c33b21333aee1bd51e4">B-GARAGE 天六店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|30|1123|<span class="rank-name-dl">粕谷　晋</span>|<a href="https://search.dartslive.com/jp/shop/d049acd619ee2217f454cb89828a1cfe">max osaka 梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|33|1122|<span class="rank-name-dl">柴田　豊和</span>|<a href="https://search.dartslive.com/jp/shop/bdfafc15e5af3b910d9b047a20a7ba1e">Darts Bar eX</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|34|1121|<span class="rank-name-dl">Tetsuya fujiwara</span>|<a href="https://search.dartslive.com/jp/shop/f37ffdd76e2d326725d56fb0e5c39bac">快活CLUB 天六店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|34|1121|<span class="rank-name-dl">№Ъцчцк！</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|36|1120|<span class="rank-name-dl">ぴーぽー</span>|<a href="https://search.dartslive.com/jp/shop/d049acd619ee2217f454cb89828a1cfe">max osaka 梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|36|1120|<span class="rank-name-dl">山下　竜起セパ用</span>|<a href="https://search.dartslive.com/jp/shop/bdfafc15e5af3b910d9b047a20a7ba1e">Darts Bar eX</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|36|1120|<span class="rank-name-dl">由肥　元希</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|36|1120|<span class="rank-name-dl">ｻﾝｼﾞ梅星★乱蜂☠</span>|<a href="https://search.dartslive.com/jp/shop/b9bc068ea231b1f00d9b047a20a7ba1e">ラウンドワン梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|40|1119|<span class="rank-name-dl">Ryu Nagayo☆狼族</span>|<a href="https://search.dartslive.com/jp/shop/4c50b821b3d02dc725d56fb0e5c39bac">忘我スタジアム</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|40|1119|<span class="rank-name-dl">ゆうちん</span>|<a href="https://search.dartslive.com/jp/shop/bdfafc15e5af3b910d9b047a20a7ba1e">Darts Bar eX</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|42|1117|<span class="rank-name-dl">ゆうちん</span>|<a href="https://search.dartslive.com/jp/shop/36cd61b23cb761e928032249b44395af">DartsShop R梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|43|1116|<span class="rank-name-dl">松﨑 楓♡‬</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|44|1115|<span class="rank-name-dl">松藤 翔太</span>|<a href="https://search.dartslive.com/jp/shop/36cd61b23cb761e928032249b44395af">DartsShop R梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|45|1113|<span class="rank-name-dl">ｻﾝｼﾞ★梅星☠乱蜂</span>|<a href="https://search.dartslive.com/jp/shop/b9bc068ea231b1f00d9b047a20a7ba1e">ラウンドワン梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|46|1110|<span class="rank-name-dl">だいき</span>|<a href="https://search.dartslive.com/jp/shop/b9bc068ea231b1f00d9b047a20a7ba1e">ラウンドワン梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|46|1110|<span class="rank-name-dl">石原　蒼</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|46|1110|<span class="rank-name-dl">脇 純平</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|49|1106|<span class="rank-name-dl">門脇聖護@白夜</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|50|1104|<span class="rank-name-dl">石原　蒼</span>|<a href="https://search.dartslive.com/jp/shop/bdfafc15e5af3b910d9b047a20a7ba1e">Darts Bar eX</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|50|1104|<span class="rank-name-dl">西谷　譲二</span>|<a href="https://search.dartslive.com/jp/shop/d9b52c26d9aefc120d9b047a20a7ba1e">BAR CROSS UMEDA</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|52|1103|<span class="rank-name-dl">かいと</span>|<a href="https://search.dartslive.com/jp/shop/b9bc068ea231b1f00d9b047a20a7ba1e">ラウンドワン梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|53|1101|<span class="rank-name-dl">おキャンタマ永吉</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|54|1100|<span class="rank-name-dl">津波良二CUESOUL</span>|<a href="https://search.dartslive.com/jp/shop/4c50b821b3d02dc725d56fb0e5c39bac">忘我スタジアム</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|54|1100|<span class="rank-name-dl">近藤 拓也</span>|<a href="https://search.dartslive.com/jp/shop/bdfafc15e5af3b910d9b047a20a7ba1e">Darts Bar eX</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|56|1092|<span class="rank-name-dl">★坂さん★@fifty</span>|<a href="https://search.dartslive.com/jp/shop/f37ffdd76e2d326725d56fb0e5c39bac">快活CLUB 天六店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|57|1091|<span class="rank-name-dl">takumi</span>|<a href="https://search.dartslive.com/jp/shop/4c50b821b3d02dc725d56fb0e5c39bac">忘我スタジアム</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|58|1089|<span class="rank-name-dl">✪新山隆丸✪</span>|<a href="https://search.dartslive.com/jp/shop/36cd61b23cb761e928032249b44395af">DartsShop R梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|58|1089|<span class="rank-name-dl">西谷　譲二</span>|<a href="https://search.dartslive.com/jp/shop/a60caa9b32457574790ab824ce8730e5">shotbar REV</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|60|1088|<span class="rank-name-dl">山下 竜起@DMC</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|61|1086|<span class="rank-name-dl">NO NAME 2566</span>|<a href="https://search.dartslive.com/jp/shop/d049acd619ee2217f454cb89828a1cfe">max osaka 梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|61|1086|<span class="rank-name-dl">まっちょん。</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|63|1085|<span class="rank-name-dl">西浦 憲司</span>|<a href="https://search.dartslive.com/jp/shop/f37ffdd76e2d326725d56fb0e5c39bac">快活CLUB 天六店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|64|1084|<span class="rank-name-dl">ルイージ</span>|<a href="https://search.dartslive.com/jp/shop/2f545869ced206690d9b047a20a7ba1e">DARTS BAR MICHIGAN</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|65|1083|<span class="rank-name-dl">石田佳史</span>|<a href="https://search.dartslive.com/jp/shop/65b484f3b7c6c8150d9b047a20a7ba1e">JADE</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|66|1081|<span class="rank-name-dl">はやてるま</span>|<a href="https://search.dartslive.com/jp/shop/b9bc068ea231b1f00d9b047a20a7ba1e">ラウンドワン梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|67|1080|<span class="rank-name-dl">けんじーの</span>|<a href="https://search.dartslive.com/jp/shop/f37ffdd76e2d326725d56fb0e5c39bac">快活CLUB 天六店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|68|1078|<span class="rank-name-dl">OTA特許数不足</span>|<a href="https://search.dartslive.com/jp/shop/b9bc068ea231b1f00d9b047a20a7ba1e">ラウンドワン梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|69|1076|<span class="rank-name-dl">たいし+α@MAD.H</span>|<a href="https://search.dartslive.com/jp/shop/36cd61b23cb761e928032249b44395af">DartsShop R梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|70|1075|<span class="rank-name-dl">だいき</span>|<a href="https://search.dartslive.com/jp/shop/515b50e349475a26f454cb89828a1cfe">B-GARAGE 大阪梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|70|1075|<span class="rank-name-dl">松藤 翔太</span>|<a href="https://search.dartslive.com/jp/shop/65b484f3b7c6c8150d9b047a20a7ba1e">JADE</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|70|1075|<span class="rank-name-dl">浜崎祥悟</span>|<a href="https://search.dartslive.com/jp/shop/04b99e033433a59b0d9b047a20a7ba1e">ダーツカフェデルタお初天神店(DartsCafeDELTAお初天神店)</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|73|1074|<span class="rank-name-dl">こう</span>|<a href="https://search.dartslive.com/jp/shop/36cd61b23cb761e928032249b44395af">DartsShop R梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|74|1073|<span class="rank-name-dl">きたむらかずま</span>|<a href="https://search.dartslive.com/jp/shop/b9bc068ea231b1f00d9b047a20a7ba1e">ラウンドワン梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|75|1071|<span class="rank-name-dl">大和久明彦</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|76|1069|<span class="rank-name-dl">松藤 翔太</span>|<a href="https://search.dartslive.com/jp/shop/d049acd619ee2217f454cb89828a1cfe">max osaka 梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|77|1068|<span class="rank-name-dl">T.sato</span>|<a href="https://search.dartslive.com/jp/shop/b9bc068ea231b1f00d9b047a20a7ba1e">ラウンドワン梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|78|1066|<span class="rank-name-dl">MICHIGAN#045</span>|<a href="https://search.dartslive.com/jp/shop/2f545869ced206690d9b047a20a7ba1e">DARTS BAR MICHIGAN</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|78|1066|<span class="rank-name-dl">Ryu Nagayo☆狼族</span>|<a href="https://search.dartslive.com/jp/shop/65b484f3b7c6c8150d9b047a20a7ba1e">JADE</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|78|1066|<span class="rank-name-dl">中井涼☆HiVe</span>|<a href="https://search.dartslive.com/jp/shop/bdfafc15e5af3b910d9b047a20a7ba1e">Darts Bar eX</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|78|1066|<span class="rank-name-dl">木村 わかな</span>|<a href="https://search.dartslive.com/jp/shop/bdfafc15e5af3b910d9b047a20a7ba1e">Darts Bar eX</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|82|1064|<span class="rank-name-dl">KEY@Artemis</span>|<a href="https://search.dartslive.com/jp/shop/b9bc068ea231b1f00d9b047a20a7ba1e">ラウンドワン梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|83|1063|<span class="rank-name-dl">SAKA@fifty</span>|<a href="https://search.dartslive.com/jp/shop/f37ffdd76e2d326725d56fb0e5c39bac">快活CLUB 天六店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|83|1063|<span class="rank-name-dl">西浦 憲司</span>|<a href="https://search.dartslive.com/jp/shop/bdfafc15e5af3b910d9b047a20a7ba1e">Darts Bar eX</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|85|1062|<span class="rank-name-dl">Ryu Nagayo☆狼族</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|85|1062|<span class="rank-name-dl">葉山 善久</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|87|1061|<span class="rank-name-dl">NO NAME 4182</span>|<a href="https://search.dartslive.com/jp/shop/d049acd619ee2217f454cb89828a1cfe">max osaka 梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|87|1061|<span class="rank-name-dl">のぶ虎！</span>|<a href="https://search.dartslive.com/jp/shop/f37ffdd76e2d326725d56fb0e5c39bac">快活CLUB 天六店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|87|1061|<span class="rank-name-dl">タケイ カズヤ</span>|<a href="https://search.dartslive.com/jp/shop/b9bc068ea231b1f00d9b047a20a7ba1e">ラウンドワン梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|90|1060|<span class="rank-name-dl">かいと</span>|<a href="https://search.dartslive.com/jp/shop/4c50b821b3d02dc725d56fb0e5c39bac">忘我スタジアム</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|90|1060|<span class="rank-name-dl">福岡 靖人</span>|<a href="https://search.dartslive.com/jp/shop/65b484f3b7c6c8150d9b047a20a7ba1e">JADE</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|92|1059|<span class="rank-name-dl">NO NAME 8551</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|92|1059|<span class="rank-name-dl">小谷 諒</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|94|1058|<span class="rank-name-dl">SHINGO.</span>|<a href="https://search.dartslive.com/jp/shop/4c50b821b3d02dc725d56fb0e5c39bac">忘我スタジアム</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|94|1058|<span class="rank-name-dl">サトゥ３</span>|<a href="https://search.dartslive.com/jp/shop/c4dcb1ae75a7708fb21333aee1bd51e4">B-GARAGE 梅田茶屋町店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|96|1056|<span class="rank-name-dl">中井 涼☆One80</span>|<a href="https://search.dartslive.com/jp/shop/bdfafc15e5af3b910d9b047a20a7ba1e">Darts Bar eX</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|97|1055|<span class="rank-name-dl">犭王人@eX</span>|<a href="https://search.dartslive.com/jp/shop/bdfafc15e5af3b910d9b047a20a7ba1e">Darts Bar eX</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|97|1055|<span class="rank-name-dl">石原　蒼</span>|<a href="https://search.dartslive.com/jp/shop/65b484f3b7c6c8150d9b047a20a7ba1e">JADE</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|99|1054|<span class="rank-name-dl">MICCHI#045</span>|<a href="https://search.dartslive.com/jp/shop/2f545869ced206690d9b047a20a7ba1e">DARTS BAR MICHIGAN</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|99|1054|<span class="rank-name-dl">NORI@pub D habit</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|1|1304|<span class="rank-name-dl">ｼﾞｮｰｼﾞ Michigan</span>|<a href="https://search.dartslive.com/jp/shop/2f545869ced206690d9b047a20a7ba1e">DARTS BAR MICHIGAN</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|2|1225|<span class="rank-name-dl">山下　竜起</span>|<a href="https://search.dartslive.com/jp/shop/bdfafc15e5af3b910d9b047a20a7ba1e">Darts Bar eX</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|3|1202|<span class="rank-name-dl">畦元 隆成</span>|<a href="https://search.dartslive.com/jp/shop/2f545869ced206690d9b047a20a7ba1e">DARTS BAR MICHIGAN</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|4|1200|<span class="rank-name-dl">Ryu Nagayo☆狼族</span>|<a href="https://search.dartslive.com/jp/shop/f0a7940f7e4a27fa0d9b047a20a7ba1e">Sports Bar Seed</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|4|1200|<span class="rank-name-dl">山下 竜起@DMC</span>|<a href="https://search.dartslive.com/jp/shop/bdfafc15e5af3b910d9b047a20a7ba1e">Darts Bar eX</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|4|1200|<span class="rank-name-dl">浅田　斉吾</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|4|1200|<span class="rank-name-dl">畦元 隆成</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|4|1200|<span class="rank-name-dl">畦元 隆成</span>|<a href="https://search.dartslive.com/jp/shop/bdfafc15e5af3b910d9b047a20a7ba1e">Darts Bar eX</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|4|1200|<span class="rank-name-dl">畦元 隆成</span>|<a href="https://search.dartslive.com/jp/shop/edbe3c96046f1a5c0d9b047a20a7ba1e">ダーツカフェデルタ梅田店(DartsCafeDELTA梅田店)</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|4|1200|<span class="rank-name-dl">藤原　徹也</span>|<a href="https://search.dartslive.com/jp/shop/f37ffdd76e2d326725d56fb0e5c39bac">快活CLUB 天六店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|11|1181|<span class="rank-name-dl">山下 竜起</span>|<a href="https://search.dartslive.com/jp/shop/bdfafc15e5af3b910d9b047a20a7ba1e">Darts Bar eX</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|12|1176|<span class="rank-name-dl">柴田 豊和</span>|<a href="https://search.dartslive.com/jp/shop/bdfafc15e5af3b910d9b047a20a7ba1e">Darts Bar eX</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|13|1174|<span class="rank-name-dl">ｼﾞｮｰｼﾞ ﾐｼｶﾞﾝ</span>|<a href="https://search.dartslive.com/jp/shop/2f545869ced206690d9b047a20a7ba1e">DARTS BAR MICHIGAN</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|14|1169|<span class="rank-name-dl">ゆうちん</span>|<a href="https://search.dartslive.com/jp/shop/2f545869ced206690d9b047a20a7ba1e">DARTS BAR MICHIGAN</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|14|1169|<span class="rank-name-dl">ゆうちん</span>|<a href="https://search.dartslive.com/jp/shop/04b99e033433a59b0d9b047a20a7ba1e">ダーツカフェデルタお初天神店(DartsCafeDELTAお初天神店)</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|16|1168|<span class="rank-name-dl">unknown</span>|<a href="https://search.dartslive.com/jp/shop/b9bc068ea231b1f00d9b047a20a7ba1e">ラウンドワン梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|17|1167|<span class="rank-name-dl">星野 光正</span>|<a href="https://search.dartslive.com/jp/shop/d049acd619ee2217f454cb89828a1cfe">max osaka 梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|17|1167|<span class="rank-name-dl">馬場 善久</span>|<a href="https://search.dartslive.com/jp/shop/d049acd619ee2217f454cb89828a1cfe">max osaka 梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|19|1165|<span class="rank-name-dl">さいさー@R1</span>|<a href="https://search.dartslive.com/jp/shop/b9bc068ea231b1f00d9b047a20a7ba1e">ラウンドワン梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|19|1165|<span class="rank-name-dl">ゆうちん</span>|<a href="https://search.dartslive.com/jp/shop/edbe3c96046f1a5c0d9b047a20a7ba1e">ダーツカフェデルタ梅田店(DartsCafeDELTA梅田店)</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|19|1165|<span class="rank-name-dl">葉山 善久</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|19|1165|<span class="rank-name-dl">魔王@eX</span>|<a href="https://search.dartslive.com/jp/shop/bdfafc15e5af3b910d9b047a20a7ba1e">Darts Bar eX</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|23|1163|<span class="rank-name-dl">tkm</span>|<a href="https://search.dartslive.com/jp/shop/4c50b821b3d02dc725d56fb0e5c39bac">忘我スタジアム</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|24|1162|<span class="rank-name-dl">浜崎祥悟</span>|<a href="https://search.dartslive.com/jp/shop/8aa5c912a04d27d50d9b047a20a7ba1e">BAGUS-バグース-梅田</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|25|1161|<span class="rank-name-dl">BoB♛Tomoki</span>|<a href="https://search.dartslive.com/jp/shop/f37ffdd76e2d326725d56fb0e5c39bac">快活CLUB 天六店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|26|1160|<span class="rank-name-dl">なおや@max</span>|<a href="https://search.dartslive.com/jp/shop/d049acd619ee2217f454cb89828a1cfe">max osaka 梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|26|1160|<span class="rank-name-dl">山本 浩平</span>|<a href="https://search.dartslive.com/jp/shop/2f545869ced206690d9b047a20a7ba1e">DARTS BAR MICHIGAN</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|28|1159|<span class="rank-name-dl">つるのかいと</span>|<a href="https://search.dartslive.com/jp/shop/b9bc068ea231b1f00d9b047a20a7ba1e">ラウンドワン梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|29|1158|<span class="rank-name-dl">山本 浩平</span>|<a href="https://search.dartslive.com/jp/shop/8aa5c912a04d27d50d9b047a20a7ba1e">BAGUS-バグース-梅田</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|30|1157|<span class="rank-name-dl">NO NAME 5559</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|30|1157|<span class="rank-name-dl">おじじ</span>|<a href="https://search.dartslive.com/jp/shop/f37ffdd76e2d326725d56fb0e5c39bac">快活CLUB 天六店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|32|1155|<span class="rank-name-dl">魔人王＠ex</span>|<a href="https://search.dartslive.com/jp/shop/b9bc068ea231b1f00d9b047a20a7ba1e">ラウンドワン梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|33|1153|<span class="rank-name-dl">つるのかいと</span>|<a href="https://search.dartslive.com/jp/shop/edbe3c96046f1a5c0d9b047a20a7ba1e">ダーツカフェデルタ梅田店(DartsCafeDELTA梅田店)</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|34|1151|<span class="rank-name-dl">玉島 蒼茉</span>|<a href="https://search.dartslive.com/jp/shop/f37ffdd76e2d326725d56fb0e5c39bac">快活CLUB 天六店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|35|1150|<span class="rank-name-dl">レイジー</span>|<a href="https://search.dartslive.com/jp/shop/4c50b821b3d02dc725d56fb0e5c39bac">忘我スタジアム</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|35|1150|<span class="rank-name-dl">魔王@eX</span>|<a href="https://search.dartslive.com/jp/shop/b9bc068ea231b1f00d9b047a20a7ba1e">ラウンドワン梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|35|1150|<span class="rank-name-dl">魔王プー@eX</span>|<a href="https://search.dartslive.com/jp/shop/bdfafc15e5af3b910d9b047a20a7ba1e">Darts Bar eX</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|38|1147|<span class="rank-name-dl">津波良二CUESOUL</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|39|1142|<span class="rank-name-dl">901ｸﾞﾘｺS-DARTS23</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|40|1140|<span class="rank-name-dl">tkm</span>|<a href="https://search.dartslive.com/jp/shop/2f545869ced206690d9b047a20a7ba1e">DARTS BAR MICHIGAN</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|41|1139|<span class="rank-name-dl">和泉 真平</span>|<a href="https://search.dartslive.com/jp/shop/d9b52c26d9aefc120d9b047a20a7ba1e">BAR CROSS UMEDA</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|42|1138|<span class="rank-name-dl">Masato Narita</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|42|1138|<span class="rank-name-dl">近藤 拓也</span>|<a href="https://search.dartslive.com/jp/shop/4c50b821b3d02dc725d56fb0e5c39bac">忘我スタジアム</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|44|1137|<span class="rank-name-dl">松藤 翔太</span>|<a href="https://search.dartslive.com/jp/shop/4c50b821b3d02dc725d56fb0e5c39bac">忘我スタジアム</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|44|1137|<span class="rank-name-dl">由肥 元希</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|46|1135|<span class="rank-name-dl">石原　蒼</span>|<a href="https://search.dartslive.com/jp/shop/2f545869ced206690d9b047a20a7ba1e">DARTS BAR MICHIGAN</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|47|1134|<span class="rank-name-dl">森本 啓五</span>|<a href="https://search.dartslive.com/jp/shop/2f545869ced206690d9b047a20a7ba1e">DARTS BAR MICHIGAN</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|48|1132|<span class="rank-name-dl">和泉　真平</span>|<a href="https://search.dartslive.com/jp/shop/d9b52c26d9aefc120d9b047a20a7ba1e">BAR CROSS UMEDA</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|48|1132|<span class="rank-name-dl">真人</span>|<a href="https://search.dartslive.com/jp/shop/d9b52c26d9aefc120d9b047a20a7ba1e">BAR CROSS UMEDA</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|50|1130|<span class="rank-name-dl">高橋 隼人</span>|<a href="https://search.dartslive.com/jp/shop/d9b52c26d9aefc120d9b047a20a7ba1e">BAR CROSS UMEDA</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|51|1129|<span class="rank-name-dl">やんも</span>|<a href="https://search.dartslive.com/jp/shop/36cd61b23cb761e928032249b44395af">DartsShop R梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|51|1129|<span class="rank-name-dl">忘我のだいき</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|53|1128|<span class="rank-name-dl">愛 義成</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|54|1127|<span class="rank-name-dl">なおp</span>|<a href="https://search.dartslive.com/jp/shop/d049acd619ee2217f454cb89828a1cfe">max osaka 梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|54|1127|<span class="rank-name-dl">ゆうちん</span>|<a href="https://search.dartslive.com/jp/shop/36cd61b23cb761e928032249b44395af">DartsShop R梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|56|1124|<span class="rank-name-dl">じんぼ</span>|<a href="https://search.dartslive.com/jp/shop/2f545869ced206690d9b047a20a7ba1e">DARTS BAR MICHIGAN</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|56|1124|<span class="rank-name-dl">脇 純平</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|58|1123|<span class="rank-name-dl">2024</span>|<a href="https://search.dartslive.com/jp/shop/4c50b821b3d02dc725d56fb0e5c39bac">忘我スタジアム</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|58|1123|<span class="rank-name-dl">おーか</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|58|1123|<span class="rank-name-dl">けんじーの</span>|<a href="https://search.dartslive.com/jp/shop/53a54323d71b4c33b21333aee1bd51e4">B-GARAGE 天六店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|58|1123|<span class="rank-name-dl">粕谷　晋</span>|<a href="https://search.dartslive.com/jp/shop/d049acd619ee2217f454cb89828a1cfe">max osaka 梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|62|1122|<span class="rank-name-dl">柴田　豊和</span>|<a href="https://search.dartslive.com/jp/shop/bdfafc15e5af3b910d9b047a20a7ba1e">Darts Bar eX</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|63|1121|<span class="rank-name-dl">Tetsuya fujiwara</span>|<a href="https://search.dartslive.com/jp/shop/f37ffdd76e2d326725d56fb0e5c39bac">快活CLUB 天六店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|63|1121|<span class="rank-name-dl">yuhei#045</span>|<a href="https://search.dartslive.com/jp/shop/2f545869ced206690d9b047a20a7ba1e">DARTS BAR MICHIGAN</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|63|1121|<span class="rank-name-dl">№Ъцчцк！</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|66|1120|<span class="rank-name-dl">ぴーぽー</span>|<a href="https://search.dartslive.com/jp/shop/d049acd619ee2217f454cb89828a1cfe">max osaka 梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|66|1120|<span class="rank-name-dl">山下　竜起セパ用</span>|<a href="https://search.dartslive.com/jp/shop/bdfafc15e5af3b910d9b047a20a7ba1e">Darts Bar eX</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|66|1120|<span class="rank-name-dl">由肥　元希</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|66|1120|<span class="rank-name-dl">石田 佳史</span>|<a href="https://search.dartslive.com/jp/shop/2f545869ced206690d9b047a20a7ba1e">DARTS BAR MICHIGAN</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|66|1120|<span class="rank-name-dl">ｻﾝｼﾞ梅星★乱蜂☠</span>|<a href="https://search.dartslive.com/jp/shop/b9bc068ea231b1f00d9b047a20a7ba1e">ラウンドワン梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|71|1119|<span class="rank-name-dl">Ryu Nagayo☆狼族</span>|<a href="https://search.dartslive.com/jp/shop/4c50b821b3d02dc725d56fb0e5c39bac">忘我スタジアム</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|71|1119|<span class="rank-name-dl">ゆうちん</span>|<a href="https://search.dartslive.com/jp/shop/bdfafc15e5af3b910d9b047a20a7ba1e">Darts Bar eX</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|73|1118|<span class="rank-name-dl">はやてるま</span>|<a href="https://search.dartslive.com/jp/shop/4c50b821b3d02dc725d56fb0e5c39bac">忘我スタジアム</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|73|1118|<span class="rank-name-dl">松藤 翔太</span>|<a href="https://search.dartslive.com/jp/shop/36cd61b23cb761e928032249b44395af">DartsShop R梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|75|1117|<span class="rank-name-dl">山本 直矢</span>|<a href="https://search.dartslive.com/jp/shop/d049acd619ee2217f454cb89828a1cfe">max osaka 梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|76|1116|<span class="rank-name-dl">ろっくん</span>|<a href="https://search.dartslive.com/jp/shop/4c50b821b3d02dc725d56fb0e5c39bac">忘我スタジアム</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|76|1116|<span class="rank-name-dl">松﨑 楓♡‬</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|78|1115|<span class="rank-name-dl">wawawa</span>|<a href="https://search.dartslive.com/jp/shop/b9bc068ea231b1f00d9b047a20a7ba1e">ラウンドワン梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|78|1115|<span class="rank-name-dl">ｻﾝｼﾞlmao乱蜂梅星</span>|<a href="https://search.dartslive.com/jp/shop/f37ffdd76e2d326725d56fb0e5c39bac">快活CLUB 天六店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|80|1114|<span class="rank-name-dl">赤木　一樹</span>|<a href="https://search.dartslive.com/jp/shop/2f545869ced206690d9b047a20a7ba1e">DARTS BAR MICHIGAN</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|81|1113|<span class="rank-name-dl">ｻﾝｼﾞ★梅星☠乱蜂</span>|<a href="https://search.dartslive.com/jp/shop/b9bc068ea231b1f00d9b047a20a7ba1e">ラウンドワン梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|82|1112|<span class="rank-name-dl">ｼﾞｮｰｼﾞMichigan</span>|<a href="https://search.dartslive.com/jp/shop/2f545869ced206690d9b047a20a7ba1e">DARTS BAR MICHIGAN</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|83|1110|<span class="rank-name-dl">だいき</span>|<a href="https://search.dartslive.com/jp/shop/b9bc068ea231b1f00d9b047a20a7ba1e">ラウンドワン梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|83|1110|<span class="rank-name-dl">石原　蒼</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|85|1108|<span class="rank-name-dl">Ryu Nagayo☆狼族</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|86|1107|<span class="rank-name-dl">CROSS真人</span>|<a href="https://search.dartslive.com/jp/shop/d9b52c26d9aefc120d9b047a20a7ba1e">BAR CROSS UMEDA</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|86|1107|<span class="rank-name-dl">山本 浩平</span>|<a href="https://search.dartslive.com/jp/shop/b9bc068ea231b1f00d9b047a20a7ba1e">ラウンドワン梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|86|1107|<span class="rank-name-dl">磯和 勇希</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|86|1107|<span class="rank-name-dl">福岡 靖人</span>|<a href="https://search.dartslive.com/jp/shop/d049acd619ee2217f454cb89828a1cfe">max osaka 梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|90|1106|<span class="rank-name-dl">門脇聖護@白夜</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|91|1104|<span class="rank-name-dl">エイキチ@901QLAY</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|91|1104|<span class="rank-name-dl">石原　蒼</span>|<a href="https://search.dartslive.com/jp/shop/bdfafc15e5af3b910d9b047a20a7ba1e">Darts Bar eX</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|91|1104|<span class="rank-name-dl">西谷　譲二</span>|<a href="https://search.dartslive.com/jp/shop/d9b52c26d9aefc120d9b047a20a7ba1e">BAR CROSS UMEDA</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|94|1103|<span class="rank-name-dl">かいと</span>|<a href="https://search.dartslive.com/jp/shop/b9bc068ea231b1f00d9b047a20a7ba1e">ラウンドワン梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|94|1103|<span class="rank-name-dl">西浦 憲司</span>|<a href="https://search.dartslive.com/jp/shop/f37ffdd76e2d326725d56fb0e5c39bac">快活CLUB 天六店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|96|1101|<span class="rank-name-dl">おキャンタマ永吉</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|97|1100|<span class="rank-name-dl">つるのかいと</span>|<a href="https://search.dartslive.com/jp/shop/65b484f3b7c6c8150d9b047a20a7ba1e">JADE</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|97|1100|<span class="rank-name-dl">はやてるま</span>|<a href="https://search.dartslive.com/jp/shop/2f545869ced206690d9b047a20a7ba1e">DARTS BAR MICHIGAN</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|97|1100|<span class="rank-name-dl">津波良二CUESOUL</span>|<a href="https://search.dartslive.com/jp/shop/4c50b821b3d02dc725d56fb0e5c39bac">忘我スタジアム</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|97|1100|<span class="rank-name-dl">近藤 拓也</span>|<a href="https://search.dartslive.com/jp/shop/bdfafc15e5af3b910d9b047a20a7ba1e">Darts Bar eX</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -132,106 +132,106 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1225|<span class="rank-name-dl">山下　竜起</span>|<a href="https://search.dartslive.com/jp/shop/bdfafc15e5af3b910d9b047a20a7ba1e">Darts Bar eX</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|2|1200|<span class="rank-name-dl">Ryu Nagayo☆狼族</span>|<a href="https://search.dartslive.com/jp/shop/f0a7940f7e4a27fa0d9b047a20a7ba1e">Sports Bar Seed</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|2|1200|<span class="rank-name-dl">浅田　斉吾</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|2|1200|<span class="rank-name-dl">畦元 隆成</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|2|1200|<span class="rank-name-dl">藤原　徹也</span>|<a href="https://search.dartslive.com/jp/shop/f37ffdd76e2d326725d56fb0e5c39bac">快活CLUB 天六店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|6|1185|<span class="rank-name-dl">山下 竜起@DMC</span>|<a href="https://search.dartslive.com/jp/shop/bdfafc15e5af3b910d9b047a20a7ba1e">Darts Bar eX</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|7|1176|<span class="rank-name-dl">柴田 豊和</span>|<a href="https://search.dartslive.com/jp/shop/bdfafc15e5af3b910d9b047a20a7ba1e">Darts Bar eX</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|8|1174|<span class="rank-name-dl">ｼﾞｮｰｼﾞ ﾐｼｶﾞﾝ</span>|<a href="https://search.dartslive.com/jp/shop/2f545869ced206690d9b047a20a7ba1e">DARTS BAR MICHIGAN</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|9|1169|<span class="rank-name-dl">ゆうちん</span>|<a href="https://search.dartslive.com/jp/shop/2f545869ced206690d9b047a20a7ba1e">DARTS BAR MICHIGAN</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|10|1168|<span class="rank-name-dl">unknown</span>|<a href="https://search.dartslive.com/jp/shop/b9bc068ea231b1f00d9b047a20a7ba1e">ラウンドワン梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|11|1167|<span class="rank-name-dl">馬場 善久</span>|<a href="https://search.dartslive.com/jp/shop/d049acd619ee2217f454cb89828a1cfe">max osaka 梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|12|1166|<span class="rank-name-dl">星野 光正</span>|<a href="https://search.dartslive.com/jp/shop/d049acd619ee2217f454cb89828a1cfe">max osaka 梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|13|1165|<span class="rank-name-dl">魔王@eX</span>|<a href="https://search.dartslive.com/jp/shop/bdfafc15e5af3b910d9b047a20a7ba1e">Darts Bar eX</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|14|1163|<span class="rank-name-dl">tkm</span>|<a href="https://search.dartslive.com/jp/shop/4c50b821b3d02dc725d56fb0e5c39bac">忘我スタジアム</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|15|1159|<span class="rank-name-dl">ゆうちん</span>|<a href="https://search.dartslive.com/jp/shop/04b99e033433a59b0d9b047a20a7ba1e">ダーツカフェデルタお初天神店(DartsCafeDELTAお初天神店)</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|16|1157|<span class="rank-name-dl">NO NAME 5559</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|17|1155|<span class="rank-name-dl">魔人王＠ex</span>|<a href="https://search.dartslive.com/jp/shop/b9bc068ea231b1f00d9b047a20a7ba1e">ラウンドワン梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|18|1150|<span class="rank-name-dl">魔王@eX</span>|<a href="https://search.dartslive.com/jp/shop/b9bc068ea231b1f00d9b047a20a7ba1e">ラウンドワン梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|19|1147|<span class="rank-name-dl">津波良二CUESOUL</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|20|1142|<span class="rank-name-dl">901ｸﾞﾘｺS-DARTS23</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|21|1140|<span class="rank-name-dl">tkm</span>|<a href="https://search.dartslive.com/jp/shop/2f545869ced206690d9b047a20a7ba1e">DARTS BAR MICHIGAN</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|22|1138|<span class="rank-name-dl">Masato Narita</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|23|1137|<span class="rank-name-dl">松藤 翔太</span>|<a href="https://search.dartslive.com/jp/shop/4c50b821b3d02dc725d56fb0e5c39bac">忘我スタジアム</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|24|1132|<span class="rank-name-dl">和泉　真平</span>|<a href="https://search.dartslive.com/jp/shop/d9b52c26d9aefc120d9b047a20a7ba1e">BAR CROSS UMEDA</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|25|1128|<span class="rank-name-dl">愛 義成</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|26|1127|<span class="rank-name-dl">なおp</span>|<a href="https://search.dartslive.com/jp/shop/d049acd619ee2217f454cb89828a1cfe">max osaka 梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|27|1124|<span class="rank-name-dl">じんぼ</span>|<a href="https://search.dartslive.com/jp/shop/2f545869ced206690d9b047a20a7ba1e">DARTS BAR MICHIGAN</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|27|1124|<span class="rank-name-dl">なおや@max</span>|<a href="https://search.dartslive.com/jp/shop/d049acd619ee2217f454cb89828a1cfe">max osaka 梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|27|1124|<span class="rank-name-dl">近藤 拓也</span>|<a href="https://search.dartslive.com/jp/shop/4c50b821b3d02dc725d56fb0e5c39bac">忘我スタジアム</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|30|1123|<span class="rank-name-dl">2024</span>|<a href="https://search.dartslive.com/jp/shop/4c50b821b3d02dc725d56fb0e5c39bac">忘我スタジアム</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|30|1123|<span class="rank-name-dl">けんじーの</span>|<a href="https://search.dartslive.com/jp/shop/53a54323d71b4c33b21333aee1bd51e4">B-GARAGE 天六店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|30|1123|<span class="rank-name-dl">粕谷　晋</span>|<a href="https://search.dartslive.com/jp/shop/d049acd619ee2217f454cb89828a1cfe">max osaka 梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|33|1122|<span class="rank-name-dl">柴田　豊和</span>|<a href="https://search.dartslive.com/jp/shop/bdfafc15e5af3b910d9b047a20a7ba1e">Darts Bar eX</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|34|1121|<span class="rank-name-dl">Tetsuya fujiwara</span>|<a href="https://search.dartslive.com/jp/shop/f37ffdd76e2d326725d56fb0e5c39bac">快活CLUB 天六店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|34|1121|<span class="rank-name-dl">№Ъцчцк！</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|36|1120|<span class="rank-name-dl">ぴーぽー</span>|<a href="https://search.dartslive.com/jp/shop/d049acd619ee2217f454cb89828a1cfe">max osaka 梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|36|1120|<span class="rank-name-dl">山下　竜起セパ用</span>|<a href="https://search.dartslive.com/jp/shop/bdfafc15e5af3b910d9b047a20a7ba1e">Darts Bar eX</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|36|1120|<span class="rank-name-dl">由肥　元希</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|36|1120|<span class="rank-name-dl">ｻﾝｼﾞ梅星★乱蜂☠</span>|<a href="https://search.dartslive.com/jp/shop/b9bc068ea231b1f00d9b047a20a7ba1e">ラウンドワン梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|40|1119|<span class="rank-name-dl">Ryu Nagayo☆狼族</span>|<a href="https://search.dartslive.com/jp/shop/4c50b821b3d02dc725d56fb0e5c39bac">忘我スタジアム</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|40|1119|<span class="rank-name-dl">ゆうちん</span>|<a href="https://search.dartslive.com/jp/shop/bdfafc15e5af3b910d9b047a20a7ba1e">Darts Bar eX</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|42|1117|<span class="rank-name-dl">ゆうちん</span>|<a href="https://search.dartslive.com/jp/shop/36cd61b23cb761e928032249b44395af">DartsShop R梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|43|1116|<span class="rank-name-dl">松﨑 楓♡‬</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|44|1115|<span class="rank-name-dl">松藤 翔太</span>|<a href="https://search.dartslive.com/jp/shop/36cd61b23cb761e928032249b44395af">DartsShop R梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|45|1113|<span class="rank-name-dl">ｻﾝｼﾞ★梅星☠乱蜂</span>|<a href="https://search.dartslive.com/jp/shop/b9bc068ea231b1f00d9b047a20a7ba1e">ラウンドワン梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|46|1110|<span class="rank-name-dl">だいき</span>|<a href="https://search.dartslive.com/jp/shop/b9bc068ea231b1f00d9b047a20a7ba1e">ラウンドワン梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|46|1110|<span class="rank-name-dl">石原　蒼</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|46|1110|<span class="rank-name-dl">脇 純平</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|49|1106|<span class="rank-name-dl">門脇聖護@白夜</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|50|1104|<span class="rank-name-dl">石原　蒼</span>|<a href="https://search.dartslive.com/jp/shop/bdfafc15e5af3b910d9b047a20a7ba1e">Darts Bar eX</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|50|1104|<span class="rank-name-dl">西谷　譲二</span>|<a href="https://search.dartslive.com/jp/shop/d9b52c26d9aefc120d9b047a20a7ba1e">BAR CROSS UMEDA</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|52|1103|<span class="rank-name-dl">かいと</span>|<a href="https://search.dartslive.com/jp/shop/b9bc068ea231b1f00d9b047a20a7ba1e">ラウンドワン梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|53|1101|<span class="rank-name-dl">おキャンタマ永吉</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|54|1100|<span class="rank-name-dl">津波良二CUESOUL</span>|<a href="https://search.dartslive.com/jp/shop/4c50b821b3d02dc725d56fb0e5c39bac">忘我スタジアム</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|54|1100|<span class="rank-name-dl">近藤 拓也</span>|<a href="https://search.dartslive.com/jp/shop/bdfafc15e5af3b910d9b047a20a7ba1e">Darts Bar eX</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|56|1092|<span class="rank-name-dl">★坂さん★@fifty</span>|<a href="https://search.dartslive.com/jp/shop/f37ffdd76e2d326725d56fb0e5c39bac">快活CLUB 天六店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|57|1091|<span class="rank-name-dl">takumi</span>|<a href="https://search.dartslive.com/jp/shop/4c50b821b3d02dc725d56fb0e5c39bac">忘我スタジアム</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|58|1089|<span class="rank-name-dl">✪新山隆丸✪</span>|<a href="https://search.dartslive.com/jp/shop/36cd61b23cb761e928032249b44395af">DartsShop R梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|58|1089|<span class="rank-name-dl">西谷　譲二</span>|<a href="https://search.dartslive.com/jp/shop/a60caa9b32457574790ab824ce8730e5">shotbar REV</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|60|1088|<span class="rank-name-dl">山下 竜起@DMC</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|61|1086|<span class="rank-name-dl">NO NAME 2566</span>|<a href="https://search.dartslive.com/jp/shop/d049acd619ee2217f454cb89828a1cfe">max osaka 梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|61|1086|<span class="rank-name-dl">まっちょん。</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|63|1085|<span class="rank-name-dl">西浦 憲司</span>|<a href="https://search.dartslive.com/jp/shop/f37ffdd76e2d326725d56fb0e5c39bac">快活CLUB 天六店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|64|1084|<span class="rank-name-dl">ルイージ</span>|<a href="https://search.dartslive.com/jp/shop/2f545869ced206690d9b047a20a7ba1e">DARTS BAR MICHIGAN</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|65|1083|<span class="rank-name-dl">石田佳史</span>|<a href="https://search.dartslive.com/jp/shop/65b484f3b7c6c8150d9b047a20a7ba1e">JADE</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|66|1081|<span class="rank-name-dl">はやてるま</span>|<a href="https://search.dartslive.com/jp/shop/b9bc068ea231b1f00d9b047a20a7ba1e">ラウンドワン梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|67|1080|<span class="rank-name-dl">けんじーの</span>|<a href="https://search.dartslive.com/jp/shop/f37ffdd76e2d326725d56fb0e5c39bac">快活CLUB 天六店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|68|1078|<span class="rank-name-dl">OTA特許数不足</span>|<a href="https://search.dartslive.com/jp/shop/b9bc068ea231b1f00d9b047a20a7ba1e">ラウンドワン梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|69|1076|<span class="rank-name-dl">たいし+α@MAD.H</span>|<a href="https://search.dartslive.com/jp/shop/36cd61b23cb761e928032249b44395af">DartsShop R梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|70|1075|<span class="rank-name-dl">だいき</span>|<a href="https://search.dartslive.com/jp/shop/515b50e349475a26f454cb89828a1cfe">B-GARAGE 大阪梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|70|1075|<span class="rank-name-dl">松藤 翔太</span>|<a href="https://search.dartslive.com/jp/shop/65b484f3b7c6c8150d9b047a20a7ba1e">JADE</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|70|1075|<span class="rank-name-dl">浜崎祥悟</span>|<a href="https://search.dartslive.com/jp/shop/04b99e033433a59b0d9b047a20a7ba1e">ダーツカフェデルタお初天神店(DartsCafeDELTAお初天神店)</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|73|1074|<span class="rank-name-dl">こう</span>|<a href="https://search.dartslive.com/jp/shop/36cd61b23cb761e928032249b44395af">DartsShop R梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|74|1073|<span class="rank-name-dl">きたむらかずま</span>|<a href="https://search.dartslive.com/jp/shop/b9bc068ea231b1f00d9b047a20a7ba1e">ラウンドワン梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|75|1071|<span class="rank-name-dl">大和久明彦</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|76|1069|<span class="rank-name-dl">松藤 翔太</span>|<a href="https://search.dartslive.com/jp/shop/d049acd619ee2217f454cb89828a1cfe">max osaka 梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|77|1068|<span class="rank-name-dl">T.sato</span>|<a href="https://search.dartslive.com/jp/shop/b9bc068ea231b1f00d9b047a20a7ba1e">ラウンドワン梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|78|1066|<span class="rank-name-dl">MICHIGAN#045</span>|<a href="https://search.dartslive.com/jp/shop/2f545869ced206690d9b047a20a7ba1e">DARTS BAR MICHIGAN</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|78|1066|<span class="rank-name-dl">Ryu Nagayo☆狼族</span>|<a href="https://search.dartslive.com/jp/shop/65b484f3b7c6c8150d9b047a20a7ba1e">JADE</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|78|1066|<span class="rank-name-dl">中井涼☆HiVe</span>|<a href="https://search.dartslive.com/jp/shop/bdfafc15e5af3b910d9b047a20a7ba1e">Darts Bar eX</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|78|1066|<span class="rank-name-dl">木村 わかな</span>|<a href="https://search.dartslive.com/jp/shop/bdfafc15e5af3b910d9b047a20a7ba1e">Darts Bar eX</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|82|1064|<span class="rank-name-dl">KEY@Artemis</span>|<a href="https://search.dartslive.com/jp/shop/b9bc068ea231b1f00d9b047a20a7ba1e">ラウンドワン梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|83|1063|<span class="rank-name-dl">SAKA@fifty</span>|<a href="https://search.dartslive.com/jp/shop/f37ffdd76e2d326725d56fb0e5c39bac">快活CLUB 天六店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|83|1063|<span class="rank-name-dl">西浦 憲司</span>|<a href="https://search.dartslive.com/jp/shop/bdfafc15e5af3b910d9b047a20a7ba1e">Darts Bar eX</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|85|1062|<span class="rank-name-dl">Ryu Nagayo☆狼族</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|85|1062|<span class="rank-name-dl">葉山 善久</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|87|1061|<span class="rank-name-dl">NO NAME 4182</span>|<a href="https://search.dartslive.com/jp/shop/d049acd619ee2217f454cb89828a1cfe">max osaka 梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|87|1061|<span class="rank-name-dl">のぶ虎！</span>|<a href="https://search.dartslive.com/jp/shop/f37ffdd76e2d326725d56fb0e5c39bac">快活CLUB 天六店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|87|1061|<span class="rank-name-dl">タケイ カズヤ</span>|<a href="https://search.dartslive.com/jp/shop/b9bc068ea231b1f00d9b047a20a7ba1e">ラウンドワン梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|90|1060|<span class="rank-name-dl">かいと</span>|<a href="https://search.dartslive.com/jp/shop/4c50b821b3d02dc725d56fb0e5c39bac">忘我スタジアム</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|90|1060|<span class="rank-name-dl">福岡 靖人</span>|<a href="https://search.dartslive.com/jp/shop/65b484f3b7c6c8150d9b047a20a7ba1e">JADE</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|92|1059|<span class="rank-name-dl">NO NAME 8551</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|92|1059|<span class="rank-name-dl">小谷 諒</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|94|1058|<span class="rank-name-dl">SHINGO.</span>|<a href="https://search.dartslive.com/jp/shop/4c50b821b3d02dc725d56fb0e5c39bac">忘我スタジアム</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|94|1058|<span class="rank-name-dl">サトゥ３</span>|<a href="https://search.dartslive.com/jp/shop/c4dcb1ae75a7708fb21333aee1bd51e4">B-GARAGE 梅田茶屋町店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|96|1056|<span class="rank-name-dl">中井 涼☆One80</span>|<a href="https://search.dartslive.com/jp/shop/bdfafc15e5af3b910d9b047a20a7ba1e">Darts Bar eX</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|97|1055|<span class="rank-name-dl">犭王人@eX</span>|<a href="https://search.dartslive.com/jp/shop/bdfafc15e5af3b910d9b047a20a7ba1e">Darts Bar eX</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|97|1055|<span class="rank-name-dl">石原　蒼</span>|<a href="https://search.dartslive.com/jp/shop/65b484f3b7c6c8150d9b047a20a7ba1e">JADE</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|99|1054|<span class="rank-name-dl">MICCHI#045</span>|<a href="https://search.dartslive.com/jp/shop/2f545869ced206690d9b047a20a7ba1e">DARTS BAR MICHIGAN</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
-|99|1054|<span class="rank-name-dl">NORI@pub D habit</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|1|1304|<span class="rank-name-dl">ｼﾞｮｰｼﾞ Michigan</span>|<a href="https://search.dartslive.com/jp/shop/2f545869ced206690d9b047a20a7ba1e">DARTS BAR MICHIGAN</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|2|1225|<span class="rank-name-dl">山下　竜起</span>|<a href="https://search.dartslive.com/jp/shop/bdfafc15e5af3b910d9b047a20a7ba1e">Darts Bar eX</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|3|1202|<span class="rank-name-dl">畦元 隆成</span>|<a href="https://search.dartslive.com/jp/shop/2f545869ced206690d9b047a20a7ba1e">DARTS BAR MICHIGAN</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|4|1200|<span class="rank-name-dl">Ryu Nagayo☆狼族</span>|<a href="https://search.dartslive.com/jp/shop/f0a7940f7e4a27fa0d9b047a20a7ba1e">Sports Bar Seed</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|4|1200|<span class="rank-name-dl">山下 竜起@DMC</span>|<a href="https://search.dartslive.com/jp/shop/bdfafc15e5af3b910d9b047a20a7ba1e">Darts Bar eX</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|4|1200|<span class="rank-name-dl">浅田　斉吾</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|4|1200|<span class="rank-name-dl">畦元 隆成</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|4|1200|<span class="rank-name-dl">畦元 隆成</span>|<a href="https://search.dartslive.com/jp/shop/bdfafc15e5af3b910d9b047a20a7ba1e">Darts Bar eX</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|4|1200|<span class="rank-name-dl">畦元 隆成</span>|<a href="https://search.dartslive.com/jp/shop/edbe3c96046f1a5c0d9b047a20a7ba1e">ダーツカフェデルタ梅田店(DartsCafeDELTA梅田店)</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|4|1200|<span class="rank-name-dl">藤原　徹也</span>|<a href="https://search.dartslive.com/jp/shop/f37ffdd76e2d326725d56fb0e5c39bac">快活CLUB 天六店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|11|1181|<span class="rank-name-dl">山下 竜起</span>|<a href="https://search.dartslive.com/jp/shop/bdfafc15e5af3b910d9b047a20a7ba1e">Darts Bar eX</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|12|1176|<span class="rank-name-dl">柴田 豊和</span>|<a href="https://search.dartslive.com/jp/shop/bdfafc15e5af3b910d9b047a20a7ba1e">Darts Bar eX</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|13|1174|<span class="rank-name-dl">ｼﾞｮｰｼﾞ ﾐｼｶﾞﾝ</span>|<a href="https://search.dartslive.com/jp/shop/2f545869ced206690d9b047a20a7ba1e">DARTS BAR MICHIGAN</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|14|1169|<span class="rank-name-dl">ゆうちん</span>|<a href="https://search.dartslive.com/jp/shop/2f545869ced206690d9b047a20a7ba1e">DARTS BAR MICHIGAN</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|14|1169|<span class="rank-name-dl">ゆうちん</span>|<a href="https://search.dartslive.com/jp/shop/04b99e033433a59b0d9b047a20a7ba1e">ダーツカフェデルタお初天神店(DartsCafeDELTAお初天神店)</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|16|1168|<span class="rank-name-dl">unknown</span>|<a href="https://search.dartslive.com/jp/shop/b9bc068ea231b1f00d9b047a20a7ba1e">ラウンドワン梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|17|1167|<span class="rank-name-dl">星野 光正</span>|<a href="https://search.dartslive.com/jp/shop/d049acd619ee2217f454cb89828a1cfe">max osaka 梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|17|1167|<span class="rank-name-dl">馬場 善久</span>|<a href="https://search.dartslive.com/jp/shop/d049acd619ee2217f454cb89828a1cfe">max osaka 梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|19|1165|<span class="rank-name-dl">さいさー@R1</span>|<a href="https://search.dartslive.com/jp/shop/b9bc068ea231b1f00d9b047a20a7ba1e">ラウンドワン梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|19|1165|<span class="rank-name-dl">ゆうちん</span>|<a href="https://search.dartslive.com/jp/shop/edbe3c96046f1a5c0d9b047a20a7ba1e">ダーツカフェデルタ梅田店(DartsCafeDELTA梅田店)</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|19|1165|<span class="rank-name-dl">葉山 善久</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|19|1165|<span class="rank-name-dl">魔王@eX</span>|<a href="https://search.dartslive.com/jp/shop/bdfafc15e5af3b910d9b047a20a7ba1e">Darts Bar eX</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|23|1163|<span class="rank-name-dl">tkm</span>|<a href="https://search.dartslive.com/jp/shop/4c50b821b3d02dc725d56fb0e5c39bac">忘我スタジアム</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|24|1162|<span class="rank-name-dl">浜崎祥悟</span>|<a href="https://search.dartslive.com/jp/shop/8aa5c912a04d27d50d9b047a20a7ba1e">BAGUS-バグース-梅田</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|25|1161|<span class="rank-name-dl">BoB♛Tomoki</span>|<a href="https://search.dartslive.com/jp/shop/f37ffdd76e2d326725d56fb0e5c39bac">快活CLUB 天六店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|26|1160|<span class="rank-name-dl">なおや@max</span>|<a href="https://search.dartslive.com/jp/shop/d049acd619ee2217f454cb89828a1cfe">max osaka 梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|26|1160|<span class="rank-name-dl">山本 浩平</span>|<a href="https://search.dartslive.com/jp/shop/2f545869ced206690d9b047a20a7ba1e">DARTS BAR MICHIGAN</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|28|1159|<span class="rank-name-dl">つるのかいと</span>|<a href="https://search.dartslive.com/jp/shop/b9bc068ea231b1f00d9b047a20a7ba1e">ラウンドワン梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|29|1158|<span class="rank-name-dl">山本 浩平</span>|<a href="https://search.dartslive.com/jp/shop/8aa5c912a04d27d50d9b047a20a7ba1e">BAGUS-バグース-梅田</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|30|1157|<span class="rank-name-dl">NO NAME 5559</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|30|1157|<span class="rank-name-dl">おじじ</span>|<a href="https://search.dartslive.com/jp/shop/f37ffdd76e2d326725d56fb0e5c39bac">快活CLUB 天六店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|32|1155|<span class="rank-name-dl">魔人王＠ex</span>|<a href="https://search.dartslive.com/jp/shop/b9bc068ea231b1f00d9b047a20a7ba1e">ラウンドワン梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|33|1153|<span class="rank-name-dl">つるのかいと</span>|<a href="https://search.dartslive.com/jp/shop/edbe3c96046f1a5c0d9b047a20a7ba1e">ダーツカフェデルタ梅田店(DartsCafeDELTA梅田店)</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|34|1151|<span class="rank-name-dl">玉島 蒼茉</span>|<a href="https://search.dartslive.com/jp/shop/f37ffdd76e2d326725d56fb0e5c39bac">快活CLUB 天六店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|35|1150|<span class="rank-name-dl">レイジー</span>|<a href="https://search.dartslive.com/jp/shop/4c50b821b3d02dc725d56fb0e5c39bac">忘我スタジアム</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|35|1150|<span class="rank-name-dl">魔王@eX</span>|<a href="https://search.dartslive.com/jp/shop/b9bc068ea231b1f00d9b047a20a7ba1e">ラウンドワン梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|35|1150|<span class="rank-name-dl">魔王プー@eX</span>|<a href="https://search.dartslive.com/jp/shop/bdfafc15e5af3b910d9b047a20a7ba1e">Darts Bar eX</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|38|1147|<span class="rank-name-dl">津波良二CUESOUL</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|39|1142|<span class="rank-name-dl">901ｸﾞﾘｺS-DARTS23</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|40|1140|<span class="rank-name-dl">tkm</span>|<a href="https://search.dartslive.com/jp/shop/2f545869ced206690d9b047a20a7ba1e">DARTS BAR MICHIGAN</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|41|1139|<span class="rank-name-dl">和泉 真平</span>|<a href="https://search.dartslive.com/jp/shop/d9b52c26d9aefc120d9b047a20a7ba1e">BAR CROSS UMEDA</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|42|1138|<span class="rank-name-dl">Masato Narita</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|42|1138|<span class="rank-name-dl">近藤 拓也</span>|<a href="https://search.dartslive.com/jp/shop/4c50b821b3d02dc725d56fb0e5c39bac">忘我スタジアム</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|44|1137|<span class="rank-name-dl">松藤 翔太</span>|<a href="https://search.dartslive.com/jp/shop/4c50b821b3d02dc725d56fb0e5c39bac">忘我スタジアム</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|44|1137|<span class="rank-name-dl">由肥 元希</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|46|1135|<span class="rank-name-dl">石原　蒼</span>|<a href="https://search.dartslive.com/jp/shop/2f545869ced206690d9b047a20a7ba1e">DARTS BAR MICHIGAN</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|47|1134|<span class="rank-name-dl">森本 啓五</span>|<a href="https://search.dartslive.com/jp/shop/2f545869ced206690d9b047a20a7ba1e">DARTS BAR MICHIGAN</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|48|1132|<span class="rank-name-dl">和泉　真平</span>|<a href="https://search.dartslive.com/jp/shop/d9b52c26d9aefc120d9b047a20a7ba1e">BAR CROSS UMEDA</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|48|1132|<span class="rank-name-dl">真人</span>|<a href="https://search.dartslive.com/jp/shop/d9b52c26d9aefc120d9b047a20a7ba1e">BAR CROSS UMEDA</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|50|1130|<span class="rank-name-dl">高橋 隼人</span>|<a href="https://search.dartslive.com/jp/shop/d9b52c26d9aefc120d9b047a20a7ba1e">BAR CROSS UMEDA</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|51|1129|<span class="rank-name-dl">やんも</span>|<a href="https://search.dartslive.com/jp/shop/36cd61b23cb761e928032249b44395af">DartsShop R梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|51|1129|<span class="rank-name-dl">忘我のだいき</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|53|1128|<span class="rank-name-dl">愛 義成</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|54|1127|<span class="rank-name-dl">なおp</span>|<a href="https://search.dartslive.com/jp/shop/d049acd619ee2217f454cb89828a1cfe">max osaka 梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|54|1127|<span class="rank-name-dl">ゆうちん</span>|<a href="https://search.dartslive.com/jp/shop/36cd61b23cb761e928032249b44395af">DartsShop R梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|56|1124|<span class="rank-name-dl">じんぼ</span>|<a href="https://search.dartslive.com/jp/shop/2f545869ced206690d9b047a20a7ba1e">DARTS BAR MICHIGAN</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|56|1124|<span class="rank-name-dl">脇 純平</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|58|1123|<span class="rank-name-dl">2024</span>|<a href="https://search.dartslive.com/jp/shop/4c50b821b3d02dc725d56fb0e5c39bac">忘我スタジアム</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|58|1123|<span class="rank-name-dl">おーか</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|58|1123|<span class="rank-name-dl">けんじーの</span>|<a href="https://search.dartslive.com/jp/shop/53a54323d71b4c33b21333aee1bd51e4">B-GARAGE 天六店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|58|1123|<span class="rank-name-dl">粕谷　晋</span>|<a href="https://search.dartslive.com/jp/shop/d049acd619ee2217f454cb89828a1cfe">max osaka 梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|62|1122|<span class="rank-name-dl">柴田　豊和</span>|<a href="https://search.dartslive.com/jp/shop/bdfafc15e5af3b910d9b047a20a7ba1e">Darts Bar eX</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|63|1121|<span class="rank-name-dl">Tetsuya fujiwara</span>|<a href="https://search.dartslive.com/jp/shop/f37ffdd76e2d326725d56fb0e5c39bac">快活CLUB 天六店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|63|1121|<span class="rank-name-dl">yuhei#045</span>|<a href="https://search.dartslive.com/jp/shop/2f545869ced206690d9b047a20a7ba1e">DARTS BAR MICHIGAN</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|63|1121|<span class="rank-name-dl">№Ъцчцк！</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|66|1120|<span class="rank-name-dl">ぴーぽー</span>|<a href="https://search.dartslive.com/jp/shop/d049acd619ee2217f454cb89828a1cfe">max osaka 梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|66|1120|<span class="rank-name-dl">山下　竜起セパ用</span>|<a href="https://search.dartslive.com/jp/shop/bdfafc15e5af3b910d9b047a20a7ba1e">Darts Bar eX</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|66|1120|<span class="rank-name-dl">由肥　元希</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|66|1120|<span class="rank-name-dl">石田 佳史</span>|<a href="https://search.dartslive.com/jp/shop/2f545869ced206690d9b047a20a7ba1e">DARTS BAR MICHIGAN</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|66|1120|<span class="rank-name-dl">ｻﾝｼﾞ梅星★乱蜂☠</span>|<a href="https://search.dartslive.com/jp/shop/b9bc068ea231b1f00d9b047a20a7ba1e">ラウンドワン梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|71|1119|<span class="rank-name-dl">Ryu Nagayo☆狼族</span>|<a href="https://search.dartslive.com/jp/shop/4c50b821b3d02dc725d56fb0e5c39bac">忘我スタジアム</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|71|1119|<span class="rank-name-dl">ゆうちん</span>|<a href="https://search.dartslive.com/jp/shop/bdfafc15e5af3b910d9b047a20a7ba1e">Darts Bar eX</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|73|1118|<span class="rank-name-dl">はやてるま</span>|<a href="https://search.dartslive.com/jp/shop/4c50b821b3d02dc725d56fb0e5c39bac">忘我スタジアム</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|73|1118|<span class="rank-name-dl">松藤 翔太</span>|<a href="https://search.dartslive.com/jp/shop/36cd61b23cb761e928032249b44395af">DartsShop R梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|75|1117|<span class="rank-name-dl">山本 直矢</span>|<a href="https://search.dartslive.com/jp/shop/d049acd619ee2217f454cb89828a1cfe">max osaka 梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|76|1116|<span class="rank-name-dl">ろっくん</span>|<a href="https://search.dartslive.com/jp/shop/4c50b821b3d02dc725d56fb0e5c39bac">忘我スタジアム</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|76|1116|<span class="rank-name-dl">松﨑 楓♡‬</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|78|1115|<span class="rank-name-dl">wawawa</span>|<a href="https://search.dartslive.com/jp/shop/b9bc068ea231b1f00d9b047a20a7ba1e">ラウンドワン梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|78|1115|<span class="rank-name-dl">ｻﾝｼﾞlmao乱蜂梅星</span>|<a href="https://search.dartslive.com/jp/shop/f37ffdd76e2d326725d56fb0e5c39bac">快活CLUB 天六店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|80|1114|<span class="rank-name-dl">赤木　一樹</span>|<a href="https://search.dartslive.com/jp/shop/2f545869ced206690d9b047a20a7ba1e">DARTS BAR MICHIGAN</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|81|1113|<span class="rank-name-dl">ｻﾝｼﾞ★梅星☠乱蜂</span>|<a href="https://search.dartslive.com/jp/shop/b9bc068ea231b1f00d9b047a20a7ba1e">ラウンドワン梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|82|1112|<span class="rank-name-dl">ｼﾞｮｰｼﾞMichigan</span>|<a href="https://search.dartslive.com/jp/shop/2f545869ced206690d9b047a20a7ba1e">DARTS BAR MICHIGAN</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|83|1110|<span class="rank-name-dl">だいき</span>|<a href="https://search.dartslive.com/jp/shop/b9bc068ea231b1f00d9b047a20a7ba1e">ラウンドワン梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|83|1110|<span class="rank-name-dl">石原　蒼</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|85|1108|<span class="rank-name-dl">Ryu Nagayo☆狼族</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|86|1107|<span class="rank-name-dl">CROSS真人</span>|<a href="https://search.dartslive.com/jp/shop/d9b52c26d9aefc120d9b047a20a7ba1e">BAR CROSS UMEDA</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|86|1107|<span class="rank-name-dl">山本 浩平</span>|<a href="https://search.dartslive.com/jp/shop/b9bc068ea231b1f00d9b047a20a7ba1e">ラウンドワン梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|86|1107|<span class="rank-name-dl">磯和 勇希</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|86|1107|<span class="rank-name-dl">福岡 靖人</span>|<a href="https://search.dartslive.com/jp/shop/d049acd619ee2217f454cb89828a1cfe">max osaka 梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|90|1106|<span class="rank-name-dl">門脇聖護@白夜</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|91|1104|<span class="rank-name-dl">エイキチ@901QLAY</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|91|1104|<span class="rank-name-dl">石原　蒼</span>|<a href="https://search.dartslive.com/jp/shop/bdfafc15e5af3b910d9b047a20a7ba1e">Darts Bar eX</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|91|1104|<span class="rank-name-dl">西谷　譲二</span>|<a href="https://search.dartslive.com/jp/shop/d9b52c26d9aefc120d9b047a20a7ba1e">BAR CROSS UMEDA</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|94|1103|<span class="rank-name-dl">かいと</span>|<a href="https://search.dartslive.com/jp/shop/b9bc068ea231b1f00d9b047a20a7ba1e">ラウンドワン梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|94|1103|<span class="rank-name-dl">西浦 憲司</span>|<a href="https://search.dartslive.com/jp/shop/f37ffdd76e2d326725d56fb0e5c39bac">快活CLUB 天六店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|96|1101|<span class="rank-name-dl">おキャンタマ永吉</span>|<a href="https://search.dartslive.com/jp/shop/b01107f9591fd3bba3f63593b5358cc4">901-QLAY-梅田店</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|97|1100|<span class="rank-name-dl">つるのかいと</span>|<a href="https://search.dartslive.com/jp/shop/65b484f3b7c6c8150d9b047a20a7ba1e">JADE</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|97|1100|<span class="rank-name-dl">はやてるま</span>|<a href="https://search.dartslive.com/jp/shop/2f545869ced206690d9b047a20a7ba1e">DARTS BAR MICHIGAN</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|97|1100|<span class="rank-name-dl">津波良二CUESOUL</span>|<a href="https://search.dartslive.com/jp/shop/4c50b821b3d02dc725d56fb0e5c39bac">忘我スタジアム</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
+|97|1100|<span class="rank-name-dl">近藤 拓也</span>|<a href="https://search.dartslive.com/jp/shop/bdfafc15e5af3b910d9b047a20a7ba1e">Darts Bar eX</a>|<a href="/darts/rank/大阪府/大阪市北区">大阪府大阪市北区</a>|
 
 
 #### PHOENIXDARTS TOP 100

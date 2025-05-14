@@ -23,34 +23,103 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|965|<span class="rank-name-dl">ＹＦＨＫ</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
-|2|922|<span class="rank-name-dl">こめ</span>|<a href="https://search.dartslive.com/jp/shop/0f51f78d8bd7580c0d9b047a20a7ba1e">Live & Bar Freedom</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
-|3|896|<span class="rank-name-dl">ょーへいHEY♪</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
-|4|792|<span class="rank-name-dl">長谷川 裕太</span>|<a href="https://search.dartslive.com/jp/shop/0f51f78d8bd7580c0d9b047a20a7ba1e">Live & Bar Freedom</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
-|5|767|<span class="rank-name-dl">kinoko</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
-|6|764|<span class="rank-name-dl">かじくん</span>|<a href="https://search.dartslive.com/jp/shop/0f51f78d8bd7580c0d9b047a20a7ba1e">Live & Bar Freedom</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
-|7|752|<span class="rank-name-dl">Buch</span>|<a href="https://search.dartslive.com/jp/shop/0f51f78d8bd7580c0d9b047a20a7ba1e">Live & Bar Freedom</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
-|8|746|<span class="rank-name-dl">KAZU@BUZZRISTA</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
-|9|740|<span class="rank-name-dl">Alo14</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
-|10|723|<span class="rank-name-dl">wakka@BAZZRISTA</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
-|11|710|<span class="rank-name-dl">Dee_Kun</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
-|12|687|<span class="rank-name-dl">かず</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
-|13|668|<span class="rank-name-dl">wakka</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
-|14|625|<span class="rank-name-dl">デー</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
-|15|616|<span class="rank-name-dl">大村 暁</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
-|16|598|<span class="rank-name-dl">なかむー</span>|<a href="https://search.dartslive.com/jp/shop/0f51f78d8bd7580c0d9b047a20a7ba1e">Live & Bar Freedom</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
-|17|547|<span class="rank-name-dl">Keisuke@FIREFLY</span>|<a href="https://search.dartslive.com/jp/shop/0f51f78d8bd7580c0d9b047a20a7ba1e">Live & Bar Freedom</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
-|18|533|<span class="rank-name-dl">TakeⅢ☆OWNGOAL</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
-|19|527|<span class="rank-name-dl">およね</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
-|20|511|<span class="rank-name-dl">Ko-hei</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
-|21|495|<span class="rank-name-dl">NO NAME 2470</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
-|22|468|<span class="rank-name-dl">ハルト</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
-|23|466|<span class="rank-name-dl">ma-bo</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
-|24|405|<span class="rank-name-dl">NO NAME 4023</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
-|25|370|<span class="rank-name-dl">867</span>|<a href="https://search.dartslive.com/jp/shop/0f51f78d8bd7580c0d9b047a20a7ba1e">Live & Bar Freedom</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
-|26|349|<span class="rank-name-dl">プリシラ</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
-|27|315|<span class="rank-name-dl">sibakenbro</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
-|28|304|<span class="rank-name-dl">is0629sy</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|1|1070|<span class="rank-name-dl">タクミシャトル</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|2|1025|<span class="rank-name-dl">HAZUME</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|3|1020|<span class="rank-name-dl">多賀 友昭</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|4|1015|<span class="rank-name-dl">★うっちー★</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|5|998|<span class="rank-name-dl">こまっちゃん（竜</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|6|989|<span class="rank-name-dl">よーさん</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|7|971|<span class="rank-name-dl">筋肉ラッシー</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">Darts＆Bar SOIR</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|8|966|<span class="rank-name-dl">筋肉ラッシー</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|9|965|<span class="rank-name-dl">米 @ Firefly</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|9|965|<span class="rank-name-dl">ＹＦＨＫ</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|11|964|<span class="rank-name-dl">LandoKei</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|11|964|<span class="rank-name-dl">なかむー</span>|<a href="https://search.dartslive.com/jp/shop/0f51f78d8bd7580c0d9b047a20a7ba1e">Live & Bar Freedom</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|13|950|<span class="rank-name-dl">タガトモアキ</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">Darts＆Bar SOIR</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|14|939|<span class="rank-name-dl">若狭 洸介</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|15|927|<span class="rank-name-dl">ＹＦＨＫ</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|16|922|<span class="rank-name-dl">こめ</span>|<a href="https://search.dartslive.com/jp/shop/0f51f78d8bd7580c0d9b047a20a7ba1e">Live & Bar Freedom</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|17|920|<span class="rank-name-dl">中村悠佑</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">Darts＆Bar SOIR</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|17|920|<span class="rank-name-dl">吉原 大貴</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|19|908|<span class="rank-name-dl">HAZUME</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">Darts＆Bar SOIR</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|19|908|<span class="rank-name-dl">中村 怜飛</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">Darts＆Bar SOIR</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|21|904|<span class="rank-name-dl">みっつ</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|22|903|<span class="rank-name-dl">らぶこんぽ</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">Darts＆Bar SOIR</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|23|902|<span class="rank-name-dl">Eda</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|24|901|<span class="rank-name-dl">Takeru</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|24|901|<span class="rank-name-dl">保倉@VICTOIRE</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">Darts＆Bar SOIR</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|26|896|<span class="rank-name-dl">ょーへいHEY♪</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|27|892|<span class="rank-name-dl">本間 燦爾</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">Darts＆Bar SOIR</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|28|884|<span class="rank-name-dl">☆hiro＃4☆</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|29|883|<span class="rank-name-dl">Buch</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|30|882|<span class="rank-name-dl">_Dee_Kun_</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|31|880|<span class="rank-name-dl">本間 燦爾</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|32|875|<span class="rank-name-dl">jun</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|33|868|<span class="rank-name-dl">長谷川 裕太</span>|<a href="https://search.dartslive.com/jp/shop/0f51f78d8bd7580c0d9b047a20a7ba1e">Live & Bar Freedom</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|34|865|<span class="rank-name-dl">うしわか</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|35|862|<span class="rank-name-dl">Buch</span>|<a href="https://search.dartslive.com/jp/shop/2f50acd80977cb390d9b047a20a7ba1e">coffee shop 駅馬車</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|36|860|<span class="rank-name-dl">南 VICTOIRE</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">Darts＆Bar SOIR</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|37|852|<span class="rank-name-dl">なかむー</span>|<a href="https://search.dartslive.com/jp/shop/2f50acd80977cb390d9b047a20a7ba1e">coffee shop 駅馬車</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|38|851|<span class="rank-name-dl">Ｙ・MIYAIRI</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">Darts＆Bar SOIR</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|39|850|<span class="rank-name-dl">たっくん！</span>|<a href="https://search.dartslive.com/jp/shop/0f51f78d8bd7580c0d9b047a20a7ba1e">Live & Bar Freedom</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|40|848|<span class="rank-name-dl">保倉 秀則</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|41|847|<span class="rank-name-dl">ＹＦＨＫ</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">Darts＆Bar SOIR</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|42|832|<span class="rank-name-dl">大川 湧希</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">Darts＆Bar SOIR</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|43|828|<span class="rank-name-dl">岩崎 怜星</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">Darts＆Bar SOIR</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|44|825|<span class="rank-name-dl">こまっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">Darts＆Bar SOIR</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|45|813|<span class="rank-name-dl">南 和貴</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|46|774|<span class="rank-name-dl">お百姓さん</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|47|767|<span class="rank-name-dl">EKIBASHA_MASTER</span>|<a href="https://search.dartslive.com/jp/shop/2f50acd80977cb390d9b047a20a7ba1e">coffee shop 駅馬車</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|47|767|<span class="rank-name-dl">kinoko</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|47|767|<span class="rank-name-dl">なっつんぽ</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">Darts＆Bar SOIR</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|50|764|<span class="rank-name-dl">かじくん</span>|<a href="https://search.dartslive.com/jp/shop/0f51f78d8bd7580c0d9b047a20a7ba1e">Live & Bar Freedom</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|51|763|<span class="rank-name-dl">Kei5@POWERS</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|52|755|<span class="rank-name-dl">筋肉ラッシー</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|53|753|<span class="rank-name-dl">ｵｯｶ a.k.a ｵｶﾑｰ</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|54|752|<span class="rank-name-dl">Buch</span>|<a href="https://search.dartslive.com/jp/shop/0f51f78d8bd7580c0d9b047a20a7ba1e">Live & Bar Freedom</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|55|746|<span class="rank-name-dl">KAZU@BUZZRISTA</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|56|740|<span class="rank-name-dl">Alo14</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|57|723|<span class="rank-name-dl">wakka@BAZZRISTA</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|58|715|<span class="rank-name-dl">もりきちい</span>|<a href="https://search.dartslive.com/jp/shop/2f50acd80977cb390d9b047a20a7ba1e">coffee shop 駅馬車</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|59|710|<span class="rank-name-dl">Dee_Kun</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|60|687|<span class="rank-name-dl">かず</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|61|668|<span class="rank-name-dl">wakka</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|62|647|<span class="rank-name-dl">spdoragon</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|63|625|<span class="rank-name-dl">デー</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|64|616|<span class="rank-name-dl">大村 暁</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|65|598|<span class="rank-name-dl">キエるﾏｷｭｳ.HiVe</span>|<a href="https://search.dartslive.com/jp/shop/2f50acd80977cb390d9b047a20a7ba1e">coffee shop 駅馬車</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|66|596|<span class="rank-name-dl">こまっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|67|592|<span class="rank-name-dl">Keisuke@FIREFLY</span>|<a href="https://search.dartslive.com/jp/shop/0f51f78d8bd7580c0d9b047a20a7ba1e">Live & Bar Freedom</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|68|578|<span class="rank-name-dl">tommy</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|69|564|<span class="rank-name-dl">菅生洋市</span>|<a href="https://search.dartslive.com/jp/shop/2f50acd80977cb390d9b047a20a7ba1e">coffee shop 駅馬車</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|70|559|<span class="rank-name-dl">Yojiman</span>|<a href="https://search.dartslive.com/jp/shop/2f50acd80977cb390d9b047a20a7ba1e">coffee shop 駅馬車</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|71|555|<span class="rank-name-dl">KAZU_VICTOIRE</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|72|535|<span class="rank-name-dl">kkaede218</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|73|533|<span class="rank-name-dl">TakeⅢ☆OWNGOAL</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|74|527|<span class="rank-name-dl">およね</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|75|511|<span class="rank-name-dl">Ko-hei</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|76|495|<span class="rank-name-dl">NO NAME 2470</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|77|483|<span class="rank-name-dl">彼方</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">Darts＆Bar SOIR</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|78|479|<span class="rank-name-dl">T.OHNO@CC</span>|<a href="https://search.dartslive.com/jp/shop/2f50acd80977cb390d9b047a20a7ba1e">coffee shop 駅馬車</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|79|468|<span class="rank-name-dl">ハルト</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|80|466|<span class="rank-name-dl">ma-bo</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|81|443|<span class="rank-name-dl">けんしろーch</span>|<a href="https://search.dartslive.com/jp/shop/2f50acd80977cb390d9b047a20a7ba1e">coffee shop 駅馬車</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|82|440|<span class="rank-name-dl">りょう</span>|<a href="https://search.dartslive.com/jp/shop/0f51f78d8bd7580c0d9b047a20a7ba1e">Live & Bar Freedom</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|82|440|<span class="rank-name-dl">隠岐 太志</span>|<a href="https://search.dartslive.com/jp/shop/0f51f78d8bd7580c0d9b047a20a7ba1e">Live & Bar Freedom</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|84|435|<span class="rank-name-dl">まさ</span>|<a href="https://search.dartslive.com/jp/shop/2f50acd80977cb390d9b047a20a7ba1e">coffee shop 駅馬車</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|85|434|<span class="rank-name-dl">Denchan</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|86|426|<span class="rank-name-dl">Shota_BB</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|87|414|<span class="rank-name-dl">床屋</span>|<a href="https://search.dartslive.com/jp/shop/2f50acd80977cb390d9b047a20a7ba1e">coffee shop 駅馬車</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|88|410|<span class="rank-name-dl">mana</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|89|405|<span class="rank-name-dl">NO NAME 4023</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|90|370|<span class="rank-name-dl">867</span>|<a href="https://search.dartslive.com/jp/shop/0f51f78d8bd7580c0d9b047a20a7ba1e">Live & Bar Freedom</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|90|370|<span class="rank-name-dl">こまっちゃん（竜</span>|<a href="https://search.dartslive.com/jp/shop/0f51f78d8bd7580c0d9b047a20a7ba1e">Live & Bar Freedom</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|92|358|<span class="rank-name-dl">牡羊のショータ</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|93|349|<span class="rank-name-dl">プリシラ</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|94|315|<span class="rank-name-dl">sibakenbro</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|95|304|<span class="rank-name-dl">is0629sy</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|96|292|<span class="rank-name-dl">Ko-hei</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|97|235|<span class="rank-name-dl">しーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -60,34 +129,103 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|965|<span class="rank-name-dl">ＹＦＨＫ</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
-|2|922|<span class="rank-name-dl">こめ</span>|<a href="https://search.dartslive.com/jp/shop/0f51f78d8bd7580c0d9b047a20a7ba1e">Live & Bar Freedom</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
-|3|896|<span class="rank-name-dl">ょーへいHEY♪</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
-|4|792|<span class="rank-name-dl">長谷川 裕太</span>|<a href="https://search.dartslive.com/jp/shop/0f51f78d8bd7580c0d9b047a20a7ba1e">Live & Bar Freedom</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
-|5|767|<span class="rank-name-dl">kinoko</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
-|6|764|<span class="rank-name-dl">かじくん</span>|<a href="https://search.dartslive.com/jp/shop/0f51f78d8bd7580c0d9b047a20a7ba1e">Live & Bar Freedom</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
-|7|752|<span class="rank-name-dl">Buch</span>|<a href="https://search.dartslive.com/jp/shop/0f51f78d8bd7580c0d9b047a20a7ba1e">Live & Bar Freedom</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
-|8|746|<span class="rank-name-dl">KAZU@BUZZRISTA</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
-|9|740|<span class="rank-name-dl">Alo14</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
-|10|723|<span class="rank-name-dl">wakka@BAZZRISTA</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
-|11|710|<span class="rank-name-dl">Dee_Kun</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
-|12|687|<span class="rank-name-dl">かず</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
-|13|668|<span class="rank-name-dl">wakka</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
-|14|625|<span class="rank-name-dl">デー</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
-|15|616|<span class="rank-name-dl">大村 暁</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
-|16|598|<span class="rank-name-dl">なかむー</span>|<a href="https://search.dartslive.com/jp/shop/0f51f78d8bd7580c0d9b047a20a7ba1e">Live & Bar Freedom</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
-|17|547|<span class="rank-name-dl">Keisuke@FIREFLY</span>|<a href="https://search.dartslive.com/jp/shop/0f51f78d8bd7580c0d9b047a20a7ba1e">Live & Bar Freedom</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
-|18|533|<span class="rank-name-dl">TakeⅢ☆OWNGOAL</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
-|19|527|<span class="rank-name-dl">およね</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
-|20|511|<span class="rank-name-dl">Ko-hei</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
-|21|495|<span class="rank-name-dl">NO NAME 2470</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
-|22|468|<span class="rank-name-dl">ハルト</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
-|23|466|<span class="rank-name-dl">ma-bo</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
-|24|405|<span class="rank-name-dl">NO NAME 4023</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
-|25|370|<span class="rank-name-dl">867</span>|<a href="https://search.dartslive.com/jp/shop/0f51f78d8bd7580c0d9b047a20a7ba1e">Live & Bar Freedom</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
-|26|349|<span class="rank-name-dl">プリシラ</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
-|27|315|<span class="rank-name-dl">sibakenbro</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
-|28|304|<span class="rank-name-dl">is0629sy</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|1|1070|<span class="rank-name-dl">タクミシャトル</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|2|1025|<span class="rank-name-dl">HAZUME</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|3|1020|<span class="rank-name-dl">多賀 友昭</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|4|1015|<span class="rank-name-dl">★うっちー★</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|5|998|<span class="rank-name-dl">こまっちゃん（竜</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|6|989|<span class="rank-name-dl">よーさん</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|7|971|<span class="rank-name-dl">筋肉ラッシー</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">Darts＆Bar SOIR</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|8|966|<span class="rank-name-dl">筋肉ラッシー</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|9|965|<span class="rank-name-dl">米 @ Firefly</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|9|965|<span class="rank-name-dl">ＹＦＨＫ</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|11|964|<span class="rank-name-dl">LandoKei</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|11|964|<span class="rank-name-dl">なかむー</span>|<a href="https://search.dartslive.com/jp/shop/0f51f78d8bd7580c0d9b047a20a7ba1e">Live & Bar Freedom</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|13|950|<span class="rank-name-dl">タガトモアキ</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">Darts＆Bar SOIR</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|14|939|<span class="rank-name-dl">若狭 洸介</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|15|927|<span class="rank-name-dl">ＹＦＨＫ</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|16|922|<span class="rank-name-dl">こめ</span>|<a href="https://search.dartslive.com/jp/shop/0f51f78d8bd7580c0d9b047a20a7ba1e">Live & Bar Freedom</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|17|920|<span class="rank-name-dl">中村悠佑</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">Darts＆Bar SOIR</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|17|920|<span class="rank-name-dl">吉原 大貴</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|19|908|<span class="rank-name-dl">HAZUME</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">Darts＆Bar SOIR</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|19|908|<span class="rank-name-dl">中村 怜飛</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">Darts＆Bar SOIR</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|21|904|<span class="rank-name-dl">みっつ</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|22|903|<span class="rank-name-dl">らぶこんぽ</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">Darts＆Bar SOIR</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|23|902|<span class="rank-name-dl">Eda</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|24|901|<span class="rank-name-dl">Takeru</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|24|901|<span class="rank-name-dl">保倉@VICTOIRE</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">Darts＆Bar SOIR</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|26|896|<span class="rank-name-dl">ょーへいHEY♪</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|27|892|<span class="rank-name-dl">本間 燦爾</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">Darts＆Bar SOIR</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|28|884|<span class="rank-name-dl">☆hiro＃4☆</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|29|883|<span class="rank-name-dl">Buch</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|30|882|<span class="rank-name-dl">_Dee_Kun_</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|31|880|<span class="rank-name-dl">本間 燦爾</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|32|875|<span class="rank-name-dl">jun</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|33|868|<span class="rank-name-dl">長谷川 裕太</span>|<a href="https://search.dartslive.com/jp/shop/0f51f78d8bd7580c0d9b047a20a7ba1e">Live & Bar Freedom</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|34|865|<span class="rank-name-dl">うしわか</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|35|862|<span class="rank-name-dl">Buch</span>|<a href="https://search.dartslive.com/jp/shop/2f50acd80977cb390d9b047a20a7ba1e">coffee shop 駅馬車</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|36|860|<span class="rank-name-dl">南 VICTOIRE</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">Darts＆Bar SOIR</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|37|852|<span class="rank-name-dl">なかむー</span>|<a href="https://search.dartslive.com/jp/shop/2f50acd80977cb390d9b047a20a7ba1e">coffee shop 駅馬車</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|38|851|<span class="rank-name-dl">Ｙ・MIYAIRI</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">Darts＆Bar SOIR</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|39|850|<span class="rank-name-dl">たっくん！</span>|<a href="https://search.dartslive.com/jp/shop/0f51f78d8bd7580c0d9b047a20a7ba1e">Live & Bar Freedom</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|40|848|<span class="rank-name-dl">保倉 秀則</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|41|847|<span class="rank-name-dl">ＹＦＨＫ</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">Darts＆Bar SOIR</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|42|832|<span class="rank-name-dl">大川 湧希</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">Darts＆Bar SOIR</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|43|828|<span class="rank-name-dl">岩崎 怜星</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">Darts＆Bar SOIR</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|44|825|<span class="rank-name-dl">こまっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">Darts＆Bar SOIR</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|45|813|<span class="rank-name-dl">南 和貴</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|46|774|<span class="rank-name-dl">お百姓さん</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|47|767|<span class="rank-name-dl">EKIBASHA_MASTER</span>|<a href="https://search.dartslive.com/jp/shop/2f50acd80977cb390d9b047a20a7ba1e">coffee shop 駅馬車</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|47|767|<span class="rank-name-dl">kinoko</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|47|767|<span class="rank-name-dl">なっつんぽ</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">Darts＆Bar SOIR</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|50|764|<span class="rank-name-dl">かじくん</span>|<a href="https://search.dartslive.com/jp/shop/0f51f78d8bd7580c0d9b047a20a7ba1e">Live & Bar Freedom</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|51|763|<span class="rank-name-dl">Kei5@POWERS</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|52|755|<span class="rank-name-dl">筋肉ラッシー</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|53|753|<span class="rank-name-dl">ｵｯｶ a.k.a ｵｶﾑｰ</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|54|752|<span class="rank-name-dl">Buch</span>|<a href="https://search.dartslive.com/jp/shop/0f51f78d8bd7580c0d9b047a20a7ba1e">Live & Bar Freedom</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|55|746|<span class="rank-name-dl">KAZU@BUZZRISTA</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|56|740|<span class="rank-name-dl">Alo14</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|57|723|<span class="rank-name-dl">wakka@BAZZRISTA</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|58|715|<span class="rank-name-dl">もりきちい</span>|<a href="https://search.dartslive.com/jp/shop/2f50acd80977cb390d9b047a20a7ba1e">coffee shop 駅馬車</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|59|710|<span class="rank-name-dl">Dee_Kun</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|60|687|<span class="rank-name-dl">かず</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|61|668|<span class="rank-name-dl">wakka</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|62|647|<span class="rank-name-dl">spdoragon</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|63|625|<span class="rank-name-dl">デー</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|64|616|<span class="rank-name-dl">大村 暁</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|65|598|<span class="rank-name-dl">キエるﾏｷｭｳ.HiVe</span>|<a href="https://search.dartslive.com/jp/shop/2f50acd80977cb390d9b047a20a7ba1e">coffee shop 駅馬車</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|66|596|<span class="rank-name-dl">こまっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|67|592|<span class="rank-name-dl">Keisuke@FIREFLY</span>|<a href="https://search.dartslive.com/jp/shop/0f51f78d8bd7580c0d9b047a20a7ba1e">Live & Bar Freedom</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|68|578|<span class="rank-name-dl">tommy</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|69|564|<span class="rank-name-dl">菅生洋市</span>|<a href="https://search.dartslive.com/jp/shop/2f50acd80977cb390d9b047a20a7ba1e">coffee shop 駅馬車</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|70|559|<span class="rank-name-dl">Yojiman</span>|<a href="https://search.dartslive.com/jp/shop/2f50acd80977cb390d9b047a20a7ba1e">coffee shop 駅馬車</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|71|555|<span class="rank-name-dl">KAZU_VICTOIRE</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|72|535|<span class="rank-name-dl">kkaede218</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|73|533|<span class="rank-name-dl">TakeⅢ☆OWNGOAL</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|74|527|<span class="rank-name-dl">およね</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|75|511|<span class="rank-name-dl">Ko-hei</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|76|495|<span class="rank-name-dl">NO NAME 2470</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|77|483|<span class="rank-name-dl">彼方</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">Darts＆Bar SOIR</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|78|479|<span class="rank-name-dl">T.OHNO@CC</span>|<a href="https://search.dartslive.com/jp/shop/2f50acd80977cb390d9b047a20a7ba1e">coffee shop 駅馬車</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|79|468|<span class="rank-name-dl">ハルト</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|80|466|<span class="rank-name-dl">ma-bo</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|81|443|<span class="rank-name-dl">けんしろーch</span>|<a href="https://search.dartslive.com/jp/shop/2f50acd80977cb390d9b047a20a7ba1e">coffee shop 駅馬車</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|82|440|<span class="rank-name-dl">りょう</span>|<a href="https://search.dartslive.com/jp/shop/0f51f78d8bd7580c0d9b047a20a7ba1e">Live & Bar Freedom</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|82|440|<span class="rank-name-dl">隠岐 太志</span>|<a href="https://search.dartslive.com/jp/shop/0f51f78d8bd7580c0d9b047a20a7ba1e">Live & Bar Freedom</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|84|435|<span class="rank-name-dl">まさ</span>|<a href="https://search.dartslive.com/jp/shop/2f50acd80977cb390d9b047a20a7ba1e">coffee shop 駅馬車</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|85|434|<span class="rank-name-dl">Denchan</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|86|426|<span class="rank-name-dl">Shota_BB</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|87|414|<span class="rank-name-dl">床屋</span>|<a href="https://search.dartslive.com/jp/shop/2f50acd80977cb390d9b047a20a7ba1e">coffee shop 駅馬車</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|88|410|<span class="rank-name-dl">mana</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|89|405|<span class="rank-name-dl">NO NAME 4023</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|90|370|<span class="rank-name-dl">867</span>|<a href="https://search.dartslive.com/jp/shop/0f51f78d8bd7580c0d9b047a20a7ba1e">Live & Bar Freedom</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|90|370|<span class="rank-name-dl">こまっちゃん（竜</span>|<a href="https://search.dartslive.com/jp/shop/0f51f78d8bd7580c0d9b047a20a7ba1e">Live & Bar Freedom</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|92|358|<span class="rank-name-dl">牡羊のショータ</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|93|349|<span class="rank-name-dl">プリシラ</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|94|315|<span class="rank-name-dl">sibakenbro</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|95|304|<span class="rank-name-dl">is0629sy</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|96|292|<span class="rank-name-dl">Ko-hei</span>|<a href="https://search.dartslive.com/jp/shop/616a4d1090f958540d9b047a20a7ba1e">DARTS SHOP VICTOIRE</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
+|97|235|<span class="rank-name-dl">しーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/f13dceb85295f2e30d9b047a20a7ba1e">CASUAL BAR BUZZ</a>|<a href="/darts/rank/北海道/江別市">北海道江別市</a>|
 
 
 #### PHOENIXDARTS TOP 100

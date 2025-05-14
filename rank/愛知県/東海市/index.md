@@ -23,106 +23,106 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1127|<span class="rank-name-dl">ゆーま(UMA)</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|2|1061|<span class="rank-name-dl">らぷんつぇる</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|3|1053|<span class="rank-name-pd">よっしー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78323?s_seq=78323">二代目　ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|4|1025|<span class="rank-name-dl">ko-kun☆</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|5|1004|<span class="rank-name-dl">Sweetさん</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|6|1003|<span class="rank-name-dl">yuya【perfect】</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|7|985|<span class="rank-name-dl">おぐりん</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|8|983|<span class="rank-name-dl">麗</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|9|975|<span class="rank-name-dl">アリエッティ</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|10|958|<span class="rank-name-dl">ゆうま</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|11|948|<span class="rank-name-pd">らぷんつぇる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7507?s_seq=7507">JOYJOY 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|12|944|<span class="rank-name-pd">中村由喜子</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama　De　Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|13|927|<span class="rank-name-dl">hiroto</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|14|922|<span class="rank-name-dl">こぅ。</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|15|908|<span class="rank-name-dl">funa</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|16|904|<span class="rank-name-pd">Y.M.Revolution</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7507?s_seq=7507">JOYJOY 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|17|899|<span class="rank-name-dl">TAKUtaku</span>|<a href="https://search.dartslive.com/jp/shop/3d628138ddc25d9225d56fb0e5c39bac">三代目ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|18|897|<span class="rank-name-pd">こぅ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|19|894|<span class="rank-name-pd">an･an</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78323?s_seq=78323">二代目　ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|20|890|<span class="rank-name-dl">でーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|21|887|<span class="rank-name-dl">ｱﾀｵｶﾗﾌﾞﾘｰﾁｬﾝ</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|22|866|<span class="rank-name-dl">丸田和樹</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|23|864|<span class="rank-name-dl">ゴリラ</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|24|863|<span class="rank-name-pd">小林 憲之</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama　De　Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|25|862|<span class="rank-name-dl">Y.M.Revolution</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|25|862|<span class="rank-name-pd"><span class="pro-icon-pd"></span>中村 由喜子</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|27|861|<span class="rank-name-dl">ゅ～～ま</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|28|855|<span class="rank-name-dl">Ke-Yo</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|29|854|<span class="rank-name-pd">ken.z</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78323?s_seq=78323">二代目　ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|30|853|<span class="rank-name-pd">0027_3109</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|31|852|<span class="rank-name-pd">麗</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78323?s_seq=78323">二代目　ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|32|851|<span class="rank-name-dl">Jin@無所属</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|33|850|<span class="rank-name-dl">麗</span>|<a href="https://search.dartslive.com/jp/shop/3d628138ddc25d9225d56fb0e5c39bac">三代目ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|34|845|<span class="rank-name-dl">諭吉@マンクラTV</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|35|844|<span class="rank-name-dl">Shima</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|35|844|<span class="rank-name-dl">ゆき＠Noa</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|37|842|<span class="rank-name-dl">daRYO</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|37|842|<span class="rank-name-dl">波野 イクラ</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|39|840|<span class="rank-name-pd">NZO------</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama　De　Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|40|839|<span class="rank-name-dl">のりと</span>|<a href="https://search.dartslive.com/jp/shop/3d628138ddc25d9225d56fb0e5c39bac">三代目ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|41|838|<span class="rank-name-pd">瀨井 一</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|42|837|<span class="rank-name-dl">文山龍一</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|43|836|<span class="rank-name-dl">ワッキー</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|44|833|<span class="rank-name-pd">中村　章②</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama　De　Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|45|828|<span class="rank-name-pd">のりと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78323?s_seq=78323">二代目　ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|46|820|<span class="rank-name-dl">kohei</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|47|817|<span class="rank-name-dl">283</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|47|817|<span class="rank-name-dl">もんち</span>|<a href="https://search.dartslive.com/jp/shop/3d628138ddc25d9225d56fb0e5c39bac">三代目ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|49|814|<span class="rank-name-dl">せきちゃん</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|49|814|<span class="rank-name-dl">諭吉@マンクラTV</span>|<a href="https://search.dartslive.com/jp/shop/3d628138ddc25d9225d56fb0e5c39bac">三代目ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|51|813|<span class="rank-name-dl">H∧Lと</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|51|813|<span class="rank-name-pd">カッサーノ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|53|812|<span class="rank-name-dl">もんち</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|54|809|<span class="rank-name-dl">ふるちゃん</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|55|808|<span class="rank-name-pd">ふるちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7507?s_seq=7507">JOYJOY 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|56|806|<span class="rank-name-dl">SAWADA-E</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|56|806|<span class="rank-name-pd">波野ノリスケ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|58|801|<span class="rank-name-dl">Ken&#x27;z</span>|<a href="https://search.dartslive.com/jp/shop/3d628138ddc25d9225d56fb0e5c39bac">三代目ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|59|794|<span class="rank-name-pd">けんたろー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78323?s_seq=78323">二代目　ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|60|792|<span class="rank-name-dl">れん</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|61|791|<span class="rank-name-pd">猿-ENMA-魔[Ｚ]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|62|788|<span class="rank-name-pd">神の子ゆーま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78323?s_seq=78323">二代目　ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|62|788|<span class="rank-name-dl">鬼脚134</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|64|785|<span class="rank-name-dl">みぃクン</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|65|783|<span class="rank-name-pd">吉元 良輝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama　De　Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|66|780|<span class="rank-name-dl">けー</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|67|775|<span class="rank-name-pd">山田 モン太郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78323?s_seq=78323">二代目　ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|68|771|<span class="rank-name-dl">Jin@無所属</span>|<a href="https://search.dartslive.com/jp/shop/3d628138ddc25d9225d56fb0e5c39bac">三代目ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|69|769|<span class="rank-name-dl">Kuma</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|70|762|<span class="rank-name-dl">諭吉@マンクラTV</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|71|761|<span class="rank-name-dl">ひなたパパ</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|72|760|<span class="rank-name-dl">波野 イクラ</span>|<a href="https://search.dartslive.com/jp/shop/3d628138ddc25d9225d56fb0e5c39bac">三代目ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|73|755|<span class="rank-name-pd">Peko</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama　De　Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|74|748|<span class="rank-name-dl">RAI</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|74|748|<span class="rank-name-pd">kazumax.v</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7507?s_seq=7507">JOYJOY 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|76|745|<span class="rank-name-pd">ARUKIDASUKUMA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|76|745|<span class="rank-name-dl">徹底先行134</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|78|744|<span class="rank-name-pd">ゆちゃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|79|743|<span class="rank-name-dl">gatu#</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|80|739|<span class="rank-name-dl">たろうさん</span>|<a href="https://search.dartslive.com/jp/shop/3d628138ddc25d9225d56fb0e5c39bac">三代目ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|81|738|<span class="rank-name-dl">でーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|82|736|<span class="rank-name-dl">takahiro</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|82|736|<span class="rank-name-dl">セパ練習用</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|84|734|<span class="rank-name-pd">ただのたかぎ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|84|734|<span class="rank-name-dl">ともぞうさん</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|86|727|<span class="rank-name-pd">56蛇骨山？</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|86|727|<span class="rank-name-pd">あべかわもち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|88|726|<span class="rank-name-dl">ｷｭｱゆうし大好き</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|89|724|<span class="rank-name-dl">BULLお</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|90|723|<span class="rank-name-pd">もかパパ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|91|721|<span class="rank-name-pd">ラリ丸</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|92|720|<span class="rank-name-dl">さわださん</span>|<a href="https://search.dartslive.com/jp/shop/3d628138ddc25d9225d56fb0e5c39bac">三代目ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|93|717|<span class="rank-name-dl">Ke-Yo</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|93|717|<span class="rank-name-pd">かずたん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|95|715|<span class="rank-name-pd">yeah</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|96|713|<span class="rank-name-dl">りう</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|97|712|<span class="rank-name-pd">もか犬</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|98|711|<span class="rank-name-pd">しんせつ侍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama　De　Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|98|711|<span class="rank-name-pd">文山 龍一</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|100|709|<span class="rank-name-pd">くろかつ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|1|1168|<span class="rank-name-pd">Take</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|2|1139|<span class="rank-name-dl">Metalist</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|3|1127|<span class="rank-name-dl">ゆーま(UMA)</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|4|1089|<span class="rank-name-dl">ko-kun☆</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|5|1061|<span class="rank-name-dl">らぷんつぇる</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|6|1053|<span class="rank-name-pd">よっしー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78323?s_seq=78323">二代目　ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|7|1041|<span class="rank-name-dl">ko-kun★★</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|8|1015|<span class="rank-name-dl">けいた</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|9|1004|<span class="rank-name-dl">Sweetさん</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|10|1003|<span class="rank-name-dl">yuya【perfect】</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|11|1002|<span class="rank-name-dl">yuya【perfect】</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">DAMA DE NOCHE</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|11|1002|<span class="rank-name-dl">よすち</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|13|985|<span class="rank-name-dl">おぐりん</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|14|983|<span class="rank-name-dl">NAOYA</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|14|983|<span class="rank-name-dl">麗</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|16|978|<span class="rank-name-dl">おそのん</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|17|975|<span class="rank-name-dl">アリエッティ</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|18|972|<span class="rank-name-dl">じんつぃん@Tink</span>|<a href="https://search.dartslive.com/jp/shop/defb0876ab0e8bd3fec1ae84bb28bd87">JOYJOY東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|19|969|<span class="rank-name-pd">ラリ丸</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|19|969|<span class="rank-name-dl">塙 尚 紘</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|21|968|<span class="rank-name-dl">REVO☆N9A</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">DAMA DE NOCHE</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|22|967|<span class="rank-name-dl">Ryo</span>|<a href="https://search.dartslive.com/jp/shop/defb0876ab0e8bd3fec1ae84bb28bd87">JOYJOY東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|23|965|<span class="rank-name-dl">NO NAME 9719</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|23|965|<span class="rank-name-dl">せきちゃん</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|25|963|<span class="rank-name-pd">T STYLE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7507?s_seq=7507">JOYJOY 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|26|958|<span class="rank-name-dl">ゆうま</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|26|958|<span class="rank-name-pd"><span class="pro-icon-pd"></span>野月平 侑也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|28|955|<span class="rank-name-dl">Jin</span>|<a href="https://search.dartslive.com/jp/shop/defb0876ab0e8bd3fec1ae84bb28bd87">JOYJOY東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|29|948|<span class="rank-name-pd">らぷんつぇる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7507?s_seq=7507">JOYJOY 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|30|945|<span class="rank-name-pd">こぅ。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|31|944|<span class="rank-name-pd">中村由喜子</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama　De　Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|32|941|<span class="rank-name-dl">でーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">DAMA DE NOCHE</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|33|938|<span class="rank-name-dl">ko-kun★</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|33|938|<span class="rank-name-dl">minato ROGUE</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|35|936|<span class="rank-name-dl">yuduuu</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">DAMA DE NOCHE</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|36|935|<span class="rank-name-dl">ゆうま</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">DAMA DE NOCHE</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|37|932|<span class="rank-name-dl">ミカクニン</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|38|927|<span class="rank-name-dl">hiroto</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|39|924|<span class="rank-name-dl">ゅ～～ま</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|39|924|<span class="rank-name-pd"><span class="pro-icon-pd"></span>中村 由喜子</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|41|923|<span class="rank-name-dl">Ryo</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">DAMA DE NOCHE</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|42|920|<span class="rank-name-pd">ゆかりのろくよん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|43|909|<span class="rank-name-pd">しんや　7年ぶりのリーグ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|44|908|<span class="rank-name-dl">funa</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|44|908|<span class="rank-name-pd">わん はんどれっど えいてぃー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_93905?s_seq=93905">JOYJOY 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|46|907|<span class="rank-name-dl">daRYO</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|47|904|<span class="rank-name-pd">Y.M.Revolution</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7507?s_seq=7507">JOYJOY 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|47|904|<span class="rank-name-dl">あ</span>|<a href="https://search.dartslive.com/jp/shop/defb0876ab0e8bd3fec1ae84bb28bd87">JOYJOY東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|49|902|<span class="rank-name-dl">元祖酔拳408店長</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">DAMA DE NOCHE</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|50|901|<span class="rank-name-dl">こぅ。</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">DAMA DE NOCHE</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|50|901|<span class="rank-name-dl">望月 芳和</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">DAMA DE NOCHE</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|52|900|<span class="rank-name-pd"><span class="pro-icon-pd"></span>下浜 晃</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7507?s_seq=7507">JOYJOY 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|52|900|<span class="rank-name-pd">山田 モン太郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78323?s_seq=78323">二代目　ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|54|899|<span class="rank-name-dl">TAKUtaku</span>|<a href="https://search.dartslive.com/jp/shop/3d628138ddc25d9225d56fb0e5c39bac">三代目ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|55|897|<span class="rank-name-pd">こぅ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|56|894|<span class="rank-name-pd">an･an</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78323?s_seq=78323">二代目　ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|56|894|<span class="rank-name-dl">ホッシー</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|58|890|<span class="rank-name-dl">でーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|59|889|<span class="rank-name-dl">うぃずのくまさん</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|60|887|<span class="rank-name-dl">ｱﾀｵｶﾗﾌﾞﾘｰﾁｬﾝ</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|61|885|<span class="rank-name-pd">darts</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|61|885|<span class="rank-name-dl">たつ兄@Noa</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|61|885|<span class="rank-name-pd">ダーツ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|64|884|<span class="rank-name-dl">KOH</span>|<a href="https://search.dartslive.com/jp/shop/defb0876ab0e8bd3fec1ae84bb28bd87">JOYJOY東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|65|879|<span class="rank-name-pd">(ｺﾞ´･ω･`ﾘ)ﾉ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7507?s_seq=7507">JOYJOY 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|66|878|<span class="rank-name-dl">空也翔</span>|<a href="https://search.dartslive.com/jp/shop/defb0876ab0e8bd3fec1ae84bb28bd87">JOYJOY東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|67|877|<span class="rank-name-dl">Sumika</span>|<a href="https://search.dartslive.com/jp/shop/defb0876ab0e8bd3fec1ae84bb28bd87">JOYJOY東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|68|874|<span class="rank-name-dl">くま兄</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|69|871|<span class="rank-name-pd">♬せきちゃん♬</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|70|870|<span class="rank-name-pd">カワキヨ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|71|867|<span class="rank-name-dl">ゆうま</span>|<a href="https://search.dartslive.com/jp/shop/defb0876ab0e8bd3fec1ae84bb28bd87">JOYJOY東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|71|867|<span class="rank-name-dl">れん</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|73|866|<span class="rank-name-dl">丸田和樹</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|74|865|<span class="rank-name-dl">ゆうま</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|75|864|<span class="rank-name-dl">ゴリラ</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|76|863|<span class="rank-name-dl">minatori</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|76|863|<span class="rank-name-pd">小林 憲之</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama　De　Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|78|862|<span class="rank-name-dl">Y.M.Revolution</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|79|858|<span class="rank-name-dl">Yoshimitsu</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|80|857|<span class="rank-name-dl">Yukiko☆STRATO</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">DAMA DE NOCHE</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|81|855|<span class="rank-name-dl">B</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|81|855|<span class="rank-name-dl">Ke-Yo</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|83|854|<span class="rank-name-pd">ken.z</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78323?s_seq=78323">二代目　ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|84|853|<span class="rank-name-pd">0027_3109</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|84|853|<span class="rank-name-pd">こーいちろう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|86|852|<span class="rank-name-pd">麗</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78323?s_seq=78323">二代目　ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|87|851|<span class="rank-name-dl">Jin@無所属</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|88|850|<span class="rank-name-dl">麗</span>|<a href="https://search.dartslive.com/jp/shop/3d628138ddc25d9225d56fb0e5c39bac">三代目ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|89|849|<span class="rank-name-dl">虎の子</span>|<a href="https://search.dartslive.com/jp/shop/defb0876ab0e8bd3fec1ae84bb28bd87">JOYJOY東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|90|848|<span class="rank-name-dl">REVO☆N9A</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|91|845|<span class="rank-name-dl">諭吉@マンクラTV</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|92|844|<span class="rank-name-dl">Shima</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|92|844|<span class="rank-name-dl">ゆき＠Noa</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|94|842|<span class="rank-name-dl">かわぞう</span>|<a href="https://search.dartslive.com/jp/shop/defb0876ab0e8bd3fec1ae84bb28bd87">JOYJOY東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|94|842|<span class="rank-name-dl">波野 イクラ</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|96|840|<span class="rank-name-pd">NZO------</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama　De　Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|97|839|<span class="rank-name-dl">Kuma</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|97|839|<span class="rank-name-dl">のりと</span>|<a href="https://search.dartslive.com/jp/shop/3d628138ddc25d9225d56fb0e5c39bac">三代目ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|97|839|<span class="rank-name-dl">やまじゅう</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|100|838|<span class="rank-name-pd">Cassano</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7507?s_seq=7507">JOYJOY 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -132,106 +132,106 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1127|<span class="rank-name-dl">ゆーま(UMA)</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|2|1061|<span class="rank-name-dl">らぷんつぇる</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|3|1025|<span class="rank-name-dl">ko-kun☆</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|4|1004|<span class="rank-name-dl">Sweetさん</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|5|1003|<span class="rank-name-dl">yuya【perfect】</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|6|985|<span class="rank-name-dl">おぐりん</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|7|983|<span class="rank-name-dl">麗</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|8|975|<span class="rank-name-dl">アリエッティ</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|9|958|<span class="rank-name-dl">ゆうま</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|10|927|<span class="rank-name-dl">hiroto</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|11|922|<span class="rank-name-dl">こぅ。</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|12|908|<span class="rank-name-dl">funa</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|13|899|<span class="rank-name-dl">TAKUtaku</span>|<a href="https://search.dartslive.com/jp/shop/3d628138ddc25d9225d56fb0e5c39bac">三代目ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|14|890|<span class="rank-name-dl">でーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|15|887|<span class="rank-name-dl">ｱﾀｵｶﾗﾌﾞﾘｰﾁｬﾝ</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|16|866|<span class="rank-name-dl">丸田和樹</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|17|864|<span class="rank-name-dl">ゴリラ</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|18|862|<span class="rank-name-dl">Y.M.Revolution</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|19|861|<span class="rank-name-dl">ゅ～～ま</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|20|855|<span class="rank-name-dl">Ke-Yo</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|21|851|<span class="rank-name-dl">Jin@無所属</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|22|850|<span class="rank-name-dl">麗</span>|<a href="https://search.dartslive.com/jp/shop/3d628138ddc25d9225d56fb0e5c39bac">三代目ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|23|845|<span class="rank-name-dl">諭吉@マンクラTV</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|24|844|<span class="rank-name-dl">Shima</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|24|844|<span class="rank-name-dl">ゆき＠Noa</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|26|842|<span class="rank-name-dl">daRYO</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|26|842|<span class="rank-name-dl">波野 イクラ</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|28|839|<span class="rank-name-dl">のりと</span>|<a href="https://search.dartslive.com/jp/shop/3d628138ddc25d9225d56fb0e5c39bac">三代目ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|29|837|<span class="rank-name-dl">文山龍一</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|30|836|<span class="rank-name-dl">ワッキー</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|31|820|<span class="rank-name-dl">kohei</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|32|817|<span class="rank-name-dl">283</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|32|817|<span class="rank-name-dl">もんち</span>|<a href="https://search.dartslive.com/jp/shop/3d628138ddc25d9225d56fb0e5c39bac">三代目ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|34|814|<span class="rank-name-dl">せきちゃん</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|34|814|<span class="rank-name-dl">諭吉@マンクラTV</span>|<a href="https://search.dartslive.com/jp/shop/3d628138ddc25d9225d56fb0e5c39bac">三代目ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|36|813|<span class="rank-name-dl">H∧Lと</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|37|812|<span class="rank-name-dl">もんち</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|38|809|<span class="rank-name-dl">ふるちゃん</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|39|806|<span class="rank-name-dl">SAWADA-E</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|40|801|<span class="rank-name-dl">Ken&#x27;z</span>|<a href="https://search.dartslive.com/jp/shop/3d628138ddc25d9225d56fb0e5c39bac">三代目ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|41|792|<span class="rank-name-dl">れん</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|42|788|<span class="rank-name-dl">鬼脚134</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|43|785|<span class="rank-name-dl">みぃクン</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|44|780|<span class="rank-name-dl">けー</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|45|771|<span class="rank-name-dl">Jin@無所属</span>|<a href="https://search.dartslive.com/jp/shop/3d628138ddc25d9225d56fb0e5c39bac">三代目ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|46|769|<span class="rank-name-dl">Kuma</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|47|762|<span class="rank-name-dl">諭吉@マンクラTV</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|48|761|<span class="rank-name-dl">ひなたパパ</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|49|760|<span class="rank-name-dl">波野 イクラ</span>|<a href="https://search.dartslive.com/jp/shop/3d628138ddc25d9225d56fb0e5c39bac">三代目ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|50|748|<span class="rank-name-dl">RAI</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|51|745|<span class="rank-name-dl">徹底先行134</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|52|743|<span class="rank-name-dl">gatu#</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|53|739|<span class="rank-name-dl">たろうさん</span>|<a href="https://search.dartslive.com/jp/shop/3d628138ddc25d9225d56fb0e5c39bac">三代目ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|54|738|<span class="rank-name-dl">でーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|55|736|<span class="rank-name-dl">takahiro</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|55|736|<span class="rank-name-dl">セパ練習用</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|57|734|<span class="rank-name-dl">ともぞうさん</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|58|726|<span class="rank-name-dl">ｷｭｱゆうし大好き</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|59|724|<span class="rank-name-dl">BULLお</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|60|720|<span class="rank-name-dl">さわださん</span>|<a href="https://search.dartslive.com/jp/shop/3d628138ddc25d9225d56fb0e5c39bac">三代目ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|61|717|<span class="rank-name-dl">Ke-Yo</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|62|713|<span class="rank-name-dl">りう</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|63|706|<span class="rank-name-dl">TAIYO</span>|<a href="https://search.dartslive.com/jp/shop/3d628138ddc25d9225d56fb0e5c39bac">三代目ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|64|703|<span class="rank-name-dl">ラリ丸</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|65|697|<span class="rank-name-dl">SAWADA-E</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|65|697|<span class="rank-name-dl">ハルカンパニー</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|67|691|<span class="rank-name-dl">Yoshimitsu</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|67|691|<span class="rank-name-dl">えぬZOOO</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|67|691|<span class="rank-name-dl">きよ</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|70|690|<span class="rank-name-dl">でーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/3d628138ddc25d9225d56fb0e5c39bac">三代目ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|71|683|<span class="rank-name-dl">kenz</span>|<a href="https://search.dartslive.com/jp/shop/3d628138ddc25d9225d56fb0e5c39bac">三代目ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|72|678|<span class="rank-name-dl">おおさわ</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|72|678|<span class="rank-name-dl">しんせつ侍</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|74|673|<span class="rank-name-dl">しょう</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|75|672|<span class="rank-name-dl">ともやん</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|76|669|<span class="rank-name-dl">TOMOZO</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|77|668|<span class="rank-name-dl">おかにゃん</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|78|666|<span class="rank-name-dl">チアキチ</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|79|665|<span class="rank-name-dl">tksg</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|80|661|<span class="rank-name-dl">T4K4H4SH1</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|81|657|<span class="rank-name-dl">RYUNOSUKE</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|82|656|<span class="rank-name-dl">またたび</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|83|649|<span class="rank-name-dl">(ｺﾞ&#x27;·ω ·`ﾘ)丿</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|84|647|<span class="rank-name-dl">新庄卍上里の下僕</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|85|644|<span class="rank-name-dl">ゆうま</span>|<a href="https://search.dartslive.com/jp/shop/3d628138ddc25d9225d56fb0e5c39bac">三代目ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|86|642|<span class="rank-name-dl">サブカンパニー</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|87|641|<span class="rank-name-dl">ひろサブ</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|88|631|<span class="rank-name-dl">Ke-Yo</span>|<a href="https://search.dartslive.com/jp/shop/3d628138ddc25d9225d56fb0e5c39bac">三代目ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|89|627|<span class="rank-name-dl">みぃクン</span>|<a href="https://search.dartslive.com/jp/shop/3d628138ddc25d9225d56fb0e5c39bac">三代目ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|90|614|<span class="rank-name-dl">おそら</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|91|611|<span class="rank-name-dl">ゴロー蛇骨山</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|92|603|<span class="rank-name-dl">おかにゃん</span>|<a href="https://search.dartslive.com/jp/shop/3d628138ddc25d9225d56fb0e5c39bac">三代目ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|92|603|<span class="rank-name-dl">はるちまる</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|94|591|<span class="rank-name-dl">けんたろー</span>|<a href="https://search.dartslive.com/jp/shop/3d628138ddc25d9225d56fb0e5c39bac">三代目ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|95|573|<span class="rank-name-dl">修</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|95|573|<span class="rank-name-dl">極悪</span>|<a href="https://search.dartslive.com/jp/shop/3d628138ddc25d9225d56fb0e5c39bac">三代目ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|97|571|<span class="rank-name-dl">※おこめ※</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|98|563|<span class="rank-name-dl">小吉@スイッチON</span>|<a href="https://search.dartslive.com/jp/shop/3d628138ddc25d9225d56fb0e5c39bac">三代目ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|99|557|<span class="rank-name-dl">カワキヨ</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|100|554|<span class="rank-name-dl">nomaru</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|1|1139|<span class="rank-name-dl">Metalist</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|2|1127|<span class="rank-name-dl">ゆーま(UMA)</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|3|1089|<span class="rank-name-dl">ko-kun☆</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|4|1061|<span class="rank-name-dl">らぷんつぇる</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|5|1041|<span class="rank-name-dl">ko-kun★★</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|6|1015|<span class="rank-name-dl">けいた</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|7|1004|<span class="rank-name-dl">Sweetさん</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|8|1003|<span class="rank-name-dl">yuya【perfect】</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|9|1002|<span class="rank-name-dl">yuya【perfect】</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">DAMA DE NOCHE</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|9|1002|<span class="rank-name-dl">よすち</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|11|985|<span class="rank-name-dl">おぐりん</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|12|983|<span class="rank-name-dl">NAOYA</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|12|983|<span class="rank-name-dl">麗</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|14|978|<span class="rank-name-dl">おそのん</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|15|975|<span class="rank-name-dl">アリエッティ</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|16|972|<span class="rank-name-dl">じんつぃん@Tink</span>|<a href="https://search.dartslive.com/jp/shop/defb0876ab0e8bd3fec1ae84bb28bd87">JOYJOY東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|17|969|<span class="rank-name-dl">塙 尚 紘</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|18|968|<span class="rank-name-dl">REVO☆N9A</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">DAMA DE NOCHE</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|19|967|<span class="rank-name-dl">Ryo</span>|<a href="https://search.dartslive.com/jp/shop/defb0876ab0e8bd3fec1ae84bb28bd87">JOYJOY東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|20|965|<span class="rank-name-dl">NO NAME 9719</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|20|965|<span class="rank-name-dl">せきちゃん</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|22|958|<span class="rank-name-dl">ゆうま</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|23|955|<span class="rank-name-dl">Jin</span>|<a href="https://search.dartslive.com/jp/shop/defb0876ab0e8bd3fec1ae84bb28bd87">JOYJOY東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|24|941|<span class="rank-name-dl">でーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">DAMA DE NOCHE</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|25|938|<span class="rank-name-dl">ko-kun★</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|25|938|<span class="rank-name-dl">minato ROGUE</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|27|936|<span class="rank-name-dl">yuduuu</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">DAMA DE NOCHE</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|28|935|<span class="rank-name-dl">ゆうま</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">DAMA DE NOCHE</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|29|932|<span class="rank-name-dl">ミカクニン</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|30|927|<span class="rank-name-dl">hiroto</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|31|924|<span class="rank-name-dl">ゅ～～ま</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|32|923|<span class="rank-name-dl">Ryo</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">DAMA DE NOCHE</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|33|922|<span class="rank-name-dl">こぅ。</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|34|908|<span class="rank-name-dl">funa</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|35|907|<span class="rank-name-dl">daRYO</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|36|904|<span class="rank-name-dl">あ</span>|<a href="https://search.dartslive.com/jp/shop/defb0876ab0e8bd3fec1ae84bb28bd87">JOYJOY東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|37|902|<span class="rank-name-dl">元祖酔拳408店長</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">DAMA DE NOCHE</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|38|901|<span class="rank-name-dl">こぅ。</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">DAMA DE NOCHE</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|38|901|<span class="rank-name-dl">望月 芳和</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">DAMA DE NOCHE</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|40|899|<span class="rank-name-dl">TAKUtaku</span>|<a href="https://search.dartslive.com/jp/shop/3d628138ddc25d9225d56fb0e5c39bac">三代目ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|41|894|<span class="rank-name-dl">ホッシー</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|42|890|<span class="rank-name-dl">でーちゃん</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|43|889|<span class="rank-name-dl">うぃずのくまさん</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|44|887|<span class="rank-name-dl">ｱﾀｵｶﾗﾌﾞﾘｰﾁｬﾝ</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|45|885|<span class="rank-name-dl">たつ兄@Noa</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|46|884|<span class="rank-name-dl">KOH</span>|<a href="https://search.dartslive.com/jp/shop/defb0876ab0e8bd3fec1ae84bb28bd87">JOYJOY東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|47|878|<span class="rank-name-dl">空也翔</span>|<a href="https://search.dartslive.com/jp/shop/defb0876ab0e8bd3fec1ae84bb28bd87">JOYJOY東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|48|877|<span class="rank-name-dl">Sumika</span>|<a href="https://search.dartslive.com/jp/shop/defb0876ab0e8bd3fec1ae84bb28bd87">JOYJOY東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|49|874|<span class="rank-name-dl">くま兄</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|50|867|<span class="rank-name-dl">ゆうま</span>|<a href="https://search.dartslive.com/jp/shop/defb0876ab0e8bd3fec1ae84bb28bd87">JOYJOY東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|50|867|<span class="rank-name-dl">れん</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|52|866|<span class="rank-name-dl">丸田和樹</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|53|865|<span class="rank-name-dl">ゆうま</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|54|864|<span class="rank-name-dl">ゴリラ</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|55|863|<span class="rank-name-dl">minatori</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|56|862|<span class="rank-name-dl">Y.M.Revolution</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|57|858|<span class="rank-name-dl">Yoshimitsu</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|58|857|<span class="rank-name-dl">Yukiko☆STRATO</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">DAMA DE NOCHE</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|59|855|<span class="rank-name-dl">B</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|59|855|<span class="rank-name-dl">Ke-Yo</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|61|851|<span class="rank-name-dl">Jin@無所属</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|62|850|<span class="rank-name-dl">麗</span>|<a href="https://search.dartslive.com/jp/shop/3d628138ddc25d9225d56fb0e5c39bac">三代目ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|63|849|<span class="rank-name-dl">虎の子</span>|<a href="https://search.dartslive.com/jp/shop/defb0876ab0e8bd3fec1ae84bb28bd87">JOYJOY東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|64|848|<span class="rank-name-dl">REVO☆N9A</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|65|845|<span class="rank-name-dl">諭吉@マンクラTV</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|66|844|<span class="rank-name-dl">Shima</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|66|844|<span class="rank-name-dl">ゆき＠Noa</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|68|842|<span class="rank-name-dl">かわぞう</span>|<a href="https://search.dartslive.com/jp/shop/defb0876ab0e8bd3fec1ae84bb28bd87">JOYJOY東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|68|842|<span class="rank-name-dl">波野 イクラ</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|70|839|<span class="rank-name-dl">Kuma</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|70|839|<span class="rank-name-dl">のりと</span>|<a href="https://search.dartslive.com/jp/shop/3d628138ddc25d9225d56fb0e5c39bac">三代目ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|70|839|<span class="rank-name-dl">やまじゅう</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|73|838|<span class="rank-name-dl">のりと@Noa</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|74|837|<span class="rank-name-dl">文山龍一</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|74|837|<span class="rank-name-dl">ｽｷﾞﾀﾞﾑ@北京ﾀﾞｯｸ</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|76|836|<span class="rank-name-dl">ワッキー</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|77|834|<span class="rank-name-dl">R</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|77|834|<span class="rank-name-dl">ゆっきー/ななち</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">DAMA DE NOCHE</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|79|833|<span class="rank-name-dl">もっち</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|80|830|<span class="rank-name-dl">極悪</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|81|820|<span class="rank-name-dl">kohei</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|82|817|<span class="rank-name-dl">283</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|82|817|<span class="rank-name-dl">もんち</span>|<a href="https://search.dartslive.com/jp/shop/3d628138ddc25d9225d56fb0e5c39bac">三代目ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|84|816|<span class="rank-name-dl">KOH</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|85|814|<span class="rank-name-dl">諭吉@マンクラTV</span>|<a href="https://search.dartslive.com/jp/shop/3d628138ddc25d9225d56fb0e5c39bac">三代目ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|86|813|<span class="rank-name-dl">708</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|86|813|<span class="rank-name-dl">H∧Lと</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|88|812|<span class="rank-name-dl">もんち</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|89|811|<span class="rank-name-dl">ﾜﾝﾊﾝﾄﾞﾚｯﾄﾞｴｲﾃｨ</span>|<a href="https://search.dartslive.com/jp/shop/defb0876ab0e8bd3fec1ae84bb28bd87">JOYJOY東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|90|809|<span class="rank-name-dl">ともぞうさん</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|90|809|<span class="rank-name-dl">ふるちゃん</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|92|806|<span class="rank-name-dl">SAWADA-E</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|93|805|<span class="rank-name-dl">りう</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|94|803|<span class="rank-name-dl">minami</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|94|803|<span class="rank-name-dl">ワッキー</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|96|801|<span class="rank-name-dl">Ken&#x27;z</span>|<a href="https://search.dartslive.com/jp/shop/3d628138ddc25d9225d56fb0e5c39bac">三代目ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|97|795|<span class="rank-name-dl">おちゃ</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|98|792|<span class="rank-name-dl">SAWADA-E@Macan</span>|<a href="https://search.dartslive.com/jp/shop/245e649f08ddbe960d9b047a20a7ba1e">カラオケ&ダーツ Bar Noa</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|99|791|<span class="rank-name-dl">ゴリラ</span>|<a href="https://search.dartslive.com/jp/shop/6911cf3adf3dce3d0d9b047a20a7ba1e">DAMA DE NOCHE</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|100|789|<span class="rank-name-dl">事故てっつぁ</span>|<a href="https://search.dartslive.com/jp/shop/f054b6b27cec6afe5f9f3321c1147265">カラオケ ジョイジョイ 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
 
 
 #### PHOENIXDARTS TOP 100
@@ -241,106 +241,106 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1053|<span class="rank-name-pd">よっしー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78323?s_seq=78323">二代目　ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|2|948|<span class="rank-name-pd">らぷんつぇる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7507?s_seq=7507">JOYJOY 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|3|944|<span class="rank-name-pd">中村由喜子</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama　De　Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|4|904|<span class="rank-name-pd">Y.M.Revolution</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7507?s_seq=7507">JOYJOY 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|5|897|<span class="rank-name-pd">こぅ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|6|894|<span class="rank-name-pd">an･an</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78323?s_seq=78323">二代目　ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|7|863|<span class="rank-name-pd">小林 憲之</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama　De　Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|8|862|<span class="rank-name-pd"><span class="pro-icon-pd"></span>中村 由喜子</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|9|854|<span class="rank-name-pd">ken.z</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78323?s_seq=78323">二代目　ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|10|853|<span class="rank-name-pd">0027_3109</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|11|852|<span class="rank-name-pd">麗</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78323?s_seq=78323">二代目　ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|12|840|<span class="rank-name-pd">NZO------</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama　De　Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|13|838|<span class="rank-name-pd">瀨井 一</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|14|833|<span class="rank-name-pd">中村　章②</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama　De　Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|15|828|<span class="rank-name-pd">のりと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78323?s_seq=78323">二代目　ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|16|813|<span class="rank-name-pd">カッサーノ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|17|808|<span class="rank-name-pd">ふるちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7507?s_seq=7507">JOYJOY 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|18|806|<span class="rank-name-pd">波野ノリスケ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|19|794|<span class="rank-name-pd">けんたろー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78323?s_seq=78323">二代目　ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|20|791|<span class="rank-name-pd">猿-ENMA-魔[Ｚ]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|21|788|<span class="rank-name-pd">神の子ゆーま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78323?s_seq=78323">二代目　ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|22|783|<span class="rank-name-pd">吉元 良輝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama　De　Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|23|775|<span class="rank-name-pd">山田 モン太郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78323?s_seq=78323">二代目　ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|24|755|<span class="rank-name-pd">Peko</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama　De　Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|25|748|<span class="rank-name-pd">kazumax.v</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7507?s_seq=7507">JOYJOY 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|26|745|<span class="rank-name-pd">ARUKIDASUKUMA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|27|744|<span class="rank-name-pd">ゆちゃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|28|734|<span class="rank-name-pd">ただのたかぎ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|29|727|<span class="rank-name-pd">56蛇骨山？</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|29|727|<span class="rank-name-pd">あべかわもち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|31|723|<span class="rank-name-pd">もかパパ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|32|721|<span class="rank-name-pd">ラリ丸</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|33|717|<span class="rank-name-pd">かずたん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|34|715|<span class="rank-name-pd">yeah</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|35|712|<span class="rank-name-pd">もか犬</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|36|711|<span class="rank-name-pd">しんせつ侍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama　De　Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|36|711|<span class="rank-name-pd">文山 龍一</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|38|709|<span class="rank-name-pd">くろかつ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|38|709|<span class="rank-name-pd">けんたろー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|40|707|<span class="rank-name-pd">NA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|40|707|<span class="rank-name-pd">かいと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|42|696|<span class="rank-name-pd">たいよう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78323?s_seq=78323">二代目　ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|43|681|<span class="rank-name-pd">月】RYOGA【姫</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7507?s_seq=7507">JOYJOY 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|44|678|<span class="rank-name-pd">gatu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|45|651|<span class="rank-name-pd">★えんひろ★</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|46|646|<span class="rank-name-pd">けんたろー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|47|642|<span class="rank-name-pd">こーちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|48|640|<span class="rank-name-pd">TAKUtaku</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78323?s_seq=78323">二代目　ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|48|640|<span class="rank-name-pd">セパ練習用</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama　De　Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|50|637|<span class="rank-name-pd">ちあき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7507?s_seq=7507">JOYJOY 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|51|636|<span class="rank-name-pd">修＠Knockin&#x27; on heaven&#x27;s</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama　De　Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|52|635|<span class="rank-name-pd">にょー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|53|634|<span class="rank-name-pd">神野 圭祐</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|54|630|<span class="rank-name-pd">sho</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7507?s_seq=7507">JOYJOY 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|55|627|<span class="rank-name-pd">takahriro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7507?s_seq=7507">JOYJOY 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|56|623|<span class="rank-name-pd">56蛇骨山？</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama　De　Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|57|622|<span class="rank-name-pd">みっ！？</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78323?s_seq=78323">二代目　ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|58|621|<span class="rank-name-pd">Sweetさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|59|618|<span class="rank-name-pd">デスラビット🐰Pleasure</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|60|614|<span class="rank-name-pd">Peko</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78323?s_seq=78323">二代目　ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|60|614|<span class="rank-name-pd">ひさぴ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|62|612|<span class="rank-name-pd">❀いのっち❀</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama　De　Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|63|610|<span class="rank-name-pd">こぅ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama　De　Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|64|606|<span class="rank-name-pd">ぽっぷろっく</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78323?s_seq=78323">二代目　ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|65|599|<span class="rank-name-pd">悪逆無道</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|66|596|<span class="rank-name-pd">たいよう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7507?s_seq=7507">JOYJOY 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|67|594|<span class="rank-name-pd">ありさ@</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78323?s_seq=78323">二代目　ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|68|593|<span class="rank-name-pd">SAWADA-E</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama　De　Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|68|593|<span class="rank-name-pd">gatu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama　De　Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|70|592|<span class="rank-name-pd">カッサーノ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|71|591|<span class="rank-name-pd">めいめい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7507?s_seq=7507">JOYJOY 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|72|583|<span class="rank-name-pd">Do-H</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7507?s_seq=7507">JOYJOY 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|72|583|<span class="rank-name-pd">RYU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama　De　Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|72|583|<span class="rank-name-pd">波野イクラ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78323?s_seq=78323">二代目　ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|75|580|<span class="rank-name-pd">0226_3698</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|76|578|<span class="rank-name-pd">TrickyTAK</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76511?s_seq=76511">LUCE STYLISH&DARTS BAR</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|77|576|<span class="rank-name-pd">Ryu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|77|576|<span class="rank-name-pd">ポチョムキン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|79|574|<span class="rank-name-pd">T4K4H4SH1</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|79|574|<span class="rank-name-pd">たいち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7507?s_seq=7507">JOYJOY 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|81|570|<span class="rank-name-pd">トムハンク</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama　De　Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|82|569|<span class="rank-name-pd">akogarekazura</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7507?s_seq=7507">JOYJOY 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|83|568|<span class="rank-name-pd">0144_1124</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama　De　Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|84|565|<span class="rank-name-pd">愉快さん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|85|562|<span class="rank-name-pd">たくちぁん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|86|561|<span class="rank-name-pd">☆たかし☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|86|561|<span class="rank-name-pd">ずーやん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|88|559|<span class="rank-name-pd">ゆーの</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|89|554|<span class="rank-name-pd">zjtx37ee86ccca</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7507?s_seq=7507">JOYJOY 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|90|552|<span class="rank-name-pd">☆ひろよん☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|91|550|<span class="rank-name-pd">こったん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78323?s_seq=78323">二代目　ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|91|550|<span class="rank-name-pd">めいめい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|93|549|<span class="rank-name-pd">MASAAKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7507?s_seq=7507">JOYJOY 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|94|542|<span class="rank-name-pd">あやか</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|95|541|<span class="rank-name-pd">Ryu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7507?s_seq=7507">JOYJOY 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|95|541|<span class="rank-name-pd">なちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama　De　Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|97|538|<span class="rank-name-pd">たいよう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|97|538|<span class="rank-name-pd">修＠SSS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama　De　Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|99|536|<span class="rank-name-pd">banbee</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7507?s_seq=7507">JOYJOY 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
-|100|534|<span class="rank-name-pd">しんせつ侍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|1|1168|<span class="rank-name-pd">Take</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|2|1053|<span class="rank-name-pd">よっしー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78323?s_seq=78323">二代目　ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|3|969|<span class="rank-name-pd">ラリ丸</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|4|963|<span class="rank-name-pd">T STYLE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7507?s_seq=7507">JOYJOY 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|5|958|<span class="rank-name-pd"><span class="pro-icon-pd"></span>野月平 侑也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|6|948|<span class="rank-name-pd">らぷんつぇる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7507?s_seq=7507">JOYJOY 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|7|945|<span class="rank-name-pd">こぅ。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|8|944|<span class="rank-name-pd">中村由喜子</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama　De　Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|9|924|<span class="rank-name-pd"><span class="pro-icon-pd"></span>中村 由喜子</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|10|920|<span class="rank-name-pd">ゆかりのろくよん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|11|909|<span class="rank-name-pd">しんや　7年ぶりのリーグ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|12|908|<span class="rank-name-pd">わん はんどれっど えいてぃー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_93905?s_seq=93905">JOYJOY 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|13|904|<span class="rank-name-pd">Y.M.Revolution</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7507?s_seq=7507">JOYJOY 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|14|900|<span class="rank-name-pd"><span class="pro-icon-pd"></span>下浜 晃</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7507?s_seq=7507">JOYJOY 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|14|900|<span class="rank-name-pd">山田 モン太郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78323?s_seq=78323">二代目　ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|16|897|<span class="rank-name-pd">こぅ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|17|894|<span class="rank-name-pd">an･an</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78323?s_seq=78323">二代目　ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|18|885|<span class="rank-name-pd">darts</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|18|885|<span class="rank-name-pd">ダーツ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|20|879|<span class="rank-name-pd">(ｺﾞ´･ω･`ﾘ)ﾉ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7507?s_seq=7507">JOYJOY 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|21|871|<span class="rank-name-pd">♬せきちゃん♬</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|22|870|<span class="rank-name-pd">カワキヨ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|23|863|<span class="rank-name-pd">小林 憲之</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama　De　Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|24|854|<span class="rank-name-pd">ken.z</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78323?s_seq=78323">二代目　ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|25|853|<span class="rank-name-pd">0027_3109</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|25|853|<span class="rank-name-pd">こーいちろう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|27|852|<span class="rank-name-pd">麗</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78323?s_seq=78323">二代目　ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|28|840|<span class="rank-name-pd">NZO------</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama　De　Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|29|838|<span class="rank-name-pd">Cassano</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7507?s_seq=7507">JOYJOY 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|29|838|<span class="rank-name-pd">瀨井 一</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|31|833|<span class="rank-name-pd">中村　章②</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama　De　Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|32|830|<span class="rank-name-pd">おその</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7507?s_seq=7507">JOYJOY 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|33|828|<span class="rank-name-pd">のりと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78323?s_seq=78323">二代目　ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|34|827|<span class="rank-name-pd">T.O.R☆Air Grow</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_93905?s_seq=93905">JOYJOY 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|34|827|<span class="rank-name-pd">波野イクラ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|36|825|<span class="rank-name-pd">のいㄘゃま‪☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|37|813|<span class="rank-name-pd">カッサーノ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|38|808|<span class="rank-name-pd">ふるちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7507?s_seq=7507">JOYJOY 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|38|808|<span class="rank-name-pd">ネムスン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|40|806|<span class="rank-name-pd">波野ノリスケ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|41|798|<span class="rank-name-pd">TAKUtaku</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78323?s_seq=78323">二代目　ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|42|796|<span class="rank-name-pd">神の子ゆーま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|43|794|<span class="rank-name-pd">けんたろー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78323?s_seq=78323">二代目　ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|44|791|<span class="rank-name-pd">猿-ENMA-魔[Ｚ]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|45|790|<span class="rank-name-pd">0030_9828</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|46|788|<span class="rank-name-pd">神の子ゆーま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78323?s_seq=78323">二代目　ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|47|787|<span class="rank-name-pd"><span class="pro-icon-pd"></span>中村 由喜子</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_93905?s_seq=93905">JOYJOY 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|48|784|<span class="rank-name-pd">Jin</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_93905?s_seq=93905">JOYJOY 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|49|783|<span class="rank-name-pd">吉元 良輝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama　De　Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|49|783|<span class="rank-name-pd">神の子ゆーま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_93905?s_seq=93905">JOYJOY 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|51|777|<span class="rank-name-pd">たぁだ@バレット</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|52|773|<span class="rank-name-pd">神の子ゆーま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7507?s_seq=7507">JOYJOY 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|53|771|<span class="rank-name-pd">山-.-猟</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|54|768|<span class="rank-name-pd">cocohyu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|55|763|<span class="rank-name-pd">愛犬家</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7507?s_seq=7507">JOYJOY 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|56|762|<span class="rank-name-pd">KOH</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_93905?s_seq=93905">JOYJOY 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|57|755|<span class="rank-name-pd">Peko</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama　De　Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|58|751|<span class="rank-name-pd">zf4m38057c5a37</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|59|748|<span class="rank-name-pd">kazumax.v</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7507?s_seq=7507">JOYJOY 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|60|746|<span class="rank-name-pd">かわぞう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7507?s_seq=7507">JOYJOY 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|61|745|<span class="rank-name-pd">ARUKIDASUKUMA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|62|744|<span class="rank-name-pd">ゆちゃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|63|743|<span class="rank-name-pd">こーちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7507?s_seq=7507">JOYJOY 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|64|737|<span class="rank-name-pd">シュミテクト</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7507?s_seq=7507">JOYJOY 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|65|736|<span class="rank-name-pd">0338-9839</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|66|734|<span class="rank-name-pd">ただのたかぎ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|67|727|<span class="rank-name-pd">56蛇骨山？</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|67|727|<span class="rank-name-pd">あべかわもち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|69|725|<span class="rank-name-pd">toshiki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7507?s_seq=7507">JOYJOY 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|70|723|<span class="rank-name-pd">いっくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|70|723|<span class="rank-name-pd">もかパパ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|72|722|<span class="rank-name-pd">りゅーと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|73|717|<span class="rank-name-pd">かずたん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|74|716|<span class="rank-name-pd">阿部　海斗</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|75|715|<span class="rank-name-pd">yeah</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|76|714|<span class="rank-name-pd">堀出 紘史</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|77|713|<span class="rank-name-pd">スウ☆彡</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|78|712|<span class="rank-name-pd">Ryo</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|78|712|<span class="rank-name-pd">もか犬</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|80|711|<span class="rank-name-pd">しんせつ侍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama　De　Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|80|711|<span class="rank-name-pd">文山 龍一</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|82|709|<span class="rank-name-pd">くろかつ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|82|709|<span class="rank-name-pd">けんたろー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|84|707|<span class="rank-name-pd">NA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|84|707|<span class="rank-name-pd">かいと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|86|705|<span class="rank-name-pd">こーちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|87|704|<span class="rank-name-pd">かわぞう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_93905?s_seq=93905">JOYJOY 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|88|700|<span class="rank-name-pd">takahriro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7507?s_seq=7507">JOYJOY 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|89|698|<span class="rank-name-pd">＊＊＊＊＊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|90|697|<span class="rank-name-pd">RAI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7507?s_seq=7507">JOYJOY 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|90|697|<span class="rank-name-pd">ぐっちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|92|696|<span class="rank-name-pd">☆たかし☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7507?s_seq=7507">JOYJOY 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|92|696|<span class="rank-name-pd">たいよう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78323?s_seq=78323">二代目　ちゃ銀</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|94|693|<span class="rank-name-pd">大介</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|95|692|<span class="rank-name-pd">月】RYOGA【姫</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7507?s_seq=7507">JOYJOY 東海富木島店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|96|691|<span class="rank-name-pd">ひーちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|97|689|<span class="rank-name-pd">★えんひろ★</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|98|688|<span class="rank-name-pd">Ryo∞りょう∞亮05410</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_55867?s_seq=55867">亜熱帯 東海名和店</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|98|688|<span class="rank-name-pd">しんせつ侍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
+|100|685|<span class="rank-name-pd">しおぱん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89949?s_seq=89949">Dama De Noche</a>|<a href="/darts/rank/愛知県/東海市">愛知県東海市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

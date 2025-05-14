@@ -23,36 +23,54 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|794|<span class="rank-name-dl">メガネ超近視</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
-|2|790|<span class="rank-name-dl">Bouzu</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
-|3|769|<span class="rank-name-dl">∈こばやん∋仙蜂</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
-|4|761|<span class="rank-name-dl">たべっ子どうぶつ</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
-|5|684|<span class="rank-name-dl">Ｊ</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
-|6|683|<span class="rank-name-dl">Satou</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
-|7|646|<span class="rank-name-dl">雇われ</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
-|8|629|<span class="rank-name-dl">TOKIO</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
-|8|629|<span class="rank-name-dl">メガネ サブ</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
-|10|621|<span class="rank-name-dl">Yu-ki</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
-|11|620|<span class="rank-name-dl">snufkin</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
-|12|616|<span class="rank-name-dl">NO NAME 2310</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
-|13|591|<span class="rank-name-dl">YOS</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
-|14|588|<span class="rank-name-dl">HJ2</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
-|15|579|<span class="rank-name-dl">いちご</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
-|16|548|<span class="rank-name-dl">ken ken</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
-|17|535|<span class="rank-name-dl">TAROTARO</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
-|18|524|<span class="rank-name-dl">yog</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
-|19|519|<span class="rank-name-dl">ツキ</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
-|20|515|<span class="rank-name-dl">numa</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
-|21|509|<span class="rank-name-dl">たつろ</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
-|22|508|<span class="rank-name-dl">MOKA-4</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
-|23|507|<span class="rank-name-dl">T-DA</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
-|24|499|<span class="rank-name-dl">谢谢郎</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
-|25|437|<span class="rank-name-dl">jinmin</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
-|26|425|<span class="rank-name-dl">TAKKA@</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
-|27|389|<span class="rank-name-dl">ココタク</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
-|28|378|<span class="rank-name-dl">Miya</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
-|29|290|<span class="rank-name-dl">かねま</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
-|30|288|<span class="rank-name-dl">SugaR</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|1|908|<span class="rank-name-dl">ぱぱねこ</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|2|794|<span class="rank-name-dl">メガネ超近視</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|3|790|<span class="rank-name-dl">Bouzu</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|4|769|<span class="rank-name-dl">∈こばやん∋仙蜂</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|5|761|<span class="rank-name-dl">たべっ子どうぶつ</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|6|684|<span class="rank-name-dl">Ｊ</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|7|683|<span class="rank-name-dl">Satou</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|8|666|<span class="rank-name-dl">T120先輩</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|9|650|<span class="rank-name-dl">あきちゃ</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|10|646|<span class="rank-name-dl">雇われ</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|11|640|<span class="rank-name-dl">裕いっつぁん</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|12|629|<span class="rank-name-dl">TOKIO</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|12|629|<span class="rank-name-dl">メガネ サブ</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|14|621|<span class="rank-name-dl">Yu-ki</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|15|620|<span class="rank-name-dl">snufkin</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|16|616|<span class="rank-name-dl">NO NAME 2310</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|17|596|<span class="rank-name-dl">ken ken</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|18|591|<span class="rank-name-dl">104(ノ´∀｀*)</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|18|591|<span class="rank-name-dl">YOS</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|20|588|<span class="rank-name-dl">HJ2</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|21|581|<span class="rank-name-dl">いちご</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|22|575|<span class="rank-name-dl">かっぱ</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|23|559|<span class="rank-name-dl">たけのこニョッキ</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|24|557|<span class="rank-name-dl">櫻井　勇樹</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|25|556|<span class="rank-name-dl">yog</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|26|546|<span class="rank-name-dl">ひろき一味</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|27|535|<span class="rank-name-dl">TAROTARO</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|28|523|<span class="rank-name-dl">KISARAGI</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|29|521|<span class="rank-name-dl">マコテイラー</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|30|519|<span class="rank-name-dl">ツキ</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|31|517|<span class="rank-name-dl">裕いっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|32|515|<span class="rank-name-dl">numa</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|33|513|<span class="rank-name-dl">かにみそ</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|34|509|<span class="rank-name-dl">たつろ</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|35|508|<span class="rank-name-dl">MOKA-4</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|36|507|<span class="rank-name-dl">T-DA</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|37|499|<span class="rank-name-dl">谢谢郎</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|38|449|<span class="rank-name-dl">うっちー</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|39|437|<span class="rank-name-dl">jinmin</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|40|425|<span class="rank-name-dl">TAKKA@</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|41|412|<span class="rank-name-dl">よこっち</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|42|403|<span class="rank-name-dl">MERO</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|43|393|<span class="rank-name-dl">Rojua</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|44|389|<span class="rank-name-dl">ココタク</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|45|378|<span class="rank-name-dl">Miya</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|46|313|<span class="rank-name-dl">KG</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|47|290|<span class="rank-name-dl">かねま</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|48|288|<span class="rank-name-dl">SugaR</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -62,36 +80,54 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|794|<span class="rank-name-dl">メガネ超近視</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
-|2|790|<span class="rank-name-dl">Bouzu</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
-|3|769|<span class="rank-name-dl">∈こばやん∋仙蜂</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
-|4|761|<span class="rank-name-dl">たべっ子どうぶつ</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
-|5|684|<span class="rank-name-dl">Ｊ</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
-|6|683|<span class="rank-name-dl">Satou</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
-|7|646|<span class="rank-name-dl">雇われ</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
-|8|629|<span class="rank-name-dl">TOKIO</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
-|8|629|<span class="rank-name-dl">メガネ サブ</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
-|10|621|<span class="rank-name-dl">Yu-ki</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
-|11|620|<span class="rank-name-dl">snufkin</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
-|12|616|<span class="rank-name-dl">NO NAME 2310</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
-|13|591|<span class="rank-name-dl">YOS</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
-|14|588|<span class="rank-name-dl">HJ2</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
-|15|579|<span class="rank-name-dl">いちご</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
-|16|548|<span class="rank-name-dl">ken ken</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
-|17|535|<span class="rank-name-dl">TAROTARO</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
-|18|524|<span class="rank-name-dl">yog</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
-|19|519|<span class="rank-name-dl">ツキ</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
-|20|515|<span class="rank-name-dl">numa</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
-|21|509|<span class="rank-name-dl">たつろ</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
-|22|508|<span class="rank-name-dl">MOKA-4</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
-|23|507|<span class="rank-name-dl">T-DA</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
-|24|499|<span class="rank-name-dl">谢谢郎</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
-|25|437|<span class="rank-name-dl">jinmin</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
-|26|425|<span class="rank-name-dl">TAKKA@</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
-|27|389|<span class="rank-name-dl">ココタク</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
-|28|378|<span class="rank-name-dl">Miya</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
-|29|290|<span class="rank-name-dl">かねま</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
-|30|288|<span class="rank-name-dl">SugaR</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|1|908|<span class="rank-name-dl">ぱぱねこ</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|2|794|<span class="rank-name-dl">メガネ超近視</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|3|790|<span class="rank-name-dl">Bouzu</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|4|769|<span class="rank-name-dl">∈こばやん∋仙蜂</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|5|761|<span class="rank-name-dl">たべっ子どうぶつ</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|6|684|<span class="rank-name-dl">Ｊ</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|7|683|<span class="rank-name-dl">Satou</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|8|666|<span class="rank-name-dl">T120先輩</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|9|650|<span class="rank-name-dl">あきちゃ</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|10|646|<span class="rank-name-dl">雇われ</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|11|640|<span class="rank-name-dl">裕いっつぁん</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|12|629|<span class="rank-name-dl">TOKIO</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|12|629|<span class="rank-name-dl">メガネ サブ</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|14|621|<span class="rank-name-dl">Yu-ki</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|15|620|<span class="rank-name-dl">snufkin</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|16|616|<span class="rank-name-dl">NO NAME 2310</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|17|596|<span class="rank-name-dl">ken ken</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|18|591|<span class="rank-name-dl">104(ノ´∀｀*)</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|18|591|<span class="rank-name-dl">YOS</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|20|588|<span class="rank-name-dl">HJ2</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|21|581|<span class="rank-name-dl">いちご</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|22|575|<span class="rank-name-dl">かっぱ</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|23|559|<span class="rank-name-dl">たけのこニョッキ</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|24|557|<span class="rank-name-dl">櫻井　勇樹</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|25|556|<span class="rank-name-dl">yog</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|26|546|<span class="rank-name-dl">ひろき一味</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|27|535|<span class="rank-name-dl">TAROTARO</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|28|523|<span class="rank-name-dl">KISARAGI</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|29|521|<span class="rank-name-dl">マコテイラー</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|30|519|<span class="rank-name-dl">ツキ</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|31|517|<span class="rank-name-dl">裕いっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|32|515|<span class="rank-name-dl">numa</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|33|513|<span class="rank-name-dl">かにみそ</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|34|509|<span class="rank-name-dl">たつろ</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|35|508|<span class="rank-name-dl">MOKA-4</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|36|507|<span class="rank-name-dl">T-DA</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|37|499|<span class="rank-name-dl">谢谢郎</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|38|449|<span class="rank-name-dl">うっちー</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|39|437|<span class="rank-name-dl">jinmin</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|40|425|<span class="rank-name-dl">TAKKA@</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|41|412|<span class="rank-name-dl">よこっち</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|42|403|<span class="rank-name-dl">MERO</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|43|393|<span class="rank-name-dl">Rojua</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|44|389|<span class="rank-name-dl">ココタク</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|45|378|<span class="rank-name-dl">Miya</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|46|313|<span class="rank-name-dl">KG</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|47|290|<span class="rank-name-dl">かねま</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
+|48|288|<span class="rank-name-dl">SugaR</span>|<a href="https://search.dartslive.com/jp/shop/6389c2f3322e246d0d9b047a20a7ba1e">自遊時間 富谷店</a>|<a href="/darts/rank/宮城県/富谷市">宮城県富谷市</a>|
 
 
 #### PHOENIXDARTS TOP 100

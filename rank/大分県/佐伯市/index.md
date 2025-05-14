@@ -24,32 +24,52 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|1091|<span class="rank-name-dl">山中 元気</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
-|2|1054|<span class="rank-name-dl">高山 和也</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
-|3|1053|<span class="rank-name-dl">げんき</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
-|4|1015|<span class="rank-name-dl">山中　元気</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
-|5|998|<span class="rank-name-dl">鷹山 遼大</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
-|6|989|<span class="rank-name-dl">北島　三郎</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
-|7|974|<span class="rank-name-dl">田坂　嘉浩</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
-|8|965|<span class="rank-name-dl">TKW ｰ大遊会ｰ</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
-|9|953|<span class="rank-name-dl">山本 譲二</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
-|10|919|<span class="rank-name-dl">左ヒザ　故障中w</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
-|11|907|<span class="rank-name-dl">りょ～</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
-|12|886|<span class="rank-name-dl">NO NAME 3622</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
-|13|881|<span class="rank-name-dl">ペンペン</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
-|14|879|<span class="rank-name-dl">茶々丸</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
-|15|868|<span class="rank-name-dl">NO NAME</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
-|16|851|<span class="rank-name-dl">下町のナポレオン</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
-|17|794|<span class="rank-name-dl">てつ</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
-|17|794|<span class="rank-name-dl">リマ推し　With U</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
-|19|778|<span class="rank-name-dl">zoo</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
-|20|751|<span class="rank-name-dl">優梨</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
-|21|699|<span class="rank-name-dl">風雅.Goodies</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
-|22|682|<span class="rank-name-dl">( ^＿^ )</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
-|23|603|<span class="rank-name-dl">CHI-CO</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
-|24|509|<span class="rank-name-dl">SHOOT</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
-|25|483|<span class="rank-name-dl">おりな</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
-|26|465|<span class="rank-name-dl">えんた</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
-|27|456|<span class="rank-name-dl">海月</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|2|1075|<span class="rank-name-dl">田坂　嘉浩</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|3|1054|<span class="rank-name-dl">高山 和也</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|4|1053|<span class="rank-name-dl">げんき</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|5|1015|<span class="rank-name-dl">山中　元気</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|6|998|<span class="rank-name-dl">鷹山 遼大</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|7|989|<span class="rank-name-dl">北島　三郎</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|8|967|<span class="rank-name-dl">TKW ｰ大遊会ｰ</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|9|956|<span class="rank-name-dl">左ヒザ　故障中w</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|10|953|<span class="rank-name-dl">山本 譲二</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|11|952|<span class="rank-name-dl">リマ推し　With U</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|12|930|<span class="rank-name-dl">Smile☺︎マサ</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|13|925|<span class="rank-name-dl">りょーのすけ</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|14|918|<span class="rank-name-dl">白夜</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|15|908|<span class="rank-name-dl">迷子中〜！！</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|16|907|<span class="rank-name-dl">りょ～</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|17|887|<span class="rank-name-dl">風雅</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|18|886|<span class="rank-name-dl">NO NAME 3622</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|19|881|<span class="rank-name-dl">ペンペン</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|20|879|<span class="rank-name-dl">茶々丸</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|21|876|<span class="rank-name-dl">光@ひかるくん</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|22|868|<span class="rank-name-dl">NO NAME</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|23|851|<span class="rank-name-dl">下町のナポレオン</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|24|842|<span class="rank-name-dl">mochi</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|25|831|<span class="rank-name-dl">YaMa</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|26|814|<span class="rank-name-dl">優梨</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|27|794|<span class="rank-name-dl">てつ</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|28|784|<span class="rank-name-dl">【YU_KI】</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|29|783|<span class="rank-name-dl">なべ</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|30|778|<span class="rank-name-dl">zoo</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|31|766|<span class="rank-name-dl">井上省吾</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|32|699|<span class="rank-name-dl">風雅.Goodies</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|33|682|<span class="rank-name-dl">( ^＿^ )</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|34|671|<span class="rank-name-dl">なめ猫</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|35|604|<span class="rank-name-dl">SHOOOOOOO</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|36|603|<span class="rank-name-dl">CHI-CO</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|37|577|<span class="rank-name-dl">╭Ꙭ╮</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|38|553|<span class="rank-name-dl">ジュン</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|39|509|<span class="rank-name-dl">SHOOT</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|40|506|<span class="rank-name-dl">ayuka</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|41|504|<span class="rank-name-dl">NO NAME 5510</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|42|483|<span class="rank-name-dl">おりな</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|43|465|<span class="rank-name-dl">えんた</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|44|456|<span class="rank-name-dl">海月</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|45|370|<span class="rank-name-dl">A.Jewel</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|46|366|<span class="rank-name-dl">こじまる</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|47|328|<span class="rank-name-dl">GRACE@CAS</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -60,32 +80,52 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|1091|<span class="rank-name-dl">山中 元気</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
-|2|1054|<span class="rank-name-dl">高山 和也</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
-|3|1053|<span class="rank-name-dl">げんき</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
-|4|1015|<span class="rank-name-dl">山中　元気</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
-|5|998|<span class="rank-name-dl">鷹山 遼大</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
-|6|989|<span class="rank-name-dl">北島　三郎</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
-|7|974|<span class="rank-name-dl">田坂　嘉浩</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
-|8|965|<span class="rank-name-dl">TKW ｰ大遊会ｰ</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
-|9|953|<span class="rank-name-dl">山本 譲二</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
-|10|919|<span class="rank-name-dl">左ヒザ　故障中w</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
-|11|907|<span class="rank-name-dl">りょ～</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
-|12|886|<span class="rank-name-dl">NO NAME 3622</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
-|13|881|<span class="rank-name-dl">ペンペン</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
-|14|879|<span class="rank-name-dl">茶々丸</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
-|15|868|<span class="rank-name-dl">NO NAME</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
-|16|851|<span class="rank-name-dl">下町のナポレオン</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
-|17|794|<span class="rank-name-dl">てつ</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
-|17|794|<span class="rank-name-dl">リマ推し　With U</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
-|19|778|<span class="rank-name-dl">zoo</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
-|20|751|<span class="rank-name-dl">優梨</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
-|21|699|<span class="rank-name-dl">風雅.Goodies</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
-|22|682|<span class="rank-name-dl">( ^＿^ )</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
-|23|603|<span class="rank-name-dl">CHI-CO</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
-|24|509|<span class="rank-name-dl">SHOOT</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
-|25|483|<span class="rank-name-dl">おりな</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
-|26|465|<span class="rank-name-dl">えんた</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
-|27|456|<span class="rank-name-dl">海月</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|2|1075|<span class="rank-name-dl">田坂　嘉浩</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|3|1054|<span class="rank-name-dl">高山 和也</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|4|1053|<span class="rank-name-dl">げんき</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|5|1015|<span class="rank-name-dl">山中　元気</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|6|998|<span class="rank-name-dl">鷹山 遼大</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|7|989|<span class="rank-name-dl">北島　三郎</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|8|967|<span class="rank-name-dl">TKW ｰ大遊会ｰ</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|9|956|<span class="rank-name-dl">左ヒザ　故障中w</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|10|953|<span class="rank-name-dl">山本 譲二</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|11|952|<span class="rank-name-dl">リマ推し　With U</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|12|930|<span class="rank-name-dl">Smile☺︎マサ</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|13|925|<span class="rank-name-dl">りょーのすけ</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|14|918|<span class="rank-name-dl">白夜</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|15|908|<span class="rank-name-dl">迷子中〜！！</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|16|907|<span class="rank-name-dl">りょ～</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|17|887|<span class="rank-name-dl">風雅</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|18|886|<span class="rank-name-dl">NO NAME 3622</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|19|881|<span class="rank-name-dl">ペンペン</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|20|879|<span class="rank-name-dl">茶々丸</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|21|876|<span class="rank-name-dl">光@ひかるくん</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|22|868|<span class="rank-name-dl">NO NAME</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|23|851|<span class="rank-name-dl">下町のナポレオン</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|24|842|<span class="rank-name-dl">mochi</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|25|831|<span class="rank-name-dl">YaMa</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|26|814|<span class="rank-name-dl">優梨</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|27|794|<span class="rank-name-dl">てつ</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|28|784|<span class="rank-name-dl">【YU_KI】</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|29|783|<span class="rank-name-dl">なべ</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|30|778|<span class="rank-name-dl">zoo</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|31|766|<span class="rank-name-dl">井上省吾</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|32|699|<span class="rank-name-dl">風雅.Goodies</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|33|682|<span class="rank-name-dl">( ^＿^ )</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|34|671|<span class="rank-name-dl">なめ猫</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|35|604|<span class="rank-name-dl">SHOOOOOOO</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|36|603|<span class="rank-name-dl">CHI-CO</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|37|577|<span class="rank-name-dl">╭Ꙭ╮</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|38|553|<span class="rank-name-dl">ジュン</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|39|509|<span class="rank-name-dl">SHOOT</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|40|506|<span class="rank-name-dl">ayuka</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|41|504|<span class="rank-name-dl">NO NAME 5510</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|42|483|<span class="rank-name-dl">おりな</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|43|465|<span class="rank-name-dl">えんた</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|44|456|<span class="rank-name-dl">海月</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|45|370|<span class="rank-name-dl">A.Jewel</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|46|366|<span class="rank-name-dl">こじまる</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
+|47|328|<span class="rank-name-dl">GRACE@CAS</span>|<a href="https://search.dartslive.com/jp/shop/6dd003155f3a8a7f0d9b047a20a7ba1e">Tokiwa-Witty</a>|<a href="/darts/rank/大分県/佐伯市">大分県佐伯市</a>|
 
 
 #### PHOENIXDARTS TOP 100

@@ -23,9 +23,11 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|746|<span class="rank-name-pd">KAGAHO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79195?s_seq=79195">レーヴ</a>|<a href="/darts/rank/徳島県/美馬市">徳島県美馬市</a>|
-|2|698|<span class="rank-name-pd">KAZU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79195?s_seq=79195">レーヴ</a>|<a href="/darts/rank/徳島県/美馬市">徳島県美馬市</a>|
-|3|457|<span class="rank-name-pd">たーこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79195?s_seq=79195">レーヴ</a>|<a href="/darts/rank/徳島県/美馬市">徳島県美馬市</a>|
+|1|801|<span class="rank-name-pd">KAZU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79195?s_seq=79195">レーヴ</a>|<a href="/darts/rank/徳島県/美馬市">徳島県美馬市</a>|
+|2|759|<span class="rank-name-pd">KAGAHO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79195?s_seq=79195">レーヴ</a>|<a href="/darts/rank/徳島県/美馬市">徳島県美馬市</a>|
+|3|652|<span class="rank-name-pd">0245_5579</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79195?s_seq=79195">レーヴ</a>|<a href="/darts/rank/徳島県/美馬市">徳島県美馬市</a>|
+|4|563|<span class="rank-name-pd">KAITO373</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79195?s_seq=79195">レーヴ</a>|<a href="/darts/rank/徳島県/美馬市">徳島県美馬市</a>|
+|5|457|<span class="rank-name-pd">たーこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79195?s_seq=79195">レーヴ</a>|<a href="/darts/rank/徳島県/美馬市">徳島県美馬市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -45,9 +47,11 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|746|<span class="rank-name-pd">KAGAHO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79195?s_seq=79195">レーヴ</a>|<a href="/darts/rank/徳島県/美馬市">徳島県美馬市</a>|
-|2|698|<span class="rank-name-pd">KAZU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79195?s_seq=79195">レーヴ</a>|<a href="/darts/rank/徳島県/美馬市">徳島県美馬市</a>|
-|3|457|<span class="rank-name-pd">たーこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79195?s_seq=79195">レーヴ</a>|<a href="/darts/rank/徳島県/美馬市">徳島県美馬市</a>|
+|1|801|<span class="rank-name-pd">KAZU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79195?s_seq=79195">レーヴ</a>|<a href="/darts/rank/徳島県/美馬市">徳島県美馬市</a>|
+|2|759|<span class="rank-name-pd">KAGAHO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79195?s_seq=79195">レーヴ</a>|<a href="/darts/rank/徳島県/美馬市">徳島県美馬市</a>|
+|3|652|<span class="rank-name-pd">0245_5579</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79195?s_seq=79195">レーヴ</a>|<a href="/darts/rank/徳島県/美馬市">徳島県美馬市</a>|
+|4|563|<span class="rank-name-pd">KAITO373</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79195?s_seq=79195">レーヴ</a>|<a href="/darts/rank/徳島県/美馬市">徳島県美馬市</a>|
+|5|457|<span class="rank-name-pd">たーこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79195?s_seq=79195">レーヴ</a>|<a href="/darts/rank/徳島県/美馬市">徳島県美馬市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

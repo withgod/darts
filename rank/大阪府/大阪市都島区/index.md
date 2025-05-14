@@ -23,106 +23,106 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1221|<span class="rank-name-dl">由肥　元希</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|2|1200|<span class="rank-name-dl">根性みせろ</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|3|1199|<span class="rank-name-dl">磯和 勇希</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|4|1190|<span class="rank-name-dl">YyYyUuUuKiKi</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|5|1151|<span class="rank-name-dl">Relyum営業中！</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|6|1145|<span class="rank-name-dl">石原　蒼</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|6|1145|<span class="rank-name-dl">石原　蒼</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|8|1134|<span class="rank-name-dl">松藤 翔太</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|9|1130|<span class="rank-name-dl">西哲平TRINIDAD</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|10|1104|<span class="rank-name-dl">石田佳史</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|11|1100|<span class="rank-name-dl">磯和勇希&amp;Relyum</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|12|1089|<span class="rank-name-dl">松﨑 楓♡‬</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|13|1084|<span class="rank-name-dl">HAGUREﾒﾀﾎﾞ</span>|<a href="https://search.dartslive.com/jp/shop/b422a52f917b16080d9b047a20a7ba1e">DARTS BAR ひだまり</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|14|1083|<span class="rank-name-dl">多々見 徹</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|15|1065|<span class="rank-name-dl">まっちょん。</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|16|1064|<span class="rank-name-dl">Masato Narita</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|17|1060|<span class="rank-name-dl">τｙｙ</span>|<a href="https://search.dartslive.com/jp/shop/b422a52f917b16080d9b047a20a7ba1e">DARTS BAR ひだまり</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|17|1060|<span class="rank-name-dl">晋</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|17|1060|<span class="rank-name-dl">肉Tatis Jr.Reve</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|20|1054|<span class="rank-name-dl">松藤 翔太</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|21|1051|<span class="rank-name-dl">NORI@pub D habit</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|22|1050|<span class="rank-name-dl">シンタ☆彡BRAVE</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|23|1045|<span class="rank-name-dl">Brave☆彡シンタ</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|24|1041|<span class="rank-name-dl">大下倉　一馬</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|25|1040|<span class="rank-name-dl">ゆうやくん</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|26|1026|<span class="rank-name-dl">Fukka</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|27|1018|<span class="rank-name-dl">今中啓介☆狼族</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|28|1015|<span class="rank-name-dl">ｻﾝｼｬｲﾝ肉崎Reve</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|29|1011|<span class="rank-name-dl">中級者チンパン卍</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|30|1010|<span class="rank-name-dl">ノーパン</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|31|1002|<span class="rank-name-dl">成田 優斗</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|31|1002|<span class="rank-name-dl">石原　蒼</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|33|987|<span class="rank-name-dl">Nick.Goro⌘Reve</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|33|987|<span class="rank-name-dl">肉崎しげるReve</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|35|978|<span class="rank-name-dl">肉仙流ﾊｯｼｰReve</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|36|968|<span class="rank-name-dl">こっしー@IHY</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|37|967|<span class="rank-name-dl">近藤静加</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|38|966|<span class="rank-name-dl">シカ丸　Deer</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|39|950|<span class="rank-name-dl">HiЯoMμ</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|40|948|<span class="rank-name-dl">しん</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|41|947|<span class="rank-name-dl">せかいいさん</span>|<a href="https://search.dartslive.com/jp/shop/b422a52f917b16080d9b047a20a7ba1e">DARTS BAR ひだまり</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|41|947|<span class="rank-name-dl">松藤 翔太</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|43|940|<span class="rank-name-dl">まいっち</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|44|936|<span class="rank-name-dl">だいき</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|45|935|<span class="rank-name-dl">ささまこ</span>|<a href="https://search.dartslive.com/jp/shop/b422a52f917b16080d9b047a20a7ba1e">DARTS BAR ひだまり</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|46|932|<span class="rank-name-dl">肉仙流ﾊｯｼｰRave</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|47|931|<span class="rank-name-dl">パプアくん♂@R</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|48|929|<span class="rank-name-dl">Lil&#x27;Villain</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|49|925|<span class="rank-name-dl">忘我 れんぼーい</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|50|924|<span class="rank-name-dl">いぺ</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|50|924|<span class="rank-name-dl">かーず☆彡Reve</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|52|920|<span class="rank-name-dl">723Reve☆彡</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|53|919|<span class="rank-name-dl">☆ぱちぱち☆忘我</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|54|917|<span class="rank-name-dl">naoki nishikata</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|55|916|<span class="rank-name-dl">ゆうやくんRelyum</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|56|914|<span class="rank-name-dl">♨️</span>|<a href="https://search.dartslive.com/jp/shop/b422a52f917b16080d9b047a20a7ba1e">DARTS BAR ひだまり</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|57|908|<span class="rank-name-dl">みっき〜☆</span>|<a href="https://search.dartslive.com/jp/shop/24667f601533dac90d9b047a20a7ba1e">Music Cafe Howling</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|57|908|<span class="rank-name-dl">ザック@</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|57|908|<span class="rank-name-dl">忘我　だい</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|60|907|<span class="rank-name-dl">ザック☆彡BRAVE</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|61|904|<span class="rank-name-dl">&amp;ぅ</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|61|904|<span class="rank-name-dl">Lil&#x27;Ganesh</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|61|904|<span class="rank-name-dl">とまとまと｡</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|61|904|<span class="rank-name-dl">まかろにさん。</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|65|901|<span class="rank-name-dl">たー@F</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|66|897|<span class="rank-name-dl">とみしゅけ忘我</span>|<a href="https://search.dartslive.com/jp/shop/0f6c201242950a1e58d385ea46352d8f">我忘</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|67|895|<span class="rank-name-dl">Yamachang</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|68|887|<span class="rank-name-dl">砂吉</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|69|884|<span class="rank-name-dl">げんくきん</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|70|881|<span class="rank-name-dl">Relyum</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|71|878|<span class="rank-name-dl">かーず☆彡Reve</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|72|870|<span class="rank-name-dl">だんて</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|73|862|<span class="rank-name-dl">もにゃん☆彡</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|73|862|<span class="rank-name-dl">ナカタニ</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|75|861|<span class="rank-name-dl">Lil&#x27;Ganesh</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|76|855|<span class="rank-name-dl">Reve☆彡723</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|77|852|<span class="rank-name-dl">一輝</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|78|850|<span class="rank-name-dl">みらい@りるむ</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|79|847|<span class="rank-name-dl">れんぼーい@忘我</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|80|844|<span class="rank-name-dl">†DAIGO†(^^)/</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|80|844|<span class="rank-name-dl">マサーシー</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|82|841|<span class="rank-name-dl">あつねぇ</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|83|839|<span class="rank-name-dl">とみしゅけ忘我</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|84|836|<span class="rank-name-dl">お月様</span>|<a href="https://search.dartslive.com/jp/shop/b422a52f917b16080d9b047a20a7ba1e">DARTS BAR ひだまり</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|85|834|<span class="rank-name-dl">のっち@忘我</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|86|830|<span class="rank-name-dl">NO NAME 2273</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|87|829|<span class="rank-name-dl">泉　堅太</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|88|818|<span class="rank-name-dl">aRyu@SHIKI</span>|<a href="https://search.dartslive.com/jp/shop/bb52c610ba7237280d9b047a20a7ba1e">Amusement Bar Shiki</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|89|817|<span class="rank-name-dl">YUKIHIRA</span>|<a href="https://search.dartslive.com/jp/shop/24667f601533dac90d9b047a20a7ba1e">Music Cafe Howling</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|90|813|<span class="rank-name-dl">DON</span>|<a href="https://search.dartslive.com/jp/shop/42d5b5e0b8fdf9360d9b047a20a7ba1e">Darts Bar Wish</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|91|810|<span class="rank-name-dl">Yuuki@SHIKI</span>|<a href="https://search.dartslive.com/jp/shop/bb52c610ba7237280d9b047a20a7ba1e">Amusement Bar Shiki</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|92|809|<span class="rank-name-dl">キャラメルコーン</span>|<a href="https://search.dartslive.com/jp/shop/24667f601533dac90d9b047a20a7ba1e">Music Cafe Howling</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|92|809|<span class="rank-name-dl">ネチョン</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|94|808|<span class="rank-name-dl">ふじけん</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|95|807|<span class="rank-name-dl">Ike</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|95|807|<span class="rank-name-dl">takumi</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|97|804|<span class="rank-name-dl">NASA</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|97|804|<span class="rank-name-dl">のす</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|99|785|<span class="rank-name-dl">のっち@R(・ωく)</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|100|778|<span class="rank-name-dl">えッちゃん*｡✧</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|1|1230|<span class="rank-name-dl">磯和勇希&amp;Relyum</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|2|1221|<span class="rank-name-dl">由肥　元希</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|3|1200|<span class="rank-name-dl">根性みせろ</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|3|1200|<span class="rank-name-dl">浜崎祥悟</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|5|1199|<span class="rank-name-dl">磯和 勇希</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|6|1190|<span class="rank-name-dl">YyYyUuUuKiKi</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|7|1160|<span class="rank-name-dl">由肥 元希</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|8|1158|<span class="rank-name-dl">松藤 翔太</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|9|1151|<span class="rank-name-dl">Relyum営業中！</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|10|1145|<span class="rank-name-dl">石原　蒼</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|10|1145|<span class="rank-name-dl">石原　蒼</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|12|1134|<span class="rank-name-dl">松藤 翔太</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|13|1130|<span class="rank-name-dl">西哲平TRINIDAD</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|14|1125|<span class="rank-name-dl">Masato Narita</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|15|1111|<span class="rank-name-dl">GM</span>|<a href="https://search.dartslive.com/jp/shop/24667f601533dac90d9b047a20a7ba1e">Music Cafe Howling</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|16|1104|<span class="rank-name-dl">石田佳史</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|17|1089|<span class="rank-name-dl">松﨑 楓♡‬</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|18|1086|<span class="rank-name-dl">にくちゃみReve</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|19|1084|<span class="rank-name-dl">HAGUREﾒﾀﾎﾞ</span>|<a href="https://search.dartslive.com/jp/shop/b422a52f917b16080d9b047a20a7ba1e">DARTS BAR ひだまり</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|19|1084|<span class="rank-name-dl">No.6</span>|<a href="https://search.dartslive.com/jp/shop/24667f601533dac90d9b047a20a7ba1e">Music Cafe Howling</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|21|1083|<span class="rank-name-dl">多々見 徹</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|22|1082|<span class="rank-name-dl">ジレンマ</span>|<a href="https://search.dartslive.com/jp/shop/24667f601533dac90d9b047a20a7ba1e">Music Cafe Howling</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|23|1068|<span class="rank-name-dl">Ataru@ABS(壱)</span>|<a href="https://search.dartslive.com/jp/shop/bb52c610ba7237280d9b047a20a7ba1e">Amusement Bar Shiki</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|24|1065|<span class="rank-name-dl">まっちょん。</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|25|1061|<span class="rank-name-dl">引田　肉吾郎Reve</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|25|1061|<span class="rank-name-dl">松藤 翔太</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|27|1060|<span class="rank-name-dl">τｙｙ</span>|<a href="https://search.dartslive.com/jp/shop/b422a52f917b16080d9b047a20a7ba1e">DARTS BAR ひだまり</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|27|1060|<span class="rank-name-dl">晋</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|27|1060|<span class="rank-name-dl">肉Tatis Jr.Reve</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|30|1059|<span class="rank-name-dl">呪言師もえこーん</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|31|1058|<span class="rank-name-dl">たかしゅん*｡✧</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|32|1057|<span class="rank-name-dl">tkm</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|33|1055|<span class="rank-name-dl">まよいいぬ</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|34|1051|<span class="rank-name-dl">NORI@pub D habit</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|35|1050|<span class="rank-name-dl">シンタ☆彡BRAVE</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|36|1049|<span class="rank-name-dl">к-⑤*SevenS*G-L</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|37|1047|<span class="rank-name-dl">ゆうやRelyum</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|38|1045|<span class="rank-name-dl">Brave☆彡シンタ</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|39|1042|<span class="rank-name-dl">222肉吾郎Reve</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|39|1042|<span class="rank-name-dl">西浦 憲司</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|41|1041|<span class="rank-name-dl">Wima</span>|<a href="https://search.dartslive.com/jp/shop/b160254f82ac700e0d9b047a20a7ba1e">BAR GIN</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|41|1041|<span class="rank-name-dl">大下倉　一馬</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|41|1041|<span class="rank-name-dl">松本 紳</span>|<a href="https://search.dartslive.com/jp/shop/bb52c610ba7237280d9b047a20a7ba1e">Amusement Bar Shiki</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|44|1040|<span class="rank-name-dl">ゆうやくん</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|45|1038|<span class="rank-name-dl">Reve☆彡toki</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|46|1027|<span class="rank-name-dl">ユ肉ロ感謝Reve</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|47|1026|<span class="rank-name-dl">Fukka</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|48|1022|<span class="rank-name-dl">碇シンタ</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|49|1020|<span class="rank-name-dl">づめちゃん。</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|50|1018|<span class="rank-name-dl">今中啓介☆狼族</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|51|1016|<span class="rank-name-dl">Yuuki@SHIKI</span>|<a href="https://search.dartslive.com/jp/shop/bb52c610ba7237280d9b047a20a7ba1e">Amusement Bar Shiki</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|52|1015|<span class="rank-name-dl">出羽 賢弥</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|52|1015|<span class="rank-name-dl">ｻﾝｼｬｲﾝ肉崎Reve</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|54|1014|<span class="rank-name-dl">もえこーん</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|54|1014|<span class="rank-name-dl">ﾄﾞﾐ肉ﾄﾚｯﾄReve</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|56|1013|<span class="rank-name-dl">Wima</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|57|1012|<span class="rank-name-dl">シンディーゼル</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|58|1011|<span class="rank-name-dl">中級者チンパン卍</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|59|1010|<span class="rank-name-dl">ノーパン</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|60|1006|<span class="rank-name-dl">中井 涼</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|61|1005|<span class="rank-name-dl">HiЯoMμ</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|62|1002|<span class="rank-name-dl">成田 優斗</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|62|1002|<span class="rank-name-dl">石原　蒼</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|64|994|<span class="rank-name-dl">肉仙流ﾊｯｼｰReve</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|65|987|<span class="rank-name-dl">Nick.Goro⌘Reve</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|65|987|<span class="rank-name-dl">ねぎぃ</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|65|987|<span class="rank-name-dl">肉崎しげるReve</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|68|984|<span class="rank-name-dl">下浜晃 selfish</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|69|974|<span class="rank-name-dl">呪言師もえこーん</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|69|974|<span class="rank-name-dl">小手先の蓮@忘我</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|71|972|<span class="rank-name-dl">こう</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|72|969|<span class="rank-name-dl">ゆうやくんRelyum</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|73|968|<span class="rank-name-dl">こっしー@IHY</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|74|967|<span class="rank-name-dl">近藤静加</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|75|966|<span class="rank-name-dl">シカ丸　Deer</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|76|965|<span class="rank-name-dl">中井 涼</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|77|964|<span class="rank-name-dl">かーずReve☆彡</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|78|961|<span class="rank-name-dl">なおや114</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|79|959|<span class="rank-name-dl">☆ぱちぱち☆忘我</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|80|958|<span class="rank-name-dl">VOGAだい</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|81|956|<span class="rank-name-dl">そーた@IHY</span>|<a href="https://search.dartslive.com/jp/shop/b160254f82ac700e0d9b047a20a7ba1e">BAR GIN</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|82|951|<span class="rank-name-dl">むーみん</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|83|950|<span class="rank-name-dl">HiЯoMμ</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|83|950|<span class="rank-name-dl">かーず☆彡Reve</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|83|950|<span class="rank-name-dl">パプアくん♂@R</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|86|949|<span class="rank-name-dl">Junya</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|87|948|<span class="rank-name-dl">しん</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|88|947|<span class="rank-name-dl">せかいいさん</span>|<a href="https://search.dartslive.com/jp/shop/b422a52f917b16080d9b047a20a7ba1e">DARTS BAR ひだまり</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|89|945|<span class="rank-name-dl">かーず☆彡Reve</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|90|943|<span class="rank-name-dl">ヮヮヮヮ</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|91|941|<span class="rank-name-dl">たかしゅん*｡✧</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|92|940|<span class="rank-name-dl">まいっち</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|92|940|<span class="rank-name-dl">まいっち</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|94|938|<span class="rank-name-dl">試投会開催中</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|95|937|<span class="rank-name-dl">ちーさぶ</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|96|936|<span class="rank-name-dl">だいき</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|97|935|<span class="rank-name-dl">ささまこ</span>|<a href="https://search.dartslive.com/jp/shop/b422a52f917b16080d9b047a20a7ba1e">DARTS BAR ひだまり</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|98|934|<span class="rank-name-dl">拉麺男</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|99|932|<span class="rank-name-dl">肉仙流ﾊｯｼｰRave</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|100|929|<span class="rank-name-dl">Lil&#x27;Villain</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -132,106 +132,106 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1221|<span class="rank-name-dl">由肥　元希</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|2|1200|<span class="rank-name-dl">根性みせろ</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|3|1199|<span class="rank-name-dl">磯和 勇希</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|4|1190|<span class="rank-name-dl">YyYyUuUuKiKi</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|5|1151|<span class="rank-name-dl">Relyum営業中！</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|6|1145|<span class="rank-name-dl">石原　蒼</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|6|1145|<span class="rank-name-dl">石原　蒼</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|8|1134|<span class="rank-name-dl">松藤 翔太</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|9|1130|<span class="rank-name-dl">西哲平TRINIDAD</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|10|1104|<span class="rank-name-dl">石田佳史</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|11|1100|<span class="rank-name-dl">磯和勇希&amp;Relyum</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|12|1089|<span class="rank-name-dl">松﨑 楓♡‬</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|13|1084|<span class="rank-name-dl">HAGUREﾒﾀﾎﾞ</span>|<a href="https://search.dartslive.com/jp/shop/b422a52f917b16080d9b047a20a7ba1e">DARTS BAR ひだまり</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|14|1083|<span class="rank-name-dl">多々見 徹</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|15|1065|<span class="rank-name-dl">まっちょん。</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|16|1064|<span class="rank-name-dl">Masato Narita</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|17|1060|<span class="rank-name-dl">τｙｙ</span>|<a href="https://search.dartslive.com/jp/shop/b422a52f917b16080d9b047a20a7ba1e">DARTS BAR ひだまり</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|17|1060|<span class="rank-name-dl">晋</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|17|1060|<span class="rank-name-dl">肉Tatis Jr.Reve</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|20|1054|<span class="rank-name-dl">松藤 翔太</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|21|1051|<span class="rank-name-dl">NORI@pub D habit</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|22|1050|<span class="rank-name-dl">シンタ☆彡BRAVE</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|23|1045|<span class="rank-name-dl">Brave☆彡シンタ</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|24|1041|<span class="rank-name-dl">大下倉　一馬</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|25|1040|<span class="rank-name-dl">ゆうやくん</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|26|1026|<span class="rank-name-dl">Fukka</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|27|1018|<span class="rank-name-dl">今中啓介☆狼族</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|28|1015|<span class="rank-name-dl">ｻﾝｼｬｲﾝ肉崎Reve</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|29|1011|<span class="rank-name-dl">中級者チンパン卍</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|30|1010|<span class="rank-name-dl">ノーパン</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|31|1002|<span class="rank-name-dl">成田 優斗</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|31|1002|<span class="rank-name-dl">石原　蒼</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|33|987|<span class="rank-name-dl">Nick.Goro⌘Reve</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|33|987|<span class="rank-name-dl">肉崎しげるReve</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|35|978|<span class="rank-name-dl">肉仙流ﾊｯｼｰReve</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|36|968|<span class="rank-name-dl">こっしー@IHY</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|37|967|<span class="rank-name-dl">近藤静加</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|38|966|<span class="rank-name-dl">シカ丸　Deer</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|39|950|<span class="rank-name-dl">HiЯoMμ</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|40|948|<span class="rank-name-dl">しん</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|41|947|<span class="rank-name-dl">せかいいさん</span>|<a href="https://search.dartslive.com/jp/shop/b422a52f917b16080d9b047a20a7ba1e">DARTS BAR ひだまり</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|41|947|<span class="rank-name-dl">松藤 翔太</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|43|940|<span class="rank-name-dl">まいっち</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|44|936|<span class="rank-name-dl">だいき</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|45|935|<span class="rank-name-dl">ささまこ</span>|<a href="https://search.dartslive.com/jp/shop/b422a52f917b16080d9b047a20a7ba1e">DARTS BAR ひだまり</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|46|932|<span class="rank-name-dl">肉仙流ﾊｯｼｰRave</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|47|931|<span class="rank-name-dl">パプアくん♂@R</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|48|929|<span class="rank-name-dl">Lil&#x27;Villain</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|49|925|<span class="rank-name-dl">忘我 れんぼーい</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|50|924|<span class="rank-name-dl">いぺ</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|50|924|<span class="rank-name-dl">かーず☆彡Reve</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|52|920|<span class="rank-name-dl">723Reve☆彡</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|53|919|<span class="rank-name-dl">☆ぱちぱち☆忘我</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|54|917|<span class="rank-name-dl">naoki nishikata</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|55|916|<span class="rank-name-dl">ゆうやくんRelyum</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|56|914|<span class="rank-name-dl">♨️</span>|<a href="https://search.dartslive.com/jp/shop/b422a52f917b16080d9b047a20a7ba1e">DARTS BAR ひだまり</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|57|908|<span class="rank-name-dl">みっき〜☆</span>|<a href="https://search.dartslive.com/jp/shop/24667f601533dac90d9b047a20a7ba1e">Music Cafe Howling</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|57|908|<span class="rank-name-dl">ザック@</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|57|908|<span class="rank-name-dl">忘我　だい</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|60|907|<span class="rank-name-dl">ザック☆彡BRAVE</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|61|904|<span class="rank-name-dl">&amp;ぅ</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|61|904|<span class="rank-name-dl">Lil&#x27;Ganesh</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|61|904|<span class="rank-name-dl">とまとまと｡</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|61|904|<span class="rank-name-dl">まかろにさん。</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|65|901|<span class="rank-name-dl">たー@F</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|66|897|<span class="rank-name-dl">とみしゅけ忘我</span>|<a href="https://search.dartslive.com/jp/shop/0f6c201242950a1e58d385ea46352d8f">我忘</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|67|895|<span class="rank-name-dl">Yamachang</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|68|887|<span class="rank-name-dl">砂吉</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|69|884|<span class="rank-name-dl">げんくきん</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|70|881|<span class="rank-name-dl">Relyum</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|71|878|<span class="rank-name-dl">かーず☆彡Reve</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|72|870|<span class="rank-name-dl">だんて</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|73|862|<span class="rank-name-dl">もにゃん☆彡</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|73|862|<span class="rank-name-dl">ナカタニ</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|75|861|<span class="rank-name-dl">Lil&#x27;Ganesh</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|76|855|<span class="rank-name-dl">Reve☆彡723</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|77|852|<span class="rank-name-dl">一輝</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|78|850|<span class="rank-name-dl">みらい@りるむ</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|79|847|<span class="rank-name-dl">れんぼーい@忘我</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|80|844|<span class="rank-name-dl">†DAIGO†(^^)/</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|80|844|<span class="rank-name-dl">マサーシー</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|82|841|<span class="rank-name-dl">あつねぇ</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|83|839|<span class="rank-name-dl">とみしゅけ忘我</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|84|836|<span class="rank-name-dl">お月様</span>|<a href="https://search.dartslive.com/jp/shop/b422a52f917b16080d9b047a20a7ba1e">DARTS BAR ひだまり</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|85|834|<span class="rank-name-dl">のっち@忘我</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|86|830|<span class="rank-name-dl">NO NAME 2273</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|87|829|<span class="rank-name-dl">泉　堅太</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|88|818|<span class="rank-name-dl">aRyu@SHIKI</span>|<a href="https://search.dartslive.com/jp/shop/bb52c610ba7237280d9b047a20a7ba1e">Amusement Bar Shiki</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|89|817|<span class="rank-name-dl">YUKIHIRA</span>|<a href="https://search.dartslive.com/jp/shop/24667f601533dac90d9b047a20a7ba1e">Music Cafe Howling</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|90|813|<span class="rank-name-dl">DON</span>|<a href="https://search.dartslive.com/jp/shop/42d5b5e0b8fdf9360d9b047a20a7ba1e">Darts Bar Wish</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|91|810|<span class="rank-name-dl">Yuuki@SHIKI</span>|<a href="https://search.dartslive.com/jp/shop/bb52c610ba7237280d9b047a20a7ba1e">Amusement Bar Shiki</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|92|809|<span class="rank-name-dl">キャラメルコーン</span>|<a href="https://search.dartslive.com/jp/shop/24667f601533dac90d9b047a20a7ba1e">Music Cafe Howling</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|92|809|<span class="rank-name-dl">ネチョン</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|94|808|<span class="rank-name-dl">ふじけん</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|95|807|<span class="rank-name-dl">Ike</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|95|807|<span class="rank-name-dl">takumi</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|97|804|<span class="rank-name-dl">NASA</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|97|804|<span class="rank-name-dl">のす</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|99|785|<span class="rank-name-dl">のっち@R(・ωく)</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
-|100|778|<span class="rank-name-dl">えッちゃん*｡✧</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|1|1230|<span class="rank-name-dl">磯和勇希&amp;Relyum</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|2|1221|<span class="rank-name-dl">由肥　元希</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|3|1200|<span class="rank-name-dl">根性みせろ</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|3|1200|<span class="rank-name-dl">浜崎祥悟</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|5|1199|<span class="rank-name-dl">磯和 勇希</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|6|1190|<span class="rank-name-dl">YyYyUuUuKiKi</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|7|1160|<span class="rank-name-dl">由肥 元希</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|8|1158|<span class="rank-name-dl">松藤 翔太</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|9|1151|<span class="rank-name-dl">Relyum営業中！</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|10|1145|<span class="rank-name-dl">石原　蒼</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|10|1145|<span class="rank-name-dl">石原　蒼</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|12|1134|<span class="rank-name-dl">松藤 翔太</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|13|1130|<span class="rank-name-dl">西哲平TRINIDAD</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|14|1125|<span class="rank-name-dl">Masato Narita</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|15|1111|<span class="rank-name-dl">GM</span>|<a href="https://search.dartslive.com/jp/shop/24667f601533dac90d9b047a20a7ba1e">Music Cafe Howling</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|16|1104|<span class="rank-name-dl">石田佳史</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|17|1089|<span class="rank-name-dl">松﨑 楓♡‬</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|18|1086|<span class="rank-name-dl">にくちゃみReve</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|19|1084|<span class="rank-name-dl">HAGUREﾒﾀﾎﾞ</span>|<a href="https://search.dartslive.com/jp/shop/b422a52f917b16080d9b047a20a7ba1e">DARTS BAR ひだまり</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|19|1084|<span class="rank-name-dl">No.6</span>|<a href="https://search.dartslive.com/jp/shop/24667f601533dac90d9b047a20a7ba1e">Music Cafe Howling</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|21|1083|<span class="rank-name-dl">多々見 徹</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|22|1082|<span class="rank-name-dl">ジレンマ</span>|<a href="https://search.dartslive.com/jp/shop/24667f601533dac90d9b047a20a7ba1e">Music Cafe Howling</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|23|1068|<span class="rank-name-dl">Ataru@ABS(壱)</span>|<a href="https://search.dartslive.com/jp/shop/bb52c610ba7237280d9b047a20a7ba1e">Amusement Bar Shiki</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|24|1065|<span class="rank-name-dl">まっちょん。</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|25|1061|<span class="rank-name-dl">引田　肉吾郎Reve</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|25|1061|<span class="rank-name-dl">松藤 翔太</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|27|1060|<span class="rank-name-dl">τｙｙ</span>|<a href="https://search.dartslive.com/jp/shop/b422a52f917b16080d9b047a20a7ba1e">DARTS BAR ひだまり</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|27|1060|<span class="rank-name-dl">晋</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|27|1060|<span class="rank-name-dl">肉Tatis Jr.Reve</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|30|1059|<span class="rank-name-dl">呪言師もえこーん</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|31|1058|<span class="rank-name-dl">たかしゅん*｡✧</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|32|1057|<span class="rank-name-dl">tkm</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|33|1055|<span class="rank-name-dl">まよいいぬ</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|34|1051|<span class="rank-name-dl">NORI@pub D habit</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|35|1050|<span class="rank-name-dl">シンタ☆彡BRAVE</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|36|1049|<span class="rank-name-dl">к-⑤*SevenS*G-L</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|37|1047|<span class="rank-name-dl">ゆうやRelyum</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|38|1045|<span class="rank-name-dl">Brave☆彡シンタ</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|39|1042|<span class="rank-name-dl">222肉吾郎Reve</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|39|1042|<span class="rank-name-dl">西浦 憲司</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|41|1041|<span class="rank-name-dl">Wima</span>|<a href="https://search.dartslive.com/jp/shop/b160254f82ac700e0d9b047a20a7ba1e">BAR GIN</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|41|1041|<span class="rank-name-dl">大下倉　一馬</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|41|1041|<span class="rank-name-dl">松本 紳</span>|<a href="https://search.dartslive.com/jp/shop/bb52c610ba7237280d9b047a20a7ba1e">Amusement Bar Shiki</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|44|1040|<span class="rank-name-dl">ゆうやくん</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|45|1038|<span class="rank-name-dl">Reve☆彡toki</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|46|1027|<span class="rank-name-dl">ユ肉ロ感謝Reve</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|47|1026|<span class="rank-name-dl">Fukka</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|48|1022|<span class="rank-name-dl">碇シンタ</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|49|1020|<span class="rank-name-dl">づめちゃん。</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|50|1018|<span class="rank-name-dl">今中啓介☆狼族</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|51|1016|<span class="rank-name-dl">Yuuki@SHIKI</span>|<a href="https://search.dartslive.com/jp/shop/bb52c610ba7237280d9b047a20a7ba1e">Amusement Bar Shiki</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|52|1015|<span class="rank-name-dl">出羽 賢弥</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|52|1015|<span class="rank-name-dl">ｻﾝｼｬｲﾝ肉崎Reve</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|54|1014|<span class="rank-name-dl">もえこーん</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|54|1014|<span class="rank-name-dl">ﾄﾞﾐ肉ﾄﾚｯﾄReve</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|56|1013|<span class="rank-name-dl">Wima</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|57|1012|<span class="rank-name-dl">シンディーゼル</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|58|1011|<span class="rank-name-dl">中級者チンパン卍</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|59|1010|<span class="rank-name-dl">ノーパン</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|60|1006|<span class="rank-name-dl">中井 涼</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|61|1005|<span class="rank-name-dl">HiЯoMμ</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|62|1002|<span class="rank-name-dl">成田 優斗</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|62|1002|<span class="rank-name-dl">石原　蒼</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|64|994|<span class="rank-name-dl">肉仙流ﾊｯｼｰReve</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|65|987|<span class="rank-name-dl">Nick.Goro⌘Reve</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|65|987|<span class="rank-name-dl">ねぎぃ</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|65|987|<span class="rank-name-dl">肉崎しげるReve</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|68|984|<span class="rank-name-dl">下浜晃 selfish</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|69|974|<span class="rank-name-dl">呪言師もえこーん</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|69|974|<span class="rank-name-dl">小手先の蓮@忘我</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|71|972|<span class="rank-name-dl">こう</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|72|969|<span class="rank-name-dl">ゆうやくんRelyum</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|73|968|<span class="rank-name-dl">こっしー@IHY</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|74|967|<span class="rank-name-dl">近藤静加</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|75|966|<span class="rank-name-dl">シカ丸　Deer</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|76|965|<span class="rank-name-dl">中井 涼</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|77|964|<span class="rank-name-dl">かーずReve☆彡</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|78|961|<span class="rank-name-dl">なおや114</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|79|959|<span class="rank-name-dl">☆ぱちぱち☆忘我</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|80|958|<span class="rank-name-dl">VOGAだい</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|81|956|<span class="rank-name-dl">そーた@IHY</span>|<a href="https://search.dartslive.com/jp/shop/b160254f82ac700e0d9b047a20a7ba1e">BAR GIN</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|82|951|<span class="rank-name-dl">むーみん</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|83|950|<span class="rank-name-dl">HiЯoMμ</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|83|950|<span class="rank-name-dl">かーず☆彡Reve</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|83|950|<span class="rank-name-dl">パプアくん♂@R</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|86|949|<span class="rank-name-dl">Junya</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|87|948|<span class="rank-name-dl">しん</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|88|947|<span class="rank-name-dl">せかいいさん</span>|<a href="https://search.dartslive.com/jp/shop/b422a52f917b16080d9b047a20a7ba1e">DARTS BAR ひだまり</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|89|945|<span class="rank-name-dl">かーず☆彡Reve</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|90|943|<span class="rank-name-dl">ヮヮヮヮ</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|91|941|<span class="rank-name-dl">たかしゅん*｡✧</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|92|940|<span class="rank-name-dl">まいっち</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|92|940|<span class="rank-name-dl">まいっち</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|94|938|<span class="rank-name-dl">試投会開催中</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|95|937|<span class="rank-name-dl">ちーさぶ</span>|<a href="https://search.dartslive.com/jp/shop/18366769fff3e834fec1ae84bb28bd87">Relyum -りるむ-</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|96|936|<span class="rank-name-dl">だいき</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|97|935|<span class="rank-name-dl">ささまこ</span>|<a href="https://search.dartslive.com/jp/shop/b422a52f917b16080d9b047a20a7ba1e">DARTS BAR ひだまり</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|98|934|<span class="rank-name-dl">拉麺男</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|99|932|<span class="rank-name-dl">肉仙流ﾊｯｼｰRave</span>|<a href="https://search.dartslive.com/jp/shop/68fa169ffc266339a3f63593b5358cc4">Darts House Reve</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
+|100|929|<span class="rank-name-dl">Lil&#x27;Villain</span>|<a href="https://search.dartslive.com/jp/shop/1b0cac588aabf2910d9b047a20a7ba1e">VOGA 京橋店</a>|<a href="/darts/rank/大阪府/大阪市都島区">大阪府大阪市都島区</a>|
 
 
 #### PHOENIXDARTS TOP 100

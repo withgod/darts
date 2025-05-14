@@ -23,39 +23,55 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|975|<span class="rank-name-pd">五六 友裕</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|1|1021|<span class="rank-name-pd">五六 友裕</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|2|913|<span class="rank-name-pd">なおてぃー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
 |2|913|<span class="rank-name-pd">伊藤浩晃</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
-|3|900|<span class="rank-name-pd">五六 友裕</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
-|4|864|<span class="rank-name-pd">なおてぃー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|4|900|<span class="rank-name-pd">五六 友裕</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
 |5|860|<span class="rank-name-pd">黒田 祐輔</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
-|6|766|<span class="rank-name-pd">ゲンチキ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
-|7|743|<span class="rank-name-pd">KONITAN0314</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
-|8|727|<span class="rank-name-pd">Aki_Pixie</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
-|9|661|<span class="rank-name-pd"><span class="pro-icon-pd"></span>長濱 佑太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
-|10|654|<span class="rank-name-pd">のぶお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
-|11|635|<span class="rank-name-pd">けるんる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
-|12|617|<span class="rank-name-pd">ろくでなし子</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
-|13|610|<span class="rank-name-pd">KZM</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
-|13|610|<span class="rank-name-pd">U</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
-|15|606|<span class="rank-name-pd">卍解†ひでキング</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
-|16|585|<span class="rank-name-pd">呑兵衛❗</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
-|17|576|<span class="rank-name-pd">MANZZ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
-|18|572|<span class="rank-name-pd">ろくでなし子</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
-|19|560|<span class="rank-name-pd">K</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
-|20|554|<span class="rank-name-pd">YAMATO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
-|21|530|<span class="rank-name-pd">いさお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
-|22|528|<span class="rank-name-pd">❥⃝ひなたろ。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
-|23|513|<span class="rank-name-pd">CHIBA YU-TA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
-|24|500|<span class="rank-name-pd">0153_8476</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
-|25|472|<span class="rank-name-pd">mitchya</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
-|26|459|<span class="rank-name-pd">LILM0@CROCE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
-|27|392|<span class="rank-name-pd">りほ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
-|28|342|<span class="rank-name-pd">MAM@CROCE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
-|29|334|<span class="rank-name-pd">KUDO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
-|30|301|<span class="rank-name-pd">まーぼー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
-|31|294|<span class="rank-name-pd">TSUBASA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
-|32|256|<span class="rank-name-pd">sora</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
-|33|251|<span class="rank-name-pd">0005_4221</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|6|806|<span class="rank-name-pd">HAMASYO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|7|768|<span class="rank-name-pd">REO mj用</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|8|767|<span class="rank-name-pd">Aki_Pixie</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|8|767|<span class="rank-name-pd">のぶお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|10|766|<span class="rank-name-pd">ゲンチキ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|11|763|<span class="rank-name-pd">はましょー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|12|753|<span class="rank-name-pd">CHIBA YU-TA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|13|743|<span class="rank-name-pd">KONITAN0314</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|14|698|<span class="rank-name-pd">黄金騎士牙狼</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|15|689|<span class="rank-name-pd">卍解†ひでキング</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|16|686|<span class="rank-name-pd">Gapoo</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|17|661|<span class="rank-name-pd"><span class="pro-icon-pd"></span>長濱 佑太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|18|652|<span class="rank-name-pd">のぶお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|19|646|<span class="rank-name-pd">K</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|19|646|<span class="rank-name-pd">ろくでなし子</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|21|635|<span class="rank-name-pd">けるんる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|22|617|<span class="rank-name-pd">ろくでなし子</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|23|610|<span class="rank-name-pd">KZM</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|23|610|<span class="rank-name-pd">U</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|25|590|<span class="rank-name-pd">sk-yutaboy@CROCE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|26|585|<span class="rank-name-pd">呑兵衛❗</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|27|580|<span class="rank-name-pd">KAWORUUUU!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|28|576|<span class="rank-name-pd">MANZZ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|29|554|<span class="rank-name-pd">YAMATO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|30|546|<span class="rank-name-pd">@英也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|31|530|<span class="rank-name-pd">いさお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|32|528|<span class="rank-name-pd">❥⃝ひなたろ。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|33|524|<span class="rank-name-pd">TAEYONG</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|34|504|<span class="rank-name-pd">GEN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|35|500|<span class="rank-name-pd">0153_8476</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|36|489|<span class="rank-name-pd">ともちん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|37|488|<span class="rank-name-pd">綾小路セロニアス翔</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|38|472|<span class="rank-name-pd">mitchya</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|39|459|<span class="rank-name-pd">LILM0@CROCE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|40|392|<span class="rank-name-pd">りほ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|41|381|<span class="rank-name-pd">ツバッキー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|42|362|<span class="rank-name-pd">0139_4232</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|43|361|<span class="rank-name-pd">呑兵衛❗</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|44|342|<span class="rank-name-pd">MAM@CROCE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|45|334|<span class="rank-name-pd">KUDO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|46|301|<span class="rank-name-pd">まーぼー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|47|294|<span class="rank-name-pd">TSUBASA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|48|256|<span class="rank-name-pd">sora</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|49|251|<span class="rank-name-pd">0005_4221</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -75,39 +91,55 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|975|<span class="rank-name-pd">五六 友裕</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|1|1021|<span class="rank-name-pd">五六 友裕</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|2|913|<span class="rank-name-pd">なおてぃー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
 |2|913|<span class="rank-name-pd">伊藤浩晃</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
-|3|900|<span class="rank-name-pd">五六 友裕</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
-|4|864|<span class="rank-name-pd">なおてぃー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|4|900|<span class="rank-name-pd">五六 友裕</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
 |5|860|<span class="rank-name-pd">黒田 祐輔</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
-|6|766|<span class="rank-name-pd">ゲンチキ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
-|7|743|<span class="rank-name-pd">KONITAN0314</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
-|8|727|<span class="rank-name-pd">Aki_Pixie</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
-|9|661|<span class="rank-name-pd"><span class="pro-icon-pd"></span>長濱 佑太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
-|10|654|<span class="rank-name-pd">のぶお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
-|11|635|<span class="rank-name-pd">けるんる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
-|12|617|<span class="rank-name-pd">ろくでなし子</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
-|13|610|<span class="rank-name-pd">KZM</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
-|13|610|<span class="rank-name-pd">U</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
-|15|606|<span class="rank-name-pd">卍解†ひでキング</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
-|16|585|<span class="rank-name-pd">呑兵衛❗</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
-|17|576|<span class="rank-name-pd">MANZZ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
-|18|572|<span class="rank-name-pd">ろくでなし子</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
-|19|560|<span class="rank-name-pd">K</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
-|20|554|<span class="rank-name-pd">YAMATO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
-|21|530|<span class="rank-name-pd">いさお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
-|22|528|<span class="rank-name-pd">❥⃝ひなたろ。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
-|23|513|<span class="rank-name-pd">CHIBA YU-TA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
-|24|500|<span class="rank-name-pd">0153_8476</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
-|25|472|<span class="rank-name-pd">mitchya</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
-|26|459|<span class="rank-name-pd">LILM0@CROCE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
-|27|392|<span class="rank-name-pd">りほ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
-|28|342|<span class="rank-name-pd">MAM@CROCE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
-|29|334|<span class="rank-name-pd">KUDO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
-|30|301|<span class="rank-name-pd">まーぼー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
-|31|294|<span class="rank-name-pd">TSUBASA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
-|32|256|<span class="rank-name-pd">sora</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
-|33|251|<span class="rank-name-pd">0005_4221</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|6|806|<span class="rank-name-pd">HAMASYO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|7|768|<span class="rank-name-pd">REO mj用</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|8|767|<span class="rank-name-pd">Aki_Pixie</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|8|767|<span class="rank-name-pd">のぶお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|10|766|<span class="rank-name-pd">ゲンチキ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|11|763|<span class="rank-name-pd">はましょー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|12|753|<span class="rank-name-pd">CHIBA YU-TA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|13|743|<span class="rank-name-pd">KONITAN0314</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|14|698|<span class="rank-name-pd">黄金騎士牙狼</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|15|689|<span class="rank-name-pd">卍解†ひでキング</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|16|686|<span class="rank-name-pd">Gapoo</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|17|661|<span class="rank-name-pd"><span class="pro-icon-pd"></span>長濱 佑太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|18|652|<span class="rank-name-pd">のぶお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|19|646|<span class="rank-name-pd">K</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|19|646|<span class="rank-name-pd">ろくでなし子</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|21|635|<span class="rank-name-pd">けるんる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|22|617|<span class="rank-name-pd">ろくでなし子</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|23|610|<span class="rank-name-pd">KZM</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|23|610|<span class="rank-name-pd">U</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|25|590|<span class="rank-name-pd">sk-yutaboy@CROCE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|26|585|<span class="rank-name-pd">呑兵衛❗</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|27|580|<span class="rank-name-pd">KAWORUUUU!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|28|576|<span class="rank-name-pd">MANZZ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|29|554|<span class="rank-name-pd">YAMATO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|30|546|<span class="rank-name-pd">@英也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|31|530|<span class="rank-name-pd">いさお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|32|528|<span class="rank-name-pd">❥⃝ひなたろ。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|33|524|<span class="rank-name-pd">TAEYONG</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|34|504|<span class="rank-name-pd">GEN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|35|500|<span class="rank-name-pd">0153_8476</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|36|489|<span class="rank-name-pd">ともちん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|37|488|<span class="rank-name-pd">綾小路セロニアス翔</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|38|472|<span class="rank-name-pd">mitchya</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|39|459|<span class="rank-name-pd">LILM0@CROCE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|40|392|<span class="rank-name-pd">りほ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|41|381|<span class="rank-name-pd">ツバッキー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|42|362|<span class="rank-name-pd">0139_4232</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|43|361|<span class="rank-name-pd">呑兵衛❗</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|44|342|<span class="rank-name-pd">MAM@CROCE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|45|334|<span class="rank-name-pd">KUDO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|46|301|<span class="rank-name-pd">まーぼー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|47|294|<span class="rank-name-pd">TSUBASA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|48|256|<span class="rank-name-pd">sora</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75008?s_seq=75008">CROCE</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
+|49|251|<span class="rank-name-pd">0005_4221</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_75193?s_seq=75193">Pixie Hollow</a>|<a href="/darts/rank/宮崎県/西都市">宮崎県西都市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

@@ -23,106 +23,106 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1154|<span class="rank-name-pd">【TEAM TKD】BOSS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|1|1158|<span class="rank-name-pd">【TEAM TKD】BOSS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
 |2|1092|<span class="rank-name-pd">MOKEke</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|3|973|<span class="rank-name-pd">ナラヤン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|4|967|<span class="rank-name-pd">ソウリ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|5|965|<span class="rank-name-pd">0096_2917</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|6|929|<span class="rank-name-dl">M@S ∀K!卍</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|7|926|<span class="rank-name-pd">publicSpace9</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|8|914|<span class="rank-name-dl">Taaku</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|9|880|<span class="rank-name-pd">YO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|10|878|<span class="rank-name-pd">Jin Jin</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|11|871|<span class="rank-name-dl">＊～L’Ascal～＊</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|12|861|<span class="rank-name-pd">FUMIYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5985?s_seq=5985">BAR EST</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|13|859|<span class="rank-name-dl">ジョン・カビラ</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|14|857|<span class="rank-name-pd">FORTY SHOULDERS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|14|857|<span class="rank-name-pd">カズ坊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|16|848|<span class="rank-name-dl">前っちょ</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|17|841|<span class="rank-name-pd">とぅし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67175?s_seq=67175">HAMELN</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|17|841|<span class="rank-name-pd">上ノ原 勇次</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|19|840|<span class="rank-name-dl">ぱんぷきん</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|20|833|<span class="rank-name-pd">sgr@HAMELN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67175?s_seq=67175">HAMELN</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|21|823|<span class="rank-name-dl">JP13@熊猫。</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|22|814|<span class="rank-name-pd">ナカムーϵ( &#x27;Θ&#x27; )϶</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67175?s_seq=67175">HAMELN</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|23|810|<span class="rank-name-pd">小野 幸佑 JOKER DRIVER</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|24|809|<span class="rank-name-pd">そめ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|25|793|<span class="rank-name-pd">トモトモ^ ^</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|26|791|<span class="rank-name-dl">Kei</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|27|780|<span class="rank-name-pd">tkmn</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|28|778|<span class="rank-name-dl">凌雅パパ</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|29|777|<span class="rank-name-pd">あいうえo</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|30|766|<span class="rank-name-pd">上ノ原 勇次</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67175?s_seq=67175">HAMELN</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|31|765|<span class="rank-name-pd">FUMIYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67175?s_seq=67175">HAMELN</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|32|761|<span class="rank-name-dl">シン</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|33|758|<span class="rank-name-pd">Hachi(*u3u*)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67175?s_seq=67175">HAMELN</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|34|754|<span class="rank-name-pd">☆ちーちゃん☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|35|746|<span class="rank-name-pd">FUMIYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|36|745|<span class="rank-name-pd">前っちょ@TiTO☆USA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|37|738|<span class="rank-name-dl">☆リチャ～ドS★</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|38|733|<span class="rank-name-pd">shota</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|38|733|<span class="rank-name-pd">ジャムを持参</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|40|731|<span class="rank-name-pd">zj7u37f906c907</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|40|731|<span class="rank-name-dl">哲狼9614</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|42|730|<span class="rank-name-pd">publicSpace9</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67175?s_seq=67175">HAMELN</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|43|728|<span class="rank-name-pd">せーや</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|43|728|<span class="rank-name-pd">ティラミスヒロ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|45|725|<span class="rank-name-pd">亀仙人Ｊｒ.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67175?s_seq=67175">HAMELN</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|46|720|<span class="rank-name-dl">ふみや</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|47|719|<span class="rank-name-pd">0266_8093</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|47|719|<span class="rank-name-pd">＊L’Ascal＊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|49|717|<span class="rank-name-pd">ぶちょ～(兄)@白い三連星</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|50|709|<span class="rank-name-dl">しおりんカード</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|50|709|<span class="rank-name-pd">ゆっけ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|52|698|<span class="rank-name-pd">吉崎浩司（偽名）</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|53|696|<span class="rank-name-pd">じた</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5985?s_seq=5985">BAR EST</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|54|693|<span class="rank-name-pd">ToMeko</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|55|691|<span class="rank-name-dl">千田道(liberty)</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|55|691|<span class="rank-name-pd">小野 幸佑 JOKER DRIVERセパ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|57|685|<span class="rank-name-pd">MARUKO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|58|684|<span class="rank-name-dl">ｋａｗａｎｏ</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|59|680|<span class="rank-name-dl">BEKE</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|60|675|<span class="rank-name-pd">浦郷 将哉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|61|673|<span class="rank-name-pd">YUN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|62|667|<span class="rank-name-pd">舞 夢</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5985?s_seq=5985">BAR EST</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|63|666|<span class="rank-name-pd">ラーメン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|64|642|<span class="rank-name-pd">min</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|65|639|<span class="rank-name-pd">スーパーマウス</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|66|638|<span class="rank-name-pd">ZGMF-X10A</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|67|637|<span class="rank-name-pd">ゆうゆ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67175?s_seq=67175">HAMELN</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|68|633|<span class="rank-name-pd">鶏介</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|69|628|<span class="rank-name-pd">channao♡ないん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|70|622|<span class="rank-name-pd">Poni</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|70|622|<span class="rank-name-pd">つってぃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|72|621|<span class="rank-name-pd">zd5g35d03f87bc</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|72|621|<span class="rank-name-pd">マサイ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67175?s_seq=67175">HAMELN</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|74|617|<span class="rank-name-dl">マウス</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|75|615|<span class="rank-name-pd">AKARI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|75|615|<span class="rank-name-pd">★ファブリーPEP@DART!!! </span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|75|615|<span class="rank-name-pd">エセボーダー巨にゅう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|78|612|<span class="rank-name-dl">とく</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|79|607|<span class="rank-name-dl">JYOU</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|80|602|<span class="rank-name-pd">Hiro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|81|598|<span class="rank-name-pd">【TEAM TKD】今永 公平</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|81|598|<span class="rank-name-pd">かおる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|83|596|<span class="rank-name-pd">NEKOHot</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|83|596|<span class="rank-name-pd">YUKITO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5985?s_seq=5985">BAR EST</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|85|592|<span class="rank-name-pd">SHINGO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|85|592|<span class="rank-name-pd">たいやき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|87|588|<span class="rank-name-pd">Matsu☆。.:＊・゜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|88|586|<span class="rank-name-pd">千田　道LIBERTY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|89|584|<span class="rank-name-dl">NO NAME 6512</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|90|583|<span class="rank-name-dl">DAISHI</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|91|580|<span class="rank-name-pd">kk_o.clock</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|92|574|<span class="rank-name-pd">らりックマ（￣□￣;）</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5985?s_seq=5985">BAR EST</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|93|568|<span class="rank-name-pd">yt</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|94|566|<span class="rank-name-pd">☆ちーちゃん☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67175?s_seq=67175">HAMELN</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|95|565|<span class="rank-name-pd">テギュン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|96|563|<span class="rank-name-pd">へっぽこ丸</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|97|561|<span class="rank-name-pd">イッシー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5985?s_seq=5985">BAR EST</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|98|553|<span class="rank-name-pd">★樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67175?s_seq=67175">HAMELN</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|99|549|<span class="rank-name-pd">Sho666@Avenuecafe</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|99|549|<span class="rank-name-pd">channao♡ないん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67175?s_seq=67175">HAMELN</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|3|1083|<span class="rank-name-dl">KUWABARA</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|4|1067|<span class="rank-name-pd">高橋滋喜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5985?s_seq=5985">BAR EST</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|5|1058|<span class="rank-name-pd"><span class="pro-icon-pd"></span>児玉 健太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|6|1050|<span class="rank-name-pd">0096_2917</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|6|1050|<span class="rank-name-dl">NO NAME 0736</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|8|1044|<span class="rank-name-dl">tsk</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|9|1020|<span class="rank-name-pd">おたつ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5985?s_seq=5985">BAR EST</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|10|1016|<span class="rank-name-dl">おにぎりたいちょ</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|11|1010|<span class="rank-name-dl">桑原　将吾</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|12|1005|<span class="rank-name-pd">SHOGO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|13|974|<span class="rank-name-pd">んーチップじょー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|14|973|<span class="rank-name-pd">ナラヤン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|15|967|<span class="rank-name-pd">ソウリ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|16|960|<span class="rank-name-pd">小野 幸佑 JOKER DRIVERセパ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|17|949|<span class="rank-name-pd"><span class="pro-icon-pd"></span>岡本 将太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5985?s_seq=5985">BAR EST</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|18|945|<span class="rank-name-pd">YO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|19|932|<span class="rank-name-pd">カズ坊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|20|929|<span class="rank-name-dl">M@S ∀K!卍</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|21|926|<span class="rank-name-pd">publicSpace9</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|22|916|<span class="rank-name-pd">Syo~N</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|23|914|<span class="rank-name-dl">Taaku</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|24|908|<span class="rank-name-pd">0057_2241</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|25|894|<span class="rank-name-dl">ひ</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|26|893|<span class="rank-name-pd"><span class="pro-icon-pd"></span>宗野 智</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|27|888|<span class="rank-name-pd">幽汰狼$影狼$No. 00</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|28|885|<span class="rank-name-dl">へっぽこ丸</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|29|879|<span class="rank-name-pd">あいうえo</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|30|878|<span class="rank-name-pd">Jin Jin</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|31|872|<span class="rank-name-pd"><span class="pro-icon-pd"></span>濱口 和久</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|32|871|<span class="rank-name-dl">＊～L’Ascal～＊</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|33|861|<span class="rank-name-pd">FUMIYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5985?s_seq=5985">BAR EST</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|34|859|<span class="rank-name-dl">ジョン・カビラ</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|35|857|<span class="rank-name-pd">FORTY SHOULDERS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|36|853|<span class="rank-name-pd">Hiro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|36|853|<span class="rank-name-pd">すけさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|38|852|<span class="rank-name-pd">Numb</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|39|848|<span class="rank-name-dl">前っちょ</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|40|842|<span class="rank-name-pd">すず</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|40|842|<span class="rank-name-pd">カツキ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|42|841|<span class="rank-name-pd">とぅし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67175?s_seq=67175">HAMELN</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|42|841|<span class="rank-name-dl">テギュン</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|42|841|<span class="rank-name-pd">上ノ原 勇次</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|45|840|<span class="rank-name-dl">ぱんぷきん</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|46|837|<span class="rank-name-dl">ぴろえ菌</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|47|833|<span class="rank-name-pd">sgr@HAMELN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67175?s_seq=67175">HAMELN</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|48|826|<span class="rank-name-pd">やか</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|49|825|<span class="rank-name-dl">「F」</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|50|823|<span class="rank-name-dl">JP13@熊猫。</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|51|822|<span class="rank-name-pd">tkmn</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|52|814|<span class="rank-name-pd">ナカムーϵ( &#x27;Θ&#x27; )϶</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67175?s_seq=67175">HAMELN</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|52|814|<span class="rank-name-pd">前っちょ@TiTO☆USA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|54|811|<span class="rank-name-pd">かつき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|55|810|<span class="rank-name-pd">小野 幸佑 JOKER DRIVER</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|56|809|<span class="rank-name-pd">898BBC</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67175?s_seq=67175">HAMELN</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|56|809|<span class="rank-name-pd">そめ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|56|809|<span class="rank-name-dl">哲狼9614</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|59|805|<span class="rank-name-dl">ひろくん</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|60|801|<span class="rank-name-pd">0245_2291</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|61|793|<span class="rank-name-pd">トモトモ^ ^</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|62|791|<span class="rank-name-dl">Kei</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|63|789|<span class="rank-name-dl">ちょえ</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|64|787|<span class="rank-name-pd">20150131011716</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|64|787|<span class="rank-name-dl">じんじん</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|66|785|<span class="rank-name-dl">ｋａｗａｎｏ</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|67|784|<span class="rank-name-pd"><span class="pro-icon-pd"></span>酒井 辰聡</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|68|783|<span class="rank-name-dl">なべ aka Zi..ng</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|69|778|<span class="rank-name-dl">凌雅パパ</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|70|777|<span class="rank-name-pd">Masaki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|71|776|<span class="rank-name-pd">おにぎり隊長</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|72|772|<span class="rank-name-pd">★樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67175?s_seq=67175">HAMELN</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|73|770|<span class="rank-name-pd">しゅが〜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|74|766|<span class="rank-name-pd">上ノ原 勇次</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67175?s_seq=67175">HAMELN</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|75|765|<span class="rank-name-pd">FUMIYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67175?s_seq=67175">HAMELN</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|76|761|<span class="rank-name-dl">シン</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|77|760|<span class="rank-name-pd">TAKA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|77|760|<span class="rank-name-pd">湾児</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|79|758|<span class="rank-name-pd">Hachi(*u3u*)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67175?s_seq=67175">HAMELN</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|80|755|<span class="rank-name-pd">ねこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|81|754|<span class="rank-name-pd">Mr.SHOTA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|81|754|<span class="rank-name-pd">☆ちーちゃん☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|83|750|<span class="rank-name-pd">ぽーりー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|84|746|<span class="rank-name-pd">FUMIYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|84|746|<span class="rank-name-dl">hajime</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|86|745|<span class="rank-name-pd">[K]417</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|86|745|<span class="rank-name-pd">こだけん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|88|744|<span class="rank-name-pd">0195_6272</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|89|740|<span class="rank-name-pd">あおと=TiTO USA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|90|739|<span class="rank-name-pd">Rono</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|91|738|<span class="rank-name-dl">☆リチャ～ドS★</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|91|738|<span class="rank-name-pd">千田　道LIBERTY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|93|733|<span class="rank-name-pd">shota</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|93|733|<span class="rank-name-pd">ジャムを持参</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|95|731|<span class="rank-name-pd">zj7u37f906c907</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|95|731|<span class="rank-name-pd">亀仙人Ｊｒ.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67175?s_seq=67175">HAMELN</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|97|730|<span class="rank-name-pd">YUN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|97|730|<span class="rank-name-pd">publicSpace9</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67175?s_seq=67175">HAMELN</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|99|728|<span class="rank-name-pd">せーや</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|99|728|<span class="rank-name-pd">ティラミスヒロ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -132,34 +132,64 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|989|<span class="rank-name-dl">【TEAM TKD】BOSS</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|2|929|<span class="rank-name-dl">M@S ∀K!卍</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|3|914|<span class="rank-name-dl">Taaku</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|4|889|<span class="rank-name-dl">ナラヤン</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|5|880|<span class="rank-name-dl">ソウリ</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|6|871|<span class="rank-name-dl">＊～L’Ascal～＊</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|7|859|<span class="rank-name-dl">ジョン・カビラ</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|8|848|<span class="rank-name-dl">前っちょ</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|9|840|<span class="rank-name-dl">ぱんぷきん</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|10|823|<span class="rank-name-dl">JP13@熊猫。</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|11|791|<span class="rank-name-dl">Kei</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|12|778|<span class="rank-name-dl">凌雅パパ</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|13|761|<span class="rank-name-dl">シン</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|14|738|<span class="rank-name-dl">☆リチャ～ドS★</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|15|731|<span class="rank-name-dl">哲狼9614</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|16|720|<span class="rank-name-dl">ふみや</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|17|709|<span class="rank-name-dl">しおりんカード</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|18|691|<span class="rank-name-dl">千田道(liberty)</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|19|684|<span class="rank-name-dl">ｋａｗａｎｏ</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|20|680|<span class="rank-name-dl">BEKE</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|21|617|<span class="rank-name-dl">マウス</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|22|612|<span class="rank-name-dl">とく</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|23|607|<span class="rank-name-dl">JYOU</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|24|584|<span class="rank-name-dl">NO NAME 6512</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|25|583|<span class="rank-name-dl">DAISHI</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|26|578|<span class="rank-name-dl">たいやき</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|27|471|<span class="rank-name-dl">ムチ子</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|28|456|<span class="rank-name-dl">コロリ</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|1|1114|<span class="rank-name-dl">【TEAM TKD】BOSS</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|2|1083|<span class="rank-name-dl">KUWABARA</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|3|1050|<span class="rank-name-dl">NO NAME 0736</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|4|1044|<span class="rank-name-dl">tsk</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|5|1016|<span class="rank-name-dl">おにぎりたいちょ</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|6|1010|<span class="rank-name-dl">桑原　将吾</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|7|993|<span class="rank-name-dl">SHOGO</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|8|929|<span class="rank-name-dl">M@S ∀K!卍</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|9|914|<span class="rank-name-dl">Taaku</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|10|894|<span class="rank-name-dl">ひ</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|11|889|<span class="rank-name-dl">ナラヤン</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|12|885|<span class="rank-name-dl">へっぽこ丸</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|13|880|<span class="rank-name-dl">ソウリ</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|14|871|<span class="rank-name-dl">＊～L’Ascal～＊</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|15|859|<span class="rank-name-dl">ジョン・カビラ</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|16|848|<span class="rank-name-dl">前っちょ</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|17|841|<span class="rank-name-dl">テギュン</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|18|840|<span class="rank-name-dl">ぱんぷきん</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|19|837|<span class="rank-name-dl">ぴろえ菌</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|20|832|<span class="rank-name-dl">宗野 智</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|21|825|<span class="rank-name-dl">「F」</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|22|823|<span class="rank-name-dl">JP13@熊猫。</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|23|809|<span class="rank-name-dl">哲狼9614</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|24|805|<span class="rank-name-dl">ひろくん</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|25|791|<span class="rank-name-dl">Kei</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|26|789|<span class="rank-name-dl">ちょえ</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|27|787|<span class="rank-name-dl">じんじん</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|28|785|<span class="rank-name-dl">ｋａｗａｎｏ</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|29|783|<span class="rank-name-dl">なべ aka Zi..ng</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|30|778|<span class="rank-name-dl">凌雅パパ</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|31|767|<span class="rank-name-dl">Hiro</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|32|761|<span class="rank-name-dl">シン</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|33|746|<span class="rank-name-dl">hajime</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|34|738|<span class="rank-name-dl">☆リチャ～ドS★</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|35|720|<span class="rank-name-dl">ふみや</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|36|709|<span class="rank-name-dl">しおりんカード</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|37|707|<span class="rank-name-dl">千田道(liberty)</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|38|680|<span class="rank-name-dl">BEKE</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|39|670|<span class="rank-name-dl">sano</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|40|656|<span class="rank-name-dl">はがねマシーン</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|41|622|<span class="rank-name-dl">ぽんすけ</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|42|617|<span class="rank-name-dl">マウス</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|43|612|<span class="rank-name-dl">とく</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|44|607|<span class="rank-name-dl">JYOU</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|45|584|<span class="rank-name-dl">NO NAME 6512</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|46|583|<span class="rank-name-dl">DAISHI</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|46|583|<span class="rank-name-dl">すず</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|48|578|<span class="rank-name-dl">たいやき</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|49|553|<span class="rank-name-dl">NNK</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|50|548|<span class="rank-name-dl">中川範子[前嶋組]</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|51|540|<span class="rank-name-dl">Tiara...</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|52|536|<span class="rank-name-dl">江藤 弘恵</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|53|493|<span class="rank-name-dl">ﾊﾞﾙさん@SOS団</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|54|471|<span class="rank-name-dl">ムチ子</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|55|466|<span class="rank-name-dl">さとっし</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|56|456|<span class="rank-name-dl">コロリ</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|57|439|<span class="rank-name-dl">F.Tさやか</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|58|412|<span class="rank-name-dl">ともゆき</span>|<a href="https://search.dartslive.com/jp/shop/969072998bbdc227fec1ae84bb28bd87">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
 
 
 #### PHOENIXDARTS TOP 100
@@ -169,106 +199,106 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1154|<span class="rank-name-pd">【TEAM TKD】BOSS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|1|1158|<span class="rank-name-pd">【TEAM TKD】BOSS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
 |2|1092|<span class="rank-name-pd">MOKEke</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|3|973|<span class="rank-name-pd">ナラヤン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|4|967|<span class="rank-name-pd">ソウリ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|5|965|<span class="rank-name-pd">0096_2917</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|6|926|<span class="rank-name-pd">publicSpace9</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|7|880|<span class="rank-name-pd">YO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|8|878|<span class="rank-name-pd">Jin Jin</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|9|861|<span class="rank-name-pd">FUMIYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5985?s_seq=5985">BAR EST</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|10|857|<span class="rank-name-pd">FORTY SHOULDERS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|10|857|<span class="rank-name-pd">カズ坊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|12|841|<span class="rank-name-pd">とぅし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67175?s_seq=67175">HAMELN</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|12|841|<span class="rank-name-pd">上ノ原 勇次</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|14|833|<span class="rank-name-pd">sgr@HAMELN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67175?s_seq=67175">HAMELN</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|15|814|<span class="rank-name-pd">ナカムーϵ( &#x27;Θ&#x27; )϶</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67175?s_seq=67175">HAMELN</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|16|810|<span class="rank-name-pd">小野 幸佑 JOKER DRIVER</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|17|809|<span class="rank-name-pd">そめ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|18|793|<span class="rank-name-pd">トモトモ^ ^</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|19|780|<span class="rank-name-pd">tkmn</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|20|777|<span class="rank-name-pd">あいうえo</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|21|766|<span class="rank-name-pd">上ノ原 勇次</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67175?s_seq=67175">HAMELN</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|22|765|<span class="rank-name-pd">FUMIYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67175?s_seq=67175">HAMELN</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|23|758|<span class="rank-name-pd">Hachi(*u3u*)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67175?s_seq=67175">HAMELN</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|24|754|<span class="rank-name-pd">☆ちーちゃん☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|25|746|<span class="rank-name-pd">FUMIYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|26|745|<span class="rank-name-pd">前っちょ@TiTO☆USA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|27|733|<span class="rank-name-pd">shota</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|27|733|<span class="rank-name-pd">ジャムを持参</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|29|731|<span class="rank-name-pd">zj7u37f906c907</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|30|730|<span class="rank-name-pd">publicSpace9</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67175?s_seq=67175">HAMELN</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|31|728|<span class="rank-name-pd">せーや</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|31|728|<span class="rank-name-pd">ティラミスヒロ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|33|725|<span class="rank-name-pd">亀仙人Ｊｒ.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67175?s_seq=67175">HAMELN</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|34|719|<span class="rank-name-pd">0266_8093</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|34|719|<span class="rank-name-pd">＊L’Ascal＊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|36|717|<span class="rank-name-pd">ぶちょ～(兄)@白い三連星</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|37|709|<span class="rank-name-pd">ゆっけ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|38|699|<span class="rank-name-pd">シン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|39|698|<span class="rank-name-pd">吉崎浩司（偽名）</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|40|696|<span class="rank-name-pd">じた</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5985?s_seq=5985">BAR EST</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|41|693|<span class="rank-name-pd">ToMeko</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|42|691|<span class="rank-name-pd">小野 幸佑 JOKER DRIVERセパ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|43|685|<span class="rank-name-pd">MARUKO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|44|675|<span class="rank-name-pd">浦郷 将哉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|45|673|<span class="rank-name-pd">YUN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|46|667|<span class="rank-name-pd">舞 夢</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5985?s_seq=5985">BAR EST</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|47|666|<span class="rank-name-pd">ラーメン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|48|642|<span class="rank-name-pd">min</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|49|639|<span class="rank-name-pd">スーパーマウス</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|50|638|<span class="rank-name-pd">ZGMF-X10A</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|51|637|<span class="rank-name-pd">ゆうゆ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67175?s_seq=67175">HAMELN</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|52|633|<span class="rank-name-pd">鶏介</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|53|628|<span class="rank-name-pd">channao♡ないん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|54|622|<span class="rank-name-pd">Poni</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|54|622|<span class="rank-name-pd">つってぃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|56|621|<span class="rank-name-pd">zd5g35d03f87bc</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|56|621|<span class="rank-name-pd">マサイ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67175?s_seq=67175">HAMELN</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|58|615|<span class="rank-name-pd">AKARI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|58|615|<span class="rank-name-pd">★ファブリーPEP@DART!!! </span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|58|615|<span class="rank-name-pd">エセボーダー巨にゅう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|61|602|<span class="rank-name-pd">Hiro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|62|598|<span class="rank-name-pd">【TEAM TKD】今永 公平</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|62|598|<span class="rank-name-pd">かおる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|64|596|<span class="rank-name-pd">NEKOHot</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|64|596|<span class="rank-name-pd">YUKITO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5985?s_seq=5985">BAR EST</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|66|592|<span class="rank-name-pd">SHINGO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|66|592|<span class="rank-name-pd">たいやき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|68|588|<span class="rank-name-pd">Matsu☆。.:＊・゜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|69|586|<span class="rank-name-pd">千田　道LIBERTY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|70|580|<span class="rank-name-pd">kk_o.clock</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|71|574|<span class="rank-name-pd">らりックマ（￣□￣;）</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5985?s_seq=5985">BAR EST</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|72|568|<span class="rank-name-pd">yt</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|73|566|<span class="rank-name-pd">☆ちーちゃん☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67175?s_seq=67175">HAMELN</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|74|565|<span class="rank-name-pd">テギュン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|75|563|<span class="rank-name-pd">へっぽこ丸</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|76|561|<span class="rank-name-pd">イッシー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5985?s_seq=5985">BAR EST</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|77|553|<span class="rank-name-pd">★樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67175?s_seq=67175">HAMELN</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|78|549|<span class="rank-name-pd">Sho666@Avenuecafe</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|78|549|<span class="rank-name-pd">channao♡ないん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67175?s_seq=67175">HAMELN</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|80|544|<span class="rank-name-pd">OimO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|81|542|<span class="rank-name-pd">すず</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|82|532|<span class="rank-name-pd">TAKA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|83|529|<span class="rank-name-pd">弱虫トレーナー@迷走中</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|84|528|<span class="rank-name-pd">ToMeko</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67175?s_seq=67175">HAMELN</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|84|528|<span class="rank-name-pd">しゅがらぎ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|86|525|<span class="rank-name-pd">代表取締役【チキン軍団】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|87|520|<span class="rank-name-pd">一葉南α智</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|88|514|<span class="rank-name-pd">TAKA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67175?s_seq=67175">HAMELN</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|88|514|<span class="rank-name-pd">kazuki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|88|514|<span class="rank-name-pd">あおと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|91|509|<span class="rank-name-pd">❤︎まりっぺ❤︎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5985?s_seq=5985">BAR EST</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|92|502|<span class="rank-name-pd">ねこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|93|499|<span class="rank-name-pd">ろぺまる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|94|492|<span class="rank-name-pd">めっそん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|95|490|<span class="rank-name-pd">LustFox</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|96|484|<span class="rank-name-pd">みつひろ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|97|482|<span class="rank-name-pd">えるえる【Liberty】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|98|480|<span class="rank-name-pd">通りすがりのバイト</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|99|472|<span class="rank-name-pd">A</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
-|100|471|<span class="rank-name-pd">(´Д｀)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|3|1067|<span class="rank-name-pd">高橋滋喜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5985?s_seq=5985">BAR EST</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|4|1058|<span class="rank-name-pd"><span class="pro-icon-pd"></span>児玉 健太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|5|1050|<span class="rank-name-pd">0096_2917</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|6|1020|<span class="rank-name-pd">おたつ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5985?s_seq=5985">BAR EST</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|7|1005|<span class="rank-name-pd">SHOGO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|8|974|<span class="rank-name-pd">んーチップじょー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|9|973|<span class="rank-name-pd">ナラヤン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|10|967|<span class="rank-name-pd">ソウリ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|11|960|<span class="rank-name-pd">小野 幸佑 JOKER DRIVERセパ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|12|949|<span class="rank-name-pd"><span class="pro-icon-pd"></span>岡本 将太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5985?s_seq=5985">BAR EST</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|13|945|<span class="rank-name-pd">YO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|14|932|<span class="rank-name-pd">カズ坊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|15|926|<span class="rank-name-pd">publicSpace9</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|16|916|<span class="rank-name-pd">Syo~N</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|17|908|<span class="rank-name-pd">0057_2241</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|18|893|<span class="rank-name-pd"><span class="pro-icon-pd"></span>宗野 智</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|19|888|<span class="rank-name-pd">幽汰狼$影狼$No. 00</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|20|879|<span class="rank-name-pd">あいうえo</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|21|878|<span class="rank-name-pd">Jin Jin</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|22|872|<span class="rank-name-pd"><span class="pro-icon-pd"></span>濱口 和久</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|23|861|<span class="rank-name-pd">FUMIYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5985?s_seq=5985">BAR EST</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|24|857|<span class="rank-name-pd">FORTY SHOULDERS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|25|853|<span class="rank-name-pd">Hiro</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|25|853|<span class="rank-name-pd">すけさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|27|852|<span class="rank-name-pd">Numb</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|28|842|<span class="rank-name-pd">すず</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|28|842|<span class="rank-name-pd">カツキ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|30|841|<span class="rank-name-pd">とぅし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67175?s_seq=67175">HAMELN</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|30|841|<span class="rank-name-pd">上ノ原 勇次</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|32|833|<span class="rank-name-pd">sgr@HAMELN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67175?s_seq=67175">HAMELN</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|33|826|<span class="rank-name-pd">やか</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|34|822|<span class="rank-name-pd">tkmn</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|35|814|<span class="rank-name-pd">ナカムーϵ( &#x27;Θ&#x27; )϶</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67175?s_seq=67175">HAMELN</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|35|814|<span class="rank-name-pd">前っちょ@TiTO☆USA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|37|811|<span class="rank-name-pd">かつき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|38|810|<span class="rank-name-pd">小野 幸佑 JOKER DRIVER</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|39|809|<span class="rank-name-pd">898BBC</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67175?s_seq=67175">HAMELN</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|39|809|<span class="rank-name-pd">そめ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|41|801|<span class="rank-name-pd">0245_2291</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|42|793|<span class="rank-name-pd">トモトモ^ ^</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|43|787|<span class="rank-name-pd">20150131011716</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|44|784|<span class="rank-name-pd"><span class="pro-icon-pd"></span>酒井 辰聡</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|45|777|<span class="rank-name-pd">Masaki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|46|776|<span class="rank-name-pd">おにぎり隊長</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|47|772|<span class="rank-name-pd">★樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67175?s_seq=67175">HAMELN</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|48|770|<span class="rank-name-pd">しゅが〜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|49|766|<span class="rank-name-pd">テギュン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|49|766|<span class="rank-name-pd">上ノ原 勇次</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67175?s_seq=67175">HAMELN</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|51|765|<span class="rank-name-pd">FUMIYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67175?s_seq=67175">HAMELN</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|52|760|<span class="rank-name-pd">TAKA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|52|760|<span class="rank-name-pd">湾児</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|54|758|<span class="rank-name-pd">Hachi(*u3u*)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67175?s_seq=67175">HAMELN</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|55|755|<span class="rank-name-pd">ねこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|56|754|<span class="rank-name-pd">Mr.SHOTA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|56|754|<span class="rank-name-pd">☆ちーちゃん☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|58|750|<span class="rank-name-pd">ぽーりー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|59|746|<span class="rank-name-pd">FUMIYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|60|745|<span class="rank-name-pd">[K]417</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|60|745|<span class="rank-name-pd">こだけん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|62|744|<span class="rank-name-pd">0195_6272</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|63|740|<span class="rank-name-pd">あおと=TiTO USA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|63|740|<span class="rank-name-pd">へっぽこ丸</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|65|739|<span class="rank-name-pd">Rono</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|66|738|<span class="rank-name-pd">千田　道LIBERTY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|67|733|<span class="rank-name-pd">shota</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|67|733|<span class="rank-name-pd">ジャムを持参</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|69|731|<span class="rank-name-pd">zj7u37f906c907</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|69|731|<span class="rank-name-pd">亀仙人Ｊｒ.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67175?s_seq=67175">HAMELN</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|71|730|<span class="rank-name-pd">YUN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|71|730|<span class="rank-name-pd">publicSpace9</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_67175?s_seq=67175">HAMELN</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|73|728|<span class="rank-name-pd">せーや</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|73|728|<span class="rank-name-pd">ティラミスヒロ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|75|727|<span class="rank-name-pd">Matsu☆。.:＊・゜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|76|724|<span class="rank-name-pd">SHINGO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|77|720|<span class="rank-name-pd">Кμго(･д・)ﾉ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|78|719|<span class="rank-name-pd">0266_8093</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|78|719|<span class="rank-name-pd">＊L’Ascal＊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|80|718|<span class="rank-name-pd">Leeyu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|81|717|<span class="rank-name-pd">きもっっっさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|81|717|<span class="rank-name-pd">ぶちょ～(兄)@白い三連星</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|83|712|<span class="rank-name-pd">ぽん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|84|711|<span class="rank-name-pd">HAYATO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|85|710|<span class="rank-name-pd">RYO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|86|709|<span class="rank-name-pd">ゆっけ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|87|704|<span class="rank-name-pd">ぱんぷきん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|88|699|<span class="rank-name-pd">シン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|88|699|<span class="rank-name-pd">中川貴生【前嶋組】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|90|698|<span class="rank-name-pd">吉崎浩司（偽名）</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|91|696|<span class="rank-name-pd">じた</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_5985?s_seq=5985">BAR EST</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|92|695|<span class="rank-name-pd">τακα(*･ω･)ﾉ⌒≫→◎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|92|695|<span class="rank-name-pd">中川範子【前嶋組】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|94|693|<span class="rank-name-pd">ToMeko</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|95|692|<span class="rank-name-pd">ぐっちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|96|689|<span class="rank-name-pd">弱虫トレーナー@迷走中</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|97|685|<span class="rank-name-pd">MARUKO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|97|685|<span class="rank-name-pd">mizuo</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|99|684|<span class="rank-name-pd">☆リチャ～ドS★</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
+|100|680|<span class="rank-name-pd">ちゃんりょー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6449?s_seq=6449">自遊空間 中津池永店</a>|<a href="/darts/rank/大分県/中津市">大分県中津市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

@@ -23,7 +23,8 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|575|<span class="rank-name-pd">☠TERU☠</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65260?s_seq=65260">conceptbar Cosmicgirl</a>|<a href="/darts/rank/東京都/清瀬市">東京都清瀬市</a>|
+|1|622|<span class="rank-name-pd">0273_4889</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65260?s_seq=65260">conceptbar Cosmicgirl</a>|<a href="/darts/rank/東京都/清瀬市">東京都清瀬市</a>|
+|2|575|<span class="rank-name-pd">☠TERU☠</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65260?s_seq=65260">conceptbar Cosmicgirl</a>|<a href="/darts/rank/東京都/清瀬市">東京都清瀬市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -43,7 +44,8 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|575|<span class="rank-name-pd">☠TERU☠</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65260?s_seq=65260">conceptbar Cosmicgirl</a>|<a href="/darts/rank/東京都/清瀬市">東京都清瀬市</a>|
+|1|622|<span class="rank-name-pd">0273_4889</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65260?s_seq=65260">conceptbar Cosmicgirl</a>|<a href="/darts/rank/東京都/清瀬市">東京都清瀬市</a>|
+|2|575|<span class="rank-name-pd">☠TERU☠</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65260?s_seq=65260">conceptbar Cosmicgirl</a>|<a href="/darts/rank/東京都/清瀬市">東京都清瀬市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

@@ -24,105 +24,105 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|1207|<span class="rank-name-dl">ちんすこう山口</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|2|1200|<span class="rank-name-dl">ちんすこう山口</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
 |2|1200|<span class="rank-name-dl">衣織・怜音</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|3|1112|<span class="rank-name-dl">米糠嘔吐達磨</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|4|1103|<span class="rank-name-dl">浦井 裕太郎</span>|<a href="https://search.dartslive.com/jp/shop/a7427117351e97c20d9b047a20a7ba1e">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|5|1094|<span class="rank-name-dl">肉球ⅩⅣ</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|6|1088|<span class="rank-name-dl">みなみ ひでなみ</span>|<a href="https://search.dartslive.com/jp/shop/a7427117351e97c20d9b047a20a7ba1e">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|7|1085|<span class="rank-name-dl">雄淋鶏@勝田矢</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|8|1084|<span class="rank-name-dl">nobuじろー</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|9|1081|<span class="rank-name-dl">ふみぷぅ♪</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|10|1077|<span class="rank-name-pd">知野真澄【PHOENIXDARTS】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|11|1076|<span class="rank-name-dl">ちんすこう山口</span>|<a href="https://search.dartslive.com/jp/shop/52132efbec184ac40d9b047a20a7ba1e">Hide Out 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|12|1069|<span class="rank-name-dl">wattan</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|13|1065|<span class="rank-name-dl">yo-G＠ＲＡＩＺ</span>|<a href="https://search.dartslive.com/jp/shop/04709edbaa57cf5a0d9b047a20a7ba1e">Hide Out 川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|14|1061|<span class="rank-name-pd">ｙｏ－Ｇ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10024?s_seq=10024">DARTS SPACE Ray</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|15|1059|<span class="rank-name-dl">じゅんぺ@ZAZA</span>|<a href="https://search.dartslive.com/jp/shop/a7427117351e97c20d9b047a20a7ba1e">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|16|1055|<span class="rank-name-dl">要@ﾋﾟｯﾋﾟｯ</span>|<a href="https://search.dartslive.com/jp/shop/04709edbaa57cf5a0d9b047a20a7ba1e">Hide Out 川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|17|1051|<span class="rank-name-dl">神お。✯</span>|<a href="https://search.dartslive.com/jp/shop/a7427117351e97c20d9b047a20a7ba1e">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|18|1050|<span class="rank-name-dl">こんじLink西川口</span>|<a href="https://search.dartslive.com/jp/shop/a7427117351e97c20d9b047a20a7ba1e">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|18|1050|<span class="rank-name-pd">野島 伶支</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10024?s_seq=10024">DARTS SPACE Ray</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|20|1046|<span class="rank-name-dl">おおさかじゅんや</span>|<a href="https://search.dartslive.com/jp/shop/52132efbec184ac40d9b047a20a7ba1e">Hide Out 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|21|1045|<span class="rank-name-pd"><span class="pro-icon-pd"></span>南 英波</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|22|1044|<span class="rank-name-dl">営業ネコ</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|23|1043|<span class="rank-name-dl">rev.@KFC{会長}</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|24|1038|<span class="rank-name-dl">小山 智己</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|25|1036|<span class="rank-name-dl">六大将軍桓騎</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|25|1036|<span class="rank-name-pd"><span class="pro-icon-pd"></span>石川 寛之</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|27|1034|<span class="rank-name-dl">Takara Kaneko</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|28|1033|<span class="rank-name-dl">c</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|29|1029|<span class="rank-name-dl">佐々木寿人</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|30|1019|<span class="rank-name-dl">Link西川口</span>|<a href="https://search.dartslive.com/jp/shop/a7427117351e97c20d9b047a20a7ba1e">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|30|1019|<span class="rank-name-dl">飯田 竜郎</span>|<a href="https://search.dartslive.com/jp/shop/04709edbaa57cf5a0d9b047a20a7ba1e">Hide Out 川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|32|1015|<span class="rank-name-dl">=(^.^)=</span>|<a href="https://search.dartslive.com/jp/shop/4dbb2d396dd167cd0d9b047a20a7ba1e">N371</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|32|1015|<span class="rank-name-dl">倭 @Ray</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|34|1011|<span class="rank-name-dl">どん＠Re:ACT</span>|<a href="https://search.dartslive.com/jp/shop/04709edbaa57cf5a0d9b047a20a7ba1e">Hide Out 川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|35|1009|<span class="rank-name-dl">おぐ</span>|<a href="https://search.dartslive.com/jp/shop/a7427117351e97c20d9b047a20a7ba1e">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|36|1007|<span class="rank-name-dl">NO.NAME8931</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|36|1007|<span class="rank-name-dl">雄淋鶏@炊けない</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|38|1006|<span class="rank-name-dl">Re:’えす’</span>|<a href="https://search.dartslive.com/jp/shop/a7427117351e97c20d9b047a20a7ba1e">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|39|1005|<span class="rank-name-dl">ギンシャリボーイ</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|39|1005|<span class="rank-name-dl">子連れ狼</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|39|1005|<span class="rank-name-dl">猫さん</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|42|1004|<span class="rank-name-dl">Aja25@Ts</span>|<a href="https://search.dartslive.com/jp/shop/52132efbec184ac40d9b047a20a7ba1e">Hide Out 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|43|994|<span class="rank-name-dl">tamu</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|44|988|<span class="rank-name-dl">Yoshi*D-Wave*</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|45|985|<span class="rank-name-dl">タツヤ@ＨＯ</span>|<a href="https://search.dartslive.com/jp/shop/52132efbec184ac40d9b047a20a7ba1e">Hide Out 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|46|982|<span class="rank-name-dl">あっくん</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|47|980|<span class="rank-name-dl">Taka</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|48|978|<span class="rank-name-dl">雄淋鶏@炊けない</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|49|976|<span class="rank-name-pd">入江 祐輔</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87521?s_seq=87521">trinity</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|50|974|<span class="rank-name-dl">ＲＯＮＳＯＮ</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|51|973|<span class="rank-name-pd"><span class="pro-icon-pd"></span>市川 勇太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|51|973|<span class="rank-name-dl">雄淋鶏@勝田矢</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|53|972|<span class="rank-name-dl">SEIJI-era-UMI</span>|<a href="https://search.dartslive.com/jp/shop/04709edbaa57cf5a0d9b047a20a7ba1e">Hide Out 川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|54|970|<span class="rank-name-dl">tamu</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|55|969|<span class="rank-name-dl">みっつー</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|56|967|<span class="rank-name-dl">102川口</span>|<a href="https://search.dartslive.com/jp/shop/04709edbaa57cf5a0d9b047a20a7ba1e">Hide Out 川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|56|967|<span class="rank-name-dl">Swamp氏＠ぬま</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|56|967|<span class="rank-name-dl">●(∫∇`)／てる</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|59|966|<span class="rank-name-pd">TAKA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10024?s_seq=10024">DARTS SPACE Ray</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|59|966|<span class="rank-name-dl">ハイサイあぐー</span>|<a href="https://search.dartslive.com/jp/shop/a7427117351e97c20d9b047a20a7ba1e">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|61|965|<span class="rank-name-dl">カミヤマナ</span>|<a href="https://search.dartslive.com/jp/shop/52132efbec184ac40d9b047a20a7ba1e">Hide Out 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|62|964|<span class="rank-name-dl">nobu</span>|<a href="https://search.dartslive.com/jp/shop/52132efbec184ac40d9b047a20a7ba1e">Hide Out 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|63|963|<span class="rank-name-dl">なおや@シーブル</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|64|962|<span class="rank-name-pd"><span class="pro-icon-pd"></span>今北 侑吾</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|65|961|<span class="rank-name-dl">おっぷす！</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|65|961|<span class="rank-name-dl">岩森 康平☆ｶｴﾙ団</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|67|960|<span class="rank-name-dl">みわ</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|67|960|<span class="rank-name-pd"><span class="pro-icon-pd"></span>好井 哲也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91336?s_seq=91336">Forktale</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|67|960|<span class="rank-name-dl">蓮見拓也</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|70|959|<span class="rank-name-dl">ヵッォ</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|71|958|<span class="rank-name-dl">KOCHAN</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|71|958|<span class="rank-name-dl">haruya</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|71|958|<span class="rank-name-dl">田部 翔一</span>|<a href="https://search.dartslive.com/jp/shop/52132efbec184ac40d9b047a20a7ba1e">Hide Out 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|71|958|<span class="rank-name-dl">Ｒｅｉ</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|75|955|<span class="rank-name-dl">ぎーだ(°▽°)</span>|<a href="https://search.dartslive.com/jp/shop/04709edbaa57cf5a0d9b047a20a7ba1e">Hide Out 川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|75|955|<span class="rank-name-dl">最速kouki</span>|<a href="https://search.dartslive.com/jp/shop/52132efbec184ac40d9b047a20a7ba1e">Hide Out 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|75|955|<span class="rank-name-dl">ｳﾙﾙﾝﾊｳｽﾀﾞｰﾂ中</span>|<a href="https://search.dartslive.com/jp/shop/04709edbaa57cf5a0d9b047a20a7ba1e">Hide Out 川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|78|954|<span class="rank-name-dl">こぞう</span>|<a href="https://search.dartslive.com/jp/shop/a7427117351e97c20d9b047a20a7ba1e">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|78|954|<span class="rank-name-dl">佐々木寿人</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|80|952|<span class="rank-name-dl">kou</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|80|952|<span class="rank-name-dl">ダッチ</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|80|952|<span class="rank-name-dl">ハンバーグ@Hide</span>|<a href="https://search.dartslive.com/jp/shop/52132efbec184ac40d9b047a20a7ba1e">Hide Out 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|83|950|<span class="rank-name-dl">KOCHAN</span>|<a href="https://search.dartslive.com/jp/shop/04709edbaa57cf5a0d9b047a20a7ba1e">Hide Out 川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|84|948|<span class="rank-name-pd">【凡】西海  将</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|85|947|<span class="rank-name-dl">sepaじろー</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|86|945|<span class="rank-name-dl">おおさかじゅんや</span>|<a href="https://search.dartslive.com/jp/shop/04709edbaa57cf5a0d9b047a20a7ba1e">Hide Out 川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|87|944|<span class="rank-name-dl">まは</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|87|944|<span class="rank-name-dl">日本最速kouki</span>|<a href="https://search.dartslive.com/jp/shop/52132efbec184ac40d9b047a20a7ba1e">Hide Out 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|89|943|<span class="rank-name-dl">真田 幸綱</span>|<a href="https://search.dartslive.com/jp/shop/04709edbaa57cf5a0d9b047a20a7ba1e">Hide Out 川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|90|942|<span class="rank-name-dl">Cook man</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|91|940|<span class="rank-name-dl">kenshi</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|91|940|<span class="rank-name-dl">田部 翔一</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|93|939|<span class="rank-name-dl">ヒロ</span>|<a href="https://search.dartslive.com/jp/shop/a7427117351e97c20d9b047a20a7ba1e">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|94|938|<span class="rank-name-dl">食べ</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|95|934|<span class="rank-name-pd">Яуцτа‡Ψ†Ψ†Ψ‡</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|96|933|<span class="rank-name-dl">のりぽん</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|96|933|<span class="rank-name-dl">やまもとかんとく</span>|<a href="https://search.dartslive.com/jp/shop/52132efbec184ac40d9b047a20a7ba1e">Hide Out 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|98|932|<span class="rank-name-pd">SON</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10024?s_seq=10024">DARTS SPACE Ray</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|98|932|<span class="rank-name-dl">肉球ⅩⅣ</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|100|930|<span class="rank-name-dl">つー</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|4|1169|<span class="rank-name-dl">NO NAME 8214</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|4|1169|<span class="rank-name-dl">西谷 譲二</span>|<a href="https://search.dartslive.com/jp/shop/a7427117351e97c20d9b047a20a7ba1e">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|6|1157|<span class="rank-name-dl">麻生 大樹</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|7|1154|<span class="rank-name-dl">米糠嘔吐達磨</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|8|1143|<span class="rank-name-dl">ちんすこう山口</span>|<a href="https://search.dartslive.com/jp/shop/04709edbaa57cf5a0d9b047a20a7ba1e">Hide Out 川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|9|1129|<span class="rank-name-dl">雄淋鶏@鱒どまり</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|10|1118|<span class="rank-name-dl">HideOut ゆうき</span>|<a href="https://search.dartslive.com/jp/shop/52132efbec184ac40d9b047a20a7ba1e">Hide Out 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|11|1112|<span class="rank-name-dl">wattan</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|12|1111|<span class="rank-name-pd"><span class="pro-icon-pd"></span>松波 甫</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|13|1103|<span class="rank-name-dl">浦井 裕太郎</span>|<a href="https://search.dartslive.com/jp/shop/a7427117351e97c20d9b047a20a7ba1e">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|14|1094|<span class="rank-name-dl">肉球ⅩⅣ</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|15|1088|<span class="rank-name-dl">あき☆</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|15|1088|<span class="rank-name-dl">しゅん太郎A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/a7427117351e97c20d9b047a20a7ba1e">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|15|1088|<span class="rank-name-dl">みなみ ひでなみ</span>|<a href="https://search.dartslive.com/jp/shop/a7427117351e97c20d9b047a20a7ba1e">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|18|1085|<span class="rank-name-dl">雄淋鶏@勝田矢</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|19|1084|<span class="rank-name-dl">NISHINO2</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|19|1084|<span class="rank-name-dl">nobuじろー</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|21|1081|<span class="rank-name-dl">ふみぷぅ♪</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|22|1079|<span class="rank-name-dl">こんじLink西川口</span>|<a href="https://search.dartslive.com/jp/shop/a7427117351e97c20d9b047a20a7ba1e">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|22|1079|<span class="rank-name-dl">桓騎</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|24|1078|<span class="rank-name-dl">しょ@MODERNTIMES</span>|<a href="https://search.dartslive.com/jp/shop/4dbb2d396dd167cd0d9b047a20a7ba1e">N371</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|25|1077|<span class="rank-name-dl">SSR肉球ｲｼﾀ</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|25|1077|<span class="rank-name-dl">みるきぃ@link</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|25|1077|<span class="rank-name-pd">知野真澄【PHOENIXDARTS】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|28|1076|<span class="rank-name-dl">ちんすこう山口</span>|<a href="https://search.dartslive.com/jp/shop/52132efbec184ac40d9b047a20a7ba1e">Hide Out 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|29|1075|<span class="rank-name-dl">しょ@MODERNTIMES</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|30|1071|<span class="rank-name-dl">ＫＫＨＲＳＮＧ</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|31|1065|<span class="rank-name-dl">yo-G＠ＲＡＩＺ</span>|<a href="https://search.dartslive.com/jp/shop/04709edbaa57cf5a0d9b047a20a7ba1e">Hide Out 川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|32|1063|<span class="rank-name-dl">ダンボーマン</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|33|1061|<span class="rank-name-pd">ｙｏ－Ｇ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10024?s_seq=10024">DARTS SPACE Ray</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|34|1060|<span class="rank-name-dl">有原 竜太</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|35|1059|<span class="rank-name-dl">じゅんぺ@ZAZA</span>|<a href="https://search.dartslive.com/jp/shop/a7427117351e97c20d9b047a20a7ba1e">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|35|1059|<span class="rank-name-dl">雄淋鶏</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|37|1058|<span class="rank-name-pd"><span class="pro-icon-pd"></span>今北 侑吾</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|38|1057|<span class="rank-name-dl">ぎーだ(°▽°)</span>|<a href="https://search.dartslive.com/jp/shop/04709edbaa57cf5a0d9b047a20a7ba1e">Hide Out 川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|39|1056|<span class="rank-name-dl">ゑゐ</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|40|1055|<span class="rank-name-dl">༺yachimaru༻</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|40|1055|<span class="rank-name-dl">要@ﾋﾟｯﾋﾟｯ</span>|<a href="https://search.dartslive.com/jp/shop/04709edbaa57cf5a0d9b047a20a7ba1e">Hide Out 川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|42|1054|<span class="rank-name-dl">やまぐちかんた</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|43|1051|<span class="rank-name-dl">神お。✯</span>|<a href="https://search.dartslive.com/jp/shop/a7427117351e97c20d9b047a20a7ba1e">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|44|1050|<span class="rank-name-pd">野島 伶支</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10024?s_seq=10024">DARTS SPACE Ray</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|44|1050|<span class="rank-name-dl">飯田 竜郎</span>|<a href="https://search.dartslive.com/jp/shop/04709edbaa57cf5a0d9b047a20a7ba1e">Hide Out 川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|46|1049|<span class="rank-name-dl">なおや@シーブル</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|47|1048|<span class="rank-name-dl">102川口</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|47|1048|<span class="rank-name-dl">（＾ω＾）</span>|<a href="https://search.dartslive.com/jp/shop/4dbb2d396dd167cd0d9b047a20a7ba1e">N371</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|49|1047|<span class="rank-name-dl">まこにゃんﾏﾝ</span>|<a href="https://search.dartslive.com/jp/shop/d0ec30c4063e65600d9b047a20a7ba1e">ZINO 川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|49|1047|<span class="rank-name-dl">佐藤史弥</span>|<a href="https://search.dartslive.com/jp/shop/04709edbaa57cf5a0d9b047a20a7ba1e">Hide Out 川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|51|1046|<span class="rank-name-dl">おおさかじゅんや</span>|<a href="https://search.dartslive.com/jp/shop/52132efbec184ac40d9b047a20a7ba1e">Hide Out 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|52|1045|<span class="rank-name-pd"><span class="pro-icon-pd"></span>南 英波</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|53|1044|<span class="rank-name-dl">営業ネコ</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|53|1044|<span class="rank-name-pd"><span class="pro-icon-pd"></span>石川 寛之</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|55|1043|<span class="rank-name-dl">rev.@KFC{会長}</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|56|1042|<span class="rank-name-dl">あじゃ@HeadRock</span>|<a href="https://search.dartslive.com/jp/shop/a7427117351e97c20d9b047a20a7ba1e">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|57|1038|<span class="rank-name-dl">小山 智己</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|58|1036|<span class="rank-name-dl">NYAPPY@JACK紅</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|58|1036|<span class="rank-name-dl">六大将軍桓騎</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|60|1034|<span class="rank-name-dl">Takara Kaneko</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|61|1033|<span class="rank-name-dl">c</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|62|1029|<span class="rank-name-dl">佐々木寿人</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|63|1028|<span class="rank-name-dl">ひろ10</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|64|1027|<span class="rank-name-dl">$HØTД✟ ŧ ‹&quot;</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|64|1027|<span class="rank-name-dl">竜崎剣一龍</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|66|1026|<span class="rank-name-dl">TOTTI</span>|<a href="https://search.dartslive.com/jp/shop/04709edbaa57cf5a0d9b047a20a7ba1e">Hide Out 川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|67|1024|<span class="rank-name-dl">土井 大輝</span>|<a href="https://search.dartslive.com/jp/shop/a7427117351e97c20d9b047a20a7ba1e">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|68|1022|<span class="rank-name-dl">Tung Suk 東叔</span>|<a href="https://search.dartslive.com/jp/shop/a7427117351e97c20d9b047a20a7ba1e">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|68|1022|<span class="rank-name-dl">おおさかじゅんや</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|70|1019|<span class="rank-name-dl">BIG BULL</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|70|1019|<span class="rank-name-dl">Link西川口</span>|<a href="https://search.dartslive.com/jp/shop/a7427117351e97c20d9b047a20a7ba1e">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|72|1015|<span class="rank-name-dl">=(^.^)=</span>|<a href="https://search.dartslive.com/jp/shop/4dbb2d396dd167cd0d9b047a20a7ba1e">N371</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|72|1015|<span class="rank-name-dl">倭 @Ray</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|72|1015|<span class="rank-name-dl">田部 翔一</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|75|1014|<span class="rank-name-dl">このみん</span>|<a href="https://search.dartslive.com/jp/shop/a7427117351e97c20d9b047a20a7ba1e">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|75|1014|<span class="rank-name-dl">しょ@MODERNTIMES</span>|<a href="https://search.dartslive.com/jp/shop/6a1450abd6367f8b5f9f3321c1147265">UP川口</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|77|1013|<span class="rank-name-dl">BODY⌒➴◎</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|78|1012|<span class="rank-name-dl">暇で寂しいよー</span>|<a href="https://search.dartslive.com/jp/shop/5ec405877f5d0fa525d56fb0e5c39bac">Bar SUI</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|78|1012|<span class="rank-name-dl">雄淋鶏</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|80|1011|<span class="rank-name-dl">どん＠Re:ACT</span>|<a href="https://search.dartslive.com/jp/shop/04709edbaa57cf5a0d9b047a20a7ba1e">Hide Out 川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|80|1011|<span class="rank-name-dl">大竹　慎吾</span>|<a href="https://search.dartslive.com/jp/shop/a7427117351e97c20d9b047a20a7ba1e">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|80|1011|<span class="rank-name-dl">田部 翔一</span>|<a href="https://search.dartslive.com/jp/shop/52132efbec184ac40d9b047a20a7ba1e">Hide Out 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|83|1009|<span class="rank-name-dl">おぐ</span>|<a href="https://search.dartslive.com/jp/shop/a7427117351e97c20d9b047a20a7ba1e">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|84|1008|<span class="rank-name-dl">RYU</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|84|1008|<span class="rank-name-dl">あっくん</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|84|1008|<span class="rank-name-dl">えや･ﾟ*｡☆･</span>|<a href="https://search.dartslive.com/jp/shop/a7427117351e97c20d9b047a20a7ba1e">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|84|1008|<span class="rank-name-dl">ゆん^. ̫ .^‪</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|84|1008|<span class="rank-name-dl">獠⁀➷</span>|<a href="https://search.dartslive.com/jp/shop/6a1450abd6367f8b5f9f3321c1147265">UP川口</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|84|1008|<span class="rank-name-dl">雄淋鶏@鱒どまり</span>|<a href="https://search.dartslive.com/jp/shop/04709edbaa57cf5a0d9b047a20a7ba1e">Hide Out 川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|84|1008|<span class="rank-name-dl">ﾕｰﾏ@KFC{隊長}</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|91|1007|<span class="rank-name-dl">NO.NAME8931</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|91|1007|<span class="rank-name-dl">とうふ</span>|<a href="https://search.dartslive.com/jp/shop/04709edbaa57cf5a0d9b047a20a7ba1e">Hide Out 川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|91|1007|<span class="rank-name-dl">はまり</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|91|1007|<span class="rank-name-dl">雄淋鶏@炊けない</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|95|1006|<span class="rank-name-dl">Re:’えす’</span>|<a href="https://search.dartslive.com/jp/shop/a7427117351e97c20d9b047a20a7ba1e">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|96|1005|<span class="rank-name-dl">SEIJI-era-UMI</span>|<a href="https://search.dartslive.com/jp/shop/52132efbec184ac40d9b047a20a7ba1e">Hide Out 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|96|1005|<span class="rank-name-dl">ギンシャリボーイ</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|96|1005|<span class="rank-name-dl">子連れ狼</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|96|1005|<span class="rank-name-dl">猫さん</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|96|1005|<span class="rank-name-dl">ＲＯＮＳＯＮ</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -133,105 +133,105 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|1207|<span class="rank-name-dl">ちんすこう山口</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|2|1200|<span class="rank-name-dl">ちんすこう山口</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
 |2|1200|<span class="rank-name-dl">衣織・怜音</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|3|1112|<span class="rank-name-dl">米糠嘔吐達磨</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|4|1103|<span class="rank-name-dl">浦井 裕太郎</span>|<a href="https://search.dartslive.com/jp/shop/a7427117351e97c20d9b047a20a7ba1e">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|5|1094|<span class="rank-name-dl">肉球ⅩⅣ</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|6|1088|<span class="rank-name-dl">みなみ ひでなみ</span>|<a href="https://search.dartslive.com/jp/shop/a7427117351e97c20d9b047a20a7ba1e">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|7|1085|<span class="rank-name-dl">雄淋鶏@勝田矢</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|8|1084|<span class="rank-name-dl">nobuじろー</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|9|1081|<span class="rank-name-dl">ふみぷぅ♪</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|10|1076|<span class="rank-name-dl">ちんすこう山口</span>|<a href="https://search.dartslive.com/jp/shop/52132efbec184ac40d9b047a20a7ba1e">Hide Out 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|11|1069|<span class="rank-name-dl">wattan</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|12|1065|<span class="rank-name-dl">yo-G＠ＲＡＩＺ</span>|<a href="https://search.dartslive.com/jp/shop/04709edbaa57cf5a0d9b047a20a7ba1e">Hide Out 川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|13|1059|<span class="rank-name-dl">じゅんぺ@ZAZA</span>|<a href="https://search.dartslive.com/jp/shop/a7427117351e97c20d9b047a20a7ba1e">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|14|1055|<span class="rank-name-dl">要@ﾋﾟｯﾋﾟｯ</span>|<a href="https://search.dartslive.com/jp/shop/04709edbaa57cf5a0d9b047a20a7ba1e">Hide Out 川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|15|1051|<span class="rank-name-dl">神お。✯</span>|<a href="https://search.dartslive.com/jp/shop/a7427117351e97c20d9b047a20a7ba1e">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|16|1050|<span class="rank-name-dl">こんじLink西川口</span>|<a href="https://search.dartslive.com/jp/shop/a7427117351e97c20d9b047a20a7ba1e">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|17|1046|<span class="rank-name-dl">おおさかじゅんや</span>|<a href="https://search.dartslive.com/jp/shop/52132efbec184ac40d9b047a20a7ba1e">Hide Out 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|18|1044|<span class="rank-name-dl">営業ネコ</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|19|1043|<span class="rank-name-dl">rev.@KFC{会長}</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|20|1038|<span class="rank-name-dl">小山 智己</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|21|1036|<span class="rank-name-dl">六大将軍桓騎</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|22|1034|<span class="rank-name-dl">Takara Kaneko</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|23|1033|<span class="rank-name-dl">c</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|24|1029|<span class="rank-name-dl">佐々木寿人</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|25|1019|<span class="rank-name-dl">Link西川口</span>|<a href="https://search.dartslive.com/jp/shop/a7427117351e97c20d9b047a20a7ba1e">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|25|1019|<span class="rank-name-dl">飯田 竜郎</span>|<a href="https://search.dartslive.com/jp/shop/04709edbaa57cf5a0d9b047a20a7ba1e">Hide Out 川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|27|1015|<span class="rank-name-dl">=(^.^)=</span>|<a href="https://search.dartslive.com/jp/shop/4dbb2d396dd167cd0d9b047a20a7ba1e">N371</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|27|1015|<span class="rank-name-dl">倭 @Ray</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|29|1011|<span class="rank-name-dl">どん＠Re:ACT</span>|<a href="https://search.dartslive.com/jp/shop/04709edbaa57cf5a0d9b047a20a7ba1e">Hide Out 川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|30|1009|<span class="rank-name-dl">おぐ</span>|<a href="https://search.dartslive.com/jp/shop/a7427117351e97c20d9b047a20a7ba1e">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|31|1007|<span class="rank-name-dl">NO.NAME8931</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|31|1007|<span class="rank-name-dl">雄淋鶏@炊けない</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|33|1006|<span class="rank-name-dl">Re:’えす’</span>|<a href="https://search.dartslive.com/jp/shop/a7427117351e97c20d9b047a20a7ba1e">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|34|1005|<span class="rank-name-dl">ギンシャリボーイ</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|34|1005|<span class="rank-name-dl">子連れ狼</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|34|1005|<span class="rank-name-dl">猫さん</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|37|1004|<span class="rank-name-dl">Aja25@Ts</span>|<a href="https://search.dartslive.com/jp/shop/52132efbec184ac40d9b047a20a7ba1e">Hide Out 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|38|994|<span class="rank-name-dl">tamu</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|39|988|<span class="rank-name-dl">Yoshi*D-Wave*</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|40|985|<span class="rank-name-dl">タツヤ@ＨＯ</span>|<a href="https://search.dartslive.com/jp/shop/52132efbec184ac40d9b047a20a7ba1e">Hide Out 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|41|982|<span class="rank-name-dl">あっくん</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|42|980|<span class="rank-name-dl">Taka</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|43|978|<span class="rank-name-dl">雄淋鶏@炊けない</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|44|974|<span class="rank-name-dl">ＲＯＮＳＯＮ</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|45|973|<span class="rank-name-dl">雄淋鶏@勝田矢</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|46|972|<span class="rank-name-dl">SEIJI-era-UMI</span>|<a href="https://search.dartslive.com/jp/shop/04709edbaa57cf5a0d9b047a20a7ba1e">Hide Out 川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|47|970|<span class="rank-name-dl">tamu</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|48|969|<span class="rank-name-dl">みっつー</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|49|967|<span class="rank-name-dl">102川口</span>|<a href="https://search.dartslive.com/jp/shop/04709edbaa57cf5a0d9b047a20a7ba1e">Hide Out 川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|49|967|<span class="rank-name-dl">Swamp氏＠ぬま</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|49|967|<span class="rank-name-dl">●(∫∇`)／てる</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|52|966|<span class="rank-name-dl">ハイサイあぐー</span>|<a href="https://search.dartslive.com/jp/shop/a7427117351e97c20d9b047a20a7ba1e">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|53|965|<span class="rank-name-dl">カミヤマナ</span>|<a href="https://search.dartslive.com/jp/shop/52132efbec184ac40d9b047a20a7ba1e">Hide Out 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|54|964|<span class="rank-name-dl">nobu</span>|<a href="https://search.dartslive.com/jp/shop/52132efbec184ac40d9b047a20a7ba1e">Hide Out 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|55|963|<span class="rank-name-dl">なおや@シーブル</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|56|961|<span class="rank-name-dl">おっぷす！</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|56|961|<span class="rank-name-dl">岩森 康平☆ｶｴﾙ団</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|58|960|<span class="rank-name-dl">みわ</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|58|960|<span class="rank-name-dl">蓮見拓也</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|60|959|<span class="rank-name-dl">ヵッォ</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|61|958|<span class="rank-name-dl">KOCHAN</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|61|958|<span class="rank-name-dl">haruya</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|61|958|<span class="rank-name-dl">田部 翔一</span>|<a href="https://search.dartslive.com/jp/shop/52132efbec184ac40d9b047a20a7ba1e">Hide Out 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|61|958|<span class="rank-name-dl">Ｒｅｉ</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|65|955|<span class="rank-name-dl">ぎーだ(°▽°)</span>|<a href="https://search.dartslive.com/jp/shop/04709edbaa57cf5a0d9b047a20a7ba1e">Hide Out 川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|65|955|<span class="rank-name-dl">最速kouki</span>|<a href="https://search.dartslive.com/jp/shop/52132efbec184ac40d9b047a20a7ba1e">Hide Out 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|65|955|<span class="rank-name-dl">ｳﾙﾙﾝﾊｳｽﾀﾞｰﾂ中</span>|<a href="https://search.dartslive.com/jp/shop/04709edbaa57cf5a0d9b047a20a7ba1e">Hide Out 川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|68|954|<span class="rank-name-dl">こぞう</span>|<a href="https://search.dartslive.com/jp/shop/a7427117351e97c20d9b047a20a7ba1e">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|68|954|<span class="rank-name-dl">佐々木寿人</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|70|952|<span class="rank-name-dl">kou</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|70|952|<span class="rank-name-dl">ダッチ</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|70|952|<span class="rank-name-dl">ハンバーグ@Hide</span>|<a href="https://search.dartslive.com/jp/shop/52132efbec184ac40d9b047a20a7ba1e">Hide Out 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|73|950|<span class="rank-name-dl">KOCHAN</span>|<a href="https://search.dartslive.com/jp/shop/04709edbaa57cf5a0d9b047a20a7ba1e">Hide Out 川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|74|947|<span class="rank-name-dl">sepaじろー</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|75|945|<span class="rank-name-dl">おおさかじゅんや</span>|<a href="https://search.dartslive.com/jp/shop/04709edbaa57cf5a0d9b047a20a7ba1e">Hide Out 川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|76|944|<span class="rank-name-dl">まは</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|76|944|<span class="rank-name-dl">日本最速kouki</span>|<a href="https://search.dartslive.com/jp/shop/52132efbec184ac40d9b047a20a7ba1e">Hide Out 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|78|943|<span class="rank-name-dl">真田 幸綱</span>|<a href="https://search.dartslive.com/jp/shop/04709edbaa57cf5a0d9b047a20a7ba1e">Hide Out 川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|79|942|<span class="rank-name-dl">Cook man</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|80|940|<span class="rank-name-dl">kenshi</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|80|940|<span class="rank-name-dl">田部 翔一</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|82|939|<span class="rank-name-dl">ヒロ</span>|<a href="https://search.dartslive.com/jp/shop/a7427117351e97c20d9b047a20a7ba1e">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|83|938|<span class="rank-name-dl">食べ</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|84|933|<span class="rank-name-dl">のりぽん</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|84|933|<span class="rank-name-dl">やまもとかんとく</span>|<a href="https://search.dartslive.com/jp/shop/52132efbec184ac40d9b047a20a7ba1e">Hide Out 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|86|932|<span class="rank-name-dl">肉球ⅩⅣ</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|87|930|<span class="rank-name-dl">つー</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|88|929|<span class="rank-name-dl">きっしー</span>|<a href="https://search.dartslive.com/jp/shop/04709edbaa57cf5a0d9b047a20a7ba1e">Hide Out 川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|89|926|<span class="rank-name-dl">【凡】…海 将</span>|<a href="https://search.dartslive.com/jp/shop/a7427117351e97c20d9b047a20a7ba1e">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|90|921|<span class="rank-name-dl">がほ</span>|<a href="https://search.dartslive.com/jp/shop/a7427117351e97c20d9b047a20a7ba1e">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|91|919|<span class="rank-name-dl">トントロ</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|92|915|<span class="rank-name-dl">りょっち⁀➷</span>|<a href="https://search.dartslive.com/jp/shop/6a1450abd6367f8b5f9f3321c1147265">UP川口</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|93|914|<span class="rank-name-dl">KOCHAN</span>|<a href="https://search.dartslive.com/jp/shop/52132efbec184ac40d9b047a20a7ba1e">Hide Out 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|93|914|<span class="rank-name-dl">Ka-Na</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|95|913|<span class="rank-name-dl">ゆゆーたっぷぷ。</span>|<a href="https://search.dartslive.com/jp/shop/04709edbaa57cf5a0d9b047a20a7ba1e">Hide Out 川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|95|913|<span class="rank-name-dl">食べ</span>|<a href="https://search.dartslive.com/jp/shop/52132efbec184ac40d9b047a20a7ba1e">Hide Out 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|95|913|<span class="rank-name-dl">飯田 竜郎</span>|<a href="https://search.dartslive.com/jp/shop/4dbb2d396dd167cd0d9b047a20a7ba1e">N371</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|98|912|<span class="rank-name-dl">おタキ。</span>|<a href="https://search.dartslive.com/jp/shop/6a1450abd6367f8b5f9f3321c1147265">UP川口</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|99|910|<span class="rank-name-dl">K-River</span>|<a href="https://search.dartslive.com/jp/shop/04709edbaa57cf5a0d9b047a20a7ba1e">Hide Out 川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|100|909|<span class="rank-name-dl">東城すみれ</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|4|1169|<span class="rank-name-dl">NO NAME 8214</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|4|1169|<span class="rank-name-dl">西谷 譲二</span>|<a href="https://search.dartslive.com/jp/shop/a7427117351e97c20d9b047a20a7ba1e">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|6|1157|<span class="rank-name-dl">麻生 大樹</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|7|1154|<span class="rank-name-dl">米糠嘔吐達磨</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|8|1143|<span class="rank-name-dl">ちんすこう山口</span>|<a href="https://search.dartslive.com/jp/shop/04709edbaa57cf5a0d9b047a20a7ba1e">Hide Out 川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|9|1129|<span class="rank-name-dl">雄淋鶏@鱒どまり</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|10|1118|<span class="rank-name-dl">HideOut ゆうき</span>|<a href="https://search.dartslive.com/jp/shop/52132efbec184ac40d9b047a20a7ba1e">Hide Out 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|11|1112|<span class="rank-name-dl">wattan</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|12|1103|<span class="rank-name-dl">浦井 裕太郎</span>|<a href="https://search.dartslive.com/jp/shop/a7427117351e97c20d9b047a20a7ba1e">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|13|1094|<span class="rank-name-dl">肉球ⅩⅣ</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|14|1088|<span class="rank-name-dl">あき☆</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|14|1088|<span class="rank-name-dl">しゅん太郎A-FLOW</span>|<a href="https://search.dartslive.com/jp/shop/a7427117351e97c20d9b047a20a7ba1e">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|14|1088|<span class="rank-name-dl">みなみ ひでなみ</span>|<a href="https://search.dartslive.com/jp/shop/a7427117351e97c20d9b047a20a7ba1e">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|17|1085|<span class="rank-name-dl">雄淋鶏@勝田矢</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|18|1084|<span class="rank-name-dl">NISHINO2</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|18|1084|<span class="rank-name-dl">nobuじろー</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|20|1081|<span class="rank-name-dl">ふみぷぅ♪</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|21|1079|<span class="rank-name-dl">こんじLink西川口</span>|<a href="https://search.dartslive.com/jp/shop/a7427117351e97c20d9b047a20a7ba1e">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|21|1079|<span class="rank-name-dl">桓騎</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|23|1078|<span class="rank-name-dl">しょ@MODERNTIMES</span>|<a href="https://search.dartslive.com/jp/shop/4dbb2d396dd167cd0d9b047a20a7ba1e">N371</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|24|1077|<span class="rank-name-dl">SSR肉球ｲｼﾀ</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|24|1077|<span class="rank-name-dl">みるきぃ@link</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|26|1076|<span class="rank-name-dl">ちんすこう山口</span>|<a href="https://search.dartslive.com/jp/shop/52132efbec184ac40d9b047a20a7ba1e">Hide Out 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|27|1075|<span class="rank-name-dl">しょ@MODERNTIMES</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|28|1071|<span class="rank-name-dl">ＫＫＨＲＳＮＧ</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|29|1065|<span class="rank-name-dl">yo-G＠ＲＡＩＺ</span>|<a href="https://search.dartslive.com/jp/shop/04709edbaa57cf5a0d9b047a20a7ba1e">Hide Out 川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|30|1063|<span class="rank-name-dl">ダンボーマン</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|31|1060|<span class="rank-name-dl">有原 竜太</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|32|1059|<span class="rank-name-dl">じゅんぺ@ZAZA</span>|<a href="https://search.dartslive.com/jp/shop/a7427117351e97c20d9b047a20a7ba1e">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|32|1059|<span class="rank-name-dl">雄淋鶏</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|34|1057|<span class="rank-name-dl">ぎーだ(°▽°)</span>|<a href="https://search.dartslive.com/jp/shop/04709edbaa57cf5a0d9b047a20a7ba1e">Hide Out 川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|35|1056|<span class="rank-name-dl">ゑゐ</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|36|1055|<span class="rank-name-dl">༺yachimaru༻</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|36|1055|<span class="rank-name-dl">要@ﾋﾟｯﾋﾟｯ</span>|<a href="https://search.dartslive.com/jp/shop/04709edbaa57cf5a0d9b047a20a7ba1e">Hide Out 川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|38|1054|<span class="rank-name-dl">やまぐちかんた</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|39|1051|<span class="rank-name-dl">神お。✯</span>|<a href="https://search.dartslive.com/jp/shop/a7427117351e97c20d9b047a20a7ba1e">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|40|1050|<span class="rank-name-dl">飯田 竜郎</span>|<a href="https://search.dartslive.com/jp/shop/04709edbaa57cf5a0d9b047a20a7ba1e">Hide Out 川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|41|1049|<span class="rank-name-dl">なおや@シーブル</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|42|1048|<span class="rank-name-dl">102川口</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|42|1048|<span class="rank-name-dl">（＾ω＾）</span>|<a href="https://search.dartslive.com/jp/shop/4dbb2d396dd167cd0d9b047a20a7ba1e">N371</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|44|1047|<span class="rank-name-dl">まこにゃんﾏﾝ</span>|<a href="https://search.dartslive.com/jp/shop/d0ec30c4063e65600d9b047a20a7ba1e">ZINO 川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|44|1047|<span class="rank-name-dl">佐藤史弥</span>|<a href="https://search.dartslive.com/jp/shop/04709edbaa57cf5a0d9b047a20a7ba1e">Hide Out 川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|46|1046|<span class="rank-name-dl">おおさかじゅんや</span>|<a href="https://search.dartslive.com/jp/shop/52132efbec184ac40d9b047a20a7ba1e">Hide Out 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|47|1044|<span class="rank-name-dl">営業ネコ</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|48|1043|<span class="rank-name-dl">rev.@KFC{会長}</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|49|1042|<span class="rank-name-dl">あじゃ@HeadRock</span>|<a href="https://search.dartslive.com/jp/shop/a7427117351e97c20d9b047a20a7ba1e">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|50|1038|<span class="rank-name-dl">小山 智己</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|51|1036|<span class="rank-name-dl">NYAPPY@JACK紅</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|51|1036|<span class="rank-name-dl">六大将軍桓騎</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|53|1034|<span class="rank-name-dl">Takara Kaneko</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|54|1033|<span class="rank-name-dl">c</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|55|1029|<span class="rank-name-dl">佐々木寿人</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|56|1028|<span class="rank-name-dl">ひろ10</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|57|1027|<span class="rank-name-dl">$HØTД✟ ŧ ‹&quot;</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|57|1027|<span class="rank-name-dl">竜崎剣一龍</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|59|1026|<span class="rank-name-dl">TOTTI</span>|<a href="https://search.dartslive.com/jp/shop/04709edbaa57cf5a0d9b047a20a7ba1e">Hide Out 川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|60|1024|<span class="rank-name-dl">土井 大輝</span>|<a href="https://search.dartslive.com/jp/shop/a7427117351e97c20d9b047a20a7ba1e">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|61|1022|<span class="rank-name-dl">Tung Suk 東叔</span>|<a href="https://search.dartslive.com/jp/shop/a7427117351e97c20d9b047a20a7ba1e">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|61|1022|<span class="rank-name-dl">おおさかじゅんや</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|63|1019|<span class="rank-name-dl">BIG BULL</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|63|1019|<span class="rank-name-dl">Link西川口</span>|<a href="https://search.dartslive.com/jp/shop/a7427117351e97c20d9b047a20a7ba1e">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|65|1015|<span class="rank-name-dl">=(^.^)=</span>|<a href="https://search.dartslive.com/jp/shop/4dbb2d396dd167cd0d9b047a20a7ba1e">N371</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|65|1015|<span class="rank-name-dl">倭 @Ray</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|65|1015|<span class="rank-name-dl">田部 翔一</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|68|1014|<span class="rank-name-dl">このみん</span>|<a href="https://search.dartslive.com/jp/shop/a7427117351e97c20d9b047a20a7ba1e">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|68|1014|<span class="rank-name-dl">しょ@MODERNTIMES</span>|<a href="https://search.dartslive.com/jp/shop/6a1450abd6367f8b5f9f3321c1147265">UP川口</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|70|1013|<span class="rank-name-dl">BODY⌒➴◎</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|71|1012|<span class="rank-name-dl">暇で寂しいよー</span>|<a href="https://search.dartslive.com/jp/shop/5ec405877f5d0fa525d56fb0e5c39bac">Bar SUI</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|71|1012|<span class="rank-name-dl">雄淋鶏</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|73|1011|<span class="rank-name-dl">どん＠Re:ACT</span>|<a href="https://search.dartslive.com/jp/shop/04709edbaa57cf5a0d9b047a20a7ba1e">Hide Out 川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|73|1011|<span class="rank-name-dl">大竹　慎吾</span>|<a href="https://search.dartslive.com/jp/shop/a7427117351e97c20d9b047a20a7ba1e">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|73|1011|<span class="rank-name-dl">田部 翔一</span>|<a href="https://search.dartslive.com/jp/shop/52132efbec184ac40d9b047a20a7ba1e">Hide Out 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|76|1009|<span class="rank-name-dl">おぐ</span>|<a href="https://search.dartslive.com/jp/shop/a7427117351e97c20d9b047a20a7ba1e">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|77|1008|<span class="rank-name-dl">RYU</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|77|1008|<span class="rank-name-dl">あっくん</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|77|1008|<span class="rank-name-dl">えや･ﾟ*｡☆･</span>|<a href="https://search.dartslive.com/jp/shop/a7427117351e97c20d9b047a20a7ba1e">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|77|1008|<span class="rank-name-dl">ゆん^. ̫ .^‪</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|77|1008|<span class="rank-name-dl">獠⁀➷</span>|<a href="https://search.dartslive.com/jp/shop/6a1450abd6367f8b5f9f3321c1147265">UP川口</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|77|1008|<span class="rank-name-dl">雄淋鶏@鱒どまり</span>|<a href="https://search.dartslive.com/jp/shop/04709edbaa57cf5a0d9b047a20a7ba1e">Hide Out 川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|77|1008|<span class="rank-name-dl">ﾕｰﾏ@KFC{隊長}</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|84|1007|<span class="rank-name-dl">NO.NAME8931</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|84|1007|<span class="rank-name-dl">とうふ</span>|<a href="https://search.dartslive.com/jp/shop/04709edbaa57cf5a0d9b047a20a7ba1e">Hide Out 川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|84|1007|<span class="rank-name-dl">はまり</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|84|1007|<span class="rank-name-dl">雄淋鶏@炊けない</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|88|1006|<span class="rank-name-dl">Re:’えす’</span>|<a href="https://search.dartslive.com/jp/shop/a7427117351e97c20d9b047a20a7ba1e">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|89|1005|<span class="rank-name-dl">SEIJI-era-UMI</span>|<a href="https://search.dartslive.com/jp/shop/52132efbec184ac40d9b047a20a7ba1e">Hide Out 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|89|1005|<span class="rank-name-dl">ギンシャリボーイ</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|89|1005|<span class="rank-name-dl">子連れ狼</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|89|1005|<span class="rank-name-dl">猫さん</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|89|1005|<span class="rank-name-dl">ＲＯＮＳＯＮ</span>|<a href="https://search.dartslive.com/jp/shop/56cef989417bdb5ea3f63593b5358cc4">快活CLUB 川口朝日店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|94|1004|<span class="rank-name-dl">Aja25@Ts</span>|<a href="https://search.dartslive.com/jp/shop/52132efbec184ac40d9b047a20a7ba1e">Hide Out 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|94|1004|<span class="rank-name-dl">u-ske</span>|<a href="https://search.dartslive.com/jp/shop/04709edbaa57cf5a0d9b047a20a7ba1e">Hide Out 川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|94|1004|<span class="rank-name-dl">Яуц†α＠琉斑</span>|<a href="https://search.dartslive.com/jp/shop/2a746a35beb914e2fec1ae84bb28bd87">快活CLUB 川口東口駅前</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|97|1002|<span class="rank-name-dl">あき☆</span>|<a href="https://search.dartslive.com/jp/shop/04709edbaa57cf5a0d9b047a20a7ba1e">Hide Out 川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|98|1000|<span class="rank-name-dl">$HØTД✟ ŧ ‹&quot;</span>|<a href="https://search.dartslive.com/jp/shop/a7427117351e97c20d9b047a20a7ba1e">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|98|1000|<span class="rank-name-dl">しょ@MODERNTIMES</span>|<a href="https://search.dartslive.com/jp/shop/04709edbaa57cf5a0d9b047a20a7ba1e">Hide Out 川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|98|1000|<span class="rank-name-dl">のりとーーーん！</span>|<a href="https://search.dartslive.com/jp/shop/04709edbaa57cf5a0d9b047a20a7ba1e">Hide Out 川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
 
 
 #### PHOENIXDARTS TOP 100
@@ -241,106 +241,106 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1077|<span class="rank-name-pd">知野真澄【PHOENIXDARTS】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|2|1061|<span class="rank-name-pd">ｙｏ－Ｇ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10024?s_seq=10024">DARTS SPACE Ray</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|3|1050|<span class="rank-name-pd">野島 伶支</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10024?s_seq=10024">DARTS SPACE Ray</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|4|1045|<span class="rank-name-pd"><span class="pro-icon-pd"></span>南 英波</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|5|1036|<span class="rank-name-pd"><span class="pro-icon-pd"></span>石川 寛之</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|6|976|<span class="rank-name-pd">入江 祐輔</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87521?s_seq=87521">trinity</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|7|973|<span class="rank-name-pd"><span class="pro-icon-pd"></span>市川 勇太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|8|966|<span class="rank-name-pd">TAKA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10024?s_seq=10024">DARTS SPACE Ray</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|9|962|<span class="rank-name-pd"><span class="pro-icon-pd"></span>今北 侑吾</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|10|960|<span class="rank-name-pd"><span class="pro-icon-pd"></span>好井 哲也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91336?s_seq=91336">Forktale</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|11|948|<span class="rank-name-pd">【凡】西海  将</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|12|936|<span class="rank-name-pd">こんじLink西川口</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|13|934|<span class="rank-name-pd">Яуцτа‡Ψ†Ψ†Ψ‡</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|14|932|<span class="rank-name-pd">SON</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10024?s_seq=10024">DARTS SPACE Ray</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|15|929|<span class="rank-name-pd"><span class="pro-icon-pd"></span>横田 涼</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|16|919|<span class="rank-name-pd">あり★R@y★</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10024?s_seq=10024">DARTS SPACE Ray</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|17|902|<span class="rank-name-pd"><span class="pro-icon-pd"></span>石田 敦士</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|18|898|<span class="rank-name-pd">kou</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|19|873|<span class="rank-name-pd">倭 @Ray</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10024?s_seq=10024">DARTS SPACE Ray</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|20|871|<span class="rank-name-pd">ムーンボウ(月虹)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10024?s_seq=10024">DARTS SPACE Ray</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|21|866|<span class="rank-name-pd">炒飯マン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87521?s_seq=87521">trinity</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|22|862|<span class="rank-name-pd">HANA@RAY.PERFECT</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10024?s_seq=10024">DARTS SPACE Ray</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|23|861|<span class="rank-name-pd"><span class="pro-icon-pd"></span>好井 哲也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10024?s_seq=10024">DARTS SPACE Ray</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|24|827|<span class="rank-name-pd">ここででらら</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|25|797|<span class="rank-name-pd">Rice  Shower</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|25|797|<span class="rank-name-pd">Ｑ太郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10024?s_seq=10024">DARTS SPACE Ray</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|27|781|<span class="rank-name-pd">おこめさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|28|767|<span class="rank-name-pd">ヘコタレたっくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87521?s_seq=87521">trinity</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|29|766|<span class="rank-name-pd">waku</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|29|766|<span class="rank-name-pd">かーりー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|31|759|<span class="rank-name-pd">佐藤 紀之</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10024?s_seq=10024">DARTS SPACE Ray</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|32|754|<span class="rank-name-pd">ダッチ　</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10024?s_seq=10024">DARTS SPACE Ray</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|33|739|<span class="rank-name-pd">777</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87521?s_seq=87521">trinity</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|34|736|<span class="rank-name-pd">(彩っ･｀ｪ´･)っ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87521?s_seq=87521">trinity</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|35|734|<span class="rank-name-pd">a-kuru</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|36|733|<span class="rank-name-pd">D.guardian Group</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|37|722|<span class="rank-name-pd">しょーまん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|38|719|<span class="rank-name-pd">しお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|39|717|<span class="rank-name-pd">ハムカツ@Artemis</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10024?s_seq=10024">DARTS SPACE Ray</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|40|715|<span class="rank-name-pd">waruru</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10024?s_seq=10024">DARTS SPACE Ray</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|40|715|<span class="rank-name-pd">しょた</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|42|710|<span class="rank-name-pd">まぁくんSun</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|43|704|<span class="rank-name-pd">まっくす</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|44|701|<span class="rank-name-pd"><span class="pro-icon-pd"></span>麻生 大樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91336?s_seq=91336">Forktale</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|45|696|<span class="rank-name-pd">麻婆豆腐(≧∀≦)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10024?s_seq=10024">DARTS SPACE Ray</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|46|690|<span class="rank-name-pd">ディープヨヨイ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|46|690|<span class="rank-name-pd">トシッチョベイベ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|48|681|<span class="rank-name-pd">しょーご➸LINK</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|49|680|<span class="rank-name-pd">M.O.S@ｽﾎﾟｶｽﾞR</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|50|670|<span class="rank-name-pd">DOR@!CH@N</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10024?s_seq=10024">DARTS SPACE Ray</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|51|668|<span class="rank-name-pd">やまたつ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87521?s_seq=87521">trinity</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|51|668|<span class="rank-name-pd">ザキ☆リュー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|53|667|<span class="rank-name-pd">やす子@BARREL</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10024?s_seq=10024">DARTS SPACE Ray</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|54|666|<span class="rank-name-pd"><span class="pro-icon-pd"></span>山根 裕太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|55|657|<span class="rank-name-pd">さやぁん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|56|650|<span class="rank-name-pd">しんべー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|56|650|<span class="rank-name-pd">鈴木 太温</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87521?s_seq=87521">trinity</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|58|648|<span class="rank-name-pd">ほぼKen₁♒</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|59|647|<span class="rank-name-pd">菅原 結衣</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10024?s_seq=10024">DARTS SPACE Ray</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|60|646|<span class="rank-name-pd">太田 俊広</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|61|644|<span class="rank-name-pd">りょーへー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|62|634|<span class="rank-name-pd">ゆか</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10024?s_seq=10024">DARTS SPACE Ray</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|63|622|<span class="rank-name-pd">おてつ@爆勝宣言</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|64|620|<span class="rank-name-pd">まも</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|65|618|<span class="rank-name-pd">すどっぺ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|66|614|<span class="rank-name-pd">ク☆ロ(´△｀)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10024?s_seq=10024">DARTS SPACE Ray</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|67|612|<span class="rank-name-pd">はし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|68|611|<span class="rank-name-pd">やまと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|69|605|<span class="rank-name-pd">なっちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87521?s_seq=87521">trinity</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|70|604|<span class="rank-name-pd">camel.0843</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|70|604|<span class="rank-name-pd">やましょ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|72|603|<span class="rank-name-pd">ユズ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|73|602|<span class="rank-name-pd">syoma</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91336?s_seq=91336">Forktale</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|74|596|<span class="rank-name-pd">毛塚 政嗣</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10024?s_seq=10024">DARTS SPACE Ray</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|75|595|<span class="rank-name-pd">あすか</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6430?s_seq=6430">G-Collection</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|76|589|<span class="rank-name-pd">koji</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6430?s_seq=6430">G-Collection</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|76|589|<span class="rank-name-pd">おぐら</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|78|586|<span class="rank-name-pd">まぁくんStyles</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|79|584|<span class="rank-name-pd">郷てゃん!!!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|80|581|<span class="rank-name-pd">Ackie5228JDA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|81|568|<span class="rank-name-pd">あざらし@基礎構築中</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|82|567|<span class="rank-name-pd">荒谷 允貴</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10024?s_seq=10024">DARTS SPACE Ray</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|83|566|<span class="rank-name-pd">でとろん★Lilly</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|84|565|<span class="rank-name-pd">ぽんこつ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|85|562|<span class="rank-name-pd">mizu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|86|552|<span class="rank-name-pd">かなぴょん迷子中</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|87|545|<span class="rank-name-pd">ゆーろー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|88|540|<span class="rank-name-pd">いわ！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|89|539|<span class="rank-name-pd">kohei</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|90|528|<span class="rank-name-pd">クレヨンしんちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|91|522|<span class="rank-name-pd">Ackey</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10024?s_seq=10024">DARTS SPACE Ray</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|92|520|<span class="rank-name-pd">シンジ@</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|93|519|<span class="rank-name-pd">8810☻</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|93|519|<span class="rank-name-pd">桃花てゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87521?s_seq=87521">trinity</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|95|509|<span class="rank-name-pd">GUESS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10024?s_seq=10024">DARTS SPACE Ray</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|96|500|<span class="rank-name-pd">くらふとまん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|97|498|<span class="rank-name-pd">zz1p37ed27ab34</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|97|498|<span class="rank-name-pd">ザリガニのKEN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|99|489|<span class="rank-name-pd">♥️NATHUKO♥️＠Ｒａｙ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91336?s_seq=91336">Forktale</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
-|100|475|<span class="rank-name-pd">おてつ@爆勝宣言</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10024?s_seq=10024">DARTS SPACE Ray</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|1|1111|<span class="rank-name-pd"><span class="pro-icon-pd"></span>松波 甫</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|2|1077|<span class="rank-name-pd">知野真澄【PHOENIXDARTS】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|3|1061|<span class="rank-name-pd">ｙｏ－Ｇ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10024?s_seq=10024">DARTS SPACE Ray</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|4|1058|<span class="rank-name-pd"><span class="pro-icon-pd"></span>今北 侑吾</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|5|1050|<span class="rank-name-pd">野島 伶支</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10024?s_seq=10024">DARTS SPACE Ray</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|6|1045|<span class="rank-name-pd"><span class="pro-icon-pd"></span>南 英波</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|7|1044|<span class="rank-name-pd"><span class="pro-icon-pd"></span>石川 寛之</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|8|1001|<span class="rank-name-pd">Яуцτа‡Ψ†Ψ†Ψ‡</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|9|987|<span class="rank-name-pd"><span class="pro-icon-pd"></span>好井 哲也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91336?s_seq=91336">Forktale</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|10|976|<span class="rank-name-pd">入江 祐輔</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87521?s_seq=87521">trinity</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|11|973|<span class="rank-name-pd"><span class="pro-icon-pd"></span>市川 勇太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|12|970|<span class="rank-name-pd"><span class="pro-icon-pd"></span>麻生 大樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10024?s_seq=10024">DARTS SPACE Ray</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|13|966|<span class="rank-name-pd">TAKA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10024?s_seq=10024">DARTS SPACE Ray</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|14|955|<span class="rank-name-pd">それいけハムサン@Artemis</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10024?s_seq=10024">DARTS SPACE Ray</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|15|948|<span class="rank-name-pd">【凡】西海  将</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|16|936|<span class="rank-name-pd">こんじLink西川口</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|17|933|<span class="rank-name-pd">SON</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10024?s_seq=10024">DARTS SPACE Ray</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|18|929|<span class="rank-name-pd"><span class="pro-icon-pd"></span>横田 涼</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|19|919|<span class="rank-name-pd">あり★R@y★</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10024?s_seq=10024">DARTS SPACE Ray</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|20|902|<span class="rank-name-pd">まっくす</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|20|902|<span class="rank-name-pd"><span class="pro-icon-pd"></span>石田 敦士</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|22|901|<span class="rank-name-pd">ヘコタレたっくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87521?s_seq=87521">trinity</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|23|898|<span class="rank-name-pd">kou</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|24|885|<span class="rank-name-pd">minami</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91336?s_seq=91336">Forktale</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|25|873|<span class="rank-name-pd">倭 @Ray</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10024?s_seq=10024">DARTS SPACE Ray</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|26|871|<span class="rank-name-pd">ムーンボウ(月虹)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10024?s_seq=10024">DARTS SPACE Ray</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|27|866|<span class="rank-name-pd">炒飯マン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87521?s_seq=87521">trinity</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|28|862|<span class="rank-name-pd">HANA@RAY.PERFECT</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10024?s_seq=10024">DARTS SPACE Ray</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|29|861|<span class="rank-name-pd"><span class="pro-icon-pd"></span>好井 哲也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10024?s_seq=10024">DARTS SPACE Ray</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|30|850|<span class="rank-name-pd">mizu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|31|849|<span class="rank-name-pd">YU-TA888</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|32|844|<span class="rank-name-pd">syoma</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91336?s_seq=91336">Forktale</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|33|838|<span class="rank-name-pd"><span class="pro-icon-pd"></span>高橋 宏旗</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|34|835|<span class="rank-name-pd">まぁくんSun</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|35|830|<span class="rank-name-pd">Koh Natori</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|35|830|<span class="rank-name-pd"><span class="pro-icon-pd"></span>麻生 大樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91336?s_seq=91336">Forktale</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|37|827|<span class="rank-name-pd">ここででらら</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|38|803|<span class="rank-name-pd">0151_9381</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|39|801|<span class="rank-name-pd">ゆか</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10024?s_seq=10024">DARTS SPACE Ray</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|40|799|<span class="rank-name-pd">しょーや</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|41|797|<span class="rank-name-pd">Rice  Shower</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|41|797|<span class="rank-name-pd">Ｑ太郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10024?s_seq=10024">DARTS SPACE Ray</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|43|781|<span class="rank-name-pd">おこめさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|44|776|<span class="rank-name-pd">あり☆ぞー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|45|774|<span class="rank-name-pd">GRAMOS-owners</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|46|766|<span class="rank-name-pd">waku</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|46|766|<span class="rank-name-pd">かーりー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|48|763|<span class="rank-name-pd">ゆーろー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|49|759|<span class="rank-name-pd">佐藤 紀之</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10024?s_seq=10024">DARTS SPACE Ray</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|50|758|<span class="rank-name-pd">さやぁん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|51|756|<span class="rank-name-pd">DOR@!CH@N</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91336?s_seq=91336">Forktale</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|52|754|<span class="rank-name-pd">ダッチ　</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10024?s_seq=10024">DARTS SPACE Ray</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|53|744|<span class="rank-name-pd">ばーま@Forktale</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91336?s_seq=91336">Forktale</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|54|739|<span class="rank-name-pd">777</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87521?s_seq=87521">trinity</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|55|737|<span class="rank-name-pd"><span class="pro-icon-pd"></span>柳田 悠稀</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|56|736|<span class="rank-name-pd">(彩っ･｀ｪ´･)っ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87521?s_seq=87521">trinity</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|57|734|<span class="rank-name-pd">a-kuru</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|58|733|<span class="rank-name-pd">D.guardian Group</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|59|728|<span class="rank-name-pd">風†あるかでぃあ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|60|725|<span class="rank-name-pd"><span class="pro-icon-pd"></span>山田 太一</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|61|722|<span class="rank-name-pd">しょーまん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|62|719|<span class="rank-name-pd">Ka-Na</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|62|719|<span class="rank-name-pd">しお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|64|717|<span class="rank-name-pd">ハムカツ@Artemis</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10024?s_seq=10024">DARTS SPACE Ray</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|65|716|<span class="rank-name-pd">鈴木 太温</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87521?s_seq=87521">trinity</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|66|715|<span class="rank-name-pd">waruru</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10024?s_seq=10024">DARTS SPACE Ray</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|66|715|<span class="rank-name-pd">しょた</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|66|715|<span class="rank-name-pd">しょーご➸LINK</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|69|710|<span class="rank-name-pd">でとろん★Lilly</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|70|709|<span class="rank-name-pd">waruru</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91336?s_seq=91336">Forktale</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|71|708|<span class="rank-name-pd"><span class="pro-icon-pd"></span>須賀 恵美子</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|72|707|<span class="rank-name-pd">DOR@!CH@N</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|73|702|<span class="rank-name-pd">吉岡 祥大@Forktale</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91336?s_seq=91336">Forktale</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|74|701|<span class="rank-name-pd">憂流迦</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91336?s_seq=91336">Forktale</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|75|696|<span class="rank-name-pd">麻婆豆腐(≧∀≦)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10024?s_seq=10024">DARTS SPACE Ray</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|76|695|<span class="rank-name-pd">しょ→。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87521?s_seq=87521">trinity</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|77|690|<span class="rank-name-pd">ディープヨヨイ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|77|690|<span class="rank-name-pd">トシッチョベイベ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|79|683|<span class="rank-name-pd">ドラ谷君</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|80|680|<span class="rank-name-pd">M.O.S@ｽﾎﾟｶｽﾞR</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|80|680|<span class="rank-name-pd">まぁくんStyles</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|82|678|<span class="rank-name-pd">☆ ごとぅー!! ☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|83|673|<span class="rank-name-pd">N.N</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87521?s_seq=87521">trinity</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|84|670|<span class="rank-name-pd">DOR@!CH@N</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10024?s_seq=10024">DARTS SPACE Ray</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|85|668|<span class="rank-name-pd">やまたつ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87521?s_seq=87521">trinity</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|85|668|<span class="rank-name-pd">ザキ☆リュー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|87|667|<span class="rank-name-pd">やす子@BARREL</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10024?s_seq=10024">DARTS SPACE Ray</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|88|666|<span class="rank-name-pd"><span class="pro-icon-pd"></span>山根 裕太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|89|661|<span class="rank-name-pd">シンジ@</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|90|659|<span class="rank-name-pd">ねぎ式部</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|91|656|<span class="rank-name-pd">【凡】ふーた</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_91336?s_seq=91336">Forktale</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|92|651|<span class="rank-name-pd">ハム☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_87521?s_seq=87521">trinity</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|93|650|<span class="rank-name-pd">しんべー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|94|648|<span class="rank-name-pd">ほぼKen₁♒</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|95|647|<span class="rank-name-pd">菅原 結衣</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10024?s_seq=10024">DARTS SPACE Ray</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|96|646|<span class="rank-name-pd">太田 俊広</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|97|645|<span class="rank-name-pd"><span class="pro-icon-pd"></span>平岡 裕美絵</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10024?s_seq=10024">DARTS SPACE Ray</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|98|644|<span class="rank-name-pd">りょーへー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|99|641|<span class="rank-name-pd">ぽんこつ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
+|99|641|<span class="rank-name-pd">ピエロ(ぴえろ)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_49392?s_seq=49392">Link 西川口店</a>|<a href="/darts/rank/埼玉県/川口市">埼玉県川口市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

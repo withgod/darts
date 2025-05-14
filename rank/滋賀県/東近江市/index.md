@@ -23,106 +23,106 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1116|<span class="rank-name-dl">山本 湧輝</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|2|1055|<span class="rank-name-dl">ЯУΘ</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|3|1031|<span class="rank-name-dl">でぃえご</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|4|1023|<span class="rank-name-dl">五十六</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|5|986|<span class="rank-name-dl">East.end×nori</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|6|982|<span class="rank-name-dl">East.end×nori</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|7|967|<span class="rank-name-dl">でぃえご</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|8|966|<span class="rank-name-dl">Bar Glanz</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|9|963|<span class="rank-name-dl">勝@ザキ</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|10|952|<span class="rank-name-dl">なお</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|11|949|<span class="rank-name-dl">ΓУΘ</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|11|949|<span class="rank-name-dl">でぃえご</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|13|946|<span class="rank-name-dl">にっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|14|942|<span class="rank-name-dl">ゆーこ</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|15|924|<span class="rank-name-dl">まつけん@VEGA</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|16|918|<span class="rank-name-dl">光@ひかるくん</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|17|909|<span class="rank-name-dl">176</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|18|894|<span class="rank-name-dl">まつけん@VEGA</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|19|885|<span class="rank-name-dl">しお</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|20|869|<span class="rank-name-dl">HITMAN</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|20|869|<span class="rank-name-dl">むっつー</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|22|860|<span class="rank-name-dl">176</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|23|854|<span class="rank-name-dl">☆kiyo(*´-`)</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|24|851|<span class="rank-name-dl">ココロ</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|25|845|<span class="rank-name-dl">勝@ザキ</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|26|811|<span class="rank-name-dl">やくみつゆ</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|27|804|<span class="rank-name-dl">kazuto</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|28|799|<span class="rank-name-dl">◆◆masa◇◇</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|28|799|<span class="rank-name-dl">練習中ハントレス</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|30|783|<span class="rank-name-dl">カズMAX@TPGN</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|31|782|<span class="rank-name-dl">カズMAX@TPGN</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|32|774|<span class="rank-name-dl">RITOAAA</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|33|770|<span class="rank-name-dl">川西康士</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|34|769|<span class="rank-name-dl">人糞イチロー</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|35|760|<span class="rank-name-dl">りょ</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|36|757|<span class="rank-name-dl">りょ</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|36|757|<span class="rank-name-dl">アイゼン</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|38|755|<span class="rank-name-dl">®やくみつゆ®</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|39|750|<span class="rank-name-dl">とりあえずアユ</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|39|750|<span class="rank-name-dl">ﾅﾆ⊃ゃまゑ</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|41|749|<span class="rank-name-dl">Bar Glanz</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|42|745|<span class="rank-name-pd"><span class="pro-icon-pd"></span>山本 大地</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76844?s_seq=76844">JOYJOY 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|43|742|<span class="rank-name-dl">とりあえずアユ</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|44|738|<span class="rank-name-dl">ふじしん番長</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|45|737|<span class="rank-name-dl">よしお</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|46|733|<span class="rank-name-dl">まっこー</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|47|728|<span class="rank-name-dl">ざきふんふん</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|48|727|<span class="rank-name-dl">Mr.マビック</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|49|721|<span class="rank-name-dl">まもきち</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|50|717|<span class="rank-name-dl">惡代官(｀∩´)／</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|51|713|<span class="rank-name-dl">NO NAME 9506</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|52|704|<span class="rank-name-dl">悪代官</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|53|700|<span class="rank-name-dl">とも</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|54|699|<span class="rank-name-dl">ぷろていん</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|55|691|<span class="rank-name-dl">りっきー</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|56|689|<span class="rank-name-dl">ベーやん</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|57|668|<span class="rank-name-dl">Mt.fuji×ari</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|58|667|<span class="rank-name-dl">じ ゅ ん</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|59|663|<span class="rank-name-dl">♡かおchan♡</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|60|650|<span class="rank-name-dl">ふじしん番長</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|61|647|<span class="rank-name-dl">GARO</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|62|644|<span class="rank-name-dl">だいおくん</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|63|643|<span class="rank-name-dl">tsukasa</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|63|643|<span class="rank-name-dl">りょ</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|65|636|<span class="rank-name-dl">たい</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|65|636|<span class="rank-name-dl">はるたむ</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|65|636|<span class="rank-name-dl">りゅうちぇる</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|68|629|<span class="rank-name-dl">悪代官</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|69|628|<span class="rank-name-dl">新海</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|70|626|<span class="rank-name-dl">ミッチョリー</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|71|620|<span class="rank-name-dl">練習中ハントレス</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|72|619|<span class="rank-name-dl">Chori!?</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|72|619|<span class="rank-name-pd">練習中ハントレス</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76844?s_seq=76844">JOYJOY 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|74|611|<span class="rank-name-dl">チョコボール</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|75|604|<span class="rank-name-dl">よしお</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|76|587|<span class="rank-name-dl">みかん</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|77|584|<span class="rank-name-dl">KEI</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|78|571|<span class="rank-name-dl">kazuking</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|79|560|<span class="rank-name-dl">local@ぐぃ姉</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|80|559|<span class="rank-name-dl">たまごっちver.6</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|81|557|<span class="rank-name-dl">NO NAME 4845</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|81|557|<span class="rank-name-dl">大地</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|83|555|<span class="rank-name-dl">悠水</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|84|548|<span class="rank-name-dl">練習中ハントデス</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|85|544|<span class="rank-name-dl">れんれん♡</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|86|531|<span class="rank-name-dl">NO NAME 0352</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|87|491|<span class="rank-name-dl">こ</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|88|489|<span class="rank-name-dl">MYR_9</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|89|478|<span class="rank-name-dl">NO NAME 0185</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|90|474|<span class="rank-name-pd">ジュリアン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76844?s_seq=76844">JOYJOY 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|91|461|<span class="rank-name-dl">maco</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|92|431|<span class="rank-name-pd">VirtualCard</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76844?s_seq=76844">JOYJOY 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|93|425|<span class="rank-name-dl">ミーちゃん☆</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|94|418|<span class="rank-name-dl">kaori.</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|95|409|<span class="rank-name-dl">Green Mankey</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|96|401|<span class="rank-name-pd">ちょぱ美❤️Liberty</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76844?s_seq=76844">JOYJOY 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|97|390|<span class="rank-name-dl">まめ(たお)</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|98|361|<span class="rank-name-dl">ぐい姉@酒YAKUZA</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|99|353|<span class="rank-name-dl">海里</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|100|352|<span class="rank-name-dl">CHARA04</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|1|1159|<span class="rank-name-dl">ダーツヒーロー</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|2|1135|<span class="rank-name-dl">でぃえご</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|3|1116|<span class="rank-name-dl">山本 湧輝</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|4|1088|<span class="rank-name-dl">やくみつゆうこ</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|5|1082|<span class="rank-name-dl">なお</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|6|1063|<span class="rank-name-dl">山本みつゆぅ</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|7|1055|<span class="rank-name-dl">ЯУΘ</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|8|1052|<span class="rank-name-dl">でぃえご</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|9|1046|<span class="rank-name-dl">やまゆ</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|10|1044|<span class="rank-name-dl">バキバキスマホ</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|11|1033|<span class="rank-name-dl">シンえもん</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|12|1023|<span class="rank-name-dl">五十六</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|13|1009|<span class="rank-name-pd">いまい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76844?s_seq=76844">JOYJOY 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|13|1009|<span class="rank-name-dl">ヤマユウ</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|13|1009|<span class="rank-name-dl">光@ひかるくん</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|13|1009|<span class="rank-name-dl">出水 尊章</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|13|1009|<span class="rank-name-dl">北村圭吾</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|13|1009|<span class="rank-name-dl">山本 湧輝</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|13|1009|<span class="rank-name-dl">山本湧輝</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|20|1007|<span class="rank-name-dl">けっけりぶーと</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|20|1007|<span class="rank-name-dl">北村圭吾</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|22|1003|<span class="rank-name-dl">勝@ザキ</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|23|989|<span class="rank-name-dl">KINGにっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|24|986|<span class="rank-name-dl">East.end×nori</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|24|986|<span class="rank-name-dl">シンえもん BLACK</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|26|982|<span class="rank-name-dl">East.end×nori</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|27|978|<span class="rank-name-dl">やまゆ@AMAZE</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|28|974|<span class="rank-name-dl">risingみつゆづき</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|29|966|<span class="rank-name-dl">Bar Glanz</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|30|963|<span class="rank-name-dl">勝@ザキ</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|31|962|<span class="rank-name-dl">ken</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|31|962|<span class="rank-name-dl">解体屋</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|33|953|<span class="rank-name-dl">そげき一家Jack</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|34|952|<span class="rank-name-dl">なお</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|35|949|<span class="rank-name-dl">ΓУΘ</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|35|949|<span class="rank-name-dl">でぃえご</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|37|946|<span class="rank-name-dl">にっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|38|942|<span class="rank-name-dl">ゆーこ</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|39|941|<span class="rank-name-dl">darts love Ben</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|40|940|<span class="rank-name-dl">解体屋</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|41|924|<span class="rank-name-dl">Kenzy-TM</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|41|924|<span class="rank-name-dl">まつけん@VEGA</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|43|922|<span class="rank-name-dl">むっつー</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|44|921|<span class="rank-name-dl">KENTA(2960)</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|45|920|<span class="rank-name-dl">Ben</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|46|915|<span class="rank-name-dl">パンナコッタ</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|47|912|<span class="rank-name-dl">ゆうたたーげっと</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|48|909|<span class="rank-name-dl">176</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|49|908|<span class="rank-name-pd">RYO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76844?s_seq=76844">JOYJOY 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|50|907|<span class="rank-name-dl">惡代官(｀∩´)／</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|51|894|<span class="rank-name-dl">まつけん@VEGA</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|52|886|<span class="rank-name-dl">☆kiyo(*´-`)</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|53|885|<span class="rank-name-dl">しお</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|54|880|<span class="rank-name-dl">のり</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|55|879|<span class="rank-name-pd">176</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76844?s_seq=76844">JOYJOY 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|55|879|<span class="rank-name-dl">カズMAX@TPGN</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|57|876|<span class="rank-name-dl">polaro</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|58|875|<span class="rank-name-dl">☆kiyo(*´-`)</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|59|873|<span class="rank-name-dl">とりあえずアユ</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|60|869|<span class="rank-name-dl">HITMAN</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|60|869|<span class="rank-name-dl">むっつー</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|62|865|<span class="rank-name-dl">甲子園しょうた</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|63|862|<span class="rank-name-dl">LEON</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|64|860|<span class="rank-name-dl">176</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|64|860|<span class="rank-name-pd">Masashi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76844?s_seq=76844">JOYJOY 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|66|855|<span class="rank-name-dl">みつゆーこ</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|67|851|<span class="rank-name-dl">ココロ</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|68|845|<span class="rank-name-dl">KElBON</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|68|845|<span class="rank-name-dl">ベーやん@ハング</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|68|845|<span class="rank-name-pd"><span class="pro-icon-pd"></span>水谷 友哉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76844?s_seq=76844">JOYJOY 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|71|838|<span class="rank-name-pd">んなみ✳︎cloud</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76844?s_seq=76844">JOYJOY 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|72|837|<span class="rank-name-dl">もっちゃゃん</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|73|835|<span class="rank-name-dl">Masashi</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|74|831|<span class="rank-name-dl">カズMAX@TPGN</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|75|824|<span class="rank-name-dl">量産型ブル</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|76|821|<span class="rank-name-dl">Kazu＠孤独な旅人</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|77|818|<span class="rank-name-dl">polaro</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|78|816|<span class="rank-name-dl">練習中ハントレス</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|79|811|<span class="rank-name-dl">やくみつゆ</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|80|805|<span class="rank-name-dl">Yu-Ki</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|81|804|<span class="rank-name-dl">kazuto</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|81|804|<span class="rank-name-dl">とりあえずアユ</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|83|802|<span class="rank-name-dl">りょ1号</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|83|802|<span class="rank-name-dl">偽伝承者フジシン</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|85|801|<span class="rank-name-dl">りょ2号</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|86|799|<span class="rank-name-dl">◆◆masa◇◇</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|87|783|<span class="rank-name-dl">カズMAX@TPGN</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|88|781|<span class="rank-name-dl">もっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|89|780|<span class="rank-name-dl">L-Ma</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|89|780|<span class="rank-name-dl">まもきち</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|89|780|<span class="rank-name-dl">みつゆーこ</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|92|775|<span class="rank-name-dl">じ ゅ ん</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|93|774|<span class="rank-name-dl">RITOAAA</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|93|774|<span class="rank-name-dl">あいうえお</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|95|770|<span class="rank-name-dl">川西康士</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|96|769|<span class="rank-name-dl">人糞イチロー</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|97|765|<span class="rank-name-dl">とも</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|98|764|<span class="rank-name-dl">まもきち</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|99|760|<span class="rank-name-dl">BamboooMan</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|99|760|<span class="rank-name-dl">GOLBA</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -132,104 +132,106 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1116|<span class="rank-name-dl">山本 湧輝</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|2|1055|<span class="rank-name-dl">ЯУΘ</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|3|1031|<span class="rank-name-dl">でぃえご</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|4|1023|<span class="rank-name-dl">五十六</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|5|986|<span class="rank-name-dl">East.end×nori</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|6|982|<span class="rank-name-dl">East.end×nori</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|7|967|<span class="rank-name-dl">でぃえご</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|8|966|<span class="rank-name-dl">Bar Glanz</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|9|963|<span class="rank-name-dl">勝@ザキ</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|10|952|<span class="rank-name-dl">なお</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|11|949|<span class="rank-name-dl">ΓУΘ</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|11|949|<span class="rank-name-dl">でぃえご</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|13|946|<span class="rank-name-dl">にっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|14|942|<span class="rank-name-dl">ゆーこ</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|15|924|<span class="rank-name-dl">まつけん@VEGA</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|16|918|<span class="rank-name-dl">光@ひかるくん</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|17|909|<span class="rank-name-dl">176</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|18|894|<span class="rank-name-dl">まつけん@VEGA</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|19|885|<span class="rank-name-dl">しお</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|20|869|<span class="rank-name-dl">HITMAN</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|20|869|<span class="rank-name-dl">むっつー</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|22|860|<span class="rank-name-dl">176</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|23|854|<span class="rank-name-dl">☆kiyo(*´-`)</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|24|851|<span class="rank-name-dl">ココロ</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|25|845|<span class="rank-name-dl">勝@ザキ</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|26|811|<span class="rank-name-dl">やくみつゆ</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|27|804|<span class="rank-name-dl">kazuto</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|28|799|<span class="rank-name-dl">◆◆masa◇◇</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|28|799|<span class="rank-name-dl">練習中ハントレス</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|30|783|<span class="rank-name-dl">カズMAX@TPGN</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|31|782|<span class="rank-name-dl">カズMAX@TPGN</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|32|774|<span class="rank-name-dl">RITOAAA</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|33|770|<span class="rank-name-dl">川西康士</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|34|769|<span class="rank-name-dl">人糞イチロー</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|35|760|<span class="rank-name-dl">りょ</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|36|757|<span class="rank-name-dl">りょ</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|36|757|<span class="rank-name-dl">アイゼン</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|38|755|<span class="rank-name-dl">®やくみつゆ®</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|39|750|<span class="rank-name-dl">とりあえずアユ</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|39|750|<span class="rank-name-dl">ﾅﾆ⊃ゃまゑ</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|41|749|<span class="rank-name-dl">Bar Glanz</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|42|742|<span class="rank-name-dl">とりあえずアユ</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|43|738|<span class="rank-name-dl">ふじしん番長</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|44|737|<span class="rank-name-dl">よしお</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|45|733|<span class="rank-name-dl">まっこー</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|46|728|<span class="rank-name-dl">ざきふんふん</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|47|727|<span class="rank-name-dl">Mr.マビック</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|48|721|<span class="rank-name-dl">まもきち</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|49|717|<span class="rank-name-dl">惡代官(｀∩´)／</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|50|713|<span class="rank-name-dl">NO NAME 9506</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|51|704|<span class="rank-name-dl">悪代官</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|52|700|<span class="rank-name-dl">とも</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|53|699|<span class="rank-name-dl">ぷろていん</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|54|691|<span class="rank-name-dl">りっきー</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|55|689|<span class="rank-name-dl">ベーやん</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|56|668|<span class="rank-name-dl">Mt.fuji×ari</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|57|667|<span class="rank-name-dl">じ ゅ ん</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|58|663|<span class="rank-name-dl">♡かおchan♡</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|59|650|<span class="rank-name-dl">ふじしん番長</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|60|647|<span class="rank-name-dl">GARO</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|61|644|<span class="rank-name-dl">だいおくん</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|62|643|<span class="rank-name-dl">tsukasa</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|62|643|<span class="rank-name-dl">りょ</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|64|636|<span class="rank-name-dl">たい</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|64|636|<span class="rank-name-dl">はるたむ</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|64|636|<span class="rank-name-dl">りゅうちぇる</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|67|629|<span class="rank-name-dl">悪代官</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|68|628|<span class="rank-name-dl">新海</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|69|626|<span class="rank-name-dl">ミッチョリー</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|70|620|<span class="rank-name-dl">練習中ハントレス</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|71|619|<span class="rank-name-dl">Chori!?</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|72|611|<span class="rank-name-dl">チョコボール</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|73|604|<span class="rank-name-dl">よしお</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|74|587|<span class="rank-name-dl">みかん</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|75|584|<span class="rank-name-dl">KEI</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|76|571|<span class="rank-name-dl">kazuking</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|77|560|<span class="rank-name-dl">local@ぐぃ姉</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|78|559|<span class="rank-name-dl">たまごっちver.6</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|79|557|<span class="rank-name-dl">NO NAME 4845</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|79|557|<span class="rank-name-dl">大地</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|81|555|<span class="rank-name-dl">悠水</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|82|548|<span class="rank-name-dl">練習中ハントデス</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|83|544|<span class="rank-name-dl">れんれん♡</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|84|531|<span class="rank-name-dl">NO NAME 0352</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|85|491|<span class="rank-name-dl">こ</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|86|489|<span class="rank-name-dl">MYR_9</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|87|478|<span class="rank-name-dl">NO NAME 0185</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|88|461|<span class="rank-name-dl">maco</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|89|425|<span class="rank-name-dl">ミーちゃん☆</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|90|418|<span class="rank-name-dl">kaori.</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|91|409|<span class="rank-name-dl">Green Mankey</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|92|390|<span class="rank-name-dl">まめ(たお)</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|93|361|<span class="rank-name-dl">ぐい姉@酒YAKUZA</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|94|353|<span class="rank-name-dl">海里</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|95|352|<span class="rank-name-dl">CHARA04</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|96|303|<span class="rank-name-dl">みもち</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|97|291|<span class="rank-name-dl">puuuuu</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|98|235|<span class="rank-name-dl">あいうえお</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|1|1159|<span class="rank-name-dl">ダーツヒーロー</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|2|1135|<span class="rank-name-dl">でぃえご</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|3|1116|<span class="rank-name-dl">山本 湧輝</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|4|1088|<span class="rank-name-dl">やくみつゆうこ</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|5|1082|<span class="rank-name-dl">なお</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|6|1063|<span class="rank-name-dl">山本みつゆぅ</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|7|1055|<span class="rank-name-dl">ЯУΘ</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|8|1052|<span class="rank-name-dl">でぃえご</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|9|1046|<span class="rank-name-dl">やまゆ</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|10|1044|<span class="rank-name-dl">バキバキスマホ</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|11|1033|<span class="rank-name-dl">シンえもん</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|12|1023|<span class="rank-name-dl">五十六</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|13|1009|<span class="rank-name-dl">ヤマユウ</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|13|1009|<span class="rank-name-dl">光@ひかるくん</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|13|1009|<span class="rank-name-dl">出水 尊章</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|13|1009|<span class="rank-name-dl">北村圭吾</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|13|1009|<span class="rank-name-dl">山本 湧輝</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|13|1009|<span class="rank-name-dl">山本湧輝</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|19|1007|<span class="rank-name-dl">けっけりぶーと</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|19|1007|<span class="rank-name-dl">北村圭吾</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|21|1003|<span class="rank-name-dl">勝@ザキ</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|22|989|<span class="rank-name-dl">KINGにっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|23|986|<span class="rank-name-dl">East.end×nori</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|23|986|<span class="rank-name-dl">シンえもん BLACK</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|25|982|<span class="rank-name-dl">East.end×nori</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|26|978|<span class="rank-name-dl">やまゆ@AMAZE</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|27|974|<span class="rank-name-dl">risingみつゆづき</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|28|966|<span class="rank-name-dl">Bar Glanz</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|29|963|<span class="rank-name-dl">勝@ザキ</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|30|962|<span class="rank-name-dl">ken</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|30|962|<span class="rank-name-dl">解体屋</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|32|953|<span class="rank-name-dl">そげき一家Jack</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|33|952|<span class="rank-name-dl">なお</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|34|949|<span class="rank-name-dl">ΓУΘ</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|34|949|<span class="rank-name-dl">でぃえご</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|36|946|<span class="rank-name-dl">にっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|37|942|<span class="rank-name-dl">ゆーこ</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|38|941|<span class="rank-name-dl">darts love Ben</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|39|940|<span class="rank-name-dl">解体屋</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|40|924|<span class="rank-name-dl">Kenzy-TM</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|40|924|<span class="rank-name-dl">まつけん@VEGA</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|42|922|<span class="rank-name-dl">むっつー</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|43|921|<span class="rank-name-dl">KENTA(2960)</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|44|920|<span class="rank-name-dl">Ben</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|45|915|<span class="rank-name-dl">パンナコッタ</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|46|912|<span class="rank-name-dl">ゆうたたーげっと</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|47|909|<span class="rank-name-dl">176</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|48|907|<span class="rank-name-dl">惡代官(｀∩´)／</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|49|894|<span class="rank-name-dl">まつけん@VEGA</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|50|886|<span class="rank-name-dl">☆kiyo(*´-`)</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|51|885|<span class="rank-name-dl">しお</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|52|880|<span class="rank-name-dl">のり</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|53|879|<span class="rank-name-dl">カズMAX@TPGN</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|54|876|<span class="rank-name-dl">polaro</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|55|875|<span class="rank-name-dl">☆kiyo(*´-`)</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|56|873|<span class="rank-name-dl">とりあえずアユ</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|57|869|<span class="rank-name-dl">HITMAN</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|57|869|<span class="rank-name-dl">むっつー</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|59|865|<span class="rank-name-dl">甲子園しょうた</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|60|862|<span class="rank-name-dl">LEON</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|61|860|<span class="rank-name-dl">176</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|62|855|<span class="rank-name-dl">みつゆーこ</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|63|851|<span class="rank-name-dl">ココロ</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|64|845|<span class="rank-name-dl">KElBON</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|64|845|<span class="rank-name-dl">ベーやん@ハング</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|66|837|<span class="rank-name-dl">もっちゃゃん</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|67|835|<span class="rank-name-dl">Masashi</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|68|831|<span class="rank-name-dl">カズMAX@TPGN</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|69|824|<span class="rank-name-dl">量産型ブル</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|70|821|<span class="rank-name-dl">Kazu＠孤独な旅人</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|71|818|<span class="rank-name-dl">polaro</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|72|816|<span class="rank-name-dl">練習中ハントレス</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|73|811|<span class="rank-name-dl">やくみつゆ</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|74|805|<span class="rank-name-dl">Yu-Ki</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|75|804|<span class="rank-name-dl">kazuto</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|75|804|<span class="rank-name-dl">とりあえずアユ</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|77|802|<span class="rank-name-dl">りょ1号</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|77|802|<span class="rank-name-dl">偽伝承者フジシン</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|79|801|<span class="rank-name-dl">りょ2号</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|80|799|<span class="rank-name-dl">◆◆masa◇◇</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|81|783|<span class="rank-name-dl">カズMAX@TPGN</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|82|781|<span class="rank-name-dl">もっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|83|780|<span class="rank-name-dl">L-Ma</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|83|780|<span class="rank-name-dl">まもきち</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|83|780|<span class="rank-name-dl">みつゆーこ</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|86|775|<span class="rank-name-dl">じ ゅ ん</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|87|774|<span class="rank-name-dl">RITOAAA</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|87|774|<span class="rank-name-dl">あいうえお</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|89|770|<span class="rank-name-dl">川西康士</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|90|769|<span class="rank-name-dl">人糞イチロー</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|91|765|<span class="rank-name-dl">とも</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|92|764|<span class="rank-name-dl">まもきち</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|93|760|<span class="rank-name-dl">BamboooMan</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|93|760|<span class="rank-name-dl">GOLBA</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|93|760|<span class="rank-name-dl">りょ</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|96|759|<span class="rank-name-dl">◆◆masa◇◇</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|96|759|<span class="rank-name-dl">偽伝承者フジシン</span>|<a href="https://search.dartslive.com/jp/shop/9951fb2d9c2f3b58fec1ae84bb28bd87">カラオケ ジョイジョイ 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|98|757|<span class="rank-name-dl">りょ</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|98|757|<span class="rank-name-dl">りょ1号</span>|<a href="https://search.dartslive.com/jp/shop/1c0b5ab73385645e58d385ea46352d8f">Bar Glanz</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|98|757|<span class="rank-name-dl">アイゼン</span>|<a href="https://search.dartslive.com/jp/shop/d30b1ca2d0735f540d9b047a20a7ba1e">アットタイム 八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
 
 
 #### PHOENIXDARTS TOP 100
@@ -239,11 +241,33 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|745|<span class="rank-name-pd"><span class="pro-icon-pd"></span>山本 大地</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76844?s_seq=76844">JOYJOY 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|2|619|<span class="rank-name-pd">練習中ハントレス</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76844?s_seq=76844">JOYJOY 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|3|474|<span class="rank-name-pd">ジュリアン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76844?s_seq=76844">JOYJOY 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|4|431|<span class="rank-name-pd">VirtualCard</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76844?s_seq=76844">JOYJOY 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
-|5|401|<span class="rank-name-pd">ちょぱ美❤️Liberty</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76844?s_seq=76844">JOYJOY 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|1|1009|<span class="rank-name-pd">いまい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76844?s_seq=76844">JOYJOY 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|2|908|<span class="rank-name-pd">RYO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76844?s_seq=76844">JOYJOY 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|3|879|<span class="rank-name-pd">176</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76844?s_seq=76844">JOYJOY 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|4|860|<span class="rank-name-pd">Masashi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76844?s_seq=76844">JOYJOY 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|5|845|<span class="rank-name-pd"><span class="pro-icon-pd"></span>水谷 友哉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76844?s_seq=76844">JOYJOY 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|6|838|<span class="rank-name-pd">んなみ✳︎cloud</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76844?s_seq=76844">JOYJOY 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|7|745|<span class="rank-name-pd"><span class="pro-icon-pd"></span>山本 大地</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76844?s_seq=76844">JOYJOY 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|8|729|<span class="rank-name-pd">じゅん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76844?s_seq=76844">JOYJOY 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|9|713|<span class="rank-name-pd">ひろみ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76844?s_seq=76844">JOYJOY 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|10|703|<span class="rank-name-pd">watanabe3</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76844?s_seq=76844">JOYJOY 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|11|687|<span class="rank-name-pd">とりあえずアユ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76844?s_seq=76844">JOYJOY 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|12|668|<span class="rank-name-pd"><span class="pro-icon-pd"></span>三浦 貴弘</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76844?s_seq=76844">JOYJOY 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|13|660|<span class="rank-name-pd">練習中ハントレス</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76844?s_seq=76844">JOYJOY 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|14|649|<span class="rank-name-pd">インスタ映え</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76844?s_seq=76844">JOYJOY 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|15|605|<span class="rank-name-pd">Target</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76844?s_seq=76844">JOYJOY 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|16|564|<span class="rank-name-pd">-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76844?s_seq=76844">JOYJOY 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|17|548|<span class="rank-name-pd">まーべりっく</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76844?s_seq=76844">JOYJOY 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|18|515|<span class="rank-name-pd">ハピバ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76844?s_seq=76844">JOYJOY 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|19|514|<span class="rank-name-pd">u2</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76844?s_seq=76844">JOYJOY 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|20|511|<span class="rank-name-pd">きゃさりん。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76844?s_seq=76844">JOYJOY 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|21|506|<span class="rank-name-pd">ピザ職人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76844?s_seq=76844">JOYJOY 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|22|500|<span class="rank-name-pd">うぃりあむ。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76844?s_seq=76844">JOYJOY 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|23|492|<span class="rank-name-pd">ちょぱ美❤️Liberty</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76844?s_seq=76844">JOYJOY 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|24|474|<span class="rank-name-pd">ジュリアン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76844?s_seq=76844">JOYJOY 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|25|431|<span class="rank-name-pd">VirtualCard</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76844?s_seq=76844">JOYJOY 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|26|407|<span class="rank-name-pd">@穴教教祖.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76844?s_seq=76844">JOYJOY 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
+|27|380|<span class="rank-name-pd">kairi0982</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_76844?s_seq=76844">JOYJOY 東近江八日市店</a>|<a href="/darts/rank/滋賀県/東近江市">滋賀県東近江市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
