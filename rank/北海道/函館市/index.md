@@ -338,9 +338,9 @@ ___
 |94|760|<span class="rank-name-pd">イケちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_92546?s_seq=92546">PlayGarden 函館五稜郭店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
 |96|757|<span class="rank-name-pd">penderyn</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78663?s_seq=78663">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
 |96|757|<span class="rank-name-pd">けんてぃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78663?s_seq=78663">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|98|752|<span class="rank-name-pd">MたけしM</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_93755?s_seq=93755">Darts Cafe Fuzz Cat</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|98|752|<span class="rank-name-pd">マメルリハ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10661?s_seq=10661">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
-|98|752|<span class="rank-name-pd">圧倒的不審者の弱者</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78663?s_seq=78663">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|98|755|<span class="rank-name-pd">ひげのゴリさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78663?s_seq=78663">快活CLUB 函館昭和店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|99|752|<span class="rank-name-pd">MたけしM</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_93755?s_seq=93755">Darts Cafe Fuzz Cat</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
+|99|752|<span class="rank-name-pd">マメルリハ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10661?s_seq=10661">ラウンドワン函館店</a>|<a href="/darts/rank/北海道/函館市">北海道函館市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

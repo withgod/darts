@@ -63,93 +63,93 @@ ___
 |10|1202|<span class="rank-name-pd">跡部 景吾</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61735?s_seq=61735">アプレシオ 御殿場インター店</a>|<a href="/darts/rank/静岡県/御殿場市">静岡県御殿場市</a>|
 |12|1200|<span class="rank-name-pd">Dai or Alive</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
 |12|1200|<span class="rank-name-dl">D×3 鈴木大地</span>|<a href="https://search.dartslive.com/jp/shop/5b479306ac64f37928032249b44395af">ダーツショップDx3 浜松</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
-|12|1200|<span class="rank-name-pd">加藤 誠也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82358?s_seq=82358">Karaoke&Dartsbar Owl</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
 |12|1200|<span class="rank-name-dl">木村 裕馬</span>|<a href="https://search.dartslive.com/jp/shop/8d57c22f6e53f4ff25d56fb0e5c39bac">B-GARAGE熱海駅前店</a>|<a href="/darts/rank/静岡県/熱海市">静岡県熱海市</a>|
 |12|1200|<span class="rank-name-pd">田中銀河</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90165?s_seq=90165">ダーツショップD×３　浜松店</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
-|17|1195|<span class="rank-name-pd">デューク東郷</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61735?s_seq=61735">アプレシオ 御殿場インター店</a>|<a href="/darts/rank/静岡県/御殿場市">静岡県御殿場市</a>|
-|18|1178|<span class="rank-name-pd">抜歯</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82890?s_seq=82890">快活CLUB 藤枝店</a>|<a href="/darts/rank/静岡県/藤枝市">静岡県藤枝市</a>|
-|19|1171|<span class="rank-name-dl">田中銀河@Symbol</span>|<a href="https://search.dartslive.com/jp/shop/dffbbd8bdfc021a0f454cb89828a1cfe">Symbol</a>|<a href="/darts/rank/静岡県/袋井市">静岡県袋井市</a>|
-|20|1169|<span class="rank-name-dl">立石家（共有）</span>|<a href="https://search.dartslive.com/jp/shop/984af241046ee54c0d9b047a20a7ba1e">コローレサンストリート浜北店</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
-|21|1167|<span class="rank-name-pd"><span class="pro-icon-pd"></span>佐々木 淳也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84912?s_seq=84912">DARTS＆BAR STRAIGHT</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|21|1167|<span class="rank-name-pd">田中銀河</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89249?s_seq=89249">CAFE No.iE</a>|<a href="/darts/rank/静岡県/袋井市">静岡県袋井市</a>|
-|23|1166|<span class="rank-name-dl">阿Q【20&amp;1】</span>|<a href="https://search.dartslive.com/jp/shop/9c7ad8320c0d52e50d9b047a20a7ba1e">ラウンドワン富士店</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
-|24|1165|<span class="rank-name-dl">髙槻　燿太</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|25|1163|<span class="rank-name-dl">銀牙[ねこ]</span>|<a href="https://search.dartslive.com/jp/shop/2219a72ccefd5b36f454cb89828a1cfe">アプレシオ東静岡駅前店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|26|1161|<span class="rank-name-pd">I am Tetsu.@S.GARAGE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64258?s_seq=64258">Buddy</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
-|27|1160|<span class="rank-name-dl">pm9</span>|<a href="https://search.dartslive.com/jp/shop/5b479306ac64f37928032249b44395af">ダーツショップDx3 浜松</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
-|27|1160|<span class="rank-name-dl">田中 銀河@No.iE</span>|<a href="https://search.dartslive.com/jp/shop/fadb21fa1c3724e80d9b047a20a7ba1e">CAfE No.iE</a>|<a href="/darts/rank/静岡県/袋井市">静岡県袋井市</a>|
-|27|1160|<span class="rank-name-dl">鈴木 大地　25/50</span>|<a href="https://search.dartslive.com/jp/shop/5b479306ac64f37928032249b44395af">ダーツショップDx3 浜松</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
-|27|1160|<span class="rank-name-pd">鈴木大地@D×3</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90165?s_seq=90165">ダーツショップD×３　浜松店</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
-|27|1160|<span class="rank-name-pd"><span class="pro-icon-pd"></span>髙槻 燿太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9193?s_seq=9193">アプレシオ 東静岡駅前店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|32|1157|<span class="rank-name-dl">やっち</span>|<a href="https://search.dartslive.com/jp/shop/1bc6a631840417f6fec1ae84bb28bd87">アプレシオ 御殿場インター店</a>|<a href="/darts/rank/静岡県/御殿場市">静岡県御殿場市</a>|
-|32|1157|<span class="rank-name-pd">有原　竜太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_54148?s_seq=54148">Rook</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
-|32|1157|<span class="rank-name-pd">田中銀河</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|35|1154|<span class="rank-name-dl">ヒノカミ神楽</span>|<a href="https://search.dartslive.com/jp/shop/dda6b2ef88f37b1f58d385ea46352d8f">快活CLUB 静岡寿町店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|36|1153|<span class="rank-name-pd">Nukky</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90698?s_seq=90698">abaca.</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|36|1153|<span class="rank-name-dl">鈴木大地SoleSoul</span>|<a href="https://search.dartslive.com/jp/shop/5b479306ac64f37928032249b44395af">ダーツショップDx3 浜松</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
-|38|1152|<span class="rank-name-dl">PENNY【20&amp;1】</span>|<a href="https://search.dartslive.com/jp/shop/70fe458388e443a90d9b047a20a7ba1e">ラウンドワン浜松店</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
-|39|1151|<span class="rank-name-dl">山本 雅一</span>|<a href="https://search.dartslive.com/jp/shop/dda6b2ef88f37b1f58d385ea46352d8f">快活CLUB 静岡寿町店 快活CLUB 静岡寿町店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|39|1151|<span class="rank-name-dl">銀牙[ねこ]</span>|<a href="https://search.dartslive.com/jp/shop/5b479306ac64f37928032249b44395af">ダーツショップDx3 浜松</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
-|41|1149|<span class="rank-name-dl">阿Q【20&amp;1】</span>|<a href="https://search.dartslive.com/jp/shop/937f8b585e65b8c6a3f63593b5358cc4">アプレシオ 浜松ビオラ田町店</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
-|42|1140|<span class="rank-name-dl">阿Q【20&amp;1】</span>|<a href="https://search.dartslive.com/jp/shop/2219a72ccefd5b36f454cb89828a1cfe">アプレシオ東静岡駅前店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|43|1135|<span class="rank-name-dl">無</span>|<a href="https://search.dartslive.com/jp/shop/5b479306ac64f37928032249b44395af">ダーツショップDx3 浜松</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
-|44|1134|<span class="rank-name-pd">プロ迎撃装備楊房零式吹矢</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47496?s_seq=47496">Cafe&Darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|44|1134|<span class="rank-name-pd">赤</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73228?s_seq=73228">Darts shop JIGSAW</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
-|46|1133|<span class="rank-name-dl">D×3 鈴木大地</span>|<a href="https://search.dartslive.com/jp/shop/984af241046ee54c0d9b047a20a7ba1e">コローレサンストリート浜北店</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
-|46|1133|<span class="rank-name-pd"><span class="pro-icon-pd"></span>佐々木 淳也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6836?s_seq=6836">ZERO-R</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|46|1133|<span class="rank-name-pd">鈴木大地@sole soul</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90165?s_seq=90165">ダーツショップD×３　浜松店</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
-|49|1132|<span class="rank-name-dl">Kwong @ Cuesoul</span>|<a href="https://search.dartslive.com/jp/shop/041ffbef693f46b2b21333aee1bd51e4">Novel</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|49|1132|<span class="rank-name-dl">McKee</span>|<a href="https://search.dartslive.com/jp/shop/2219a72ccefd5b36f454cb89828a1cfe">アプレシオ東静岡駅前店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|49|1132|<span class="rank-name-dl">阿Q【20&amp;1】</span>|<a href="https://search.dartslive.com/jp/shop/9c7ad8320c0d52e50d9b047a20a7ba1e">ラウンドワン富士店 ラウンドワン富士店</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
-|52|1131|<span class="rank-name-dl">ヤマシタシンヤ</span>|<a href="https://search.dartslive.com/jp/shop/abd2948566c98aa7774c926eb736cb5a">8FEET 8FEET</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
-|53|1130|<span class="rank-name-pd">座間 涼</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56124?s_seq=56124">快活CLUB 静岡寿町店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|53|1130|<span class="rank-name-dl">田中銀河@Ssymbol</span>|<a href="https://search.dartslive.com/jp/shop/dffbbd8bdfc021a0f454cb89828a1cfe">Symbol</a>|<a href="/darts/rank/静岡県/袋井市">静岡県袋井市</a>|
-|55|1129|<span class="rank-name-dl">D×3 鈴木大地</span>|<a href="https://search.dartslive.com/jp/shop/ec71a84d6879c9b258d385ea46352d8f">カラオケ ジョイジョイ 浜松宮竹店</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
-|55|1129|<span class="rank-name-dl">masa</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|55|1129|<span class="rank-name-pd"><span class="pro-icon-pd"></span>髙槻 燿太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90698?s_seq=90698">abaca.</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|58|1128|<span class="rank-name-dl">立石家（共有）</span>|<a href="https://search.dartslive.com/jp/shop/4274bf205cd9ff20b21333aee1bd51e4">カラオケマック静岡両替町店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|59|1127|<span class="rank-name-dl">木村 裕馬</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|59|1127|<span class="rank-name-pd">阿Q[20&amp;1]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8373?s_seq=8373">ラウンドワン駿河店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|61|1126|<span class="rank-name-pd">1441-4129</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90165?s_seq=90165">ダーツショップD×３　浜松店</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
-|61|1126|<span class="rank-name-pd">クレヨンしんちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7422?s_seq=7422">コローレ サンストリート浜北</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
-|63|1125|<span class="rank-name-dl">おニャンコ侍</span>|<a href="https://search.dartslive.com/jp/shop/dda6b2ef88f37b1f58d385ea46352d8f">快活CLUB 静岡寿町店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|63|1125|<span class="rank-name-dl">たかはしりょう</span>|<a href="https://search.dartslive.com/jp/shop/3387652dd89035ccfec1ae84bb28bd87">zero R</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|63|1125|<span class="rank-name-dl">ヤマシタシンヤ</span>|<a href="https://search.dartslive.com/jp/shop/fadb21fa1c3724e80d9b047a20a7ba1e">CAfE No.iE CAfE No.iE</a>|<a href="/darts/rank/静岡県/袋井市">静岡県袋井市</a>|
-|63|1125|<span class="rank-name-pd">立石 幸大</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7422?s_seq=7422">コローレ サンストリート浜北</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
-|67|1124|<span class="rank-name-pd">プロ迎撃やん坊吹矢</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41033?s_seq=41033">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|67|1124|<span class="rank-name-pd"><span class="pro-icon-pd"></span>田中 銀河</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90165?s_seq=90165">ダーツショップD×３　浜松店</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
-|69|1123|<span class="rank-name-dl">a.mizuno</span>|<a href="https://search.dartslive.com/jp/shop/e829a2489ac2fc4725d56fb0e5c39bac">快活CLUB 藤枝店</a>|<a href="/darts/rank/静岡県/藤枝市">静岡県藤枝市</a>|
-|69|1123|<span class="rank-name-dl">銀牙[ねこ]</span>|<a href="https://search.dartslive.com/jp/shop/e829a2489ac2fc4725d56fb0e5c39bac">快活CLUB 藤枝店</a>|<a href="/darts/rank/静岡県/藤枝市">静岡県藤枝市</a>|
-|71|1122|<span class="rank-name-dl">&quot;たつ&quot;</span>|<a href="https://search.dartslive.com/jp/shop/abd2948566c98aa7774c926eb736cb5a">8FEET</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
-|71|1122|<span class="rank-name-pd"><span class="pro-icon-pd"></span>佐々木 淳也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9290?s_seq=9290">Darts Bar ALONZA</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
-|71|1122|<span class="rank-name-pd"><span class="pro-icon-pd"></span>佐々木 淳也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9193?s_seq=9193">アプレシオ東静岡駅前店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|71|1122|<span class="rank-name-dl">玄ちゃん abaca.*</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|75|1121|<span class="rank-name-dl">銀牙[ねこ]</span>|<a href="https://search.dartslive.com/jp/shop/937f8b585e65b8c6a3f63593b5358cc4">アプレシオ 浜松ビオラ田町店</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
-|76|1120|<span class="rank-name-dl">オノレット</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|76|1120|<span class="rank-name-dl">玄ちゃん abaca.*</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|78|1118|<span class="rank-name-pd">田中銀河</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8456?s_seq=8456">コローレ浜松市野店</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
-|79|1117|<span class="rank-name-dl">TAKENORI KIRARA</span>|<a href="https://search.dartslive.com/jp/shop/dda6b2ef88f37b1f58d385ea46352d8f">快活CLUB 静岡寿町店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|79|1117|<span class="rank-name-dl">浦井 裕太郎</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|79|1117|<span class="rank-name-dl">鈴木 大地</span>|<a href="https://search.dartslive.com/jp/shop/5b479306ac64f37928032249b44395af">ダーツショップDx3 浜松</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
-|82|1115|<span class="rank-name-pd"><span class="pro-icon-pd"></span>高橋  亮</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79755?s_seq=79755">Sports&Dining La.Seed</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|82|1115|<span class="rank-name-dl">髙槻　燿太</span>|<a href="https://search.dartslive.com/jp/shop/2219a72ccefd5b36f454cb89828a1cfe">アプレシオ東静岡駅前店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|84|1114|<span class="rank-name-dl">NO NAME 1447</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|85|1113|<span class="rank-name-dl">√1 6 4</span>|<a href="https://search.dartslive.com/jp/shop/5b479306ac64f37928032249b44395af">ダーツショップDx3 浜松</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
-|85|1113|<span class="rank-name-pd"><span class="pro-icon-pd"></span>平野 拓成</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56120?s_seq=56120">快活CLUB 清水春日店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|85|1113|<span class="rank-name-dl">銀牙[ねこ]</span>|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店 カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|88|1112|<span class="rank-name-pd">PM9</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_54148?s_seq=54148">Rook</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
-|89|1111|<span class="rank-name-pd">俺、拓馬</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10245?s_seq=10245">ラウンドワン富士店</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
-|90|1110|<span class="rank-name-dl">トッキー</span>|<a href="https://search.dartslive.com/jp/shop/6fff262918d5216c0d9b047a20a7ba1e">カラオケBanBan静岡豊田店 カラオケBanBan静岡豊田店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|90|1110|<span class="rank-name-pd"><span class="pro-icon-pd"></span>佐々木 淳也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56124?s_seq=56124">快活CLUB 静岡寿町店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|92|1107|<span class="rank-name-dl">@Aiming</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|92|1107|<span class="rank-name-dl">TAKENORI KIRARA</span>|<a href="https://search.dartslive.com/jp/shop/2219a72ccefd5b36f454cb89828a1cfe">アプレシオ東静岡駅前店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|92|1107|<span class="rank-name-dl">ヤマシタシンヤ</span>|<a href="https://search.dartslive.com/jp/shop/937f8b585e65b8c6a3f63593b5358cc4">アプレシオ 浜松ビオラ田町店 アプレシオ 浜松ビオラ田町店</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
-|95|1106|<span class="rank-name-pd">Hide.(^○^)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61735?s_seq=61735">アプレシオ 御殿場インター店</a>|<a href="/darts/rank/静岡県/御殿場市">静岡県御殿場市</a>|
-|95|1106|<span class="rank-name-pd">山本 雅一</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9290?s_seq=9290">Darts Bar ALONZA</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
-|95|1106|<span class="rank-name-dl">無名</span>|<a href="https://search.dartslive.com/jp/shop/9b9410111a87cf055f9f3321c1147265">快活CLUB 沼津店 快活CLUB 沼津店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|98|1105|<span class="rank-name-dl">木村 裕馬</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|98|1105|<span class="rank-name-dl">鈴木大地SoleSoul</span>|<a href="https://search.dartslive.com/jp/shop/984af241046ee54c0d9b047a20a7ba1e">コローレサンストリート浜北店</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
-|100|1104|<span class="rank-name-dl">D×3 鈴木大地</span>|<a href="https://search.dartslive.com/jp/shop/f6fb287c4342ea9fb21333aee1bd51e4">Dragoon</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|16|1195|<span class="rank-name-pd">デューク東郷</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61735?s_seq=61735">アプレシオ 御殿場インター店</a>|<a href="/darts/rank/静岡県/御殿場市">静岡県御殿場市</a>|
+|17|1178|<span class="rank-name-pd">抜歯</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82890?s_seq=82890">快活CLUB 藤枝店</a>|<a href="/darts/rank/静岡県/藤枝市">静岡県藤枝市</a>|
+|18|1171|<span class="rank-name-dl">田中銀河@Symbol</span>|<a href="https://search.dartslive.com/jp/shop/dffbbd8bdfc021a0f454cb89828a1cfe">Symbol</a>|<a href="/darts/rank/静岡県/袋井市">静岡県袋井市</a>|
+|19|1169|<span class="rank-name-dl">立石家（共有）</span>|<a href="https://search.dartslive.com/jp/shop/984af241046ee54c0d9b047a20a7ba1e">コローレサンストリート浜北店</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
+|20|1167|<span class="rank-name-pd"><span class="pro-icon-pd"></span>佐々木 淳也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84912?s_seq=84912">DARTS＆BAR STRAIGHT</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|20|1167|<span class="rank-name-pd">田中銀河</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89249?s_seq=89249">CAFE No.iE</a>|<a href="/darts/rank/静岡県/袋井市">静岡県袋井市</a>|
+|22|1166|<span class="rank-name-dl">阿Q【20&amp;1】</span>|<a href="https://search.dartslive.com/jp/shop/9c7ad8320c0d52e50d9b047a20a7ba1e">ラウンドワン富士店</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
+|23|1165|<span class="rank-name-dl">髙槻　燿太</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|24|1163|<span class="rank-name-dl">銀牙[ねこ]</span>|<a href="https://search.dartslive.com/jp/shop/2219a72ccefd5b36f454cb89828a1cfe">アプレシオ東静岡駅前店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|25|1161|<span class="rank-name-pd">I am Tetsu.@S.GARAGE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64258?s_seq=64258">Buddy</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
+|26|1160|<span class="rank-name-dl">pm9</span>|<a href="https://search.dartslive.com/jp/shop/5b479306ac64f37928032249b44395af">ダーツショップDx3 浜松</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
+|26|1160|<span class="rank-name-dl">田中 銀河@No.iE</span>|<a href="https://search.dartslive.com/jp/shop/fadb21fa1c3724e80d9b047a20a7ba1e">CAfE No.iE</a>|<a href="/darts/rank/静岡県/袋井市">静岡県袋井市</a>|
+|26|1160|<span class="rank-name-dl">鈴木 大地　25/50</span>|<a href="https://search.dartslive.com/jp/shop/5b479306ac64f37928032249b44395af">ダーツショップDx3 浜松</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
+|26|1160|<span class="rank-name-pd">鈴木大地@D×3</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90165?s_seq=90165">ダーツショップD×３　浜松店</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
+|26|1160|<span class="rank-name-pd"><span class="pro-icon-pd"></span>髙槻 燿太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9193?s_seq=9193">アプレシオ 東静岡駅前店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|31|1157|<span class="rank-name-dl">やっち</span>|<a href="https://search.dartslive.com/jp/shop/1bc6a631840417f6fec1ae84bb28bd87">アプレシオ 御殿場インター店</a>|<a href="/darts/rank/静岡県/御殿場市">静岡県御殿場市</a>|
+|31|1157|<span class="rank-name-pd">有原　竜太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_54148?s_seq=54148">Rook</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
+|31|1157|<span class="rank-name-pd">田中銀河</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|34|1154|<span class="rank-name-dl">ヒノカミ神楽</span>|<a href="https://search.dartslive.com/jp/shop/dda6b2ef88f37b1f58d385ea46352d8f">快活CLUB 静岡寿町店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|35|1153|<span class="rank-name-pd">Nukky</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90698?s_seq=90698">abaca.</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|35|1153|<span class="rank-name-dl">鈴木大地SoleSoul</span>|<a href="https://search.dartslive.com/jp/shop/5b479306ac64f37928032249b44395af">ダーツショップDx3 浜松</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
+|37|1152|<span class="rank-name-dl">PENNY【20&amp;1】</span>|<a href="https://search.dartslive.com/jp/shop/70fe458388e443a90d9b047a20a7ba1e">ラウンドワン浜松店</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
+|38|1151|<span class="rank-name-dl">山本 雅一</span>|<a href="https://search.dartslive.com/jp/shop/dda6b2ef88f37b1f58d385ea46352d8f">快活CLUB 静岡寿町店 快活CLUB 静岡寿町店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|38|1151|<span class="rank-name-dl">銀牙[ねこ]</span>|<a href="https://search.dartslive.com/jp/shop/5b479306ac64f37928032249b44395af">ダーツショップDx3 浜松</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
+|40|1149|<span class="rank-name-dl">阿Q【20&amp;1】</span>|<a href="https://search.dartslive.com/jp/shop/937f8b585e65b8c6a3f63593b5358cc4">アプレシオ 浜松ビオラ田町店</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
+|41|1140|<span class="rank-name-dl">阿Q【20&amp;1】</span>|<a href="https://search.dartslive.com/jp/shop/2219a72ccefd5b36f454cb89828a1cfe">アプレシオ東静岡駅前店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|42|1135|<span class="rank-name-dl">無</span>|<a href="https://search.dartslive.com/jp/shop/5b479306ac64f37928032249b44395af">ダーツショップDx3 浜松</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
+|43|1134|<span class="rank-name-pd">プロ迎撃装備楊房零式吹矢</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47496?s_seq=47496">Cafe&Darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|43|1134|<span class="rank-name-pd">赤</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73228?s_seq=73228">Darts shop JIGSAW</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
+|45|1133|<span class="rank-name-dl">D×3 鈴木大地</span>|<a href="https://search.dartslive.com/jp/shop/984af241046ee54c0d9b047a20a7ba1e">コローレサンストリート浜北店</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
+|45|1133|<span class="rank-name-pd"><span class="pro-icon-pd"></span>佐々木 淳也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6836?s_seq=6836">ZERO-R</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|45|1133|<span class="rank-name-pd">鈴木大地@sole soul</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90165?s_seq=90165">ダーツショップD×３　浜松店</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
+|48|1132|<span class="rank-name-dl">Kwong @ Cuesoul</span>|<a href="https://search.dartslive.com/jp/shop/041ffbef693f46b2b21333aee1bd51e4">Novel</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|48|1132|<span class="rank-name-dl">McKee</span>|<a href="https://search.dartslive.com/jp/shop/2219a72ccefd5b36f454cb89828a1cfe">アプレシオ東静岡駅前店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|48|1132|<span class="rank-name-dl">阿Q【20&amp;1】</span>|<a href="https://search.dartslive.com/jp/shop/9c7ad8320c0d52e50d9b047a20a7ba1e">ラウンドワン富士店 ラウンドワン富士店</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
+|51|1131|<span class="rank-name-dl">ヤマシタシンヤ</span>|<a href="https://search.dartslive.com/jp/shop/abd2948566c98aa7774c926eb736cb5a">8FEET 8FEET</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
+|52|1130|<span class="rank-name-pd">座間 涼</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56124?s_seq=56124">快活CLUB 静岡寿町店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|52|1130|<span class="rank-name-dl">田中銀河@Ssymbol</span>|<a href="https://search.dartslive.com/jp/shop/dffbbd8bdfc021a0f454cb89828a1cfe">Symbol</a>|<a href="/darts/rank/静岡県/袋井市">静岡県袋井市</a>|
+|54|1129|<span class="rank-name-dl">D×3 鈴木大地</span>|<a href="https://search.dartslive.com/jp/shop/ec71a84d6879c9b258d385ea46352d8f">カラオケ ジョイジョイ 浜松宮竹店</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
+|54|1129|<span class="rank-name-dl">masa</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|54|1129|<span class="rank-name-pd"><span class="pro-icon-pd"></span>髙槻 燿太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90698?s_seq=90698">abaca.</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|57|1128|<span class="rank-name-dl">立石家（共有）</span>|<a href="https://search.dartslive.com/jp/shop/4274bf205cd9ff20b21333aee1bd51e4">カラオケマック静岡両替町店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|58|1127|<span class="rank-name-dl">木村 裕馬</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|58|1127|<span class="rank-name-pd">阿Q[20&amp;1]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8373?s_seq=8373">ラウンドワン駿河店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|60|1126|<span class="rank-name-pd">1441-4129</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90165?s_seq=90165">ダーツショップD×３　浜松店</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
+|60|1126|<span class="rank-name-pd">クレヨンしんちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7422?s_seq=7422">コローレ サンストリート浜北</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
+|62|1125|<span class="rank-name-dl">おニャンコ侍</span>|<a href="https://search.dartslive.com/jp/shop/dda6b2ef88f37b1f58d385ea46352d8f">快活CLUB 静岡寿町店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|62|1125|<span class="rank-name-dl">たかはしりょう</span>|<a href="https://search.dartslive.com/jp/shop/3387652dd89035ccfec1ae84bb28bd87">zero R</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|62|1125|<span class="rank-name-dl">ヤマシタシンヤ</span>|<a href="https://search.dartslive.com/jp/shop/fadb21fa1c3724e80d9b047a20a7ba1e">CAfE No.iE CAfE No.iE</a>|<a href="/darts/rank/静岡県/袋井市">静岡県袋井市</a>|
+|62|1125|<span class="rank-name-pd">立石 幸大</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7422?s_seq=7422">コローレ サンストリート浜北</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
+|66|1124|<span class="rank-name-pd">プロ迎撃やん坊吹矢</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41033?s_seq=41033">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|66|1124|<span class="rank-name-pd"><span class="pro-icon-pd"></span>田中 銀河</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90165?s_seq=90165">ダーツショップD×３　浜松店</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
+|68|1123|<span class="rank-name-dl">a.mizuno</span>|<a href="https://search.dartslive.com/jp/shop/e829a2489ac2fc4725d56fb0e5c39bac">快活CLUB 藤枝店</a>|<a href="/darts/rank/静岡県/藤枝市">静岡県藤枝市</a>|
+|68|1123|<span class="rank-name-dl">銀牙[ねこ]</span>|<a href="https://search.dartslive.com/jp/shop/e829a2489ac2fc4725d56fb0e5c39bac">快活CLUB 藤枝店</a>|<a href="/darts/rank/静岡県/藤枝市">静岡県藤枝市</a>|
+|70|1122|<span class="rank-name-dl">&quot;たつ&quot;</span>|<a href="https://search.dartslive.com/jp/shop/abd2948566c98aa7774c926eb736cb5a">8FEET</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
+|70|1122|<span class="rank-name-pd"><span class="pro-icon-pd"></span>佐々木 淳也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9290?s_seq=9290">Darts Bar ALONZA</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
+|70|1122|<span class="rank-name-pd"><span class="pro-icon-pd"></span>佐々木 淳也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9193?s_seq=9193">アプレシオ東静岡駅前店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|70|1122|<span class="rank-name-dl">玄ちゃん abaca.*</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|74|1121|<span class="rank-name-dl">銀牙[ねこ]</span>|<a href="https://search.dartslive.com/jp/shop/937f8b585e65b8c6a3f63593b5358cc4">アプレシオ 浜松ビオラ田町店</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
+|75|1120|<span class="rank-name-dl">オノレット</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|75|1120|<span class="rank-name-dl">玄ちゃん abaca.*</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|77|1118|<span class="rank-name-pd">田中銀河</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8456?s_seq=8456">コローレ浜松市野店</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
+|78|1117|<span class="rank-name-dl">TAKENORI KIRARA</span>|<a href="https://search.dartslive.com/jp/shop/dda6b2ef88f37b1f58d385ea46352d8f">快活CLUB 静岡寿町店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|78|1117|<span class="rank-name-dl">浦井 裕太郎</span>|<a href="https://search.dartslive.com/jp/shop/cc45be8fef8d91c0b21333aee1bd51e4">abaca</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|78|1117|<span class="rank-name-dl">鈴木 大地</span>|<a href="https://search.dartslive.com/jp/shop/5b479306ac64f37928032249b44395af">ダーツショップDx3 浜松</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
+|81|1115|<span class="rank-name-pd"><span class="pro-icon-pd"></span>高橋  亮</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79755?s_seq=79755">Sports&Dining La.Seed</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|81|1115|<span class="rank-name-dl">髙槻　燿太</span>|<a href="https://search.dartslive.com/jp/shop/2219a72ccefd5b36f454cb89828a1cfe">アプレシオ東静岡駅前店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|83|1114|<span class="rank-name-dl">NO NAME 1447</span>|<a href="https://search.dartslive.com/jp/shop/cf6727ac862508a90d9b047a20a7ba1e">アプレシオ 清水町八幡店</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|84|1113|<span class="rank-name-dl">√1 6 4</span>|<a href="https://search.dartslive.com/jp/shop/5b479306ac64f37928032249b44395af">ダーツショップDx3 浜松</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
+|84|1113|<span class="rank-name-pd"><span class="pro-icon-pd"></span>平野 拓成</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56120?s_seq=56120">快活CLUB 清水春日店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|84|1113|<span class="rank-name-dl">銀牙[ねこ]</span>|<a href="https://search.dartslive.com/jp/shop/eb79f35c0c397b90a3f63593b5358cc4">カラオケ ジョイジョイ 掛川城西店 カラオケ ジョイジョイ 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|87|1112|<span class="rank-name-pd">PM9</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_54148?s_seq=54148">Rook</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
+|88|1111|<span class="rank-name-pd">俺、拓馬</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10245?s_seq=10245">ラウンドワン富士店</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
+|89|1110|<span class="rank-name-dl">トッキー</span>|<a href="https://search.dartslive.com/jp/shop/6fff262918d5216c0d9b047a20a7ba1e">カラオケBanBan静岡豊田店 カラオケBanBan静岡豊田店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|89|1110|<span class="rank-name-pd"><span class="pro-icon-pd"></span>佐々木 淳也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56124?s_seq=56124">快活CLUB 静岡寿町店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|91|1107|<span class="rank-name-dl">@Aiming</span>|<a href="https://search.dartslive.com/jp/shop/ec72a9c74056c8e20d9b047a20a7ba1e">ビリヤード エイミング</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|91|1107|<span class="rank-name-dl">TAKENORI KIRARA</span>|<a href="https://search.dartslive.com/jp/shop/2219a72ccefd5b36f454cb89828a1cfe">アプレシオ東静岡駅前店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|91|1107|<span class="rank-name-dl">ヤマシタシンヤ</span>|<a href="https://search.dartslive.com/jp/shop/937f8b585e65b8c6a3f63593b5358cc4">アプレシオ 浜松ビオラ田町店 アプレシオ 浜松ビオラ田町店</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
+|94|1106|<span class="rank-name-pd">Hide.(^○^)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61735?s_seq=61735">アプレシオ 御殿場インター店</a>|<a href="/darts/rank/静岡県/御殿場市">静岡県御殿場市</a>|
+|94|1106|<span class="rank-name-pd">山本 雅一</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9290?s_seq=9290">Darts Bar ALONZA</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
+|94|1106|<span class="rank-name-dl">無名</span>|<a href="https://search.dartslive.com/jp/shop/9b9410111a87cf055f9f3321c1147265">快活CLUB 沼津店 快活CLUB 沼津店</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|97|1105|<span class="rank-name-dl">木村 裕馬</span>|<a href="https://search.dartslive.com/jp/shop/2d936e4e641aea5d0d9b047a20a7ba1e">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|97|1105|<span class="rank-name-dl">鈴木大地SoleSoul</span>|<a href="https://search.dartslive.com/jp/shop/984af241046ee54c0d9b047a20a7ba1e">コローレサンストリート浜北店</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
+|99|1104|<span class="rank-name-dl">D×3 鈴木大地</span>|<a href="https://search.dartslive.com/jp/shop/f6fb287c4342ea9fb21333aee1bd51e4">Dragoon</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|99|1104|<span class="rank-name-dl">〆TE2〆</span>|<a href="https://search.dartslive.com/jp/shop/bf0c5e83411dc542790ab824ce8730e5">アプレシオ富士宮店</a>|<a href="/darts/rank/静岡県/富士宮市">静岡県富士宮市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -278,48 +278,48 @@ ___
 |8|1202|<span class="rank-name-pd">midnight(*ﾟ▽ﾟ)ﾉ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61735?s_seq=61735">アプレシオ 御殿場インター店</a>|<a href="/darts/rank/静岡県/御殿場市">静岡県御殿場市</a>|
 |8|1202|<span class="rank-name-pd">跡部 景吾</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61735?s_seq=61735">アプレシオ 御殿場インター店</a>|<a href="/darts/rank/静岡県/御殿場市">静岡県御殿場市</a>|
 |10|1200|<span class="rank-name-pd">Dai or Alive</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|10|1200|<span class="rank-name-pd">加藤 誠也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82358?s_seq=82358">Karaoke&Dartsbar Owl</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
 |10|1200|<span class="rank-name-pd">田中銀河</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90165?s_seq=90165">ダーツショップD×３　浜松店</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
-|13|1195|<span class="rank-name-pd">デューク東郷</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61735?s_seq=61735">アプレシオ 御殿場インター店</a>|<a href="/darts/rank/静岡県/御殿場市">静岡県御殿場市</a>|
-|14|1178|<span class="rank-name-pd">抜歯</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82890?s_seq=82890">快活CLUB 藤枝店</a>|<a href="/darts/rank/静岡県/藤枝市">静岡県藤枝市</a>|
-|15|1167|<span class="rank-name-pd"><span class="pro-icon-pd"></span>佐々木 淳也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84912?s_seq=84912">DARTS＆BAR STRAIGHT</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|15|1167|<span class="rank-name-pd">田中銀河</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89249?s_seq=89249">CAFE No.iE</a>|<a href="/darts/rank/静岡県/袋井市">静岡県袋井市</a>|
-|17|1161|<span class="rank-name-pd">I am Tetsu.@S.GARAGE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64258?s_seq=64258">Buddy</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
-|18|1160|<span class="rank-name-pd">鈴木大地@D×3</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90165?s_seq=90165">ダーツショップD×３　浜松店</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
-|18|1160|<span class="rank-name-pd"><span class="pro-icon-pd"></span>髙槻 燿太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9193?s_seq=9193">アプレシオ 東静岡駅前店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|20|1157|<span class="rank-name-pd">有原　竜太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_54148?s_seq=54148">Rook</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
-|20|1157|<span class="rank-name-pd">田中銀河</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
-|22|1153|<span class="rank-name-pd">Nukky</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90698?s_seq=90698">abaca.</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|23|1134|<span class="rank-name-pd">プロ迎撃装備楊房零式吹矢</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47496?s_seq=47496">Cafe&Darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|23|1134|<span class="rank-name-pd">赤</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73228?s_seq=73228">Darts shop JIGSAW</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
-|25|1133|<span class="rank-name-pd"><span class="pro-icon-pd"></span>佐々木 淳也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6836?s_seq=6836">ZERO-R</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|25|1133|<span class="rank-name-pd">鈴木大地@sole soul</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90165?s_seq=90165">ダーツショップD×３　浜松店</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
-|27|1130|<span class="rank-name-pd">座間 涼</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56124?s_seq=56124">快活CLUB 静岡寿町店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|28|1129|<span class="rank-name-pd"><span class="pro-icon-pd"></span>髙槻 燿太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90698?s_seq=90698">abaca.</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|29|1127|<span class="rank-name-pd">阿Q[20&amp;1]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8373?s_seq=8373">ラウンドワン駿河店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|30|1126|<span class="rank-name-pd">1441-4129</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90165?s_seq=90165">ダーツショップD×３　浜松店</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
-|30|1126|<span class="rank-name-pd">クレヨンしんちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7422?s_seq=7422">コローレ サンストリート浜北</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
-|32|1125|<span class="rank-name-pd">立石 幸大</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7422?s_seq=7422">コローレ サンストリート浜北</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
-|33|1124|<span class="rank-name-pd">プロ迎撃やん坊吹矢</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41033?s_seq=41033">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
-|33|1124|<span class="rank-name-pd"><span class="pro-icon-pd"></span>田中 銀河</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90165?s_seq=90165">ダーツショップD×３　浜松店</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
-|35|1122|<span class="rank-name-pd"><span class="pro-icon-pd"></span>佐々木 淳也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9290?s_seq=9290">Darts Bar ALONZA</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
-|35|1122|<span class="rank-name-pd"><span class="pro-icon-pd"></span>佐々木 淳也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9193?s_seq=9193">アプレシオ東静岡駅前店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|37|1118|<span class="rank-name-pd">田中銀河</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8456?s_seq=8456">コローレ浜松市野店</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
-|38|1115|<span class="rank-name-pd"><span class="pro-icon-pd"></span>高橋  亮</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79755?s_seq=79755">Sports&Dining La.Seed</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
-|39|1113|<span class="rank-name-pd"><span class="pro-icon-pd"></span>平野 拓成</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56120?s_seq=56120">快活CLUB 清水春日店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|40|1112|<span class="rank-name-pd">PM9</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_54148?s_seq=54148">Rook</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
-|41|1111|<span class="rank-name-pd">俺、拓馬</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10245?s_seq=10245">ラウンドワン富士店</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
-|42|1110|<span class="rank-name-pd"><span class="pro-icon-pd"></span>佐々木 淳也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56124?s_seq=56124">快活CLUB 静岡寿町店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|43|1106|<span class="rank-name-pd">Hide.(^○^)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61735?s_seq=61735">アプレシオ 御殿場インター店</a>|<a href="/darts/rank/静岡県/御殿場市">静岡県御殿場市</a>|
-|43|1106|<span class="rank-name-pd">山本 雅一</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9290?s_seq=9290">Darts Bar ALONZA</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
-|45|1100|<span class="rank-name-pd">DMC木村裕馬</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
-|45|1100|<span class="rank-name-pd">まさ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9290?s_seq=9290">Darts Bar ALONZA</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
-|47|1097|<span class="rank-name-pd"><span class="pro-icon-pd"></span>平野 拓成</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78589?s_seq=78589">プラザアピア</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|48|1096|<span class="rank-name-pd">田渕 省造@若林會</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_54148?s_seq=54148">Rook</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
-|49|1095|<span class="rank-name-pd"><span class="pro-icon-pd"></span>小泉 圭</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84912?s_seq=84912">DARTS＆BAR STRAIGHT</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
-|50|1094|<span class="rank-name-pd"><span class="pro-icon-pd"></span>浦井 裕太郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47496?s_seq=47496">Cafe&Darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
-|51|1092|<span class="rank-name-pd">田中銀河</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82890?s_seq=82890">快活CLUB 藤枝店</a>|<a href="/darts/rank/静岡県/藤枝市">静岡県藤枝市</a>|
-|52|1089|<span class="rank-name-pd">SATORU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_54148?s_seq=54148">Rook</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
+|12|1195|<span class="rank-name-pd">デューク東郷</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61735?s_seq=61735">アプレシオ 御殿場インター店</a>|<a href="/darts/rank/静岡県/御殿場市">静岡県御殿場市</a>|
+|13|1178|<span class="rank-name-pd">抜歯</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82890?s_seq=82890">快活CLUB 藤枝店</a>|<a href="/darts/rank/静岡県/藤枝市">静岡県藤枝市</a>|
+|14|1167|<span class="rank-name-pd"><span class="pro-icon-pd"></span>佐々木 淳也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84912?s_seq=84912">DARTS＆BAR STRAIGHT</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|14|1167|<span class="rank-name-pd">田中銀河</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89249?s_seq=89249">CAFE No.iE</a>|<a href="/darts/rank/静岡県/袋井市">静岡県袋井市</a>|
+|16|1161|<span class="rank-name-pd">I am Tetsu.@S.GARAGE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_64258?s_seq=64258">Buddy</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
+|17|1160|<span class="rank-name-pd">鈴木大地@D×3</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90165?s_seq=90165">ダーツショップD×３　浜松店</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
+|17|1160|<span class="rank-name-pd"><span class="pro-icon-pd"></span>髙槻 燿太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9193?s_seq=9193">アプレシオ 東静岡駅前店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|19|1157|<span class="rank-name-pd">有原　竜太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_54148?s_seq=54148">Rook</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
+|19|1157|<span class="rank-name-pd">田中銀河</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69990?s_seq=69990">JOYJOY 掛川城西店</a>|<a href="/darts/rank/静岡県/掛川市">静岡県掛川市</a>|
+|21|1153|<span class="rank-name-pd">Nukky</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90698?s_seq=90698">abaca.</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|22|1134|<span class="rank-name-pd">プロ迎撃装備楊房零式吹矢</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47496?s_seq=47496">Cafe&Darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|22|1134|<span class="rank-name-pd">赤</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_73228?s_seq=73228">Darts shop JIGSAW</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
+|24|1133|<span class="rank-name-pd"><span class="pro-icon-pd"></span>佐々木 淳也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6836?s_seq=6836">ZERO-R</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|24|1133|<span class="rank-name-pd">鈴木大地@sole soul</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90165?s_seq=90165">ダーツショップD×３　浜松店</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
+|26|1130|<span class="rank-name-pd">座間 涼</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56124?s_seq=56124">快活CLUB 静岡寿町店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|27|1129|<span class="rank-name-pd"><span class="pro-icon-pd"></span>髙槻 燿太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90698?s_seq=90698">abaca.</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|28|1127|<span class="rank-name-pd">阿Q[20&amp;1]</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8373?s_seq=8373">ラウンドワン駿河店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|29|1126|<span class="rank-name-pd">1441-4129</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90165?s_seq=90165">ダーツショップD×３　浜松店</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
+|29|1126|<span class="rank-name-pd">クレヨンしんちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7422?s_seq=7422">コローレ サンストリート浜北</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
+|31|1125|<span class="rank-name-pd">立石 幸大</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7422?s_seq=7422">コローレ サンストリート浜北</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
+|32|1124|<span class="rank-name-pd">プロ迎撃やん坊吹矢</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_41033?s_seq=41033">DARTS SHOP LOZA</a>|<a href="/darts/rank/静岡県/駿東郡">静岡県駿東郡</a>|
+|32|1124|<span class="rank-name-pd"><span class="pro-icon-pd"></span>田中 銀河</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_90165?s_seq=90165">ダーツショップD×３　浜松店</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
+|34|1122|<span class="rank-name-pd"><span class="pro-icon-pd"></span>佐々木 淳也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9290?s_seq=9290">Darts Bar ALONZA</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
+|34|1122|<span class="rank-name-pd"><span class="pro-icon-pd"></span>佐々木 淳也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9193?s_seq=9193">アプレシオ東静岡駅前店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|36|1118|<span class="rank-name-pd">田中銀河</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8456?s_seq=8456">コローレ浜松市野店</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
+|37|1115|<span class="rank-name-pd"><span class="pro-icon-pd"></span>高橋  亮</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_79755?s_seq=79755">Sports&Dining La.Seed</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
+|38|1113|<span class="rank-name-pd"><span class="pro-icon-pd"></span>平野 拓成</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56120?s_seq=56120">快活CLUB 清水春日店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|39|1112|<span class="rank-name-pd">PM9</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_54148?s_seq=54148">Rook</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
+|40|1111|<span class="rank-name-pd">俺、拓馬</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10245?s_seq=10245">ラウンドワン富士店</a>|<a href="/darts/rank/静岡県/富士市">静岡県富士市</a>|
+|41|1110|<span class="rank-name-pd"><span class="pro-icon-pd"></span>佐々木 淳也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_56124?s_seq=56124">快活CLUB 静岡寿町店</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|42|1106|<span class="rank-name-pd">Hide.(^○^)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_61735?s_seq=61735">アプレシオ 御殿場インター店</a>|<a href="/darts/rank/静岡県/御殿場市">静岡県御殿場市</a>|
+|42|1106|<span class="rank-name-pd">山本 雅一</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9290?s_seq=9290">Darts Bar ALONZA</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
+|44|1100|<span class="rank-name-pd">DMC木村裕馬</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10426?s_seq=10426">晴れる屋</a>|<a href="/darts/rank/静岡県/伊東市">静岡県伊東市</a>|
+|44|1100|<span class="rank-name-pd">まさ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9290?s_seq=9290">Darts Bar ALONZA</a>|<a href="/darts/rank/静岡県/焼津市">静岡県焼津市</a>|
+|46|1097|<span class="rank-name-pd"><span class="pro-icon-pd"></span>平野 拓成</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_78589?s_seq=78589">プラザアピア</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|47|1096|<span class="rank-name-pd">田渕 省造@若林會</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_54148?s_seq=54148">Rook</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
+|48|1095|<span class="rank-name-pd"><span class="pro-icon-pd"></span>小泉 圭</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_84912?s_seq=84912">DARTS＆BAR STRAIGHT</a>|<a href="/darts/rank/静岡県/静岡市">静岡県静岡市</a>|
+|49|1094|<span class="rank-name-pd"><span class="pro-icon-pd"></span>浦井 裕太郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_47496?s_seq=47496">Cafe&Darts Flores</a>|<a href="/darts/rank/静岡県/三島市">静岡県三島市</a>|
+|50|1092|<span class="rank-name-pd">田中銀河</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82890?s_seq=82890">快活CLUB 藤枝店</a>|<a href="/darts/rank/静岡県/藤枝市">静岡県藤枝市</a>|
+|51|1089|<span class="rank-name-pd">SATORU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_54148?s_seq=54148">Rook</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
+|52|1087|<span class="rank-name-pd"><span class="pro-icon-pd"></span>加藤 誠也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82358?s_seq=82358">Karaoke&Dartsbar Owl</a>|<a href="/darts/rank/静岡県/沼津市">静岡県沼津市</a>|
 |53|1084|<span class="rank-name-pd">Hide.(^○^)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_66703?s_seq=66703">SRaSH</a>|<a href="/darts/rank/静岡県/御殿場市">静岡県御殿場市</a>|
 |54|1083|<span class="rank-name-pd">つん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_54148?s_seq=54148">Rook</a>|<a href="/darts/rank/静岡県/浜松市">静岡県浜松市</a>|
 |54|1083|<span class="rank-name-pd">フェニックスたけ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_82890?s_seq=82890">快活CLUB 藤枝店</a>|<a href="/darts/rank/静岡県/藤枝市">静岡県藤枝市</a>|
