@@ -23,7 +23,7 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|588|<span class="rank-name-dl">NO NAME 7894</span>|<a href="https://search.dartslive.com/jp/shop/0a43ab14861d80010d9b047a20a7ba1e">amusement mixbar ZYNX</a>|<a href="/darts/rank/兵庫県/加古郡">兵庫県加古郡</a>|
+|1|588|<span class="rank-name-dl">NO NAME 7894</span>|<a href="/darts/rank/shops/0a43ab14861d80010d9b047a20a7ba1e.html">amusement mixbar ZYNX</a> <a href="https://search.dartslive.com/jp/shop/0a43ab14861d80010d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/兵庫県/加古郡">兵庫県加古郡</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -33,7 +33,7 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|588|<span class="rank-name-dl">NO NAME 7894</span>|<a href="https://search.dartslive.com/jp/shop/0a43ab14861d80010d9b047a20a7ba1e">amusement mixbar ZYNX</a>|<a href="/darts/rank/兵庫県/加古郡">兵庫県加古郡</a>|
+|1|588|<span class="rank-name-dl">NO NAME 7894</span>|<a href="/darts/rank/shops/0a43ab14861d80010d9b047a20a7ba1e.html">amusement mixbar ZYNX</a> <a href="https://search.dartslive.com/jp/shop/0a43ab14861d80010d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/兵庫県/加古郡">兵庫県加古郡</a>|
 
 
 #### PHOENIXDARTS TOP 100
@@ -43,7 +43,7 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-||0|<span class="rank-name-dl"> </span>|<a href=""></a>|<a href="/darts/rank//"></a>|
+||0|<span class="rank-name-dl"> </span>|<a href="/darts/rank/shops/.html"></a> <a href="">[↗]</a>|<a href="/darts/rank//"></a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

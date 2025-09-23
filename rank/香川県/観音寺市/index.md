@@ -23,27 +23,27 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|842|<span class="rank-name-pd">YAMA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">パルティ</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
-|2|836|<span class="rank-name-pd">S@Partie</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">パルティ</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
-|3|759|<span class="rank-name-pd">タイガーウィンテック</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">パルティ</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
-|4|706|<span class="rank-name-pd">むっつー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">パルティ</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
-|5|680|<span class="rank-name-pd">僕takeshi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">パルティ</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
-|6|598|<span class="rank-name-pd">士貴</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">パルティ</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
-|7|587|<span class="rank-name-pd">極★ЯуОチャン★道</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">パルティ</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
-|8|586|<span class="rank-name-pd">天邪鬼</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">パルティ</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
-|9|583|<span class="rank-name-pd">0180_3503</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">パルティ</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
-|10|564|<span class="rank-name-pd">38.HAPPY^@^PARTIE2024</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">パルティ</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
-|11|500|<span class="rank-name-pd">まべちゃん@マナニスト</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">パルティ</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
-|12|493|<span class="rank-name-pd">肉男</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">パルティ</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
-|13|473|<span class="rank-name-pd">りょう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">パルティ</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
-|14|454|<span class="rank-name-pd">ちょい悪-爺爺</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">パルティ</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
-|15|444|<span class="rank-name-pd">アッキ~~‼︎ (*≧∇≦)y─┛~~~~</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">パルティ</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
-|16|434|<span class="rank-name-pd">NR</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">パルティ</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
-|16|434|<span class="rank-name-pd">☆よっしーψ(｀∇´)ψ☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">パルティ</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
-|18|430|<span class="rank-name-pd">やまん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">パルティ</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
-|19|413|<span class="rank-name-pd">0119_4678</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">パルティ</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
-|20|377|<span class="rank-name-pd">兎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">パルティ</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
-|21|277|<span class="rank-name-pd">39</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">パルティ</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
+|1|842|<span class="rank-name-pd">YAMA</span>|<a href="/darts/rank/shops/65306.html">パルティ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">[↗]</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
+|2|836|<span class="rank-name-pd">S@Partie</span>|<a href="/darts/rank/shops/65306.html">パルティ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">[↗]</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
+|3|759|<span class="rank-name-pd">タイガーウィンテック</span>|<a href="/darts/rank/shops/65306.html">パルティ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">[↗]</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
+|4|706|<span class="rank-name-pd">むっつー</span>|<a href="/darts/rank/shops/65306.html">パルティ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">[↗]</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
+|5|680|<span class="rank-name-pd">僕takeshi</span>|<a href="/darts/rank/shops/65306.html">パルティ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">[↗]</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
+|6|598|<span class="rank-name-pd">士貴</span>|<a href="/darts/rank/shops/65306.html">パルティ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">[↗]</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
+|7|587|<span class="rank-name-pd">極★ЯуОチャン★道</span>|<a href="/darts/rank/shops/65306.html">パルティ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">[↗]</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
+|8|586|<span class="rank-name-pd">天邪鬼</span>|<a href="/darts/rank/shops/65306.html">パルティ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">[↗]</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
+|9|583|<span class="rank-name-pd">0180_3503</span>|<a href="/darts/rank/shops/65306.html">パルティ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">[↗]</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
+|10|564|<span class="rank-name-pd">38.HAPPY^@^PARTIE2024</span>|<a href="/darts/rank/shops/65306.html">パルティ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">[↗]</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
+|11|500|<span class="rank-name-pd">まべちゃん@マナニスト</span>|<a href="/darts/rank/shops/65306.html">パルティ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">[↗]</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
+|12|493|<span class="rank-name-pd">肉男</span>|<a href="/darts/rank/shops/65306.html">パルティ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">[↗]</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
+|13|473|<span class="rank-name-pd">りょう</span>|<a href="/darts/rank/shops/65306.html">パルティ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">[↗]</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
+|14|454|<span class="rank-name-pd">ちょい悪-爺爺</span>|<a href="/darts/rank/shops/65306.html">パルティ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">[↗]</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
+|15|444|<span class="rank-name-pd">アッキ~~‼︎ (*≧∇≦)y─┛~~~~</span>|<a href="/darts/rank/shops/65306.html">パルティ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">[↗]</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
+|16|434|<span class="rank-name-pd">NR</span>|<a href="/darts/rank/shops/65306.html">パルティ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">[↗]</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
+|16|434|<span class="rank-name-pd">☆よっしーψ(｀∇´)ψ☆</span>|<a href="/darts/rank/shops/65306.html">パルティ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">[↗]</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
+|18|430|<span class="rank-name-pd">やまん</span>|<a href="/darts/rank/shops/65306.html">パルティ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">[↗]</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
+|19|413|<span class="rank-name-pd">0119_4678</span>|<a href="/darts/rank/shops/65306.html">パルティ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">[↗]</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
+|20|377|<span class="rank-name-pd">兎</span>|<a href="/darts/rank/shops/65306.html">パルティ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">[↗]</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
+|21|277|<span class="rank-name-pd">39</span>|<a href="/darts/rank/shops/65306.html">パルティ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">[↗]</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -53,7 +53,7 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-||0|<span class="rank-name-dl"> </span>|<a href=""></a>|<a href="/darts/rank//"></a>|
+||0|<span class="rank-name-dl"> </span>|<a href="/darts/rank/shops/.html"></a> <a href="">[↗]</a>|<a href="/darts/rank//"></a>|
 
 
 #### PHOENIXDARTS TOP 100
@@ -63,27 +63,27 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|842|<span class="rank-name-pd">YAMA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">パルティ</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
-|2|836|<span class="rank-name-pd">S@Partie</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">パルティ</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
-|3|759|<span class="rank-name-pd">タイガーウィンテック</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">パルティ</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
-|4|706|<span class="rank-name-pd">むっつー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">パルティ</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
-|5|680|<span class="rank-name-pd">僕takeshi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">パルティ</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
-|6|598|<span class="rank-name-pd">士貴</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">パルティ</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
-|7|587|<span class="rank-name-pd">極★ЯуОチャン★道</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">パルティ</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
-|8|586|<span class="rank-name-pd">天邪鬼</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">パルティ</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
-|9|583|<span class="rank-name-pd">0180_3503</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">パルティ</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
-|10|564|<span class="rank-name-pd">38.HAPPY^@^PARTIE2024</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">パルティ</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
-|11|500|<span class="rank-name-pd">まべちゃん@マナニスト</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">パルティ</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
-|12|493|<span class="rank-name-pd">肉男</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">パルティ</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
-|13|473|<span class="rank-name-pd">りょう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">パルティ</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
-|14|454|<span class="rank-name-pd">ちょい悪-爺爺</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">パルティ</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
-|15|444|<span class="rank-name-pd">アッキ~~‼︎ (*≧∇≦)y─┛~~~~</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">パルティ</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
-|16|434|<span class="rank-name-pd">NR</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">パルティ</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
-|16|434|<span class="rank-name-pd">☆よっしーψ(｀∇´)ψ☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">パルティ</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
-|18|430|<span class="rank-name-pd">やまん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">パルティ</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
-|19|413|<span class="rank-name-pd">0119_4678</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">パルティ</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
-|20|377|<span class="rank-name-pd">兎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">パルティ</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
-|21|277|<span class="rank-name-pd">39</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">パルティ</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
+|1|842|<span class="rank-name-pd">YAMA</span>|<a href="/darts/rank/shops/65306.html">パルティ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">[↗]</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
+|2|836|<span class="rank-name-pd">S@Partie</span>|<a href="/darts/rank/shops/65306.html">パルティ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">[↗]</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
+|3|759|<span class="rank-name-pd">タイガーウィンテック</span>|<a href="/darts/rank/shops/65306.html">パルティ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">[↗]</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
+|4|706|<span class="rank-name-pd">むっつー</span>|<a href="/darts/rank/shops/65306.html">パルティ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">[↗]</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
+|5|680|<span class="rank-name-pd">僕takeshi</span>|<a href="/darts/rank/shops/65306.html">パルティ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">[↗]</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
+|6|598|<span class="rank-name-pd">士貴</span>|<a href="/darts/rank/shops/65306.html">パルティ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">[↗]</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
+|7|587|<span class="rank-name-pd">極★ЯуОチャン★道</span>|<a href="/darts/rank/shops/65306.html">パルティ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">[↗]</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
+|8|586|<span class="rank-name-pd">天邪鬼</span>|<a href="/darts/rank/shops/65306.html">パルティ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">[↗]</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
+|9|583|<span class="rank-name-pd">0180_3503</span>|<a href="/darts/rank/shops/65306.html">パルティ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">[↗]</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
+|10|564|<span class="rank-name-pd">38.HAPPY^@^PARTIE2024</span>|<a href="/darts/rank/shops/65306.html">パルティ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">[↗]</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
+|11|500|<span class="rank-name-pd">まべちゃん@マナニスト</span>|<a href="/darts/rank/shops/65306.html">パルティ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">[↗]</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
+|12|493|<span class="rank-name-pd">肉男</span>|<a href="/darts/rank/shops/65306.html">パルティ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">[↗]</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
+|13|473|<span class="rank-name-pd">りょう</span>|<a href="/darts/rank/shops/65306.html">パルティ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">[↗]</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
+|14|454|<span class="rank-name-pd">ちょい悪-爺爺</span>|<a href="/darts/rank/shops/65306.html">パルティ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">[↗]</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
+|15|444|<span class="rank-name-pd">アッキ~~‼︎ (*≧∇≦)y─┛~~~~</span>|<a href="/darts/rank/shops/65306.html">パルティ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">[↗]</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
+|16|434|<span class="rank-name-pd">NR</span>|<a href="/darts/rank/shops/65306.html">パルティ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">[↗]</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
+|16|434|<span class="rank-name-pd">☆よっしーψ(｀∇´)ψ☆</span>|<a href="/darts/rank/shops/65306.html">パルティ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">[↗]</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
+|18|430|<span class="rank-name-pd">やまん</span>|<a href="/darts/rank/shops/65306.html">パルティ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">[↗]</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
+|19|413|<span class="rank-name-pd">0119_4678</span>|<a href="/darts/rank/shops/65306.html">パルティ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">[↗]</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
+|20|377|<span class="rank-name-pd">兎</span>|<a href="/darts/rank/shops/65306.html">パルティ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">[↗]</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
+|21|277|<span class="rank-name-pd">39</span>|<a href="/darts/rank/shops/65306.html">パルティ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65306?s_seq=65306">[↗]</a>|<a href="/darts/rank/香川県/観音寺市">香川県観音寺市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

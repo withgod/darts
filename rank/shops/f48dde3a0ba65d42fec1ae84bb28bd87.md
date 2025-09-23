@@ -1,0 +1,240 @@
+---
+title: COUNTUP AREA RANKING | 福岡県 | 久留米市 | 自遊空間 久留米上津バイパス店
+---
+## COUNTUP AREA RANKING | 福岡県 | 久留米市 | 自遊空間 久留米上津バイパス店
+
+[TOP](/darts/rank/) > [福岡県](/darts/rank/福岡県/) > [久留米市](/darts/rank/福岡県/久留米市/) > 自遊空間 久留米上津バイパス店
+
+___
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="COUNTUP AREA RANKING | 福岡県久留米市自遊空間 久留米上津バイパス店" class="twitter-share-button" data-hashtags="DARTSLIVE,PHOENIXDARTS,darts,ダーツ" data-show-count="false">Tweet</a>
+
+* [ランキング](#カウントアップランキング)
+    * [TOP 100](#top-100)
+    * [DARTSLIVE TOP 100](#dartslive-top-100)
+    * [PHOENIXDARTS TOP 100](#phoenixdarts-top-100)
+
+### 市区町村
+
+<ul>
+
+</ul>
+
+### カウントアップランキング
+
+#### TOP 100
+
+
+
+{:.table-ranking}
+|#|スコア|名前|店名|所在地|
+|---|---|---|---|---|
+|1|1084|<span class="rank-name-dl">yuma!</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|2|1052|<span class="rank-name-dl">近藤　政孝</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|3|1039|<span class="rank-name-dl">nene</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|4|987|<span class="rank-name-dl">わーやー</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|5|981|<span class="rank-name-dl">かれーやん</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|5|981|<span class="rank-name-dl">りょくとう8</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|7|979|<span class="rank-name-dl">しんちゃん</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|8|971|<span class="rank-name-dl">４４４４</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|9|969|<span class="rank-name-dl">前田 文蔵</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|10|963|<span class="rank-name-dl">★NAO★</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|11|955|<span class="rank-name-dl">Da1</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|12|950|<span class="rank-name-dl">YAMA</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|13|946|<span class="rank-name-dl">いなみЯocＫ</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|14|942|<span class="rank-name-dl">Ha1o</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|15|931|<span class="rank-name-dl">ハン・サム</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|16|930|<span class="rank-name-dl">OZE</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|17|928|<span class="rank-name-dl">福岡の異端児</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|18|916|<span class="rank-name-dl">聖屋めだかshop</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|19|909|<span class="rank-name-dl">Kazu</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|20|904|<span class="rank-name-dl">すぎちゃん</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|21|902|<span class="rank-name-dl">guttiiii</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|22|900|<span class="rank-name-dl">NO NAME 4279</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|22|900|<span class="rank-name-dl">あきひろ</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|24|898|<span class="rank-name-dl">りゅうじ</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|25|896|<span class="rank-name-dl">宇治抹茶</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|26|888|<span class="rank-name-dl">NO NAME 2904</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|27|886|<span class="rank-name-dl">ぐでたま〜</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|28|881|<span class="rank-name-dl">tkm4988</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|29|880|<span class="rank-name-dl">No god</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|29|880|<span class="rank-name-dl">コスケ</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|31|878|<span class="rank-name-dl">ベソ</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|32|874|<span class="rank-name-dl">A</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|33|873|<span class="rank-name-dl">いけてぃ@天蜂</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|34|869|<span class="rank-name-dl">UPA1121+</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|35|862|<span class="rank-name-dl">平川 和生</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|36|854|<span class="rank-name-dl">oʇıɥnɹɐu</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|36|854|<span class="rank-name-dl">†aquarius†</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|38|842|<span class="rank-name-dl">NO NAME 0550</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|39|841|<span class="rank-name-dl">yama</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|40|840|<span class="rank-name-dl">そま</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|41|829|<span class="rank-name-dl">右に左折</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|42|826|<span class="rank-name-dl">おやじ</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|43|823|<span class="rank-name-dl">VR</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|43|823|<span class="rank-name-dl">しょーた</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|43|823|<span class="rank-name-dl">メメント・森田</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|46|822|<span class="rank-name-dl">Aki</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|47|809|<span class="rank-name-dl">DKさん</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|48|787|<span class="rank-name-dl">虎きち➴</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|49|784|<span class="rank-name-dl">Kazu.I@復帰中</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|50|777|<span class="rank-name-dl">Tsuneichi</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|51|774|<span class="rank-name-dl">DANGO-LIVE</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|52|762|<span class="rank-name-dl">shoichi08</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|53|750|<span class="rank-name-dl">Aoi</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|54|739|<span class="rank-name-dl">EUPHORIA</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|55|698|<span class="rank-name-dl">PISK★</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|56|625|<span class="rank-name-dl">黒夢</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|57|622|<span class="rank-name-dl">Maki0419</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|58|607|<span class="rank-name-dl">まな</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|59|604|<span class="rank-name-dl">HISATO.</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|60|600|<span class="rank-name-dl">さとぅ</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|61|597|<span class="rank-name-dl">ラガマフィン</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|62|582|<span class="rank-name-dl">主</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|63|580|<span class="rank-name-dl">ﾈｺと和解せよ</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|64|569|<span class="rank-name-dl">ばつまる</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|65|562|<span class="rank-name-dl">み</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|66|555|<span class="rank-name-dl">桔梗</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|67|553|<span class="rank-name-dl">りーちゃん。</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|68|551|<span class="rank-name-dl">NO NAME 3383</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|69|548|<span class="rank-name-dl">kaze</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|70|545|<span class="rank-name-dl">ru</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|71|536|<span class="rank-name-dl">16310</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|72|522|<span class="rank-name-dl">manamin</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|73|520|<span class="rank-name-dl">KUROT</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|74|505|<span class="rank-name-dl">jamD</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|75|491|<span class="rank-name-dl">どんちっち</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|76|485|<span class="rank-name-dl">いーたん</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|77|482|<span class="rank-name-dl">CHIZURU</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|77|482|<span class="rank-name-dl">ちゃんれな</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|79|477|<span class="rank-name-dl">桔梗さん</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|80|469|<span class="rank-name-dl">ﾈｺと和解しよう</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|81|449|<span class="rank-name-dl">まいちゃんまん</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|82|433|<span class="rank-name-dl">まりも</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|83|422|<span class="rank-name-dl">ちひ</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|84|411|<span class="rank-name-dl">t.y27</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|85|408|<span class="rank-name-dl">紗希</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|86|326|<span class="rank-name-dl">ごぶりん</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+
+
+#### DARTSLIVE TOP 100
+
+
+
+{:.table-ranking}
+|#|スコア|名前|店名|所在地|
+|---|---|---|---|---|
+|1|1084|<span class="rank-name-dl">yuma!</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|2|1052|<span class="rank-name-dl">近藤　政孝</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|3|1039|<span class="rank-name-dl">nene</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|4|987|<span class="rank-name-dl">わーやー</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|5|981|<span class="rank-name-dl">かれーやん</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|5|981|<span class="rank-name-dl">りょくとう8</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|7|979|<span class="rank-name-dl">しんちゃん</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|8|971|<span class="rank-name-dl">４４４４</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|9|969|<span class="rank-name-dl">前田 文蔵</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|10|963|<span class="rank-name-dl">★NAO★</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|11|955|<span class="rank-name-dl">Da1</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|12|950|<span class="rank-name-dl">YAMA</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|13|946|<span class="rank-name-dl">いなみЯocＫ</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|14|942|<span class="rank-name-dl">Ha1o</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|15|931|<span class="rank-name-dl">ハン・サム</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|16|930|<span class="rank-name-dl">OZE</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|17|928|<span class="rank-name-dl">福岡の異端児</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|18|916|<span class="rank-name-dl">聖屋めだかshop</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|19|909|<span class="rank-name-dl">Kazu</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|20|904|<span class="rank-name-dl">すぎちゃん</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|21|902|<span class="rank-name-dl">guttiiii</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|22|900|<span class="rank-name-dl">NO NAME 4279</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|22|900|<span class="rank-name-dl">あきひろ</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|24|898|<span class="rank-name-dl">りゅうじ</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|25|896|<span class="rank-name-dl">宇治抹茶</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|26|888|<span class="rank-name-dl">NO NAME 2904</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|27|886|<span class="rank-name-dl">ぐでたま〜</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|28|881|<span class="rank-name-dl">tkm4988</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|29|880|<span class="rank-name-dl">No god</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|29|880|<span class="rank-name-dl">コスケ</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|31|878|<span class="rank-name-dl">ベソ</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|32|874|<span class="rank-name-dl">A</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|33|873|<span class="rank-name-dl">いけてぃ@天蜂</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|34|869|<span class="rank-name-dl">UPA1121+</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|35|862|<span class="rank-name-dl">平川 和生</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|36|854|<span class="rank-name-dl">oʇıɥnɹɐu</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|36|854|<span class="rank-name-dl">†aquarius†</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|38|842|<span class="rank-name-dl">NO NAME 0550</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|39|841|<span class="rank-name-dl">yama</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|40|840|<span class="rank-name-dl">そま</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|41|829|<span class="rank-name-dl">右に左折</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|42|826|<span class="rank-name-dl">おやじ</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|43|823|<span class="rank-name-dl">VR</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|43|823|<span class="rank-name-dl">しょーた</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|43|823|<span class="rank-name-dl">メメント・森田</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|46|822|<span class="rank-name-dl">Aki</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|47|809|<span class="rank-name-dl">DKさん</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|48|787|<span class="rank-name-dl">虎きち➴</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|49|784|<span class="rank-name-dl">Kazu.I@復帰中</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|50|777|<span class="rank-name-dl">Tsuneichi</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|51|774|<span class="rank-name-dl">DANGO-LIVE</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|52|762|<span class="rank-name-dl">shoichi08</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|53|750|<span class="rank-name-dl">Aoi</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|54|739|<span class="rank-name-dl">EUPHORIA</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|55|698|<span class="rank-name-dl">PISK★</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|56|625|<span class="rank-name-dl">黒夢</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|57|622|<span class="rank-name-dl">Maki0419</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|58|607|<span class="rank-name-dl">まな</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|59|604|<span class="rank-name-dl">HISATO.</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|60|600|<span class="rank-name-dl">さとぅ</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|61|597|<span class="rank-name-dl">ラガマフィン</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|62|582|<span class="rank-name-dl">主</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|63|580|<span class="rank-name-dl">ﾈｺと和解せよ</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|64|569|<span class="rank-name-dl">ばつまる</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|65|562|<span class="rank-name-dl">み</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|66|555|<span class="rank-name-dl">桔梗</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|67|553|<span class="rank-name-dl">りーちゃん。</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|68|551|<span class="rank-name-dl">NO NAME 3383</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|69|548|<span class="rank-name-dl">kaze</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|70|545|<span class="rank-name-dl">ru</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|71|536|<span class="rank-name-dl">16310</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|72|522|<span class="rank-name-dl">manamin</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|73|520|<span class="rank-name-dl">KUROT</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|74|505|<span class="rank-name-dl">jamD</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|75|491|<span class="rank-name-dl">どんちっち</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|76|485|<span class="rank-name-dl">いーたん</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|77|482|<span class="rank-name-dl">CHIZURU</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|77|482|<span class="rank-name-dl">ちゃんれな</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|79|477|<span class="rank-name-dl">桔梗さん</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|80|469|<span class="rank-name-dl">ﾈｺと和解しよう</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|81|449|<span class="rank-name-dl">まいちゃんまん</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|82|433|<span class="rank-name-dl">まりも</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|83|422|<span class="rank-name-dl">ちひ</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|84|411|<span class="rank-name-dl">t.y27</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|85|408|<span class="rank-name-dl">紗希</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+|86|326|<span class="rank-name-dl">ごぶりん</span>|<a href="/darts/rank/shops/f48dde3a0ba65d42fec1ae84bb28bd87.html">自遊空間 久留米上津バイパス店</a> <a href="https://search.dartslive.com/jp/shop/f48dde3a0ba65d42fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/福岡県/久留米市">福岡県久留米市</a>|
+
+
+#### PHOENIXDARTS TOP 100
+
+
+
+{:.table-ranking}
+|#|スコア|名前|店名|所在地|
+|---|---|---|---|---|
+||0|<span class="rank-name-dl"> </span>|<a href="/darts/rank/shops/.html"></a> <a href="">[↗]</a>|<a href="/darts/rank//"></a>|
+
+
+<div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
+    last update : <span style="font-weight: italic" id="foot_last_modified"></span><br />
+    DARTSLIVE は 株式会社ダーツライブ社 の登録商標です<br />
+    PHOENIXDARTS は フェニックスダーツジャパン株式会社 の登録商標です<br />
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/js/jquery.tablesorter.min.js" integrity="sha512-qzgd5cYSZcosqpzpn7zF2ZId8f/8CHmFKZ8j7mU4OUXTNRd5g+ZHBPsgKEwoqxCtdQvExE5LprwwPAgoicguNg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/css/theme.default.min.css" integrity="sha512-wghhOJkjQX0Lh3NSWvNKeZ0ZpNn+SPVXX1Qyc9OCaogADktxrBiBdKGDoqVUOyhStvMBmJQ8ZdMHiR3wuEq8+w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<script>
+$(function() {
+    $(".table-ranking").tablesorter({sortList:[[0, 0]]});
+    $("#foot_last_modified").text(formatDate(new Date(document.lastModified), 'yyyy-MM-dd HH:mm:ss'));
+});
+</script>
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

@@ -23,10 +23,10 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|762|<span class="rank-name-dl">アガちゃん</span>|<a href="https://search.dartslive.com/jp/shop/89e5da15f092d89d774c926eb736cb5a">room</a>|<a href="/darts/rank/愛知県/常滑市">愛知県常滑市</a>|
-|2|624|<span class="rank-name-dl">reoto</span>|<a href="https://search.dartslive.com/jp/shop/89e5da15f092d89d774c926eb736cb5a">room</a>|<a href="/darts/rank/愛知県/常滑市">愛知県常滑市</a>|
-|3|584|<span class="rank-name-dl">cider</span>|<a href="https://search.dartslive.com/jp/shop/89e5da15f092d89d774c926eb736cb5a">room</a>|<a href="/darts/rank/愛知県/常滑市">愛知県常滑市</a>|
-|4|303|<span class="rank-name-dl">こう</span>|<a href="https://search.dartslive.com/jp/shop/89e5da15f092d89d774c926eb736cb5a">room</a>|<a href="/darts/rank/愛知県/常滑市">愛知県常滑市</a>|
+|1|762|<span class="rank-name-dl">アガちゃん</span>|<a href="/darts/rank/shops/89e5da15f092d89d774c926eb736cb5a.html">room</a> <a href="https://search.dartslive.com/jp/shop/89e5da15f092d89d774c926eb736cb5a">[↗]</a>|<a href="/darts/rank/愛知県/常滑市">愛知県常滑市</a>|
+|2|624|<span class="rank-name-dl">reoto</span>|<a href="/darts/rank/shops/89e5da15f092d89d774c926eb736cb5a.html">room</a> <a href="https://search.dartslive.com/jp/shop/89e5da15f092d89d774c926eb736cb5a">[↗]</a>|<a href="/darts/rank/愛知県/常滑市">愛知県常滑市</a>|
+|3|584|<span class="rank-name-dl">cider</span>|<a href="/darts/rank/shops/89e5da15f092d89d774c926eb736cb5a.html">room</a> <a href="https://search.dartslive.com/jp/shop/89e5da15f092d89d774c926eb736cb5a">[↗]</a>|<a href="/darts/rank/愛知県/常滑市">愛知県常滑市</a>|
+|4|303|<span class="rank-name-dl">こう</span>|<a href="/darts/rank/shops/89e5da15f092d89d774c926eb736cb5a.html">room</a> <a href="https://search.dartslive.com/jp/shop/89e5da15f092d89d774c926eb736cb5a">[↗]</a>|<a href="/darts/rank/愛知県/常滑市">愛知県常滑市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -36,10 +36,10 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|762|<span class="rank-name-dl">アガちゃん</span>|<a href="https://search.dartslive.com/jp/shop/89e5da15f092d89d774c926eb736cb5a">room</a>|<a href="/darts/rank/愛知県/常滑市">愛知県常滑市</a>|
-|2|624|<span class="rank-name-dl">reoto</span>|<a href="https://search.dartslive.com/jp/shop/89e5da15f092d89d774c926eb736cb5a">room</a>|<a href="/darts/rank/愛知県/常滑市">愛知県常滑市</a>|
-|3|584|<span class="rank-name-dl">cider</span>|<a href="https://search.dartslive.com/jp/shop/89e5da15f092d89d774c926eb736cb5a">room</a>|<a href="/darts/rank/愛知県/常滑市">愛知県常滑市</a>|
-|4|303|<span class="rank-name-dl">こう</span>|<a href="https://search.dartslive.com/jp/shop/89e5da15f092d89d774c926eb736cb5a">room</a>|<a href="/darts/rank/愛知県/常滑市">愛知県常滑市</a>|
+|1|762|<span class="rank-name-dl">アガちゃん</span>|<a href="/darts/rank/shops/89e5da15f092d89d774c926eb736cb5a.html">room</a> <a href="https://search.dartslive.com/jp/shop/89e5da15f092d89d774c926eb736cb5a">[↗]</a>|<a href="/darts/rank/愛知県/常滑市">愛知県常滑市</a>|
+|2|624|<span class="rank-name-dl">reoto</span>|<a href="/darts/rank/shops/89e5da15f092d89d774c926eb736cb5a.html">room</a> <a href="https://search.dartslive.com/jp/shop/89e5da15f092d89d774c926eb736cb5a">[↗]</a>|<a href="/darts/rank/愛知県/常滑市">愛知県常滑市</a>|
+|3|584|<span class="rank-name-dl">cider</span>|<a href="/darts/rank/shops/89e5da15f092d89d774c926eb736cb5a.html">room</a> <a href="https://search.dartslive.com/jp/shop/89e5da15f092d89d774c926eb736cb5a">[↗]</a>|<a href="/darts/rank/愛知県/常滑市">愛知県常滑市</a>|
+|4|303|<span class="rank-name-dl">こう</span>|<a href="/darts/rank/shops/89e5da15f092d89d774c926eb736cb5a.html">room</a> <a href="https://search.dartslive.com/jp/shop/89e5da15f092d89d774c926eb736cb5a">[↗]</a>|<a href="/darts/rank/愛知県/常滑市">愛知県常滑市</a>|
 
 
 #### PHOENIXDARTS TOP 100
@@ -49,7 +49,7 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-||0|<span class="rank-name-dl"> </span>|<a href=""></a>|<a href="/darts/rank//"></a>|
+||0|<span class="rank-name-dl"> </span>|<a href="/darts/rank/shops/.html"></a> <a href="">[↗]</a>|<a href="/darts/rank//"></a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

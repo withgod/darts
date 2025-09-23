@@ -23,44 +23,44 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|940|<span class="rank-name-dl">池田 隆史</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|2|885|<span class="rank-name-dl">ホンダっち</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|3|881|<span class="rank-name-dl">本田 諒</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|4|844|<span class="rank-name-dl">ムラシュー</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|5|839|<span class="rank-name-dl">(だ・ん・ぼ)</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|6|776|<span class="rank-name-dl">RekaTAN</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|7|773|<span class="rank-name-dl">きゅうぴい</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|8|772|<span class="rank-name-dl">名無しくん</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|9|767|<span class="rank-name-dl">へいへい</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|10|766|<span class="rank-name-dl">光太</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|11|763|<span class="rank-name-dl">BB(^.^)お店用</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|12|758|<span class="rank-name-dl">i see the car</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|13|742|<span class="rank-name-dl">Ma</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|14|720|<span class="rank-name-dl">ふくちゃん</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|15|714|<span class="rank-name-dl">森下</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|16|701|<span class="rank-name-dl">ごんぶと#修行</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|17|695|<span class="rank-name-dl">ムッキー</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|18|678|<span class="rank-name-dl">こでかファン</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|19|671|<span class="rank-name-dl">づーさん</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|20|665|<span class="rank-name-dl">bbB</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|21|661|<span class="rank-name-dl">ふくやまはさまる</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|22|656|<span class="rank-name-dl">正岡子規</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|23|633|<span class="rank-name-dl">x</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|24|610|<span class="rank-name-dl">ヨッシー</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|25|608|<span class="rank-name-dl">どでかファン</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|26|579|<span class="rank-name-dl">しゅんしゅん</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|27|568|<span class="rank-name-dl">★あき☆</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|28|561|<span class="rank-name-dl">ごんぶと</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|29|556|<span class="rank-name-dl">ふくやまぬくもる</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|29|556|<span class="rank-name-dl">少年バット</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|31|551|<span class="rank-name-dl">シエル☆trust U</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|32|540|<span class="rank-name-dl">イエティ</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|33|497|<span class="rank-name-dl">お鍋</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|34|487|<span class="rank-name-dl">m</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|35|485|<span class="rank-name-dl">翔＝恭兵</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|36|483|<span class="rank-name-dl">まーちゃん∵</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|37|446|<span class="rank-name-dl">B☆mother (^-^)/</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|38|401|<span class="rank-name-dl">ヴァイオレット</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|1|940|<span class="rank-name-dl">池田 隆史</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|2|885|<span class="rank-name-dl">ホンダっち</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|3|881|<span class="rank-name-dl">本田 諒</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|4|844|<span class="rank-name-dl">ムラシュー</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|5|839|<span class="rank-name-dl">(だ・ん・ぼ)</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|6|776|<span class="rank-name-dl">RekaTAN</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|7|773|<span class="rank-name-dl">きゅうぴい</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|8|772|<span class="rank-name-dl">名無しくん</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|9|767|<span class="rank-name-dl">へいへい</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|10|766|<span class="rank-name-dl">光太</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|11|763|<span class="rank-name-dl">BB(^.^)お店用</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|12|758|<span class="rank-name-dl">i see the car</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|13|742|<span class="rank-name-dl">Ma</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|14|720|<span class="rank-name-dl">ふくちゃん</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|15|714|<span class="rank-name-dl">森下</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|16|701|<span class="rank-name-dl">ごんぶと#修行</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|17|695|<span class="rank-name-dl">ムッキー</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|18|678|<span class="rank-name-dl">こでかファン</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|19|671|<span class="rank-name-dl">づーさん</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|20|665|<span class="rank-name-dl">bbB</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|21|661|<span class="rank-name-dl">ふくやまはさまる</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|22|656|<span class="rank-name-dl">正岡子規</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|23|633|<span class="rank-name-dl">x</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|24|610|<span class="rank-name-dl">ヨッシー</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|25|608|<span class="rank-name-dl">どでかファン</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|26|579|<span class="rank-name-dl">しゅんしゅん</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|27|568|<span class="rank-name-dl">★あき☆</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|28|561|<span class="rank-name-dl">ごんぶと</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|29|556|<span class="rank-name-dl">ふくやまぬくもる</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|29|556|<span class="rank-name-dl">少年バット</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|31|551|<span class="rank-name-dl">シエル☆trust U</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|32|540|<span class="rank-name-dl">イエティ</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|33|497|<span class="rank-name-dl">お鍋</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|34|487|<span class="rank-name-dl">m</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|35|485|<span class="rank-name-dl">翔＝恭兵</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|36|483|<span class="rank-name-dl">まーちゃん∵</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|37|446|<span class="rank-name-dl">B☆mother (^-^)/</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|38|401|<span class="rank-name-dl">ヴァイオレット</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -70,44 +70,44 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|940|<span class="rank-name-dl">池田 隆史</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|2|885|<span class="rank-name-dl">ホンダっち</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|3|881|<span class="rank-name-dl">本田 諒</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|4|844|<span class="rank-name-dl">ムラシュー</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|5|839|<span class="rank-name-dl">(だ・ん・ぼ)</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|6|776|<span class="rank-name-dl">RekaTAN</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|7|773|<span class="rank-name-dl">きゅうぴい</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|8|772|<span class="rank-name-dl">名無しくん</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|9|767|<span class="rank-name-dl">へいへい</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|10|766|<span class="rank-name-dl">光太</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|11|763|<span class="rank-name-dl">BB(^.^)お店用</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|12|758|<span class="rank-name-dl">i see the car</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|13|742|<span class="rank-name-dl">Ma</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|14|720|<span class="rank-name-dl">ふくちゃん</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|15|714|<span class="rank-name-dl">森下</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|16|701|<span class="rank-name-dl">ごんぶと#修行</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|17|695|<span class="rank-name-dl">ムッキー</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|18|678|<span class="rank-name-dl">こでかファン</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|19|671|<span class="rank-name-dl">づーさん</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|20|665|<span class="rank-name-dl">bbB</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|21|661|<span class="rank-name-dl">ふくやまはさまる</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|22|656|<span class="rank-name-dl">正岡子規</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|23|633|<span class="rank-name-dl">x</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|24|610|<span class="rank-name-dl">ヨッシー</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|25|608|<span class="rank-name-dl">どでかファン</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|26|579|<span class="rank-name-dl">しゅんしゅん</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|27|568|<span class="rank-name-dl">★あき☆</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|28|561|<span class="rank-name-dl">ごんぶと</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|29|556|<span class="rank-name-dl">ふくやまぬくもる</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|29|556|<span class="rank-name-dl">少年バット</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|31|551|<span class="rank-name-dl">シエル☆trust U</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|32|540|<span class="rank-name-dl">イエティ</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|33|497|<span class="rank-name-dl">お鍋</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|34|487|<span class="rank-name-dl">m</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|35|485|<span class="rank-name-dl">翔＝恭兵</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|36|483|<span class="rank-name-dl">まーちゃん∵</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|37|446|<span class="rank-name-dl">B☆mother (^-^)/</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
-|38|401|<span class="rank-name-dl">ヴァイオレット</span>|<a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">BB</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|1|940|<span class="rank-name-dl">池田 隆史</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|2|885|<span class="rank-name-dl">ホンダっち</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|3|881|<span class="rank-name-dl">本田 諒</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|4|844|<span class="rank-name-dl">ムラシュー</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|5|839|<span class="rank-name-dl">(だ・ん・ぼ)</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|6|776|<span class="rank-name-dl">RekaTAN</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|7|773|<span class="rank-name-dl">きゅうぴい</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|8|772|<span class="rank-name-dl">名無しくん</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|9|767|<span class="rank-name-dl">へいへい</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|10|766|<span class="rank-name-dl">光太</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|11|763|<span class="rank-name-dl">BB(^.^)お店用</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|12|758|<span class="rank-name-dl">i see the car</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|13|742|<span class="rank-name-dl">Ma</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|14|720|<span class="rank-name-dl">ふくちゃん</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|15|714|<span class="rank-name-dl">森下</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|16|701|<span class="rank-name-dl">ごんぶと#修行</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|17|695|<span class="rank-name-dl">ムッキー</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|18|678|<span class="rank-name-dl">こでかファン</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|19|671|<span class="rank-name-dl">づーさん</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|20|665|<span class="rank-name-dl">bbB</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|21|661|<span class="rank-name-dl">ふくやまはさまる</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|22|656|<span class="rank-name-dl">正岡子規</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|23|633|<span class="rank-name-dl">x</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|24|610|<span class="rank-name-dl">ヨッシー</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|25|608|<span class="rank-name-dl">どでかファン</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|26|579|<span class="rank-name-dl">しゅんしゅん</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|27|568|<span class="rank-name-dl">★あき☆</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|28|561|<span class="rank-name-dl">ごんぶと</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|29|556|<span class="rank-name-dl">ふくやまぬくもる</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|29|556|<span class="rank-name-dl">少年バット</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|31|551|<span class="rank-name-dl">シエル☆trust U</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|32|540|<span class="rank-name-dl">イエティ</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|33|497|<span class="rank-name-dl">お鍋</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|34|487|<span class="rank-name-dl">m</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|35|485|<span class="rank-name-dl">翔＝恭兵</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|36|483|<span class="rank-name-dl">まーちゃん∵</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|37|446|<span class="rank-name-dl">B☆mother (^-^)/</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
+|38|401|<span class="rank-name-dl">ヴァイオレット</span>|<a href="/darts/rank/shops/6f2296565fa73095b21333aee1bd51e4.html">BB</a> <a href="https://search.dartslive.com/jp/shop/6f2296565fa73095b21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/島根県/鹿足郡">島根県鹿足郡</a>|
 
 
 #### PHOENIXDARTS TOP 100
@@ -117,7 +117,7 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-||0|<span class="rank-name-dl"> </span>|<a href=""></a>|<a href="/darts/rank//"></a>|
+||0|<span class="rank-name-dl"> </span>|<a href="/darts/rank/shops/.html"></a> <a href="">[↗]</a>|<a href="/darts/rank//"></a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

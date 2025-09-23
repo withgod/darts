@@ -23,22 +23,22 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|918|<span class="rank-name-pd">かずと　ちょいアル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">Darts Bar Freedom</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
-|2|906|<span class="rank-name-pd">タギ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">Darts Bar Freedom</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
-|3|887|<span class="rank-name-pd">DAIGO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">Darts Bar Freedom</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
-|4|872|<span class="rank-name-pd"><span class="pro-icon-pd"></span>岩下 健</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">Darts Bar Freedom</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
-|5|864|<span class="rank-name-pd">ムリーダム</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">Darts Bar Freedom</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
-|6|861|<span class="rank-name-pd">guregoli</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">Darts Bar Freedom</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
-|7|731|<span class="rank-name-pd">ユウヤ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">Darts Bar Freedom</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
-|8|696|<span class="rank-name-pd">あやか</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">Darts Bar Freedom</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
-|9|646|<span class="rank-name-pd">さーやん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">Darts Bar Freedom</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
-|9|646|<span class="rank-name-pd">みずさわ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">Darts Bar Freedom</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
-|11|643|<span class="rank-name-pd">こばしん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">Darts Bar Freedom</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
-|12|639|<span class="rank-name-pd">Ｙ様ｎラティオス〈DUNK〉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">Darts Bar Freedom</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
-|13|499|<span class="rank-name-pd">Yuka</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">Darts Bar Freedom</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
-|14|478|<span class="rank-name-pd">Rai</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">Darts Bar Freedom</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
-|15|465|<span class="rank-name-pd">hyper_PORIN^-^</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">Darts Bar Freedom</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
-|16|393|<span class="rank-name-pd">リィ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">Darts Bar Freedom</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
+|1|918|<span class="rank-name-pd">かずと　ちょいアル</span>|<a href="/darts/rank/shops/74704.html">Darts Bar Freedom</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">[↗]</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
+|2|906|<span class="rank-name-pd">タギ</span>|<a href="/darts/rank/shops/74704.html">Darts Bar Freedom</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">[↗]</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
+|3|887|<span class="rank-name-pd">DAIGO</span>|<a href="/darts/rank/shops/74704.html">Darts Bar Freedom</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">[↗]</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
+|4|872|<span class="rank-name-pd"><span class="pro-icon-pd"></span>岩下 健</span>|<a href="/darts/rank/shops/74704.html">Darts Bar Freedom</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">[↗]</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
+|5|864|<span class="rank-name-pd">ムリーダム</span>|<a href="/darts/rank/shops/74704.html">Darts Bar Freedom</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">[↗]</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
+|6|861|<span class="rank-name-pd">guregoli</span>|<a href="/darts/rank/shops/74704.html">Darts Bar Freedom</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">[↗]</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
+|7|731|<span class="rank-name-pd">ユウヤ</span>|<a href="/darts/rank/shops/74704.html">Darts Bar Freedom</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">[↗]</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
+|8|696|<span class="rank-name-pd">あやか</span>|<a href="/darts/rank/shops/74704.html">Darts Bar Freedom</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">[↗]</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
+|9|646|<span class="rank-name-pd">さーやん</span>|<a href="/darts/rank/shops/74704.html">Darts Bar Freedom</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">[↗]</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
+|9|646|<span class="rank-name-pd">みずさわ</span>|<a href="/darts/rank/shops/74704.html">Darts Bar Freedom</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">[↗]</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
+|11|643|<span class="rank-name-pd">こばしん</span>|<a href="/darts/rank/shops/74704.html">Darts Bar Freedom</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">[↗]</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
+|12|639|<span class="rank-name-pd">Ｙ様ｎラティオス〈DUNK〉</span>|<a href="/darts/rank/shops/74704.html">Darts Bar Freedom</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">[↗]</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
+|13|499|<span class="rank-name-pd">Yuka</span>|<a href="/darts/rank/shops/74704.html">Darts Bar Freedom</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">[↗]</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
+|14|478|<span class="rank-name-pd">Rai</span>|<a href="/darts/rank/shops/74704.html">Darts Bar Freedom</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">[↗]</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
+|15|465|<span class="rank-name-pd">hyper_PORIN^-^</span>|<a href="/darts/rank/shops/74704.html">Darts Bar Freedom</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">[↗]</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
+|16|393|<span class="rank-name-pd">リィ</span>|<a href="/darts/rank/shops/74704.html">Darts Bar Freedom</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">[↗]</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -48,7 +48,7 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-||0|<span class="rank-name-dl"> </span>|<a href=""></a>|<a href="/darts/rank//"></a>|
+||0|<span class="rank-name-dl"> </span>|<a href="/darts/rank/shops/.html"></a> <a href="">[↗]</a>|<a href="/darts/rank//"></a>|
 
 
 #### PHOENIXDARTS TOP 100
@@ -58,22 +58,22 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|918|<span class="rank-name-pd">かずと　ちょいアル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">Darts Bar Freedom</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
-|2|906|<span class="rank-name-pd">タギ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">Darts Bar Freedom</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
-|3|887|<span class="rank-name-pd">DAIGO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">Darts Bar Freedom</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
-|4|872|<span class="rank-name-pd"><span class="pro-icon-pd"></span>岩下 健</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">Darts Bar Freedom</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
-|5|864|<span class="rank-name-pd">ムリーダム</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">Darts Bar Freedom</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
-|6|861|<span class="rank-name-pd">guregoli</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">Darts Bar Freedom</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
-|7|731|<span class="rank-name-pd">ユウヤ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">Darts Bar Freedom</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
-|8|696|<span class="rank-name-pd">あやか</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">Darts Bar Freedom</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
-|9|646|<span class="rank-name-pd">さーやん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">Darts Bar Freedom</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
-|9|646|<span class="rank-name-pd">みずさわ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">Darts Bar Freedom</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
-|11|643|<span class="rank-name-pd">こばしん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">Darts Bar Freedom</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
-|12|639|<span class="rank-name-pd">Ｙ様ｎラティオス〈DUNK〉</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">Darts Bar Freedom</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
-|13|499|<span class="rank-name-pd">Yuka</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">Darts Bar Freedom</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
-|14|478|<span class="rank-name-pd">Rai</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">Darts Bar Freedom</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
-|15|465|<span class="rank-name-pd">hyper_PORIN^-^</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">Darts Bar Freedom</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
-|16|393|<span class="rank-name-pd">リィ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">Darts Bar Freedom</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
+|1|918|<span class="rank-name-pd">かずと　ちょいアル</span>|<a href="/darts/rank/shops/74704.html">Darts Bar Freedom</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">[↗]</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
+|2|906|<span class="rank-name-pd">タギ</span>|<a href="/darts/rank/shops/74704.html">Darts Bar Freedom</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">[↗]</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
+|3|887|<span class="rank-name-pd">DAIGO</span>|<a href="/darts/rank/shops/74704.html">Darts Bar Freedom</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">[↗]</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
+|4|872|<span class="rank-name-pd"><span class="pro-icon-pd"></span>岩下 健</span>|<a href="/darts/rank/shops/74704.html">Darts Bar Freedom</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">[↗]</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
+|5|864|<span class="rank-name-pd">ムリーダム</span>|<a href="/darts/rank/shops/74704.html">Darts Bar Freedom</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">[↗]</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
+|6|861|<span class="rank-name-pd">guregoli</span>|<a href="/darts/rank/shops/74704.html">Darts Bar Freedom</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">[↗]</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
+|7|731|<span class="rank-name-pd">ユウヤ</span>|<a href="/darts/rank/shops/74704.html">Darts Bar Freedom</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">[↗]</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
+|8|696|<span class="rank-name-pd">あやか</span>|<a href="/darts/rank/shops/74704.html">Darts Bar Freedom</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">[↗]</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
+|9|646|<span class="rank-name-pd">さーやん</span>|<a href="/darts/rank/shops/74704.html">Darts Bar Freedom</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">[↗]</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
+|9|646|<span class="rank-name-pd">みずさわ</span>|<a href="/darts/rank/shops/74704.html">Darts Bar Freedom</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">[↗]</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
+|11|643|<span class="rank-name-pd">こばしん</span>|<a href="/darts/rank/shops/74704.html">Darts Bar Freedom</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">[↗]</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
+|12|639|<span class="rank-name-pd">Ｙ様ｎラティオス〈DUNK〉</span>|<a href="/darts/rank/shops/74704.html">Darts Bar Freedom</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">[↗]</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
+|13|499|<span class="rank-name-pd">Yuka</span>|<a href="/darts/rank/shops/74704.html">Darts Bar Freedom</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">[↗]</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
+|14|478|<span class="rank-name-pd">Rai</span>|<a href="/darts/rank/shops/74704.html">Darts Bar Freedom</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">[↗]</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
+|15|465|<span class="rank-name-pd">hyper_PORIN^-^</span>|<a href="/darts/rank/shops/74704.html">Darts Bar Freedom</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">[↗]</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
+|16|393|<span class="rank-name-pd">リィ</span>|<a href="/darts/rank/shops/74704.html">Darts Bar Freedom</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_74704?s_seq=74704">[↗]</a>|<a href="/darts/rank/北海道/余市郡">北海道余市郡</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

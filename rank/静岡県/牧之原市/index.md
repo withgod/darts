@@ -23,20 +23,20 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|929|<span class="rank-name-dl">平塚 拓郎</span>|<a href="https://search.dartslive.com/jp/shop/45e03e439d919d180d9b047a20a7ba1e">真心商店 念</a>|<a href="/darts/rank/静岡県/牧之原市">静岡県牧之原市</a>|
-|2|861|<span class="rank-name-dl">Marble</span>|<a href="https://search.dartslive.com/jp/shop/45e03e439d919d180d9b047a20a7ba1e">真心商店 念</a>|<a href="/darts/rank/静岡県/牧之原市">静岡県牧之原市</a>|
-|3|736|<span class="rank-name-dl">まめfrom静岡</span>|<a href="https://search.dartslive.com/jp/shop/45e03e439d919d180d9b047a20a7ba1e">真心商店 念</a>|<a href="/darts/rank/静岡県/牧之原市">静岡県牧之原市</a>|
-|4|651|<span class="rank-name-dl">A.P.Bかっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/45e03e439d919d180d9b047a20a7ba1e">真心商店 念</a>|<a href="/darts/rank/静岡県/牧之原市">静岡県牧之原市</a>|
-|5|631|<span class="rank-name-dl">まっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/45e03e439d919d180d9b047a20a7ba1e">真心商店 念</a>|<a href="/darts/rank/静岡県/牧之原市">静岡県牧之原市</a>|
-|6|614|<span class="rank-name-dl">真心商店 念</span>|<a href="https://search.dartslive.com/jp/shop/45e03e439d919d180d9b047a20a7ba1e">真心商店 念</a>|<a href="/darts/rank/静岡県/牧之原市">静岡県牧之原市</a>|
-|7|595|<span class="rank-name-dl">道化のバギマSUダ</span>|<a href="https://search.dartslive.com/jp/shop/45e03e439d919d180d9b047a20a7ba1e">真心商店 念</a>|<a href="/darts/rank/静岡県/牧之原市">静岡県牧之原市</a>|
-|8|575|<span class="rank-name-dl">けっけ</span>|<a href="https://search.dartslive.com/jp/shop/45e03e439d919d180d9b047a20a7ba1e">真心商店 念</a>|<a href="/darts/rank/静岡県/牧之原市">静岡県牧之原市</a>|
-|9|563|<span class="rank-name-dl">だすと</span>|<a href="https://search.dartslive.com/jp/shop/45e03e439d919d180d9b047a20a7ba1e">真心商店 念</a>|<a href="/darts/rank/静岡県/牧之原市">静岡県牧之原市</a>|
-|10|510|<span class="rank-name-dl">よしびっしゅ有。</span>|<a href="https://search.dartslive.com/jp/shop/45e03e439d919d180d9b047a20a7ba1e">真心商店 念</a>|<a href="/darts/rank/静岡県/牧之原市">静岡県牧之原市</a>|
-|11|433|<span class="rank-name-dl">デイナマーTK</span>|<a href="https://search.dartslive.com/jp/shop/45e03e439d919d180d9b047a20a7ba1e">真心商店 念</a>|<a href="/darts/rank/静岡県/牧之原市">静岡県牧之原市</a>|
-|12|322|<span class="rank-name-dl">RENTO</span>|<a href="https://search.dartslive.com/jp/shop/45e03e439d919d180d9b047a20a7ba1e">真心商店 念</a>|<a href="/darts/rank/静岡県/牧之原市">静岡県牧之原市</a>|
-|13|310|<span class="rank-name-dl">かい</span>|<a href="https://search.dartslive.com/jp/shop/45e03e439d919d180d9b047a20a7ba1e">真心商店 念</a>|<a href="/darts/rank/静岡県/牧之原市">静岡県牧之原市</a>|
-|14|270|<span class="rank-name-dl">南斗水鳥拳</span>|<a href="https://search.dartslive.com/jp/shop/45e03e439d919d180d9b047a20a7ba1e">真心商店 念</a>|<a href="/darts/rank/静岡県/牧之原市">静岡県牧之原市</a>|
+|1|929|<span class="rank-name-dl">平塚 拓郎</span>|<a href="/darts/rank/shops/45e03e439d919d180d9b047a20a7ba1e.html">真心商店 念</a> <a href="https://search.dartslive.com/jp/shop/45e03e439d919d180d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/静岡県/牧之原市">静岡県牧之原市</a>|
+|2|861|<span class="rank-name-dl">Marble</span>|<a href="/darts/rank/shops/45e03e439d919d180d9b047a20a7ba1e.html">真心商店 念</a> <a href="https://search.dartslive.com/jp/shop/45e03e439d919d180d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/静岡県/牧之原市">静岡県牧之原市</a>|
+|3|736|<span class="rank-name-dl">まめfrom静岡</span>|<a href="/darts/rank/shops/45e03e439d919d180d9b047a20a7ba1e.html">真心商店 念</a> <a href="https://search.dartslive.com/jp/shop/45e03e439d919d180d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/静岡県/牧之原市">静岡県牧之原市</a>|
+|4|651|<span class="rank-name-dl">A.P.Bかっちゃん</span>|<a href="/darts/rank/shops/45e03e439d919d180d9b047a20a7ba1e.html">真心商店 念</a> <a href="https://search.dartslive.com/jp/shop/45e03e439d919d180d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/静岡県/牧之原市">静岡県牧之原市</a>|
+|5|631|<span class="rank-name-dl">まっちゃん</span>|<a href="/darts/rank/shops/45e03e439d919d180d9b047a20a7ba1e.html">真心商店 念</a> <a href="https://search.dartslive.com/jp/shop/45e03e439d919d180d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/静岡県/牧之原市">静岡県牧之原市</a>|
+|6|614|<span class="rank-name-dl">真心商店 念</span>|<a href="/darts/rank/shops/45e03e439d919d180d9b047a20a7ba1e.html">真心商店 念</a> <a href="https://search.dartslive.com/jp/shop/45e03e439d919d180d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/静岡県/牧之原市">静岡県牧之原市</a>|
+|7|595|<span class="rank-name-dl">道化のバギマSUダ</span>|<a href="/darts/rank/shops/45e03e439d919d180d9b047a20a7ba1e.html">真心商店 念</a> <a href="https://search.dartslive.com/jp/shop/45e03e439d919d180d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/静岡県/牧之原市">静岡県牧之原市</a>|
+|8|575|<span class="rank-name-dl">けっけ</span>|<a href="/darts/rank/shops/45e03e439d919d180d9b047a20a7ba1e.html">真心商店 念</a> <a href="https://search.dartslive.com/jp/shop/45e03e439d919d180d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/静岡県/牧之原市">静岡県牧之原市</a>|
+|9|563|<span class="rank-name-dl">だすと</span>|<a href="/darts/rank/shops/45e03e439d919d180d9b047a20a7ba1e.html">真心商店 念</a> <a href="https://search.dartslive.com/jp/shop/45e03e439d919d180d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/静岡県/牧之原市">静岡県牧之原市</a>|
+|10|510|<span class="rank-name-dl">よしびっしゅ有。</span>|<a href="/darts/rank/shops/45e03e439d919d180d9b047a20a7ba1e.html">真心商店 念</a> <a href="https://search.dartslive.com/jp/shop/45e03e439d919d180d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/静岡県/牧之原市">静岡県牧之原市</a>|
+|11|433|<span class="rank-name-dl">デイナマーTK</span>|<a href="/darts/rank/shops/45e03e439d919d180d9b047a20a7ba1e.html">真心商店 念</a> <a href="https://search.dartslive.com/jp/shop/45e03e439d919d180d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/静岡県/牧之原市">静岡県牧之原市</a>|
+|12|322|<span class="rank-name-dl">RENTO</span>|<a href="/darts/rank/shops/45e03e439d919d180d9b047a20a7ba1e.html">真心商店 念</a> <a href="https://search.dartslive.com/jp/shop/45e03e439d919d180d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/静岡県/牧之原市">静岡県牧之原市</a>|
+|13|310|<span class="rank-name-dl">かい</span>|<a href="/darts/rank/shops/45e03e439d919d180d9b047a20a7ba1e.html">真心商店 念</a> <a href="https://search.dartslive.com/jp/shop/45e03e439d919d180d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/静岡県/牧之原市">静岡県牧之原市</a>|
+|14|270|<span class="rank-name-dl">南斗水鳥拳</span>|<a href="/darts/rank/shops/45e03e439d919d180d9b047a20a7ba1e.html">真心商店 念</a> <a href="https://search.dartslive.com/jp/shop/45e03e439d919d180d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/静岡県/牧之原市">静岡県牧之原市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -46,20 +46,20 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|929|<span class="rank-name-dl">平塚 拓郎</span>|<a href="https://search.dartslive.com/jp/shop/45e03e439d919d180d9b047a20a7ba1e">真心商店 念</a>|<a href="/darts/rank/静岡県/牧之原市">静岡県牧之原市</a>|
-|2|861|<span class="rank-name-dl">Marble</span>|<a href="https://search.dartslive.com/jp/shop/45e03e439d919d180d9b047a20a7ba1e">真心商店 念</a>|<a href="/darts/rank/静岡県/牧之原市">静岡県牧之原市</a>|
-|3|736|<span class="rank-name-dl">まめfrom静岡</span>|<a href="https://search.dartslive.com/jp/shop/45e03e439d919d180d9b047a20a7ba1e">真心商店 念</a>|<a href="/darts/rank/静岡県/牧之原市">静岡県牧之原市</a>|
-|4|651|<span class="rank-name-dl">A.P.Bかっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/45e03e439d919d180d9b047a20a7ba1e">真心商店 念</a>|<a href="/darts/rank/静岡県/牧之原市">静岡県牧之原市</a>|
-|5|631|<span class="rank-name-dl">まっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/45e03e439d919d180d9b047a20a7ba1e">真心商店 念</a>|<a href="/darts/rank/静岡県/牧之原市">静岡県牧之原市</a>|
-|6|614|<span class="rank-name-dl">真心商店 念</span>|<a href="https://search.dartslive.com/jp/shop/45e03e439d919d180d9b047a20a7ba1e">真心商店 念</a>|<a href="/darts/rank/静岡県/牧之原市">静岡県牧之原市</a>|
-|7|595|<span class="rank-name-dl">道化のバギマSUダ</span>|<a href="https://search.dartslive.com/jp/shop/45e03e439d919d180d9b047a20a7ba1e">真心商店 念</a>|<a href="/darts/rank/静岡県/牧之原市">静岡県牧之原市</a>|
-|8|575|<span class="rank-name-dl">けっけ</span>|<a href="https://search.dartslive.com/jp/shop/45e03e439d919d180d9b047a20a7ba1e">真心商店 念</a>|<a href="/darts/rank/静岡県/牧之原市">静岡県牧之原市</a>|
-|9|563|<span class="rank-name-dl">だすと</span>|<a href="https://search.dartslive.com/jp/shop/45e03e439d919d180d9b047a20a7ba1e">真心商店 念</a>|<a href="/darts/rank/静岡県/牧之原市">静岡県牧之原市</a>|
-|10|510|<span class="rank-name-dl">よしびっしゅ有。</span>|<a href="https://search.dartslive.com/jp/shop/45e03e439d919d180d9b047a20a7ba1e">真心商店 念</a>|<a href="/darts/rank/静岡県/牧之原市">静岡県牧之原市</a>|
-|11|433|<span class="rank-name-dl">デイナマーTK</span>|<a href="https://search.dartslive.com/jp/shop/45e03e439d919d180d9b047a20a7ba1e">真心商店 念</a>|<a href="/darts/rank/静岡県/牧之原市">静岡県牧之原市</a>|
-|12|322|<span class="rank-name-dl">RENTO</span>|<a href="https://search.dartslive.com/jp/shop/45e03e439d919d180d9b047a20a7ba1e">真心商店 念</a>|<a href="/darts/rank/静岡県/牧之原市">静岡県牧之原市</a>|
-|13|310|<span class="rank-name-dl">かい</span>|<a href="https://search.dartslive.com/jp/shop/45e03e439d919d180d9b047a20a7ba1e">真心商店 念</a>|<a href="/darts/rank/静岡県/牧之原市">静岡県牧之原市</a>|
-|14|270|<span class="rank-name-dl">南斗水鳥拳</span>|<a href="https://search.dartslive.com/jp/shop/45e03e439d919d180d9b047a20a7ba1e">真心商店 念</a>|<a href="/darts/rank/静岡県/牧之原市">静岡県牧之原市</a>|
+|1|929|<span class="rank-name-dl">平塚 拓郎</span>|<a href="/darts/rank/shops/45e03e439d919d180d9b047a20a7ba1e.html">真心商店 念</a> <a href="https://search.dartslive.com/jp/shop/45e03e439d919d180d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/静岡県/牧之原市">静岡県牧之原市</a>|
+|2|861|<span class="rank-name-dl">Marble</span>|<a href="/darts/rank/shops/45e03e439d919d180d9b047a20a7ba1e.html">真心商店 念</a> <a href="https://search.dartslive.com/jp/shop/45e03e439d919d180d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/静岡県/牧之原市">静岡県牧之原市</a>|
+|3|736|<span class="rank-name-dl">まめfrom静岡</span>|<a href="/darts/rank/shops/45e03e439d919d180d9b047a20a7ba1e.html">真心商店 念</a> <a href="https://search.dartslive.com/jp/shop/45e03e439d919d180d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/静岡県/牧之原市">静岡県牧之原市</a>|
+|4|651|<span class="rank-name-dl">A.P.Bかっちゃん</span>|<a href="/darts/rank/shops/45e03e439d919d180d9b047a20a7ba1e.html">真心商店 念</a> <a href="https://search.dartslive.com/jp/shop/45e03e439d919d180d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/静岡県/牧之原市">静岡県牧之原市</a>|
+|5|631|<span class="rank-name-dl">まっちゃん</span>|<a href="/darts/rank/shops/45e03e439d919d180d9b047a20a7ba1e.html">真心商店 念</a> <a href="https://search.dartslive.com/jp/shop/45e03e439d919d180d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/静岡県/牧之原市">静岡県牧之原市</a>|
+|6|614|<span class="rank-name-dl">真心商店 念</span>|<a href="/darts/rank/shops/45e03e439d919d180d9b047a20a7ba1e.html">真心商店 念</a> <a href="https://search.dartslive.com/jp/shop/45e03e439d919d180d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/静岡県/牧之原市">静岡県牧之原市</a>|
+|7|595|<span class="rank-name-dl">道化のバギマSUダ</span>|<a href="/darts/rank/shops/45e03e439d919d180d9b047a20a7ba1e.html">真心商店 念</a> <a href="https://search.dartslive.com/jp/shop/45e03e439d919d180d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/静岡県/牧之原市">静岡県牧之原市</a>|
+|8|575|<span class="rank-name-dl">けっけ</span>|<a href="/darts/rank/shops/45e03e439d919d180d9b047a20a7ba1e.html">真心商店 念</a> <a href="https://search.dartslive.com/jp/shop/45e03e439d919d180d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/静岡県/牧之原市">静岡県牧之原市</a>|
+|9|563|<span class="rank-name-dl">だすと</span>|<a href="/darts/rank/shops/45e03e439d919d180d9b047a20a7ba1e.html">真心商店 念</a> <a href="https://search.dartslive.com/jp/shop/45e03e439d919d180d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/静岡県/牧之原市">静岡県牧之原市</a>|
+|10|510|<span class="rank-name-dl">よしびっしゅ有。</span>|<a href="/darts/rank/shops/45e03e439d919d180d9b047a20a7ba1e.html">真心商店 念</a> <a href="https://search.dartslive.com/jp/shop/45e03e439d919d180d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/静岡県/牧之原市">静岡県牧之原市</a>|
+|11|433|<span class="rank-name-dl">デイナマーTK</span>|<a href="/darts/rank/shops/45e03e439d919d180d9b047a20a7ba1e.html">真心商店 念</a> <a href="https://search.dartslive.com/jp/shop/45e03e439d919d180d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/静岡県/牧之原市">静岡県牧之原市</a>|
+|12|322|<span class="rank-name-dl">RENTO</span>|<a href="/darts/rank/shops/45e03e439d919d180d9b047a20a7ba1e.html">真心商店 念</a> <a href="https://search.dartslive.com/jp/shop/45e03e439d919d180d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/静岡県/牧之原市">静岡県牧之原市</a>|
+|13|310|<span class="rank-name-dl">かい</span>|<a href="/darts/rank/shops/45e03e439d919d180d9b047a20a7ba1e.html">真心商店 念</a> <a href="https://search.dartslive.com/jp/shop/45e03e439d919d180d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/静岡県/牧之原市">静岡県牧之原市</a>|
+|14|270|<span class="rank-name-dl">南斗水鳥拳</span>|<a href="/darts/rank/shops/45e03e439d919d180d9b047a20a7ba1e.html">真心商店 念</a> <a href="https://search.dartslive.com/jp/shop/45e03e439d919d180d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/静岡県/牧之原市">静岡県牧之原市</a>|
 
 
 #### PHOENIXDARTS TOP 100
@@ -69,7 +69,7 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-||0|<span class="rank-name-dl"> </span>|<a href=""></a>|<a href="/darts/rank//"></a>|
+||0|<span class="rank-name-dl"> </span>|<a href="/darts/rank/shops/.html"></a> <a href="">[↗]</a>|<a href="/darts/rank//"></a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

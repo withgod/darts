@@ -23,26 +23,26 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1010|<span class="rank-name-dl">☆DMC☆山本 貴斗</span>|<a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">快活CLUB 岐阜垂井店</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
-|2|970|<span class="rank-name-dl">バキバキスマホ</span>|<a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">快活CLUB 岐阜垂井店</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
-|3|918|<span class="rank-name-dl">こぅ。</span>|<a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">快活CLUB 岐阜垂井店</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
-|4|910|<span class="rank-name-dl">SUKEROCK</span>|<a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">快活CLUB 岐阜垂井店</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
-|5|873|<span class="rank-name-dl">ひじき</span>|<a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">快活CLUB 岐阜垂井店</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
-|6|847|<span class="rank-name-dl">POPO</span>|<a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">快活CLUB 岐阜垂井店</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
-|7|843|<span class="rank-name-dl">しょーた</span>|<a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">快活CLUB 岐阜垂井店</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
-|8|788|<span class="rank-name-dl">くまーー</span>|<a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">快活CLUB 岐阜垂井店</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
-|9|787|<span class="rank-name-dl">王将の人B</span>|<a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">快活CLUB 岐阜垂井店</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
-|10|786|<span class="rank-name-dl">忘ひぃぽん我</span>|<a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">快活CLUB 岐阜垂井店</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
-|11|776|<span class="rank-name-dl">THJT</span>|<a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">快活CLUB 岐阜垂井店</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
-|12|773|<span class="rank-name-dl">オサ</span>|<a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">快活CLUB 岐阜垂井店</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
-|13|698|<span class="rank-name-dl">Tet</span>|<a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">快活CLUB 岐阜垂井店</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
-|14|696|<span class="rank-name-dl">ぽてちむ</span>|<a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">快活CLUB 岐阜垂井店</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
-|15|686|<span class="rank-name-dl">もっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">快活CLUB 岐阜垂井店</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
-|16|509|<span class="rank-name-dl">元祖たけし部長</span>|<a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">快活CLUB 岐阜垂井店</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
-|17|461|<span class="rank-name-dl">りな</span>|<a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">快活CLUB 岐阜垂井店</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
-|18|456|<span class="rank-name-dl">やつがれ</span>|<a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">快活CLUB 岐阜垂井店</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
-|19|438|<span class="rank-name-dl">ニケロイの飼い主</span>|<a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">快活CLUB 岐阜垂井店</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
-|20|430|<span class="rank-name-dl">Erings</span>|<a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">快活CLUB 岐阜垂井店</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
+|1|1010|<span class="rank-name-dl">☆DMC☆山本 貴斗</span>|<a href="/darts/rank/shops/edca3410dee17d75a3f63593b5358cc4.html">快活CLUB 岐阜垂井店</a> <a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">[↗]</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
+|2|970|<span class="rank-name-dl">バキバキスマホ</span>|<a href="/darts/rank/shops/edca3410dee17d75a3f63593b5358cc4.html">快活CLUB 岐阜垂井店</a> <a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">[↗]</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
+|3|918|<span class="rank-name-dl">こぅ。</span>|<a href="/darts/rank/shops/edca3410dee17d75a3f63593b5358cc4.html">快活CLUB 岐阜垂井店</a> <a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">[↗]</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
+|4|910|<span class="rank-name-dl">SUKEROCK</span>|<a href="/darts/rank/shops/edca3410dee17d75a3f63593b5358cc4.html">快活CLUB 岐阜垂井店</a> <a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">[↗]</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
+|5|873|<span class="rank-name-dl">ひじき</span>|<a href="/darts/rank/shops/edca3410dee17d75a3f63593b5358cc4.html">快活CLUB 岐阜垂井店</a> <a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">[↗]</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
+|6|847|<span class="rank-name-dl">POPO</span>|<a href="/darts/rank/shops/edca3410dee17d75a3f63593b5358cc4.html">快活CLUB 岐阜垂井店</a> <a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">[↗]</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
+|7|843|<span class="rank-name-dl">しょーた</span>|<a href="/darts/rank/shops/edca3410dee17d75a3f63593b5358cc4.html">快活CLUB 岐阜垂井店</a> <a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">[↗]</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
+|8|788|<span class="rank-name-dl">くまーー</span>|<a href="/darts/rank/shops/edca3410dee17d75a3f63593b5358cc4.html">快活CLUB 岐阜垂井店</a> <a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">[↗]</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
+|9|787|<span class="rank-name-dl">王将の人B</span>|<a href="/darts/rank/shops/edca3410dee17d75a3f63593b5358cc4.html">快活CLUB 岐阜垂井店</a> <a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">[↗]</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
+|10|786|<span class="rank-name-dl">忘ひぃぽん我</span>|<a href="/darts/rank/shops/edca3410dee17d75a3f63593b5358cc4.html">快活CLUB 岐阜垂井店</a> <a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">[↗]</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
+|11|776|<span class="rank-name-dl">THJT</span>|<a href="/darts/rank/shops/edca3410dee17d75a3f63593b5358cc4.html">快活CLUB 岐阜垂井店</a> <a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">[↗]</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
+|12|773|<span class="rank-name-dl">オサ</span>|<a href="/darts/rank/shops/edca3410dee17d75a3f63593b5358cc4.html">快活CLUB 岐阜垂井店</a> <a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">[↗]</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
+|13|698|<span class="rank-name-dl">Tet</span>|<a href="/darts/rank/shops/edca3410dee17d75a3f63593b5358cc4.html">快活CLUB 岐阜垂井店</a> <a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">[↗]</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
+|14|696|<span class="rank-name-dl">ぽてちむ</span>|<a href="/darts/rank/shops/edca3410dee17d75a3f63593b5358cc4.html">快活CLUB 岐阜垂井店</a> <a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">[↗]</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
+|15|686|<span class="rank-name-dl">もっちゃん</span>|<a href="/darts/rank/shops/edca3410dee17d75a3f63593b5358cc4.html">快活CLUB 岐阜垂井店</a> <a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">[↗]</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
+|16|509|<span class="rank-name-dl">元祖たけし部長</span>|<a href="/darts/rank/shops/edca3410dee17d75a3f63593b5358cc4.html">快活CLUB 岐阜垂井店</a> <a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">[↗]</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
+|17|461|<span class="rank-name-dl">りな</span>|<a href="/darts/rank/shops/edca3410dee17d75a3f63593b5358cc4.html">快活CLUB 岐阜垂井店</a> <a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">[↗]</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
+|18|456|<span class="rank-name-dl">やつがれ</span>|<a href="/darts/rank/shops/edca3410dee17d75a3f63593b5358cc4.html">快活CLUB 岐阜垂井店</a> <a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">[↗]</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
+|19|438|<span class="rank-name-dl">ニケロイの飼い主</span>|<a href="/darts/rank/shops/edca3410dee17d75a3f63593b5358cc4.html">快活CLUB 岐阜垂井店</a> <a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">[↗]</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
+|20|430|<span class="rank-name-dl">Erings</span>|<a href="/darts/rank/shops/edca3410dee17d75a3f63593b5358cc4.html">快活CLUB 岐阜垂井店</a> <a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">[↗]</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -52,26 +52,26 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1010|<span class="rank-name-dl">☆DMC☆山本 貴斗</span>|<a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">快活CLUB 岐阜垂井店</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
-|2|970|<span class="rank-name-dl">バキバキスマホ</span>|<a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">快活CLUB 岐阜垂井店</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
-|3|918|<span class="rank-name-dl">こぅ。</span>|<a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">快活CLUB 岐阜垂井店</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
-|4|910|<span class="rank-name-dl">SUKEROCK</span>|<a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">快活CLUB 岐阜垂井店</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
-|5|873|<span class="rank-name-dl">ひじき</span>|<a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">快活CLUB 岐阜垂井店</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
-|6|847|<span class="rank-name-dl">POPO</span>|<a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">快活CLUB 岐阜垂井店</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
-|7|843|<span class="rank-name-dl">しょーた</span>|<a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">快活CLUB 岐阜垂井店</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
-|8|788|<span class="rank-name-dl">くまーー</span>|<a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">快活CLUB 岐阜垂井店</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
-|9|787|<span class="rank-name-dl">王将の人B</span>|<a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">快活CLUB 岐阜垂井店</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
-|10|786|<span class="rank-name-dl">忘ひぃぽん我</span>|<a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">快活CLUB 岐阜垂井店</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
-|11|776|<span class="rank-name-dl">THJT</span>|<a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">快活CLUB 岐阜垂井店</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
-|12|773|<span class="rank-name-dl">オサ</span>|<a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">快活CLUB 岐阜垂井店</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
-|13|698|<span class="rank-name-dl">Tet</span>|<a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">快活CLUB 岐阜垂井店</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
-|14|696|<span class="rank-name-dl">ぽてちむ</span>|<a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">快活CLUB 岐阜垂井店</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
-|15|686|<span class="rank-name-dl">もっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">快活CLUB 岐阜垂井店</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
-|16|509|<span class="rank-name-dl">元祖たけし部長</span>|<a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">快活CLUB 岐阜垂井店</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
-|17|461|<span class="rank-name-dl">りな</span>|<a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">快活CLUB 岐阜垂井店</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
-|18|456|<span class="rank-name-dl">やつがれ</span>|<a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">快活CLUB 岐阜垂井店</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
-|19|438|<span class="rank-name-dl">ニケロイの飼い主</span>|<a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">快活CLUB 岐阜垂井店</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
-|20|430|<span class="rank-name-dl">Erings</span>|<a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">快活CLUB 岐阜垂井店</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
+|1|1010|<span class="rank-name-dl">☆DMC☆山本 貴斗</span>|<a href="/darts/rank/shops/edca3410dee17d75a3f63593b5358cc4.html">快活CLUB 岐阜垂井店</a> <a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">[↗]</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
+|2|970|<span class="rank-name-dl">バキバキスマホ</span>|<a href="/darts/rank/shops/edca3410dee17d75a3f63593b5358cc4.html">快活CLUB 岐阜垂井店</a> <a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">[↗]</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
+|3|918|<span class="rank-name-dl">こぅ。</span>|<a href="/darts/rank/shops/edca3410dee17d75a3f63593b5358cc4.html">快活CLUB 岐阜垂井店</a> <a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">[↗]</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
+|4|910|<span class="rank-name-dl">SUKEROCK</span>|<a href="/darts/rank/shops/edca3410dee17d75a3f63593b5358cc4.html">快活CLUB 岐阜垂井店</a> <a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">[↗]</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
+|5|873|<span class="rank-name-dl">ひじき</span>|<a href="/darts/rank/shops/edca3410dee17d75a3f63593b5358cc4.html">快活CLUB 岐阜垂井店</a> <a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">[↗]</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
+|6|847|<span class="rank-name-dl">POPO</span>|<a href="/darts/rank/shops/edca3410dee17d75a3f63593b5358cc4.html">快活CLUB 岐阜垂井店</a> <a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">[↗]</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
+|7|843|<span class="rank-name-dl">しょーた</span>|<a href="/darts/rank/shops/edca3410dee17d75a3f63593b5358cc4.html">快活CLUB 岐阜垂井店</a> <a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">[↗]</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
+|8|788|<span class="rank-name-dl">くまーー</span>|<a href="/darts/rank/shops/edca3410dee17d75a3f63593b5358cc4.html">快活CLUB 岐阜垂井店</a> <a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">[↗]</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
+|9|787|<span class="rank-name-dl">王将の人B</span>|<a href="/darts/rank/shops/edca3410dee17d75a3f63593b5358cc4.html">快活CLUB 岐阜垂井店</a> <a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">[↗]</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
+|10|786|<span class="rank-name-dl">忘ひぃぽん我</span>|<a href="/darts/rank/shops/edca3410dee17d75a3f63593b5358cc4.html">快活CLUB 岐阜垂井店</a> <a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">[↗]</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
+|11|776|<span class="rank-name-dl">THJT</span>|<a href="/darts/rank/shops/edca3410dee17d75a3f63593b5358cc4.html">快活CLUB 岐阜垂井店</a> <a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">[↗]</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
+|12|773|<span class="rank-name-dl">オサ</span>|<a href="/darts/rank/shops/edca3410dee17d75a3f63593b5358cc4.html">快活CLUB 岐阜垂井店</a> <a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">[↗]</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
+|13|698|<span class="rank-name-dl">Tet</span>|<a href="/darts/rank/shops/edca3410dee17d75a3f63593b5358cc4.html">快活CLUB 岐阜垂井店</a> <a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">[↗]</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
+|14|696|<span class="rank-name-dl">ぽてちむ</span>|<a href="/darts/rank/shops/edca3410dee17d75a3f63593b5358cc4.html">快活CLUB 岐阜垂井店</a> <a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">[↗]</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
+|15|686|<span class="rank-name-dl">もっちゃん</span>|<a href="/darts/rank/shops/edca3410dee17d75a3f63593b5358cc4.html">快活CLUB 岐阜垂井店</a> <a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">[↗]</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
+|16|509|<span class="rank-name-dl">元祖たけし部長</span>|<a href="/darts/rank/shops/edca3410dee17d75a3f63593b5358cc4.html">快活CLUB 岐阜垂井店</a> <a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">[↗]</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
+|17|461|<span class="rank-name-dl">りな</span>|<a href="/darts/rank/shops/edca3410dee17d75a3f63593b5358cc4.html">快活CLUB 岐阜垂井店</a> <a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">[↗]</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
+|18|456|<span class="rank-name-dl">やつがれ</span>|<a href="/darts/rank/shops/edca3410dee17d75a3f63593b5358cc4.html">快活CLUB 岐阜垂井店</a> <a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">[↗]</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
+|19|438|<span class="rank-name-dl">ニケロイの飼い主</span>|<a href="/darts/rank/shops/edca3410dee17d75a3f63593b5358cc4.html">快活CLUB 岐阜垂井店</a> <a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">[↗]</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
+|20|430|<span class="rank-name-dl">Erings</span>|<a href="/darts/rank/shops/edca3410dee17d75a3f63593b5358cc4.html">快活CLUB 岐阜垂井店</a> <a href="https://search.dartslive.com/jp/shop/edca3410dee17d75a3f63593b5358cc4">[↗]</a>|<a href="/darts/rank/岐阜県/不破郡">岐阜県不破郡</a>|
 
 
 #### PHOENIXDARTS TOP 100
@@ -81,7 +81,7 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-||0|<span class="rank-name-dl"> </span>|<a href=""></a>|<a href="/darts/rank//"></a>|
+||0|<span class="rank-name-dl"> </span>|<a href="/darts/rank/shops/.html"></a> <a href="">[↗]</a>|<a href="/darts/rank//"></a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

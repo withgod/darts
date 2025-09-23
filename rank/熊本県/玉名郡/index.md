@@ -23,10 +23,10 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|713|<span class="rank-name-pd"> やすべぇ(｀･ω･´)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9879?s_seq=9879">三加和ベースヒストリック366</a>|<a href="/darts/rank/熊本県/玉名郡">熊本県玉名郡</a>|
-|2|676|<span class="rank-name-pd">やすべぇ(´д｀)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9879?s_seq=9879">三加和ベースヒストリック366</a>|<a href="/darts/rank/熊本県/玉名郡">熊本県玉名郡</a>|
-|3|591|<span class="rank-name-pd">オレオ( ò ω ó )</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9879?s_seq=9879">三加和ベースヒストリック366</a>|<a href="/darts/rank/熊本県/玉名郡">熊本県玉名郡</a>|
-|4|555|<span class="rank-name-pd">かまきりくんすぅぱぁぜっと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9879?s_seq=9879">三加和ベースヒストリック366</a>|<a href="/darts/rank/熊本県/玉名郡">熊本県玉名郡</a>|
+|1|713|<span class="rank-name-pd"> やすべぇ(｀･ω･´)</span>|<a href="/darts/rank/shops/9879.html">三加和ベースヒストリック366</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9879?s_seq=9879">[↗]</a>|<a href="/darts/rank/熊本県/玉名郡">熊本県玉名郡</a>|
+|2|676|<span class="rank-name-pd">やすべぇ(´д｀)</span>|<a href="/darts/rank/shops/9879.html">三加和ベースヒストリック366</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9879?s_seq=9879">[↗]</a>|<a href="/darts/rank/熊本県/玉名郡">熊本県玉名郡</a>|
+|3|591|<span class="rank-name-pd">オレオ( ò ω ó )</span>|<a href="/darts/rank/shops/9879.html">三加和ベースヒストリック366</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9879?s_seq=9879">[↗]</a>|<a href="/darts/rank/熊本県/玉名郡">熊本県玉名郡</a>|
+|4|555|<span class="rank-name-pd">かまきりくんすぅぱぁぜっと</span>|<a href="/darts/rank/shops/9879.html">三加和ベースヒストリック366</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9879?s_seq=9879">[↗]</a>|<a href="/darts/rank/熊本県/玉名郡">熊本県玉名郡</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -36,7 +36,7 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-||0|<span class="rank-name-dl"> </span>|<a href=""></a>|<a href="/darts/rank//"></a>|
+||0|<span class="rank-name-dl"> </span>|<a href="/darts/rank/shops/.html"></a> <a href="">[↗]</a>|<a href="/darts/rank//"></a>|
 
 
 #### PHOENIXDARTS TOP 100
@@ -46,10 +46,10 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|713|<span class="rank-name-pd"> やすべぇ(｀･ω･´)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9879?s_seq=9879">三加和ベースヒストリック366</a>|<a href="/darts/rank/熊本県/玉名郡">熊本県玉名郡</a>|
-|2|676|<span class="rank-name-pd">やすべぇ(´д｀)</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9879?s_seq=9879">三加和ベースヒストリック366</a>|<a href="/darts/rank/熊本県/玉名郡">熊本県玉名郡</a>|
-|3|591|<span class="rank-name-pd">オレオ( ò ω ó )</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9879?s_seq=9879">三加和ベースヒストリック366</a>|<a href="/darts/rank/熊本県/玉名郡">熊本県玉名郡</a>|
-|4|555|<span class="rank-name-pd">かまきりくんすぅぱぁぜっと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9879?s_seq=9879">三加和ベースヒストリック366</a>|<a href="/darts/rank/熊本県/玉名郡">熊本県玉名郡</a>|
+|1|713|<span class="rank-name-pd"> やすべぇ(｀･ω･´)</span>|<a href="/darts/rank/shops/9879.html">三加和ベースヒストリック366</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9879?s_seq=9879">[↗]</a>|<a href="/darts/rank/熊本県/玉名郡">熊本県玉名郡</a>|
+|2|676|<span class="rank-name-pd">やすべぇ(´д｀)</span>|<a href="/darts/rank/shops/9879.html">三加和ベースヒストリック366</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9879?s_seq=9879">[↗]</a>|<a href="/darts/rank/熊本県/玉名郡">熊本県玉名郡</a>|
+|3|591|<span class="rank-name-pd">オレオ( ò ω ó )</span>|<a href="/darts/rank/shops/9879.html">三加和ベースヒストリック366</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9879?s_seq=9879">[↗]</a>|<a href="/darts/rank/熊本県/玉名郡">熊本県玉名郡</a>|
+|4|555|<span class="rank-name-pd">かまきりくんすぅぱぁぜっと</span>|<a href="/darts/rank/shops/9879.html">三加和ベースヒストリック366</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_9879?s_seq=9879">[↗]</a>|<a href="/darts/rank/熊本県/玉名郡">熊本県玉名郡</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

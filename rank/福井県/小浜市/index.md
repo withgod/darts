@@ -23,20 +23,20 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|949|<span class="rank-name-dl">たかたか＠ZERO</span>|<a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">BAR&DINING ZERO</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
-|2|915|<span class="rank-name-dl">いい歳のエリー</span>|<a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">BAR&DINING ZERO</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
-|3|868|<span class="rank-name-dl">たくむBD月間！！</span>|<a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">BAR&DINING ZERO</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
-|4|809|<span class="rank-name-dl">ウルヴァリン代表</span>|<a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">BAR&DINING ZERO</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
-|5|771|<span class="rank-name-dl">りっくん</span>|<a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">BAR&DINING ZERO</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
-|6|765|<span class="rank-name-dl">村松和</span>|<a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">BAR&DINING ZERO</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
-|7|555|<span class="rank-name-dl">炬燵猫</span>|<a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">BAR&DINING ZERO</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
-|8|529|<span class="rank-name-dl">ATSUSHI.ZERO</span>|<a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">BAR&DINING ZERO</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
-|9|485|<span class="rank-name-dl">✿結✿</span>|<a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">BAR&DINING ZERO</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
-|10|482|<span class="rank-name-dl">S</span>|<a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">BAR&DINING ZERO</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
-|11|460|<span class="rank-name-dl">Syun</span>|<a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">BAR&DINING ZERO</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
-|12|424|<span class="rank-name-dl">タカ</span>|<a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">BAR&DINING ZERO</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
-|13|407|<span class="rank-name-dl">MASARU</span>|<a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">BAR&DINING ZERO</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
-|14|364|<span class="rank-name-dl">かまかま</span>|<a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">BAR&DINING ZERO</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
+|1|949|<span class="rank-name-dl">たかたか＠ZERO</span>|<a href="/darts/rank/shops/af8976ad9649595a774c926eb736cb5a.html">BAR&DINING ZERO</a> <a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">[↗]</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
+|2|915|<span class="rank-name-dl">いい歳のエリー</span>|<a href="/darts/rank/shops/af8976ad9649595a774c926eb736cb5a.html">BAR&DINING ZERO</a> <a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">[↗]</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
+|3|868|<span class="rank-name-dl">たくむBD月間！！</span>|<a href="/darts/rank/shops/af8976ad9649595a774c926eb736cb5a.html">BAR&DINING ZERO</a> <a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">[↗]</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
+|4|809|<span class="rank-name-dl">ウルヴァリン代表</span>|<a href="/darts/rank/shops/af8976ad9649595a774c926eb736cb5a.html">BAR&DINING ZERO</a> <a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">[↗]</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
+|5|771|<span class="rank-name-dl">りっくん</span>|<a href="/darts/rank/shops/af8976ad9649595a774c926eb736cb5a.html">BAR&DINING ZERO</a> <a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">[↗]</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
+|6|765|<span class="rank-name-dl">村松和</span>|<a href="/darts/rank/shops/af8976ad9649595a774c926eb736cb5a.html">BAR&DINING ZERO</a> <a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">[↗]</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
+|7|555|<span class="rank-name-dl">炬燵猫</span>|<a href="/darts/rank/shops/af8976ad9649595a774c926eb736cb5a.html">BAR&DINING ZERO</a> <a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">[↗]</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
+|8|529|<span class="rank-name-dl">ATSUSHI.ZERO</span>|<a href="/darts/rank/shops/af8976ad9649595a774c926eb736cb5a.html">BAR&DINING ZERO</a> <a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">[↗]</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
+|9|485|<span class="rank-name-dl">✿結✿</span>|<a href="/darts/rank/shops/af8976ad9649595a774c926eb736cb5a.html">BAR&DINING ZERO</a> <a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">[↗]</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
+|10|482|<span class="rank-name-dl">S</span>|<a href="/darts/rank/shops/af8976ad9649595a774c926eb736cb5a.html">BAR&DINING ZERO</a> <a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">[↗]</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
+|11|460|<span class="rank-name-dl">Syun</span>|<a href="/darts/rank/shops/af8976ad9649595a774c926eb736cb5a.html">BAR&DINING ZERO</a> <a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">[↗]</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
+|12|424|<span class="rank-name-dl">タカ</span>|<a href="/darts/rank/shops/af8976ad9649595a774c926eb736cb5a.html">BAR&DINING ZERO</a> <a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">[↗]</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
+|13|407|<span class="rank-name-dl">MASARU</span>|<a href="/darts/rank/shops/af8976ad9649595a774c926eb736cb5a.html">BAR&DINING ZERO</a> <a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">[↗]</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
+|14|364|<span class="rank-name-dl">かまかま</span>|<a href="/darts/rank/shops/af8976ad9649595a774c926eb736cb5a.html">BAR&DINING ZERO</a> <a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">[↗]</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -46,20 +46,20 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|949|<span class="rank-name-dl">たかたか＠ZERO</span>|<a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">BAR&DINING ZERO</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
-|2|915|<span class="rank-name-dl">いい歳のエリー</span>|<a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">BAR&DINING ZERO</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
-|3|868|<span class="rank-name-dl">たくむBD月間！！</span>|<a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">BAR&DINING ZERO</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
-|4|809|<span class="rank-name-dl">ウルヴァリン代表</span>|<a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">BAR&DINING ZERO</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
-|5|771|<span class="rank-name-dl">りっくん</span>|<a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">BAR&DINING ZERO</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
-|6|765|<span class="rank-name-dl">村松和</span>|<a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">BAR&DINING ZERO</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
-|7|555|<span class="rank-name-dl">炬燵猫</span>|<a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">BAR&DINING ZERO</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
-|8|529|<span class="rank-name-dl">ATSUSHI.ZERO</span>|<a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">BAR&DINING ZERO</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
-|9|485|<span class="rank-name-dl">✿結✿</span>|<a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">BAR&DINING ZERO</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
-|10|482|<span class="rank-name-dl">S</span>|<a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">BAR&DINING ZERO</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
-|11|460|<span class="rank-name-dl">Syun</span>|<a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">BAR&DINING ZERO</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
-|12|424|<span class="rank-name-dl">タカ</span>|<a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">BAR&DINING ZERO</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
-|13|407|<span class="rank-name-dl">MASARU</span>|<a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">BAR&DINING ZERO</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
-|14|364|<span class="rank-name-dl">かまかま</span>|<a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">BAR&DINING ZERO</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
+|1|949|<span class="rank-name-dl">たかたか＠ZERO</span>|<a href="/darts/rank/shops/af8976ad9649595a774c926eb736cb5a.html">BAR&DINING ZERO</a> <a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">[↗]</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
+|2|915|<span class="rank-name-dl">いい歳のエリー</span>|<a href="/darts/rank/shops/af8976ad9649595a774c926eb736cb5a.html">BAR&DINING ZERO</a> <a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">[↗]</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
+|3|868|<span class="rank-name-dl">たくむBD月間！！</span>|<a href="/darts/rank/shops/af8976ad9649595a774c926eb736cb5a.html">BAR&DINING ZERO</a> <a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">[↗]</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
+|4|809|<span class="rank-name-dl">ウルヴァリン代表</span>|<a href="/darts/rank/shops/af8976ad9649595a774c926eb736cb5a.html">BAR&DINING ZERO</a> <a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">[↗]</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
+|5|771|<span class="rank-name-dl">りっくん</span>|<a href="/darts/rank/shops/af8976ad9649595a774c926eb736cb5a.html">BAR&DINING ZERO</a> <a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">[↗]</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
+|6|765|<span class="rank-name-dl">村松和</span>|<a href="/darts/rank/shops/af8976ad9649595a774c926eb736cb5a.html">BAR&DINING ZERO</a> <a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">[↗]</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
+|7|555|<span class="rank-name-dl">炬燵猫</span>|<a href="/darts/rank/shops/af8976ad9649595a774c926eb736cb5a.html">BAR&DINING ZERO</a> <a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">[↗]</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
+|8|529|<span class="rank-name-dl">ATSUSHI.ZERO</span>|<a href="/darts/rank/shops/af8976ad9649595a774c926eb736cb5a.html">BAR&DINING ZERO</a> <a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">[↗]</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
+|9|485|<span class="rank-name-dl">✿結✿</span>|<a href="/darts/rank/shops/af8976ad9649595a774c926eb736cb5a.html">BAR&DINING ZERO</a> <a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">[↗]</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
+|10|482|<span class="rank-name-dl">S</span>|<a href="/darts/rank/shops/af8976ad9649595a774c926eb736cb5a.html">BAR&DINING ZERO</a> <a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">[↗]</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
+|11|460|<span class="rank-name-dl">Syun</span>|<a href="/darts/rank/shops/af8976ad9649595a774c926eb736cb5a.html">BAR&DINING ZERO</a> <a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">[↗]</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
+|12|424|<span class="rank-name-dl">タカ</span>|<a href="/darts/rank/shops/af8976ad9649595a774c926eb736cb5a.html">BAR&DINING ZERO</a> <a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">[↗]</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
+|13|407|<span class="rank-name-dl">MASARU</span>|<a href="/darts/rank/shops/af8976ad9649595a774c926eb736cb5a.html">BAR&DINING ZERO</a> <a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">[↗]</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
+|14|364|<span class="rank-name-dl">かまかま</span>|<a href="/darts/rank/shops/af8976ad9649595a774c926eb736cb5a.html">BAR&DINING ZERO</a> <a href="https://search.dartslive.com/jp/shop/af8976ad9649595a774c926eb736cb5a">[↗]</a>|<a href="/darts/rank/福井県/小浜市">福井県小浜市</a>|
 
 
 #### PHOENIXDARTS TOP 100
@@ -69,7 +69,7 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-||0|<span class="rank-name-dl"> </span>|<a href=""></a>|<a href="/darts/rank//"></a>|
+||0|<span class="rank-name-dl"> </span>|<a href="/darts/rank/shops/.html"></a> <a href="">[↗]</a>|<a href="/darts/rank//"></a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

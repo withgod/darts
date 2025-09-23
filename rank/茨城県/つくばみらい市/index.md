@@ -23,7 +23,7 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|768|<span class="rank-name-dl">そや</span>|<a href="https://search.dartslive.com/jp/shop/fd5bcb5ab4b5fef40d9b047a20a7ba1e">GIRLS BAR PINKSPIDER</a>|<a href="/darts/rank/茨城県/つくばみらい市">茨城県つくばみらい市</a>|
+|1|768|<span class="rank-name-dl">そや</span>|<a href="/darts/rank/shops/fd5bcb5ab4b5fef40d9b047a20a7ba1e.html">GIRLS BAR PINKSPIDER</a> <a href="https://search.dartslive.com/jp/shop/fd5bcb5ab4b5fef40d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/茨城県/つくばみらい市">茨城県つくばみらい市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -33,7 +33,7 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|768|<span class="rank-name-dl">そや</span>|<a href="https://search.dartslive.com/jp/shop/fd5bcb5ab4b5fef40d9b047a20a7ba1e">GIRLS BAR PINKSPIDER</a>|<a href="/darts/rank/茨城県/つくばみらい市">茨城県つくばみらい市</a>|
+|1|768|<span class="rank-name-dl">そや</span>|<a href="/darts/rank/shops/fd5bcb5ab4b5fef40d9b047a20a7ba1e.html">GIRLS BAR PINKSPIDER</a> <a href="https://search.dartslive.com/jp/shop/fd5bcb5ab4b5fef40d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/茨城県/つくばみらい市">茨城県つくばみらい市</a>|
 
 
 #### PHOENIXDARTS TOP 100
@@ -43,7 +43,7 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-||0|<span class="rank-name-dl"> </span>|<a href=""></a>|<a href="/darts/rank//"></a>|
+||0|<span class="rank-name-dl"> </span>|<a href="/darts/rank/shops/.html"></a> <a href="">[↗]</a>|<a href="/darts/rank//"></a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

@@ -23,7 +23,7 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|553|<span class="rank-name-pd">ＫEＮ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89802?s_seq=89802">アネモネ</a>|<a href="/darts/rank/埼玉県/桶川市">埼玉県桶川市</a>|
+|1|553|<span class="rank-name-pd">ＫEＮ</span>|<a href="/darts/rank/shops/89802.html">アネモネ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89802?s_seq=89802">[↗]</a>|<a href="/darts/rank/埼玉県/桶川市">埼玉県桶川市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -33,7 +33,7 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-||0|<span class="rank-name-dl"> </span>|<a href=""></a>|<a href="/darts/rank//"></a>|
+||0|<span class="rank-name-dl"> </span>|<a href="/darts/rank/shops/.html"></a> <a href="">[↗]</a>|<a href="/darts/rank//"></a>|
 
 
 #### PHOENIXDARTS TOP 100
@@ -43,7 +43,7 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|553|<span class="rank-name-pd">ＫEＮ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89802?s_seq=89802">アネモネ</a>|<a href="/darts/rank/埼玉県/桶川市">埼玉県桶川市</a>|
+|1|553|<span class="rank-name-pd">ＫEＮ</span>|<a href="/darts/rank/shops/89802.html">アネモネ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89802?s_seq=89802">[↗]</a>|<a href="/darts/rank/埼玉県/桶川市">埼玉県桶川市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

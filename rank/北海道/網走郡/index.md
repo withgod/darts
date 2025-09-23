@@ -23,21 +23,21 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|873|<span class="rank-name-pd">れん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89935?s_seq=89935">ブルズアイ</a>|<a href="/darts/rank/北海道/網走郡">北海道網走郡</a>|
-|2|820|<span class="rank-name-pd">よっし〜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89935?s_seq=89935">ブルズアイ</a>|<a href="/darts/rank/北海道/網走郡">北海道網走郡</a>|
-|3|725|<span class="rank-name-pd">ながやん♪</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89935?s_seq=89935">ブルズアイ</a>|<a href="/darts/rank/北海道/網走郡">北海道網走郡</a>|
-|4|709|<span class="rank-name-pd">kyou</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89935?s_seq=89935">ブルズアイ</a>|<a href="/darts/rank/北海道/網走郡">北海道網走郡</a>|
-|5|682|<span class="rank-name-pd">恭輔</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89935?s_seq=89935">ブルズアイ</a>|<a href="/darts/rank/北海道/網走郡">北海道網走郡</a>|
-|6|667|<span class="rank-name-pd">悪魔神ドルバロム</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89935?s_seq=89935">ブルズアイ</a>|<a href="/darts/rank/北海道/網走郡">北海道網走郡</a>|
-|7|657|<span class="rank-name-pd">悪魔神ドルバロム@いのりんち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89935?s_seq=89935">ブルズアイ</a>|<a href="/darts/rank/北海道/網走郡">北海道網走郡</a>|
-|8|571|<span class="rank-name-pd">VirtualCard</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89935?s_seq=89935">ブルズアイ</a>|<a href="/darts/rank/北海道/網走郡">北海道網走郡</a>|
-|9|566|<span class="rank-name-pd">まっぽん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89935?s_seq=89935">ブルズアイ</a>|<a href="/darts/rank/北海道/網走郡">北海道網走郡</a>|
-|10|563|<span class="rank-name-pd">YUMI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89935?s_seq=89935">ブルズアイ</a>|<a href="/darts/rank/北海道/網走郡">北海道網走郡</a>|
-|11|562|<span class="rank-name-pd">chansho</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89935?s_seq=89935">ブルズアイ</a>|<a href="/darts/rank/北海道/網走郡">北海道網走郡</a>|
-|12|509|<span class="rank-name-pd">AKILLER@HighBridge</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89935?s_seq=89935">ブルズアイ</a>|<a href="/darts/rank/北海道/網走郡">北海道網走郡</a>|
-|13|485|<span class="rank-name-pd">ジロー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89935?s_seq=89935">ブルズアイ</a>|<a href="/darts/rank/北海道/網走郡">北海道網走郡</a>|
-|14|434|<span class="rank-name-pd">たくのん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89935?s_seq=89935">ブルズアイ</a>|<a href="/darts/rank/北海道/網走郡">北海道網走郡</a>|
-|15|400|<span class="rank-name-pd">クロナ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89935?s_seq=89935">ブルズアイ</a>|<a href="/darts/rank/北海道/網走郡">北海道網走郡</a>|
+|1|873|<span class="rank-name-pd">れん</span>|<a href="/darts/rank/shops/89935.html">ブルズアイ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89935?s_seq=89935">[↗]</a>|<a href="/darts/rank/北海道/網走郡">北海道網走郡</a>|
+|2|820|<span class="rank-name-pd">よっし〜</span>|<a href="/darts/rank/shops/89935.html">ブルズアイ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89935?s_seq=89935">[↗]</a>|<a href="/darts/rank/北海道/網走郡">北海道網走郡</a>|
+|3|725|<span class="rank-name-pd">ながやん♪</span>|<a href="/darts/rank/shops/89935.html">ブルズアイ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89935?s_seq=89935">[↗]</a>|<a href="/darts/rank/北海道/網走郡">北海道網走郡</a>|
+|4|709|<span class="rank-name-pd">kyou</span>|<a href="/darts/rank/shops/89935.html">ブルズアイ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89935?s_seq=89935">[↗]</a>|<a href="/darts/rank/北海道/網走郡">北海道網走郡</a>|
+|5|682|<span class="rank-name-pd">恭輔</span>|<a href="/darts/rank/shops/89935.html">ブルズアイ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89935?s_seq=89935">[↗]</a>|<a href="/darts/rank/北海道/網走郡">北海道網走郡</a>|
+|6|667|<span class="rank-name-pd">悪魔神ドルバロム</span>|<a href="/darts/rank/shops/89935.html">ブルズアイ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89935?s_seq=89935">[↗]</a>|<a href="/darts/rank/北海道/網走郡">北海道網走郡</a>|
+|7|657|<span class="rank-name-pd">悪魔神ドルバロム@いのりんち</span>|<a href="/darts/rank/shops/89935.html">ブルズアイ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89935?s_seq=89935">[↗]</a>|<a href="/darts/rank/北海道/網走郡">北海道網走郡</a>|
+|8|571|<span class="rank-name-pd">VirtualCard</span>|<a href="/darts/rank/shops/89935.html">ブルズアイ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89935?s_seq=89935">[↗]</a>|<a href="/darts/rank/北海道/網走郡">北海道網走郡</a>|
+|9|566|<span class="rank-name-pd">まっぽん</span>|<a href="/darts/rank/shops/89935.html">ブルズアイ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89935?s_seq=89935">[↗]</a>|<a href="/darts/rank/北海道/網走郡">北海道網走郡</a>|
+|10|563|<span class="rank-name-pd">YUMI</span>|<a href="/darts/rank/shops/89935.html">ブルズアイ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89935?s_seq=89935">[↗]</a>|<a href="/darts/rank/北海道/網走郡">北海道網走郡</a>|
+|11|562|<span class="rank-name-pd">chansho</span>|<a href="/darts/rank/shops/89935.html">ブルズアイ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89935?s_seq=89935">[↗]</a>|<a href="/darts/rank/北海道/網走郡">北海道網走郡</a>|
+|12|509|<span class="rank-name-pd">AKILLER@HighBridge</span>|<a href="/darts/rank/shops/89935.html">ブルズアイ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89935?s_seq=89935">[↗]</a>|<a href="/darts/rank/北海道/網走郡">北海道網走郡</a>|
+|13|485|<span class="rank-name-pd">ジロー</span>|<a href="/darts/rank/shops/89935.html">ブルズアイ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89935?s_seq=89935">[↗]</a>|<a href="/darts/rank/北海道/網走郡">北海道網走郡</a>|
+|14|434|<span class="rank-name-pd">たくのん</span>|<a href="/darts/rank/shops/89935.html">ブルズアイ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89935?s_seq=89935">[↗]</a>|<a href="/darts/rank/北海道/網走郡">北海道網走郡</a>|
+|15|400|<span class="rank-name-pd">クロナ</span>|<a href="/darts/rank/shops/89935.html">ブルズアイ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89935?s_seq=89935">[↗]</a>|<a href="/darts/rank/北海道/網走郡">北海道網走郡</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -47,7 +47,7 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-||0|<span class="rank-name-dl"> </span>|<a href=""></a>|<a href="/darts/rank//"></a>|
+||0|<span class="rank-name-dl"> </span>|<a href="/darts/rank/shops/.html"></a> <a href="">[↗]</a>|<a href="/darts/rank//"></a>|
 
 
 #### PHOENIXDARTS TOP 100
@@ -57,21 +57,21 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|873|<span class="rank-name-pd">れん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89935?s_seq=89935">ブルズアイ</a>|<a href="/darts/rank/北海道/網走郡">北海道網走郡</a>|
-|2|820|<span class="rank-name-pd">よっし〜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89935?s_seq=89935">ブルズアイ</a>|<a href="/darts/rank/北海道/網走郡">北海道網走郡</a>|
-|3|725|<span class="rank-name-pd">ながやん♪</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89935?s_seq=89935">ブルズアイ</a>|<a href="/darts/rank/北海道/網走郡">北海道網走郡</a>|
-|4|709|<span class="rank-name-pd">kyou</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89935?s_seq=89935">ブルズアイ</a>|<a href="/darts/rank/北海道/網走郡">北海道網走郡</a>|
-|5|682|<span class="rank-name-pd">恭輔</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89935?s_seq=89935">ブルズアイ</a>|<a href="/darts/rank/北海道/網走郡">北海道網走郡</a>|
-|6|667|<span class="rank-name-pd">悪魔神ドルバロム</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89935?s_seq=89935">ブルズアイ</a>|<a href="/darts/rank/北海道/網走郡">北海道網走郡</a>|
-|7|657|<span class="rank-name-pd">悪魔神ドルバロム@いのりんち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89935?s_seq=89935">ブルズアイ</a>|<a href="/darts/rank/北海道/網走郡">北海道網走郡</a>|
-|8|571|<span class="rank-name-pd">VirtualCard</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89935?s_seq=89935">ブルズアイ</a>|<a href="/darts/rank/北海道/網走郡">北海道網走郡</a>|
-|9|566|<span class="rank-name-pd">まっぽん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89935?s_seq=89935">ブルズアイ</a>|<a href="/darts/rank/北海道/網走郡">北海道網走郡</a>|
-|10|563|<span class="rank-name-pd">YUMI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89935?s_seq=89935">ブルズアイ</a>|<a href="/darts/rank/北海道/網走郡">北海道網走郡</a>|
-|11|562|<span class="rank-name-pd">chansho</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89935?s_seq=89935">ブルズアイ</a>|<a href="/darts/rank/北海道/網走郡">北海道網走郡</a>|
-|12|509|<span class="rank-name-pd">AKILLER@HighBridge</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89935?s_seq=89935">ブルズアイ</a>|<a href="/darts/rank/北海道/網走郡">北海道網走郡</a>|
-|13|485|<span class="rank-name-pd">ジロー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89935?s_seq=89935">ブルズアイ</a>|<a href="/darts/rank/北海道/網走郡">北海道網走郡</a>|
-|14|434|<span class="rank-name-pd">たくのん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89935?s_seq=89935">ブルズアイ</a>|<a href="/darts/rank/北海道/網走郡">北海道網走郡</a>|
-|15|400|<span class="rank-name-pd">クロナ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89935?s_seq=89935">ブルズアイ</a>|<a href="/darts/rank/北海道/網走郡">北海道網走郡</a>|
+|1|873|<span class="rank-name-pd">れん</span>|<a href="/darts/rank/shops/89935.html">ブルズアイ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89935?s_seq=89935">[↗]</a>|<a href="/darts/rank/北海道/網走郡">北海道網走郡</a>|
+|2|820|<span class="rank-name-pd">よっし〜</span>|<a href="/darts/rank/shops/89935.html">ブルズアイ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89935?s_seq=89935">[↗]</a>|<a href="/darts/rank/北海道/網走郡">北海道網走郡</a>|
+|3|725|<span class="rank-name-pd">ながやん♪</span>|<a href="/darts/rank/shops/89935.html">ブルズアイ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89935?s_seq=89935">[↗]</a>|<a href="/darts/rank/北海道/網走郡">北海道網走郡</a>|
+|4|709|<span class="rank-name-pd">kyou</span>|<a href="/darts/rank/shops/89935.html">ブルズアイ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89935?s_seq=89935">[↗]</a>|<a href="/darts/rank/北海道/網走郡">北海道網走郡</a>|
+|5|682|<span class="rank-name-pd">恭輔</span>|<a href="/darts/rank/shops/89935.html">ブルズアイ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89935?s_seq=89935">[↗]</a>|<a href="/darts/rank/北海道/網走郡">北海道網走郡</a>|
+|6|667|<span class="rank-name-pd">悪魔神ドルバロム</span>|<a href="/darts/rank/shops/89935.html">ブルズアイ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89935?s_seq=89935">[↗]</a>|<a href="/darts/rank/北海道/網走郡">北海道網走郡</a>|
+|7|657|<span class="rank-name-pd">悪魔神ドルバロム@いのりんち</span>|<a href="/darts/rank/shops/89935.html">ブルズアイ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89935?s_seq=89935">[↗]</a>|<a href="/darts/rank/北海道/網走郡">北海道網走郡</a>|
+|8|571|<span class="rank-name-pd">VirtualCard</span>|<a href="/darts/rank/shops/89935.html">ブルズアイ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89935?s_seq=89935">[↗]</a>|<a href="/darts/rank/北海道/網走郡">北海道網走郡</a>|
+|9|566|<span class="rank-name-pd">まっぽん</span>|<a href="/darts/rank/shops/89935.html">ブルズアイ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89935?s_seq=89935">[↗]</a>|<a href="/darts/rank/北海道/網走郡">北海道網走郡</a>|
+|10|563|<span class="rank-name-pd">YUMI</span>|<a href="/darts/rank/shops/89935.html">ブルズアイ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89935?s_seq=89935">[↗]</a>|<a href="/darts/rank/北海道/網走郡">北海道網走郡</a>|
+|11|562|<span class="rank-name-pd">chansho</span>|<a href="/darts/rank/shops/89935.html">ブルズアイ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89935?s_seq=89935">[↗]</a>|<a href="/darts/rank/北海道/網走郡">北海道網走郡</a>|
+|12|509|<span class="rank-name-pd">AKILLER@HighBridge</span>|<a href="/darts/rank/shops/89935.html">ブルズアイ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89935?s_seq=89935">[↗]</a>|<a href="/darts/rank/北海道/網走郡">北海道網走郡</a>|
+|13|485|<span class="rank-name-pd">ジロー</span>|<a href="/darts/rank/shops/89935.html">ブルズアイ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89935?s_seq=89935">[↗]</a>|<a href="/darts/rank/北海道/網走郡">北海道網走郡</a>|
+|14|434|<span class="rank-name-pd">たくのん</span>|<a href="/darts/rank/shops/89935.html">ブルズアイ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89935?s_seq=89935">[↗]</a>|<a href="/darts/rank/北海道/網走郡">北海道網走郡</a>|
+|15|400|<span class="rank-name-pd">クロナ</span>|<a href="/darts/rank/shops/89935.html">ブルズアイ</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89935?s_seq=89935">[↗]</a>|<a href="/darts/rank/北海道/網走郡">北海道網走郡</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

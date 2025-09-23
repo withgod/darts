@@ -23,16 +23,16 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1100|<span class="rank-name-dl">NO NAME 6631</span>|<a href="https://search.dartslive.com/jp/shop/658e40c87b3f3c215f9f3321c1147265">Zoo & Zoo</a>|<a href="/darts/rank/島根県/安来市">島根県安来市</a>|
-|2|876|<span class="rank-name-dl">@Silver Spoon@</span>|<a href="https://search.dartslive.com/jp/shop/658e40c87b3f3c215f9f3321c1147265">Zoo & Zoo</a>|<a href="/darts/rank/島根県/安来市">島根県安来市</a>|
-|3|670|<span class="rank-name-dl">Junnosuke</span>|<a href="https://search.dartslive.com/jp/shop/658e40c87b3f3c215f9f3321c1147265">Zoo & Zoo</a>|<a href="/darts/rank/島根県/安来市">島根県安来市</a>|
-|4|582|<span class="rank-name-dl">V</span>|<a href="https://search.dartslive.com/jp/shop/658e40c87b3f3c215f9f3321c1147265">Zoo & Zoo</a>|<a href="/darts/rank/島根県/安来市">島根県安来市</a>|
-|5|576|<span class="rank-name-dl">しゅんご</span>|<a href="https://search.dartslive.com/jp/shop/658e40c87b3f3c215f9f3321c1147265">Zoo & Zoo</a>|<a href="/darts/rank/島根県/安来市">島根県安来市</a>|
-|6|499|<span class="rank-name-dl">電子レンジ</span>|<a href="https://search.dartslive.com/jp/shop/658e40c87b3f3c215f9f3321c1147265">Zoo & Zoo</a>|<a href="/darts/rank/島根県/安来市">島根県安来市</a>|
-|7|493|<span class="rank-name-dl">michelle</span>|<a href="https://search.dartslive.com/jp/shop/658e40c87b3f3c215f9f3321c1147265">Zoo & Zoo</a>|<a href="/darts/rank/島根県/安来市">島根県安来市</a>|
-|8|468|<span class="rank-name-dl">天使の大魔王</span>|<a href="https://search.dartslive.com/jp/shop/658e40c87b3f3c215f9f3321c1147265">Zoo & Zoo</a>|<a href="/darts/rank/島根県/安来市">島根県安来市</a>|
-|9|432|<span class="rank-name-dl">AQUA Kouji</span>|<a href="https://search.dartslive.com/jp/shop/658e40c87b3f3c215f9f3321c1147265">Zoo & Zoo</a>|<a href="/darts/rank/島根県/安来市">島根県安来市</a>|
-|10|342|<span class="rank-name-dl">akito</span>|<a href="https://search.dartslive.com/jp/shop/658e40c87b3f3c215f9f3321c1147265">Zoo & Zoo</a>|<a href="/darts/rank/島根県/安来市">島根県安来市</a>|
+|1|1100|<span class="rank-name-dl">NO NAME 6631</span>|<a href="/darts/rank/shops/658e40c87b3f3c215f9f3321c1147265.html">Zoo & Zoo</a> <a href="https://search.dartslive.com/jp/shop/658e40c87b3f3c215f9f3321c1147265">[↗]</a>|<a href="/darts/rank/島根県/安来市">島根県安来市</a>|
+|2|876|<span class="rank-name-dl">@Silver Spoon@</span>|<a href="/darts/rank/shops/658e40c87b3f3c215f9f3321c1147265.html">Zoo & Zoo</a> <a href="https://search.dartslive.com/jp/shop/658e40c87b3f3c215f9f3321c1147265">[↗]</a>|<a href="/darts/rank/島根県/安来市">島根県安来市</a>|
+|3|670|<span class="rank-name-dl">Junnosuke</span>|<a href="/darts/rank/shops/658e40c87b3f3c215f9f3321c1147265.html">Zoo & Zoo</a> <a href="https://search.dartslive.com/jp/shop/658e40c87b3f3c215f9f3321c1147265">[↗]</a>|<a href="/darts/rank/島根県/安来市">島根県安来市</a>|
+|4|582|<span class="rank-name-dl">V</span>|<a href="/darts/rank/shops/658e40c87b3f3c215f9f3321c1147265.html">Zoo & Zoo</a> <a href="https://search.dartslive.com/jp/shop/658e40c87b3f3c215f9f3321c1147265">[↗]</a>|<a href="/darts/rank/島根県/安来市">島根県安来市</a>|
+|5|576|<span class="rank-name-dl">しゅんご</span>|<a href="/darts/rank/shops/658e40c87b3f3c215f9f3321c1147265.html">Zoo & Zoo</a> <a href="https://search.dartslive.com/jp/shop/658e40c87b3f3c215f9f3321c1147265">[↗]</a>|<a href="/darts/rank/島根県/安来市">島根県安来市</a>|
+|6|499|<span class="rank-name-dl">電子レンジ</span>|<a href="/darts/rank/shops/658e40c87b3f3c215f9f3321c1147265.html">Zoo & Zoo</a> <a href="https://search.dartslive.com/jp/shop/658e40c87b3f3c215f9f3321c1147265">[↗]</a>|<a href="/darts/rank/島根県/安来市">島根県安来市</a>|
+|7|493|<span class="rank-name-dl">michelle</span>|<a href="/darts/rank/shops/658e40c87b3f3c215f9f3321c1147265.html">Zoo & Zoo</a> <a href="https://search.dartslive.com/jp/shop/658e40c87b3f3c215f9f3321c1147265">[↗]</a>|<a href="/darts/rank/島根県/安来市">島根県安来市</a>|
+|8|468|<span class="rank-name-dl">天使の大魔王</span>|<a href="/darts/rank/shops/658e40c87b3f3c215f9f3321c1147265.html">Zoo & Zoo</a> <a href="https://search.dartslive.com/jp/shop/658e40c87b3f3c215f9f3321c1147265">[↗]</a>|<a href="/darts/rank/島根県/安来市">島根県安来市</a>|
+|9|432|<span class="rank-name-dl">AQUA Kouji</span>|<a href="/darts/rank/shops/658e40c87b3f3c215f9f3321c1147265.html">Zoo & Zoo</a> <a href="https://search.dartslive.com/jp/shop/658e40c87b3f3c215f9f3321c1147265">[↗]</a>|<a href="/darts/rank/島根県/安来市">島根県安来市</a>|
+|10|342|<span class="rank-name-dl">akito</span>|<a href="/darts/rank/shops/658e40c87b3f3c215f9f3321c1147265.html">Zoo & Zoo</a> <a href="https://search.dartslive.com/jp/shop/658e40c87b3f3c215f9f3321c1147265">[↗]</a>|<a href="/darts/rank/島根県/安来市">島根県安来市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -42,16 +42,16 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1100|<span class="rank-name-dl">NO NAME 6631</span>|<a href="https://search.dartslive.com/jp/shop/658e40c87b3f3c215f9f3321c1147265">Zoo & Zoo</a>|<a href="/darts/rank/島根県/安来市">島根県安来市</a>|
-|2|876|<span class="rank-name-dl">@Silver Spoon@</span>|<a href="https://search.dartslive.com/jp/shop/658e40c87b3f3c215f9f3321c1147265">Zoo & Zoo</a>|<a href="/darts/rank/島根県/安来市">島根県安来市</a>|
-|3|670|<span class="rank-name-dl">Junnosuke</span>|<a href="https://search.dartslive.com/jp/shop/658e40c87b3f3c215f9f3321c1147265">Zoo & Zoo</a>|<a href="/darts/rank/島根県/安来市">島根県安来市</a>|
-|4|582|<span class="rank-name-dl">V</span>|<a href="https://search.dartslive.com/jp/shop/658e40c87b3f3c215f9f3321c1147265">Zoo & Zoo</a>|<a href="/darts/rank/島根県/安来市">島根県安来市</a>|
-|5|576|<span class="rank-name-dl">しゅんご</span>|<a href="https://search.dartslive.com/jp/shop/658e40c87b3f3c215f9f3321c1147265">Zoo & Zoo</a>|<a href="/darts/rank/島根県/安来市">島根県安来市</a>|
-|6|499|<span class="rank-name-dl">電子レンジ</span>|<a href="https://search.dartslive.com/jp/shop/658e40c87b3f3c215f9f3321c1147265">Zoo & Zoo</a>|<a href="/darts/rank/島根県/安来市">島根県安来市</a>|
-|7|493|<span class="rank-name-dl">michelle</span>|<a href="https://search.dartslive.com/jp/shop/658e40c87b3f3c215f9f3321c1147265">Zoo & Zoo</a>|<a href="/darts/rank/島根県/安来市">島根県安来市</a>|
-|8|468|<span class="rank-name-dl">天使の大魔王</span>|<a href="https://search.dartslive.com/jp/shop/658e40c87b3f3c215f9f3321c1147265">Zoo & Zoo</a>|<a href="/darts/rank/島根県/安来市">島根県安来市</a>|
-|9|432|<span class="rank-name-dl">AQUA Kouji</span>|<a href="https://search.dartslive.com/jp/shop/658e40c87b3f3c215f9f3321c1147265">Zoo & Zoo</a>|<a href="/darts/rank/島根県/安来市">島根県安来市</a>|
-|10|342|<span class="rank-name-dl">akito</span>|<a href="https://search.dartslive.com/jp/shop/658e40c87b3f3c215f9f3321c1147265">Zoo & Zoo</a>|<a href="/darts/rank/島根県/安来市">島根県安来市</a>|
+|1|1100|<span class="rank-name-dl">NO NAME 6631</span>|<a href="/darts/rank/shops/658e40c87b3f3c215f9f3321c1147265.html">Zoo & Zoo</a> <a href="https://search.dartslive.com/jp/shop/658e40c87b3f3c215f9f3321c1147265">[↗]</a>|<a href="/darts/rank/島根県/安来市">島根県安来市</a>|
+|2|876|<span class="rank-name-dl">@Silver Spoon@</span>|<a href="/darts/rank/shops/658e40c87b3f3c215f9f3321c1147265.html">Zoo & Zoo</a> <a href="https://search.dartslive.com/jp/shop/658e40c87b3f3c215f9f3321c1147265">[↗]</a>|<a href="/darts/rank/島根県/安来市">島根県安来市</a>|
+|3|670|<span class="rank-name-dl">Junnosuke</span>|<a href="/darts/rank/shops/658e40c87b3f3c215f9f3321c1147265.html">Zoo & Zoo</a> <a href="https://search.dartslive.com/jp/shop/658e40c87b3f3c215f9f3321c1147265">[↗]</a>|<a href="/darts/rank/島根県/安来市">島根県安来市</a>|
+|4|582|<span class="rank-name-dl">V</span>|<a href="/darts/rank/shops/658e40c87b3f3c215f9f3321c1147265.html">Zoo & Zoo</a> <a href="https://search.dartslive.com/jp/shop/658e40c87b3f3c215f9f3321c1147265">[↗]</a>|<a href="/darts/rank/島根県/安来市">島根県安来市</a>|
+|5|576|<span class="rank-name-dl">しゅんご</span>|<a href="/darts/rank/shops/658e40c87b3f3c215f9f3321c1147265.html">Zoo & Zoo</a> <a href="https://search.dartslive.com/jp/shop/658e40c87b3f3c215f9f3321c1147265">[↗]</a>|<a href="/darts/rank/島根県/安来市">島根県安来市</a>|
+|6|499|<span class="rank-name-dl">電子レンジ</span>|<a href="/darts/rank/shops/658e40c87b3f3c215f9f3321c1147265.html">Zoo & Zoo</a> <a href="https://search.dartslive.com/jp/shop/658e40c87b3f3c215f9f3321c1147265">[↗]</a>|<a href="/darts/rank/島根県/安来市">島根県安来市</a>|
+|7|493|<span class="rank-name-dl">michelle</span>|<a href="/darts/rank/shops/658e40c87b3f3c215f9f3321c1147265.html">Zoo & Zoo</a> <a href="https://search.dartslive.com/jp/shop/658e40c87b3f3c215f9f3321c1147265">[↗]</a>|<a href="/darts/rank/島根県/安来市">島根県安来市</a>|
+|8|468|<span class="rank-name-dl">天使の大魔王</span>|<a href="/darts/rank/shops/658e40c87b3f3c215f9f3321c1147265.html">Zoo & Zoo</a> <a href="https://search.dartslive.com/jp/shop/658e40c87b3f3c215f9f3321c1147265">[↗]</a>|<a href="/darts/rank/島根県/安来市">島根県安来市</a>|
+|9|432|<span class="rank-name-dl">AQUA Kouji</span>|<a href="/darts/rank/shops/658e40c87b3f3c215f9f3321c1147265.html">Zoo & Zoo</a> <a href="https://search.dartslive.com/jp/shop/658e40c87b3f3c215f9f3321c1147265">[↗]</a>|<a href="/darts/rank/島根県/安来市">島根県安来市</a>|
+|10|342|<span class="rank-name-dl">akito</span>|<a href="/darts/rank/shops/658e40c87b3f3c215f9f3321c1147265.html">Zoo & Zoo</a> <a href="https://search.dartslive.com/jp/shop/658e40c87b3f3c215f9f3321c1147265">[↗]</a>|<a href="/darts/rank/島根県/安来市">島根県安来市</a>|
 
 
 #### PHOENIXDARTS TOP 100
@@ -61,7 +61,7 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-||0|<span class="rank-name-dl"> </span>|<a href=""></a>|<a href="/darts/rank//"></a>|
+||0|<span class="rank-name-dl"> </span>|<a href="/darts/rank/shops/.html"></a> <a href="">[↗]</a>|<a href="/darts/rank//"></a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

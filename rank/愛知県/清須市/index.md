@@ -23,18 +23,18 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|747|<span class="rank-name-dl">けい@primary</span>|<a href="https://search.dartslive.com/jp/shop/ca9abd6470d5e4550d9b047a20a7ba1e">オムライス&ダーツカフェ primary cafe</a>|<a href="/darts/rank/愛知県/清須市">愛知県清須市</a>|
-|2|670|<span class="rank-name-dl">けんた</span>|<a href="https://search.dartslive.com/jp/shop/ca9abd6470d5e4550d9b047a20a7ba1e">オムライス&ダーツカフェ primary cafe</a>|<a href="/darts/rank/愛知県/清須市">愛知県清須市</a>|
-|3|621|<span class="rank-name-dl">GO★TON</span>|<a href="https://search.dartslive.com/jp/shop/ca9abd6470d5e4550d9b047a20a7ba1e">オムライス&ダーツカフェ primary cafe</a>|<a href="/darts/rank/愛知県/清須市">愛知県清須市</a>|
-|4|593|<span class="rank-name-dl">ブルブルブル</span>|<a href="https://search.dartslive.com/jp/shop/ca9abd6470d5e4550d9b047a20a7ba1e">オムライス&ダーツカフェ primary cafe</a>|<a href="/darts/rank/愛知県/清須市">愛知県清須市</a>|
-|5|545|<span class="rank-name-dl">かばでぃ</span>|<a href="https://search.dartslive.com/jp/shop/ca9abd6470d5e4550d9b047a20a7ba1e">オムライス&ダーツカフェ primary cafe</a>|<a href="/darts/rank/愛知県/清須市">愛知県清須市</a>|
-|6|518|<span class="rank-name-dl">☆まさかず屋☆</span>|<a href="https://search.dartslive.com/jp/shop/ca9abd6470d5e4550d9b047a20a7ba1e">オムライス&ダーツカフェ primary cafe</a>|<a href="/darts/rank/愛知県/清須市">愛知県清須市</a>|
-|7|505|<span class="rank-name-dl">後藤学</span>|<a href="https://search.dartslive.com/jp/shop/ca9abd6470d5e4550d9b047a20a7ba1e">オムライス&ダーツカフェ primary cafe</a>|<a href="/darts/rank/愛知県/清須市">愛知県清須市</a>|
-|8|472|<span class="rank-name-dl">Rua</span>|<a href="https://search.dartslive.com/jp/shop/ca9abd6470d5e4550d9b047a20a7ba1e">オムライス&ダーツカフェ primary cafe</a>|<a href="/darts/rank/愛知県/清須市">愛知県清須市</a>|
-|9|449|<span class="rank-name-dl">NO NAME 2812</span>|<a href="https://search.dartslive.com/jp/shop/ca9abd6470d5e4550d9b047a20a7ba1e">オムライス&ダーツカフェ primary cafe</a>|<a href="/darts/rank/愛知県/清須市">愛知県清須市</a>|
-|10|424|<span class="rank-name-dl">大ボール</span>|<a href="https://search.dartslive.com/jp/shop/ca9abd6470d5e4550d9b047a20a7ba1e">オムライス&ダーツカフェ primary cafe</a>|<a href="/darts/rank/愛知県/清須市">愛知県清須市</a>|
-|11|398|<span class="rank-name-dl">ふぁんふぁん</span>|<a href="https://search.dartslive.com/jp/shop/ca9abd6470d5e4550d9b047a20a7ba1e">オムライス&ダーツカフェ primary cafe</a>|<a href="/darts/rank/愛知県/清須市">愛知県清須市</a>|
-|12|370|<span class="rank-name-dl">SAWADA-E</span>|<a href="https://search.dartslive.com/jp/shop/ca9abd6470d5e4550d9b047a20a7ba1e">オムライス&ダーツカフェ primary cafe</a>|<a href="/darts/rank/愛知県/清須市">愛知県清須市</a>|
+|1|747|<span class="rank-name-dl">けい@primary</span>|<a href="/darts/rank/shops/ca9abd6470d5e4550d9b047a20a7ba1e.html">オムライス&ダーツカフェ primary cafe</a> <a href="https://search.dartslive.com/jp/shop/ca9abd6470d5e4550d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/愛知県/清須市">愛知県清須市</a>|
+|2|670|<span class="rank-name-dl">けんた</span>|<a href="/darts/rank/shops/ca9abd6470d5e4550d9b047a20a7ba1e.html">オムライス&ダーツカフェ primary cafe</a> <a href="https://search.dartslive.com/jp/shop/ca9abd6470d5e4550d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/愛知県/清須市">愛知県清須市</a>|
+|3|621|<span class="rank-name-dl">GO★TON</span>|<a href="/darts/rank/shops/ca9abd6470d5e4550d9b047a20a7ba1e.html">オムライス&ダーツカフェ primary cafe</a> <a href="https://search.dartslive.com/jp/shop/ca9abd6470d5e4550d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/愛知県/清須市">愛知県清須市</a>|
+|4|593|<span class="rank-name-dl">ブルブルブル</span>|<a href="/darts/rank/shops/ca9abd6470d5e4550d9b047a20a7ba1e.html">オムライス&ダーツカフェ primary cafe</a> <a href="https://search.dartslive.com/jp/shop/ca9abd6470d5e4550d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/愛知県/清須市">愛知県清須市</a>|
+|5|545|<span class="rank-name-dl">かばでぃ</span>|<a href="/darts/rank/shops/ca9abd6470d5e4550d9b047a20a7ba1e.html">オムライス&ダーツカフェ primary cafe</a> <a href="https://search.dartslive.com/jp/shop/ca9abd6470d5e4550d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/愛知県/清須市">愛知県清須市</a>|
+|6|518|<span class="rank-name-dl">☆まさかず屋☆</span>|<a href="/darts/rank/shops/ca9abd6470d5e4550d9b047a20a7ba1e.html">オムライス&ダーツカフェ primary cafe</a> <a href="https://search.dartslive.com/jp/shop/ca9abd6470d5e4550d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/愛知県/清須市">愛知県清須市</a>|
+|7|505|<span class="rank-name-dl">後藤学</span>|<a href="/darts/rank/shops/ca9abd6470d5e4550d9b047a20a7ba1e.html">オムライス&ダーツカフェ primary cafe</a> <a href="https://search.dartslive.com/jp/shop/ca9abd6470d5e4550d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/愛知県/清須市">愛知県清須市</a>|
+|8|472|<span class="rank-name-dl">Rua</span>|<a href="/darts/rank/shops/ca9abd6470d5e4550d9b047a20a7ba1e.html">オムライス&ダーツカフェ primary cafe</a> <a href="https://search.dartslive.com/jp/shop/ca9abd6470d5e4550d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/愛知県/清須市">愛知県清須市</a>|
+|9|449|<span class="rank-name-dl">NO NAME 2812</span>|<a href="/darts/rank/shops/ca9abd6470d5e4550d9b047a20a7ba1e.html">オムライス&ダーツカフェ primary cafe</a> <a href="https://search.dartslive.com/jp/shop/ca9abd6470d5e4550d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/愛知県/清須市">愛知県清須市</a>|
+|10|424|<span class="rank-name-dl">大ボール</span>|<a href="/darts/rank/shops/ca9abd6470d5e4550d9b047a20a7ba1e.html">オムライス&ダーツカフェ primary cafe</a> <a href="https://search.dartslive.com/jp/shop/ca9abd6470d5e4550d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/愛知県/清須市">愛知県清須市</a>|
+|11|398|<span class="rank-name-dl">ふぁんふぁん</span>|<a href="/darts/rank/shops/ca9abd6470d5e4550d9b047a20a7ba1e.html">オムライス&ダーツカフェ primary cafe</a> <a href="https://search.dartslive.com/jp/shop/ca9abd6470d5e4550d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/愛知県/清須市">愛知県清須市</a>|
+|12|370|<span class="rank-name-dl">SAWADA-E</span>|<a href="/darts/rank/shops/ca9abd6470d5e4550d9b047a20a7ba1e.html">オムライス&ダーツカフェ primary cafe</a> <a href="https://search.dartslive.com/jp/shop/ca9abd6470d5e4550d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/愛知県/清須市">愛知県清須市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -44,18 +44,18 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|747|<span class="rank-name-dl">けい@primary</span>|<a href="https://search.dartslive.com/jp/shop/ca9abd6470d5e4550d9b047a20a7ba1e">オムライス&ダーツカフェ primary cafe</a>|<a href="/darts/rank/愛知県/清須市">愛知県清須市</a>|
-|2|670|<span class="rank-name-dl">けんた</span>|<a href="https://search.dartslive.com/jp/shop/ca9abd6470d5e4550d9b047a20a7ba1e">オムライス&ダーツカフェ primary cafe</a>|<a href="/darts/rank/愛知県/清須市">愛知県清須市</a>|
-|3|621|<span class="rank-name-dl">GO★TON</span>|<a href="https://search.dartslive.com/jp/shop/ca9abd6470d5e4550d9b047a20a7ba1e">オムライス&ダーツカフェ primary cafe</a>|<a href="/darts/rank/愛知県/清須市">愛知県清須市</a>|
-|4|593|<span class="rank-name-dl">ブルブルブル</span>|<a href="https://search.dartslive.com/jp/shop/ca9abd6470d5e4550d9b047a20a7ba1e">オムライス&ダーツカフェ primary cafe</a>|<a href="/darts/rank/愛知県/清須市">愛知県清須市</a>|
-|5|545|<span class="rank-name-dl">かばでぃ</span>|<a href="https://search.dartslive.com/jp/shop/ca9abd6470d5e4550d9b047a20a7ba1e">オムライス&ダーツカフェ primary cafe</a>|<a href="/darts/rank/愛知県/清須市">愛知県清須市</a>|
-|6|518|<span class="rank-name-dl">☆まさかず屋☆</span>|<a href="https://search.dartslive.com/jp/shop/ca9abd6470d5e4550d9b047a20a7ba1e">オムライス&ダーツカフェ primary cafe</a>|<a href="/darts/rank/愛知県/清須市">愛知県清須市</a>|
-|7|505|<span class="rank-name-dl">後藤学</span>|<a href="https://search.dartslive.com/jp/shop/ca9abd6470d5e4550d9b047a20a7ba1e">オムライス&ダーツカフェ primary cafe</a>|<a href="/darts/rank/愛知県/清須市">愛知県清須市</a>|
-|8|472|<span class="rank-name-dl">Rua</span>|<a href="https://search.dartslive.com/jp/shop/ca9abd6470d5e4550d9b047a20a7ba1e">オムライス&ダーツカフェ primary cafe</a>|<a href="/darts/rank/愛知県/清須市">愛知県清須市</a>|
-|9|449|<span class="rank-name-dl">NO NAME 2812</span>|<a href="https://search.dartslive.com/jp/shop/ca9abd6470d5e4550d9b047a20a7ba1e">オムライス&ダーツカフェ primary cafe</a>|<a href="/darts/rank/愛知県/清須市">愛知県清須市</a>|
-|10|424|<span class="rank-name-dl">大ボール</span>|<a href="https://search.dartslive.com/jp/shop/ca9abd6470d5e4550d9b047a20a7ba1e">オムライス&ダーツカフェ primary cafe</a>|<a href="/darts/rank/愛知県/清須市">愛知県清須市</a>|
-|11|398|<span class="rank-name-dl">ふぁんふぁん</span>|<a href="https://search.dartslive.com/jp/shop/ca9abd6470d5e4550d9b047a20a7ba1e">オムライス&ダーツカフェ primary cafe</a>|<a href="/darts/rank/愛知県/清須市">愛知県清須市</a>|
-|12|370|<span class="rank-name-dl">SAWADA-E</span>|<a href="https://search.dartslive.com/jp/shop/ca9abd6470d5e4550d9b047a20a7ba1e">オムライス&ダーツカフェ primary cafe</a>|<a href="/darts/rank/愛知県/清須市">愛知県清須市</a>|
+|1|747|<span class="rank-name-dl">けい@primary</span>|<a href="/darts/rank/shops/ca9abd6470d5e4550d9b047a20a7ba1e.html">オムライス&ダーツカフェ primary cafe</a> <a href="https://search.dartslive.com/jp/shop/ca9abd6470d5e4550d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/愛知県/清須市">愛知県清須市</a>|
+|2|670|<span class="rank-name-dl">けんた</span>|<a href="/darts/rank/shops/ca9abd6470d5e4550d9b047a20a7ba1e.html">オムライス&ダーツカフェ primary cafe</a> <a href="https://search.dartslive.com/jp/shop/ca9abd6470d5e4550d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/愛知県/清須市">愛知県清須市</a>|
+|3|621|<span class="rank-name-dl">GO★TON</span>|<a href="/darts/rank/shops/ca9abd6470d5e4550d9b047a20a7ba1e.html">オムライス&ダーツカフェ primary cafe</a> <a href="https://search.dartslive.com/jp/shop/ca9abd6470d5e4550d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/愛知県/清須市">愛知県清須市</a>|
+|4|593|<span class="rank-name-dl">ブルブルブル</span>|<a href="/darts/rank/shops/ca9abd6470d5e4550d9b047a20a7ba1e.html">オムライス&ダーツカフェ primary cafe</a> <a href="https://search.dartslive.com/jp/shop/ca9abd6470d5e4550d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/愛知県/清須市">愛知県清須市</a>|
+|5|545|<span class="rank-name-dl">かばでぃ</span>|<a href="/darts/rank/shops/ca9abd6470d5e4550d9b047a20a7ba1e.html">オムライス&ダーツカフェ primary cafe</a> <a href="https://search.dartslive.com/jp/shop/ca9abd6470d5e4550d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/愛知県/清須市">愛知県清須市</a>|
+|6|518|<span class="rank-name-dl">☆まさかず屋☆</span>|<a href="/darts/rank/shops/ca9abd6470d5e4550d9b047a20a7ba1e.html">オムライス&ダーツカフェ primary cafe</a> <a href="https://search.dartslive.com/jp/shop/ca9abd6470d5e4550d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/愛知県/清須市">愛知県清須市</a>|
+|7|505|<span class="rank-name-dl">後藤学</span>|<a href="/darts/rank/shops/ca9abd6470d5e4550d9b047a20a7ba1e.html">オムライス&ダーツカフェ primary cafe</a> <a href="https://search.dartslive.com/jp/shop/ca9abd6470d5e4550d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/愛知県/清須市">愛知県清須市</a>|
+|8|472|<span class="rank-name-dl">Rua</span>|<a href="/darts/rank/shops/ca9abd6470d5e4550d9b047a20a7ba1e.html">オムライス&ダーツカフェ primary cafe</a> <a href="https://search.dartslive.com/jp/shop/ca9abd6470d5e4550d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/愛知県/清須市">愛知県清須市</a>|
+|9|449|<span class="rank-name-dl">NO NAME 2812</span>|<a href="/darts/rank/shops/ca9abd6470d5e4550d9b047a20a7ba1e.html">オムライス&ダーツカフェ primary cafe</a> <a href="https://search.dartslive.com/jp/shop/ca9abd6470d5e4550d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/愛知県/清須市">愛知県清須市</a>|
+|10|424|<span class="rank-name-dl">大ボール</span>|<a href="/darts/rank/shops/ca9abd6470d5e4550d9b047a20a7ba1e.html">オムライス&ダーツカフェ primary cafe</a> <a href="https://search.dartslive.com/jp/shop/ca9abd6470d5e4550d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/愛知県/清須市">愛知県清須市</a>|
+|11|398|<span class="rank-name-dl">ふぁんふぁん</span>|<a href="/darts/rank/shops/ca9abd6470d5e4550d9b047a20a7ba1e.html">オムライス&ダーツカフェ primary cafe</a> <a href="https://search.dartslive.com/jp/shop/ca9abd6470d5e4550d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/愛知県/清須市">愛知県清須市</a>|
+|12|370|<span class="rank-name-dl">SAWADA-E</span>|<a href="/darts/rank/shops/ca9abd6470d5e4550d9b047a20a7ba1e.html">オムライス&ダーツカフェ primary cafe</a> <a href="https://search.dartslive.com/jp/shop/ca9abd6470d5e4550d9b047a20a7ba1e">[↗]</a>|<a href="/darts/rank/愛知県/清須市">愛知県清須市</a>|
 
 
 #### PHOENIXDARTS TOP 100
@@ -65,7 +65,7 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-||0|<span class="rank-name-dl"> </span>|<a href=""></a>|<a href="/darts/rank//"></a>|
+||0|<span class="rank-name-dl"> </span>|<a href="/darts/rank/shops/.html"></a> <a href="">[↗]</a>|<a href="/darts/rank//"></a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

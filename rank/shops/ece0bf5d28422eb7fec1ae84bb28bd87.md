@@ -1,0 +1,118 @@
+---
+title: COUNTUP AREA RANKING | 山口県 | 山口市 | D-GARAGE 山口湯田店 (カラオケ湯CLUB)
+---
+## COUNTUP AREA RANKING | 山口県 | 山口市 | D-GARAGE 山口湯田店 (カラオケ湯CLUB)
+
+[TOP](/darts/rank/) > [山口県](/darts/rank/山口県/) > [山口市](/darts/rank/山口県/山口市/) > D-GARAGE 山口湯田店 (カラオケ湯CLUB)
+
+___
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="COUNTUP AREA RANKING | 山口県山口市D-GARAGE 山口湯田店 (カラオケ湯CLUB)" class="twitter-share-button" data-hashtags="DARTSLIVE,PHOENIXDARTS,darts,ダーツ" data-show-count="false">Tweet</a>
+
+* [ランキング](#カウントアップランキング)
+    * [TOP 100](#top-100)
+    * [DARTSLIVE TOP 100](#dartslive-top-100)
+    * [PHOENIXDARTS TOP 100](#phoenixdarts-top-100)
+
+### 市区町村
+
+<ul>
+
+</ul>
+
+### カウントアップランキング
+
+#### TOP 100
+
+
+
+{:.table-ranking}
+|#|スコア|名前|店名|所在地|
+|---|---|---|---|---|
+|1|1027|<span class="rank-name-dl">D-ガレ　ダンボ</span>|<a href="/darts/rank/shops/ece0bf5d28422eb7fec1ae84bb28bd87.html">D-GARAGE 山口湯田店 (カラオケ湯CLUB)</a> <a href="https://search.dartslive.com/jp/shop/ece0bf5d28422eb7fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/山口県/山口市">山口県山口市</a>|
+|2|1005|<span class="rank-name-dl">ユーイ</span>|<a href="/darts/rank/shops/ece0bf5d28422eb7fec1ae84bb28bd87.html">D-GARAGE 山口湯田店 (カラオケ湯CLUB)</a> <a href="https://search.dartslive.com/jp/shop/ece0bf5d28422eb7fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/山口県/山口市">山口県山口市</a>|
+|3|1004|<span class="rank-name-dl">ぐっち</span>|<a href="/darts/rank/shops/ece0bf5d28422eb7fec1ae84bb28bd87.html">D-GARAGE 山口湯田店 (カラオケ湯CLUB)</a> <a href="https://search.dartslive.com/jp/shop/ece0bf5d28422eb7fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/山口県/山口市">山口県山口市</a>|
+|4|996|<span class="rank-name-dl">はとぽっぽ</span>|<a href="/darts/rank/shops/ece0bf5d28422eb7fec1ae84bb28bd87.html">D-GARAGE 山口湯田店 (カラオケ湯CLUB)</a> <a href="https://search.dartslive.com/jp/shop/ece0bf5d28422eb7fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/山口県/山口市">山口県山口市</a>|
+|5|968|<span class="rank-name-dl">シュン</span>|<a href="/darts/rank/shops/ece0bf5d28422eb7fec1ae84bb28bd87.html">D-GARAGE 山口湯田店 (カラオケ湯CLUB)</a> <a href="https://search.dartslive.com/jp/shop/ece0bf5d28422eb7fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/山口県/山口市">山口県山口市</a>|
+|6|958|<span class="rank-name-dl">masato</span>|<a href="/darts/rank/shops/ece0bf5d28422eb7fec1ae84bb28bd87.html">D-GARAGE 山口湯田店 (カラオケ湯CLUB)</a> <a href="https://search.dartslive.com/jp/shop/ece0bf5d28422eb7fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/山口県/山口市">山口県山口市</a>|
+|7|957|<span class="rank-name-dl">NiKi.</span>|<a href="/darts/rank/shops/ece0bf5d28422eb7fec1ae84bb28bd87.html">D-GARAGE 山口湯田店 (カラオケ湯CLUB)</a> <a href="https://search.dartslive.com/jp/shop/ece0bf5d28422eb7fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/山口県/山口市">山口県山口市</a>|
+|8|947|<span class="rank-name-dl">ユヤ丸</span>|<a href="/darts/rank/shops/ece0bf5d28422eb7fec1ae84bb28bd87.html">D-GARAGE 山口湯田店 (カラオケ湯CLUB)</a> <a href="https://search.dartslive.com/jp/shop/ece0bf5d28422eb7fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/山口県/山口市">山口県山口市</a>|
+|9|942|<span class="rank-name-dl">K</span>|<a href="/darts/rank/shops/ece0bf5d28422eb7fec1ae84bb28bd87.html">D-GARAGE 山口湯田店 (カラオケ湯CLUB)</a> <a href="https://search.dartslive.com/jp/shop/ece0bf5d28422eb7fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/山口県/山口市">山口県山口市</a>|
+|10|938|<span class="rank-name-dl">本田 諒</span>|<a href="/darts/rank/shops/ece0bf5d28422eb7fec1ae84bb28bd87.html">D-GARAGE 山口湯田店 (カラオケ湯CLUB)</a> <a href="https://search.dartslive.com/jp/shop/ece0bf5d28422eb7fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/山口県/山口市">山口県山口市</a>|
+|11|918|<span class="rank-name-dl">じぃじ®おやじ組</span>|<a href="/darts/rank/shops/ece0bf5d28422eb7fec1ae84bb28bd87.html">D-GARAGE 山口湯田店 (カラオケ湯CLUB)</a> <a href="https://search.dartslive.com/jp/shop/ece0bf5d28422eb7fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/山口県/山口市">山口県山口市</a>|
+|12|909|<span class="rank-name-dl">佐藤 直樹</span>|<a href="/darts/rank/shops/ece0bf5d28422eb7fec1ae84bb28bd87.html">D-GARAGE 山口湯田店 (カラオケ湯CLUB)</a> <a href="https://search.dartslive.com/jp/shop/ece0bf5d28422eb7fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/山口県/山口市">山口県山口市</a>|
+|13|901|<span class="rank-name-dl">(だ・ん・ぼ)</span>|<a href="/darts/rank/shops/ece0bf5d28422eb7fec1ae84bb28bd87.html">D-GARAGE 山口湯田店 (カラオケ湯CLUB)</a> <a href="https://search.dartslive.com/jp/shop/ece0bf5d28422eb7fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/山口県/山口市">山口県山口市</a>|
+|14|891|<span class="rank-name-dl">太組浩和</span>|<a href="/darts/rank/shops/ece0bf5d28422eb7fec1ae84bb28bd87.html">D-GARAGE 山口湯田店 (カラオケ湯CLUB)</a> <a href="https://search.dartslive.com/jp/shop/ece0bf5d28422eb7fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/山口県/山口市">山口県山口市</a>|
+|15|888|<span class="rank-name-dl">海卍人(德海乃島)</span>|<a href="/darts/rank/shops/ece0bf5d28422eb7fec1ae84bb28bd87.html">D-GARAGE 山口湯田店 (カラオケ湯CLUB)</a> <a href="https://search.dartslive.com/jp/shop/ece0bf5d28422eb7fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/山口県/山口市">山口県山口市</a>|
+|16|878|<span class="rank-name-dl">えのきだけ</span>|<a href="/darts/rank/shops/ece0bf5d28422eb7fec1ae84bb28bd87.html">D-GARAGE 山口湯田店 (カラオケ湯CLUB)</a> <a href="https://search.dartslive.com/jp/shop/ece0bf5d28422eb7fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/山口県/山口市">山口県山口市</a>|
+|17|845|<span class="rank-name-dl">中谷 祐里</span>|<a href="/darts/rank/shops/ece0bf5d28422eb7fec1ae84bb28bd87.html">D-GARAGE 山口湯田店 (カラオケ湯CLUB)</a> <a href="https://search.dartslive.com/jp/shop/ece0bf5d28422eb7fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/山口県/山口市">山口県山口市</a>|
+|18|758|<span class="rank-name-dl">なかや ゆり</span>|<a href="/darts/rank/shops/ece0bf5d28422eb7fec1ae84bb28bd87.html">D-GARAGE 山口湯田店 (カラオケ湯CLUB)</a> <a href="https://search.dartslive.com/jp/shop/ece0bf5d28422eb7fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/山口県/山口市">山口県山口市</a>|
+|19|737|<span class="rank-name-dl">まるちょう</span>|<a href="/darts/rank/shops/ece0bf5d28422eb7fec1ae84bb28bd87.html">D-GARAGE 山口湯田店 (カラオケ湯CLUB)</a> <a href="https://search.dartslive.com/jp/shop/ece0bf5d28422eb7fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/山口県/山口市">山口県山口市</a>|
+|20|651|<span class="rank-name-dl">あんちゅん。</span>|<a href="/darts/rank/shops/ece0bf5d28422eb7fec1ae84bb28bd87.html">D-GARAGE 山口湯田店 (カラオケ湯CLUB)</a> <a href="https://search.dartslive.com/jp/shop/ece0bf5d28422eb7fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/山口県/山口市">山口県山口市</a>|
+|21|581|<span class="rank-name-dl">ｺｺﾁ</span>|<a href="/darts/rank/shops/ece0bf5d28422eb7fec1ae84bb28bd87.html">D-GARAGE 山口湯田店 (カラオケ湯CLUB)</a> <a href="https://search.dartslive.com/jp/shop/ece0bf5d28422eb7fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/山口県/山口市">山口県山口市</a>|
+|22|541|<span class="rank-name-dl">chäy</span>|<a href="/darts/rank/shops/ece0bf5d28422eb7fec1ae84bb28bd87.html">D-GARAGE 山口湯田店 (カラオケ湯CLUB)</a> <a href="https://search.dartslive.com/jp/shop/ece0bf5d28422eb7fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/山口県/山口市">山口県山口市</a>|
+|23|459|<span class="rank-name-dl">ゆめかっち</span>|<a href="/darts/rank/shops/ece0bf5d28422eb7fec1ae84bb28bd87.html">D-GARAGE 山口湯田店 (カラオケ湯CLUB)</a> <a href="https://search.dartslive.com/jp/shop/ece0bf5d28422eb7fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/山口県/山口市">山口県山口市</a>|
+|24|375|<span class="rank-name-dl">ゆり</span>|<a href="/darts/rank/shops/ece0bf5d28422eb7fec1ae84bb28bd87.html">D-GARAGE 山口湯田店 (カラオケ湯CLUB)</a> <a href="https://search.dartslive.com/jp/shop/ece0bf5d28422eb7fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/山口県/山口市">山口県山口市</a>|
+|25|322|<span class="rank-name-dl">Yukitan</span>|<a href="/darts/rank/shops/ece0bf5d28422eb7fec1ae84bb28bd87.html">D-GARAGE 山口湯田店 (カラオケ湯CLUB)</a> <a href="https://search.dartslive.com/jp/shop/ece0bf5d28422eb7fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/山口県/山口市">山口県山口市</a>|
+
+
+#### DARTSLIVE TOP 100
+
+
+
+{:.table-ranking}
+|#|スコア|名前|店名|所在地|
+|---|---|---|---|---|
+|1|1027|<span class="rank-name-dl">D-ガレ　ダンボ</span>|<a href="/darts/rank/shops/ece0bf5d28422eb7fec1ae84bb28bd87.html">D-GARAGE 山口湯田店 (カラオケ湯CLUB)</a> <a href="https://search.dartslive.com/jp/shop/ece0bf5d28422eb7fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/山口県/山口市">山口県山口市</a>|
+|2|1005|<span class="rank-name-dl">ユーイ</span>|<a href="/darts/rank/shops/ece0bf5d28422eb7fec1ae84bb28bd87.html">D-GARAGE 山口湯田店 (カラオケ湯CLUB)</a> <a href="https://search.dartslive.com/jp/shop/ece0bf5d28422eb7fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/山口県/山口市">山口県山口市</a>|
+|3|1004|<span class="rank-name-dl">ぐっち</span>|<a href="/darts/rank/shops/ece0bf5d28422eb7fec1ae84bb28bd87.html">D-GARAGE 山口湯田店 (カラオケ湯CLUB)</a> <a href="https://search.dartslive.com/jp/shop/ece0bf5d28422eb7fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/山口県/山口市">山口県山口市</a>|
+|4|996|<span class="rank-name-dl">はとぽっぽ</span>|<a href="/darts/rank/shops/ece0bf5d28422eb7fec1ae84bb28bd87.html">D-GARAGE 山口湯田店 (カラオケ湯CLUB)</a> <a href="https://search.dartslive.com/jp/shop/ece0bf5d28422eb7fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/山口県/山口市">山口県山口市</a>|
+|5|968|<span class="rank-name-dl">シュン</span>|<a href="/darts/rank/shops/ece0bf5d28422eb7fec1ae84bb28bd87.html">D-GARAGE 山口湯田店 (カラオケ湯CLUB)</a> <a href="https://search.dartslive.com/jp/shop/ece0bf5d28422eb7fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/山口県/山口市">山口県山口市</a>|
+|6|958|<span class="rank-name-dl">masato</span>|<a href="/darts/rank/shops/ece0bf5d28422eb7fec1ae84bb28bd87.html">D-GARAGE 山口湯田店 (カラオケ湯CLUB)</a> <a href="https://search.dartslive.com/jp/shop/ece0bf5d28422eb7fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/山口県/山口市">山口県山口市</a>|
+|7|957|<span class="rank-name-dl">NiKi.</span>|<a href="/darts/rank/shops/ece0bf5d28422eb7fec1ae84bb28bd87.html">D-GARAGE 山口湯田店 (カラオケ湯CLUB)</a> <a href="https://search.dartslive.com/jp/shop/ece0bf5d28422eb7fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/山口県/山口市">山口県山口市</a>|
+|8|947|<span class="rank-name-dl">ユヤ丸</span>|<a href="/darts/rank/shops/ece0bf5d28422eb7fec1ae84bb28bd87.html">D-GARAGE 山口湯田店 (カラオケ湯CLUB)</a> <a href="https://search.dartslive.com/jp/shop/ece0bf5d28422eb7fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/山口県/山口市">山口県山口市</a>|
+|9|942|<span class="rank-name-dl">K</span>|<a href="/darts/rank/shops/ece0bf5d28422eb7fec1ae84bb28bd87.html">D-GARAGE 山口湯田店 (カラオケ湯CLUB)</a> <a href="https://search.dartslive.com/jp/shop/ece0bf5d28422eb7fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/山口県/山口市">山口県山口市</a>|
+|10|938|<span class="rank-name-dl">本田 諒</span>|<a href="/darts/rank/shops/ece0bf5d28422eb7fec1ae84bb28bd87.html">D-GARAGE 山口湯田店 (カラオケ湯CLUB)</a> <a href="https://search.dartslive.com/jp/shop/ece0bf5d28422eb7fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/山口県/山口市">山口県山口市</a>|
+|11|918|<span class="rank-name-dl">じぃじ®おやじ組</span>|<a href="/darts/rank/shops/ece0bf5d28422eb7fec1ae84bb28bd87.html">D-GARAGE 山口湯田店 (カラオケ湯CLUB)</a> <a href="https://search.dartslive.com/jp/shop/ece0bf5d28422eb7fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/山口県/山口市">山口県山口市</a>|
+|12|909|<span class="rank-name-dl">佐藤 直樹</span>|<a href="/darts/rank/shops/ece0bf5d28422eb7fec1ae84bb28bd87.html">D-GARAGE 山口湯田店 (カラオケ湯CLUB)</a> <a href="https://search.dartslive.com/jp/shop/ece0bf5d28422eb7fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/山口県/山口市">山口県山口市</a>|
+|13|901|<span class="rank-name-dl">(だ・ん・ぼ)</span>|<a href="/darts/rank/shops/ece0bf5d28422eb7fec1ae84bb28bd87.html">D-GARAGE 山口湯田店 (カラオケ湯CLUB)</a> <a href="https://search.dartslive.com/jp/shop/ece0bf5d28422eb7fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/山口県/山口市">山口県山口市</a>|
+|14|891|<span class="rank-name-dl">太組浩和</span>|<a href="/darts/rank/shops/ece0bf5d28422eb7fec1ae84bb28bd87.html">D-GARAGE 山口湯田店 (カラオケ湯CLUB)</a> <a href="https://search.dartslive.com/jp/shop/ece0bf5d28422eb7fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/山口県/山口市">山口県山口市</a>|
+|15|888|<span class="rank-name-dl">海卍人(德海乃島)</span>|<a href="/darts/rank/shops/ece0bf5d28422eb7fec1ae84bb28bd87.html">D-GARAGE 山口湯田店 (カラオケ湯CLUB)</a> <a href="https://search.dartslive.com/jp/shop/ece0bf5d28422eb7fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/山口県/山口市">山口県山口市</a>|
+|16|878|<span class="rank-name-dl">えのきだけ</span>|<a href="/darts/rank/shops/ece0bf5d28422eb7fec1ae84bb28bd87.html">D-GARAGE 山口湯田店 (カラオケ湯CLUB)</a> <a href="https://search.dartslive.com/jp/shop/ece0bf5d28422eb7fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/山口県/山口市">山口県山口市</a>|
+|17|845|<span class="rank-name-dl">中谷 祐里</span>|<a href="/darts/rank/shops/ece0bf5d28422eb7fec1ae84bb28bd87.html">D-GARAGE 山口湯田店 (カラオケ湯CLUB)</a> <a href="https://search.dartslive.com/jp/shop/ece0bf5d28422eb7fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/山口県/山口市">山口県山口市</a>|
+|18|758|<span class="rank-name-dl">なかや ゆり</span>|<a href="/darts/rank/shops/ece0bf5d28422eb7fec1ae84bb28bd87.html">D-GARAGE 山口湯田店 (カラオケ湯CLUB)</a> <a href="https://search.dartslive.com/jp/shop/ece0bf5d28422eb7fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/山口県/山口市">山口県山口市</a>|
+|19|737|<span class="rank-name-dl">まるちょう</span>|<a href="/darts/rank/shops/ece0bf5d28422eb7fec1ae84bb28bd87.html">D-GARAGE 山口湯田店 (カラオケ湯CLUB)</a> <a href="https://search.dartslive.com/jp/shop/ece0bf5d28422eb7fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/山口県/山口市">山口県山口市</a>|
+|20|651|<span class="rank-name-dl">あんちゅん。</span>|<a href="/darts/rank/shops/ece0bf5d28422eb7fec1ae84bb28bd87.html">D-GARAGE 山口湯田店 (カラオケ湯CLUB)</a> <a href="https://search.dartslive.com/jp/shop/ece0bf5d28422eb7fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/山口県/山口市">山口県山口市</a>|
+|21|581|<span class="rank-name-dl">ｺｺﾁ</span>|<a href="/darts/rank/shops/ece0bf5d28422eb7fec1ae84bb28bd87.html">D-GARAGE 山口湯田店 (カラオケ湯CLUB)</a> <a href="https://search.dartslive.com/jp/shop/ece0bf5d28422eb7fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/山口県/山口市">山口県山口市</a>|
+|22|541|<span class="rank-name-dl">chäy</span>|<a href="/darts/rank/shops/ece0bf5d28422eb7fec1ae84bb28bd87.html">D-GARAGE 山口湯田店 (カラオケ湯CLUB)</a> <a href="https://search.dartslive.com/jp/shop/ece0bf5d28422eb7fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/山口県/山口市">山口県山口市</a>|
+|23|459|<span class="rank-name-dl">ゆめかっち</span>|<a href="/darts/rank/shops/ece0bf5d28422eb7fec1ae84bb28bd87.html">D-GARAGE 山口湯田店 (カラオケ湯CLUB)</a> <a href="https://search.dartslive.com/jp/shop/ece0bf5d28422eb7fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/山口県/山口市">山口県山口市</a>|
+|24|375|<span class="rank-name-dl">ゆり</span>|<a href="/darts/rank/shops/ece0bf5d28422eb7fec1ae84bb28bd87.html">D-GARAGE 山口湯田店 (カラオケ湯CLUB)</a> <a href="https://search.dartslive.com/jp/shop/ece0bf5d28422eb7fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/山口県/山口市">山口県山口市</a>|
+|25|322|<span class="rank-name-dl">Yukitan</span>|<a href="/darts/rank/shops/ece0bf5d28422eb7fec1ae84bb28bd87.html">D-GARAGE 山口湯田店 (カラオケ湯CLUB)</a> <a href="https://search.dartslive.com/jp/shop/ece0bf5d28422eb7fec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/山口県/山口市">山口県山口市</a>|
+
+
+#### PHOENIXDARTS TOP 100
+
+
+
+{:.table-ranking}
+|#|スコア|名前|店名|所在地|
+|---|---|---|---|---|
+||0|<span class="rank-name-dl"> </span>|<a href="/darts/rank/shops/.html"></a> <a href="">[↗]</a>|<a href="/darts/rank//"></a>|
+
+
+<div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
+    last update : <span style="font-weight: italic" id="foot_last_modified"></span><br />
+    DARTSLIVE は 株式会社ダーツライブ社 の登録商標です<br />
+    PHOENIXDARTS は フェニックスダーツジャパン株式会社 の登録商標です<br />
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/js/jquery.tablesorter.min.js" integrity="sha512-qzgd5cYSZcosqpzpn7zF2ZId8f/8CHmFKZ8j7mU4OUXTNRd5g+ZHBPsgKEwoqxCtdQvExE5LprwwPAgoicguNg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/css/theme.default.min.css" integrity="sha512-wghhOJkjQX0Lh3NSWvNKeZ0ZpNn+SPVXX1Qyc9OCaogADktxrBiBdKGDoqVUOyhStvMBmJQ8ZdMHiR3wuEq8+w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<script>
+$(function() {
+    $(".table-ranking").tablesorter({sortList:[[0, 0]]});
+    $("#foot_last_modified").text(formatDate(new Date(document.lastModified), 'yyyy-MM-dd HH:mm:ss'));
+});
+</script>
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

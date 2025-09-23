@@ -1,0 +1,216 @@
+---
+title: COUNTUP AREA RANKING | 愛知県 | 名古屋市 | カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店
+---
+## COUNTUP AREA RANKING | 愛知県 | 名古屋市 | カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店
+
+[TOP](/darts/rank/) > [愛知県](/darts/rank/愛知県/) > [名古屋市](/darts/rank/愛知県/名古屋市/) > カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店
+
+___
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="COUNTUP AREA RANKING | 愛知県名古屋市カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店" class="twitter-share-button" data-hashtags="DARTSLIVE,PHOENIXDARTS,darts,ダーツ" data-show-count="false">Tweet</a>
+
+* [ランキング](#カウントアップランキング)
+    * [TOP 100](#top-100)
+    * [DARTSLIVE TOP 100](#dartslive-top-100)
+    * [PHOENIXDARTS TOP 100](#phoenixdarts-top-100)
+
+### 市区町村
+
+<ul>
+
+</ul>
+
+### カウントアップランキング
+
+#### TOP 100
+
+
+
+{:.table-ranking}
+|#|スコア|名前|店名|所在地|
+|---|---|---|---|---|
+|1|1086|<span class="rank-name-dl">中村大善</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|2|1063|<span class="rank-name-dl">一般中学生Y</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|3|900|<span class="rank-name-dl">ヨネ【REVEL】</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|4|891|<span class="rank-name-dl">ウエシン℃</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|5|888|<span class="rank-name-dl">シュタイン</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|6|874|<span class="rank-name-dl">しゅたいん</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|7|869|<span class="rank-name-dl">こまこ</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|7|869|<span class="rank-name-dl">ウエシン:</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|9|840|<span class="rank-name-dl">NO NAME 0391</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|10|834|<span class="rank-name-dl">ウエシン！</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|11|802|<span class="rank-name-dl">ウエシン</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|12|800|<span class="rank-name-dl">真摯に</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|13|786|<span class="rank-name-dl">よつじ</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|14|778|<span class="rank-name-dl">SHOZZY</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|15|776|<span class="rank-name-dl">Tom</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|16|768|<span class="rank-name-dl">永遠〆誓</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|17|766|<span class="rank-name-dl">ADAP</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|18|755|<span class="rank-name-dl">NO NAME ENDO</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|19|753|<span class="rank-name-dl">UMA</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|20|742|<span class="rank-name-dl">y.k0990k.y</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|21|730|<span class="rank-name-dl">M141</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|22|714|<span class="rank-name-dl">S汰</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|23|692|<span class="rank-name-dl">poki</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|24|676|<span class="rank-name-dl">こんちゃん27</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|25|658|<span class="rank-name-dl">oni</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|26|654|<span class="rank-name-dl">芽ネギ</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|27|650|<span class="rank-name-dl">つっちー@蜂王</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|28|641|<span class="rank-name-dl">ちょな@NUD</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|29|637|<span class="rank-name-dl">Micheal</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|30|632|<span class="rank-name-dl">shin</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|31|631|<span class="rank-name-dl">Ai</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|32|630|<span class="rank-name-dl">いでもです</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|33|627|<span class="rank-name-dl">シューベルト</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|34|625|<span class="rank-name-dl">こ</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|34|625|<span class="rank-name-dl">ﾀﾞｰﾂｵﾔｽﾐﾆｷ</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|36|618|<span class="rank-name-dl">たーなー</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|37|609|<span class="rank-name-dl">いぶのすけ</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|37|609|<span class="rank-name-dl">池ちゃん</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|39|608|<span class="rank-name-dl">かずよし</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|40|605|<span class="rank-name-dl">タカハル@SKB</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|41|601|<span class="rank-name-dl">cocco</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|42|592|<span class="rank-name-dl">三宅</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|43|591|<span class="rank-name-dl">コードキー</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|44|571|<span class="rank-name-dl">あんちゃん</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|45|564|<span class="rank-name-dl">ナユ@蜂王</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|46|554|<span class="rank-name-dl">シモタク</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|47|552|<span class="rank-name-dl">サウスポー山谷</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|48|551|<span class="rank-name-dl">pito</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|49|541|<span class="rank-name-dl">はーにゃ</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|50|529|<span class="rank-name-dl">さむてぃ</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|51|528|<span class="rank-name-dl">NO NAME 9550</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|52|522|<span class="rank-name-dl">momo</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|53|519|<span class="rank-name-dl">KI_0614</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|54|511|<span class="rank-name-dl">大丈夫</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|55|500|<span class="rank-name-dl">MAMEOooo</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|56|479|<span class="rank-name-dl">Garange Breee</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|57|474|<span class="rank-name-dl">あやチーズ</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|58|471|<span class="rank-name-dl">yuya</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|59|457|<span class="rank-name-dl">テラケン</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|60|454|<span class="rank-name-dl">ksk</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|61|449|<span class="rank-name-dl">とだあつし</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|62|447|<span class="rank-name-dl">ルーク</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|63|444|<span class="rank-name-dl">ぴたま</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|64|443|<span class="rank-name-dl">やさくん。</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|65|438|<span class="rank-name-dl">みみみ</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|66|437|<span class="rank-name-dl">千栞</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|67|398|<span class="rank-name-dl">そらち</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|68|364|<span class="rank-name-dl">もっぴー</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|69|338|<span class="rank-name-dl">ほぬん</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|70|312|<span class="rank-name-dl">ここ</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|71|304|<span class="rank-name-dl">はせちゃん</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|72|299|<span class="rank-name-dl">そのこ</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|73|268|<span class="rank-name-dl">AOI</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|74|234|<span class="rank-name-dl">まな</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+
+
+#### DARTSLIVE TOP 100
+
+
+
+{:.table-ranking}
+|#|スコア|名前|店名|所在地|
+|---|---|---|---|---|
+|1|1086|<span class="rank-name-dl">中村大善</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|2|1063|<span class="rank-name-dl">一般中学生Y</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|3|900|<span class="rank-name-dl">ヨネ【REVEL】</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|4|891|<span class="rank-name-dl">ウエシン℃</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|5|888|<span class="rank-name-dl">シュタイン</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|6|874|<span class="rank-name-dl">しゅたいん</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|7|869|<span class="rank-name-dl">こまこ</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|7|869|<span class="rank-name-dl">ウエシン:</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|9|840|<span class="rank-name-dl">NO NAME 0391</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|10|834|<span class="rank-name-dl">ウエシン！</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|11|802|<span class="rank-name-dl">ウエシン</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|12|800|<span class="rank-name-dl">真摯に</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|13|786|<span class="rank-name-dl">よつじ</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|14|778|<span class="rank-name-dl">SHOZZY</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|15|776|<span class="rank-name-dl">Tom</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|16|768|<span class="rank-name-dl">永遠〆誓</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|17|766|<span class="rank-name-dl">ADAP</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|18|755|<span class="rank-name-dl">NO NAME ENDO</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|19|753|<span class="rank-name-dl">UMA</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|20|742|<span class="rank-name-dl">y.k0990k.y</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|21|730|<span class="rank-name-dl">M141</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|22|714|<span class="rank-name-dl">S汰</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|23|692|<span class="rank-name-dl">poki</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|24|676|<span class="rank-name-dl">こんちゃん27</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|25|658|<span class="rank-name-dl">oni</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|26|654|<span class="rank-name-dl">芽ネギ</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|27|650|<span class="rank-name-dl">つっちー@蜂王</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|28|641|<span class="rank-name-dl">ちょな@NUD</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|29|637|<span class="rank-name-dl">Micheal</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|30|632|<span class="rank-name-dl">shin</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|31|631|<span class="rank-name-dl">Ai</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|32|630|<span class="rank-name-dl">いでもです</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|33|627|<span class="rank-name-dl">シューベルト</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|34|625|<span class="rank-name-dl">こ</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|34|625|<span class="rank-name-dl">ﾀﾞｰﾂｵﾔｽﾐﾆｷ</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|36|618|<span class="rank-name-dl">たーなー</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|37|609|<span class="rank-name-dl">いぶのすけ</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|37|609|<span class="rank-name-dl">池ちゃん</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|39|608|<span class="rank-name-dl">かずよし</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|40|605|<span class="rank-name-dl">タカハル@SKB</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|41|601|<span class="rank-name-dl">cocco</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|42|592|<span class="rank-name-dl">三宅</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|43|591|<span class="rank-name-dl">コードキー</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|44|571|<span class="rank-name-dl">あんちゃん</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|45|564|<span class="rank-name-dl">ナユ@蜂王</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|46|554|<span class="rank-name-dl">シモタク</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|47|552|<span class="rank-name-dl">サウスポー山谷</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|48|551|<span class="rank-name-dl">pito</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|49|541|<span class="rank-name-dl">はーにゃ</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|50|529|<span class="rank-name-dl">さむてぃ</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|51|528|<span class="rank-name-dl">NO NAME 9550</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|52|522|<span class="rank-name-dl">momo</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|53|519|<span class="rank-name-dl">KI_0614</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|54|511|<span class="rank-name-dl">大丈夫</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|55|500|<span class="rank-name-dl">MAMEOooo</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|56|479|<span class="rank-name-dl">Garange Breee</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|57|474|<span class="rank-name-dl">あやチーズ</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|58|471|<span class="rank-name-dl">yuya</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|59|457|<span class="rank-name-dl">テラケン</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|60|454|<span class="rank-name-dl">ksk</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|61|449|<span class="rank-name-dl">とだあつし</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|62|447|<span class="rank-name-dl">ルーク</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|63|444|<span class="rank-name-dl">ぴたま</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|64|443|<span class="rank-name-dl">やさくん。</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|65|438|<span class="rank-name-dl">みみみ</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|66|437|<span class="rank-name-dl">千栞</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|67|398|<span class="rank-name-dl">そらち</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|68|364|<span class="rank-name-dl">もっぴー</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|69|338|<span class="rank-name-dl">ほぬん</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|70|312|<span class="rank-name-dl">ここ</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|71|304|<span class="rank-name-dl">はせちゃん</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|72|299|<span class="rank-name-dl">そのこ</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|73|268|<span class="rank-name-dl">AOI</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+|74|234|<span class="rank-name-dl">まな</span>|<a href="/darts/rank/shops/bf90fee1a0caee0db21333aee1bd51e4.html">カラオケ ジョイジョイ 藤ヶ丘レインボーパーキング店</a> <a href="https://search.dartslive.com/jp/shop/bf90fee1a0caee0db21333aee1bd51e4">[↗]</a>|<a href="/darts/rank/愛知県/名古屋市">愛知県名古屋市</a>|
+
+
+#### PHOENIXDARTS TOP 100
+
+
+
+{:.table-ranking}
+|#|スコア|名前|店名|所在地|
+|---|---|---|---|---|
+||0|<span class="rank-name-dl"> </span>|<a href="/darts/rank/shops/.html"></a> <a href="">[↗]</a>|<a href="/darts/rank//"></a>|
+
+
+<div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
+    last update : <span style="font-weight: italic" id="foot_last_modified"></span><br />
+    DARTSLIVE は 株式会社ダーツライブ社 の登録商標です<br />
+    PHOENIXDARTS は フェニックスダーツジャパン株式会社 の登録商標です<br />
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/js/jquery.tablesorter.min.js" integrity="sha512-qzgd5cYSZcosqpzpn7zF2ZId8f/8CHmFKZ8j7mU4OUXTNRd5g+ZHBPsgKEwoqxCtdQvExE5LprwwPAgoicguNg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/css/theme.default.min.css" integrity="sha512-wghhOJkjQX0Lh3NSWvNKeZ0ZpNn+SPVXX1Qyc9OCaogADktxrBiBdKGDoqVUOyhStvMBmJQ8ZdMHiR3wuEq8+w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<script>
+$(function() {
+    $(".table-ranking").tablesorter({sortList:[[0, 0]]});
+    $("#foot_last_modified").text(formatDate(new Date(document.lastModified), 'yyyy-MM-dd HH:mm:ss'));
+});
+</script>
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

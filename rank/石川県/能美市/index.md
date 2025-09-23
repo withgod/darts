@@ -23,76 +23,76 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1103|<span class="rank-name-pd">-rura-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|2|1042|<span class="rank-name-pd">まるちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|3|964|<span class="rank-name-pd"><span class="pro-icon-pd"></span>丸山 知也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|4|936|<span class="rank-name-pd">まさかずさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|5|930|<span class="rank-name-pd">RUKA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|6|929|<span class="rank-name-pd">KZM777</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|7|928|<span class="rank-name-pd">みー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|8|920|<span class="rank-name-pd">dSk⭐︎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|9|916|<span class="rank-name-pd">MESUGORIRA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|9|916|<span class="rank-name-pd">【SYN】けん 金沢支部長</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|11|865|<span class="rank-name-pd">104</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|12|857|<span class="rank-name-pd">雑魚</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|13|839|<span class="rank-name-pd">ユウガナイザー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|14|836|<span class="rank-name-pd">室伏広治LOVE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|15|831|<span class="rank-name-pd">RURUNTO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|16|830|<span class="rank-name-pd">748!!☆隣のﾄﾘﾌﾟﾙ☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|17|816|<span class="rank-name-pd">＼＼\\٩( &#x27;ω&#x27; )و //／／</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|18|815|<span class="rank-name-pd">りょうちゃま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|19|801|<span class="rank-name-pd">SakiRei</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|20|788|<span class="rank-name-pd">⊂((・x・))⊃</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|21|765|<span class="rank-name-pd">748!!大人の事情</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|22|763|<span class="rank-name-pd">短パン糞侍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|23|754|<span class="rank-name-pd">0170_4312</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|23|754|<span class="rank-name-pd">童貞のくせに</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|25|752|<span class="rank-name-pd">SOURA135</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|25|752|<span class="rank-name-pd">まる〜ん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|27|750|<span class="rank-name-pd"> ZAKKY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|28|736|<span class="rank-name-pd">やちる(^o^)/</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|29|731|<span class="rank-name-pd">5N884</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|30|725|<span class="rank-name-pd">こまったん調整中</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|31|721|<span class="rank-name-pd">こまったん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|32|710|<span class="rank-name-pd">RU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|33|693|<span class="rank-name-pd">りーや</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|34|689|<span class="rank-name-pd">派遣のエース</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|35|685|<span class="rank-name-pd">靴屋さん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|35|685|<span class="rank-name-pd">ＫＭＭ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|37|684|<span class="rank-name-pd">りんちゃろ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|38|677|<span class="rank-name-pd">CHICKEN^-^</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|39|672|<span class="rank-name-pd">うまくなりたい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|40|668|<span class="rank-name-pd">O.CHINKASS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|41|664|<span class="rank-name-pd">ユウガナイザー^-^</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|42|647|<span class="rank-name-pd">ANARU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|43|638|<span class="rank-name-pd">ASURANNNNNNNNNNNN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|44|634|<span class="rank-name-pd">0041_1789</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|45|627|<span class="rank-name-pd">M-KUN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|46|624|<span class="rank-name-pd">MANBOU!!@ARU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|47|604|<span class="rank-name-pd">BOB MARLEY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|47|604|<span class="rank-name-pd">OKD@LOCO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|49|585|<span class="rank-name-pd">nao</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|50|582|<span class="rank-name-pd">0009_6559</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|51|580|<span class="rank-name-pd">BLACK0001</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|52|564|<span class="rank-name-pd">れなち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|53|553|<span class="rank-name-pd">Mam!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|53|553|<span class="rank-name-pd">サムライ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|55|542|<span class="rank-name-pd">☆DAI- SK☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|56|533|<span class="rank-name-pd">FUMIFUMI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|57|511|<span class="rank-name-pd">GETTHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|58|506|<span class="rank-name-pd">PROBAT</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|59|505|<span class="rank-name-pd">しみたつ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|60|500|<span class="rank-name-pd">かまとや</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|61|499|<span class="rank-name-pd">MAYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|62|478|<span class="rank-name-pd">わし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|63|443|<span class="rank-name-pd">任天堂大学</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|64|437|<span class="rank-name-pd">JONO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|65|432|<span class="rank-name-pd">モンキー田中</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|66|418|<span class="rank-name-pd">DAIKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|67|409|<span class="rank-name-pd">かつ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|68|383|<span class="rank-name-pd">YOUKI 11</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|69|338|<span class="rank-name-pd">OTO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|70|220|<span class="rank-name-pd">@M</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|1|1103|<span class="rank-name-pd">-rura-</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|2|1042|<span class="rank-name-pd">まるちゃん</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|3|964|<span class="rank-name-pd"><span class="pro-icon-pd"></span>丸山 知也</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|4|936|<span class="rank-name-pd">まさかずさん</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|5|930|<span class="rank-name-pd">RUKA</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|6|929|<span class="rank-name-pd">KZM777</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|7|928|<span class="rank-name-pd">みー</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|8|920|<span class="rank-name-pd">dSk⭐︎</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|9|916|<span class="rank-name-pd">MESUGORIRA</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|9|916|<span class="rank-name-pd">【SYN】けん 金沢支部長</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|11|865|<span class="rank-name-pd">104</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|12|857|<span class="rank-name-pd">雑魚</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|13|839|<span class="rank-name-pd">ユウガナイザー</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|14|836|<span class="rank-name-pd">室伏広治LOVE</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|15|831|<span class="rank-name-pd">RURUNTO</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|16|830|<span class="rank-name-pd">748!!☆隣のﾄﾘﾌﾟﾙ☆</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|17|816|<span class="rank-name-pd">＼＼\\٩( &#x27;ω&#x27; )و //／／</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|18|815|<span class="rank-name-pd">りょうちゃま</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|19|801|<span class="rank-name-pd">SakiRei</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|20|788|<span class="rank-name-pd">⊂((・x・))⊃</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|21|765|<span class="rank-name-pd">748!!大人の事情</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|22|763|<span class="rank-name-pd">短パン糞侍</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|23|754|<span class="rank-name-pd">0170_4312</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|23|754|<span class="rank-name-pd">童貞のくせに</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|25|752|<span class="rank-name-pd">SOURA135</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|25|752|<span class="rank-name-pd">まる〜ん</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|27|750|<span class="rank-name-pd"> ZAKKY</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|28|736|<span class="rank-name-pd">やちる(^o^)/</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|29|731|<span class="rank-name-pd">5N884</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|30|725|<span class="rank-name-pd">こまったん調整中</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|31|721|<span class="rank-name-pd">こまったん</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|32|710|<span class="rank-name-pd">RU</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|33|693|<span class="rank-name-pd">りーや</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|34|689|<span class="rank-name-pd">派遣のエース</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|35|685|<span class="rank-name-pd">靴屋さん</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|35|685|<span class="rank-name-pd">ＫＭＭ</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|37|684|<span class="rank-name-pd">りんちゃろ</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|38|677|<span class="rank-name-pd">CHICKEN^-^</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|39|672|<span class="rank-name-pd">うまくなりたい</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|40|668|<span class="rank-name-pd">O.CHINKASS</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|41|664|<span class="rank-name-pd">ユウガナイザー^-^</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|42|647|<span class="rank-name-pd">ANARU</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|43|638|<span class="rank-name-pd">ASURANNNNNNNNNNNN</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|44|634|<span class="rank-name-pd">0041_1789</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|45|627|<span class="rank-name-pd">M-KUN</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|46|624|<span class="rank-name-pd">MANBOU!!@ARU</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|47|604|<span class="rank-name-pd">BOB MARLEY</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|47|604|<span class="rank-name-pd">OKD@LOCO</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|49|585|<span class="rank-name-pd">nao</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|50|582|<span class="rank-name-pd">0009_6559</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|51|580|<span class="rank-name-pd">BLACK0001</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|52|564|<span class="rank-name-pd">れなち</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|53|553|<span class="rank-name-pd">Mam!</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|53|553|<span class="rank-name-pd">サムライ</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|55|542|<span class="rank-name-pd">☆DAI- SK☆</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|56|533|<span class="rank-name-pd">FUMIFUMI</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|57|511|<span class="rank-name-pd">GETTHI</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|58|506|<span class="rank-name-pd">PROBAT</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|59|505|<span class="rank-name-pd">しみたつ</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|60|500|<span class="rank-name-pd">かまとや</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|61|499|<span class="rank-name-pd">MAYA</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|62|478|<span class="rank-name-pd">わし</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|63|443|<span class="rank-name-pd">任天堂大学</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|64|437|<span class="rank-name-pd">JONO</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|65|432|<span class="rank-name-pd">モンキー田中</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|66|418|<span class="rank-name-pd">DAIKI</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|67|409|<span class="rank-name-pd">かつ</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|68|383|<span class="rank-name-pd">YOUKI 11</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|69|338|<span class="rank-name-pd">OTO</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|70|220|<span class="rank-name-pd">@M</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -102,7 +102,7 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-||0|<span class="rank-name-dl"> </span>|<a href=""></a>|<a href="/darts/rank//"></a>|
+||0|<span class="rank-name-dl"> </span>|<a href="/darts/rank/shops/.html"></a> <a href="">[↗]</a>|<a href="/darts/rank//"></a>|
 
 
 #### PHOENIXDARTS TOP 100
@@ -112,76 +112,76 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1103|<span class="rank-name-pd">-rura-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|2|1042|<span class="rank-name-pd">まるちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|3|964|<span class="rank-name-pd"><span class="pro-icon-pd"></span>丸山 知也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|4|936|<span class="rank-name-pd">まさかずさん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|5|930|<span class="rank-name-pd">RUKA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|6|929|<span class="rank-name-pd">KZM777</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|7|928|<span class="rank-name-pd">みー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|8|920|<span class="rank-name-pd">dSk⭐︎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|9|916|<span class="rank-name-pd">MESUGORIRA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|9|916|<span class="rank-name-pd">【SYN】けん 金沢支部長</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|11|865|<span class="rank-name-pd">104</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|12|857|<span class="rank-name-pd">雑魚</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|13|839|<span class="rank-name-pd">ユウガナイザー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|14|836|<span class="rank-name-pd">室伏広治LOVE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|15|831|<span class="rank-name-pd">RURUNTO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|16|830|<span class="rank-name-pd">748!!☆隣のﾄﾘﾌﾟﾙ☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|17|816|<span class="rank-name-pd">＼＼\\٩( &#x27;ω&#x27; )و //／／</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|18|815|<span class="rank-name-pd">りょうちゃま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|19|801|<span class="rank-name-pd">SakiRei</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|20|788|<span class="rank-name-pd">⊂((・x・))⊃</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|21|765|<span class="rank-name-pd">748!!大人の事情</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|22|763|<span class="rank-name-pd">短パン糞侍</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|23|754|<span class="rank-name-pd">0170_4312</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|23|754|<span class="rank-name-pd">童貞のくせに</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|25|752|<span class="rank-name-pd">SOURA135</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|25|752|<span class="rank-name-pd">まる〜ん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|27|750|<span class="rank-name-pd"> ZAKKY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|28|736|<span class="rank-name-pd">やちる(^o^)/</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|29|731|<span class="rank-name-pd">5N884</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|30|725|<span class="rank-name-pd">こまったん調整中</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|31|721|<span class="rank-name-pd">こまったん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|32|710|<span class="rank-name-pd">RU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|33|693|<span class="rank-name-pd">りーや</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|34|689|<span class="rank-name-pd">派遣のエース</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|35|685|<span class="rank-name-pd">靴屋さん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|35|685|<span class="rank-name-pd">ＫＭＭ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|37|684|<span class="rank-name-pd">りんちゃろ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|38|677|<span class="rank-name-pd">CHICKEN^-^</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|39|672|<span class="rank-name-pd">うまくなりたい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|40|668|<span class="rank-name-pd">O.CHINKASS</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|41|664|<span class="rank-name-pd">ユウガナイザー^-^</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|42|647|<span class="rank-name-pd">ANARU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|43|638|<span class="rank-name-pd">ASURANNNNNNNNNNNN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|44|634|<span class="rank-name-pd">0041_1789</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|45|627|<span class="rank-name-pd">M-KUN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|46|624|<span class="rank-name-pd">MANBOU!!@ARU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|47|604|<span class="rank-name-pd">BOB MARLEY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|47|604|<span class="rank-name-pd">OKD@LOCO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|49|585|<span class="rank-name-pd">nao</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|50|582|<span class="rank-name-pd">0009_6559</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|51|580|<span class="rank-name-pd">BLACK0001</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|52|564|<span class="rank-name-pd">れなち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|53|553|<span class="rank-name-pd">Mam!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|53|553|<span class="rank-name-pd">サムライ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|55|542|<span class="rank-name-pd">☆DAI- SK☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|56|533|<span class="rank-name-pd">FUMIFUMI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|57|511|<span class="rank-name-pd">GETTHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|58|506|<span class="rank-name-pd">PROBAT</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|59|505|<span class="rank-name-pd">しみたつ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|60|500|<span class="rank-name-pd">かまとや</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|61|499|<span class="rank-name-pd">MAYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|62|478|<span class="rank-name-pd">わし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|63|443|<span class="rank-name-pd">任天堂大学</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|64|437|<span class="rank-name-pd">JONO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|65|432|<span class="rank-name-pd">モンキー田中</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|66|418|<span class="rank-name-pd">DAIKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|67|409|<span class="rank-name-pd">かつ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|68|383|<span class="rank-name-pd">YOUKI 11</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|69|338|<span class="rank-name-pd">OTO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
-|70|220|<span class="rank-name-pd">@M</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">BAR SHAKE</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|1|1103|<span class="rank-name-pd">-rura-</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|2|1042|<span class="rank-name-pd">まるちゃん</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|3|964|<span class="rank-name-pd"><span class="pro-icon-pd"></span>丸山 知也</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|4|936|<span class="rank-name-pd">まさかずさん</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|5|930|<span class="rank-name-pd">RUKA</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|6|929|<span class="rank-name-pd">KZM777</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|7|928|<span class="rank-name-pd">みー</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|8|920|<span class="rank-name-pd">dSk⭐︎</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|9|916|<span class="rank-name-pd">MESUGORIRA</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|9|916|<span class="rank-name-pd">【SYN】けん 金沢支部長</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|11|865|<span class="rank-name-pd">104</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|12|857|<span class="rank-name-pd">雑魚</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|13|839|<span class="rank-name-pd">ユウガナイザー</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|14|836|<span class="rank-name-pd">室伏広治LOVE</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|15|831|<span class="rank-name-pd">RURUNTO</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|16|830|<span class="rank-name-pd">748!!☆隣のﾄﾘﾌﾟﾙ☆</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|17|816|<span class="rank-name-pd">＼＼\\٩( &#x27;ω&#x27; )و //／／</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|18|815|<span class="rank-name-pd">りょうちゃま</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|19|801|<span class="rank-name-pd">SakiRei</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|20|788|<span class="rank-name-pd">⊂((・x・))⊃</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|21|765|<span class="rank-name-pd">748!!大人の事情</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|22|763|<span class="rank-name-pd">短パン糞侍</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|23|754|<span class="rank-name-pd">0170_4312</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|23|754|<span class="rank-name-pd">童貞のくせに</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|25|752|<span class="rank-name-pd">SOURA135</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|25|752|<span class="rank-name-pd">まる〜ん</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|27|750|<span class="rank-name-pd"> ZAKKY</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|28|736|<span class="rank-name-pd">やちる(^o^)/</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|29|731|<span class="rank-name-pd">5N884</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|30|725|<span class="rank-name-pd">こまったん調整中</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|31|721|<span class="rank-name-pd">こまったん</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|32|710|<span class="rank-name-pd">RU</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|33|693|<span class="rank-name-pd">りーや</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|34|689|<span class="rank-name-pd">派遣のエース</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|35|685|<span class="rank-name-pd">靴屋さん</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|35|685|<span class="rank-name-pd">ＫＭＭ</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|37|684|<span class="rank-name-pd">りんちゃろ</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|38|677|<span class="rank-name-pd">CHICKEN^-^</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|39|672|<span class="rank-name-pd">うまくなりたい</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|40|668|<span class="rank-name-pd">O.CHINKASS</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|41|664|<span class="rank-name-pd">ユウガナイザー^-^</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|42|647|<span class="rank-name-pd">ANARU</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|43|638|<span class="rank-name-pd">ASURANNNNNNNNNNNN</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|44|634|<span class="rank-name-pd">0041_1789</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|45|627|<span class="rank-name-pd">M-KUN</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|46|624|<span class="rank-name-pd">MANBOU!!@ARU</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|47|604|<span class="rank-name-pd">BOB MARLEY</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|47|604|<span class="rank-name-pd">OKD@LOCO</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|49|585|<span class="rank-name-pd">nao</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|50|582|<span class="rank-name-pd">0009_6559</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|51|580|<span class="rank-name-pd">BLACK0001</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|52|564|<span class="rank-name-pd">れなち</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|53|553|<span class="rank-name-pd">Mam!</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|53|553|<span class="rank-name-pd">サムライ</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|55|542|<span class="rank-name-pd">☆DAI- SK☆</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|56|533|<span class="rank-name-pd">FUMIFUMI</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|57|511|<span class="rank-name-pd">GETTHI</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|58|506|<span class="rank-name-pd">PROBAT</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|59|505|<span class="rank-name-pd">しみたつ</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|60|500|<span class="rank-name-pd">かまとや</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|61|499|<span class="rank-name-pd">MAYA</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|62|478|<span class="rank-name-pd">わし</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|63|443|<span class="rank-name-pd">任天堂大学</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|64|437|<span class="rank-name-pd">JONO</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|65|432|<span class="rank-name-pd">モンキー田中</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|66|418|<span class="rank-name-pd">DAIKI</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|67|409|<span class="rank-name-pd">かつ</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|68|383|<span class="rank-name-pd">YOUKI 11</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|69|338|<span class="rank-name-pd">OTO</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
+|70|220|<span class="rank-name-pd">@M</span>|<a href="/darts/rank/shops/81791.html">BAR SHAKE</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81791?s_seq=81791">[↗]</a>|<a href="/darts/rank/石川県/能美市">石川県能美市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

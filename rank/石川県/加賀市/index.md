@@ -23,17 +23,17 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|971|<span class="rank-name-pd">まるちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88957?s_seq=88957">BARマーベリック</a>|<a href="/darts/rank/石川県/加賀市">石川県加賀市</a>|
-|2|917|<span class="rank-name-pd">ＳＨＩＮＹＡ.Mineta</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88957?s_seq=88957">BARマーベリック</a>|<a href="/darts/rank/石川県/加賀市">石川県加賀市</a>|
-|3|842|<span class="rank-name-pd">たっぷ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88957?s_seq=88957">BARマーベリック</a>|<a href="/darts/rank/石川県/加賀市">石川県加賀市</a>|
-|4|713|<span class="rank-name-pd">Maverick</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88957?s_seq=88957">BARマーベリック</a>|<a href="/darts/rank/石川県/加賀市">石川県加賀市</a>|
-|5|612|<span class="rank-name-pd">36</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88957?s_seq=88957">BARマーベリック</a>|<a href="/darts/rank/石川県/加賀市">石川県加賀市</a>|
-|6|591|<span class="rank-name-pd">せいせい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88957?s_seq=88957">BARマーベリック</a>|<a href="/darts/rank/石川県/加賀市">石川県加賀市</a>|
-|7|551|<span class="rank-name-pd">東風平　朝治</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88957?s_seq=88957">BARマーベリック</a>|<a href="/darts/rank/石川県/加賀市">石川県加賀市</a>|
-|8|550|<span class="rank-name-pd">UDAI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88957?s_seq=88957">BARマーベリック</a>|<a href="/darts/rank/石川県/加賀市">石川県加賀市</a>|
-|9|549|<span class="rank-name-pd">ププリン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88957?s_seq=88957">BARマーベリック</a>|<a href="/darts/rank/石川県/加賀市">石川県加賀市</a>|
-|10|446|<span class="rank-name-pd">しずくちゃん、</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88957?s_seq=88957">BARマーベリック</a>|<a href="/darts/rank/石川県/加賀市">石川県加賀市</a>|
-|11|435|<span class="rank-name-pd">miamo</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88957?s_seq=88957">BARマーベリック</a>|<a href="/darts/rank/石川県/加賀市">石川県加賀市</a>|
+|1|971|<span class="rank-name-pd">まるちゃん</span>|<a href="/darts/rank/shops/88957.html">BARマーベリック</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88957?s_seq=88957">[↗]</a>|<a href="/darts/rank/石川県/加賀市">石川県加賀市</a>|
+|2|917|<span class="rank-name-pd">ＳＨＩＮＹＡ.Mineta</span>|<a href="/darts/rank/shops/88957.html">BARマーベリック</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88957?s_seq=88957">[↗]</a>|<a href="/darts/rank/石川県/加賀市">石川県加賀市</a>|
+|3|842|<span class="rank-name-pd">たっぷ</span>|<a href="/darts/rank/shops/88957.html">BARマーベリック</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88957?s_seq=88957">[↗]</a>|<a href="/darts/rank/石川県/加賀市">石川県加賀市</a>|
+|4|713|<span class="rank-name-pd">Maverick</span>|<a href="/darts/rank/shops/88957.html">BARマーベリック</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88957?s_seq=88957">[↗]</a>|<a href="/darts/rank/石川県/加賀市">石川県加賀市</a>|
+|5|612|<span class="rank-name-pd">36</span>|<a href="/darts/rank/shops/88957.html">BARマーベリック</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88957?s_seq=88957">[↗]</a>|<a href="/darts/rank/石川県/加賀市">石川県加賀市</a>|
+|6|591|<span class="rank-name-pd">せいせい</span>|<a href="/darts/rank/shops/88957.html">BARマーベリック</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88957?s_seq=88957">[↗]</a>|<a href="/darts/rank/石川県/加賀市">石川県加賀市</a>|
+|7|551|<span class="rank-name-pd">東風平　朝治</span>|<a href="/darts/rank/shops/88957.html">BARマーベリック</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88957?s_seq=88957">[↗]</a>|<a href="/darts/rank/石川県/加賀市">石川県加賀市</a>|
+|8|550|<span class="rank-name-pd">UDAI</span>|<a href="/darts/rank/shops/88957.html">BARマーベリック</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88957?s_seq=88957">[↗]</a>|<a href="/darts/rank/石川県/加賀市">石川県加賀市</a>|
+|9|549|<span class="rank-name-pd">ププリン</span>|<a href="/darts/rank/shops/88957.html">BARマーベリック</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88957?s_seq=88957">[↗]</a>|<a href="/darts/rank/石川県/加賀市">石川県加賀市</a>|
+|10|446|<span class="rank-name-pd">しずくちゃん、</span>|<a href="/darts/rank/shops/88957.html">BARマーベリック</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88957?s_seq=88957">[↗]</a>|<a href="/darts/rank/石川県/加賀市">石川県加賀市</a>|
+|11|435|<span class="rank-name-pd">miamo</span>|<a href="/darts/rank/shops/88957.html">BARマーベリック</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88957?s_seq=88957">[↗]</a>|<a href="/darts/rank/石川県/加賀市">石川県加賀市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -43,7 +43,7 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-||0|<span class="rank-name-dl"> </span>|<a href=""></a>|<a href="/darts/rank//"></a>|
+||0|<span class="rank-name-dl"> </span>|<a href="/darts/rank/shops/.html"></a> <a href="">[↗]</a>|<a href="/darts/rank//"></a>|
 
 
 #### PHOENIXDARTS TOP 100
@@ -53,17 +53,17 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|971|<span class="rank-name-pd">まるちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88957?s_seq=88957">BARマーベリック</a>|<a href="/darts/rank/石川県/加賀市">石川県加賀市</a>|
-|2|917|<span class="rank-name-pd">ＳＨＩＮＹＡ.Mineta</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88957?s_seq=88957">BARマーベリック</a>|<a href="/darts/rank/石川県/加賀市">石川県加賀市</a>|
-|3|842|<span class="rank-name-pd">たっぷ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88957?s_seq=88957">BARマーベリック</a>|<a href="/darts/rank/石川県/加賀市">石川県加賀市</a>|
-|4|713|<span class="rank-name-pd">Maverick</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88957?s_seq=88957">BARマーベリック</a>|<a href="/darts/rank/石川県/加賀市">石川県加賀市</a>|
-|5|612|<span class="rank-name-pd">36</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88957?s_seq=88957">BARマーベリック</a>|<a href="/darts/rank/石川県/加賀市">石川県加賀市</a>|
-|6|591|<span class="rank-name-pd">せいせい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88957?s_seq=88957">BARマーベリック</a>|<a href="/darts/rank/石川県/加賀市">石川県加賀市</a>|
-|7|551|<span class="rank-name-pd">東風平　朝治</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88957?s_seq=88957">BARマーベリック</a>|<a href="/darts/rank/石川県/加賀市">石川県加賀市</a>|
-|8|550|<span class="rank-name-pd">UDAI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88957?s_seq=88957">BARマーベリック</a>|<a href="/darts/rank/石川県/加賀市">石川県加賀市</a>|
-|9|549|<span class="rank-name-pd">ププリン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88957?s_seq=88957">BARマーベリック</a>|<a href="/darts/rank/石川県/加賀市">石川県加賀市</a>|
-|10|446|<span class="rank-name-pd">しずくちゃん、</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88957?s_seq=88957">BARマーベリック</a>|<a href="/darts/rank/石川県/加賀市">石川県加賀市</a>|
-|11|435|<span class="rank-name-pd">miamo</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88957?s_seq=88957">BARマーベリック</a>|<a href="/darts/rank/石川県/加賀市">石川県加賀市</a>|
+|1|971|<span class="rank-name-pd">まるちゃん</span>|<a href="/darts/rank/shops/88957.html">BARマーベリック</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88957?s_seq=88957">[↗]</a>|<a href="/darts/rank/石川県/加賀市">石川県加賀市</a>|
+|2|917|<span class="rank-name-pd">ＳＨＩＮＹＡ.Mineta</span>|<a href="/darts/rank/shops/88957.html">BARマーベリック</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88957?s_seq=88957">[↗]</a>|<a href="/darts/rank/石川県/加賀市">石川県加賀市</a>|
+|3|842|<span class="rank-name-pd">たっぷ</span>|<a href="/darts/rank/shops/88957.html">BARマーベリック</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88957?s_seq=88957">[↗]</a>|<a href="/darts/rank/石川県/加賀市">石川県加賀市</a>|
+|4|713|<span class="rank-name-pd">Maverick</span>|<a href="/darts/rank/shops/88957.html">BARマーベリック</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88957?s_seq=88957">[↗]</a>|<a href="/darts/rank/石川県/加賀市">石川県加賀市</a>|
+|5|612|<span class="rank-name-pd">36</span>|<a href="/darts/rank/shops/88957.html">BARマーベリック</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88957?s_seq=88957">[↗]</a>|<a href="/darts/rank/石川県/加賀市">石川県加賀市</a>|
+|6|591|<span class="rank-name-pd">せいせい</span>|<a href="/darts/rank/shops/88957.html">BARマーベリック</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88957?s_seq=88957">[↗]</a>|<a href="/darts/rank/石川県/加賀市">石川県加賀市</a>|
+|7|551|<span class="rank-name-pd">東風平　朝治</span>|<a href="/darts/rank/shops/88957.html">BARマーベリック</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88957?s_seq=88957">[↗]</a>|<a href="/darts/rank/石川県/加賀市">石川県加賀市</a>|
+|8|550|<span class="rank-name-pd">UDAI</span>|<a href="/darts/rank/shops/88957.html">BARマーベリック</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88957?s_seq=88957">[↗]</a>|<a href="/darts/rank/石川県/加賀市">石川県加賀市</a>|
+|9|549|<span class="rank-name-pd">ププリン</span>|<a href="/darts/rank/shops/88957.html">BARマーベリック</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88957?s_seq=88957">[↗]</a>|<a href="/darts/rank/石川県/加賀市">石川県加賀市</a>|
+|10|446|<span class="rank-name-pd">しずくちゃん、</span>|<a href="/darts/rank/shops/88957.html">BARマーベリック</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88957?s_seq=88957">[↗]</a>|<a href="/darts/rank/石川県/加賀市">石川県加賀市</a>|
+|11|435|<span class="rank-name-pd">miamo</span>|<a href="/darts/rank/shops/88957.html">BARマーベリック</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88957?s_seq=88957">[↗]</a>|<a href="/darts/rank/石川県/加賀市">石川県加賀市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

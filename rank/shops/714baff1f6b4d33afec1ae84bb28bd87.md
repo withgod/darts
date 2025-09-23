@@ -1,0 +1,238 @@
+---
+title: COUNTUP AREA RANKING | 大阪府 | 高槻市 | カラオケ ジョイジョイ 阪急高槻南店
+---
+## COUNTUP AREA RANKING | 大阪府 | 高槻市 | カラオケ ジョイジョイ 阪急高槻南店
+
+[TOP](/darts/rank/) > [大阪府](/darts/rank/大阪府/) > [高槻市](/darts/rank/大阪府/高槻市/) > カラオケ ジョイジョイ 阪急高槻南店
+
+___
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="COUNTUP AREA RANKING | 大阪府高槻市カラオケ ジョイジョイ 阪急高槻南店" class="twitter-share-button" data-hashtags="DARTSLIVE,PHOENIXDARTS,darts,ダーツ" data-show-count="false">Tweet</a>
+
+* [ランキング](#カウントアップランキング)
+    * [TOP 100](#top-100)
+    * [DARTSLIVE TOP 100](#dartslive-top-100)
+    * [PHOENIXDARTS TOP 100](#phoenixdarts-top-100)
+
+### 市区町村
+
+<ul>
+
+</ul>
+
+### カウントアップランキング
+
+#### TOP 100
+
+
+
+{:.table-ranking}
+|#|スコア|名前|店名|所在地|
+|---|---|---|---|---|
+|1|1024|<span class="rank-name-dl">styl@BAGUS</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|2|987|<span class="rank-name-dl">Ryoota@Charm</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|2|987|<span class="rank-name-dl">T</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|4|973|<span class="rank-name-dl">Ryoota</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|5|970|<span class="rank-name-dl">おがおが</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|5|970|<span class="rank-name-dl">仁ちゃゃゃん</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|7|966|<span class="rank-name-dl">秋-DOS-</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|8|965|<span class="rank-name-dl">KENJI</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|9|930|<span class="rank-name-dl">NO NAME 9827</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|9|930|<span class="rank-name-dl">style</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|11|918|<span class="rank-name-dl">Natsuki</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|12|912|<span class="rank-name-dl">しげるくん</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|13|906|<span class="rank-name-dl">白猫</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|14|905|<span class="rank-name-dl">†DAIGO†(^^)/</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|15|904|<span class="rank-name-dl">ガンチャン</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|16|903|<span class="rank-name-dl">ゆー</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|17|896|<span class="rank-name-dl">秋</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|18|892|<span class="rank-name-dl">χάρος</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|19|887|<span class="rank-name-dl">jay boy</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|20|885|<span class="rank-name-dl">84・モッさん</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|21|884|<span class="rank-name-dl">kananananase</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|22|883|<span class="rank-name-dl">たけるん</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|23|860|<span class="rank-name-dl">のぎ@8121</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|24|859|<span class="rank-name-dl">ケンジ</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|25|851|<span class="rank-name-dl">styl@ozbudy</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|26|849|<span class="rank-name-dl">NO NAME 4711</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|27|844|<span class="rank-name-dl">No.坊ちゃん</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|28|837|<span class="rank-name-dl">ちゅんだぁ</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|29|830|<span class="rank-name-dl">泰</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|30|820|<span class="rank-name-dl">たけお</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|30|820|<span class="rank-name-dl">なっつん</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|32|789|<span class="rank-name-dl">legacyk</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|33|781|<span class="rank-name-dl">雷翔</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|34|777|<span class="rank-name-dl">けいげん</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|35|762|<span class="rank-name-dl">かどやんやんやん</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|36|760|<span class="rank-name-dl">NO NAME 3182</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|37|757|<span class="rank-name-dl">ゆたやん</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|38|754|<span class="rank-name-dl">たなか33</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|39|732|<span class="rank-name-dl">五右衛門</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|40|731|<span class="rank-name-dl">くろ</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|41|728|<span class="rank-name-dl">ラキスト</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|42|715|<span class="rank-name-dl">kaito</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|42|715|<span class="rank-name-dl">しょう</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|44|710|<span class="rank-name-dl">jolteon</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|45|702|<span class="rank-name-dl">やまゆー</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|45|702|<span class="rank-name-dl">ゆま</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|47|677|<span class="rank-name-dl">こういち</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|48|671|<span class="rank-name-dl">nom</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|49|665|<span class="rank-name-dl">にころろ</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|50|638|<span class="rank-name-dl">のりちき</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|51|608|<span class="rank-name-dl">あきちゃん</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|52|600|<span class="rank-name-dl">kana</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|53|590|<span class="rank-name-dl">ながねぎ</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|54|580|<span class="rank-name-dl">せーけ</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|55|572|<span class="rank-name-dl">はしお</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|56|567|<span class="rank-name-dl">BELL</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|57|555|<span class="rank-name-dl">s.luax</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|58|536|<span class="rank-name-dl">Naoki</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|59|524|<span class="rank-name-dl">うにゃ</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|60|508|<span class="rank-name-dl">るる</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|61|503|<span class="rank-name-dl">rino</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|62|479|<span class="rank-name-dl">よしか</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|63|478|<span class="rank-name-dl">yuka</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|64|476|<span class="rank-name-dl">ひなの</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|65|474|<span class="rank-name-dl">翔♡KDS</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|66|473|<span class="rank-name-dl">rapirapi</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|66|473|<span class="rank-name-dl">あすか</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|68|463|<span class="rank-name-dl">どれみ</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|69|444|<span class="rank-name-dl">あおい</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|70|434|<span class="rank-name-dl">まや</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|71|407|<span class="rank-name-dl">ねむ</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|72|402|<span class="rank-name-dl">まり @DROTIKI</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|73|392|<span class="rank-name-dl">SYU@nm7</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|73|392|<span class="rank-name-dl">ゆちゃん</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|75|388|<span class="rank-name-dl">彩乃</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|76|386|<span class="rank-name-dl">りかちょり。</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|77|385|<span class="rank-name-dl">そんちよ</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|78|372|<span class="rank-name-dl">C</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|79|368|<span class="rank-name-dl">ふねこ</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|80|362|<span class="rank-name-dl">あちゃん</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|81|353|<span class="rank-name-dl">きのこ</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|82|341|<span class="rank-name-dl">To</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|83|293|<span class="rank-name-dl">えちゅ</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|84|265|<span class="rank-name-dl">わかば</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|85|239|<span class="rank-name-dl">na</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+
+
+#### DARTSLIVE TOP 100
+
+
+
+{:.table-ranking}
+|#|スコア|名前|店名|所在地|
+|---|---|---|---|---|
+|1|1024|<span class="rank-name-dl">styl@BAGUS</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|2|987|<span class="rank-name-dl">Ryoota@Charm</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|2|987|<span class="rank-name-dl">T</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|4|973|<span class="rank-name-dl">Ryoota</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|5|970|<span class="rank-name-dl">おがおが</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|5|970|<span class="rank-name-dl">仁ちゃゃゃん</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|7|966|<span class="rank-name-dl">秋-DOS-</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|8|965|<span class="rank-name-dl">KENJI</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|9|930|<span class="rank-name-dl">NO NAME 9827</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|9|930|<span class="rank-name-dl">style</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|11|918|<span class="rank-name-dl">Natsuki</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|12|912|<span class="rank-name-dl">しげるくん</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|13|906|<span class="rank-name-dl">白猫</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|14|905|<span class="rank-name-dl">†DAIGO†(^^)/</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|15|904|<span class="rank-name-dl">ガンチャン</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|16|903|<span class="rank-name-dl">ゆー</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|17|896|<span class="rank-name-dl">秋</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|18|892|<span class="rank-name-dl">χάρος</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|19|887|<span class="rank-name-dl">jay boy</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|20|885|<span class="rank-name-dl">84・モッさん</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|21|884|<span class="rank-name-dl">kananananase</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|22|883|<span class="rank-name-dl">たけるん</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|23|860|<span class="rank-name-dl">のぎ@8121</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|24|859|<span class="rank-name-dl">ケンジ</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|25|851|<span class="rank-name-dl">styl@ozbudy</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|26|849|<span class="rank-name-dl">NO NAME 4711</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|27|844|<span class="rank-name-dl">No.坊ちゃん</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|28|837|<span class="rank-name-dl">ちゅんだぁ</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|29|830|<span class="rank-name-dl">泰</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|30|820|<span class="rank-name-dl">たけお</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|30|820|<span class="rank-name-dl">なっつん</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|32|789|<span class="rank-name-dl">legacyk</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|33|781|<span class="rank-name-dl">雷翔</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|34|777|<span class="rank-name-dl">けいげん</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|35|762|<span class="rank-name-dl">かどやんやんやん</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|36|760|<span class="rank-name-dl">NO NAME 3182</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|37|757|<span class="rank-name-dl">ゆたやん</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|38|754|<span class="rank-name-dl">たなか33</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|39|732|<span class="rank-name-dl">五右衛門</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|40|731|<span class="rank-name-dl">くろ</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|41|728|<span class="rank-name-dl">ラキスト</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|42|715|<span class="rank-name-dl">kaito</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|42|715|<span class="rank-name-dl">しょう</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|44|710|<span class="rank-name-dl">jolteon</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|45|702|<span class="rank-name-dl">やまゆー</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|45|702|<span class="rank-name-dl">ゆま</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|47|677|<span class="rank-name-dl">こういち</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|48|671|<span class="rank-name-dl">nom</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|49|665|<span class="rank-name-dl">にころろ</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|50|638|<span class="rank-name-dl">のりちき</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|51|608|<span class="rank-name-dl">あきちゃん</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|52|600|<span class="rank-name-dl">kana</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|53|590|<span class="rank-name-dl">ながねぎ</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|54|580|<span class="rank-name-dl">せーけ</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|55|572|<span class="rank-name-dl">はしお</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|56|567|<span class="rank-name-dl">BELL</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|57|555|<span class="rank-name-dl">s.luax</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|58|536|<span class="rank-name-dl">Naoki</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|59|524|<span class="rank-name-dl">うにゃ</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|60|508|<span class="rank-name-dl">るる</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|61|503|<span class="rank-name-dl">rino</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|62|479|<span class="rank-name-dl">よしか</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|63|478|<span class="rank-name-dl">yuka</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|64|476|<span class="rank-name-dl">ひなの</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|65|474|<span class="rank-name-dl">翔♡KDS</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|66|473|<span class="rank-name-dl">rapirapi</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|66|473|<span class="rank-name-dl">あすか</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|68|463|<span class="rank-name-dl">どれみ</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|69|444|<span class="rank-name-dl">あおい</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|70|434|<span class="rank-name-dl">まや</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|71|407|<span class="rank-name-dl">ねむ</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|72|402|<span class="rank-name-dl">まり @DROTIKI</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|73|392|<span class="rank-name-dl">SYU@nm7</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|73|392|<span class="rank-name-dl">ゆちゃん</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|75|388|<span class="rank-name-dl">彩乃</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|76|386|<span class="rank-name-dl">りかちょり。</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|77|385|<span class="rank-name-dl">そんちよ</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|78|372|<span class="rank-name-dl">C</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|79|368|<span class="rank-name-dl">ふねこ</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|80|362|<span class="rank-name-dl">あちゃん</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|81|353|<span class="rank-name-dl">きのこ</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|82|341|<span class="rank-name-dl">To</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|83|293|<span class="rank-name-dl">えちゅ</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|84|265|<span class="rank-name-dl">わかば</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+|85|239|<span class="rank-name-dl">na</span>|<a href="/darts/rank/shops/714baff1f6b4d33afec1ae84bb28bd87.html">カラオケ ジョイジョイ 阪急高槻南店</a> <a href="https://search.dartslive.com/jp/shop/714baff1f6b4d33afec1ae84bb28bd87">[↗]</a>|<a href="/darts/rank/大阪府/高槻市">大阪府高槻市</a>|
+
+
+#### PHOENIXDARTS TOP 100
+
+
+
+{:.table-ranking}
+|#|スコア|名前|店名|所在地|
+|---|---|---|---|---|
+||0|<span class="rank-name-dl"> </span>|<a href="/darts/rank/shops/.html"></a> <a href="">[↗]</a>|<a href="/darts/rank//"></a>|
+
+
+<div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
+    last update : <span style="font-weight: italic" id="foot_last_modified"></span><br />
+    DARTSLIVE は 株式会社ダーツライブ社 の登録商標です<br />
+    PHOENIXDARTS は フェニックスダーツジャパン株式会社 の登録商標です<br />
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/js/jquery.tablesorter.min.js" integrity="sha512-qzgd5cYSZcosqpzpn7zF2ZId8f/8CHmFKZ8j7mU4OUXTNRd5g+ZHBPsgKEwoqxCtdQvExE5LprwwPAgoicguNg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/css/theme.default.min.css" integrity="sha512-wghhOJkjQX0Lh3NSWvNKeZ0ZpNn+SPVXX1Qyc9OCaogADktxrBiBdKGDoqVUOyhStvMBmJQ8ZdMHiR3wuEq8+w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<script>
+$(function() {
+    $(".table-ranking").tablesorter({sortList:[[0, 0]]});
+    $("#foot_last_modified").text(formatDate(new Date(document.lastModified), 'yyyy-MM-dd HH:mm:ss'));
+});
+</script>
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

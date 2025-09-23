@@ -23,8 +23,8 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|653|<span class="rank-name-pd">たま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6406?s_seq=6406">インターネットカフェ マイムANNEX</a>|<a href="/darts/rank/新潟県/村上市">新潟県村上市</a>|
-|2|573|<span class="rank-name-pd">おひゅい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6406?s_seq=6406">インターネットカフェ マイムANNEX</a>|<a href="/darts/rank/新潟県/村上市">新潟県村上市</a>|
+|1|653|<span class="rank-name-pd">たま</span>|<a href="/darts/rank/shops/6406.html">インターネットカフェ マイムANNEX</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6406?s_seq=6406">[↗]</a>|<a href="/darts/rank/新潟県/村上市">新潟県村上市</a>|
+|2|573|<span class="rank-name-pd">おひゅい</span>|<a href="/darts/rank/shops/6406.html">インターネットカフェ マイムANNEX</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6406?s_seq=6406">[↗]</a>|<a href="/darts/rank/新潟県/村上市">新潟県村上市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -34,7 +34,7 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-||0|<span class="rank-name-dl"> </span>|<a href=""></a>|<a href="/darts/rank//"></a>|
+||0|<span class="rank-name-dl"> </span>|<a href="/darts/rank/shops/.html"></a> <a href="">[↗]</a>|<a href="/darts/rank//"></a>|
 
 
 #### PHOENIXDARTS TOP 100
@@ -44,8 +44,8 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|653|<span class="rank-name-pd">たま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6406?s_seq=6406">インターネットカフェ マイムANNEX</a>|<a href="/darts/rank/新潟県/村上市">新潟県村上市</a>|
-|2|573|<span class="rank-name-pd">おひゅい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6406?s_seq=6406">インターネットカフェ マイムANNEX</a>|<a href="/darts/rank/新潟県/村上市">新潟県村上市</a>|
+|1|653|<span class="rank-name-pd">たま</span>|<a href="/darts/rank/shops/6406.html">インターネットカフェ マイムANNEX</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6406?s_seq=6406">[↗]</a>|<a href="/darts/rank/新潟県/村上市">新潟県村上市</a>|
+|2|573|<span class="rank-name-pd">おひゅい</span>|<a href="/darts/rank/shops/6406.html">インターネットカフェ マイムANNEX</a> <a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_6406?s_seq=6406">[↗]</a>|<a href="/darts/rank/新潟県/村上市">新潟県村上市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
