@@ -32,97 +32,97 @@ ___
 |7|1051|<span class="rank-name-dl">トモヤ</span>|<a href="https://search.dartslive.com/jp/shop/0b4ef7a43c446dbb28032249b44395af">trinity</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
 |7|1051|<span class="rank-name-dl">髙田 大志</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
 |9|1039|<span class="rank-name-dl">k</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|10|1037|<span class="rank-name-dl">こば</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
 |10|1037|<span class="rank-name-dl">こば</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店 ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|11|1034|<span class="rank-name-dl">ともたか</span>|<a href="https://search.dartslive.com/jp/shop/b98b5c9bd8a73e07790ab824ce8730e5">YELLOW</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|11|1034|<span class="rank-name-dl">ＫＥＩ－5</span>|<a href="https://search.dartslive.com/jp/shop/b98b5c9bd8a73e07790ab824ce8730e5">YELLOW YELLOW</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|13|1033|<span class="rank-name-pd">yuzuki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85554?s_seq=85554">ファンタイム 帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|14|1030|<span class="rank-name-dl">ケイ☆zill</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|15|1022|<span class="rank-name-dl">♪刑ぽんぽこ♪</span>|<a href="https://search.dartslive.com/jp/shop/0b4ef7a43c446dbb28032249b44395af">trinity</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|16|1021|<span class="rank-name-dl">トモヤ</span>|<a href="https://search.dartslive.com/jp/shop/b98b5c9bd8a73e07790ab824ce8730e5">YELLOW</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|17|1017|<span class="rank-name-dl">ｸｻﾞﾝ@ﾃｷｰﾗ学園</span>|<a href="https://search.dartslive.com/jp/shop/9882f1db87c1abb40d9b047a20a7ba1e">Zenith</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|18|1016|<span class="rank-name-dl">ケイ☆zill</span>|<a href="https://search.dartslive.com/jp/shop/9882f1db87c1abb40d9b047a20a7ba1e">Zenith</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|19|1010|<span class="rank-name-dl">有江 裕士</span>|<a href="https://search.dartslive.com/jp/shop/9882f1db87c1abb40d9b047a20a7ba1e">Zenith</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|20|1006|<span class="rank-name-dl">HY</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|20|1006|<span class="rank-name-dl">K</span>|<a href="https://search.dartslive.com/jp/shop/0b4ef7a43c446dbb28032249b44395af">trinity</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|20|1006|<span class="rank-name-pd">ぽぴぴ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69186?s_seq=69186">ポケットナイン</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|23|1005|<span class="rank-name-dl">Shin naka</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|23|1005|<span class="rank-name-dl">しゅん【025601】</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|23|1005|<span class="rank-name-dl">淺野 龍</span>|<a href="https://search.dartslive.com/jp/shop/9882f1db87c1abb40d9b047a20a7ba1e">Zenith</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|23|1005|<span class="rank-name-dl">ＹＵ－ＹＡ</span>|<a href="https://search.dartslive.com/jp/shop/bfa051ab4ada76850d9b047a20a7ba1e">GiGOドリームタウン白樺 GiGOドリームタウン白樺</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|27|1003|<span class="rank-name-dl">☆TAKA☆</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|27|1003|<span class="rank-name-dl">ふうか</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店 ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|29|1001|<span class="rank-name-pd">HY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69186?s_seq=69186">ポケットナイン</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|30|1000|<span class="rank-name-dl">大泉 拓麻</span>|<a href="https://search.dartslive.com/jp/shop/0b4ef7a43c446dbb28032249b44395af">trinity</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|31|999|<span class="rank-name-dl">オノ コウイチ</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|32|986|<span class="rank-name-dl">タカマルコ</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|33|977|<span class="rank-name-dl">junko akaishi</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|34|974|<span class="rank-name-dl">NO NAME 0792</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|35|972|<span class="rank-name-dl">こば</span>|<a href="https://search.dartslive.com/jp/shop/0b4ef7a43c446dbb28032249b44395af">trinity trinity</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|36|970|<span class="rank-name-dl">DJどばいの中の人</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|37|968|<span class="rank-name-pd">ゆうきくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69186?s_seq=69186">ポケットナイン</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|38|967|<span class="rank-name-dl">ともたか</span>|<a href="https://search.dartslive.com/jp/shop/8676def435bd6c270d9b047a20a7ba1e">PUB SUPER MAX</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|39|966|<span class="rank-name-dl">lllllllllll</span>|<a href="https://search.dartslive.com/jp/shop/0b4ef7a43c446dbb28032249b44395af">trinity</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|39|966|<span class="rank-name-pd">菅野 友貴</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85554?s_seq=85554">ファンタイム 帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|41|965|<span class="rank-name-dl">吉地 常晃</span>|<a href="https://search.dartslive.com/jp/shop/9882f1db87c1abb40d9b047a20a7ba1e">Zenith</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|41|965|<span class="rank-name-dl">大泉 拓麻</span>|<a href="https://search.dartslive.com/jp/shop/b98b5c9bd8a73e07790ab824ce8730e5">YELLOW</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|43|964|<span class="rank-name-dl">ＫＥＩ－5</span>|<a href="https://search.dartslive.com/jp/shop/b98b5c9bd8a73e07790ab824ce8730e5">YELLOW</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|44|963|<span class="rank-name-pd">DJどばいの中の人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85554?s_seq=85554">ファンタイム 帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|45|961|<span class="rank-name-dl">ボリビアーノ</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|46|960|<span class="rank-name-dl">毛淫濃すぎ</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|47|958|<span class="rank-name-dl">NO NAME 3638</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|47|958|<span class="rank-name-dl">吉地　常晃</span>|<a href="https://search.dartslive.com/jp/shop/9882f1db87c1abb40d9b047a20a7ba1e">Zenith Zenith</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|49|957|<span class="rank-name-dl">こば</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|50|955|<span class="rank-name-dl">yuzuki</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|50|955|<span class="rank-name-dl">青下　周敦</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|52|954|<span class="rank-name-pd">うえこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85554?s_seq=85554">ファンタイム 帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|53|951|<span class="rank-name-dl">☆camel</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|54|950|<span class="rank-name-dl">DJどばいの中の人</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店 ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|55|948|<span class="rank-name-dl">トモヤ</span>|<a href="https://search.dartslive.com/jp/shop/8676def435bd6c270d9b047a20a7ba1e">PUB SUPER MAX</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|56|947|<span class="rank-name-pd">たぐ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69186?s_seq=69186">ポケットナイン</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|57|945|<span class="rank-name-pd">40COLOR</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85554?s_seq=85554">ファンタイム 帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|58|937|<span class="rank-name-dl">ＹＵ－ＹＡ</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店 ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|59|936|<span class="rank-name-dl">福田真也</span>|<a href="https://search.dartslive.com/jp/shop/9882f1db87c1abb40d9b047a20a7ba1e">Zenith Zenith</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|60|935|<span class="rank-name-pd">0246 3158</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69186?s_seq=69186">ポケットナイン</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|61|933|<span class="rank-name-dl">くーたろう</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|62|932|<span class="rank-name-dl">ゆうき</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|63|931|<span class="rank-name-pd">まさき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85554?s_seq=85554">ファンタイム 帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|63|931|<span class="rank-name-dl">アインシュタイン</span>|<a href="https://search.dartslive.com/jp/shop/8676def435bd6c270d9b047a20a7ba1e">PUB SUPER MAX</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|63|931|<span class="rank-name-dl">ＫＥＩ－5</span>|<a href="https://search.dartslive.com/jp/shop/0b4ef7a43c446dbb28032249b44395af">trinity</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|66|930|<span class="rank-name-dl">DEATH♂</span>|<a href="https://search.dartslive.com/jp/shop/0b4ef7a43c446dbb28032249b44395af">trinity</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|66|930|<span class="rank-name-dl">倉内 尚弘</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|68|928|<span class="rank-name-dl">大泉 拓麻</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|69|927|<span class="rank-name-pd"><span class="pro-icon-pd"></span>菅野 友貴</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7337?s_seq=7337">PUB super MAX</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|70|926|<span class="rank-name-dl">Kei</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|70|926|<span class="rank-name-pd">yuzuki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69186?s_seq=69186">ポケットナイン</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|72|925|<span class="rank-name-dl">こば2</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|73|922|<span class="rank-name-dl">イサック</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|74|920|<span class="rank-name-pd">髙田 大志</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69186?s_seq=69186">ポケットナイン</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|75|913|<span class="rank-name-pd">ANAGO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85554?s_seq=85554">ファンタイム 帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|75|913|<span class="rank-name-pd">☆エビちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85554?s_seq=85554">ファンタイム 帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|77|911|<span class="rank-name-dl">トモヤ</span>|<a href="https://search.dartslive.com/jp/shop/9882f1db87c1abb40d9b047a20a7ba1e">Zenith</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|78|907|<span class="rank-name-dl">すけけー</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|79|906|<span class="rank-name-pd">匠</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69186?s_seq=69186">ポケットナイン</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|80|905|<span class="rank-name-dl">()</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|80|905|<span class="rank-name-dl">いけだ だいご</span>|<a href="https://search.dartslive.com/jp/shop/9882f1db87c1abb40d9b047a20a7ba1e">Zenith</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|80|905|<span class="rank-name-dl">筋肉ラッシー</span>|<a href="https://search.dartslive.com/jp/shop/bfa051ab4ada76850d9b047a20a7ba1e">GiGOドリームタウン白樺 GiGOドリームタウン白樺</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|83|902|<span class="rank-name-dl">はらぼー</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|84|900|<span class="rank-name-dl">青下　周敦</span>|<a href="https://search.dartslive.com/jp/shop/0b4ef7a43c446dbb28032249b44395af">trinity</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|85|899|<span class="rank-name-dl">HanabiMania</span>|<a href="https://search.dartslive.com/jp/shop/bfa051ab4ada76850d9b047a20a7ba1e">GiGOドリームタウン白樺 GiGOドリームタウン白樺</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|86|898|<span class="rank-name-dl">ふうか</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|87|897|<span class="rank-name-dl">TAI</span>|<a href="https://search.dartslive.com/jp/shop/9882f1db87c1abb40d9b047a20a7ba1e">Zenith</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|88|895|<span class="rank-name-dl">SHO</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|89|892|<span class="rank-name-dl">倉内 尚弘</span>|<a href="https://search.dartslive.com/jp/shop/ef3711b6312dd90f5f9f3321c1147265">Dining&Darts Bar AJITO Dining&Darts Bar AJITO</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|89|892|<span class="rank-name-pd">雑毛漏煮監督</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85554?s_seq=85554">ファンタイム 帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|91|888|<span class="rank-name-dl">けちょこ</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|92|887|<span class="rank-name-dl">DANA</span>|<a href="https://search.dartslive.com/jp/shop/0b4ef7a43c446dbb28032249b44395af">trinity</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|92|887|<span class="rank-name-dl">ねぎ</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|94|886|<span class="rank-name-pd">DJどばいの中の人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_72799?s_seq=72799">Dreamer</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|94|886|<span class="rank-name-dl">ロングテール</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|94|886|<span class="rank-name-dl">倉内 尚弘</span>|<a href="https://search.dartslive.com/jp/shop/8676def435bd6c270d9b047a20a7ba1e">PUB SUPER MAX</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|94|886|<span class="rank-name-dl">青野　耀太郎</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|98|885|<span class="rank-name-dl">トモヤ</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|99|884|<span class="rank-name-dl">Masaki Nagae</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|100|882|<span class="rank-name-dl">吉地常晃</span>|<a href="https://search.dartslive.com/jp/shop/9882f1db87c1abb40d9b047a20a7ba1e">Zenith</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|12|1034|<span class="rank-name-dl">ともたか</span>|<a href="https://search.dartslive.com/jp/shop/b98b5c9bd8a73e07790ab824ce8730e5">YELLOW</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|12|1034|<span class="rank-name-dl">ＫＥＩ－5</span>|<a href="https://search.dartslive.com/jp/shop/b98b5c9bd8a73e07790ab824ce8730e5">YELLOW</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|12|1034|<span class="rank-name-dl">ＫＥＩ－5</span>|<a href="https://search.dartslive.com/jp/shop/b98b5c9bd8a73e07790ab824ce8730e5">YELLOW YELLOW</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|15|1033|<span class="rank-name-pd">yuzuki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85554?s_seq=85554">ファンタイム 帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|16|1030|<span class="rank-name-dl">ケイ☆zill</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|17|1022|<span class="rank-name-dl">♪刑ぽんぽこ♪</span>|<a href="https://search.dartslive.com/jp/shop/0b4ef7a43c446dbb28032249b44395af">trinity</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|18|1021|<span class="rank-name-dl">トモヤ</span>|<a href="https://search.dartslive.com/jp/shop/b98b5c9bd8a73e07790ab824ce8730e5">YELLOW</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|19|1017|<span class="rank-name-dl">ｸｻﾞﾝ@ﾃｷｰﾗ学園</span>|<a href="https://search.dartslive.com/jp/shop/9882f1db87c1abb40d9b047a20a7ba1e">Zenith</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|20|1016|<span class="rank-name-dl">ケイ☆zill</span>|<a href="https://search.dartslive.com/jp/shop/9882f1db87c1abb40d9b047a20a7ba1e">Zenith</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|21|1010|<span class="rank-name-dl">有江 裕士</span>|<a href="https://search.dartslive.com/jp/shop/9882f1db87c1abb40d9b047a20a7ba1e">Zenith</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|22|1006|<span class="rank-name-dl">HY</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|22|1006|<span class="rank-name-dl">K</span>|<a href="https://search.dartslive.com/jp/shop/0b4ef7a43c446dbb28032249b44395af">trinity</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|22|1006|<span class="rank-name-pd">ぽぴぴ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69186?s_seq=69186">ポケットナイン</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|25|1005|<span class="rank-name-dl">Shin naka</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|25|1005|<span class="rank-name-dl">しゅん【025601】</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|25|1005|<span class="rank-name-dl">淺野 龍</span>|<a href="https://search.dartslive.com/jp/shop/9882f1db87c1abb40d9b047a20a7ba1e">Zenith</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|25|1005|<span class="rank-name-dl">ＹＵ－ＹＡ</span>|<a href="https://search.dartslive.com/jp/shop/bfa051ab4ada76850d9b047a20a7ba1e">GiGOドリームタウン白樺</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|25|1005|<span class="rank-name-dl">ＹＵ－ＹＡ</span>|<a href="https://search.dartslive.com/jp/shop/bfa051ab4ada76850d9b047a20a7ba1e">GiGOドリームタウン白樺 GiGOドリームタウン白樺</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|30|1003|<span class="rank-name-dl">☆TAKA☆</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|30|1003|<span class="rank-name-dl">ふうか</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|30|1003|<span class="rank-name-dl">ふうか</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店 ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|33|1001|<span class="rank-name-pd">HY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69186?s_seq=69186">ポケットナイン</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|34|1000|<span class="rank-name-dl">大泉 拓麻</span>|<a href="https://search.dartslive.com/jp/shop/0b4ef7a43c446dbb28032249b44395af">trinity</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|35|999|<span class="rank-name-dl">オノ コウイチ</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|36|986|<span class="rank-name-dl">タカマルコ</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|37|977|<span class="rank-name-dl">junko akaishi</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|38|974|<span class="rank-name-dl">NO NAME 0792</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|39|972|<span class="rank-name-dl">こば</span>|<a href="https://search.dartslive.com/jp/shop/0b4ef7a43c446dbb28032249b44395af">trinity</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|39|972|<span class="rank-name-dl">こば</span>|<a href="https://search.dartslive.com/jp/shop/0b4ef7a43c446dbb28032249b44395af">trinity trinity</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|41|970|<span class="rank-name-dl">DJどばいの中の人</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|42|968|<span class="rank-name-pd">ゆうきくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69186?s_seq=69186">ポケットナイン</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|43|967|<span class="rank-name-dl">ともたか</span>|<a href="https://search.dartslive.com/jp/shop/8676def435bd6c270d9b047a20a7ba1e">PUB SUPER MAX</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|44|966|<span class="rank-name-dl">lllllllllll</span>|<a href="https://search.dartslive.com/jp/shop/0b4ef7a43c446dbb28032249b44395af">trinity</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|44|966|<span class="rank-name-pd">菅野 友貴</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85554?s_seq=85554">ファンタイム 帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|46|965|<span class="rank-name-dl">吉地 常晃</span>|<a href="https://search.dartslive.com/jp/shop/9882f1db87c1abb40d9b047a20a7ba1e">Zenith</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|46|965|<span class="rank-name-dl">大泉 拓麻</span>|<a href="https://search.dartslive.com/jp/shop/b98b5c9bd8a73e07790ab824ce8730e5">YELLOW</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|48|963|<span class="rank-name-pd">DJどばいの中の人</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85554?s_seq=85554">ファンタイム 帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|49|961|<span class="rank-name-dl">ボリビアーノ</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|50|960|<span class="rank-name-dl">毛淫濃すぎ</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|51|958|<span class="rank-name-dl">NO NAME 3638</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|51|958|<span class="rank-name-dl">吉地　常晃</span>|<a href="https://search.dartslive.com/jp/shop/9882f1db87c1abb40d9b047a20a7ba1e">Zenith</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|51|958|<span class="rank-name-dl">吉地　常晃</span>|<a href="https://search.dartslive.com/jp/shop/9882f1db87c1abb40d9b047a20a7ba1e">Zenith Zenith</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|54|955|<span class="rank-name-dl">yuzuki</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|54|955|<span class="rank-name-dl">青下　周敦</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|56|954|<span class="rank-name-pd">うえこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85554?s_seq=85554">ファンタイム 帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|57|951|<span class="rank-name-dl">☆camel</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|58|950|<span class="rank-name-dl">DJどばいの中の人</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店 ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|59|948|<span class="rank-name-dl">トモヤ</span>|<a href="https://search.dartslive.com/jp/shop/8676def435bd6c270d9b047a20a7ba1e">PUB SUPER MAX</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|60|947|<span class="rank-name-pd">たぐ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69186?s_seq=69186">ポケットナイン</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|61|945|<span class="rank-name-pd">40COLOR</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85554?s_seq=85554">ファンタイム 帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|62|937|<span class="rank-name-dl">ＹＵ－ＹＡ</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|62|937|<span class="rank-name-dl">ＹＵ－ＹＡ</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店 ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|64|936|<span class="rank-name-dl">福田真也</span>|<a href="https://search.dartslive.com/jp/shop/9882f1db87c1abb40d9b047a20a7ba1e">Zenith</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|64|936|<span class="rank-name-dl">福田真也</span>|<a href="https://search.dartslive.com/jp/shop/9882f1db87c1abb40d9b047a20a7ba1e">Zenith Zenith</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|66|935|<span class="rank-name-pd">0246 3158</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69186?s_seq=69186">ポケットナイン</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|67|933|<span class="rank-name-dl">くーたろう</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|68|932|<span class="rank-name-dl">ゆうき</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|69|931|<span class="rank-name-pd">まさき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85554?s_seq=85554">ファンタイム 帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|69|931|<span class="rank-name-dl">アインシュタイン</span>|<a href="https://search.dartslive.com/jp/shop/8676def435bd6c270d9b047a20a7ba1e">PUB SUPER MAX</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|69|931|<span class="rank-name-dl">ＫＥＩ－5</span>|<a href="https://search.dartslive.com/jp/shop/0b4ef7a43c446dbb28032249b44395af">trinity</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|72|930|<span class="rank-name-dl">DEATH♂</span>|<a href="https://search.dartslive.com/jp/shop/0b4ef7a43c446dbb28032249b44395af">trinity</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|72|930|<span class="rank-name-dl">倉内 尚弘</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|74|928|<span class="rank-name-dl">大泉 拓麻</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|75|927|<span class="rank-name-pd"><span class="pro-icon-pd"></span>菅野 友貴</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_7337?s_seq=7337">PUB super MAX</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|76|926|<span class="rank-name-dl">Kei</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|76|926|<span class="rank-name-pd">yuzuki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69186?s_seq=69186">ポケットナイン</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|78|925|<span class="rank-name-dl">こば2</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|79|922|<span class="rank-name-dl">イサック</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|80|920|<span class="rank-name-pd">髙田 大志</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69186?s_seq=69186">ポケットナイン</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|81|913|<span class="rank-name-pd">ANAGO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85554?s_seq=85554">ファンタイム 帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|81|913|<span class="rank-name-pd">☆エビちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85554?s_seq=85554">ファンタイム 帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|83|911|<span class="rank-name-dl">トモヤ</span>|<a href="https://search.dartslive.com/jp/shop/9882f1db87c1abb40d9b047a20a7ba1e">Zenith</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|84|907|<span class="rank-name-dl">すけけー</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|85|906|<span class="rank-name-pd">匠</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_69186?s_seq=69186">ポケットナイン</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|86|905|<span class="rank-name-dl">()</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|86|905|<span class="rank-name-dl">いけだ だいご</span>|<a href="https://search.dartslive.com/jp/shop/9882f1db87c1abb40d9b047a20a7ba1e">Zenith</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|86|905|<span class="rank-name-dl">筋肉ラッシー</span>|<a href="https://search.dartslive.com/jp/shop/bfa051ab4ada76850d9b047a20a7ba1e">GiGOドリームタウン白樺</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|86|905|<span class="rank-name-dl">筋肉ラッシー</span>|<a href="https://search.dartslive.com/jp/shop/bfa051ab4ada76850d9b047a20a7ba1e">GiGOドリームタウン白樺 GiGOドリームタウン白樺</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|90|902|<span class="rank-name-dl">はらぼー</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|91|900|<span class="rank-name-dl">青下　周敦</span>|<a href="https://search.dartslive.com/jp/shop/0b4ef7a43c446dbb28032249b44395af">trinity</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|92|899|<span class="rank-name-dl">HanabiMania</span>|<a href="https://search.dartslive.com/jp/shop/bfa051ab4ada76850d9b047a20a7ba1e">GiGOドリームタウン白樺</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|92|899|<span class="rank-name-dl">HanabiMania</span>|<a href="https://search.dartslive.com/jp/shop/bfa051ab4ada76850d9b047a20a7ba1e">GiGOドリームタウン白樺 GiGOドリームタウン白樺</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|94|897|<span class="rank-name-dl">TAI</span>|<a href="https://search.dartslive.com/jp/shop/9882f1db87c1abb40d9b047a20a7ba1e">Zenith</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|95|895|<span class="rank-name-dl">SHO</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|96|892|<span class="rank-name-dl">倉内 尚弘</span>|<a href="https://search.dartslive.com/jp/shop/ef3711b6312dd90f5f9f3321c1147265">Dining&Darts Bar AJITO</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|96|892|<span class="rank-name-dl">倉内 尚弘</span>|<a href="https://search.dartslive.com/jp/shop/ef3711b6312dd90f5f9f3321c1147265">Dining&Darts Bar AJITO Dining&Darts Bar AJITO</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|96|892|<span class="rank-name-pd">雑毛漏煮監督</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_85554?s_seq=85554">ファンタイム 帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|99|888|<span class="rank-name-dl">けちょこ</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|100|887|<span class="rank-name-dl">DANA</span>|<a href="https://search.dartslive.com/jp/shop/0b4ef7a43c446dbb28032249b44395af">trinity</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -141,97 +141,97 @@ ___
 |7|1051|<span class="rank-name-dl">トモヤ</span>|<a href="https://search.dartslive.com/jp/shop/0b4ef7a43c446dbb28032249b44395af">trinity</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
 |7|1051|<span class="rank-name-dl">髙田 大志</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
 |9|1039|<span class="rank-name-dl">k</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|10|1037|<span class="rank-name-dl">こば</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
 |10|1037|<span class="rank-name-dl">こば</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店 ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|11|1034|<span class="rank-name-dl">ともたか</span>|<a href="https://search.dartslive.com/jp/shop/b98b5c9bd8a73e07790ab824ce8730e5">YELLOW</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|11|1034|<span class="rank-name-dl">ＫＥＩ－5</span>|<a href="https://search.dartslive.com/jp/shop/b98b5c9bd8a73e07790ab824ce8730e5">YELLOW YELLOW</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|13|1030|<span class="rank-name-dl">ケイ☆zill</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|14|1022|<span class="rank-name-dl">♪刑ぽんぽこ♪</span>|<a href="https://search.dartslive.com/jp/shop/0b4ef7a43c446dbb28032249b44395af">trinity</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|15|1021|<span class="rank-name-dl">トモヤ</span>|<a href="https://search.dartslive.com/jp/shop/b98b5c9bd8a73e07790ab824ce8730e5">YELLOW</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|16|1017|<span class="rank-name-dl">ｸｻﾞﾝ@ﾃｷｰﾗ学園</span>|<a href="https://search.dartslive.com/jp/shop/9882f1db87c1abb40d9b047a20a7ba1e">Zenith</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|17|1016|<span class="rank-name-dl">ケイ☆zill</span>|<a href="https://search.dartslive.com/jp/shop/9882f1db87c1abb40d9b047a20a7ba1e">Zenith</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|18|1010|<span class="rank-name-dl">有江 裕士</span>|<a href="https://search.dartslive.com/jp/shop/9882f1db87c1abb40d9b047a20a7ba1e">Zenith</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|19|1006|<span class="rank-name-dl">HY</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|19|1006|<span class="rank-name-dl">K</span>|<a href="https://search.dartslive.com/jp/shop/0b4ef7a43c446dbb28032249b44395af">trinity</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|21|1005|<span class="rank-name-dl">Shin naka</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|21|1005|<span class="rank-name-dl">しゅん【025601】</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|21|1005|<span class="rank-name-dl">淺野 龍</span>|<a href="https://search.dartslive.com/jp/shop/9882f1db87c1abb40d9b047a20a7ba1e">Zenith</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|21|1005|<span class="rank-name-dl">ＹＵ－ＹＡ</span>|<a href="https://search.dartslive.com/jp/shop/bfa051ab4ada76850d9b047a20a7ba1e">GiGOドリームタウン白樺 GiGOドリームタウン白樺</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|25|1003|<span class="rank-name-dl">☆TAKA☆</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|25|1003|<span class="rank-name-dl">ふうか</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店 ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|27|1000|<span class="rank-name-dl">大泉 拓麻</span>|<a href="https://search.dartslive.com/jp/shop/0b4ef7a43c446dbb28032249b44395af">trinity</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|28|999|<span class="rank-name-dl">オノ コウイチ</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|29|986|<span class="rank-name-dl">タカマルコ</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|30|977|<span class="rank-name-dl">junko akaishi</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|31|974|<span class="rank-name-dl">NO NAME 0792</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|32|972|<span class="rank-name-dl">こば</span>|<a href="https://search.dartslive.com/jp/shop/0b4ef7a43c446dbb28032249b44395af">trinity trinity</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|33|970|<span class="rank-name-dl">DJどばいの中の人</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|34|967|<span class="rank-name-dl">ともたか</span>|<a href="https://search.dartslive.com/jp/shop/8676def435bd6c270d9b047a20a7ba1e">PUB SUPER MAX</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|35|966|<span class="rank-name-dl">lllllllllll</span>|<a href="https://search.dartslive.com/jp/shop/0b4ef7a43c446dbb28032249b44395af">trinity</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|36|965|<span class="rank-name-dl">吉地 常晃</span>|<a href="https://search.dartslive.com/jp/shop/9882f1db87c1abb40d9b047a20a7ba1e">Zenith</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|36|965|<span class="rank-name-dl">大泉 拓麻</span>|<a href="https://search.dartslive.com/jp/shop/b98b5c9bd8a73e07790ab824ce8730e5">YELLOW</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|38|964|<span class="rank-name-dl">ＫＥＩ－5</span>|<a href="https://search.dartslive.com/jp/shop/b98b5c9bd8a73e07790ab824ce8730e5">YELLOW</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|39|961|<span class="rank-name-dl">ボリビアーノ</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|40|960|<span class="rank-name-dl">毛淫濃すぎ</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|41|958|<span class="rank-name-dl">NO NAME 3638</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|41|958|<span class="rank-name-dl">吉地　常晃</span>|<a href="https://search.dartslive.com/jp/shop/9882f1db87c1abb40d9b047a20a7ba1e">Zenith Zenith</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|43|957|<span class="rank-name-dl">こば</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|44|955|<span class="rank-name-dl">yuzuki</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|44|955|<span class="rank-name-dl">青下　周敦</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|46|951|<span class="rank-name-dl">☆camel</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|47|950|<span class="rank-name-dl">DJどばいの中の人</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店 ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|48|948|<span class="rank-name-dl">トモヤ</span>|<a href="https://search.dartslive.com/jp/shop/8676def435bd6c270d9b047a20a7ba1e">PUB SUPER MAX</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|49|937|<span class="rank-name-dl">ＹＵ－ＹＡ</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店 ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|50|936|<span class="rank-name-dl">福田真也</span>|<a href="https://search.dartslive.com/jp/shop/9882f1db87c1abb40d9b047a20a7ba1e">Zenith Zenith</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|51|933|<span class="rank-name-dl">くーたろう</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|52|932|<span class="rank-name-dl">ゆうき</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|53|931|<span class="rank-name-dl">アインシュタイン</span>|<a href="https://search.dartslive.com/jp/shop/8676def435bd6c270d9b047a20a7ba1e">PUB SUPER MAX</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|53|931|<span class="rank-name-dl">ＫＥＩ－5</span>|<a href="https://search.dartslive.com/jp/shop/0b4ef7a43c446dbb28032249b44395af">trinity</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|55|930|<span class="rank-name-dl">DEATH♂</span>|<a href="https://search.dartslive.com/jp/shop/0b4ef7a43c446dbb28032249b44395af">trinity</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|55|930|<span class="rank-name-dl">倉内 尚弘</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|57|928|<span class="rank-name-dl">大泉 拓麻</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|58|926|<span class="rank-name-dl">Kei</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|59|925|<span class="rank-name-dl">こば2</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|60|922|<span class="rank-name-dl">イサック</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|61|911|<span class="rank-name-dl">トモヤ</span>|<a href="https://search.dartslive.com/jp/shop/9882f1db87c1abb40d9b047a20a7ba1e">Zenith</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|62|907|<span class="rank-name-dl">すけけー</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|63|905|<span class="rank-name-dl">()</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|63|905|<span class="rank-name-dl">いけだ だいご</span>|<a href="https://search.dartslive.com/jp/shop/9882f1db87c1abb40d9b047a20a7ba1e">Zenith</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|63|905|<span class="rank-name-dl">筋肉ラッシー</span>|<a href="https://search.dartslive.com/jp/shop/bfa051ab4ada76850d9b047a20a7ba1e">GiGOドリームタウン白樺 GiGOドリームタウン白樺</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|66|902|<span class="rank-name-dl">はらぼー</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|67|900|<span class="rank-name-dl">青下　周敦</span>|<a href="https://search.dartslive.com/jp/shop/0b4ef7a43c446dbb28032249b44395af">trinity</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|68|899|<span class="rank-name-dl">HanabiMania</span>|<a href="https://search.dartslive.com/jp/shop/bfa051ab4ada76850d9b047a20a7ba1e">GiGOドリームタウン白樺 GiGOドリームタウン白樺</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|69|898|<span class="rank-name-dl">ふうか</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|70|897|<span class="rank-name-dl">TAI</span>|<a href="https://search.dartslive.com/jp/shop/9882f1db87c1abb40d9b047a20a7ba1e">Zenith</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|71|895|<span class="rank-name-dl">SHO</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|72|892|<span class="rank-name-dl">倉内 尚弘</span>|<a href="https://search.dartslive.com/jp/shop/ef3711b6312dd90f5f9f3321c1147265">Dining&Darts Bar AJITO Dining&Darts Bar AJITO</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|73|888|<span class="rank-name-dl">けちょこ</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|74|887|<span class="rank-name-dl">DANA</span>|<a href="https://search.dartslive.com/jp/shop/0b4ef7a43c446dbb28032249b44395af">trinity</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|74|887|<span class="rank-name-dl">ねぎ</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|76|886|<span class="rank-name-dl">ロングテール</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|76|886|<span class="rank-name-dl">倉内 尚弘</span>|<a href="https://search.dartslive.com/jp/shop/8676def435bd6c270d9b047a20a7ba1e">PUB SUPER MAX</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|76|886|<span class="rank-name-dl">青野　耀太郎</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|79|885|<span class="rank-name-dl">トモヤ</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|80|884|<span class="rank-name-dl">Masaki Nagae</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|81|882|<span class="rank-name-dl">吉地常晃</span>|<a href="https://search.dartslive.com/jp/shop/9882f1db87c1abb40d9b047a20a7ba1e">Zenith</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|82|881|<span class="rank-name-dl">YUKI</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|83|880|<span class="rank-name-dl">si-ma</span>|<a href="https://search.dartslive.com/jp/shop/0b4ef7a43c446dbb28032249b44395af">trinity</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|84|879|<span class="rank-name-dl">ＹＵ－ＹＡ</span>|<a href="https://search.dartslive.com/jp/shop/b98b5c9bd8a73e07790ab824ce8730e5">YELLOW YELLOW</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|85|877|<span class="rank-name-dl">2+4+4=244</span>|<a href="https://search.dartslive.com/jp/shop/8676def435bd6c270d9b047a20a7ba1e">PUB SUPER MAX PUB SUPER MAX</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|86|875|<span class="rank-name-dl">高橋食堂</span>|<a href="https://search.dartslive.com/jp/shop/9882f1db87c1abb40d9b047a20a7ba1e">Zenith</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|87|874|<span class="rank-name-dl">片山祐貴@Secret</span>|<a href="https://search.dartslive.com/jp/shop/0b4ef7a43c446dbb28032249b44395af">trinity</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|88|871|<span class="rank-name-dl">DJどばいの中の人</span>|<a href="https://search.dartslive.com/jp/shop/0b4ef7a43c446dbb28032249b44395af">trinity</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|89|866|<span class="rank-name-dl">吉地 常晃</span>|<a href="https://search.dartslive.com/jp/shop/9882f1db87c1abb40d9b047a20a7ba1e">Zenith Zenith</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|89|866|<span class="rank-name-dl">ＹＵ－ＹＡ</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|91|863|<span class="rank-name-dl">yoshi★DA★</span>|<a href="https://search.dartslive.com/jp/shop/9882f1db87c1abb40d9b047a20a7ba1e">Zenith</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|92|862|<span class="rank-name-dl">タカマルコ</span>|<a href="https://search.dartslive.com/jp/shop/8676def435bd6c270d9b047a20a7ba1e">PUB SUPER MAX</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|93|858|<span class="rank-name-dl">SSS</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|93|858|<span class="rank-name-dl">まさき</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|95|855|<span class="rank-name-dl">木皿 達也</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|96|851|<span class="rank-name-dl">HanabiMania</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店 ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|96|851|<span class="rank-name-dl">REM4231</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|96|851|<span class="rank-name-dl">ふうか</span>|<a href="https://search.dartslive.com/jp/shop/b98b5c9bd8a73e07790ab824ce8730e5">YELLOW</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|99|850|<span class="rank-name-dl">★Choco</span>|<a href="https://search.dartslive.com/jp/shop/0b4ef7a43c446dbb28032249b44395af">trinity</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
-|100|848|<span class="rank-name-dl">こば</span>|<a href="https://search.dartslive.com/jp/shop/0b4ef7a43c446dbb28032249b44395af">trinity</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|12|1034|<span class="rank-name-dl">ともたか</span>|<a href="https://search.dartslive.com/jp/shop/b98b5c9bd8a73e07790ab824ce8730e5">YELLOW</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|12|1034|<span class="rank-name-dl">ＫＥＩ－5</span>|<a href="https://search.dartslive.com/jp/shop/b98b5c9bd8a73e07790ab824ce8730e5">YELLOW</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|12|1034|<span class="rank-name-dl">ＫＥＩ－5</span>|<a href="https://search.dartslive.com/jp/shop/b98b5c9bd8a73e07790ab824ce8730e5">YELLOW YELLOW</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|15|1030|<span class="rank-name-dl">ケイ☆zill</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|16|1022|<span class="rank-name-dl">♪刑ぽんぽこ♪</span>|<a href="https://search.dartslive.com/jp/shop/0b4ef7a43c446dbb28032249b44395af">trinity</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|17|1021|<span class="rank-name-dl">トモヤ</span>|<a href="https://search.dartslive.com/jp/shop/b98b5c9bd8a73e07790ab824ce8730e5">YELLOW</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|18|1017|<span class="rank-name-dl">ｸｻﾞﾝ@ﾃｷｰﾗ学園</span>|<a href="https://search.dartslive.com/jp/shop/9882f1db87c1abb40d9b047a20a7ba1e">Zenith</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|19|1016|<span class="rank-name-dl">ケイ☆zill</span>|<a href="https://search.dartslive.com/jp/shop/9882f1db87c1abb40d9b047a20a7ba1e">Zenith</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|20|1010|<span class="rank-name-dl">有江 裕士</span>|<a href="https://search.dartslive.com/jp/shop/9882f1db87c1abb40d9b047a20a7ba1e">Zenith</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|21|1006|<span class="rank-name-dl">HY</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|21|1006|<span class="rank-name-dl">K</span>|<a href="https://search.dartslive.com/jp/shop/0b4ef7a43c446dbb28032249b44395af">trinity</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|23|1005|<span class="rank-name-dl">Shin naka</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|23|1005|<span class="rank-name-dl">しゅん【025601】</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|23|1005|<span class="rank-name-dl">淺野 龍</span>|<a href="https://search.dartslive.com/jp/shop/9882f1db87c1abb40d9b047a20a7ba1e">Zenith</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|23|1005|<span class="rank-name-dl">ＹＵ－ＹＡ</span>|<a href="https://search.dartslive.com/jp/shop/bfa051ab4ada76850d9b047a20a7ba1e">GiGOドリームタウン白樺</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|23|1005|<span class="rank-name-dl">ＹＵ－ＹＡ</span>|<a href="https://search.dartslive.com/jp/shop/bfa051ab4ada76850d9b047a20a7ba1e">GiGOドリームタウン白樺 GiGOドリームタウン白樺</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|28|1003|<span class="rank-name-dl">☆TAKA☆</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|28|1003|<span class="rank-name-dl">ふうか</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|28|1003|<span class="rank-name-dl">ふうか</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店 ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|31|1000|<span class="rank-name-dl">大泉 拓麻</span>|<a href="https://search.dartslive.com/jp/shop/0b4ef7a43c446dbb28032249b44395af">trinity</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|32|999|<span class="rank-name-dl">オノ コウイチ</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|33|986|<span class="rank-name-dl">タカマルコ</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|34|977|<span class="rank-name-dl">junko akaishi</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|35|974|<span class="rank-name-dl">NO NAME 0792</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|36|972|<span class="rank-name-dl">こば</span>|<a href="https://search.dartslive.com/jp/shop/0b4ef7a43c446dbb28032249b44395af">trinity</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|36|972|<span class="rank-name-dl">こば</span>|<a href="https://search.dartslive.com/jp/shop/0b4ef7a43c446dbb28032249b44395af">trinity trinity</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|38|970|<span class="rank-name-dl">DJどばいの中の人</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|39|967|<span class="rank-name-dl">ともたか</span>|<a href="https://search.dartslive.com/jp/shop/8676def435bd6c270d9b047a20a7ba1e">PUB SUPER MAX</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|40|966|<span class="rank-name-dl">lllllllllll</span>|<a href="https://search.dartslive.com/jp/shop/0b4ef7a43c446dbb28032249b44395af">trinity</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|41|965|<span class="rank-name-dl">吉地 常晃</span>|<a href="https://search.dartslive.com/jp/shop/9882f1db87c1abb40d9b047a20a7ba1e">Zenith</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|41|965|<span class="rank-name-dl">大泉 拓麻</span>|<a href="https://search.dartslive.com/jp/shop/b98b5c9bd8a73e07790ab824ce8730e5">YELLOW</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|43|961|<span class="rank-name-dl">ボリビアーノ</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|44|960|<span class="rank-name-dl">毛淫濃すぎ</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|45|958|<span class="rank-name-dl">NO NAME 3638</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|45|958|<span class="rank-name-dl">吉地　常晃</span>|<a href="https://search.dartslive.com/jp/shop/9882f1db87c1abb40d9b047a20a7ba1e">Zenith</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|45|958|<span class="rank-name-dl">吉地　常晃</span>|<a href="https://search.dartslive.com/jp/shop/9882f1db87c1abb40d9b047a20a7ba1e">Zenith Zenith</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|48|955|<span class="rank-name-dl">yuzuki</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|48|955|<span class="rank-name-dl">青下　周敦</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|50|951|<span class="rank-name-dl">☆camel</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|51|950|<span class="rank-name-dl">DJどばいの中の人</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店 ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|52|948|<span class="rank-name-dl">トモヤ</span>|<a href="https://search.dartslive.com/jp/shop/8676def435bd6c270d9b047a20a7ba1e">PUB SUPER MAX</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|53|937|<span class="rank-name-dl">ＹＵ－ＹＡ</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|53|937|<span class="rank-name-dl">ＹＵ－ＹＡ</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店 ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|55|936|<span class="rank-name-dl">福田真也</span>|<a href="https://search.dartslive.com/jp/shop/9882f1db87c1abb40d9b047a20a7ba1e">Zenith</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|55|936|<span class="rank-name-dl">福田真也</span>|<a href="https://search.dartslive.com/jp/shop/9882f1db87c1abb40d9b047a20a7ba1e">Zenith Zenith</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|57|933|<span class="rank-name-dl">くーたろう</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|58|932|<span class="rank-name-dl">ゆうき</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|59|931|<span class="rank-name-dl">アインシュタイン</span>|<a href="https://search.dartslive.com/jp/shop/8676def435bd6c270d9b047a20a7ba1e">PUB SUPER MAX</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|59|931|<span class="rank-name-dl">ＫＥＩ－5</span>|<a href="https://search.dartslive.com/jp/shop/0b4ef7a43c446dbb28032249b44395af">trinity</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|61|930|<span class="rank-name-dl">DEATH♂</span>|<a href="https://search.dartslive.com/jp/shop/0b4ef7a43c446dbb28032249b44395af">trinity</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|61|930|<span class="rank-name-dl">倉内 尚弘</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|63|928|<span class="rank-name-dl">大泉 拓麻</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|64|926|<span class="rank-name-dl">Kei</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|65|925|<span class="rank-name-dl">こば2</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|66|922|<span class="rank-name-dl">イサック</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|67|911|<span class="rank-name-dl">トモヤ</span>|<a href="https://search.dartslive.com/jp/shop/9882f1db87c1abb40d9b047a20a7ba1e">Zenith</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|68|907|<span class="rank-name-dl">すけけー</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|69|905|<span class="rank-name-dl">()</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|69|905|<span class="rank-name-dl">いけだ だいご</span>|<a href="https://search.dartslive.com/jp/shop/9882f1db87c1abb40d9b047a20a7ba1e">Zenith</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|69|905|<span class="rank-name-dl">筋肉ラッシー</span>|<a href="https://search.dartslive.com/jp/shop/bfa051ab4ada76850d9b047a20a7ba1e">GiGOドリームタウン白樺</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|69|905|<span class="rank-name-dl">筋肉ラッシー</span>|<a href="https://search.dartslive.com/jp/shop/bfa051ab4ada76850d9b047a20a7ba1e">GiGOドリームタウン白樺 GiGOドリームタウン白樺</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|73|902|<span class="rank-name-dl">はらぼー</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|74|900|<span class="rank-name-dl">青下　周敦</span>|<a href="https://search.dartslive.com/jp/shop/0b4ef7a43c446dbb28032249b44395af">trinity</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|75|899|<span class="rank-name-dl">HanabiMania</span>|<a href="https://search.dartslive.com/jp/shop/bfa051ab4ada76850d9b047a20a7ba1e">GiGOドリームタウン白樺</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|75|899|<span class="rank-name-dl">HanabiMania</span>|<a href="https://search.dartslive.com/jp/shop/bfa051ab4ada76850d9b047a20a7ba1e">GiGOドリームタウン白樺 GiGOドリームタウン白樺</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|77|897|<span class="rank-name-dl">TAI</span>|<a href="https://search.dartslive.com/jp/shop/9882f1db87c1abb40d9b047a20a7ba1e">Zenith</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|78|895|<span class="rank-name-dl">SHO</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|79|892|<span class="rank-name-dl">倉内 尚弘</span>|<a href="https://search.dartslive.com/jp/shop/ef3711b6312dd90f5f9f3321c1147265">Dining&Darts Bar AJITO</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|79|892|<span class="rank-name-dl">倉内 尚弘</span>|<a href="https://search.dartslive.com/jp/shop/ef3711b6312dd90f5f9f3321c1147265">Dining&Darts Bar AJITO Dining&Darts Bar AJITO</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|81|888|<span class="rank-name-dl">けちょこ</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|82|887|<span class="rank-name-dl">DANA</span>|<a href="https://search.dartslive.com/jp/shop/0b4ef7a43c446dbb28032249b44395af">trinity</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|82|887|<span class="rank-name-dl">ねぎ</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|84|886|<span class="rank-name-dl">ロングテール</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|84|886|<span class="rank-name-dl">倉内 尚弘</span>|<a href="https://search.dartslive.com/jp/shop/8676def435bd6c270d9b047a20a7ba1e">PUB SUPER MAX</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|84|886|<span class="rank-name-dl">青野　耀太郎</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|87|885|<span class="rank-name-dl">トモヤ</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|88|884|<span class="rank-name-dl">Masaki Nagae</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|89|882|<span class="rank-name-dl">吉地常晃</span>|<a href="https://search.dartslive.com/jp/shop/9882f1db87c1abb40d9b047a20a7ba1e">Zenith</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|90|881|<span class="rank-name-dl">YUKI</span>|<a href="https://search.dartslive.com/jp/shop/24116a1b9a88f9a80d9b047a20a7ba1e">ｲﾝﾀｰﾈｯﾄｶﾌｪ ﾌｧﾝﾀｲﾑ帯広柏林台店</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|91|880|<span class="rank-name-dl">si-ma</span>|<a href="https://search.dartslive.com/jp/shop/0b4ef7a43c446dbb28032249b44395af">trinity</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|92|879|<span class="rank-name-dl">ＹＵ－ＹＡ</span>|<a href="https://search.dartslive.com/jp/shop/b98b5c9bd8a73e07790ab824ce8730e5">YELLOW</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|92|879|<span class="rank-name-dl">ＹＵ－ＹＡ</span>|<a href="https://search.dartslive.com/jp/shop/b98b5c9bd8a73e07790ab824ce8730e5">YELLOW YELLOW</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|94|877|<span class="rank-name-dl">2+4+4=244</span>|<a href="https://search.dartslive.com/jp/shop/8676def435bd6c270d9b047a20a7ba1e">PUB SUPER MAX</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|94|877|<span class="rank-name-dl">2+4+4=244</span>|<a href="https://search.dartslive.com/jp/shop/8676def435bd6c270d9b047a20a7ba1e">PUB SUPER MAX PUB SUPER MAX</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|96|875|<span class="rank-name-dl">高橋食堂</span>|<a href="https://search.dartslive.com/jp/shop/9882f1db87c1abb40d9b047a20a7ba1e">Zenith</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|97|874|<span class="rank-name-dl">片山祐貴@Secret</span>|<a href="https://search.dartslive.com/jp/shop/0b4ef7a43c446dbb28032249b44395af">trinity</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|98|871|<span class="rank-name-dl">DJどばいの中の人</span>|<a href="https://search.dartslive.com/jp/shop/0b4ef7a43c446dbb28032249b44395af">trinity</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|99|866|<span class="rank-name-dl">吉地 常晃</span>|<a href="https://search.dartslive.com/jp/shop/9882f1db87c1abb40d9b047a20a7ba1e">Zenith Zenith</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
+|100|863|<span class="rank-name-dl">yoshi★DA★</span>|<a href="https://search.dartslive.com/jp/shop/9882f1db87c1abb40d9b047a20a7ba1e">Zenith</a>|<a href="/darts/rank/北海道/帯広市">北海道帯広市</a>|
 
 
 #### PHOENIXDARTS TOP 100

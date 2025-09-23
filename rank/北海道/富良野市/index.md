@@ -26,10 +26,10 @@ ___
 |1|1040|<span class="rank-name-dl">Sa@</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
 |2|1021|<span class="rank-name-dl">@さとし</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
 |3|964|<span class="rank-name-dl">masaki</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|4|892|<span class="rank-name-dl">ake1054velta</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
 |4|892|<span class="rank-name-dl">ake1054velta</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店 遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|5|871|<span class="rank-name-dl">00000000</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|6|870|<span class="rank-name-dl">段ボール作る人</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|7|863|<span class="rank-name-dl">ake1054velta</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|6|871|<span class="rank-name-dl">00000000</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|7|870|<span class="rank-name-dl">段ボール作る人</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
 |8|845|<span class="rank-name-dl">あんもにゃいと</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
 |9|842|<span class="rank-name-dl">RED GOD（aka）</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
 |10|841|<span class="rank-name-dl">TAKU</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
@@ -53,76 +53,76 @@ ___
 |28|703|<span class="rank-name-pd">プリすけ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10642?s_seq=10642">bar&kichen BLT</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
 |29|693|<span class="rank-name-dl">らまだん</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
 |30|690|<span class="rank-name-pd">やうゆ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10642?s_seq=10642">bar&kichen BLT</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|31|688|<span class="rank-name-dl">૮ •-• ა</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
 |31|688|<span class="rank-name-dl">૮ •-• ა</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店 遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|32|683|<span class="rank-name-pd">XOXO1114</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10642?s_seq=10642">bar&kichen BLT</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|32|683|<span class="rank-name-dl">ぷさん</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|34|681|<span class="rank-name-pd">Laichi×DUO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10642?s_seq=10642">bar&kichen BLT</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|35|679|<span class="rank-name-dl">ブルを狙え！</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|36|676|<span class="rank-name-pd">マルヤマンきゅん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10642?s_seq=10642">bar&kichen BLT</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|37|674|<span class="rank-name-pd">えんや</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10642?s_seq=10642">bar&kichen BLT</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|38|666|<span class="rank-name-dl">こなこぉひぃ</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|38|666|<span class="rank-name-pd"><span class="pro-icon-pd"></span>菅原 武</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10642?s_seq=10642">bar&kichen BLT</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|40|664|<span class="rank-name-pd"> ばーびーザキヤマ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10642?s_seq=10642">bar&kichen BLT</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|40|664|<span class="rank-name-dl">ksk</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|42|661|<span class="rank-name-dl">NEOCHI</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|43|657|<span class="rank-name-dl">NO NAME 7718</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|43|657|<span class="rank-name-dl">kazu</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|43|657|<span class="rank-name-dl">一志</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|46|646|<span class="rank-name-dl">かずまんぴー</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|47|640|<span class="rank-name-dl">NES</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|48|638|<span class="rank-name-dl">Laichi</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|49|636|<span class="rank-name-pd">kazuki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10642?s_seq=10642">bar&kichen BLT</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|50|634|<span class="rank-name-pd">さぁて！来週のマルヤマンは！？</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10642?s_seq=10642">bar&kichen BLT</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|51|632|<span class="rank-name-dl">NO NAME 5079</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|52|618|<span class="rank-name-dl">SEKAI NO MARU</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|53|611|<span class="rank-name-dl">A HAPPY 104 YEAR</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|54|604|<span class="rank-name-dl">リン</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|55|586|<span class="rank-name-pd">IGOMAMA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10642?s_seq=10642">bar&kichen BLT</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|56|584|<span class="rank-name-pd">舐めダルマ炙りま⚪︎こ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10642?s_seq=10642">bar&kichen BLT</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|57|576|<span class="rank-name-dl">なびび</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|58|573|<span class="rank-name-dl">ソ～ンバルケ</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|59|564|<span class="rank-name-dl">Chik4</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|60|560|<span class="rank-name-pd">Leader</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10642?s_seq=10642">bar&kichen BLT</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|61|559|<span class="rank-name-dl">ゆきえちゃん</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|62|546|<span class="rank-name-pd">YAMADA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10642?s_seq=10642">bar&kichen BLT</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|63|542|<span class="rank-name-pd">SUNNY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10642?s_seq=10642">bar&kichen BLT</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|64|541|<span class="rank-name-pd">2310</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10642?s_seq=10642">bar&kichen BLT</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|65|538|<span class="rank-name-dl">匠</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|66|527|<span class="rank-name-pd">P-nuts</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10642?s_seq=10642">bar&kichen BLT</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|67|522|<span class="rank-name-dl">Tsubasa</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|68|520|<span class="rank-name-dl">Sakuya</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|69|513|<span class="rank-name-pd">エリザベth</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10642?s_seq=10642">bar&kichen BLT</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|70|504|<span class="rank-name-pd">クレヨンしんちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10642?s_seq=10642">bar&kichen BLT</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|71|503|<span class="rank-name-pd">せつこ！それはマルヤマンやない</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10642?s_seq=10642">bar&kichen BLT</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|72|500|<span class="rank-name-dl">NO NAME 1366</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|73|494|<span class="rank-name-dl">真理の扉</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|74|491|<span class="rank-name-dl">BULLドックソース</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|75|488|<span class="rank-name-pd">est_maxim</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10642?s_seq=10642">bar&kichen BLT</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|76|487|<span class="rank-name-pd"><span class="pro-icon-pd"></span>岡田 憲卓</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10642?s_seq=10642">bar&kichen BLT</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|77|475|<span class="rank-name-dl">Naaku</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|78|474|<span class="rank-name-dl">panda</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店 遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|79|465|<span class="rank-name-dl">FS</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|80|459|<span class="rank-name-dl">小太郎</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|81|457|<span class="rank-name-pd">おとみ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10642?s_seq=10642">bar&kichen BLT</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|82|455|<span class="rank-name-pd">KOYAMA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10642?s_seq=10642">bar&kichen BLT</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|83|454|<span class="rank-name-dl">Yukipoyo</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|84|448|<span class="rank-name-dl">Ntwinky</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|84|448|<span class="rank-name-dl">まる</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|86|444|<span class="rank-name-dl">しおん</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|87|442|<span class="rank-name-dl">TAKUMAX</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|87|442|<span class="rank-name-dl">ゆきおちゃん</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|89|441|<span class="rank-name-dl">ちゃんみお</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店 遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|90|439|<span class="rank-name-dl">SUNA</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|90|439|<span class="rank-name-dl">ずんだもん</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|92|434|<span class="rank-name-dl">3273</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|92|434|<span class="rank-name-dl">NO NAME 2704</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|94|433|<span class="rank-name-dl">も</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店 遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|95|429|<span class="rank-name-pd">fairy</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10642?s_seq=10642">bar&kichen BLT</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|96|421|<span class="rank-name-pd">みやぞんぞん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10642?s_seq=10642">bar&kichen BLT</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|97|405|<span class="rank-name-pd">MASAMI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10642?s_seq=10642">bar&kichen BLT</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|98|404|<span class="rank-name-dl">Shouta</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|99|397|<span class="rank-name-dl">キクリン</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|100|393|<span class="rank-name-dl">NO NAME 4649</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|33|683|<span class="rank-name-pd">XOXO1114</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10642?s_seq=10642">bar&kichen BLT</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|33|683|<span class="rank-name-dl">ぷさん</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|35|681|<span class="rank-name-pd">Laichi×DUO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10642?s_seq=10642">bar&kichen BLT</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|36|679|<span class="rank-name-dl">ブルを狙え！</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|37|676|<span class="rank-name-pd">マルヤマンきゅん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10642?s_seq=10642">bar&kichen BLT</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|38|674|<span class="rank-name-pd">えんや</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10642?s_seq=10642">bar&kichen BLT</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|39|666|<span class="rank-name-dl">こなこぉひぃ</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|39|666|<span class="rank-name-pd"><span class="pro-icon-pd"></span>菅原 武</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10642?s_seq=10642">bar&kichen BLT</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|41|664|<span class="rank-name-pd"> ばーびーザキヤマ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10642?s_seq=10642">bar&kichen BLT</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|41|664|<span class="rank-name-dl">ksk</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|43|661|<span class="rank-name-dl">NEOCHI</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|44|657|<span class="rank-name-dl">NO NAME 7718</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|44|657|<span class="rank-name-dl">kazu</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|44|657|<span class="rank-name-dl">一志</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|47|646|<span class="rank-name-dl">かずまんぴー</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|48|640|<span class="rank-name-dl">NES</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|49|638|<span class="rank-name-dl">Laichi</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|50|636|<span class="rank-name-pd">kazuki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10642?s_seq=10642">bar&kichen BLT</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|51|634|<span class="rank-name-pd">さぁて！来週のマルヤマンは！？</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10642?s_seq=10642">bar&kichen BLT</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|52|632|<span class="rank-name-dl">NO NAME 5079</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|53|618|<span class="rank-name-dl">SEKAI NO MARU</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|54|611|<span class="rank-name-dl">A HAPPY 104 YEAR</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|55|604|<span class="rank-name-dl">リン</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|56|586|<span class="rank-name-pd">IGOMAMA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10642?s_seq=10642">bar&kichen BLT</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|57|584|<span class="rank-name-pd">舐めダルマ炙りま⚪︎こ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10642?s_seq=10642">bar&kichen BLT</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|58|576|<span class="rank-name-dl">なびび</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|59|573|<span class="rank-name-dl">ソ～ンバルケ</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|60|564|<span class="rank-name-dl">Chik4</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|61|560|<span class="rank-name-pd">Leader</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10642?s_seq=10642">bar&kichen BLT</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|62|559|<span class="rank-name-dl">ゆきえちゃん</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|63|546|<span class="rank-name-pd">YAMADA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10642?s_seq=10642">bar&kichen BLT</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|64|542|<span class="rank-name-pd">SUNNY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10642?s_seq=10642">bar&kichen BLT</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|65|541|<span class="rank-name-pd">2310</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10642?s_seq=10642">bar&kichen BLT</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|66|538|<span class="rank-name-dl">匠</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|67|527|<span class="rank-name-pd">P-nuts</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10642?s_seq=10642">bar&kichen BLT</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|68|522|<span class="rank-name-dl">Tsubasa</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|69|520|<span class="rank-name-dl">Sakuya</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|70|513|<span class="rank-name-pd">エリザベth</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10642?s_seq=10642">bar&kichen BLT</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|71|504|<span class="rank-name-pd">クレヨンしんちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10642?s_seq=10642">bar&kichen BLT</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|72|503|<span class="rank-name-pd">せつこ！それはマルヤマンやない</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10642?s_seq=10642">bar&kichen BLT</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|73|500|<span class="rank-name-dl">NO NAME 1366</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|74|494|<span class="rank-name-dl">真理の扉</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|75|491|<span class="rank-name-dl">BULLドックソース</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|76|488|<span class="rank-name-pd">est_maxim</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10642?s_seq=10642">bar&kichen BLT</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|77|487|<span class="rank-name-pd"><span class="pro-icon-pd"></span>岡田 憲卓</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10642?s_seq=10642">bar&kichen BLT</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|78|475|<span class="rank-name-dl">Naaku</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|79|474|<span class="rank-name-dl">panda</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|79|474|<span class="rank-name-dl">panda</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店 遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|81|465|<span class="rank-name-dl">FS</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|82|459|<span class="rank-name-dl">小太郎</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|83|457|<span class="rank-name-pd">おとみ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10642?s_seq=10642">bar&kichen BLT</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|84|455|<span class="rank-name-pd">KOYAMA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10642?s_seq=10642">bar&kichen BLT</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|85|454|<span class="rank-name-dl">Yukipoyo</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|86|448|<span class="rank-name-dl">Ntwinky</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|86|448|<span class="rank-name-dl">まる</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|88|444|<span class="rank-name-dl">しおん</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|89|442|<span class="rank-name-dl">TAKUMAX</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|89|442|<span class="rank-name-dl">ゆきおちゃん</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|91|441|<span class="rank-name-dl">ちゃんみお</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|91|441|<span class="rank-name-dl">ちゃんみお</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店 遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|93|439|<span class="rank-name-dl">SUNA</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|93|439|<span class="rank-name-dl">ずんだもん</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|95|434|<span class="rank-name-dl">3273</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|95|434|<span class="rank-name-dl">NO NAME 2704</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|97|433|<span class="rank-name-dl">も</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|97|433|<span class="rank-name-dl">も</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店 遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|99|429|<span class="rank-name-pd">fairy</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10642?s_seq=10642">bar&kichen BLT</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|100|421|<span class="rank-name-pd">みやぞんぞん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10642?s_seq=10642">bar&kichen BLT</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -135,10 +135,10 @@ ___
 |1|1040|<span class="rank-name-dl">Sa@</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
 |2|1021|<span class="rank-name-dl">@さとし</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
 |3|964|<span class="rank-name-dl">masaki</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|4|892|<span class="rank-name-dl">ake1054velta</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
 |4|892|<span class="rank-name-dl">ake1054velta</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店 遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|5|871|<span class="rank-name-dl">00000000</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|6|870|<span class="rank-name-dl">段ボール作る人</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|7|863|<span class="rank-name-dl">ake1054velta</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|6|871|<span class="rank-name-dl">00000000</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|7|870|<span class="rank-name-dl">段ボール作る人</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
 |8|845|<span class="rank-name-dl">あんもにゃいと</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
 |9|842|<span class="rank-name-dl">RED GOD（aka）</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
 |10|841|<span class="rank-name-dl">TAKU</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
@@ -153,53 +153,58 @@ ___
 |19|712|<span class="rank-name-dl">検閲</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
 |20|711|<span class="rank-name-dl">000000</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
 |21|693|<span class="rank-name-dl">らまだん</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|22|688|<span class="rank-name-dl">૮ •-• ა</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
 |22|688|<span class="rank-name-dl">૮ •-• ა</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店 遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|23|683|<span class="rank-name-dl">ぷさん</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|24|679|<span class="rank-name-dl">ブルを狙え！</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|25|666|<span class="rank-name-dl">こなこぉひぃ</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|26|664|<span class="rank-name-dl">ksk</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|27|661|<span class="rank-name-dl">NEOCHI</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|28|657|<span class="rank-name-dl">NO NAME 7718</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|28|657|<span class="rank-name-dl">kazu</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|28|657|<span class="rank-name-dl">一志</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|31|646|<span class="rank-name-dl">かずまんぴー</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|32|640|<span class="rank-name-dl">NES</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|33|638|<span class="rank-name-dl">Laichi</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|34|632|<span class="rank-name-dl">NO NAME 5079</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|35|618|<span class="rank-name-dl">SEKAI NO MARU</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|36|611|<span class="rank-name-dl">A HAPPY 104 YEAR</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|37|604|<span class="rank-name-dl">リン</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|38|576|<span class="rank-name-dl">なびび</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|39|573|<span class="rank-name-dl">ソ～ンバルケ</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|40|564|<span class="rank-name-dl">Chik4</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|41|559|<span class="rank-name-dl">ゆきえちゃん</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|42|538|<span class="rank-name-dl">匠</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|43|522|<span class="rank-name-dl">Tsubasa</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|44|520|<span class="rank-name-dl">Sakuya</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|45|500|<span class="rank-name-dl">NO NAME 1366</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|46|494|<span class="rank-name-dl">真理の扉</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|47|491|<span class="rank-name-dl">BULLドックソース</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|48|475|<span class="rank-name-dl">Naaku</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|49|474|<span class="rank-name-dl">panda</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店 遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|50|465|<span class="rank-name-dl">FS</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|51|459|<span class="rank-name-dl">小太郎</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|52|454|<span class="rank-name-dl">Yukipoyo</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|53|448|<span class="rank-name-dl">Ntwinky</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|53|448|<span class="rank-name-dl">まる</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|55|444|<span class="rank-name-dl">しおん</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|56|442|<span class="rank-name-dl">TAKUMAX</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|56|442|<span class="rank-name-dl">ゆきおちゃん</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|58|441|<span class="rank-name-dl">ちゃんみお</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店 遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|59|439|<span class="rank-name-dl">SUNA</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|59|439|<span class="rank-name-dl">ずんだもん</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|61|434|<span class="rank-name-dl">3273</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|61|434|<span class="rank-name-dl">NO NAME 2704</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|63|433|<span class="rank-name-dl">も</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店 遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|64|404|<span class="rank-name-dl">Shouta</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|65|397|<span class="rank-name-dl">キクリン</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|66|393|<span class="rank-name-dl">NO NAME 4649</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|67|380|<span class="rank-name-dl">いももち</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
-|68|374|<span class="rank-name-dl">サトウ</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店 遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|24|683|<span class="rank-name-dl">ぷさん</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|25|679|<span class="rank-name-dl">ブルを狙え！</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|26|666|<span class="rank-name-dl">こなこぉひぃ</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|27|664|<span class="rank-name-dl">ksk</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|28|661|<span class="rank-name-dl">NEOCHI</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|29|657|<span class="rank-name-dl">NO NAME 7718</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|29|657|<span class="rank-name-dl">kazu</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|29|657|<span class="rank-name-dl">一志</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|32|646|<span class="rank-name-dl">かずまんぴー</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|33|640|<span class="rank-name-dl">NES</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|34|638|<span class="rank-name-dl">Laichi</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|35|632|<span class="rank-name-dl">NO NAME 5079</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|36|618|<span class="rank-name-dl">SEKAI NO MARU</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|37|611|<span class="rank-name-dl">A HAPPY 104 YEAR</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|38|604|<span class="rank-name-dl">リン</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|39|576|<span class="rank-name-dl">なびび</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|40|573|<span class="rank-name-dl">ソ～ンバルケ</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|41|564|<span class="rank-name-dl">Chik4</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|42|559|<span class="rank-name-dl">ゆきえちゃん</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|43|538|<span class="rank-name-dl">匠</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|44|522|<span class="rank-name-dl">Tsubasa</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|45|520|<span class="rank-name-dl">Sakuya</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|46|500|<span class="rank-name-dl">NO NAME 1366</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|47|494|<span class="rank-name-dl">真理の扉</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|48|491|<span class="rank-name-dl">BULLドックソース</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|49|475|<span class="rank-name-dl">Naaku</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|50|474|<span class="rank-name-dl">panda</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|50|474|<span class="rank-name-dl">panda</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店 遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|52|465|<span class="rank-name-dl">FS</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|53|459|<span class="rank-name-dl">小太郎</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|54|454|<span class="rank-name-dl">Yukipoyo</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|55|448|<span class="rank-name-dl">Ntwinky</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|55|448|<span class="rank-name-dl">まる</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|57|444|<span class="rank-name-dl">しおん</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|58|442|<span class="rank-name-dl">TAKUMAX</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|58|442|<span class="rank-name-dl">ゆきおちゃん</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|60|441|<span class="rank-name-dl">ちゃんみお</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|60|441|<span class="rank-name-dl">ちゃんみお</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店 遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|62|439|<span class="rank-name-dl">SUNA</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|62|439|<span class="rank-name-dl">ずんだもん</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|64|434|<span class="rank-name-dl">3273</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|64|434|<span class="rank-name-dl">NO NAME 2704</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|66|433|<span class="rank-name-dl">も</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|66|433|<span class="rank-name-dl">も</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店 遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|68|404|<span class="rank-name-dl">Shouta</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|69|397|<span class="rank-name-dl">キクリン</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|70|393|<span class="rank-name-dl">NO NAME 4649</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|71|380|<span class="rank-name-dl">いももち</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|72|374|<span class="rank-name-dl">サトウ</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
+|72|374|<span class="rank-name-dl">サトウ</span>|<a href="https://search.dartslive.com/jp/shop/1270241c1c98ce7f0d9b047a20a7ba1e">遊ランド 富良野店 遊ランド 富良野店</a>|<a href="/darts/rank/北海道/富良野市">北海道富良野市</a>|
 
 
 #### PHOENIXDARTS TOP 100

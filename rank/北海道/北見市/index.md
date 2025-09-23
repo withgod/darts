@@ -43,86 +43,86 @@ ___
 |18|967|<span class="rank-name-dl">武井 良介</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
 |19|965|<span class="rank-name-pd">えんや</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10579?s_seq=10579">e-style 北見店</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
 |20|964|<span class="rank-name-pd">★かねっちょ☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86055?s_seq=86055">CAFE&BAR 空～KUU～</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|21|954|<span class="rank-name-dl">SOKUIRE TAKA</span>|<a href="https://search.dartslive.com/jp/shop/404ff80a4ea626e30d9b047a20a7ba1e">空-KUU- 空-KUU-</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|22|949|<span class="rank-name-dl">お外のたかお</span>|<a href="https://search.dartslive.com/jp/shop/d87b54ee24291d290d9b047a20a7ba1e">Bar now Bar now</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|23|945|<span class="rank-name-pd">ツツジ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10579?s_seq=10579">e-style 北見店</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|24|938|<span class="rank-name-pd">コケこの！　OJK</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86055?s_seq=86055">CAFE&BAR 空～KUU～</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|25|937|<span class="rank-name-dl">4コスリ半のタカ</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|26|933|<span class="rank-name-dl">KOTEKICHI-Y.T</span>|<a href="https://search.dartslive.com/jp/shop/404ff80a4ea626e30d9b047a20a7ba1e">空-KUU-</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|27|932|<span class="rank-name-pd">※※K※※</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86055?s_seq=86055">CAFE&BAR 空～KUU～</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|28|931|<span class="rank-name-pd">ホワイトストーン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83439?s_seq=83439">ダーツアンドバー ワンスローK2</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|29|929|<span class="rank-name-dl">お家のたかお</span>|<a href="https://search.dartslive.com/jp/shop/d87b54ee24291d290d9b047a20a7ba1e">Bar now</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|30|926|<span class="rank-name-dl">4コスリ半のタカ</span>|<a href="https://search.dartslive.com/jp/shop/e0017f60d090ea240d9b047a20a7ba1e">Bar S北見</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|30|926|<span class="rank-name-dl">kanedesu</span>|<a href="https://search.dartslive.com/jp/shop/404ff80a4ea626e30d9b047a20a7ba1e">空-KUU- 空-KUU-</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|32|923|<span class="rank-name-pd"><span class="pro-icon-pd"></span>矢野 翔大</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83439?s_seq=83439">ダーツアンドバー ワンスローK2</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|33|921|<span class="rank-name-pd">Keisuke.S</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86055?s_seq=86055">CAFE&BAR 空～KUU～</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|33|921|<span class="rank-name-pd">ツツジ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86055?s_seq=86055">CAFE&BAR 空～KUU～</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|35|920|<span class="rank-name-pd">ツツジ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83439?s_seq=83439">ダーツアンドバー ワンスローK2</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|36|919|<span class="rank-name-dl">Hashi</span>|<a href="https://search.dartslive.com/jp/shop/f9a89dbb080a36bf0d9b047a20a7ba1e">Darts＆Bar ONE-THROWK2 Darts＆Bar ONE-THROWK2</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|36|919|<span class="rank-name-dl">げんまいちゃ</span>|<a href="https://search.dartslive.com/jp/shop/5e28ba776ac6fcb70d9b047a20a7ba1e">KARAOKE BAR e-style 北見店</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|38|915|<span class="rank-name-dl">D-TAKA@FiLL</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|39|914|<span class="rank-name-pd">ホワイトストーン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10579?s_seq=10579">e-style 北見店</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|40|913|<span class="rank-name-dl">グラン</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|41|912|<span class="rank-name-pd">KOTEKICHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86055?s_seq=86055">CAFE&BAR 空～KUU～</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|41|912|<span class="rank-name-dl">えんや</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|43|911|<span class="rank-name-dl">りゅうたろす</span>|<a href="https://search.dartslive.com/jp/shop/dc25ef632ae32efd0d9b047a20a7ba1e">Darts&BAR ONE-THROW</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|44|907|<span class="rank-name-dl">Keisuke.S</span>|<a href="https://search.dartslive.com/jp/shop/404ff80a4ea626e30d9b047a20a7ba1e">空-KUU- 空-KUU-</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|44|907|<span class="rank-name-dl">～かねっちょ～</span>|<a href="https://search.dartslive.com/jp/shop/404ff80a4ea626e30d9b047a20a7ba1e">空-KUU-</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|46|905|<span class="rank-name-dl">SATTO@おりがみ</span>|<a href="https://search.dartslive.com/jp/shop/dc25ef632ae32efd0d9b047a20a7ba1e">Darts&BAR ONE-THROW</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|47|904|<span class="rank-name-pd">ヌッコNT-1</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10579?s_seq=10579">e-style 北見店</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|48|902|<span class="rank-name-pd">ｾｲﾔｰ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83439?s_seq=83439">ダーツアンドバー ワンスローK2</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|49|901|<span class="rank-name-pd">KOTEKICHI-Y.T</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86055?s_seq=86055">CAFE&BAR 空～KUU～</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|49|901|<span class="rank-name-dl">メガネ社長@FILL</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|51|897|<span class="rank-name-dl">ホワイトストーン</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|52|896|<span class="rank-name-dl">ラウンドアップ</span>|<a href="https://search.dartslive.com/jp/shop/f9a89dbb080a36bf0d9b047a20a7ba1e">Darts＆Bar ONE-THROWK2</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|53|890|<span class="rank-name-pd">クールデビル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86055?s_seq=86055">CAFE&BAR 空～KUU～</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|54|884|<span class="rank-name-dl">MOF</span>|<a href="https://search.dartslive.com/jp/shop/5e28ba776ac6fcb70d9b047a20a7ba1e">KARAOKE BAR e-style 北見店</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|55|883|<span class="rank-name-pd">MOF</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10579?s_seq=10579">e-style 北見店</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|55|883|<span class="rank-name-pd">kAz.超</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86055?s_seq=86055">CAFE&BAR 空～KUU～</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|57|882|<span class="rank-name-dl">サボらない！</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|58|881|<span class="rank-name-dl">柴犬…</span>|<a href="https://search.dartslive.com/jp/shop/f9a89dbb080a36bf0d9b047a20a7ba1e">Darts＆Bar ONE-THROWK2 Darts＆Bar ONE-THROWK2</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|59|880|<span class="rank-name-dl">※KHO※</span>|<a href="https://search.dartslive.com/jp/shop/404ff80a4ea626e30d9b047a20a7ba1e">空-KUU-</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|60|878|<span class="rank-name-dl">IBIS</span>|<a href="https://search.dartslive.com/jp/shop/f9a89dbb080a36bf0d9b047a20a7ba1e">Darts＆Bar ONE-THROWK2</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|60|878|<span class="rank-name-dl">てっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|62|876|<span class="rank-name-pd">CORE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86055?s_seq=86055">CAFE&BAR 空～KUU～</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|62|876|<span class="rank-name-dl">❋ⓐⓨⓐ❋</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|64|875|<span class="rank-name-dl">ふぃる</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|64|875|<span class="rank-name-dl">柴犬…</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|66|873|<span class="rank-name-dl">柴犬…</span>|<a href="https://search.dartslive.com/jp/shop/e0017f60d090ea240d9b047a20a7ba1e">Bar S北見</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|67|872|<span class="rank-name-pd">てろりすと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86055?s_seq=86055">CAFE&BAR 空～KUU～</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|68|860|<span class="rank-name-pd">ピノレア</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10579?s_seq=10579">e-style 北見店</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|69|856|<span class="rank-name-dl">北村</span>|<a href="https://search.dartslive.com/jp/shop/dc25ef632ae32efd0d9b047a20a7ba1e">Darts&BAR ONE-THROW</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|69|856|<span class="rank-name-dl">森谷 崇継</span>|<a href="https://search.dartslive.com/jp/shop/5e28ba776ac6fcb70d9b047a20a7ba1e">KARAOKE BAR e-style 北見店 KARAOKE BAR e-style 北見店</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|71|855|<span class="rank-name-dl">Kei</span>|<a href="https://search.dartslive.com/jp/shop/e0017f60d090ea240d9b047a20a7ba1e">Bar S北見</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|72|854|<span class="rank-name-dl">Kei</span>|<a href="https://search.dartslive.com/jp/shop/f9a89dbb080a36bf0d9b047a20a7ba1e">Darts＆Bar ONE-THROWK2</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|73|853|<span class="rank-name-dl">KOTEKICHI</span>|<a href="https://search.dartslive.com/jp/shop/404ff80a4ea626e30d9b047a20a7ba1e">空-KUU- 空-KUU-</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|74|849|<span class="rank-name-dl">ヌッコ</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|75|846|<span class="rank-name-dl">S.H@赤いきつね</span>|<a href="https://search.dartslive.com/jp/shop/e0017f60d090ea240d9b047a20a7ba1e">Bar S北見</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|75|846|<span class="rank-name-dl">かずくん</span>|<a href="https://search.dartslive.com/jp/shop/404ff80a4ea626e30d9b047a20a7ba1e">空-KUU- 空-KUU-</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|77|844|<span class="rank-name-dl">えんや</span>|<a href="https://search.dartslive.com/jp/shop/dc25ef632ae32efd0d9b047a20a7ba1e">Darts&BAR ONE-THROW</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|78|843|<span class="rank-name-pd">佐藤一氏@e–style</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10579?s_seq=10579">e-style 北見店</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|79|842|<span class="rank-name-dl">si-ma</span>|<a href="https://search.dartslive.com/jp/shop/f9a89dbb080a36bf0d9b047a20a7ba1e">Darts＆Bar ONE-THROWK2</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|79|842|<span class="rank-name-pd">てつ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10579?s_seq=10579">e-style 北見店</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|81|840|<span class="rank-name-dl">やすＰ@札幌</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|82|837|<span class="rank-name-dl">※KOH※</span>|<a href="https://search.dartslive.com/jp/shop/e0017f60d090ea240d9b047a20a7ba1e">Bar S北見</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|83|835|<span class="rank-name-dl">Kei</span>|<a href="https://search.dartslive.com/jp/shop/404ff80a4ea626e30d9b047a20a7ba1e">空-KUU-</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|84|831|<span class="rank-name-dl">花鳥風月</span>|<a href="https://search.dartslive.com/jp/shop/f9a89dbb080a36bf0d9b047a20a7ba1e">Darts＆Bar ONE-THROWK2</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|85|830|<span class="rank-name-dl">Seiya</span>|<a href="https://search.dartslive.com/jp/shop/f9a89dbb080a36bf0d9b047a20a7ba1e">Darts＆Bar ONE-THROWK2</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|86|829|<span class="rank-name-dl">ラウンドアップ</span>|<a href="https://search.dartslive.com/jp/shop/5e28ba776ac6fcb70d9b047a20a7ba1e">KARAOKE BAR e-style 北見店</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|87|828|<span class="rank-name-pd">Kazuto</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10579?s_seq=10579">e-style 北見店</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|88|827|<span class="rank-name-dl">Seiya</span>|<a href="https://search.dartslive.com/jp/shop/e0017f60d090ea240d9b047a20a7ba1e">Bar S北見</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|89|826|<span class="rank-name-dl">佐々木　涼補</span>|<a href="https://search.dartslive.com/jp/shop/dc25ef632ae32efd0d9b047a20a7ba1e">Darts&BAR ONE-THROW</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|89|826|<span class="rank-name-dl">悲劇のたかお</span>|<a href="https://search.dartslive.com/jp/shop/d87b54ee24291d290d9b047a20a7ba1e">Bar now Bar now</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|91|824|<span class="rank-name-pd">佐藤一氏@e–style</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83439?s_seq=83439">ダーツアンドバー ワンスローK2</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|92|823|<span class="rank-name-dl">佐藤　一氏</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|93|822|<span class="rank-name-dl">たま様</span>|<a href="https://search.dartslive.com/jp/shop/5e28ba776ac6fcb70d9b047a20a7ba1e">KARAOKE BAR e-style 北見店</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|94|820|<span class="rank-name-dl">お家のモーリー</span>|<a href="https://search.dartslive.com/jp/shop/404ff80a4ea626e30d9b047a20a7ba1e">空-KUU-</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|95|819|<span class="rank-name-pd">0280_2440</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86055?s_seq=86055">CAFE&BAR 空～KUU～</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|96|818|<span class="rank-name-dl">Ryosuke</span>|<a href="https://search.dartslive.com/jp/shop/dc25ef632ae32efd0d9b047a20a7ba1e">Darts&BAR ONE-THROW</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|96|818|<span class="rank-name-dl">じゅん々</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|98|817|<span class="rank-name-pd">KADO@RIZE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10579?s_seq=10579">e-style 北見店</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|98|817|<span class="rank-name-dl">のめ屋とあそべ屋</span>|<a href="https://search.dartslive.com/jp/shop/306d0bd9b4cd53a30d9b047a20a7ba1e">＃あそべ屋</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|98|817|<span class="rank-name-dl">グラン</span>|<a href="https://search.dartslive.com/jp/shop/f9a89dbb080a36bf0d9b047a20a7ba1e">Darts＆Bar ONE-THROWK2 Darts＆Bar ONE-THROWK2</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|21|955|<span class="rank-name-dl">Ｋ※弱※Ｋ</span>|<a href="https://search.dartslive.com/jp/shop/404ff80a4ea626e30d9b047a20a7ba1e">空-KUU-</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|22|954|<span class="rank-name-dl">SOKUIRE TAKA</span>|<a href="https://search.dartslive.com/jp/shop/404ff80a4ea626e30d9b047a20a7ba1e">空-KUU-</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|22|954|<span class="rank-name-dl">SOKUIRE TAKA</span>|<a href="https://search.dartslive.com/jp/shop/404ff80a4ea626e30d9b047a20a7ba1e">空-KUU- 空-KUU-</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|24|949|<span class="rank-name-dl">お外のたかお</span>|<a href="https://search.dartslive.com/jp/shop/d87b54ee24291d290d9b047a20a7ba1e">Bar now</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|24|949|<span class="rank-name-dl">お外のたかお</span>|<a href="https://search.dartslive.com/jp/shop/d87b54ee24291d290d9b047a20a7ba1e">Bar now Bar now</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|26|945|<span class="rank-name-pd">ツツジ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10579?s_seq=10579">e-style 北見店</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|27|938|<span class="rank-name-pd">コケこの！　OJK</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86055?s_seq=86055">CAFE&BAR 空～KUU～</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|28|937|<span class="rank-name-dl">4コスリ半のタカ</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|29|933|<span class="rank-name-dl">KOTEKICHI-Y.T</span>|<a href="https://search.dartslive.com/jp/shop/404ff80a4ea626e30d9b047a20a7ba1e">空-KUU-</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|30|932|<span class="rank-name-pd">※※K※※</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86055?s_seq=86055">CAFE&BAR 空～KUU～</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|31|931|<span class="rank-name-pd">ホワイトストーン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83439?s_seq=83439">ダーツアンドバー ワンスローK2</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|32|929|<span class="rank-name-dl">お家のたかお</span>|<a href="https://search.dartslive.com/jp/shop/d87b54ee24291d290d9b047a20a7ba1e">Bar now</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|33|926|<span class="rank-name-dl">4コスリ半のタカ</span>|<a href="https://search.dartslive.com/jp/shop/e0017f60d090ea240d9b047a20a7ba1e">Bar S北見</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|33|926|<span class="rank-name-dl">kanedesu</span>|<a href="https://search.dartslive.com/jp/shop/404ff80a4ea626e30d9b047a20a7ba1e">空-KUU-</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|33|926|<span class="rank-name-dl">kanedesu</span>|<a href="https://search.dartslive.com/jp/shop/404ff80a4ea626e30d9b047a20a7ba1e">空-KUU- 空-KUU-</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|36|923|<span class="rank-name-pd"><span class="pro-icon-pd"></span>矢野 翔大</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83439?s_seq=83439">ダーツアンドバー ワンスローK2</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|37|921|<span class="rank-name-pd">Keisuke.S</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86055?s_seq=86055">CAFE&BAR 空～KUU～</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|37|921|<span class="rank-name-pd">ツツジ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86055?s_seq=86055">CAFE&BAR 空～KUU～</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|39|920|<span class="rank-name-pd">ツツジ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83439?s_seq=83439">ダーツアンドバー ワンスローK2</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|40|919|<span class="rank-name-dl">Hashi</span>|<a href="https://search.dartslive.com/jp/shop/f9a89dbb080a36bf0d9b047a20a7ba1e">Darts＆Bar ONE-THROWK2 Darts＆Bar ONE-THROWK2</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|40|919|<span class="rank-name-dl">げんまいちゃ</span>|<a href="https://search.dartslive.com/jp/shop/5e28ba776ac6fcb70d9b047a20a7ba1e">KARAOKE BAR e-style 北見店</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|42|915|<span class="rank-name-dl">D-TAKA@FiLL</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|43|914|<span class="rank-name-pd">ホワイトストーン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10579?s_seq=10579">e-style 北見店</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|44|913|<span class="rank-name-dl">グラン</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|44|913|<span class="rank-name-dl">グラン</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|46|912|<span class="rank-name-pd">KOTEKICHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86055?s_seq=86055">CAFE&BAR 空～KUU～</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|46|912|<span class="rank-name-dl">えんや</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|48|911|<span class="rank-name-dl">りゅうたろす</span>|<a href="https://search.dartslive.com/jp/shop/dc25ef632ae32efd0d9b047a20a7ba1e">Darts&BAR ONE-THROW</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|49|907|<span class="rank-name-dl">Keisuke.S</span>|<a href="https://search.dartslive.com/jp/shop/404ff80a4ea626e30d9b047a20a7ba1e">空-KUU-</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|49|907|<span class="rank-name-dl">Keisuke.S</span>|<a href="https://search.dartslive.com/jp/shop/404ff80a4ea626e30d9b047a20a7ba1e">空-KUU- 空-KUU-</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|49|907|<span class="rank-name-dl">～かねっちょ～</span>|<a href="https://search.dartslive.com/jp/shop/404ff80a4ea626e30d9b047a20a7ba1e">空-KUU-</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|52|905|<span class="rank-name-dl">SATTO@おりがみ</span>|<a href="https://search.dartslive.com/jp/shop/dc25ef632ae32efd0d9b047a20a7ba1e">Darts&BAR ONE-THROW</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|53|904|<span class="rank-name-pd">ヌッコNT-1</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10579?s_seq=10579">e-style 北見店</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|54|902|<span class="rank-name-pd">ｾｲﾔｰ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83439?s_seq=83439">ダーツアンドバー ワンスローK2</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|55|901|<span class="rank-name-pd">KOTEKICHI-Y.T</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86055?s_seq=86055">CAFE&BAR 空～KUU～</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|55|901|<span class="rank-name-dl">メガネ社長@FILL</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|57|897|<span class="rank-name-dl">ホワイトストーン</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|58|896|<span class="rank-name-dl">ラウンドアップ</span>|<a href="https://search.dartslive.com/jp/shop/f9a89dbb080a36bf0d9b047a20a7ba1e">Darts＆Bar ONE-THROWK2</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|59|890|<span class="rank-name-pd">クールデビル</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86055?s_seq=86055">CAFE&BAR 空～KUU～</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|60|884|<span class="rank-name-dl">MOF</span>|<a href="https://search.dartslive.com/jp/shop/5e28ba776ac6fcb70d9b047a20a7ba1e">KARAOKE BAR e-style 北見店</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|61|883|<span class="rank-name-pd">MOF</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10579?s_seq=10579">e-style 北見店</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|61|883|<span class="rank-name-pd">kAz.超</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86055?s_seq=86055">CAFE&BAR 空～KUU～</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|63|882|<span class="rank-name-dl">サボらない！</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|63|882|<span class="rank-name-dl">サボらない！</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|65|881|<span class="rank-name-dl">柴犬…</span>|<a href="https://search.dartslive.com/jp/shop/f9a89dbb080a36bf0d9b047a20a7ba1e">Darts＆Bar ONE-THROWK2</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|65|881|<span class="rank-name-dl">柴犬…</span>|<a href="https://search.dartslive.com/jp/shop/f9a89dbb080a36bf0d9b047a20a7ba1e">Darts＆Bar ONE-THROWK2 Darts＆Bar ONE-THROWK2</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|67|880|<span class="rank-name-dl">※KHO※</span>|<a href="https://search.dartslive.com/jp/shop/404ff80a4ea626e30d9b047a20a7ba1e">空-KUU-</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|68|878|<span class="rank-name-dl">IBIS</span>|<a href="https://search.dartslive.com/jp/shop/f9a89dbb080a36bf0d9b047a20a7ba1e">Darts＆Bar ONE-THROWK2</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|68|878|<span class="rank-name-dl">てっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|70|876|<span class="rank-name-pd">CORE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86055?s_seq=86055">CAFE&BAR 空～KUU～</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|70|876|<span class="rank-name-dl">❋ⓐⓨⓐ❋</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|72|875|<span class="rank-name-dl">ふぃる</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|72|875|<span class="rank-name-dl">柴犬…</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|74|873|<span class="rank-name-dl">柴犬…</span>|<a href="https://search.dartslive.com/jp/shop/e0017f60d090ea240d9b047a20a7ba1e">Bar S北見</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|75|872|<span class="rank-name-pd">てろりすと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86055?s_seq=86055">CAFE&BAR 空～KUU～</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|76|860|<span class="rank-name-pd">ピノレア</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10579?s_seq=10579">e-style 北見店</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|77|856|<span class="rank-name-dl">北村</span>|<a href="https://search.dartslive.com/jp/shop/dc25ef632ae32efd0d9b047a20a7ba1e">Darts&BAR ONE-THROW</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|77|856|<span class="rank-name-dl">森谷 崇継</span>|<a href="https://search.dartslive.com/jp/shop/5e28ba776ac6fcb70d9b047a20a7ba1e">KARAOKE BAR e-style 北見店</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|77|856|<span class="rank-name-dl">森谷 崇継</span>|<a href="https://search.dartslive.com/jp/shop/5e28ba776ac6fcb70d9b047a20a7ba1e">KARAOKE BAR e-style 北見店 KARAOKE BAR e-style 北見店</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|80|855|<span class="rank-name-dl">Kei</span>|<a href="https://search.dartslive.com/jp/shop/e0017f60d090ea240d9b047a20a7ba1e">Bar S北見</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|81|854|<span class="rank-name-dl">Kei</span>|<a href="https://search.dartslive.com/jp/shop/f9a89dbb080a36bf0d9b047a20a7ba1e">Darts＆Bar ONE-THROWK2</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|82|853|<span class="rank-name-dl">KOTEKICHI</span>|<a href="https://search.dartslive.com/jp/shop/404ff80a4ea626e30d9b047a20a7ba1e">空-KUU-</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|82|853|<span class="rank-name-dl">KOTEKICHI</span>|<a href="https://search.dartslive.com/jp/shop/404ff80a4ea626e30d9b047a20a7ba1e">空-KUU- 空-KUU-</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|84|849|<span class="rank-name-dl">ヌッコ</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|85|846|<span class="rank-name-dl">S.H@赤いきつね</span>|<a href="https://search.dartslive.com/jp/shop/e0017f60d090ea240d9b047a20a7ba1e">Bar S北見</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|85|846|<span class="rank-name-dl">かずくん</span>|<a href="https://search.dartslive.com/jp/shop/404ff80a4ea626e30d9b047a20a7ba1e">空-KUU-</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|85|846|<span class="rank-name-dl">かずくん</span>|<a href="https://search.dartslive.com/jp/shop/404ff80a4ea626e30d9b047a20a7ba1e">空-KUU- 空-KUU-</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|88|844|<span class="rank-name-dl">えんや</span>|<a href="https://search.dartslive.com/jp/shop/dc25ef632ae32efd0d9b047a20a7ba1e">Darts&BAR ONE-THROW</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|89|843|<span class="rank-name-pd">佐藤一氏@e–style</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10579?s_seq=10579">e-style 北見店</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|90|842|<span class="rank-name-dl">si-ma</span>|<a href="https://search.dartslive.com/jp/shop/f9a89dbb080a36bf0d9b047a20a7ba1e">Darts＆Bar ONE-THROWK2</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|90|842|<span class="rank-name-pd">てつ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10579?s_seq=10579">e-style 北見店</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|92|840|<span class="rank-name-dl">やすＰ@札幌</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|93|837|<span class="rank-name-dl">※KOH※</span>|<a href="https://search.dartslive.com/jp/shop/e0017f60d090ea240d9b047a20a7ba1e">Bar S北見</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|94|835|<span class="rank-name-dl">Kei</span>|<a href="https://search.dartslive.com/jp/shop/404ff80a4ea626e30d9b047a20a7ba1e">空-KUU-</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|95|831|<span class="rank-name-dl">花鳥風月</span>|<a href="https://search.dartslive.com/jp/shop/f9a89dbb080a36bf0d9b047a20a7ba1e">Darts＆Bar ONE-THROWK2</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|96|830|<span class="rank-name-dl">Seiya</span>|<a href="https://search.dartslive.com/jp/shop/f9a89dbb080a36bf0d9b047a20a7ba1e">Darts＆Bar ONE-THROWK2</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|97|829|<span class="rank-name-dl">ラウンドアップ</span>|<a href="https://search.dartslive.com/jp/shop/5e28ba776ac6fcb70d9b047a20a7ba1e">KARAOKE BAR e-style 北見店</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|98|828|<span class="rank-name-pd">Kazuto</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10579?s_seq=10579">e-style 北見店</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|99|827|<span class="rank-name-dl">Seiya</span>|<a href="https://search.dartslive.com/jp/shop/e0017f60d090ea240d9b047a20a7ba1e">Bar S北見</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|100|826|<span class="rank-name-dl">佐々木　涼補</span>|<a href="https://search.dartslive.com/jp/shop/dc25ef632ae32efd0d9b047a20a7ba1e">Darts&BAR ONE-THROW</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -140,98 +140,98 @@ ___
 |6|971|<span class="rank-name-dl">お外のたかお♂</span>|<a href="https://search.dartslive.com/jp/shop/d87b54ee24291d290d9b047a20a7ba1e">Bar now</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
 |7|968|<span class="rank-name-dl">矢野　翔大</span>|<a href="https://search.dartslive.com/jp/shop/404ff80a4ea626e30d9b047a20a7ba1e">空-KUU-</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
 |8|967|<span class="rank-name-dl">武井 良介</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|9|954|<span class="rank-name-dl">SOKUIRE TAKA</span>|<a href="https://search.dartslive.com/jp/shop/404ff80a4ea626e30d9b047a20a7ba1e">空-KUU- 空-KUU-</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|10|949|<span class="rank-name-dl">お外のたかお</span>|<a href="https://search.dartslive.com/jp/shop/d87b54ee24291d290d9b047a20a7ba1e">Bar now Bar now</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|11|937|<span class="rank-name-dl">4コスリ半のタカ</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|12|933|<span class="rank-name-dl">KOTEKICHI-Y.T</span>|<a href="https://search.dartslive.com/jp/shop/404ff80a4ea626e30d9b047a20a7ba1e">空-KUU-</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|13|929|<span class="rank-name-dl">お家のたかお</span>|<a href="https://search.dartslive.com/jp/shop/d87b54ee24291d290d9b047a20a7ba1e">Bar now</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|14|926|<span class="rank-name-dl">4コスリ半のタカ</span>|<a href="https://search.dartslive.com/jp/shop/e0017f60d090ea240d9b047a20a7ba1e">Bar S北見</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|14|926|<span class="rank-name-dl">kanedesu</span>|<a href="https://search.dartslive.com/jp/shop/404ff80a4ea626e30d9b047a20a7ba1e">空-KUU- 空-KUU-</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|16|919|<span class="rank-name-dl">Hashi</span>|<a href="https://search.dartslive.com/jp/shop/f9a89dbb080a36bf0d9b047a20a7ba1e">Darts＆Bar ONE-THROWK2 Darts＆Bar ONE-THROWK2</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|16|919|<span class="rank-name-dl">げんまいちゃ</span>|<a href="https://search.dartslive.com/jp/shop/5e28ba776ac6fcb70d9b047a20a7ba1e">KARAOKE BAR e-style 北見店</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|18|915|<span class="rank-name-dl">D-TAKA@FiLL</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|19|913|<span class="rank-name-dl">グラン</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|20|912|<span class="rank-name-dl">えんや</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|21|911|<span class="rank-name-dl">りゅうたろす</span>|<a href="https://search.dartslive.com/jp/shop/dc25ef632ae32efd0d9b047a20a7ba1e">Darts&BAR ONE-THROW</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|22|907|<span class="rank-name-dl">Keisuke.S</span>|<a href="https://search.dartslive.com/jp/shop/404ff80a4ea626e30d9b047a20a7ba1e">空-KUU- 空-KUU-</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|22|907|<span class="rank-name-dl">～かねっちょ～</span>|<a href="https://search.dartslive.com/jp/shop/404ff80a4ea626e30d9b047a20a7ba1e">空-KUU-</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|24|905|<span class="rank-name-dl">SATTO@おりがみ</span>|<a href="https://search.dartslive.com/jp/shop/dc25ef632ae32efd0d9b047a20a7ba1e">Darts&BAR ONE-THROW</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|25|901|<span class="rank-name-dl">メガネ社長@FILL</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|26|897|<span class="rank-name-dl">ホワイトストーン</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|27|896|<span class="rank-name-dl">ラウンドアップ</span>|<a href="https://search.dartslive.com/jp/shop/f9a89dbb080a36bf0d9b047a20a7ba1e">Darts＆Bar ONE-THROWK2</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|28|884|<span class="rank-name-dl">MOF</span>|<a href="https://search.dartslive.com/jp/shop/5e28ba776ac6fcb70d9b047a20a7ba1e">KARAOKE BAR e-style 北見店</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|29|882|<span class="rank-name-dl">サボらない！</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|30|881|<span class="rank-name-dl">柴犬…</span>|<a href="https://search.dartslive.com/jp/shop/f9a89dbb080a36bf0d9b047a20a7ba1e">Darts＆Bar ONE-THROWK2 Darts＆Bar ONE-THROWK2</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|31|880|<span class="rank-name-dl">※KHO※</span>|<a href="https://search.dartslive.com/jp/shop/404ff80a4ea626e30d9b047a20a7ba1e">空-KUU-</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|32|878|<span class="rank-name-dl">IBIS</span>|<a href="https://search.dartslive.com/jp/shop/f9a89dbb080a36bf0d9b047a20a7ba1e">Darts＆Bar ONE-THROWK2</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|32|878|<span class="rank-name-dl">てっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|34|876|<span class="rank-name-dl">❋ⓐⓨⓐ❋</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|35|875|<span class="rank-name-dl">ふぃる</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|35|875|<span class="rank-name-dl">柴犬…</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|37|873|<span class="rank-name-dl">柴犬…</span>|<a href="https://search.dartslive.com/jp/shop/e0017f60d090ea240d9b047a20a7ba1e">Bar S北見</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|38|856|<span class="rank-name-dl">北村</span>|<a href="https://search.dartslive.com/jp/shop/dc25ef632ae32efd0d9b047a20a7ba1e">Darts&BAR ONE-THROW</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|38|856|<span class="rank-name-dl">森谷 崇継</span>|<a href="https://search.dartslive.com/jp/shop/5e28ba776ac6fcb70d9b047a20a7ba1e">KARAOKE BAR e-style 北見店 KARAOKE BAR e-style 北見店</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|40|855|<span class="rank-name-dl">Kei</span>|<a href="https://search.dartslive.com/jp/shop/e0017f60d090ea240d9b047a20a7ba1e">Bar S北見</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|41|854|<span class="rank-name-dl">Kei</span>|<a href="https://search.dartslive.com/jp/shop/f9a89dbb080a36bf0d9b047a20a7ba1e">Darts＆Bar ONE-THROWK2</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|42|853|<span class="rank-name-dl">KOTEKICHI</span>|<a href="https://search.dartslive.com/jp/shop/404ff80a4ea626e30d9b047a20a7ba1e">空-KUU- 空-KUU-</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|43|849|<span class="rank-name-dl">ヌッコ</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|44|846|<span class="rank-name-dl">S.H@赤いきつね</span>|<a href="https://search.dartslive.com/jp/shop/e0017f60d090ea240d9b047a20a7ba1e">Bar S北見</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|44|846|<span class="rank-name-dl">かずくん</span>|<a href="https://search.dartslive.com/jp/shop/404ff80a4ea626e30d9b047a20a7ba1e">空-KUU- 空-KUU-</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|46|844|<span class="rank-name-dl">えんや</span>|<a href="https://search.dartslive.com/jp/shop/dc25ef632ae32efd0d9b047a20a7ba1e">Darts&BAR ONE-THROW</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|47|842|<span class="rank-name-dl">si-ma</span>|<a href="https://search.dartslive.com/jp/shop/f9a89dbb080a36bf0d9b047a20a7ba1e">Darts＆Bar ONE-THROWK2</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|48|840|<span class="rank-name-dl">やすＰ@札幌</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|49|837|<span class="rank-name-dl">※KOH※</span>|<a href="https://search.dartslive.com/jp/shop/e0017f60d090ea240d9b047a20a7ba1e">Bar S北見</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|50|835|<span class="rank-name-dl">Kei</span>|<a href="https://search.dartslive.com/jp/shop/404ff80a4ea626e30d9b047a20a7ba1e">空-KUU-</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|51|831|<span class="rank-name-dl">花鳥風月</span>|<a href="https://search.dartslive.com/jp/shop/f9a89dbb080a36bf0d9b047a20a7ba1e">Darts＆Bar ONE-THROWK2</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|52|830|<span class="rank-name-dl">Seiya</span>|<a href="https://search.dartslive.com/jp/shop/f9a89dbb080a36bf0d9b047a20a7ba1e">Darts＆Bar ONE-THROWK2</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|53|829|<span class="rank-name-dl">ラウンドアップ</span>|<a href="https://search.dartslive.com/jp/shop/5e28ba776ac6fcb70d9b047a20a7ba1e">KARAOKE BAR e-style 北見店</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|54|827|<span class="rank-name-dl">Seiya</span>|<a href="https://search.dartslive.com/jp/shop/e0017f60d090ea240d9b047a20a7ba1e">Bar S北見</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|55|826|<span class="rank-name-dl">佐々木　涼補</span>|<a href="https://search.dartslive.com/jp/shop/dc25ef632ae32efd0d9b047a20a7ba1e">Darts&BAR ONE-THROW</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|55|826|<span class="rank-name-dl">悲劇のたかお</span>|<a href="https://search.dartslive.com/jp/shop/d87b54ee24291d290d9b047a20a7ba1e">Bar now Bar now</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|57|823|<span class="rank-name-dl">佐藤　一氏</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|58|822|<span class="rank-name-dl">たま様</span>|<a href="https://search.dartslive.com/jp/shop/5e28ba776ac6fcb70d9b047a20a7ba1e">KARAOKE BAR e-style 北見店</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|59|820|<span class="rank-name-dl">お家のモーリー</span>|<a href="https://search.dartslive.com/jp/shop/404ff80a4ea626e30d9b047a20a7ba1e">空-KUU-</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|60|818|<span class="rank-name-dl">Ryosuke</span>|<a href="https://search.dartslive.com/jp/shop/dc25ef632ae32efd0d9b047a20a7ba1e">Darts&BAR ONE-THROW</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|60|818|<span class="rank-name-dl">じゅん々</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|62|817|<span class="rank-name-dl">のめ屋とあそべ屋</span>|<a href="https://search.dartslive.com/jp/shop/306d0bd9b4cd53a30d9b047a20a7ba1e">＃あそべ屋</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|62|817|<span class="rank-name-dl">グラン</span>|<a href="https://search.dartslive.com/jp/shop/f9a89dbb080a36bf0d9b047a20a7ba1e">Darts＆Bar ONE-THROWK2 Darts＆Bar ONE-THROWK2</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|62|817|<span class="rank-name-dl">我妻　諒祐</span>|<a href="https://search.dartslive.com/jp/shop/1bdcfb5d0674425f0d9b047a20a7ba1e">chill pub Birdie</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|65|816|<span class="rank-name-dl">ﾓｯｺﾘ森のモーリー</span>|<a href="https://search.dartslive.com/jp/shop/d87b54ee24291d290d9b047a20a7ba1e">Bar now Bar now</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|66|814|<span class="rank-name-dl">ひろぽん</span>|<a href="https://search.dartslive.com/jp/shop/1bdcfb5d0674425f0d9b047a20a7ba1e">chill pub Birdie</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|67|812|<span class="rank-name-dl">うしぴっぴ</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|68|811|<span class="rank-name-dl">長坂　駿助</span>|<a href="https://search.dartslive.com/jp/shop/306d0bd9b4cd53a30d9b047a20a7ba1e">＃あそべ屋</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|69|810|<span class="rank-name-dl">KOTEKICHI-Y.T</span>|<a href="https://search.dartslive.com/jp/shop/e0017f60d090ea240d9b047a20a7ba1e">Bar S北見</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|69|810|<span class="rank-name-dl">長坂駿助</span>|<a href="https://search.dartslive.com/jp/shop/306d0bd9b4cd53a30d9b047a20a7ba1e">＃あそべ屋</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|71|808|<span class="rank-name-dl">やんべ我道驀進3</span>|<a href="https://search.dartslive.com/jp/shop/f9a89dbb080a36bf0d9b047a20a7ba1e">Darts＆Bar ONE-THROWK2</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|72|807|<span class="rank-name-dl">ｺﾞｸﾌﾞﾄｺﾞｸﾎﾞｿﾋﾛｼ</span>|<a href="https://search.dartslive.com/jp/shop/dc25ef632ae32efd0d9b047a20a7ba1e">Darts&BAR ONE-THROW</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|72|807|<span class="rank-name-dl">ﾓｯｺﾘ森のモーリー</span>|<a href="https://search.dartslive.com/jp/shop/d87b54ee24291d290d9b047a20a7ba1e">Bar now</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|74|805|<span class="rank-name-dl">yano</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|75|804|<span class="rank-name-dl">kyo</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|75|804|<span class="rank-name-dl">こにし ゆうと</span>|<a href="https://search.dartslive.com/jp/shop/dc25ef632ae32efd0d9b047a20a7ba1e">Darts&BAR ONE-THROW</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|75|804|<span class="rank-name-dl">柴犬…</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|78|803|<span class="rank-name-dl">lapi</span>|<a href="https://search.dartslive.com/jp/shop/f9a89dbb080a36bf0d9b047a20a7ba1e">Darts＆Bar ONE-THROWK2</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|79|799|<span class="rank-name-dl">Bar S</span>|<a href="https://search.dartslive.com/jp/shop/e0017f60d090ea240d9b047a20a7ba1e">Bar S北見 Bar S北見</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|79|799|<span class="rank-name-dl">八重樫くるみ</span>|<a href="https://search.dartslive.com/jp/shop/dc25ef632ae32efd0d9b047a20a7ba1e">Darts&BAR ONE-THROW</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|81|797|<span class="rank-name-dl">JACKさん</span>|<a href="https://search.dartslive.com/jp/shop/f9a89dbb080a36bf0d9b047a20a7ba1e">Darts＆Bar ONE-THROWK2 Darts＆Bar ONE-THROWK2</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|81|797|<span class="rank-name-dl">涼補@one/GARDEN</span>|<a href="https://search.dartslive.com/jp/shop/dc25ef632ae32efd0d9b047a20a7ba1e">Darts&BAR ONE-THROW</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|83|796|<span class="rank-name-dl">JACKさん</span>|<a href="https://search.dartslive.com/jp/shop/f9a89dbb080a36bf0d9b047a20a7ba1e">Darts＆Bar ONE-THROWK2</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|84|795|<span class="rank-name-dl">Bar S</span>|<a href="https://search.dartslive.com/jp/shop/e0017f60d090ea240d9b047a20a7ba1e">Bar S北見</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|84|795|<span class="rank-name-dl">TY亮</span>|<a href="https://search.dartslive.com/jp/shop/f9a89dbb080a36bf0d9b047a20a7ba1e">Darts＆Bar ONE-THROWK2</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|86|793|<span class="rank-name-dl">D-TAKA@FILL 2nd</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|87|792|<span class="rank-name-dl">NO NAME 2151</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|88|791|<span class="rank-name-dl">中道 隆雄</span>|<a href="https://search.dartslive.com/jp/shop/d87b54ee24291d290d9b047a20a7ba1e">Bar now</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|89|788|<span class="rank-name-dl">お家のモーリー</span>|<a href="https://search.dartslive.com/jp/shop/dc25ef632ae32efd0d9b047a20a7ba1e">Darts&BAR ONE-THROW</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|90|786|<span class="rank-name-dl">えんや@セパ</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|91|785|<span class="rank-name-dl">NO NAME 0128</span>|<a href="https://search.dartslive.com/jp/shop/5e28ba776ac6fcb70d9b047a20a7ba1e">KARAOKE BAR e-style 北見店</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|91|785|<span class="rank-name-dl">ヌッコ</span>|<a href="https://search.dartslive.com/jp/shop/5e28ba776ac6fcb70d9b047a20a7ba1e">KARAOKE BAR e-style 北見店</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|93|784|<span class="rank-name-dl">Neo</span>|<a href="https://search.dartslive.com/jp/shop/404ff80a4ea626e30d9b047a20a7ba1e">空-KUU-</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|94|783|<span class="rank-name-dl">D-TAKA@Яё</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|95|782|<span class="rank-name-dl">D-TAKA@FILL</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|96|779|<span class="rank-name-dl">4コスリ半のタカ</span>|<a href="https://search.dartslive.com/jp/shop/404ff80a4ea626e30d9b047a20a7ba1e">空-KUU-</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|97|778|<span class="rank-name-dl">Yu-d</span>|<a href="https://search.dartslive.com/jp/shop/306d0bd9b4cd53a30d9b047a20a7ba1e">＃あそべ屋</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|97|778|<span class="rank-name-dl">ヒロ</span>|<a href="https://search.dartslive.com/jp/shop/dc25ef632ae32efd0d9b047a20a7ba1e">Darts&BAR ONE-THROW Darts&BAR ONE-THROW</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|99|777|<span class="rank-name-dl">えんや</span>|<a href="https://search.dartslive.com/jp/shop/306d0bd9b4cd53a30d9b047a20a7ba1e">＃あそべ屋</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
-|99|777|<span class="rank-name-dl">お家のたかお</span>|<a href="https://search.dartslive.com/jp/shop/d87b54ee24291d290d9b047a20a7ba1e">Bar now Bar now</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|9|955|<span class="rank-name-dl">Ｋ※弱※Ｋ</span>|<a href="https://search.dartslive.com/jp/shop/404ff80a4ea626e30d9b047a20a7ba1e">空-KUU-</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|10|954|<span class="rank-name-dl">SOKUIRE TAKA</span>|<a href="https://search.dartslive.com/jp/shop/404ff80a4ea626e30d9b047a20a7ba1e">空-KUU-</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|10|954|<span class="rank-name-dl">SOKUIRE TAKA</span>|<a href="https://search.dartslive.com/jp/shop/404ff80a4ea626e30d9b047a20a7ba1e">空-KUU- 空-KUU-</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|12|949|<span class="rank-name-dl">お外のたかお</span>|<a href="https://search.dartslive.com/jp/shop/d87b54ee24291d290d9b047a20a7ba1e">Bar now</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|12|949|<span class="rank-name-dl">お外のたかお</span>|<a href="https://search.dartslive.com/jp/shop/d87b54ee24291d290d9b047a20a7ba1e">Bar now Bar now</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|14|937|<span class="rank-name-dl">4コスリ半のタカ</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|15|933|<span class="rank-name-dl">KOTEKICHI-Y.T</span>|<a href="https://search.dartslive.com/jp/shop/404ff80a4ea626e30d9b047a20a7ba1e">空-KUU-</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|16|929|<span class="rank-name-dl">お家のたかお</span>|<a href="https://search.dartslive.com/jp/shop/d87b54ee24291d290d9b047a20a7ba1e">Bar now</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|17|926|<span class="rank-name-dl">4コスリ半のタカ</span>|<a href="https://search.dartslive.com/jp/shop/e0017f60d090ea240d9b047a20a7ba1e">Bar S北見</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|17|926|<span class="rank-name-dl">kanedesu</span>|<a href="https://search.dartslive.com/jp/shop/404ff80a4ea626e30d9b047a20a7ba1e">空-KUU-</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|17|926|<span class="rank-name-dl">kanedesu</span>|<a href="https://search.dartslive.com/jp/shop/404ff80a4ea626e30d9b047a20a7ba1e">空-KUU- 空-KUU-</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|20|919|<span class="rank-name-dl">Hashi</span>|<a href="https://search.dartslive.com/jp/shop/f9a89dbb080a36bf0d9b047a20a7ba1e">Darts＆Bar ONE-THROWK2 Darts＆Bar ONE-THROWK2</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|20|919|<span class="rank-name-dl">げんまいちゃ</span>|<a href="https://search.dartslive.com/jp/shop/5e28ba776ac6fcb70d9b047a20a7ba1e">KARAOKE BAR e-style 北見店</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|22|915|<span class="rank-name-dl">D-TAKA@FiLL</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|23|913|<span class="rank-name-dl">グラン</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|23|913|<span class="rank-name-dl">グラン</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|25|912|<span class="rank-name-dl">えんや</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|26|911|<span class="rank-name-dl">りゅうたろす</span>|<a href="https://search.dartslive.com/jp/shop/dc25ef632ae32efd0d9b047a20a7ba1e">Darts&BAR ONE-THROW</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|27|907|<span class="rank-name-dl">Keisuke.S</span>|<a href="https://search.dartslive.com/jp/shop/404ff80a4ea626e30d9b047a20a7ba1e">空-KUU-</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|27|907|<span class="rank-name-dl">Keisuke.S</span>|<a href="https://search.dartslive.com/jp/shop/404ff80a4ea626e30d9b047a20a7ba1e">空-KUU- 空-KUU-</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|27|907|<span class="rank-name-dl">～かねっちょ～</span>|<a href="https://search.dartslive.com/jp/shop/404ff80a4ea626e30d9b047a20a7ba1e">空-KUU-</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|30|905|<span class="rank-name-dl">SATTO@おりがみ</span>|<a href="https://search.dartslive.com/jp/shop/dc25ef632ae32efd0d9b047a20a7ba1e">Darts&BAR ONE-THROW</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|31|901|<span class="rank-name-dl">メガネ社長@FILL</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|32|897|<span class="rank-name-dl">ホワイトストーン</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|33|896|<span class="rank-name-dl">ラウンドアップ</span>|<a href="https://search.dartslive.com/jp/shop/f9a89dbb080a36bf0d9b047a20a7ba1e">Darts＆Bar ONE-THROWK2</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|34|884|<span class="rank-name-dl">MOF</span>|<a href="https://search.dartslive.com/jp/shop/5e28ba776ac6fcb70d9b047a20a7ba1e">KARAOKE BAR e-style 北見店</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|35|882|<span class="rank-name-dl">サボらない！</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|35|882|<span class="rank-name-dl">サボらない！</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|37|881|<span class="rank-name-dl">柴犬…</span>|<a href="https://search.dartslive.com/jp/shop/f9a89dbb080a36bf0d9b047a20a7ba1e">Darts＆Bar ONE-THROWK2</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|37|881|<span class="rank-name-dl">柴犬…</span>|<a href="https://search.dartslive.com/jp/shop/f9a89dbb080a36bf0d9b047a20a7ba1e">Darts＆Bar ONE-THROWK2 Darts＆Bar ONE-THROWK2</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|39|880|<span class="rank-name-dl">※KHO※</span>|<a href="https://search.dartslive.com/jp/shop/404ff80a4ea626e30d9b047a20a7ba1e">空-KUU-</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|40|878|<span class="rank-name-dl">IBIS</span>|<a href="https://search.dartslive.com/jp/shop/f9a89dbb080a36bf0d9b047a20a7ba1e">Darts＆Bar ONE-THROWK2</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|40|878|<span class="rank-name-dl">てっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|42|876|<span class="rank-name-dl">❋ⓐⓨⓐ❋</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|43|875|<span class="rank-name-dl">ふぃる</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|43|875|<span class="rank-name-dl">柴犬…</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|45|873|<span class="rank-name-dl">柴犬…</span>|<a href="https://search.dartslive.com/jp/shop/e0017f60d090ea240d9b047a20a7ba1e">Bar S北見</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|46|856|<span class="rank-name-dl">北村</span>|<a href="https://search.dartslive.com/jp/shop/dc25ef632ae32efd0d9b047a20a7ba1e">Darts&BAR ONE-THROW</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|46|856|<span class="rank-name-dl">森谷 崇継</span>|<a href="https://search.dartslive.com/jp/shop/5e28ba776ac6fcb70d9b047a20a7ba1e">KARAOKE BAR e-style 北見店</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|46|856|<span class="rank-name-dl">森谷 崇継</span>|<a href="https://search.dartslive.com/jp/shop/5e28ba776ac6fcb70d9b047a20a7ba1e">KARAOKE BAR e-style 北見店 KARAOKE BAR e-style 北見店</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|49|855|<span class="rank-name-dl">Kei</span>|<a href="https://search.dartslive.com/jp/shop/e0017f60d090ea240d9b047a20a7ba1e">Bar S北見</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|50|854|<span class="rank-name-dl">Kei</span>|<a href="https://search.dartslive.com/jp/shop/f9a89dbb080a36bf0d9b047a20a7ba1e">Darts＆Bar ONE-THROWK2</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|51|853|<span class="rank-name-dl">KOTEKICHI</span>|<a href="https://search.dartslive.com/jp/shop/404ff80a4ea626e30d9b047a20a7ba1e">空-KUU-</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|51|853|<span class="rank-name-dl">KOTEKICHI</span>|<a href="https://search.dartslive.com/jp/shop/404ff80a4ea626e30d9b047a20a7ba1e">空-KUU- 空-KUU-</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|53|849|<span class="rank-name-dl">ヌッコ</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|54|846|<span class="rank-name-dl">S.H@赤いきつね</span>|<a href="https://search.dartslive.com/jp/shop/e0017f60d090ea240d9b047a20a7ba1e">Bar S北見</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|54|846|<span class="rank-name-dl">かずくん</span>|<a href="https://search.dartslive.com/jp/shop/404ff80a4ea626e30d9b047a20a7ba1e">空-KUU-</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|54|846|<span class="rank-name-dl">かずくん</span>|<a href="https://search.dartslive.com/jp/shop/404ff80a4ea626e30d9b047a20a7ba1e">空-KUU- 空-KUU-</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|57|844|<span class="rank-name-dl">えんや</span>|<a href="https://search.dartslive.com/jp/shop/dc25ef632ae32efd0d9b047a20a7ba1e">Darts&BAR ONE-THROW</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|58|842|<span class="rank-name-dl">si-ma</span>|<a href="https://search.dartslive.com/jp/shop/f9a89dbb080a36bf0d9b047a20a7ba1e">Darts＆Bar ONE-THROWK2</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|59|840|<span class="rank-name-dl">やすＰ@札幌</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|60|837|<span class="rank-name-dl">※KOH※</span>|<a href="https://search.dartslive.com/jp/shop/e0017f60d090ea240d9b047a20a7ba1e">Bar S北見</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|61|835|<span class="rank-name-dl">Kei</span>|<a href="https://search.dartslive.com/jp/shop/404ff80a4ea626e30d9b047a20a7ba1e">空-KUU-</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|62|831|<span class="rank-name-dl">花鳥風月</span>|<a href="https://search.dartslive.com/jp/shop/f9a89dbb080a36bf0d9b047a20a7ba1e">Darts＆Bar ONE-THROWK2</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|63|830|<span class="rank-name-dl">Seiya</span>|<a href="https://search.dartslive.com/jp/shop/f9a89dbb080a36bf0d9b047a20a7ba1e">Darts＆Bar ONE-THROWK2</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|64|829|<span class="rank-name-dl">ラウンドアップ</span>|<a href="https://search.dartslive.com/jp/shop/5e28ba776ac6fcb70d9b047a20a7ba1e">KARAOKE BAR e-style 北見店</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|65|827|<span class="rank-name-dl">Seiya</span>|<a href="https://search.dartslive.com/jp/shop/e0017f60d090ea240d9b047a20a7ba1e">Bar S北見</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|66|826|<span class="rank-name-dl">佐々木　涼補</span>|<a href="https://search.dartslive.com/jp/shop/dc25ef632ae32efd0d9b047a20a7ba1e">Darts&BAR ONE-THROW</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|66|826|<span class="rank-name-dl">悲劇のたかお</span>|<a href="https://search.dartslive.com/jp/shop/d87b54ee24291d290d9b047a20a7ba1e">Bar now</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|66|826|<span class="rank-name-dl">悲劇のたかお</span>|<a href="https://search.dartslive.com/jp/shop/d87b54ee24291d290d9b047a20a7ba1e">Bar now Bar now</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|69|823|<span class="rank-name-dl">佐藤　一氏</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|70|822|<span class="rank-name-dl">たま様</span>|<a href="https://search.dartslive.com/jp/shop/5e28ba776ac6fcb70d9b047a20a7ba1e">KARAOKE BAR e-style 北見店</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|71|820|<span class="rank-name-dl">お家のモーリー</span>|<a href="https://search.dartslive.com/jp/shop/404ff80a4ea626e30d9b047a20a7ba1e">空-KUU-</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|72|818|<span class="rank-name-dl">Ryosuke</span>|<a href="https://search.dartslive.com/jp/shop/dc25ef632ae32efd0d9b047a20a7ba1e">Darts&BAR ONE-THROW</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|72|818|<span class="rank-name-dl">じゅん々</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|74|817|<span class="rank-name-dl">のめ屋とあそべ屋</span>|<a href="https://search.dartslive.com/jp/shop/306d0bd9b4cd53a30d9b047a20a7ba1e">＃あそべ屋</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|74|817|<span class="rank-name-dl">グラン</span>|<a href="https://search.dartslive.com/jp/shop/f9a89dbb080a36bf0d9b047a20a7ba1e">Darts＆Bar ONE-THROWK2</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|74|817|<span class="rank-name-dl">グラン</span>|<a href="https://search.dartslive.com/jp/shop/f9a89dbb080a36bf0d9b047a20a7ba1e">Darts＆Bar ONE-THROWK2 Darts＆Bar ONE-THROWK2</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|74|817|<span class="rank-name-dl">我妻　諒祐</span>|<a href="https://search.dartslive.com/jp/shop/1bdcfb5d0674425f0d9b047a20a7ba1e">chill pub Birdie</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|78|816|<span class="rank-name-dl">ﾓｯｺﾘ森のモーリー</span>|<a href="https://search.dartslive.com/jp/shop/d87b54ee24291d290d9b047a20a7ba1e">Bar now</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|78|816|<span class="rank-name-dl">ﾓｯｺﾘ森のモーリー</span>|<a href="https://search.dartslive.com/jp/shop/d87b54ee24291d290d9b047a20a7ba1e">Bar now Bar now</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|80|814|<span class="rank-name-dl">ひろぽん</span>|<a href="https://search.dartslive.com/jp/shop/1bdcfb5d0674425f0d9b047a20a7ba1e">chill pub Birdie</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|81|812|<span class="rank-name-dl">うしぴっぴ</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|81|812|<span class="rank-name-dl">うしぴっぴ</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|83|811|<span class="rank-name-dl">長坂　駿助</span>|<a href="https://search.dartslive.com/jp/shop/306d0bd9b4cd53a30d9b047a20a7ba1e">＃あそべ屋</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|84|810|<span class="rank-name-dl">KOTEKICHI-Y.T</span>|<a href="https://search.dartslive.com/jp/shop/e0017f60d090ea240d9b047a20a7ba1e">Bar S北見</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|84|810|<span class="rank-name-dl">長坂駿助</span>|<a href="https://search.dartslive.com/jp/shop/306d0bd9b4cd53a30d9b047a20a7ba1e">＃あそべ屋</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|86|808|<span class="rank-name-dl">やんべ我道驀進3</span>|<a href="https://search.dartslive.com/jp/shop/f9a89dbb080a36bf0d9b047a20a7ba1e">Darts＆Bar ONE-THROWK2</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|87|807|<span class="rank-name-dl">ｺﾞｸﾌﾞﾄｺﾞｸﾎﾞｿﾋﾛｼ</span>|<a href="https://search.dartslive.com/jp/shop/dc25ef632ae32efd0d9b047a20a7ba1e">Darts&BAR ONE-THROW</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|88|805|<span class="rank-name-dl">yano</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|89|804|<span class="rank-name-dl">kyo</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|89|804|<span class="rank-name-dl">こにし ゆうと</span>|<a href="https://search.dartslive.com/jp/shop/dc25ef632ae32efd0d9b047a20a7ba1e">Darts&BAR ONE-THROW</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|89|804|<span class="rank-name-dl">柴犬…</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|92|803|<span class="rank-name-dl">lapi</span>|<a href="https://search.dartslive.com/jp/shop/f9a89dbb080a36bf0d9b047a20a7ba1e">Darts＆Bar ONE-THROWK2</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|93|799|<span class="rank-name-dl">Bar S</span>|<a href="https://search.dartslive.com/jp/shop/e0017f60d090ea240d9b047a20a7ba1e">Bar S北見</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|93|799|<span class="rank-name-dl">Bar S</span>|<a href="https://search.dartslive.com/jp/shop/e0017f60d090ea240d9b047a20a7ba1e">Bar S北見 Bar S北見</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|93|799|<span class="rank-name-dl">八重樫くるみ</span>|<a href="https://search.dartslive.com/jp/shop/dc25ef632ae32efd0d9b047a20a7ba1e">Darts&BAR ONE-THROW</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|96|797|<span class="rank-name-dl">JACKさん</span>|<a href="https://search.dartslive.com/jp/shop/f9a89dbb080a36bf0d9b047a20a7ba1e">Darts＆Bar ONE-THROWK2</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|96|797|<span class="rank-name-dl">JACKさん</span>|<a href="https://search.dartslive.com/jp/shop/f9a89dbb080a36bf0d9b047a20a7ba1e">Darts＆Bar ONE-THROWK2 Darts＆Bar ONE-THROWK2</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|96|797|<span class="rank-name-dl">涼補@one/GARDEN</span>|<a href="https://search.dartslive.com/jp/shop/dc25ef632ae32efd0d9b047a20a7ba1e">Darts&BAR ONE-THROW</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|99|795|<span class="rank-name-dl">TY亮</span>|<a href="https://search.dartslive.com/jp/shop/f9a89dbb080a36bf0d9b047a20a7ba1e">Darts＆Bar ONE-THROWK2</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
+|100|793|<span class="rank-name-dl">D-TAKA@FILL 2nd</span>|<a href="https://search.dartslive.com/jp/shop/255a82f47649dbf10d9b047a20a7ba1e">Darts&Bar FILL</a>|<a href="/darts/rank/北海道/北見市">北海道北見市</a>|
 
 
 #### PHOENIXDARTS TOP 100

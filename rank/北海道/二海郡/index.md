@@ -30,53 +30,57 @@ ___
 |5|903|<span class="rank-name-dl">Ryo</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
 |6|883|<span class="rank-name-dl">ＮＥＲＯ qero</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
 |7|870|<span class="rank-name-dl">イチ</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|8|864|<span class="rank-name-dl">ReoSasaki</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
 |8|864|<span class="rank-name-dl">ReoSasaki</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|9|859|<span class="rank-name-dl">Hana</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|10|788|<span class="rank-name-dl">おしお　かける</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|10|788|<span class="rank-name-dl">なるみ</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|12|784|<span class="rank-name-dl">イチ</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|13|759|<span class="rank-name-dl">GUNTSUBO</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|13|759|<span class="rank-name-dl">SEIYA@GJM</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|15|738|<span class="rank-name-dl">Duck 1号</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|16|727|<span class="rank-name-dl">SHUN</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|17|722|<span class="rank-name-dl">SHUN</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|18|712|<span class="rank-name-dl">Ryo</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|19|705|<span class="rank-name-dl">アヒル育ちの優</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|20|704|<span class="rank-name-dl">アヒルの優也</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|21|703|<span class="rank-name-dl">レブロン7</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|22|686|<span class="rank-name-dl">SEIYA</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|23|684|<span class="rank-name-dl">naoaki</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|24|678|<span class="rank-name-dl">しゅん</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|25|671|<span class="rank-name-dl">ゆうやん</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|26|669|<span class="rank-name-dl">歩く子宝神社</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|27|657|<span class="rank-name-dl">俺？ゆうだよ？</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|28|637|<span class="rank-name-dl">Duck 1号</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|29|636|<span class="rank-name-dl">しゅんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|30|635|<span class="rank-name-dl">しゅん2</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|31|634|<span class="rank-name-dl">みほ(´〜｀＊)</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|32|633|<span class="rank-name-dl">牧野歴木</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|33|621|<span class="rank-name-dl">てら</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|34|615|<span class="rank-name-dl">NO NAME 9773</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|35|613|<span class="rank-name-dl">だいぽん</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|35|613|<span class="rank-name-dl">ドラえもんのゆう</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|37|602|<span class="rank-name-dl">つぼです。</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|38|595|<span class="rank-name-dl">ふくやままさはる</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|39|547|<span class="rank-name-dl">SHIZUKA</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|40|532|<span class="rank-name-dl">ゆちゃん</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|41|527|<span class="rank-name-dl">むらけー</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|42|488|<span class="rank-name-dl">KUNUGI</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|43|484|<span class="rank-name-dl">ちよ</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|43|484|<span class="rank-name-dl">なべべべぱへ</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|45|479|<span class="rank-name-dl">3310</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|46|469|<span class="rank-name-dl">もりきちい</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|47|454|<span class="rank-name-dl">アカリ</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|48|426|<span class="rank-name-dl">サリー</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|49|425|<span class="rank-name-dl">なべべべぱへ</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|50|422|<span class="rank-name-dl">むぎ</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|51|403|<span class="rank-name-dl">なみ</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|52|390|<span class="rank-name-dl">ピヨ</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|53|352|<span class="rank-name-dl">たか</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|54|324|<span class="rank-name-dl">ぽんた</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|10|859|<span class="rank-name-dl">Hana</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|11|788|<span class="rank-name-dl">おしお　かける</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|11|788|<span class="rank-name-dl">なるみ</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|11|788|<span class="rank-name-dl">なるみ</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|14|784|<span class="rank-name-dl">イチ</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|15|759|<span class="rank-name-dl">GUNTSUBO</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|15|759|<span class="rank-name-dl">SEIYA@GJM</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|17|738|<span class="rank-name-dl">Duck 1号</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|18|727|<span class="rank-name-dl">SHUN</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|18|727|<span class="rank-name-dl">SHUN</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|20|712|<span class="rank-name-dl">Ryo</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|21|705|<span class="rank-name-dl">アヒル育ちの優</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|22|704|<span class="rank-name-dl">アヒルの優也</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|23|703|<span class="rank-name-dl">レブロン7</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|24|686|<span class="rank-name-dl">SEIYA</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|25|684|<span class="rank-name-dl">naoaki</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|26|678|<span class="rank-name-dl">しゅん</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|27|671|<span class="rank-name-dl">ゆうやん</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|28|669|<span class="rank-name-dl">歩く子宝神社</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|29|657|<span class="rank-name-dl">俺？ゆうだよ？</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|30|637|<span class="rank-name-dl">Duck 1号</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|31|636|<span class="rank-name-dl">しゅんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|32|635|<span class="rank-name-dl">しゅん2</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|33|634|<span class="rank-name-dl">みほ(´〜｀＊)</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|34|633|<span class="rank-name-dl">牧野歴木</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|35|621|<span class="rank-name-dl">てら</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|36|615|<span class="rank-name-dl">NO NAME 9773</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|37|613|<span class="rank-name-dl">だいぽん</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|37|613|<span class="rank-name-dl">ドラえもんのゆう</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|37|613|<span class="rank-name-dl">ドラえもんのゆう</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|40|602|<span class="rank-name-dl">つぼです。</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|41|595|<span class="rank-name-dl">ふくやままさはる</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|42|547|<span class="rank-name-dl">SHIZUKA</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|43|532|<span class="rank-name-dl">ゆちゃん</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|44|527|<span class="rank-name-dl">むらけー</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|44|527|<span class="rank-name-dl">むらけー</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|46|488|<span class="rank-name-dl">KUNUGI</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|47|484|<span class="rank-name-dl">ちよ</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|47|484|<span class="rank-name-dl">なべべべぱへ</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|49|479|<span class="rank-name-dl">3310</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|50|469|<span class="rank-name-dl">もりきちい</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|51|454|<span class="rank-name-dl">アカリ</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|52|426|<span class="rank-name-dl">サリー</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|53|425|<span class="rank-name-dl">なべべべぱへ</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|54|422|<span class="rank-name-dl">むぎ</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|55|403|<span class="rank-name-dl">なみ</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|56|390|<span class="rank-name-dl">ピヨ</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|57|352|<span class="rank-name-dl">たか</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|58|324|<span class="rank-name-dl">ぽんた</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -93,53 +97,57 @@ ___
 |5|903|<span class="rank-name-dl">Ryo</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
 |6|883|<span class="rank-name-dl">ＮＥＲＯ qero</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
 |7|870|<span class="rank-name-dl">イチ</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|8|864|<span class="rank-name-dl">ReoSasaki</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
 |8|864|<span class="rank-name-dl">ReoSasaki</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|9|859|<span class="rank-name-dl">Hana</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|10|788|<span class="rank-name-dl">おしお　かける</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|10|788|<span class="rank-name-dl">なるみ</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|12|784|<span class="rank-name-dl">イチ</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|13|759|<span class="rank-name-dl">GUNTSUBO</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|13|759|<span class="rank-name-dl">SEIYA@GJM</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|15|738|<span class="rank-name-dl">Duck 1号</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|16|727|<span class="rank-name-dl">SHUN</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|17|722|<span class="rank-name-dl">SHUN</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|18|712|<span class="rank-name-dl">Ryo</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|19|705|<span class="rank-name-dl">アヒル育ちの優</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|20|704|<span class="rank-name-dl">アヒルの優也</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|21|703|<span class="rank-name-dl">レブロン7</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|22|686|<span class="rank-name-dl">SEIYA</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|23|684|<span class="rank-name-dl">naoaki</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|24|678|<span class="rank-name-dl">しゅん</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|25|671|<span class="rank-name-dl">ゆうやん</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|26|669|<span class="rank-name-dl">歩く子宝神社</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|27|657|<span class="rank-name-dl">俺？ゆうだよ？</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|28|637|<span class="rank-name-dl">Duck 1号</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|29|636|<span class="rank-name-dl">しゅんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|30|635|<span class="rank-name-dl">しゅん2</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|31|634|<span class="rank-name-dl">みほ(´〜｀＊)</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|32|633|<span class="rank-name-dl">牧野歴木</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|33|621|<span class="rank-name-dl">てら</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|34|615|<span class="rank-name-dl">NO NAME 9773</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|35|613|<span class="rank-name-dl">だいぽん</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|35|613|<span class="rank-name-dl">ドラえもんのゆう</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|37|602|<span class="rank-name-dl">つぼです。</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|38|595|<span class="rank-name-dl">ふくやままさはる</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|39|547|<span class="rank-name-dl">SHIZUKA</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|40|532|<span class="rank-name-dl">ゆちゃん</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|41|527|<span class="rank-name-dl">むらけー</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|42|488|<span class="rank-name-dl">KUNUGI</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|43|484|<span class="rank-name-dl">ちよ</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|43|484|<span class="rank-name-dl">なべべべぱへ</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|45|479|<span class="rank-name-dl">3310</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|46|469|<span class="rank-name-dl">もりきちい</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|47|454|<span class="rank-name-dl">アカリ</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|48|426|<span class="rank-name-dl">サリー</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|49|425|<span class="rank-name-dl">なべべべぱへ</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|50|422|<span class="rank-name-dl">むぎ</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|51|403|<span class="rank-name-dl">なみ</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|52|390|<span class="rank-name-dl">ピヨ</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|53|352|<span class="rank-name-dl">たか</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
-|54|324|<span class="rank-name-dl">ぽんた</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|10|859|<span class="rank-name-dl">Hana</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|11|788|<span class="rank-name-dl">おしお　かける</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|11|788|<span class="rank-name-dl">なるみ</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|11|788|<span class="rank-name-dl">なるみ</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|14|784|<span class="rank-name-dl">イチ</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|15|759|<span class="rank-name-dl">GUNTSUBO</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|15|759|<span class="rank-name-dl">SEIYA@GJM</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|17|738|<span class="rank-name-dl">Duck 1号</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|18|727|<span class="rank-name-dl">SHUN</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|18|727|<span class="rank-name-dl">SHUN</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|20|712|<span class="rank-name-dl">Ryo</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|21|705|<span class="rank-name-dl">アヒル育ちの優</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|22|704|<span class="rank-name-dl">アヒルの優也</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|23|703|<span class="rank-name-dl">レブロン7</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|24|686|<span class="rank-name-dl">SEIYA</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|25|684|<span class="rank-name-dl">naoaki</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|26|678|<span class="rank-name-dl">しゅん</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|27|671|<span class="rank-name-dl">ゆうやん</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|28|669|<span class="rank-name-dl">歩く子宝神社</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|29|657|<span class="rank-name-dl">俺？ゆうだよ？</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|30|637|<span class="rank-name-dl">Duck 1号</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|31|636|<span class="rank-name-dl">しゅんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|32|635|<span class="rank-name-dl">しゅん2</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|33|634|<span class="rank-name-dl">みほ(´〜｀＊)</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|34|633|<span class="rank-name-dl">牧野歴木</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|35|621|<span class="rank-name-dl">てら</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|36|615|<span class="rank-name-dl">NO NAME 9773</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|37|613|<span class="rank-name-dl">だいぽん</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|37|613|<span class="rank-name-dl">ドラえもんのゆう</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|37|613|<span class="rank-name-dl">ドラえもんのゆう</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|40|602|<span class="rank-name-dl">つぼです。</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|41|595|<span class="rank-name-dl">ふくやままさはる</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|42|547|<span class="rank-name-dl">SHIZUKA</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|43|532|<span class="rank-name-dl">ゆちゃん</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|44|527|<span class="rank-name-dl">むらけー</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|44|527|<span class="rank-name-dl">むらけー</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|46|488|<span class="rank-name-dl">KUNUGI</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|47|484|<span class="rank-name-dl">ちよ</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|47|484|<span class="rank-name-dl">なべべべぱへ</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|49|479|<span class="rank-name-dl">3310</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|50|469|<span class="rank-name-dl">もりきちい</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|51|454|<span class="rank-name-dl">アカリ</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|52|426|<span class="rank-name-dl">サリー</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|53|425|<span class="rank-name-dl">なべべべぱへ</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|54|422|<span class="rank-name-dl">むぎ</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|55|403|<span class="rank-name-dl">なみ</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|56|390|<span class="rank-name-dl">ピヨ</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|57|352|<span class="rank-name-dl">たか</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
+|58|324|<span class="rank-name-dl">ぽんた</span>|<a href="https://search.dartslive.com/jp/shop/845c71f0d0b22f410d9b047a20a7ba1e">BAR DUCK</a>|<a href="/darts/rank/北海道/二海郡">北海道二海郡</a>|
 
 
 #### PHOENIXDARTS TOP 100

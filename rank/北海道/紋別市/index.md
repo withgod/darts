@@ -68,61 +68,61 @@ ___
 |43|760|<span class="rank-name-dl">くもっテルメガネ</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店 遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
 |44|752|<span class="rank-name-pd">にゃんこ。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89933?s_seq=89933">BAR 北笑 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
 |45|735|<span class="rank-name-pd">xxli_vy</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89933?s_seq=89933">BAR 北笑 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|46|728|<span class="rank-name-dl">ぽこつん</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
 |46|728|<span class="rank-name-dl">ぽこつん</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店 遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|47|724|<span class="rank-name-dl">ししゃもサンド</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店 遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|48|723|<span class="rank-name-dl">あしゅしゅ</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|49|713|<span class="rank-name-pd">いち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89933?s_seq=89933">BAR 北笑 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|50|712|<span class="rank-name-dl">丿丶 /乚 ｷ</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|51|706|<span class="rank-name-pd">りゅ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89933?s_seq=89933">BAR 北笑 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|52|704|<span class="rank-name-pd">0189-3586</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89933?s_seq=89933">BAR 北笑 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|53|698|<span class="rank-name-dl">Queen</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|54|689|<span class="rank-name-dl">✩Ryo-kun✩</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|55|688|<span class="rank-name-dl">xxli_vy</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|56|685|<span class="rank-name-pd">よーすけ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89933?s_seq=89933">BAR 北笑 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|57|674|<span class="rank-name-pd">Alonso</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89933?s_seq=89933">BAR 北笑 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|58|673|<span class="rank-name-dl">jammy8</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店 遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|59|672|<span class="rank-name-dl">NO NAME 9926</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|60|665|<span class="rank-name-dl">ふくせみ</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店 遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|61|654|<span class="rank-name-pd">りゅーが</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89933?s_seq=89933">BAR 北笑 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|62|653|<span class="rank-name-dl">鉄拳 デビルver</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|63|650|<span class="rank-name-pd">りゅと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89933?s_seq=89933">BAR 北笑 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|63|650|<span class="rank-name-dl">谷平くによし♪</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|65|649|<span class="rank-name-pd">あお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89933?s_seq=89933">BAR 北笑 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|66|648|<span class="rank-name-dl">Terashi</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店 遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|67|646|<span class="rank-name-dl">❋ⓐⓨⓐ❋</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|68|645|<span class="rank-name-dl">PIT</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|69|633|<span class="rank-name-pd">我妻 諒祐</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89933?s_seq=89933">BAR 北笑 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|70|627|<span class="rank-name-dl">hiroshi</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|71|625|<span class="rank-name-dl">まーくん</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店 遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|72|623|<span class="rank-name-dl">えんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|73|621|<span class="rank-name-pd">.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89933?s_seq=89933">BAR 北笑 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|74|617|<span class="rank-name-pd">M800M</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89933?s_seq=89933">BAR 北笑 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|75|615|<span class="rank-name-pd">手塚 拓郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89933?s_seq=89933">BAR 北笑 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|76|609|<span class="rank-name-pd">もーりー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89933?s_seq=89933">BAR 北笑 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|77|607|<span class="rank-name-dl">もーりー</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店 遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|77|607|<span class="rank-name-dl">長坂　駿助</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店 遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|79|605|<span class="rank-name-dl">あおい</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|79|605|<span class="rank-name-dl">さんちゃん♂2nd</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|81|604|<span class="rank-name-pd">PIT</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89933?s_seq=89933">BAR 北笑 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|82|603|<span class="rank-name-pd">山田 太樹 GARDEN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89933?s_seq=89933">BAR 北笑 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|83|590|<span class="rank-name-pd">りお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89933?s_seq=89933">BAR 北笑 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|84|582|<span class="rank-name-pd">hiroshi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89933?s_seq=89933">BAR 北笑 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|85|578|<span class="rank-name-pd">ちゃんまこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89933?s_seq=89933">BAR 北笑 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|86|577|<span class="rank-name-pd">COZU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89933?s_seq=89933">BAR 北笑 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|87|556|<span class="rank-name-pd">Shingo_Yama</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89933?s_seq=89933">BAR 北笑 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|88|552|<span class="rank-name-dl">みー。</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|89|545|<span class="rank-name-pd">satsuki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89933?s_seq=89933">BAR 北笑 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|90|537|<span class="rank-name-pd">ﾏﾘ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89933?s_seq=89933">BAR 北笑 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|91|525|<span class="rank-name-pd">マリオ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89933?s_seq=89933">BAR 北笑 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|92|511|<span class="rank-name-pd">ナギイチ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89933?s_seq=89933">BAR 北笑 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|93|500|<span class="rank-name-pd">たくぞ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89933?s_seq=89933">BAR 北笑 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|94|490|<span class="rank-name-pd">碧</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89933?s_seq=89933">BAR 北笑 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|95|484|<span class="rank-name-pd">ひろき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89933?s_seq=89933">BAR 北笑 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|96|458|<span class="rank-name-dl">SHINGO.Y</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|97|450|<span class="rank-name-dl">NO NAME 7959</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|98|447|<span class="rank-name-pd">たくみ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89933?s_seq=89933">BAR 北笑 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|99|446|<span class="rank-name-dl">碧</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|100|441|<span class="rank-name-dl">ﾏﾘ</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|48|724|<span class="rank-name-dl">ししゃもサンド</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|48|724|<span class="rank-name-dl">ししゃもサンド</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店 遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|50|723|<span class="rank-name-dl">あしゅしゅ</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|51|713|<span class="rank-name-pd">いち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89933?s_seq=89933">BAR 北笑 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|52|712|<span class="rank-name-dl">丿丶 /乚 ｷ</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|53|706|<span class="rank-name-pd">りゅ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89933?s_seq=89933">BAR 北笑 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|54|704|<span class="rank-name-pd">0189-3586</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89933?s_seq=89933">BAR 北笑 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|55|698|<span class="rank-name-dl">Queen</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|56|689|<span class="rank-name-dl">✩Ryo-kun✩</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|57|688|<span class="rank-name-dl">xxli_vy</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|58|685|<span class="rank-name-pd">よーすけ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89933?s_seq=89933">BAR 北笑 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|59|674|<span class="rank-name-pd">Alonso</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89933?s_seq=89933">BAR 北笑 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|60|673|<span class="rank-name-dl">jammy8</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|60|673|<span class="rank-name-dl">jammy8</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店 遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|62|672|<span class="rank-name-dl">NO NAME 9926</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|63|665|<span class="rank-name-dl">ふくせみ</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|63|665|<span class="rank-name-dl">ふくせみ</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店 遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|65|654|<span class="rank-name-pd">りゅーが</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89933?s_seq=89933">BAR 北笑 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|66|653|<span class="rank-name-dl">鉄拳 デビルver</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|67|650|<span class="rank-name-pd">りゅと</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89933?s_seq=89933">BAR 北笑 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|67|650|<span class="rank-name-dl">谷平くによし♪</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|69|649|<span class="rank-name-pd">あお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89933?s_seq=89933">BAR 北笑 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|70|648|<span class="rank-name-dl">Terashi</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|70|648|<span class="rank-name-dl">Terashi</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店 遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|72|646|<span class="rank-name-dl">❋ⓐⓨⓐ❋</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|73|645|<span class="rank-name-dl">PIT</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|74|633|<span class="rank-name-pd">我妻 諒祐</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89933?s_seq=89933">BAR 北笑 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|75|627|<span class="rank-name-dl">hiroshi</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|76|625|<span class="rank-name-dl">まーくん</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|76|625|<span class="rank-name-dl">まーくん</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店 遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|78|623|<span class="rank-name-dl">えんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|79|621|<span class="rank-name-pd">.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89933?s_seq=89933">BAR 北笑 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|80|617|<span class="rank-name-pd">M800M</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89933?s_seq=89933">BAR 北笑 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|81|615|<span class="rank-name-pd">手塚 拓郎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89933?s_seq=89933">BAR 北笑 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|82|609|<span class="rank-name-pd">もーりー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89933?s_seq=89933">BAR 北笑 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|83|607|<span class="rank-name-dl">もーりー</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|83|607|<span class="rank-name-dl">もーりー</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店 遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|83|607|<span class="rank-name-dl">長坂　駿助</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店 遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|86|605|<span class="rank-name-dl">あおい</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|86|605|<span class="rank-name-dl">さんちゃん♂2nd</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|88|604|<span class="rank-name-pd">PIT</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89933?s_seq=89933">BAR 北笑 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|89|603|<span class="rank-name-pd">山田 太樹 GARDEN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89933?s_seq=89933">BAR 北笑 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|90|590|<span class="rank-name-pd">りお</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89933?s_seq=89933">BAR 北笑 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|91|582|<span class="rank-name-pd">hiroshi</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89933?s_seq=89933">BAR 北笑 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|92|578|<span class="rank-name-pd">ちゃんまこ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89933?s_seq=89933">BAR 北笑 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|93|577|<span class="rank-name-pd">COZU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89933?s_seq=89933">BAR 北笑 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|94|556|<span class="rank-name-pd">Shingo_Yama</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89933?s_seq=89933">BAR 北笑 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|95|552|<span class="rank-name-dl">みー。</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|96|545|<span class="rank-name-pd">satsuki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89933?s_seq=89933">BAR 北笑 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|97|537|<span class="rank-name-pd">ﾏﾘ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89933?s_seq=89933">BAR 北笑 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|98|525|<span class="rank-name-pd">マリオ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89933?s_seq=89933">BAR 北笑 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|99|511|<span class="rank-name-pd">ナギイチ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89933?s_seq=89933">BAR 北笑 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|100|500|<span class="rank-name-pd">たくぞ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89933?s_seq=89933">BAR 北笑 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -161,38 +161,45 @@ ___
 |27|764|<span class="rank-name-dl">鈴木 力</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
 |28|763|<span class="rank-name-dl">星詠み</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
 |29|760|<span class="rank-name-dl">くもっテルメガネ</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店 遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|30|728|<span class="rank-name-dl">ぽこつん</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
 |30|728|<span class="rank-name-dl">ぽこつん</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店 遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|31|724|<span class="rank-name-dl">ししゃもサンド</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店 遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|32|723|<span class="rank-name-dl">あしゅしゅ</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|33|712|<span class="rank-name-dl">丿丶 /乚 ｷ</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|34|698|<span class="rank-name-dl">Queen</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|35|689|<span class="rank-name-dl">✩Ryo-kun✩</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|36|688|<span class="rank-name-dl">xxli_vy</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|37|673|<span class="rank-name-dl">jammy8</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店 遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|38|672|<span class="rank-name-dl">NO NAME 9926</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|39|665|<span class="rank-name-dl">ふくせみ</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店 遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|40|653|<span class="rank-name-dl">鉄拳 デビルver</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|41|650|<span class="rank-name-dl">谷平くによし♪</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|42|648|<span class="rank-name-dl">Terashi</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店 遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|43|646|<span class="rank-name-dl">❋ⓐⓨⓐ❋</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|44|645|<span class="rank-name-dl">PIT</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|45|627|<span class="rank-name-dl">hiroshi</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|46|625|<span class="rank-name-dl">まーくん</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店 遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|47|623|<span class="rank-name-dl">えんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|48|607|<span class="rank-name-dl">もーりー</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店 遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|48|607|<span class="rank-name-dl">長坂　駿助</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店 遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|50|605|<span class="rank-name-dl">あおい</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|50|605|<span class="rank-name-dl">さんちゃん♂2nd</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|52|552|<span class="rank-name-dl">みー。</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|53|458|<span class="rank-name-dl">SHINGO.Y</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|54|450|<span class="rank-name-dl">NO NAME 7959</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|55|446|<span class="rank-name-dl">碧</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|56|441|<span class="rank-name-dl">ﾏﾘ</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|57|409|<span class="rank-name-dl">NO NAME 0007</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|58|405|<span class="rank-name-dl">きぃしあ</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|59|393|<span class="rank-name-dl">SoL</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|60|381|<span class="rank-name-dl">a-delheid</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
-|61|274|<span class="rank-name-dl">じゅんじゅん☆</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|32|724|<span class="rank-name-dl">ししゃもサンド</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|32|724|<span class="rank-name-dl">ししゃもサンド</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店 遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|34|723|<span class="rank-name-dl">あしゅしゅ</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|35|712|<span class="rank-name-dl">丿丶 /乚 ｷ</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|36|698|<span class="rank-name-dl">Queen</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|37|689|<span class="rank-name-dl">✩Ryo-kun✩</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|38|688|<span class="rank-name-dl">xxli_vy</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|39|673|<span class="rank-name-dl">jammy8</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|39|673|<span class="rank-name-dl">jammy8</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店 遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|41|672|<span class="rank-name-dl">NO NAME 9926</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|42|665|<span class="rank-name-dl">ふくせみ</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|42|665|<span class="rank-name-dl">ふくせみ</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店 遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|44|653|<span class="rank-name-dl">鉄拳 デビルver</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|45|650|<span class="rank-name-dl">谷平くによし♪</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|46|648|<span class="rank-name-dl">Terashi</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|46|648|<span class="rank-name-dl">Terashi</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店 遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|48|646|<span class="rank-name-dl">❋ⓐⓨⓐ❋</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|49|645|<span class="rank-name-dl">PIT</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|50|627|<span class="rank-name-dl">hiroshi</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|51|625|<span class="rank-name-dl">まーくん</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|51|625|<span class="rank-name-dl">まーくん</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店 遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|53|623|<span class="rank-name-dl">えんちゃん</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|54|607|<span class="rank-name-dl">もーりー</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|54|607|<span class="rank-name-dl">もーりー</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店 遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|54|607|<span class="rank-name-dl">長坂　駿助</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店 遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|57|605|<span class="rank-name-dl">あおい</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|57|605|<span class="rank-name-dl">さんちゃん♂2nd</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|59|552|<span class="rank-name-dl">みー。</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|60|458|<span class="rank-name-dl">SHINGO.Y</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|61|450|<span class="rank-name-dl">NO NAME 7959</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|62|446|<span class="rank-name-dl">碧</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|63|441|<span class="rank-name-dl">ﾏﾘ</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|64|409|<span class="rank-name-dl">NO NAME 0007</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|65|405|<span class="rank-name-dl">きぃしあ</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|66|393|<span class="rank-name-dl">SoL</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|67|381|<span class="rank-name-dl">a-delheid</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
+|68|274|<span class="rank-name-dl">じゅんじゅん☆</span>|<a href="https://search.dartslive.com/jp/shop/92d159ed4fcef01a0d9b047a20a7ba1e">遊ランド 紋別店</a>|<a href="/darts/rank/北海道/紋別市">北海道紋別市</a>|
 
 
 #### PHOENIXDARTS TOP 100

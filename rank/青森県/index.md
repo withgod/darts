@@ -43,100 +43,100 @@ ___
 |3|1200|<span class="rank-name-dl">藤嶌 淳樹</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店 自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
 |5|1168|<span class="rank-name-dl">た</span>|<a href="https://search.dartslive.com/jp/shop/9cc9816dccb3c0a80d9b047a20a7ba1e">WEMDI</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
 |6|1163|<span class="rank-name-dl">Τακα【甘党】</span>|<a href="https://search.dartslive.com/jp/shop/9cc9816dccb3c0a80d9b047a20a7ba1e">WEMDI</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
+|7|1159|<span class="rank-name-dl">YOUだよ(¯☩¯)</span>|<a href="https://search.dartslive.com/jp/shop/6d9e05ee0917894ea3f63593b5358cc4">カラオケ合衆国　弘前城東店</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
 |7|1159|<span class="rank-name-dl">YOUだよ(¯☩¯)</span>|<a href="https://search.dartslive.com/jp/shop/6d9e05ee0917894ea3f63593b5358cc4">カラオケ合衆国　弘前城東店 カラオケ合衆国　弘前城東店</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
-|8|1158|<span class="rank-name-dl">藤嶌 淳樹</span>|<a href="https://search.dartslive.com/jp/shop/092bde225bc01a1b790ab824ce8730e5">快活CLUB 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
-|9|1154|<span class="rank-name-dl">糞１０ーー６</span>|<a href="https://search.dartslive.com/jp/shop/f963892b8974731b0d9b047a20a7ba1e">SEVEN HORSE</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|10|1132|<span class="rank-name-dl">レイン</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店 自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
-|11|1131|<span class="rank-name-dl">崇【Club M+】</span>|<a href="https://search.dartslive.com/jp/shop/f963892b8974731b0d9b047a20a7ba1e">SEVEN HORSE</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|12|1130|<span class="rank-name-dl">まゆげ</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|13|1125|<span class="rank-name-pd">$TONY77(☆_-)$</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10479?s_seq=10479">ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|13|1125|<span class="rank-name-dl">あんさい</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店 ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|15|1124|<span class="rank-name-dl">YOUだよ(¯☩¯)</span>|<a href="https://search.dartslive.com/jp/shop/c1f8ec9eb948d15a25d56fb0e5c39bac">PlayGarden 青森新町通り店 PlayGarden 青森新町通り店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|15|1124|<span class="rank-name-dl">藤嶌 淳樹</span>|<a href="https://search.dartslive.com/jp/shop/f110fb44f3904633790ab824ce8730e5">カラオケ合衆国 八戸店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
-|17|1123|<span class="rank-name-dl">レイン</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
-|18|1117|<span class="rank-name-dl">た</span>|<a href="https://search.dartslive.com/jp/shop/f963892b8974731b0d9b047a20a7ba1e">SEVEN HORSE</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|19|1115|<span class="rank-name-pd">τακ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83510?s_seq=83510">CAFE&BAR ZERO-ONE</a>|<a href="/darts/rank/青森県/平川市">青森県平川市</a>|
-|19|1115|<span class="rank-name-pd">あんさい@ｺﾈｸﾄ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88970?s_seq=88970">ビアポンBAR CONNECT</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|21|1099|<span class="rank-name-dl">福田真也</span>|<a href="https://search.dartslive.com/jp/shop/c00d37131c00710d0d9b047a20a7ba1e">CAFE&BAR ZERO-ONE</a>|<a href="/darts/rank/青森県/平川市">青森県平川市</a>|
-|22|1093|<span class="rank-name-dl">きゃめる</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
-|23|1092|<span class="rank-name-pd">K-row【BULL-et】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10479?s_seq=10479">ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|24|1088|<span class="rank-name-dl">あんさい@ｺﾈｸﾄ</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|25|1087|<span class="rank-name-dl">立石家（共有）</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
-|26|1081|<span class="rank-name-dl">$TONY77(☆_-)$</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店 ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|26|1081|<span class="rank-name-dl">麒麟</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|28|1079|<span class="rank-name-pd">コンソメ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10479?s_seq=10479">ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|29|1074|<span class="rank-name-dl">U-DAI</span>|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国　むつ店 カラオケ合衆国　むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
-|29|1074|<span class="rank-name-dl">なとるの下僕04</span>|<a href="https://search.dartslive.com/jp/shop/3fe055a93610eb650d9b047a20a7ba1e">BerryBerry Aomori</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|31|1069|<span class="rank-name-dl">NoriHiroN</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
-|31|1069|<span class="rank-name-dl">OSUKE</span>|<a href="https://search.dartslive.com/jp/shop/3fe055a93610eb650d9b047a20a7ba1e">BerryBerry Aomori</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|31|1069|<span class="rank-name-dl">chibaっち∞</span>|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国 むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
-|31|1069|<span class="rank-name-dl">あんさい</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|31|1069|<span class="rank-name-dl">たなかざうるす</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店 自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
-|36|1066|<span class="rank-name-dl">Τακα【甘党】</span>|<a href="https://search.dartslive.com/jp/shop/c00d37131c00710d0d9b047a20a7ba1e">CAFE&BAR ZERO-ONE CAFE&BAR ZERO-ONE</a>|<a href="/darts/rank/青森県/平川市">青森県平川市</a>|
-|37|1064|<span class="rank-name-dl">Harly∽JON</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|37|1064|<span class="rank-name-pd">PLAYER1</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94869?s_seq=94869">PlayGarden 三沢店</a>|<a href="/darts/rank/青森県/三沢市">青森県三沢市</a>|
-|39|1063|<span class="rank-name-dl">太政官やまーくん</span>|<a href="https://search.dartslive.com/jp/shop/9cc9816dccb3c0a80d9b047a20a7ba1e">WEMDI</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
-|40|1062|<span class="rank-name-dl">ごるご　たこ橋</span>|<a href="https://search.dartslive.com/jp/shop/6d9e05ee0917894ea3f63593b5358cc4">カラオケ合衆国　弘前城東店 カラオケ合衆国　弘前城東店</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
-|40|1062|<span class="rank-name-dl">ぴよ</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|42|1061|<span class="rank-name-dl">崇【Club M+】</span>|<a href="https://search.dartslive.com/jp/shop/f963892b8974731b0d9b047a20a7ba1e">SEVEN HORSE SEVEN HORSE</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|43|1059|<span class="rank-name-dl">KoMeI.I</span>|<a href="https://search.dartslive.com/jp/shop/ecd06a0ba31ad23f0d9b047a20a7ba1e">Darts Bar CONNECT</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|44|1056|<span class="rank-name-dl">ぴよ</span>|<a href="https://search.dartslive.com/jp/shop/9cc9816dccb3c0a80d9b047a20a7ba1e">WEMDI</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
-|45|1051|<span class="rank-name-dl">北山　稀士</span>|<a href="https://search.dartslive.com/jp/shop/f963892b8974731b0d9b047a20a7ba1e">SEVEN HORSE</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|46|1048|<span class="rank-name-dl">Harly∽JON</span>|<a href="https://search.dartslive.com/jp/shop/f963892b8974731b0d9b047a20a7ba1e">SEVEN HORSE</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|47|1047|<span class="rank-name-dl">NO NAME 6119</span>|<a href="https://search.dartslive.com/jp/shop/092bde225bc01a1b790ab824ce8730e5">快活CLUB 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
-|47|1047|<span class="rank-name-dl">むーさん</span>|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国　むつ店 カラオケ合衆国　むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
-|49|1046|<span class="rank-name-pd">ラーメン屋さん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65742?s_seq=65742">CONNECT</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|50|1044|<span class="rank-name-pd">0148_3031</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83510?s_seq=83510">CAFE&BAR ZERO-ONE</a>|<a href="/darts/rank/青森県/平川市">青森県平川市</a>|
-|50|1044|<span class="rank-name-dl">おそら＠CONNECT</span>|<a href="https://search.dartslive.com/jp/shop/9cc9816dccb3c0a80d9b047a20a7ba1e">WEMDI</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
-|52|1043|<span class="rank-name-dl">R</span>|<a href="https://search.dartslive.com/jp/shop/6d9e05ee0917894ea3f63593b5358cc4">カラオケ合衆国 弘前城東店</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
-|53|1042|<span class="rank-name-dl">kira_22</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|53|1042|<span class="rank-name-dl">鯨</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
-|55|1040|<span class="rank-name-dl">つしかず@FRERES</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|56|1039|<span class="rank-name-dl">Ryuji</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
-|57|1037|<span class="rank-name-dl">マム</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
-|58|1035|<span class="rank-name-dl">【R1】しおもん</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
-|59|1031|<span class="rank-name-dl">T-zawa</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|60|1027|<span class="rank-name-dl">ぴよ</span>|<a href="https://search.dartslive.com/jp/shop/6d9e05ee0917894ea3f63593b5358cc4">カラオケ合衆国 弘前城東店</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
-|61|1025|<span class="rank-name-dl">因幡</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|62|1023|<span class="rank-name-dl">倉</span>|<a href="https://search.dartslive.com/jp/shop/1f748776cfb93874774c926eb736cb5a">カラオケ合衆国青森観光通り店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|63|1021|<span class="rank-name-dl">太政官やまーくん</span>|<a href="https://search.dartslive.com/jp/shop/c1f8ec9eb948d15a25d56fb0e5c39bac">PlayGarden 青森新町通り店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|64|1020|<span class="rank-name-dl">やにかす</span>|<a href="https://search.dartslive.com/jp/shop/c00d37131c00710d0d9b047a20a7ba1e">CAFE&BAR ZERO-ONE CAFE&BAR ZERO-ONE</a>|<a href="/darts/rank/青森県/平川市">青森県平川市</a>|
-|65|1018|<span class="rank-name-dl">hideboo</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店 自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
-|65|1018|<span class="rank-name-dl">◉ノッティー ◉</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
-|65|1018|<span class="rank-name-dl">マム</span>|<a href="https://search.dartslive.com/jp/shop/092bde225bc01a1b790ab824ce8730e5">快活CLUB 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
-|68|1017|<span class="rank-name-dl">【nasa】moana</span>|<a href="https://search.dartslive.com/jp/shop/f963892b8974731b0d9b047a20a7ba1e">SEVEN HORSE</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|69|1016|<span class="rank-name-dl">アヴィ</span>|<a href="https://search.dartslive.com/jp/shop/c1f8ec9eb948d15a25d56fb0e5c39bac">PlayGarden 青森新町通り店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|70|1015|<span class="rank-name-dl">Sugar.A[SE§ION]</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
-|70|1015|<span class="rank-name-dl">s.ma</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|70|1015|<span class="rank-name-dl">倉</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
-|73|1014|<span class="rank-name-dl">たこ橋　ごるご</span>|<a href="https://search.dartslive.com/jp/shop/6d9e05ee0917894ea3f63593b5358cc4">カラオケ合衆国 弘前城東店</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
-|74|1012|<span class="rank-name-dl">HIRO☆P</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田 ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
-|74|1012|<span class="rank-name-dl">あんさい@ｺﾈｸﾄ</span>|<a href="https://search.dartslive.com/jp/shop/d5396637f188895c0d9b047a20a7ba1e">Darts Room 矢藏</a>|<a href="/darts/rank/青森県/三沢市">青森県三沢市</a>|
-|74|1012|<span class="rank-name-dl">レジギガスV2</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|77|1011|<span class="rank-name-dl">KATU肉SHOT°°°</span>|<a href="https://search.dartslive.com/jp/shop/f110fb44f3904633790ab824ce8730e5">カラオケ合衆国 八戸店 カラオケ合衆国 八戸店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
-|77|1011|<span class="rank-name-dl">ryosuke.T</span>|<a href="https://search.dartslive.com/jp/shop/f963892b8974731b0d9b047a20a7ba1e">SEVEN HORSE</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|77|1011|<span class="rank-name-dl">とうざわけん</span>|<a href="https://search.dartslive.com/jp/shop/f963892b8974731b0d9b047a20a7ba1e">SEVEN HORSE</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|77|1011|<span class="rank-name-dl">今武士プロ</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田 ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
-|81|1010|<span class="rank-name-dl">くわちゃん</span>|<a href="https://search.dartslive.com/jp/shop/f963892b8974731b0d9b047a20a7ba1e">SEVEN HORSE</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|82|1009|<span class="rank-name-dl">Hiroshi Toda</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
-|82|1009|<span class="rank-name-dl">KATU肉SHOT°°°</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
-|82|1009|<span class="rank-name-dl">つしかず@FRERES</span>|<a href="https://search.dartslive.com/jp/shop/9cc9816dccb3c0a80d9b047a20a7ba1e">WEMDI</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
-|82|1009|<span class="rank-name-dl">アール</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|86|1007|<span class="rank-name-dl">たなかざうるす</span>|<a href="https://search.dartslive.com/jp/shop/092bde225bc01a1b790ab824ce8730e5">快活CLUB 八戸沼館店 快活CLUB 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
-|87|1006|<span class="rank-name-dl">KoMeI.I</span>|<a href="https://search.dartslive.com/jp/shop/f963892b8974731b0d9b047a20a7ba1e">SEVEN HORSE</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|88|1005|<span class="rank-name-dl">つしかず@FRERES</span>|<a href="https://search.dartslive.com/jp/shop/6d9e05ee0917894ea3f63593b5358cc4">カラオケ合衆国 弘前城東店</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
-|88|1005|<span class="rank-name-dl">糞１０ーー６</span>|<a href="https://search.dartslive.com/jp/shop/9cc9816dccb3c0a80d9b047a20a7ba1e">WEMDI</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
-|90|1004|<span class="rank-name-dl">おやんドゥ～★</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
-|90|1004|<span class="rank-name-dl">榎股 慎吾</span>|<a href="https://search.dartslive.com/jp/shop/f963892b8974731b0d9b047a20a7ba1e">SEVEN HORSE</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|92|1003|<span class="rank-name-dl">ヤマエル</span>|<a href="https://search.dartslive.com/jp/shop/f963892b8974731b0d9b047a20a7ba1e">SEVEN HORSE</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|93|1002|<span class="rank-name-dl">PLAYER138</span>|<a href="https://search.dartslive.com/jp/shop/061d1b75b013b8ca774c926eb736cb5a">PlayGarden 三沢店</a>|<a href="/darts/rank/青森県/三沢市">青森県三沢市</a>|
-|93|1002|<span class="rank-name-dl">⤴︎⤴︎</span>|<a href="https://search.dartslive.com/jp/shop/c1f8ec9eb948d15a25d56fb0e5c39bac">PlayGarden青森新町通り店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|93|1002|<span class="rank-name-pd">あんさい@ｺﾈｸﾄ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65742?s_seq=65742">CONNECT</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|93|1002|<span class="rank-name-dl">しぃ*kaikoi</span>|<a href="https://search.dartslive.com/jp/shop/9cc9816dccb3c0a80d9b047a20a7ba1e">WEMDI</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
-|93|1002|<span class="rank-name-dl">カゼハーレー</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|98|1001|<span class="rank-name-dl">toshi×pochi</span>|<a href="https://search.dartslive.com/jp/shop/9cc9816dccb3c0a80d9b047a20a7ba1e">WEMDI</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
-|98|1001|<span class="rank-name-dl">赤木しげる</span>|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国 むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
-|100|1000|<span class="rank-name-dl">KATU肉SHOT°°°</span>|<a href="https://search.dartslive.com/jp/shop/061d1b75b013b8ca774c926eb736cb5a">PlayGarden 三沢店 PlayGarden 三沢店</a>|<a href="/darts/rank/青森県/三沢市">青森県三沢市</a>|
+|9|1158|<span class="rank-name-dl">藤嶌 淳樹</span>|<a href="https://search.dartslive.com/jp/shop/092bde225bc01a1b790ab824ce8730e5">快活CLUB 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
+|10|1154|<span class="rank-name-dl">糞１０ーー６</span>|<a href="https://search.dartslive.com/jp/shop/f963892b8974731b0d9b047a20a7ba1e">SEVEN HORSE</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|11|1135|<span class="rank-name-dl">崇【Club M+】</span>|<a href="https://search.dartslive.com/jp/shop/f963892b8974731b0d9b047a20a7ba1e">SEVEN HORSE</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|12|1132|<span class="rank-name-dl">レイン</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
+|12|1132|<span class="rank-name-dl">レイン</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店 自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
+|14|1130|<span class="rank-name-dl">まゆげ</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|15|1125|<span class="rank-name-pd">$TONY77(☆_-)$</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10479?s_seq=10479">ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|15|1125|<span class="rank-name-dl">あんさい</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|15|1125|<span class="rank-name-dl">あんさい</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店 ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|18|1124|<span class="rank-name-dl">YOUだよ(¯☩¯)</span>|<a href="https://search.dartslive.com/jp/shop/c1f8ec9eb948d15a25d56fb0e5c39bac">PlayGarden 青森新町通り店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|18|1124|<span class="rank-name-dl">YOUだよ(¯☩¯)</span>|<a href="https://search.dartslive.com/jp/shop/c1f8ec9eb948d15a25d56fb0e5c39bac">PlayGarden 青森新町通り店 PlayGarden 青森新町通り店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|18|1124|<span class="rank-name-dl">藤嶌 淳樹</span>|<a href="https://search.dartslive.com/jp/shop/f110fb44f3904633790ab824ce8730e5">カラオケ合衆国 八戸店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
+|21|1117|<span class="rank-name-dl">た</span>|<a href="https://search.dartslive.com/jp/shop/f963892b8974731b0d9b047a20a7ba1e">SEVEN HORSE</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|22|1116|<span class="rank-name-dl">J</span>|<a href="https://search.dartslive.com/jp/shop/f110fb44f3904633790ab824ce8730e5">カラオケ合衆国 八戸店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
+|23|1115|<span class="rank-name-pd">τακ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83510?s_seq=83510">CAFE&BAR ZERO-ONE</a>|<a href="/darts/rank/青森県/平川市">青森県平川市</a>|
+|23|1115|<span class="rank-name-pd">あんさい@ｺﾈｸﾄ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88970?s_seq=88970">ビアポンBAR CONNECT</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|25|1099|<span class="rank-name-dl">福田真也</span>|<a href="https://search.dartslive.com/jp/shop/c00d37131c00710d0d9b047a20a7ba1e">CAFE&BAR ZERO-ONE</a>|<a href="/darts/rank/青森県/平川市">青森県平川市</a>|
+|26|1093|<span class="rank-name-dl">きゃめる</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
+|27|1092|<span class="rank-name-pd">K-row【BULL-et】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10479?s_seq=10479">ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|28|1088|<span class="rank-name-dl">あんさい@ｺﾈｸﾄ</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|29|1087|<span class="rank-name-dl">立石家（共有）</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
+|30|1081|<span class="rank-name-dl">$TONY77(☆_-)$</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店 ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|30|1081|<span class="rank-name-dl">麒麟</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|32|1079|<span class="rank-name-pd">コンソメ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10479?s_seq=10479">ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|33|1076|<span class="rank-name-dl">hideboo</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
+|34|1074|<span class="rank-name-dl">U-DAI</span>|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国　むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
+|34|1074|<span class="rank-name-dl">U-DAI</span>|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国　むつ店 カラオケ合衆国　むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
+|34|1074|<span class="rank-name-dl">なとるの下僕04</span>|<a href="https://search.dartslive.com/jp/shop/3fe055a93610eb650d9b047a20a7ba1e">BerryBerry Aomori</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|37|1069|<span class="rank-name-dl">NoriHiroN</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
+|37|1069|<span class="rank-name-dl">OSUKE</span>|<a href="https://search.dartslive.com/jp/shop/3fe055a93610eb650d9b047a20a7ba1e">BerryBerry Aomori</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|37|1069|<span class="rank-name-dl">chibaっち∞</span>|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国 むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
+|37|1069|<span class="rank-name-dl">たなかざうるす</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
+|37|1069|<span class="rank-name-dl">たなかざうるす</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店 自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
+|42|1066|<span class="rank-name-dl">Τακα【甘党】</span>|<a href="https://search.dartslive.com/jp/shop/c00d37131c00710d0d9b047a20a7ba1e">CAFE&BAR ZERO-ONE</a>|<a href="/darts/rank/青森県/平川市">青森県平川市</a>|
+|42|1066|<span class="rank-name-dl">Τακα【甘党】</span>|<a href="https://search.dartslive.com/jp/shop/c00d37131c00710d0d9b047a20a7ba1e">CAFE&BAR ZERO-ONE CAFE&BAR ZERO-ONE</a>|<a href="/darts/rank/青森県/平川市">青森県平川市</a>|
+|44|1064|<span class="rank-name-dl">Harly∽JON</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|44|1064|<span class="rank-name-pd">PLAYER1</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94869?s_seq=94869">PlayGarden 三沢店</a>|<a href="/darts/rank/青森県/三沢市">青森県三沢市</a>|
+|46|1063|<span class="rank-name-dl">太政官やまーくん</span>|<a href="https://search.dartslive.com/jp/shop/9cc9816dccb3c0a80d9b047a20a7ba1e">WEMDI</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
+|47|1062|<span class="rank-name-dl">ごるご　たこ橋</span>|<a href="https://search.dartslive.com/jp/shop/6d9e05ee0917894ea3f63593b5358cc4">カラオケ合衆国　弘前城東店</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
+|47|1062|<span class="rank-name-dl">ごるご　たこ橋</span>|<a href="https://search.dartslive.com/jp/shop/6d9e05ee0917894ea3f63593b5358cc4">カラオケ合衆国　弘前城東店 カラオケ合衆国　弘前城東店</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
+|47|1062|<span class="rank-name-dl">ぴよ</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|50|1061|<span class="rank-name-dl">崇【Club M+】</span>|<a href="https://search.dartslive.com/jp/shop/f963892b8974731b0d9b047a20a7ba1e">SEVEN HORSE SEVEN HORSE</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|51|1059|<span class="rank-name-dl">KoMeI.I</span>|<a href="https://search.dartslive.com/jp/shop/ecd06a0ba31ad23f0d9b047a20a7ba1e">Darts Bar CONNECT</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|52|1056|<span class="rank-name-dl">ぴよ</span>|<a href="https://search.dartslive.com/jp/shop/9cc9816dccb3c0a80d9b047a20a7ba1e">WEMDI</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
+|53|1051|<span class="rank-name-dl">北山　稀士</span>|<a href="https://search.dartslive.com/jp/shop/f963892b8974731b0d9b047a20a7ba1e">SEVEN HORSE</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|54|1048|<span class="rank-name-dl">Harly∽JON</span>|<a href="https://search.dartslive.com/jp/shop/f963892b8974731b0d9b047a20a7ba1e">SEVEN HORSE</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|55|1047|<span class="rank-name-dl">NO NAME 6119</span>|<a href="https://search.dartslive.com/jp/shop/092bde225bc01a1b790ab824ce8730e5">快活CLUB 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
+|55|1047|<span class="rank-name-dl">むーさん</span>|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国　むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
+|55|1047|<span class="rank-name-dl">むーさん</span>|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国　むつ店 カラオケ合衆国　むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
+|58|1046|<span class="rank-name-pd">ラーメン屋さん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_65742?s_seq=65742">CONNECT</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|59|1044|<span class="rank-name-pd">0148_3031</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83510?s_seq=83510">CAFE&BAR ZERO-ONE</a>|<a href="/darts/rank/青森県/平川市">青森県平川市</a>|
+|59|1044|<span class="rank-name-dl">おそら＠CONNECT</span>|<a href="https://search.dartslive.com/jp/shop/9cc9816dccb3c0a80d9b047a20a7ba1e">WEMDI</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
+|61|1043|<span class="rank-name-dl">R</span>|<a href="https://search.dartslive.com/jp/shop/6d9e05ee0917894ea3f63593b5358cc4">カラオケ合衆国 弘前城東店</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
+|62|1042|<span class="rank-name-dl">kira_22</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|62|1042|<span class="rank-name-dl">鯨</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
+|64|1040|<span class="rank-name-dl">つしかず@FRERES</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|65|1039|<span class="rank-name-dl">Ryuji</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
+|66|1037|<span class="rank-name-dl">マム</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
+|67|1035|<span class="rank-name-dl">【R1】しおもん</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
+|68|1031|<span class="rank-name-dl">T-zawa</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|69|1027|<span class="rank-name-dl">ぴよ</span>|<a href="https://search.dartslive.com/jp/shop/6d9e05ee0917894ea3f63593b5358cc4">カラオケ合衆国 弘前城東店</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
+|70|1025|<span class="rank-name-dl">因幡</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|71|1023|<span class="rank-name-dl">倉</span>|<a href="https://search.dartslive.com/jp/shop/1f748776cfb93874774c926eb736cb5a">カラオケ合衆国青森観光通り店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|72|1021|<span class="rank-name-dl">太政官やまーくん</span>|<a href="https://search.dartslive.com/jp/shop/c1f8ec9eb948d15a25d56fb0e5c39bac">PlayGarden 青森新町通り店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|73|1020|<span class="rank-name-dl">やにかす</span>|<a href="https://search.dartslive.com/jp/shop/c00d37131c00710d0d9b047a20a7ba1e">CAFE&BAR ZERO-ONE</a>|<a href="/darts/rank/青森県/平川市">青森県平川市</a>|
+|73|1020|<span class="rank-name-dl">やにかす</span>|<a href="https://search.dartslive.com/jp/shop/c00d37131c00710d0d9b047a20a7ba1e">CAFE&BAR ZERO-ONE CAFE&BAR ZERO-ONE</a>|<a href="/darts/rank/青森県/平川市">青森県平川市</a>|
+|75|1018|<span class="rank-name-dl">hideboo</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店 自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
+|75|1018|<span class="rank-name-dl">◉ノッティー ◉</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
+|75|1018|<span class="rank-name-dl">マム</span>|<a href="https://search.dartslive.com/jp/shop/092bde225bc01a1b790ab824ce8730e5">快活CLUB 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
+|78|1017|<span class="rank-name-dl">【nasa】moana</span>|<a href="https://search.dartslive.com/jp/shop/f963892b8974731b0d9b047a20a7ba1e">SEVEN HORSE</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|79|1016|<span class="rank-name-dl">アヴィ</span>|<a href="https://search.dartslive.com/jp/shop/c1f8ec9eb948d15a25d56fb0e5c39bac">PlayGarden 青森新町通り店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|80|1015|<span class="rank-name-dl">Sugar.A[SE§ION]</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
+|80|1015|<span class="rank-name-dl">s.ma</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|80|1015|<span class="rank-name-dl">倉</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
+|83|1014|<span class="rank-name-dl">たこ橋　ごるご</span>|<a href="https://search.dartslive.com/jp/shop/6d9e05ee0917894ea3f63593b5358cc4">カラオケ合衆国 弘前城東店</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
+|84|1012|<span class="rank-name-dl">HIRO☆P</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
+|84|1012|<span class="rank-name-dl">HIRO☆P</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田 ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
+|84|1012|<span class="rank-name-dl">あんさい@ｺﾈｸﾄ</span>|<a href="https://search.dartslive.com/jp/shop/d5396637f188895c0d9b047a20a7ba1e">Darts Room 矢藏</a>|<a href="/darts/rank/青森県/三沢市">青森県三沢市</a>|
+|84|1012|<span class="rank-name-dl">レジギガスV2</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|88|1011|<span class="rank-name-dl">KATU肉SHOT°°°</span>|<a href="https://search.dartslive.com/jp/shop/f110fb44f3904633790ab824ce8730e5">カラオケ合衆国 八戸店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
+|88|1011|<span class="rank-name-dl">KATU肉SHOT°°°</span>|<a href="https://search.dartslive.com/jp/shop/f110fb44f3904633790ab824ce8730e5">カラオケ合衆国 八戸店 カラオケ合衆国 八戸店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
+|88|1011|<span class="rank-name-dl">ryosuke.T</span>|<a href="https://search.dartslive.com/jp/shop/f963892b8974731b0d9b047a20a7ba1e">SEVEN HORSE</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|88|1011|<span class="rank-name-dl">とうざわけん</span>|<a href="https://search.dartslive.com/jp/shop/f963892b8974731b0d9b047a20a7ba1e">SEVEN HORSE</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|88|1011|<span class="rank-name-dl">今武士プロ</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
+|88|1011|<span class="rank-name-dl">今武士プロ</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田 ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
+|94|1010|<span class="rank-name-dl">くわちゃん</span>|<a href="https://search.dartslive.com/jp/shop/f963892b8974731b0d9b047a20a7ba1e">SEVEN HORSE</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|95|1009|<span class="rank-name-dl">Hiroshi Toda</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
+|95|1009|<span class="rank-name-dl">KATU肉SHOT°°°</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
+|95|1009|<span class="rank-name-dl">つしかず@FRERES</span>|<a href="https://search.dartslive.com/jp/shop/9cc9816dccb3c0a80d9b047a20a7ba1e">WEMDI</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
+|95|1009|<span class="rank-name-dl">アール</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|99|1007|<span class="rank-name-dl">たなかざうるす</span>|<a href="https://search.dartslive.com/jp/shop/092bde225bc01a1b790ab824ce8730e5">快活CLUB 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
+|99|1007|<span class="rank-name-dl">たなかざうるす</span>|<a href="https://search.dartslive.com/jp/shop/092bde225bc01a1b790ab824ce8730e5">快活CLUB 八戸沼館店 快活CLUB 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -152,100 +152,100 @@ ___
 |3|1200|<span class="rank-name-dl">藤嶌 淳樹</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店 自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
 |5|1168|<span class="rank-name-dl">た</span>|<a href="https://search.dartslive.com/jp/shop/9cc9816dccb3c0a80d9b047a20a7ba1e">WEMDI</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
 |6|1163|<span class="rank-name-dl">Τακα【甘党】</span>|<a href="https://search.dartslive.com/jp/shop/9cc9816dccb3c0a80d9b047a20a7ba1e">WEMDI</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
+|7|1159|<span class="rank-name-dl">YOUだよ(¯☩¯)</span>|<a href="https://search.dartslive.com/jp/shop/6d9e05ee0917894ea3f63593b5358cc4">カラオケ合衆国　弘前城東店</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
 |7|1159|<span class="rank-name-dl">YOUだよ(¯☩¯)</span>|<a href="https://search.dartslive.com/jp/shop/6d9e05ee0917894ea3f63593b5358cc4">カラオケ合衆国　弘前城東店 カラオケ合衆国　弘前城東店</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
-|8|1158|<span class="rank-name-dl">藤嶌 淳樹</span>|<a href="https://search.dartslive.com/jp/shop/092bde225bc01a1b790ab824ce8730e5">快活CLUB 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
-|9|1154|<span class="rank-name-dl">糞１０ーー６</span>|<a href="https://search.dartslive.com/jp/shop/f963892b8974731b0d9b047a20a7ba1e">SEVEN HORSE</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|10|1132|<span class="rank-name-dl">レイン</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店 自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
-|11|1131|<span class="rank-name-dl">崇【Club M+】</span>|<a href="https://search.dartslive.com/jp/shop/f963892b8974731b0d9b047a20a7ba1e">SEVEN HORSE</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|12|1130|<span class="rank-name-dl">まゆげ</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|13|1125|<span class="rank-name-dl">あんさい</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店 ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|14|1124|<span class="rank-name-dl">YOUだよ(¯☩¯)</span>|<a href="https://search.dartslive.com/jp/shop/c1f8ec9eb948d15a25d56fb0e5c39bac">PlayGarden 青森新町通り店 PlayGarden 青森新町通り店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|14|1124|<span class="rank-name-dl">藤嶌 淳樹</span>|<a href="https://search.dartslive.com/jp/shop/f110fb44f3904633790ab824ce8730e5">カラオケ合衆国 八戸店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
-|16|1123|<span class="rank-name-dl">レイン</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
-|17|1117|<span class="rank-name-dl">た</span>|<a href="https://search.dartslive.com/jp/shop/f963892b8974731b0d9b047a20a7ba1e">SEVEN HORSE</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|18|1099|<span class="rank-name-dl">福田真也</span>|<a href="https://search.dartslive.com/jp/shop/c00d37131c00710d0d9b047a20a7ba1e">CAFE&BAR ZERO-ONE</a>|<a href="/darts/rank/青森県/平川市">青森県平川市</a>|
-|19|1093|<span class="rank-name-dl">きゃめる</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
-|20|1088|<span class="rank-name-dl">あんさい@ｺﾈｸﾄ</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|21|1087|<span class="rank-name-dl">立石家（共有）</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
-|22|1081|<span class="rank-name-dl">$TONY77(☆_-)$</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店 ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|22|1081|<span class="rank-name-dl">麒麟</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|24|1074|<span class="rank-name-dl">U-DAI</span>|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国　むつ店 カラオケ合衆国　むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
-|24|1074|<span class="rank-name-dl">なとるの下僕04</span>|<a href="https://search.dartslive.com/jp/shop/3fe055a93610eb650d9b047a20a7ba1e">BerryBerry Aomori</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|26|1069|<span class="rank-name-dl">NoriHiroN</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
-|26|1069|<span class="rank-name-dl">OSUKE</span>|<a href="https://search.dartslive.com/jp/shop/3fe055a93610eb650d9b047a20a7ba1e">BerryBerry Aomori</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|26|1069|<span class="rank-name-dl">chibaっち∞</span>|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国 むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
-|26|1069|<span class="rank-name-dl">あんさい</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|26|1069|<span class="rank-name-dl">たなかざうるす</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店 自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
-|31|1066|<span class="rank-name-dl">Τακα【甘党】</span>|<a href="https://search.dartslive.com/jp/shop/c00d37131c00710d0d9b047a20a7ba1e">CAFE&BAR ZERO-ONE CAFE&BAR ZERO-ONE</a>|<a href="/darts/rank/青森県/平川市">青森県平川市</a>|
-|32|1064|<span class="rank-name-dl">Harly∽JON</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|33|1063|<span class="rank-name-dl">太政官やまーくん</span>|<a href="https://search.dartslive.com/jp/shop/9cc9816dccb3c0a80d9b047a20a7ba1e">WEMDI</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
-|34|1062|<span class="rank-name-dl">ごるご　たこ橋</span>|<a href="https://search.dartslive.com/jp/shop/6d9e05ee0917894ea3f63593b5358cc4">カラオケ合衆国　弘前城東店 カラオケ合衆国　弘前城東店</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
-|34|1062|<span class="rank-name-dl">ぴよ</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|36|1061|<span class="rank-name-dl">崇【Club M+】</span>|<a href="https://search.dartslive.com/jp/shop/f963892b8974731b0d9b047a20a7ba1e">SEVEN HORSE SEVEN HORSE</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|37|1059|<span class="rank-name-dl">KoMeI.I</span>|<a href="https://search.dartslive.com/jp/shop/ecd06a0ba31ad23f0d9b047a20a7ba1e">Darts Bar CONNECT</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|38|1056|<span class="rank-name-dl">ぴよ</span>|<a href="https://search.dartslive.com/jp/shop/9cc9816dccb3c0a80d9b047a20a7ba1e">WEMDI</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
-|39|1051|<span class="rank-name-dl">北山　稀士</span>|<a href="https://search.dartslive.com/jp/shop/f963892b8974731b0d9b047a20a7ba1e">SEVEN HORSE</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|40|1048|<span class="rank-name-dl">Harly∽JON</span>|<a href="https://search.dartslive.com/jp/shop/f963892b8974731b0d9b047a20a7ba1e">SEVEN HORSE</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|41|1047|<span class="rank-name-dl">NO NAME 6119</span>|<a href="https://search.dartslive.com/jp/shop/092bde225bc01a1b790ab824ce8730e5">快活CLUB 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
-|41|1047|<span class="rank-name-dl">むーさん</span>|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国　むつ店 カラオケ合衆国　むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
-|43|1044|<span class="rank-name-dl">おそら＠CONNECT</span>|<a href="https://search.dartslive.com/jp/shop/9cc9816dccb3c0a80d9b047a20a7ba1e">WEMDI</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
-|44|1043|<span class="rank-name-dl">R</span>|<a href="https://search.dartslive.com/jp/shop/6d9e05ee0917894ea3f63593b5358cc4">カラオケ合衆国 弘前城東店</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
-|45|1042|<span class="rank-name-dl">kira_22</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|45|1042|<span class="rank-name-dl">鯨</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
-|47|1040|<span class="rank-name-dl">つしかず@FRERES</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|48|1039|<span class="rank-name-dl">Ryuji</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
-|49|1037|<span class="rank-name-dl">マム</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
-|50|1035|<span class="rank-name-dl">【R1】しおもん</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
-|51|1031|<span class="rank-name-dl">T-zawa</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|52|1027|<span class="rank-name-dl">ぴよ</span>|<a href="https://search.dartslive.com/jp/shop/6d9e05ee0917894ea3f63593b5358cc4">カラオケ合衆国 弘前城東店</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
-|53|1025|<span class="rank-name-dl">因幡</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|54|1023|<span class="rank-name-dl">倉</span>|<a href="https://search.dartslive.com/jp/shop/1f748776cfb93874774c926eb736cb5a">カラオケ合衆国青森観光通り店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|55|1021|<span class="rank-name-dl">太政官やまーくん</span>|<a href="https://search.dartslive.com/jp/shop/c1f8ec9eb948d15a25d56fb0e5c39bac">PlayGarden 青森新町通り店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|56|1020|<span class="rank-name-dl">やにかす</span>|<a href="https://search.dartslive.com/jp/shop/c00d37131c00710d0d9b047a20a7ba1e">CAFE&BAR ZERO-ONE CAFE&BAR ZERO-ONE</a>|<a href="/darts/rank/青森県/平川市">青森県平川市</a>|
-|57|1018|<span class="rank-name-dl">hideboo</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店 自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
-|57|1018|<span class="rank-name-dl">◉ノッティー ◉</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
-|57|1018|<span class="rank-name-dl">マム</span>|<a href="https://search.dartslive.com/jp/shop/092bde225bc01a1b790ab824ce8730e5">快活CLUB 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
-|60|1017|<span class="rank-name-dl">【nasa】moana</span>|<a href="https://search.dartslive.com/jp/shop/f963892b8974731b0d9b047a20a7ba1e">SEVEN HORSE</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|61|1016|<span class="rank-name-dl">アヴィ</span>|<a href="https://search.dartslive.com/jp/shop/c1f8ec9eb948d15a25d56fb0e5c39bac">PlayGarden 青森新町通り店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|62|1015|<span class="rank-name-dl">Sugar.A[SE§ION]</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
-|62|1015|<span class="rank-name-dl">s.ma</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|62|1015|<span class="rank-name-dl">倉</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
-|65|1014|<span class="rank-name-dl">たこ橋　ごるご</span>|<a href="https://search.dartslive.com/jp/shop/6d9e05ee0917894ea3f63593b5358cc4">カラオケ合衆国 弘前城東店</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
-|66|1012|<span class="rank-name-dl">HIRO☆P</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田 ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
-|66|1012|<span class="rank-name-dl">あんさい@ｺﾈｸﾄ</span>|<a href="https://search.dartslive.com/jp/shop/d5396637f188895c0d9b047a20a7ba1e">Darts Room 矢藏</a>|<a href="/darts/rank/青森県/三沢市">青森県三沢市</a>|
-|66|1012|<span class="rank-name-dl">レジギガスV2</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|69|1011|<span class="rank-name-dl">KATU肉SHOT°°°</span>|<a href="https://search.dartslive.com/jp/shop/f110fb44f3904633790ab824ce8730e5">カラオケ合衆国 八戸店 カラオケ合衆国 八戸店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
-|69|1011|<span class="rank-name-dl">ryosuke.T</span>|<a href="https://search.dartslive.com/jp/shop/f963892b8974731b0d9b047a20a7ba1e">SEVEN HORSE</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|69|1011|<span class="rank-name-dl">とうざわけん</span>|<a href="https://search.dartslive.com/jp/shop/f963892b8974731b0d9b047a20a7ba1e">SEVEN HORSE</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|69|1011|<span class="rank-name-dl">今武士プロ</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田 ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
-|73|1010|<span class="rank-name-dl">くわちゃん</span>|<a href="https://search.dartslive.com/jp/shop/f963892b8974731b0d9b047a20a7ba1e">SEVEN HORSE</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|74|1009|<span class="rank-name-dl">Hiroshi Toda</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
-|74|1009|<span class="rank-name-dl">KATU肉SHOT°°°</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
-|74|1009|<span class="rank-name-dl">つしかず@FRERES</span>|<a href="https://search.dartslive.com/jp/shop/9cc9816dccb3c0a80d9b047a20a7ba1e">WEMDI</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
-|74|1009|<span class="rank-name-dl">アール</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|78|1007|<span class="rank-name-dl">たなかざうるす</span>|<a href="https://search.dartslive.com/jp/shop/092bde225bc01a1b790ab824ce8730e5">快活CLUB 八戸沼館店 快活CLUB 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
-|79|1006|<span class="rank-name-dl">KoMeI.I</span>|<a href="https://search.dartslive.com/jp/shop/f963892b8974731b0d9b047a20a7ba1e">SEVEN HORSE</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|80|1005|<span class="rank-name-dl">つしかず@FRERES</span>|<a href="https://search.dartslive.com/jp/shop/6d9e05ee0917894ea3f63593b5358cc4">カラオケ合衆国 弘前城東店</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
-|80|1005|<span class="rank-name-dl">糞１０ーー６</span>|<a href="https://search.dartslive.com/jp/shop/9cc9816dccb3c0a80d9b047a20a7ba1e">WEMDI</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
-|82|1004|<span class="rank-name-dl">おやんドゥ～★</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
-|82|1004|<span class="rank-name-dl">榎股 慎吾</span>|<a href="https://search.dartslive.com/jp/shop/f963892b8974731b0d9b047a20a7ba1e">SEVEN HORSE</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|84|1003|<span class="rank-name-dl">ヤマエル</span>|<a href="https://search.dartslive.com/jp/shop/f963892b8974731b0d9b047a20a7ba1e">SEVEN HORSE</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|85|1002|<span class="rank-name-dl">PLAYER138</span>|<a href="https://search.dartslive.com/jp/shop/061d1b75b013b8ca774c926eb736cb5a">PlayGarden 三沢店</a>|<a href="/darts/rank/青森県/三沢市">青森県三沢市</a>|
-|85|1002|<span class="rank-name-dl">⤴︎⤴︎</span>|<a href="https://search.dartslive.com/jp/shop/c1f8ec9eb948d15a25d56fb0e5c39bac">PlayGarden青森新町通り店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|85|1002|<span class="rank-name-dl">しぃ*kaikoi</span>|<a href="https://search.dartslive.com/jp/shop/9cc9816dccb3c0a80d9b047a20a7ba1e">WEMDI</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
-|85|1002|<span class="rank-name-dl">カゼハーレー</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|89|1001|<span class="rank-name-dl">toshi×pochi</span>|<a href="https://search.dartslive.com/jp/shop/9cc9816dccb3c0a80d9b047a20a7ba1e">WEMDI</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
-|89|1001|<span class="rank-name-dl">赤木しげる</span>|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国 むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
-|91|1000|<span class="rank-name-dl">KATU肉SHOT°°°</span>|<a href="https://search.dartslive.com/jp/shop/061d1b75b013b8ca774c926eb736cb5a">PlayGarden 三沢店 PlayGarden 三沢店</a>|<a href="/darts/rank/青森県/三沢市">青森県三沢市</a>|
-|91|1000|<span class="rank-name-dl">Leo</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店 自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
-|91|1000|<span class="rank-name-dl">ゆーた</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店 自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
-|94|998|<span class="rank-name-dl">▼HAMA▼</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
-|95|995|<span class="rank-name-dl">D-CHI【Club M+】</span>|<a href="https://search.dartslive.com/jp/shop/f963892b8974731b0d9b047a20a7ba1e">SEVEN HORSE</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|96|994|<span class="rank-name-dl">ざわちゃん</span>|<a href="https://search.dartslive.com/jp/shop/092bde225bc01a1b790ab824ce8730e5">快活CLUB 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
-|96|994|<span class="rank-name-dl">麒麟</span>|<a href="https://search.dartslive.com/jp/shop/c1f8ec9eb948d15a25d56fb0e5c39bac">PlayGarden青森新町通り店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
-|98|992|<span class="rank-name-dl">MamU</span>|<a href="https://search.dartslive.com/jp/shop/092bde225bc01a1b790ab824ce8730e5">快活CLUB 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
-|99|991|<span class="rank-name-dl">やっちゅぎゃんぐ</span>|<a href="https://search.dartslive.com/jp/shop/9cc9816dccb3c0a80d9b047a20a7ba1e">WEMDI</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
-|100|987|<span class="rank-name-dl">R</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|9|1158|<span class="rank-name-dl">藤嶌 淳樹</span>|<a href="https://search.dartslive.com/jp/shop/092bde225bc01a1b790ab824ce8730e5">快活CLUB 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
+|10|1154|<span class="rank-name-dl">糞１０ーー６</span>|<a href="https://search.dartslive.com/jp/shop/f963892b8974731b0d9b047a20a7ba1e">SEVEN HORSE</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|11|1135|<span class="rank-name-dl">崇【Club M+】</span>|<a href="https://search.dartslive.com/jp/shop/f963892b8974731b0d9b047a20a7ba1e">SEVEN HORSE</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|12|1132|<span class="rank-name-dl">レイン</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
+|12|1132|<span class="rank-name-dl">レイン</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店 自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
+|14|1130|<span class="rank-name-dl">まゆげ</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|15|1125|<span class="rank-name-dl">あんさい</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|15|1125|<span class="rank-name-dl">あんさい</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店 ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|17|1124|<span class="rank-name-dl">YOUだよ(¯☩¯)</span>|<a href="https://search.dartslive.com/jp/shop/c1f8ec9eb948d15a25d56fb0e5c39bac">PlayGarden 青森新町通り店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|17|1124|<span class="rank-name-dl">YOUだよ(¯☩¯)</span>|<a href="https://search.dartslive.com/jp/shop/c1f8ec9eb948d15a25d56fb0e5c39bac">PlayGarden 青森新町通り店 PlayGarden 青森新町通り店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|17|1124|<span class="rank-name-dl">藤嶌 淳樹</span>|<a href="https://search.dartslive.com/jp/shop/f110fb44f3904633790ab824ce8730e5">カラオケ合衆国 八戸店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
+|20|1117|<span class="rank-name-dl">た</span>|<a href="https://search.dartslive.com/jp/shop/f963892b8974731b0d9b047a20a7ba1e">SEVEN HORSE</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|21|1116|<span class="rank-name-dl">J</span>|<a href="https://search.dartslive.com/jp/shop/f110fb44f3904633790ab824ce8730e5">カラオケ合衆国 八戸店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
+|22|1099|<span class="rank-name-dl">福田真也</span>|<a href="https://search.dartslive.com/jp/shop/c00d37131c00710d0d9b047a20a7ba1e">CAFE&BAR ZERO-ONE</a>|<a href="/darts/rank/青森県/平川市">青森県平川市</a>|
+|23|1093|<span class="rank-name-dl">きゃめる</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
+|24|1088|<span class="rank-name-dl">あんさい@ｺﾈｸﾄ</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|25|1087|<span class="rank-name-dl">立石家（共有）</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
+|26|1081|<span class="rank-name-dl">$TONY77(☆_-)$</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|26|1081|<span class="rank-name-dl">$TONY77(☆_-)$</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店 ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|26|1081|<span class="rank-name-dl">麒麟</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|29|1076|<span class="rank-name-dl">hideboo</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
+|30|1074|<span class="rank-name-dl">U-DAI</span>|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国　むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
+|30|1074|<span class="rank-name-dl">U-DAI</span>|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国　むつ店 カラオケ合衆国　むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
+|30|1074|<span class="rank-name-dl">なとるの下僕04</span>|<a href="https://search.dartslive.com/jp/shop/3fe055a93610eb650d9b047a20a7ba1e">BerryBerry Aomori</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|33|1069|<span class="rank-name-dl">NoriHiroN</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
+|33|1069|<span class="rank-name-dl">OSUKE</span>|<a href="https://search.dartslive.com/jp/shop/3fe055a93610eb650d9b047a20a7ba1e">BerryBerry Aomori</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|33|1069|<span class="rank-name-dl">chibaっち∞</span>|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国 むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
+|33|1069|<span class="rank-name-dl">たなかざうるす</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
+|33|1069|<span class="rank-name-dl">たなかざうるす</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店 自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
+|38|1066|<span class="rank-name-dl">Τακα【甘党】</span>|<a href="https://search.dartslive.com/jp/shop/c00d37131c00710d0d9b047a20a7ba1e">CAFE&BAR ZERO-ONE</a>|<a href="/darts/rank/青森県/平川市">青森県平川市</a>|
+|38|1066|<span class="rank-name-dl">Τακα【甘党】</span>|<a href="https://search.dartslive.com/jp/shop/c00d37131c00710d0d9b047a20a7ba1e">CAFE&BAR ZERO-ONE CAFE&BAR ZERO-ONE</a>|<a href="/darts/rank/青森県/平川市">青森県平川市</a>|
+|40|1064|<span class="rank-name-dl">Harly∽JON</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|41|1063|<span class="rank-name-dl">太政官やまーくん</span>|<a href="https://search.dartslive.com/jp/shop/9cc9816dccb3c0a80d9b047a20a7ba1e">WEMDI</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
+|42|1062|<span class="rank-name-dl">ごるご　たこ橋</span>|<a href="https://search.dartslive.com/jp/shop/6d9e05ee0917894ea3f63593b5358cc4">カラオケ合衆国　弘前城東店</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
+|42|1062|<span class="rank-name-dl">ごるご　たこ橋</span>|<a href="https://search.dartslive.com/jp/shop/6d9e05ee0917894ea3f63593b5358cc4">カラオケ合衆国　弘前城東店 カラオケ合衆国　弘前城東店</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
+|42|1062|<span class="rank-name-dl">ぴよ</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|45|1061|<span class="rank-name-dl">崇【Club M+】</span>|<a href="https://search.dartslive.com/jp/shop/f963892b8974731b0d9b047a20a7ba1e">SEVEN HORSE SEVEN HORSE</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|46|1059|<span class="rank-name-dl">KoMeI.I</span>|<a href="https://search.dartslive.com/jp/shop/ecd06a0ba31ad23f0d9b047a20a7ba1e">Darts Bar CONNECT</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|47|1056|<span class="rank-name-dl">ぴよ</span>|<a href="https://search.dartslive.com/jp/shop/9cc9816dccb3c0a80d9b047a20a7ba1e">WEMDI</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
+|48|1051|<span class="rank-name-dl">北山　稀士</span>|<a href="https://search.dartslive.com/jp/shop/f963892b8974731b0d9b047a20a7ba1e">SEVEN HORSE</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|49|1048|<span class="rank-name-dl">Harly∽JON</span>|<a href="https://search.dartslive.com/jp/shop/f963892b8974731b0d9b047a20a7ba1e">SEVEN HORSE</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|50|1047|<span class="rank-name-dl">NO NAME 6119</span>|<a href="https://search.dartslive.com/jp/shop/092bde225bc01a1b790ab824ce8730e5">快活CLUB 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
+|50|1047|<span class="rank-name-dl">むーさん</span>|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国　むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
+|50|1047|<span class="rank-name-dl">むーさん</span>|<a href="https://search.dartslive.com/jp/shop/daddf023671981fe25d56fb0e5c39bac">カラオケ合衆国　むつ店 カラオケ合衆国　むつ店</a>|<a href="/darts/rank/青森県/むつ市">青森県むつ市</a>|
+|53|1044|<span class="rank-name-dl">おそら＠CONNECT</span>|<a href="https://search.dartslive.com/jp/shop/9cc9816dccb3c0a80d9b047a20a7ba1e">WEMDI</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
+|54|1043|<span class="rank-name-dl">R</span>|<a href="https://search.dartslive.com/jp/shop/6d9e05ee0917894ea3f63593b5358cc4">カラオケ合衆国 弘前城東店</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
+|55|1042|<span class="rank-name-dl">kira_22</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|55|1042|<span class="rank-name-dl">鯨</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
+|57|1040|<span class="rank-name-dl">つしかず@FRERES</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|58|1039|<span class="rank-name-dl">Ryuji</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
+|59|1037|<span class="rank-name-dl">マム</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
+|60|1035|<span class="rank-name-dl">【R1】しおもん</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
+|61|1031|<span class="rank-name-dl">T-zawa</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|62|1027|<span class="rank-name-dl">ぴよ</span>|<a href="https://search.dartslive.com/jp/shop/6d9e05ee0917894ea3f63593b5358cc4">カラオケ合衆国 弘前城東店</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
+|63|1025|<span class="rank-name-dl">因幡</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|64|1023|<span class="rank-name-dl">倉</span>|<a href="https://search.dartslive.com/jp/shop/1f748776cfb93874774c926eb736cb5a">カラオケ合衆国青森観光通り店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|65|1021|<span class="rank-name-dl">太政官やまーくん</span>|<a href="https://search.dartslive.com/jp/shop/c1f8ec9eb948d15a25d56fb0e5c39bac">PlayGarden 青森新町通り店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|66|1020|<span class="rank-name-dl">やにかす</span>|<a href="https://search.dartslive.com/jp/shop/c00d37131c00710d0d9b047a20a7ba1e">CAFE&BAR ZERO-ONE</a>|<a href="/darts/rank/青森県/平川市">青森県平川市</a>|
+|66|1020|<span class="rank-name-dl">やにかす</span>|<a href="https://search.dartslive.com/jp/shop/c00d37131c00710d0d9b047a20a7ba1e">CAFE&BAR ZERO-ONE CAFE&BAR ZERO-ONE</a>|<a href="/darts/rank/青森県/平川市">青森県平川市</a>|
+|68|1018|<span class="rank-name-dl">hideboo</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店 自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
+|68|1018|<span class="rank-name-dl">◉ノッティー ◉</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
+|68|1018|<span class="rank-name-dl">マム</span>|<a href="https://search.dartslive.com/jp/shop/092bde225bc01a1b790ab824ce8730e5">快活CLUB 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
+|71|1017|<span class="rank-name-dl">【nasa】moana</span>|<a href="https://search.dartslive.com/jp/shop/f963892b8974731b0d9b047a20a7ba1e">SEVEN HORSE</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|72|1016|<span class="rank-name-dl">アヴィ</span>|<a href="https://search.dartslive.com/jp/shop/c1f8ec9eb948d15a25d56fb0e5c39bac">PlayGarden 青森新町通り店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|73|1015|<span class="rank-name-dl">Sugar.A[SE§ION]</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
+|73|1015|<span class="rank-name-dl">s.ma</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|73|1015|<span class="rank-name-dl">倉</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
+|76|1014|<span class="rank-name-dl">たこ橋　ごるご</span>|<a href="https://search.dartslive.com/jp/shop/6d9e05ee0917894ea3f63593b5358cc4">カラオケ合衆国 弘前城東店</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
+|77|1012|<span class="rank-name-dl">HIRO☆P</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
+|77|1012|<span class="rank-name-dl">HIRO☆P</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田 ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
+|77|1012|<span class="rank-name-dl">あんさい@ｺﾈｸﾄ</span>|<a href="https://search.dartslive.com/jp/shop/d5396637f188895c0d9b047a20a7ba1e">Darts Room 矢藏</a>|<a href="/darts/rank/青森県/三沢市">青森県三沢市</a>|
+|77|1012|<span class="rank-name-dl">レジギガスV2</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|81|1011|<span class="rank-name-dl">KATU肉SHOT°°°</span>|<a href="https://search.dartslive.com/jp/shop/f110fb44f3904633790ab824ce8730e5">カラオケ合衆国 八戸店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
+|81|1011|<span class="rank-name-dl">KATU肉SHOT°°°</span>|<a href="https://search.dartslive.com/jp/shop/f110fb44f3904633790ab824ce8730e5">カラオケ合衆国 八戸店 カラオケ合衆国 八戸店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
+|81|1011|<span class="rank-name-dl">ryosuke.T</span>|<a href="https://search.dartslive.com/jp/shop/f963892b8974731b0d9b047a20a7ba1e">SEVEN HORSE</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|81|1011|<span class="rank-name-dl">とうざわけん</span>|<a href="https://search.dartslive.com/jp/shop/f963892b8974731b0d9b047a20a7ba1e">SEVEN HORSE</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|81|1011|<span class="rank-name-dl">今武士プロ</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
+|81|1011|<span class="rank-name-dl">今武士プロ</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田 ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
+|87|1010|<span class="rank-name-dl">くわちゃん</span>|<a href="https://search.dartslive.com/jp/shop/f963892b8974731b0d9b047a20a7ba1e">SEVEN HORSE</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|88|1009|<span class="rank-name-dl">Hiroshi Toda</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
+|88|1009|<span class="rank-name-dl">KATU肉SHOT°°°</span>|<a href="https://search.dartslive.com/jp/shop/754a8fba0283e3d9f454cb89828a1cfe">自遊空間 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
+|88|1009|<span class="rank-name-dl">つしかず@FRERES</span>|<a href="https://search.dartslive.com/jp/shop/9cc9816dccb3c0a80d9b047a20a7ba1e">WEMDI</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
+|88|1009|<span class="rank-name-dl">アール</span>|<a href="https://search.dartslive.com/jp/shop/e4b05b32cd37c3700d9b047a20a7ba1e">ラウンドワン青森店</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|92|1007|<span class="rank-name-dl">たなかざうるす</span>|<a href="https://search.dartslive.com/jp/shop/092bde225bc01a1b790ab824ce8730e5">快活CLUB 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
+|92|1007|<span class="rank-name-dl">たなかざうるす</span>|<a href="https://search.dartslive.com/jp/shop/092bde225bc01a1b790ab824ce8730e5">快活CLUB 八戸沼館店 快活CLUB 八戸沼館店</a>|<a href="/darts/rank/青森県/八戸市">青森県八戸市</a>|
+|94|1006|<span class="rank-name-dl">KoMeI.I</span>|<a href="https://search.dartslive.com/jp/shop/f963892b8974731b0d9b047a20a7ba1e">SEVEN HORSE</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|95|1005|<span class="rank-name-dl">つしかず@FRERES</span>|<a href="https://search.dartslive.com/jp/shop/6d9e05ee0917894ea3f63593b5358cc4">カラオケ合衆国 弘前城東店</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
+|95|1005|<span class="rank-name-dl">糞１０ーー６</span>|<a href="https://search.dartslive.com/jp/shop/9cc9816dccb3c0a80d9b047a20a7ba1e">WEMDI</a>|<a href="/darts/rank/青森県/弘前市">青森県弘前市</a>|
+|97|1004|<span class="rank-name-dl">おやんドゥ～★</span>|<a href="https://search.dartslive.com/jp/shop/875be9989c3b53310d9b047a20a7ba1e">ボストン倶楽部十和田</a>|<a href="/darts/rank/青森県/十和田市">青森県十和田市</a>|
+|97|1004|<span class="rank-name-dl">榎股 慎吾</span>|<a href="https://search.dartslive.com/jp/shop/f963892b8974731b0d9b047a20a7ba1e">SEVEN HORSE</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|99|1003|<span class="rank-name-dl">ヤマエル</span>|<a href="https://search.dartslive.com/jp/shop/f963892b8974731b0d9b047a20a7ba1e">SEVEN HORSE</a>|<a href="/darts/rank/青森県/青森市">青森県青森市</a>|
+|100|1002|<span class="rank-name-dl">PLAYER138</span>|<a href="https://search.dartslive.com/jp/shop/061d1b75b013b8ca774c926eb736cb5a">PlayGarden 三沢店</a>|<a href="/darts/rank/青森県/三沢市">青森県三沢市</a>|
 
 
 #### PHOENIXDARTS TOP 100
