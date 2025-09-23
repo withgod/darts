@@ -32,19 +32,21 @@ ___
 |7|922|<span class="rank-name-pd">マム@上閉伊郡</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86918?s_seq=86918">3510</a>|<a href="/darts/rank/岩手県/下閉伊郡">岩手県下閉伊郡</a>|
 |8|893|<span class="rank-name-pd">しんのすけべ！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86918?s_seq=86918">3510</a>|<a href="/darts/rank/岩手県/下閉伊郡">岩手県下閉伊郡</a>|
 |9|838|<span class="rank-name-pd">畑中 慎之輔</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86918?s_seq=86918">3510</a>|<a href="/darts/rank/岩手県/下閉伊郡">岩手県下閉伊郡</a>|
-|10|778|<span class="rank-name-pd">星☆組  ｍａｃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86918?s_seq=86918">3510</a>|<a href="/darts/rank/岩手県/下閉伊郡">岩手県下閉伊郡</a>|
-|11|772|<span class="rank-name-pd">ハルコム</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86918?s_seq=86918">3510</a>|<a href="/darts/rank/岩手県/下閉伊郡">岩手県下閉伊郡</a>|
-|12|716|<span class="rank-name-pd">中村 涼太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86918?s_seq=86918">3510</a>|<a href="/darts/rank/岩手県/下閉伊郡">岩手県下閉伊郡</a>|
-|13|668|<span class="rank-name-pd">大久保 暁</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86918?s_seq=86918">3510</a>|<a href="/darts/rank/岩手県/下閉伊郡">岩手県下閉伊郡</a>|
-|14|641|<span class="rank-name-pd">かづちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86918?s_seq=86918">3510</a>|<a href="/darts/rank/岩手県/下閉伊郡">岩手県下閉伊郡</a>|
-|15|628|<span class="rank-name-pd">小國組☆ＰＡＰＩ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86918?s_seq=86918">3510</a>|<a href="/darts/rank/岩手県/下閉伊郡">岩手県下閉伊郡</a>|
-|16|624|<span class="rank-name-pd">なほつん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86918?s_seq=86918">3510</a>|<a href="/darts/rank/岩手県/下閉伊郡">岩手県下閉伊郡</a>|
-|17|618|<span class="rank-name-pd">小國組★ＯＺ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86918?s_seq=86918">3510</a>|<a href="/darts/rank/岩手県/下閉伊郡">岩手県下閉伊郡</a>|
-|18|604|<span class="rank-name-pd">曉組 ばーつー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86918?s_seq=86918">3510</a>|<a href="/darts/rank/岩手県/下閉伊郡">岩手県下閉伊郡</a>|
-|19|578|<span class="rank-name-pd">小國組☆ツジ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86918?s_seq=86918">3510</a>|<a href="/darts/rank/岩手県/下閉伊郡">岩手県下閉伊郡</a>|
-|20|548|<span class="rank-name-pd">ちゃん@曉組</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86918?s_seq=86918">3510</a>|<a href="/darts/rank/岩手県/下閉伊郡">岩手県下閉伊郡</a>|
-|21|506|<span class="rank-name-pd">ミク</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86918?s_seq=86918">3510</a>|<a href="/darts/rank/岩手県/下閉伊郡">岩手県下閉伊郡</a>|
-|22|505|<span class="rank-name-pd">〝月光〟</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86918?s_seq=86918">3510</a>|<a href="/darts/rank/岩手県/下閉伊郡">岩手県下閉伊郡</a>|
+|10|806|<span class="rank-name-pd">中村 涼太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86918?s_seq=86918">3510</a>|<a href="/darts/rank/岩手県/下閉伊郡">岩手県下閉伊郡</a>|
+|11|778|<span class="rank-name-pd">星☆組  ｍａｃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86918?s_seq=86918">3510</a>|<a href="/darts/rank/岩手県/下閉伊郡">岩手県下閉伊郡</a>|
+|12|772|<span class="rank-name-pd">ハルコム</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86918?s_seq=86918">3510</a>|<a href="/darts/rank/岩手県/下閉伊郡">岩手県下閉伊郡</a>|
+|13|726|<span class="rank-name-pd">暁組☾しんのすけ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86918?s_seq=86918">3510</a>|<a href="/darts/rank/岩手県/下閉伊郡">岩手県下閉伊郡</a>|
+|14|668|<span class="rank-name-pd">大久保 暁</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86918?s_seq=86918">3510</a>|<a href="/darts/rank/岩手県/下閉伊郡">岩手県下閉伊郡</a>|
+|15|641|<span class="rank-name-pd">かづちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86918?s_seq=86918">3510</a>|<a href="/darts/rank/岩手県/下閉伊郡">岩手県下閉伊郡</a>|
+|16|628|<span class="rank-name-pd">小國組☆ＰＡＰＩ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86918?s_seq=86918">3510</a>|<a href="/darts/rank/岩手県/下閉伊郡">岩手県下閉伊郡</a>|
+|17|624|<span class="rank-name-pd">なほつん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86918?s_seq=86918">3510</a>|<a href="/darts/rank/岩手県/下閉伊郡">岩手県下閉伊郡</a>|
+|18|618|<span class="rank-name-pd">小國組★ＯＺ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86918?s_seq=86918">3510</a>|<a href="/darts/rank/岩手県/下閉伊郡">岩手県下閉伊郡</a>|
+|19|604|<span class="rank-name-pd">曉組 ばーつー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86918?s_seq=86918">3510</a>|<a href="/darts/rank/岩手県/下閉伊郡">岩手県下閉伊郡</a>|
+|20|591|<span class="rank-name-pd">しゅうや</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86918?s_seq=86918">3510</a>|<a href="/darts/rank/岩手県/下閉伊郡">岩手県下閉伊郡</a>|
+|21|578|<span class="rank-name-pd">小國組☆ツジ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86918?s_seq=86918">3510</a>|<a href="/darts/rank/岩手県/下閉伊郡">岩手県下閉伊郡</a>|
+|22|548|<span class="rank-name-pd">ちゃん@曉組</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86918?s_seq=86918">3510</a>|<a href="/darts/rank/岩手県/下閉伊郡">岩手県下閉伊郡</a>|
+|23|506|<span class="rank-name-pd">ミク</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86918?s_seq=86918">3510</a>|<a href="/darts/rank/岩手県/下閉伊郡">岩手県下閉伊郡</a>|
+|24|505|<span class="rank-name-pd">〝月光〟</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86918?s_seq=86918">3510</a>|<a href="/darts/rank/岩手県/下閉伊郡">岩手県下閉伊郡</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -73,19 +75,21 @@ ___
 |7|922|<span class="rank-name-pd">マム@上閉伊郡</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86918?s_seq=86918">3510</a>|<a href="/darts/rank/岩手県/下閉伊郡">岩手県下閉伊郡</a>|
 |8|893|<span class="rank-name-pd">しんのすけべ！</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86918?s_seq=86918">3510</a>|<a href="/darts/rank/岩手県/下閉伊郡">岩手県下閉伊郡</a>|
 |9|838|<span class="rank-name-pd">畑中 慎之輔</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86918?s_seq=86918">3510</a>|<a href="/darts/rank/岩手県/下閉伊郡">岩手県下閉伊郡</a>|
-|10|778|<span class="rank-name-pd">星☆組  ｍａｃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86918?s_seq=86918">3510</a>|<a href="/darts/rank/岩手県/下閉伊郡">岩手県下閉伊郡</a>|
-|11|772|<span class="rank-name-pd">ハルコム</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86918?s_seq=86918">3510</a>|<a href="/darts/rank/岩手県/下閉伊郡">岩手県下閉伊郡</a>|
-|12|716|<span class="rank-name-pd">中村 涼太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86918?s_seq=86918">3510</a>|<a href="/darts/rank/岩手県/下閉伊郡">岩手県下閉伊郡</a>|
-|13|668|<span class="rank-name-pd">大久保 暁</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86918?s_seq=86918">3510</a>|<a href="/darts/rank/岩手県/下閉伊郡">岩手県下閉伊郡</a>|
-|14|641|<span class="rank-name-pd">かづちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86918?s_seq=86918">3510</a>|<a href="/darts/rank/岩手県/下閉伊郡">岩手県下閉伊郡</a>|
-|15|628|<span class="rank-name-pd">小國組☆ＰＡＰＩ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86918?s_seq=86918">3510</a>|<a href="/darts/rank/岩手県/下閉伊郡">岩手県下閉伊郡</a>|
-|16|624|<span class="rank-name-pd">なほつん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86918?s_seq=86918">3510</a>|<a href="/darts/rank/岩手県/下閉伊郡">岩手県下閉伊郡</a>|
-|17|618|<span class="rank-name-pd">小國組★ＯＺ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86918?s_seq=86918">3510</a>|<a href="/darts/rank/岩手県/下閉伊郡">岩手県下閉伊郡</a>|
-|18|604|<span class="rank-name-pd">曉組 ばーつー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86918?s_seq=86918">3510</a>|<a href="/darts/rank/岩手県/下閉伊郡">岩手県下閉伊郡</a>|
-|19|578|<span class="rank-name-pd">小國組☆ツジ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86918?s_seq=86918">3510</a>|<a href="/darts/rank/岩手県/下閉伊郡">岩手県下閉伊郡</a>|
-|20|548|<span class="rank-name-pd">ちゃん@曉組</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86918?s_seq=86918">3510</a>|<a href="/darts/rank/岩手県/下閉伊郡">岩手県下閉伊郡</a>|
-|21|506|<span class="rank-name-pd">ミク</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86918?s_seq=86918">3510</a>|<a href="/darts/rank/岩手県/下閉伊郡">岩手県下閉伊郡</a>|
-|22|505|<span class="rank-name-pd">〝月光〟</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86918?s_seq=86918">3510</a>|<a href="/darts/rank/岩手県/下閉伊郡">岩手県下閉伊郡</a>|
+|10|806|<span class="rank-name-pd">中村 涼太</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86918?s_seq=86918">3510</a>|<a href="/darts/rank/岩手県/下閉伊郡">岩手県下閉伊郡</a>|
+|11|778|<span class="rank-name-pd">星☆組  ｍａｃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86918?s_seq=86918">3510</a>|<a href="/darts/rank/岩手県/下閉伊郡">岩手県下閉伊郡</a>|
+|12|772|<span class="rank-name-pd">ハルコム</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86918?s_seq=86918">3510</a>|<a href="/darts/rank/岩手県/下閉伊郡">岩手県下閉伊郡</a>|
+|13|726|<span class="rank-name-pd">暁組☾しんのすけ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86918?s_seq=86918">3510</a>|<a href="/darts/rank/岩手県/下閉伊郡">岩手県下閉伊郡</a>|
+|14|668|<span class="rank-name-pd">大久保 暁</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86918?s_seq=86918">3510</a>|<a href="/darts/rank/岩手県/下閉伊郡">岩手県下閉伊郡</a>|
+|15|641|<span class="rank-name-pd">かづちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86918?s_seq=86918">3510</a>|<a href="/darts/rank/岩手県/下閉伊郡">岩手県下閉伊郡</a>|
+|16|628|<span class="rank-name-pd">小國組☆ＰＡＰＩ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86918?s_seq=86918">3510</a>|<a href="/darts/rank/岩手県/下閉伊郡">岩手県下閉伊郡</a>|
+|17|624|<span class="rank-name-pd">なほつん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86918?s_seq=86918">3510</a>|<a href="/darts/rank/岩手県/下閉伊郡">岩手県下閉伊郡</a>|
+|18|618|<span class="rank-name-pd">小國組★ＯＺ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86918?s_seq=86918">3510</a>|<a href="/darts/rank/岩手県/下閉伊郡">岩手県下閉伊郡</a>|
+|19|604|<span class="rank-name-pd">曉組 ばーつー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86918?s_seq=86918">3510</a>|<a href="/darts/rank/岩手県/下閉伊郡">岩手県下閉伊郡</a>|
+|20|591|<span class="rank-name-pd">しゅうや</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86918?s_seq=86918">3510</a>|<a href="/darts/rank/岩手県/下閉伊郡">岩手県下閉伊郡</a>|
+|21|578|<span class="rank-name-pd">小國組☆ツジ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86918?s_seq=86918">3510</a>|<a href="/darts/rank/岩手県/下閉伊郡">岩手県下閉伊郡</a>|
+|22|548|<span class="rank-name-pd">ちゃん@曉組</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86918?s_seq=86918">3510</a>|<a href="/darts/rank/岩手県/下閉伊郡">岩手県下閉伊郡</a>|
+|23|506|<span class="rank-name-pd">ミク</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86918?s_seq=86918">3510</a>|<a href="/darts/rank/岩手県/下閉伊郡">岩手県下閉伊郡</a>|
+|24|505|<span class="rank-name-pd">〝月光〟</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_86918?s_seq=86918">3510</a>|<a href="/darts/rank/岩手県/下閉伊郡">岩手県下閉伊郡</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

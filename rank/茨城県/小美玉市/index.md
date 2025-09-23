@@ -24,7 +24,10 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|646|<span class="rank-name-pd">マンチェスターカフェ 店長</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89861?s_seq=89861">マンチェスターカフェ</a>|<a href="/darts/rank/茨城県/小美玉市">茨城県小美玉市</a>|
-|2|382|<span class="rank-name-pd">kombu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10390?s_seq=10390">MANCHESTER CAFE</a>|<a href="/darts/rank/茨城県/小美玉市">茨城県小美玉市</a>|
+|2|516|<span class="rank-name-pd">ざわちん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10390?s_seq=10390">MANCHESTER CAFE 1F</a>|<a href="/darts/rank/茨城県/小美玉市">茨城県小美玉市</a>|
+|3|396|<span class="rank-name-pd">MANATO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10390?s_seq=10390">MANCHESTER CAFE 1F</a>|<a href="/darts/rank/茨城県/小美玉市">茨城県小美玉市</a>|
+|3|396|<span class="rank-name-pd">紅芋タルト</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10390?s_seq=10390">MANCHESTER CAFE 1F</a>|<a href="/darts/rank/茨城県/小美玉市">茨城県小美玉市</a>|
+|5|382|<span class="rank-name-pd">kombu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10390?s_seq=10390">MANCHESTER CAFE</a>|<a href="/darts/rank/茨城県/小美玉市">茨城県小美玉市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -45,7 +48,10 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|646|<span class="rank-name-pd">マンチェスターカフェ 店長</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_89861?s_seq=89861">マンチェスターカフェ</a>|<a href="/darts/rank/茨城県/小美玉市">茨城県小美玉市</a>|
-|2|382|<span class="rank-name-pd">kombu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10390?s_seq=10390">MANCHESTER CAFE</a>|<a href="/darts/rank/茨城県/小美玉市">茨城県小美玉市</a>|
+|2|516|<span class="rank-name-pd">ざわちん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10390?s_seq=10390">MANCHESTER CAFE 1F</a>|<a href="/darts/rank/茨城県/小美玉市">茨城県小美玉市</a>|
+|3|396|<span class="rank-name-pd">MANATO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10390?s_seq=10390">MANCHESTER CAFE 1F</a>|<a href="/darts/rank/茨城県/小美玉市">茨城県小美玉市</a>|
+|3|396|<span class="rank-name-pd">紅芋タルト</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10390?s_seq=10390">MANCHESTER CAFE 1F</a>|<a href="/darts/rank/茨城県/小美玉市">茨城県小美玉市</a>|
+|5|382|<span class="rank-name-pd">kombu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_10390?s_seq=10390">MANCHESTER CAFE</a>|<a href="/darts/rank/茨城県/小美玉市">茨城県小美玉市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

@@ -23,10 +23,20 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|666|<span class="rank-name-dl">OKI</span>|<a href="https://search.dartslive.com/jp/shop/ca1307bf240edb1a0d9b047a20a7ba1e">鉄板バル E.STYLE</a>|<a href="/darts/rank/愛知県/岩倉市">愛知県岩倉市</a>|
-|2|638|<span class="rank-name-dl">Nao</span>|<a href="https://search.dartslive.com/jp/shop/ca1307bf240edb1a0d9b047a20a7ba1e">鉄板バル E.STYLE</a>|<a href="/darts/rank/愛知県/岩倉市">愛知県岩倉市</a>|
-|3|495|<span class="rank-name-dl">Kayoko</span>|<a href="https://search.dartslive.com/jp/shop/ca1307bf240edb1a0d9b047a20a7ba1e">鉄板バル E.STYLE</a>|<a href="/darts/rank/愛知県/岩倉市">愛知県岩倉市</a>|
-|4|422|<span class="rank-name-dl">まーくん</span>|<a href="https://search.dartslive.com/jp/shop/ca1307bf240edb1a0d9b047a20a7ba1e">鉄板バル E.STYLE</a>|<a href="/darts/rank/愛知県/岩倉市">愛知県岩倉市</a>|
+|1|828|<span class="rank-name-dl">YUUKI NARITA</span>|<a href="https://search.dartslive.com/jp/shop/ca1307bf240edb1a0d9b047a20a7ba1e">鉄板バル E.STYLE 鉄板バル E.STYLE</a>|<a href="/darts/rank/愛知県/岩倉市">愛知県岩倉市</a>|
+|2|719|<span class="rank-name-dl">OKI</span>|<a href="https://search.dartslive.com/jp/shop/ca1307bf240edb1a0d9b047a20a7ba1e">鉄板バル E.STYLE 鉄板バル E.STYLE</a>|<a href="/darts/rank/愛知県/岩倉市">愛知県岩倉市</a>|
+|3|666|<span class="rank-name-dl">OKI</span>|<a href="https://search.dartslive.com/jp/shop/ca1307bf240edb1a0d9b047a20a7ba1e">鉄板バル E.STYLE</a>|<a href="/darts/rank/愛知県/岩倉市">愛知県岩倉市</a>|
+|4|645|<span class="rank-name-dl">Nao</span>|<a href="https://search.dartslive.com/jp/shop/ca1307bf240edb1a0d9b047a20a7ba1e">鉄板バル E.STYLE 鉄板バル E.STYLE</a>|<a href="/darts/rank/愛知県/岩倉市">愛知県岩倉市</a>|
+|5|638|<span class="rank-name-dl">Nao</span>|<a href="https://search.dartslive.com/jp/shop/ca1307bf240edb1a0d9b047a20a7ba1e">鉄板バル E.STYLE</a>|<a href="/darts/rank/愛知県/岩倉市">愛知県岩倉市</a>|
+|6|620|<span class="rank-name-dl">しゅーじ</span>|<a href="https://search.dartslive.com/jp/shop/ca1307bf240edb1a0d9b047a20a7ba1e">鉄板バル E.STYLE 鉄板バル E.STYLE</a>|<a href="/darts/rank/愛知県/岩倉市">愛知県岩倉市</a>|
+|7|600|<span class="rank-name-dl">じん@Ｅ．STYLE</span>|<a href="https://search.dartslive.com/jp/shop/ca1307bf240edb1a0d9b047a20a7ba1e">鉄板バル E.STYLE 鉄板バル E.STYLE</a>|<a href="/darts/rank/愛知県/岩倉市">愛知県岩倉市</a>|
+|8|514|<span class="rank-name-dl">NOR1 NOR1</span>|<a href="https://search.dartslive.com/jp/shop/ca1307bf240edb1a0d9b047a20a7ba1e">鉄板バル E.STYLE 鉄板バル E.STYLE</a>|<a href="/darts/rank/愛知県/岩倉市">愛知県岩倉市</a>|
+|9|508|<span class="rank-name-dl">まーくん</span>|<a href="https://search.dartslive.com/jp/shop/ca1307bf240edb1a0d9b047a20a7ba1e">鉄板バル E.STYLE 鉄板バル E.STYLE</a>|<a href="/darts/rank/愛知県/岩倉市">愛知県岩倉市</a>|
+|10|495|<span class="rank-name-dl">Kayoko</span>|<a href="https://search.dartslive.com/jp/shop/ca1307bf240edb1a0d9b047a20a7ba1e">鉄板バル E.STYLE</a>|<a href="/darts/rank/愛知県/岩倉市">愛知県岩倉市</a>|
+|11|473|<span class="rank-name-dl">SHANK</span>|<a href="https://search.dartslive.com/jp/shop/ca1307bf240edb1a0d9b047a20a7ba1e">鉄板バル E.STYLE 鉄板バル E.STYLE</a>|<a href="/darts/rank/愛知県/岩倉市">愛知県岩倉市</a>|
+|12|458|<span class="rank-name-dl">Kayoko</span>|<a href="https://search.dartslive.com/jp/shop/ca1307bf240edb1a0d9b047a20a7ba1e">鉄板バル E.STYLE 鉄板バル E.STYLE</a>|<a href="/darts/rank/愛知県/岩倉市">愛知県岩倉市</a>|
+|13|426|<span class="rank-name-dl">チン</span>|<a href="https://search.dartslive.com/jp/shop/ca1307bf240edb1a0d9b047a20a7ba1e">鉄板バル E.STYLE 鉄板バル E.STYLE</a>|<a href="/darts/rank/愛知県/岩倉市">愛知県岩倉市</a>|
+|14|422|<span class="rank-name-dl">まーくん</span>|<a href="https://search.dartslive.com/jp/shop/ca1307bf240edb1a0d9b047a20a7ba1e">鉄板バル E.STYLE</a>|<a href="/darts/rank/愛知県/岩倉市">愛知県岩倉市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -36,10 +46,20 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|666|<span class="rank-name-dl">OKI</span>|<a href="https://search.dartslive.com/jp/shop/ca1307bf240edb1a0d9b047a20a7ba1e">鉄板バル E.STYLE</a>|<a href="/darts/rank/愛知県/岩倉市">愛知県岩倉市</a>|
-|2|638|<span class="rank-name-dl">Nao</span>|<a href="https://search.dartslive.com/jp/shop/ca1307bf240edb1a0d9b047a20a7ba1e">鉄板バル E.STYLE</a>|<a href="/darts/rank/愛知県/岩倉市">愛知県岩倉市</a>|
-|3|495|<span class="rank-name-dl">Kayoko</span>|<a href="https://search.dartslive.com/jp/shop/ca1307bf240edb1a0d9b047a20a7ba1e">鉄板バル E.STYLE</a>|<a href="/darts/rank/愛知県/岩倉市">愛知県岩倉市</a>|
-|4|422|<span class="rank-name-dl">まーくん</span>|<a href="https://search.dartslive.com/jp/shop/ca1307bf240edb1a0d9b047a20a7ba1e">鉄板バル E.STYLE</a>|<a href="/darts/rank/愛知県/岩倉市">愛知県岩倉市</a>|
+|1|828|<span class="rank-name-dl">YUUKI NARITA</span>|<a href="https://search.dartslive.com/jp/shop/ca1307bf240edb1a0d9b047a20a7ba1e">鉄板バル E.STYLE 鉄板バル E.STYLE</a>|<a href="/darts/rank/愛知県/岩倉市">愛知県岩倉市</a>|
+|2|719|<span class="rank-name-dl">OKI</span>|<a href="https://search.dartslive.com/jp/shop/ca1307bf240edb1a0d9b047a20a7ba1e">鉄板バル E.STYLE 鉄板バル E.STYLE</a>|<a href="/darts/rank/愛知県/岩倉市">愛知県岩倉市</a>|
+|3|666|<span class="rank-name-dl">OKI</span>|<a href="https://search.dartslive.com/jp/shop/ca1307bf240edb1a0d9b047a20a7ba1e">鉄板バル E.STYLE</a>|<a href="/darts/rank/愛知県/岩倉市">愛知県岩倉市</a>|
+|4|645|<span class="rank-name-dl">Nao</span>|<a href="https://search.dartslive.com/jp/shop/ca1307bf240edb1a0d9b047a20a7ba1e">鉄板バル E.STYLE 鉄板バル E.STYLE</a>|<a href="/darts/rank/愛知県/岩倉市">愛知県岩倉市</a>|
+|5|638|<span class="rank-name-dl">Nao</span>|<a href="https://search.dartslive.com/jp/shop/ca1307bf240edb1a0d9b047a20a7ba1e">鉄板バル E.STYLE</a>|<a href="/darts/rank/愛知県/岩倉市">愛知県岩倉市</a>|
+|6|620|<span class="rank-name-dl">しゅーじ</span>|<a href="https://search.dartslive.com/jp/shop/ca1307bf240edb1a0d9b047a20a7ba1e">鉄板バル E.STYLE 鉄板バル E.STYLE</a>|<a href="/darts/rank/愛知県/岩倉市">愛知県岩倉市</a>|
+|7|600|<span class="rank-name-dl">じん@Ｅ．STYLE</span>|<a href="https://search.dartslive.com/jp/shop/ca1307bf240edb1a0d9b047a20a7ba1e">鉄板バル E.STYLE 鉄板バル E.STYLE</a>|<a href="/darts/rank/愛知県/岩倉市">愛知県岩倉市</a>|
+|8|514|<span class="rank-name-dl">NOR1 NOR1</span>|<a href="https://search.dartslive.com/jp/shop/ca1307bf240edb1a0d9b047a20a7ba1e">鉄板バル E.STYLE 鉄板バル E.STYLE</a>|<a href="/darts/rank/愛知県/岩倉市">愛知県岩倉市</a>|
+|9|508|<span class="rank-name-dl">まーくん</span>|<a href="https://search.dartslive.com/jp/shop/ca1307bf240edb1a0d9b047a20a7ba1e">鉄板バル E.STYLE 鉄板バル E.STYLE</a>|<a href="/darts/rank/愛知県/岩倉市">愛知県岩倉市</a>|
+|10|495|<span class="rank-name-dl">Kayoko</span>|<a href="https://search.dartslive.com/jp/shop/ca1307bf240edb1a0d9b047a20a7ba1e">鉄板バル E.STYLE</a>|<a href="/darts/rank/愛知県/岩倉市">愛知県岩倉市</a>|
+|11|473|<span class="rank-name-dl">SHANK</span>|<a href="https://search.dartslive.com/jp/shop/ca1307bf240edb1a0d9b047a20a7ba1e">鉄板バル E.STYLE 鉄板バル E.STYLE</a>|<a href="/darts/rank/愛知県/岩倉市">愛知県岩倉市</a>|
+|12|458|<span class="rank-name-dl">Kayoko</span>|<a href="https://search.dartslive.com/jp/shop/ca1307bf240edb1a0d9b047a20a7ba1e">鉄板バル E.STYLE 鉄板バル E.STYLE</a>|<a href="/darts/rank/愛知県/岩倉市">愛知県岩倉市</a>|
+|13|426|<span class="rank-name-dl">チン</span>|<a href="https://search.dartslive.com/jp/shop/ca1307bf240edb1a0d9b047a20a7ba1e">鉄板バル E.STYLE 鉄板バル E.STYLE</a>|<a href="/darts/rank/愛知県/岩倉市">愛知県岩倉市</a>|
+|14|422|<span class="rank-name-dl">まーくん</span>|<a href="https://search.dartslive.com/jp/shop/ca1307bf240edb1a0d9b047a20a7ba1e">鉄板バル E.STYLE</a>|<a href="/darts/rank/愛知県/岩倉市">愛知県岩倉市</a>|
 
 
 #### PHOENIXDARTS TOP 100

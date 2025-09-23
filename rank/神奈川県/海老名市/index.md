@@ -50,79 +50,79 @@ ___
 |25|964|<span class="rank-name-dl">たかっピ～</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
 |26|963|<span class="rank-name-dl">NEU</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
 |26|963|<span class="rank-name-dl">inu</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|28|961|<span class="rank-name-dl">副キャプテン</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|29|960|<span class="rank-name-dl">のり</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|29|960|<span class="rank-name-dl">一弍</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|31|959|<span class="rank-name-dl">とまと</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|31|959|<span class="rank-name-dl">ねこ</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|33|957|<span class="rank-name-dl">ロペ</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|34|948|<span class="rank-name-dl">トモやん</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|34|948|<span class="rank-name-dl">겐 이 치</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|36|946|<span class="rank-name-dl">NO NAME 6560</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|37|944|<span class="rank-name-dl">佐藤孝太</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|38|942|<span class="rank-name-dl">takumi</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|39|939|<span class="rank-name-dl">☆ｸﾞｰﾁｮｷﾊﾟﾝ☆</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|40|932|<span class="rank-name-dl">C-SerecT</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|41|928|<span class="rank-name-dl">Ｎ＿ｙ☆ｓｈ１</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|42|922|<span class="rank-name-dl">0378”””</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|43|920|<span class="rank-name-dl">Ｋ</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|44|919|<span class="rank-name-dl">だーやま</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|45|914|<span class="rank-name-dl">T-もやぁ</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|46|913|<span class="rank-name-dl">ぺぺまん</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|47|908|<span class="rank-name-dl">けん</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|48|903|<span class="rank-name-dl">Opamp@29man</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|49|891|<span class="rank-name-dl">Sayo</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|50|879|<span class="rank-name-dl">ふくちゃん@彩蕨</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|51|878|<span class="rank-name-dl">#Monster(&gt;_&lt;｡)</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|52|875|<span class="rank-name-dl">KOーBA</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|53|873|<span class="rank-name-dl">ししゃもヾ(･ω･</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|54|856|<span class="rank-name-dl">ﾄｼｸﾝﾁｬﾝﾊﾟｲｾﾝ☆彡</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|55|853|<span class="rank-name-dl">いけち</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|56|847|<span class="rank-name-dl">ENMASA</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|57|842|<span class="rank-name-dl">くれち</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|58|808|<span class="rank-name-dl">ぶーやん</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|59|804|<span class="rank-name-dl">りく</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|60|767|<span class="rank-name-dl">ﾊﾞﾝ</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|61|762|<span class="rank-name-dl">NO DA</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|62|758|<span class="rank-name-dl">油淋鶏0905</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|63|747|<span class="rank-name-dl">もっちー</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|64|745|<span class="rank-name-dl">TAKA</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|65|744|<span class="rank-name-dl">Rihito</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|66|741|<span class="rank-name-dl">ﾕｷﾁｬﾝ.❅</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|67|731|<span class="rank-name-dl">みや</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|68|730|<span class="rank-name-dl">みやっち</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|69|728|<span class="rank-name-dl">Sayo(¬∀¬ )</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|70|725|<span class="rank-name-dl">♡SAKI♡</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|70|725|<span class="rank-name-dl">うめさん</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|72|724|<span class="rank-name-dl">てるるん</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|72|724|<span class="rank-name-dl">ハリー</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|74|713|<span class="rank-name-dl">＊YuKi＊</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|75|705|<span class="rank-name-dl">うめさん❁¨̮</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|76|703|<span class="rank-name-pd">Opamp@29man</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81354?s_seq=81354">すかいキッチン</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|77|700|<span class="rank-name-dl">DSD@Osk</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|78|697|<span class="rank-name-dl">うめさん❀</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|78|697|<span class="rank-name-dl">ツムリン</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|80|696|<span class="rank-name-dl">NO NAME 0919</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|80|696|<span class="rank-name-dl">常吉太郎</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|82|686|<span class="rank-name-dl">EEE/₊❀̥୭</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|82|686|<span class="rank-name-pd">YOっTK</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81354?s_seq=81354">すかいキッチン</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|84|685|<span class="rank-name-dl">さりさり</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|85|684|<span class="rank-name-dl">リハビリ</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|86|682|<span class="rank-name-dl">Jr.18</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|87|681|<span class="rank-name-dl">➴Haruru.@N9Y</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|88|660|<span class="rank-name-dl">Fuyoh</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|89|658|<span class="rank-name-dl">らんくす</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|90|654|<span class="rank-name-dl">多摩川のおが</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|91|652|<span class="rank-name-dl">あすな</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|92|649|<span class="rank-name-dl">りおまる</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|93|646|<span class="rank-name-pd">0268_5981</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81354?s_seq=81354">すかいキッチン</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|94|637|<span class="rank-name-dl">まっつんまっつん</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|95|633|<span class="rank-name-dl">♡夢見る福笑い♡</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|96|632|<span class="rank-name-dl">たっこー</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|97|631|<span class="rank-name-dl">はむたろ</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|98|629|<span class="rank-name-dl">☆★Maria★☆</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|98|629|<span class="rank-name-dl">ゆかさん</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|100|623|<span class="rank-name-pd">Opamp@29man</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71255?s_seq=71255">Copain</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|28|962|<span class="rank-name-dl">松原 煌月</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店 快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|29|961|<span class="rank-name-dl">副キャプテン</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|30|960|<span class="rank-name-dl">のり</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|30|960|<span class="rank-name-dl">一弍</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|32|959|<span class="rank-name-dl">とまと</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|32|959|<span class="rank-name-dl">ねこ</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|34|957|<span class="rank-name-dl">ロペ</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|35|948|<span class="rank-name-dl">トモやん</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|35|948|<span class="rank-name-dl">겐 이 치</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|37|946|<span class="rank-name-dl">NO NAME 6560</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|38|944|<span class="rank-name-dl">佐藤孝太</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|39|942|<span class="rank-name-dl">takumi</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|40|939|<span class="rank-name-dl">☆ｸﾞｰﾁｮｷﾊﾟﾝ☆</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|41|932|<span class="rank-name-dl">C-SerecT</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|42|928|<span class="rank-name-dl">Ｎ＿ｙ☆ｓｈ１</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|43|922|<span class="rank-name-dl">0378”””</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|44|920|<span class="rank-name-dl">Ｋ</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|45|919|<span class="rank-name-dl">だーやま</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|46|914|<span class="rank-name-dl">T-もやぁ</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|47|913|<span class="rank-name-dl">ぺぺまん</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|48|912|<span class="rank-name-dl">もか</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店 快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|49|910|<span class="rank-name-dl">いまみ</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店 快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|49|910|<span class="rank-name-dl">やーそん☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店 快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|51|908|<span class="rank-name-dl">けん</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|52|903|<span class="rank-name-dl">Opamp@29man</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|53|894|<span class="rank-name-dl">五条@ド基地</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店 快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|54|891|<span class="rank-name-dl">Sayo</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|55|890|<span class="rank-name-dl">むかいまる</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店 快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|56|886|<span class="rank-name-dl">겐 이 치</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店 快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|57|884|<span class="rank-name-dl">涼</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店 快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|58|879|<span class="rank-name-dl">ふくちゃん@彩蕨</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|59|878|<span class="rank-name-dl">#Monster(&gt;_&lt;｡)</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|60|877|<span class="rank-name-dl">☆ＰＥＫＯ☆</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店 快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|61|875|<span class="rank-name-dl">KOーBA</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|62|873|<span class="rank-name-dl">ししゃもヾ(･ω･</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|63|869|<span class="rank-name-dl">りく</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店 快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|64|856|<span class="rank-name-dl">ﾄｼｸﾝﾁｬﾝﾊﾟｲｾﾝ☆彡</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|65|853|<span class="rank-name-dl">いけち</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|66|847|<span class="rank-name-dl">ENMASA</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|67|842|<span class="rank-name-dl">くれち</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|68|808|<span class="rank-name-dl">ぶーやん</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|69|804|<span class="rank-name-dl">りく</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|70|792|<span class="rank-name-pd">Ryosuke</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71255?s_seq=71255">Copain</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|71|767|<span class="rank-name-dl">ﾊﾞﾝ</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|72|762|<span class="rank-name-dl">NO DA</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|73|758|<span class="rank-name-dl">油淋鶏0905</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|74|747|<span class="rank-name-dl">もっちー</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|75|745|<span class="rank-name-dl">TAKA</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|76|744|<span class="rank-name-dl">Rihito</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|77|741|<span class="rank-name-dl">ﾕｷﾁｬﾝ.❅</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|78|731|<span class="rank-name-dl">みや</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|79|730|<span class="rank-name-dl">みやっち</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|80|728|<span class="rank-name-dl">Sayo(¬∀¬ )</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|81|725|<span class="rank-name-dl">♡SAKI♡</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|81|725|<span class="rank-name-dl">うめさん</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|83|724|<span class="rank-name-dl">てるるん</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|83|724|<span class="rank-name-dl">ハリー</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|85|713|<span class="rank-name-dl">＊YuKi＊</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|86|705|<span class="rank-name-dl">うめさん❁¨̮</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|87|703|<span class="rank-name-pd">Opamp@29man</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81354?s_seq=81354">すかいキッチン</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|88|700|<span class="rank-name-dl">DSD@Osk</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|89|697|<span class="rank-name-dl">うめさん❀</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|89|697|<span class="rank-name-dl">ツムリン</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|91|696|<span class="rank-name-dl">NO NAME 0919</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|91|696|<span class="rank-name-dl">常吉太郎</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|93|686|<span class="rank-name-dl">EEE/₊❀̥୭</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|93|686|<span class="rank-name-pd">YOっTK</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81354?s_seq=81354">すかいキッチン</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|95|685|<span class="rank-name-dl">さりさり</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|96|684|<span class="rank-name-dl">リハビリ</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|97|682|<span class="rank-name-dl">Jr.18</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|98|681|<span class="rank-name-pd">TETSU.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81354?s_seq=81354">すかいキッチン</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|98|681|<span class="rank-name-dl">➴Haruru.@N9Y</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|100|660|<span class="rank-name-dl">Fuyoh</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -159,79 +159,79 @@ ___
 |25|964|<span class="rank-name-dl">たかっピ～</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
 |26|963|<span class="rank-name-dl">NEU</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
 |26|963|<span class="rank-name-dl">inu</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|28|961|<span class="rank-name-dl">副キャプテン</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|29|960|<span class="rank-name-dl">のり</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|29|960|<span class="rank-name-dl">一弍</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|31|959|<span class="rank-name-dl">とまと</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|31|959|<span class="rank-name-dl">ねこ</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|33|957|<span class="rank-name-dl">ロペ</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|34|948|<span class="rank-name-dl">トモやん</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|34|948|<span class="rank-name-dl">겐 이 치</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|36|946|<span class="rank-name-dl">NO NAME 6560</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|37|944|<span class="rank-name-dl">佐藤孝太</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|38|942|<span class="rank-name-dl">takumi</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|39|939|<span class="rank-name-dl">☆ｸﾞｰﾁｮｷﾊﾟﾝ☆</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|40|932|<span class="rank-name-dl">C-SerecT</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|41|928|<span class="rank-name-dl">Ｎ＿ｙ☆ｓｈ１</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|42|922|<span class="rank-name-dl">0378”””</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|43|920|<span class="rank-name-dl">Ｋ</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|44|919|<span class="rank-name-dl">だーやま</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|45|914|<span class="rank-name-dl">T-もやぁ</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|46|913|<span class="rank-name-dl">ぺぺまん</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|47|908|<span class="rank-name-dl">けん</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|48|903|<span class="rank-name-dl">Opamp@29man</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|49|891|<span class="rank-name-dl">Sayo</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|50|879|<span class="rank-name-dl">ふくちゃん@彩蕨</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|51|878|<span class="rank-name-dl">#Monster(&gt;_&lt;｡)</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|52|875|<span class="rank-name-dl">KOーBA</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|53|873|<span class="rank-name-dl">ししゃもヾ(･ω･</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|54|856|<span class="rank-name-dl">ﾄｼｸﾝﾁｬﾝﾊﾟｲｾﾝ☆彡</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|55|853|<span class="rank-name-dl">いけち</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|56|847|<span class="rank-name-dl">ENMASA</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|57|842|<span class="rank-name-dl">くれち</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|58|808|<span class="rank-name-dl">ぶーやん</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|59|804|<span class="rank-name-dl">りく</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|60|767|<span class="rank-name-dl">ﾊﾞﾝ</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|61|762|<span class="rank-name-dl">NO DA</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|62|758|<span class="rank-name-dl">油淋鶏0905</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|63|747|<span class="rank-name-dl">もっちー</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|64|745|<span class="rank-name-dl">TAKA</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|65|744|<span class="rank-name-dl">Rihito</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|66|741|<span class="rank-name-dl">ﾕｷﾁｬﾝ.❅</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|67|731|<span class="rank-name-dl">みや</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|68|730|<span class="rank-name-dl">みやっち</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|69|728|<span class="rank-name-dl">Sayo(¬∀¬ )</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|70|725|<span class="rank-name-dl">♡SAKI♡</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|70|725|<span class="rank-name-dl">うめさん</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|72|724|<span class="rank-name-dl">てるるん</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|72|724|<span class="rank-name-dl">ハリー</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|74|713|<span class="rank-name-dl">＊YuKi＊</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|75|705|<span class="rank-name-dl">うめさん❁¨̮</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|76|700|<span class="rank-name-dl">DSD@Osk</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|77|697|<span class="rank-name-dl">うめさん❀</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|77|697|<span class="rank-name-dl">ツムリン</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|79|696|<span class="rank-name-dl">NO NAME 0919</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|79|696|<span class="rank-name-dl">常吉太郎</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|81|686|<span class="rank-name-dl">EEE/₊❀̥୭</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|82|685|<span class="rank-name-dl">さりさり</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|83|684|<span class="rank-name-dl">リハビリ</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|84|682|<span class="rank-name-dl">Jr.18</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|85|681|<span class="rank-name-dl">➴Haruru.@N9Y</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|86|660|<span class="rank-name-dl">Fuyoh</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|87|658|<span class="rank-name-dl">らんくす</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|88|654|<span class="rank-name-dl">多摩川のおが</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|89|652|<span class="rank-name-dl">あすな</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|90|649|<span class="rank-name-dl">りおまる</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|91|637|<span class="rank-name-dl">まっつんまっつん</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|92|633|<span class="rank-name-dl">♡夢見る福笑い♡</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|93|632|<span class="rank-name-dl">たっこー</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|94|631|<span class="rank-name-dl">はむたろ</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|95|629|<span class="rank-name-dl">☆★Maria★☆</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|95|629|<span class="rank-name-dl">ゆかさん</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|97|618|<span class="rank-name-dl">ばんくん</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|98|612|<span class="rank-name-dl">きんとん</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|99|596|<span class="rank-name-dl">れみぽーる</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|100|592|<span class="rank-name-dl">Ryo♡</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|28|962|<span class="rank-name-dl">松原 煌月</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店 快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|29|961|<span class="rank-name-dl">副キャプテン</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|30|960|<span class="rank-name-dl">のり</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|30|960|<span class="rank-name-dl">一弍</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|32|959|<span class="rank-name-dl">とまと</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|32|959|<span class="rank-name-dl">ねこ</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|34|957|<span class="rank-name-dl">ロペ</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|35|948|<span class="rank-name-dl">トモやん</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|35|948|<span class="rank-name-dl">겐 이 치</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|37|946|<span class="rank-name-dl">NO NAME 6560</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|38|944|<span class="rank-name-dl">佐藤孝太</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|39|942|<span class="rank-name-dl">takumi</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|40|939|<span class="rank-name-dl">☆ｸﾞｰﾁｮｷﾊﾟﾝ☆</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|41|932|<span class="rank-name-dl">C-SerecT</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|42|928|<span class="rank-name-dl">Ｎ＿ｙ☆ｓｈ１</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|43|922|<span class="rank-name-dl">0378”””</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|44|920|<span class="rank-name-dl">Ｋ</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|45|919|<span class="rank-name-dl">だーやま</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|46|914|<span class="rank-name-dl">T-もやぁ</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|47|913|<span class="rank-name-dl">ぺぺまん</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|48|912|<span class="rank-name-dl">もか</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店 快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|49|910|<span class="rank-name-dl">いまみ</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店 快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|49|910|<span class="rank-name-dl">やーそん☆爆音</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店 快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|51|908|<span class="rank-name-dl">けん</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|52|903|<span class="rank-name-dl">Opamp@29man</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|53|894|<span class="rank-name-dl">五条@ド基地</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店 快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|54|891|<span class="rank-name-dl">Sayo</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|55|890|<span class="rank-name-dl">むかいまる</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店 快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|56|886|<span class="rank-name-dl">겐 이 치</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店 快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|57|884|<span class="rank-name-dl">涼</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店 快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|58|879|<span class="rank-name-dl">ふくちゃん@彩蕨</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|59|878|<span class="rank-name-dl">#Monster(&gt;_&lt;｡)</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|60|877|<span class="rank-name-dl">☆ＰＥＫＯ☆</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店 快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|61|875|<span class="rank-name-dl">KOーBA</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|62|873|<span class="rank-name-dl">ししゃもヾ(･ω･</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|63|869|<span class="rank-name-dl">りく</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店 快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|64|856|<span class="rank-name-dl">ﾄｼｸﾝﾁｬﾝﾊﾟｲｾﾝ☆彡</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|65|853|<span class="rank-name-dl">いけち</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|66|847|<span class="rank-name-dl">ENMASA</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|67|842|<span class="rank-name-dl">くれち</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|68|808|<span class="rank-name-dl">ぶーやん</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|69|804|<span class="rank-name-dl">りく</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|70|767|<span class="rank-name-dl">ﾊﾞﾝ</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|71|762|<span class="rank-name-dl">NO DA</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|72|758|<span class="rank-name-dl">油淋鶏0905</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|73|747|<span class="rank-name-dl">もっちー</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|74|745|<span class="rank-name-dl">TAKA</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|75|744|<span class="rank-name-dl">Rihito</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|76|741|<span class="rank-name-dl">ﾕｷﾁｬﾝ.❅</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|77|731|<span class="rank-name-dl">みや</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|78|730|<span class="rank-name-dl">みやっち</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|79|728|<span class="rank-name-dl">Sayo(¬∀¬ )</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|80|725|<span class="rank-name-dl">♡SAKI♡</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|80|725|<span class="rank-name-dl">うめさん</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|82|724|<span class="rank-name-dl">てるるん</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|82|724|<span class="rank-name-dl">ハリー</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|84|713|<span class="rank-name-dl">＊YuKi＊</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|85|705|<span class="rank-name-dl">うめさん❁¨̮</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|86|700|<span class="rank-name-dl">DSD@Osk</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|87|697|<span class="rank-name-dl">うめさん❀</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|87|697|<span class="rank-name-dl">ツムリン</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|89|696|<span class="rank-name-dl">NO NAME 0919</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|89|696|<span class="rank-name-dl">常吉太郎</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|91|686|<span class="rank-name-dl">EEE/₊❀̥୭</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|92|685|<span class="rank-name-dl">さりさり</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|93|684|<span class="rank-name-dl">リハビリ</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|94|682|<span class="rank-name-dl">Jr.18</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|95|681|<span class="rank-name-dl">➴Haruru.@N9Y</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|96|660|<span class="rank-name-dl">Fuyoh</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|97|658|<span class="rank-name-dl">らんくす</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|98|654|<span class="rank-name-dl">多摩川のおが</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|99|652|<span class="rank-name-dl">あすな</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|100|649|<span class="rank-name-dl">りおまる</span>|<a href="https://search.dartslive.com/jp/shop/118c72cb2506835af454cb89828a1cfe">快活CLUB 海老名駅前店</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
 
 
 #### PHOENIXDARTS TOP 100
@@ -241,17 +241,22 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|703|<span class="rank-name-pd">Opamp@29man</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81354?s_seq=81354">すかいキッチン</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|2|686|<span class="rank-name-pd">YOっTK</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81354?s_seq=81354">すかいキッチン</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|3|646|<span class="rank-name-pd">0268_5981</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81354?s_seq=81354">すかいキッチン</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|4|623|<span class="rank-name-pd">Opamp@29man</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71255?s_seq=71255">Copain</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|5|565|<span class="rank-name-pd">SAWATATSU@ROOP.S</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81354?s_seq=81354">すかいキッチン</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|6|536|<span class="rank-name-pd">Eminem?(否竜）</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81354?s_seq=81354">すかいキッチン</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|7|476|<span class="rank-name-pd">YAMAZAKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81354?s_seq=81354">すかいキッチン</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|8|432|<span class="rank-name-pd">SAYU*RIN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81354?s_seq=81354">すかいキッチン</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|9|345|<span class="rank-name-pd">NAOMI.LOVE.YTEC</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81354?s_seq=81354">すかいキッチン</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|10|342|<span class="rank-name-pd">JUN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81354?s_seq=81354">すかいキッチン</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
-|11|317|<span class="rank-name-pd">0224_9953</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81354?s_seq=81354">すかいキッチン</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|1|792|<span class="rank-name-pd">Ryosuke</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71255?s_seq=71255">Copain</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|2|703|<span class="rank-name-pd">Opamp@29man</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81354?s_seq=81354">すかいキッチン</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|3|686|<span class="rank-name-pd">YOっTK</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81354?s_seq=81354">すかいキッチン</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|4|681|<span class="rank-name-pd">TETSU.</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81354?s_seq=81354">すかいキッチン</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|5|646|<span class="rank-name-pd">0268_5981</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81354?s_seq=81354">すかいキッチン</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|6|623|<span class="rank-name-pd">Opamp@29man</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_71255?s_seq=71255">Copain</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|7|565|<span class="rank-name-pd">SAWATATSU@ROOP.S</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81354?s_seq=81354">すかいキッチン</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|8|536|<span class="rank-name-pd">Eminem?(否竜）</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81354?s_seq=81354">すかいキッチン</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|9|476|<span class="rank-name-pd">YAMAZAKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81354?s_seq=81354">すかいキッチン</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|10|443|<span class="rank-name-pd">SAYU*RIN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81354?s_seq=81354">すかいキッチン</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|11|407|<span class="rank-name-pd">YOSHIKO.LOVE@SKY</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81354?s_seq=81354">すかいキッチン</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|12|387|<span class="rank-name-pd">FU.FU.FU.@-@</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81354?s_seq=81354">すかいキッチン</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|13|345|<span class="rank-name-pd">NAOMI.LOVE.YTEC</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81354?s_seq=81354">すかいキッチン</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|14|342|<span class="rank-name-pd">JUN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81354?s_seq=81354">すかいキッチン</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|15|317|<span class="rank-name-pd">0224_9953</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81354?s_seq=81354">すかいキッチン</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
+|16|296|<span class="rank-name-pd">KOMUGI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_81354?s_seq=81354">すかいキッチン</a>|<a href="/darts/rank/神奈川県/海老名市">神奈川県海老名市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

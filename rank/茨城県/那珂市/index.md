@@ -23,97 +23,106 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1092|<span class="rank-name-dl">P</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|2|1068|<span class="rank-name-dl">…</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|3|1031|<span class="rank-name-dl">小薗zx</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|4|978|<span class="rank-name-dl">鈴木 ユウト★</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|5|960|<span class="rank-name-dl">くまーー</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|5|960|<span class="rank-name-dl">こいちょ</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|7|949|<span class="rank-name-dl">だいたいバギー</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|8|947|<span class="rank-name-dl">NAO</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|9|939|<span class="rank-name-dl">かずやん</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|9|939|<span class="rank-name-dl">西住まほ</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|11|938|<span class="rank-name-dl">ﾔｻｲﾏｼﾏｼﾆﾝﾆｸｶﾗﾒ</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|12|919|<span class="rank-name-dl">雀茶</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|13|904|<span class="rank-name-dl">ke1ta</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|14|884|<span class="rank-name-dl">((( K.A.I )))</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|15|872|<span class="rank-name-dl">こたろさんU^ェ^U</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|16|868|<span class="rank-name-dl">いとうこういち☆</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|17|866|<span class="rank-name-dl">kz.u_u.</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|18|865|<span class="rank-name-dl">ハグんぬ</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|19|864|<span class="rank-name-dl">Blue Man</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|20|862|<span class="rank-name-dl">りゅう</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|21|858|<span class="rank-name-dl">ぬき</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|22|854|<span class="rank-name-dl">二郎　常陸太田店</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|23|853|<span class="rank-name-dl">Kaicho</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|24|845|<span class="rank-name-dl">=Honey Bee=洋</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|25|844|<span class="rank-name-dl">いんです。</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|26|843|<span class="rank-name-dl">Twin-STAR</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|27|842|<span class="rank-name-dl">Happy　Fat</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|28|829|<span class="rank-name-dl">もももっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|29|825|<span class="rank-name-dl">ＴＡＫＡ</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|30|823|<span class="rank-name-dl">おじゅん</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|31|822|<span class="rank-name-dl">三毛猫解散</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|32|817|<span class="rank-name-dl">NO NAME 6792</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|33|814|<span class="rank-name-dl">こま</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|34|813|<span class="rank-name-dl">Kuwana Shutaro.</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|34|813|<span class="rank-name-dl">Ryo</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|36|808|<span class="rank-name-dl">Nyasy_K</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|37|807|<span class="rank-name-dl">ＴＴ</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|38|806|<span class="rank-name-dl">-くぅり48-</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|38|806|<span class="rank-name-dl">ハグ</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|40|799|<span class="rank-name-dl">Y’s</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|41|787|<span class="rank-name-dl">SHU-HEI@YUMO</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|42|779|<span class="rank-name-dl">くま８\Bear·Bee</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|43|768|<span class="rank-name-dl">youpei</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|44|746|<span class="rank-name-dl">はんぺん</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|45|744|<span class="rank-name-dl">すこん部</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|46|742|<span class="rank-name-dl">サッポロ紫ラベル</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|47|728|<span class="rank-name-dl">オールマイト</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|48|714|<span class="rank-name-dl">R0n1c0</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|49|703|<span class="rank-name-dl">HIRO0805</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|50|693|<span class="rank-name-dl">ema7067</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|51|687|<span class="rank-name-dl">ちゅん</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|52|685|<span class="rank-name-dl">マン亀</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|53|680|<span class="rank-name-dl">ちよこれゐと</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|54|658|<span class="rank-name-dl">kou-kun 熖</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|55|652|<span class="rank-name-dl">はすみんぬ</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|55|652|<span class="rank-name-dl">オレンジペコ好き</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|57|645|<span class="rank-name-dl">ま。</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|58|625|<span class="rank-name-dl">西ゾンビ</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|59|621|<span class="rank-name-dl">はる</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|60|614|<span class="rank-name-dl">イヌ</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|61|613|<span class="rank-name-dl">MASA</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|62|601|<span class="rank-name-dl">ちゃま</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|63|576|<span class="rank-name-dl">シャムネコ</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|64|561|<span class="rank-name-dl">カイト</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|65|557|<span class="rank-name-dl">チュン</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|66|551|<span class="rank-name-dl">*.YkkY.*</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|67|538|<span class="rank-name-dl">doorknob</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|68|523|<span class="rank-name-dl">GOD</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|69|522|<span class="rank-name-dl">和鷹</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|70|521|<span class="rank-name-dl">はしを</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|71|520|<span class="rank-name-dl">たまご</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|72|510|<span class="rank-name-dl">akaaaaan.</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|73|506|<span class="rank-name-dl">rnanato_hz</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|73|506|<span class="rank-name-dl">ふかや</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|75|499|<span class="rank-name-dl">七美</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|76|498|<span class="rank-name-dl">オチャ</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|77|491|<span class="rank-name-dl">Haru</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|78|459|<span class="rank-name-dl">salvare</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|79|451|<span class="rank-name-dl">kinako</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|80|446|<span class="rank-name-dl">ａi</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|81|440|<span class="rank-name-dl">ria.</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|82|434|<span class="rank-name-dl">〝月光〟</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|83|432|<span class="rank-name-dl">茶太丸</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|84|431|<span class="rank-name-dl">myomyon</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|85|414|<span class="rank-name-dl">Zackey</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|86|387|<span class="rank-name-dl">ユカコン</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|87|385|<span class="rank-name-dl">Risa</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|88|354|<span class="rank-name-dl">電子レンジ</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|89|320|<span class="rank-name-dl">村田</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|90|316|<span class="rank-name-dl">chocolate</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|91|300|<span class="rank-name-dl">kikkokanatax</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|1|1101|<span class="rank-name-dl">西住まほ</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店 快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|2|1092|<span class="rank-name-dl">P</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|3|1068|<span class="rank-name-dl">…</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|4|1053|<span class="rank-name-dl">P</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店 快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|5|1031|<span class="rank-name-dl">小薗zx</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|6|978|<span class="rank-name-dl">鈴木 ユウト★</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|7|975|<span class="rank-name-dl">タカアキ</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店 快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|8|960|<span class="rank-name-dl">くまーー</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|8|960|<span class="rank-name-dl">こいちょ</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|10|949|<span class="rank-name-dl">だいたいバギー</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|11|947|<span class="rank-name-dl">NAO</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|12|945|<span class="rank-name-dl">NO NAME 2279</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店 快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|13|939|<span class="rank-name-dl">かずやん</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|13|939|<span class="rank-name-dl">西住まほ</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|15|938|<span class="rank-name-dl">ﾔｻｲﾏｼﾏｼﾆﾝﾆｸｶﾗﾒ</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|16|927|<span class="rank-name-dl">よはん</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店 快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|17|919|<span class="rank-name-dl">雀茶</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|18|904|<span class="rank-name-dl">ke1ta</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|19|884|<span class="rank-name-dl">((( K.A.I )))</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|20|883|<span class="rank-name-dl">じゅん</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店 快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|21|882|<span class="rank-name-dl">ＴＴ</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店 快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|22|872|<span class="rank-name-dl">こたろさんU^ェ^U</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|23|868|<span class="rank-name-dl">いとうこういち☆</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|24|866|<span class="rank-name-dl">kz.u_u.</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|25|865|<span class="rank-name-dl">ハグんぬ</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|26|864|<span class="rank-name-dl">Blue Man</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|27|862|<span class="rank-name-dl">りゅう</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|28|858|<span class="rank-name-dl">ぬき</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|29|854|<span class="rank-name-dl">kz.u_u.</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店 快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|29|854|<span class="rank-name-dl">二郎　常陸太田店</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|31|853|<span class="rank-name-dl">Kaicho</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|32|845|<span class="rank-name-dl">=Honey Bee=洋</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|33|844|<span class="rank-name-dl">いんです。</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|34|843|<span class="rank-name-dl">Twin-STAR</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|35|842|<span class="rank-name-dl">Happy　Fat</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|36|838|<span class="rank-name-dl">おとうふ魔王</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店 快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|37|829|<span class="rank-name-dl">もももっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|38|825|<span class="rank-name-dl">ＴＡＫＡ</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|39|823|<span class="rank-name-dl">おじゅん</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|40|822|<span class="rank-name-dl">((( K.A.I )))</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店 快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|40|822|<span class="rank-name-dl">三毛猫解散</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|42|817|<span class="rank-name-dl">NO NAME 6792</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|43|814|<span class="rank-name-dl">こま</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|44|813|<span class="rank-name-dl">Kuwana Shutaro.</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|44|813|<span class="rank-name-dl">Ryo</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|46|808|<span class="rank-name-dl">Nyasy_K</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|47|807|<span class="rank-name-dl">ＴＴ</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|48|806|<span class="rank-name-dl">-くぅり48-</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|48|806|<span class="rank-name-dl">ハグ</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|50|799|<span class="rank-name-dl">Y’s</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|51|787|<span class="rank-name-dl">SHU-HEI@YUMO</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|52|779|<span class="rank-name-dl">くま８\Bear·Bee</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|53|768|<span class="rank-name-dl">youpei</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|54|746|<span class="rank-name-dl">はんぺん</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|55|744|<span class="rank-name-dl">すこん部</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|56|742|<span class="rank-name-dl">サッポロ紫ラベル</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|57|728|<span class="rank-name-dl">オールマイト</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|58|714|<span class="rank-name-dl">R0n1c0</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|59|703|<span class="rank-name-dl">HIRO0805</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|60|693|<span class="rank-name-dl">ema7067</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|61|687|<span class="rank-name-dl">ちゅん</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|62|685|<span class="rank-name-dl">マン亀</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|63|680|<span class="rank-name-dl">ちよこれゐと</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|64|658|<span class="rank-name-dl">kou-kun 熖</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|65|652|<span class="rank-name-dl">はすみんぬ</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|65|652|<span class="rank-name-dl">オレンジペコ好き</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|67|645|<span class="rank-name-dl">ま。</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|68|625|<span class="rank-name-dl">西ゾンビ</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|69|621|<span class="rank-name-dl">はる</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|70|614|<span class="rank-name-dl">イヌ</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|71|613|<span class="rank-name-dl">MASA</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|72|601|<span class="rank-name-dl">ちゃま</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|73|576|<span class="rank-name-dl">シャムネコ</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|74|561|<span class="rank-name-dl">カイト</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|75|557|<span class="rank-name-dl">チュン</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|76|551|<span class="rank-name-dl">*.YkkY.*</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|77|538|<span class="rank-name-dl">doorknob</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|78|523|<span class="rank-name-dl">GOD</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|79|522|<span class="rank-name-dl">和鷹</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|80|521|<span class="rank-name-dl">はしを</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|81|520|<span class="rank-name-dl">たまご</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|82|510|<span class="rank-name-dl">akaaaaan.</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|83|506|<span class="rank-name-dl">rnanato_hz</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|83|506|<span class="rank-name-dl">ふかや</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|85|499|<span class="rank-name-dl">七美</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|86|498|<span class="rank-name-dl">オチャ</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|87|491|<span class="rank-name-dl">Haru</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|88|459|<span class="rank-name-dl">salvare</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|89|451|<span class="rank-name-dl">kinako</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|90|446|<span class="rank-name-dl">ａi</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|91|440|<span class="rank-name-dl">ria.</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|92|434|<span class="rank-name-dl">〝月光〟</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|93|432|<span class="rank-name-dl">茶太丸</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|94|431|<span class="rank-name-dl">myomyon</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|95|414|<span class="rank-name-dl">Zackey</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|96|387|<span class="rank-name-dl">ユカコン</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|97|385|<span class="rank-name-dl">Risa</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|98|354|<span class="rank-name-dl">電子レンジ</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|99|320|<span class="rank-name-dl">村田</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|100|316|<span class="rank-name-dl">chocolate</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -123,97 +132,106 @@ ___
 {:.table-ranking}
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
-|1|1092|<span class="rank-name-dl">P</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|2|1068|<span class="rank-name-dl">…</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|3|1031|<span class="rank-name-dl">小薗zx</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|4|978|<span class="rank-name-dl">鈴木 ユウト★</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|5|960|<span class="rank-name-dl">くまーー</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|5|960|<span class="rank-name-dl">こいちょ</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|7|949|<span class="rank-name-dl">だいたいバギー</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|8|947|<span class="rank-name-dl">NAO</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|9|939|<span class="rank-name-dl">かずやん</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|9|939|<span class="rank-name-dl">西住まほ</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|11|938|<span class="rank-name-dl">ﾔｻｲﾏｼﾏｼﾆﾝﾆｸｶﾗﾒ</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|12|919|<span class="rank-name-dl">雀茶</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|13|904|<span class="rank-name-dl">ke1ta</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|14|884|<span class="rank-name-dl">((( K.A.I )))</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|15|872|<span class="rank-name-dl">こたろさんU^ェ^U</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|16|868|<span class="rank-name-dl">いとうこういち☆</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|17|866|<span class="rank-name-dl">kz.u_u.</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|18|865|<span class="rank-name-dl">ハグんぬ</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|19|864|<span class="rank-name-dl">Blue Man</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|20|862|<span class="rank-name-dl">りゅう</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|21|858|<span class="rank-name-dl">ぬき</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|22|854|<span class="rank-name-dl">二郎　常陸太田店</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|23|853|<span class="rank-name-dl">Kaicho</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|24|845|<span class="rank-name-dl">=Honey Bee=洋</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|25|844|<span class="rank-name-dl">いんです。</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|26|843|<span class="rank-name-dl">Twin-STAR</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|27|842|<span class="rank-name-dl">Happy　Fat</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|28|829|<span class="rank-name-dl">もももっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|29|825|<span class="rank-name-dl">ＴＡＫＡ</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|30|823|<span class="rank-name-dl">おじゅん</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|31|822|<span class="rank-name-dl">三毛猫解散</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|32|817|<span class="rank-name-dl">NO NAME 6792</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|33|814|<span class="rank-name-dl">こま</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|34|813|<span class="rank-name-dl">Kuwana Shutaro.</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|34|813|<span class="rank-name-dl">Ryo</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|36|808|<span class="rank-name-dl">Nyasy_K</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|37|807|<span class="rank-name-dl">ＴＴ</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|38|806|<span class="rank-name-dl">-くぅり48-</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|38|806|<span class="rank-name-dl">ハグ</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|40|799|<span class="rank-name-dl">Y’s</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|41|787|<span class="rank-name-dl">SHU-HEI@YUMO</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|42|779|<span class="rank-name-dl">くま８\Bear·Bee</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|43|768|<span class="rank-name-dl">youpei</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|44|746|<span class="rank-name-dl">はんぺん</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|45|744|<span class="rank-name-dl">すこん部</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|46|742|<span class="rank-name-dl">サッポロ紫ラベル</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|47|728|<span class="rank-name-dl">オールマイト</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|48|714|<span class="rank-name-dl">R0n1c0</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|49|703|<span class="rank-name-dl">HIRO0805</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|50|693|<span class="rank-name-dl">ema7067</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|51|687|<span class="rank-name-dl">ちゅん</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|52|685|<span class="rank-name-dl">マン亀</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|53|680|<span class="rank-name-dl">ちよこれゐと</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|54|658|<span class="rank-name-dl">kou-kun 熖</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|55|652|<span class="rank-name-dl">はすみんぬ</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|55|652|<span class="rank-name-dl">オレンジペコ好き</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|57|645|<span class="rank-name-dl">ま。</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|58|625|<span class="rank-name-dl">西ゾンビ</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|59|621|<span class="rank-name-dl">はる</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|60|614|<span class="rank-name-dl">イヌ</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|61|613|<span class="rank-name-dl">MASA</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|62|601|<span class="rank-name-dl">ちゃま</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|63|576|<span class="rank-name-dl">シャムネコ</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|64|561|<span class="rank-name-dl">カイト</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|65|557|<span class="rank-name-dl">チュン</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|66|551|<span class="rank-name-dl">*.YkkY.*</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|67|538|<span class="rank-name-dl">doorknob</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|68|523|<span class="rank-name-dl">GOD</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|69|522|<span class="rank-name-dl">和鷹</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|70|521|<span class="rank-name-dl">はしを</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|71|520|<span class="rank-name-dl">たまご</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|72|510|<span class="rank-name-dl">akaaaaan.</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|73|506|<span class="rank-name-dl">rnanato_hz</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|73|506|<span class="rank-name-dl">ふかや</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|75|499|<span class="rank-name-dl">七美</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|76|498|<span class="rank-name-dl">オチャ</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|77|491|<span class="rank-name-dl">Haru</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|78|459|<span class="rank-name-dl">salvare</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|79|451|<span class="rank-name-dl">kinako</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|80|446|<span class="rank-name-dl">ａi</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|81|440|<span class="rank-name-dl">ria.</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|82|434|<span class="rank-name-dl">〝月光〟</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|83|432|<span class="rank-name-dl">茶太丸</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|84|431|<span class="rank-name-dl">myomyon</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|85|414|<span class="rank-name-dl">Zackey</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|86|387|<span class="rank-name-dl">ユカコン</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|87|385|<span class="rank-name-dl">Risa</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|88|354|<span class="rank-name-dl">電子レンジ</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|89|320|<span class="rank-name-dl">村田</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|90|316|<span class="rank-name-dl">chocolate</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
-|91|300|<span class="rank-name-dl">kikkokanatax</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|1|1101|<span class="rank-name-dl">西住まほ</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店 快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|2|1092|<span class="rank-name-dl">P</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|3|1068|<span class="rank-name-dl">…</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|4|1053|<span class="rank-name-dl">P</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店 快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|5|1031|<span class="rank-name-dl">小薗zx</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|6|978|<span class="rank-name-dl">鈴木 ユウト★</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|7|975|<span class="rank-name-dl">タカアキ</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店 快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|8|960|<span class="rank-name-dl">くまーー</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|8|960|<span class="rank-name-dl">こいちょ</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|10|949|<span class="rank-name-dl">だいたいバギー</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|11|947|<span class="rank-name-dl">NAO</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|12|945|<span class="rank-name-dl">NO NAME 2279</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店 快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|13|939|<span class="rank-name-dl">かずやん</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|13|939|<span class="rank-name-dl">西住まほ</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|15|938|<span class="rank-name-dl">ﾔｻｲﾏｼﾏｼﾆﾝﾆｸｶﾗﾒ</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|16|927|<span class="rank-name-dl">よはん</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店 快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|17|919|<span class="rank-name-dl">雀茶</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|18|904|<span class="rank-name-dl">ke1ta</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|19|884|<span class="rank-name-dl">((( K.A.I )))</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|20|883|<span class="rank-name-dl">じゅん</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店 快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|21|882|<span class="rank-name-dl">ＴＴ</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店 快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|22|872|<span class="rank-name-dl">こたろさんU^ェ^U</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|23|868|<span class="rank-name-dl">いとうこういち☆</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|24|866|<span class="rank-name-dl">kz.u_u.</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|25|865|<span class="rank-name-dl">ハグんぬ</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|26|864|<span class="rank-name-dl">Blue Man</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|27|862|<span class="rank-name-dl">りゅう</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|28|858|<span class="rank-name-dl">ぬき</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|29|854|<span class="rank-name-dl">kz.u_u.</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店 快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|29|854|<span class="rank-name-dl">二郎　常陸太田店</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|31|853|<span class="rank-name-dl">Kaicho</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|32|845|<span class="rank-name-dl">=Honey Bee=洋</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|33|844|<span class="rank-name-dl">いんです。</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|34|843|<span class="rank-name-dl">Twin-STAR</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|35|842|<span class="rank-name-dl">Happy　Fat</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|36|838|<span class="rank-name-dl">おとうふ魔王</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店 快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|37|829|<span class="rank-name-dl">もももっちゃん</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|38|825|<span class="rank-name-dl">ＴＡＫＡ</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|39|823|<span class="rank-name-dl">おじゅん</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|40|822|<span class="rank-name-dl">((( K.A.I )))</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店 快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|40|822|<span class="rank-name-dl">三毛猫解散</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|42|817|<span class="rank-name-dl">NO NAME 6792</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|43|814|<span class="rank-name-dl">こま</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|44|813|<span class="rank-name-dl">Kuwana Shutaro.</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|44|813|<span class="rank-name-dl">Ryo</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|46|808|<span class="rank-name-dl">Nyasy_K</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|47|807|<span class="rank-name-dl">ＴＴ</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|48|806|<span class="rank-name-dl">-くぅり48-</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|48|806|<span class="rank-name-dl">ハグ</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|50|799|<span class="rank-name-dl">Y’s</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|51|787|<span class="rank-name-dl">SHU-HEI@YUMO</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|52|779|<span class="rank-name-dl">くま８\Bear·Bee</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|53|768|<span class="rank-name-dl">youpei</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|54|746|<span class="rank-name-dl">はんぺん</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|55|744|<span class="rank-name-dl">すこん部</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|56|742|<span class="rank-name-dl">サッポロ紫ラベル</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|57|728|<span class="rank-name-dl">オールマイト</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|58|714|<span class="rank-name-dl">R0n1c0</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|59|703|<span class="rank-name-dl">HIRO0805</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|60|693|<span class="rank-name-dl">ema7067</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|61|687|<span class="rank-name-dl">ちゅん</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|62|685|<span class="rank-name-dl">マン亀</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|63|680|<span class="rank-name-dl">ちよこれゐと</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|64|658|<span class="rank-name-dl">kou-kun 熖</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|65|652|<span class="rank-name-dl">はすみんぬ</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|65|652|<span class="rank-name-dl">オレンジペコ好き</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|67|645|<span class="rank-name-dl">ま。</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|68|625|<span class="rank-name-dl">西ゾンビ</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|69|621|<span class="rank-name-dl">はる</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|70|614|<span class="rank-name-dl">イヌ</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|71|613|<span class="rank-name-dl">MASA</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|72|601|<span class="rank-name-dl">ちゃま</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|73|576|<span class="rank-name-dl">シャムネコ</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|74|561|<span class="rank-name-dl">カイト</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|75|557|<span class="rank-name-dl">チュン</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|76|551|<span class="rank-name-dl">*.YkkY.*</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|77|538|<span class="rank-name-dl">doorknob</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|78|523|<span class="rank-name-dl">GOD</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|79|522|<span class="rank-name-dl">和鷹</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|80|521|<span class="rank-name-dl">はしを</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|81|520|<span class="rank-name-dl">たまご</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|82|510|<span class="rank-name-dl">akaaaaan.</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|83|506|<span class="rank-name-dl">rnanato_hz</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|83|506|<span class="rank-name-dl">ふかや</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|85|499|<span class="rank-name-dl">七美</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|86|498|<span class="rank-name-dl">オチャ</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|87|491|<span class="rank-name-dl">Haru</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|88|459|<span class="rank-name-dl">salvare</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|89|451|<span class="rank-name-dl">kinako</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|90|446|<span class="rank-name-dl">ａi</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|91|440|<span class="rank-name-dl">ria.</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|92|434|<span class="rank-name-dl">〝月光〟</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|93|432|<span class="rank-name-dl">茶太丸</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|94|431|<span class="rank-name-dl">myomyon</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|95|414|<span class="rank-name-dl">Zackey</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|96|387|<span class="rank-name-dl">ユカコン</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|97|385|<span class="rank-name-dl">Risa</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|98|354|<span class="rank-name-dl">電子レンジ</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|99|320|<span class="rank-name-dl">村田</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
+|100|316|<span class="rank-name-dl">chocolate</span>|<a href="https://search.dartslive.com/jp/shop/c78b55640899ce0fb21333aee1bd51e4">快活CLUB 那珂店</a>|<a href="/darts/rank/茨城県/那珂市">茨城県那珂市</a>|
 
 
 #### PHOENIXDARTS TOP 100

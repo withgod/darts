@@ -37,8 +37,10 @@ ___
 |12|522|<span class="rank-name-pd">chii</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
 |13|516|<span class="rank-name-pd">ケンちんゆー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
 |14|508|<span class="rank-name-pd">GREENHILL-WATARU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
-|15|475|<span class="rank-name-pd">SHINYAINOUE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
-|16|326|<span class="rank-name-pd">のぶ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
+|15|495|<span class="rank-name-pd">CAMEL</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95563?s_seq=95563">カラオケ つぼっち 名寄店</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
+|16|475|<span class="rank-name-pd">SHINYAINOUE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
+|17|421|<span class="rank-name-pd">Taeyang</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95563?s_seq=95563">カラオケ つぼっち 名寄店</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
+|17|421|<span class="rank-name-pd">のぶ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -72,8 +74,10 @@ ___
 |12|522|<span class="rank-name-pd">chii</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
 |13|516|<span class="rank-name-pd">ケンちんゆー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
 |14|508|<span class="rank-name-pd">GREENHILL-WATARU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
-|15|475|<span class="rank-name-pd">SHINYAINOUE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
-|16|326|<span class="rank-name-pd">のぶ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
+|15|495|<span class="rank-name-pd">CAMEL</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95563?s_seq=95563">カラオケ つぼっち 名寄店</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
+|16|475|<span class="rank-name-pd">SHINYAINOUE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
+|17|421|<span class="rank-name-pd">Taeyang</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95563?s_seq=95563">カラオケ つぼっち 名寄店</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
+|17|421|<span class="rank-name-pd">のぶ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_70230?s_seq=70230">Dining Bar R's</a>|<a href="/darts/rank/北海道/名寄市">北海道名寄市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

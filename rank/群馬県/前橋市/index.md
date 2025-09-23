@@ -31,98 +31,98 @@ ___
 |6|1125|<span class="rank-name-dl">ほりり</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
 |7|1113|<span class="rank-name-pd"><span class="pro-icon-pd"></span>布施 匠冴</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
 |8|1109|<span class="rank-name-dl">タコ橋</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|9|1087|<span class="rank-name-dl">SHINJIMΛN</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|10|1078|<span class="rank-name-dl">若山 真弥</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|11|1064|<span class="rank-name-pd">T17</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|12|1058|<span class="rank-name-dl">松村 哲也</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|13|1056|<span class="rank-name-dl">リュン</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|14|1055|<span class="rank-name-pd">うさぎ【full HOUSE】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_57538?s_seq=57538">full HOUSE</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|15|1054|<span class="rank-name-dl">♠ RUI ♠</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|16|1052|<span class="rank-name-pd">ゆきこ【fullHOUSE】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_57538?s_seq=57538">full HOUSE</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|17|1050|<span class="rank-name-dl">ほりり</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|18|1048|<span class="rank-name-pd">　ぱん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|19|1047|<span class="rank-name-dl">MAYA</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|20|1045|<span class="rank-name-dl">タナとし●</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|21|1043|<span class="rank-name-dl">りゅう</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|22|1041|<span class="rank-name-dl">金子 源一郎</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|23|1034|<span class="rank-name-pd"><span class="pro-icon-pd"></span>萩原 龍雲</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|24|1030|<span class="rank-name-dl">MIYABI</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|25|1027|<span class="rank-name-pd">福井大輝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|26|1024|<span class="rank-name-dl">野中　雅</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|27|1021|<span class="rank-name-dl">うっちーー@Snow</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|28|1017|<span class="rank-name-dl">ﾌｧｳﾙｸｽ ｴﾄﾞﾜｰﾄﾞ</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|29|1016|<span class="rank-name-dl">まひろん</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|30|1011|<span class="rank-name-dl">金子 源一郎</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|31|1010|<span class="rank-name-dl">♠るい♠</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|32|1009|<span class="rank-name-dl">＠かず</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|33|1006|<span class="rank-name-pd">ありえす.pdf</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|34|1005|<span class="rank-name-dl">MAYA</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|35|1004|<span class="rank-name-dl">rikuto（亡骸）</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|36|1001|<span class="rank-name-dl">K</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|36|1001|<span class="rank-name-dl">かみこん</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|38|1000|<span class="rank-name-dl">梅津 京太</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|39|999|<span class="rank-name-dl">28@SOL</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|40|998|<span class="rank-name-dl">7PAIRS@separate</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|41|993|<span class="rank-name-pd">♞ルイ♞</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|42|986|<span class="rank-name-dl">T.Matsumura</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|43|985|<span class="rank-name-pd"><span class="pro-icon-pd"></span>野中 雅</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|44|982|<span class="rank-name-dl">♠類♠</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|45|979|<span class="rank-name-dl">*くろ*</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|46|978|<span class="rank-name-dl">ぱん</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|47|977|<span class="rank-name-pd">さとぅー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|48|975|<span class="rank-name-pd">ごっつ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|48|975|<span class="rank-name-pd">山本 直樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_57538?s_seq=57538">full HOUSE</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|50|974|<span class="rank-name-pd"><span class="pro-icon-pd"></span>和南城 智洋</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_57538?s_seq=57538">full HOUSE</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|51|971|<span class="rank-name-dl">( ¯ᒡ̱¯ )ง</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|52|970|<span class="rank-name-dl">てょ。(さぶ)</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|52|970|<span class="rank-name-dl">骨格ストレート</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|54|969|<span class="rank-name-dl">てょ。</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|55|966|<span class="rank-name-dl">かずきkun</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|55|966|<span class="rank-name-dl">茂木 景子</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|57|965|<span class="rank-name-dl">くまーー</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|58|964|<span class="rank-name-dl">だいちゅき</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|59|963|<span class="rank-name-dl">伊勢崎　真央</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|60|960|<span class="rank-name-dl">かみこん</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|61|959|<span class="rank-name-pd">よこちん。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|62|958|<span class="rank-name-pd">　　　　　　　　　　　ﾖｺ。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_57538?s_seq=57538">full HOUSE</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|62|958|<span class="rank-name-pd">わいしー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|64|957|<span class="rank-name-dl">かいじんん@Snow</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|64|957|<span class="rank-name-dl">まひろん</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|66|956|<span class="rank-name-dl">まお</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|66|956|<span class="rank-name-dl">上段青テン</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|68|954|<span class="rank-name-dl">いち</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|68|954|<span class="rank-name-dl">かいじんん@Snow</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|68|954|<span class="rank-name-pd"><span class="pro-icon-pd"></span>萩原 龍雲</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94217?s_seq=94217">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|68|954|<span class="rank-name-dl">骨格ストレート</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|72|953|<span class="rank-name-pd">наяц</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|73|950|<span class="rank-name-dl">Ｋ</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|74|947|<span class="rank-name-pd"><span class="pro-icon-pd"></span>松村 哲也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|75|946|<span class="rank-name-dl">絶唱お菓子</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|76|945|<span class="rank-name-dl">ryu</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|77|941|<span class="rank-name-pd">♞ルイ♞</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94217?s_seq=94217">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|78|939|<span class="rank-name-pd">ぽんず</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|79|934|<span class="rank-name-pd">けんしろ😕？</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|80|931|<span class="rank-name-dl">HIROTOSHI</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|80|931|<span class="rank-name-dl">金子 颯太</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|82|929|<span class="rank-name-dl">ぱん</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|83|927|<span class="rank-name-dl">八代 スーザン 寛</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|83|927|<span class="rank-name-pd"><span class="pro-icon-pd"></span>和南城 智洋</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|85|926|<span class="rank-name-dl">Keita</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|86|925|<span class="rank-name-pd">Kickn</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|86|925|<span class="rank-name-dl">T.Matsumura</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|88|923|<span class="rank-name-pd">G</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|88|923|<span class="rank-name-dl">yanako_</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|88|923|<span class="rank-name-pd">てょ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|91|922|<span class="rank-name-dl">HYT@Snow</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|92|919|<span class="rank-name-dl">reo</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|93|918|<span class="rank-name-pd">ふくすけ0921</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|94|917|<span class="rank-name-dl">りな</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|95|914|<span class="rank-name-pd">nagagoisuuuuu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|96|913|<span class="rank-name-dl">りゅう</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|96|913|<span class="rank-name-pd">ジョウ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_57538?s_seq=57538">full HOUSE</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|98|912|<span class="rank-name-pd">オニャンコポン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|99|910|<span class="rank-name-pd">るい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|100|908|<span class="rank-name-dl">HIROTOSHI</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|9|1090|<span class="rank-name-dl">布施 匠冴</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店 快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|10|1087|<span class="rank-name-dl">SHINJIMΛN</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|11|1082|<span class="rank-name-pd">♞ルイ♞</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|12|1078|<span class="rank-name-dl">若山 真弥</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|13|1074|<span class="rank-name-pd">うさぎ@fullHOUSE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|14|1064|<span class="rank-name-pd">T17</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|14|1064|<span class="rank-name-dl">りゅうどんどん</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|16|1058|<span class="rank-name-dl">♠ RUI ♠</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店 快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|16|1058|<span class="rank-name-dl">松村 哲也</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|18|1056|<span class="rank-name-dl">リュン</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|19|1055|<span class="rank-name-pd">うさぎ【full HOUSE】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_57538?s_seq=57538">full HOUSE</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|20|1054|<span class="rank-name-dl">♠ RUI ♠</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|21|1053|<span class="rank-name-dl">にゃおりん</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店 快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|22|1052|<span class="rank-name-pd">ゆきこ【fullHOUSE】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_57538?s_seq=57538">full HOUSE</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|23|1050|<span class="rank-name-dl">ほりり</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|24|1049|<span class="rank-name-dl">ほしだ</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店 快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|25|1048|<span class="rank-name-pd">　ぱん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|26|1047|<span class="rank-name-dl">MAYA</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|27|1045|<span class="rank-name-dl">タナとし●</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|28|1043|<span class="rank-name-dl">りゅう</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|29|1042|<span class="rank-name-dl">♠類♠</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店 快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|30|1041|<span class="rank-name-dl">金子 源一郎</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|31|1036|<span class="rank-name-dl">布施 匠冴DYNASTY</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|32|1034|<span class="rank-name-pd"><span class="pro-icon-pd"></span>萩原 龍雲</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|33|1033|<span class="rank-name-pd">シバタリョウ@wan</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|34|1032|<span class="rank-name-pd"><span class="pro-icon-pd"></span>布施 匠冴</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94217?s_seq=94217">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|35|1030|<span class="rank-name-dl">MIYABI</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|36|1027|<span class="rank-name-pd">福井大輝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|36|1027|<span class="rank-name-dl">ｶﾈｺｿｳﾀ@Provision</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|38|1026|<span class="rank-name-pd">ぶぅ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94217?s_seq=94217">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|39|1024|<span class="rank-name-dl">野中　雅</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|40|1021|<span class="rank-name-dl">うっちーー@Snow</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|41|1017|<span class="rank-name-dl">ﾌｧｳﾙｸｽ ｴﾄﾞﾜｰﾄﾞ</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|42|1016|<span class="rank-name-dl">まひろん</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|43|1011|<span class="rank-name-dl">金子 源一郎</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|44|1010|<span class="rank-name-dl">♠るい♠</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|45|1009|<span class="rank-name-dl">＠かず</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|46|1008|<span class="rank-name-dl">かいじんん@Snow</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|47|1006|<span class="rank-name-pd">ありえす.pdf</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|48|1005|<span class="rank-name-dl">MAYA</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|49|1004|<span class="rank-name-dl">rikuto（亡骸）</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|50|1003|<span class="rank-name-dl">梅津 京太</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|51|1001|<span class="rank-name-dl">K</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|51|1001|<span class="rank-name-dl">かみこん</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|53|1000|<span class="rank-name-dl">うっちーー@Snow</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|53|1000|<span class="rank-name-dl">梅津 京太</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|55|999|<span class="rank-name-dl">28@SOL</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|56|998|<span class="rank-name-dl">7PAIRS@separate</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|57|992|<span class="rank-name-dl">ほりり</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店 ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|58|986|<span class="rank-name-dl">T.Matsumura</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|59|985|<span class="rank-name-pd"><span class="pro-icon-pd"></span>野中 雅</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|60|982|<span class="rank-name-dl">♠類♠</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|61|979|<span class="rank-name-dl">*くろ*</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|61|979|<span class="rank-name-dl">〜雛hina鶴duru〜</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店 快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|63|978|<span class="rank-name-dl">ぱん</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|64|977|<span class="rank-name-pd">さとぅー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|65|975|<span class="rank-name-pd">〜雛hina菊giku〜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|65|975|<span class="rank-name-pd">ごっつ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|65|975|<span class="rank-name-pd">山本 直樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_57538?s_seq=57538">full HOUSE</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|68|974|<span class="rank-name-pd"><span class="pro-icon-pd"></span>和南城 智洋</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_57538?s_seq=57538">full HOUSE</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|69|971|<span class="rank-name-dl">( ¯ᒡ̱¯ )ง</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|70|970|<span class="rank-name-dl">てょ。(さぶ)</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|70|970|<span class="rank-name-dl">骨格ストレート</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|72|969|<span class="rank-name-dl">てょ。</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|73|966|<span class="rank-name-dl">かずきkun</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|73|966|<span class="rank-name-dl">茂木 景子</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|75|965|<span class="rank-name-dl">くまーー</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|76|964|<span class="rank-name-pd">〜雛hina鶴duru〜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|76|964|<span class="rank-name-dl">だいちゅき</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|78|963|<span class="rank-name-dl">伊勢崎　真央</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|79|960|<span class="rank-name-dl">かみこん</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|79|960|<span class="rank-name-pd"><span class="pro-icon-pd"></span>和南城 智洋</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|81|959|<span class="rank-name-pd">よこちん。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|82|958|<span class="rank-name-pd">　　　　　　　　　　　ﾖｺ。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_57538?s_seq=57538">full HOUSE</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|82|958|<span class="rank-name-pd">わいしー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|84|957|<span class="rank-name-pd">наяц</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|84|957|<span class="rank-name-dl">かいじんん@Snow</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|84|957|<span class="rank-name-dl">まひろん</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|87|956|<span class="rank-name-dl">まお</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|87|956|<span class="rank-name-dl">上段青テン</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|89|954|<span class="rank-name-dl">いち</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|89|954|<span class="rank-name-dl">かいじんん@Snow</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|89|954|<span class="rank-name-pd"><span class="pro-icon-pd"></span>萩原 龍雲</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94217?s_seq=94217">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|89|954|<span class="rank-name-dl">骨格ストレート</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|93|951|<span class="rank-name-dl">ぱん</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|94|950|<span class="rank-name-dl">Ｋ</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|95|948|<span class="rank-name-pd">かいじん!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94217?s_seq=94217">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|96|947|<span class="rank-name-pd"><span class="pro-icon-pd"></span>松村 哲也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|97|946|<span class="rank-name-dl">絶唱お菓子</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|98|945|<span class="rank-name-dl">ryu</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|99|941|<span class="rank-name-pd">♞ルイ♞</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94217?s_seq=94217">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|100|939|<span class="rank-name-dl">Tetsu</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店 快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -139,99 +139,99 @@ ___
 |5|1127|<span class="rank-name-dl">布施 匠冴DYNASTY</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
 |6|1125|<span class="rank-name-dl">ほりり</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
 |7|1109|<span class="rank-name-dl">タコ橋</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|8|1087|<span class="rank-name-dl">SHINJIMΛN</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|9|1078|<span class="rank-name-dl">若山 真弥</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|10|1058|<span class="rank-name-dl">松村 哲也</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|11|1056|<span class="rank-name-dl">リュン</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|12|1054|<span class="rank-name-dl">♠ RUI ♠</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|13|1050|<span class="rank-name-dl">ほりり</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|14|1047|<span class="rank-name-dl">MAYA</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|15|1045|<span class="rank-name-dl">タナとし●</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|16|1043|<span class="rank-name-dl">りゅう</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|17|1041|<span class="rank-name-dl">金子 源一郎</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|18|1030|<span class="rank-name-dl">MIYABI</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|19|1024|<span class="rank-name-dl">野中　雅</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|20|1021|<span class="rank-name-dl">うっちーー@Snow</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|21|1017|<span class="rank-name-dl">ﾌｧｳﾙｸｽ ｴﾄﾞﾜｰﾄﾞ</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|22|1016|<span class="rank-name-dl">まひろん</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|23|1011|<span class="rank-name-dl">金子 源一郎</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|24|1010|<span class="rank-name-dl">♠るい♠</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|25|1009|<span class="rank-name-dl">＠かず</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|26|1005|<span class="rank-name-dl">MAYA</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|27|1004|<span class="rank-name-dl">rikuto（亡骸）</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|28|1001|<span class="rank-name-dl">K</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|28|1001|<span class="rank-name-dl">かみこん</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|30|1000|<span class="rank-name-dl">梅津 京太</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|31|999|<span class="rank-name-dl">28@SOL</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|32|998|<span class="rank-name-dl">7PAIRS@separate</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|33|986|<span class="rank-name-dl">T.Matsumura</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|34|982|<span class="rank-name-dl">♠類♠</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|35|979|<span class="rank-name-dl">*くろ*</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|36|978|<span class="rank-name-dl">ぱん</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|37|971|<span class="rank-name-dl">( ¯ᒡ̱¯ )ง</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|38|970|<span class="rank-name-dl">てょ。(さぶ)</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|38|970|<span class="rank-name-dl">骨格ストレート</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|40|969|<span class="rank-name-dl">てょ。</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|41|966|<span class="rank-name-dl">かずきkun</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|41|966|<span class="rank-name-dl">茂木 景子</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|43|965|<span class="rank-name-dl">くまーー</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|44|964|<span class="rank-name-dl">だいちゅき</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|45|963|<span class="rank-name-dl">伊勢崎　真央</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|46|960|<span class="rank-name-dl">かみこん</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|47|957|<span class="rank-name-dl">かいじんん@Snow</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|47|957|<span class="rank-name-dl">まひろん</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|49|956|<span class="rank-name-dl">まお</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|49|956|<span class="rank-name-dl">わいしー</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|49|956|<span class="rank-name-dl">上段青テン</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|52|954|<span class="rank-name-dl">いち</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|52|954|<span class="rank-name-dl">かいじんん@Snow</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|52|954|<span class="rank-name-dl">骨格ストレート</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|55|950|<span class="rank-name-dl">Ｋ</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|56|946|<span class="rank-name-dl">絶唱お菓子</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|57|945|<span class="rank-name-dl">ryu</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|58|931|<span class="rank-name-dl">HIROTOSHI</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|58|931|<span class="rank-name-dl">金子 颯太</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|60|929|<span class="rank-name-dl">ぱん</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|61|927|<span class="rank-name-dl">八代 スーザン 寛</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|62|926|<span class="rank-name-dl">Keita</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|63|925|<span class="rank-name-dl">T.Matsumura</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|64|923|<span class="rank-name-dl">yanako_</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|65|922|<span class="rank-name-dl">HYT@Snow</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|66|919|<span class="rank-name-dl">reo</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|67|917|<span class="rank-name-dl">りな</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|68|913|<span class="rank-name-dl">りゅう</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|69|908|<span class="rank-name-dl">HIROTOSHI</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|69|908|<span class="rank-name-dl">ぐっち</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|71|907|<span class="rank-name-dl">山岡家南2条店</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|72|905|<span class="rank-name-dl">( ¯ᒡ̱¯ )ง</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|73|904|<span class="rank-name-dl">HYT</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|73|904|<span class="rank-name-dl">ice blast</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|75|900|<span class="rank-name-dl">タケver1</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|76|892|<span class="rank-name-dl">りょーた</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|77|889|<span class="rank-name-dl">ﾊﾝﾊﾟﾃｨｰ・変ﾅﾄﾏﾄ</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|78|888|<span class="rank-name-dl">わなじょー</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|79|884|<span class="rank-name-dl">24骨格ストレート</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|80|880|<span class="rank-name-dl">☆Snow営業中☆</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|81|879|<span class="rank-name-dl">22骨格ストレート</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|82|877|<span class="rank-name-dl">さとぅー</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|82|877|<span class="rank-name-dl">松本 晃典</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|84|874|<span class="rank-name-dl">Masaki Shimokawa</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|85|872|<span class="rank-name-dl">らっぱリハビリ中</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|86|869|<span class="rank-name-dl">☆あっきー☆</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|87|868|<span class="rank-name-dl">rikuto（撃沈）</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|88|864|<span class="rank-name-dl">かねこそうた</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|89|863|<span class="rank-name-dl">23骨格ストレート</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|90|853|<span class="rank-name-dl">じお</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|91|852|<span class="rank-name-dl">ちびたま</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|92|841|<span class="rank-name-dl">けん</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|92|841|<span class="rank-name-dl">らっぱ#獄特待生</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|94|838|<span class="rank-name-dl">Tetsu</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|94|838|<span class="rank-name-dl">∮kuro∮</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|96|834|<span class="rank-name-dl">犬白ー</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|97|832|<span class="rank-name-dl">ハタ</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|98|826|<span class="rank-name-dl">ぱんちょ</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|99|823|<span class="rank-name-dl">Maru</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|100|819|<span class="rank-name-dl">Lily</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|8|1090|<span class="rank-name-dl">布施 匠冴</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店 快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|9|1087|<span class="rank-name-dl">SHINJIMΛN</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|10|1078|<span class="rank-name-dl">若山 真弥</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|11|1064|<span class="rank-name-dl">りゅうどんどん</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|12|1058|<span class="rank-name-dl">♠ RUI ♠</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店 快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|12|1058|<span class="rank-name-dl">松村 哲也</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|14|1056|<span class="rank-name-dl">リュン</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|15|1054|<span class="rank-name-dl">♠ RUI ♠</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|16|1053|<span class="rank-name-dl">にゃおりん</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店 快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|17|1050|<span class="rank-name-dl">ほりり</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|18|1049|<span class="rank-name-dl">ほしだ</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店 快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|19|1047|<span class="rank-name-dl">MAYA</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|20|1045|<span class="rank-name-dl">タナとし●</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|21|1043|<span class="rank-name-dl">りゅう</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|22|1042|<span class="rank-name-dl">♠類♠</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店 快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|23|1041|<span class="rank-name-dl">金子 源一郎</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|24|1036|<span class="rank-name-dl">布施 匠冴DYNASTY</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|25|1030|<span class="rank-name-dl">MIYABI</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|26|1027|<span class="rank-name-dl">ｶﾈｺｿｳﾀ@Provision</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|27|1024|<span class="rank-name-dl">野中　雅</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|28|1021|<span class="rank-name-dl">うっちーー@Snow</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|29|1017|<span class="rank-name-dl">ﾌｧｳﾙｸｽ ｴﾄﾞﾜｰﾄﾞ</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|30|1016|<span class="rank-name-dl">まひろん</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|31|1011|<span class="rank-name-dl">金子 源一郎</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|32|1010|<span class="rank-name-dl">♠るい♠</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|33|1009|<span class="rank-name-dl">＠かず</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|34|1008|<span class="rank-name-dl">かいじんん@Snow</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|35|1005|<span class="rank-name-dl">MAYA</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|36|1004|<span class="rank-name-dl">rikuto（亡骸）</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|37|1003|<span class="rank-name-dl">梅津 京太</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|38|1001|<span class="rank-name-dl">K</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|38|1001|<span class="rank-name-dl">かみこん</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|40|1000|<span class="rank-name-dl">うっちーー@Snow</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|40|1000|<span class="rank-name-dl">梅津 京太</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|42|999|<span class="rank-name-dl">28@SOL</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|43|998|<span class="rank-name-dl">7PAIRS@separate</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|44|992|<span class="rank-name-dl">ほりり</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店 ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|45|986|<span class="rank-name-dl">T.Matsumura</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|46|982|<span class="rank-name-dl">♠類♠</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|47|979|<span class="rank-name-dl">*くろ*</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|47|979|<span class="rank-name-dl">〜雛hina鶴duru〜</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店 快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|49|978|<span class="rank-name-dl">ぱん</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|50|971|<span class="rank-name-dl">( ¯ᒡ̱¯ )ง</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|51|970|<span class="rank-name-dl">てょ。(さぶ)</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|51|970|<span class="rank-name-dl">骨格ストレート</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|53|969|<span class="rank-name-dl">てょ。</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|54|966|<span class="rank-name-dl">かずきkun</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|54|966|<span class="rank-name-dl">茂木 景子</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|56|965|<span class="rank-name-dl">くまーー</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|57|964|<span class="rank-name-dl">だいちゅき</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|58|963|<span class="rank-name-dl">伊勢崎　真央</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|59|960|<span class="rank-name-dl">かみこん</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|60|957|<span class="rank-name-dl">かいじんん@Snow</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|60|957|<span class="rank-name-dl">まひろん</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|62|956|<span class="rank-name-dl">まお</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|62|956|<span class="rank-name-dl">わいしー</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|62|956|<span class="rank-name-dl">上段青テン</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|65|954|<span class="rank-name-dl">いち</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|65|954|<span class="rank-name-dl">かいじんん@Snow</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|65|954|<span class="rank-name-dl">骨格ストレート</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|68|951|<span class="rank-name-dl">ぱん</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|69|950|<span class="rank-name-dl">Ｋ</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|70|946|<span class="rank-name-dl">絶唱お菓子</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|71|945|<span class="rank-name-dl">ryu</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|72|939|<span class="rank-name-dl">Tetsu</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店 快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|73|936|<span class="rank-name-dl">yanako_</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店 快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|74|932|<span class="rank-name-dl">わなじょー</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店 快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|75|931|<span class="rank-name-dl">HIROTOSHI</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|75|931|<span class="rank-name-dl">金子 颯太</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|77|929|<span class="rank-name-dl">ぱん</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|78|927|<span class="rank-name-dl">かいじんん@Snow</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店 快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|78|927|<span class="rank-name-dl">八代 スーザン 寛</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|80|926|<span class="rank-name-dl">Keita</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|81|925|<span class="rank-name-dl">T.Matsumura</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|82|923|<span class="rank-name-dl">yanako_</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|83|922|<span class="rank-name-dl">HYT@Snow</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|84|919|<span class="rank-name-dl">reo</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|84|919|<span class="rank-name-dl">にゃおりん</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|86|917|<span class="rank-name-dl">りな</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|87|913|<span class="rank-name-dl">りゅう</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|88|909|<span class="rank-name-dl">松村 哲也</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店 ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|89|908|<span class="rank-name-dl">HIROTOSHI</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|89|908|<span class="rank-name-dl">ぐっち</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|91|907|<span class="rank-name-dl">山岡家南2条店</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|92|905|<span class="rank-name-dl">( ¯ᒡ̱¯ )ง</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|93|904|<span class="rank-name-dl">HYT</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|93|904|<span class="rank-name-dl">ice blast</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|95|900|<span class="rank-name-dl">*くろ*</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|95|900|<span class="rank-name-dl">タケver1</span>|<a href="https://search.dartslive.com/jp/shop/bdf93e7c6c6eebf725d56fb0e5c39bac">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|97|896|<span class="rank-name-dl">HYT@Snow</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|98|892|<span class="rank-name-dl">りょーた</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|99|889|<span class="rank-name-dl">じお</span>|<a href="https://search.dartslive.com/jp/shop/2ab6f74bd4f4f08c0d9b047a20a7ba1e">ラウンドワン前橋店 ラウンドワン前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|99|889|<span class="rank-name-dl">ﾊﾝﾊﾟﾃｨｰ・変ﾅﾄﾏﾄ</span>|<a href="https://search.dartslive.com/jp/shop/f4de85827fa0b46b774c926eb736cb5a">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
 
 
 #### PHOENIXDARTS TOP 100
@@ -242,105 +242,105 @@ ___
 |#|スコア|名前|店名|所在地|
 |---|---|---|---|---|
 |1|1113|<span class="rank-name-pd"><span class="pro-icon-pd"></span>布施 匠冴</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|2|1064|<span class="rank-name-pd">T17</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|3|1055|<span class="rank-name-pd">うさぎ【full HOUSE】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_57538?s_seq=57538">full HOUSE</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|4|1052|<span class="rank-name-pd">ゆきこ【fullHOUSE】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_57538?s_seq=57538">full HOUSE</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|5|1048|<span class="rank-name-pd">　ぱん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|6|1034|<span class="rank-name-pd"><span class="pro-icon-pd"></span>萩原 龍雲</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|7|1027|<span class="rank-name-pd">福井大輝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|8|1006|<span class="rank-name-pd">ありえす.pdf</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|9|993|<span class="rank-name-pd">♞ルイ♞</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|10|985|<span class="rank-name-pd"><span class="pro-icon-pd"></span>野中 雅</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|11|977|<span class="rank-name-pd">さとぅー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|12|975|<span class="rank-name-pd">ごっつ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|12|975|<span class="rank-name-pd">山本 直樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_57538?s_seq=57538">full HOUSE</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|14|974|<span class="rank-name-pd"><span class="pro-icon-pd"></span>和南城 智洋</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_57538?s_seq=57538">full HOUSE</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|15|963|<span class="rank-name-pd">若山 真弥</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|16|959|<span class="rank-name-pd">よこちん。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|17|958|<span class="rank-name-pd">　　　　　　　　　　　ﾖｺ。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_57538?s_seq=57538">full HOUSE</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|17|958|<span class="rank-name-pd">わいしー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|19|954|<span class="rank-name-pd"><span class="pro-icon-pd"></span>萩原 龍雲</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94217?s_seq=94217">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|20|953|<span class="rank-name-pd">наяц</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|21|947|<span class="rank-name-pd"><span class="pro-icon-pd"></span>松村 哲也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|22|941|<span class="rank-name-pd">♞ルイ♞</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94217?s_seq=94217">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|23|939|<span class="rank-name-pd">ぽんず</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|24|934|<span class="rank-name-pd">けんしろ😕？</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|25|927|<span class="rank-name-pd"><span class="pro-icon-pd"></span>和南城 智洋</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|26|925|<span class="rank-name-pd">Kickn</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|27|923|<span class="rank-name-pd">G</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|27|923|<span class="rank-name-pd">てょ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|29|918|<span class="rank-name-pd">ふくすけ0921</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|30|914|<span class="rank-name-pd">nagagoisuuuuu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|31|913|<span class="rank-name-pd">ジョウ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_57538?s_seq=57538">full HOUSE</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|32|912|<span class="rank-name-pd">オニャンコポン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|33|910|<span class="rank-name-pd">るい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|34|908|<span class="rank-name-pd">らっぱ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|35|906|<span class="rank-name-pd">ありえす.pdf</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94217?s_seq=94217">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|35|906|<span class="rank-name-pd">うーろんちゃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|35|906|<span class="rank-name-pd">わなじょー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_57538?s_seq=57538">full HOUSE</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|35|906|<span class="rank-name-pd"><span class="pro-icon-pd"></span>中澤 聖佳</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|39|894|<span class="rank-name-pd">たくchan</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|40|890|<span class="rank-name-pd">だいち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|41|888|<span class="rank-name-pd">えのき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|42|885|<span class="rank-name-pd">ZE☆MI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|43|878|<span class="rank-name-pd">SACHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|44|876|<span class="rank-name-pd">かずきkun</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|45|875|<span class="rank-name-pd">K</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|46|873|<span class="rank-name-pd">Worange</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|46|873|<span class="rank-name-pd">　ぱん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94217?s_seq=94217">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|48|871|<span class="rank-name-pd">@夢限</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|49|870|<span class="rank-name-pd">　　*くろ*　　　</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|50|869|<span class="rank-name-pd">Aki【JOKER DRIVER】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|51|866|<span class="rank-name-pd">よこちん。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_57538?s_seq=57538">full HOUSE</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|52|861|<span class="rank-name-pd">かみこん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|52|861|<span class="rank-name-pd">アメンジャー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|54|859|<span class="rank-name-pd">八代　スーザン　寛</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|55|856|<span class="rank-name-pd">GGG</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94217?s_seq=94217">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|56|853|<span class="rank-name-pd">ありえす.pdf</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_57538?s_seq=57538">full HOUSE</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|56|853|<span class="rank-name-pd">うっちーー◎Snow</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|58|851|<span class="rank-name-pd">【JAM】たくchan</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|59|849|<span class="rank-name-pd">さ。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_57538?s_seq=57538">full HOUSE</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|60|847|<span class="rank-name-pd">ガチ狐</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|61|846|<span class="rank-name-pd">ぴの</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|62|844|<span class="rank-name-pd">じんくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|62|844|<span class="rank-name-pd">にゃおりん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_57538?s_seq=57538">full HOUSE</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|64|842|<span class="rank-name-pd">Toto Kogara</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|65|841|<span class="rank-name-pd">うっちーー◎Snow</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94217?s_seq=94217">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|66|837|<span class="rank-name-pd">Keita</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|67|834|<span class="rank-name-pd">Lintailang</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|68|831|<span class="rank-name-pd">がっちゃん。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|69|827|<span class="rank-name-pd">RYU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|69|827|<span class="rank-name-pd">Tetsu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|69|827|<span class="rank-name-pd">riri</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|69|827|<span class="rank-name-pd">鬼ぃ～</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94217?s_seq=94217">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|73|826|<span class="rank-name-pd">PINO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|74|818|<span class="rank-name-pd">すみれ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94217?s_seq=94217">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|75|815|<span class="rank-name-pd">【JAM】たくchan</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_57538?s_seq=57538">full HOUSE</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|76|808|<span class="rank-name-pd">Sayo</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|77|803|<span class="rank-name-pd">ブルドーザーのり子</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94217?s_seq=94217">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|77|803|<span class="rank-name-pd">岩﨑 晴樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|79|802|<span class="rank-name-pd">みーの</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_57538?s_seq=57538">full HOUSE</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|80|799|<span class="rank-name-pd">不知火★Ash★</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|81|794|<span class="rank-name-pd">Mao【full HOUSE】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_57538?s_seq=57538">full HOUSE</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|82|793|<span class="rank-name-pd">だいち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_57538?s_seq=57538">full HOUSE</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|83|790|<span class="rank-name-pd">あ、久しぶり✋</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|83|790|<span class="rank-name-pd">ジョウ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|85|789|<span class="rank-name-pd">LUBI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|86|779|<span class="rank-name-pd">katchin’</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_57538?s_seq=57538">full HOUSE</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|87|778|<span class="rank-name-pd">Yū</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|88|777|<span class="rank-name-pd">Taka</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|88|777|<span class="rank-name-pd">ともちん♪</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|90|776|<span class="rank-name-pd">かいじん!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94217?s_seq=94217">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|90|776|<span class="rank-name-pd">ファルコ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|92|775|<span class="rank-name-pd">チョビｯ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|93|772|<span class="rank-name-pd">ROINYAN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|94|769|<span class="rank-name-pd">ヅメっち＠縁</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_57538?s_seq=57538">full HOUSE</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|95|768|<span class="rank-name-pd">Miiiich</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|96|767|<span class="rank-name-pd">Worange</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_83207?s_seq=83207">Neo Met's 前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|97|766|<span class="rank-name-pd">◎Nanasi◎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|98|761|<span class="rank-name-pd">シュン１</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|99|756|<span class="rank-name-pd">nissy24</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
-|100|755|<span class="rank-name-pd">S</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|2|1082|<span class="rank-name-pd">♞ルイ♞</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|3|1074|<span class="rank-name-pd">うさぎ@fullHOUSE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|4|1064|<span class="rank-name-pd">T17</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|5|1055|<span class="rank-name-pd">うさぎ【full HOUSE】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_57538?s_seq=57538">full HOUSE</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|6|1052|<span class="rank-name-pd">ゆきこ【fullHOUSE】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_57538?s_seq=57538">full HOUSE</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|7|1048|<span class="rank-name-pd">　ぱん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|8|1034|<span class="rank-name-pd"><span class="pro-icon-pd"></span>萩原 龍雲</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|9|1033|<span class="rank-name-pd">シバタリョウ@wan</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|10|1032|<span class="rank-name-pd"><span class="pro-icon-pd"></span>布施 匠冴</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94217?s_seq=94217">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|11|1027|<span class="rank-name-pd">福井大輝</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|12|1026|<span class="rank-name-pd">ぶぅ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94217?s_seq=94217">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|13|1006|<span class="rank-name-pd">ありえす.pdf</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|14|985|<span class="rank-name-pd"><span class="pro-icon-pd"></span>野中 雅</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|15|977|<span class="rank-name-pd">さとぅー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|16|975|<span class="rank-name-pd">〜雛hina菊giku〜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|16|975|<span class="rank-name-pd">ごっつ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|16|975|<span class="rank-name-pd">山本 直樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_57538?s_seq=57538">full HOUSE</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|19|974|<span class="rank-name-pd"><span class="pro-icon-pd"></span>和南城 智洋</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_57538?s_seq=57538">full HOUSE</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|20|964|<span class="rank-name-pd">〜雛hina鶴duru〜</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|21|963|<span class="rank-name-pd">若山 真弥</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|22|960|<span class="rank-name-pd"><span class="pro-icon-pd"></span>和南城 智洋</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|23|959|<span class="rank-name-pd">よこちん。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|24|958|<span class="rank-name-pd">　　　　　　　　　　　ﾖｺ。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_57538?s_seq=57538">full HOUSE</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|24|958|<span class="rank-name-pd">わいしー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|26|957|<span class="rank-name-pd">наяц</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|27|954|<span class="rank-name-pd"><span class="pro-icon-pd"></span>萩原 龍雲</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94217?s_seq=94217">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|28|948|<span class="rank-name-pd">かいじん!</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94217?s_seq=94217">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|29|947|<span class="rank-name-pd"><span class="pro-icon-pd"></span>松村 哲也</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|30|941|<span class="rank-name-pd">♞ルイ♞</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94217?s_seq=94217">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|31|939|<span class="rank-name-pd">ぽんず</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|32|937|<span class="rank-name-pd">きょー@Canary</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94217?s_seq=94217">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|33|934|<span class="rank-name-pd">けんしろ😕？</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|34|925|<span class="rank-name-pd">Kickn</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|35|923|<span class="rank-name-pd">G</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|35|923|<span class="rank-name-pd">てょ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|37|918|<span class="rank-name-pd">ふくすけ0921</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|38|914|<span class="rank-name-pd">Mittu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|38|914|<span class="rank-name-pd">nagagoisuuuuu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|40|913|<span class="rank-name-pd">ジョウ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_57538?s_seq=57538">full HOUSE</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|41|912|<span class="rank-name-pd">オニャンコポン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|42|910|<span class="rank-name-pd">るい</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|43|908|<span class="rank-name-pd">かみこん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94217?s_seq=94217">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|43|908|<span class="rank-name-pd">らっぱ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|45|906|<span class="rank-name-pd">ありえす.pdf</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94217?s_seq=94217">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|45|906|<span class="rank-name-pd">うーろんちゃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|45|906|<span class="rank-name-pd">わなじょー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_57538?s_seq=57538">full HOUSE</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|45|906|<span class="rank-name-pd"><span class="pro-icon-pd"></span>中澤 聖佳</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|49|901|<span class="rank-name-pd">yanako_</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94217?s_seq=94217">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|50|894|<span class="rank-name-pd">たくchan</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|51|890|<span class="rank-name-pd">だいち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|52|888|<span class="rank-name-pd">えのき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|53|885|<span class="rank-name-pd">ZE☆MI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|54|880|<span class="rank-name-pd">NATSU-☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|55|878|<span class="rank-name-pd">SACHI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|56|876|<span class="rank-name-pd">かずきkun</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|57|875|<span class="rank-name-pd">K</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|58|873|<span class="rank-name-pd">Worange</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|58|873|<span class="rank-name-pd">　ぱん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94217?s_seq=94217">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|60|872|<span class="rank-name-pd">タケ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|61|871|<span class="rank-name-pd">@夢限</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|62|870|<span class="rank-name-pd">　　*くろ*　　　</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|63|869|<span class="rank-name-pd">Aki【JOKER DRIVER】</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|64|866|<span class="rank-name-pd">よこちん。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_57538?s_seq=57538">full HOUSE</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|65|861|<span class="rank-name-pd">【JAM】にぃyan</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94217?s_seq=94217">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|65|861|<span class="rank-name-pd">かみこん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|65|861|<span class="rank-name-pd">アメンジャー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|68|859|<span class="rank-name-pd">八代　スーザン　寛</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|69|857|<span class="rank-name-pd">河童</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|70|856|<span class="rank-name-pd">GGG</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94217?s_seq=94217">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|71|853|<span class="rank-name-pd">ありえす.pdf</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_57538?s_seq=57538">full HOUSE</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|71|853|<span class="rank-name-pd">うっちーー◎Snow</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|73|851|<span class="rank-name-pd">【JAM】たくchan</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|74|849|<span class="rank-name-pd">おちび</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|74|849|<span class="rank-name-pd">さ。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_57538?s_seq=57538">full HOUSE</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|76|847|<span class="rank-name-pd">ガチ狐</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|77|846|<span class="rank-name-pd">ぴの</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|78|844|<span class="rank-name-pd">じんくん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|78|844|<span class="rank-name-pd">にゃおりん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_57538?s_seq=57538">full HOUSE</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|80|842|<span class="rank-name-pd">Toto Kogara</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|81|841|<span class="rank-name-pd">うっちーー◎Snow</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94217?s_seq=94217">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|82|837|<span class="rank-name-pd">Keita</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|83|834|<span class="rank-name-pd">Lintailang</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|84|831|<span class="rank-name-pd">がっちゃん。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|85|829|<span class="rank-name-pd">M.T</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|86|827|<span class="rank-name-pd">RYU</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|86|827|<span class="rank-name-pd">Tetsu</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|86|827|<span class="rank-name-pd">riri</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|86|827|<span class="rank-name-pd">鬼ぃ～</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94217?s_seq=94217">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|90|826|<span class="rank-name-pd">PINO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|90|826|<span class="rank-name-pd">カーズ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|92|819|<span class="rank-name-pd">ねこじゃらし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|93|818|<span class="rank-name-pd">すみれ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94217?s_seq=94217">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|94|815|<span class="rank-name-pd">【JAM】たくchan</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_57538?s_seq=57538">full HOUSE</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|95|813|<span class="rank-name-pd">LUBI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|96|812|<span class="rank-name-pd">ばん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|97|808|<span class="rank-name-pd">Sayo</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|97|808|<span class="rank-name-pd">うっちーー◎Snow</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_95751?s_seq=95751">girls bar barbie</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|99|803|<span class="rank-name-pd">ブルドーザーのり子</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_94217?s_seq=94217">Asobi Bar Snow</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
+|99|803|<span class="rank-name-pd">岩﨑 晴樹</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_44629?s_seq=44629">快活CLUB 新前橋店</a>|<a href="/darts/rank/群馬県/前橋市">群馬県前橋市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

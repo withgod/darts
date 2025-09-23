@@ -27,15 +27,16 @@ ___
 |2|887|<span class="rank-name-dl">⇋OMA⇌</span>|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
 |3|794|<span class="rank-name-dl">新　サイダー</span>|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
 |4|791|<span class="rank-name-dl">H.NOUCHI＠TBS</span>|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
-|5|707|<span class="rank-name-dl">かんすけ</span>|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
-|6|621|<span class="rank-name-dl">モトバルのヌシ</span>|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
-|7|550|<span class="rank-name-dl">NO NAME 7312</span>|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
-|8|545|<span class="rank-name-dl">カピバラ~再来~</span>|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
-|9|538|<span class="rank-name-dl">レオ</span>|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
-|10|423|<span class="rank-name-dl">NO NAME 8208</span>|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
-|11|411|<span class="rank-name-dl">NO NAME 6624</span>|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
-|12|392|<span class="rank-name-dl">yuta</span>|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
-|13|368|<span class="rank-name-dl">コカコーラ</span>|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
+|5|790|<span class="rank-name-dl">H.NOUCHI＠TBS</span>|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
+|6|707|<span class="rank-name-dl">かんすけ</span>|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
+|7|621|<span class="rank-name-dl">モトバルのヌシ</span>|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
+|8|550|<span class="rank-name-dl">NO NAME 7312</span>|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
+|9|545|<span class="rank-name-dl">カピバラ~再来~</span>|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
+|10|538|<span class="rank-name-dl">レオ</span>|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
+|11|423|<span class="rank-name-dl">NO NAME 8208</span>|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
+|12|411|<span class="rank-name-dl">NO NAME 6624</span>|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
+|13|392|<span class="rank-name-dl">yuta</span>|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
+|14|368|<span class="rank-name-dl">コカコーラ</span>|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -49,15 +50,16 @@ ___
 |2|887|<span class="rank-name-dl">⇋OMA⇌</span>|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
 |3|794|<span class="rank-name-dl">新　サイダー</span>|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
 |4|791|<span class="rank-name-dl">H.NOUCHI＠TBS</span>|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
-|5|707|<span class="rank-name-dl">かんすけ</span>|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
-|6|621|<span class="rank-name-dl">モトバルのヌシ</span>|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
-|7|550|<span class="rank-name-dl">NO NAME 7312</span>|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
-|8|545|<span class="rank-name-dl">カピバラ~再来~</span>|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
-|9|538|<span class="rank-name-dl">レオ</span>|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
-|10|423|<span class="rank-name-dl">NO NAME 8208</span>|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
-|11|411|<span class="rank-name-dl">NO NAME 6624</span>|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
-|12|392|<span class="rank-name-dl">yuta</span>|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
-|13|368|<span class="rank-name-dl">コカコーラ</span>|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
+|5|790|<span class="rank-name-dl">H.NOUCHI＠TBS</span>|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
+|6|707|<span class="rank-name-dl">かんすけ</span>|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
+|7|621|<span class="rank-name-dl">モトバルのヌシ</span>|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
+|8|550|<span class="rank-name-dl">NO NAME 7312</span>|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
+|9|545|<span class="rank-name-dl">カピバラ~再来~</span>|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
+|10|538|<span class="rank-name-dl">レオ</span>|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
+|11|423|<span class="rank-name-dl">NO NAME 8208</span>|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
+|12|411|<span class="rank-name-dl">NO NAME 6624</span>|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
+|13|392|<span class="rank-name-dl">yuta</span>|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
+|14|368|<span class="rank-name-dl">コカコーラ</span>|<a href="https://search.dartslive.com/jp/shop/f58bf286518e3dbe0d9b047a20a7ba1e">モトバル</a>|<a href="/darts/rank/福島県/本宮市">福島県本宮市</a>|
 
 
 #### PHOENIXDARTS TOP 100

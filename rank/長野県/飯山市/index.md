@@ -32,78 +32,88 @@ ___
 |7|934|<span class="rank-name-pd">八代　スーザン　寛</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
 |8|929|<span class="rank-name-pd">えんがわ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
 |9|927|<span class="rank-name-pd">田舎のバッジョ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|10|922|<span class="rank-name-pd">SHIGE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|11|914|<span class="rank-name-pd">おきたし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|12|900|<span class="rank-name-pd"><span class="pro-icon-pd"></span>山口 博生</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|13|861|<span class="rank-name-pd">小坂 拓也@THe END用</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|14|852|<span class="rank-name-pd"><span class="pro-icon-pd"></span>渡辺 靖崇</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|15|841|<span class="rank-name-pd">FIO ONLINE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|16|840|<span class="rank-name-pd">MIYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|17|835|<span class="rank-name-pd">IMAO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|18|828|<span class="rank-name-pd">ざぁしん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|19|827|<span class="rank-name-pd">ジョンコナー☆fio</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|20|808|<span class="rank-name-pd">ゆたし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|21|807|<span class="rank-name-pd">特殊零部隊☆零八</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|22|806|<span class="rank-name-pd">つある。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|23|800|<span class="rank-name-pd">くっすぃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|24|795|<span class="rank-name-pd">East</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|25|785|<span class="rank-name-pd">#ya$uu# No.８</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|26|782|<span class="rank-name-pd">さほちん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|27|781|<span class="rank-name-pd">S</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|28|770|<span class="rank-name-pd">ぎんぎんまる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|29|769|<span class="rank-name-pd">まいまい☺︎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|30|761|<span class="rank-name-pd">mooTaka -Anpiece-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|31|754|<span class="rank-name-pd">ゆう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|32|752|<span class="rank-name-pd">ぽっきー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|33|744|<span class="rank-name-pd">mooTaka -Anpiece-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|34|738|<span class="rank-name-pd">REINA^^</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|35|733|<span class="rank-name-pd">ごーき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|36|732|<span class="rank-name-pd">saho</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|37|729|<span class="rank-name-pd">かね</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|38|728|<span class="rank-name-pd">入江健太のお干んぽ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|39|721|<span class="rank-name-pd">RYO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|40|712|<span class="rank-name-pd">あさだ氏@ AST</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|41|710|<span class="rank-name-pd">SIN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|42|707|<span class="rank-name-pd">Kei. 1209</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|42|707|<span class="rank-name-pd">Roiasha</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|42|707|<span class="rank-name-pd">ホリエモン❤︎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|45|700|<span class="rank-name-pd">しゅん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|46|687|<span class="rank-name-pd">いまさらジロー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|47|685|<span class="rank-name-pd">tatsubon</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|48|677|<span class="rank-name-pd">DADA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|49|662|<span class="rank-name-pd">SHIN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|50|639|<span class="rank-name-pd">KIKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|51|631|<span class="rank-name-pd">かんち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|52|630|<span class="rank-name-pd">特殊零部隊☆零八</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|53|624|<span class="rank-name-pd">なか</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|53|624|<span class="rank-name-pd">ナベカズ鬼の如し</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|55|623|<span class="rank-name-pd">FUMIYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|56|622|<span class="rank-name-pd">yaSuu SC</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|57|616|<span class="rank-name-pd">take-48</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|58|600|<span class="rank-name-pd">KEITH</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|59|586|<span class="rank-name-pd">卍Ko-ki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|60|584|<span class="rank-name-pd">MT9303</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|61|583|<span class="rank-name-pd">☆michi☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|62|579|<span class="rank-name-pd">Adounasha</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|63|564|<span class="rank-name-pd">hori＊Junky&#x27;s＊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|64|544|<span class="rank-name-pd">RYOGA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|65|541|<span class="rank-name-pd">MI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|66|540|<span class="rank-name-pd">SIN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|67|529|<span class="rank-name-pd">pele pele</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|68|526|<span class="rank-name-pd">まかろん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88035?s_seq=88035">BAR ROUND</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|69|517|<span class="rank-name-pd">TAKE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|70|503|<span class="rank-name-pd">hana</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|71|495|<span class="rank-name-pd">___nh86</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|72|490|<span class="rank-name-pd">宮</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|73|467|<span class="rank-name-pd">おーいお茶2nd</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|74|456|<span class="rank-name-pd">すすす</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|75|427|<span class="rank-name-pd">ぽち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|76|400|<span class="rank-name-pd">みさ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|77|395|<span class="rank-name-pd">haru</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|78|385|<span class="rank-name-pd">やま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|79|353|<span class="rank-name-pd">ROUND</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88035?s_seq=88035">BAR ROUND</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|80|344|<span class="rank-name-pd">ごんちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|81|319|<span class="rank-name-pd">まかろん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|10|923|<span class="rank-name-pd">雑魚ん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|11|922|<span class="rank-name-pd">SHIGE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|12|914|<span class="rank-name-pd">おきたし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|13|900|<span class="rank-name-pd"><span class="pro-icon-pd"></span>山口 博生</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|14|883|<span class="rank-name-pd">さほちん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|15|861|<span class="rank-name-pd">小坂 拓也@THe END用</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|16|852|<span class="rank-name-pd"><span class="pro-icon-pd"></span>渡辺 靖崇</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|17|841|<span class="rank-name-pd">FIO ONLINE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|18|840|<span class="rank-name-pd">MIYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|19|835|<span class="rank-name-pd">IMAO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|20|831|<span class="rank-name-pd">かんち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|21|828|<span class="rank-name-pd">ざぁしん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|22|827|<span class="rank-name-pd">ジョンコナー☆fio</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|23|808|<span class="rank-name-pd">ゆたし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|24|807|<span class="rank-name-pd">特殊零部隊☆零八</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|25|806|<span class="rank-name-pd">つある。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|26|800|<span class="rank-name-pd">くっすぃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|27|795|<span class="rank-name-pd">East</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|28|785|<span class="rank-name-pd">#ya$uu# No.８</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|29|781|<span class="rank-name-pd">S</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|30|770|<span class="rank-name-pd">ぎんぎんまる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|31|769|<span class="rank-name-pd">まいまい☺︎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|32|761|<span class="rank-name-pd">mooTaka -Anpiece-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|33|754|<span class="rank-name-pd">ゆう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|34|752|<span class="rank-name-pd">ぽっきー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|35|744|<span class="rank-name-pd">mooTaka -Anpiece-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|36|738|<span class="rank-name-pd">REINA^^</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|37|733|<span class="rank-name-pd">ごーき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|38|732|<span class="rank-name-pd">saho</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|39|729|<span class="rank-name-pd">かね</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|40|728|<span class="rank-name-pd">入江健太のお干んぽ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|41|721|<span class="rank-name-pd">RYO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|42|712|<span class="rank-name-pd">あさだ氏@ AST</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|43|710|<span class="rank-name-pd">SIN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|44|707|<span class="rank-name-pd">Kei. 1209</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|44|707|<span class="rank-name-pd">Roiasha</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|44|707|<span class="rank-name-pd">ホリエモン❤︎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|47|700|<span class="rank-name-pd">しゅん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|48|698|<span class="rank-name-pd">fumiya</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|49|687|<span class="rank-name-pd">いまさらジロー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|50|685|<span class="rank-name-pd">tatsubon</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|51|677|<span class="rank-name-pd">DADA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|51|677|<span class="rank-name-pd">KIKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|53|672|<span class="rank-name-pd"><span class="pro-icon-pd"></span>渡辺 靖崇</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|54|662|<span class="rank-name-pd">SHIN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|55|630|<span class="rank-name-pd">特殊零部隊☆零八</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|56|624|<span class="rank-name-pd">なか</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|56|624|<span class="rank-name-pd">ナベカズ鬼の如し</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|58|623|<span class="rank-name-pd">FUMIYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|59|622|<span class="rank-name-pd">yaSuu SC</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|60|616|<span class="rank-name-pd">take-48</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|61|600|<span class="rank-name-pd">KEITH</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|62|586|<span class="rank-name-pd">Kaori★BAR END</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|62|586|<span class="rank-name-pd">卍Ko-ki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|64|584|<span class="rank-name-pd">MT9303</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|65|583|<span class="rank-name-pd">☆michi☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|66|579|<span class="rank-name-pd">Adounasha</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|67|564|<span class="rank-name-pd">hori＊Junky&#x27;s＊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|68|544|<span class="rank-name-pd">RYOGA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|69|541|<span class="rank-name-pd">MI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|70|540|<span class="rank-name-pd">SIN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|71|529|<span class="rank-name-pd">pele pele</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|72|526|<span class="rank-name-pd">まかろん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88035?s_seq=88035">BAR ROUND</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|73|517|<span class="rank-name-pd">TAKE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|74|503|<span class="rank-name-pd">hana</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|75|495|<span class="rank-name-pd">___nh86</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|76|490|<span class="rank-name-pd">宮</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|77|481|<span class="rank-name-pd">ニバン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|78|467|<span class="rank-name-pd">おーいお茶2nd</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|79|456|<span class="rank-name-pd">すすす</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|80|429|<span class="rank-name-pd">まっちゃラテ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88035?s_seq=88035">BAR ROUND</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|81|427|<span class="rank-name-pd">ぽち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|82|400|<span class="rank-name-pd">みさ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|83|395|<span class="rank-name-pd">haru</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|84|385|<span class="rank-name-pd">やま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|85|376|<span class="rank-name-pd">ぎんぎんまる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88035?s_seq=88035">BAR ROUND</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|86|353|<span class="rank-name-pd">ROUND</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88035?s_seq=88035">BAR ROUND</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|87|345|<span class="rank-name-pd">takuan</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88035?s_seq=88035">BAR ROUND</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|88|344|<span class="rank-name-pd">ごんちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|89|319|<span class="rank-name-pd">まかろん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|90|265|<span class="rank-name-pd">かふぇらて</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88035?s_seq=88035">BAR ROUND</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|91|237|<span class="rank-name-pd">0253 9804</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
 
 
 #### DARTSLIVE TOP 100
@@ -132,78 +142,88 @@ ___
 |7|934|<span class="rank-name-pd">八代　スーザン　寛</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
 |8|929|<span class="rank-name-pd">えんがわ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
 |9|927|<span class="rank-name-pd">田舎のバッジョ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|10|922|<span class="rank-name-pd">SHIGE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|11|914|<span class="rank-name-pd">おきたし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|12|900|<span class="rank-name-pd"><span class="pro-icon-pd"></span>山口 博生</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|13|861|<span class="rank-name-pd">小坂 拓也@THe END用</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|14|852|<span class="rank-name-pd"><span class="pro-icon-pd"></span>渡辺 靖崇</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|15|841|<span class="rank-name-pd">FIO ONLINE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|16|840|<span class="rank-name-pd">MIYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|17|835|<span class="rank-name-pd">IMAO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|18|828|<span class="rank-name-pd">ざぁしん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|19|827|<span class="rank-name-pd">ジョンコナー☆fio</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|20|808|<span class="rank-name-pd">ゆたし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|21|807|<span class="rank-name-pd">特殊零部隊☆零八</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|22|806|<span class="rank-name-pd">つある。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|23|800|<span class="rank-name-pd">くっすぃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|24|795|<span class="rank-name-pd">East</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|25|785|<span class="rank-name-pd">#ya$uu# No.８</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|26|782|<span class="rank-name-pd">さほちん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|27|781|<span class="rank-name-pd">S</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|28|770|<span class="rank-name-pd">ぎんぎんまる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|29|769|<span class="rank-name-pd">まいまい☺︎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|30|761|<span class="rank-name-pd">mooTaka -Anpiece-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|31|754|<span class="rank-name-pd">ゆう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|32|752|<span class="rank-name-pd">ぽっきー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|33|744|<span class="rank-name-pd">mooTaka -Anpiece-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|34|738|<span class="rank-name-pd">REINA^^</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|35|733|<span class="rank-name-pd">ごーき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|36|732|<span class="rank-name-pd">saho</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|37|729|<span class="rank-name-pd">かね</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|38|728|<span class="rank-name-pd">入江健太のお干んぽ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|39|721|<span class="rank-name-pd">RYO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|40|712|<span class="rank-name-pd">あさだ氏@ AST</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|41|710|<span class="rank-name-pd">SIN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|42|707|<span class="rank-name-pd">Kei. 1209</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|42|707|<span class="rank-name-pd">Roiasha</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|42|707|<span class="rank-name-pd">ホリエモン❤︎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|45|700|<span class="rank-name-pd">しゅん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|46|687|<span class="rank-name-pd">いまさらジロー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|47|685|<span class="rank-name-pd">tatsubon</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|48|677|<span class="rank-name-pd">DADA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|49|662|<span class="rank-name-pd">SHIN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|50|639|<span class="rank-name-pd">KIKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|51|631|<span class="rank-name-pd">かんち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|52|630|<span class="rank-name-pd">特殊零部隊☆零八</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|53|624|<span class="rank-name-pd">なか</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|53|624|<span class="rank-name-pd">ナベカズ鬼の如し</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|55|623|<span class="rank-name-pd">FUMIYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|56|622|<span class="rank-name-pd">yaSuu SC</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|57|616|<span class="rank-name-pd">take-48</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|58|600|<span class="rank-name-pd">KEITH</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|59|586|<span class="rank-name-pd">卍Ko-ki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|60|584|<span class="rank-name-pd">MT9303</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|61|583|<span class="rank-name-pd">☆michi☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|62|579|<span class="rank-name-pd">Adounasha</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|63|564|<span class="rank-name-pd">hori＊Junky&#x27;s＊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|64|544|<span class="rank-name-pd">RYOGA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|65|541|<span class="rank-name-pd">MI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|66|540|<span class="rank-name-pd">SIN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|67|529|<span class="rank-name-pd">pele pele</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|68|526|<span class="rank-name-pd">まかろん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88035?s_seq=88035">BAR ROUND</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|69|517|<span class="rank-name-pd">TAKE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|70|503|<span class="rank-name-pd">hana</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|71|495|<span class="rank-name-pd">___nh86</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|72|490|<span class="rank-name-pd">宮</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|73|467|<span class="rank-name-pd">おーいお茶2nd</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|74|456|<span class="rank-name-pd">すすす</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|75|427|<span class="rank-name-pd">ぽち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|76|400|<span class="rank-name-pd">みさ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|77|395|<span class="rank-name-pd">haru</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|78|385|<span class="rank-name-pd">やま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|79|353|<span class="rank-name-pd">ROUND</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88035?s_seq=88035">BAR ROUND</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|80|344|<span class="rank-name-pd">ごんちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
-|81|319|<span class="rank-name-pd">まかろん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|10|923|<span class="rank-name-pd">雑魚ん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|11|922|<span class="rank-name-pd">SHIGE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|12|914|<span class="rank-name-pd">おきたし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|13|900|<span class="rank-name-pd"><span class="pro-icon-pd"></span>山口 博生</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|14|883|<span class="rank-name-pd">さほちん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|15|861|<span class="rank-name-pd">小坂 拓也@THe END用</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|16|852|<span class="rank-name-pd"><span class="pro-icon-pd"></span>渡辺 靖崇</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|17|841|<span class="rank-name-pd">FIO ONLINE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|18|840|<span class="rank-name-pd">MIYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|19|835|<span class="rank-name-pd">IMAO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|20|831|<span class="rank-name-pd">かんち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|21|828|<span class="rank-name-pd">ざぁしん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|22|827|<span class="rank-name-pd">ジョンコナー☆fio</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|23|808|<span class="rank-name-pd">ゆたし</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|24|807|<span class="rank-name-pd">特殊零部隊☆零八</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|25|806|<span class="rank-name-pd">つある。</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|26|800|<span class="rank-name-pd">くっすぃ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|27|795|<span class="rank-name-pd">East</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|28|785|<span class="rank-name-pd">#ya$uu# No.８</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|29|781|<span class="rank-name-pd">S</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|30|770|<span class="rank-name-pd">ぎんぎんまる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|31|769|<span class="rank-name-pd">まいまい☺︎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|32|761|<span class="rank-name-pd">mooTaka -Anpiece-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|33|754|<span class="rank-name-pd">ゆう</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|34|752|<span class="rank-name-pd">ぽっきー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|35|744|<span class="rank-name-pd">mooTaka -Anpiece-</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|36|738|<span class="rank-name-pd">REINA^^</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|37|733|<span class="rank-name-pd">ごーき</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|38|732|<span class="rank-name-pd">saho</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|39|729|<span class="rank-name-pd">かね</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|40|728|<span class="rank-name-pd">入江健太のお干んぽ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|41|721|<span class="rank-name-pd">RYO</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|42|712|<span class="rank-name-pd">あさだ氏@ AST</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|43|710|<span class="rank-name-pd">SIN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|44|707|<span class="rank-name-pd">Kei. 1209</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|44|707|<span class="rank-name-pd">Roiasha</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|44|707|<span class="rank-name-pd">ホリエモン❤︎</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|47|700|<span class="rank-name-pd">しゅん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|48|698|<span class="rank-name-pd">fumiya</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|49|687|<span class="rank-name-pd">いまさらジロー</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|50|685|<span class="rank-name-pd">tatsubon</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|51|677|<span class="rank-name-pd">DADA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|51|677|<span class="rank-name-pd">KIKI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|53|672|<span class="rank-name-pd"><span class="pro-icon-pd"></span>渡辺 靖崇</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|54|662|<span class="rank-name-pd">SHIN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|55|630|<span class="rank-name-pd">特殊零部隊☆零八</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|56|624|<span class="rank-name-pd">なか</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|56|624|<span class="rank-name-pd">ナベカズ鬼の如し</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|58|623|<span class="rank-name-pd">FUMIYA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|59|622|<span class="rank-name-pd">yaSuu SC</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|60|616|<span class="rank-name-pd">take-48</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|61|600|<span class="rank-name-pd">KEITH</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|62|586|<span class="rank-name-pd">Kaori★BAR END</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|62|586|<span class="rank-name-pd">卍Ko-ki</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|64|584|<span class="rank-name-pd">MT9303</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|65|583|<span class="rank-name-pd">☆michi☆</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|66|579|<span class="rank-name-pd">Adounasha</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|67|564|<span class="rank-name-pd">hori＊Junky&#x27;s＊</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|68|544|<span class="rank-name-pd">RYOGA</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|69|541|<span class="rank-name-pd">MI</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|70|540|<span class="rank-name-pd">SIN</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|71|529|<span class="rank-name-pd">pele pele</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|72|526|<span class="rank-name-pd">まかろん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88035?s_seq=88035">BAR ROUND</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|73|517|<span class="rank-name-pd">TAKE</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|74|503|<span class="rank-name-pd">hana</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|75|495|<span class="rank-name-pd">___nh86</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|76|490|<span class="rank-name-pd">宮</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|77|481|<span class="rank-name-pd">ニバン</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|78|467|<span class="rank-name-pd">おーいお茶2nd</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|79|456|<span class="rank-name-pd">すすす</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|80|429|<span class="rank-name-pd">まっちゃラテ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88035?s_seq=88035">BAR ROUND</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|81|427|<span class="rank-name-pd">ぽち</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|82|400|<span class="rank-name-pd">みさ</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|83|395|<span class="rank-name-pd">haru</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|84|385|<span class="rank-name-pd">やま</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|85|376|<span class="rank-name-pd">ぎんぎんまる</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88035?s_seq=88035">BAR ROUND</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|86|353|<span class="rank-name-pd">ROUND</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88035?s_seq=88035">BAR ROUND</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|87|345|<span class="rank-name-pd">takuan</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88035?s_seq=88035">BAR ROUND</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|88|344|<span class="rank-name-pd">ごんちゃん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|89|319|<span class="rank-name-pd">まかろん</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_80579?s_seq=80579">スポーツBAR フィオ</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|90|265|<span class="rank-name-pd">かふぇらて</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_88035?s_seq=88035">BAR ROUND</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
+|91|237|<span class="rank-name-pd">0253 9804</span>|<a href="https://vs.phoenixdarts.com/jp/shop/shopDetailInfo/s_8721?s_seq=8721">バルエンド</a>|<a href="/darts/rank/長野県/飯山市">長野県飯山市</a>|
 
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
